@@ -326,16 +326,15 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 </div>
 
 <nav class="tabs" id="nav">
-  <a href="#eventos">🎪 Eventos</a>
   <a href="#loteria" class="active">🎰 Lotería</a>
-  <a href="#radio">💬 Chat</a>
-  <a href="#tendencias">📈 Tendencias</a>
-  <a href="#noticias">📰 Noticias</a>
-  <a href="#tiempo">🌤️ Tiempo</a>
-  <a href="#divisas">💵 Divisas</a>
-  <a href="#economia">📊 Economía</a>
   <a href="#mlb">⚾ MLB</a>
   <a href="#traductor">🔤 Traductor</a>
+  <a href="#tiempo">🌤️ Tiempo</a>
+  <a href="#noticias">📰 Noticias</a>
+  <a href="#tendencias">📈 Tendencias</a>
+  <a href="#divisas">💵 Divisas</a>
+  <a href="#economia">📊 Economía</a>
+  <a href="#eventos">🎪 Eventos</a>
   <a href="#compras">🛒 Compras</a>
   <a href="#enlaces">🔗 Enlaces</a>
 </nav>
@@ -349,54 +348,11 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
     </p>
   </section>
 
-  <section id="eventos">
-    <h2 class="sect"><span class="bar"></span> Eventos en RD <span class="meta" id="eventos-updated"></span></h2>
-    <div class="eventos-grid" id="eventos-grid"><p style="color:var(--muted)">Cargando eventos…</p></div>
-  </section>
-
   <section id="loteria">
     <h2 class="sect"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
     <div class="loteria-grid" id="loteria-grid"><p style="color:var(--muted)">Cargando resultados…</p>
       <noscript>Resultados de lotería: Lotería Nacional, Lotería Real, Anguila, Loteka, La Primera, La Suerte y Leidsa.</noscript>
     </div>
-  </section>
-
-  <section id="radio">
-    <h2 class="sect"><span class="bar"></span> Chat en vivo <span class="meta" id="chat-status">conectando…</span></h2>
-    <div class="chat-box" id="chat-box">
-      <div class="chat-msgs" id="chat-msgs"><p style="color:var(--muted)">Conectando al chat…</p></div>
-      <div class="chat-input-row">
-        <input type="text" id="chat-user" placeholder="Tu nombre" maxlength="24" style="width:88px;flex:0 0 auto">
-        <input type="text" id="chat-input" placeholder="Escribe un mensaje…" maxlength="400">
-        <button id="chat-send">Enviar</button>
-      </div>
-    </div>
-  </section>
-
-  <section id="tendencias">
-    <h2 class="sect"><span class="bar"></span> Tendencias en Google (RD) <span class="meta" id="tendencias-updated"></span></h2>
-    <div class="tendencias-list" id="tendencias-list"><p style="color:var(--muted)">Cargando tendencias…</p></div>
-  </section>
-
-  <section id="noticias">
-    <h2 class="sect"><span class="bar"></span> Noticias <span class="meta" id="noticias-updated"></span></h2>
-    <div class="news-list" id="noticias-list"><p style="color:var(--muted)">Cargando noticias…</p></div>
-  </section>
-
-  <section id="tiempo">
-    <h2 class="sect"><span class="bar"></span> Tiempo</h2>
-    <div id="weather-hero"></div>
-    <div class="weather-grid" id="weather-grid"></div>
-  </section>
-
-  <section id="divisas">
-    <h2 class="sect"><span class="bar"></span> Tipo de cambio <span class="meta" id="divisas-updated"></span></h2>
-    <div class="divisas-grid" id="divisas-grid"><p style="color:var(--muted)">Cargando…</p></div>
-  </section>
-
-  <section id="economia">
-    <h2 class="sect"><span class="bar"></span> Economía de RD <span class="meta" id="economia-updated"></span></h2>
-    <div class="econ-grid" id="economia-grid"><p style="color:var(--muted)">Cargando…</p></div>
   </section>
 
   <section id="mlb">
@@ -416,6 +372,37 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       </div>
       <div class="out" id="tr-out"></div>
     </div>
+  </section>
+
+  <section id="tiempo">
+    <h2 class="sect"><span class="bar"></span> Tiempo</h2>
+    <div id="weather-hero"></div>
+    <div class="weather-grid" id="weather-grid"></div>
+  </section>
+
+  <section id="noticias">
+    <h2 class="sect"><span class="bar"></span> Noticias <span class="meta" id="noticias-updated"></span></h2>
+    <div class="news-list" id="noticias-list"><p style="color:var(--muted)">Cargando noticias…</p></div>
+  </section>
+
+  <section id="tendencias">
+    <h2 class="sect"><span class="bar"></span> Tendencias en Google (RD) <span class="meta" id="tendencias-updated"></span></h2>
+    <div class="tendencias-list" id="tendencias-list"><p style="color:var(--muted)">Cargando tendencias…</p></div>
+  </section>
+
+  <section id="divisas">
+    <h2 class="sect"><span class="bar"></span> Tipo de cambio <span class="meta" id="divisas-updated"></span></h2>
+    <div class="divisas-grid" id="divisas-grid"><p style="color:var(--muted)">Cargando…</p></div>
+  </section>
+
+  <section id="economia">
+    <h2 class="sect"><span class="bar"></span> Economía de RD <span class="meta" id="economia-updated"></span></h2>
+    <div class="econ-grid" id="economia-grid"><p style="color:var(--muted)">Cargando…</p></div>
+  </section>
+
+  <section id="eventos">
+    <h2 class="sect"><span class="bar"></span> Eventos en RD <span class="meta" id="eventos-updated"></span></h2>
+    <div class="eventos-grid" id="eventos-grid"><p style="color:var(--muted)">Cargando eventos…</p></div>
   </section>
 
   <section id="compras">
@@ -904,65 +891,8 @@ if ('serviceWorker' in navigator) {
     }).catch(() => {});
 })();
 
-// ---- Chat en vivo (WebSocket) ----
-(function(){
-  const CHAT_URL = 'ws://' + location.hostname + ':8765/ws?room=radio';
-  const box = document.getElementById('chat-msgs');
-  const status = document.getElementById('chat-status');
-  const input = document.getElementById('chat-input');
-  const userIn = document.getElementById('chat-user');
-  const sendBtn = document.getElementById('chat-send');
-  let ws = null;
-  let userName = localStorage.getItem('chat-user') || '';
-  userIn.value = userName;
+// ---- Chat en vivo (WebSocket) — eliminado (sin sección) ----
 
-  function addMsg(user, text, own){
-    const el = document.createElement('div');
-    el.className = 'cmsg ' + (own ? 'own' : 'other');
-    el.innerHTML = '<div class="u">' + escapeHtml(user) + '</div><div class="t">' + escapeHtml(text) + '</div>';
-    box.appendChild(el);
-    box.scrollTop = box.scrollHeight;
-  }
-  function escapeHtml(s){
-    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  }
-  function setStatus(t, ok){
-    status.textContent = t;
-    status.style.color = ok ? 'var(--green)' : 'var(--red)';
-  }
-
-  function connect(){
-    setStatus('conectando…', false);
-    try { ws = new WebSocket(CHAT_URL); } catch(e){ setStatus('sin conexión', false); return; }
-    ws.onopen = () => setStatus('en vivo', true);
-    ws.onmessage = (e) => {
-      try {
-        const m = JSON.parse(e.data);
-        if (m.type === 'msg') addMsg(m.user, m.text, false);
-      } catch(err){}
-    };
-    ws.onclose = () => { setStatus('reconectando…', false); setTimeout(connect, 3000); };
-    ws.onerror = () => {};
-  }
-
-  function send(){
-    const text = input.value.trim();
-    if (!text) return;
-    const u = userIn.value.trim() || 'Anónimo';
-    localStorage.setItem('chat-user', u);
-    if (ws && ws.readyState === WebSocket.OPEN){
-      ws.send(JSON.stringify({user: u, text: text}));
-      addMsg(u, text, true);
-      input.value = '';
-    } else {
-      setStatus('sin conexión', false);
-    }
-  }
-  sendBtn.addEventListener('click', send);
-  input.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
-
-  connect();
-})();
 
 // ---- Chatbot asistente (intenciones) ----
 (function(){
@@ -1074,10 +1004,10 @@ if ('serviceWorker' in navigator) {
       return '🛒 Las tiendas en línea (Amazon, Temu, Shein…) están en la sección Compras. Te llevo.';
     }
 
-    // chat en vivo
-    if (/(chatear|chat|conversar|hablar con)/.test(t)){
-      scrollTo('radio');
-      return '💬 El chat en vivo está en la sección Chat. Te llevo.';
+    // eventos
+    if (/(evento|eventos|concierto|conciertos|festival)/.test(t)){
+      scrollTo('eventos');
+      return '🎪 Los eventos y conciertos en RD están en la sección Eventos. Te llevo.';
     }
 
     // lotería (por defecto, buscar juego)
