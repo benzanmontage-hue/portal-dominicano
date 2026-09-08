@@ -180,6 +180,20 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .divisas-extra{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;grid-column:1/-1}
 @media(max-width:600px){.divisas-grid{grid-template-columns:repeat(3,1fr)}.divisas-extra{grid-template-columns:repeat(3,1fr)}.divisa .valor{font-size:1rem}.divisa .mon{font-size:.64rem}}
 
+/* ---- Economía ---- */
+.econ-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.econ{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
+.econ:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.econ .e-ico{font-size:1.3rem;line-height:1;margin-bottom:8px}
+.econ .e-nom{font-size:.76rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.econ .e-val{font-size:1.7rem;font-weight:900;color:var(--azul2);letter-spacing:-.02em;font-variant-numeric:tabular-nums;margin:3px 0}
+.econ .e-val .u{font-size:.8rem;color:var(--muted);font-weight:700;margin-left:4px}
+.econ .e-ano{font-size:.7rem;color:var(--muted);font-weight:600;margin-bottom:8px}
+.econ .e-hist{display:flex;align-items:flex-end;gap:4px;height:32px}
+.econ .e-hist .barra{flex:1;background:linear-gradient(180deg,var(--azul2),var(--azul));border-radius:3px 3px 0 0;min-height:3px;opacity:.85;transition:opacity .15s}
+.econ .e-hist .barra:hover{opacity:1}
+.econ .e-hist .barra.last{background:linear-gradient(180deg,var(--rojo2),var(--rojo))}
+
 /* ---- MLB ---- */
 .mlb-grid{display:flex;flex-direction:column;gap:10px}
 .mlb-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);transition:transform .18s}
@@ -312,6 +326,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
   <a href="#noticias">📰 Noticias</a>
   <a href="#tiempo">🌤️ Tiempo</a>
   <a href="#divisas">💵 Divisas</a>
+  <a href="#economia">📊 Economía</a>
   <a href="#mlb">⚾ MLB</a>
   <a href="#traductor">🔤 Traductor</a>
   <a href="#compras">🛒 Compras</a>
@@ -364,6 +379,11 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
   <section id="divisas">
     <h2 class="sect"><span class="bar"></span> Tipo de cambio <span class="meta" id="divisas-updated"></span></h2>
     <div class="divisas-grid" id="divisas-grid"><p style="color:var(--muted)">Cargando…</p></div>
+  </section>
+
+  <section id="economia">
+    <h2 class="sect"><span class="bar"></span> Economía de RD <span class="meta" id="economia-updated"></span></h2>
+    <div class="econ-grid" id="economia-grid"><p style="color:var(--muted)">Cargando…</p></div>
   </section>
 
   <section id="mlb">
@@ -657,6 +677,34 @@ fetch('data/divisas.json?v=' + Date.now())
     }
   })
   .catch(() => { document.getElementById('divisas-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las divisas.</p>'; });
+
+// ---- Economía ----
+const econIcos = {'desempleo':'👷','deuda_ext':'💰','pib_pc':'📈','inflacion':'🔥'};
+fetch('data/economia.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('economia-updated').textContent = 'Fuente: Banco Mundial';
+    const grid = document.getElementById('economia-grid');
+    grid.innerHTML = '';
+    d.indicadores.forEach(ind => {
+      const el = document.createElement('div');
+      el.className = 'econ';
+      const u = ind.ultimo ? ind.ultimo.valor : '—';
+      const ano = ind.ultimo ? ind.ultimo.año : '';
+      // mini gráfico de barras (historial invertido: más antiguo a más reciente)
+      const hist = ind.historial.slice().reverse();
+      let barras = '';
+      if (hist.length > 1){
+        const max = Math.max(...hist.map(h => h.valor)) || 1;
+        hist.forEach((h, i) => {
+          const hPct = Math.max(8, Math.round((h.valor / max) * 100));
+          barras += '<div class="barra' + (i === hist.length - 1 ? ' last' : '') + '" style="height:' + hPct + '%" title="' + h.año + ': ' + h.valor + '"></div>';
+        });
+      }
+      el.innerHTML = '<div class="e-ico">' + (econIcos[ind.clave] || '📊') + '</div><div class="e-nom">' + ind.nombre + '</div><div class="e-val">' + u + '<span class="u">' + ind.unidad + '</span></div><div class="e-ano">' + (ano ? 'Año ' + ano : '') + '</div><div class="e-hist">' + barras + '</div>';
+      grid.appendChild(el);
+    });
+  })
+  .catch(() => { document.getElementById('economia-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los datos.</p>'; });
 
 // ---- MLB ----
 function mlbDate(){

@@ -14,6 +14,7 @@ SCRIPTS = [
     "scripts/scrape_radio.py",
     "scripts/scrape_noticias.py",
     "scripts/scrape_divisas.py",
+    "scripts/scrape_economia.py",
 ]
 
 
