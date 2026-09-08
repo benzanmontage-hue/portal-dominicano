@@ -550,7 +550,7 @@ fetch('data/noticias.json?v=' + Date.now())
     const list = document.getElementById('noticias-list');
     list.innerHTML = '';
     const colores = ['#0a5bbf','#d90429','#0d7a4f','#7c3aed','#b45309','#0e7490','#be185d','#1d4ed8'];
-    d.noticias.forEach((n, i) => {
+    d.noticias.slice(0, 10).forEach((n, i) => {
       const a = document.createElement('a');
       a.className = 'news' + (i === 0 ? ' featured' : '');
       a.href = n.enlace;
