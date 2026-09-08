@@ -1,0 +1,285 @@
+{
+  "total": 40,
+  "emisoras": [
+    {
+      "nombre": "La Bakana 105.9 FM",
+      "url": "https://stream-291.surfernetwork.com/f3nffca3jsfuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmM25mZmNhM2pzZnV2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJmZTFBQ0hmWlNyT1p5WmpPY3FibGpRIiwiaWF0IjoxNzg3MzAzNTIwLCJleHAiOjE3ODczMDM1ODB9.0kBQZvNapeKeGrb2PW2D_iUNxpLRV4gB2Mp57WBgMME",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": ""
+    },
+    {
+      "nombre": "Disco 106.1",
+      "url": "https://radiordomi.com/8118/stream",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "Dominicana FM 98.9 y 99.9 FM",
+      "url": "https://protvradiostream.com:8610/;",
+      "codec": "MP3",
+      "bitrate": 256,
+      "favicon": "https://dominicanafmrd.com/wp-content/uploads/2022/08/cropped-DFM-32x32.png"
+    },
+    {
+      "nombre": "Amor FM 91.9",
+      "url": "http://radio.domiplay.net:9190/;",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": "https://amorfm91.com/imgs/amorfm/favicon.ico"
+    },
+    {
+      "nombre": "La Rocka 91.7",
+      "url": "http://5.135.183.124:8243/;stream/1",
+      "codec": "MP3",
+      "bitrate": 96,
+      "favicon": ""
+    },
+    {
+      "nombre": "La Rocka 91.7",
+      "url": "http://5.135.183.124:8243/",
+      "codec": "MP3",
+      "bitrate": 96,
+      "favicon": ""
+    },
+    {
+      "nombre": "La Nueva 106.9 FM",
+      "url": "https://lanueva106.radioca.st/stream/1/",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": "https://www.lanueva106.com/wp-content/uploads/2022/01/8dcc9c61-1691-4bdf-9287-2b5b25c6032e.png"
+    },
+    {
+      "nombre": "Escandalo 102.5",
+      "url": "https://stream-291.zeno.fm/iwqlyzpyry1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd3FseXpweXJ5MXV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikl5N0ZoYlJSU0d1UFdLbFhtRjZEUHciLCJpYXQiOjE3Nzk0NjA3NDAsImV4cCI6MTc3OTQ2MDgwMH0.X9jLonVgmfxbXfLYWcMrM3Ybvfve6OE2cLmt-0wKQ4s",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://escandalofm.com/img/logo-radio.png"
+    },
+    {
+      "nombre": "BE 99.7",
+      "url": "https://stream1.rcast.net/61186",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": "https://be997.com/wp-content/uploads/2016/05/logoBe997@2x.png"
+    },
+    {
+      "nombre": "Canal 105.1 FM",
+      "url": "https://stream.zeno.fm/b94afcu8na0uv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "http://canal105.com/wp-content/uploads/2015/04/clogo.png"
+    },
+    {
+      "nombre": "Comando 88 FM Santiago",
+      "url": "http://rgradio.net:8044/comando88",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "favicon": "https://www.comando88fm.com/themes/comando88/assets/img/fav.png"
+    },
+    {
+      "nombre": "Bendicion95.1 FM",
+      "url": "https://sp.unoredcdn.net/8054/stream",
+      "codec": "MP3",
+      "bitrate": 320,
+      "favicon": "https://www.ministeriobendicion.com/wp-content/uploads/2021/03/LOGO-BENDICION.png"
+    },
+    {
+      "nombre": "Criolla 106.1 FM",
+      "url": "https://streaming.grupomediosdelnorte.com:8002/stream",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": "https://criolla106fm.com/Criolla100.png"
+    },
+    {
+      "nombre": "Bachata Radio",
+      "url": "http://radio.domiplay.net:8002/;",
+      "codec": "MP3",
+      "bitrate": 64,
+      "favicon": "https://cdn.webrad.io/images/logos/radios-com-do/bachata-dominicana.png"
+    },
+    {
+      "nombre": "Top Bachata Radio",
+      "url": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "Top Bachata Radio",
+      "url": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "570 AM Radio Crystal",
+      "url": "https://stream.zeno.fm/fu9hfhw8na0uv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://i.imgur.com/XMkAxbX.png"
+    },
+    {
+      "nombre": "710 AM Radio Nacional Cristiana (RD)",
+      "url": "https://node-09.zeno.fm/03yn1w98swzuv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://i.imgur.com/0nMbJ4M.png"
+    },
+    {
+      "nombre": "810 AM Radio Salvación Internacional (RD)",
+      "url": "http://ph1.ministeriotv.com:8031/salvacion.mp3",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": "https://i.imgur.com/PZ0qMsY.jpg"
+    },
+    {
+      "nombre": "Abdulbasit Abdulsamad",
+      "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "codec": "AAC",
+      "bitrate": 64,
+      "favicon": "null"
+    },
+    {
+      "nombre": "Air Romana Radio",
+      "url": "https://stream.radiojar.com/4ggz3rkd838uv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://static.wixstatic.com/media/356ad5_5d1c2504ac95419ab6ae071a3dcf6b69~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/356ad5_5d1c2504ac95419ab6ae071a3dcf6b69~mv2.png"
+    },
+    {
+      "nombre": "Artistas del Ayer",
+      "url": "https://streamfgh.com:8285/;",
+      "codec": "MP3",
+      "bitrate": 160,
+      "favicon": "http://delayerfm.com/images/logo-artistas.png"
+    },
+    {
+      "nombre": "Azul Radio",
+      "url": "http://radio.domiplay.net:9300/;",
+      "codec": "MP3",
+      "bitrate": 80,
+      "favicon": "https://domiplay.net/imgs/isotipo.svg"
+    },
+    {
+      "nombre": "Azúcar 89.1 FM",
+      "url": "https://visual.alexmer.com:8068/stream",
+      "codec": "MP3",
+      "bitrate": 96,
+      "favicon": "https://cdn-radiotime-logos.tunein.com/s134497g.png"
+    },
+    {
+      "nombre": "BUEN PASTOR RADIO",
+      "url": "https://c22.radioboss.fm:8394/stream",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "favicon": "https://buenpastoradio.blogspot.com/favicon.ico"
+    },
+    {
+      "nombre": "Bachata Hits",
+      "url": "https://stream.zeno.fm/prbf8rrgvzzuv",
+      "codec": "AAC",
+      "bitrate": 0,
+      "favicon": "https://radio.clasificadosya.com/wp-content/uploads/2026/04/1771962827217-300x300.png"
+    },
+    {
+      "nombre": "Bravisima fm",
+      "url": "http://radio.hostlagarto.com/9924/stream",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "CDN Radio",
+      "url": "https://play.cdnradio.com.do/cdnlive",
+      "codec": "MP3",
+      "bitrate": 56,
+      "favicon": "https://i.imgur.com/NWVW9QV.png"
+    },
+    {
+      "nombre": "Caricias FM",
+      "url": "https://streamfgh.com:8915/;",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "Club Sabroso Radio",
+      "url": "http://s5.radio.co/s688b80b65/listen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "favicon": "https://www.clubsabrosoradioshow.com/favicon.ico"
+    },
+    {
+      "nombre": "DBS Radio",
+      "url": "https://stream.dbcradio.net:8005/live",
+      "codec": "MP3",
+      "bitrate": 96,
+      "favicon": "https://dbcradio.net/wp-content/uploads/2024/01/dbs_web_logo_dark.png"
+    },
+    {
+      "nombre": "Disco 88.9",
+      "url": "https://rgradio.net/disco89/disco89.mp3",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
+      "nombre": "Disco 89 88.9 FM",
+      "url": "https://rgradio.net/disco89/disco89.mp3",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": "https://disco89fm.com/themes/disco89/assets/img/logodiscoext.png"
+    },
+    {
+      "nombre": "ESTUDIO 97.9 FM",
+      "url": "http://paginas.moisespaulino.com:8067/stream",
+      "codec": "MP3",
+      "bitrate": 60,
+      "favicon": "https://cdn.onlineradiobox.com/img/l/2/34152.v7.png"
+    },
+    {
+      "nombre": "EXTASIS 89.5",
+      "url": "https://stream.zeno.fm/f7wt0ptjpn3vv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://imgur.com/a/EB8PGIr"
+    },
+    {
+      "nombre": "EXTASIS 89.5",
+      "url": "https://radio.hostlagarto.com/8070/stream",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ=="
+    },
+    {
+      "nombre": "EXTASIS 89.5",
+      "url": "https://stream.zeno.fm/f7wt0ptjpn3vv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://i.imgur.com/nl57h4x.png"
+    },
+    {
+      "nombre": "Especial 93.5 FM",
+      "url": "https://stream.zeno.fm/uhkv3smxuchvv",
+      "codec": "MP3",
+      "bitrate": 0,
+      "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F4d2dOWTbfQvm26YMeThBU5yVWfbZ8FhpQbAeqWhSsdc%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURndXFhYTh3c01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJNEpERm53c01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2ODIzOTU5OTAwMDA.webp&w=1920&q=70"
+    },
+    {
+      "nombre": "Estación 97.7 FM",
+      "url": "https://stream2.rcast.net/61187",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": "https://estacion977.com/assets/img/logoEstacion977_300_shd.png"
+    },
+    {
+      "nombre": "Estelar 106",
+      "url": "https://nexostream.net:8060/live",
+      "codec": "MP3",
+      "bitrate": 112,
+      "favicon": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png"
+    }
+  ]
+}

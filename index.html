@@ -3,130 +3,204 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portal Dominicano — Resultados de Lotería de Hoy, Tiempo y Más</title>
-<meta name="description" content="Resultados de hoy de Lotería Nacional, Real, Anguila, Loteka, La Primera, La Suerte y Leidsa. Tiempo, MLB y traductor. Todo en un solo lugar.">
-<link rel="canonical" href="https://benzandak.nl/portal-dominicano/">
-<meta property="og:title" content="Portal Dominicano — Resultados de Lotería de Hoy">
-<meta property="og:description" content="Lotería Nacional, Real, Anguila, Loteka, La Primera, La Suerte y Leidsa. Tiempo, MLB y más.">
+<title>Portal Dominicano — Resultados de Lotería, Tiempo, Radio y Más</title>
+<meta name="description" content="Resultados de hoy de Lotería Nacional, Real, Anguila, Loteka y más. Radio FM dominicana, tiempo, MLB y traductor. Todo en un solo lugar.">
+<link rel="canonical" href="https://benzanmontage-hue.github.io/portal-dominicano/">
+<meta property="og:title" content="Portal Dominicano — Todo lo que buscas en un solo lugar">
+<meta property="og:description" content="Lotería, radio, tiempo, MLB y más. República Dominicana.">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_DO">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
+<meta name="theme-color" content="#002d62">
 <meta name="robots" content="index,follow">
+<link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"Portal Dominicano","url":"https://benzandak.nl/portal-dominicano/","inLanguage":"es-DO"}
+{"@context":"https://schema.org","@type":"WebSite","name":"Portal Dominicano","url":"https://benzanmontage-hue.github.io/portal-dominicano/","inLanguage":"es-DO","countryOfOrigin":"DO"}
 </script>
 <style>
 :root{
-  --bg:#0e1420; --card:#161e2e; --card2:#1b2436; --border:#27334a;
-  --txt:#e8edf5; --muted:#8b98ad; --accent:#3b82f6; --accent2:#22d3ee;
-  --gold:#f5b942; --green:#22c55e; --red:#ef4444;
+  --azul:#002d62; --azul2:#0a4a8f; --rojo:#ce1126; --rojo2:#e8233b;
+  --blanco:#f5f7fb; --bg:#f2f5fa; --card:#ffffff; --border:#e2e8f0;
+  --txt:#0f1c33; --muted:#5b6b85; --gold:#f5b942;
+  --shadow:0 1px 3px rgba(15,28,51,.08),0 4px 14px rgba(15,28,51,.05);
+  --shadow-lg:0 10px 30px rgba(15,28,51,.12);
 }
 *{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
-.wrap{max-width:1060px;margin:0 auto;padding:16px}
-header{text-align:center;padding:24px 0 12px}
-header h1{font-size:1.7rem;font-weight:800;letter-spacing:-.02em}
-header h1 .flag{color:var(--accent2)}
-header .sub{color:var(--muted);font-size:.92rem;margin-top:4px}
-header .updated{display:inline-block;margin-top:8px;font-size:.78rem;color:var(--muted);background:var(--card);border:1px solid var(--border);padding:4px 10px;border-radius:20px}
-h2.sect{font-size:1.15rem;font-weight:700;margin:28px 0 12px;display:flex;align-items:center;gap:8px}
-h2.sect .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);display:inline-block}
-nav.tabs{display:flex;gap:8px;overflow-x:auto;padding:4px 0 12px;scrollbar-width:none;position:sticky;top:0;background:var(--bg);z-index:10;padding-top:8px}
+
+/* ---- Cabecera con bandera ---- */
+.hero{background:linear-gradient(135deg,var(--azul) 0%,var(--azul2) 45%,var(--rojo) 45.5%,var(--rojo2) 100%);color:#fff;padding:26px 16px 30px;text-align:center;position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 120%,rgba(255,255,255,.14),transparent 60%)}
+.hero .escudo{width:64px;height:64px;margin:0 auto 8px;display:block;filter:drop-shadow(0 2px 6px rgba(0,0,0,.3))}
+.hero h1{font-size:1.9rem;font-weight:900;letter-spacing:-.02em;line-height:1.1}
+.hero .lema{font-size:.8rem;letter-spacing:.22em;text-transform:uppercase;margin-top:6px;opacity:.85;font-weight:600}
+.hero .updated{display:inline-block;margin-top:12px;font-size:.76rem;background:rgba(255,255,255,.16);padding:5px 14px;border-radius:20px;backdrop-filter:blur(4px);font-weight:600}
+
+/* ---- Navegación sticky ---- */
+nav.tabs{position:sticky;top:0;z-index:50;background:var(--card);border-bottom:1px solid var(--border);display:flex;gap:4px;overflow-x:auto;padding:8px 12px;scrollbar-width:none;box-shadow:0 1px 8px rgba(15,28,51,.06)}
 nav.tabs::-webkit-scrollbar{display:none}
-nav.tabs a{flex:0 0 auto;padding:8px 16px;border-radius:24px;background:var(--card);border:1px solid var(--border);color:var(--muted);text-decoration:none;font-size:.88rem;font-weight:600;white-space:nowrap}
-nav.tabs a.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+nav.tabs a{flex:0 0 auto;padding:9px 16px;border-radius:22px;color:var(--muted);text-decoration:none;font-size:.88rem;font-weight:700;white-space:nowrap;transition:all .15s;border:1px solid transparent}
+nav.tabs a:hover{color:var(--azul)}
+nav.tabs a.active{background:linear-gradient(135deg,var(--azul),var(--rojo));color:#fff;box-shadow:var(--shadow)}
+
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px}
+
+/* ---- Secciones ---- */
+section{margin-bottom:14px}
+h2.sect{font-size:1.2rem;font-weight:800;margin:26px 0 12px;display:flex;align-items:center;gap:10px}
+h2.sect .bar{width:5px;height:22px;border-radius:3px;background:linear-gradient(var(--azul),var(--rojo))}
+h2.sect .meta{font-size:.78rem;color:var(--muted);font-weight:600;margin-left:auto}
+
+/* ---- Lotería ---- */
 .loteria-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
-.lot-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px;transition:border-color .15s}
-.lot-card:hover{border-color:var(--accent)}
-.lot-card .comp{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2)}
-.lot-card .game{font-size:.95rem;font-weight:700;margin-top:2px}
-.lot-card .nums{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
-.ball{min-width:34px;height:34px;padding:0 6px;display:inline-flex;align-items:center;justify-content:center;background:var(--card2);border:1px solid var(--border);border-radius:8px;font-weight:800;font-size:1.05rem;font-variant-numeric:tabular-nums}
-.ball.gold{background:var(--gold);color:#111;border-color:var(--gold)}
-.weather-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
-.w-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px;text-align:center}
-.w-card .city{font-weight:700;font-size:.95rem}
-.w-card .temp{font-size:2rem;font-weight:800;margin:6px 0 2px}
-.w-card .desc{color:var(--muted);font-size:.82rem;text-transform:capitalize}
-.w-card .range{color:var(--muted);font-size:.78rem;margin-top:4px}
-.shortcuts{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
-.shortcut{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 10px;text-align:center;text-decoration:none;color:var(--txt);font-weight:600;font-size:.88rem;transition:border-color .15s}
+.lot-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:15px;box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s}
+.lot-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+.lot-card .comp{font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--rojo)}
+.lot-card .game{font-size:.98rem;font-weight:800;margin-top:3px}
+.lot-card .nums{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
+.ball{min-width:36px;height:36px;padding:0 7px;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#f7f9fc,#e9eef6);border:1px solid var(--border);border-radius:10px;font-weight:800;font-size:1.05rem;font-variant-numeric:tabular-nums;color:var(--txt)}
+.ball.gold{background:linear-gradient(180deg,#ffd76a,#f0b429);color:#4a2c00;border-color:#e6a800}
+
+/* ---- Tendencias ---- */
 .tendencias-list{display:flex;flex-direction:column;gap:10px}
-.tend{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start}
-.tend .rank{font-weight:800;font-size:1.1rem;color:var(--accent2);min-width:26px;text-align:center;line-height:1.4}
+.tend{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;display:flex;gap:14px;align-items:flex-start;box-shadow:var(--shadow);transition:transform .15s}
+.tend:hover{transform:translateX(3px)}
+.tend .rank{font-weight:900;font-size:1.25rem;color:var(--azul);min-width:30px;text-align:center;line-height:1.3}
+.tend .rank.hot{color:var(--rojo)}
 .tend .body{flex:1;min-width:0}
-.tend .term{font-weight:700;font-size:.98rem}
-.tend .term .traf{display:inline-block;margin-left:8px;font-size:.72rem;color:var(--gold);font-weight:700;background:rgba(245,185,66,.12);padding:2px 8px;border-radius:12px}
-.tend .noti{color:var(--muted);font-size:.82rem;margin-top:2px;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
-.tend .links{display:flex;gap:10px;margin-top:6px}
-.tend .links a{font-size:.78rem;color:var(--accent2);text-decoration:none;font-weight:600}
+.tend .term{font-weight:800;font-size:1rem}
+.tend .term .traf{display:inline-block;margin-left:8px;font-size:.7rem;color:#7a5200;font-weight:800;background:#fdf3d8;padding:3px 9px;border-radius:12px;border:1px solid #f5e3ad}
+.tend .noti{color:var(--muted);font-size:.82rem;margin-top:3px;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tend .links{display:flex;gap:12px;margin-top:7px}
+.tend .links a{font-size:.78rem;color:var(--azul2);text-decoration:none;font-weight:700}
 .tend .links a:hover{text-decoration:underline}
-.tend .thumb{width:52px;height:52px;border-radius:8px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
-@media(max-width:600px){.tend .thumb{width:42px;height:42px}}
-.shortcut:hover{border-color:var(--accent)}
-.shortcut .ico{font-size:1.4rem;display:block;margin-bottom:4px}
-.translator{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px}
-.translator textarea{width:100%;min-height:90px;background:var(--card2);border:1px solid var(--border);border-radius:8px;color:var(--txt);padding:10px;font-size:.95rem;resize:vertical;font-family:inherit}
-.translator .row{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
-.translator select,.translator button{padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--card2);color:var(--txt);font-size:.88rem}
-.translator button{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:700;cursor:pointer}
-.translator .out{background:var(--card2);border:1px solid var(--border);border-radius:8px;padding:10px;margin-top:10px;min-height:60px;font-size:.95rem;white-space:pre-wrap}
-footer{text-align:center;color:var(--muted);font-size:.75rem;padding:32px 0 24px;border-top:1px solid var(--border);margin-top:32px}
-footer a{color:var(--accent2)}
-@media(max-width:600px){header h1{font-size:1.4rem}.loteria-grid{grid-template-columns:1fr 1fr}}
+.tend .thumb{width:54px;height:54px;border-radius:10px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
+
+/* ---- Radio ---- */
+.radio-player{background:linear-gradient(135deg,var(--azul),var(--azul2));border-radius:16px;padding:18px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px}
+.radio-player .now{font-size:.78rem;opacity:.85;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+.radio-player .title{font-size:1.3rem;font-weight:800;margin:2px 0 14px}
+.radio-player .controls{display:flex;align-items:center;gap:14px}
+.btn-play{width:52px;height:52px;border-radius:50%;border:none;background:#fff;color:var(--azul);font-size:1.3rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:transform .1s;flex:0 0 auto}
+.btn-play:hover{transform:scale(1.06)}
+.btn-play.playing{color:var(--rojo)}
+.vol{flex:1;min-width:80px}
+.vol input{width:100%;accent-color:#fff}
+.radio-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;max-height:340px;overflow-y:auto;padding-right:4px}
+.radio-list::-webkit-scrollbar{width:6px}
+.radio-list::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+.r-station{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:11px 13px;cursor:pointer;transition:all .15s;text-align:left;box-shadow:var(--shadow)}
+.r-station:hover{border-color:var(--azul)}
+.r-station.active{border-color:var(--rojo);background:#fdf2f3}
+.r-station .n{font-weight:700;font-size:.88rem}
+.r-station .m{color:var(--muted);font-size:.7rem;margin-top:1px}
+
+/* ---- Tiempo ---- */
+.weather-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.w-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:15px;text-align:center;box-shadow:var(--shadow)}
+.w-card .city{font-weight:800;font-size:.92rem}
+.w-card .temp{font-size:2.1rem;font-weight:900;margin:6px 0 2px;color:var(--azul)}
+.w-card .desc{color:var(--muted);font-size:.8rem;text-transform:capitalize}
+.w-card .range{color:var(--muted);font-size:.76rem;margin-top:4px}
+
+/* ---- MLB ---- */
+.mlb-grid{display:flex;flex-direction:column;gap:10px}
+.mlb-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:13px 16px;box-shadow:var(--shadow)}
+.mlb-card .match{font-weight:800;font-size:.95rem}
+.mlb-card .score{font-size:1.35rem;font-weight:900;margin-top:3px;color:var(--azul)}
+.mlb-card .score .st{font-size:.72rem;color:var(--muted);font-weight:700;margin-left:6px}
+
+/* ---- Traductor ---- */
+.translator{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;box-shadow:var(--shadow)}
+.translator textarea{width:100%;min-height:90px;background:var(--bg);border:1px solid var(--border);border-radius:10px;color:var(--txt);padding:12px;font-size:.95rem;resize:vertical;font-family:inherit}
+.translator textarea:focus{outline:2px solid var(--azul2);border-color:transparent}
+.translator .row{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}
+.translator select,.translator button{padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:var(--bg);color:var(--txt);font-size:.88rem;font-weight:600}
+.translator button{background:linear-gradient(135deg,var(--azul),var(--rojo));border:none;color:#fff;font-weight:800;cursor:pointer}
+.translator button:hover{opacity:.92}
+.translator .out{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:12px;margin-top:12px;min-height:60px;font-size:.95rem;white-space:pre-wrap}
+
+/* ---- Enlaces ---- */
+.shortcuts{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+.shortcut{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 10px;text-align:center;text-decoration:none;color:var(--txt);font-weight:700;font-size:.85rem;transition:all .15s;box-shadow:var(--shadow)}
+.shortcut:hover{transform:translateY(-2px);border-color:var(--azul)}
+.shortcut .ico{font-size:1.6rem;display:block;margin-bottom:5px}
+
+footer{text-align:center;color:var(--muted);font-size:.75rem;padding:28px 16px 24px;border-top:1px solid var(--border);margin-top:20px}
+footer a{color:var(--azul2);font-weight:700}
+footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;border-radius:3px;background:linear-gradient(90deg,var(--azul) 0%,var(--azul) 25%,#fff 25%,#fff 37.5%,var(--rojo) 37.5%,var(--rojo) 62.5%,#fff 62.5%,#fff 75%,var(--azul) 75%);margin-bottom:10px}
+
+@media(max-width:600px){
+  .hero h1{font-size:1.5rem}
+  .loteria-grid{grid-template-columns:1fr 1fr}
+  .ball{min-width:31px;height:31px;font-size:.95rem}
+  .tend .thumb{width:44px;height:44px}
+}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>🇩🇴 Portal <span class="flag">Dominicano</span></h1>
-    <div class="sub">Resultados de lotería de hoy · Tiempo · MLB · Traductor</div>
-    <span class="updated" id="updated">Cargando…</span>
-  </header>
 
-  <nav class="tabs">
-    <a href="#loteria" class="active">🎰 Lotería</a>
-    <a href="#tendencias">📈 Tendencias</a>
-    <a href="#tiempo">🌤️ Tiempo</a>
-    <a href="#mlb">⚾ MLB</a>
-    <a href="#traductor">🔤 Traductor</a>
-    <a href="#enlaces">🔗 Enlaces</a>
-  </nav>
+<div class="hero">
+  <img class="escudo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/330px-Coat_of_arms_of_the_Dominican_Republic.svg.png" alt="Escudo de la República Dominicana" onerror="this.style.display='none'">
+  <h1>Portal Dominicano</h1>
+  <div class="lema">Dios · Patria · Libertad</div>
+  <div class="updated" id="updated">Cargando…</div>
+</div>
+
+<nav class="tabs" id="nav">
+  <a href="#loteria" class="active">🎰 Lotería</a>
+  <a href="#radio">📻 Radio</a>
+  <a href="#tendencias">📈 Tendencias</a>
+  <a href="#tiempo">🌤️ Tiempo</a>
+  <a href="#mlb">⚾ MLB</a>
+  <a href="#traductor">🔤 Traductor</a>
+  <a href="#enlaces">🔗 Enlaces</a>
+</nav>
+
+<div class="wrap">
 
   <section id="loteria">
-    <h2 class="sect"><span class="dot"></span> Lotería de hoy</h2>
+    <h2 class="sect"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
     <div class="loteria-grid" id="loteria-grid"><p style="color:var(--muted)">Cargando resultados…</p></div>
   </section>
 
+  <section id="radio">
+    <h2 class="sect"><span class="bar"></span> Radio Dominicana <span class="meta">en vivo</span></h2>
+    <div class="radio-player">
+      <div class="now">Escuchando ahora</div>
+      <div class="title" id="radio-title">Elige una emisora</div>
+      <div class="controls">
+        <button class="btn-play" id="radio-play" aria-label="Reproducir">▶</button>
+        <div class="vol"><input type="range" id="radio-vol" min="0" max="100" value="80" aria-label="Volumen"></div>
+      </div>
+    </div>
+    <div class="radio-list" id="radio-list"><p style="color:var(--muted)">Cargando emisoras…</p></div>
+  </section>
+
   <section id="tendencias">
-    <h2 class="sect"><span class="dot"></span> Tendencias en Google (RD)</h2>
-    <div class="sub" id="tendencias-updated" style="margin:-6px 0 12px"></div>
+    <h2 class="sect"><span class="bar"></span> Tendencias en Google (RD) <span class="meta" id="tendencias-updated"></span></h2>
     <div class="tendencias-list" id="tendencias-list"><p style="color:var(--muted)">Cargando tendencias…</p></div>
   </section>
 
   <section id="tiempo">
-    <h2 class="sect"><span class="dot"></span> Tiempo</h2>
+    <h2 class="sect"><span class="bar"></span> Tiempo</h2>
     <div class="weather-grid" id="weather-grid"><p style="color:var(--muted)">Cargando…</p></div>
   </section>
 
   <section id="mlb">
-    <h2 class="sect"><span class="dot"></span> MLB — Marcadores de hoy</h2>
-    <div id="mlb-grid"><p style="color:var(--muted)">Cargando marcadores…</p></div>
+    <h2 class="sect"><span class="bar"></span> MLB — Marcadores de hoy</h2>
+    <div class="mlb-grid" id="mlb-grid"><p style="color:var(--muted)">Cargando marcadores…</p></div>
   </section>
 
   <section id="traductor">
-    <h2 class="sect"><span class="dot"></span> Traductor</h2>
+    <h2 class="sect"><span class="bar"></span> Traductor</h2>
     <div class="translator">
       <textarea id="tr-in" placeholder="Escribe algo…"></textarea>
       <div class="row">
-        <select id="tr-from">
-          <option value="es">Español</option>
-          <option value="en">English</option>
-        </select>
-        <span style="color:var(--muted)">→</span>
-        <select id="tr-to">
-          <option value="en">English</option>
-          <option value="es">Español</option>
-        </select>
+        <select id="tr-from"><option value="es">Español</option><option value="en">English</option></select>
+        <span style="color:var(--muted);font-weight:700">→</span>
+        <select id="tr-to"><option value="en">English</option><option value="es">Español</option></select>
         <button id="tr-go">Traducir</button>
       </div>
       <div class="out" id="tr-out"></div>
@@ -134,36 +208,35 @@ footer a{color:var(--accent2)}
   </section>
 
   <section id="enlaces">
-    <h2 class="sect"><span class="dot"></span> Enlaces útiles</h2>
+    <h2 class="sect"><span class="bar"></span> Enlaces útiles</h2>
     <div class="shortcuts">
-      <a class="shortcut" href="https://web.whatsapp.com" target="_blank" rel="noopener"><span class="ico">💬</span>WhatsApp Web</a>
+      <a class="shortcut" href="https://web.whatsapp.com" target="_blank" rel="noopener"><span class="ico">💬</span>WhatsApp</a>
       <a class="shortcut" href="https://www.youtube.com" target="_blank" rel="noopener"><span class="ico">▶️</span>YouTube</a>
       <a class="shortcut" href="https://www.google.com" target="_blank" rel="noopener"><span class="ico">🔍</span>Google</a>
       <a class="shortcut" href="https://chatgpt.com" target="_blank" rel="noopener"><span class="ico">🤖</span>ChatGPT</a>
       <a class="shortcut" href="https://uasd.edu.do" target="_blank" rel="noopener"><span class="ico">🎓</span>UASD</a>
       <a class="shortcut" href="https://www.mlb.com" target="_blank" rel="noopener"><span class="ico">⚾</span>MLB.com</a>
-      <a class="shortcut" href="https://translate.google.com" target="_blank" rel="noopener"><span class="ico">🌐</span>Google Traductor</a>
+      <a class="shortcut" href="https://translate.google.com" target="_blank" rel="noopener"><span class="ico">🌐</span>Traductor</a>
     </div>
   </section>
 
   <footer>
-    <p>Datos de lotería: <a href="https://loteriasdominicanas.com" target="_blank" rel="noopener">loteriasdominicanas.com</a> · Tiempo: <a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
+    <div class="bandera"></div>
+    <p>Datos: <a href="https://loteriasdominicanas.com" target="_blank" rel="noopener">loteriasdominicanas.com</a> · <a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a> · <a href="https://www.radio-browser.info" target="_blank" rel="noopener">Radio Browser</a></p>
     <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>
   </footer>
 </div>
 
 <script>
-// ---- Lotería (local JSON) ----
+// ---- Lotería ----
 fetch('data/resultados.json?v=' + Date.now())
   .then(r => r.json())
   .then(d => {
-    document.getElementById('updated').textContent = 'Actualizado: ' + d.fecha + ' · ' + d.hora + ' (hora RD)';
+    document.getElementById('updated').textContent = 'Actualizado: ' + d.hora + ' (hora RD)';
+    document.getElementById('loteria-fecha').textContent = d.fecha;
     const grid = document.getElementById('loteria-grid');
     const byComp = {};
-    d.juegos.forEach(j => {
-      (byComp[j.compania] = byComp[j.compania] || []).push(j);
-    });
-    // order companies
+    d.juegos.forEach(j => (byComp[j.compania] = byComp[j.compania] || []).push(j));
     const order = ['Nacional','Loteria Real','Anguila','Loteka','La Primera','La Suerte','Leidsa'];
     grid.innerHTML = '';
     order.forEach(comp => {
@@ -171,10 +244,7 @@ fetch('data/resultados.json?v=' + Date.now())
       byComp[comp].forEach(j => {
         const card = document.createElement('div');
         card.className = 'lot-card';
-        const balls = j.numeros.map((n,i) => {
-          const cls = j.numeros.length <= 4 ? 'ball gold' : 'ball';
-          return '<span class="'+cls+'">'+n+'</span>';
-        }).join('');
+        const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'">'+n+'</span>').join('');
         card.innerHTML = '<div class="comp">'+j.compania+'</div><div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>';
         grid.appendChild(card);
       });
@@ -182,34 +252,86 @@ fetch('data/resultados.json?v=' + Date.now())
   })
   .catch(() => {
     document.getElementById('updated').textContent = 'No se pudieron cargar los resultados.';
-    document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--red)">Error cargando resultados.</p>';
+    document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--rojo)">Error cargando resultados.</p>';
   });
 
-// ---- Tendencias Google (RD) ----
+// ---- Radio ----
+let audio = null;
+let currentUrl = null;
+fetch('data/radio.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    const list = document.getElementById('radio-list');
+    list.innerHTML = '';
+    d.emisoras.forEach((s, i) => {
+      const el = document.createElement('button');
+      el.className = 'r-station';
+      const codec = s.codec ? s.codec + (s.bitrate ? ' '+s.bitrate+'k' : '') : '';
+      el.innerHTML = '<div class="n">'+s.nombre+'</div><div class="m">'+codec+'</div>';
+      el.addEventListener('click', () => playStation(s, el));
+      list.appendChild(el);
+    });
+  })
+  .catch(() => { document.getElementById('radio-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las emisoras.</p>'; });
+
+function playStation(s, el){
+  const title = document.getElementById('radio-title');
+  const btn = document.getElementById('radio-play');
+  document.querySelectorAll('.r-station').forEach(x => x.classList.remove('active'));
+  el.classList.add('active');
+  title.textContent = s.nombre;
+  if (audio){ audio.pause(); }
+  audio = new Audio(s.url);
+  audio.volume = document.getElementById('radio-vol').value / 100;
+  audio.play().then(() => {
+    btn.textContent = '⏸';
+    btn.classList.add('playing');
+  }).catch(() => {
+    btn.textContent = '▶';
+    btn.classList.remove('playing');
+    title.textContent = 'No se pudo reproducir: ' + s.nombre;
+  });
+}
+document.getElementById('radio-play').addEventListener('click', () => {
+  if (!audio) return;
+  const btn = document.getElementById('radio-play');
+  if (audio.paused){
+    audio.play();
+    btn.textContent = '⏸';
+    btn.classList.add('playing');
+  } else {
+    audio.pause();
+    btn.textContent = '▶';
+    btn.classList.remove('playing');
+  }
+});
+document.getElementById('radio-vol').addEventListener('input', e => {
+  if (audio) audio.volume = e.target.value / 100;
+});
+
+// ---- Tendencias ----
 fetch('data/tendencias.json?v=' + Date.now())
   .then(r => r.json())
   .then(d => {
-    const upd = document.getElementById('tendencias-updated');
-    upd.textContent = 'Actualizado: ' + d.hora + ' (hora RD) · ' + d.pais;
+    document.getElementById('tendencias-updated').textContent = d.hora + ' (hora RD)';
     const list = document.getElementById('tendencias-list');
     list.innerHTML = '';
     d.tendencias.forEach((t, i) => {
       const el = document.createElement('div');
       el.className = 'tend';
-      const thumb = t.imagen ? `<img class="thumb" src="${t.imagen}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : '';
-      const noti = t.noticia ? `<div class="noti">${t.noticia}</div>` : '';
+      const thumb = t.imagen ? '<img class="thumb" src="'+t.imagen+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' : '';
+      const noti = t.noticia ? '<div class="noti">'+t.noticia+'</div>' : '';
+      const hot = i < 3 ? ' hot' : '';
       const links = [];
-      if (t.enlace) links.push(`<a href="${t.enlace}" target="_blank" rel="noopener">📰 Noticia</a>`);
-      links.push(`<a href="https://www.google.com/search?q=${encodeURIComponent(t.termino)}" target="_blank" rel="noopener">🔍 Buscar</a>`);
-      el.innerHTML = `<div class="rank">${i+1}</div>${thumb}<div class="body"><div class="term">${t.termino}<span class="traf">${t.trafico}</span></div>${noti}<div class="links">${links.join('')}</div></div>`;
+      if (t.enlace) links.push('<a href="'+t.enlace+'" target="_blank" rel="noopener">📰 Noticia</a>');
+      links.push('<a href="https://www.google.com/search?q='+encodeURIComponent(t.termino)+'" target="_blank" rel="noopener">🔍 Buscar</a>');
+      el.innerHTML = '<div class="rank'+hot+'">'+(i+1)+'</div>'+thumb+'<div class="body"><div class="term">'+t.termino+'<span class="traf">'+t.trafico+'</span></div>'+noti+'<div class="links">'+links.join('')+'</div></div>';
       list.appendChild(el);
     });
   })
-  .catch(() => {
-    document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las tendencias.</p>';
-  });
+  .catch(() => { document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las tendencias.</p>'; });
 
-// ---- Tiempo (Open-Meteo, sin clave) ----
+// ---- Tiempo ----
 const ciudades = [
   {nombre:'Santo Domingo', lat:18.47, lon:-69.89},
   {nombre:'Santiago', lat:19.45, lon:-70.70},
@@ -222,63 +344,55 @@ const wmo = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'
 const wgrid = document.getElementById('weather-grid');
 wgrid.innerHTML = '';
 ciudades.forEach(c => {
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${c.lat}&longitude=${c.lon}&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1`;
+  const url = 'https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1';
   fetch(url).then(r=>r.json()).then(d=>{
-    const cur = d.current;
     const card = document.createElement('div');
     card.className = 'w-card';
-    const code = wmo[cur.weather_code] || '—';
-    card.innerHTML = `<div class="city">${c.nombre}</div><div class="temp">${Math.round(cur.temperature_2m)}°</div><div class="desc">${code}</div><div class="range">Max ${Math.round(d.daily.temperature_2m_max[0])}° · Min ${Math.round(d.daily.temperature_2m_min[0])}°</div>`;
+    const code = wmo[d.current.weather_code] || '—';
+    card.innerHTML = '<div class="city">'+c.nombre+'</div><div class="temp">'+Math.round(d.current.temperature_2m)+'°</div><div class="desc">'+code+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
     wgrid.appendChild(card);
   }).catch(()=>{});
 });
 
-// ---- MLB (scoreboard) ----
-function loadMLB(){
-  fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {headers:{'Accept':'application/json'}})
-    .then(r=>r.json())
-    .then(d=>{
-      const g = d.dates[0]?.games || [];
-      const grid = document.getElementById('mlb-grid');
-      if (!g.length){ grid.innerHTML = '<p style="color:var(--muted)">No hay juegos programados hoy.</p>'; return; }
-      grid.innerHTML = '';
-      g.forEach(game=>{
-        const card = document.createElement('div');
-        card.style.cssText = 'background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;margin-bottom:10px';
-        const st = game.status.abstractGameState;
-        const away = game.teams.away, home = game.teams.home;
-        let score = '';
-        if (st === 'Final' || st === 'Live'){
-          score = `<div style="font-size:1.3rem;font-weight:800;margin-top:4px">${away.score ?? '–'} — ${home.score ?? '–'} <span style="font-size:.75rem;color:var(--muted);font-weight:600">${st}</span></div>`;
-        } else {
-          score = `<div style="color:var(--muted);font-size:.85rem;margin-top:4px">${game.status.detailedState || 'Programado'} · ${new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})}</div>`;
-        }
-        card.innerHTML = `<div style="font-weight:700">${away.team.name} @ ${home.team.name}</div>${score}`;
-        grid.appendChild(card);
-      });
-    })
-    .catch(()=>{ document.getElementById('mlb-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los marcadores.</p>'; });
-}
+// ---- MLB ----
 function mlbDate(){
-  // MLB scores shown in local time; use today's date in DR timezone
   const now = new Date();
   const d = new Date(now.toLocaleString('en-US',{timeZone:'America/Santo_Domingo'}));
-  const y = d.getFullYear(), m = String(d.getMonth()+1).padStart(2,'0'), day = String(d.getDate()).padStart(2,'0');
-  return `${y}-${m}-${day}`;
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 }
-loadMLB();
+fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {headers:{'Accept':'application/json'}})
+  .then(r=>r.json())
+  .then(d=>{
+    const g = d.dates[0]?.games || [];
+    const grid = document.getElementById('mlb-grid');
+    if (!g.length){ grid.innerHTML = '<p style="color:var(--muted)">No hay juegos programados hoy.</p>'; return; }
+    grid.innerHTML = '';
+    g.forEach(game=>{
+      const card = document.createElement('div');
+      card.className = 'mlb-card';
+      const st = game.status.abstractGameState;
+      const away = game.teams.away, home = game.teams.home;
+      let score = '';
+      if (st === 'Final' || st === 'Live'){
+        score = '<div class="score">'+(away.score ?? '–')+' — '+(home.score ?? '–')+'<span class="st">'+st+'</span></div>';
+      } else {
+        score = '<div class="score" style="font-size:.95rem;color:var(--muted)">'+game.status.detailedState+' · '+new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})+'</div>';
+      }
+      card.innerHTML = '<div class="match">'+away.team.name+' @ '+home.team.name+'</div>'+score;
+      grid.appendChild(card);
+    });
+  })
+  .catch(()=>{ document.getElementById('mlb-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los marcadores.</p>'; });
 
-// ---- Traductor (Google free endpoint) ----
+// ---- Traductor ----
 document.getElementById('tr-go').addEventListener('click', translate);
-document.getElementById('tr-from').addEventListener('change', ()=>{ syncLangs(); });
-document.getElementById('tr-to').addEventListener('change', ()=>{ syncLangs(); });
 function syncLangs(){
   const f = document.getElementById('tr-from').value;
   const t = document.getElementById('tr-to').value;
-  if (f === t){
-    document.getElementById('tr-to').value = (f === 'es') ? 'en' : 'es';
-  }
+  if (f === t) document.getElementById('tr-to').value = (f === 'es') ? 'en' : 'es';
 }
+document.getElementById('tr-from').addEventListener('change', syncLangs);
+document.getElementById('tr-to').addEventListener('change', syncLangs);
 async function translate(){
   const text = document.getElementById('tr-in').value.trim();
   if (!text) return;
@@ -287,13 +401,25 @@ async function translate(){
   const out = document.getElementById('tr-out');
   out.textContent = 'Traduciendo…';
   try {
-    const r = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=${to}&dt=t&q=${encodeURIComponent(text)}`);
+    const r = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl='+from+'&tl='+to+'&dt=t&q='+encodeURIComponent(text));
     const d = await r.json();
     out.textContent = d[0].map(x => x[0]).join('');
   } catch(e){
     out.textContent = 'Error de traducción.';
   }
 }
+
+// ---- Navegación: active state al hacer scroll ----
+const sections = document.querySelectorAll('section');
+const navLinks = document.querySelectorAll('nav.tabs a');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting){
+      navLinks.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#'+e.target.id));
+    }
+  });
+}, {rootMargin:'-40% 0px -55% 0px'});
+sections.forEach(s => observer.observe(s));
 </script>
 </body>
 </html>
