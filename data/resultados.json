@@ -1,0 +1,564 @@
+{
+  "updated": "2026-09-08T12:27:16.620241-04:00",
+  "fecha": "08/09/2026",
+  "hora": "12:27",
+  "total_juegos": 52,
+  "juegos": [
+    {
+      "compania": "Nacional",
+      "juego": "Billetes Domingo",
+      "numeros": [
+        "330274",
+        "062488",
+        "105579"
+      ],
+      "fecha": "2026-08-30T04:00:00.000Z"
+    },
+    {
+      "compania": "Nacional",
+      "juego": "Gana Más",
+      "numeros": [
+        "71",
+        "26",
+        "27"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Nacional",
+      "juego": "Juega + Pega +",
+      "numeros": [
+        "19",
+        "18",
+        "22",
+        "23",
+        "15"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Nacional",
+      "juego": "Lotería Nacional",
+      "numeros": [
+        "91",
+        "04",
+        "82"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Chance Real",
+      "numeros": [
+        "04",
+        "27",
+        "89",
+        "37",
+        "71"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Lotería Real Noche",
+      "numeros": [
+        "24",
+        "26",
+        "41"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Loto Pool",
+      "numeros": [
+        "10",
+        "13",
+        "74",
+        "51"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Loto Pool Noche",
+      "numeros": [
+        "60",
+        "00",
+        "90",
+        "61"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Loto Real",
+      "numeros": [
+        "33",
+        "32",
+        "37",
+        "10",
+        "44",
+        "11"
+      ],
+      "fecha": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Nueva Yol Real",
+      "numeros": [
+        "74",
+        "99",
+        "37"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Pega 4 Real",
+      "numeros": [
+        "0",
+        "5",
+        "7",
+        "8"
+      ],
+      "fecha": "2026-03-31T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Quiniela Real",
+      "numeros": [
+        "91",
+        "55",
+        "20"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Repartidera Real",
+      "numeros": [
+        "06"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Super Palé",
+      "numeros": [
+        "91",
+        "69"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteria Real",
+      "juego": "Tu Fecha Real",
+      "numeros": [
+        "32"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 10:00 AM",
+      "numeros": [
+        "60",
+        "37",
+        "10"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 10:00 PM",
+      "numeros": [
+        "68",
+        "05",
+        "38"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 11:00 AM",
+      "numeros": [
+        "51",
+        "26",
+        "49"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 12:00 PM",
+      "numeros": [
+        "07",
+        "09",
+        "43"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 1:00 PM",
+      "numeros": [
+        "89",
+        "29",
+        "50"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 2:00 PM",
+      "numeros": [
+        "99",
+        "87",
+        "76"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 3:00 PM",
+      "numeros": [
+        "72",
+        "52",
+        "91"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 4:00 PM",
+      "numeros": [
+        "33",
+        "26",
+        "37"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 5:00 PM",
+      "numeros": [
+        "75",
+        "10",
+        "19"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 6:00 PM",
+      "numeros": [
+        "72",
+        "64",
+        "57"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 7:00 PM",
+      "numeros": [
+        "21",
+        "81",
+        "00"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 8:00  AM",
+      "numeros": [
+        "58",
+        "62",
+        "50"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 8:00 PM",
+      "numeros": [
+        "11",
+        "49",
+        "34"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 9:00 AM",
+      "numeros": [
+        "58",
+        "59",
+        "45"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "Anguila 9:00 PM",
+      "numeros": [
+        "28",
+        "89",
+        "09"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "La Cuarteta 10:00 AM",
+      "numeros": [
+        "04",
+        "43",
+        "66",
+        "55"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "La Cuarteta 1:00 PM",
+      "numeros": [
+        "83",
+        "38",
+        "42",
+        "32"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "La Cuarteta 6:00 PM",
+      "numeros": [
+        "85",
+        "89",
+        "84",
+        "21"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Anguila",
+      "juego": "La Cuarteta 9:00 PM",
+      "numeros": [
+        "43",
+        "16",
+        "64",
+        "41"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteka",
+      "juego": "MC Repartidera",
+      "numeros": [
+        "58"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteka",
+      "juego": "Mega Chances",
+      "numeros": [
+        "32",
+        "79",
+        "45",
+        "72",
+        "78"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteka",
+      "juego": "MegaLotto",
+      "numeros": [
+        "21",
+        "26",
+        "40",
+        "19",
+        "18",
+        "39",
+        "12",
+        "20"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteka",
+      "juego": "Quiniela Loteka",
+      "numeros": [
+        "64",
+        "35",
+        "28"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Loteka",
+      "juego": "Toca 3",
+      "numeros": [
+        "4",
+        "5",
+        "9"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "La Primera",
+      "juego": "El Quinielón Día",
+      "numeros": [
+        "20"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "La Primera",
+      "juego": "El Quinielón Noche",
+      "numeros": [
+        "71"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "La Primera",
+      "juego": "La Primera Día",
+      "numeros": [
+        "89",
+        "93",
+        "12"
+      ],
+      "fecha": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "compania": "La Primera",
+      "juego": "Loto 5",
+      "numeros": [
+        "12",
+        "27",
+        "24",
+        "11",
+        "07",
+        "09"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "La Primera",
+      "juego": "Primera Noche",
+      "numeros": [
+        "18",
+        "40",
+        "68"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "La Suerte",
+      "juego": "La Suerte 12:30",
+      "numeros": [
+        "09",
+        "93",
+        "41"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "La Suerte",
+      "juego": "La Suerte 18:00",
+      "numeros": [
+        "99",
+        "83",
+        "10"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Loto - Super Loto Más",
+      "numeros": [
+        "26",
+        "08",
+        "37",
+        "42",
+        "05",
+        "09",
+        "14",
+        "18"
+      ],
+      "fecha": "2026-09-05T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Loto Pool",
+      "numeros": [
+        "22",
+        "16",
+        "08",
+        "09",
+        "36"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Pega 3 Más",
+      "numeros": [
+        "14",
+        "15",
+        "16"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Quiniela Leidsa",
+      "numeros": [
+        "97",
+        "50",
+        "37"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Super Kino TV",
+      "numeros": [
+        "09",
+        "81",
+        "82",
+        "38",
+        "18",
+        "13",
+        "77",
+        "08",
+        "83",
+        "37",
+        "72",
+        "28",
+        "65",
+        "46",
+        "25",
+        "47",
+        "84",
+        "62",
+        "33",
+        "51"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "compania": "Leidsa",
+      "juego": "Super Palé",
+      "numeros": [
+        "97",
+        "89"
+      ],
+      "fecha": "2026-09-07T04:00:00.000Z"
+    }
+  ]
+}
