@@ -160,6 +160,17 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .w-card .desc{color:var(--muted);font-size:.76rem}
 .w-card .range{color:var(--muted);font-size:.72rem;margin-top:3px;font-weight:600}
 
+/* ---- Divisas ---- */
+.divisas-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+.divisa{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s;position:relative;overflow:hidden}
+.divisa:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
+.divisa::after{content:"";position:absolute;top:0;right:0;width:60px;height:60px;background:radial-gradient(circle at top right,rgba(10,91,191,.08),transparent 70%)}
+.divisa .d-top{display:flex;align-items:center;gap:9px;margin-bottom:10px}
+.divisa .flag{font-size:1.4rem;line-height:1}
+.divisa .mon{font-size:.8rem;font-weight:700;color:var(--muted)}
+.divisa .valor{font-size:1.35rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums}
+.divisa .a{font-size:.74rem;color:var(--muted);font-weight:600;margin-left:4px}
+
 /* ---- MLB ---- */
 .mlb-grid{display:flex;flex-direction:column;gap:10px}
 .mlb-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);transition:transform .18s}
@@ -264,6 +275,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
   <a href="#tendencias">📈 Tendencias</a>
   <a href="#noticias">📰 Noticias</a>
   <a href="#tiempo">🌤️ Tiempo</a>
+  <a href="#divisas">💵 Divisas</a>
   <a href="#mlb">⚾ MLB</a>
   <a href="#traductor">🔤 Traductor</a>
   <a href="#compras">🛒 Compras</a>
@@ -311,6 +323,11 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
     <h2 class="sect"><span class="bar"></span> Tiempo</h2>
     <div id="weather-hero"></div>
     <div class="weather-grid" id="weather-grid"></div>
+  </section>
+
+  <section id="divisas">
+    <h2 class="sect"><span class="bar"></span> Tipo de cambio <span class="meta" id="divisas-updated"></span></h2>
+    <div class="divisas-grid" id="divisas-grid"><p style="color:var(--muted)">Cargando…</p></div>
   </section>
 
   <section id="mlb">
@@ -521,6 +538,21 @@ ciudades.forEach((c, i) => {
     }
   }).catch(()=>{});
 });
+
+// ---- Divisas ----
+fetch('data/divisas.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('divisas-updated').textContent = 'Actualizado ' + d.fecha;
+    const grid = document.getElementById('divisas-grid');
+    grid.innerHTML = '';
+    d.conversiones.forEach(c => {
+      const el = document.createElement('div');
+      el.className = 'divisa';
+      el.innerHTML = '<div class="d-top"><span class="flag">'+c.bandera+'</span><span class="mon">'+c.moneda+'</span></div><div class="valor">'+c.valor+'<span class="a">'+c.a+'</span></div>';
+      grid.appendChild(el);
+    });
+  })
+  .catch(() => { document.getElementById('divisas-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las divisas.</p>'; });
 
 // ---- MLB ----
 function mlbDate(){
