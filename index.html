@@ -188,6 +188,22 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 .fw-close:hover{opacity:1}
 @media(max-width:600px){.float-widget{right:12px;bottom:12px;width:calc(100vw - 24px)}}
 
+/* ---- Chat en vivo ---- */
+.chat-box{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden;box-shadow:var(--shadow)}
+.chat-msgs{height:280px;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:8px}
+.chat-msgs::-webkit-scrollbar{width:6px}.chat-msgs::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+.cmsg{max-width:82%;padding:9px 12px;border-radius:14px;font-size:.88rem;line-height:1.35;animation:msgIn .2s ease}
+.cmsg.own{align-self:flex-end;background:linear-gradient(135deg,var(--azul),var(--azul2));color:#fff;border-bottom-right-radius:4px}
+.cmsg.other{align-self:flex-start;background:var(--bg);border:1px solid var(--border);border-bottom-left-radius:4px}
+.cmsg .u{font-size:.7rem;font-weight:800;opacity:.75;margin-bottom:1px}
+.cmsg .t{word-wrap:break-word}
+@keyframes msgIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.chat-input-row{display:flex;gap:8px;padding:10px;border-top:1px solid var(--border)}
+.chat-input-row input{flex:1;min-width:0;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:9px 12px;font-size:.88rem;color:var(--txt);font-family:inherit}
+.chat-input-row input:focus{outline:2px solid var(--azul2);border-color:transparent}
+.chat-input-row button{background:linear-gradient(135deg,var(--azul),var(--rojo));border:none;color:#fff;font-weight:800;padding:0 16px;border-radius:10px;cursor:pointer;font-size:.88rem}
+.chat-input-row button:hover{opacity:.92}
+
 @media(max-width:600px){
   .hero h1{font-size:1.5rem}
   .loteria-grid{grid-template-columns:1fr 1fr}
@@ -239,6 +255,16 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       </div>
     </div>
     <div class="radio-list" id="radio-list"><p style="color:var(--muted)">Cargando emisoras…</p></div>
+
+    <h2 class="sect" style="margin-top:26px"><span class="bar"></span> Chat en vivo <span class="meta" id="chat-status">conectando…</span></h2>
+    <div class="chat-box" id="chat-box">
+      <div class="chat-msgs" id="chat-msgs"><p style="color:var(--muted)">Conectando al chat…</p></div>
+      <div class="chat-input-row">
+        <input type="text" id="chat-user" placeholder="Tu nombre" maxlength="24" style="width:88px;flex:0 0 auto">
+        <input type="text" id="chat-input" placeholder="Escribe un mensaje…" maxlength="400">
+        <button id="chat-send">Enviar</button>
+      </div>
+    </div>
   </section>
 
   <section id="tendencias">
@@ -683,6 +709,64 @@ if ('serviceWorker' in navigator) {
         all[idx].classList.add('on');
       }, 4000);
     }).catch(() => {});
+// ---- Chat en vivo (WebSocket) ----
+(function(){
+  const CHAT_URL = 'ws://' + location.hostname + ':8765/ws?room=radio';
+  const box = document.getElementById('chat-msgs');
+  const status = document.getElementById('chat-status');
+  const input = document.getElementById('chat-input');
+  const userIn = document.getElementById('chat-user');
+  const sendBtn = document.getElementById('chat-send');
+  let ws = null;
+  let userName = localStorage.getItem('chat-user') || '';
+  userIn.value = userName;
+
+  function addMsg(user, text, own){
+    const el = document.createElement('div');
+    el.className = 'cmsg ' + (own ? 'own' : 'other');
+    el.innerHTML = '<div class="u">' + escapeHtml(user) + '</div><div class="t">' + escapeHtml(text) + '</div>';
+    box.appendChild(el);
+    box.scrollTop = box.scrollHeight;
+  }
+  function escapeHtml(s){
+    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  function setStatus(t, ok){
+    status.textContent = t;
+    status.style.color = ok ? 'var(--green)' : 'var(--red)';
+  }
+
+  function connect(){
+    setStatus('conectando…', false);
+    try { ws = new WebSocket(CHAT_URL); } catch(e){ setStatus('sin conexión', false); return; }
+    ws.onopen = () => setStatus('en vivo', true);
+    ws.onmessage = (e) => {
+      try {
+        const m = JSON.parse(e.data);
+        if (m.type === 'msg') addMsg(m.user, m.text, false);
+      } catch(err){}
+    };
+    ws.onclose = () => { setStatus('reconectando…', false); setTimeout(connect, 3000); };
+    ws.onerror = () => {};
+  }
+
+  function send(){
+    const text = input.value.trim();
+    if (!text) return;
+    const u = userIn.value.trim() || 'Anónimo';
+    localStorage.setItem('chat-user', u);
+    if (ws && ws.readyState === WebSocket.OPEN){
+      ws.send(JSON.stringify({user: u, text: text}));
+      addMsg(u, text, true);
+      input.value = '';
+    } else {
+      setStatus('sin conexión', false);
+    }
+  }
+  sendBtn.addEventListener('click', send);
+  input.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
+
+  connect();
 })();
 </script>
 </body>
