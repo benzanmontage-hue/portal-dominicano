@@ -1,2 +1,7 @@
 User-agent: *
+Disallow: /portal-dominicano/app.html
+Disallow: /portal-dominicano/data/
+
 Allow: /
+
+Sitemap: https://benzanmontage-hue.github.io/portal-dominicano/sitemap.xml

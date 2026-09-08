@@ -3,24 +3,57 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portal Dominicano — Resultados de Lotería, Tiempo, Radio y Más</title>
-<meta name="description" content="Resultados de hoy de Lotería Nacional, Real, Anguila, Loteka y más. Radio FM dominicana, tiempo, MLB y traductor. Todo en un solo lugar.">
+<title>Portal Dominicano — Resultados de Lotería, Radio y Tiempo RD</title>
+<meta name="description" content="Resultados de hoy de Lotería Nacional, Real, Anguila, Loteka, La Primera, La Suerte y Leidsa. Radio FM dominicana, noticias, tiempo, MLB y traductor. Todo en un solo lugar.">
 <link rel="canonical" href="https://benzanmontage-hue.github.io/portal-dominicano/">
-<meta property="og:title" content="Portal Dominicano — Todo lo que buscas en un solo lugar">
-<meta property="og:description" content="Lotería, radio, tiempo, MLB y más. República Dominicana.">
+<meta property="og:title" content="Portal Dominicano — Resultados de Lotería, Radio y Tiempo RD">
+<meta property="og:description" content="Resultados de hoy de Lotería Nacional, Real, Anguila, Loteka y más. Radio FM dominicana, noticias, tiempo y MLB. Todo en un solo lugar.">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://benzanmontage-hue.github.io/portal-dominicano/">
+<meta property="og:site_name" content="Portal Dominicano">
 <meta property="og:locale" content="es_DO">
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
-<meta name="theme-color" content="#002d62">
+<meta property="og:image" content="https://benzanmontage-hue.github.io/portal-dominicano/img/og-portal-dominicano.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Portal Dominicano — Resultados de Lotería, Radio y Tiempo RD">
+<meta name="twitter:description" content="Lotería, radio, noticias, tiempo y MLB de República Dominicana.">
+<meta name="twitter:image" content="https://benzanmontage-hue.github.io/portal-dominicano/img/og-portal-dominicano.png">
+<meta name="theme-color" content="#002a5c">
 <meta name="robots" content="index,follow">
 <link rel="manifest" href="manifest.json">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Portal RD">
-<link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
-<link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+<link rel="icon" type="image/png" href="img/icon-192.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"Portal Dominicano","url":"https://benzanmontage-hue.github.io/portal-dominicano/","inLanguage":"es-DO","countryOfOrigin":"DO"}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://benzanmontage-hue.github.io/portal-dominicano/#website",
+      "url": "https://benzanmontage-hue.github.io/portal-dominicano/",
+      "name": "Portal Dominicano",
+      "alternateName": "Portal RD",
+      "inLanguage": "es-DO",
+      "description": "Resultados de la Lotería de hoy en República Dominicana, radio FM dominicana, tiempo por ciudad, MLB y tendencias de Google RD.",
+      "isAccessibleForFree": true,
+      "publisher": { "@id": "https://benzanmontage-hue.github.io/portal-dominicano/#organization" }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://benzanmontage-hue.github.io/portal-dominicano/#organization",
+      "name": "Portal Dominicano",
+      "url": "https://benzanmontage-hue.github.io/portal-dominicano/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://benzanmontage-hue.github.io/portal-dominicano/img/icon-512.png",
+        "width": 512,
+        "height": 512
+      }
+    }
+  ]
+}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -69,6 +102,7 @@ nav.tabs a.active{background:var(--grad);color:#fff;box-shadow:0 4px 14px rgba(2
 
 /* ---- Secciones ---- */
 section{margin-bottom:16px}
+.seo-intro{color:var(--muted);font-size:.9rem;line-height:1.6;max-width:820px}
 h2.sect{font-size:1.18rem;font-weight:800;margin:30px 0 14px;display:flex;align-items:center;gap:10px;letter-spacing:-.01em}
 h2.sect .bar{width:5px;height:22px;border-radius:99px;background:var(--grad)}
 h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:auto}
@@ -238,9 +272,17 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
 <div class="wrap">
 
+  <section id="intro" aria-label="Descripción">
+    <p class="seo-intro">
+      Consulta los <strong>resultados de la lotería de hoy</strong> en República Dominicana: <strong>Lotería Nacional</strong>, <strong>Lotería Real</strong>, <strong>Anguila</strong>, <strong>Loteka</strong>, <strong>La Primera</strong>, <strong>La Suerte</strong> y <strong>Leidsa</strong>, con sus números ganadores actualizados en vivo. Además escucha <strong>radio FM dominicana en vivo</strong>, lee las <strong>noticias de República Dominicana</strong>, consulta el <strong>tiempo</strong> por ciudad, los marcadores de <strong>MLB</strong> y usa el <strong>traductor</strong> español-inglés. Todo en un solo lugar, gratis y sin registrarte.
+    </p>
+  </section>
+
   <section id="loteria">
     <h2 class="sect"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
-    <div class="loteria-grid" id="loteria-grid"><p style="color:var(--muted)">Cargando resultados…</p></div>
+    <div class="loteria-grid" id="loteria-grid"><p style="color:var(--muted)">Cargando resultados…</p>
+      <noscript>Resultados de lotería: Lotería Nacional, Lotería Real, Anguila, Loteka, La Primera, La Suerte y Leidsa.</noscript>
+    </div>
   </section>
 
   <section id="radio">
