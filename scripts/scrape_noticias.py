@@ -7,8 +7,10 @@ Produce data/noticias.json con una lista de noticias en español.
 import json
 import re
 import urllib.request
+import urllib.parse
 import datetime
 from datetime import timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 QUERIES = [
     "República Dominicana",
@@ -42,6 +44,19 @@ def domain_of(url):
     return m.group(1) if m else ""
 
 
+def fetch_image(link):
+    """Obtener imagen del artículo vía Microlink (API de preview, sin key)."""
+    try:
+        url = "https://api.microlink.io/?url=" + urllib.parse.quote(link)
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=8) as r:
+            d = json.loads(r.read().decode("utf-8", errors="ignore"))
+        img = d.get("data", {}).get("image", {}).get("url")
+        return img or ""
+    except Exception:
+        return ""
+
+
 def parse_item(it):
     title = strip_tags(re.search(r"<title>([^<]+)</title>", it).group(1))
     # title often ends with " - Source"; the source is in <source>
@@ -50,12 +65,11 @@ def parse_item(it):
     source = src.group(2) if src else ""
     pubdate = re.search(r"<pubDate>([^<]+)</pubDate>", it)
     date = pubdate.group(1) if pubdate else ""
-    real_url = clean_google_link(link)
     return {
         "titulo": title,
         "fuente": source,
-        "enlace": real_url,
-        "dominio": domain_of(real_url),
+        "enlace": link,
+        "dominio": domain_of(clean_google_link(link)),
         "fecha": date,
     }
 
@@ -80,7 +94,14 @@ def main():
             noticias.append(n)
 
     # quitar duplicados por fuente similar, limitar
-    noticias = noticias[:30]
+    noticias = noticias[:15]
+
+    # extraer imágenes en paralelo (solo las 15 primeras, con timeout)
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        futures = {ex.submit(fetch_image, n["enlace"]): n for n in noticias}
+        for fut in as_completed(futures):
+            n = futures[fut]
+            n["imagen"] = fut.result()
 
     now = datetime.datetime.now(timezone(timedelta(hours=-4)))
     out = {
@@ -94,9 +115,10 @@ def main():
     path = "/opt/data/home/portal-dominicano/data/noticias.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"OK: {len(noticias)} noticias -> {path}")
+    con_img = sum(1 for n in noticias if n.get("imagen"))
+    print(f"OK: {len(noticias)} noticias ({con_img} con imagen) -> {path}")
     for n in noticias[:10]:
-        print(f"  [{n['fuente'][:20]}] {n['titulo'][:60]}")
+        print(f"  [{'✓' if n.get('imagen') else '✗'}] {n['titulo'][:55]}")
 
 
 if __name__ == "__main__":
