@@ -1,10 +1,24 @@
 {
-  "updated": "2026-09-08T12:34:22.573150-04:00",
-  "hora": "12:34",
+  "updated": "2026-09-08T13:00:33.317732-04:00",
+  "hora": "13:00",
   "fecha": "08/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "eclipse solar",
+      "trafico": "100+",
+      "noticia": "¿Cuándo será el eclipse solar de 2027 y dónde se podrá ver durante más de 6 minutos?",
+      "enlace": "https://revistamercado.do/money-invest/daily-news/cuando-sera-el-eclipse-solar-de-2027-y-donde-se-podra-ver-durante-mas-de-6-minutos/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf20w2Fs63g2i7lh-3nluZWgoWc9bjatxj9b2BU9D2vO0qZ0sY5D-1uVm5GuA"
+    },
+    {
+      "termino": "champions league",
+      "trafico": "100+",
+      "noticia": "Champions League starting and predicted line-ups: Matchday 1 team news, injuries, suspensions",
+      "enlace": "https://www.uefa.com/uefachampionsleague/news/02a9-2188cf675017-df8325ec95c3-1000--champions-league-starting-and-predicted-line-ups-matchday-1-/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPo16OrDSeZ3bFFnimIJc4uTqUJn47tSSBrO1_bnAC95dgmL2UyqItqSKjA"
+    },
     {
       "termino": "empresario",
       "trafico": "200+",
@@ -22,9 +36,9 @@
     {
       "termino": "vuelo",
       "trafico": "1000+",
-      "noticia": "Indonesia reabre aeropuertos tras retrasar más de 600 vuelos internacionales por un volcán",
-      "enlace": "https://elnuevodiario.com.do/indonesia-reabre-aeropuertos-tras-retrasar-mas-de-600-vuelos-internacionales-por-un-volcan/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWqWkU03MxkgFGz5Zz9qRnK2qNS2RL_iZpcp1tTaBnCcFR3-3eofmm4T3a7bY"
+      "noticia": "Cerca de 200 vuelos cancelados en Reino Unido por un problema técnico en el control aéreo",
+      "enlace": "https://elnuevodiario.com.do/cerca-de-200-vuelos-cancelados-en-reino-unido-por-un-problema-tecnico-en-el-control-aereo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXUfFXjRRfh5EFxQs0zpScb84aZV-AJMo1d1syCHTHnKMoQWqNx0_uXyrzl88"
     },
     {
       "termino": "clima",
@@ -36,16 +50,16 @@
     {
       "termino": "météo",
       "trafico": "1000+",
-      "noticia": "MÉTÉO. Souvent du soleil, entre quelques passages nuageux ce mercredi en Normandie",
-      "enlace": "https://france3-regions.franceinfo.fr/normandie/meteo-souvent-du-soleil-entre-quelques-passages-nuageux-ce-mercredi-en-normandie-3413687.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvK81FIJN4UVxZSSOVEq0vN1YvvEB7KOQ-4OP6-qeKPu2eEYbC-SJxzjNRXOE"
+      "noticia": "De l air polaire arrive sur la France : ce que cela veut dire pour les prochains jours",
+      "enlace": "https://www.journaldesfemmes.fr/jardin/id/3277165-de-l-air-polaire-arrive-sur-la-france-voici-ce-que-cela-veut-dire-pour-les-prochains-jours/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzZOqv2raztCR2rZzabXIWWaMnWYmcA5LJ8wevvBoCA7aUAcv8E_9V6wn-Me4"
     },
     {
       "termino": "athletics - blue jays",
       "trafico": "1000+",
-      "noticia": "Probable pitchers for Blue Jays at Athletics - September 7, 2026",
-      "enlace": "https://www.mlb.com/video/probable-pitchers-for-blue-jays-at-athletics-september-7-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQgMDGuHk--FTFuvZZjhalib_p8Ypnv3tYcXwd_Cj-75ZXxQdxSBFAW7Q63w0"
+      "noticia": "Toronto Blue Jays vs. Athletics: Game Highlights",
+      "enlace": "https://www.espn.ph/video/clip/_/id/49865801/game-highlights",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo5qDRFT3UGOfCM_nzbUy6W5gF-Xsr4snEbDymDNF27QLBY1IHLsJ02t9zFA"
     },
     {
       "termino": "elly de la cruz",
@@ -60,20 +74,6 @@
       "noticia": "MLB: Cincinnati Reds at Los Angeles Dodgers",
       "enlace": "https://www.reutersconnect.com/item/mlb-cincinnati-reds-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk3NjIzNzY",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOKP8EuMzsBOPJR4_qrN0LbfEV47ITRpFCpXQfZU-Y4N7jBBvjAIUSS5kktg"
-    },
-    {
-      "termino": "rey carlos iii",
-      "trafico": "500+",
-      "noticia": "Harry y Meghan se muestran sorprendidos por la carta en la que el rey Carlos III dice que siguen sin trabajar para la monarquía británica",
-      "enlace": "https://www.bbc.com/mundo/articles/cde0z4g7718o",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMWAK1edzUa8PyJcZVF36JzpURy-q-bxAJL4bLPP53P9y_2I8KgcXRdldBDVU"
-    },
-    {
-      "termino": "liranyi alonso",
-      "trafico": "1000+",
-      "noticia": "VIDEO | Liranyi Alonso gana en Omán el oro en los 100 metros y se queda con la plata en los 200",
-      "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/09/07/liranyi-alonso-gana-en-oman-el-oro-en-los-100-metros/3651884",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-eBnRDt1CFFj1LmlMzPTjNwbOjkO-VexeahHO6EEwf3ItJ4VlSoTMKDb2HBs"
     }
   ]
 }
