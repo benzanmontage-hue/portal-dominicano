@@ -88,6 +88,7 @@ def main():
             "juego": info["game"],
             "numeros": flat,
             "fecha": date,
+            "game_id": gid,
         })
 
     # Sort: Nacional first, then alphabetical
@@ -95,20 +96,83 @@ def main():
              "La Primera": 4, "La Suerte": 5, "Leidsa": 6}
     juegos.sort(key=lambda j: (order.get(j["compania"], 99), j["juego"]))
 
+    # --- Historial (últimos 7 días) para los juegos principales ---
+    historial = build_historial()
+
     out = {
         "updated": now.isoformat(),
         "fecha": now.strftime("%d/%m/%Y"),
         "hora": now.strftime("%H:%M"),
         "total_juegos": len(juegos),
         "juegos": juegos,
+        "historial": historial,
     }
 
     path = "/opt/data/home/portal-dominicano/data/resultados.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"OK: {len(juegos)} juegos -> {path}")
+    print(f"OK: {len(juegos)} juegos + historial {len(historial)} juegos -> {path}")
     for j in juegos:
         print(f"  {j['compania']:15s} | {j['juego']:22s} | {'-'.join(j['numeros'])}")
+
+
+def build_historial():
+    """Últimos 7 días de los juegos principales (quinielas), compacto."""
+    # juegos estrella por compañía (los que la gente sigue día a día)
+    principal = {
+        "Nacional": "Lotería Nacional",
+        "Loteria Real": "Lotería Real Noche",
+        "Loteka": "Quiniela Loteka",
+        "La Primera": "Primera Noche",
+        "La Suerte": "La Suerte 12:30",
+        "Leidsa": "Quiniela Leidsa",
+    }
+    # game_id de cada juego principal (resolver desde GAME_MAP)
+    target = {}
+    for gid, info in GAME_MAP.items():
+        if info["company"] in principal and info["game"] == principal[info["company"]]:
+            target[info["company"]] = gid
+
+    historial = []
+    for day in range(1, 8):
+        d = dr_now() - timedelta(days=day)
+        ds = d.strftime("%Y-%m-%d") + "T04:00:00.000Z"
+        try:
+            sess = fetch_json(f"{API_BASE}/sessions?date={ds}")
+        except Exception:
+            continue
+        for g in sess:
+            gid = g.get("game_id")
+            if gid not in target.values():
+                continue
+            info = GAME_MAP.get(gid)
+            if not info:
+                continue
+            ls = g.get("lastSession") or {}
+            score = ls.get("score")
+            if not score:
+                continue
+            flat = []
+            for row in score:
+                flat.extend(row) if isinstance(row, list) else flat.append(row)
+            flat = [n for n in flat if str(n).strip().isdigit()]
+            if not flat:
+                continue
+            # dedupe: solo una entrada por (juego, fecha)
+            fecha = (ls.get("date") or "")[:10]
+            if any(h["juego"] == info["game"] and h["fecha"] == fecha for h in historial):
+                continue
+            historial.append({
+                "compania": info["company"],
+                "juego": info["game"],
+                "numeros": flat,
+                "fecha": fecha,
+            })
+    # ordenar por compañía, luego fecha desc
+    hist_order = {"Nacional": 0, "Loteria Real": 1, "Loteka": 2,
+                  "La Primera": 3, "La Suerte": 4, "Leidsa": 5}
+    historial.sort(key=lambda h: (hist_order.get(h["compania"], 99), h["fecha"]), reverse=False)
+    return historial
 
 
 if __name__ == "__main__":

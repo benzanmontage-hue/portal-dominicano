@@ -156,6 +156,38 @@ footer{text-align:center;color:var(--muted);font-size:.75rem;padding:28px 16px 2
 footer a{color:var(--azul2);font-weight:700}
 footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;border-radius:3px;background:linear-gradient(90deg,var(--azul) 0%,var(--azul) 25%,#fff 25%,#fff 37.5%,var(--rojo) 37.5%,var(--rojo) 62.5%,#fff 62.5%,#fff 75%,var(--azul) 75%);margin-bottom:10px}
 
+/* ---- Widget flotante (radio + noticias) ---- */
+.float-widget{position:fixed;right:16px;bottom:16px;z-index:200;width:min(340px,calc(100vw - 32px));font-family:inherit}
+.fw-collapsed .fw-body{display:none}
+.fw-card{background:linear-gradient(150deg,var(--azul) 0%,var(--azul2) 55%,var(--rojo) 160%);color:#fff;border-radius:18px;box-shadow:0 12px 40px rgba(0,20,60,.4);overflow:hidden}
+.fw-head{display:flex;align-items:center;gap:11px;padding:12px 14px;cursor:pointer}
+.fw-play{width:46px;height:46px;min-width:46px;border-radius:50%;border:none;background:rgba(255,255,255,.18);color:#fff;font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .15s;backdrop-filter:blur(4px)}
+.fw-play:hover{background:rgba(255,255,255,.3)}
+.fw-play.playing{background:#fff;color:var(--rojo)}
+.fw-meta{flex:1;min-width:0}
+.fw-label{font-size:.62rem;text-transform:uppercase;letter-spacing:.1em;opacity:.8;font-weight:700}
+.fw-station{font-weight:800;font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fw-chev{opacity:.7;font-size:.8rem;transition:transform .2s}
+.fw-open .fw-chev{transform:rotate(180deg)}
+.fw-body{padding:0 14px 14px}
+.fw-news{background:rgba(255,255,255,.1);border-radius:12px;padding:11px 13px;margin-bottom:10px;backdrop-filter:blur(4px)}
+.fw-news .nl{font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;opacity:.75;font-weight:800;display:flex;align-items:center;gap:6px;margin-bottom:5px}
+.fw-news .nl .dot{width:6px;height:6px;border-radius:50%;background:#ff6b6b;animation:pulse 1.2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.fw-news-ticker{position:relative;overflow:hidden;min-height:40px}
+.fw-news-item{position:absolute;inset:0;display:flex;align-items:center;opacity:0;transform:translateY(12px);transition:opacity .45s ease,transform .45s ease;cursor:pointer;text-decoration:none;color:#fff}
+.fw-news-item.on{opacity:1;transform:translateY(0)}
+.fw-news-item .t{font-size:.82rem;font-weight:600;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.fw-news-item .s{font-size:.66rem;opacity:.75;margin-top:1px}
+.fw-stations{display:flex;flex-direction:column;gap:5px;max-height:190px;overflow-y:auto}
+.fw-stations::-webkit-scrollbar{width:5px}.fw-stations::-webkit-scrollbar-thumb{background:rgba(255,255,255,.25);border-radius:3px}
+.fw-st{background:none;border:1px solid rgba(255,255,255,.14);border-radius:10px;color:#fff;padding:8px 11px;text-align:left;font-size:.82rem;font-weight:600;cursor:pointer;transition:background .12s}
+.fw-st:hover{background:rgba(255,255,255,.12)}
+.fw-st.active{background:rgba(255,255,255,.22);border-color:rgba(255,255,255,.4)}
+.fw-close{position:absolute;top:10px;right:10px;background:none;border:none;color:#fff;opacity:.6;font-size:1rem;cursor:pointer;padding:4px}
+.fw-close:hover{opacity:1}
+@media(max-width:600px){.float-widget{right:12px;bottom:12px;width:calc(100vw - 24px)}}
+
 @media(max-width:600px){
   .hero h1{font-size:1.5rem}
   .loteria-grid{grid-template-columns:1fr 1fr}
@@ -276,6 +308,27 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
     <p>Datos: <a href="https://loteriasdominicanas.com" target="_blank" rel="noopener">loteriasdominicanas.com</a> · <a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a> · <a href="https://www.radio-browser.info" target="_blank" rel="noopener">Radio Browser</a></p>
     <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>
   </footer>
+</div>
+
+<!-- Widget flotante: radio + noticias deslizantes -->
+<div class="float-widget fw-collapsed" id="floatWidget">
+  <div class="fw-card">
+    <div class="fw-head" id="fwHead">
+      <button class="fw-play" id="fwPlay" aria-label="Reproducir">▶</button>
+      <div class="fw-meta">
+        <div class="fw-label">Radio en vivo</div>
+        <div class="fw-station" id="fwStation">Elige una emisora</div>
+      </div>
+      <span class="fw-chev" id="fwChev">▾</span>
+    </div>
+    <div class="fw-body">
+      <div class="fw-news">
+        <div class="nl"><span class="dot"></span> Noticias</div>
+        <div class="fw-news-ticker" id="fwNewsTicker"></div>
+      </div>
+      <div class="fw-stations" id="fwStations"></div>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -543,6 +596,94 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').catch(() => {});
   });
 }
+
+// ---- Widget flotante: radio + noticias deslizantes ----
+(function(){
+  let fwAudio = null;
+  let fwCurrent = null;
+  const widget = document.getElementById('floatWidget');
+  const head = document.getElementById('fwHead');
+  const playBtn = document.getElementById('fwPlay');
+  const stationLabel = document.getElementById('fwStation');
+  const stationsBox = document.getElementById('fwStations');
+
+  // expandir/colapsar
+  head.addEventListener('click', (e) => {
+    if (e.target === playBtn) return;
+    widget.classList.toggle('fw-collapsed');
+  });
+
+  // cargar emisoras
+  fetch('data/radio.json?v=' + Date.now())
+    .then(r => r.json()).then(d => {
+      stationsBox.innerHTML = '';
+      d.emisoras.forEach(s => {
+        const b = document.createElement('button');
+        b.className = 'fw-st';
+        b.textContent = s.nombre;
+        b.addEventListener('click', () => playStation(s, b));
+        stationsBox.appendChild(b);
+      });
+    }).catch(() => { stationsBox.innerHTML = '<p style="opacity:.7;font-size:.8rem">No se pudieron cargar las emisoras.</p>'; });
+
+  function playStation(s, el){
+    fwCurrent = s;
+    stationLabel.textContent = s.nombre;
+    document.querySelectorAll('.fw-st').forEach(x => x.classList.remove('active'));
+    if (el) el.classList.add('active');
+    if (fwAudio){ fwAudio.pause(); }
+    fwAudio = new Audio(s.url);
+    fwAudio.volume = 0.8;
+    fwAudio.play().then(() => {
+      playBtn.textContent = '⏸';
+      playBtn.classList.add('playing');
+    }).catch(() => {
+      playBtn.textContent = '▶';
+      playBtn.classList.remove('playing');
+      stationLabel.textContent = 'Error: ' + s.nombre;
+    });
+  }
+
+  playBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (!fwAudio) return;
+    if (fwAudio.paused){
+      fwAudio.play();
+      playBtn.textContent = '⏸';
+      playBtn.classList.add('playing');
+    } else {
+      fwAudio.pause();
+      playBtn.textContent = '▶';
+      playBtn.classList.remove('playing');
+    }
+  });
+
+  // noticias deslizantes (slide)
+  fetch('data/noticias.json?v=' + Date.now())
+    .then(r => r.json()).then(d => {
+      const ticker = document.getElementById('fwNewsTicker');
+      const items = d.noticias.slice(0, 8);
+      if (!items.length) return;
+      items.forEach((n, i) => {
+        const a = document.createElement('a');
+        a.className = 'fw-news-item' + (i === 0 ? ' on' : '');
+        a.href = n.enlace;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.innerHTML = '<div><div class="t">'+n.titulo+'</div><div class="s">'+n.fuente+'</div></div>';
+        ticker.appendChild(a);
+      });
+      // rotar cada 4 segundos
+      let idx = 0;
+      setInterval(() => {
+        const all = ticker.querySelectorAll('.fw-news-item');
+        if (!all.length) return;
+        all[idx].classList.remove('on');
+        idx = (idx + 1) % all.length;
+        all[idx].classList.add('on');
+      }, 4000);
+    }).catch(() => {});
+})();
 </script>
 </body>
 </html>
