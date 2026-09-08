@@ -456,11 +456,11 @@ ciudades.forEach((c, i) => {
     const desc = wmoDesc[code] || '—';
     if (i === 0) {
       // hero: Santo Domingo
-      hero.innerHTML = '<div class="wicon">'+icon+'</div><div class="winfo"><div class="wcity">'+c.nombre+'</div><div class="wtemp">'+temp+'°</div><div class="wdesc">'+desc+'</div><div class="wmeta"><span>💧 '+d.current.relative_humidity_2m+'%</span><span>🌬️ '+Math.round(d.current.wind_speed_10m)+' km/h</span><span>🌡️ Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</span></div></div>';
+      hero.innerHTML = '<div class="wicon">'+icon+'</div><div class="winfo"><div class="wcity">'+c.nombre+'</div><div class="wtemp">'+temp+'°</div><div class="wdesc">'+desc+'</div><div class="wmeta"><span>💧 '+d.current.relative_humidity_2m+'%</span><span>🌬️ '+Math.round(d.current.wind_speed_10m)+' km/h</span><span>🌡️ Máx '+Math.round(d.daily.temperature_2m_max[0])+'° · Mín '+Math.round(d.daily.temperature_2m_min[0])+'°</span></div></div>';
     } else {
       const card = document.createElement('div');
       card.className = 'w-card';
-      card.innerHTML = '<div class="wicon">'+icon+'</div><div class="city">'+c.nombre+'</div><div class="temp">'+temp+'°</div><div class="desc">'+desc+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
+      card.innerHTML = '<div class="wicon">'+icon+'</div><div class="city">'+c.nombre+'</div><div class="temp">'+temp+'°</div><div class="desc">'+desc+'</div><div class="range">Máx '+Math.round(d.daily.temperature_2m_max[0])+'° · Mín '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
       wgrid.appendChild(card);
     }
   }).catch(()=>{});
@@ -483,12 +483,15 @@ fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {h
       const card = document.createElement('div');
       card.className = 'mlb-card';
       const st = game.status.abstractGameState;
+      const stEs = {'Final':'Final','Live':'En vivo','Preview':'Previo','Pre-Game':'Previo','In Progress':'En curso','Scheduled':'Programado','Delayed':'Retrasado','Postponed':'Pospuesto'}[st] || st;
       const away = game.teams.away, home = game.teams.home;
       let score = '';
       if (st === 'Final' || st === 'Live'){
-        score = '<div class="score">'+(away.score ?? '–')+' — '+(home.score ?? '–')+'<span class="st">'+st+'</span></div>';
+        score = '<div class="score">'+(away.score ?? '–')+' — '+(home.score ?? '–')+'<span class="st">'+stEs+'</span></div>';
       } else {
-        score = '<div class="score" style="font-size:.95rem;color:var(--muted)">'+game.status.detailedState+' · '+new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})+'</div>';
+        const det = game.status.detailedState || '';
+        const detEs = {'Scheduled':'Programado','Pre-Game':'Previo','In Progress':'En curso','Delayed':'Retrasado','Postponed':'Pospuesto','Final':'Final','Cancelled':'Cancelado'}[det] || det;
+        score = '<div class="score" style="font-size:.95rem;color:var(--muted)">'+(detEs || stEs)+' · '+new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})+'</div>';
       }
       card.innerHTML = '<div class="match">'+away.team.name+' @ '+home.team.name+'</div>'+score;
       grid.appendChild(card);
