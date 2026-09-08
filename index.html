@@ -92,24 +92,7 @@ h2.sect .meta{font-size:.78rem;color:var(--muted);font-weight:600;margin-left:au
 .news .meta{color:var(--muted);font-size:.76rem;margin-top:5px;display:flex;gap:8px;align-items:center}
 .news .meta .src{color:var(--rojo);font-weight:700}
 
-/* ---- Radio ---- */
-.radio-player{background:linear-gradient(135deg,var(--azul),var(--azul2));border-radius:16px;padding:18px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px}
-.radio-player .now{font-size:.78rem;opacity:.85;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
-.radio-player .title{font-size:1.3rem;font-weight:800;margin:2px 0 14px}
-.radio-player .controls{display:flex;align-items:center;gap:14px}
-.btn-play{width:52px;height:52px;border-radius:50%;border:none;background:#fff;color:var(--azul);font-size:1.3rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:transform .1s;flex:0 0 auto}
-.btn-play:hover{transform:scale(1.06)}
-.btn-play.playing{color:var(--rojo)}
-.vol{flex:1;min-width:80px}
-.vol input{width:100%;accent-color:#fff}
-.radio-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;max-height:340px;overflow-y:auto;padding-right:4px}
-.radio-list::-webkit-scrollbar{width:6px}
-.radio-list::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
-.r-station{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:11px 13px;cursor:pointer;transition:all .15s;text-align:left;box-shadow:var(--shadow)}
-.r-station:hover{border-color:var(--azul)}
-.r-station.active{border-color:var(--rojo);background:#fdf2f3}
-.r-station .n{font-weight:700;font-size:.88rem}
-.r-station .m{color:var(--muted);font-size:.7rem;margin-top:1px}
+/* ---- Radio (solo widget flotante) ---- */
 
 /* ---- Tiempo ---- */
 #weather-hero{background:linear-gradient(135deg,#1e88e5,#42a5f5);border-radius:18px;padding:20px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px;display:flex;align-items:center;gap:18px}
@@ -227,7 +210,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
 <nav class="tabs" id="nav">
   <a href="#loteria" class="active">🎰 Lotería</a>
-  <a href="#radio">📻 Radio</a>
+  <a href="#radio">💬 Chat</a>
   <a href="#tendencias">📈 Tendencias</a>
   <a href="#noticias">📰 Noticias</a>
   <a href="#tiempo">🌤️ Tiempo</a>
@@ -245,18 +228,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
   </section>
 
   <section id="radio">
-    <h2 class="sect"><span class="bar"></span> Radio Dominicana <span class="meta">en vivo</span></h2>
-    <div class="radio-player">
-      <div class="now">Escuchando ahora</div>
-      <div class="title" id="radio-title">Elige una emisora</div>
-      <div class="controls">
-        <button class="btn-play" id="radio-play" aria-label="Reproducir">▶</button>
-        <div class="vol"><input type="range" id="radio-vol" min="0" max="100" value="80" aria-label="Volumen"></div>
-      </div>
-    </div>
-    <div class="radio-list" id="radio-list"><p style="color:var(--muted)">Cargando emisoras…</p></div>
-
-    <h2 class="sect" style="margin-top:26px"><span class="bar"></span> Chat en vivo <span class="meta" id="chat-status">conectando…</span></h2>
+    <h2 class="sect"><span class="bar"></span> Chat en vivo <span class="meta" id="chat-status">conectando…</span></h2>
     <div class="chat-box" id="chat-box">
       <div class="chat-msgs" id="chat-msgs"><p style="color:var(--muted)">Conectando al chat…</p></div>
       <div class="chat-input-row">
@@ -417,60 +389,6 @@ fetch('data/resultados.json?v=' + Date.now())
     document.getElementById('updated').textContent = 'No se pudieron cargar los resultados.';
     document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--rojo)">Error cargando resultados.</p>';
   });
-
-// ---- Radio ----
-let audio = null;
-let currentUrl = null;
-fetch('data/radio.json?v=' + Date.now())
-  .then(r => r.json())
-  .then(d => {
-    const list = document.getElementById('radio-list');
-    list.innerHTML = '';
-    d.emisoras.forEach((s, i) => {
-      const el = document.createElement('button');
-      el.className = 'r-station';
-      const codec = s.codec ? s.codec + (s.bitrate ? ' '+s.bitrate+'k' : '') : '';
-      el.innerHTML = '<div class="n">'+s.nombre+'</div><div class="m">'+codec+'</div>';
-      el.addEventListener('click', () => playStation(s, el));
-      list.appendChild(el);
-    });
-  })
-  .catch(() => { document.getElementById('radio-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las emisoras.</p>'; });
-
-function playStation(s, el){
-  const title = document.getElementById('radio-title');
-  const btn = document.getElementById('radio-play');
-  document.querySelectorAll('.r-station').forEach(x => x.classList.remove('active'));
-  el.classList.add('active');
-  title.textContent = s.nombre;
-  if (audio){ audio.pause(); }
-  audio = new Audio(s.url);
-  audio.volume = document.getElementById('radio-vol').value / 100;
-  audio.play().then(() => {
-    btn.textContent = '⏸';
-    btn.classList.add('playing');
-  }).catch(() => {
-    btn.textContent = '▶';
-    btn.classList.remove('playing');
-    title.textContent = 'No se pudo reproducir: ' + s.nombre;
-  });
-}
-document.getElementById('radio-play').addEventListener('click', () => {
-  if (!audio) return;
-  const btn = document.getElementById('radio-play');
-  if (audio.paused){
-    audio.play();
-    btn.textContent = '⏸';
-    btn.classList.add('playing');
-  } else {
-    audio.pause();
-    btn.textContent = '▶';
-    btn.classList.remove('playing');
-  }
-});
-document.getElementById('radio-vol').addEventListener('input', e => {
-  if (audio) audio.volume = e.target.value / 100;
-});
 
 // ---- Tendencias ----
 fetch('data/tendencias.json?v=' + Date.now())
@@ -709,6 +627,8 @@ if ('serviceWorker' in navigator) {
         all[idx].classList.add('on');
       }, 4000);
     }).catch(() => {});
+})();
+
 // ---- Chat en vivo (WebSocket) ----
 (function(){
   const CHAT_URL = 'ws://' + location.hostname + ':8765/ws?room=radio';
