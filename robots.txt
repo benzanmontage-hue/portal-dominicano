@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /portal-dominicano/app.html
-Disallow: /portal-dominicano/data/
+Disallow: /app.html
+Disallow: /data/
 
 Allow: /
 
