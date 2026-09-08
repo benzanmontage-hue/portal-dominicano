@@ -79,6 +79,13 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
 .tend .links a{font-size:.72rem;color:var(--azul2);text-decoration:none;font-weight:700;margin-right:10px}
 .tend .thumb{width:46px;height:46px;border-radius:9px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
 
+/* Noticias */
+.news-list{display:flex;flex-direction:column;gap:8px}
+.news{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow);text-decoration:none;color:var(--txt);display:block}
+.news .titulo{font-weight:700;font-size:.88rem;line-height:1.35}
+.news .meta{color:var(--muted);font-size:.7rem;margin-top:4px;display:flex;gap:6px;align-items:center}
+.news .meta .src{color:var(--rojo);font-weight:700}
+
 /* Tiempo */
 .w-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
 .w-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px;text-align:center;box-shadow:var(--shadow)}
@@ -144,12 +151,20 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
       <div class="tend-list" id="tendencias-list"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
     </div>
 
+    <div class="screen" id="scr-noticias">
+      <h2 class="sec"><span class="bar"></span> Noticias <span class="meta" id="noticias-updated"></span></h2>
+      <div class="news-list" id="noticias-list"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+    </div>
+
     <div class="screen" id="scr-tiempo">
       <h2 class="sec"><span class="bar"></span> Tiempo</h2>
       <div class="w-grid" id="weather-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
     </div>
 
     <div class="screen" id="scr-mas">
+      <h2 class="sec"><span class="bar"></span> Tendencias Google <span class="meta" id="tendencias-updated"></span></h2>
+      <div class="tend-list" id="tendencias-list"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+
       <h2 class="sec"><span class="bar"></span> MLB — hoy</h2>
       <div class="mlb-list" id="mlb-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
 
@@ -183,7 +198,7 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
   <div class="tabbar">
     <button data-tab="loteria" class="active"><span class="i">🎰</span>Lotería</button>
     <button data-tab="radio"><span class="i">📻</span>Radio</button>
-    <button data-tab="tendencias"><span class="i">📈</span>Tendencias</button>
+    <button data-tab="noticias"><span class="i">📰</span>Noticias</button>
     <button data-tab="tiempo"><span class="i">🌤️</span>Tiempo</button>
     <button data-tab="mas"><span class="i">⚾</span>Más</button>
   </div>
@@ -275,6 +290,24 @@ fetch('data/tendencias.json?v=' + Date.now())
       list.appendChild(el);
     });
   }).catch(() => document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
+
+// ---- Noticias ----
+fetch('data/noticias.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('noticias-updated').textContent = d.hora;
+    const list = document.getElementById('noticias-list');
+    list.innerHTML = '';
+    d.noticias.forEach(n => {
+      const a = document.createElement('a');
+      a.className = 'news';
+      a.href = n.enlace;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      const fecha = n.fecha ? n.fecha.replace(/[+-]\d{4}.*$/, '').trim() : '';
+      a.innerHTML = '<div class="titulo">'+n.titulo+'</div><div class="meta"><span class="src">'+n.fuente+'</span><span>'+fecha+'</span></div>';
+      list.appendChild(a);
+    });
+  }).catch(() => document.getElementById('noticias-list').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
 
 // ---- Tiempo ----
 const ciudades = [
