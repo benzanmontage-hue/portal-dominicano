@@ -601,7 +601,7 @@ function toggleFavorito(id, btn){
 }
 // Compartir por WhatsApp
 function shareUrl(j){
-  const texto = '🎰 ' + j.compania + ' — ' + j.juego + '\nNúmeros de hoy: ' + j.numeros.join(' · ') + '\n\nMás resultados en Portal Dominicano 👇';
+  const texto = j.compania + ' — ' + j.juego + '\nNúmeros de hoy: ' + j.numeros.join(' · ') + '\n\nVer todos los resultados en Portal Dominicano:';
   return 'https://wa.me/?text=' + encodeURIComponent(texto + '\nhttps://portaldominicana.net/');
 }
 function marcarCoincidencias(){
