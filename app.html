@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>Portal RD — App</title>
+<meta name="description" content="App dominicana: lotería, radio, tiempo, MLB, tendencias y más.">
+<meta name="theme-color" content="#002d62">
+<meta name="robots" content="index,follow">
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Portal RD">
+<link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
+<link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
+<style>
+:root{
+  --azul:#002d62; --azul2:#0a4a8f; --rojo:#ce1126; --rojo2:#e8233b;
+  --bg:#f2f5fa; --card:#ffffff; --border:#e2e8f0; --txt:#0f1c33; --muted:#5b6b85; --gold:#f5b942;
+  --shadow:0 1px 3px rgba(15,28,51,.08),0 4px 14px rgba(15,28,51,.05);
+  --tab-h:58px;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;overflow:hidden}
+
+/* App shell */
+#app{height:100%;display:flex;flex-direction:column;max-width:520px;margin:0 auto}
+.app-header{background:linear-gradient(135deg,var(--azul) 0%,var(--azul2) 45%,var(--rojo) 45.5%,var(--rojo2) 100%);color:#fff;padding:14px 16px 12px;display:flex;align-items:center;gap:10px;flex:0 0 auto}
+.app-header .escudo{width:38px;height:38px;filter:drop-shadow(0 1px 3px rgba(0,0,0,.3))}
+.app-header .t{flex:1}
+.app-header .t h1{font-size:1.05rem;font-weight:900;letter-spacing:-.01em}
+.app-header .t .lema{font-size:.62rem;letter-spacing:.18em;text-transform:uppercase;opacity:.85;font-weight:600}
+.app-header .updated{font-size:.68rem;background:rgba(255,255,255,.16);padding:3px 10px;border-radius:14px;font-weight:600}
+
+/* Screens */
+#screens{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:14px 14px 8px}
+.screen{display:none}
+.screen.active{display:block;animation:fade .18s ease}
+@keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+
+h2.sec{font-size:1rem;font-weight:800;margin:10px 0 10px;display:flex;align-items:center;gap:8px}
+h2.sec .bar{width:4px;height:16px;border-radius:2px;background:linear-gradient(var(--azul),var(--rojo))}
+h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:auto}
+
+/* Lotería */
+.lot-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.lot-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:11px;box-shadow:var(--shadow)}
+.lot-card .comp{font-size:.62rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:var(--rojo)}
+.lot-card .game{font-size:.85rem;font-weight:800;margin-top:1px}
+.lot-card .nums{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.ball{min-width:28px;height:28px;padding:0 5px;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#f7f9fc,#e9eef6);border:1px solid var(--border);border-radius:8px;font-weight:800;font-size:.85rem;font-variant-numeric:tabular-nums}
+.ball.gold{background:linear-gradient(180deg,#ffd76a,#f0b429);color:#4a2c00;border-color:#e6a800}
+
+/* Radio */
+.radio-player{background:linear-gradient(135deg,var(--azul),var(--azul2));border-radius:14px;padding:14px;color:#fff;box-shadow:var(--shadow);margin-bottom:10px}
+.radio-player .now{font-size:.66rem;opacity:.85;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+.radio-player .title{font-size:1.05rem;font-weight:800;margin:2px 0 10px}
+.radio-player .controls{display:flex;align-items:center;gap:12px}
+.btn-play{width:48px;height:48px;border-radius:50%;border:none;background:#fff;color:var(--azul);font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+.btn-play.playing{color:var(--rojo)}
+.vol{flex:1}.vol input{width:100%;accent-color:#fff}
+.radio-list{display:flex;flex-direction:column;gap:7px}
+.r-station{background:var(--card);border:1px solid var(--border);border-radius:11px;padding:10px 13px;cursor:pointer;text-align:left;box-shadow:var(--shadow)}
+.r-station.active{border-color:var(--rojo);background:#fdf2f3}
+.r-station .n{font-weight:700;font-size:.85rem}
+.r-station .m{color:var(--muted);font-size:.68rem}
+
+/* Tendencias */
+.tend-list{display:flex;flex-direction:column;gap:8px}
+.tend{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:11px 13px;display:flex;gap:10px;align-items:flex-start;box-shadow:var(--shadow)}
+.tend .rank{font-weight:900;font-size:1.05rem;color:var(--azul);min-width:24px;text-align:center;line-height:1.3}
+.tend .rank.hot{color:var(--rojo)}
+.tend .body{flex:1;min-width:0}
+.tend .term{font-weight:800;font-size:.9rem}
+.tend .traf{display:inline-block;margin-left:6px;font-size:.64rem;color:#7a5200;font-weight:800;background:#fdf3d8;padding:2px 7px;border-radius:10px;border:1px solid #f5e3ad}
+.tend .noti{color:var(--muted);font-size:.76rem;margin-top:2px;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tend .links{margin-top:5px}
+.tend .links a{font-size:.72rem;color:var(--azul2);text-decoration:none;font-weight:700;margin-right:10px}
+.tend .thumb{width:46px;height:46px;border-radius:9px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
+
+/* Tiempo */
+.w-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.w-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px;text-align:center;box-shadow:var(--shadow)}
+.w-card .city{font-weight:800;font-size:.85rem}
+.w-card .temp{font-size:1.7rem;font-weight:900;color:var(--azul);margin:3px 0}
+.w-card .desc{color:var(--muted);font-size:.75rem}
+.w-card .range{color:var(--muted);font-size:.7rem;margin-top:2px}
+
+/* MLB */
+.mlb-list{display:flex;flex-direction:column;gap:8px}
+.mlb-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:11px 14px;box-shadow:var(--shadow)}
+.mlb-card .match{font-weight:800;font-size:.88rem}
+.mlb-card .score{font-size:1.2rem;font-weight:900;color:var(--azul);margin-top:2px}
+.mlb-card .score .st{font-size:.68rem;color:var(--muted);font-weight:700;margin-left:5px}
+
+/* Traductor */
+.translator{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px;box-shadow:var(--shadow)}
+.translator textarea{width:100%;min-height:84px;background:var(--bg);border:1px solid var(--border);border-radius:10px;color:var(--txt);padding:11px;font-size:.9rem;resize:vertical;font-family:inherit}
+.translator .row{display:flex;gap:7px;margin-top:10px;align-items:center}
+.translator select,.translator button{padding:9px 12px;border-radius:9px;border:1px solid var(--border);background:var(--bg);color:var(--txt);font-size:.84rem;font-weight:600}
+.translator button{background:linear-gradient(135deg,var(--azul),var(--rojo));border:none;color:#fff;font-weight:800;cursor:pointer}
+.translator .out{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:11px;margin-top:10px;min-height:50px;font-size:.9rem;white-space:pre-wrap}
+
+/* Compras + enlaces */
+.links-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}
+.link{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 6px;text-align:center;text-decoration:none;color:var(--txt);font-weight:700;font-size:.72rem;box-shadow:var(--shadow)}
+.link .ico{font-size:1.4rem;display:block;margin-bottom:4px}
+
+/* Tab bar */
+.tabbar{flex:0 0 auto;height:var(--tab-h);background:var(--card);border-top:1px solid var(--border);display:flex;padding-bottom:env(safe-area-inset-bottom);box-shadow:0 -1px 8px rgba(15,28,51,.06)}
+.tabbar button{flex:1;border:none;background:none;color:var(--muted);font-size:.62rem;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+.tabbar button .i{font-size:1.3rem;line-height:1}
+.tabbar button.active{color:var(--rojo)}
+.tabbar button.active .i{transform:scale(1.12)}
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="app-header">
+    <img class="escudo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/330px-Coat_of_arms_of_the_Dominican_Republic.svg.png" alt="" onerror="this.style.display='none'">
+    <div class="t"><h1>Portal RD</h1><div class="lema">Dios · Patria · Libertad</div></div>
+    <div class="updated" id="updated">…</div>
+  </div>
+
+  <div id="screens">
+    <div class="screen active" id="scr-loteria">
+      <h2 class="sec"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
+      <div class="lot-grid" id="loteria-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+    </div>
+
+    <div class="screen" id="scr-radio">
+      <h2 class="sec"><span class="bar"></span> Radio Dominicana <span class="meta">en vivo</span></h2>
+      <div class="radio-player">
+        <div class="now">Escuchando ahora</div>
+        <div class="title" id="radio-title">Elige una emisora</div>
+        <div class="controls"><button class="btn-play" id="radio-play">▶</button><div class="vol"><input type="range" id="radio-vol" min="0" max="100" value="80"></div></div>
+      </div>
+      <div class="radio-list" id="radio-list"><p style="color:var(--muted);font-size:.85rem">Cargando emisoras…</p></div>
+    </div>
+
+    <div class="screen" id="scr-tendencias">
+      <h2 class="sec"><span class="bar"></span> Tendencias Google <span class="meta" id="tendencias-updated"></span></h2>
+      <div class="tend-list" id="tendencias-list"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+    </div>
+
+    <div class="screen" id="scr-tiempo">
+      <h2 class="sec"><span class="bar"></span> Tiempo</h2>
+      <div class="w-grid" id="weather-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+    </div>
+
+    <div class="screen" id="scr-mas">
+      <h2 class="sec"><span class="bar"></span> MLB — hoy</h2>
+      <div class="mlb-list" id="mlb-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+
+      <h2 class="sec"><span class="bar"></span> Traductor</h2>
+      <div class="translator">
+        <textarea id="tr-in" placeholder="Escribe algo…"></textarea>
+        <div class="row">
+          <select id="tr-from"><option value="es">Español</option><option value="en">English</option></select>
+          <span style="color:var(--muted)">→</span>
+          <select id="tr-to"><option value="en">English</option><option value="es">Español</option></select>
+          <button id="tr-go">Traducir</button>
+        </div>
+        <div class="out" id="tr-out"></div>
+      </div>
+
+      <h2 class="sec"><span class="bar"></span> Compras</h2>
+      <div class="links-grid">
+        <a class="link" href="https://www.amazon.com" target="_blank" rel="noopener"><span class="ico">📦</span>Amazon</a>
+        <a class="link" href="https://www.temu.com" target="_blank" rel="noopener"><span class="ico">🛍️</span>Temu</a>
+        <a class="link" href="https://www.shein.com" target="_blank" rel="noopener"><span class="ico">👗</span>Shein</a>
+        <a class="link" href="https://www.aliexpress.com" target="_blank" rel="noopener"><span class="ico">🌏</span>AliExpress</a>
+        <a class="link" href="https://www.ebay.com" target="_blank" rel="noopener"><span class="ico">🔨</span>eBay</a>
+        <a class="link" href="https://www.mercadalibre.com.do" target="_blank" rel="noopener"><span class="ico">🇩🇴</span>Mercado Libre</a>
+        <a class="link" href="https://www.corotos.com.do" target="_blank" rel="noopener"><span class="ico">🔄</span>Corotos</a>
+        <a class="link" href="https://web.whatsapp.com" target="_blank" rel="noopener"><span class="ico">💬</span>WhatsApp</a>
+        <a class="link" href="https://www.youtube.com" target="_blank" rel="noopener"><span class="ico">▶️</span>YouTube</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="tabbar">
+    <button data-tab="loteria" class="active"><span class="i">🎰</span>Lotería</button>
+    <button data-tab="radio"><span class="i">📻</span>Radio</button>
+    <button data-tab="tendencias"><span class="i">📈</span>Tendencias</button>
+    <button data-tab="tiempo"><span class="i">🌤️</span>Tiempo</button>
+    <button data-tab="mas"><span class="i">⚾</span>Más</button>
+  </div>
+</div>
+
+<script>
+// ---- Tabs ----
+document.querySelectorAll('.tabbar button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tabbar button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    document.getElementById('scr-' + btn.dataset.tab).classList.add('active');
+    document.getElementById('screens').scrollTop = 0;
+  });
+});
+
+// ---- Lotería ----
+fetch('data/resultados.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('updated').textContent = d.hora;
+    document.getElementById('loteria-fecha').textContent = d.fecha;
+    const grid = document.getElementById('loteria-grid');
+    const byComp = {};
+    d.juegos.forEach(j => (byComp[j.compania] = byComp[j.compania] || []).push(j));
+    const order = ['Nacional','Loteria Real','Anguila','Loteka','La Primera','La Suerte','Leidsa'];
+    grid.innerHTML = '';
+    order.forEach(comp => {
+      if (!byComp[comp]) return;
+      byComp[comp].forEach(j => {
+        const c = document.createElement('div');
+        c.className = 'lot-card';
+        const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'">'+n+'</span>').join('');
+        c.innerHTML = '<div class="comp">'+j.compania+'</div><div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>';
+        grid.appendChild(c);
+      });
+    });
+  }).catch(() => document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--rojo);font-size:.85rem">Error.</p>');
+
+// ---- Radio ----
+let audio = null;
+fetch('data/radio.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    const list = document.getElementById('radio-list');
+    list.innerHTML = '';
+    d.emisoras.forEach(s => {
+      const el = document.createElement('button');
+      el.className = 'r-station';
+      const codec = s.codec ? s.codec + (s.bitrate ? ' '+s.bitrate+'k' : '') : '';
+      el.innerHTML = '<div class="n">'+s.nombre+'</div><div class="m">'+codec+'</div>';
+      el.addEventListener('click', () => playStation(s, el));
+      list.appendChild(el);
+    });
+  }).catch(() => document.getElementById('radio-list').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
+
+function playStation(s, el){
+  document.getElementById('radio-title').textContent = s.nombre;
+  document.querySelectorAll('.r-station').forEach(x => x.classList.remove('active'));
+  el.classList.add('active');
+  const btn = document.getElementById('radio-play');
+  if (audio) audio.pause();
+  audio = new Audio(s.url);
+  audio.volume = document.getElementById('radio-vol').value / 100;
+  audio.play().then(() => { btn.textContent = '⏸'; btn.classList.add('playing'); })
+    .catch(() => { btn.textContent = '▶'; btn.classList.remove('playing'); document.getElementById('radio-title').textContent = 'Error: ' + s.nombre; });
+}
+document.getElementById('radio-play').addEventListener('click', () => {
+  if (!audio) return;
+  const btn = document.getElementById('radio-play');
+  if (audio.paused){ audio.play(); btn.textContent = '⏸'; btn.classList.add('playing'); }
+  else { audio.pause(); btn.textContent = '▶'; btn.classList.remove('playing'); }
+});
+document.getElementById('radio-vol').addEventListener('input', e => { if (audio) audio.volume = e.target.value / 100; });
+
+// ---- Tendencias ----
+fetch('data/tendencias.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('tendencias-updated').textContent = d.hora;
+    const list = document.getElementById('tendencias-list');
+    list.innerHTML = '';
+    d.tendencias.forEach((t, i) => {
+      const el = document.createElement('div');
+      el.className = 'tend';
+      const thumb = t.imagen ? '<img class="thumb" src="'+t.imagen+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' : '';
+      const noti = t.noticia ? '<div class="noti">'+t.noticia+'</div>' : '';
+      const hot = i < 3 ? ' hot' : '';
+      const links = (t.enlace ? '<a href="'+t.enlace+'" target="_blank" rel="noopener">📰 Noticia</a>' : '') + '<a href="https://www.google.com/search?q='+encodeURIComponent(t.termino)+'" target="_blank" rel="noopener">🔍 Buscar</a>';
+      el.innerHTML = '<div class="rank'+hot+'">'+(i+1)+'</div>'+thumb+'<div class="body"><div class="term">'+t.termino+'<span class="traf">'+t.trafico+'</span></div>'+noti+'<div class="links">'+links+'</div></div>';
+      list.appendChild(el);
+    });
+  }).catch(() => document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
+
+// ---- Tiempo ----
+const ciudades = [
+  {nombre:'Santo Domingo', lat:18.47, lon:-69.89},
+  {nombre:'Santiago', lat:19.45, lon:-70.70},
+  {nombre:'Punta Cana', lat:18.56, lon:-68.37},
+  {nombre:'La Romana', lat:18.43, lon:-68.97},
+  {nombre:'San Pedro', lat:18.46, lon:-69.31},
+  {nombre:'Puerto Plata', lat:19.79, lon:-70.69},
+];
+const wmo = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
+const wgrid = document.getElementById('weather-grid');
+wgrid.innerHTML = '';
+ciudades.forEach(c => {
+  fetch('https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1')
+    .then(r=>r.json()).then(d=>{
+      const card = document.createElement('div');
+      card.className = 'w-card';
+      card.innerHTML = '<div class="city">'+c.nombre+'</div><div class="temp">'+Math.round(d.current.temperature_2m)+'°</div><div class="desc">'+(wmo[d.current.weather_code]||'—')+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
+      wgrid.appendChild(card);
+    }).catch(()=>{});
+});
+
+// ---- MLB ----
+function mlbDate(){
+  const now = new Date();
+  const d = new Date(now.toLocaleString('en-US',{timeZone:'America/Santo_Domingo'}));
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}
+fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {headers:{'Accept':'application/json'}})
+  .then(r=>r.json()).then(d=>{
+    const g = d.dates[0]?.games || [];
+    const grid = document.getElementById('mlb-grid');
+    if (!g.length){ grid.innerHTML = '<p style="color:var(--muted);font-size:.85rem">No hay juegos hoy.</p>'; return; }
+    grid.innerHTML = '';
+    g.forEach(game=>{
+      const card = document.createElement('div');
+      card.className = 'mlb-card';
+      const st = game.status.abstractGameState;
+      const away = game.teams.away, home = game.teams.home;
+      let score = '';
+      if (st === 'Final' || st === 'Live'){
+        score = '<div class="score">'+(away.score ?? '–')+' — '+(home.score ?? '–')+'<span class="st">'+st+'</span></div>';
+      } else {
+        score = '<div class="score" style="font-size:.85rem;color:var(--muted)">'+game.status.detailedState+' · '+new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})+'</div>';
+      }
+      card.innerHTML = '<div class="match">'+away.team.name+' @ '+home.team.name+'</div>'+score;
+      grid.appendChild(card);
+    });
+  }).catch(()=> document.getElementById('mlb-grid').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
+
+// ---- Traductor ----
+document.getElementById('tr-go').addEventListener('click', translate);
+function syncLangs(){
+  const f = document.getElementById('tr-from').value, t = document.getElementById('tr-to').value;
+  if (f === t) document.getElementById('tr-to').value = (f === 'es') ? 'en' : 'es';
+}
+document.getElementById('tr-from').addEventListener('change', syncLangs);
+document.getElementById('tr-to').addEventListener('change', syncLangs);
+async function translate(){
+  const text = document.getElementById('tr-in').value.trim();
+  if (!text) return;
+  const from = document.getElementById('tr-from').value, to = document.getElementById('tr-to').value;
+  const out = document.getElementById('tr-out');
+  out.textContent = 'Traduciendo…';
+  try {
+    const r = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl='+from+'&tl='+to+'&dt=t&q='+encodeURIComponent(text));
+    const d = await r.json();
+    out.textContent = d[0].map(x => x[0]).join('');
+  } catch(e){ out.textContent = 'Error de traducción.'; }
+}
+
+// ---- Service worker ----
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+</script>
+</body>
+</html>
