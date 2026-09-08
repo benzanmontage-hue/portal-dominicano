@@ -161,15 +161,19 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .w-card .range{color:var(--muted);font-size:.72rem;margin-top:3px;font-weight:600}
 
 /* ---- Divisas ---- */
-.divisas-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
-.divisa{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s;position:relative;overflow:hidden}
+.divisas-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.divisa{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s;position:relative;overflow:hidden}
 .divisa:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
 .divisa::after{content:"";position:absolute;top:0;right:0;width:60px;height:60px;background:radial-gradient(circle at top right,rgba(10,91,191,.08),transparent 70%)}
-.divisa .d-top{display:flex;align-items:center;gap:9px;margin-bottom:10px}
-.divisa .flag{font-size:1.4rem;line-height:1}
-.divisa .mon{font-size:.8rem;font-weight:700;color:var(--muted)}
-.divisa .valor{font-size:1.35rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums}
-.divisa .a{font-size:.74rem;color:var(--muted);font-weight:600;margin-left:4px}
+.divisa .d-top{display:flex;align-items:center;gap:7px;margin-bottom:8px}
+.divisa .flag{font-size:1.15rem;line-height:1}
+.divisa .mon{font-size:.7rem;font-weight:700;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.divisa .valor{font-size:1.15rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums}
+.divisa .a{font-size:.7rem;color:var(--muted);font-weight:600;margin-left:3px}
+.divisas-mas{grid-column:1/-1;background:none;border:1px dashed var(--border2);border-radius:12px;color:var(--azul2);font-weight:700;font-size:.82rem;padding:10px;cursor:pointer;transition:border-color .15s,background .15s}
+.divisas-mas:hover{border-color:var(--azul2);background:rgba(10,91,191,.05)}
+.divisas-extra{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;grid-column:1/-1}
+@media(max-width:600px){.divisas-grid{grid-template-columns:repeat(3,1fr)}.divisas-extra{grid-template-columns:repeat(3,1fr)}.divisa .valor{font-size:1rem}.divisa .mon{font-size:.64rem}}
 
 /* ---- MLB ---- */
 .mlb-grid{display:flex;flex-direction:column;gap:10px}
@@ -545,12 +549,38 @@ fetch('data/divisas.json?v=' + Date.now())
     document.getElementById('divisas-updated').textContent = 'Actualizado ' + d.fecha;
     const grid = document.getElementById('divisas-grid');
     grid.innerHTML = '';
-    d.conversiones.forEach(c => {
+    // 3 principales primero
+    const main = d.conversiones.slice(0, 3);
+    const resto = d.conversiones.slice(3);
+    main.forEach(c => {
       const el = document.createElement('div');
-      el.className = 'divisa';
+      el.className = 'divisa main';
       el.innerHTML = '<div class="d-top"><span class="flag">'+c.bandera+'</span><span class="mon">'+c.moneda+'</span></div><div class="valor">'+c.valor+'<span class="a">'+c.a+'</span></div>';
       grid.appendChild(el);
     });
+    if (resto.length){
+      // link "ver más" + panel oculto
+      const toggle = document.createElement('button');
+      toggle.className = 'divisas-mas';
+      toggle.textContent = 'Ver más monedas ▾';
+      grid.appendChild(toggle);
+      const extra = document.createElement('div');
+      extra.className = 'divisas-extra';
+      extra.style.display = 'none';
+      resto.forEach(c => {
+        const el = document.createElement('div');
+        el.className = 'divisa';
+        el.innerHTML = '<div class="d-top"><span class="flag">'+c.bandera+'</span><span class="mon">'+c.moneda+'</span></div><div class="valor">'+c.valor+'<span class="a">'+c.a+'</span></div>';
+        extra.appendChild(el);
+      });
+      grid.appendChild(extra);
+      let open = false;
+      toggle.addEventListener('click', () => {
+        open = !open;
+        extra.style.display = open ? 'grid' : 'none';
+        toggle.textContent = open ? 'Ver menos monedas ▴' : 'Ver más monedas ▾';
+      });
+    }
   })
   .catch(() => { document.getElementById('divisas-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las divisas.</p>'; });
 
