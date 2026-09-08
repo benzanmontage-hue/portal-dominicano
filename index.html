@@ -62,6 +62,8 @@ h2.sect .meta{font-size:.78rem;color:var(--muted);font-weight:600;margin-left:au
 .lot-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:15px;box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s}
 .lot-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
 .lot-card .comp{font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--rojo)}
+.lot-comp{grid-column:1/-1;font-size:.8rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--azul);margin:10px 0 0;padding-bottom:5px;border-bottom:2px solid var(--border);display:flex;align-items:center;gap:8px}
+.lot-comp::before{content:"";width:10px;height:10px;border-radius:3px;background:linear-gradient(135deg,var(--azul),var(--rojo))}
 .lot-card .game{font-size:.98rem;font-weight:800;margin-top:3px}
 .lot-card .nums{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}
 .ball{min-width:36px;height:36px;padding:0 7px;display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#f7f9fc,#e9eef6);border:1px solid var(--border);border-radius:10px;font-weight:800;font-size:1.05rem;font-variant-numeric:tabular-nums;color:var(--txt)}
@@ -285,15 +287,48 @@ fetch('data/resultados.json?v=' + Date.now())
     const grid = document.getElementById('loteria-grid');
     const byComp = {};
     d.juegos.forEach(j => (byComp[j.compania] = byComp[j.compania] || []).push(j));
-    const order = ['Nacional','Loteria Real','Anguila','Loteka','La Primera','La Suerte','Leidsa'];
+    // orden por popularidad de búsqueda (Nacional es #1)
+    const order = ['Nacional','Anguila','Loteria Real','Loteka','La Primera','La Suerte','Leidsa'];
+    // juegos principales de cada compañía (la quiniela/sorteo estrella primero)
+    const mainGame = {
+      'Nacional': ['Lotería Nacional','Gana Más'],
+      'Loteria Real': ['Lotería Real Noche','Quiniela Real'],
+      'Loteka': ['Quiniela Loteka'],
+      'La Primera': ['Primera Noche','La Primera Día'],
+      'La Suerte': ['La Suerte 12:30','La Suerte 18:00'],
+      'Leidsa': ['Quiniela Leidsa'],
+    };
     grid.innerHTML = '';
     order.forEach(comp => {
       if (!byComp[comp]) return;
-      byComp[comp].forEach(j => {
+      const juegos = byComp[comp];
+      // ordenar: principal primero, luego por hora (para Anguila), luego alfabético
+      juegos.sort((a, b) => {
+        const am = (mainGame[comp] || []).indexOf(a.juego);
+        const bm = (mainGame[comp] || []).indexOf(b.juego);
+        const ar = am === -1 ? 99 : am;
+        const br = bm === -1 ? 99 : bm;
+        if (ar !== br) return ar - br;
+        // intentar ordenar por hora (ej. "Anguila 10:00 AM")
+        const ta = /(\d{1,2}):(\d{2})/.exec(a.juego);
+        const tb = /(\d{1,2}):(\d{2})/.exec(b.juego);
+        if (ta && tb) {
+          const ha = (parseInt(ta[1]) % 12) + (/PM/i.test(a.juego) ? 12 : 0);
+          const hb = (parseInt(tb[1]) % 12) + (/PM/i.test(b.juego) ? 12 : 0);
+          if (ha !== hb) return ha - hb;
+        }
+        return a.juego.localeCompare(b.juego);
+      });
+      // encabezado de compañía
+      const head = document.createElement('div');
+      head.className = 'lot-comp';
+      head.textContent = comp;
+      grid.appendChild(head);
+      juegos.forEach(j => {
         const card = document.createElement('div');
         card.className = 'lot-card';
         const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'">'+n+'</span>').join('');
-        card.innerHTML = '<div class="comp">'+j.compania+'</div><div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>';
+        card.innerHTML = '<div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>';
         grid.appendChild(card);
       });
     });
