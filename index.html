@@ -235,6 +235,33 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 .fw-close{position:absolute;top:10px;right:10px;background:none;border:none;color:#fff;opacity:.6;font-size:1rem;cursor:pointer;padding:4px}
 .fw-close:hover{opacity:1}
 @media(max-width:600px){.float-widget{right:12px;bottom:12px;width:calc(100vw - 24px)}}
+/* ---- Chatbot asistente ---- */
+.chatbot-fab{position:fixed;left:16px;bottom:16px;z-index:200;width:56px;height:56px;border-radius:50%;border:none;background:var(--grad);color:#fff;font-size:1.5rem;cursor:pointer;box-shadow:0 8px 24px rgba(217,4,41,.4);display:flex;align-items:center;justify-content:center;transition:transform .15s}
+.chatbot-fab:hover{transform:scale(1.08)}
+.chatbot{position:fixed;left:16px;bottom:84px;z-index:200;width:min(360px,calc(100vw - 32px));background:var(--card);border:1px solid var(--border);border-radius:20px;box-shadow:0 16px 48px rgba(0,0,0,.3);overflow:hidden;display:none;flex-direction:column;max-height:70vh}
+.chatbot.open{display:flex;animation:cbIn .18s ease}
+@keyframes cbIn{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
+.cb-head{display:flex;align-items:center;gap:10px;padding:13px 15px;background:var(--grad);color:#fff}
+.cb-avatar{width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.cb-title{flex:1}
+.cb-name{font-weight:800;font-size:.95rem}
+.cb-sub{font-size:.68rem;opacity:.85}
+.cb-close{background:none;border:none;color:#fff;font-size:1rem;cursor:pointer;opacity:.8;padding:4px}
+.cb-close:hover{opacity:1}
+.cb-msgs{flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:8px;min-height:180px;max-height:320px;background:var(--bg)}
+.cb-msgs::-webkit-scrollbar{width:5px}.cb-msgs::-webkit-scrollbar-thumb{background:var(--border2);border-radius:3px}
+.cbmsg{max-width:85%;padding:9px 13px;border-radius:16px;font-size:.86rem;line-height:1.4;animation:msgIn .2s ease;white-space:pre-wrap}
+.cbmsg.bot{align-self:flex-start;background:var(--card);border:1px solid var(--border);border-bottom-left-radius:5px}
+.cbmsg.user{align-self:flex-end;background:var(--grad);color:#fff;border-bottom-right-radius:5px}
+.cbmsg.bot a{color:var(--azul2);font-weight:700}
+.cb-suggest{display:flex;flex-wrap:wrap;gap:6px;padding:10px 14px;border-top:1px solid var(--border);background:var(--card)}
+.cb-suggest button{background:var(--bg);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.76rem;font-weight:600;color:var(--azul2);cursor:pointer;transition:all .15s}
+.cb-suggest button:hover{border-color:var(--azul2);background:rgba(10,91,191,.06)}
+.cb-input-row{display:flex;gap:8px;padding:11px 13px;border-top:1px solid var(--border);background:var(--card)}
+.cb-input-row input{flex:1;min-width:0;background:var(--bg);border:1px solid var(--border);border-radius:11px;padding:9px 13px;font-size:.88rem;color:var(--txt);font-family:inherit}
+.cb-input-row input:focus{outline:none;border-color:var(--azul2);box-shadow:0 0 0 3px rgba(10,91,191,.15)}
+.cb-input-row button{width:40px;height:40px;border-radius:50%;border:none;background:var(--grad);color:#fff;font-size:1rem;cursor:pointer;flex:0 0 auto}
+@media(max-width:600px){.chatbot-fab{left:12px;bottom:12px}.chatbot{left:12px;bottom:76px}}
 
 /* ---- Chat en vivo ---- */
 .chat-box{background:var(--card);border:1px solid var(--border);border-radius:20px;overflow:hidden;box-shadow:var(--shadow-sm)}
@@ -405,6 +432,25 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       </div>
       <div class="fw-stations" id="fwStations"></div>
     </div>
+  </div>
+</div>
+
+<!-- Chatbot asistente -->
+<button class="chatbot-fab" id="chatbotFab" aria-label="Abrir asistente">💬</button>
+<div class="chatbot" id="chatbot">
+  <div class="cb-head">
+    <div class="cb-avatar">🇩🇴</div>
+    <div class="cb-title">
+      <div class="cb-name">Asistente</div>
+      <div class="cb-sub">Te ayudo a encontrar lo que buscas</div>
+    </div>
+    <button class="cb-close" id="cbClose" aria-label="Cerrar">✕</button>
+  </div>
+  <div class="cb-msgs" id="cbMsgs"></div>
+  <div class="cb-suggest" id="cbSuggest"></div>
+  <div class="cb-input-row">
+    <input type="text" id="cbInput" placeholder="Pregunta algo…" maxlength="200">
+    <button id="cbSend" aria-label="Enviar">➤</button>
   </div>
 </div>
 
@@ -807,6 +853,169 @@ if ('serviceWorker' in navigator) {
   input.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
 
   connect();
+})();
+
+// ---- Chatbot asistente (intenciones) ----
+(function(){
+  const fab = document.getElementById('chatbotFab');
+  const box = document.getElementById('chatbot');
+  const msgs = document.getElementById('cbMsgs');
+  const input = document.getElementById('cbInput');
+  const sendBtn = document.getElementById('cbSend');
+  const closeBtn = document.getElementById('cbClose');
+  const suggest = document.getElementById('cbSuggest');
+
+  // datos en memoria (se llenan al cargar)
+  let LOTERIA = null, DIVISAS = null;
+
+  fetch('data/resultados.json?v=' + Date.now()).then(r=>r.json()).then(d => LOTERIA = d).catch(()=>{});
+  fetch('data/divisas.json?v=' + Date.now()).then(r=>r.json()).then(d => DIVISAS = d).catch(()=>{});
+
+  function addMsg(text, who){
+    const el = document.createElement('div');
+    el.className = 'cbmsg ' + (who === 'user' ? 'user' : 'bot');
+    el.innerHTML = who === 'bot' ? text : escapeHtml(text);
+    msgs.appendChild(el);
+    msgs.scrollTop = msgs.scrollHeight;
+  }
+  function escapeHtml(s){ return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+  function scrollTo(id){
+    const el = document.getElementById(id);
+    if (el) el.scrollIntoView({behavior:'smooth', block:'start'});
+  }
+
+  // Buscar un juego de lotería por nombre
+  function buscarLoteria(nombre){
+    if (!LOTERIA) return null;
+    const n = nombre.toLowerCase();
+    const matches = LOTERIA.juegos.filter(j => j.compania.toLowerCase().includes(n) || j.juego.toLowerCase().includes(n));
+    return matches;
+  }
+
+  function responder(texto){
+    const t = texto.toLowerCase();
+
+    // saludos
+    if (/^(hola|hey|buenas|buenos dias|buenas tardes|buenas noches|saludos)/.test(t)){
+      return '¡Hola! 👋 Soy tu asistente. Puedo ayudarte con:\n• Lotería (nacional, real, anguila, loteka…)\n• El dólar y euro\n• El tiempo por ciudad\n• Noticias y tendencias\n• Poner la radio\n\nEscribe lo que buscas o toca una sugerencia.';
+    }
+
+    // divisas / dólar / euro
+    if (/(dolar|dólar|euro|divisa|cambio|cuanto esta|cuánto está|tasa|peso)/.test(t)){
+      if (DIVISAS){
+        let r = '💵 <b>Tipo de cambio</b> (RD):\n';
+        DIVISAS.conversiones.slice(0,3).forEach(c => {
+          r += c.bandera + ' ' + c.moneda + ': <b>' + c.valor + ' ' + c.a + '</b>\n';
+        });
+        r += '\n<a href="#" onclick="document.getElementById(\'divisas\').scrollIntoView({behavior:\'smooth\'})">Ver todas las monedas →</a>';
+        return r;
+      }
+      return '💵 El dólar hoy está a <b>59.19 DOP</b> (aprox). Revisa la sección de divisas para el dato exacto.';
+    }
+
+    // tiempo / clima
+    if (/(tiempo|clima|temperatura|lluvia|pronostico|pronóstico)/.test(t)){
+      // ciudad
+      const ciudades = {'santo domingo':'Santo Domingo','santiago':'Santiago','punta cana':'Punta Cana','la romana':'La Romana','san pedro':'San Pedro','puerto plata':'Puerto Plata'};
+      let ciudad = null;
+      for (const k in ciudades){ if (t.includes(k)){ ciudad = ciudades[k]; break; } }
+      if (ciudad){
+        scrollTo('tiempo');
+        return '🌤️ El tiempo de <b>' + ciudad + '</b> está en la sección Tiempo (ya te llevé ahí).';
+      }
+      scrollTo('tiempo');
+      return '🌤️ Consulta el tiempo por ciudad (Santo Domingo, Santiago, Punta Cana y más) en la sección Tiempo. Te llevo.';
+    }
+
+    // radio
+    if (/(radio|emisora|musica|música|bachata|merengue|escuchar|reggaeton)/.test(t)){
+      // abrir widget flotante
+      document.getElementById('floatWidget').classList.remove('fw-collapsed');
+      return '📻 Te abrí el reproductor de radio (abajo a la derecha). Toca una emisora para escuchar en vivo.';
+    }
+
+    // noticias
+    if (/(noticia|noticias|prensa|periódico|periodico)/.test(t)){
+      scrollTo('noticias');
+      return '📰 Las noticias de República Dominicana están en la sección Noticias. Te llevo.';
+    }
+
+    // tendencias
+    if (/(tendencia|tendencias|buscado|google|viral|trending)/.test(t)){
+      scrollTo('tendencias');
+      return '📈 Lo más buscado en Google RD está en la sección Tendencias. Te llevo.';
+    }
+
+    // mlb / beisbol
+    if (/(mlb|beisbol|béisbol|baseball|juego|marcador|partido)/.test(t)){
+      scrollTo('mlb');
+      return '⚾ Los marcadores de MLB de hoy están en la sección MLB. Te llevo.';
+    }
+
+    // traductor
+    if (/(traducir|traductor|translation|ingles|inglés|english)/.test(t)){
+      scrollTo('traductor');
+      return '🔤 El traductor español-inglés está más abajo. Te llevo.';
+    }
+
+    // compras
+    if (/(comprar|compras|amazon|temu|shein|aliexpress|tienda)/.test(t)){
+      scrollTo('compras');
+      return '🛒 Las tiendas en línea (Amazon, Temu, Shein…) están en la sección Compras. Te llevo.';
+    }
+
+    // chat en vivo
+    if (/(chatear|chat|conversar|hablar con)/.test(t)){
+      scrollTo('radio');
+      return '💬 El chat en vivo está en la sección Chat. Te llevo.';
+    }
+
+    // lotería (por defecto, buscar juego)
+    if (LOTERIA){
+      const matches = buscarLoteria(t);
+      if (matches && matches.length){
+        // mostrar los primeros 3 resultados
+        let r = '🎰 <b>Resultados:</b>\n';
+        matches.slice(0,3).forEach(j => {
+          r += '• ' + j.compania + ' — ' + j.juego + ': <b>' + j.numeros.join('-') + '</b>\n';
+        });
+        if (matches.length > 3) r += '…y ' + (matches.length-3) + ' más.\n';
+        r += '\n<a href="#" onclick="document.getElementById(\'loteria\').scrollIntoView({behavior:\'smooth\'})">Ver toda la lotería →</a>';
+        return r;
+      }
+      return '🎰 Para lotería escribe el nombre: <b>nacional</b>, <b>real</b>, <b>anguila</b>, <b>loteka</b>, <b>leidsa</b>, <b>primera</b> o <b>suerte</b>.';
+    }
+
+    // fallback
+    return 'No entendí eso. Prueba con: "lotería nacional", "dólar", "tiempo en santiago", "radio", "noticias"…';
+  }
+
+  function enviar(texto){
+    if (!texto) return;
+    addMsg(texto, 'user');
+    setTimeout(() => addMsg(responder(texto), 'bot'), 200);
+    input.value = '';
+  }
+
+  // sugerencias rápidas
+  const sugerencias = ['🎰 Lotería nacional', '💵 ¿Cuánto está el dólar?', '🌤️ Tiempo en Santo Domingo', '📻 Poner la radio', '⚾ MLB hoy'];
+  sugerencias.forEach(s => {
+    const b = document.createElement('button');
+    b.textContent = s;
+    b.addEventListener('click', () => enviar(s.replace(/^[^ ]+ /, '')));
+    suggest.appendChild(b);
+  });
+
+  fab.addEventListener('click', () => {
+    box.classList.toggle('open');
+    if (box.classList.contains('open') && !msgs.children.length){
+      addMsg('¡Hola! 👋 Soy tu asistente. Pregúntame por la lotería, el dólar, el tiempo, la radio o las noticias. O toca una sugerencia.', 'bot');
+    }
+  });
+  closeBtn.addEventListener('click', () => box.classList.remove('open'));
+  sendBtn.addEventListener('click', () => enviar(input.value.trim()));
+  input.addEventListener('keydown', e => { if (e.key === 'Enter') enviar(input.value.trim()); });
 })();
 </script>
 </body>
