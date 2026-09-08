@@ -101,6 +101,13 @@ nav.tabs a.active{background:var(--grad);color:#fff;box-shadow:0 4px 14px rgba(2
 
 .wrap{max-width:1080px;margin:0 auto;padding:22px 16px}
 
+/* ---- Skeleton loaders ---- */
+.sk{position:relative;overflow:hidden;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm)}
+.sk::after{content:"";position:absolute;inset:0;transform:translateX(-100%);background:linear-gradient(90deg,transparent,rgba(128,128,140,.12),transparent);animation:shimmer 1.4s infinite}
+@keyframes shimmer{100%{transform:translateX(100%)}}
+.sk .line{height:12px;border-radius:6px;background:var(--border2);margin:8px 0}
+.sk .line.w80{width:80%}.sk .line.w60{width:60%}.sk .line.w40{width:40%}
+
 /* ---- Secciones ---- */
 section{margin-bottom:16px}
 .seo-intro{color:var(--muted);font-size:.9rem;line-height:1.6;max-width:820px}
@@ -130,6 +137,12 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .lot-card .nums{display:flex;flex-wrap:wrap;gap:7px;margin-top:13px}
 .ball{min-width:38px;height:38px;padding:0 8px;display:inline-flex;align-items:center;justify-content:center;background:var(--bg);border:1px solid var(--border);border-radius:11px;font-weight:800;font-size:1.05rem;font-variant-numeric:tabular-nums;color:var(--txt);box-shadow:inset 0 -2px 0 rgba(0,0,0,.04)}
 .ball.gold{background:linear-gradient(180deg,#ffe08a,#f2b32e);color:#3d2800;border-color:#e6a800;box-shadow:inset 0 -2px 0 rgba(0,0,0,.08)}
+.lot-actions{display:flex;justify-content:flex-end;gap:6px;margin-top:10px}
+.lot-fav{background:none;border:1px solid var(--border);border-radius:8px;width:30px;height:30px;font-size:1.05rem;color:var(--muted);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
+.lot-fav:hover{border-color:var(--gold);color:var(--gold)}
+.lot-fav.on{background:linear-gradient(180deg,#ffe08a,#f2b32e);border-color:#e6a800;color:#7a5200}
+.lot-share{display:flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:8px;background:linear-gradient(135deg,#25d366,#128c7e);color:#fff;font-size:.9rem;text-decoration:none}
+.lot-card.favorita{border-color:var(--gold);box-shadow:0 0 0 2px rgba(245,185,66,.25),var(--shadow-sm)}
 
 /* ---- Tendencias ---- */
 .tendencias-list{display:flex;flex-direction:column;gap:10px}
@@ -355,7 +368,10 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
   <section id="loteria">
     <h2 class="sect"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
-    <div class="loteria-grid" id="loteria-grid"><p style="color:var(--muted)">Cargando resultados…</p>
+    <div class="loteria-grid" id="loteria-grid">
+      <div class="sk"><div class="line w80"></div><div class="line w40"></div></div>
+      <div class="sk"><div class="line w60"></div><div class="line w80"></div></div>
+      <div class="sk"><div class="line w80"></div><div class="line w40"></div></div>
       <noscript>Resultados de lotería: Lotería Nacional, Lotería Real, Anguila, Loteka, La Primera, La Suerte y Leidsa.</noscript>
     </div>
   </section>
@@ -487,7 +503,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 <script>
 // ---- Eventos ----
 const eventoIcos = ['🎤','🎵','🎪','🎸','🎭','🏟️','✨','🎶'];
-fetch('data/eventos.json?v=' + Date.now())
+fetch('data/eventos.json?v=1')
   .then(r => r.json()).then(d => {
     document.getElementById('eventos-updated').textContent = 'próximos en RD';
     const grid = document.getElementById('eventos-grid');
@@ -506,7 +522,31 @@ fetch('data/eventos.json?v=' + Date.now())
   .catch(() => { document.getElementById('eventos-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los eventos.</p>'; });
 
 // ---- Lotería ----
-fetch('data/resultados.json?v=' + Date.now())
+// Favoritos (localStorage)
+function getFavoritos(){
+  try { return JSON.parse(localStorage.getItem('lot-favs') || '[]'); } catch(e){ return []; }
+}
+function esFavorito(id){ return getFavoritos().includes(id); }
+function toggleFavorito(id, btn){
+  let favs = getFavoritos();
+  const i = favs.indexOf(id);
+  if (i >= 0){ favs.splice(i, 1); btn.classList.remove('on'); btn.textContent = '☆'; }
+  else { favs.push(id); btn.classList.add('on'); btn.textContent = '★'; }
+  localStorage.setItem('lot-favs', JSON.stringify(favs));
+}
+// Compartir por WhatsApp
+function shareUrl(j){
+  const texto = '🎰 ' + j.compania + ' — ' + j.juego + '\nNúmeros de hoy: ' + j.numeros.join(' · ') + '\n\nMás resultados en Portal Dominicano 👇';
+  return 'https://wa.me/?text=' + encodeURIComponent(texto + '\nhttps://benzanmontage-hue.github.io/portal-dominicano/');
+}
+function marcarCoincidencias(){
+  const favs = getFavoritos();
+  document.querySelectorAll('.lot-card').forEach(card => {
+    const btn = card.querySelector('.lot-fav');
+    if (btn && favs.includes(btn.dataset.id)) card.classList.add('favorita');
+  });
+}
+fetch('data/resultados.json?v=1')
   .then(r => r.json())
   .then(d => {
     document.getElementById('updated').textContent = 'Actualizado: ' + d.hora + ' (hora RD)';
@@ -554,10 +594,21 @@ fetch('data/resultados.json?v=' + Date.now())
       juegos.forEach(j => {
         const card = document.createElement('div');
         card.className = 'lot-card';
-        const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'">'+n+'</span>').join('');
-        card.innerHTML = '<div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>';
+        const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'" data-n="'+n+'">'+n+'</span>').join('');
+        const juegoId = (j.compania + '|' + j.juego);
+        const esFav = esFavorito(juegoId);
+        card.innerHTML = '<div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>'+
+          '<div class="lot-actions">'+
+            '<button class="lot-fav'+(esFav?' on':'')+'" data-id="'+juegoId+'" aria-label="Favorito">'+(esFav?'★':'☆')+'</button>'+
+            '<a class="lot-share" href="'+shareUrl(j)+'" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp">💬</a>'+
+          '</div>';
         grid.appendChild(card);
       });
+      // enlazar favoritos y coincidencias
+      document.querySelectorAll('.lot-fav').forEach(btn => {
+        btn.addEventListener('click', () => toggleFavorito(btn.dataset.id, btn));
+      });
+      marcarCoincidencias();
     });
   })
   .catch(() => {
@@ -566,7 +617,7 @@ fetch('data/resultados.json?v=' + Date.now())
   });
 
 // ---- Tendencias ----
-fetch('data/tendencias.json?v=' + Date.now())
+fetch('data/tendencias.json?v=1')
   .then(r => r.json())
   .then(d => {
     document.getElementById('tendencias-updated').textContent = d.hora + ' (hora RD)';
@@ -588,7 +639,7 @@ fetch('data/tendencias.json?v=' + Date.now())
   .catch(() => { document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las tendencias.</p>'; });
 
 // ---- Noticias ----
-fetch('data/noticias.json?v=' + Date.now())
+fetch('data/noticias.json?v=1')
   .then(r => r.json())
   .then(d => {
     document.getElementById('noticias-updated').textContent = 'hace un momento';
@@ -663,7 +714,7 @@ ciudades.forEach((c, i) => {
 });
 
 // ---- Divisas ----
-fetch('data/divisas.json?v=' + Date.now())
+fetch('data/divisas.json?v=1')
   .then(r => r.json()).then(d => {
     document.getElementById('divisas-updated').textContent = 'Actualizado ' + d.fecha;
     const grid = document.getElementById('divisas-grid');
@@ -705,7 +756,7 @@ fetch('data/divisas.json?v=' + Date.now())
 
 // ---- Economía ----
 const econIcos = {'desempleo':'👷','deuda_ext':'💰','pib_pc':'📈','inflacion':'🔥'};
-fetch('data/economia.json?v=' + Date.now())
+fetch('data/economia.json?v=1')
   .then(r => r.json()).then(d => {
     document.getElementById('economia-updated').textContent = 'Fuente: Banco Mundial';
     const grid = document.getElementById('economia-grid');
@@ -825,7 +876,7 @@ if ('serviceWorker' in navigator) {
   });
 
   // cargar emisoras
-  fetch('data/radio.json?v=' + Date.now())
+  fetch('data/radio.json?v=1')
     .then(r => r.json()).then(d => {
       stationsBox.innerHTML = '';
       d.emisoras.forEach(s => {
@@ -870,7 +921,7 @@ if ('serviceWorker' in navigator) {
   });
 
   // noticias deslizantes (slide)
-  fetch('data/noticias.json?v=' + Date.now())
+  fetch('data/noticias.json?v=1')
     .then(r => r.json()).then(d => {
       const ticker = document.getElementById('fwNewsTicker');
       const items = d.noticias.slice(0, 8);
@@ -912,8 +963,8 @@ if ('serviceWorker' in navigator) {
   // datos en memoria (se llenan al cargar)
   let LOTERIA = null, DIVISAS = null;
 
-  fetch('data/resultados.json?v=' + Date.now()).then(r=>r.json()).then(d => LOTERIA = d).catch(()=>{});
-  fetch('data/divisas.json?v=' + Date.now()).then(r=>r.json()).then(d => DIVISAS = d).catch(()=>{});
+  fetch('data/resultados.json?v=1').then(r=>r.json()).then(d => LOTERIA = d).catch(()=>{});
+  fetch('data/divisas.json?v=1').then(r=>r.json()).then(d => DIVISAS = d).catch(()=>{});
 
   function addMsg(text, who){
     const el = document.createElement('div');
