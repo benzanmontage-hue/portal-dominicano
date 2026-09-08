@@ -832,11 +832,15 @@ async function translate(){
   const out = document.getElementById('tr-out');
   out.textContent = 'Traduciendo…';
   try {
-    const r = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl='+from+'&tl='+to+'&dt=t&q='+encodeURIComponent(text));
+    const r = await fetch('https://lingva.ml/api/v1/' + from + '/' + to + '/' + encodeURIComponent(text));
     const d = await r.json();
-    out.textContent = d[0].map(x => x[0]).join('');
+    if (d.translation) {
+      out.textContent = d.translation;
+    } else {
+      throw new Error('sin traducción');
+    }
   } catch(e){
-    out.textContent = 'Error de traducción.';
+    out.textContent = 'No se pudo traducir. Intenta de nuevo o usa el enlace de Google Traductor.';
   }
 }
 
