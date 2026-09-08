@@ -126,6 +126,17 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .evento .e-meta{color:var(--muted);font-size:.74rem;margin-top:5px;display:flex;gap:8px;align-items:center}
 .evento .e-meta .src{color:var(--azul2);font-weight:700}
 
+/* ---- Countdown sorteo ---- */
+.countdown{background:var(--grad);color:#fff;border-radius:16px;padding:16px 18px;display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:14px;box-shadow:0 8px 24px rgba(206,17,38,.25);position:relative;overflow:hidden}
+.countdown::after{content:"";position:absolute;inset:0;background:radial-gradient(50% 80% at 90% 0%,rgba(255,255,255,.15),transparent 60%)}
+.countdown>*{position:relative;z-index:1}
+.cd-label{font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;opacity:.85;font-weight:700}
+.cd-sorteo{font-size:1.05rem;font-weight:800;margin-top:2px}
+.cd-right{text-align:right}
+.cd-time{font-size:1.7rem;font-weight:900;letter-spacing:-.01em;font-variant-numeric:tabular-nums;line-height:1}
+.cd-sub{font-size:.72rem;opacity:.85;font-weight:600;margin-top:2px}
+@media(max-width:600px){.cd-time{font-size:1.4rem}.cd-sorteo{font-size:.92rem}}
+
 /* ---- Lotería ---- */
 .loteria-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
 .lot-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s,border-color .18s}
@@ -368,6 +379,16 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
   <section id="loteria">
     <h2 class="sect"><span class="bar"></span> Lotería de hoy <span class="meta" id="loteria-fecha"></span></h2>
+    <div class="countdown" id="countdown">
+      <div class="cd-left">
+        <div class="cd-label">⏰ Próximo sorteo</div>
+        <div class="cd-sorteo" id="cd-sorteo">—</div>
+      </div>
+      <div class="cd-right">
+        <div class="cd-time" id="cd-time">--:--:--</div>
+        <div class="cd-sub" id="cd-sub">—</div>
+      </div>
+    </div>
     <div class="loteria-grid" id="loteria-grid">
       <div class="sk"><div class="line w80"></div><div class="line w40"></div></div>
       <div class="sk"><div class="line w60"></div><div class="line w80"></div></div>
@@ -520,6 +541,50 @@ fetch('data/eventos.json?v=1')
     });
   })
   .catch(() => { document.getElementById('eventos-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los eventos.</p>'; });
+
+// ---- Countdown al próximo sorteo ----
+const SORTEOS = [
+  {h: 12, m: 30, nombre: 'La Suerte · La Primera · Real', etiqueta: 'mediodía'},
+  {h: 14, m: 30, nombre: 'Lotería Nacional', etiqueta: 'día'},
+  {h: 20, m: 50, nombre: 'Lotería Nacional', etiqueta: 'noche'},
+  {h: 20, m: 55, nombre: 'Leidsa', etiqueta: 'noche'},
+];
+function proximoSorteo(){
+  const now = new Date();
+  // hora RD (UTC-4) — usar el offset real para que el diff sea correcto
+  const rdStr = now.toLocaleString('en-US', {timeZone: 'America/Santo_Domingo'});
+  const rd = new Date(rdStr);
+  const rdNow = rd.getTime(); // ms en hora RD
+  let best = null, bestDiff = Infinity;
+  for (const s of SORTEOS){
+    const d = new Date(rd);
+    d.setHours(s.h, s.m, 0, 0);
+    let diff = d.getTime() - rdNow;
+    if (diff < 0) diff += 24*3600*1000; // ya pasó hoy → mañana
+    if (diff < bestDiff){ bestDiff = diff; best = { ...s, target: d }; }
+  }
+  return best;
+}
+function pad(n){ return String(n).padStart(2, '0'); }
+function tickCountdown(){
+  const nxt = proximoSorteo();
+  const el = document.getElementById('cd-time');
+  const sorteo = document.getElementById('cd-sorteo');
+  const sub = document.getElementById('cd-sub');
+  if (!el) return;
+  const now = new Date();
+  const rdNow = new Date(now.toLocaleString('en-US', {timeZone: 'America/Santo_Domingo'})).getTime();
+  const diff = nxt.target.getTime() - rdNow;
+  const h = Math.floor(diff/3600000);
+  const m = Math.floor((diff%3600000)/60000);
+  const s = Math.floor((diff%60000)/1000);
+  el.textContent = pad(h) + ':' + pad(m) + ':' + pad(s);
+  sorteo.textContent = nxt.nombre;
+  const hh = pad(nxt.target.getHours()) + ':' + pad(nxt.target.getMinutes());
+  sub.textContent = 'hoy a las ' + hh + ' (' + nxt.etiqueta + ')';
+}
+tickCountdown();
+setInterval(tickCountdown, 1000);
 
 // ---- Lotería ----
 // Favoritos (localStorage)
