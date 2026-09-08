@@ -13,6 +13,11 @@
 <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
 <meta name="theme-color" content="#002d62">
 <meta name="robots" content="index,follow">
+<link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Portal RD">
+<link rel="apple-touch-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
 <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","name":"Portal Dominicano","url":"https://benzanmontage-hue.github.io/portal-dominicano/","inLanguage":"es-DO","countryOfOrigin":"DO"}
@@ -435,6 +440,13 @@ const observer = new IntersectionObserver(entries => {
   });
 }, {rootMargin:'-40% 0px -55% 0px'});
 sections.forEach(s => observer.observe(s));
+
+// ---- Registrar service worker (PWA) ----
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
 </script>
 </body>
 </html>

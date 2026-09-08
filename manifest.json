@@ -1,0 +1,33 @@
+{
+  "name": "Portal Dominicano",
+  "short_name": "Portal RD",
+  "description": "Lotería, radio, tiempo, MLB y más de República Dominicana",
+  "lang": "es-DO",
+  "start_url": "/portal-dominicano/",
+  "scope": "/portal-dominicano/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5fa",
+  "theme_color": "#002d62",
+  "categories": ["news", "entertainment", "lifestyle"],
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/120px-Flag_of_the_Dominican_Republic.svg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
