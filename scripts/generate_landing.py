@@ -75,7 +75,7 @@ LOTERIAS = [
     },
 ]
 
-BASE = "https://benzanmontage-hue.github.io/portal-dominicano"
+BASE = "https://portaldominicana.net"
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="es">
