@@ -110,12 +110,21 @@ h2.sect .meta{font-size:.78rem;color:var(--muted);font-weight:600;margin-left:au
 .r-station .m{color:var(--muted);font-size:.7rem;margin-top:1px}
 
 /* ---- Tiempo ---- */
+#weather-hero{background:linear-gradient(135deg,#1e88e5,#42a5f5);border-radius:18px;padding:20px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px;display:flex;align-items:center;gap:18px}
+#weather-hero .wicon{font-size:3.4rem;line-height:1;filter:drop-shadow(0 2px 6px rgba(0,0,0,.2))}
+#weather-hero .winfo{flex:1}
+#weather-hero .wcity{font-weight:700;font-size:.95rem;opacity:.92}
+#weather-hero .wtemp{font-size:2.8rem;font-weight:900;line-height:1}
+#weather-hero .wdesc{font-size:.9rem;opacity:.92;margin-top:2px}
+#weather-hero .wmeta{display:flex;gap:14px;margin-top:8px;font-size:.8rem;opacity:.92;flex-wrap:wrap}
 .weather-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
-.w-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:15px;text-align:center;box-shadow:var(--shadow)}
-.w-card .city{font-weight:800;font-size:.92rem}
-.w-card .temp{font-size:2.1rem;font-weight:900;margin:6px 0 2px;color:var(--azul)}
-.w-card .desc{color:var(--muted);font-size:.8rem;text-transform:capitalize}
-.w-card .range{color:var(--muted);font-size:.76rem;margin-top:4px}
+.w-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px;text-align:center;box-shadow:var(--shadow);transition:transform .15s}
+.w-card:hover{transform:translateY(-2px)}
+.w-card .wicon{font-size:1.8rem;line-height:1}
+.w-card .city{font-weight:800;font-size:.9rem;margin-top:6px}
+.w-card .temp{font-size:1.6rem;font-weight:900;color:var(--azul);margin:2px 0}
+.w-card .desc{color:var(--muted);font-size:.76rem}
+.w-card .range{color:var(--muted);font-size:.72rem;margin-top:3px;font-weight:600}
 
 /* ---- MLB ---- */
 .mlb-grid{display:flex;flex-direction:column;gap:10px}
@@ -209,7 +218,8 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
   <section id="tiempo">
     <h2 class="sect"><span class="bar"></span> Tiempo</h2>
-    <div class="weather-grid" id="weather-grid"><p style="color:var(--muted)">Cargando…</p></div>
+    <div id="weather-hero"></div>
+    <div class="weather-grid" id="weather-grid"></div>
   </section>
 
   <section id="mlb">
@@ -398,17 +408,26 @@ const ciudades = [
   {nombre:'San Pedro', lat:18.46, lon:-69.31},
   {nombre:'Puerto Plata', lat:19.79, lon:-70.69},
 ];
-const wmo = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
+const wmoDesc = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
+const wmoIcon = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌦️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'🌨️',80:'🌦️',81:'🌧️',82:'🌧️',95:'⛈️',96:'⛈️',99:'⛈️'};
+const hero = document.getElementById('weather-hero');
 const wgrid = document.getElementById('weather-grid');
-wgrid.innerHTML = '';
-ciudades.forEach(c => {
-  const url = 'https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1';
+ciudades.forEach((c, i) => {
+  const url = 'https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code,relative_humidity_2m,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1';
   fetch(url).then(r=>r.json()).then(d=>{
-    const card = document.createElement('div');
-    card.className = 'w-card';
-    const code = wmo[d.current.weather_code] || '—';
-    card.innerHTML = '<div class="city">'+c.nombre+'</div><div class="temp">'+Math.round(d.current.temperature_2m)+'°</div><div class="desc">'+code+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
-    wgrid.appendChild(card);
+    const code = d.current.weather_code;
+    const temp = Math.round(d.current.temperature_2m);
+    const icon = wmoIcon[code] || '🌡️';
+    const desc = wmoDesc[code] || '—';
+    if (i === 0) {
+      // hero: Santo Domingo
+      hero.innerHTML = '<div class="wicon">'+icon+'</div><div class="winfo"><div class="wcity">'+c.nombre+'</div><div class="wtemp">'+temp+'°</div><div class="wdesc">'+desc+'</div><div class="wmeta"><span>💧 '+d.current.relative_humidity_2m+'%</span><span>🌬️ '+Math.round(d.current.wind_speed_10m)+' km/h</span><span>🌡️ Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</span></div></div>';
+    } else {
+      const card = document.createElement('div');
+      card.className = 'w-card';
+      card.innerHTML = '<div class="wicon">'+icon+'</div><div class="city">'+c.nombre+'</div><div class="temp">'+temp+'°</div><div class="desc">'+desc+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
+      wgrid.appendChild(card);
+    }
   }).catch(()=>{});
 });
 

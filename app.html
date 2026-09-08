@@ -87,12 +87,20 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
 .news .meta .src{color:var(--rojo);font-weight:700}
 
 /* Tiempo */
+#weather-hero{background:linear-gradient(135deg,#1e88e5,#42a5f5);border-radius:16px;padding:16px;color:#fff;box-shadow:var(--shadow);margin-bottom:10px;display:flex;align-items:center;gap:14px}
+#weather-hero .wicon{font-size:2.6rem;line-height:1;filter:drop-shadow(0 2px 4px rgba(0,0,0,.2))}
+#weather-hero .winfo{flex:1}
+#weather-hero .wcity{font-weight:700;font-size:.85rem;opacity:.92}
+#weather-hero .wtemp{font-size:2.2rem;font-weight:900;line-height:1}
+#weather-hero .wdesc{font-size:.82rem;opacity:.92;margin-top:1px}
+#weather-hero .wmeta{display:flex;gap:10px;margin-top:6px;font-size:.72rem;opacity:.92;flex-wrap:wrap}
 .w-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
 .w-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:12px;text-align:center;box-shadow:var(--shadow)}
-.w-card .city{font-weight:800;font-size:.85rem}
-.w-card .temp{font-size:1.7rem;font-weight:900;color:var(--azul);margin:3px 0}
-.w-card .desc{color:var(--muted);font-size:.75rem}
-.w-card .range{color:var(--muted);font-size:.7rem;margin-top:2px}
+.w-card .wicon{font-size:1.5rem;line-height:1}
+.w-card .city{font-weight:800;font-size:.85rem;margin-top:4px}
+.w-card .temp{font-size:1.5rem;font-weight:900;color:var(--azul);margin:2px 0}
+.w-card .desc{color:var(--muted);font-size:.72rem}
+.w-card .range{color:var(--muted);font-size:.68rem;margin-top:2px;font-weight:600}
 
 /* MLB */
 .mlb-list{display:flex;flex-direction:column;gap:8px}
@@ -158,7 +166,8 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
 
     <div class="screen" id="scr-tiempo">
       <h2 class="sec"><span class="bar"></span> Tiempo</h2>
-      <div class="w-grid" id="weather-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
+      <div id="weather-hero"></div>
+      <div class="w-grid" id="weather-grid"></div>
     </div>
 
     <div class="screen" id="scr-mas">
@@ -318,16 +327,25 @@ const ciudades = [
   {nombre:'San Pedro', lat:18.46, lon:-69.31},
   {nombre:'Puerto Plata', lat:19.79, lon:-70.69},
 ];
-const wmo = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
+const wmoDesc = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
+const wmoIcon = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌦️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'🌨️',80:'🌦️',81:'🌧️',82:'🌧️',95:'⛈️',96:'⛈️',99:'⛈️'};
+const hero = document.getElementById('weather-hero');
 const wgrid = document.getElementById('weather-grid');
-wgrid.innerHTML = '';
-ciudades.forEach(c => {
-  fetch('https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1')
+ciudades.forEach((c, i) => {
+  fetch('https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code,relative_humidity_2m,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1')
     .then(r=>r.json()).then(d=>{
-      const card = document.createElement('div');
-      card.className = 'w-card';
-      card.innerHTML = '<div class="city">'+c.nombre+'</div><div class="temp">'+Math.round(d.current.temperature_2m)+'°</div><div class="desc">'+(wmo[d.current.weather_code]||'—')+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
-      wgrid.appendChild(card);
+      const code = d.current.weather_code;
+      const temp = Math.round(d.current.temperature_2m);
+      const icon = wmoIcon[code] || '🌡️';
+      const desc = wmoDesc[code] || '—';
+      if (i === 0) {
+        hero.innerHTML = '<div class="wicon">'+icon+'</div><div class="winfo"><div class="wcity">'+c.nombre+'</div><div class="wtemp">'+temp+'°</div><div class="wdesc">'+desc+'</div><div class="wmeta"><span>💧 '+d.current.relative_humidity_2m+'%</span><span>🌬️ '+Math.round(d.current.wind_speed_10m)+' km/h</span><span>🌡️ '+Math.round(d.daily.temperature_2m_max[0])+'°/'+Math.round(d.daily.temperature_2m_min[0])+'°</span></div></div>';
+      } else {
+        const card = document.createElement('div');
+        card.className = 'w-card';
+        card.innerHTML = '<div class="wicon">'+icon+'</div><div class="city">'+c.nombre+'</div><div class="temp">'+temp+'°</div><div class="desc">'+desc+'</div><div class="range">Max '+Math.round(d.daily.temperature_2m_max[0])+'° · Min '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
+        wgrid.appendChild(card);
+      }
     }).catch(()=>{});
 });
 
