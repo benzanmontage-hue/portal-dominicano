@@ -107,6 +107,16 @@ h2.sect{font-size:1.18rem;font-weight:800;margin:30px 0 14px;display:flex;align-
 h2.sect .bar{width:5px;height:22px;border-radius:99px;background:var(--grad)}
 h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:auto}
 
+/* ---- Eventos ---- */
+.eventos-grid{display:flex;flex-direction:column;gap:10px}
+.evento{background:var(--card);border:1px solid var(--border);border-left:4px solid var(--rojo);border-radius:var(--radius);padding:14px 16px;text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
+.evento:hover{transform:translateX(4px);box-shadow:var(--shadow)}
+.evento .e-ico{font-size:1.3rem;line-height:1;flex:0 0 auto}
+.evento .e-body{flex:1;min-width:0}
+.evento .e-tit{font-weight:700;font-size:.95rem;line-height:1.4}
+.evento .e-meta{color:var(--muted);font-size:.74rem;margin-top:5px;display:flex;gap:8px;align-items:center}
+.evento .e-meta .src{color:var(--azul2);font-weight:700}
+
 /* ---- Lotería ---- */
 .loteria-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
 .lot-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s,border-color .18s}
@@ -320,6 +330,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 </div>
 
 <nav class="tabs" id="nav">
+  <a href="#eventos">🎪 Eventos</a>
   <a href="#loteria" class="active">🎰 Lotería</a>
   <a href="#radio">💬 Chat</a>
   <a href="#tendencias">📈 Tendencias</a>
@@ -339,6 +350,11 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
     <p class="seo-intro">
       Consulta los <strong>resultados de la lotería de hoy</strong> en República Dominicana: <strong>Lotería Nacional</strong>, <strong>Lotería Real</strong>, <strong>Anguila</strong>, <strong>Loteka</strong>, <strong>La Primera</strong>, <strong>La Suerte</strong> y <strong>Leidsa</strong>, con sus números ganadores actualizados en vivo. Además escucha <strong>radio FM dominicana en vivo</strong>, lee las <strong>noticias de República Dominicana</strong>, consulta el <strong>tiempo</strong> por ciudad, los marcadores de <strong>MLB</strong> y usa el <strong>traductor</strong> español-inglés. Todo en un solo lugar, gratis y sin registrarte.
     </p>
+  </section>
+
+  <section id="eventos">
+    <h2 class="sect"><span class="bar"></span> Eventos en RD <span class="meta" id="eventos-updated"></span></h2>
+    <div class="eventos-grid" id="eventos-grid"><p style="color:var(--muted)">Cargando eventos…</p></div>
   </section>
 
   <section id="loteria">
@@ -480,6 +496,26 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 </div>
 
 <script>
+// ---- Eventos ----
+const eventoIcos = ['🎤','🎵','🎪','🎸','🎭','🏟️','✨','🎶'];
+fetch('data/eventos.json?v=' + Date.now())
+  .then(r => r.json()).then(d => {
+    document.getElementById('eventos-updated').textContent = 'próximos en RD';
+    const grid = document.getElementById('eventos-grid');
+    grid.innerHTML = '';
+    d.eventos.forEach((e, i) => {
+      const a = document.createElement('a');
+      a.className = 'evento';
+      a.href = e.enlace;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      const rel = tiempoRelativo(e.fecha);
+      a.innerHTML = '<span class="e-ico">' + (eventoIcos[i % eventoIcos.length]) + '</span><div class="e-body"><div class="e-tit">' + e.titulo + '</div><div class="e-meta"><span class="src">' + e.fuente + '</span><span class="dot-sep">·</span><span>' + rel + '</span></div></div>';
+      grid.appendChild(a);
+    });
+  })
+  .catch(() => { document.getElementById('eventos-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los eventos.</p>'; });
+
 // ---- Lotería ----
 fetch('data/resultados.json?v=' + Date.now())
   .then(r => r.json())
