@@ -60,7 +60,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
 :root{
-  --azul:#002a5c; --azul2:#0a5bbf; --rojo:#d90429; --rojo2:#ef233c;
+  --azul:#002d62; --azul2:#0a4f9e; --rojo:#ce1126; --rojo2:#e0263a;
   --bg:#f4f6fb; --card:#ffffff; --border:#e5eaf3; --border2:#d8e0ee;
   --txt:#0d1b33; --muted:#64748b; --gold:#f5b942;
   --shadow-sm:0 1px 2px rgba(13,27,51,.04),0 2px 6px rgba(13,27,51,.04);
@@ -68,6 +68,7 @@
   --shadow-lg:0 12px 32px rgba(13,27,51,.14);
   --radius:16px; --radius-sm:12px;
   --grad:linear-gradient(135deg,var(--azul),var(--rojo));
+  --bandera:linear-gradient(90deg,var(--azul) 0 25%,#fff 25% 37.5%,var(--rojo) 37.5% 62.5%,#fff 62.5% 75%,var(--azul) 75% 100%);
 }
 @media (prefers-color-scheme: dark){
   :root{
@@ -103,6 +104,7 @@ nav.tabs a.active{background:var(--grad);color:#fff;box-shadow:0 4px 14px rgba(2
 /* ---- Secciones ---- */
 section{margin-bottom:16px}
 .seo-intro{color:var(--muted);font-size:.9rem;line-height:1.6;max-width:820px}
+.bandera-franja{height:5px;background:var(--bandera);box-shadow:0 1px 4px rgba(13,27,51,.08)}
 h2.sect{font-size:1.18rem;font-weight:800;margin:30px 0 14px;display:flex;align-items:center;gap:10px;letter-spacing:-.01em}
 h2.sect .bar{width:5px;height:22px;border-radius:99px;background:var(--grad)}
 h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:auto}
@@ -321,10 +323,12 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 <div class="wrap">
   <div class="page-top" style="display:flex;align-items:center;gap:12px;margin:0 0 4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/330px-Coat_of_arms_of_the_Dominican_Republic.svg.png" alt="Escudo de la República Dominicana" style="width:44px;height:44px;flex:0 0 auto;filter:drop-shadow(0 2px 5px rgba(0,0,0,.25))" onerror="this.style.display='none'">
-    <a href="app.html" style="display:inline-block;background:linear-gradient(135deg,#002a5c,#d90429);color:#fff;text-decoration:none;font-weight:800;padding:10px 20px;border-radius:24px;font-size:.9rem;box-shadow:0 4px 14px rgba(217,4,41,.25);flex:0 0 auto">📱 Abrir la App</a>
+    <a href="app.html" style="display:inline-block;background:var(--grad);color:#fff;text-decoration:none;font-weight:800;padding:10px 20px;border-radius:24px;font-size:.9rem;box-shadow:0 4px 14px rgba(206,17,38,.25);flex:0 0 auto">📱 Abrir la App</a>
     <div class="updated" id="updated" style="font-size:.76rem;color:var(--muted);font-weight:600">Cargando…</div>
   </div>
 </div>
+
+<div class="bandera-franja" aria-hidden="true"></div>
 
 <nav class="tabs" id="nav">
   <a href="#loteria" class="active">🎰 Lotería</a>
