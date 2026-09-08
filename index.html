@@ -134,13 +134,18 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .tend .links a:hover{text-decoration:underline}
 .tend .thumb{width:54px;height:54px;border-radius:12px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
 
-/* Noticias */
-.news-list{display:flex;flex-direction:column;gap:10px}
-.news{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);text-decoration:none;color:var(--txt);display:block;transition:transform .18s,box-shadow .18s}
+/* Noticias (estilo WeChat) */
+.news-list{display:flex;flex-direction:column;gap:8px}
+.news{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:13px 15px;box-shadow:var(--shadow-sm);text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;transition:transform .18s,box-shadow .18s}
 .news:hover{transform:translateX(4px);box-shadow:var(--shadow)}
-.news .titulo{font-weight:700;font-size:.95rem;line-height:1.4}
-.news .meta{color:var(--muted);font-size:.75rem;margin-top:6px;display:flex;gap:8px;align-items:center}
-.news .meta .src{color:var(--rojo);font-weight:700}
+.news.featured{background:linear-gradient(135deg,var(--card) 60%,rgba(10,91,191,.06));border-color:var(--border2)}
+.news .n-ava{width:42px;height:42px;min-width:42px;border-radius:50%;color:#fff;font-weight:800;font-size:1.15rem;display:flex;align-items:center;justify-content:center;box-shadow:inset 0 -2px 0 rgba(0,0,0,.12)}
+.news .n-body{flex:1;min-width:0}
+.news .titulo{font-weight:600;font-size:.93rem;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news.featured .titulo{font-size:1.05rem;font-weight:700;-webkit-line-clamp:3}
+.news .meta{color:var(--muted);font-size:.74rem;margin-top:5px;display:flex;gap:6px;align-items:center}
+.news .meta .src{color:var(--azul2);font-weight:700}
+.news .meta .dot-sep{opacity:.5}
 
 /* ---- Tiempo ---- */
 #weather-hero{background:linear-gradient(135deg,#0a5bbf 0%,#14b8ff 60%,#0ea5e9 100%);border-radius:20px;padding:22px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px;display:flex;align-items:center;gap:20px;position:relative;overflow:hidden}
@@ -541,21 +546,44 @@ fetch('data/tendencias.json?v=' + Date.now())
 fetch('data/noticias.json?v=' + Date.now())
   .then(r => r.json())
   .then(d => {
-    document.getElementById('noticias-updated').textContent = d.hora + ' (hora RD)';
+    document.getElementById('noticias-updated').textContent = 'hace un momento';
     const list = document.getElementById('noticias-list');
     list.innerHTML = '';
-    d.noticias.forEach(n => {
+    const colores = ['#0a5bbf','#d90429','#0d7a4f','#7c3aed','#b45309','#0e7490','#be185d','#1d4ed8'];
+    d.noticias.forEach((n, i) => {
       const a = document.createElement('a');
-      a.className = 'news';
+      a.className = 'news' + (i === 0 ? ' featured' : '');
       a.href = n.enlace;
       a.target = '_blank';
       a.rel = 'noopener';
-      const fecha = n.fecha ? n.fecha.replace(/[+-]\d{4}.*$/, '').trim() : '';
-      a.innerHTML = '<div class="titulo">'+n.titulo+'</div><div class="meta"><span class="src">'+n.fuente+'</span><span>'+fecha+'</span></div>';
+      // inicial + color estable por fuente
+      let hash = 0; for (let c of n.fuente) hash = (hash * 31 + c.charCodeAt(0)) >>> 0;
+      const color = colores[hash % colores.length];
+      const inicial = (n.fuente[0] || '?').toUpperCase();
+      const rel = tiempoRelativo(n.fecha);
+      a.innerHTML =
+        '<span class="n-ava" style="background:' + color + '">' + inicial + '</span>' +
+        '<div class="n-body">' +
+          '<div class="titulo">' + n.titulo + '</div>' +
+          '<div class="meta"><span class="src">' + n.fuente + '</span><span class="dot-sep">·</span><span>' + rel + '</span></div>' +
+        '</div>';
       list.appendChild(a);
     });
   })
   .catch(() => { document.getElementById('noticias-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las noticias.</p>'; });
+
+function tiempoRelativo(fechaStr){
+  if (!fechaStr) return '';
+  try {
+    const d = new Date(fechaStr);
+    const diff = (Date.now() - d.getTime()) / 1000;
+    if (diff < 60) return 'ahora';
+    if (diff < 3600) return 'hace ' + Math.floor(diff/60) + ' min';
+    if (diff < 86400) return 'hace ' + Math.floor(diff/3600) + ' h';
+    if (diff < 172800) return 'ayer';
+    return 'hace ' + Math.floor(diff/86400) + ' días';
+  } catch(e){ return ''; }
+}
 
 // ---- Tiempo ----
 const ciudades = [

@@ -37,6 +37,11 @@ def clean_google_link(link):
     return m.group(1) if m else link
 
 
+def domain_of(url):
+    m = re.search(r"https?://([^/]+)", url)
+    return m.group(1) if m else ""
+
+
 def parse_item(it):
     title = strip_tags(re.search(r"<title>([^<]+)</title>", it).group(1))
     # title often ends with " - Source"; the source is in <source>
@@ -45,10 +50,12 @@ def parse_item(it):
     source = src.group(2) if src else ""
     pubdate = re.search(r"<pubDate>([^<]+)</pubDate>", it)
     date = pubdate.group(1) if pubdate else ""
+    real_url = clean_google_link(link)
     return {
         "titulo": title,
         "fuente": source,
-        "enlace": clean_google_link(link),
+        "enlace": real_url,
+        "dominio": domain_of(real_url),
         "fecha": date,
     }
 
