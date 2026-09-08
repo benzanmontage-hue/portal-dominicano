@@ -75,22 +75,7 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
 .ball{min-width:29px;height:29px;padding:0 5px;display:inline-flex;align-items:center;justify-content:center;background:var(--bg);border:1px solid var(--border);border-radius:9px;font-weight:800;font-size:.85rem;font-variant-numeric:tabular-nums;box-shadow:inset 0 -2px 0 rgba(0,0,0,.04)}
 .ball.gold{background:linear-gradient(180deg,#ffe08a,#f2b32e);color:#3d2800;border-color:#e6a800;box-shadow:inset 0 -2px 0 rgba(0,0,0,.08)}
 
-/* Radio */
-.radio-player{background:var(--azul);border-radius:14px;padding:14px;color:#fff;box-shadow:var(--shadow);margin-bottom:10px;position:relative;overflow:hidden}
-.radio-player::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 80% at 90% 0%,rgba(239,35,60,.4),transparent 60%)}
-.radio-player>*{position:relative;z-index:1}
-.radio-player .now{font-size:.64rem;opacity:.85;font-weight:700;text-transform:uppercase;letter-spacing:.08em}
-.radio-player .title{font-size:1.05rem;font-weight:800;margin:2px 0 10px}
-.radio-player .controls{display:flex;align-items:center;gap:12px}
-.btn-play{width:48px;height:48px;border-radius:50%;border:none;background:#fff;color:var(--azul);font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;flex:0 0 auto;box-shadow:0 4px 12px rgba(0,0,0,.2)}
-.btn-play.playing{color:var(--rojo)}
-.vol{flex:1}.vol input{width:100%;accent-color:#fff}
-.radio-list{display:flex;flex-direction:column;gap:7px}
-.r-station{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:10px 13px;cursor:pointer;text-align:left;box-shadow:var(--shadow-sm);transition:border-color .15s}
-.r-station:hover{border-color:var(--azul2)}
-.r-station.active{border-color:var(--rojo);background:rgba(217,4,41,.04)}
-.r-station .n{font-weight:700;font-size:.85rem}
-.r-station .m{color:var(--muted);font-size:.68rem}
+/* MLB */
 
 /* Tendencias */
 .tend-list{display:flex;flex-direction:column;gap:8px}
@@ -191,14 +176,9 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
       <div class="lot-grid" id="loteria-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
     </div>
 
-    <div class="screen" id="scr-radio">
-      <h2 class="sec"><span class="bar"></span> Radio Dominicana <span class="meta">en vivo</span></h2>
-      <div class="radio-player">
-        <div class="now">Escuchando ahora</div>
-        <div class="title" id="radio-title">Elige una emisora</div>
-        <div class="controls"><button class="btn-play" id="radio-play">▶</button><div class="vol"><input type="range" id="radio-vol" min="0" max="100" value="80"></div></div>
-      </div>
-      <div class="radio-list" id="radio-list"><p style="color:var(--muted);font-size:.85rem">Cargando emisoras…</p></div>
+    <div class="screen" id="scr-mlb">
+      <h2 class="sec"><span class="bar"></span> MLB — hoy</h2>
+      <div class="mlb-list" id="mlb-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
     </div>
 
     <div class="screen" id="scr-tendencias">
@@ -218,9 +198,6 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
     </div>
 
     <div class="screen" id="scr-mas">
-      <h2 class="sec"><span class="bar"></span> MLB — hoy</h2>
-      <div class="mlb-list" id="mlb-grid"><p style="color:var(--muted);font-size:.85rem">Cargando…</p></div>
-
       <h2 class="sec"><span class="bar"></span> Traductor</h2>
       <div class="translator">
         <textarea id="tr-in" placeholder="Escribe algo…"></textarea>
@@ -250,10 +227,10 @@ h2.sec .meta{font-size:.72rem;color:var(--muted);font-weight:600;margin-left:aut
 
   <div class="tabbar">
     <button data-tab="loteria" class="active"><span class="i">🎰</span>Lotería</button>
-    <button data-tab="radio"><span class="i">📻</span>Radio</button>
+    <button data-tab="mlb"><span class="i">⚾</span>MLB</button>
     <button data-tab="noticias"><span class="i">📰</span>Noticias</button>
     <button data-tab="tiempo"><span class="i">🌤️</span>Tiempo</button>
-    <button data-tab="mas"><span class="i">⚾</span>Más</button>
+    <button data-tab="mas"><span class="i">🔤</span>Más</button>
   </div>
 </div>
 
@@ -318,41 +295,6 @@ fetch('data/resultados.json?v=1')
       });
     });
   }).catch(() => document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--rojo);font-size:.85rem">Error.</p>');
-
-// ---- Radio ----
-let audio = null;
-fetch('data/radio.json?v=1')
-  .then(r => r.json()).then(d => {
-    const list = document.getElementById('radio-list');
-    list.innerHTML = '';
-    d.emisoras.forEach(s => {
-      const el = document.createElement('button');
-      el.className = 'r-station';
-      const codec = s.codec ? s.codec + (s.bitrate ? ' '+s.bitrate+'k' : '') : '';
-      el.innerHTML = '<div class="n">'+s.nombre+'</div><div class="m">'+codec+'</div>';
-      el.addEventListener('click', () => playStation(s, el));
-      list.appendChild(el);
-    });
-  }).catch(() => document.getElementById('radio-list').innerHTML = '<p style="color:var(--muted);font-size:.85rem">Error.</p>');
-
-function playStation(s, el){
-  document.getElementById('radio-title').textContent = s.nombre;
-  document.querySelectorAll('.r-station').forEach(x => x.classList.remove('active'));
-  el.classList.add('active');
-  const btn = document.getElementById('radio-play');
-  if (audio) audio.pause();
-  audio = new Audio(s.url);
-  audio.volume = document.getElementById('radio-vol').value / 100;
-  audio.play().then(() => { btn.textContent = '⏸'; btn.classList.add('playing'); })
-    .catch(() => { btn.textContent = '▶'; btn.classList.remove('playing'); document.getElementById('radio-title').textContent = 'Error: ' + s.nombre; });
-}
-document.getElementById('radio-play').addEventListener('click', () => {
-  if (!audio) return;
-  const btn = document.getElementById('radio-play');
-  if (audio.paused){ audio.play(); btn.textContent = '⏸'; btn.classList.add('playing'); }
-  else { audio.pause(); btn.textContent = '▶'; btn.classList.remove('playing'); }
-});
-document.getElementById('radio-vol').addEventListener('input', e => { if (audio) audio.volume = e.target.value / 100; });
 
 // ---- Tendencias ----
 fetch('data/tendencias.json?v=1')
