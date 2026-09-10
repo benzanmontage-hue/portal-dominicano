@@ -83,14 +83,18 @@
 html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--txt);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-feature-settings:'cv11','ss01'}
 
-/* ---- Hero (mesh + glass) ---- */
-.hero{position:relative;overflow:hidden;color:#fff;padding:44px 16px 46px;text-align:center;background:var(--azul)}
-.hero::before{content:"";position:absolute;inset:-40%;background:radial-gradient(40% 60% at 15% 20%,rgba(239,35,60,.55),transparent 60%),radial-gradient(50% 70% at 85% 10%,rgba(10,91,191,.65),transparent 60%),radial-gradient(60% 60% at 50% 100%,rgba(245,185,66,.25),transparent 60%);filter:blur(30px);opacity:.9}
+/* ---- Hero estilo Netflix (cinemático, colores dominicanos) ---- */
+.hero{position:relative;overflow:hidden;color:#fff;padding:48px 20px 54px;background:var(--azul);text-align:left}
+.hero::before{content:"";position:absolute;inset:-30%;background:radial-gradient(45% 70% at 15% 20%,rgba(239,35,60,.55),transparent 60%),radial-gradient(50% 70% at 85% 10%,rgba(10,91,191,.65),transparent 60%),radial-gradient(60% 60% at 50% 100%,rgba(245,185,66,.25),transparent 60%);filter:blur(30px);opacity:.9}
 .hero>*{position:relative;z-index:1}
-.hero .escudo{width:72px;height:72px;margin:0 auto 12px;display:block;filter:drop-shadow(0 4px 14px rgba(0,0,0,.4))}
-.hero h1{font-size:2.2rem;font-weight:900;letter-spacing:-.03em;line-height:1.05}
-.hero .lema{font-size:.74rem;letter-spacing:.32em;text-transform:uppercase;margin-top:8px;opacity:.85;font-weight:600}
-.hero .updated{display:inline-block;margin-top:16px;font-size:.76rem;background:rgba(255,255,255,.14);padding:6px 16px;border-radius:999px;backdrop-filter:blur(8px);font-weight:600;border:1px solid rgba(255,255,255,.18)}
+.hero-escudo{width:58px;height:58px;margin-bottom:14px;display:block;filter:drop-shadow(0 4px 14px rgba(0,0,0,.4))}
+.hero h1{font-size:2.4rem;font-weight:900;letter-spacing:-.03em;line-height:1.02}
+.hero-sub{font-size:1rem;opacity:.92;margin-top:10px;max-width:560px;line-height:1.55;font-weight:500}
+.hero-actions{display:flex;gap:10px;margin-top:22px;flex-wrap:wrap}
+.hero-cta{display:inline-flex;align-items:center;gap:8px;background:#fff;color:var(--azul);text-decoration:none;font-weight:800;padding:12px 22px;border-radius:12px;font-size:.95rem;box-shadow:0 8px 24px rgba(0,0,0,.28);transition:transform .15s}
+.hero-cta:hover{transform:translateY(-2px)}
+.hero-cta.ghost{background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.25);box-shadow:none}
+.hero-updated{display:inline-block;margin-top:18px;font-size:.76rem;background:rgba(255,255,255,.14);padding:6px 14px;border-radius:999px;backdrop-filter:blur(8px);font-weight:600;border:1px solid rgba(255,255,255,.18)}
 
 /* ---- Navegación (glass sticky) ---- */
 nav.tabs{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--card) 82%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--border);display:flex;gap:6px;overflow-x:auto;padding:10px 14px;scrollbar-width:none}
@@ -117,8 +121,9 @@ h2.sect .bar{width:5px;height:22px;border-radius:99px;background:var(--grad)}
 h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:auto}
 
 /* ---- Eventos ---- */
-.eventos-grid{display:flex;flex-direction:column;gap:10px}
-.evento{background:var(--card);border:1px solid var(--border);border-left:4px solid var(--rojo);border-radius:var(--radius);padding:14px 16px;text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
+.eventos-grid{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
+.eventos-grid::-webkit-scrollbar{display:none}
+.evento{flex:0 0 290px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-left:4px solid var(--rojo);border-radius:var(--radius);padding:14px 16px;text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
 .evento:hover{transform:translateX(4px);box-shadow:var(--shadow)}
 .evento .e-ico{font-size:1.3rem;line-height:1;flex:0 0 auto}
 .evento .e-body{flex:1;min-width:0}
@@ -172,8 +177,9 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .retry{display:inline-flex;align-items:center;gap:7px;margin-top:6px;background:var(--grad);border:none;color:#fff;font-weight:800;padding:9px 16px;border-radius:11px;cursor:pointer;font-size:.84rem;box-shadow:0 4px 12px rgba(217,4,41,.2)}
 
 /* ---- Tendencias ---- */
-.tendencias-list{display:flex;flex-direction:column;gap:10px}
-.tend{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;display:flex;gap:14px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
+.tendencias-list{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
+.tendencias-list::-webkit-scrollbar{display:none}
+.tend{flex:0 0 300px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;display:flex;gap:14px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
 .tend:hover{transform:translateX(4px);box-shadow:var(--shadow)}
 .tend .rank{font-weight:900;font-size:1.3rem;color:var(--azul2);min-width:30px;text-align:center;line-height:1.3;font-variant-numeric:tabular-nums}
 .tend .rank.hot{color:var(--rojo)}
@@ -187,8 +193,9 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .tend .thumb{width:54px;height:54px;border-radius:12px;object-fit:cover;flex:0 0 auto;border:1px solid var(--border)}
 
 /* Noticias (estilo WeChat) */
-.news-list{display:flex;flex-direction:column;gap:8px}
-.news{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:13px 15px;box-shadow:var(--shadow-sm);text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;transition:transform .18s,box-shadow .18s}
+.news-list{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
+.news-list::-webkit-scrollbar{display:none}
+.news{flex:0 0 300px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:13px 15px;box-shadow:var(--shadow-sm);text-decoration:none;color:var(--txt);display:flex;gap:12px;align-items:flex-start;transition:transform .18s,box-shadow .18s}
 .news:hover{transform:translateX(4px);box-shadow:var(--shadow)}
 .news.featured{background:linear-gradient(135deg,var(--card) 60%,rgba(10,91,191,.06));border-color:var(--border2)}
 .news .n-ava{width:42px;height:42px;min-width:42px;border-radius:50%;color:#fff;font-weight:800;font-size:1.15rem;display:flex;align-items:center;justify-content:center;box-shadow:inset 0 -2px 0 rgba(0,0,0,.12)}
@@ -209,8 +216,9 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 #weather-hero .wtemp{font-size:3rem;font-weight:900;line-height:1;letter-spacing:-.02em}
 #weather-hero .wdesc{font-size:.92rem;opacity:.92;margin-top:3px}
 #weather-hero .wmeta{display:flex;gap:16px;margin-top:10px;font-size:.8rem;opacity:.92;flex-wrap:wrap}
-.weather-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
-.w-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px 14px;text-align:center;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
+.weather-grid{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
+.weather-grid::-webkit-scrollbar{display:none}
+.w-card{flex:0 0 150px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px 14px;text-align:center;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
 .w-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
 .w-card .wicon{font-size:1.9rem;line-height:1}
 .w-card .city{font-weight:700;font-size:.9rem;margin-top:8px}
@@ -248,8 +256,9 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .econ .e-hist .barra.last{background:linear-gradient(180deg,var(--rojo2),var(--rojo))}
 
 /* ---- MLB ---- */
-.mlb-grid{display:flex;flex-direction:column;gap:10px}
-.mlb-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);transition:transform .18s}
+.mlb-grid{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
+.mlb-grid::-webkit-scrollbar{display:none}
+.mlb-card{flex:0 0 250px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);transition:transform .18s}
 .mlb-card:hover{transform:translateX(4px)}
 .mlb-card .match{font-weight:700;font-size:.95rem}
 .mlb-card .score{font-size:1.4rem;font-weight:900;margin-top:3px;color:var(--azul2);letter-spacing:-.01em}
@@ -361,12 +370,15 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 </head>
 <body>
 
-<div class="wrap">
-  <div class="page-top" style="display:flex;align-items:center;gap:12px;margin:0 0 4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/330px-Coat_of_arms_of_the_Dominican_Republic.svg.png" alt="Escudo de la República Dominicana" style="width:44px;height:44px;flex:0 0 auto;filter:drop-shadow(0 2px 5px rgba(0,0,0,.25))" onerror="this.style.display='none'">
-    <a href="app.html" style="display:inline-block;background:var(--grad);color:#fff;text-decoration:none;font-weight:800;padding:10px 20px;border-radius:24px;font-size:.9rem;box-shadow:0 4px 14px rgba(206,17,38,.25);flex:0 0 auto">📱 Abrir la App</a>
-    <div class="updated" id="updated" style="font-size:.76rem;color:var(--muted);font-weight:600">Cargando…</div>
+<div class="hero">
+  <img class="hero-escudo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/330px-Coat_of_arms_of_the_Dominican_Republic.svg.png" alt="Escudo de la República Dominicana" onerror="this.style.display='none'">
+  <h1>Portal Dominicano</h1>
+  <p class="hero-sub">Resultados de lotería, radio, noticias, tiempo y MLB de República Dominicana — todo en un solo lugar, gratis.</p>
+  <div class="hero-actions">
+    <a class="hero-cta" href="app.html">📱 Abrir la App</a>
+    <a class="hero-cta ghost" href="#loteria">Ver resultados de hoy</a>
   </div>
+  <div class="hero-updated" id="updated">Cargando…</div>
 </div>
 
 <div class="bandera-franja" aria-hidden="true"></div>
@@ -388,7 +400,6 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 <div class="wrap">
 
   <section id="intro" aria-label="Descripción">
-    <h1 style="font-size:1.3rem;font-weight:900;letter-spacing:-.02em;margin:0 0 8px">Portal Dominicano</h1>
     <p class="seo-intro">
       Consulta los <strong>resultados de la lotería de hoy</strong> en República Dominicana: <strong>Lotería Nacional</strong>, <strong>Lotería Real</strong>, <strong>Anguila</strong>, <strong>Loteka</strong>, <strong>La Primera</strong>, <strong>La Suerte</strong> y <strong>Leidsa</strong>, con sus números ganadores actualizados en vivo. Además escucha <strong>radio FM dominicana en vivo</strong>, lee las <strong>noticias de República Dominicana</strong>, consulta el <strong>tiempo</strong> por ciudad, los marcadores de <strong>MLB</strong> y usa el <strong>traductor</strong> español-inglés. Todo en un solo lugar, gratis y sin registrarte.
     </p>
