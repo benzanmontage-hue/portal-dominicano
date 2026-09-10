@@ -1,5 +1,5 @@
 // Service worker — offline real: shell + datos cacheados, datos stale-while-revalidate
-const CACHE = 'portal-rd-v2';
+const CACHE = 'portal-rd-v3';
 const ASSETS = [
   './',
   './index.html',
