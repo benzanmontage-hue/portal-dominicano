@@ -406,6 +406,17 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
         <div class="cd-sub" id="cd-sub">—</div>
       </div>
     </div>
+    <div class="mis-numeros" id="misNumeros">
+      <div class="mn-head">🔎 Mis números — escribe los de tu papeleta</div>
+      <div class="mn-row">
+        <input type="text" inputmode="numeric" maxlength="2" id="mn1" placeholder="00" aria-label="Número 1">
+        <input type="text" inputmode="numeric" maxlength="2" id="mn2" placeholder="00" aria-label="Número 2">
+        <input type="text" inputmode="numeric" maxlength="2" id="mn3" placeholder="00" aria-label="Número 3">
+        <button class="mn-btn" id="mnGo">Ver coincidencias</button>
+        <button class="mn-btn ghost" id="mnClear" aria-label="Limpiar">✕</button>
+      </div>
+      <div class="mn-result" id="mnResult"></div>
+    </div>
     <div class="loteria-grid" id="loteria-grid">
       <div class="sk"><div class="line w80"></div><div class="line w40"></div></div>
       <div class="sk"><div class="line w60"></div><div class="line w80"></div></div>
@@ -671,6 +682,7 @@ function marcarCoincidencias(){
     if (btn && favs.includes(btn.dataset.id)) card.classList.add('favorita');
   });
 }
+function cargarLoteria(){
 fetch('data/resultados.json?v=1')
   .then(r => r.json())
   .then(d => {
@@ -722,7 +734,12 @@ fetch('data/resultados.json?v=1')
         const balls = j.numeros.map(n => '<span class="ball'+(j.numeros.length<=4?' gold':'')+'" data-n="'+n+'">'+n+'</span>').join('');
         const juegoId = (j.compania + '|' + j.juego);
         const esFav = esFavorito(juegoId);
-        card.innerHTML = '<div class="game">'+j.juego+'</div><div class="nums">'+balls+'</div>'+
+        const fecha = fmtFecha(j.fecha);
+        const viejo = esHoyRD(j.fecha) ? '' : '<span class="lot-dia">día anterior</span>';
+        card.dataset.numeros = (j.numeros || []).join(',');
+        card.innerHTML = '<div class="game">'+j.juego+'</div>'+
+          (fecha || viejo ? '<div class="lot-meta">'+(fecha?'<span class="lot-fecha">'+fecha+'</span>':'')+viejo+'</div>' : '')+
+          '<div class="nums">'+balls+'</div>'+
           '<div class="lot-actions">'+
             '<button class="lot-fav'+(esFav?' on':'')+'" data-id="'+juegoId+'" aria-label="Favorito">'+(esFav?'★':'☆')+'</button>'+
             '<a class="lot-share" href="'+shareUrl(j)+'" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp">💬</a>'+
@@ -737,9 +754,61 @@ fetch('data/resultados.json?v=1')
     });
   })
   .catch(() => {
-    document.getElementById('updated').textContent = 'No se pudieron cargar los resultados.';
-    document.getElementById('loteria-grid').innerHTML = '<p style="color:var(--rojo)">Error cargando resultados.</p>';
+    document.getElementById('updated').textContent = 'Sin conexión';
+    mostrarError(document.getElementById('loteria-grid'), 'No se pudieron cargar los resultados. Revisa tu conexión.', cargarLoteria);
   });
+}
+cargarLoteria();
+
+// ---- "Mis números" (escribe los de tu papeleta y encuentra coincidencias) ----
+(function(){
+  const ins = ['mn1','mn2','mn3'].map(id => document.getElementById(id));
+  if (!ins[0]) return; // no hay panel (evita error si el DOM no lo tiene)
+  const KEY = 'lot-misnumeros';
+  try {
+    const saved = JSON.parse(localStorage.getItem(KEY) || '[]');
+    saved.forEach((v,i) => { if (ins[i]) ins[i].value = v; });
+  } catch(e){}
+  ins.forEach((inp, i) => {
+    inp.addEventListener('input', () => {
+      inp.value = inp.value.replace(/[^0-9]/g,'').slice(0,2);
+      if (inp.value.length === 2 && ins[i+1]) ins[i+1].focus();
+    });
+  });
+  function numerosUsuario(){ return ins.map(i => i.value.trim()).filter(Boolean).map(Number); }
+  function aplicar(){
+    const nums = numerosUsuario();
+    const res = document.getElementById('mnResult');
+    document.querySelectorAll('.lot-card').forEach(c => c.classList.remove('match'));
+    if (!nums.length){ res.innerHTML = ''; return; }
+    let cuenta = 0, exactas = 0;
+    document.querySelectorAll('.lot-card').forEach(card => {
+      const cardNums = (card.dataset.numeros || '').split(',').filter(Boolean).map(Number);
+      const hits = nums.filter(n => cardNums.includes(n)).length;
+      if (hits >= 1){
+        card.classList.add('match');
+        cuenta++;
+        if (hits === nums.length && nums.length === cardNums.length) exactas++;
+      }
+    });
+    const numsTxt = nums.join(' · ');
+    res.innerHTML = cuenta
+      ? '<b>'+cuenta+'</b> juegos tienen al menos uno de tus números (<b>'+numsTxt+'</b>)' + (exactas ? ' — <b>'+exactas+' exacto(s)</b>' : '')
+      : 'Ningún juego de hoy tiene tus números (<b>'+numsTxt+'</b>). Revisa en el próximo sorteo.';
+    localStorage.setItem(KEY, JSON.stringify(nums));
+    const primero = document.querySelector('.lot-card.match');
+    if (primero) primero.scrollIntoView({behavior:'smooth', block:'center'});
+  }
+  document.getElementById('mnGo').addEventListener('click', aplicar);
+  document.getElementById('mnClear').addEventListener('click', () => {
+    ins.forEach(i => i.value = '');
+    document.querySelectorAll('.lot-card').forEach(c => c.classList.remove('match'));
+    document.getElementById('mnResult').innerHTML = '';
+    localStorage.removeItem(KEY);
+    ins[0].focus();
+  });
+  ins.forEach(i => i.addEventListener('keydown', e => { if (e.key === 'Enter') aplicar(); }));
+})();
 
 // ---- Tendencias ----
 lazy('tendencias', () => {
@@ -845,6 +914,7 @@ ciudades.forEach((c, i) => {
     }
   }).catch(()=>{});
 });
+});
 
 // ---- Divisas ----
 lazy('divisas', () => {
@@ -887,6 +957,7 @@ fetch('data/divisas.json?v=1')
     }
   })
   .catch(() => { document.getElementById('divisas-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las divisas.</p>'; });
+});
 
 // ---- Economía ----
 const econIcos = {'desempleo':'👷','deuda_ext':'💰','pib_pc':'📈','inflacion':'🔥'};
@@ -916,6 +987,7 @@ fetch('data/economia.json?v=1')
     });
   })
   .catch(() => { document.getElementById('economia-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los datos.</p>'; });
+});
 
 // ---- MLB ----
 function mlbDate(){
@@ -950,6 +1022,7 @@ fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {h
     });
   })
   .catch(()=>{ document.getElementById('mlb-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los marcadores.</p>'; });
+});
 
 // ---- Traductor ----
 document.getElementById('tr-go').addEventListener('click', translate);
