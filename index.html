@@ -1151,18 +1151,36 @@ if ('serviceWorker' in navigator) {
     }
   }
 
+  function streamURL(u){
+    // sobre HTTPS, promueve http->https para evitar bloqueo de contenido mixto
+    if (location.protocol === 'https:' && /^http:\/\//i.test(u)) return u.replace(/^http:/i, 'https:');
+    return u;
+  }
+
   function playStation(st, el){
     setPlaying(st, el);
     if (audio){ audio.pause(); audio = null; }
-    audio = new Audio(st.url);
-    audio.volume = 0.8;
-    audio.play().then(() => {
+    function onPlay(){
       playBtn.textContent = '⏸'; playBtn.classList.add('playing');
       nowPlay.textContent = '⏸'; nowBar.style.display = 'flex';
-    }).catch(() => {
+    }
+    function onError(){
       playBtn.textContent = '▶'; playBtn.classList.remove('playing');
       nowBar.style.display = 'none';
       stationLabel.textContent = 'Error: ' + st.nombre;
+    }
+    const url = streamURL(st.url);
+    audio = new Audio(url);
+    audio.volume = 0.8;
+    audio.play().then(onPlay).catch(() => {
+      // si la versión https falló, intenta la url original
+      if (url !== st.url){
+        audio = new Audio(st.url);
+        audio.volume = 0.8;
+        audio.play().then(onPlay).catch(onError);
+      } else {
+        onError();
+      }
     });
   }
 
