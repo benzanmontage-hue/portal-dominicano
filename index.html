@@ -223,15 +223,15 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 .divisa{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s;position:relative;overflow:hidden}
 .divisa:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
 .divisa::after{content:"";position:absolute;top:0;right:0;width:60px;height:60px;background:radial-gradient(circle at top right,rgba(10,91,191,.08),transparent 70%)}
-.divisa .d-top{display:flex;align-items:center;gap:7px;margin-bottom:8px}
-.divisa .flag{font-size:1.15rem;line-height:1}
-.divisa .mon{font-size:.7rem;font-weight:700;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.divisa .valor{font-size:1.15rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums}
-.divisa .a{font-size:.7rem;color:var(--muted);font-weight:600;margin-left:3px}
+.divisa .d-top{display:flex;align-items:center;gap:8px;margin-bottom:10px}
+.divisa .flag{font-size:1.5rem;line-height:1}
+.divisa .mon{font-size:.82rem;font-weight:700;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.divisa .valor{font-size:1.75rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums;line-height:1.1}
+.divisa .a{font-size:.85rem;color:var(--muted);font-weight:600;margin-left:4px}
 .divisas-mas{grid-column:1/-1;background:none;border:1px dashed var(--border2);border-radius:12px;color:var(--azul2);font-weight:700;font-size:.82rem;padding:10px;cursor:pointer;transition:border-color .15s,background .15s}
 .divisas-mas:hover{border-color:var(--azul2);background:rgba(10,91,191,.05)}
 .divisas-extra{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;grid-column:1/-1}
-@media(max-width:600px){.divisas-grid{grid-template-columns:repeat(3,1fr)}.divisas-extra{grid-template-columns:repeat(3,1fr)}.divisa .valor{font-size:1rem}.divisa .mon{font-size:.64rem}}
+@media(max-width:600px){.divisas-grid{grid-template-columns:1fr;gap:10px}.divisas-extra{grid-template-columns:1fr;gap:10px}.divisa .valor{font-size:1.55rem}.divisa .mon{font-size:.8rem}.divisa .flag{font-size:1.35rem}}
 
 /* ---- Economía ---- */
 .econ-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
