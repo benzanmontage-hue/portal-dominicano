@@ -1,30 +1,58 @@
 {
-  "updated": "2026-09-10T20:00:14.123597-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-10T23:00:14.560868-04:00",
+  "hora": "23:00",
   "fecha": "10/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "luis garcía jr.",
-      "trafico": "100+",
-      "noticia": "El único Yankee más joven que Lombard Jr. en dar un grand slam: Mickey Mantle",
-      "enlace": "https://www.mlb.com/es/news/george-lombard-jr-conecta-el-primer-grand-slam-de-los-yankees-en-el-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVcx8gZBZdp-1wXUqCv7-ctqGwtukaTNE1Zca4vXUs6yK8ZSgsESbn-417A7Y"
+      "termino": "oneil cruz",
+      "trafico": "200+",
+      "noticia": "Data Viz: Oneil Cruz s home run",
+      "enlace": "https://www.mlb.com/pirates/video/data-viz-oneil-cruz-s-home-run-x9887",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfXaBFp_l5z3L9u_LRq34fxw0_5gMsGngiUSladOjl29pEMYcacOm0s8CtOY"
+    },
+    {
+      "termino": "nfl scores",
+      "trafico": "200+",
+      "noticia": "Pennsylvania high school football scores from Thursday, Sept. 10",
+      "enlace": "https://www.standardspeaker.com/2026/09/10/pennsylvania-high-school-football-scores-from-thursday-sept-10/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwnzfHe8E3B1lAxCsBN0qFBkApF4HJiWCptl5cB4n5ptEVhOtGN4VVUmZr5SE"
+    },
+    {
+      "termino": "nfl",
+      "trafico": "500+",
+      "noticia": "‘Substation Has Insane Range,’ ‘Have Had Enough of This’ — NFL Fans React As 49ers WR De’Zhaun Stribling Suffers Injury vs. Rams",
+      "enlace": "https://sports.yahoo.com/articles/substation-insane-range-had-enough-015417092.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwh4rxQKn53DnRT1QSDKnk-4F9Zv7RoxNGPHEDXcg5qH_6D42ajR9swZ_wD1o"
     },
     {
       "termino": "white sox - pirates",
+      "trafico": "500+",
+      "noticia": "Pirates’ Braxton Ashcraft placed on injured list with right arm discomfort",
+      "enlace": "https://www.dkpittsburghsports.com/team/pirates/feed/topic/pirates-braxton-ashcraft-injured-list-right-arm-discomfort-mlb-jmn",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-SxmgSA6NIgdpcUxfYTz-PNgv8xGftJsVN6_SwneaN1Rfi6BBhRe2Vrv6J0E"
+    },
+    {
+      "termino": "luis garcía jr.",
       "trafico": "200+",
-      "noticia": "MLB: Pittsburgh Pirates at Chicago White Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-pittsburgh-pirates-at-chicago-white-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk3Nzc1NTQ",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYVWerazuVgBOEERGXPMda-_qe62zMH0wJgY8PEawEdrVfP7B5VqJ1NlXvJFw"
+      "noticia": "Jonrón solitario de Luis García Jr.",
+      "enlace": "https://www.mlb.com/es/video/jonron-solitario-de-luis-garcia-jr-x8724",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwmmGKTiToii4zubWgHHEsmhIm0z5kXwCZomz7sdgPPcgAgIaztPzn4C0wuDA"
     },
     {
       "termino": "julio rodríguez",
+      "trafico": "200+",
+      "noticia": "Logan Gilbert, Julio Rodríguez lead Mariners in win",
+      "enlace": "https://www.mlb.com/mariners/video/logan-gilbert-julio-rodriguez-lead-mariners-in-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq9VG4uIddiHuLzJH6txyETHbndLds9LtGUzliu3cNZba7eiltT7slRi-zJds"
+    },
+    {
+      "termino": "sharon stone",
       "trafico": "100+",
-      "noticia": "Rangers squander deGrom s 12-K gem in bid for 1st road series win since break",
-      "enlace": "https://www.mlb.com/news/jacob-degrom-season-high-12-strikeouts-rangers-lose-to-mariners",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6tkfI83B5pUFuE4Zwt6LCiz6_vemn-gT_kidXHPzkdhAefpL3tt8fsCz6zo"
+      "noticia": "Sharon Stone, 68, reveals surprising truth about her sex life: ‘Kind of bored’",
+      "enlace": "https://pagesix.com/2026/09/10/celebrity-news/sharon-stone-68-reveals-surprising-truth-about-her-sex-life-kind-of-bored/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_fYuU01BMXCXATZ-JrAp7ZfXdpwGX5pJ9IqeKRbAO1vnJ96LWGZ-P8HPzylk"
     },
     {
       "termino": "bayern – bodø/glimt",
@@ -36,9 +64,9 @@
     {
       "termino": "liga de campeones de la uefa",
       "trafico": "100+",
-      "noticia": "Clasificación de la Champions League: el PSG, líder tras la primera jornada",
-      "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/asi-clasificacion-champions-league-primera-jornada-real-madrid-betis-colocan-alto.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScj0LyE0przM7Bf4Nbgkygl6BHMqK7OaUmxgg3t3VqagEOQCoQduH3FF6dTRQ"
+      "noticia": "El Bayern destrona con un festival de goles en la segunda mitad; el United se pasea en Old Trafford",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/09/10/el-bayern-y-el-manchester-united-ganan-en-la-champions/3655579",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7rsk_9DIonDtW6q9Zas3w-xp8dk1jP284bz_UUluVXUXftdlIpCYrdCeJ60I"
     },
     {
       "termino": "mariners - rangers",
@@ -46,34 +74,6 @@
       "noticia": "Resumen Rangers @ Marineros, Resultados/Jugadas destacadas - 08/09/2026",
       "enlace": "https://www.mlb.com/es/stories/game/823092",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "google",
-      "trafico": "100+",
-      "noticia": "Pixel 11 Pro review: Google’s best pocket camera goes customisable",
-      "enlace": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Lh2YwbIHwqdymXJCVhlrTEzD86L_duxekH7gQa8thl-FSZu76WWvze7PVlc"
-    },
-    {
-      "termino": "fiscal",
-      "trafico": "500+",
-      "noticia": "Fiscal acusado de recibir soborno de un testigo del caso Senasa renuncia del Ministerio Público",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/10/fiscal-aurelio-valdez-alcantara-renuncia-del-ministerio-publico/3654926",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WBKgZn8nYKb9ZBblpklz1-RThnzDUNi4FUqefCPmM6Gjb0LKvK0rjrP1EIk"
-    },
-    {
-      "termino": "los tres brazos",
-      "trafico": "100+",
-      "noticia": "Corte de Apelación ratifica la extinción de la acción penal del caso Los Tres Brazos",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/10/corte-ratifica-extincion-de-la-accion-penal-del-caso-los-tres-brazos/3655199",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn5bHFXqKYitiPAb16Mbmjy7gehBvCPobokXhl9GdmRtjMD5OUZSIHY2agmKM"
-    },
-    {
-      "termino": "vivienda",
-      "trafico": "200+",
-      "noticia": "El costo de vivir en el Distrito: más de 26 años de salario promedio actual para pagar una casa",
-      "enlace": "https://www.diariolibre.com/economia/vivienda/2026/09/10/cuanto-cuesta-pagar-una-vivienda-en-distrito-nacional/3654203",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpU3EiC276RE2iUCZaanPR9HpijmtqNXPnEuUHn0t5J1-832dbQqbsBtLfCh8"
     }
   ]
 }
