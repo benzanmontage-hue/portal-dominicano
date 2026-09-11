@@ -1,16 +1,30 @@
 {
-  "updated": "2026-09-11T05:00:17.506639-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-11T08:00:19.333313-04:00",
+  "hora": "08:00",
   "fecha": "11/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "11 de septiembre",
+      "trafico": "100+",
+      "noticia": "¿Qué estabas haciendo tú el 11 de septiembre de 2001?",
+      "enlace": "https://eldia.com.do/que-estabas-haciendo-tu-el-11-de-septiembre-de-2001/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm9TcQzeI3negcV65irq4OovVRfe1LiIkpf0GiCYgYMYxLdTj7s1s3teeX_j0"
+    },
+    {
+      "termino": "torres gemelas",
+      "trafico": "100+",
+      "noticia": "25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas",
+      "enlace": "https://www.bbc.com/mundo/articles/cr50rzejdj3o",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS06zy0vfZyCPWx7vy1TGcZgjlxi1e7T5oGkXN28CJkL6DRk7gntGorOxSk71w"
+    },
+    {
       "termino": "oneil cruz",
       "trafico": "200+",
-      "noticia": "Pittsburgh Pirates vs. Chicago White Sox Results, Stats, and Recap - September 10, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260910_PIT@CHW/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9CeH0Lwqw7LQgP7t1O6ucGICJxX3XBXrQpq_6CRDU95JLHa3EusH5OiXiRs8"
+      "noticia": "Pirates Insider: Potential playoff push needs more  mind-boggling stuff  from Oneil Cruz",
+      "enlace": "https://www.mlb.com/news/oneil-cruz-jared-jones-lead-pirates-to-series-sweep-over-white-sox",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD5wKqFg-ufSKq8u3Pl1n3QNQrmQKXbtUBZ_hQWjzatVT2eRev7UVscju9_Ng"
     },
     {
       "termino": "nfl scores",
@@ -22,7 +36,7 @@
     {
       "termino": "nfl",
       "trafico": "500+",
-      "noticia": "‘Ready to fight’: Hilarious reveal on ‘crazy’ MCG moment as US fans say same thing about Aussies",
+      "noticia": "‘Ready to fight’: Hilarious ‘crazy’ MCG reveal as US fans say same thing about Aussies",
       "enlace": "https://www.foxsports.com.au/nfl/nfl-2026-american-fans-react-to-melbourne-cricket-ground-game-seating-view-paper-airplanes/news-story/12304955fd9cf33a7929608f109df0a6",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrOl0DX5S-v1Vo9IwMx-LXCon8ty1tZNdOJka4JtOGxJvpYVHeN56gxiA-VO8"
     },
@@ -43,9 +57,9 @@
     {
       "termino": "julio rodríguez",
       "trafico": "500+",
-      "noticia": "Logan Gilbert, Julio Rodríguez lead Mariners in win",
-      "enlace": "https://www.mlb.com/mariners/video/logan-gilbert-julio-rodriguez-lead-mariners-in-win",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq9VG4uIddiHuLzJH6txyETHbndLds9LtGUzliu3cNZba7eiltT7slRi-zJds"
+      "noticia": "Rangers no respaldan joya de deGrom y dejan escapar serie contra Marineros",
+      "enlace": "https://www.mlb.com/es/news/rangers-no-respaldan-joya-de-degrom-y-caen-contra-marineros",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6tkfI83B5pUFuE4Zwt6LCiz6_vemn-gT_kidXHPzkdhAefpL3tt8fsCz6zo"
     },
     {
       "termino": "nuevo iphone 18 pro max",
@@ -60,20 +74,6 @@
       "noticia": "Sharon Stone, 68, reveals surprising truth about her sex life: ‘Kind of bored’",
       "enlace": "https://pagesix.com/2026/09/10/celebrity-news/sharon-stone-68-reveals-surprising-truth-about-her-sex-life-kind-of-bored/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_fYuU01BMXCXATZ-JrAp7ZfXdpwGX5pJ9IqeKRbAO1vnJ96LWGZ-P8HPzylk"
-    },
-    {
-      "termino": "bayern – bodø/glimt",
-      "trafico": "100+",
-      "noticia": "Bayern Munich 5-0 Bodo/Glimt: Harry Kane scores in rout as German giants win in Champions League",
-      "enlace": "https://www.bbc.com/sport/football/live/cwp80y752j71t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUJCUxd2_ACQt4qLDwtt5xLOvycPO4_tm4Gpg8hjMrR7a_m5PBGSIklUMWUWM"
-    },
-    {
-      "termino": "liga de campeones de la uefa",
-      "trafico": "100+",
-      "noticia": "Bryan Cristiante recibió de Malen y anotó su primer gol en Champions League",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/bryan-cristiante-recibi%C3%B3-malen-anot%C3%B3-173500977.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8kZKodaCBg3zDiPtH-yqEcMD5X9oA7K8OKX1pnIQyq_-a825jxZN-N8h4TKU"
     }
   ]
 }
