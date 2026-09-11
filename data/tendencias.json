@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-11T14:00:21.411871-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-11T17:00:22.594015-04:00",
+  "hora": "17:00",
   "fecha": "11/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "world trade center",
+      "termino": "policía",
+      "trafico": "200+",
+      "noticia": "Apresan cinco haitianos penetraron a robar a tienda de El Valiente, Boca Chica",
+      "enlace": "https://elnacional.com.do/nacionales/policiales/apresan-cinco-haitianos-penetraron-robar-tienda-valiente-boca-chica_580604.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPeolZGwzqwHVKzdZNf-dBvjnGUAkWvjYApPVFbKXC5ftMmQ-e6mb0vLA0Ts"
+    },
+    {
+      "termino": "multa",
+      "trafico": "200+",
+      "noticia": "Denuncian en Santiago cobros de hasta RD$107,300 por transportar haitianos en situación irregular",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/10/multas-por-transportar-haitianos-en-situacion-irregular-en-santiago/3655240",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2lz5IvuYVpJatjb03Q4Iv6fcjq0-lOKKg6zF1M40LMFATmlvkvGnaN0CmbQ8"
+    },
+    {
+      "termino": "consumo",
+      "trafico": "200+",
+      "noticia": "SpainDC cree que el decreto para los  data center  es un  veto  que acabará con el sector",
+      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa3e8b4e5fdeaf16b8b4572.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJuz-zQjvTK-jxc3178iZHMSYKULsdZDKTwXNfG0LpaIs89HlolBdH_pIXBw"
+    },
+    {
+      "termino": "astrid de noruega",
       "trafico": "100+",
+      "noticia": "Los cinco hijos de Astrid de Noruega, rotos de dolor por su inesperada muerte:  La mejor madre que pudimos tener",
+      "enlace": "https://www.hola.com/realeza/casa_noruega/20260911922947/astrid-noruega-cinco-hijos-rotos-dolor-muerte-princesa-hermana-harald/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqniSKFgn0NlW7swz4rhhvxl_mD3Ewalnn_raH_llzfgINS-Fk1gSEE9jnShY"
+    },
+    {
+      "termino": "sevilla - valencia c. f.",
+      "trafico": "500+",
+      "noticia": "Sevilla - Valencia en directo: LaLiga EA Sports hoy, en vivo",
+      "enlace": "https://as.com/futbol/primera/sevilla-valencia-en-directo-laliga-ea-sports-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQytk9nMmz_eavn1PraXEBrqkqftWfeJC1GZb4bdx0ZYBI87zorPDrTZ5eknAk"
+    },
+    {
+      "termino": "cubs - pirates",
+      "trafico": "500+",
+      "noticia": "Pittsburgh Pirates vs. Chicago Cubs 13/9/26 - Mira Juego en vivo",
+      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816929",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQphMIccuacHbOZvC9xw_UabDlAL2oCK8OqnxgVZrNrzP5kww0VbzhH5WTIQk"
+    },
+    {
+      "termino": "anadegas",
+      "trafico": "200+",
+      "noticia": "¿Dónde están las gasolineras que no aceptarían pagos con tarjeta desde el 25 de septiembre?",
+      "enlace": "https://listindiario.com/economia/20260911/cuales-estaciones-combustible-aceptaran-pagos-electronicos-partir-25-septiemnre_921811.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLFXmGIfJ6j_SUBK5JzQgs9bRxj6joSr9xIBrAm1tM8BnSmvtgOn4PiyqpWk"
+    },
+    {
+      "termino": "world trade center",
+      "trafico": "500+",
       "noticia": "Live updates: America marks the 25th anniversary of 9/11",
       "enlace": "https://www.cnn.com/2026/09/11/us/live-news/9-11-anniversary",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5rBKF9Y4kG_1UDIdYibpEA3LYJY-t1in1N6Ub_IST_i2HMC-PW3hltxyXnHs"
     },
     {
       "termino": "arresto",
-      "trafico": "100+",
-      "noticia": "Deve scontare oltre due anni per rapina, 41enne oppone resistenza all’arresto",
-      "enlace": "https://www.laprovinciacr.it/news/cronaca/589396/deve-scontare-oltre-due-anni-per-rapina-41enne-oppone-resistenza-allarresto.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm2hRc0BaLp36uHHjYoeRZSorQU8buJ2xJNXGwZD-d9eFdCI-fTyw_bfraJI"
+      "trafico": "500+",
+      "noticia": "Terremoto giudiziario a Carolei: chiesto il carcere per il sindaco Iannucci, la giunta si dimette in blocco",
+      "enlace": "https://www.calabriadirettanews.com/2026/09/11/terremoto-giudiziario-a-carolei-chiesto-il-carcere-per-il-sindaco-iannucci-la-giunta-si-dimette-in-blocco/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdXE-BDkJQhbVrYaeVtziOH-aKx8FmcYEH6HYaKx03NQgAuqfkAq74p33qcho"
     },
     {
       "termino": "real de hoy",
-      "trafico": "1000+",
-      "noticia": "Previsión de AEMET para Ciudad Real mañana, sábado 12 de septiembre: consulta el tiempo",
-      "enlace": "https://www.elconfidencial.com/el-tiempo/2026-09-11/el-tiempo-en-ciudad-real-sabado_4422344/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl34PxczhE6-vnd2-U-ORTC5KlW3tb75DNh9r3MHhQ_RMcNXQIXS0UDYo2NNI"
-    },
-    {
-      "termino": "cilia flores",
-      "trafico": "100+",
-      "noticia": "Cilia Flores pide arresto domiciliario por problemas cardíacos",
-      "enlace": "https://listindiario.com/las-mundiales/20260911/cilia-flores-pide-arresto-domiciliario-problemas-cardiacos_921763.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qAPs1Ndb-o9Q5bzVlav_dN9RtxSrchDacbFjV8VI3fBXZT5pgRWD2cUA7J4"
-    },
-    {
-      "termino": "gabriel rolón",
-      "trafico": "500+",
-      "noticia": "Gabriel Rolón, psicólogo: “La gracia del amor es abrazar también la imperfección del otro”",
-      "enlace": "https://flipr.com.ar/nacionales/sociedad/lanacion/gabriel-rolon-psicologo-la-gracia-del-amor-es-abrazar-tambien-la-imperfeccion-del-otro/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqcEpRHObHdFL34IGEYGpoBqapcmjiPEf3vsGht-Ns3qjsMybmGCOo6t5jctY"
-    },
-    {
-      "termino": "haitiano",
-      "trafico": "100+",
-      "noticia": "Emiten alerta por presuntos casos de ántrax en Haití; reportan 2 personas fallecidas",
-      "enlace": "https://elnacional.com.do/mundo/emiten-alerta-presuntos-casos-antrax-haiti-reportan-2-personas-fallecidas_580623.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI_0eWntgGktRifNRM2wUss5JQ8wfj-sv28konw3sZ7jkNUtIublcbu6xT7cQ"
-    },
-    {
-      "termino": "marileidy paulino",
-      "trafico": "100+",
-      "noticia": "Marileidy Paulino va por otro hito en la crema del atletismo mundial en el Ultimate Championship",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/11/marileidy-paulino-por-otro-hito-en-la-crema-del-atletismo-mundial/3655530",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW72hyqMa1jqudr_fxNRjAH716Wsgkv6PvgRTdNhzt07pxlEdOtAcaYXlVrvM"
-    },
-    {
-      "termino": "torres gemelas",
-      "trafico": "1000+",
-      "noticia": "El 11-S, el día en que el mundo miró la misma noticia",
-      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/09/11/11-s-el-dia-en-que-el-mundo-miro-la-misma-noticia/3655160",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTABF_Qs9C0XJSHnlWsUyY3_u3_gt8eUXpY3BphxVx4Y0WgLTKnrh1WZryyDPI"
-    },
-    {
-      "termino": "oneil cruz",
-      "trafico": "200+",
-      "noticia": "How Oneil Cruz Walked Away From a Deadly Crash With a Fixer s Help",
-      "enlace": "https://www.propublica.org/article/oneil-cruz-pittsburgh-pirates-santo-caraballo-car-crash-payments-dominican-republic",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0WlhbQ4sb_FTwmOUZQL_RTw90A-a3g5rmvNVVs0aFGTabTWJFH9BTD-32oIw"
-    },
-    {
-      "termino": "nfl scores",
-      "trafico": "200+",
-      "noticia": "Bucks County high school football scoreboard: Week 3 live scores",
-      "enlace": "https://sports.yahoo.com/articles/bucks-county-high-school-football-193040847.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWPqZ37sUqi-ZQrt2oY5zQFAidD0X1swfkVAcSwgbEpZvrb0umDIw4xkON6uA"
+      "trafico": "5000+",
+      "noticia": "Resultados de la Lotería Real hoy 11 de septiembre de 2026",
+      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-real-hoy-11-septiembre-2026/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDCq7sZBjaU-KZQ8gLmlWyQidyd_Un3tY4njPfPj3qcxg2Yr57rlYLnZyHOw"
     }
   ]
 }
