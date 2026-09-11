@@ -1,30 +1,37 @@
 {
-  "updated": "2026-09-11T08:00:19.333313-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-11T11:00:20.455091-04:00",
+  "hora": "11:00",
   "fecha": "11/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "11 de septiembre",
+      "termino": "gabriel rolón",
+      "trafico": "200+",
+      "noticia": "Gabriel Rolón, psicólogo: “La mayoría de las personas tienen desgraciadamente parejas que no querrían tener”",
+      "enlace": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-mayoria-de-las-personas-tienen-desgraciadamente-parejas-que-no-querrian-nid10092026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT63C3qodLpgtZmgxAZdRcz7XPuum21CDdDinqVKpxxL5KhzXP-ExUE_gwN4ug"
+    },
+    {
+      "termino": "marileidy paulino",
       "trafico": "100+",
-      "noticia": "¿Qué estabas haciendo tú el 11 de septiembre de 2001?",
-      "enlace": "https://eldia.com.do/que-estabas-haciendo-tu-el-11-de-septiembre-de-2001/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm9TcQzeI3negcV65irq4OovVRfe1LiIkpf0GiCYgYMYxLdTj7s1s3teeX_j0"
+      "noticia": "Marileidy Paulino va por otro hito en la crema del atletismo mundial en el Ultimate Championship",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/11/marileidy-paulino-por-otro-hito-en-la-crema-del-atletismo-mundial/3655530",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW72hyqMa1jqudr_fxNRjAH716Wsgkv6PvgRTdNhzt07pxlEdOtAcaYXlVrvM"
     },
     {
       "termino": "torres gemelas",
-      "trafico": "100+",
-      "noticia": "25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas",
-      "enlace": "https://www.bbc.com/mundo/articles/cr50rzejdj3o",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS06zy0vfZyCPWx7vy1TGcZgjlxi1e7T5oGkXN28CJkL6DRk7gntGorOxSk71w"
+      "trafico": "1000+",
+      "noticia": "El 11-S, el día en que el mundo miró la misma noticia",
+      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/09/11/11-s-el-dia-en-que-el-mundo-miro-la-misma-noticia/3655160",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTABF_Qs9C0XJSHnlWsUyY3_u3_gt8eUXpY3BphxVx4Y0WgLTKnrh1WZryyDPI"
     },
     {
       "termino": "oneil cruz",
       "trafico": "200+",
-      "noticia": "Pirates Insider: Potential playoff push needs more  mind-boggling stuff  from Oneil Cruz",
-      "enlace": "https://www.mlb.com/news/oneil-cruz-jared-jones-lead-pirates-to-series-sweep-over-white-sox",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD5wKqFg-ufSKq8u3Pl1n3QNQrmQKXbtUBZ_hQWjzatVT2eRev7UVscju9_Ng"
+      "noticia": "Pirates 2-0 White Sox (Sep 10, 2026) Game Recap",
+      "enlace": "http://www.espn.com/mlb/recap?gameId=401816886",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrskmJpb1o1bHPH2hUOm6fHpFvNYI4ilY1pGRNsoNo4MJFiYtL7pixU4kJSJg"
     },
     {
       "termino": "nfl scores",
@@ -36,16 +43,16 @@
     {
       "termino": "nfl",
       "trafico": "500+",
-      "noticia": "‘Ready to fight’: Hilarious ‘crazy’ MCG reveal as US fans say same thing about Aussies",
-      "enlace": "https://www.foxsports.com.au/nfl/nfl-2026-american-fans-react-to-melbourne-cricket-ground-game-seating-view-paper-airplanes/news-story/12304955fd9cf33a7929608f109df0a6",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrOl0DX5S-v1Vo9IwMx-LXCon8ty1tZNdOJka4JtOGxJvpYVHeN56gxiA-VO8"
+      "noticia": "Cooper Kupp lauds Drew Lock for staying ready in Seahawks’ Week 1 win",
+      "enlace": "https://sports.yahoo.com/articles/cooper-kupp-lauds-drew-lock-194127681.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRLdex8TkNbyT-aGSNk0T9XCYMy_fCT1JEA5Rs_hZ9WsYtpfRSL0Y8cclB9Yw"
     },
     {
       "termino": "white sox - pirates",
-      "trafico": "500+",
-      "noticia": "Benches clear in Pirates-White Sox after inning-ending double play",
-      "enlace": "https://www.mlb.com/news/benches-clear-in-pirates-white-sox-after-inning-ending-double-play",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PZkhva-ZiT3Dm2Ij4KKo2CSixoAmCvUGXONhF_z_kJa-GQkp_23fEFRc6sc"
+      "trafico": "1000+",
+      "noticia": "After  punch in the face,  White Sox prepared to fight back",
+      "enlace": "https://www.mlb.com/news/white-sox-swept-by-pirates-as-al-central-lead-shrinks",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5-Lcgsq9W8MhoCKx-piQk2xoAwmG9XYm_PirljSgFG2LmuXGpDoYX8Rn-FpA"
     },
     {
       "termino": "luis garcía jr.",
@@ -57,9 +64,9 @@
     {
       "termino": "julio rodríguez",
       "trafico": "500+",
-      "noticia": "Rangers no respaldan joya de deGrom y dejan escapar serie contra Marineros",
-      "enlace": "https://www.mlb.com/es/news/rangers-no-respaldan-joya-de-degrom-y-caen-contra-marineros",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6tkfI83B5pUFuE4Zwt6LCiz6_vemn-gT_kidXHPzkdhAefpL3tt8fsCz6zo"
+      "noticia": "Logan Gilbert, Julio Rodríguez lead Mariners in win",
+      "enlace": "https://www.mlb.com/mariners/video/logan-gilbert-julio-rodriguez-lead-mariners-in-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq9VG4uIddiHuLzJH6txyETHbndLds9LtGUzliu3cNZba7eiltT7slRi-zJds"
     },
     {
       "termino": "nuevo iphone 18 pro max",
@@ -67,13 +74,6 @@
       "noticia": "El costoso iPhone pleglable, la apuesta del nuevo jefe de Apple",
       "enlace": "https://acento.com.do/bbc-news-mundo/el-costoso-iphone-pleglable-la-apuesta-del-nuevo-jefe-de-apple-9750644.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXC7JSFHb5kPrD_LbEg3WV681r7lMfqVA-PdmPTPMqXBqGI_BOrusb19K2WMs"
-    },
-    {
-      "termino": "sharon stone",
-      "trafico": "100+",
-      "noticia": "Sharon Stone, 68, reveals surprising truth about her sex life: ‘Kind of bored’",
-      "enlace": "https://pagesix.com/2026/09/10/celebrity-news/sharon-stone-68-reveals-surprising-truth-about-her-sex-life-kind-of-bored/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_fYuU01BMXCXATZ-JrAp7ZfXdpwGX5pJ9IqeKRbAO1vnJ96LWGZ-P8HPzylk"
     }
   ]
 }
