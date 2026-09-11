@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-10T17:00:09.815194-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-10T20:00:14.123597-04:00",
+  "hora": "20:00",
   "fecha": "10/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "google",
+      "termino": "luis garcía jr.",
       "trafico": "100+",
-      "noticia": "The Gemini app is now available for Windows",
-      "enlace": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-6IFFh_OPCcy6mP1HQh2ApzjbUzzqsgFpSaIPoG0LZ96HDE2g_9rWo6xvqLk"
+      "noticia": "El único Yankee más joven que Lombard Jr. en dar un grand slam: Mickey Mantle",
+      "enlace": "https://www.mlb.com/es/news/george-lombard-jr-conecta-el-primer-grand-slam-de-los-yankees-en-el-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVcx8gZBZdp-1wXUqCv7-ctqGwtukaTNE1Zca4vXUs6yK8ZSgsESbn-417A7Y"
     },
     {
-      "termino": "numeros ganadores",
+      "termino": "white sox - pirates",
+      "trafico": "200+",
+      "noticia": "MLB: Pittsburgh Pirates at Chicago White Sox",
+      "enlace": "https://www.reutersconnect.com/item/mlb-pittsburgh-pirates-at-chicago-white-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk3Nzc1NTQ",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYVWerazuVgBOEERGXPMda-_qe62zMH0wJgY8PEawEdrVfP7B5VqJ1NlXvJFw"
+    },
+    {
+      "termino": "julio rodríguez",
       "trafico": "100+",
-      "noticia": "Resultados Lotería Powerball: números ganadores del miércoles 9 de septiembre de 2026",
-      "enlace": "https://www.infobae.com/estados-unidos/2026/09/10/resultados-loteria-powerball-numeros-ganadores-del-miercoles-9-de-septiembre-de-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwPhEpjm6sbzYswWOLb9OEnisR1WcZ7prInRmA9h9GWd_Qu3WTaY-bW9WkyiA"
+      "noticia": "Rangers squander deGrom s 12-K gem in bid for 1st road series win since break",
+      "enlace": "https://www.mlb.com/news/jacob-degrom-season-high-12-strikeouts-rangers-lose-to-mariners",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6tkfI83B5pUFuE4Zwt6LCiz6_vemn-gT_kidXHPzkdhAefpL3tt8fsCz6zo"
+    },
+    {
+      "termino": "bayern – bodø/glimt",
+      "trafico": "100+",
+      "noticia": "Bayern Munich 5-0 Bodo/Glimt: Harry Kane scores in rout as German giants win in Champions League",
+      "enlace": "https://www.bbc.com/sport/football/live/cwp80y752j71t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUJCUxd2_ACQt4qLDwtt5xLOvycPO4_tm4Gpg8hjMrR7a_m5PBGSIklUMWUWM"
+    },
+    {
+      "termino": "liga de campeones de la uefa",
+      "trafico": "100+",
+      "noticia": "Clasificación de la Champions League: el PSG, líder tras la primera jornada",
+      "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/asi-clasificacion-champions-league-primera-jornada-real-madrid-betis-colocan-alto.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScj0LyE0przM7Bf4Nbgkygl6BHMqK7OaUmxgg3t3VqagEOQCoQduH3FF6dTRQ"
+    },
+    {
+      "termino": "mariners - rangers",
+      "trafico": "200+",
+      "noticia": "Resumen Rangers @ Marineros, Resultados/Jugadas destacadas - 08/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823092",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+    },
+    {
+      "termino": "google",
+      "trafico": "100+",
+      "noticia": "Pixel 11 Pro review: Google’s best pocket camera goes customisable",
+      "enlace": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Lh2YwbIHwqdymXJCVhlrTEzD86L_duxekH7gQa8thl-FSZu76WWvze7PVlc"
+    },
+    {
+      "termino": "fiscal",
+      "trafico": "500+",
+      "noticia": "Fiscal acusado de recibir soborno de un testigo del caso Senasa renuncia del Ministerio Público",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/10/fiscal-aurelio-valdez-alcantara-renuncia-del-ministerio-publico/3654926",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WBKgZn8nYKb9ZBblpklz1-RThnzDUNi4FUqefCPmM6Gjb0LKvK0rjrP1EIk"
     },
     {
       "termino": "los tres brazos",
       "trafico": "100+",
-      "noticia": "Alcalde Dío Astacio anuncia RD$1,538 millones para obras elegidas por las comunidades",
-      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/09/10/inician-construccion-de-obras-comunitarias-en-los-tres-brazos/3654128",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpmBpOlr9NADrak8B8ngOIuvl7Xl590wc2zdzCZ5sklcSFEexe1zAt-xyctyM"
+      "noticia": "Corte de Apelación ratifica la extinción de la acción penal del caso Los Tres Brazos",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/10/corte-ratifica-extincion-de-la-accion-penal-del-caso-los-tres-brazos/3655199",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn5bHFXqKYitiPAb16Mbmjy7gehBvCPobokXhl9GdmRtjMD5OUZSIHY2agmKM"
     },
     {
       "termino": "vivienda",
       "trafico": "200+",
-      "noticia": "¿Quiénes pueden comprar una vivienda de bajo costo en RD y cuánto deben ganar?",
-      "enlace": "https://eldia.com.do/quienes-pueden-comprar-una-vivienda-bajo-costo/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmlgHouyrdA5h5ZZMf2-V98O57JIkiAaKeW76olBIovletOu6d1Ro71rRWj9g"
-    },
-    {
-      "termino": "loteria",
-      "trafico": "5000+",
-      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, jueves 10 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-jueves-10-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9UmwwVReRTVLc4LEW5ypoZCmGuADJ0DL1326h-wORt1va1i1vyux0l_xo3NI"
-    },
-    {
-      "termino": "la primera",
-      "trafico": "2000+",
-      "noticia": "Resultados de la Lotería Primera Hoy 10 de septiembre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-primera-hoy-10-septiembre-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQU6K66yrD3GYKsYKfqHP8DLJil5lfpB_OpK2vwAheRl6_ZapGGnUVboeAoD4"
-    },
-    {
-      "termino": "avengers doomsday",
-      "trafico": "200+",
-      "noticia": "Avengers: Doomsday: Hot Toys Reveals Sinister Victor Von Doom Figure And His Second Mask",
-      "enlace": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-hot-toys-reveals-sinister-victor-von-doom-figure-and-his-second-mask-a229812",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yfHtRs7NAk4MAKVvWaVFO0HXJ0SL2puZdZQjqV2I6mR1H4Cy0NTA2rYKjZA"
-    },
-    {
-      "termino": "canadá",
-      "trafico": "500+",
-      "noticia": "Canadá refuerza su cooperación militar con Ucrania y prepara nuevas sanciones contra Rusia",
-      "enlace": "https://es-us.noticias.yahoo.com/canad%C3%A1-refuerza-cooperaci%C3%B3n-militar-ucrania-172907077.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSNgVQLp4J3xeycBuylEoP7HXQgMZjdd-UXu_992XNcAXzJi3BIYVo8AtU7Ls"
-    },
-    {
-      "termino": "dirección general de seguridad de tránsito y transporte terrestre (digesett)",
-      "trafico": "1000+",
-      "noticia": "Digesett conmemora 29 aniversario con misa en Santiago",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/10/la-digesett-celebra-29-aniversario-con-misa-en-santiago/3654888",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZcvdzdlxpTwq1zZ4EOkApb7RTCUZhRfnxTro-lvXBRdmCWrbvBoFH4ZKNFA"
-    },
-    {
-      "termino": "elly de la cruz",
-      "trafico": "100+",
-      "noticia": "Reds Dodgers Baseball",
-      "enlace": "https://www.springfieldnewssun.com/reds-dodgers-baseball/image_9fb3c72b-f3f0-56f8-a3ce-4639c6864d3f.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHjSqKXUlJDvZQ0EwoV5tr6kLIlyZRrUMouv9WhAcD6uLja6LfHouX0UlYEjg"
+      "noticia": "El costo de vivir en el Distrito: más de 26 años de salario promedio actual para pagar una casa",
+      "enlace": "https://www.diariolibre.com/economia/vivienda/2026/09/10/cuanto-cuesta-pagar-una-vivienda-en-distrito-nacional/3654203",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpU3EiC276RE2iUCZaanPR9HpijmtqNXPnEuUHn0t5J1-832dbQqbsBtLfCh8"
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "updated": "2026-09-10T17:00:11.934204-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-10T20:00:20.898082-04:00",
+  "hora": "20:00",
   "fecha": "10/09/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Gobierno de Nicaragua cierra embajada en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdk9Mc1FrdElaSm43eU5oSS1oNlprMUxwYUVkUUtINUJiWFl6eFpFZUlacXpHSlpVc2ZpMkQ0YWs0a2tqWkhrSjF5VU5Ddm9GWUJVZFRCTi1ZZUJlek1RQVFwZWpscjdvME8xbzhYQXhMTWFkQ0QyZzFEYXRBM2F4TkdiVUJGb3NKUE84dXlKbVBSaHdpaDRTR0t3U1pDaVdxX01kdGNNZVY4ZjVyNlVqRkgwZ0zSAboBQVVfeXFMT3BoMGpGSllmeEFUei0yR1V4VVdYeXBxY3VhX2t2bFhyR1h0SGZIVlFGdEZ5THNhTlV5MHB5c0dGdHBPNU0xYmc4QWY3cDdUTzBJeW9ZNVplMENTdF9laTJoZXRWZ3lRRTZhMU5TVXNBcVJWb1dSZ0hnSHpNdWxRT2QzTi1vMENRcGFRX2lpSF9URWphdDlvWFJsZG1ubERhRHQ1a3JScnBZOEQwSjZuNWxHSmdTakRfenNR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 09 Sep 2026 19:03:28 GMT",
-      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/07/23/6a62089189ea2.r_d.309-239-0.jpeg"
-    },
     {
       "titulo": "Ya se alquila la casa que ocupaba la Embajada de Nicaragua en Santo Domingo - Diario Libre",
       "fuente": "Diario Libre",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 09 Sep 2026 18:09:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2026/09/09/alquiler-de-embajada-nicaragua-en-republica-dominicana-tras-cierre-2b001b53-focus-0-0-1200-675.jpg"
+    },
+    {
+      "titulo": "Gobierno de Nicaragua cierra embajada en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdk9Mc1FrdElaSm43eU5oSS1oNlprMUxwYUVkUUtINUJiWFl6eFpFZUlacXpHSlpVc2ZpMkQ0YWs0a2tqWkhrSjF5VU5Ddm9GWUJVZFRCTi1ZZUJlek1RQVFwZWpscjdvME8xbzhYQXhMTWFkQ0QyZzFEYXRBM2F4TkdiVUJGb3NKUE84dXlKbVBSaHdpaDRTR0t3U1pDaVdxX01kdGNNZVY4ZjVyNlVqRkgwZ0zSAboBQVVfeXFMT3BoMGpGSllmeEFUei0yR1V4VVdYeXBxY3VhX2t2bFhyR1h0SGZIVlFGdEZ5THNhTlV5MHB5c0dGdHBPNU0xYmc4QWY3cDdUTzBJeW9ZNVplMENTdF9laTJoZXRWZ3lRRTZhMU5TVXNBcVJWb1dSZ0hnSHpNdWxRT2QzTi1vMENRcGFRX2lpSF9URWphdDlvWFJsZG1ubERhRHQ1a3JScnBZOEQwSjZuNWxHSmdTakRfenNR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 09 Sep 2026 19:03:28 GMT",
+      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/07/23/6a62089189ea2.r_d.309-239-0.jpeg"
     },
     {
       "titulo": "Nicaragua cierra embajada en República Dominicana tras retirada de diplomáticos, siguen relaciones - Diario Las Américas",
@@ -29,44 +29,44 @@
       "imagen": "https://media.diariolasamericas.com/p/a691273e4330f2d462c2e5d254e39f3b/adjuntos/216/imagenes/100/223/0100223138/1200x630/smart/nicaragua-ortega-dictador-afp.jpg"
     },
     {
-      "titulo": "Gobierno dominicano y Amazon Web Services lanzan programa de 50,000 becas para capacitar en inteligencia artificial y computación en la nube - Presidencia de la República Dominicana",
-      "fuente": "Presidencia de la República Dominicana",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHZ0dHR2VWJuU0dwODlYN0dNZDdFb0JUZ3JuTkVkMkxyV0QzZXJhV3FKRnVZZzFXekY1dkpVNENQVEs4QV9Zb2RpeFZ4S3hmbU1vZ2dEQjBHLVdwUzlUc3V6UmY5YU91UlhYNnJjbDRTY25TaXhhUk4xelBNY2IzdFBzUW9rbVlhblktbzhqdF9wZHBiS2RlVkhKNXRkYS1TY3J1Ump2MXlYaHNJcGU2cnF0LVBsX1JDbml5cVJFWXluYkRqUVFFanJ3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 09 Sep 2026 17:25:59 GMT",
-      "imagen": "https://www.presidencia.gob.do/sites/default/files/news/2026-09/WhatsApp%20Image%202026-09-09%20at%2012.%20(1).jpg"
-    },
-    {
-      "titulo": "Precio del dólar hoy en República Dominicana: jueves 10 de septiembre de 2026 - Acento",
+      "titulo": "Raúl Hernández: República Dominicana mantendrá un crecimiento superior al promedio regional pese a desaceleración global - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOThWMmdjQU9MSElfcEJfYTdESHZ5VnlTazNjZGdfdnZHeUtzb0hjLXRZY3lEYWVqMy1CTXNGQXF1N21VSUxISGI4d2x6RXp5TnRBQUx2bFpqc0prd0szU0tWN3VvY1VBQWo0N1k1SndodldKWUlrTnVRdDhUN0hpREtmZk5xcktLYXpmSVViblI1MEREVld0UUdnb1VKYTBSdk9fSHQ4ZTJnUlpoT2lzTXA2cUJXdkxabmFBcdIBvAFBVV95cUxQOThWMmdjQU9MSElfcEJfYTdESHZ5VnlTazNjZGdfdnZHeUtzb0hjLXRZY3lEYWVqMy1CTXNGQXF1N21VSUxISGI4d2x6RXp5TnRBQUx2bFpqc0prd0szU0tWN3VvY1VBQWo0N1k1SndodldKWUlrTnVRdDhUN0hpREtmZk5xcktLYXpmSVViblI1MEREVld0UUdnb1VKYTBSdk9fSHQ4ZTJnUlpoT2lzTXA2cUJXdkxabmFBcQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS1JrUFlzSG1oeDdaN0FwbGYtVTlXTGNnbi1meFBjZzZjVXdDSThmU1lURHdacFZMUDlMbjcxYkNSTEFyXzdTNVIxZ3YzMW9peFRfVy04cG50Tno1Y1JGdmYxaGlRMmZjRjZrYTM0eEMySTJnMTM2LUNHLTlabkQ1QTJvUVpZMnBYdHE1dUhuOXozREk4MmJRTm1GbFpJTkpRN1JUWnpWV2kxRHFuYVUwZVZoMzFyZ3Q1OTNoLTg1NkxFSEUxenIwMzhMbklIUVJkbUoxZUZ5NzloSy13OHozM0tGX3RTYTlCa2VPRlI3OGVXT2g5aGfSAfYBQVVfeXFMTktSa1BZc0htaHg3WjdBcGxmLVU5V0xjZ24tZnhQY2c2Y1V3Q0k4ZlNZVER3WnBWTFA5TG43MWJDUkxBcl83UzVSMWd2MzFvaXhUX1ctOHBudE56NWNSRnZmMWhpUTJmY0Y2a2EzNHhDMkkyZzEzNi1DRy05Wm5ENUEyb1FaWTJwWHRxNXVIbjl6M0RJODJiUU5tRmxaSU5KUTdSVFp6VldpMURxbmFVMGVWaDMxcmd0NTkzaC04NTZMRUhFMXpyMDM4TG5JSFFSZG1KMWVGeTc5aEstdzh6MzNLRl90U2E5QmtlT0ZSNzhlV09oOWhn?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 10 Sep 2026 07:59:58 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/08/hand-holding-money-international-currency-exchange-world-money-OG.jpg"
+      "fecha": "Thu, 10 Sep 2026 20:00:39 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/06/WhatsApp-Image-2026-06-02-at-11.44.07-AM-OG.jpg"
     },
     {
-      "titulo": "Cáritas Dominicana moviliza RD$14 millones y 15 contenedores de ayuda para Venezuela - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
+      "titulo": "Equipo dominicano de Copa Davis con gran reto frente a Egipto - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWpaM1RySFVBWXhQODBYVjc1anY1dmVzRzhES3pQUTlmVklhVDJhclE0Z19XYmxodWlEanRkUG5LNE9zVHk2YWczNzFmZ1RsZm9RTWlkUlFLY0hQNy1QRXJ3THNwdGdTSFVNX3ZrbWVqRXphZXZrNWdWMXdQd2M5REpjTGNDVkZST2RjQ1NmTVl2N291Q2pBdmd3Z1pUWW850gGmAUFVX3lxTE9DZ1k2U25kZ0FBd3pmZ1VhMm84RWdCd1F4RHVUZnhZUE5PUEVmQnIxWExsaGpTYzdaRnQyLWlSd3pnbzFYckhGSjFLQTloZm1uSG1vcTdmekNrWnRxdkprb2RzSHd2dlpGVHlGT2tlUzFrYzU5a3dzblpYN0xncFc4eHJTYnpUOUZEZjd2aExqODJrY0VDOHF3RE1KbHFkSy1iUlF6TkE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 10 Sep 2026 21:37:12 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/10/6aa321ee4c40b.jpeg"
+    },
+    {
+      "titulo": "¿A cuánto está el dólar hoy 10/9/2026? Conoce las tasas de cambio en República Dominicana - hoy.com.do",
+      "fuente": "hoy.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJHV2M1NmhkRzhjMV9XMUE5VEZBRmUtT2VudllkTFpjOEVsdFZJNzhOTUI5bUhnZEVUalhTTmZFQkhTRkpZeGJOY295V0tnY1B0amYxMFg5RVNiTW94aFhXeUVhcW83eVZMbmpSQU4xdTBoUTItM0hrVDRwbEF2WGxyUGRRVTdrdEpiZ3l6Q2ZBRGtNeTBLb2RHWWVTY0l6RFhzbXA5bnFnR01w0gGyAUFVX3lxTE9mMXZ6elVZNnpwaE9fSWp0MW5yekQ2Q3BKa21SVEpxTHRlUlZiSUx2LUt5elBTRXhjS3lLbGdWNHlEekNwNkZMNHV5RGRjbWtuRzZtaTlqemZjSzB4di0xYXdYVjJhZGZHWU5MeVF0RVo3UHRNU2JqVHdjOUpNY3NqNnJaNVpvZzFvRXRiN3BVZnZnRG1PZXdISFZ2dHV3NVBCNnFBYkZYOXJFRW85dDRfdUE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 10 Sep 2026 12:39:18 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/12/12/693c1a726ee04.jpeg"
+    },
+    {
+      "titulo": "Cáritas Dominicana moviliza RD$14 millones y 15 contenedores de ayuda para Venezuela - elnuevodiario.com.do",
+      "fuente": "elnuevodiario.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEIxOF85Uzdwb25ianlEdE9WYTlnb0s2aTMybC1aa2tIMGx2dlpmWGVjU21ZQ25HdG5sSzRGeE1qOEFBQWN3cXdoT1c4T2xIMDQ0eE45TkRvTGJ4YlJpM1g3d0hrVmtDbk1ScjlvNkRDQWJzRTJ4WTQ0ajlzYnVvNEg5RXVCTU95MlVMOFNjWkl0TjcxamtBaEVHbUlTRU9KdVY0amVIVTNZRGFPSGJFQVMwUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 10 Sep 2026 19:19:14 GMT",
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Ayudas-recolectadas-por-Caritas-Dominicana-para-afectado-por-terremoto-en-Venezuela-Foto-Caritas-Dominicana-1.jpeg?resize=1200%2C720&quality=100&ssl=1"
     },
     {
-      "titulo": "Concluye este viernes plazo de congelamiento de combustibles ¿Gobierno aplicará aumentos? - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFU5Sm1mNWkweG41Z2JtZlpLS1NYZDh2dDJoR05Ec2ttMDllX1JfcV9CR3ZXRGstQTl6OHYyR0N1bGNta00yTGlFM2JnSFRHVVZYU2N6YUVBWTVxaWd3aTk2VTVRM29QTGNhdm4xWkJTY3lVYWIxM2tjLTZ3c0NfbGRJeEtsNi1ramhZLW1UUkxTWXZmeWZOMS1wZXY3N09aS052OVh3M1B2WDFrOUZtRUxtRHBCcXNwUUpHYmZHdkp4ejBjd0lzM1hKUkprcEJydEMyZnhn0gHbAUFVX3lxTE1RR3Q3LUhIUmt4a19aUUdVNU55Yzhra3lwVF9qNG5EWkhaNGpPNDVfNVRPMlpzcGRMMTJEM1BROHRvUE9nRkZyTER2anl4Q1ppeHNzWDF2bUZOQUlWaXlJWU8tWXZHcmFoQl9faHNaYzQxdVVnQnpCVi1XSWhWZ2NtMmRhRXhIZVlBNE90SERDLXR4dUJSVG9rUnhpeTdsRFFiMkpvYWpmaW1RSzlCYlNRQ2dQZUpIZ2JZSHZjTFN5RFIxTGhjblE1X05jMVBJbmZ4ZUUwZms2Q2pEWQ?oc=5",
+      "titulo": "El élder Corbitt se une a líderes religiosos en un día nacional de oración en República Dominicana - Church News",
+      "fuente": "Church News",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDdwOGZXcUJVd3Awa2ZOWTlXM2pGdEdKMU9jS2tfS3BXOFFmUmsyRzNhcHg5R2JBc2Y0ZWNLNEdKOXhpclFtSXNTVHh3bXZZYUxOTFNWYmtzR3VHRHR0Y2pETDJhdVQ4RHBocTQya296MHYtejB4Ujd5WWQxaHY2eDJONEdPblUyZERYdjB0RG9USXZEa042alpXdGZ6Q0p6TDRMUjRua3YtYTg2NkFEX0g0T3d3anZDd0hzRzJJOThDRTkyVnk4X2JTNk9uMUoyQkE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 10 Sep 2026 17:10:50 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/10/6aa2e2df7abb0.jpeg"
-    },
-    {
-      "titulo": "¿A cuánto está el dólar hoy 10/9/2026? Conoce las tasas de cambio en República Dominicana - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJHV2M1NmhkRzhjMV9XMUE5VEZBRmUtT2VudllkTFpjOEVsdFZJNzhOTUI5bUhnZEVUalhTTmZFQkhTRkpZeGJOY295V0tnY1B0amYxMFg5RVNiTW94aFhXeUVhcW83eVZMbmpSQU4xdTBoUTItM0hrVDRwbEF2WGxyUGRRVTdrdEpiZ3l6Q2ZBRGtNeTBLb2RHWWVTY0l6RFhzbXA5bnFnR01w0gGyAUFVX3lxTE9mMXZ6elVZNnpwaE9fSWp0MW5yekQ2Q3BKa21SVEpxTHRlUlZiSUx2LUt5elBTRXhjS3lLbGdWNHlEekNwNkZMNHV5RGRjbWtuRzZtaTlqemZjSzB4di0xYXdYVjJhZGZHWU5MeVF0RVo3UHRNU2JqVHdjOUpNY3NqNnJaNVpvZzFvRXRiN3BVZnZnRG1PZXdISFZ2dHV3NVBCNnFBYkZYOXJFRW85dDRfdUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 10 Sep 2026 12:39:18 GMT",
-      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/12/12/693c1a726ee04.jpeg"
+      "fecha": "Thu, 10 Sep 2026 22:12:12 GMT",
+      "imagen": "https://es.thechurchnews.com/resizer/v2/ZOUMQ6XHW5CYPKNSQPUXH4TR3Q.jpg?focal=0%2C0&auth=435926f007635319da501752fd093918dffe2dbd123814babdc47c3910208868&width=630&height=331"
     },
     {
       "titulo": "China y la República Dominicana: una competencia que dejó de ser justa - Diario Libre",
@@ -75,6 +75,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 10 Sep 2026 03:00:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2026/08/27/img7842-1-1-89ff26aa-focus-0-0-1200-675.jpg"
+    },
+    {
+      "titulo": "Migración activa vigilancia ante presunta presencia en RD de mujer buscada por asesinato en Haití - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaW9xZTM4MExLSHBJc3BBYkoycy1XY2FFZG1hVUhzaFhpOWw5N1VndDZaajhtYnRld3ZtaEdCQ2JiTUJrUlNlSEwxMFMzTXNfR1FJOGxZYk5XLVVJYkVhY25Sc2kzM0MzazdGZFo1WTNVRjdlME51djFjOFNnQmxWQWpBQVdPQ1BfcTdTSXRPQjU1QllyX2lrV0NkVGg1MzIyVXdYdi1MTy1JMWc1cC1QUVVodlItQjRpR3VzNXBCMWtGTmZjUHdtc9IBzgFBVV95cUxQa0MxWk9OSHR1QlZJOVdqLU1FSUg1cUdOZU5RTjJFeWZGcTgxTEtvYVVJT0w1Um4tVVhTWmMwZUh5VlNzVXA0UEF1MzQ2VGVhSDdFeUJlNEpKenlEdS1OMjAzN29NbjB1UFY0SDJSWEdVVUZtelZMTThHamRLMXlrbmZQbEROdU9vYWdhRHFYYjFWVldmZGh3M2VRQWRONkptb1cxX0VORHB0U2pkd3NZRUZaelVkZWJxT0g2aVNUcEdBNENOQW8zeE9td25sUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 10 Sep 2026 19:55:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/09/10/migracion-no-ubica-en-rd-a-haitiana-buscada-por-varios-delitos-74904862-focus-0-0-1200-675.png"
     },
     {
       "titulo": "Amazon Prime Air dejó de operar en República Dominicana por baja demanda de carga - Diario Libre",
@@ -93,12 +101,12 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
     },
     {
-      "titulo": "¿Es fácil llegar a ser Presidente de la República Dominicana? - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOERPSHZEVDVZRDFreDFOdkh1QUNPR2g3dFd2RmZXYzJMSzlvZTQyRlZCcktLVHlWaFJmdlN3c1dLZXVKVU53RERTS2M0TGxoV0l6d0NadmFiQlBMOVZzR3IxWGRDOWEzYmNiRE9hSHFBSExYSEZDLUxIVGJ3NmhWZmtiVl84bkJTZ3FmODhOUFNOVDJQd2xRUzhvRWZjSUlPMDlMY0JGWk1Tdw?oc=5",
+      "titulo": "Nicaragua cierra embajada en Dominicana en medio de roces - DW.com",
+      "fuente": "DW.com",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOExYdC1ud3BHRE1yVks4bU1QZmFpY3luMjZwaHRHUlpNcmtTUEQ3UEhJWW5UeV91VmMyLVZOcGlYNmJROE8wZnEtdXlDcjN6dl9YMzNrZzFjYk1IdEJwNU13RmJrMG9iRjVVa3cwc2Z0aFBKcUtLeVRqeW9DMTRjamNCTkc4VlNyaWhxWm85aDJGc0Zs0gGUAUFVX3lxTE1CTVNkSDBrcF90RHJGOVF2S3o4dEJrRWRxM1EwczdxbDhiMEt6ekU4T2Q2cU1mOFRsZVUyTUd2NjdSWUF1c0tNb3BsWlA5NFp5QXJPdWl3aDZlWUc2YXYzcHFnRzhyb25xQ0doZWtQMUdFSmdRUXJlYlJidDAyUTRnUW9rMEIyOW5LRTlVdmw4R1NYY3M?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 10 Sep 2026 04:00:00 GMT",
-      "imagen": "https://listindiario.com/images/logo_redes.png"
+      "fecha": "Thu, 10 Sep 2026 22:25:43 GMT",
+      "imagen": ""
     },
     {
       "titulo": "¿Está conectado al béisbol dominicano? Envíenos un mensaje en WhatsApp. - ProPublica",
@@ -107,14 +115,6 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 10 Sep 2026 09:05:00 GMT",
       "imagen": "https://www.propublica.org/wp-content/uploads/2026/08/DRTrip2_0885_maxHeight_3000_maxWidth_3000.jpg?w=2000"
-    },
-    {
-      "titulo": "Nicaragua cierra embajada en Dominicana en medio de roces - DW.com",
-      "fuente": "DW.com",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOExYdC1ud3BHRE1yVks4bU1QZmFpY3luMjZwaHRHUlpNcmtTUEQ3UEhJWW5UeV91VmMyLVZOcGlYNmJROE8wZnEtdXlDcjN6dl9YMzNrZzFjYk1IdEJwNU13RmJrMG9iRjVVa3cwc2Z0aFBKcUtLeVRqeW9DMTRjamNCTkc4VlNyaWhxWm85aDJGc0Zs0gGUAUFVX3lxTE1CTVNkSDBrcF90RHJGOVF2S3o4dEJrRWRxM1EwczdxbDhiMEt6ekU4T2Q2cU1mOFRsZVUyTUd2NjdSWUF1c0tNb3BsWlA5NFp5QXJPdWl3aDZlWUc2YXYzcHFnRzhyb25xQ0doZWtQMUdFSmdRUXJlYlJidDAyUTRnUW9rMEIyOW5LRTlVdmw4R1NYY3M?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 10 Sep 2026 14:39:08 GMT",
-      "imagen": ""
     },
     {
       "titulo": "República Dominicana y Estados Unidos acuerdan cooperación para la extracción y procesamiento de minerales críticos y tierras raras - U.S. Embassy in the Dominican Republic (.gov)",
