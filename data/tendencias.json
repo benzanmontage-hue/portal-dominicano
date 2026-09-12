@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-12T11:00:34.398910-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-12T14:00:35.758818-04:00",
+  "hora": "14:00",
   "fecha": "12/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "real de hoy",
+      "trafico": "1000+",
+      "noticia": "Alineación posible del Real Madrid ante el Rayo Vallecano en LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/primera/alineacion-posible-del-real-madrid-ante-el-rayo-vallecano-en-laliga-ea-sports-f202609-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7f4riCw2k5krSXwDWRkhs125IeeT3C3mz4-B8cErcVoJOV9EZUSsKNIyFjAs"
+    },
+    {
+      "termino": "tigers - rockies",
+      "trafico": "100+",
+      "noticia": "Colorado Rockies vs. Detroit Tigers 13/9/26 - Mira Juego en vivo",
+      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816920",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC0uZFXuJDj6YZyciIUvDtUdJOCfauXbmXzQ13j_xi-oRbITX86N7iIsdmBUI"
+    },
+    {
+      "termino": "perú",
+      "trafico": "100+",
+      "noticia": "Perú se une a los países, junto a RD, que forman parte del Escudo de las Américas",
+      "enlace": "https://listindiario.com/las-mundiales/20260912/peru-une-15-paises-rd-forman-parte-escudo-americas_921873.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNrPSCsLTdOEMj65VBgCZx_wBELj-u2phrpJ1TXoOqhv_etRtesNp8HqQdmE4"
+    },
+    {
+      "termino": "lazio - milan",
+      "trafico": "100+",
+      "noticia": "Amorim:  Non vedevano l ora che inciampassi. È dura accettare che uno straniero vi dica come giocare",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/11-09-2026/amorim-pre-lazio-milan-la-conferenza-in-diretta.shtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_QieibD-PHk5qURVyj_iq-ITDU1ezOS0m-WlIC-zoDjbUWY1yJZ9xWw3FOGg"
+    },
+    {
+      "termino": "athletic - elche c. f.",
+      "trafico": "200+",
+      "noticia": "Crecer en la inercia positiva",
+      "enlace": "https://www.deia.eus/athletic/2026/09/12/athletic-elche-crecer-inercia-positiva-11532672.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5mFVnmwaLgjRK8qd8UewFB0DNwMmLfcRQeHshJLAhOiNnVDV33c_GX7yhV3c"
+    },
+    {
+      "termino": "educación",
+      "trafico": "200+",
+      "noticia": "Presupuesto para Educación bajo escrutinio",
+      "enlace": "https://listindiario.com/la-republica/educacion/20260912/presupuesto-educacion-escrutinio_921869.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDLv8T48yft9xc4aDPGHAFbnQ4LFwKikEL_5rDXjWe-rrTUwuCku2bW6rxhQ"
+    },
+    {
+      "termino": "premier league",
+      "trafico": "200+",
+      "noticia": "Premier League: Joao Pedro makes it Chelsea 2-2 Hull, Forest beating Villa, Liverpool level",
+      "enlace": "https://www.bbc.com/sport/football/live/cvg93lp3271t",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZHcrFktJFHfYUwp8jYpzf5p033kpU8_ANxxwM-wxSf0u0d5uTYyLSxOZCGj8"
+    },
+    {
+      "termino": "chelsea – hull city",
+      "trafico": "200+",
+      "noticia": "Chelsea 2-2 Hull City: Joao Pedro spares home side s blushes",
+      "enlace": "https://www.bbc.com/sport/football/live/c6rr4q87p272t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtf5RB6hIhKpUNIrZwmjYotxMN5s0QymFgaJmO30wZTs3YAzdP0HwSqlmP7Ow"
+    },
+    {
       "termino": "osasuna - rcd espanyol",
       "trafico": "200+",
-      "noticia": "Rockson y Rico debutan como titulares en Osasuna ante un Espanyol que introduce 3 cambios",
-      "enlace": "https://www.infobae.com/espana/agencias/2026/09/12/rockson-y-rico-debutan-como-titulares-en-osasuna-ante-un-espanyol-que-introduce-3-cambios/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+      "noticia": "Segunda derrota consecutiva para Osasuna (0-2)",
+      "enlace": "https://kirolakeitb.eus/es/futbol/equipos/osasuna/2026/09/12/osasunas-espanyol-segunda-derrota-consecutiva-en-laliga/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZeWjqHTs-MgwfDgOel1xlUla3g81ooJC1TBP_J-sAllMT7gmEQxp7ALOi1p8"
     },
     {
       "termino": "liverpool - fulham",
-      "trafico": "100+",
-      "noticia": "Confirmed Liverpool line-up v Fulham",
-      "enlace": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-v-fulham-9",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNtYdDUNTxm46o7_sqkfH3H-w4EeiPu3P5LnmMCW6-IKSw63uSYMsC_n8zkWY"
-    },
-    {
-      "termino": "chelsea - hull city",
       "trafico": "200+",
-      "noticia": "Confirmed Chelsea line up vs Hull City | News | Official Site",
-      "enlace": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-hull-city-sept-26",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPPYiPLZndCrcLxLw5UhQ9D1q8Ggf-ntvyfBeM9gTE-pozBd2QQ5MU9oOgLuw"
-    },
-    {
-      "termino": "racing de santander - alavés",
-      "trafico": "200+",
-      "noticia": "Racing de Santander 2 - 1 Alavés: resumen, goles y resultado de LaLiga EA Sports",
-      "enlace": "https://as.com/futbol/primera/racing-de-santander-alaves-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiklrtV_XYnN-gPd-Y2VryfU35ycBdD5h4yH56S7nvP2XbyVcTdLHrnoIyyzE"
-    },
-    {
-      "termino": "prisión",
-      "trafico": "200+",
-      "noticia": "Tres meses de prisión preventiva para hombre imputado por abuso sexual contra niña de 10 años",
-      "enlace": "https://pgr.gob.do/tres-meses-de-prision-preventiva-para-hombre-imputado-por-abuso-sexual-contra-nina-de-10-anos/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJN0ww1Ij82EKrNIvQZDEg6fNs7yAE7g8ZeKF_TSRKolKKBrf7tBWFH-jVYq0"
-    },
-    {
-      "termino": "mlb",
-      "trafico": "500+",
-      "noticia": "Notes: MLB expansion, position players pitching, 2028 Olympics",
-      "enlace": "https://sports.yahoo.com/articles/notes-mlb-expansion-position-players-120300654.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5p38Zg77Gxk3uVAPT1Y1sHOy49we7LDFgw9VzdGdXHCPst9tUZWVuUZA_43k"
-    },
-    {
-      "termino": "rafael devers",
-      "trafico": "1000+",
-      "noticia": "Devers lives up to  Swing of the Day  with grand slam",
-      "enlace": "https://www.mlb.com/news/rafael-devers-hits-9th-career-grand-slam-in-giants-loss-to-padres",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lvMr_bW1mEw9J5RpcWTB2kO7yufr54lZ7NHX9-1x9c15vTLyoNTSy9K7TK0"
-    },
-    {
-      "termino": "lady gaga",
-      "trafico": "200+",
-      "noticia": "Exclusive | Lady Gaga welcomes first baby with fiancé Michael Polansky",
-      "enlace": "https://pagesix.com/2026/09/11/parents/lady-gaga-welcomes-first-baby-with-fiance-michael-polansky/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsKzWPj2_Jx9l5MTL-amqzbTAskiMSUo4ANVMKG7EuipeYb4V_b9pP5Y8WEI"
-    },
-    {
-      "termino": "athletics - mariners",
-      "trafico": "100+",
-      "noticia": "Seattle Mariners vs. Athletics 13/9/26 - Mira Juego en vivo",
-      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816931",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhnsKbM4IQ-VhDS9zbbYdWXu2JfcpmSavGCHwsNlwgmV83QPxraHp-EgrssAo"
-    },
-    {
-      "termino": "us open",
-      "trafico": "500+",
-      "noticia": "Shelton tops Tiafoe to book US Open title clash with Zverev",
-      "enlace": "https://www.beinsports.com/en-mena/tennis/us-open/articles-video/shelton-tops-tiafoe-to-book-us-open-title-clash-with-zverev-2026-09-12",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Uf4CGXtska4Ra6C7tJk07HeRds4q7mclFHj9iaY-kPLZpL-hyPVrrzibRd4"
+      "noticia": "Liverpool 0-0 Fulham: Alvaro Arbeloa wins first Premier League point on his return to Anfield",
+      "enlace": "https://www.bbc.com/sport/football/live/cv5yj7z2xp2kt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSupdWamzsSo0Mn_GIGwDbFQTWnjT4oOh-OhN_i8q0NnGk4ddoSdjiqu7m6kIY"
     }
   ]
 }
