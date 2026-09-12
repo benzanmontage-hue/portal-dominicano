@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-11T17:00:22.594015-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-11T20:00:28.588472-04:00",
+  "hora": "20:00",
   "fecha": "11/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "policía",
-      "trafico": "200+",
-      "noticia": "Apresan cinco haitianos penetraron a robar a tienda de El Valiente, Boca Chica",
-      "enlace": "https://elnacional.com.do/nacionales/policiales/apresan-cinco-haitianos-penetraron-robar-tienda-valiente-boca-chica_580604.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPeolZGwzqwHVKzdZNf-dBvjnGUAkWvjYApPVFbKXC5ftMmQ-e6mb0vLA0Ts"
-    },
-    {
-      "termino": "multa",
-      "trafico": "200+",
-      "noticia": "Denuncian en Santiago cobros de hasta RD$107,300 por transportar haitianos en situación irregular",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/10/multas-por-transportar-haitianos-en-situacion-irregular-en-santiago/3655240",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2lz5IvuYVpJatjb03Q4Iv6fcjq0-lOKKg6zF1M40LMFATmlvkvGnaN0CmbQ8"
-    },
-    {
-      "termino": "consumo",
-      "trafico": "200+",
-      "noticia": "SpainDC cree que el decreto para los  data center  es un  veto  que acabará con el sector",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa3e8b4e5fdeaf16b8b4572.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJuz-zQjvTK-jxc3178iZHMSYKULsdZDKTwXNfG0LpaIs89HlolBdH_pIXBw"
-    },
-    {
-      "termino": "astrid de noruega",
+      "termino": "antrax",
       "trafico": "100+",
-      "noticia": "Los cinco hijos de Astrid de Noruega, rotos de dolor por su inesperada muerte:  La mejor madre que pudimos tener",
-      "enlace": "https://www.hola.com/realeza/casa_noruega/20260911922947/astrid-noruega-cinco-hijos-rotos-dolor-muerte-princesa-hermana-harald/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqniSKFgn0NlW7swz4rhhvxl_mD3Ewalnn_raH_llzfgINS-Fk1gSEE9jnShY"
+      "noticia": "Alerta sanitaria en Haití tras 13 casos sospechosos de ántrax; Salud Pública en RD toma medidas",
+      "enlace": "https://www.diariolibre.com/actualidad/salud/2026/09/11/republica-dominicana-sin-casos-de-antrax-y-refuerza-vigilancia/3656420",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7hKuKAvyIYTR1oUGgdR7_UcA7srUhxw2eD3U8A2yVk512Rw9iwft_d3W1miw"
     },
     {
-      "termino": "sevilla - valencia c. f.",
-      "trafico": "500+",
-      "noticia": "Sevilla - Valencia en directo: LaLiga EA Sports hoy, en vivo",
-      "enlace": "https://as.com/futbol/primera/sevilla-valencia-en-directo-laliga-ea-sports-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQytk9nMmz_eavn1PraXEBrqkqftWfeJC1GZb4bdx0ZYBI87zorPDrTZ5eknAk"
-    },
-    {
-      "termino": "cubs - pirates",
-      "trafico": "500+",
-      "noticia": "Pittsburgh Pirates vs. Chicago Cubs 13/9/26 - Mira Juego en vivo",
-      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816929",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQphMIccuacHbOZvC9xw_UabDlAL2oCK8OqnxgVZrNrzP5kww0VbzhH5WTIQk"
-    },
-    {
-      "termino": "anadegas",
+      "termino": "red sox - royals",
       "trafico": "200+",
-      "noticia": "¿Dónde están las gasolineras que no aceptarían pagos con tarjeta desde el 25 de septiembre?",
-      "enlace": "https://listindiario.com/economia/20260911/cuales-estaciones-combustible-aceptaran-pagos-electronicos-partir-25-septiemnre_921811.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLFXmGIfJ6j_SUBK5JzQgs9bRxj6joSr9xIBrAm1tM8BnSmvtgOn4PiyqpWk"
+      "noticia": "The Royals come to Fenway to face the Red Sox’ playoff rotation",
+      "enlace": "https://www.overthemonster.com/red-sox-game-information/108433/the-royals-come-to-fenway-to-face-the-red-sox-playoff-rotation",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8rIuKQdUwII2rgwSSMzLNx4Z2HHwMc9EhihA5L3S6s9LTosH3JSAYcofNazk"
     },
     {
-      "termino": "world trade center",
+      "termino": "blue jays - orioles",
+      "trafico": "100+",
+      "noticia": "How Blue Jays, Orioles stack up ahead of pivotal series",
+      "enlace": "https://www.sportsnet.ca/mlb/article/how-blue-jays-orioles-stack-up-ahead-of-pivotal-series/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA8MFRSoS4YdppPvakazFLfIPVu3wmdLbgmsFSi794K06UE0H4W4hleCkuA1M"
+    },
+    {
+      "termino": "polvo",
+      "trafico": "100+",
+      "noticia": "La NASA mira el desierto del Sáhara desde el espacio y capta una enorme masa desplazándose hacia el Atlántico",
+      "enlace": "https://www.elconfidencial.com/tecnologia/ciencia/2026-09-11/nasa-sahara-espacio-enorme-masa-desplaza-atlantico-1qrt_4421518/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4-jHb5JRw1kLDcpP1-d8uBg1ng70ZrgUJphx1gg5VpE8T-R1zjnsSwVq0D1g"
+    },
+    {
+      "termino": "yankees - mets",
+      "trafico": "1000+",
+      "noticia": "Nolan McLean takes the mound as Mets look to steal Subway Series win from the Yankees",
+      "enlace": "https://www.foxnews.com/outkick-sports/nolan-mclean-takes-mound-mets-look-steal-subway-series-win-yankees",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboA3vJiFAzQ9c3bpYp46_4AnLMvV67kA_o4Yd_okOpK4qRvJBUlS4amg9l4A"
+    },
+    {
+      "termino": "estadio quisqueya juan marichal",
+      "trafico": "100+",
+      "noticia": "Entorno de estadio Quisqueya pide a gritos una intervención",
+      "enlace": "https://hoy.com.do/el-pais/entorno-estadio-quisqueya-pide-gritos-intervencion_1102014.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5aYH82YA787GaaAsbxCx80X2d0W476SKnJIpEZOQCejuVB0erJ0dx98kIWj4"
+    },
+    {
+      "termino": "hayden alvarez",
+      "trafico": "100+",
+      "noticia": "Angels Outfield Prospect Hayden Alvarez Makes History as Top Pick in Dominican Winter League Draft",
+      "enlace": "https://sports.yahoo.com/articles/angels-outfield-prospect-hayden-alvarez-001500819.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQccunTRgamP0RKcDqSsoYq5HBngp2IEv29LqAvb5Wl3SGRCmPeBtWbv8gzM4"
+    },
+    {
+      "termino": "combustible",
       "trafico": "500+",
-      "noticia": "Live updates: America marks the 25th anniversary of 9/11",
-      "enlace": "https://www.cnn.com/2026/09/11/us/live-news/9-11-anniversary",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5rBKF9Y4kG_1UDIdYibpEA3LYJY-t1in1N6Ub_IST_i2HMC-PW3hltxyXnHs"
+      "noticia": "Gobierno decide congelar precios de las gasolinas, el gasoil y el GLP",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/09/11/republica-dominicana-mantiene-precios-gasolinas-y-subsidios/3656391",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwHnS2owAjdp7_dJIF8qoHGZBytZUm12k4e6xnCUL3jtj5iQ-JBC3Anxa7BiY"
     },
     {
-      "termino": "arresto",
-      "trafico": "500+",
-      "noticia": "Terremoto giudiziario a Carolei: chiesto il carcere per il sindaco Iannucci, la giunta si dimette in blocco",
-      "enlace": "https://www.calabriadirettanews.com/2026/09/11/terremoto-giudiziario-a-carolei-chiesto-il-carcere-per-il-sindaco-iannucci-la-giunta-si-dimette-in-blocco/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdXE-BDkJQhbVrYaeVtziOH-aKx8FmcYEH6HYaKx03NQgAuqfkAq74p33qcho"
+      "termino": "policía",
+      "trafico": "1000+",
+      "noticia": "Intentaron asaltar una remesadora y terminaron ultimados por la Policía en Azua",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/11/policia-mata-a-tres-integrantes-acusados-de-intento-de-robo-en-azua/3656448",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTstf2CTSuRT9qQ7_fLtCKwGMTpmTSZYMjJroz8_cFPOdv8udJ7FF459Pe7s9U"
     },
     {
-      "termino": "real de hoy",
-      "trafico": "5000+",
-      "noticia": "Resultados de la Lotería Real hoy 11 de septiembre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-real-hoy-11-septiembre-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDCq7sZBjaU-KZQ8gLmlWyQidyd_Un3tY4njPfPj3qcxg2Yr57rlYLnZyHOw"
+      "termino": "séville – valence",
+      "trafico": "200+",
+      "noticia": "Borussia Dortmund vs SC Paderborn 07: 1st Half Correct Score",
+      "enlace": "https://www.coinbase.com/fr/predictions/event/KXBUNDESLIGA1HSCORE-26SEP12BVBPAD",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRn5ftfEGHsW-CsBiL9Vs3GlZX27Fq4r3LHBTLDBVF2N4gc77CHl7-mceflZuo"
     }
   ]
 }
