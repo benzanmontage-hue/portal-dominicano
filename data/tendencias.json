@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-12T02:00:30.472187-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-12T05:00:31.331494-04:00",
+  "hora": "05:00",
   "fecha": "12/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "rafael devers",
+      "trafico": "200+",
+      "noticia": "Devers lives up to  Swing of the Day  with grand slam",
+      "enlace": "https://www.mlb.com/news/rafael-devers-hits-9th-career-grand-slam-in-giants-loss-to-padres",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lvMr_bW1mEw9J5RpcWTB2kO7yufr54lZ7NHX9-1x9c15vTLyoNTSy9K7TK0"
+    },
     {
       "termino": "lady gaga",
       "trafico": "100+",
@@ -15,23 +22,16 @@
     {
       "termino": "us open",
       "trafico": "500+",
-      "noticia": "U.S. Open",
-      "enlace": "https://www.reutersconnect.com/item/us-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOUMwMUJMSE4",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHzwDTR41xUMjS24O0PSxtH33C-ujb6sdJq_MamYt2prJxMsB-eoHg8ZF1Anc"
+      "noticia": "John McEnroe responds when asked if he thinks Frances Tiafoe will ever win a Grand Slam after losing US Open semi-final",
+      "enlace": "https://tennishead.net/john-mcenroe-responds-when-asked-if-he-thinks-frances-tiafoe-will-ever-win-a-grand-slam-after-losing-us-open-semi-final/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNMS5rBU_toKN7T1X7WrPeZsHPUxoX1su3Tu_X4ZcAwYtls2bS7lTifRXkzdc"
     },
     {
       "termino": "giants - padres",
       "trafico": "1000+",
-      "noticia": "Key takeaways: Padres 7, Giants 5",
-      "enlace": "https://www.mlb.com/news/padres-beat-giants-for-5th-straight-win-to-keep-wild-card-lead",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBdB7OqV41Jo19zn31gQOzvRXWlKzKmbuWrtvZH0AQ8ULjQI1tiT-Mi_QS-Fc"
-    },
-    {
-      "termino": "otto lópez",
-      "trafico": "200+",
-      "noticia": "Licensable picture: The Ashland Arrows took a tough 35-10 Ohio Cardinal Conference football loss to the New Philadelphia Quakers on Friday, Sept.",
-      "enlace": "https://www.reutersconnect.com/item/the-ashland-arrows-took-a-tough-35-10-ohio-cardinal-conference-football-loss-to-the-new-philadelphia-quakers-on-friday-sept/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk3OTc3NDA",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbbaJAoIkjklSrgMgNnH2xTqU-tb0grC9JN9S82P-BgDlwGtYEDex8NR9EZkw"
+      "noticia": "Resumen Padres @ Gigantes, Resultados/Jugadas destacadas - 11/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823173",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZyMjXqZgX07ASvJBK629Uoz2rjbNzay_XUJ5EB0onp7XbhGB9njd0Un83bTo"
     },
     {
       "termino": "robinson canó",
@@ -57,23 +57,23 @@
     {
       "termino": "boca juniors - central córdoba",
       "trafico": "200+",
-      "noticia": "¡De Ecuador a La Boca! Enner Valencia tuvo su primer grito en La Bombonera",
-      "enlace": "https://www.espn.com.do/futbol/argentina/nota/_/id/17243529/boca-vs-central-cordoba-torneo-clausura-gol-enner-valencia",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2k48rvj5CuyCHIxQb35fcAmh1Acc00pTzqmqPPwrqgzdX3RSHvEhNSeuOvTo"
+      "noticia": "Boca vs. Central Córdoba, por el Torneo Clausura: a qué hora juegan, formaciones y dónde ver EN VIVO",
+      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-central-cordoba-se-fecha-9-id760016.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ShYdcukraBa-Z0a3S2uLdXW1Pl0q_RDYkp4o6GgilAjF5Rx5JzusiEOTAnE"
     },
     {
       "termino": "brewers - reds",
       "trafico": "200+",
-      "noticia": "Brewers become first NL team to clinch playoff berth: Three reasons why they can win their first World Series",
-      "enlace": "https://www.cbssports.com/mlb/news/brewers-clinch-playoff-berth-world-series-contender/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt2HzYmqYBwkBU4pZAT1zoXStTQPF1TQuj7sDD29C-jE2Th3eD49Ii-VeLqCY"
+      "noticia": "Chourio leads Brewers against the Reds after 4-hit outing",
+      "enlace": "https://www.foxsports.com/articles/mlb/chourio-leads-brewers-against-the-reds-after-4hit-outing",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZbMDYyeJQpeciPrvCnbboR9O0J49FLr4Mwf6F2WyEgGvcuYLtPUOQwqclDs"
     },
     {
       "termino": "embarcación",
       "trafico": "200+",
-      "noticia": "La guerra de Estados Unidos contra el narcotráfico golpea a los pescadores ecuatorianos",
-      "enlace": "https://elpais.com/america/2026-09-11/la-guerra-de-estados-unidos-contra-el-narcotrafico-golpea-a-los-pescadores-ecuatorianos.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B7PQI3FHNRPypvcL3nO56aDMvXtfs3scXo61iRIPGopJaXKAnJIMRB9cMDs"
+      "noticia": "Incautan 10 panelas de droga en costas falconianas",
+      "enlace": "https://cactus24.com.ve/2026/09/10/incautan-10-panelas-de-droga-en-costas-falconianas/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiZVclOFfyprYw5Ycpj3MmxjDLuhDynbyQAvREk9VvFF6Lm4eahz_qHDI3r5M"
     }
   ]
 }
