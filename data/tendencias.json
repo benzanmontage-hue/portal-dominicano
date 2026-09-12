@@ -1,16 +1,30 @@
 {
-  "updated": "2026-09-12T05:00:31.331494-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-12T08:00:33.057455-04:00",
+  "hora": "08:00",
   "fecha": "12/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "mlb",
+      "trafico": "500+",
+      "noticia": "Why it’s past time for MLB to broker a 2028 Olympics deal",
+      "enlace": "https://www.latimes.com/sports/story/2026-09-10/why-its-past-time-for-mlb-to-broker-2028-olympics-deal",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8h2zQK8BPtjap0rNyfPh-GStVMsMYN8Byi8oEhj_PJAbE_NlwCEgDvSDzP40"
+    },
+    {
       "termino": "rafael devers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Devers lives up to  Swing of the Day  with grand slam",
       "enlace": "https://www.mlb.com/news/rafael-devers-hits-9th-career-grand-slam-in-giants-loss-to-padres",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lvMr_bW1mEw9J5RpcWTB2kO7yufr54lZ7NHX9-1x9c15vTLyoNTSy9K7TK0"
+    },
+    {
+      "termino": "athletics - mariners",
+      "trafico": "100+",
+      "noticia": "Seattle Mariners vs. Athletics 13/9/26 - Mira Juego en vivo",
+      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816931",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhnsKbM4IQ-VhDS9zbbYdWXu2JfcpmSavGCHwsNlwgmV83QPxraHp-EgrssAo"
     },
     {
       "termino": "lady gaga",
@@ -20,11 +34,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsKzWPj2_Jx9l5MTL-amqzbTAskiMSUo4ANVMKG7EuipeYb4V_b9pP5Y8WEI"
     },
     {
-      "termino": "us open",
-      "trafico": "500+",
+      "termino": "ben shelton",
+      "trafico": "100+",
       "noticia": "John McEnroe responds when asked if he thinks Frances Tiafoe will ever win a Grand Slam after losing US Open semi-final",
       "enlace": "https://tennishead.net/john-mcenroe-responds-when-asked-if-he-thinks-frances-tiafoe-will-ever-win-a-grand-slam-after-losing-us-open-semi-final/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNMS5rBU_toKN7T1X7WrPeZsHPUxoX1su3Tu_X4ZcAwYtls2bS7lTifRXkzdc"
+    },
+    {
+      "termino": "us open",
+      "trafico": "200+",
+      "noticia": "U.S. Open Finalist Ben Shelton Explains Why He Isn’t Chasing Money Or Sponsorships",
+      "enlace": "https://www.forbes.com/sites/adamzagoria/2026/09/12/us-open-finalist-ben-shelton-explains-why-he-isnt-chasing-money-or-sponsorships/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRfxDMunjL3H666Rq32cJRMRNp9VmBvBa7OaMgl9IWwXpLmWXJMLMlJRU3YXM"
     },
     {
       "termino": "giants - padres",
@@ -53,27 +74,6 @@
       "noticia": "EE. UU. considera importante derogar decreto que salvaguarda la producción de arroz de RD",
       "enlace": "https://www.diariolibre.com/economia/agro/2026/09/11/decreto-693-24-y-acceso-al-arroz-de-estados-unidos/3656520",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6GUokWBc1qyrt_WSkEMf-gvc0qOjTbpOTOkwenJEOQDHqJ99FgdCC_HI8ZXM"
-    },
-    {
-      "termino": "boca juniors - central córdoba",
-      "trafico": "200+",
-      "noticia": "Boca vs. Central Córdoba, por el Torneo Clausura: a qué hora juegan, formaciones y dónde ver EN VIVO",
-      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-central-cordoba-se-fecha-9-id760016.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ShYdcukraBa-Z0a3S2uLdXW1Pl0q_RDYkp4o6GgilAjF5Rx5JzusiEOTAnE"
-    },
-    {
-      "termino": "brewers - reds",
-      "trafico": "200+",
-      "noticia": "Chourio leads Brewers against the Reds after 4-hit outing",
-      "enlace": "https://www.foxsports.com/articles/mlb/chourio-leads-brewers-against-the-reds-after-4hit-outing",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZbMDYyeJQpeciPrvCnbboR9O0J49FLr4Mwf6F2WyEgGvcuYLtPUOQwqclDs"
-    },
-    {
-      "termino": "embarcación",
-      "trafico": "200+",
-      "noticia": "Incautan 10 panelas de droga en costas falconianas",
-      "enlace": "https://cactus24.com.ve/2026/09/10/incautan-10-panelas-de-droga-en-costas-falconianas/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiZVclOFfyprYw5Ycpj3MmxjDLuhDynbyQAvREk9VvFF6Lm4eahz_qHDI3r5M"
     }
   ]
 }
