@@ -1,16 +1,58 @@
 {
-  "updated": "2026-09-13T08:00:44.166583-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-13T11:00:45.727259-04:00",
+  "hora": "11:00",
   "fecha": "13/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "marileidy paulino",
+      "termino": "levante – barcelone",
+      "trafico": "1000+",
+      "noticia": "Levante - FC Barcelone : à quelle heure et sur quelle chaîne TV regarder le match de Liga en direct ?",
+      "enlace": "https://rmcsport.bfmtv.com/football/liga/levante-fc-barcelone-a-quelle-heure-et-sur-quelle-chaine-tv-regarder-le-match-de-liga-en-direct_AN-202609130025.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb4_1xlBdHN3JzOeyEG6UlKp_9_kMxDTynHPSGJtcVH2OXHibs4UzDpX1XReE"
+    },
+    {
+      "termino": "levante - barcelona",
+      "trafico": "5000+",
+      "noticia": "Levante - Barcelona hoy, en directo: partido de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/levante-barcelona-hoy-en-directo-partido-de-laliga-ea-sports-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFSeWZ10ZJQfPIOlAai7_5Fx7Ryv90YvLxHl-rSh0iAV70REjacwLD0TZw3w"
+    },
+    {
+      "termino": "celta de vigo - málaga",
+      "trafico": "200+",
+      "noticia": "Aprobados y suspensos del Málaga en Balaidos: Adrián Niño repara en parte un partido deplorable",
+      "enlace": "https://as.com/futbol/aprobados-y-suspensos-del-malaga-en-balaidos-adrian-nino-repara-en-parte-un-partido-deplorable-f202609-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl1-o0bmAFgQqksghciz998g68fbOkJMJwgsI0P1B2tRugr3s2Jm7dhuOKghM"
+    },
+    {
+      "termino": "david collado",
+      "trafico": "200+",
+      "noticia": "Collado y Carolina continúan fortaleciéndose mientras la vice repiensa sus aspiraciones",
+      "enlace": "https://listindiario.com/la-republica/politica/20260913/collado-carolina-continuan-fortaleciendose-vice-repiensa-aspiraciones_921968.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFlbZ-ph_O1k6nXjj8nlCbMYgKANtbdPMS28ZN1DodQHZY01M12Sv0iyBfyQQ"
+    },
+    {
+      "termino": "formula 1",
       "trafico": "100+",
-      "noticia": "Marileidy Paulino lo confirma: es una campeona de campeonas; gana el Ultimate en Budapest",
-      "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/09/12/marileidy-paulino-la-mejor-conquista-el-ultimate-en-budapest/3657002",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZzbqfjRvY0lEth47-Krx9D7Sgv3KE75O2DtyLGmXdb7KcBY4kQiEo_gV1nFo"
+      "noticia": "Lewis Hamilton suffers early retirement at Spanish GP after Ferrari brake issues",
+      "enlace": "https://www.espn.com/f1/story/_/id/49926922/lewis-hamilton-suffers-early-retirement-spanish-grand-prix",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxWUD7xWLVGJbe5gvF77FIlAwuzc-PBpt3zf5B5eGBBir0EyM2-09gcRaXINI"
+    },
+    {
+      "termino": "f1",
+      "trafico": "500+",
+      "noticia": "Why are Spanish GP fans watching F1 from a dirt area at Madring? | Grande Prêmio (Grand Prix)",
+      "enlace": "https://grandepremio.com/en/f1/fans-watching-f1-from-the-dirt-how-madrings-general-admission-area-works/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY3qd7OzA_oq1e2gWfhI0YuBfA5hkNQRBFL8wHNNLeUkcaCulyjjAhTCiNXfo"
+    },
+    {
+      "termino": "marileidy paulino",
+      "trafico": "200+",
+      "noticia": "Marileidy Paulino:  Para esto vine y logré mi objetivo",
+      "enlace": "https://elnacional.com.do/deportes/marileidy-paulino-esto-vine-logre-mi-objetivo_580716.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_vViVCTcaQ8CBnmZEVG2Y1e5zmtvdx_5v0IKd-EUCUYYzO2oFBKXR9Z6MFOo"
     },
     {
       "termino": "google",
@@ -20,60 +62,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvn2_ykzMVdgnP_l4-HKNY7W0AI6dGklw_HPY9JJvNI9P3Xd-RQ4avvskLZpg"
     },
     {
-      "termino": "ryan garcia vs conor benn",
+      "termino": "ryan garcia",
       "trafico": "200+",
       "noticia": "Ryan Garcia vs. Conor Benn Live Updates, Highlights and Results From Tonight s Card",
       "enlace": "https://bleacherreport.com/liveblogs/25498443-ryan-garcia-vs-conor-benn-live-updates-highlights-and-results-tonights-card",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBeOZ7rtrnv3bWhH2ErXwD9jGuwqGF2QNL2PS8hhpqiUOBRxdBCr3Ii-u2qmY"
     },
     {
-      "termino": "posiciones de inter miami contra nashville sc",
+      "termino": "ryan garcia vs conor benn",
       "trafico": "200+",
-      "noticia": "Messi anota su gol 19 en la campaña e Inter Miami empata 2-2 con Nashville",
-      "enlace": "https://listindiario.com/el-deporte/futbol/20260913/messi-anota-gol-19-campana-e-inter-miami-empata-2-2-nashville_921989.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXGvDdZjiwZGDc94C-HhwMafh0ydUDnMWDm527e5fpjzvqa4LwomhCAJOO4k"
-    },
-    {
-      "termino": "brewers - reds",
-      "trafico": "500+",
-      "noticia": "Brewers clinch eighth trip to playoffs in nine years",
-      "enlace": "https://www.mlb.com/news/brewers-clinch-playoff-spot-with-rout-of-reds",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9QBzpZ4WC8w_nmJfJiR2lSJGWKGmgaBLQUZvTnJQPVJkTwrshbrVxfWQZdGI"
-    },
-    {
-      "termino": "inter miami - nashville sc",
-      "trafico": "2000+",
-      "noticia": "Licensable picture: MLS: Nashville SC at Inter Miami CF",
-      "enlace": "https://www.reutersconnect.com/item/mls-nashville-sc-at-inter-miami-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MDY1NTI",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNior2W1YaYuGtM0667tF2vDz_LpFJDOXaQvLXzgkg2L1t14d6eCJhx9ZAoRw"
-    },
-    {
-      "termino": "elena rybakina",
-      "trafico": "200+",
-      "noticia": "Serena Williams  former coach gives his verdict on Aryna Sabalenka smashing her racket after losing the US Open final",
-      "enlace": "https://tennishead.net/serena-williams-former-coach-gives-his-verdict-on-aryna-sabalenka-smashing-her-racket-after-losing-the-us-open-final/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPN-fFD4iGVghuVvuiUZwLIYeJVtcV59m8cGPj4G5u7Er-RB0vj-J9eN-_nA"
-    },
-    {
-      "termino": "policía nacional de la república dominicana",
-      "trafico": "100+",
-      "noticia": "Comisionado presenta los principales logros de la reforma policial",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/10/estos-son-los-principales-logros-de-la-reforma-policial/3655526",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_X1cB-SD1Kunq17N_jwBGkX6rplucWAfFC1SfRYUxVMwYCQ0CPYJ8M-AJME"
-    },
-    {
-      "termino": "letizia ortiz",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "diddy glow",
-      "trafico": "2000+",
-      "noticia": "Exponente urbano “Diddy Glow” es ultimado de varios disparos en Boca Chica",
-      "enlace": "https://listindiario.com/la-republica/justicia/20260912/exponente-urbano-diddy-glow-ultimado-disparos_921952.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_cTOtftT9-glDxN7mr72-5iNUJy58oYpf6FbcwG-XYmdMjHfRkRWrCB8QOoM"
+      "noticia": "Where s Oscar?  is the question of Ryan Garcia-Conor Benn fight week",
+      "enlace": "https://www.boxingscene.com/articles/wheres-oscar-is-the-question-of-ryan-garcia-conor-benn-fight-week",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqCWntXOwayAle-nDyJOv2lWQUeqVtQP0F6KqPBDfQNT9Jvxxdaa54fnSUpUQ"
     }
   ]
 }
