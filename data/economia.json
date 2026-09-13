@@ -1,41 +1,13 @@
 {
-  "updated": "2026-09-13T14:00:49.771429-04:00",
+  "updated": "2026-09-13T17:00:59.407701-04:00",
   "fecha": "13/09/2026",
   "indicadores": [
     {
       "clave": "desempleo",
       "nombre": "Desempleo",
       "unidad": "%",
-      "ultimo": {
-        "año": "2025",
-        "valor": 5.1
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 5.1
-        },
-        {
-          "año": "2024",
-          "valor": 5.3
-        },
-        {
-          "año": "2023",
-          "valor": 5.6
-        },
-        {
-          "año": "2022",
-          "valor": 5.5
-        },
-        {
-          "año": "2021",
-          "valor": 7.7
-        },
-        {
-          "año": "2020",
-          "valor": 6.1
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "deuda_ext",
