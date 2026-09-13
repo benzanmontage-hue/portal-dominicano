@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-13T02:00:46.128278-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-13T05:00:49.810812-04:00",
+  "hora": "05:00",
   "fecha": "13/09/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "República Dominicana lanza en Miami nueva campaña turística - Diario Las Américas",
-      "fuente": "Diario Las Américas",
+      "titulo": "República Dominicana lanza en Miami nueva campaña turística - diariolasamericas.com",
+      "fuente": "diariolasamericas.com",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkJLcGVBSzE5MnZHOTNITkdSWGJpdHZieWV5c3lnWlNNVTBuYXVlSmFsSExIQm1VTl9XcGtMS0JVeVp4MGVaQ25fWkVMZGk1WXlOYjgyRDZMbzE5a2pEeWdKRkpSSE9ybDF2bGZLYUJubjAyckN1LV9kQlV2UHltS3RGckFxcXF2SHJMUDBMQ3pxNTRVTEJnZUFMTnBjeThDbUU3SzZoMEl1T2vSAbABQVVfeXFMUHhxa1c2RjN0UjhHNFFPRnJ4dkhPazMya1NvUzhRQ25BcnhGOFVVOWg0b2w1UlRXTWoyeS1IdDFJRE5rc0FETUV6MHR2OFBuSEJKbkpEbldDcy1RaC1rOEtFVzdCSWpJOGV5SEJFUThFTEtYd0VZaUlzNUItbHgwOGpqWmRNUXZtRFNuSmkyczB3RVVUdlBVcEFEYm9fTHdpeDNDU2lrcWV5eVhOdDBqOWY?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 11 Sep 2026 23:19:00 GMT",
@@ -21,20 +21,20 @@
       "imagen": "https://static.dw.com/image/75171433_6.jpg"
     },
     {
-      "titulo": "BID | Liderazgo que transforma: mujeres, agua y saneamiento en República Dominicana - Inter-American Development Bank",
-      "fuente": "Inter-American Development Bank",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVRDN05leG42N1VWWWpuZ3BwaXVJdFpVWmw5MEY4dmpZcWF0QUJCaHhoWkZfV0htb2o5Y1I0aExrWFNGX0hFcG9wbDVMbnk1VDNNbUVGN2IwcDl5S190NGxKanJmdUNOcnZDX0VaaVh1NldlUW9NYmxOY3FZUVREM3Bkd3lBVmZlUXgwSHZyMXVvMHZaX1hYWEZqVU9QVHdZanJTYTVUVVpDSXVoSUJ5Wjg5cnFYUXFDVlFZV3pwX0JGNmpNRTA0dDNfZV9UTUhRRXZ0enB0bw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 11 Sep 2026 21:27:15 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
       "fuente": "Telemundo New York",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 28 Aug 2026 14:44:35 GMT",
       "imagen": "https://media.telemundo47.com/2026/08/GettyImages-2170071108.jpg?quality=85&strip=all&resize=1200%2C675"
+    },
+    {
+      "titulo": "BID | Liderazgo que transforma: mujeres, agua y saneamiento en República Dominicana - Inter-American Development Bank",
+      "fuente": "Inter-American Development Bank",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVRDN05leG42N1VWWWpuZ3BwaXVJdFpVWmw5MEY4dmpZcWF0QUJCaHhoWkZfV0htb2o5Y1I0aExrWFNGX0hFcG9wbDVMbnk1VDNNbUVGN2IwcDl5S190NGxKanJmdUNOcnZDX0VaaVh1NldlUW9NYmxOY3FZUVREM3Bkd3lBVmZlUXgwSHZyMXVvMHZaX1hYWEZqVU9QVHdZanJTYTVUVVpDSXVoSUJ5Wjg5cnFYUXFDVlFZV3pwX0JGNmpNRTA0dDNfZV9UTUhRRXZ0enB0bw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 11 Sep 2026 21:27:15 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Estados Unidos pide a República Dominicana derogar el decreto que grava las importaciones de arroz - Infobae",
@@ -45,14 +45,6 @@
       "imagen": "https://www.infobae.com/resizer/v2/YHM6WTKHQRCT7DNEOL57JJAVDY.png?auth=d5e72b0b47a5025624808cddeae522edc0100aa34e1f8e041fa9ebfdbfb1ea1b&smart=true&width=1024&height=512&quality=85"
     },
     {
-      "titulo": "República Dominicana presenta su primer microchip universitario - Jambalaya News Louisiana",
-      "fuente": "Jambalaya News Louisiana",
-      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlpLZ0FBTHIyTjBULU5ieEtMMWRQendJMXIzTVoyQ2lNdTJ6anRsQy12QlJoNEsxZ1pKdC1ndmlDZzJHLS1rYmtEbl9FQkd1cjdxQ2ZoRF9PXzdTTERFTXNPOU1PODdKbXdBa3I4OHNKQUxEWFhUeVJHT1l4VDh6cEJ0VnNNMWtiaUIwcGhCN3dIWlUzQnNBUVphSXZTMmF0T0tsN211bHY4ekp3WEhZS1hmVVZtVFZfYjhKLVFNeFFqeWRTS3dwdkNqQ09GdnRxdkY1ejZFWG02d3JNbU4yOFpfT2ozX29DSmxieW1IVkh4cTJD?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 11 Sep 2026 16:28:00 GMT",
-      "imagen": "https://bloximages.newyork1.vip.townnews.com/jambalayanews.com/content/tncms/assets/v3/editorial/c/e6/ce6ac302-5188-4e5c-b8a7-cefdeb73a1bc/6aa42c9ac76a9.image.png?crop=1143%2C600%2C28%2C0"
-    },
-    {
       "titulo": "Toda la República Dominicana estará pendiente del reloj a mediodía para ver a Paulino buscar una nueva presea dorada en su legendaria carrera. #wordathleticschampionship #marileidypaulino #repúblicadominicana - instagram.com",
       "fuente": "instagram.com",
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2VHVUS3FObHN5a3Z6NmNkTE5BcHF2dDdELXFidDVKNjhuOFZjUkdDRHNYZ0tBS0M4cHpGekEtTVBxOUVqYXQ0WjlONWlXM3luQUE?oc=5",
@@ -61,16 +53,8 @@
       "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/806299233_18619889197041593_1711792254743016766_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qFlbmzQITI8Q7kNvwFeAyVB&_nc_oc=AdrElFI9mVSlWQsGkodAMv6wrXlOOah1_wwNjGin6Rh_UcJbQDsOG-2bWRmAAsBEPVc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ev9QoALyi2NX3dhOEpQQvQ&_nc_ss=7f689&oh=00_AQIv0bDxbTh0TZenBmtUnh6bESslTyFoQns2GzNrbD73JQ&oe=6AABDCBC"
     },
     {
-      "titulo": "Marileidy Paulino gana de nuevo para cerrar un círculo: del Mundial al World Athletics Ultimate Championship 2026 - olympics.com",
-      "fuente": "olympics.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHBrLVVGN2xHazg4dEExSGFQY19Td1dveXZGWkpnRDB1cndxWXBiWmZKa2dDcGJHR3ZMY2xRS21iX0RiME9PSS1xWDRMOEdfUkVCUVExQVloVFk2TDc0Wm5DcktDbmgxZG00ZGE2QWpOYWwtRXdBRlliLXJZMVRsbWczSFM4ZjZNTXpHQ1Vkd0pTVUZLNy1TemFpMzA1NUF3N216SDRXaVVxYmdpR1VaRTFBZGhuNmFGVmc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 12 Sep 2026 17:40:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana expulsa sin dar los motivos a diplomáticos cubanos - apnews.com",
-      "fuente": "apnews.com",
+      "titulo": "República Dominicana expulsa sin dar los motivos a diplomáticos cubanos - AP News",
+      "fuente": "AP News",
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2IycWRrVmYwYnVLVlQwZ1k2VUx4bTY3U18xakJXcTBGa20wUnZWTXQzQXVCWDlBTVA4OThYbC0zNGNqdnVLbE1RWEt5NEhkYy1fT1JHeXFaZjBqMFI2c2ZSdHNGaW1kNDNjbWM2eURibHdMbmxidFRJdlN3bHU0SWQ5d2tqMWZMWV9TMVVQcTRYTzJqUzRUX2tsUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 13 Aug 2026 07:00:00 GMT",
@@ -109,12 +93,20 @@
       "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/juicio-del-desplome-del-jet-set-en-republica-dominicana-expertos-hablan-sobre-posibles-causas-del-colapso-video"
     },
     {
-      "titulo": "Aranceles en juego: República Dominicana busca cuidar un mercado clave en EE.UU. - agrolatam.com",
-      "fuente": "agrolatam.com",
+      "titulo": "Aranceles en juego: República Dominicana busca cuidar un mercado clave en EE.UU. - AgroLatam",
+      "fuente": "AgroLatam",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHVQUHpQVkJ2UVJZNENWcFdlWjFiakdNQ3FFNzYzckZpX0tfdjFQNl9TdGNLLVRuV3prVlVOYnFaYjd0aG9TUTRKQ21JU0doaENobFhKWWhqT0JVamZCaThNUU5fYkpUU1BVQmNWcTl3ZFNPdXlfQ2JBdWtfOUhobWNybFhWYmdFUXhSVnJaSjdSM0xWTnNuYV9xWGRLcjcxa3VDN0thWDVNcXZFUE41R1Z3QXZxTFI2Yno5U3djYw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 10 Sep 2026 21:38:10 GMT",
       "imagen": "https://www.agrolatam.com/files/image/68/68007/6949c96d833a6_600_315!.jpg?s=9c70a87502403c349d61169d294b26eb&d=1789076419"
+    },
+    {
+      "titulo": "Marileidy Paulino gana de nuevo para cerrar un círculo: del Mundial al World Athletics Ultimate Championship 2026 - olympics.com",
+      "fuente": "olympics.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHBrLVVGN2xHazg4dEExSGFQY19Td1dveXZGWkpnRDB1cndxWXBiWmZKa2dDcGJHR3ZMY2xRS21iX0RiME9PSS1xWDRMOEdfUkVCUVExQVloVFk2TDc0Wm5DcktDbmgxZG00ZGE2QWpOYWwtRXdBRlliLXJZMVRsbWczSFM4ZjZNTXpHQ1Vkd0pTVUZLNy1TemFpMzA1NUF3N216SDRXaVVxYmdpR1VaRTFBZGhuNmFGVmc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 12 Sep 2026 17:40:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Exaspirante a Miss República Dominicana crea premios para destacar el talento de Pedro Brand - Hoy Digital",
@@ -123,6 +115,14 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 13 Sep 2026 04:30:00 GMT",
       "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/09/12/6aa5ee1ba1f44.jpeg"
+    },
+    {
+      "titulo": "La campaña de cuadernos usados permitió beneficiar a niños de cuatro a 17 años en República Dominicana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRThaM1lxaVV3S1lYNXdZel9LQ0ZHVGViMnhHOER2NFZpQlZSbmktb2QweEZSdENsbm4ydk1nOWJBTC1rVS1manBtcm9iQUFpbWMtVHhOV1UwWVdudVNmN2U5b01IaGxfLXc5TmdSQXU5M3FoMHFLWkZSVTNUOENEeXNmWm5jVUdpamRXY2lzcnlYcVkwTWZLTk5MaXJaeHlSVGdIVElEcFJLV3V5ZzBRVUhfVlNWVk5zaFV6MWktdjFKcW5rb2V5TkhCZFRHZ0xxb1NGbjhFWG1aOVo0WDB1elVPVm1hQmFvU0ljVUtkb2_SAYsCQVVfeXFMT3cxMmpoSG9iWV9FX19ZNVV1d01qc2Q2LTZteUg1NXBjX0VuYXFtdTRZRUJrNldrT2xITTc4cnNLTnlqUW1mQlZGVGdtQ2xYUm9WazdnNkRPTnAybHhYdmlKR3MxZ3FFb3pCTTdqYUhkTEZlenlKb21hV0VTSjFLczlOaExCelMzQ3N2SUMwNzJlekdpU3ZZNWNwZk5oV0FZT09EUFZZRU1XYnRMYmNPVndScmtINDBZX011TUhxcFFCUWlZUmZ1RmJudWhMVnpTTWtrT25XajdKU3hPZ19kejk1TUE2MjJuenBHYVh6ZEE3QlNONUZ2YTRBLTQzZWVTNWs1eGNseHNEVUxF?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 12 Sep 2026 19:07:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/AKV4W4NM3RBH7MSWT36QYIVMQY.png?auth=1b78d584dbd10e791191ad1c1e9c86708ea71f88847b675d2574f979c8394013&smart=true&width=1024&height=512&quality=85"
     }
   ]
 }

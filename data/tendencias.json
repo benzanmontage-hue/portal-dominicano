@@ -1,23 +1,30 @@
 {
-  "updated": "2026-09-13T02:00:41.227636-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-13T05:00:42.016606-04:00",
+  "hora": "05:00",
   "fecha": "13/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "google",
+      "trafico": "200+",
+      "noticia": "The Gemini app is now available for Windows",
+      "enlace": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-6IFFh_OPCcy6mP1HQh2ApzjbUzzqsgFpSaIPoG0LZ96HDE2g_9rWo6xvqLk"
+    },
+    {
       "termino": "ryan garcia",
       "trafico": "200+",
-      "noticia": "Could boxing get Ryan Garcia vs. Teofimo Lopez Jr. as part of a monstrous Cinco de Mayo double main event?",
-      "enlace": "https://www.dazn.com/en-US/news/boxing/welterweight-unification-ryan-garcia-vs-teofimo-lopez-already-in-motion/17kc7rhhpr3z51xefhdr57sdq2",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp67VO4vWTqD137tAP-HrEz_u_lCE-i_XBFSiKQvVR2cCubp5sO6o4ng3wck0"
+      "noticia": "Ryan Garcia vs. Conor Benn Live Updates, Highlights and Results From Tonight s Card",
+      "enlace": "https://bleacherreport.com/liveblogs/25498443-ryan-garcia-vs-conor-benn-live-updates-highlights-and-results-tonights-card",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBeOZ7rtrnv3bWhH2ErXwD9jGuwqGF2QNL2PS8hhpqiUOBRxdBCr3Ii-u2qmY"
     },
     {
       "termino": "posiciones de inter miami contra nashville sc",
       "trafico": "200+",
-      "noticia": "Lionel Messi marca, aunque Nashville le roba el triunfo en el último minuto del partido",
-      "enlace": "https://as.com/us/futbol/lionel-messi-marca-aunque-nashville-le-roba-el-triunfo-en-el-ultimo-minuto-del-partido-f202609-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-i81R7Xa12XK6J7CfGUlHgxP6kMyn4GNN_-8QjP6liJXqux9JAvkGadWQV40"
+      "noticia": "A pesar del golazo de Lionel Messi, Inter Miami dejó escapar el partido e igualó 2-2 ante Nashville en un duelo clave por la MLS",
+      "enlace": "https://www.infobae.com/deportes/2026/09/12/mientras-espera-la-habilitacion-del-kily-gonzalez-el-inter-miami-de-lionel-messi-recibira-al-lider-nashville-por-la-mls-hora-tv-y-formaciones/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiZ1ZFWYKdWEm0HXd7YqiBNdOp7wVri8wvwWOMennnE8JiFKUvmVbX7wXEuw"
     },
     {
       "termino": "brewers - reds",
@@ -29,23 +36,23 @@
     {
       "termino": "inter miami - nashville sc",
       "trafico": "2000+",
-      "noticia": "Licensable picture: MLS: Nashville SC at Inter Miami CF",
-      "enlace": "https://www.reutersconnect.com/item/mls-nashville-sc-at-inter-miami-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MDY1NTI",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNior2W1YaYuGtM0667tF2vDz_LpFJDOXaQvLXzgkg2L1t14d6eCJhx9ZAoRw"
+      "noticia": "A goal from Messi, a 4-goal thriller: Inter Miami — Nashville match ends in a draw",
+      "enlace": "https://zamin.uz/en/sport/221114-a-goal-from-messi-a-4-goal-thriller-inter-miami-nashville-match-ends-in-a-draw.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiozAiNsCGixNoK60aRy4gBir4Q86JRFmN5TQ_bR8jKPXzhJx9zaa0jSZVMG4"
     },
     {
       "termino": "elena rybakina",
       "trafico": "200+",
-      "noticia": "Licensable video: Hundreds of fans attend the women s final of the US Open 2026 tennis tournament",
-      "enlace": "https://www.reutersconnect.com/item/hundreds-of-fans-attend-the-womens-final-of-the-us-open-2026-tennis-tournament/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMzgzNTgxMDAx",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2kRj-ZGfODYrBRTP1RlJp6Tw7t4mr7NE5H-YhblQ_gRJ744E2Z_zNFEyBuuQ"
+      "noticia": "A new No. 1, an old champion and a final for the ages",
+      "enlace": "https://www.thenews.pk/tns/detail/1437052-a-new-no-1-an-old-champion-and-a-final-for-the-ages",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG56ru2YL7Iwk4PW7E9F1IhhJiRL526X07llFruca1kFdxGu2s6-pPhcSdgis"
     },
     {
       "termino": "policía nacional de la república dominicana",
       "trafico": "100+",
-      "noticia": "Coronel Anabel Cornielle marca doble precedente para la Policía Nacional en el ámbito académico internacional",
-      "enlace": "https://www.policianacional.gob.do/coronel-anabel-cornielle-marca-doble-precedente-para-la-policia-nacional-en-el-ambito-academico-internacional/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxHSzhDxgxfQWPCkPQcfOCy5w5rJBf3VDYceQENPuzCZ1cCFF7CMyO2tOPldg"
+      "noticia": "Comisionado presenta los principales logros de la reforma policial",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/10/estos-son-los-principales-logros-de-la-reforma-policial/3655526",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_X1cB-SD1Kunq17N_jwBGkX6rplucWAfFC1SfRYUxVMwYCQ0CPYJ8M-AJME"
     },
     {
       "termino": "letizia ortiz",
@@ -67,13 +74,6 @@
       "noticia": "After two-year absence, Rays first to punch ticket to postseason",
       "enlace": "https://www.mlb.com/news/rays-clinch-2026-playoff-berth",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWJ5KwcRfutA-8OJVXzxUtXTPDxAFR1g3tDfgeKVcHJiKmxwDX7Mlr8hKsshE"
-    },
-    {
-      "termino": "fernando tatís jr.",
-      "trafico": "500+",
-      "noticia": "Data VIz: Fernando Tatis Jr. s 421-foot home run",
-      "enlace": "https://www.mlb.com/padres/video/data-viz-fernando-tatis-jr-s-421-foot-home-run",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilwWfGvIfpPAELjvU-f63IxPUM8jQAc0M9lFpqpfneAk1m83LcuZBOm2PGuk"
     }
   ]
 }
