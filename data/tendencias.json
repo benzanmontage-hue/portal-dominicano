@@ -1,37 +1,44 @@
 {
-  "updated": "2026-09-14T08:00:56.557543-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-14T11:00:58.380286-04:00",
+  "hora": "11:00",
   "fecha": "14/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "vladimir guerrero jr",
+      "termino": "devers",
       "trafico": "100+",
+      "noticia": "Giants slugger Devers  season ends early due to core muscle injury",
+      "enlace": "https://www.espn.com/mlb/story/_/id/49931348/giants-slugger-devers-season-ends-early-due-core-muscle-injury",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEg_4lnahmwJ2uaNxb0QbOzKFXD89IpgDrVVVd7S0Il1SJc4B1X5Q2Pcj5vg"
+    },
+    {
+      "termino": "vladimir guerrero jr",
+      "trafico": "500+",
       "noticia": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
       "enlace": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoxC8oZCTtzpDEE7P8AXGso0K6Ix4AmBRq5m-zbAxJuH4M4IolrLF-WLsQzk"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyk47Igq1A0a6wHRZKvPV_wgDzvMPn446Ai5b_94AH_0cGrJXFlgJgR--HfM"
     },
     {
       "termino": "aryna sabalenka",
       "trafico": "100+",
-      "noticia": "Sabalenka s Slump Explained? Safina Points to Off-Court Burden",
-      "enlace": "https://en.tennistemple.com/actu/sabalenkas-slump-explained-safina-points-to-off/di75",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaN06K5MXamskMonSULZxFfFs631Z57evqYgIWRkNXRvJsDVCYDJi9DDgwCEQ"
+      "noticia": "Sabalenka Smashed Racket, Dropped F-Bomb After US Open Loss",
+      "enlace": "https://www.newser.com/story/396369/sabalenka-smashed-racket-dropped-f-bomb-after-us-open-loss.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQJxmn4-txsJein9ypwuUCDARVrhlygWz2F2fGK-E5_-dl5RC_ZOEZJxy6Lc"
     },
     {
       "termino": "fernando tatís jr.",
       "trafico": "500+",
-      "noticia": "Fernando Tatis Jr., Manny Machado lift Padres to win",
-      "enlace": "https://www.mlb.com/padres/video/fernando-tatis-jr-manny-machado-lift-padres-to-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrIIG8AN4JArBVpH24t6BTDUuXSf9owELQeS7CTwGiVWyIWAoeAaXLdYJgRqg"
+      "noticia": "Padres hit back-to-back-to-back HRs to start game for 2nd time in franchise history",
+      "enlace": "https://www.mlb.com/news/padres-hit-three-consecutive-home-runs-to-open-game-vs-yankees",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoxCALMZCCDAVhAy6LNbTe2T8V2IBv6R_9ZhXIRqEHS2n7dRC2yyIN2u40rQU"
     },
     {
       "termino": "new york yankees",
       "trafico": "200+",
-      "noticia": "Schlittler, Rice and Wells power Yankees  2-0 win",
-      "enlace": "https://www.mlb.com/rays/video/schlittler-rice-and-wells-power-yankees-2-0-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpqVcNRdY2Y28u4hFbvAqXmWe0nINQLE2BJm2cBRJ3xaxpGU_hNeeIPYVi70Y"
+      "noticia": "Legionnaires’ disease bacteria found at Yankee Stadium amid deadly Bronx outbreak",
+      "enlace": "https://www.independent.co.uk/news/world/americas/new-york-yankees-stadium-legionnaires-disease-bronx-b3049877.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFCill4FzxR_TLVzyUtTAG8ZdiBXBx7ZTaj760Lw_XelXST1jCcyU0lS1VCjQ"
     },
     {
       "termino": "manny machado",
@@ -41,17 +48,24 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
+      "termino": "boston red sox",
+      "trafico": "200+",
+      "noticia": "He knew! Tolle cracks smile before capping immaculate inning",
+      "enlace": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6w9KtgMfI3L5OGOCQBSZhEKvKLbQQekfxhJC5KStmlMXpabu3y4CVAMhyEyM"
+    },
+    {
       "termino": "nacional",
       "trafico": "500+",
-      "noticia": "James Rodríguez, Juan Cuadrado seal emotional homecomings to Colombian league",
-      "enlace": "https://www.espn.com/soccer/story/_/id/49898714/ex-chelsea-juventus-star-cuadrado-signs-millonarios-james-rodriguez-atletico-nacional",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGDJCYA0-63p5nD41idMCkQ0jHHAjtdEkks_APpyek5MT6h5yzZ_eEhsJ-W50"
+      "noticia": "China pide crear barrera de seguridad para la IA ante avances locales y alarma en EE.UU.",
+      "enlace": "https://www.diariolibre.com/planeta/tecnologia/2026/09/13/china-pide-crear-barrera-de-seguridad-para-la-regular-la-ia/3658013",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTobcPZ5mUPj4N3N2UNzkPJxnXzdItU9FdjG692ijujy4AZubQBryPc7keqdmE"
     },
     {
       "termino": "la lotería nacional",
       "trafico": "200+",
-      "noticia": "Estos fueron los números ganadores de las loterías este sábado 12 de septiembre",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-sabado-12-septiembre_1102208.html",
+      "noticia": "Números ganadores de las loterías del domingo 13/9/2026: ¿La pegaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-domingo-13-9-2026-pegaste_1102300.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     },
     {
@@ -60,20 +74,6 @@
       "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, sábado 12 de septiembre",
       "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-sabado-12-de-septiembre-f202609-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhjNtw2Bm-1lvYHV3qB4Ure_4_J6ZphWYwMcxD5zFn89OohUuALLdgeGqoGE"
-    },
-    {
-      "termino": "red sox - royals",
-      "trafico": "500+",
-      "noticia": "MLB: Kansas City Royals at Boston Red Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MTU5NTE",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV5AFoISBvqShSIOnLUMfdJtKaISo87v2wx_4WXZg7kbsPCU6MMiozuNFOuCQ"
-    },
-    {
-      "termino": "alexander zverev",
-      "trafico": "200+",
-      "noticia": "U.S. Open takeaways: Best matches, worst moments and abiding memories from New York",
-      "enlace": "https://www.nytimes.com/athletic/7590231/2026/09/14/us-open-2026-best-matches-moments-shots-players/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDCM05oYTsOGfygf0LpI10wpAxGJRBRXst8Ve-jOoSE-reeAcvoHF2uCXALrA"
     }
   ]
 }
