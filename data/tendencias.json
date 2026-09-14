@@ -1,34 +1,62 @@
 {
-  "updated": "2026-09-13T17:00:48.424552-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-13T20:00:50.640046-04:00",
+  "hora": "20:00",
   "fecha": "13/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nacional",
+      "trafico": "500+",
+      "noticia": "Tres de cinco presuntos asaltantes fallecen en enfrentamientos con agentes de la DICRIM y Preventiva tras intento de asalto en Sabana Yegua, Azua – Inicio",
+      "enlace": "https://www.policianacional.gob.do/tres-de-cinco-presuntos-asaltantes-fallecen-en-enfrentamientos-con-agentes-de-la-dicrim-y-preventiva-tras-intento-de-asalto-en-sabana-yegua-azua/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3ctw_JpzvQibegH0-kbK1YREUHlTnogkOa806W0HIxjPDabU17l22-obF7w"
+    },
+    {
+      "termino": "la lotería nacional",
+      "trafico": "200+",
+      "noticia": "Estos fueron los números ganadores de las loterías este sábado 12 de septiembre",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-sabado-12-septiembre_1102208.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
+      "termino": "red sox - royals",
+      "trafico": "500+",
+      "noticia": "MLB: Kansas City Royals at Boston Red Sox",
+      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MDUwMjE",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Sp-oQOSYnz5vwcsqOkP1GY7RRwd-3sQYu0KzCs15sw09pBNCaKBfx1zfroI"
+    },
+    {
+      "termino": "dbacks - rangers",
+      "trafico": "100+",
+      "noticia": "Resumen Rangers @ Diamondbacks, Resultados/Jugadas destacadas - 11/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/825036",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+    },
+    {
       "termino": "sassuolo - juventus",
       "trafico": "100+",
-      "noticia": "Serie A | Sassuolo-Juventus | Il tabellino",
-      "enlace": "https://www.juventus.com/it/news/articoli/serie-a-sassuolo-juventus-il-tabellino-x7297",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqJzzhX5sTVc0WbkV1soeC3mVOe_iwUA2ia16hRg3baHruFcKBMQaLQCsXQmw"
+      "noticia": "Juve, disastro perfetto: pareggia due volte, poi perde col Sassuolo. La condanna il  suo  Adzic al 94",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/13-09-2026/sassuolo-juventus-live-risultato-e-gol-in-diretta-serie-a.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0rf7o9PDXA3uOr9y_T77ZEWsjPTP8NbJ8OGfv3W1O270OE3tZTbSFrxm86vc"
     },
     {
       "termino": "polvo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Fin de semana caluroso debido a la incidencia del polvo del Sahara en el territorio nacional",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/12/fin-de-semana-caluroso-debido-a-la-incidencia-del-polvo-del-sahara/3657218",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE9TM6RYZdci8dFP84qd97nyLvN8TOX1_ITm4j0f2GJOuKLn2GuYxO4NgypQc"
     },
     {
       "termino": "donald trump",
-      "trafico": "200+",
-      "noticia": "Trump says he is lifting tariffs on Irish whiskey",
-      "enlace": "https://www.reuters.com/world/us/trump-says-he-is-lifting-tariffs-irish-whiskey-2026-09-13/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AJJjVb-eXcc20hOOu846OnmpoDtqa6UTynHtFQLtdZqkQsjI-ZKuozr5DHw"
+      "trafico": "500+",
+      "noticia": "Trump says  very negative forces  raising exaggerated concerns over AI",
+      "enlace": "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0BEQ0Be-FrTjnK64NbS9FORh0KHKL6_bn6IhPus0iO3Y9F1_vyY0zOYTgmQ"
     },
     {
       "termino": "houston astros",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Houston Astros vs. Tampa Bay Rays 12/9/26 - Mira Juego en vivo",
       "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816906?gameId=401816906 sourceLang=en",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfifChdivd5mxPG9YKiooYB3KRyoHuYnzQGlfoBxtNneINO_W-N9YnQKY4eMY"
@@ -36,44 +64,16 @@
     {
       "termino": "josue de paula",
       "trafico": "500+",
-      "noticia": "De Paula gets 1st taste with  the big boys  in MLB debut",
-      "enlace": "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHJzk8P9T5F6Tx8SzFAcHmypEkFurE8iFvRlmF5ypWhDsMdSKFm8U_AD5-Gpo"
+      "noticia": "Josue De Paula crushes first career home run",
+      "enlace": "https://www.mlb.com/dodgers/video/josue-de-paula-crushes-first-career-home-run",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmWzlprS42eSGxcMUiU3Y3sZFStNCvb7WFJ1rsjcAdskiBoQlqQ6u9pe5TQT4"
     },
     {
       "termino": "stade brestois - psg",
-      "trafico": "1000+",
-      "noticia": "Le programme complet de la cérémonie d’hommage à Éric Roy avant Brest - PSG",
-      "enlace": "https://www.letelegramme.fr/sports/football/stade-brestois/le-programme-complet-de-la-ceremonie-dhommage-a-eric-roy-avant-brest-psg-7116438.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSbELbGsGPfDtMWDC4vMfMKWZ05mKwTaKRGBfGiYY3QRtNndUEhwVDaHtNLGQ"
-    },
-    {
-      "termino": "ben shelton",
-      "trafico": "500+",
-      "noticia": "U.S. Open",
-      "enlace": "https://www.reutersconnect.com/item/us-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOUQxRzROT0c",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmrhH-UZ8lbPWhAne0bz_pCAKoFrZ7hWiyDjCNlmfWweh1eT9uRkgpEK5mVlU"
-    },
-    {
-      "termino": "real sociedad - atlético madrid",
-      "trafico": "1000+",
-      "noticia": "Real Sociedad - Atlético de Madrid, en directo: LaLiga EA Sports, en vivo hoy",
-      "enlace": "https://as.com/futbol/primera/real-sociedad-atletico-de-madrid-en-directo-laliga-ea-sports-en-vivo-hoy-f202609-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-qA---j7zPgWzYjrfXcWP7NR_PsO9T9IxO7ov0lHhGOoMa_nk60iC5hzYrlk"
-    },
-    {
-      "termino": "us open",
-      "trafico": "500+",
-      "noticia": "‘Everything different’ as Zverev returns to US Open final",
-      "enlace": "https://www.thenews.pk/print/1437093-everything-different-as-zverev-returns-to-us-open-final",
-      "imagen": ""
-    },
-    {
-      "termino": "marlins - dodgers",
-      "trafico": "200+",
-      "noticia": "Los Angeles Dodgers at Miami Marlins Game Story, Scores/Highlights - 09/12/2026",
-      "enlace": "https://www.mlb.com/stories/game/823819",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDB2pnO11qLJgEpnxowlq0oAqat-ug38kfFKDee6R2dh00TzOiUGN4ah-dU1s"
+      "trafico": "2000+",
+      "noticia": "Ligue 1 : Le PSG dans la douleur",
+      "enlace": "https://www.football365.fr/le-psg-dans-la-douleur-10314422.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwgjazMjIfuWaUHcz431DKT0_6eq7oB8OgvFNanIwTIyzJ_CRCdZXbB2PwvWk"
     }
   ]
 }
