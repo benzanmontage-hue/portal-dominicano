@@ -1,20 +1,62 @@
 {
-  "updated": "2026-09-14T14:01:00.246851-04:00",
-  "hora": "14:01",
+  "updated": "2026-09-14T17:01:01.285558-04:00",
+  "hora": "17:01",
   "fecha": "14/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "número ganadores de hoy",
+      "termino": "leeds - newcastle",
+      "trafico": "100+",
+      "noticia": "Latest. Confirmed line-up: Fernandez-Pardo makes full debut at Leeds",
+      "enlace": "https://www.newcastleunited.com/en/news/leeds-a-team-news-26-27",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DHLaZtzLjcwunElVIbLsOB09vQ9-LVglTQqeOT0n35_Tz6WxrKJxqHDhIQk"
+    },
+    {
+      "termino": "haití",
       "trafico": "200+",
-      "noticia": "Números ganadores de las loterías del domingo 13/9/2026: ¿La pegaste?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-domingo-13-9-2026-pegaste_1102300.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+      "noticia": "¿Podrá Haití celebrar elecciones en diciembre? La inseguridad amenaza las intenciones",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/09/14/inseguridad-pandillas-en-haiti-amenazan-elecciones-2026/3657751",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUC2yWhET8rGqiJRTLOGaJzwKuWgNMAdfgw8cuF7XeXcFY3QD6CWybYEwhsgU"
+    },
+    {
+      "termino": "inter - udinese",
+      "trafico": "1000+",
+      "noticia": "LIVE Inter-Udinese 5-2: Bonny cala la cinquina! Palo esterno di Stankovic",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/14-09-2026/inter-udinese-live-risultato-e-gol-in-diretta-serie-a.shtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlhfNt6MmmR4yK66rdAsyM6FA0_LzJtUMI_95CEcNUjLuM0rQ9txF25ipbPZ8"
+    },
+    {
+      "termino": "villarreal - real betis",
+      "trafico": "500+",
+      "noticia": "Villarreal - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo",
+      "enlace": "https://as.com/futbol/primera/villarreal-betis-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDuPxiIcsMTPgKaD9rb8gkL9Ibbd_iAyYbGXpiThfXdSsVDYLCGDG1yBhwO0"
+    },
+    {
+      "termino": "ramón orlando",
+      "trafico": "200+",
+      "noticia": "Ramón Orlando: “Este concierto no es mío, es del pueblo”",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/09/14/artista-ramon-orlando-este-concierto-no-es-mio-es-del-pueblo/3658030",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTybfAYvNdfcmACjhPFVgEteyDZfc0keaqEoRwJX8jA7DjWx9KN62fSTeaj4X8"
+    },
+    {
+      "termino": "dgii",
+      "trafico": "1000+",
+      "noticia": "DGII ampliará Scoring Tributario a más de 200 mil pymes",
+      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/09/14/dgii-ampliara-scoring-tributario-a-mas-de-200-mil-pymes/3658614",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2-nlkIUjNFCI3SOfcjTbgBHb0m2_LU48gwH3X09PH96BSAtJhU7aZ94ZitIk"
+    },
+    {
+      "termino": "ios 27",
+      "trafico": "200+",
+      "noticia": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "enlace": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClqUWYGWhaOVTnmIsiSmQCd8NW2_zuNfRwYeRxA6HVoOgAw_Df0TMm3DcZQY"
     },
     {
       "termino": "decreto",
-      "trafico": "100+",
+      "trafico": "500+",
       "noticia": "EE. UU. considera importante derogar decreto que salvaguarda la producción de arroz de RD",
       "enlace": "https://www.diariolibre.com/economia/agro/2026/09/11/decreto-693-24-y-acceso-al-arroz-de-estados-unidos/3656520",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6GUokWBc1qyrt_WSkEMf-gvc0qOjTbpOTOkwenJEOQDHqJ99FgdCC_HI8ZXM"
@@ -22,58 +64,16 @@
     {
       "termino": "juez",
       "trafico": "100+",
-      "noticia": "Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia",
-      "enlace": "https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyEmzUV2anBKas99S_g48vLqb4vQI0yfc_FNDVHQ0YjNvOdHUZ1xbBU7sWz8"
+      "noticia": "Justicia celebra que el Consejo de Europa avale el procedimiento para nombrar al juez titular del TEDH",
+      "enlace": "https://www.servimedia.es/noticias/justicia-celebra-consejo-europa-avale-procedimiento-para-nombrar-juez-titular-tedh/1413301368",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv4YHt9tC1JZo6j9So3LjFuGlgNsiWqrSl40qltcgG_zymR7ZmJ7W8pB-kiPs"
     },
     {
       "termino": "trevor bauer",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Estrellas Orientales agregan al derecho Trevor Bauer a su grupo de lanzadores",
       "enlace": "https://www.mlb.com/es/news/estrellas-orientales-agregan-al-lanzador-trevor-bauer",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtOO5fOCF2I-RP_qpatp4M5aU9XGo78OBl3Z8l7sJkvzO88NA4ZyX1w5OqglM"
-    },
-    {
-      "termino": "devers",
-      "trafico": "200+",
-      "noticia": "Giants slugger Devers  season ends early due to core muscle injury",
-      "enlace": "https://www.espn.com/mlb/story/_/id/49931348/giants-slugger-devers-season-ends-early-due-core-muscle-injury",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEg_4lnahmwJ2uaNxb0QbOzKFXD89IpgDrVVVd7S0Il1SJc4B1X5Q2Pcj5vg"
-    },
-    {
-      "termino": "vladimir guerrero jr",
-      "trafico": "200+",
-      "noticia": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
-      "enlace": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyk47Igq1A0a6wHRZKvPV_wgDzvMPn446Ai5b_94AH_0cGrJXFlgJgR--HfM"
-    },
-    {
-      "termino": "aryna sabalenka",
-      "trafico": "100+",
-      "noticia": "There’s a New Tennis Force in Town: Elena Rybakina",
-      "enlace": "https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSLqO8aPXbwYE3KRy4GNl9m3s-C1_AR80mVA444cUJ06aIYpgRSSs6qX5Pfyc"
-    },
-    {
-      "termino": "fernando tatís jr.",
-      "trafico": "500+",
-      "noticia": "The Padres began another critical game with a bang. Now they must finish what they started - The Athletic",
-      "enlace": "https://www.nytimes.com/athletic/7571347/2026/09/07/padres-yankees-tatis-cronenworth-machado-home-runs/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1JAMU2q3K5CyhjmPb1xMWkosV9UWiRwUiAZ-rYt9E0Lil0tRoDxNL2eo52mk"
-    },
-    {
-      "termino": "new york yankees",
-      "trafico": "200+",
-      "noticia": "How to watch Yankees vs. Twins: TV channel and streaming options for September 14",
-      "enlace": "https://www.nytimes.com/athletic/7594111/2026/09/14/yankees-vs-twins-stream-how-to-watch-sept-14/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeyp1udGkjVFsa9tS-jEudhIhef8Thbqp2-Hh1XYt70SMaTiTqzhJlPWb2_g"
-    },
-    {
-      "termino": "manny machado",
-      "trafico": "500+",
-      "noticia": "Resumen Padres @ Gigantes, Resultados/Jugadas destacadas - 13/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/823171",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     }
   ]
 }
