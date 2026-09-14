@@ -1,10 +1,38 @@
 {
-  "updated": "2026-09-13T20:00:50.640046-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-13T23:00:51.336409-04:00",
+  "hora": "23:00",
   "fecha": "13/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "aryna sabalenka",
+      "trafico": "100+",
+      "noticia": "There’s a New Tennis Force in Town: Elena Rybakina",
+      "enlace": "https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSLqO8aPXbwYE3KRy4GNl9m3s-C1_AR80mVA444cUJ06aIYpgRSSs6qX5Pfyc"
+    },
+    {
+      "termino": "fernando tatís jr.",
+      "trafico": "500+",
+      "noticia": "Nick Pivetta strikes out five in four innings",
+      "enlace": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-13/nick-pivetta-strikes-out-five-in-four-innings",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAG8TGa0-WQyCF77clQcc1NkuutrT-3jAtDkKl94E2O9G93_DBsCtSJOMNl2I"
+    },
+    {
+      "termino": "new york yankees",
+      "trafico": "200+",
+      "noticia": "Cam Schlittler dominates Mets before comebacker scare as Yankees take Subway Series",
+      "enlace": "https://nypost.com/2026/09/13/sports/cam-schlittler-dominates-mets-before-comebacker-scare-as-yankees-take-subway-series/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlxMiHgVCsn5cTmaHw3bjFE2tn6ecdryqkttSAAa-wNqlGPu8NM-82hf4QohQ"
+    },
+    {
+      "termino": "manny machado",
+      "trafico": "500+",
+      "noticia": "The distance behind Manny Machado s home run",
+      "enlace": "https://www.mlb.com/padres/video/the-distance-behind-manny-machado-s-home-run-x5771",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREFeNHv4wY54sxhH7TFHfVgMGtMJg4J6y6aMPxs0kDkechmRX0YaRww8gbVAU"
+    },
     {
       "termino": "nacional",
       "trafico": "500+",
@@ -22,9 +50,9 @@
     {
       "termino": "red sox - royals",
       "trafico": "500+",
-      "noticia": "MLB: Kansas City Royals at Boston Red Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MDUwMjE",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Sp-oQOSYnz5vwcsqOkP1GY7RRwd-3sQYu0KzCs15sw09pBNCaKBfx1zfroI"
+      "noticia": "Royals-Sox series finale start time pushed back due to weather",
+      "enlace": "https://www.mlb.com/news/royals-red-sox-game-september-13-2026-pushed-back-due-to-weather",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tYL9yxeewn1Wxwjz_vROYhGHh4g4ETdE6VskLfUS-G7HKPI8mnreSOwVNQg"
     },
     {
       "termino": "dbacks - rangers",
@@ -43,37 +71,9 @@
     {
       "termino": "polvo",
       "trafico": "200+",
-      "noticia": "Fin de semana caluroso debido a la incidencia del polvo del Sahara en el territorio nacional",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/12/fin-de-semana-caluroso-debido-a-la-incidencia-del-polvo-del-sahara/3657218",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE9TM6RYZdci8dFP84qd97nyLvN8TOX1_ITm4j0f2GJOuKLn2GuYxO4NgypQc"
-    },
-    {
-      "termino": "donald trump",
-      "trafico": "500+",
-      "noticia": "Trump says  very negative forces  raising exaggerated concerns over AI",
-      "enlace": "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0BEQ0Be-FrTjnK64NbS9FORh0KHKL6_bn6IhPus0iO3Y9F1_vyY0zOYTgmQ"
-    },
-    {
-      "termino": "houston astros",
-      "trafico": "500+",
-      "noticia": "Houston Astros vs. Tampa Bay Rays 12/9/26 - Mira Juego en vivo",
-      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401816906?gameId=401816906 sourceLang=en",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfifChdivd5mxPG9YKiooYB3KRyoHuYnzQGlfoBxtNneINO_W-N9YnQKY4eMY"
-    },
-    {
-      "termino": "josue de paula",
-      "trafico": "500+",
-      "noticia": "Josue De Paula crushes first career home run",
-      "enlace": "https://www.mlb.com/dodgers/video/josue-de-paula-crushes-first-career-home-run",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmWzlprS42eSGxcMUiU3Y3sZFStNCvb7WFJ1rsjcAdskiBoQlqQ6u9pe5TQT4"
-    },
-    {
-      "termino": "stade brestois - psg",
-      "trafico": "2000+",
-      "noticia": "Ligue 1 : Le PSG dans la douleur",
-      "enlace": "https://www.football365.fr/le-psg-dans-la-douleur-10314422.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwgjazMjIfuWaUHcz431DKT0_6eq7oB8OgvFNanIwTIyzJ_CRCdZXbB2PwvWk"
+      "noticia": "Polvo del Sahara llegó a México: cuánto tiempo durará y cuáles son los daños para la salud",
+      "enlace": "https://www.infobae.com/mexico/2026/09/14/polvo-del-sahara-llego-a-mexico-cuanto-tiempo-durara-y-cuales-son-los-danos-para-la-salud/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2B59DYpd_LZpg0WhzWS_5vVN3HdpHRoTgQR9e4DMS-9jZSO02LPzeZQWNRQ"
     }
   ]
 }
