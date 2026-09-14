@@ -1,20 +1,48 @@
 {
-  "updated": "2026-09-14T11:00:58.380286-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-14T14:01:00.246851-04:00",
+  "hora": "14:01",
   "fecha": "14/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "devers",
+      "termino": "número ganadores de hoy",
+      "trafico": "200+",
+      "noticia": "Números ganadores de las loterías del domingo 13/9/2026: ¿La pegaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-domingo-13-9-2026-pegaste_1102300.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
+      "termino": "decreto",
       "trafico": "100+",
+      "noticia": "EE. UU. considera importante derogar decreto que salvaguarda la producción de arroz de RD",
+      "enlace": "https://www.diariolibre.com/economia/agro/2026/09/11/decreto-693-24-y-acceso-al-arroz-de-estados-unidos/3656520",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6GUokWBc1qyrt_WSkEMf-gvc0qOjTbpOTOkwenJEOQDHqJ99FgdCC_HI8ZXM"
+    },
+    {
+      "termino": "juez",
+      "trafico": "100+",
+      "noticia": "Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia",
+      "enlace": "https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyEmzUV2anBKas99S_g48vLqb4vQI0yfc_FNDVHQ0YjNvOdHUZ1xbBU7sWz8"
+    },
+    {
+      "termino": "trevor bauer",
+      "trafico": "200+",
+      "noticia": "Estrellas Orientales agregan al derecho Trevor Bauer a su grupo de lanzadores",
+      "enlace": "https://www.mlb.com/es/news/estrellas-orientales-agregan-al-lanzador-trevor-bauer",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtOO5fOCF2I-RP_qpatp4M5aU9XGo78OBl3Z8l7sJkvzO88NA4ZyX1w5OqglM"
+    },
+    {
+      "termino": "devers",
+      "trafico": "200+",
       "noticia": "Giants slugger Devers  season ends early due to core muscle injury",
       "enlace": "https://www.espn.com/mlb/story/_/id/49931348/giants-slugger-devers-season-ends-early-due-core-muscle-injury",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEg_4lnahmwJ2uaNxb0QbOzKFXD89IpgDrVVVd7S0Il1SJc4B1X5Q2Pcj5vg"
     },
     {
       "termino": "vladimir guerrero jr",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
       "enlace": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyk47Igq1A0a6wHRZKvPV_wgDzvMPn446Ai5b_94AH_0cGrJXFlgJgR--HfM"
@@ -22,23 +50,23 @@
     {
       "termino": "aryna sabalenka",
       "trafico": "100+",
-      "noticia": "Sabalenka Smashed Racket, Dropped F-Bomb After US Open Loss",
-      "enlace": "https://www.newser.com/story/396369/sabalenka-smashed-racket-dropped-f-bomb-after-us-open-loss.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQJxmn4-txsJein9ypwuUCDARVrhlygWz2F2fGK-E5_-dl5RC_ZOEZJxy6Lc"
+      "noticia": "There’s a New Tennis Force in Town: Elena Rybakina",
+      "enlace": "https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSLqO8aPXbwYE3KRy4GNl9m3s-C1_AR80mVA444cUJ06aIYpgRSSs6qX5Pfyc"
     },
     {
       "termino": "fernando tatís jr.",
       "trafico": "500+",
-      "noticia": "Padres hit back-to-back-to-back HRs to start game for 2nd time in franchise history",
-      "enlace": "https://www.mlb.com/news/padres-hit-three-consecutive-home-runs-to-open-game-vs-yankees",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoxCALMZCCDAVhAy6LNbTe2T8V2IBv6R_9ZhXIRqEHS2n7dRC2yyIN2u40rQU"
+      "noticia": "The Padres began another critical game with a bang. Now they must finish what they started - The Athletic",
+      "enlace": "https://www.nytimes.com/athletic/7571347/2026/09/07/padres-yankees-tatis-cronenworth-machado-home-runs/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1JAMU2q3K5CyhjmPb1xMWkosV9UWiRwUiAZ-rYt9E0Lil0tRoDxNL2eo52mk"
     },
     {
       "termino": "new york yankees",
       "trafico": "200+",
-      "noticia": "Legionnaires’ disease bacteria found at Yankee Stadium amid deadly Bronx outbreak",
-      "enlace": "https://www.independent.co.uk/news/world/americas/new-york-yankees-stadium-legionnaires-disease-bronx-b3049877.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFCill4FzxR_TLVzyUtTAG8ZdiBXBx7ZTaj760Lw_XelXST1jCcyU0lS1VCjQ"
+      "noticia": "How to watch Yankees vs. Twins: TV channel and streaming options for September 14",
+      "enlace": "https://www.nytimes.com/athletic/7594111/2026/09/14/yankees-vs-twins-stream-how-to-watch-sept-14/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeyp1udGkjVFsa9tS-jEudhIhef8Thbqp2-Hh1XYt70SMaTiTqzhJlPWb2_g"
     },
     {
       "termino": "manny machado",
@@ -46,34 +74,6 @@
       "noticia": "Resumen Padres @ Gigantes, Resultados/Jugadas destacadas - 13/09/2026",
       "enlace": "https://www.mlb.com/es/stories/game/823171",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "boston red sox",
-      "trafico": "200+",
-      "noticia": "He knew! Tolle cracks smile before capping immaculate inning",
-      "enlace": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6w9KtgMfI3L5OGOCQBSZhEKvKLbQQekfxhJC5KStmlMXpabu3y4CVAMhyEyM"
-    },
-    {
-      "termino": "nacional",
-      "trafico": "500+",
-      "noticia": "China pide crear barrera de seguridad para la IA ante avances locales y alarma en EE.UU.",
-      "enlace": "https://www.diariolibre.com/planeta/tecnologia/2026/09/13/china-pide-crear-barrera-de-seguridad-para-la-regular-la-ia/3658013",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTobcPZ5mUPj4N3N2UNzkPJxnXzdItU9FdjG692ijujy4AZubQBryPc7keqdmE"
-    },
-    {
-      "termino": "la lotería nacional",
-      "trafico": "200+",
-      "noticia": "Números ganadores de las loterías del domingo 13/9/2026: ¿La pegaste?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-domingo-13-9-2026-pegaste_1102300.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
-    },
-    {
-      "termino": "lotería nacional de las 6",
-      "trafico": "500+",
-      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, sábado 12 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-sabado-12-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhjNtw2Bm-1lvYHV3qB4Ure_4_J6ZphWYwMcxD5zFn89OohUuALLdgeGqoGE"
     }
   ]
 }

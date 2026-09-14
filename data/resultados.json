@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14T11:00:53.684758-04:00",
+  "updated": "2026-09-14T14:00:55.454748-04:00",
   "fecha": "14/09/2026",
-  "hora": "11:00",
+  "hora": "14:00",
   "total_juegos": 52,
   "juegos": [
     {
@@ -78,12 +78,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool",
       "numeros": [
-        "36",
-        "52",
-        "32",
-        "38"
+        "72",
+        "21",
+        "73",
+        "45"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4c6"
     },
     {
@@ -116,11 +116,11 @@
       "compania": "Loteria Real",
       "juego": "Nueva Yol Real",
       "numeros": [
-        "82",
-        "03",
-        "26"
+        "09",
+        "49",
+        "76"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4cc"
     },
     {
@@ -139,11 +139,11 @@
       "compania": "Loteria Real",
       "juego": "Quiniela Real",
       "numeros": [
-        "76",
-        "40",
-        "07"
+        "91",
+        "34",
+        "94"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ae"
     },
     {
@@ -169,9 +169,9 @@
       "compania": "Loteria Real",
       "juego": "Tu Fecha Real",
       "numeros": [
-        "08"
+        "25"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ba"
     },
     {
@@ -200,7 +200,9 @@
       "compania": "Anguila",
       "juego": "Anguila 11:00 AM",
       "numeros": [
-        "18"
+        "18",
+        "81",
+        "98"
       ],
       "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6a3e935d5036a431f5f3e8b2"
@@ -209,33 +211,33 @@
       "compania": "Anguila",
       "juego": "Anguila 12:00 PM",
       "numeros": [
-        "81",
-        "49",
-        "64"
+        "19",
+        "60",
+        "44"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6a3e94f85036a431f5f407b0"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 1:00 PM",
       "numeros": [
-        "61",
-        "93",
-        "41"
+        "71",
+        "04",
+        "45"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d611"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 2:00 PM",
       "numeros": [
-        "16",
-        "77",
-        "57"
+        "60",
+        "44",
+        "86"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6a3e96e25036a431f5f40c87"
     },
     {
@@ -353,12 +355,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 1:00 PM",
       "numeros": [
-        "24",
-        "50",
-        "63",
-        "16"
+        "52",
+        "91",
+        "93",
+        "25"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d623"
     },
     {
@@ -449,9 +451,9 @@
       "compania": "La Primera",
       "juego": "El Quinielón Día",
       "numeros": [
-        "42"
+        "87"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5d2"
     },
     {
@@ -467,11 +469,11 @@
       "compania": "La Primera",
       "juego": "La Primera Día",
       "numeros": [
-        "46",
-        "37",
-        "31"
+        "57",
+        "78",
+        "83"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c0"
     },
     {
@@ -503,11 +505,11 @@
       "compania": "La Suerte",
       "juego": "La Suerte 12:30",
       "numeros": [
-        "41",
-        "84",
-        "89"
+        "29",
+        "30",
+        "29"
       ],
-      "fecha": "2026-09-13T04:00:00.000Z",
+      "fecha": "2026-09-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d5e3"
     },
     {
@@ -656,11 +658,11 @@
       "compania": "La Suerte",
       "juego": "La Suerte 12:30",
       "numeros": [
-        "41",
-        "84",
-        "89"
+        "29",
+        "30",
+        "29"
       ],
-      "fecha": "2026-09-13"
+      "fecha": "2026-09-14"
     },
     {
       "compania": "Leidsa",
