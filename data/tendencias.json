@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-14T05:00:53.537965-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-14T08:00:56.557543-04:00",
+  "hora": "08:00",
   "fecha": "14/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "vladimir guerrero jr",
+      "trafico": "100+",
+      "noticia": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
+      "enlace": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoxC8oZCTtzpDEE7P8AXGso0K6Ix4AmBRq5m-zbAxJuH4M4IolrLF-WLsQzk"
+    },
+    {
       "termino": "aryna sabalenka",
       "trafico": "100+",
-      "noticia": "There’s a New Tennis Force in Town: Elena Rybakina",
-      "enlace": "https://time.com/article/2026/09/13/there-s-a-new-tennis-force-in-town/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSLqO8aPXbwYE3KRy4GNl9m3s-C1_AR80mVA444cUJ06aIYpgRSSs6qX5Pfyc"
+      "noticia": "Sabalenka s Slump Explained? Safina Points to Off-Court Burden",
+      "enlace": "https://en.tennistemple.com/actu/sabalenkas-slump-explained-safina-points-to-off/di75",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaN06K5MXamskMonSULZxFfFs631Z57evqYgIWRkNXRvJsDVCYDJi9DDgwCEQ"
     },
     {
       "termino": "fernando tatís jr.",
@@ -34,6 +41,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
+      "termino": "nacional",
+      "trafico": "500+",
+      "noticia": "James Rodríguez, Juan Cuadrado seal emotional homecomings to Colombian league",
+      "enlace": "https://www.espn.com/soccer/story/_/id/49898714/ex-chelsea-juventus-star-cuadrado-signs-millonarios-james-rodriguez-atletico-nacional",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGDJCYA0-63p5nD41idMCkQ0jHHAjtdEkks_APpyek5MT6h5yzZ_eEhsJ-W50"
+    },
+    {
       "termino": "la lotería nacional",
       "trafico": "200+",
       "noticia": "Estos fueron los números ganadores de las loterías este sábado 12 de septiembre",
@@ -50,30 +64,16 @@
     {
       "termino": "red sox - royals",
       "trafico": "500+",
-      "noticia": "Royals-Sox series finale start time pushed back due to weather",
-      "enlace": "https://www.mlb.com/news/royals-red-sox-game-september-13-2026-pushed-back-due-to-weather",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tYL9yxeewn1Wxwjz_vROYhGHh4g4ETdE6VskLfUS-G7HKPI8mnreSOwVNQg"
+      "noticia": "MLB: Kansas City Royals at Boston Red Sox",
+      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MTU5NTE",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV5AFoISBvqShSIOnLUMfdJtKaISo87v2wx_4WXZg7kbsPCU6MMiozuNFOuCQ"
     },
     {
-      "termino": "dbacks - rangers",
-      "trafico": "100+",
-      "noticia": "Rangers 7-6 Diamondbacks (Sep 13, 2026) Game Recap",
-      "enlace": "https://www.espn.com/mlb/recap/_/gameId/401816932",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREuYuyzvEWQhzrAeTXxWUParCWrSP06-69enKRPfa89DrZ9kLXXG6dP6SD-60"
-    },
-    {
-      "termino": "sassuolo - juventus",
-      "trafico": "100+",
-      "noticia": "Juve, disastro perfetto: pareggia due volte, poi perde col Sassuolo. La condanna il  suo  Adzic al 94",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/13-09-2026/sassuolo-juventus-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0rf7o9PDXA3uOr9y_T77ZEWsjPTP8NbJ8OGfv3W1O270OE3tZTbSFrxm86vc"
-    },
-    {
-      "termino": "embargo",
-      "trafico": "100+",
-      "noticia": "Autorizan embargo y subasta de bienes de la JCE en Nueva York por deuda con Latin Events",
-      "enlace": "https://www.diariolibre.com/politica/jce/2026/09/13/autorizan-embargo-a-la-jce-en-nueva-york-por-deuda-con-latin-events/3657926",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwOR_7rrS5aXZ9GB1P_Ps6H38GB4mqpXjttL4dQSpqF_A0czNHY4jZr1uSZc8"
+      "termino": "alexander zverev",
+      "trafico": "200+",
+      "noticia": "U.S. Open takeaways: Best matches, worst moments and abiding memories from New York",
+      "enlace": "https://www.nytimes.com/athletic/7590231/2026/09/14/us-open-2026-best-matches-moments-shots-players/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDCM05oYTsOGfygf0LpI10wpAxGJRBRXst8Ve-jOoSE-reeAcvoHF2uCXALrA"
     }
   ]
 }
