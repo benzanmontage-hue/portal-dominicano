@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-15T05:00:13.860469-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-15T08:00:15.883918-04:00",
+  "hora": "08:00",
   "fecha": "15/09/2026",
   "total": 12,
   "eventos": [
@@ -17,28 +17,10 @@
       "fecha": "Mon, 14 Sep 2026 03:42:00 GMT"
     },
     {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Remolacha",
-      "fuente": "Remolacha",
+      "titulo": "Kapo anuncia concierto en República Dominicana - remolacha.net",
+      "fuente": "remolacha.net",
       "enlace": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiR1RNZWh1MkJERm1QdlhMSzAzeVVTNjRMVkxWV1B6cFhOOU5QdlpCUy03WUU4Y0N5bGdmdHh5TGRFb2dTMVFCV21Ra9IBUEFVX3lxTE9KWUZnZ1lJM3EzMmlhVTRNXzdGRzZhV2pPcjAwZXRKYUJxb2p6WlFtcnROVVFhSzhYOWR6RjItWTctZy1Ba3Rsc2R3Q2dPWU1z?oc=5",
       "fecha": "Mon, 14 Sep 2026 19:59:48 GMT"
-    },
-    {
-      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
-      "fuente": "Billboard",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
-      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Concierto católico hispano en la escuela secundaria Cardinal Hayes programado para el 2 de mayo - The Good Newsroom",
-      "fuente": "The Good Newsroom",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTVTQ1N5QU9pV1pNdHZ5OWZnY3BCem9xam1LT1FPTHhTTy1pNTl5a1RQT3J3VHZsMEJwSGxVTVJ3WmxOMV9qWW5HWXd0S2RDZUNfcHBYcjFFUFJ5cVVuRzBrU1ByVWpqQzhCdjl4N2NiQ2hYWlJqWXJaOVJuYmt4OXR5MkgwOGhNekQzRU12TDFQcUV1M0s3R0h6SzlxVmk5ME5RN0tpc2I2QVdtSGNlclQxVGl2SUJvZFEtZUZJTEZVdw?oc=5",
-      "fecha": "Fri, 17 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "La espera terminó. Este sábado 25 de julio, el Estadio Cibao de Santiago será el escenario donde Arcángel celebrará junto al público dominicano sus 20 años de carrera artística con el esperado concierto de su gira “La Maravilla World Tour”.⁣ ⁣ Todo está li - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWGFBa282OFlKR0kyUl9GODNJZnFSanZPUHNvcXBMZG9xZ0tubThJbE9NRGJjZy1vYUZQQUpsQV9FamNXMFdvaGxMVnFxb3F5RVE?oc=5",
-      "fecha": "Sat, 25 Jul 2026 07:00:00 GMT"
     },
     {
       "titulo": "Nicky Jam y Sin Bandera ofrecen conciertos en Santo Domingo este sábado - Diario Libre",
@@ -53,28 +35,46 @@
       "fecha": "Thu, 10 Sep 2026 20:23:03 GMT"
     },
     {
+      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
+      "fuente": "Billboard",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
+      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
       "titulo": "Ramón Orlando pensó que un concierto en el Olímpico costaba RD$4 millones - eldia.com.do",
       "fuente": "eldia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVZmekhvdDY5Q3dXQUFKb0xJR3dNaExIM3U3RC0wZFRta0gxWjRHUXZjbkRROE5tclFNVjBqdThQSW43RnJkLUQxQTlObW1jNXU2MDdBVTV3cGhiejZtRjBXcUVnaDlGUE02SHJnWTJRb1J4cE9zaUFlaWVka1ViTmdmeG95X1pLNkhINUtjZGRfVURiU21hSFRn?oc=5",
       "fecha": "Tue, 15 Sep 2026 04:19:00 GMT"
     },
     {
+      "titulo": "La espera terminó. Este sábado 25 de julio, el Estadio Cibao de Santiago será el escenario donde Arcángel celebrará junto al público dominicano sus 20 años de carrera artística con el esperado concierto de su gira “La Maravilla World Tour”.⁣ ⁣ Todo está li - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWGFBa282OFlKR0kyUl9GODNJZnFSanZPUHNvcXBMZG9xZ0tubThJbE9NRGJjZy1vYUZQQUpsQV9FamNXMFdvaGxMVnFxb3F5RVE?oc=5",
+      "fecha": "Sat, 25 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Bad Bunny vuelve a casa este fin de semana para cerrar su gira con dos conciertos en Puerto Rico - MegaStarFM",
+      "fuente": "MegaStarFM",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGZrVlpvaGZSTFNmVWsxelBuZm1FR1Jmelp6bmZLcm9rN3JYcVJjUHlvV0pLdWhlVWFUUUp3aldUUVlHbjlBYUU0U0lfX3RVbkFEY1NxWGhlUklwcGVGWE5qdkhweXhtWHZWT2NGczM0ZDM4N1pSRk91TXd5b1hucW12ZUEwMDVhQUk3TjRRN1JQSC1lSWtPbV8yeXpxNnM0NW1FMm5RcEhBMmFfZFBucVNhbm11UWliQ3FUU1Q4d2IxZHV4b3fSAcsBQVVfeXFMUEFaRW16Q25QQnZ3Q2JpN3djdzVHbHZuVXNkU21xLUhCaXFMT1h2U1hJa1owSm5ZeEtPZEQ2SlQ3cWt0TDdzWnRMY0RNX05jZVZmOGRHSFVvTE9xYm1CWDVOQV9EWGlmVTFmRUFhTl81Q2MyVnk5QlpJVlZ3T1NGRmc4MFRjdGdicWU2RXZhTFZXOHh2RkI5OXVxVUJCQWtkUWQzVGF1N1ZvM2VPUGdqb2FoSnFYSjJUTHdwblllcUIxTmR5dzBrZ3ZIMjA?oc=5",
+      "fecha": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
+      "fuente": "Rolling Stone en Español",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
+      "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Concierto católico hispano en la escuela secundaria Cardinal Hayes programado para el 2 de mayo - The Good Newsroom",
+      "fuente": "The Good Newsroom",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTVTQ1N5QU9pV1pNdHZ5OWZnY3BCem9xam1LT1FPTHhTTy1pNTl5a1RQT3J3VHZsMEJwSGxVTVJ3WmxOMV9qWW5HWXd0S2RDZUNfcHBYcjFFUFJ5cVVuRzBrU1ByVWpqQzhCdjl4N2NiQ2hYWlJqWXJaOVJuYmt4OXR5MkgwOGhNekQzRU12TDFQcUV1M0s3R0h6SzlxVmk5ME5RN0tpc2I2QVdtSGNlclQxVGl2SUJvZFEtZUZJTEZVdw?oc=5",
+      "fecha": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
       "titulo": "Katy Perry debuta en República Dominicana en Festival Presidente - Diario Las Américas",
       "fuente": "Diario Las Américas",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0FtWl8yS25zTWNuQ3dLM3IxQk84czd4d21Ybm1kWHVtWXk2RWRBd2xKeHRJTVdDUnNBcWVfNGVaSWUxZ0lidGFsdzYtUld4dl9jQjVBRi10Tk1wLXp5Y29vVW93OG4yTlJfRzBzNUdkU0V5c2lZT2RvVTdpS1pkSFhBRUpXUkZ6YWRmS3o2S2NLVGdmTHo4RXdNS2MyaFdVVFpPT2hUd19URjEwLXfSAbMBQVVfeXFMTkt0U29QdUt6SHhGd2ZZVmh5dFg0MGlnRTh4RUZxX2NwZ0xVaUJNelZ2ZlRQWFhSMDJ4QTZ0UFc5c3g1aVdueEoyd29CLVFsTkxlZDRYSDRwb0c1UHM4RWlscFF1V2Znay1SY0RBZUIwaEJweUhia19pbndncFdtdnhJTS1rQk84TDBLNXZCWXp5ZDRiSUhhd2hzTFJZVHc1dllRUmZXZkhrMjVLR2tLem1DSWM?oc=5",
       "fecha": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Ante alta demanda anuncian quinto concierto de Dalvin La Melodía en Puerto Rico - De Último Minuto",
-      "fuente": "De Último Minuto",
-      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NNQTZwUmcwRzVCUnJfUnFWRWZFV05uclB2S1phMjJ2MDBDVFpGY0tPdGxxcEtKU0Z6MG5qZ1VCRzMxdGdLR0NEVmh0alJtRUpsSzZWQjJqR2NPZjRnaVNXSmxOVWV1M0ZXOUVaQW5HQlh2RmpzSldCS1ZsRkZaWHhn?oc=5",
-      "fecha": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
-      "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
     }
   ]
 }
