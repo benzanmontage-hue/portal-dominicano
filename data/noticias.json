@@ -1,9 +1,89 @@
 {
-  "updated": "2026-09-14T20:01:10.751012-04:00",
-  "hora": "20:01",
+  "updated": "2026-09-14T23:01:13.751078-04:00",
+  "hora": "23:01",
   "fecha": "14/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "PISA: los estudiantes ricos de RD superan por hasta 71 puntos a los pobres - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjMtcHdzU3F5T3R3c1Bac2JkUE8td2E1UHRQR3YxOXVOcHNRbmtLWFF6aGVTbFgyRXRhVUVKdF9zMlFmSWdIU0NYNTEzMnFtWGJxcGlmOFJ2ejNYbU11VnNTaHBZZEJHUGxGd2s3MFJIeXpsdTZ0QzRveXVvTkM4QUZrNWRkdXhYN2g2N1ItX0ZVQlNiNGZMeHp1clo3TnhmZUNGcTNXbVB2VWhucE55d1dCSlJMM1c3VU5qVGFaU3Z2ZUJ2WG11WQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 13:39:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/08/24/imagen-285905-d359f833-focus-min0.03-0.43-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Iberoamérica debate el futuro de los museos desde República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVR1TzYyY2gzQkRBV0hVSERFY041Z012Vm5SU2R1bFVKZFRMV1JnMWhFRklaREVvZEJzOW05TDlLRWVjd09yUG5WTExfZkhfV0RVX1ozR0ZvOE5DWkNKTDlHbUlocWxGOU9JYXRlZjNaSnFoLUJmcUtRT1MweDBIalpCclIwOEhvd21nV0pKeUkwb0pvcDJGNUFuN04tQUlZZ3ZzX3p1V0VnckdnOHNGUVE5d9IBswFBVV95cUxQbVR1TzYyY2gzQkRBV0hVSERFY041Z012Vm5SU2R1bFVKZFRMV1JnMWhFRklaREVvZEJzOW05TDlLRWVjd09yUG5WTExfZkhfV0RVX1ozR0ZvOE5DWkNKTDlHbUlocWxGOU9JYXRlZjNaSnFoLUJmcUtRT1MweDBIalpCclIwOEhvd21nV0pKeUkwb0pvcDJGNUFuN04tQUlZZ3ZzX3p1V0VnckdnOHNGUVE5dw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 01:00:27 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/A34A6981-OG.jpg"
+    },
+    {
+      "titulo": "Nueva cultura jurídica penal y procesal penal en la República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXBEV2Z1aHRwRzdoMlN1WlQ2OUlCcXJHTjQ4RVNzSHhPRm5QVzEtOG1KSWU3MXdlbnkxZXZldV9UMVpzd2puZWlfVjRzQk1YWG9aLWUtQUt1dnJxSzhwdXV0a3gyWWh4TzVJWmlCTFNJdTdqZlNHeFVxMHRzZnBmY015MjllNy1lTkVSWlpLQWJ0ZVk2cUpWb3VLNktvNkoyMGNZRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 15:19:44 GMT",
+      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/02/14104802/Joaquincito-Bocio-Familia.jpeg?resize=1105%2C1161&quality=100&ssl=1"
+    },
+    {
+      "titulo": "\"No dejen que los haitianos destruyan RD\", el llamado de una haitiana a los dominicanos - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSklIWWo5N0JvYnNSVVhxaVlTTVVOeDlfZDhONDVHRmZPZGRGNGN4clRaMEtBWDJqVlowR1g3aDhraXgzQ3ZPWDlMUXE5M2ZDZWc4cXNtbUZtM1ltVWJDVXBaX1JjdXpFT2xnc0FUaFk1RjNOS0huem5nRVRsb29seGhrM1RxSlBvRTdKdUVTcEpWRGo5Qklrc0NNRVJDeXB2ZDA4NS1BY284d9IBrwFBVV95cUxQVWpFLUlsVkZISzY2LUtlb3RDbENfa0Fha1QtOE0xakxqMzYxejVuaDlFQXpjQi1sRHc0dVl6OE81ZVVOcUhReVNJUXlCUHpUUlFCRmUwZWs5cGoyY3ltZnpRY3NibTVQMHRPUHBVVU5WeHNJNHFZeEpIbjFqczFkSGt4bXVwZzRWdFM4dm8xU0k0eU1YTjdwdTZxMGl2MGQ1MFdkN1J6MUtsRnFVb3cw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 12:06:50 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/14/6aa7defa87975.jpeg"
+    },
+    {
+      "titulo": "Haití bloquea entrada de productos dominicanos y refuerza vigilancia en puente fronterizo de Dajabón - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUtrZmJZUjJjUzU4UDFnT2cxZV9sYkxyNEwxaVVrVDVUTlNBUUF3RXlndFh1RUhGVjZlLTFTeUdUaE5IbmdDNTVUSi1Nd1FnelBBSnFNQ0NZNjctajRodGNHZkQ3ZUxrY3FXdnBpT1N0ZlRhcld3X1RXRV90RVRCUWJ3ZU9FdXo4ZVcwX2lEaDBGaGJGb0NtazR0THFySG9SWnlzeWJLSnV6UE5KTWllM2xMMFJaSXkyUUtkX3Q2QzFQNm9meUNScDNoOVrSAdIBQVVfeXFMTWhfX1dwWE5mRktZcUlMZmkyOTBQNXdzZHkzNFM0Slc1UEFNd3NwTmZ4V2VTV1RtYV9CakRtMWNYZmxDMkstUERSTHJ3SDhPN3Y0QUd5dHg0endkc0tQZFJjclZIRDdELWZvd3B1OE4tcUdtbmlXVTQyNU9yMzBUMF9RU0hhLUtLbE9vakVtVS00UmtwcmY1d0FGZ0VoTEREUUxJQkZhUVZWcDdIaDBsOHN3WTFyUmRNNHVsWjhxODNmNWRkekdxLVdPc1NOY3RjZ3BB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 17:19:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/09/14/mercado-binacional-haiti-bloquea-entrada-de-productor-dominicanos-b72a164c-focus-0-0-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Precio del dólar hoy en República Dominicana: lunes 14 de septiembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUxKRmJjZUI2YlM0WXR4cGd1Z1RyUWdGdnJMR0t2eV95cVAzZDJsT0dnb3JnTVJidGlXaGxiV2phVVlJRzkxMGIwclBGNWRaTWZ1cmhoelJCcXJYY0g3aGIwUm9RWGhlRFJMRlRBN3pzUnZsWDdGcl9NNkdEQm1wYU1EalFzYnMzalJOeVpBT0dBRk9qLUNIS0R0X2U3N0pfaVNHVWZaWGViaGs4YmtTUVB3YW5lWjdhNnFB0gG7AUFVX3lxTE4tTEpGYmNlQjZiUzRZdHhwZ3VnVHJRZ0Z2ckxHS3Z5X3lxUDNkMmxPR2dvcmdNUmJ0aVdobGJXamFVWUlHOTEwYjByUEY1ZFpNZnVyaGh6UkJxclhjSDdoYjBSb1FYaGVEUkxGVEE3enNSdmxYN0ZyX002R0RCbXBhTURqUXNiczNqUk55WkFPR0FGT2otQ0hLRHRfZTc3Sl9pU0dVZlpYZWJoazhia1NRUHdhbmVaN2E2cUE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 07:59:24 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/07/apreciacion-del-peso-frente-al-dolar-fondos-de-pensiones-OG.jpg"
+    },
+    {
+      "titulo": "Primer cable submarino de Google en RD quedará conectado en Punta Cana antes de finalizar 2026 - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjNfYmVodWlBQ3h4N2JJRFJBdHVSV3llQ1RUWldPTENJVE4wQnpNdkJGZ3ZGdkFyTC13dVhHRWlwV0RGOHB6cHJCU19HY0xvcWJEUlNQSGFlRmNNenQ3MTRyV000WHVNYmFJQmJheVloYm10d3ZDNHh5RTZTaFJVOE1uYWliYnFhOU14U3pUWnB5aGh0Ym50dGhXRTlkQVVYM1dpbGZ6SzNLbTVKdzhyd0xoMTVYOF9RTU1Z0gHAAUFVX3lxTE5uVF8xOTlzZTZzX3ZaaElDcVdRb3JhN3FfX2RCaUVGY1luNk1RMVZVZTkxOGNfdHF5aWY5cnhYLWFHa1QxS2RvRld4WndhVkVCaVFlVkFONjlESkVYdHY3U0FkUmtPNm9CZFJDMjNHR1FTVFFjWDQ1ZEwxeGc0LXpMZ1FBUzdNV0xwMTVLQjNMUHFSYmpaY3dLMURzNkdRU3NFelJrQVVKSU45Y0R1dU5iUUFLLTdXWG5sSG1tUVdyZg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 02:11:03 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana supera los 8.5 millones de visitantes hasta agosto y marca nuevo récord turístico - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObUFBbU9NZ0NUQTN1dS1GWWJydHU3alZGdE9ZS3dTVmYwc04zTkV6b0N2eWhHblRKUVpkdTVJaF9XcDYxakc2MVpyQmw3MExIWWJZS1RacTJ5d3JKS0dFdW5URklGbHhJRk44T1hHTEROTHR0QVhSVllnUVlOSEVRRXYzUjJoUFRxNF9BOHBrc1V1OHdkcUNHSEVla09hOGY1aWY4WUdkMmVmS2dwY1ppVE1kSDQ1UTBFSElBdGhlMGN0dlBKYXRYWWZLWEdPTkpJNG1BZDdUbnBGeVZTTGfSAd4BQVVfeXFMTm1BQW1PTWdDVEEzdXUtRllicnR1N2pWRnRPWUt3U1ZmMHNOM05Fem9DdnloR25USlFaZHU1SWhfV3A2MWpHNjFackJsNzBMSFliWUtUWnEyeXdySktHRXVuVEZJRmx4SUZOOE9YR0xETkx0dEFYUlZZZ1FZTkhFUUV2M1IyaFBUcTRfQThwa3NVdTh3ZHFDR0hFZWtPYThmNWlmOFlHZDJlZktncGNaaVRNZEg0NVEwRUhJQXRoZTBjdHZQSmF0WFlmS1hHT05KSTRtQWQ3VG5wRnlWU0xn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 09:00:51 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/TURISMO-CRECE-EN-RD-OG.jpg"
+    },
+    {
+      "titulo": "Legisladores dominicanos presentan en México propuesta para crear el Día de la Confraternidad Dominico-Mexicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRjhseXg2UG95NmlpQzFLWDFFWXI4XzdCdHlvT1lQWkQwUlVQZUsxZ0hPMkViSlZWNXM3MjJydlVXOFd2NFNINk1NZ0xsak5kN2xzMS0yQVFMMDhRVTBlVjROdVZ0MlFUa2FfbHB0aXY0dkNwTE12SDEwTHItSFIwX3pZMHM4QnlCUlVNSEZVTGh2LTRnT0RueXNvYXlZTTJMTXJLZklCSzFNeXlwS3ItTXltWWpwZlhEZWpZbVNVQTdONUhHRTJTNFVTTG1yVGhDV0hjNWF3dFJoc21LQ29qRlRHNUdBaFhJbjkxbUN30gHuAUFVX3lxTE1GOGx5eDZQb3k2aWlDMUtYMUVZcjhfN0J0eW9PWVBaRDBSVVBlSzFnSE8yRWJKVlY1czcyMnJ2VVc4V3Y0U0g2TU1nTGxqTmQ3bHMxLTJBUUwwOFFVMGVWNE51VnQyUVRrYV9scHRpdjR2Q3BMTXZIMTBMci1IUjBfelkwczhCeUJSVU1IRlVMaHYtNGdPRG55c29heVlNMkxNcktmSUJLMU15eXBLci1NeW1ZanBmWERlalltU1VBN041SEdFMlM0VVNMbXJUaENXSGM1YXd0UmhzbUtDb2pGVEc1R0FoWEluOTFtQ3c?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 01:15:42 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Azocibao respalda el diálogo comercial entre la República Dominicana y los Estados Unidos - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelFDUjl3NGU2cVl1cTZ4Tk9QYmE4R0taSlM1SmdXcWRCTE4wdXNRWUFldlp5aFFEbVptc3Mtd01oYUphd255b3dETjE2c0tnVDRkVVpSUVFtZmhOTnB1VUhuN2FlZE9JdFlJS0NZY0RWQzZkWUFsX0dNSFRBN01ZSWRBVXlIWTZNMmx4SUZ1S05rd0RnbWVlUzJ6SEJSSEMzRW9qM0NNY1lkMEFQT3ZEYVpWLWRGR1NqbU1F?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 15:19:54 GMT",
+      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Marco-Cabral-1.jpg-scaled.jpeg?resize=1200%2C1200&quality=100&ssl=1"
+    },
     {
       "titulo": "Medellín aporta la mitad de pasajeros a República Dominicana con Arajet: ruta a Punta Cana creció 70% en un año - Yahoo",
       "fuente": "Yahoo",
@@ -13,16 +93,24 @@
       "imagen": "https://s.yimg.com/lo/mysterio/api/2eca678bc310d7934dd8cdf33736a61de841d9df38eaf87a352d5221a9f422ad/lightyear_networkapi/resizefill_w450_h300%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_colombiano_410%2F27bc0041d4147c1a4eece8273194cc0b.jpg"
     },
     {
-      "titulo": "Trevor Bauer: \"República Dominicana es una parte importante de la cultura del béisbol\" - ESPN Deportes",
-      "fuente": "ESPN Deportes",
+      "titulo": "Trevor Bauer: \"República Dominicana es una parte importante de la cultura del béisbol\" - espndeportes.espn.com",
+      "fuente": "espndeportes.espn.com",
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGZjNjBfdmI2QkdGT0NMdENSUjgxenFTQlBpMnBYRW9GOG9RZmh0QklBNGVuZllJazlLM25TQ3VmNEZLbzZCTVRBQ21mS1NaSE85al8tdG8wYjZ1WXkwUTB4TnBDQnVSM28xMkRad0t1VVhfMFFfU2ktMmhHbFJPTHJHMWUzX2VjMXh4N0JKaVkzX05LbUJKVXpzeEdVVGc3ZGtuRXdSTDgtVzNnMUtjUGJGVzl6STRMZlZYeU0xcVNYelAwWE1UZm5EblBhQVo2WTlORQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 14 Sep 2026 16:15:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "CEPAL reunirá en República Dominicana a los gobiernos de América Latina y el Caribe para conversar sobre cómo gestionar transformaciones en la nueva era geopolítica - Comisión Económica para América Latina y el Caribe",
-      "fuente": "Comisión Económica para América Latina y el Caribe",
+      "titulo": "Porsche Center Santo Domingo presenta el nuevo Cayenne Eléctrico en República Dominicana - Porsche Newsroom",
+      "fuente": "Porsche Newsroom",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0JuRmw5aEp0Y1FWRWE1d1dMT0V0bGJMSmxLMUJyZHRvX2VjaDN2NDE2WkdRYko1UUFaWkhSdlViMmlwdzBCQ0dYVlBDNDJjdHplcmJNUTJpOE5nQ1NqWlJxaF9ody0xTUF5MTUxTlBfTVBxOGdiUU9lZHZ6ZlBUZXR4Tm1mZ2ZjRDdVM01DOENSOHpSZW9KVS1VVnNkak1SRmhwbWlIeVFldklGLVo5N0M5OEt6cnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 14 Sep 2026 21:19:52 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "CEPAL reunirá en República Dominicana a los gobiernos de América Latina y el Caribe para conversar sobre cómo gestionar transformaciones en la nueva era geopolítica - cepal.org",
+      "fuente": "cepal.org",
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkt2MDE2bjNPUTQ4bDQwYnR1bm11Q3QzZmRlM1ZfYllPT2hCVk1ELS16V2hlclVUeVJpT3paWXRDWGowRkY1NEpCcGh3N2JHT2dhRGR6Yms5TnhTOWkxN3dCbS0tbEJmbDIyaHVuaElseWFFX01hc0kwc3F5c24tSU1iY2hKaWJhXzF5RFV4eWl2cUpHLTNvYmViZ1hIRXJVM3ItX1FDdmI3M3E4RWIxcXh6UGZ0RTh4OEdqQWFKMzREbUU?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 14 Sep 2026 15:21:34 GMT",
@@ -35,94 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 14 Sep 2026 19:40:07 GMT",
       "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/809812550_18620901469041593_7175226744722459324_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EPjrTfB4OYsQ7kNvwG_nove&_nc_oc=AdpkfAjiKIwQB_2zj_z6yHZZFpF56mdvG0BOLqmZ4ZgoYU0weRQUL_34-4T278kJvqw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Bj2zSbpckeEd_UZowGKsGQ&_nc_ss=72689&oh=00_AQLdPleg2wSWrAPeLtB7vmP8wFhwYO3qLXTyxw8lFQa8FA&oe=6AAE5058"
-    },
-    {
-      "titulo": "Qué provincias de República Dominicana concentrarán los aguaceros más fuertes entre este lunes y el miércoles 16 de septiembre - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVHJaZ0pmblRoZFJvOVUtRlRhbUR3d1NWUEM2b1VocVFOZ0xlcXRkYkpCcE40Z1ozaGhndmgxMEh4RXlmY2JVdWpXb3pRQVNUaG5VQXZOMVJIcC1QLTBySDdKcnpJdEFjYk1qTm04SjV3M2VyWTlPZ0daT0U3X3hKREt1S1pyV2hObVZTY3VUWmRWT0RSV0lJQ213eC1aOUNIOXBYcUU2U0o1RW9DVFdFN0UwcEpYSGk0eDAwdkVNaVUtc0RfWmtBbE5tLTdObDBYZTU4TUVWdENtUXNpNFBHd0NHNEwtY0RhUlRraWhpLTFkMXdOWVJxSVVFNGpSdHNQZVhsQkNYWVQ3Zi1yRGFMY9IBqwJBVV95cUxQTkFTdWRJY1dCLVh6SUNCZ3R4TXZqNE9La0YyQnlwMkxhd0RxeW9zb0ZfLTdvRnRYU1B4bUswd0ZRTjF4NlhqSktuTEwzUHlvdDRWektGQWNCbTFmODNXRlA4ZEJXNElWUmYyb1VQcXV3ZE1tbngwYURwcnMwTENmM3QyOHV4MjlvRFhnb1RfTUFCb2xHMnNtVXp1dm9aTEhPOFpFTW45dGJiakRqZ190RW82eWt0bVcyUkRjM2h4LXdBOGpNOGl3SDJMRzJsWWc0ZkZ6MFV2MTczM1BrVU5BZmdlekQ1TjlqRi14R19nYjlrVWRKV0hjTXNsVG4wbmt1NE05aVBfdTZZYWczcXBwMHdSd3kzSWVLOGxETUF4anVZdXc1OHlGX2I3dw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 14 Sep 2026 21:55:06 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/TY44LVFIXBHQFO6ZXTLXDJ4IKY.png?auth=5658d0869746d277f7b70161d935c751216d4490bc4cc21e12fc8f507dcb3eaa&smart=true&width=1024&height=512&quality=85"
-    },
-    {
-      "titulo": "Nicaragua cierra embajada en Dominicana en medio de roces - DW.com",
-      "fuente": "DW.com",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOExYdC1ud3BHRE1yVks4bU1QZmFpY3luMjZwaHRHUlpNcmtTUEQ3UEhJWW5UeV91VmMyLVZOcGlYNmJROE8wZnEtdXlDcjN6dl9YMzNrZzFjYk1IdEJwNU13RmJrMG9iRjVVa3cwc2Z0aFBKcUtLeVRqeW9DMTRjamNCTkc4VlNyaWhxWm85aDJGc0Zs0gGUAUFVX3lxTE1CTVNkSDBrcF90RHJGOVF2S3o4dEJrRWRxM1EwczdxbDhiMEt6ekU4T2Q2cU1mOFRsZVUyTUd2NjdSWUF1c0tNb3BsWlA5NFp5QXJPdWl3aDZlWUc2YXYzcHFnRzhyb25xQ0doZWtQMUdFSmdRUXJlYlJidDAyUTRnUW9rMEIyOW5LRTlVdmw4R1NYY3M?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 09 Sep 2026 23:25:29 GMT",
-      "imagen": "https://static.dw.com/image/75171433_6.jpg"
-    },
-    {
-      "titulo": "Arajet impulsó la promoción turística de República Dominicana en Estados Unidos - Aviacionline",
-      "fuente": "Aviacionline",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZjVvRVpaLU9oRVJKQk51eXdoX3NNNmg0STNpdF91YU04QXFnNWNuNk9kWmpRQ2VZUVMwQVpRbmlXSGY4bncza0IydlRqOHdLZ0M3VXBxRzB2RURtTzViT2REd0FaSkJNWW9nUy13eVN5TlNrcDdQcE1haWVGU2ozZzM3WmZmc1ZJSHkxVlRJQm10UXF3cUVNNUFHTGNaRGw4OGtqc1o0d1c5U1pkTWJVdURhUk5lNkZsWDRwWGlLb242bWQydnloRHZvNXpZbFVyUDdxZVB1X3NzTDRPUmw1cG1SVXA1WUpHZFoyLVBRWE50YnJ5eVQySFVjdFlrbFB4c1RpX1lzaF9iVldPZjhvUHNHLW9jTVJIb3hhNVh0ZGphS3dldjJRQW9oOEZwV3pFSXo5eHNKaGgzNXdLRlFnempuTERETUVkS3IzTHpERVpRLXhJU3h5SmQ2cVRXUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 14 Sep 2026 21:59:06 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Trevor Bauer jugará con Estrellas Orientales de República Dominicana - Diario AS",
-      "fuente": "Diario AS",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFpwaUJYYnc3Y3NjRXpuV002aUhVcXREVDNOcUQwMkN3YzFjSUpDX2FUaHc3cHk2OC0xa2JQTExaaHVVRUFWbS1NZXYwZUN4TVIxcDNNY0xrRzY5QVlTNWRjbXFkYVI0UlA4YWNJWkFEZ2JBeFN6aVZHZ1I0S0NwZnAwT0I4b1lEMXBTLVd6bUo4d0RwbksxZGVNcVpfOGxJdDQ00gG3AUFVX3lxTE9fODF6SVlxX2xoSUdzUWx5M1NtbEhTWmo3TXBpSWFiSWpJUU9BUEFaaVdIRDVXblhfckRwQXk5R2ZjT1NnZEJaTDJIS3NLRFFtR0ZTRmtULV96UXB2VUk3Skxsc3N4ckJwSFA0ZW5zbVVSLXUxc0FUUEMtZTBqMmViODVvZXZfUWVrT0NHQUJjUUIxU0NJbTVMTkhXbzI2RjF6VXBPV05fdVMzbWs5MktUc2s5S2RDSQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 14 Sep 2026 17:04:21 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
-      "fuente": "Telemundo New York",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "BID | Liderazgo que transforma: mujeres, agua y saneamiento en República Dominicana - Inter-American Development Bank",
-      "fuente": "Inter-American Development Bank",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVRDN05leG42N1VWWWpuZ3BwaXVJdFpVWmw5MEY4dmpZcWF0QUJCaHhoWkZfV0htb2o5Y1I0aExrWFNGX0hFcG9wbDVMbnk1VDNNbUVGN2IwcDl5S190NGxKanJmdUNOcnZDX0VaaVh1NldlUW9NYmxOY3FZUVREM3Bkd3lBVmZlUXgwSHZyMXVvMHZaX1hYWEZqVU9QVHdZanJTYTVUVVpDSXVoSUJ5Wjg5cnFYUXFDVlFZV3pwX0JGNmpNRTA0dDNfZV9UTUhRRXZ0enB0bw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 11 Sep 2026 21:27:15 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Partido Liberación Dominicana incorpora mil 150 miembros en Barahona - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlM2UHhIVUxVNktOUTBQOVVvbHQ0SzQ5cl9WZmt1N25GaGRzX3JaeW8zOWhBenh6bWZ6anUzMHlfM1N1cWdmdWFmU00zeFJla2k2VFV5SmNqUU8yWVhsbFMwT3JpMEFiVkdGejR4R0lyT1NINm9WTnVwMUxvSEhKU1VaWklSV1NENXJvTkZDYk8tYXE1NDQ4XzZuNklFOFNuem4zbUNJUjhQY3hUa0E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 14 Sep 2026 15:58:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Repatrían a más de 70 personas a República Dominicana - primerahora.com",
-      "fuente": "primerahora.com",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0g4UWU1MlE1X2N0NENpZDhRYTdndDVmRFdLYXhvQ18zZVNwSERmb2I0emltSExOQ25GNWhYY25HNEw4aXF1bjY0SDNmeWdsdjFPeVFwajRRenItU05OYmZkbWxWR21iN2JsQXFWbnNXY2toVndwbVJkQ1dLRUVrYVdDZ19GUlZhRVBFNjFVakV3V0NnWnFNTnVmejhvaDM3Tmh5WHdVQmhjNEliRUlUcnRxdF9yaG8?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana expulsa sin dar los motivos a diplomáticos cubanos - AP News",
-      "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2IycWRrVmYwYnVLVlQwZ1k2VUx4bTY3U18xakJXcTBGa20wUnZWTXQzQXVCWDlBTVA4OThYbC0zNGNqdnVLbE1RWEt5NEhkYy1fT1JHeXFaZjBqMFI2c2ZSdHNGaW1kNDNjbWM2eURibHdMbmxidFRJdlN3bHU0SWQ5d2tqMWZMWV9TMVVQcTRYTzJqUzRUX2tsUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana recibió más de 8,5 millones de visitantes entre enero y agosto - Revista SUMMA",
-      "fuente": "Revista SUMMA",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFM3NXIzdEpiZmhvbEJCYjZTeVpwa0g5ME84RjRweDR3eWptS2pYU0tsNDIyZWl0aWhqNi1yclZxZG0tV2JhS0ozaFNqRS03T0JoRFE3V3dKUEJOellaTlAzVU5hOHJQQjA2REt5S0NZSWVQNmttMTlhNVZmSXNaMWNIQnFzOTI0dTFWUWNSekZldmh0VkdBTThyWXJKVDZVUktwZ2x0WUItUUl0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 14 Sep 2026 14:25:18 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los ciudadanos de estos países son los que han recibido la residencia dominicana en 2026 - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWE0SnVTeDNKaGt1OE5IYVV6RFZTSTFwcEhCdV9semM4ZHVtRkgtU2NRTjJMeXh4RktQRkI2emNrSlNLYVhWRTF4Qi1fWUxRRWJoSEJra3pBMXVMM2tmUE1qd0lzc3N4X2stT1VodXBnV1BzV2RyRG1JRk5kUUlvSW45MWhxMUxBd2ZpcFhCZmctU19Ua2pQcGFMLVBzSDRhLXFoSHo2eU1IT0Jkd1ltLTJtaWRVT0wyX2p0a9IBwgFBVV95cUxQN3hOdmVRR3Z6Y1Q5bWZIcXBHSUR3Qlg4U2ZEQ1h4MUpXWmVOeGMxSXdQUEtiVkw5OHBRTUdWaDJaZzZCUTMtWU5RdWFmMjVjYmt6WmFRaEZhWWFXUS1CcE55clNZSWhoWFNGNHh3eU1fcUI5azZCTU5QNWVxUnM5aEZvamw3T1BqbnZZRkd3SVpiV191Y2ctQms2R3o3YTlObWk5dkNEQ2FXNDl2RklyVzcxM1Y0eWs0b2dkblBMd0xPdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 02 Sep 2026 14:33:15 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/02/6a9820b0660c1.jpeg"
     }
   ]
 }
