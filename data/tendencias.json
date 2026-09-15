@@ -1,50 +1,43 @@
 {
-  "updated": "2026-09-14T23:01:04.134597-04:00",
-  "hora": "23:01",
-  "fecha": "14/09/2026",
+  "updated": "2026-09-15T02:01:04.572032-04:00",
+  "hora": "02:01",
+  "fecha": "15/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "dbacks - marlins",
+      "termino": "aaron judge",
       "trafico": "100+",
-      "noticia": "Sandy Alcantara against the Diamondbacks",
-      "enlace": "https://www.mlb.com/marlins/video/sandy-alcantara-against-the-diamondbacks",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmVtv98YXSRHCh5COla2Sp9HNW6vp-95w1sYr9iBfjohlf6GC3ZrJpptkSzU"
+      "noticia": "Resumen Yankees @ Twins, Resultados/Jugadas destacadas - 14/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823656",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWehOyWI96Ec6_YsNRXiDzf8F-6VwXRP_xjwrj8RUZgmGC9lKwqhRZmY8Zrqg"
+    },
+    {
+      "termino": "dbacks - marlins",
+      "trafico": "200+",
+      "noticia": "Corbin Carroll s walk-off 2-run HR completes comeback for D-backs",
+      "enlace": "https://www.espn.co.uk/video/clip/_/id/49946836/corbin-carroll-walk-2-run-hr-completes-comeback-d-backs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccDEz_H8q756CK4-cfr03VEho78bJ7IDAlX_T9V4nIsw2Sr8iMxDdxnvHNlU"
     },
     {
       "termino": "pete crow-armstrong",
       "trafico": "200+",
-      "noticia": "Player Profile: Pete Crow-Armstrong",
-      "enlace": "https://theonion.com/player-profile-pete-crow-armstrong/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEek9a5RTcpw0u1tHEyTMz0NQI-BZszF4irJBCehdhKCM71XHtrn7bPyEjSAE"
+      "noticia": "Braves can’t hang with Cubs in 7-3 loss",
+      "enlace": "https://www.batterypower.com/atlanta-braves-scores/139795/atlanta-braves-chicago-cubs-recap-final-score-reynaldo-lopez-aj-smith-shawver",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyfivIHZwMEd9iNlLH5MLD0eF104WiWtImxHHQlv__myjF9js07TgvrtkBcLc"
     },
     {
       "termino": "fernando tatís jr.",
       "trafico": "200+",
-      "noticia": "Fernando Tatis Jr. crushes 449-foot home run",
-      "enlace": "https://www.mlb.com/video/fernando-tatis-jr-crushes-449-foot-home-run",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEQMJOoTFl1xdjPX-OXcsri6O7bAD00mNOaNYPHt7vCD4ea2Df1jWyM8Njj5A"
-    },
-    {
-      "termino": "elly de la cruz",
-      "trafico": "200+",
-      "noticia": "Teoscar Hernandez And Dodgers Play Reds On Sept. 14",
-      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/teoscar-hernandez-and-dodgers-play-reds-on-september-14-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV1MOKr6WbfXdN4CAYi3GPs_8qkt2oYwnDJQQ5h6ROBhxKwGHhhJUQ9wxmXmM"
-    },
-    {
-      "termino": "manny machado",
-      "trafico": "500+",
-      "noticia": "Visualizing Manny Machado s swing using bat tracking technology",
-      "enlace": "https://www.mlb.com/padres/video/visualizing-manny-machado-s-swing-using-bat-tracking-technology-x9011",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6ip_DcJ0fe3zpGwJip76xjJJuNF0GVROwTq--vlno9j8Y09oCxEfyTOfK0A"
+      "noticia": "Data Viz: Fernando Tatis Jr. s home run",
+      "enlace": "https://www.mlb.com/padres/video/data-viz-fernando-tatis-jr-s-home-run-x1582",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaF3ufh5fZd93hpTqibeLhBy01u4a3RsWh6leqFLDlHd9J_UgbQqdUjyIvcW4"
     },
     {
       "termino": "cubs - braves",
       "trafico": "100+",
-      "noticia": "MLB Gameday live updates: Braves at Cubs game on 09/14/2026 free",
-      "enlace": "https://www.mlb.com/gameday/braves-vs-cubs/2026/09/14/824629/live",
+      "noticia": "MLB Gameday: Braves 3, Cubs 7 Final Score (09/14/2026)",
+      "enlace": "https://www.mlb.com/gameday/824629/final/box",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYXmuZJd0rW3ThGD9pbvCuAKkQMq__6qtrV2Gt13uUZjLW1-wxLc6tge5UJ7g"
     },
     {
@@ -56,10 +49,10 @@
     },
     {
       "termino": "rockies - padres",
-      "trafico": "500+",
-      "noticia": "San Diego Padres at Colorado Rockies",
-      "enlace": "https://sports.yahoo.com/articles/san-diego-padres-colorado-rockies-234000544.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF5dVl3JpS6BO1L0LhHOCJPnbNbq5h6v_usuNWwZV09NROgEnmAHbZLEsLwwk"
+      "trafico": "1000+",
+      "noticia": "Key takeaways: Padres 8, Rockies 7",
+      "enlace": "https://www.mlb.com/news/padres-outlast-rockies-to-win-8th-straight-game",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMAAZpdJcNJ5uYydTuTzDZJPojErqHD4Cvchj9k6Ql4eArh-n15vfhsd8iZZk"
     },
     {
       "termino": "carolina mejía",
@@ -71,9 +64,16 @@
     {
       "termino": "twins - yankees",
       "trafico": "1000+",
-      "noticia": "Yankees 8, Twins 3: No Joke(s)",
-      "enlace": "https://www.twinkietown.com/minnesota-twins-scores/57454/mlb-minnesota-twins-new-york-yankees-target-field-dean-kremer-emmanuel-rodriguez-aaron-judge-home-run-andrew-morris-aj-minter-meltdown",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2igi5nLxKBfVPSneBvzDvYchNSBP7l9QZ6wn-_aMpqrQnBhWuxwvze1zO8gU"
+      "noticia": "Game 150: Yankees at Twins",
+      "enlace": "https://www.twinkietown.com/minnesota-twins-discussion/57464/game-150-yankees-at-twins",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKhD_pycjs9sCbZmsglr7-fL2M54OIZWGx8A6Ca-USbUarSVY9C441t5A_Lq8"
+    },
+    {
+      "termino": "blue jays - tigers",
+      "trafico": "500+",
+      "noticia": "MLB Gameday: Tigers 6, Blue Jays 5 Final Score (09/14/2026)",
+      "enlace": "https://www.mlb.com/gameday/tigers-vs-blue-jays/2026/09/14/822765/final/box",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzY_sjhDAaCfz2GiWTMhYiYelKj4Na0BhubAafoKhm9vD9f-yBvaCVmwi2b2E"
     }
   ]
 }
