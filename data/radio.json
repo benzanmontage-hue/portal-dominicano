@@ -248,13 +248,6 @@
     },
     {
       "nombre": "EXTASIS 89.5",
-      "url": "https://radio.hostlagarto.com/8070/stream",
-      "codec": "AAC+",
-      "bitrate": 128,
-      "favicon": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ=="
-    },
-    {
-      "nombre": "EXTASIS 89.5",
       "url": "https://stream.zeno.fm/f7wt0ptjpn3vv",
       "codec": "MP3",
       "bitrate": 0,
@@ -280,6 +273,13 @@
       "codec": "MP3",
       "bitrate": 112,
       "favicon": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png"
+    },
+    {
+      "nombre": "Estelar-106",
+      "url": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEhd29uClrp0DUBQ0hI6ftLzRmYEQjaTu_cxpUEJBtPREGLIzkNxQwSxkYJLa8zsdjCauHjTakBF0CIQFR7gtcda4xga73N_nJeWmKiAQy8OQObQsfYzhTTrWDx6pxq_887mucURzMjgMP3zJDfYqHCvLrhXHTfu40xlan_YgDpdJgv8HLLXrxsa_UCc4Q=s429"
     }
   ]
 }
