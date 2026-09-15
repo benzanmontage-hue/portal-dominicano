@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-14T17:01:01.285558-04:00",
-  "hora": "17:01",
+  "updated": "2026-09-14T20:01:03.047280-04:00",
+  "hora": "20:01",
   "fecha": "14/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "twins - yankees",
+      "trafico": "500+",
+      "noticia": "Game 150: Yankees at Twins",
+      "enlace": "https://sports.yahoo.com/articles/game-150-yankees-twins-223021404.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlCJZ7d5E70ylPByEL2COT-6Xhz_5h4nmrDXA2mXCI58CDSBZydoc_a2vN0Ac"
+    },
+    {
+      "termino": "blue jays - tigers",
+      "trafico": "200+",
+      "noticia": "Blue Jays Announce Starters in Pivotal Three-Game Series Against Tigers",
+      "enlace": "https://www.si.com/mlb/bluejays/onsi/blue-jays-announce-starters-in-pivotal-three-game-series-against-tigers",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBRYZAGx4XvU8sHIXpdyqqRWwXSlwtK6hCQYg-EAHV2GPNk9nrKqRT5ZzSpoI"
+    },
+    {
+      "termino": "mets - orioles",
+      "trafico": "500+",
+      "noticia": "Mets hope Pete Alonso gets ‘electric’ reception in Citi Field return",
+      "enlace": "https://nypost.com/2026/09/13/sports/mets-hope-pete-alonso-gets-electric-reception-in-citi-field-return/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ34SN0g6dqqN16PFIELgUyXMmztE7k2Kl3GMGusySc62MBn5uNfaVUdGE-2Y"
+    },
+    {
+      "termino": "reds - dodgers",
+      "trafico": "200+",
+      "noticia": "Teoscar Hernandez And Dodgers Play Reds On Sept. 14",
+      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/teoscar-hernandez-and-dodgers-play-reds-on-september-14-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV1MOKr6WbfXdN4CAYi3GPs_8qkt2oYwnDJQQ5h6ROBhxKwGHhhJUQ9wxmXmM"
+    },
+    {
+      "termino": "incentivo",
+      "trafico": "200+",
+      "noticia": "Maestros públicos a punto de cobrar el incentivo y el retroactivo por evaluación docente",
+      "enlace": "https://elnacional.com.do/nacionales/maestros-publicos-punto-cobrar-incentivo-retroactivo-evaluacion-docente_580822.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrhh16uCO-x0A2-MPuaBcoacjhVi9h41WJvnavOWx1RfySl8yVXJL5Sz_mbN0"
+    },
+    {
       "termino": "leeds - newcastle",
-      "trafico": "100+",
-      "noticia": "Latest. Confirmed line-up: Fernandez-Pardo makes full debut at Leeds",
-      "enlace": "https://www.newcastleunited.com/en/news/leeds-a-team-news-26-27",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DHLaZtzLjcwunElVIbLsOB09vQ9-LVglTQqeOT0n35_Tz6WxrKJxqHDhIQk"
+      "trafico": "200+",
+      "noticia": "Leeds United 4-1 Newcastle United: Hosts move third in Premier League with hammering of Magpies",
+      "enlace": "https://www.bbc.com/sport/football/live/ckz7z14eelwjt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGaqjkBlCvlAQr3sddNR38cleym9dXyKVfL0cpWKqsUCQgMLdoEQl0UN_XIGg"
     },
     {
       "termino": "haití",
-      "trafico": "200+",
-      "noticia": "¿Podrá Haití celebrar elecciones en diciembre? La inseguridad amenaza las intenciones",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/09/14/inseguridad-pandillas-en-haiti-amenazan-elecciones-2026/3657751",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUC2yWhET8rGqiJRTLOGaJzwKuWgNMAdfgw8cuF7XeXcFY3QD6CWybYEwhsgU"
+      "trafico": "1000+",
+      "noticia": "Tráfico de animales desde Haití eleva la alerta sanitaria por posible presencia de ántrax en Dajabón",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/13/ingreso-clandestino-de-animales-de-haiti-y-riesgo-de-antrax/3657644",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11Xv0PnQ00JW0LKb3QnRPUHlsc95LekzVIhE5fZhyAOgK3Ycfgj2U54eEQus"
     },
     {
       "termino": "inter - udinese",
-      "trafico": "1000+",
-      "noticia": "LIVE Inter-Udinese 5-2: Bonny cala la cinquina! Palo esterno di Stankovic",
+      "trafico": "2000+",
+      "noticia": "L Inter ribalta anche l Udinese! Va sotto di 2, poi ne fa 5: è in testa con la Roma",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/14-09-2026/inter-udinese-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlhfNt6MmmR4yK66rdAsyM6FA0_LzJtUMI_95CEcNUjLuM0rQ9txF25ipbPZ8"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSnP6fvUZsubHkWsY5CGdORGAcRopl4yCC1LHiETDWrylrUc58wnPrSkXvrw"
     },
     {
       "termino": "villarreal - real betis",
-      "trafico": "500+",
-      "noticia": "Villarreal - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo",
-      "enlace": "https://as.com/futbol/primera/villarreal-betis-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDuPxiIcsMTPgKaD9rb8gkL9Ibbd_iAyYbGXpiThfXdSsVDYLCGDG1yBhwO0"
+      "trafico": "1000+",
+      "noticia": "El Betis de Pellegrini volvió a festejar: derrotó a Villarreal y escaló en LaLiga",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17257081/villarreal-vs-betis-pellegrini-la-liga-fecha-cinco-equipo-fecha-hora-y-tv-en-vivo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzRY12pxDMbKEMKh7YAU8egL58_z_79tRD2jJN75I83w05-mrd8CP7f-hVmLU"
     },
     {
       "termino": "ramón orlando",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Ramón Orlando: “Este concierto no es mío, es del pueblo”",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/09/14/artista-ramon-orlando-este-concierto-no-es-mio-es-del-pueblo/3658030",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTybfAYvNdfcmACjhPFVgEteyDZfc0keaqEoRwJX8jA7DjWx9KN62fSTeaj4X8"
-    },
-    {
-      "termino": "dgii",
-      "trafico": "1000+",
-      "noticia": "DGII ampliará Scoring Tributario a más de 200 mil pymes",
-      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/09/14/dgii-ampliara-scoring-tributario-a-mas-de-200-mil-pymes/3658614",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2-nlkIUjNFCI3SOfcjTbgBHb0m2_LU48gwH3X09PH96BSAtJhU7aZ94ZitIk"
-    },
-    {
-      "termino": "ios 27",
-      "trafico": "200+",
-      "noticia": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "enlace": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClqUWYGWhaOVTnmIsiSmQCd8NW2_zuNfRwYeRxA6HVoOgAw_Df0TMm3DcZQY"
-    },
-    {
-      "termino": "decreto",
-      "trafico": "500+",
-      "noticia": "EE. UU. considera importante derogar decreto que salvaguarda la producción de arroz de RD",
-      "enlace": "https://www.diariolibre.com/economia/agro/2026/09/11/decreto-693-24-y-acceso-al-arroz-de-estados-unidos/3656520",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6GUokWBc1qyrt_WSkEMf-gvc0qOjTbpOTOkwenJEOQDHqJ99FgdCC_HI8ZXM"
-    },
-    {
-      "termino": "juez",
-      "trafico": "100+",
-      "noticia": "Justicia celebra que el Consejo de Europa avale el procedimiento para nombrar al juez titular del TEDH",
-      "enlace": "https://www.servimedia.es/noticias/justicia-celebra-consejo-europa-avale-procedimiento-para-nombrar-juez-titular-tedh/1413301368",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv4YHt9tC1JZo6j9So3LjFuGlgNsiWqrSl40qltcgG_zymR7ZmJ7W8pB-kiPs"
-    },
-    {
-      "termino": "trevor bauer",
-      "trafico": "500+",
-      "noticia": "Estrellas Orientales agregan al derecho Trevor Bauer a su grupo de lanzadores",
-      "enlace": "https://www.mlb.com/es/news/estrellas-orientales-agregan-al-lanzador-trevor-bauer",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtOO5fOCF2I-RP_qpatp4M5aU9XGo78OBl3Z8l7sJkvzO88NA4ZyX1w5OqglM"
     }
   ]
 }
