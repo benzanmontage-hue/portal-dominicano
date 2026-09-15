@@ -1,23 +1,65 @@
 {
-  "updated": "2026-09-15T11:00:10.432788-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-15T14:00:12.223007-04:00",
+  "hora": "14:00",
   "fecha": "15/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "festividad",
+      "termino": "real de hoy",
+      "trafico": "100+",
+      "noticia": "Mbappé lidera lista de Real Madrid vs Elche con solo 3 lesionados",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17255718/real-madrid-mourinho-convocatoria-elche-jornada-6-laliga",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwd3udzetGjxKQFpZuTV4slnIu4PjVbYOUQr8Oz4HhLi62B4WicBeln1ti6E"
+    },
+    {
+      "termino": "rayo – espanyol",
       "trafico": "200+",
-      "noticia": "La comunidad hindú de Ceuta celebra el Ganesh sin desfile tras la entrada de migrantes",
-      "enlace": "https://www.abc.es/cultura/arte/comunidad-hindu-ceuta-celebra-ganesh-desfile-tras-20260915131030-nt.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRciClEOC7-cuk0lDvc3x92XsfPnd4HsGJsxdLlSpUZeU0daBwO9fcvJHDPzg"
+      "noticia": "La Comunidad de Madrid levanta la orden de suspensión del estadio de Vallecas al Rayo",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-14/la-comunidad-de-madrid-devuelve-la-concesion-del-estadio-de-vallecas-al-rayo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5pG7KTeDRhDp5YSsl46WO2whPRYdns8lEqB2DjDXAXTOBWfphfx-8MowiwJ8"
+    },
+    {
+      "termino": "rayo vallecano - rcd espanyol",
+      "trafico": "500+",
+      "noticia": "Camello contra Roberto Fernández, duelo de goleadores en Butarque",
+      "enlace": "https://www.infobae.com/espana/agencias/2026/09/14/camello-contra-roberto-fernandez-duelo-de-goleadores-en-butarque/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+    },
+    {
+      "termino": "al ain - al-nassr",
+      "trafico": "500+",
+      "noticia": "Rahimi vs Ronaldo: Predicted Lineups for the Al Ain vs Al-Nassr (Saudi Arabia) Match in the AFC Champions League Elite",
+      "enlace": "https://www.voiceofemirates.com/en/emirates/2026/09/15/rahimi-vs-ronaldo-predicted-lineups-for-the-al-ain-vs-al-nassr-saudi-arabia-match-in-the-afc-champions-league-elite/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsL6l3rnFVuTuymbrXeQLFaTql058yli3dP3ZjiRPEC18BHz7c28Z4xS9diUc"
+    },
+    {
+      "termino": "denuncia",
+      "trafico": "200+",
+      "noticia": "ADP Moca denuncia retraso en entrega de uniformes escolares",
+      "enlace": "https://noticiassin.com/pais/provincias/2026/09/15/adp-moca-denuncia-retraso-en-uniformes-escolares-2118152/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMYSUib6ohMXNVDjneAoGl3PoH-yNPErTbp7dU77jUK0ZRRhBcyOvVVbBM8U"
+    },
+    {
+      "termino": "festividad",
+      "trafico": "500+",
+      "noticia": "Mes de la Herencia Hispana en Baltimore: así se vive hasta octubre",
+      "enlace": "https://eltiempolatino.com/2026/09/15/baltimore/mes-de-la-herencia-hispana-en-baltimore-asi-se-vive-hasta-octubre/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPngDR6-C6MiqvnULHXoWmRJZlHFJ9CsBhh2-bjuc5doWRAy9-Jv0MTHg754"
     },
     {
       "termino": "lluvia",
-      "trafico": "500+",
-      "noticia": "Valencia cierra parques, jardines, bibliotecas y cementerios ante la alerta naranja de Aemet por lluvias y tormentas",
-      "enlace": "https://www.eldebate.com/espana/comunidad-valenciana/20260915/valencia-cierra-parques-jardines-bibliotecas-cementerios-ante-alerta-naranja-aemet-lluvias-tormentas_459024.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUsQEWw7PIgOcD28mcrffi_Ep4sm9FvhpBF6P7p4tKpz5l_KbBFRBsjuNn9pk"
+      "trafico": "1000+",
+      "noticia": "Valencia suspende la actividad en 26 centros escolares desde las dos de la tarde de este miércoles por la alerta de lluvias",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-09-15/valencia-suspende-la-actividad-en-26-centros-escolares-desde-las-dos-de-la-tarde-de-este-miercoles-por-la-alerta-de-lluvias.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvtu8Oo02b4wBI4fcV2IHyFIwNLSAVyVkGRGbXRbWYE5Jc0GRXaDTdzeGq8oE"
+    },
+    {
+      "termino": "aaron judge",
+      "trafico": "100+",
+      "noticia": "Resumen Yankees @ Twins, Resultados/Jugadas destacadas - 14/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823656",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWehOyWI96Ec6_YsNRXiDzf8F-6VwXRP_xjwrj8RUZgmGC9lKwqhRZmY8Zrqg"
     },
     {
       "termino": "dbacks - marlins",
@@ -29,51 +71,9 @@
     {
       "termino": "pete crow-armstrong",
       "trafico": "200+",
-      "noticia": "Braves can’t hang with Cubs in 7-3 loss",
-      "enlace": "https://www.batterypower.com/atlanta-braves-scores/139795/atlanta-braves-chicago-cubs-recap-final-score-reynaldo-lopez-aj-smith-shawver",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyfivIHZwMEd9iNlLH5MLD0eF104WiWtImxHHQlv__myjF9js07TgvrtkBcLc"
-    },
-    {
-      "termino": "fernando tatís jr.",
-      "trafico": "200+",
-      "noticia": "Statcast Game Preview: Athletics at Tampa Bay Rays - 2026-09-15",
-      "enlace": "https://baseballsavant.mlb.com/preview?game_pk=822925 game_date=2026-09-15",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj_OJ5wj235XJeCOL7kx3w34XeBut1sNllleolVsRY1szzOCnF6WpMjZFJyFs"
-    },
-    {
-      "termino": "elly de la cruz",
-      "trafico": "200+",
-      "noticia": "Elly De La Cruz hits homer out of Great American Ball Park vs Dodgers",
-      "enlace": "https://www.cincinnati.com/story/sports/mlb/reds/2026/09/15/elly-de-la-cruz-homer-leaves-gabp/91770898007/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRttgwllk4BZ6-sXzclRLAJdpAqzGaL_YyedBOYg5_7tgDhL67odD0iRnUnw_s"
-    },
-    {
-      "termino": "manny machado",
-      "trafico": "500+",
-      "noticia": "Tatis Jr. y Machado la botan en triunfo de Padres",
-      "enlace": "https://www.mlb.com/es/video/tatis-jr-machado-power-homers-in-padres-8-7-win",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wk3bFN_MJCUCEJuG17d87mTNYw0sXbYQzD2kpaqcyGvzY4Ve4iLVsv5hxso"
-    },
-    {
-      "termino": "cubs - braves",
-      "trafico": "100+",
-      "noticia": "Braves, Cubs - 09/14/2026 | Game Video Highlights | MLB Film Room",
-      "enlace": "https://www.mlb.com/video/game/824629",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvEEGqikteCjROqkwXGVaA8aCqW9jspqWc2GPCODBMPvsA7I5o-c3QVsuc4Tg"
-    },
-    {
-      "termino": "aryna sabalenka",
-      "trafico": "100+",
-      "noticia": "US Open champion Rybakina makes media rounds on morning shows",
-      "enlace": "https://www.wtatennis.com/news/4576408/us-open-champion-elena-rybakina-visits-today-show-and-cbs-mornings",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSITmWIO4z770GfwDzsNSleFPP0UHRtlbyhDhTrBgc27PV9Z6T7NrXK2MET46Y"
-    },
-    {
-      "termino": "rockies - padres",
-      "trafico": "1000+",
-      "noticia": "Padres win 8th straight, maintain lead over Arizona in Wild Card chase",
-      "enlace": "https://www.mlb.com/news/padres-outlast-rockies-to-win-8th-straight-game",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTec8V2OB6uirsp5kcqKjIeFo7LAExoriftn-xeyt8p4eXudGAiFRZuRt06X4Q"
+      "noticia": "PCA joins Hall of Famer Williams with 42nd homer on 4-hit, 4-RBI night",
+      "enlace": "https://www.mlb.com/news/pete-crow-armstrong-homers-has-4-hits-and-4-rbis-in-cubs-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo3hQw9v9_o9Sr-66OtwrA7HcBMsqdMLBsqFbxET1y5_TKaGZle7FfRvyElUs"
     }
   ]
 }
