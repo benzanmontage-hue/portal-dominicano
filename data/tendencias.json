@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-16T11:00:25.538254-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-16T14:00:26.480224-04:00",
+  "hora": "14:00",
   "fecha": "16/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "japón",
+      "trafico": "100+",
+      "noticia": "Por primera vez Japón supera las 100.000 personas con 100 años o más (y qué hay detrás de esta asombrosa longevidad)",
+      "enlace": "https://www.bbc.com/mundo/articles/c6dj4nd9ngd0o",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6xGpSwFEFk1MQVOHJUbHCkQG805ej_aF8qLBAPHAMhDYK1aEuOQNe_Tkd3Y"
+    },
+    {
+      "termino": "lotería real de la 1",
+      "trafico": "200+",
+      "noticia": "Resultados de la lotería de hoy martes 15/09/26",
+      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loteria-hoy-martes-15-09-26_1102559.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+    },
+    {
+      "termino": "jean alain rodríguez",
+      "trafico": "100+",
+      "noticia": "Suprema Corte confirma condena contra Jean Alain Rodríguez por daños a periodista Marino Zapete",
+      "enlace": "https://listindiario.com/la-republica/20260916/suprema-corte-confirma-condena-jean-alain-rodriguez-danos-periodista-marino-zapete_922399.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkx9TzcbpyPI4NMgqQ130uunFqzfpoQ1HUWBavOpW6x6AmJLFWLzDmgXqFX3E"
+    },
+    {
+      "termino": "guardians - white sox",
+      "trafico": "100+",
+      "noticia": "Chicago White Sox at Cleveland Guardians Preview - 09/16/2026",
+      "enlace": "https://www.mlb.com/stories/game-preview/824382",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAR7oE15zgs7mgA1Efxd49nX2rluC1yWDR_fOcwKY_mcK5A7-iVRnxPJBcDmU"
+    },
+    {
+      "termino": "inundación",
+      "trafico": "200+",
+      "noticia": "A medida que las aguas de la inundación retrocedían, la superficie de la carretera nacional parecía una  galleta de arroz rota .",
+      "enlace": "https://www.vietnam.vn/es/nuoc-lu-rut-mat-duong-quoc-lo-hien-ra-nhu-banh-da-vo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYO8U_j4yfj5t5DCdRIU35_X0a0p2TLRIX_jB40Lve4x18T9P3n4sz59xZyE"
+    },
+    {
+      "termino": "atlético madrid - osasuna",
+      "trafico": "1000+",
+      "noticia": "Atlético - Osasuna, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/atletico-osasuna/2026/09/16/01_0101_20260916_175_450-directo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv8NRVeJe1XYVS7ZBJliYxIDrVnkBZwkLPtms7LBO3Mmrg3a6gUfSZAZYBPo4"
+    },
+    {
+      "termino": "samsung galaxy",
+      "trafico": "200+",
+      "noticia": "Samsung Brings One UI 9 To The Rest Of The Galaxy S26 Series",
+      "enlace": "https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIKt11WKsOR4Sh9rfxodA7uur-CaTVrPqIv5en2gGFnChjfJtzvHgJJdShKSY"
+    },
+    {
+      "termino": "kick",
+      "trafico": "500+",
+      "noticia": "College GameDay Kick Brings Big Win Back to Indy",
+      "enlace": "https://wibc.com/897191/college-gameday-kick-brings-big-win-back-to-indy/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSspxSSMFSQGcSuzS0pgxDmX14BD6btLXynVtbUhDdA190PCHRa0vwp-Gj69M"
+    },
+    {
+      "termino": "ministerio de educación",
+      "trafico": "100+",
+      "noticia": "Santos Badía: “Tenemos un sistema educativo del siglo XIX, profesores del siglo XX y estudiantes del XXI”",
+      "enlace": "https://acento.com.do/actualidad/santos-badia-tenemos-un-sistema-educativo-del-siglo-xix-profesores-del-siglo-xx-y-estudiantes-del-xxi-9754053.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSotpz-PWf4l11GDa_HiOcXp-Ij_tr1teHoRyTbK_cXENp1CgRixd1Y8dqpW60"
+    },
     {
       "termino": "clint eastwood",
       "trafico": "500+",
       "noticia": "1966 Clint Eastwood Western, With a 97% Rotten Tomatoes Score, Ranked Among the ‘Best Movies of All Time’",
       "enlace": "https://www.yahoo.com/entertainment/movies/articles/1966-clint-eastwood-western-97-233956002.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrxFB9pPOeE03bWiHUnKA1z071DB2n7tEE3MdigONQo9JdjQtYlfO5kyJftf0"
-    },
-    {
-      "termino": "mlb",
-      "trafico": "200+",
-      "noticia": "MLB: New York Yankees at Minnesota Twins",
-      "enlace": "https://www.reutersconnect.com/item/mlb-new-york-yankees-at-minnesota-twins/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4Mjk5MTA",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQyNYc1WVIEX6b6A_XvLnzoCrnrs5ZqWpTANrkvcpVZaRCPKMhHlIrk01pM4I"
-    },
-    {
-      "termino": "licencia",
-      "trafico": "100+",
-      "noticia": "TC elimina el límite de dos años para las licencias de conducir de mayores de 75 años",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/15/tc-falla-a-favor-de-mayores-de-75-anos-en-licencias-de-conducir/3660329",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGghEtBXQSV_s9NN79nbfDgRIRhtHIBXc4GtdE9cAoPzNhp5afCaOH23E9Pcs"
-    },
-    {
-      "termino": "metro",
-      "trafico": "200+",
-      "noticia": "2 people dead, 6 injured after SUV slams into side of Metro bus in Chatsworth, fire officials say",
-      "enlace": "https://abc7.com/story/least-2-dead-numerous-hurt-suv-slams-side-metro-bus-chatsworth/19837090/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-tno-l4X1t_FxwIL52Dyx2vPIz5vcq4ZQa6pM4XuZbUqmOyAhUWhIAv6DmQ"
-    },
-    {
-      "termino": "deportación",
-      "trafico": "100+",
-      "noticia": "Inmigrante haitiano que insultó a Trump durante su arresto fue deportado a Haití",
-      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/09/15/inmigrante-haitiano-que-insulto-a-trump-fue-deportado-a-haiti/3660172",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_c2_mNE2-f_2VO4Cj9-d1y50eu4_TcMWe7uOizVfGyeAbg3X5AIrpKrTWZ0w"
-    },
-    {
-      "termino": "act",
-      "trafico": "200+",
-      "noticia": "The crypto industry saw Trump as its savior. His crypto business just snagged a key bill",
-      "enlace": "https://www.cnn.com/2026/09/15/business/trump-crypto-bitcoin-legislation-clarity-act",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqwg0whwkjiWUCRnPJwakDSwQRTFogxkFE8QV2PxE7juudyoTh-0r-FtbzQs"
-    },
-    {
-      "termino": "above",
-      "trafico": "200+",
-      "noticia": "Treasury yields hitting 5% may not break markets now — but the clock is ticking",
-      "enlace": "https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV_YxnyzKdsoLwdGxYbMB4H-9F4VVMew2zvaSeVwqOoRwJTHlDwYlwM-Y04B4"
-    },
-    {
-      "termino": "against",
-      "trafico": "200+",
-      "noticia": "Rep. Chuck Edwards files complaint against House ethics panel over misconduct probe",
-      "enlace": "https://www.wunc.org/2026-09-15/rep-chuck-edwards-files-complaint-against-house-ethics-panel-over-misconduct-probe",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVsaTMCr2PoftHE3zzW0EOsIuQTcsidtGNjjdkCEKMj4D75LmRqhmPAuCjXOM"
-    },
-    {
-      "termino": "address",
-      "trafico": "200+",
-      "noticia": "Hong Kong Sets Five-Year Tech Goals, Expands Baby Bonus",
-      "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-aims-to-almost-double-spending-on-tech-innovation",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_6g3REdwtpFSKlwLsTxO1flJsy7QHSOn-Ay0mz4ihrVHcNM04uVllP4suFcQ"
-    },
-    {
-      "termino": "action",
-      "trafico": "200+",
-      "noticia": "Charlie Kirk s family signals intent to sue, alleging  stunning failures  led to on-campus assassination",
-      "enlace": "https://abcnews.com/US/charlie-kirks-family-signals-intent-sue-alleging-stunning/story?id=136473715",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0ehiUfDYPJY9rhdI7BYbDFtcqXKQKlRmfGfnmt7nui3MO0ULn_YRVcEb9Zw"
     }
   ]
 }
