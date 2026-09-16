@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-15T23:00:16.364398-04:00",
-  "hora": "23:00",
-  "fecha": "15/09/2026",
+  "updated": "2026-09-16T02:00:21.345992-04:00",
+  "hora": "02:00",
+  "fecha": "16/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "yordan álvarez",
+      "termino": "action",
       "trafico": "100+",
+      "noticia": "Storms are firing up over Arizona Monday night",
+      "enlace": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-91426",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE78v18F4ecvIrzIjktqcDFZ8UZL9ONYBLPLw21Qj1er_j737OK_mcArZCBjc"
+    },
+    {
+      "termino": "new york yankees",
+      "trafico": "100+",
+      "noticia": "Yankees beat up on Twins again to avoid post-playoff clinch hangover",
+      "enlace": "https://nypost.com/2026/09/15/sports/yankees-beat-twins-again-to-avoid-post-playoff-clinch-hangover/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9BO5AGx42oNihd3KXvFuji9nCGpFNJkD-mvRHRo-bBZK96mAhX2PVPZTWF1s"
+    },
+    {
+      "termino": "yordan álvarez",
+      "trafico": "200+",
       "noticia": "Power Rankings de Bateadores Latinos, con figuras cruciales rindiendo en el momento preciso",
       "enlace": "https://www.mlb.com/es/news/power-rankings-de-bateadores-latinos-con-figuras-cruciales-rindiendo-en-el-momento-preciso",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg4Dq4Xp9-HWnfHlhHSHpmHJM-cL-eLvqqQfKonWN-4NQseBVWnscEV0PFDpc"
@@ -15,23 +29,23 @@
     {
       "termino": "astros - royals",
       "trafico": "100+",
-      "noticia": "Royals  Head to Houston for Series against Playoff Hopeful Astros: Stats and Trends to Keep an Eye on",
-      "enlace": "https://sports.yahoo.com/articles/royals-head-houston-series-against-150339942.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOKjyW9LHT4y6dfOmN4GQ-Mx_-8fZR9AGIbt9j6YeeWp32FVpASTyElEXR9tA"
+      "noticia": "Isaac Paredes And Astros Face Royals On Sept. 15",
+      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/isaac-paredes-and-astros-play-royals-on-september-15-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhzxlRw_B8IJXUUFmh9l18C4X0xyVKxqYCKbCcDlO-M5wpGDP7DUxGxC3xJqg"
     },
     {
       "termino": "pete alonso",
-      "trafico": "100+",
-      "noticia": "Pete Alonso’s return showed why his departure remains the defining decision of David Stearns’ tenure",
-      "enlace": "https://www.nytimes.com/athletic/7595802/2026/09/15/pete-alonsos-return-new-york-david-stearns/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-6Dstcp56_J1nD7nJZ_7PuLR0KUbCKpbqrD-HG8cAG8P604Ctq625iYTh9lc"
+      "trafico": "200+",
+      "noticia": "Pete Alonso receives thunderous ovations from Mets fans in return to Citi Field with Orioles",
+      "enlace": "https://apnews.com/article/pete-alonso-mets-orioles-788145ecf5706909335ec2ce6ea9957c",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEp2NlfGS--oQZolJ4xDv8JCmAwB80cO9CTjAW72xygTzbYxCACPJ1xX27xgU"
     },
     {
       "termino": "junior caminero",
       "trafico": "500+",
-      "noticia": "Field View: Junior Caminero s walk-off home run",
-      "enlace": "https://www.mlb.com/rays/video/field-view-junior-caminero-s-walk-off-home-run-x0452",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pgTcEEp_elvMWvIXn5Ei-Nw8PikR3SWYd8l7AXXnV3CLit54ot6n5YiGhiY"
+      "noticia": "Rays win after Junior Caminero s walk-off home run",
+      "enlace": "https://www.mlb.com/athletics/video/rays-win-after-junior-caminero-s-walk-off-home-run",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbNDmy7hEeBADmWg69_QiXR0tGuARhHbNgAdz6b0nuCf3bGRHc9zCfcz3pYeY"
     },
     {
       "termino": "roberto angel salcedo",
@@ -50,9 +64,9 @@
     {
       "termino": "rangers - red sox",
       "trafico": "500+",
-      "noticia": "Wilyer Abreu advantage could be key to Red Sox s playoff push vs Rangers",
-      "enlace": "https://bosoxinjection.com/wilyer-abreu-advantage-could-be-key-to-red-soxs-playoff-push-vs-rangers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgmPeyEAjV1Cog8gaygpI-LUdqFU-Q60pfE79zwfqOhptSQNU1QRj3qJeNIo"
+      "noticia": "Jacob deGrom strikes out eight in Rangers  4-2 win",
+      "enlace": "https://www.mlb.com/rays/video/jacob-degrom-strikes-out-eight-in-rangers-4-2-win",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHt_di8EbtQl3P0F_PXtcdbMRW6JKX2qTZ4WVUz8vHptfeJWjDemhxyBCO7ks"
     },
     {
       "termino": "teoscar hernández",
@@ -60,20 +74,6 @@
       "noticia": "Measuring the stats on Teoscar Hernández s home run",
       "enlace": "https://www.mlb.com/dodgers/video/measuring-the-stats-on-teoscar-hernandez-s-home-run-x2609",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiXpnhtxeA250zqG9AU28Oc5z9SoO4dxuezBd8Db2PW8cIDaBY1YqaTH_D7C4"
-    },
-    {
-      "termino": "cubs - braves",
-      "trafico": "100+",
-      "noticia": "MLB Gameday live updates: Giants at Cardinals game on 09/15/2026 free",
-      "enlace": "https://www.mlb.com/gameday/giants-vs-cardinals/2026/09/15/823007/live",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa7bvNzQKWX9G_R_WpE4j4y7szhVhUMkN1ztkMOwtk7diAiMfUe8emMk8Q37s"
-    },
-    {
-      "termino": "nationals - phillies",
-      "trafico": "500+",
-      "noticia": "Daylen Lile comes through in a pinch, and Nationals outduel Phillies",
-      "enlace": "https://www.washingtonpost.com/sports/2026/09/15/daylen-lile-comes-through-pinch-nationals-outduel-phillies/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8n4cGvvUfZ5QjX2f--HdoIdhIiV8BjKUXwZHnJCKGDgWEVjJCldhdCk5hJJw"
     }
   ]
 }
