@@ -1,12 +1,20 @@
 {
-  "updated": "2026-09-16T02:00:28.215420-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-16T05:00:33.032392-04:00",
+  "hora": "05:00",
   "fecha": "16/09/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "‘Una experiencia celestial’: El élder Rasband ministra a Santos de los Últimos Días haitianos en la frontera con República Dominicana - es.thechurchnews.com",
-      "fuente": "es.thechurchnews.com",
+      "titulo": "Será extraditado desde República Dominicana a Memphis para enfrentar a la justicia por violación a una menor - Memphis Noticias",
+      "fuente": "Memphis Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOFZuWEhKZXV5UXZPVUpya2ZZeE1lR2tHNkI1X0Z5SUs1UE5abExqaXMza09DNkJ6Q1hscHdnS1Z1QTBsRm5iNTI0a2JSRVhzcFBxd2JxekJBZmFubWE5cTQwOHIyeTJINHo1ay1FMEFZbUJ4YzMwQk9ocnZSWnlnZk92UUlybFJmblk5M0U1WExUWUJkaFRKU0RQU2NpT0EyWUMwMFl4YUVXWU5jUmttNXJkSHdDWmg3N1d6bl9SVGxGX2VRT1hobTZ0cENEUE1STUY5UlhCaEczbm8?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 16 Sep 2026 07:09:30 GMT",
+      "imagen": "https://memphisnoticias.com/wp-content/uploads/2021/12/Acusado-de-violacion1.jpg"
+    },
+    {
+      "titulo": "‘Una experiencia celestial’: El élder Rasband ministra a Santos de los Últimos Días haitianos en la frontera con República Dominicana - Church News",
+      "fuente": "Church News",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR20xWHZoSWUtNmVvd2QxMEhQa1kzRktKY1d0ZlFwQUdhbjVWc0YxZFdsZVhrRnlsWEhkQUduQ2dvbnA4ZEhyQzBUYmR4cXFkX21LNF9QRlRPbktyZWRpZDBlOGhyTE41RnI2ZVQwNVFuQlBWNjlRZExNaVJvQUhRTldUN21YSmhheVNEeGNOTzVxenpBbWx4VlYwWHE5TUhJQTNjTjlFNl9meWd1MlY1LXBCZFZlU2pESExZNnZuVkNaOGpsY0NEQ1Izaw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 15 Sep 2026 17:04:00 GMT",
@@ -19,14 +27,6 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 14 Sep 2026 17:26:20 GMT",
       "imagen": "https://s.yimg.com/lo/mysterio/api/2eca678bc310d7934dd8cdf33736a61de841d9df38eaf87a352d5221a9f422ad/lightyear_networkapi/resizefill_w450_h300%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_colombiano_410%2F27bc0041d4147c1a4eece8273194cc0b.jpg"
-    },
-    {
-      "titulo": "Sepultan a Saily Fragoso, la adolescente de 16 años hallada sin vida en República Dominicana - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNak1tcEtpSmRQbnFmdUtZemFOcXZzeHpOVnJNcVVldHdzTGhhRW9BUmktNnVSYlcxV2EzdDRKdW54eGVoQmxnbm1uelduanRsTk9waHNySnRSNDZ5RWpfdTFVV0I5X1RVbXlEQjViampRREFPSWJpZy1PeVZEdFNJQzJpS0x1VFlCVmVfT0RWMndncmg1LURuQnBZTzk1eFlVZEZyaE1tQ2F5RmdISHRiNHUyS0FwYXR1VkJjNVQtWG12dDluMTdUOURudFhrbXN4NDhTVVEwaHVrR3hD?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 22:11:00 GMT",
-      "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/sepultan-a-saily-fragoso-la-adolescente-de-16-anos-hallada-sin-vida-en-republica-dominicana-video"
     },
     {
       "titulo": "Trevor Bauer: \"República Dominicana es una parte importante de la cultura del béisbol\" - ESPN Deportes",
@@ -45,32 +45,16 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana registra exportaciones récord por USD 10,563.2 millones entre enero y agosto de 2026 - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcUlRVERfUE5HQlpXZS1kR2hSZ3pPbGxyRlBPUEV0T0g3dEozZEJhMVNlMmJISExTMjE0QkVfLWdmSzhkSWplWTlwSTNqVTM3bEU5OG1GWWJYNndDTkZNSGNoOGxvdzFObld3QW0xQnNLeU5jSEt6LXR1Vy11aTF2cklQR0cxVHNIWlEzV0MydVZVdzdaWTVQcjY2NzRZZHE2U0pQMkJmcGdVbC13bk9UdG5BbzJlLURlVkNjalI1STFMZnRheFZ5QTBPSzdTLWY5WDVTTHBNUktXakNUUWxIbFhQTGZ2Y1Q3MFFrdk5Jbk5sUdIBjAJBVV95cUxQalAxTWlHenFSZVVqcmZjdlJjTW9KX0x3eFloMWlOczloUkI2ZFZTMzA4ZnU0RUJLT09zTmRJUXhmei1RbHdWOEN6a09XcUkxRTJmWU9ad1QtcXhyNFFJMFlOdHcxMFhzRTZqWVJhVmVCQWpqa1c5eVpsNFA4WS1rWW05aWI5a0VNbzlwUG5aVV9hdktMT3JQQl9rS25vWDdVZG1kWVNaak1uM0VsdXk0Zk0yb1YxbWNQdjhzYl82RWl5ckVOOGhOZENfeWJ1b3o5VTlTTHRrdjlBOW41TENCQkUyVFFFUjQ3aTkxOTFBdGEtdGZ4OWFpTVNpSVZJRWN1QTJzWEZxUnBlYjZ0?oc=5",
+      "titulo": "Sepultan a Saily Fragoso, la adolescente de 16 años hallada sin vida en República Dominicana - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNak1tcEtpSmRQbnFmdUtZemFOcXZzeHpOVnJNcVVldHdzTGhhRW9BUmktNnVSYlcxV2EzdDRKdW54eGVoQmxnbm1uelduanRsTk9waHNySnRSNDZ5RWpfdTFVV0I5X1RVbXlEQjViampRREFPSWJpZy1PeVZEdFNJQzJpS0x1VFlCVmVfT0RWMndncmg1LURuQnBZTzk1eFlVZEZyaE1tQ2F5RmdISHRiNHUyS0FwYXR1VkJjNVQtWG12dDluMTdUOURudFhrbXN4NDhTVVEwaHVrR3hD?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 15:31:27 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/ZT43HWMUAZD2JHMOJZTYAHXGZ4.png?auth=cecd72b9c657cf042434d5642b7c36c08bc8f656ff9275ccb61905a2566ef1e6&smart=true&width=1200&height=630&quality=85"
+      "fecha": "Tue, 15 Sep 2026 22:11:00 GMT",
+      "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/sepultan-a-saily-fragoso-la-adolescente-de-16-anos-hallada-sin-vida-en-republica-dominicana-video"
     },
     {
-      "titulo": "República Dominicana extiende la precalificación para proyecto hidroeléctrico de US$700 millones - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhRSGdHcWZHTHBiWFczMXBGS0NfeENnODBxUVozNWxQMm9oVjdZcVBNT2tNXzI1VGtsQXdFX3pCZVQ0M29DcmQ2ODNqWWdDdU5GWXhmaFV5SHVSVHNFREZSSGsteUtldTFaTGdqQkM5V0NOOGlaNmw1NGJmbDZzNHU3T1c0V1R1YjBoZmVVV044ZlprS1FlTFdlejJJMTFWSnh3YXo0T19MNUpkX1gwdXNhdDB5a3ozOEFuZHptYUVPMWxMbU5OUjQ1N1JkdDQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 14:55:54 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El sistema de salud de República Dominicana, tanto en su vertiente pública como en la privada, enfrenta una crisis silenciosa pero importante en sus salas de emergencias. ⁣ ⁣ En ese sentido, lo que debiera ser un recurso para salvar vidas se convierte en - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRzQ5dHN4NVVSU0VNVVloT3dFUzZqX3BlUV9rYVRGc05reHpaYm1wQ2lJYXkzSUgxMHlUX1J1b0gyNTRscnRQNmluUWVrNWwwbmc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 12:08:03 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/811102683_1087416043937321_8582344934094054051_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yUvCvuMFmLQQ7kNvwE046iY&_nc_oc=Adp1UstSkueXR9fWtMPz0WkPXpYc_8NqYSuflvkn4meLeTBrbW1AqClaqM7Ka4ELR9E&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=RzXQrx9b5gDN4y73iTR-Iw&_nc_ss=7b689&oh=00_AQI6CC8BVAOPADPE113-KKk-SuAnkWHTmnfNx2Jv_rjV-w&oe=6AB01E31"
-    },
-    {
-      "titulo": "Nicaragua cierra embajada en Dominicana en medio de roces - DW.com",
-      "fuente": "DW.com",
+      "titulo": "Nicaragua cierra embajada en Dominicana en medio de roces - dw.com",
+      "fuente": "dw.com",
       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOExYdC1ud3BHRE1yVks4bU1QZmFpY3luMjZwaHRHUlpNcmtTUEQ3UEhJWW5UeV91VmMyLVZOcGlYNmJROE8wZnEtdXlDcjN6dl9YMzNrZzFjYk1IdEJwNU13RmJrMG9iRjVVa3cwc2Z0aFBKcUtLeVRqeW9DMTRjamNCTkc4VlNyaWhxWm85aDJGc0Zs0gGUAUFVX3lxTE1CTVNkSDBrcF90RHJGOVF2S3o4dEJrRWRxM1EwczdxbDhiMEt6ekU4T2Q2cU1mOFRsZVUyTUd2NjdSWUF1c0tNb3BsWlA5NFp5QXJPdWl3aDZlWUc2YXYzcHFnRzhyb25xQ0doZWtQMUdFSmdRUXJlYlJidDAyUTRnUW9rMEIyOW5LRTlVdmw4R1NYY3M?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 09 Sep 2026 23:25:29 GMT",
@@ -85,12 +69,44 @@
       "imagen": ""
     },
     {
-      "titulo": "BID | Liderazgo que transforma: mujeres, agua y saneamiento en República Dominicana - Inter-American Development Bank",
-      "fuente": "Inter-American Development Bank",
+      "titulo": "República Dominicana registra exportaciones récord por USD 10,563.2 millones entre enero y agosto de 2026 - infobae.com",
+      "fuente": "infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcUlRVERfUE5HQlpXZS1kR2hSZ3pPbGxyRlBPUEV0T0g3dEozZEJhMVNlMmJISExTMjE0QkVfLWdmSzhkSWplWTlwSTNqVTM3bEU5OG1GWWJYNndDTkZNSGNoOGxvdzFObld3QW0xQnNLeU5jSEt6LXR1Vy11aTF2cklQR0cxVHNIWlEzV0MydVZVdzdaWTVQcjY2NzRZZHE2U0pQMkJmcGdVbC13bk9UdG5BbzJlLURlVkNjalI1STFMZnRheFZ5QTBPSzdTLWY5WDVTTHBNUktXakNUUWxIbFhQTGZ2Y1Q3MFFrdk5Jbk5sUdIBjAJBVV95cUxQalAxTWlHenFSZVVqcmZjdlJjTW9KX0x3eFloMWlOczloUkI2ZFZTMzA4ZnU0RUJLT09zTmRJUXhmei1RbHdWOEN6a09XcUkxRTJmWU9ad1QtcXhyNFFJMFlOdHcxMFhzRTZqWVJhVmVCQWpqa1c5eVpsNFA4WS1rWW05aWI5a0VNbzlwUG5aVV9hdktMT3JQQl9rS25vWDdVZG1kWVNaak1uM0VsdXk0Zk0yb1YxbWNQdjhzYl82RWl5ckVOOGhOZENfeWJ1b3o5VTlTTHRrdjlBOW41TENCQkUyVFFFUjQ3aTkxOTFBdGEtdGZ4OWFpTVNpSVZJRWN1QTJzWEZxUnBlYjZ0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 15:31:27 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/ZT43HWMUAZD2JHMOJZTYAHXGZ4.png?auth=cecd72b9c657cf042434d5642b7c36c08bc8f656ff9275ccb61905a2566ef1e6&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "QRoo se alía a Dominicana y la UE para proyectos contra el sargazo - REPORTUR.com",
+      "fuente": "REPORTUR.com",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFVYQnRKaG5wNFdHUDh2NVlIOVZPalJ4YmNOX1d5ekYzQ3dTTzlJVkpMU3NOeXJLenpvek1wZEZqUXJnbWJSRzQ5cHYySkVsZ2x1SFBYdG0xbVR5NVNkU3k3eVp4SDNKN280Vm1RV1ZvRnBjVmVkRUV6OVlsbnNUYTlUdDhTQzlRNThWWTBLWEQ2c3Z1RXZ0STEwajE2S1I2eFJlWGEwRy1vNmU1Y1RrRW53?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 16 Sep 2026 06:06:35 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana extiende la precalificación para proyecto hidroeléctrico de US$700 millones - BNamericas",
+      "fuente": "BNamericas",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhRSGdHcWZHTHBiWFczMXBGS0NfeENnODBxUVozNWxQMm9oVjdZcVBNT2tNXzI1VGtsQXdFX3pCZVQ0M29DcmQ2ODNqWWdDdU5GWXhmaFV5SHVSVHNFREZSSGsteUtldTFaTGdqQkM5V0NOOGlaNmw1NGJmbDZzNHU3T1c0V1R1YjBoZmVVV044ZlprS1FlTFdlejJJMTFWSnh3YXo0T19MNUpkX1gwdXNhdDB5a3ozOEFuZHptYUVPMWxMbU5OUjQ1N1JkdDQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 14:55:54 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "BID | Liderazgo que transforma: mujeres, agua y saneamiento en República Dominicana - iadb.org",
+      "fuente": "iadb.org",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVRDN05leG42N1VWWWpuZ3BwaXVJdFpVWmw5MEY4dmpZcWF0QUJCaHhoWkZfV0htb2o5Y1I0aExrWFNGX0hFcG9wbDVMbnk1VDNNbUVGN2IwcDl5S190NGxKanJmdUNOcnZDX0VaaVh1NldlUW9NYmxOY3FZUVREM3Bkd3lBVmZlUXgwSHZyMXVvMHZaX1hYWEZqVU9QVHdZanJTYTVUVVpDSXVoSUJ5Wjg5cnFYUXFDVlFZV3pwX0JGNmpNRTA0dDNfZV9UTUhRRXZ0enB0bw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 11 Sep 2026 21:27:15 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "El sistema de salud de República Dominicana, tanto en su vertiente pública como en la privada, enfrenta una crisis silenciosa pero importante en sus salas de emergencias. ⁣ ⁣ En ese sentido, lo que debiera ser un recurso para salvar vidas se convierte en - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRzQ5dHN4NVVSU0VNVVloT3dFUzZqX3BlUV9rYVRGc05reHpaYm1wQ2lJYXkzSUgxMHlUX1J1b0gyNTRscnRQNmluUWVrNWwwbmc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 15 Sep 2026 12:08:03 GMT",
+      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/811102683_1087416043937321_8582344934094054051_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yUvCvuMFmLQQ7kNvwE046iY&_nc_oc=Adp1UstSkueXR9fWtMPz0WkPXpYc_8NqYSuflvkn4meLeTBrbW1AqClaqM7Ka4ELR9E&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=RzXQrx9b5gDN4y73iTR-Iw&_nc_ss=7b689&oh=00_AQI6CC8BVAOPADPE113-KKk-SuAnkWHTmnfNx2Jv_rjV-w&oe=6AB01E31"
     },
     {
       "titulo": "CEPAL reunirá en República Dominicana a los gobiernos de América Latina y el Caribe para conversar sobre cómo gestionar transformaciones en la nueva era geopolítica - Comisión Económica para América Latina y el Caribe",
@@ -101,27 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Carlos Antonio Fernández Onofre - presidencia.gob.do",
-      "fuente": "presidencia.gob.do",
+      "titulo": "Carlos Antonio Fernández Onofre - Presidencia de la República Dominicana",
+      "fuente": "Presidencia de la República Dominicana",
       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VEsxVlJDVk52QnR3TkxQVjlsLTZlek9aWXZNWEIzZlE0TGlMVUNfTjhUdU9zUk1KM0p5UV9JNTVyaEM5aFl2UV9JaUtCN2VmOXVfYmpvVGVyR2hkX1ZlMy1lRkRtZHBmeEdMaFliUVJMdlFPb1k0?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 01 Jan 1970 00:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana expulsa sin dar los motivos a diplomáticos cubanos - AP News",
-      "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2IycWRrVmYwYnVLVlQwZ1k2VUx4bTY3U18xakJXcTBGa20wUnZWTXQzQXVCWDlBTVA4OThYbC0zNGNqdnVLbE1RWEt5NEhkYy1fT1JHeXFaZjBqMFI2c2ZSdHNGaW1kNDNjbWM2eURibHdMbmxidFRJdlN3bHU0SWQ5d2tqMWZMWV9TMVVQcTRYTzJqUzRUX2tsUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Confirmado | Estados Unidos, Perú y República Dominicana cerrarán sus accesos fronterizos a las personas que posterguen la renovación del pasaporte - El Cronista",
-      "fuente": "El Cronista",
-      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVjZRY2dkTjdhTFhMZlZfdFRoRkx6Sk43RzkwWldib3N1T3c5eXhKelpwR3A1enFPcEZmX3JJWnhLeXpNOVJCSW9qVW1IdHJnMEI2Q25HWHgwRXZWWlNWZm5US0E4SDJYSEU4bTdYS3B4V0FzRUR1ZE0zS0htNW10Mk5kanhaVVBlT2lkZXpnXzR3NUlQUXFBNENtMHJ3TTR2Vkw1Wk9kcnBZYUJUUzJ0MzFLNlFvVmNhQW93N2htYWFFRWFRZHdtYWF6WVZ4QjI0OTNwdjlGckp3WFhZTlVPemdLMGdSRk1vQ1RyVFVBMzZIWUphcHpodE5DRENRUU8xQy15SldVN2k0VnpUNlVudFhQWV9LNHZxMTlz0gG2AkFVX3lxTE4zY3dVdjM3Rzlyaml0N19mRG94c3JkcGNuWkVXYmJhd2VQcW9aYVFKb1ZpZ1lCcVQtYXRqUzBmNjcxaEI5SWhmVS1QV0p1eEx6TFFRRWtTZzUyY3UzSWs2NGF6bmZYd2ZNMUItaWRBSU9XLWp5R0xqeC1PSlBWcl9VM0Z3VjJkMWYwNkI3VEpVMXI5UXRld3dGazV1QVI1Q2c1TTR0clA3SkVuX1lzUUMySTRVM0JaOU9Zb3dCY1ZXaWRBY0NJMmpHc1NNMm5iVk1rU0xTdktwdXpFaW9OTE1VTGQ2dUtOMDF5bm1pN2Q3cURFaFV6WGp4S3RZTVN1Qmp2MEN0ZEowZF9UMkM1cF95ZVRjZGdsa21DM2p6aUZjZmZ3azkyNmxmNmt3akNiSklSVWVQOEE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 01:09:12 GMT",
       "imagen": ""
     }
   ]

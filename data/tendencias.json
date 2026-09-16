@@ -1,16 +1,44 @@
 {
-  "updated": "2026-09-16T02:00:21.345992-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-16T05:00:23.130544-04:00",
+  "hora": "05:00",
   "fecha": "16/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "action",
+      "termino": "act",
       "trafico": "100+",
-      "noticia": "Storms are firing up over Arizona Monday night",
-      "enlace": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-91426",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE78v18F4ecvIrzIjktqcDFZ8UZL9ONYBLPLw21Qj1er_j737OK_mcArZCBjc"
+      "noticia": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+      "enlace": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhYJUJapDjZFp33JDO1RM0fErX1ArdR1E_dyCLVY9UyGXpauqWjcIjaaXbrY"
+    },
+    {
+      "termino": "above",
+      "trafico": "100+",
+      "noticia": "UPI: The small fee raising big questions for India s payments revolution",
+      "enlace": "https://www.bbc.com/news/articles/ckpd0y9gdp5lo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjb8p4FKcDXTAdE7ddfBlz253Apc-butm6wAKYAQl2YC0WFWcDWYPSnU-7--4"
+    },
+    {
+      "termino": "against",
+      "trafico": "100+",
+      "noticia": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+      "enlace": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtOc0MKckYueJty66S94q1fonFGbU7hNTWLyKoxHNj5pxaunMAGTAj6ZbjHM"
+    },
+    {
+      "termino": "action",
+      "trafico": "200+",
+      "noticia": "Brickbat: Missing in Action",
+      "enlace": "https://www.yahoo.com/news/world/articles/brickbat-missing-action-080052583.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9DtLHFs3F-fshfGgxu6I-WuvR4gHS-0JdQ6FjxPCa6h_3iMbdrsxsNWuHJJI"
+    },
+    {
+      "termino": "after",
+      "trafico": "200+",
+      "noticia": "Helicopter providing coverage for NBCLA, Telemundo 52 crashes in Los Angeles",
+      "enlace": "https://www.nbclosangeles.com/news/local/helicopter-crashes-in-chatsworth/3942738/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVtF5NzNrGEqMfGhAMlfWSVjOQZ5Sk-JS1vreSlE3O8yokU5xbkDn90ibY5G4"
     },
     {
       "termino": "new york yankees",
@@ -22,58 +50,30 @@
     {
       "termino": "yordan álvarez",
       "trafico": "200+",
-      "noticia": "Power Rankings de Bateadores Latinos, con figuras cruciales rindiendo en el momento preciso",
-      "enlace": "https://www.mlb.com/es/news/power-rankings-de-bateadores-latinos-con-figuras-cruciales-rindiendo-en-el-momento-preciso",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg4Dq4Xp9-HWnfHlhHSHpmHJM-cL-eLvqqQfKonWN-4NQseBVWnscEV0PFDpc"
+      "noticia": "Jeremy Peña hits two homers in Astros  win",
+      "enlace": "https://www.mlb.com/es/video/jeremy-pena-hits-two-homers-in-astros-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSov0m6wBq4g1nZzOl7OgahHUboAriht-KKKO7vMC6fyjO7w2Gla1lmSXSzIMc"
     },
     {
       "termino": "astros - royals",
       "trafico": "100+",
-      "noticia": "Isaac Paredes And Astros Face Royals On Sept. 15",
-      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/isaac-paredes-and-astros-play-royals-on-september-15-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhzxlRw_B8IJXUUFmh9l18C4X0xyVKxqYCKbCcDlO-M5wpGDP7DUxGxC3xJqg"
+      "noticia": "MLB: Kansas City Royals at Houston Astros",
+      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-houston-astros/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MjkyODk",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRGDxufzK797sz1U6xWuOCDFe6d9jI9ceFpB9ubLHSoKKb9fWoJVGGxIgc3rg"
     },
     {
       "termino": "pete alonso",
       "trafico": "200+",
-      "noticia": "Pete Alonso receives thunderous ovations from Mets fans in return to Citi Field with Orioles",
-      "enlace": "https://apnews.com/article/pete-alonso-mets-orioles-788145ecf5706909335ec2ce6ea9957c",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEp2NlfGS--oQZolJ4xDv8JCmAwB80cO9CTjAW72xygTzbYxCACPJ1xX27xgU"
+      "noticia": "Pete Alonso had his big Citi Field moment — it should serve as a turning point for Mets fans",
+      "enlace": "https://nypost.com/2026/09/15/sports/mets-fans-should-turn-page-after-pete-alonso-300th-home-run/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYsrVA3vq5mF9uLs5VZCRPPA7Ylyf9Rjbm9-uTGGlLzgpjbUItZfoJazAW2xI"
     },
     {
       "termino": "junior caminero",
       "trafico": "500+",
-      "noticia": "Rays win after Junior Caminero s walk-off home run",
-      "enlace": "https://www.mlb.com/athletics/video/rays-win-after-junior-caminero-s-walk-off-home-run",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbNDmy7hEeBADmWg69_QiXR0tGuARhHbNgAdz6b0nuCf3bGRHc9zCfcz3pYeY"
-    },
-    {
-      "termino": "roberto angel salcedo",
-      "trafico": "100+",
-      "noticia": "Robertico: Mi esposa tiene el control de las finanzas del hogar; una familia es una “empresa”",
-      "enlace": "https://elnacional.com.do/nacionales/robertico-mi-esposa-control-finanzas-hogar-familia-empresa_580900.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIAl8euA6mb3L4_l5e_oygFI40NI5hugEsUqfi2nTVv7WuMmAJ4hG_kfxmq7g"
-    },
-    {
-      "termino": "aaron judge",
-      "trafico": "100+",
-      "noticia": "Resumen Yankees @ Twins, Resultados/Jugadas destacadas - 14/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/823656",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWehOyWI96Ec6_YsNRXiDzf8F-6VwXRP_xjwrj8RUZgmGC9lKwqhRZmY8Zrqg"
-    },
-    {
-      "termino": "rangers - red sox",
-      "trafico": "500+",
-      "noticia": "Jacob deGrom strikes out eight in Rangers  4-2 win",
-      "enlace": "https://www.mlb.com/rays/video/jacob-degrom-strikes-out-eight-in-rangers-4-2-win",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHt_di8EbtQl3P0F_PXtcdbMRW6JKX2qTZ4WVUz8vHptfeJWjDemhxyBCO7ks"
-    },
-    {
-      "termino": "teoscar hernández",
-      "trafico": "100+",
-      "noticia": "Measuring the stats on Teoscar Hernández s home run",
-      "enlace": "https://www.mlb.com/dodgers/video/measuring-the-stats-on-teoscar-hernandez-s-home-run-x2609",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiXpnhtxeA250zqG9AU28Oc5z9SoO4dxuezBd8Db2PW8cIDaBY1YqaTH_D7C4"
+      "noticia": "Wait for me : Caminero, teammates indulge in second walk-off HR in 5 days",
+      "enlace": "https://www.mlb.com/news/junior-caminero-hits-walk-off-homer-in-win-vs-athletics",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0PhXRfwLFIY3F0ZgkpQ3wBthCWySibP3IyIUl6-cTPAPZOqsjV_iN_bN90cc"
     }
   ]
 }
