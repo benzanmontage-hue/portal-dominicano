@@ -1,20 +1,55 @@
 {
-  "updated": "2026-09-17T11:00:38.925423-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-17T14:00:40.018554-04:00",
+  "hora": "14:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "junta central electoral",
+      "termino": "rays - athletics",
       "trafico": "500+",
+      "noticia": "MLB: Athletics at Tampa Bay Rays",
+      "enlace": "https://www.reutersconnect.com/item/mlb-athletics-at-tampa-bay-rays/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MzU4NzQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiO7khf_Yyozkw4s3FUc-a25_Vkg-EdUOjLVsbz6SQyu2tHoc7Z8EEWcxGiNI"
+    },
+    {
+      "termino": "real betis - getafe",
+      "trafico": "500+",
+      "noticia": "Betis - Getafe: Más rotación para que el ritmo no pare",
+      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-getafe-rotacion-ritmo-pare-20260917161120-nts.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kDzjPQNdjoty2qp5xAGmkB-V1yKMcMgM3soExIIzYnVCt_8PUrHc16N3I_k"
+    },
+    {
+      "termino": "frontera",
+      "trafico": "100+",
+      "noticia": "Cruces fronterizos en EEUU aumentan sin precedentes y dominicanos encabezan llegada a Filadelfia",
+      "enlace": "https://listindiario.com/las-mundiales/ee-uu/20260917/cruces-fronterizos-eeuu-aumentan-precedentes-dominicanos-encabezan-llegadas-filadelfia_922563.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjgjrxzj4eUPkZoRU0kdPBoETOJYOWIY9zgnklmnrGzodyxaj-u5rwu9rVt10"
+    },
+    {
+      "termino": "pirates - brewers",
+      "trafico": "200+",
+      "noticia": "Bucs blast off! Cruz s 113.1 mph missile helps set franchise homer mark",
+      "enlace": "https://www.mlb.com/news/oneil-cruz-pirates-set-franchise-season-record-for-homers",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQp6xjPd7ElA6pWcAfV8tnIvN4tjz55liR5Lyan8mYZ0sxQ5GRGF6vuy5YE7xE"
+    },
+    {
+      "termino": "república dominicana",
+      "trafico": "200+",
+      "noticia": "El agua también avisa",
+      "enlace": "https://www.diariolibre.com/opinion/de-buena-tinta/2026/09/16/el-agua-y-la-sequia/3661155",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTDmDp7E6Clh0NTNOUlbUodfsdk6784d-reL4026XvGreKPkrbmIHsRlW2-MM"
+    },
+    {
+      "termino": "junta central electoral",
+      "trafico": "1000+",
       "noticia": "La JCE es condenada a pagar RD$2.8 millones por restringir un acta de nacimiento",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/17/jce-debera-pagar-rd28-millones-por-restringir-acta-de-nacimiento/3661383",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8JrjtUg7wQK_AvpkUqzSDpLO7GKcF8Bwgt-v33-lP77CKxVn0YlvFUEXcRg"
     },
     {
       "termino": "jefry yan",
-      "trafico": "100+",
+      "trafico": "500+",
       "noticia": "Mixed results for Curry, Yan as they rejoin Mets in wake of injuries",
       "enlace": "https://www.mlb.com/news/robert-stock-daniel-duarte-placed-on-injured-list",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqpgYsQNRLk9w5G2MkvXUmB4jF02RIxMRytcmOGoOBUjMa3SOQKS0GrKIjyZg"
@@ -22,16 +57,16 @@
     {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "Votre météo du week-end : temps estival en Atlantique et Méditerranée, plus mitigé en Manche",
-      "enlace": "https://figaronautisme.meteoconsult.fr/actus-meteo-marine/2026-09-13/92182-votre-meteo-du-week-end-temps-estival-en-atlantique-et-mediterranee-plus-mitige-en-manche",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVe2V7N0mQl80K8PVsXXy2MuyFcAwCq0x5kFl8aDtfCcLlsF4-y59zQAkEmaE"
+      "noticia": "La météo de votre vendredi 18 septembre 2026",
+      "enlace": "https://www.meteo.bzh/actualite/la-meteo-de-votre-vendredi-18-septembre-2026-2026-09-17",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAT1tviOa6XBmvihYKKTbTHYO6LXcHVpINrvRKDry7g7_gNeFfx9r72W4CjqA"
     },
     {
       "termino": "edwin encarnación",
       "trafico": "200+",
-      "noticia": "Abogado confirma divorcio por mutuo consentimiento entre Karen Yapoort y Edwin Encarnación",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20260916/abogado-confirma-divorcio-mutuo-consentimiento-karen-yapoort-edwin-encarnacion_922485.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0WFy8vLNH89iLZPfbNg_NBDirb8LfRKFUunTpwSuPdvx5mQu3FArbuu0F-g0"
+      "noticia": "¡Divorcio a la vista! Karen Yapoort y Edwin Encarnación ultiman acuerdo de separación",
+      "enlace": "https://eldia.com.do/divorcio-a-la-vista-karen-yapoort-y-edwin-encarnacion-ultiman-acuerdo-de-separacion/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrlVaaya6tN6jzETyeXQl9EQDauT-4rGpOFh-cn5qrsTdjccxDJZh1zFscFo"
     },
     {
       "termino": "alerta",
@@ -39,41 +74,6 @@
       "noticia": "El COE aumenta las provincias en alerta por lluvias",
       "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/16/provincias-en-alerta-lluvias-y-tormentas-electricas-en-el-pais/3661434",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpvZjM6cCNJgLEzo8fF1EZjbp69phGBWdnUd4XWj4PyrMPCypmUSP_MCyHeW0"
-    },
-    {
-      "termino": "claro",
-      "trafico": "100+",
-      "noticia": "Claro informa exposición no autorizada de datos de clientes móviles",
-      "enlace": "https://www.diariolibre.com/economia/telecomunicaciones/2026/09/16/claro-dominicana-informa-sobre-exposicion-de-datos/3661414",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfauFNM8Uh-9HLlyyNj8_gqgTc3cMyQClRbyAKPqOCSipy9bQv4SIl0qOz9HQ"
-    },
-    {
-      "termino": "ethan salas",
-      "trafico": "200+",
-      "noticia": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
-      "enlace": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzse3Roci4RYRyEarMysF9GtRx5O1YLSzHBLXbbFIcmteP-GOzH7WhyBbQo6s"
-    },
-    {
-      "termino": "pete crow-armstrong",
-      "trafico": "200+",
-      "noticia": "Pete Crow-Armstrong hits historic milestone and Alex Bregman stays hot as Chicago Cubs protect wild-card lead",
-      "enlace": "https://www.chicagotribune.com/2026/09/16/chicago-cubs-pete-crow-armstrong-milestone/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8rRAs8aJ6kxXejZlGJFU4_3jVZkpfqrqO9rONKkDbxqR7ONgzljPoOkSXtIk"
-    },
-    {
-      "termino": "irán",
-      "trafico": "200+",
-      "noticia": "La ONU ve posibles crímenes de guerra de EE. UU. en Irán",
-      "enlace": "https://www.dw.com/es/la-onu-ve-posibles-cr%C3%ADmenes-de-guerra-de-ee-uu-en-ir%C3%A1n/a-79308170",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-nLsVPeYrmz5ZWK0aEGvLxbsnsweRF2kU4OmjkdcLwPkkeIIBVy_4TIoNVfs"
-    },
-    {
-      "termino": "rockies - padres",
-      "trafico": "500+",
-      "noticia": "Resumen Padres @ Rockies, Resultados/Jugadas destacadas - 15/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/824307",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4AqMLKpS2HT289Se58Lkwki9E2B9I3POfOjtPgjaIob8mtTFMUKYSJwcue2Y"
     }
   ]
 }

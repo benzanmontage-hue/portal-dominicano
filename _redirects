@@ -1,2 +1,1 @@
-# www → non-www 301 (fix voor GSC "alternatieve pagina met canonieke tag")
-https://www.portaldominicana.net/*  https://portaldominicana.net/:splat  301
+https://www.portaldominicana.net/* https://portaldominicana.net/:splat 301
