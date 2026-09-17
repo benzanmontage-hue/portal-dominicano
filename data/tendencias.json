@@ -1,30 +1,37 @@
 {
-  "updated": "2026-09-17T05:00:35.828709-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-17T08:00:37.729503-04:00",
+  "hora": "08:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "alerta",
+      "termino": "météo",
       "trafico": "200+",
-      "noticia": "El Gran Santo Domingo y otras provincias en alerta verde; San Juan en alerta amarilla por vaguada",
-      "enlace": "https://listindiario.com/la-republica/20260916/coe-coloca-gran-santo-domingo-provincias-alerta-verde-san-juan-alerta-amarilla_922427.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6jwMvyETHB6Rm0i3nxeQMLf75V-4yWcKX77fuRSXNWzGM-8GFeVqwB0fjmNM"
+      "noticia": "Prévisions météorologiques pour jeudi",
+      "enlace": "https://www.spa.gov.sa/fr/N2678611",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxIThFbTZw_IeLF47ANMRq2ikyFQrU5G9PQ1J2JS2xvH4dJt2-59OzEqxgfgg"
+    },
+    {
+      "termino": "edwin encarnación",
+      "trafico": "200+",
+      "noticia": "Abogado confirma divorcio por mutuo consentimiento entre Karen Yapoort y Edwin Encarnación",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20260916/abogado-confirma-divorcio-mutuo-consentimiento-karen-yapoort-edwin-encarnacion_922485.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0WFy8vLNH89iLZPfbNg_NBDirb8LfRKFUunTpwSuPdvx5mQu3FArbuu0F-g0"
     },
     {
       "termino": "claro",
       "trafico": "100+",
-      "noticia": "Claro informa exposición no autorizada de datos de clientes móviles",
-      "enlace": "https://www.diariolibre.com/economia/telecomunicaciones/2026/09/16/claro-dominicana-informa-sobre-exposicion-de-datos/3661414",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfauFNM8Uh-9HLlyyNj8_gqgTc3cMyQClRbyAKPqOCSipy9bQv4SIl0qOz9HQ"
+      "noticia": "¿Tienes servicio Claro móvil? La empresa confirma exposición no autorizada de datos de sus clientes",
+      "enlace": "https://listindiario.com/la-republica/20260916/alerta-claro-rd-confirma-exposicion-autorizada-datos-clientes_922428.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfLJbj1iEdC2wGVh6eOi1qqedXj5-r-Jhy8bTyWmypMmFHofJ5xtT0y0E66I8"
     },
     {
       "termino": "ethan salas",
       "trafico": "200+",
       "noticia": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
       "enlace": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7ZBVx2dOWYHUPKon_BEHFinskLobUSkhTiZK3E_f07hzXjIDccY5ipwL0a0"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzse3Roci4RYRyEarMysF9GtRx5O1YLSzHBLXbbFIcmteP-GOzH7WhyBbQo6s"
     },
     {
       "termino": "pete crow-armstrong",
@@ -35,45 +42,38 @@
     },
     {
       "termino": "irán",
-      "trafico": "100+",
-      "noticia": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
-      "enlace": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP3ffk5YWgdH5c9B-v5u2KrZrsZ_jUzTw5LO9O3dmT5B2xWPUA4nGZX0e9JqA"
+      "trafico": "200+",
+      "noticia": "ONU acusa a EEUU e Irán por crímenes",
+      "enlace": "https://elnuevodiario.com.do/onu-acusa-a-eeuu-e-iran-por-crimenes/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtRSI3c5mHSY2G62KBMuYxaol0g4GuDdqFPxQxnLjMV1di1tj8wLSwxWuFl1U"
     },
     {
       "termino": "rockies - padres",
       "trafico": "500+",
-      "noticia": "Resumen Padres @ Rockies, Resultados/Jugadas destacadas - 15/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/824307",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4AqMLKpS2HT289Se58Lkwki9E2B9I3POfOjtPgjaIob8mtTFMUKYSJwcue2Y"
+      "noticia": "Rockies GM Byrnes talks ups and downs of Colorado s season",
+      "enlace": "https://www.mlb.com/news/rockies-general-manager-josh-byrnes-on-2026-performance",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpj-BcIqKYaCwu6wZXFKavpacja8JtQ6zylUryst6LCydyPa1VoB5vI_EhSK4"
     },
     {
       "termino": "inter miami - cruz azul",
       "trafico": "2000+",
-      "noticia": "Luis Suárez Sends Warning to Cruz Azul: The 2 Key Players Keeping Him Up at Night Before Campeones Cup",
-      "enlace": "https://en.albat.com/breaking/luis-suarez-sends-warning-to-cruz-azul-the-2-key-players-keeping-him-up-at-night-before-campeones-cup-20260916-0004.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnv0UnmOdE-AYi8XwucAjj4ZTbg_6clvRSt4WGycln37Ah8brc63bqJexrrdE"
+      "noticia": "Messi 100 Goals: Stunning Fastest Record, 115 Miami Games",
+      "enlace": "https://hindustanherald.in/messi-100-goals-inter-miami-campeones-cup/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6rBYgSsHhqsj0f3XdboONyPZcdsapzT0hOe7Lm7_xMsSSgKJI8ehgeSoJFCU"
     },
     {
       "termino": "concierto",
       "trafico": "200+",
-      "noticia": "Loquillo, Siloé y Álvaro de Luna lideran el cartel musical de las Fiestas de Boadilla",
-      "enlace": "https://www.abc.es/espana/madrid/loquillo-siloe-alvaro-luna-lideran-cartel-musical-20260910012813-nt.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0fyi_r1JhQ0hAhccaLCxu_ZnuJi-LMXJcCdxNolb9iSPd-1SqQ2-ae1RssAs"
+      "noticia": "Silvio Rodríguez recorre cinco décadas de canciones en su concierto en Roig Arena",
+      "enlace": "https://valenciaplaza.com/musica-opera-valencia-comunitat-valenciana/silvio-rodriguez-recorre-cinco-decadas-de-canciones-en-su-concierto-en-roig-arena",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vTg73yH6PWHICqSqzazPa-cwSkD69xTdXQnHNaqf29LnrP0v1T0lrILXkf0"
     },
     {
       "termino": "cubs - braves",
       "trafico": "200+",
-      "noticia": "Braves vs Cubs Prediction, Picks   Odds for Tonight s MLB Game",
-      "enlace": "https://www.covers.com/mlb/braves-vs-cubs-prediction-picks-odds-wednesday-9-16-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVaLNAmpaxO_cKmk_P9B9zapjZ9MMzSpXpkFh7Y8xEMriJGCGGoxnV0dRG1DU"
-    },
-    {
-      "termino": "elizabeth ruiz",
-      "trafico": "5000+",
-      "noticia": "Fallece Elizabeth Ruiz, actriz de “Lotomán”, tras batallar contra el cáncer",
-      "enlace": "https://listindiario.com/entretenimiento/20260916/fallece-elizabeth-ruiz-actriz-lotoman-batallar-cancer_922504.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRohadLuJ9o7gOZzzVtrDapslpE23pVoTdDy_eiPvLZSFbmzMUJaSgeds-FpKk"
+      "noticia": "The Scouting Report: Braves at Cubs, Game Three",
+      "enlace": "https://www.bravestoday.com/p/the-scouting-report-braves-at-cubs-344",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGkyAjmLg_qQW08jmukMoly7E3y57hYmUBDSV64EjXZKOlJhNIKMxVm83OYHI"
     }
   ]
 }
