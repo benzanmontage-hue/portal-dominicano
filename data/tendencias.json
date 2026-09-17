@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-17T02:00:35.532645-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-17T05:00:35.828709-04:00",
+  "hora": "05:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alerta",
+      "trafico": "200+",
+      "noticia": "El Gran Santo Domingo y otras provincias en alerta verde; San Juan en alerta amarilla por vaguada",
+      "enlace": "https://listindiario.com/la-republica/20260916/coe-coloca-gran-santo-domingo-provincias-alerta-verde-san-juan-alerta-amarilla_922427.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6jwMvyETHB6Rm0i3nxeQMLf75V-4yWcKX77fuRSXNWzGM-8GFeVqwB0fjmNM"
+    },
     {
       "termino": "claro",
       "trafico": "100+",
@@ -15,16 +22,16 @@
     {
       "termino": "ethan salas",
       "trafico": "200+",
-      "noticia": "Ethan Salas  two-homer game fuels Padres win",
-      "enlace": "https://www.mlb.com/rays/video/ethan-salas-two-homer-game-fuels-padres-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgbxQUnIASwHm3PRpjiVyq7YPBjSndKwsLermYsn8owEpBMxNJJMLjK_I3gRw"
+      "noticia": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
+      "enlace": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7ZBVx2dOWYHUPKon_BEHFinskLobUSkhTiZK3E_f07hzXjIDccY5ipwL0a0"
     },
     {
       "termino": "pete crow-armstrong",
       "trafico": "200+",
-      "noticia": "Counsell: Fans  going to tell their grandkids  about PCA s special season",
-      "enlace": "https://www.thescore.com/mlb/news/3601661/counsell-fans-going-to-tell-their-grandkids-about-pc-as-special-season",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcU6qSuQ6ctays67uxkrHZSDuHDlpB80ti9wXBuo6LkkjdJly7ZES5EhCwwA"
+      "noticia": "Pete Crow-Armstrong lifts two homers in Cubs  win",
+      "enlace": "https://www.mlb.com/rays/video/pete-crow-armstrong-lifts-two-homers-in-cubs-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdD5RRsyT7YLIUX5YkbfcO1E8aDcV2m5O2O7PyBdJNlTxlmqlbPyJm0uDWb7M"
     },
     {
       "termino": "irán",
@@ -35,45 +42,38 @@
     },
     {
       "termino": "rockies - padres",
-      "trafico": "1000+",
-      "noticia": "Actualizaciones en vivo de MLB Gameday: Juego de los Mariners contra los Angels el 16/09/2026 gratis",
-      "enlace": "https://www.mlb.com/es/gameday/mariners-vs-angels/2026/09/16/823979/final/box",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRutfsBv0NEEVcf75CCQJgsPRLSb32WAjf19R-qoz8VdWI05vDcPvYdtjc9Es"
+      "trafico": "500+",
+      "noticia": "Resumen Padres @ Rockies, Resultados/Jugadas destacadas - 15/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/824307",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4AqMLKpS2HT289Se58Lkwki9E2B9I3POfOjtPgjaIob8mtTFMUKYSJwcue2Y"
     },
     {
       "termino": "inter miami - cruz azul",
       "trafico": "2000+",
-      "noticia": "What other titles can Lionel Messi win in 2026 after lifting 2026 Campeones Cup with Inter Miami vs Cruz Azul?",
-      "enlace": "https://bolavip.com/en/soccer/what-other-titles-can-lionel-messi-win-in-2026-after-lifting-2026-campeones-cup-with-inter-miami-vs-cruz-azul",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDskSikYuuU_rWf2T_-toTFzjuLVZYiR-4JNUbc3Dagda6mH7tYfdpcBQphcM"
+      "noticia": "Luis Suárez Sends Warning to Cruz Azul: The 2 Key Players Keeping Him Up at Night Before Campeones Cup",
+      "enlace": "https://en.albat.com/breaking/luis-suarez-sends-warning-to-cruz-azul-the-2-key-players-keeping-him-up-at-night-before-campeones-cup-20260916-0004.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnv0UnmOdE-AYi8XwucAjj4ZTbg_6clvRSt4WGycln37Ah8brc63bqJexrrdE"
     },
     {
       "termino": "concierto",
       "trafico": "200+",
-      "noticia": "La tarde, aquí y ahora. Miércoles 16 de sept...",
-      "enlace": "https://www.canalsurmas.es/videos/detail/404136-la-tarde-aqu%C3%AD-y-ahora-mi%C3%A9rcoles-16-de-septiembre-canal-sur",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk4dKFlKpnQBhzf0Bq8z3Gx23H9gHXvPJKKJXYS-CH5F3XvPqwFHKI9UnC2Ts"
+      "noticia": "Loquillo, Siloé y Álvaro de Luna lideran el cartel musical de las Fiestas de Boadilla",
+      "enlace": "https://www.abc.es/espana/madrid/loquillo-siloe-alvaro-luna-lideran-cartel-musical-20260910012813-nt.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0fyi_r1JhQ0hAhccaLCxu_ZnuJi-LMXJcCdxNolb9iSPd-1SqQ2-ae1RssAs"
+    },
+    {
+      "termino": "cubs - braves",
+      "trafico": "200+",
+      "noticia": "Braves vs Cubs Prediction, Picks   Odds for Tonight s MLB Game",
+      "enlace": "https://www.covers.com/mlb/braves-vs-cubs-prediction-picks-odds-wednesday-9-16-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVaLNAmpaxO_cKmk_P9B9zapjZ9MMzSpXpkFh7Y8xEMriJGCGGoxnV0dRG1DU"
     },
     {
       "termino": "elizabeth ruiz",
       "trafico": "5000+",
-      "noticia": "Fallece la actriz y presentadora dominicana Elizabeth Ruiz tras batallar contra el cáncer",
-      "enlace": "https://www.diariolibre.com/revista/farandula/2026/09/16/elizabeth-ruiz-fallecimiento-tras-lucha-contra-el-cancer/3661412",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPyEppu5f6DczOA4n2eDRLsrKcBW8ToPRujLktBqLkX-QRr10KctFtZeQQXEc"
-    },
-    {
-      "termino": "rays - athletics",
-      "trafico": "500+",
-      "noticia": "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
-      "enlace": "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_5_Hj66fKHJg6QLCQJXAMe8IFjtP5nPuwoldWsbmmtsFVWWnU-jS60RpVhRs"
-    },
-    {
-      "termino": "atlético mineiro - santos",
-      "trafico": "200+",
-      "noticia": "Cuello, de novo nos acréscimos: o gol que devolveu o  Galo  às Semifinais",
-      "enlace": "https://gol.conmebol.com/sudamericana/pt-br/news/cuello-de-novo-nos-acrescimos-o-gol-que-devolveu-o-galo-semifinais",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyU2qY1i22vEJgyEu8W8LrUwdTjxQk0t6Gt35XgdrqnMKPt14qcCK7-04f2BI"
+      "noticia": "Fallece Elizabeth Ruiz, actriz de “Lotomán”, tras batallar contra el cáncer",
+      "enlace": "https://listindiario.com/entretenimiento/20260916/fallece-elizabeth-ruiz-actriz-lotoman-batallar-cancer_922504.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRohadLuJ9o7gOZzzVtrDapslpE23pVoTdDy_eiPvLZSFbmzMUJaSgeds-FpKk"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T02:00:45.232719-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-17T05:00:45.397338-04:00",
+  "hora": "05:00",
   "fecha": "17/09/2026",
   "total": 15,
   "noticias": [
@@ -21,6 +21,22 @@
       "imagen": "https://es.thechurchnews.com/resizer/v2/KGQ3TDCX45AEZJHFIC7G4K4BJI.JPG?focal=0%2C0&auth=392986e7bffbe650d86b88dcb581d33b17cc6af802cc47d16672e506b3a20138&width=630&height=331"
     },
     {
+      "titulo": "Centroamérica, México y la República Dominicana: oportunidades comerciales y de inversión - Naciones Unidas en México",
+      "fuente": "Naciones Unidas en México",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmNQbGFlNldQdnM5cFM5bUl5MWoweUV6R2VvYl9kTFJXMkpuZjRkejVUX2xScVozYnRtS1JNci1Ua0h1bWtRci1LZUZlYzIwM2J2T3h0bEYyZ0RseEhrY1FUZ2pnYmtNTzM3cGdlTkY4RkxiV1hJWkc4aGdvbzEyTEZjX0JPMkdWSndlVTZNVWNDN0FNLUZ5RWVTQ3ZrY29kc19peWFFMFo4bmdIRTdsV1VGYURVRDc4bElwUXg0VkRCeFJkWFk0TWV3OWszS3NHaG50OXBR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 16 Sep 2026 21:30:21 GMT",
+      "imagen": "https://mexico.un.org/sites/default/files/styles/large/public/2026-09/Screenshot%202026-09-16%20152227.png?h=b2f02311&itok=xoyPDIuX"
+    },
+    {
+      "titulo": "«Firmaron prácticamente como mercenarios»: Al menos 50 dominicanos aceptaron ir a combatir a Rusia - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1hsWTZYRWgxRVFBQmRVMVBiUTItdXdveVJpUlliTW1PLThuUkRZdDlyMXJGV0FkVF91OGhGTU52Snp3WmNZemxUa3AwN2J0ZkZrb2Utd2k1eEJfWGh5UkpwbFFiNkRUMU9qc2UxSWZOZDdGNmd5c1BOQ19aTjFBTjVSangxVDJwdVFwUzJCdlBkYmNoUnA3c1FaR3hQNzFnVE1RU2VTRi10NUF6RmRzVGpGQzFJSzZMendmZWFBWFBCNDNuOU8zOFpvUU5XNTdZWEp5TGFLRHFxLXhVczB6a2FWcVFJd1XSAYICQVVfeXFMT0RlSGUxQWZoSFozc0hheWRFdC1VZmZ0V1REQWlTcS1fcm9iUWEyUDl1azMzbDBYSUE3ZHVoYjZucXY5bUdlYkduOXRGa2tUMFQxMDE4T0VaT1Zjanc0WGpBNXRnOXZjTndrYk9KU0NaY0lyZUdzNHhwanZJaGdfNW5vY1NCZTU1ZF9KTkN2enowOVpXVTVIWFhSZFFoUG0xRk9fU05sVkZvOHFMeml0a1FQUGg3RzNfbHJBS3Y2SVppaXpFOVZYbkJ0UERxaW5XaExqdnJjR1RaSHJyY2lGbjJtdlp5cGVqSXdSRHRUUlRuandUbU5aVzdlRlM4QURGWDR3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 16 Sep 2026 19:17:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/AFRX3ICX2ZCYHOIKSM7JYYSYFU.png?auth=0ce1e8607d86c3be0bdddfc14889b75a6bfefa94a04837633818794ddeab1da3&smart=true&width=1200&height=630&quality=85"
+    },
+    {
       "titulo": "Aunque llueva, República Dominicana está bajo el impacto del fenómeno El Niño - Listín Diario",
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU8yRkt0NVFnaUxVZHRBd3ROT2RyNTU3WElRQ0EydkMzRW1vcmdUS2I4WUFycVhzT05TRlZJc0RHWUU3Zk9tclpuY1IyYW1yejhSOG5Ua2NyYXBLaUVSMk5JYmZlQTdzVHE5bGZ0TE8yaGw1T1RKSFpXczJnZERtVVpsajFMa1RUY3U3N1c4Yjg5WjItLTZla2lMNXRqQUhvd3BCVDdqLTQ2azVsUm5hU1VSZF9FY2gxTFhPbNIBwgFBVV95cUxOTmVvTm5XSUhjZHpMcWQyTnQ1RF84UWRYZGU0Y1QtV1B6WlpHTGZSNUhLbVNfaGE5ajUtUjg0VWJMc25SbkpPQkhud18yb25rME9seFlLNEJTcHZHSVp0aDBySlhqS0I3T2daSG41ZUVWNHZnYm9QTXQxUGhVeWRNaGhlOHZZTDBKOVZ1Q0NLUW9DVkFfQUdzQS1BZ3pJT09xeU5wMVNpdHpfMFBuMHc5Xy1LdjN6ejgxajZ6RTJpel9Odw?oc=5",
@@ -29,60 +45,44 @@
       "imagen": ""
     },
     {
-      "titulo": "Grupos de Amistad República Dominicana–México y México–República Dominicana fortalecen su agenda bilateral en el Congreso mexicano - Acento",
+      "titulo": "Puerto Rico vence a República Dominicana y gana el Grupo A de la Copa Panamericana - primerahora.com",
+      "fuente": "primerahora.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZV9td0hPVThrdVRBajBGQ1gwQ3IwM1Nzd0JlOE45cFROdlJ2MUZzaEUzSlQ3MlgxbXpQT2FSWjN3ZFVESk5lUzFncExQa1Z0eURybXNMNlVNRHVqcDA0bEhwQm5kZldIajNRTlFneEgwR3ZhYm1KWWhVUkxvS1VkczljRmtaWnlndnRLcHpjdVRYelFEcXZTTkZEVnlpdTFQZ1FoenU5bUNudThZbEdvYTY0bGIyM010cmRwZ09uNUk3a2tfYWZwX0tVVUY3bENa?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 16 Sep 2026 12:59:24 GMT",
+      "imagen": "https://www.primerahora.com/resizer/v2/7ISQLWPWHZDI5MFSRVZGQZJI6Y.jpg?auth=26ef2d7da4267ea2e2334b4e02128a3dd100db9780c18d1298fcac8d7999290c&quality=75&width=1200&height=717&focal=2164%2C1927"
+    },
+    {
+      "titulo": "República Dominicana, la ciudad bajo los adoquines - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTDlhWFVfZVdmSTFoaHgwYWdXRGNzNjN3cnpBQk93NWgwbFBGR2xIVmJwLVZzTGhuTHBRa2pXQ0NFb0lCU2J5ejdXM0w2clBZSnF3b2ZSd3JSRjlyYXRPd3M0RC0yOHZPcTQtRGFuMzlJNzBzX3RFaVhCM2w?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 17 Sep 2026 06:01:09 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio del dólar hoy en República Dominicana: miércoles 16 de septiembre de 2026 - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaVRIM2xyRF9IalJmLXl6Q3RHMF9USkZwN0J4SUxSQ0V3OWxIY0ZuU1UzS2RsNzJIdVZrYnc0SlJOMXA2T0hnYmZhMGtnSWhBVVZOX09EMDFjNmNTbERENXZpc3VZV3IxVTJLTHdWM2NwbEhwb1kycFdPdEl4VGNPMUlBNFZfX1h6RW9uSTBhRnE2bjE4U1BLYXkzZEJQNVV2T1FHN0czeDl0ZTQ5VlBzWE1fTDdKUC1MU3JTVllXQ3lObzBPZUJIOWgtbWp5Sm1nc1FxOHY5bmZZRW9vYjZCYkhFRHRteHViN3FfT1FCRzNQSkdFRl9JczlybGNuQTJoNGNtRG1la9IBhwJBVV95cUxNaVRIM2xyRF9IalJmLXl6Q3RHMF9USkZwN0J4SUxSQ0V3OWxIY0ZuU1UzS2RsNzJIdVZrYnc0SlJOMXA2T0hnYmZhMGtnSWhBVVZOX09EMDFjNmNTbERENXZpc3VZV3IxVTJLTHdWM2NwbEhwb1kycFdPdEl4VGNPMUlBNFZfX1h6RW9uSTBhRnE2bjE4U1BLYXkzZEJQNVV2T1FHN0czeDl0ZTQ5VlBzWE1fTDdKUC1MU3JTVllXQ3lObzBPZUJIOWgtbWp5Sm1nc1FxOHY5bmZZRW9vYjZCYkhFRHRteHViN3FfT1FCRzNQSkdFRl9JczlybGNuQTJoNGNtRG1law?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTEtNm95XzRPLU96VGpoVVVXVTEyTGxKblM0WmExaGtseE5UZnY2RmpiQ2V5YjdjX1JFbUMzU21KTjdWWmZEbXZPRnRRaER2NDBWV1ZHMGhELW1rVEliQWhuRmdqd3lhem5WM0dDUEJzT3Btd0pfUDAyZU9DS2JQdURSckFuOXE4RzlvVlVoMVFsWjBVVGQ2a29keXV3b0RVUnNKUHQ1eGVYS0dQTlJDMGNCZ2NxUnZoTjVRWklMOEzSAcABQVVfeXFMTU0xLTZveV80Ty1PelRqaFVVV1UxMkxsSm5TNFphMWhrbHhOVGZ2NkZqYkNleWI3Y19SRW1DM1NtSk43VlpmRG12T0Z0UWhEdjQwVldWRzBoRC1ta1RJYkFobkZnand5YXpuVjNHQ1BCc09wbXdKX1AwMmVPQ0tiUHVEUnJBbjlxOEc5b1ZVaDFRbFowVVRkNmtvZHl1d29EVVJzSlB0NXhlWEtHUE5SQzBjQmdjcVJ2aE41UVpJTDhM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Fotografia-I-OG.jpg"
+      "fecha": "Wed, 16 Sep 2026 07:59:52 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/07/moneda-mano-cambio-divisas-internacionales-moneda-mundial_169016-66392-OG.avif"
     },
     {
-      "titulo": "Iberoamérica debate desde República Dominicana el futuro de los museos - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlNJcjBCVXllVzNvWHNhLURmb2hWbC0xcGZIV2kzWDZGVEgwNGFUcnVMaTJCN2h5YkxNQS04UEwzcjFYWU4wQURxYzQ2cFFvTXFmZDFlQ0xJVm9zUEdsNWc4bWxrT043YkREZFNKMmdLdl92X1E0eS1naEN6WTY2ckdnSjd5XzNMTS1IXzJ2Z3dkUVFGMXA3U3RDX1Jkd3RKU3dJLVdXYjN4WlNHal9BUUxSX29wR1RSYlIwQi00cVpqZ9IBxwFBVV95cUxPdklDYTdmSHpNUFRvMG0yUDMtV0p2RGE4QXI1TnE5ZWlZYnFsQ3RXXzREMXpNWGxmREJCSlFOS09Qcm0xdnJZVzR5X2dhNTBfOE9BendwemZSTVd4SmhwT2NxV25SN3dxWmFZUFVDVkEtTEpZVUZQOGpHY1dHMXRjOEUtS0xMd0lHektCdW5Mc3pUUm92bWd1bVc3TzRrNmFoUXBUeXlaWTBfa0VYblpOejRLZnFsZ3BMWVRVb3FzbURXbnFwcTlB?oc=5",
+      "titulo": "Lenny Disla lleva los sabores de República Dominicana a la coctelería de autor - Metro Puerto Rico",
+      "fuente": "Metro Puerto Rico",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmJocm9zQ3dUM0Y2bVQyRmFmRnFkVFlLdkNYS2ZmVFNXNFM4OE5ZUU0wV3V3Z1RTbVVQcTZZMWE1YWYtVG9PRWRoZXJGU3FrNGFadV9JbGkzV09iaU4yZVdvMXEycGE4aGxLUDJUZ0VXZjBqT1AtVnVnUnVDX3hmN29hdERXX1dOaDM5N3RieGdUc2dLZVp3VFk1elpjemdqRzBoWlNLcjk3WmFQMlFfcmg0YUhPOW51Y09ETg?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 15:50:20 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa96902829d3.r_d.1738-1330-3515.jpeg"
+      "fecha": "Thu, 17 Sep 2026 02:19:19 GMT",
+      "imagen": ""
     },
     {
-      "titulo": "El Ministerio de la Familia: Un imperativo ineludible frente a la descomposición social en la República Dominicana - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY3lUU1B2d3N3ZHBzQjFDLXQ1V1NDOGNTODVkZHp4WnJscUd1Y25malc3Y05BbFZ4SFFGM1FfbWRKWEhIakhGRlZoanFLVWNNMHU5X2cyUXU4VU80SWY1Vzdkdk1nTVJLVC16S3hYWUJHRElIdmo1ZGtZejZ2RV9nVG1Na0RzNnBxMjlobXplQTV4YXpfYk9YbEV3OEdjZXBUVEV4VFo5LWxEUFRZWUVYOUlRc3NvVlNYOG9BUV9xLWhIRHBMME90YWNuYjAyVHVjY0FfSjVQUGduQTA?oc=5",
+      "titulo": "Confirmado | Estados Unidos, Perú y República Dominicana cerrarán sus accesos fronterizos a las personas que posterguen la renovación del pasaporte - cronista.com",
+      "fuente": "cronista.com",
+      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVjZRY2dkTjdhTFhMZlZfdFRoRkx6Sk43RzkwWldib3N1T3c5eXhKelpwR3A1enFPcEZmX3JJWnhLeXpNOVJCSW9qVW1IdHJnMEI2Q25HWHgwRXZWWlNWZm5US0E4SDJYSEU4bTdYS3B4V0FzRUR1ZE0zS0htNW10Mk5kanhaVVBlT2lkZXpnXzR3NUlQUXFBNENtMHJ3TTR2Vkw1Wk9kcnBZYUJUUzJ0MzFLNlFvVmNhQW93N2htYWFFRWFRZHdtYWF6WVZ4QjI0OTNwdjlGckp3WFhZTlVPemdLMGdSRk1vQ1RyVFVBMzZIWUphcHpodE5DRENRUU8xQy15SldVN2k0VnpUNlVudFhQWV9LNHZxMTlz0gG2AkFVX3lxTE4zY3dVdjM3Rzlyaml0N19mRG94c3JkcGNuWkVXYmJhd2VQcW9aYVFKb1ZpZ1lCcVQtYXRqUzBmNjcxaEI5SWhmVS1QV0p1eEx6TFFRRWtTZzUyY3UzSWs2NGF6bmZYd2ZNMUItaWRBSU9XLWp5R0xqeC1PSlBWcl9VM0Z3VjJkMWYwNkI3VEpVMXI5UXRld3dGazV1QVI1Q2c1TTR0clA3SkVuX1lzUUMySTRVM0JaOU9Zb3dCY1ZXaWRBY0NJMmpHc1NNMm5iVk1rU0xTdktwdXpFaW9OTE1VTGQ2dUtOMDF5bm1pN2Q3cURFaFV6WGp4S3RZTVN1Qmp2MEN0ZEowZF9UMkM1cF95ZVRjZGdsa21DM2p6aUZjZmZ3azkyNmxmNmt3akNiSklSVWVQOEE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 18:01:55 GMT",
-      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/08/Williams-Reynoso-Sanchez-2.png?resize=1023%2C1042&quality=100&ssl=1"
-    },
-    {
-      "titulo": "Restricciones en el Canal de Panamá podrían impactar el comercio dominicano - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT1JLS3ZsbEhpejZ5cWpKdHlqUkpmZERJQlpqY25SSGVwM1FhcDlJaWhjVDVOU3ZYWGRiRDRoVTM0UGdEbzhQWFlHbXg3LUZtX3llWkZpU1lBMTliRVduQTVkakxYREROM1NJbTRHOG1pUGxZamdJLUhlZC1JRklnZThJWHJwclpyM0J0RnJiZjFLNm1EeEVIem1jVzk2bnhZODBxaVE2UUpSWURRaTRsOGJTM1hmaWJkYkdfWG1pazRiVzZueGx3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 20:05:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2025/01/27/canal-de-panama-ser-objetivos-y-pensar-friamente-focus-0-0-1200-675_wam.png"
-    },
-    {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, jueves 17 de septiembre de 2026? - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaDVPZFZHWUNia2F5TThPMmVRV05CMkRsc1hrVFBQNmpsMFk4RUE1WVZELXFMdkZBalpuVnItM001aGhmcGpyNTVZRWVHYUNsLXIyWTZ2MDIwQXhYM0RadTlqWFhLazJSazZ0a0hodkhYQ0o1TmRFSU8tTzJwSDk2dlpqVXlnTXd0UldMREJhTEtxOUs5MkhMd19CUGJubXdnTTJQWFI5Q0NhME9sMlF0ekxHWG42ZGtFOHdvMzA0LUZXVENXSGlHUEJYYWswcUtEN3N6TDZJNUJOV2Mzd3F6OTBCaS1xVUU1QnVlZURFajVKNnlMMGfSAfYBQVVfeXFMT2g1T2RWR1lDYmtheU04TzJlUVdOQjJEbHNYa1RQUDZqbDBZOEVBNVlWRC1xTHZGQWpablZyLTNNNWhoZnBqcjU1WUVlR2FDbC1yMlk2djAyMEF4WDNEWnU5alhYS2syUms2dGtIaHZIWENKNU5kRUlPLU8ycEg5NnZaalV5Z013dFJXTERCYUxLcTlLOTJITHdfQlBibm13Z00yUFhSOUNDYTBPbDJRdHpMR1huNmRrRTh3bzMwNC1GV1RDV0hpR1BCWGFrMHFLRDdzekw2STVCTldjM3dxejkwQmktcVVFNUJ1ZWVERWo1SjZ5TDBn?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 17:00:05 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-3-OG.jpg"
-    },
-    {
-      "titulo": "Dengue y leptospirosis suman 555 casos confirmados en República Dominicana durante 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTZxV2M2ZGtxRU9EWG0tZWxqNWlFNzMtbUVtQWZSV21MSXN0RTM5QlVtNnk5TG1LZVhYSi1iLVpHZG9WLVlzdFdLcEJXVnppU2lBLWNEX0toc3JjZ1ZEWUpyeUctWnZETGZUU2lOWWxJa084cERLdXFYMTl4WThaT2tKVUJDM21rU3ppU3NRb3dBT3hfU3gwWWN6Mm9UejZkOUdKS2FMUVdFcm5hWGRuT2lwWi1TZEwzSEI2T0RmcGNoMDNJNmE40gHHAUFVX3lxTE1hNnFXYzZka3FFT0RYbS1lbGo1aUU3My1tRW1BZlJXbUxJc3RFMzlCVW02eTlMbUtlWFhKLWItWkdkb1YtWXN0V0twQldWemlTaUEtY0RfS2hzcmNnVkRZSnJ5Ry1adkRMZlRTaU5ZbElrTzhwREt1cVgxOXhZOFpPa0pVQkMzbWtTemlTc1Fvd0FPeF9TeDBZY3oyb1R6NmQ5R0pLYUxRV0VybmFYZG5PaXBaLVNkTDNIQjZPRGZwY2gwM0k2YTg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 15 Sep 2026 23:30:17 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Dengue-y-leptospirosis-suman-555-casos-confirmados-en-Republica-Dominicana-durante-2026-OG.jpg"
-    },
-    {
-      "titulo": "Fuerzas navales dominicanas participan en Perú en ejercicios militares junto otros 23 países - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcG94N0hrMTV0WmUySUxCX1lkYUZCX0Z6VS1LM2hIS2EzOEhqQzk0TmN4Q0QwRHVuWjFmS2lhclVpdEk5VGtDNnlSMEtMZThpdE5Nb0hXeTlkV01wSVBzUnpQSFI2NTdrQ0RsMkpfTUhNd1k3VWE5aFBXSXp4dWtkWEdqT052SU44TC0tUHNYWDdEYVdvb19ZbThjTmNrZjVxTUg5SHRkNTJLaTFOeUwzSkJuNWpjcGlhNW5HODh2a2d2Y0RISU5LaUl3bjZHVm1u0gHQAUFVX3lxTE9wb3g3SGsxNXRaZTJJTEJfWWRhRkJfRnpVLUszaEhLYTM4SGpDOTROY3hDRDBEdW5aMWZLaWFyVWl0STlUa0M2eVIwS0xlOGl0Tk1vSFd5OWRXTXBJUHNSelBIUjY1N2tDRGwySl9NSE13WTdVYTloUFdJenh1a2RYR2pPTnZJTjhMLS1Qc1hYN0RhV29vX1ltOGNOY2tmNXFNSDlIdGQ1MktpMU55TDNKQm41amNwaWE1bkc4OHZrZ3ZjREhJTktpSXduNkdWbW4?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 20:30:23 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Las-fuerzas-navales-de-Republica-Dominicana-OG.jpg"
+      "fecha": "Wed, 16 Sep 2026 14:11:26 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Estados Unidos incluyó a Centroamérica y a República Dominicana en la lista de tránsito o producción de drogas - Infobae",
@@ -106,15 +106,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "imagen": ""
+      "imagen": "https://media.telemundo47.com/2026/08/GettyImages-2170071108.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "titulo": "Centroamérica, México y la República Dominicana: oportunidades comerciales y de inversión - Naciones Unidas en México",
-      "fuente": "Naciones Unidas en México",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmNQbGFlNldQdnM5cFM5bUl5MWoweUV6R2VvYl9kTFJXMkpuZjRkejVUX2xScVozYnRtS1JNci1Ua0h1bWtRci1LZUZlYzIwM2J2T3h0bEYyZ0RseEhrY1FUZ2pnYmtNTzM3cGdlTkY4RkxiV1hJWkc4aGdvbzEyTEZjX0JPMkdWSndlVTZNVWNDN0FNLUZ5RWVTQ3ZrY29kc19peWFFMFo4bmdIRTdsV1VGYURVRDc4bElwUXg0VkRCeFJkWFk0TWV3OWszS3NHaG50OXBR?oc=5",
+      "titulo": "Oficial | El Salvador, Honduras, México y República Dominicana prohibirán el ingreso al país a todos los ciudadanos que posterguen la renovación de su pasaporte - cronista.com",
+      "fuente": "cronista.com",
+      "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZGdzQVM5Um9yb0VXUFN0cnhxRjNkcUdmQm8zXzRKcUR0X2xjZ196eTVDbEQ0ZlNab1pIS1RsZjBndnY4d3RkT01LVEFabVhDaTk3VWVOaXc1eE5BQ3JBMXlGeHZtbndVZ0UydGZDVWFzYVA5bHhXdGpSYUJUdFlvMlpJXzMxMy1RWGFIV3ZqS2w1cDBoV0R5UXJ0TjZMOGt6YWtOUmh5NmZEWVEzQmo3cW5iQng1Y1Z1bFppUWVXV1g4Q0VqTVZvNHAtMlBCTTFVS1d0c2V2OHNyOUNxZ1MtWS1lQ1hSaFpOZnd3VmFHVmtoNVliRHVvQ21kWTFBMXU4c2tRZFd6WTRjTUw5ck9TM1N0aUhhNXI1ck5CR3Q2ZjLSAbsCQVVfeXFMTnhPMVdSQTNzTUdValhfN1FyNUZjbEFLbW1ZZ1lQc0VSU3hzM1RUbFJpbXh4dzVEUFJMY05rdGxadlJGbkxsQ0ZzUzQ1a29RZkNDUE1LaEVYMnAtcWN6LUJpU05zVDRRb01aeG95c0VwNkF3a3JYcGNWbEdRWDRMTURuRXJrMFBHY2l0VnpaNmd0aE9Kb2ZQc3d3UzROcnJWSlFSWTJMTWdFdzJSd3lhM01rNDdQMlZ6UDFUWm9ZQlNsZVpGdno4VC1UWlBYOE5tcVJUWm51ZUg3clhodWhZUFlrXzNWVW9QbC11ZFY2c1VoTU9GSEJFamlUYUQ2MkMydHpESGpEN3YtcGdZbHFyeFQyNVhiVW5nYW5uclJvQ2hrdF9rQ21fRXZZMks4WXpYOTlPQmVsZU1XWUQ4?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 21:30:21 GMT",
-      "imagen": "https://mexico.un.org/sites/default/files/styles/large/public/2026-09/Screenshot%202026-09-16%20152227.png?h=b2f02311&itok=xoyPDIuX"
+      "fecha": "Thu, 17 Sep 2026 08:04:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Porsche Center Santo Domingo presenta el nuevo Cayenne Eléctrico en República Dominicana - Porsche Newsroom",
@@ -122,7 +122,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0JuRmw5aEp0Y1FWRWE1d1dMT0V0bGJMSmxLMUJyZHRvX2VjaDN2NDE2WkdRYko1UUFaWkhSdlViMmlwdzBCQ0dYVlBDNDJjdHplcmJNUTJpOE5nQ1NqWlJxaF9ody0xTUF5MTUxTlBfTVBxOGdiUU9lZHZ6ZlBUZXR4Tm1mZ2ZjRDdVM01DOENSOHpSZW9KVS1VVnNkak1SRmhwbWlIeVFldklGLVo5N0M5OEt6cnc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 14 Sep 2026 21:19:52 GMT",
-      "imagen": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/ES-PLA-local/2026/Veh%C3%ADculos/DOMREP-Cayenne-Electric/PLA26_2692_fine.jpg/jcr:content/PLA26_2692_fine.jpg"
+      "imagen": ""
     }
   ]
 }
