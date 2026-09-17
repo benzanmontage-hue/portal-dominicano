@@ -1,16 +1,30 @@
 {
-  "updated": "2026-09-17T08:00:37.729503-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-17T11:00:38.925423-04:00",
+  "hora": "11:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "junta central electoral",
+      "trafico": "500+",
+      "noticia": "La JCE es condenada a pagar RD$2.8 millones por restringir un acta de nacimiento",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/17/jce-debera-pagar-rd28-millones-por-restringir-acta-de-nacimiento/3661383",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8JrjtUg7wQK_AvpkUqzSDpLO7GKcF8Bwgt-v33-lP77CKxVn0YlvFUEXcRg"
+    },
+    {
+      "termino": "jefry yan",
+      "trafico": "100+",
+      "noticia": "Mixed results for Curry, Yan as they rejoin Mets in wake of injuries",
+      "enlace": "https://www.mlb.com/news/robert-stock-daniel-duarte-placed-on-injured-list",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqpgYsQNRLk9w5G2MkvXUmB4jF02RIxMRytcmOGoOBUjMa3SOQKS0GrKIjyZg"
+    },
+    {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "Prévisions météorologiques pour jeudi",
-      "enlace": "https://www.spa.gov.sa/fr/N2678611",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxIThFbTZw_IeLF47ANMRq2ikyFQrU5G9PQ1J2JS2xvH4dJt2-59OzEqxgfgg"
+      "noticia": "Votre météo du week-end : temps estival en Atlantique et Méditerranée, plus mitigé en Manche",
+      "enlace": "https://figaronautisme.meteoconsult.fr/actus-meteo-marine/2026-09-13/92182-votre-meteo-du-week-end-temps-estival-en-atlantique-et-mediterranee-plus-mitige-en-manche",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVe2V7N0mQl80K8PVsXXy2MuyFcAwCq0x5kFl8aDtfCcLlsF4-y59zQAkEmaE"
     },
     {
       "termino": "edwin encarnación",
@@ -20,11 +34,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0WFy8vLNH89iLZPfbNg_NBDirb8LfRKFUunTpwSuPdvx5mQu3FArbuu0F-g0"
     },
     {
+      "termino": "alerta",
+      "trafico": "500+",
+      "noticia": "El COE aumenta las provincias en alerta por lluvias",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/16/provincias-en-alerta-lluvias-y-tormentas-electricas-en-el-pais/3661434",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpvZjM6cCNJgLEzo8fF1EZjbp69phGBWdnUd4XWj4PyrMPCypmUSP_MCyHeW0"
+    },
+    {
       "termino": "claro",
       "trafico": "100+",
-      "noticia": "¿Tienes servicio Claro móvil? La empresa confirma exposición no autorizada de datos de sus clientes",
-      "enlace": "https://listindiario.com/la-republica/20260916/alerta-claro-rd-confirma-exposicion-autorizada-datos-clientes_922428.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfLJbj1iEdC2wGVh6eOi1qqedXj5-r-Jhy8bTyWmypMmFHofJ5xtT0y0E66I8"
+      "noticia": "Claro informa exposición no autorizada de datos de clientes móviles",
+      "enlace": "https://www.diariolibre.com/economia/telecomunicaciones/2026/09/16/claro-dominicana-informa-sobre-exposicion-de-datos/3661414",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfauFNM8Uh-9HLlyyNj8_gqgTc3cMyQClRbyAKPqOCSipy9bQv4SIl0qOz9HQ"
     },
     {
       "termino": "ethan salas",
@@ -36,44 +57,23 @@
     {
       "termino": "pete crow-armstrong",
       "trafico": "200+",
-      "noticia": "Pete Crow-Armstrong lifts two homers in Cubs  win",
-      "enlace": "https://www.mlb.com/rays/video/pete-crow-armstrong-lifts-two-homers-in-cubs-win",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdD5RRsyT7YLIUX5YkbfcO1E8aDcV2m5O2O7PyBdJNlTxlmqlbPyJm0uDWb7M"
+      "noticia": "Pete Crow-Armstrong hits historic milestone and Alex Bregman stays hot as Chicago Cubs protect wild-card lead",
+      "enlace": "https://www.chicagotribune.com/2026/09/16/chicago-cubs-pete-crow-armstrong-milestone/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8rRAs8aJ6kxXejZlGJFU4_3jVZkpfqrqO9rONKkDbxqR7ONgzljPoOkSXtIk"
     },
     {
       "termino": "irán",
       "trafico": "200+",
-      "noticia": "ONU acusa a EEUU e Irán por crímenes",
-      "enlace": "https://elnuevodiario.com.do/onu-acusa-a-eeuu-e-iran-por-crimenes/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtRSI3c5mHSY2G62KBMuYxaol0g4GuDdqFPxQxnLjMV1di1tj8wLSwxWuFl1U"
+      "noticia": "La ONU ve posibles crímenes de guerra de EE. UU. en Irán",
+      "enlace": "https://www.dw.com/es/la-onu-ve-posibles-cr%C3%ADmenes-de-guerra-de-ee-uu-en-ir%C3%A1n/a-79308170",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-nLsVPeYrmz5ZWK0aEGvLxbsnsweRF2kU4OmjkdcLwPkkeIIBVy_4TIoNVfs"
     },
     {
       "termino": "rockies - padres",
       "trafico": "500+",
-      "noticia": "Rockies GM Byrnes talks ups and downs of Colorado s season",
-      "enlace": "https://www.mlb.com/news/rockies-general-manager-josh-byrnes-on-2026-performance",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpj-BcIqKYaCwu6wZXFKavpacja8JtQ6zylUryst6LCydyPa1VoB5vI_EhSK4"
-    },
-    {
-      "termino": "inter miami - cruz azul",
-      "trafico": "2000+",
-      "noticia": "Messi 100 Goals: Stunning Fastest Record, 115 Miami Games",
-      "enlace": "https://hindustanherald.in/messi-100-goals-inter-miami-campeones-cup/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6rBYgSsHhqsj0f3XdboONyPZcdsapzT0hOe7Lm7_xMsSSgKJI8ehgeSoJFCU"
-    },
-    {
-      "termino": "concierto",
-      "trafico": "200+",
-      "noticia": "Silvio Rodríguez recorre cinco décadas de canciones en su concierto en Roig Arena",
-      "enlace": "https://valenciaplaza.com/musica-opera-valencia-comunitat-valenciana/silvio-rodriguez-recorre-cinco-decadas-de-canciones-en-su-concierto-en-roig-arena",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vTg73yH6PWHICqSqzazPa-cwSkD69xTdXQnHNaqf29LnrP0v1T0lrILXkf0"
-    },
-    {
-      "termino": "cubs - braves",
-      "trafico": "200+",
-      "noticia": "The Scouting Report: Braves at Cubs, Game Three",
-      "enlace": "https://www.bravestoday.com/p/the-scouting-report-braves-at-cubs-344",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGkyAjmLg_qQW08jmukMoly7E3y57hYmUBDSV64EjXZKOlJhNIKMxVm83OYHI"
+      "noticia": "Resumen Padres @ Rockies, Resultados/Jugadas destacadas - 15/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/824307",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4AqMLKpS2HT289Se58Lkwki9E2B9I3POfOjtPgjaIob8mtTFMUKYSJwcue2Y"
     }
   ]
 }
