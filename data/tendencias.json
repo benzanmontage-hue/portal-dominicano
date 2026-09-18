@@ -1,30 +1,72 @@
 {
-  "updated": "2026-09-18T14:00:52.100748-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-18T17:00:53.197096-04:00",
+  "hora": "17:00",
   "fecha": "18/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "combustible",
+      "trafico": "200+",
+      "noticia": "Los principales combustibles suben hasta RD$9.00; gasolina premium costará RD$350",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/09/18/combustibles-suben-y-alcanzan-precios-historicos/3663454",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZDGaSp4fXg7UnMNnp8fnomHJQZYzfoICmof6AvvlvpxKeKjKKFPK6-4HEvrI"
+    },
+    {
+      "termino": "rcd espanyol - elche c. f.",
+      "trafico": "500+",
+      "noticia": "Espanyol - Elche, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-elche/2026/09/18/01_0101_20260918_177_954-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEIPY418x_FC0wiZQwZ5-jFvEarIhUxeFwpatiE6yD_zxAogQIEjyZoejFfys"
+    },
+    {
+      "termino": "brentford - chelsea",
+      "trafico": "200+",
+      "noticia": "Premier League: Thiago doubles lead as Brentford stun Chelsea",
+      "enlace": "https://www.bbc.com/sport/football/live/cmrl69xy3lyyt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjHNV_VI_gJu98U8xItJ3wBmVB251hS5Pnth-wR9i3D9NPo4oBk5e7q31e9Os"
+    },
+    {
+      "termino": "bayern - fc union berlin",
+      "trafico": "1000+",
+      "noticia": "Kantersieg vor Wiesn-Start! Bayern schenken Union Berlin sieben Mal ein",
+      "enlace": "https://fcbayern.com/de/news/spielberichte/2026/09/spielbericht-bundesliga-fc-bayern-1-fc-union-berlin",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqJqTifDtPTF4n8VmTSk9WB1W1umOMjL4riixMXP8by3-b4gpZj8257eSmRws"
+    },
+    {
+      "termino": "laura escanes",
+      "trafico": "200+",
+      "noticia": "Este es el entrenamiento de fuerza que Laura Escanes lleva haciendo años para presumir de cuerpo tonificado",
+      "enlace": "https://www.elle.com/es/belleza/salud-fitness/a73791392/entrenamiento-fuerza-laura-escanes-cuerpo-tonificado/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZf10xkvBDRr5trMhiCaVz0QFrwCIbJtLcjMjASXT1M_C0f1uEJg4ybCC4Vmk"
+    },
+    {
       "termino": "senasa",
-      "trafico": "2000+",
+      "trafico": "500+",
       "noticia": "Caso Senasa 2.0: ejecutivos de farmacias, médicos y familiares de imputados, entre nuevos detenidos",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/18/caso-senasa-20-ejecutivos-de-farmacias-y-medicos-entre-detenidos/3663267",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0OwP8ERUhSNQnyrB_niN6PGyODk1xw94y25SPKRR9pP71WH1grKgbKdufcI"
     },
     {
       "termino": "green card",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Why Trump’s new rule for green card applicants is sparking controversy",
       "enlace": "https://www.cnn.com/2026/09/18/politics/trump-immigration-rule-controversy",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUe8fQ-Pt3_BtFLZdH90_4ok2DtCtJSUZffwYGhPkffhhoW0FY1DZVznNgLHw"
     },
     {
-      "termino": "boston red sox",
+      "termino": "dan caine",
       "trafico": "200+",
-      "noticia": "Game 154, Red Sox at Rays lineups and notes: Boston’s magic number is three",
-      "enlace": "https://www.bostonglobe.com/2026/09/18/sports/red-sox-rays-lineups-preview-september-18/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrGYFzEntpaMiqbBbAfb5T9zkQrl16DlfszafOdSd-6r_INj7TDmgYkhQvvhs"
+      "noticia": "U.S. and Massachusetts flags will fly at half-staff for POW/MIA recognition",
+      "enlace": "https://www.wwlp.com/news/massachusetts/u-s-and-massachusetts-flags-will-fly-at-half-staff-for-pow-mia-recognition/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OyGn8XifjD2-wByPQ6mgQOKVDh_2fI9SSJA29agpeMJTVVw81LplLN9gpDI"
+    },
+    {
+      "termino": "boston red sox",
+      "trafico": "500+",
+      "noticia": "Red Sox travel to Tampa to face Rays, move magic number down",
+      "enlace": "https://www.overthemonster.com/red-sox-game-information/108963/red-sox-travel-to-tampa-to-face-rays-move-magic-number-down",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9UkAgW80DDoHiBS2TVTbyzOOR6tjVe9ZfiyoTxUZyyjyzln1es1DSppDmJy4"
     },
     {
       "termino": "windy",
@@ -32,48 +74,6 @@
       "noticia": "Rain chances increase as humidity builds into the weekend",
       "enlace": "https://www.wesh.com/article/central-florida-weekend-rain-chances-storms/73786022",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuLHPByYdanXKfA46halP_bVTV5TSRilJhwx_rL175RRlnM2IfQFE7XCTY9S8"
-    },
-    {
-      "termino": "météo",
-      "trafico": "500+",
-      "noticia": "Vidéo. Des pluies torrentielles et des inondations frappent Tunis, les écoles ferment",
-      "enlace": "https://fr.euronews.com/video/2026/09/18/des-pluies-torrentielles-et-des-inondations-frappent-tunis-les-ecoles-ferment",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Gde06M78dIulJVMWF-0sy78cHU_Dq6YvWeJZeb8GuPu5H32-VtrN7awxpzg"
-    },
-    {
-      "termino": "clima",
-      "trafico": "20000+",
-      "noticia": "Lluvias y tronadas continuarán este viernes pese a que onda tropical se aleja",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/18/pronostican-aguaceros-y-tronadas-en-el-clima-en-rd/3663008",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2u46ofHMWAanhCJgy2i5NK065hIOKZILuQlQH8_d5XJbOQtJBu1QvN9GE_MY"
-    },
-    {
-      "termino": "tiempo",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 19 y domingo 20",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-el-fin-de-semana-el-pronostico-para-este-sabado-19-y-domingo-20-9754800.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
-    },
-    {
-      "termino": "weather",
-      "trafico": "500+",
-      "noticia": "Insights from the Wildfire   Weather Emergency Response Summit at DTECH Reliability   Resilience",
-      "enlace": "https://www.renewableenergyworld.com/power-grid/insights-from-the-wildfire-weather-emergency-response-summit-at-dtech-reliability-resilience/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaeWKxVVELfSQFNU-d4XPNz1Tsv-wBHyTocfd7HNgWdkbXAkwC7M6IoVmPhHU"
-    },
-    {
-      "termino": "avelino abreu, sas",
-      "trafico": "500+",
-      "noticia": "Fallece Andrés Avelino Abreu Vargas, fundador de la compañía Avelino Abreu",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/17/fallece-andres-avelino-abreu-vargas/3662611",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtQcbO15I3d3QAIS5og34HdE3O7kD5wdf-WuU566RXhaqAde3Aekep2PMvrPY"
-    },
-    {
-      "termino": "presupuesto",
-      "trafico": "200+",
-      "noticia": "Luis Juez:  Yo pasé de comer milanesas a que no me den pelota",
-      "enlace": "https://www.perfil.com/noticias/cordoba/luis-juez-yo-pase-de-comer-milanesas-a-que-no-me-den-pelota.phtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1UslXJM-ZRPZIK2-GS93odplimwUAb39KVc_Gu2CBjoaukEKCHyhYi6HbESQ"
     }
   ]
 }
