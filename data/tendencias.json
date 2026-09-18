@@ -1,34 +1,69 @@
 {
-  "updated": "2026-09-17T20:00:45.688903-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-17T23:00:46.354779-04:00",
+  "hora": "23:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "astros - royals",
+      "termino": "yordan álvarez",
+      "trafico": "200+",
+      "noticia": "Yordan Álvarez queda a un HR del liderato (40)",
+      "enlace": "https://www.mlb.com/es/video/yordan-alvarez-queda-a-un-hr-del-liderato-40",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9OSkYX0mMY6pCvFt4HxS7qBAgQl26Nmj_zp-6uoQv39jat7Lb7v11GJZQ1BY"
+    },
+    {
+      "termino": "white sox - tigers",
+      "trafico": "200+",
+      "noticia": "Detroit Tigers vs. Chicago White Sox 19/9/26 - Mira Juego en vivo",
+      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401817004",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO7Y1jbzH-vZcsYqujzhRt83033Vx5Z70akAxy7r_yDjysWk6hf8H0dsuCX0I"
+    },
+    {
+      "termino": "jeremy peña",
       "trafico": "100+",
-      "noticia": "MLB: Kansas City Royals at Houston Astros",
-      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-houston-astros/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MzY2ODQ",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5pvZcCtXud4FupAuWuM05QB4wP9SJNldYfR6k68dvGjZSkHeSGhzZSGCuNb8"
+      "noticia": "MLB: Yordan Alvarez Smashes a Career First in His Wild Chase for the American League Triple Crown",
+      "enlace": "https://en.albat.com/thebigs/mlb-yordan-alvarez-smashes-a-career-first-in-his-wild-chase-for-the-american-league-triple-crown-20260917-0036.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSomA1csC-8ItWQSJQJ8sLEMHKmAnlTWaksWfNJ7nTaDpfyvjDaEGJIcKg5KlE"
+    },
+    {
+      "termino": "rangers - red sox",
+      "trafico": "500+",
+      "noticia": "MLB: Boston Red Sox at Texas Rangers",
+      "enlace": "https://www.reutersconnect.com/item/mlb-boston-red-sox-at-texas-rangers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4Mzc1MDk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMtP4io1O9ksCMGNEuQOUhXFDiAOGIav9Ikgz6NQML1fdXfkUcZ87oy47LKA"
+    },
+    {
+      "termino": "wnba",
+      "trafico": "200+",
+      "noticia": "Angel Reese Makes History, Final Box Score Stats   Highlights as Dream Beat Sun",
+      "enlace": "https://bleacherreport.com/articles/25500525-angel-reese-makes-history-final-box-score-stats-highlights-dream-beat-sun",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxcdHaSZQlIp-WoTYTgEXU42HGATUlNVcllVU-hy902vpgU1mOpIUZG6ptV7Y"
+    },
+    {
+      "termino": "astros - royals",
+      "trafico": "1000+",
+      "noticia": "MLB Gameday: Phillies 3, Mets 0 Resultado Final (17/09/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/phillies-vs-mets/2026/09/17/823573/live",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrSmKKl8YTXIOuJCQ4VVrGk00CjANFDxBIOkRABnZ_9JBLRwJKkODMxt5jh4"
     },
     {
       "termino": "mets - phillies",
-      "trafico": "500+",
-      "noticia": "Where to watch Mets game against the Phillies tonight (9/17): FREE MLB live stream",
-      "enlace": "https://www.nj.com/tv/2026/09/where-to-watch-mets-game-against-the-phillies-tonight-917-free-mlb-live-stream.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruzfRwzklEBxPKFTeX3O63NhPGYBOB6uctn7sIEYjC89S5XqhhMKU7SwhCLE"
+      "trafico": "1000+",
+      "noticia": "Resurgent Nola continues best stretch since 2018 with gem vs. Mets",
+      "enlace": "https://www.mlb.com/news/aaron-nola-tosses-seven-scoreless-innings-in-win-vs-mets",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLl3XXTOunIB9fFke2txoak819ydTGLZooe8vvXyiVoJlY9tj-PWFVOPesgsA"
     },
     {
       "termino": "alfonso rodríguez",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "¿Quién era y de qué murió la actriz y presentadora de televisión Elizabeth Ruiz?",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/17/se-revela-la-causa-de-muerte-de-la-actriz-elizabeth-ruiz/3662088",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzk1-NXsWSFCFW6s7Nj7qPQzD6a2TGlyltLmwkHkj7LYRz3D5Li82elSzWst4"
     },
     {
       "termino": "spiderman brand new day",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "‘Spider-Man: Brand New Day’ Hits No. 1 on All-Time Domestic Chart, Topping ‘Force Awakens’",
       "enlace": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSif2bA9KY1SW18cVqhIT0UQInVT-gUaUCY9Y5-_zDokZuuG3HLIrIsZ_ripNA"
@@ -36,44 +71,9 @@
     {
       "termino": "málaga - villarreal",
       "trafico": "200+",
-      "noticia": "Málaga - Villarreal, en directo: LaLiga EA Sports, en vivo hoy",
+      "noticia": "Málaga 1-3 Villarreal: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/primera/malaga-villarreal-en-directo-laliga-ea-sports-en-vivo-hoy-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_emGiMYCHoRenUMt9q_MuJ45340MlaD3Gx9W60tWmOWDF9P4sReEJ7B_ZC1Q"
-    },
-    {
-      "termino": "rockies - padres",
-      "trafico": "1000+",
-      "noticia": "Resumen Padres @ Rockies, Resultados/Jugadas destacadas - 15/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/824307",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4AqMLKpS2HT289Se58Lkwki9E2B9I3POfOjtPgjaIob8mtTFMUKYSJwcue2Y"
-    },
-    {
-      "termino": "real sociedad - bournemouth",
-      "trafico": "500+",
-      "noticia": "That s Bournemouth football - Rose sees lots to like in Europa League win",
-      "enlace": "https://www.skysports.com/football/news/11959/13588939/real-sociedad-1-2-bournemouth-justin-kluivert-and-rayan-goals-in-europa-league-clash-hand-cherries-first-ever-european-win",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM7I1nA2NDNvpNiow-KBwj1RsSqVauk58yuPIRoAOXEjg19FQxWV3ilKa2ufA"
-    },
-    {
-      "termino": "país",
-      "trafico": "2000+",
-      "noticia": "INM RD y ONU exploran oportunidades de colaboración en temas migratorios",
-      "enlace": "https://elnuevodiario.com.do/inm-rd-y-onu-exploran-oportunidades-de-colaboracion-en-temas-migratorios/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbCUY2O62Ejige69-ErQF2VGby-VBTNDEpXdF7271Eo7ti5aHdu9gaUj3YaJQ"
-    },
-    {
-      "termino": "manchester city - norwich",
-      "trafico": "1000+",
-      "noticia": "Manchester City 5-0 Norwich City: EFL Cup clinic at the Etihad",
-      "enlace": "https://www.sofascore.com/news/manchester-city-5-0-norwich-city-efl-cup-clinic-at-the-etihad",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxFFjlncBJO7Z_w772LPaOdGEleZ9P8U82bBY-guRNhXPNmktRYWnYM8mKa4Q"
-    },
-    {
-      "termino": "lotería real",
-      "trafico": "2000+",
-      "noticia": "Resultados de la Lotería Nacional del 16 de septiembre: del Sorteo Magno al Melate",
-      "enlace": "https://www.sinembargo.mx/4871880/resultados-de-la-loteria-nacional-del-16-de-septiembre-del-sorteo-magno-al-melate/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH3_jbOIiOj2Dp4zNQfW-MKEc4qR8wMtCEWHRlrFWN3-DBahe-ke1aTmLibx4"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKzoMxn0neFm6ZUo-NKnollvsXau35tXNRjshoOXPnd7oQnlkttSWkKG7Xhzc"
     }
   ]
 }
