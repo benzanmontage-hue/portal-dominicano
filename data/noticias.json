@@ -1,25 +1,9 @@
 {
-  "updated": "2026-09-18T11:00:56.931269-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-18T14:00:54.131622-04:00",
+  "hora": "14:00",
   "fecha": "18/09/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Furia en República Dominicana: La familia de un niño víctima de presunto abuso protestan por prisión domiciliaria al acusado - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbXRMT0dSeEcya1dlYi15VC1ZUW1JMWNlMk1ZX1k4eFRWY19ySnNBOHBrZl9iQmxwWTh2SGRzZ1hoU2JMSmhUeS04VmEtcXN0bDhiTGFJcmZmUlNSNDhoazIyWHZVVzN3clNWTHlOVzFScEJ5YmRaUnh2Z0pVeTk1NmRDaHktVnRRNnktUG56ZmNFeWJ4RXNHQ2lWYllsaE9BSm55cUNFR3pIWXVqZHdHWEJWZHBsSVUyZmdTRWdDQlVxMXFmOHVRelBwS1NYcjAxSlVoekZSWjRxUmlXdzRYaHprMlZ3c0pmUGNxbXc0MnVfOC10Vmk3MFJUeXd4Z3N6RXcxWG53UQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 21:54:00 GMT",
-      "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/furia-en-republica-dominicana-la-familia-de-un-nino-victima-de-presunto-abuso-protestan-por-prision-domiciliaria-al-acusado-video"
-    },
-    {
-      "titulo": "Trump incluye a RD entre países señalados por tránsito o producción de drogas para el 2027 - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXEtd3MwZWZGWmdyNHRpUzBKcE5XTllpbjJTdE5PUm9zUk92MnV4X3FxZEE3T2p4TldlbDliWkdRbnNERGo2RnAwTFdzc2hxZlp1cUd4eHZjVXlmNFlVRi1JYnFOaTJRdlp0NWJ2eUpEeEo4NEQzOEQxckV5bVNQeUVUNkFoMzBoSFNtNERvc0xHbHhpcmpLMlQzSnFycFZqQkpiTWpNLWhRb2cxbmk1T3BKTzNFbi1j?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 02:15:00 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "República Dominicana: fuera del mapa del hambre crónica, pero aún con inseguridad alimentaria - EL PAÍS",
       "fuente": "EL PAÍS",
@@ -29,12 +13,28 @@
       "imagen": "https://imagenes.elpais.com/resizer/v2/CPFWM7ACXVE4JO7POMXRJTIEYY.jpg?auth=2a529f0ae1db3d9f38ec3a2aca1a3dbfd241cbdf0a87e84fe200b9a3c776f30e&width=1200"
     },
     {
-      "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 18 de septiembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamt6bUtabjh1QWs0SmdFY2w2ZFlMQVUyby1GOGFxUmszMGpiTEprblN5R2FER19XQm9WLXFIVVo4TUliRVJZWkNQWFBNeGstTEdfeEI2azBsc2FsYkR3bG5vNzFPMEg0bDVTN0x3ak53Ui1vb0t0dzAxWFJaX29zYmVXS19aVDVJUEZZZk1UYWl4T3FhNnFFTWhHUm1UT25ERllVQjhMQllDV2pTZzU4SkJpWU5hN3JMbWJGZ21lVU5vMERmV2Nwa0RianhxSHpuOXhUWXNxVWhwOWtzbFJTOWlJNNIB4wFBVV95cUxQamt6bUtabjh1QWs0SmdFY2w2ZFlMQVUyby1GOGFxUmszMGpiTEprblN5R2FER19XQm9WLXFIVVo4TUliRVJZWkNQWFBNeGstTEdfeEI2azBsc2FsYkR3bG5vNzFPMEg0bDVTN0x3ak53Ui1vb0t0dzAxWFJaX29zYmVXS19aVDVJUEZZZk1UYWl4T3FhNnFFTWhHUm1UT25ERllVQjhMQllDV2pTZzU4SkJpWU5hN3JMbWJGZ21lVU5vMERmV2Nwa0RianhxSHpuOXhUWXNxVWhwOWtzbFJTOWlJNA?oc=5",
+      "titulo": "Furia en República Dominicana: La familia de un niño víctima de presunto abuso protestan por prisión domiciliaria al acusado - univision.com",
+      "fuente": "univision.com",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbXRMT0dSeEcya1dlYi15VC1ZUW1JMWNlMk1ZX1k4eFRWY19ySnNBOHBrZl9iQmxwWTh2SGRzZ1hoU2JMSmhUeS04VmEtcXN0bDhiTGFJcmZmUlNSNDhoazIyWHZVVzN3clNWTHlOVzFScEJ5YmRaUnh2Z0pVeTk1NmRDaHktVnRRNnktUG56ZmNFeWJ4RXNHQ2lWYllsaE9BSm55cUNFR3pIWXVqZHdHWEJWZHBsSVUyZmdTRWdDQlVxMXFmOHVRelBwS1NYcjAxSlVoekZSWjRxUmlXdzRYaHprMlZ3c0pmUGNxbXc0MnVfOC10Vmk3MFJUeXd4Z3N6RXcxWG53UQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 08:00:06 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-3-OG.jpg"
+      "fecha": "Thu, 17 Sep 2026 21:54:00 GMT",
+      "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/furia-en-republica-dominicana-la-familia-de-un-nino-victima-de-presunto-abuso-protestan-por-prision-domiciliaria-al-acusado-video"
+    },
+    {
+      "titulo": "Precio del dólar hoy en República Dominicana: viernes 18 de septiembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWk0za1dENERkQXZPUVRkM2EtdTJXOGNkbTlYVGZBN3ZMNFY5b2IwRHBSdGRJVS1VSFFoeHJJRWRnajZ3Uk41YUxmTU5YRXVkajlYRmZHMFBpenF1MU5HVGtzNGFOTGRCSUJXb0tNZjNSS00wdTZQWWZZQXZLc0pHZ3N3bW9WUjBieGtxZkg3X0lnbDFncHN3c01TMDFjVkQySlh4blR5VHdtSDljSjJFaW5yVGNxbUFsOFMxd1l30gG-AUFVX3lxTE1aTTNrV0Q0RGRBdk9RVGQzYS11Mlc4Y2RtOVhUZkE3dkw0VjlvYjBEcFJ0ZElVLVVIUWh4cklFZGdqNndSTjVhTGZNTlhFdWRqOVhGZkcwUGl6cXUxTkdUa3M0YU5MZEJJQldvS01mM1JLTTB1NlBZZllBdktzSkdnc3dtb1ZSMGJ4a3FmSDdfSWdsMWdwc3dzTVMwMWNWRDJKWHhuVHlUd21IOWNKMkVpbnJUY3FtQWw4UzF3WXc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 07:59:05 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Cómo caen los dominicanos en promesas para ir a Rusia? Diputado denuncia presunto mecanismo - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkwzSDJHNzVELUxFRGZvOTVMYklVMXhyelFvSVNsdjVLQzhzUFJndnlSemhlSm5vbHJWUmZTdWFhaWh2VnI5aWRpOU9oUHBTd0V1OVFITl9pOXNGRlkwdFRWWm1RVkZGVklUN1dYRHZuSEpaNmtVQTJkR0xqN1VSczk1V0RQaHJRUWd5clJWbWI0SnVnU1AxQ0JyWklQYUpJbi0yOU1WSlZwOXlPcjR2SVhYSHFQLW9fcE9tNlJCdzQ3N3YybmFhT0tR0gHPAUFVX3lxTE91QkUwcEswak1fVWxKbktCblM4ZHNJdm5zT2tqUVNXN1hjbGNxMWtzazR1OFpqN0JFc054RC11ZHZiZDRtcWNWWmgtSWFqeGtfd3VRTEEzbWxGYmZmRXVvcS1ZS1NJOWU2ajBob3QwN01CekJXU3N2X09hU0VDM09tRnpPcUZoSW9CU0lFcFFIc2ZwU3MycHhCWXZIa3RHcTZENXhQeVZiQk0xcWdxTHUtUXZVd0FDMlNCaWpad0N3eHVKSFh5cXBSaGhxaUlvNA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 17 Sep 2026 23:00:24 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/17/6aac74da1f822.jpeg"
     },
     {
       "titulo": "República Dominicana buscará ascenso a Grupo I Mundial frente a Egipto - El Nacional — La voz de todos",
@@ -45,35 +45,35 @@
       "imagen": ""
     },
     {
-      "titulo": "Remesas alcanzan US$8,432.7 MM en República Dominicana - AlMomento.net",
+      "titulo": "VIDEO | República Dominicana fortaleció conexiones aéreas con Europa en Top Resa - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnpCeWFfd0NZV3A0N1U1Y1VaWWZpQVdjdjRzemV4LVIwNHF1SkYyaHFoUnE0N3NVRkNZLWNRVURkX3l3RzZHNzMwU1JKVWVuYTJ3U1kyTGhCNG9MX2k4YWZ6ZGJfcW83SS15ZVZNQ0FNbmFqbXFHYndUMmE3a3dvOHhtc3hZV1ViOVBETFVPTFZfeFdCRWdIa1RyQlAxRS02dnhDb0FDWUlDU1Q5SEdpbGxqdzl4dXh6WVM3RHNtVGU0cExJ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 01:29:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Embajadora EE.UU. impulsa agenda de semiconductores - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHVGelJwWkZVNUZWVE9zMU9SY0d4MlFmRlI2WUtNbUIwd2lzT0VYek91NXZCVHV6QXE1WU5RX1p2SFZpWldwdkFfNE42MG9Ed01jdGZWQTBYdC0xNWJZOFRHXzk2cE1jMzJSbHlzTVFBZjN1MUFMdTFfZy1qcDg5Tw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jU05ubHNmNnJfd2VtbFU3bHZSdXRrRUJTa2FnTEZQNUZrcUlha1c3ekdnVTR3clZIWHJuS2pkRmNUVDlOeE5laGFkUGQwQmVidzg1b294SF90SXlxazh6Zi1GS1dhNVNvOUdlZDBxckNSWW8ySlotMGJEZnBXZw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 11:22:58 GMT",
+      "fecha": "Fri, 18 Sep 2026 13:02:58 GMT",
       "imagen": ""
     },
     {
-      "titulo": "China y República Dominicana: el verdadero debate no es el déficit, sino la competitividad - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGFRcko2eXZsdGJBR2xNdzVMUGtXVjFlemVOTWIxLWZsMzhGZHZpUE90VjVGcEhzYXN5Rnhwd0FVcUZkQWxwR2c5YjNIRGlLTWlPQVJXM2x3LVo3NjVCSHpldDk1dTczR3B2WW55Q1haQ1laRmtaeFp5Z1NMRzVuejRWcWVUWHJqNnQyX09CajNPYXIzUkoyRmplRm55TGFHTmtoSVZETm1uZFdiNnJPNGRDS2lwMTdPWHVNck5zWlBBb3lwbWhV?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "imagen": "https://listindiario.com/images/logo_redes.png"
-    },
-    {
-      "titulo": "«Firmaron prácticamente como mercenarios»: Al menos 50 dominicanos aceptaron ir a combatir a Rusia - Infobae",
+      "titulo": "Estados Unidos incluyó a Centroamérica y a República Dominicana en la lista de tránsito o producción de drogas - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1hsWTZYRWgxRVFBQmRVMVBiUTItdXdveVJpUlliTW1PLThuUkRZdDlyMXJGV0FkVF91OGhGTU52Snp3WmNZemxUa3AwN2J0ZkZrb2Utd2k1eEJfWGh5UkpwbFFiNkRUMU9qc2UxSWZOZDdGNmd5c1BOQ19aTjFBTjVSangxVDJwdVFwUzJCdlBkYmNoUnA3c1FaR3hQNzFnVE1RU2VTRi10NUF6RmRzVGpGQzFJSzZMendmZWFBWFBCNDNuOU8zOFpvUU5XNTdZWEp5TGFLRHFxLXhVczB6a2FWcVFJd1XSAYICQVVfeXFMT0RlSGUxQWZoSFozc0hheWRFdC1VZmZ0V1REQWlTcS1fcm9iUWEyUDl1azMzbDBYSUE3ZHVoYjZucXY5bUdlYkduOXRGa2tUMFQxMDE4T0VaT1Zjanc0WGpBNXRnOXZjTndrYk9KU0NaY0lyZUdzNHhwanZJaGdfNW5vY1NCZTU1ZF9KTkN2enowOVpXVTVIWFhSZFFoUG0xRk9fU05sVkZvOHFMeml0a1FQUGg3RzNfbHJBS3Y2SVppaXpFOVZYbkJ0UERxaW5XaExqdnJjR1RaSHJyY2lGbjJtdlp5cGVqSXdSRHRUUlRuandUbU5aVzdlRlM4QURGWDR3?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaGVLZFVlTDB3T1VLOVB6aW1WcXBtZzM3UHpnb3pJWnJEbXV3QU84dmI5X2diTGNpeUtlTVdZdmFvLTM3M2s4WVJEVVNTa1c0b3BCa25heGx4SnBtMGdNeXpxYUdOOUJEZzA4akhxRnppcWptdFg4TENWckt1dE1YWWxKclVoRXVXN0V4OGtwbjFhQUpxMXVRRHExM1hFWWUyVEE3eVpZb2xYVXVyRzFrVUw5VUNTZU9BQ01TOU5KSk5rV3NLamQ1VzFZNzhKY2QyNl8tQ2cyVks5cEwtYXV6NmdoblhCVW9NZnFXRGE2NNIBigJBVV95cUxPRk00Z2JkejZvY3RKc1E0TkxiRld0ek9XdDBaWHNKVXM1a0YxdzBxRnE5TTFHRTBVYTlLLUhfRDQ5N1Yxd2ZHcVNFaHVzNEh0dGk3TndHanB3TF9LTy1Rb3M2Mnl5MWw3TW9fZW9QZGdnN01rQzl4blowLUNHM2ZtOXhlanBkNXg1UGgzODBTTU9GYkV2SU5jU2hZTmJpT3lZOFVMOGNocmd6d1Z0bEJiSkFoZjJwX1hSRFNxRENNcWMxSUxKMU1MQ2FCUndSWlNETE5NQkNId3FQQ3lFWjRpWHhDUjFyUHk2SEhnei1mUVdsZUl2X0EwcVZVcTlXaWx3N0xZRGFEbWpJUQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 19:17:00 GMT",
-      "imagen": ""
+      "fecha": "Wed, 16 Sep 2026 22:38:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/V5Y5BGEE2NHODJZE3FIN2TLPY4.jpg?auth=3723deb0461bc503009524c14c946db2aa3e4f49adb22eb2820a62145a4568e7&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "ASOLOGIC busca consolidar a República Dominicana como hub logístico con inteligencia artificial - El Nuevo Diario",
+      "titulo": "Unapec reúne a especialistas para debatir los desafíos del transporte en República Dominicana - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1hObkczUFVyYldPZEkzRmZieWM4RmRRUTZhMXctbVdPZTNzM3pTSV85b2hlRC1oNkV2OEVad2h5Mm5HR0xzS0tMZjQ4SHNCRlFFd0pvZUJkLXVWV0lpUnhoUzRrTUJFbXE3Z3gyZ0tfd0xVdk9oaG52ZnVxMF9mUkZ6VFdfQi1ZWl9nLXNSR3BNU2NpMlgwdEc5ZFNCU2EyOGtEVDQzVUIzVmtFTFFBemFNU2l1YkljaTFXejBGUFg4OGc?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnM4bHpkZVlRTkdsZ2JtVFVybDQ4OXBYWTVBQlpYcjMyOVNUTHBkVUNVREw3U3NiYjJ3Y09hOFo1YUhzTTY3LXJVa1NOZ0pnQkhxMGtyajF4dkdIMndqRjlPaUx3RzVPYkNYSTA4UE01NldWLTlTczJDZEtXcXdqdk1Gd0M0c2FyYmVROXM5TzNkWWZfS3hmTFgxZndqTjNXNkJNUE9Hel9GWk5McWFKRTdYOFJYcC1QbmJNSUJuWDc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 17:21:22 GMT",
+      "fecha": "Fri, 18 Sep 2026 16:10:59 GMT",
       "imagen": ""
     },
     {
@@ -85,6 +85,14 @@
       "imagen": "https://www.primerahora.com/resizer/v2/7ISQLWPWHZDI5MFSRVZGQZJI6Y.jpg?auth=26ef2d7da4267ea2e2334b4e02128a3dd100db9780c18d1298fcac8d7999290c&quality=75&width=1200&height=717&focal=2164%2C1927"
     },
     {
+      "titulo": "República Dominicana. Jaime Bayly: con alforja literatura, y sin encargo imperial - Resumen Latinoamericano -",
+      "fuente": "Resumen Latinoamericano -",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2dvVFlUaGZET2lmaXF3Tmh3V0lfd3BrbHQtUzVCdTh3aDMyRUFjc3poVkVkM1R0OVNiTkhVaFQ5VlZ1WTNqNFlrZmh5bC1hM2sxUE8tdlczaTFwb3BvMDBkNlpvUzNvVjdGNVp3bTA5Tk1OMnRTLXJUeDR6MV9uYkI4TUNKS2dFMXdSUFBzUUlfdEtRVFdtTGFMbmlIMWJIbmRISkhqX1Nwei1KVHdqM0NnRGpweGdPZmNzMWJlRFlDNzJwckNTQg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 16:15:27 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana: Autoridades detienen a un colombiano por intentar salir del país con más de USD 600,000 sin declarar - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcnk1cmRvRkRnbzFaNW84cncyYll3NzBYbG02YTl1WDU1dVlEeGZseHM2bUozRTRVZ0FqaGZ3bFk5czhoMFlJdy1vWFNFNGN1Z01OclZyUnh5MFVjVkxkcmFYQUhnQ0NaYjFFMEhjYkpxYWs0ZlR0VDg3NzN0S0VQcE5jdHlSM09mbU9fckU0aEtBMS13YzdoVWUwSHdZQXVQZjRhTi1SeFRTaUNuWXotd0E0U1d3dTMwbFhPYjc4OGdBWDhzZE43cHJfUWZTWUM1aFFqVDJvaDZQcUVnb2hEazRkNDE2OGE5d1ZqVHVmTlEzX1pqcWY3U0E2Tmt6dVB6VE05Q2hNbzTSAaMCQVVfeXFMTndtQy1leHVEemt6NzlIWVBuS3J2MFdzZVpCTTM2Qkl5UE1ZbmdPM0twRS1OSHplakRqc2tYZFAwX1FvUlNZZVFFYjQweWFHRXRDbGI4TGt2LXY3NFhmbzI3NndZcHRyakh2RUdtcTJabW9GbncyZHAyWFVIeXRZaUpMV3hQVW5EU2U1dC1fX21Qc0tuaWxhUmt1eWs2aU1VZVhPYndYclFVdEt4N3gzdlpwSkYwUGd0RGhkU1NUSVVrRERQVXFuWVh5c2k1REJPdWhmaWV4YVJnaDRtM1k1RVhtOE1KUHdTM3gyc0I5Z2RxOUl1QmZCNVY5OHlkQmRCdlo4RTlZb2dVYnROLVRoYnpDd0hTY0xMOGRfcmtZSjNPMWEw?oc=5",
@@ -93,35 +101,27 @@
       "imagen": "https://www.infobae.com/resizer/v2/5EZIWUVWCRDTTBR26R4QULO7ZY.jpg?auth=fc0b39474928a060470056f9a9cad377d639fe5dd849103b649a371370b7e965&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Herencia Hispana: Probando comida de Puerto Rico y República Dominicana - telemundo31.com",
-      "fuente": "telemundo31.com",
+      "titulo": "Herencia Hispana: Probando comida de Puerto Rico y República Dominicana - Telemundo Orlando (31)",
+      "fuente": "Telemundo Orlando (31)",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVp1UXdYUUJzdHE0ZG9jam10cE9DN0V4N3A1MjlqNU9oUnRpRkU5NWhoOVd4OXAzNXN0YUpVSHpUZlFIMTVSODA0V1ZuY0dOX1hRNWRMNFhzckx6Ry04bmx3SVBJZlR5c1JZbDUyZG0zUWlWeGZHMlN0Mk5jQmFPWG42cFZqMG5hd05DZ1NhVkRHRmRudGU1WXVOMG1IclN1ZFhlNVREVkMxakVlbVVnSUJkVVhXNHZXeVdV0gHDAUFVX3lxTE5PcmtvYWd4U0dBUmluSkY1N000UFNnWGgtckJvdFN1dTB0ajVlR1hqNURSalBZaWJqTWh3bEdjSTRMdDl5RjltSVJ0SmpCa2haRjZuTC14V0xUaFd2UV9XS0N0WkNMbF8tU084TjB3cmtkSmNONGhhd25QMENDbXJTOFNiSmU1cENucFNJUUk2X293enN5dmNwaWdnOU0wZDNyQmNFaU8xQk4wQ3J1VU02ZEdGUVo0MUg0bGN5UkhWYTBRSQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 17 Sep 2026 15:32:17 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Los resultados de PISA 2025 abrieron una conversación sobre la comprensión lectora en República Dominicana, sobre todo en la educación preuniversitaria, pero también sobre las oportunidades que existen para fortalecer el vínculo de los estudiantes con - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXVnZ4MW5iZWUzdWFOQW1aeFYwaFRDdUROMDhmY1RpaW1zc0tSUmQ3MXhuN0pzNHlrOHB6MHhyMmVYVXJyOEN5WmJySjhtVng1dEE?oc=5",
+      "titulo": "Techy Fatule y Manerra: talento dominicano en los Latin GRAMMY 2026 - Prensario Música",
+      "fuente": "Prensario Música",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDdaVTlpUV9kaWdOWl8xZHFhZ0otTC1yOFN1Y05tNXFXTkRRQ2lUSHZxaXNoenlpaEZRamZUcjBJUVRKWVpMbHZ2VUJtSHdVcXpYWk9aemduWHlLTkJTWGwyeUNiUEhXM2drbHhCMWZQR0JMejlwdk53M0ZvUTJsZjBBMWJTa3BidDBnVFZqRV9GSUd2MEZuWDNSMWdYQnY3dk10ZjNiQ1VnMk5HV0RzVGZTd1U?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 12:27:13 GMT",
+      "fecha": "Fri, 18 Sep 2026 17:44:33 GMT",
       "imagen": ""
     },
     {
-      "titulo": "'Agridulce', el documental que reivindica la bachata en República Dominicana - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNml6bWtVVWFsOTlaUllobTF0Tk1iUGFmNWlvdHdPUFlGOVdWSnRmcHZNQmJGVjFEUWRXTldTZXczazJlcVNNcERHR1hueWY1TTdkdkR2Y3pwenRZSFVVSTBiUXdaemNzWC0xVkh0b2JGQTFsajB5YVlOMi1rV0dxTEZnQm9FdEhwUjh6ZjRoWURGNS1VaDJDZ25Dd1RTSGJHLVR5aDlHMzZBVU1PNEZzUlJUQ3ZVQ2ptdGJLaVhBZWVNUlRkSnVsSA?oc=5",
+      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 13:40:11 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jaime Bayly en República Dominicana: con alforja literatura, y sin encargo imperial - Kaos en la red",
-      "fuente": "Kaos en la red",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUZTcmR5R3d6VVk4V2Jzck9qTGRXcndPV1JQbS1vUGFuZFoxZWZtZ2E2MndSSlhjazNBdXVkZHFMd09hdXJkRk9uLUJJOXNjclFjNE1DT3Axb1lzX1AxbU1ieHM2NnRralJjQ2JvdXpFT3lFMG9SZkVrTDJjV1diUjZ4ZHdVVTQxLS1KT3pIeUVGb2l1SUxtc3JERGNZOE1XSU5HUDV0bjVwUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 05:37:34 GMT",
+      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
       "imagen": ""
     }
   ]

@@ -1,34 +1,55 @@
 {
-  "updated": "2026-09-18T11:00:50.971529-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-18T14:00:52.100748-04:00",
+  "hora": "14:00",
   "fecha": "18/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "senasa",
+      "trafico": "2000+",
+      "noticia": "Caso Senasa 2.0: ejecutivos de farmacias, médicos y familiares de imputados, entre nuevos detenidos",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/18/caso-senasa-20-ejecutivos-de-farmacias-y-medicos-entre-detenidos/3663267",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0OwP8ERUhSNQnyrB_niN6PGyODk1xw94y25SPKRR9pP71WH1grKgbKdufcI"
+    },
+    {
+      "termino": "green card",
+      "trafico": "100+",
+      "noticia": "Why Trump’s new rule for green card applicants is sparking controversy",
+      "enlace": "https://www.cnn.com/2026/09/18/politics/trump-immigration-rule-controversy",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUe8fQ-Pt3_BtFLZdH90_4ok2DtCtJSUZffwYGhPkffhhoW0FY1DZVznNgLHw"
+    },
+    {
+      "termino": "boston red sox",
+      "trafico": "200+",
+      "noticia": "Game 154, Red Sox at Rays lineups and notes: Boston’s magic number is three",
+      "enlace": "https://www.bostonglobe.com/2026/09/18/sports/red-sox-rays-lineups-preview-september-18/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrGYFzEntpaMiqbBbAfb5T9zkQrl16DlfszafOdSd-6r_INj7TDmgYkhQvvhs"
+    },
+    {
       "termino": "windy",
       "trafico": "100+",
-      "noticia": "Rainfall through Saturday could total 3 inches, forecasters say",
-      "enlace": "https://www.palmbeachpost.com/story/weather/2026/09/17/palm-beach-county-to-see-several-inches-of-rain-through-saturday/91809690007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIw3jN1t0G6ciprbLzfpUx_JbEO4zs-kustU9J93zzQwv0qpyI06HUXRoxb3o"
+      "noticia": "Rain chances increase as humidity builds into the weekend",
+      "enlace": "https://www.wesh.com/article/central-florida-weekend-rain-chances-storms/73786022",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuLHPByYdanXKfA46halP_bVTV5TSRilJhwx_rL175RRlnM2IfQFE7XCTY9S8"
     },
     {
       "termino": "météo",
       "trafico": "500+",
-      "noticia": "Météo : les températures remontent ce week-end",
-      "enlace": "https://meteofrance.com/actualites/meteo-les-temperatures-remontent-ce-week-end",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBIvNd7lXM8u8uNkeN4simVThzyVsAu_itHCFgiH-Uu198lMJpDepMsmZi4oQ"
+      "noticia": "Vidéo. Des pluies torrentielles et des inondations frappent Tunis, les écoles ferment",
+      "enlace": "https://fr.euronews.com/video/2026/09/18/des-pluies-torrentielles-et-des-inondations-frappent-tunis-les-ecoles-ferment",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Gde06M78dIulJVMWF-0sy78cHU_Dq6YvWeJZeb8GuPu5H32-VtrN7awxpzg"
     },
     {
-      "termino": "coe",
-      "trafico": "200+",
+      "termino": "clima",
+      "trafico": "20000+",
       "noticia": "Lluvias y tronadas continuarán este viernes pese a que onda tropical se aleja",
       "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/18/pronostican-aguaceros-y-tronadas-en-el-clima-en-rd/3663008",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2u46ofHMWAanhCJgy2i5NK065hIOKZILuQlQH8_d5XJbOQtJBu1QvN9GE_MY"
     },
     {
-      "termino": "clima",
-      "trafico": "20000+",
+      "termino": "tiempo",
+      "trafico": "2000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 19 y domingo 20",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-el-fin-de-semana-el-pronostico-para-este-sabado-19-y-domingo-20-9754800.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
@@ -36,9 +57,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Detroit Forecast: Heavy rain this weekend, here’s the timeline",
-      "enlace": "https://www.mlive.com/weather/2026/09/detroit-forecast-heavy-rain-expected-this-weekend-heres-the-timeline.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcSi6Pf8vDgSP5az8ezdwvV-3FySw2q7XWlqZ5X9yjSKVYfoFiSVzofMHOJM"
+      "noticia": "Insights from the Wildfire   Weather Emergency Response Summit at DTECH Reliability   Resilience",
+      "enlace": "https://www.renewableenergyworld.com/power-grid/insights-from-the-wildfire-weather-emergency-response-summit-at-dtech-reliability-resilience/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaeWKxVVELfSQFNU-d4XPNz1Tsv-wBHyTocfd7HNgWdkbXAkwC7M6IoVmPhHU"
     },
     {
       "termino": "avelino abreu, sas",
@@ -50,30 +71,9 @@
     {
       "termino": "presupuesto",
       "trafico": "200+",
-      "noticia": "Consejo de Ministros aprueba Proyecto de Presupuesto General del Estado 2027 enfocado en inversión, desarrollo social y sostenibilidad fiscal",
-      "enlace": "https://presidencia.gob.do/noticias/consejo-de-ministros-aprueba-proyecto-de-presupuesto-general-del-estado-2027-enfocado-en",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmArGoiLY-GXx9NGE1NjY_vKHpHGoqI-nXXPg-Sx96DG9aAl67FOdX26_Slh4"
-    },
-    {
-      "termino": "valle salvaje",
-      "trafico": "200+",
-      "noticia": "Avance de ‘Valle Salvaje’ de hoy, 17 de septiembre: Bárbara hace una propuesta a Luisa",
-      "enlace": "https://okdiario.com/happyfm/avance-valle-salvaje-hoy-17-septiembre-barbara-hace-propuesta-luisa-20307435",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwwCMbJ1ZqJy-CyJrfbmHibE4GIS0lBZlkNsKOodM23AhB81H-B2o5Buoy_M"
-    },
-    {
-      "termino": "angels - twins",
-      "trafico": "200+",
-      "noticia": "MLB: Minnesota Twins at Los Angeles Angels",
-      "enlace": "https://www.reutersconnect.com/item/mlb-minnesota-twins-at-los-angeles-angels/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDU5NjU",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzEXi8unS9nRMgui2qiFF-awLNHeIyMGSMaHHvXQuAulk2iaQizJ31rw3ycQ"
-    },
-    {
-      "termino": "maicol peluche",
-      "trafico": "200+",
-      "noticia": "Tras PN matar a Michael Peluche, se entregan dos más señalados en tiroteo de Boca Chica",
-      "enlace": "https://elnacional.com.do/nacionales/pn-matar-michael-peluche-entregan-dos-vinculados-tiroteo-boca-chica_581167.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMmqeY92kg2NIZhlAjWKpxziC_gxECUoqc_kSYbbmJNKGKKrGp0yGJfig-CvQ"
+      "noticia": "Luis Juez:  Yo pasé de comer milanesas a que no me den pelota",
+      "enlace": "https://www.perfil.com/noticias/cordoba/luis-juez-yo-pase-de-comer-milanesas-a-que-no-me-den-pelota.phtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1UslXJM-ZRPZIK2-GS93odplimwUAb39KVc_Gu2CBjoaukEKCHyhYi6HbESQ"
     }
   ]
 }
