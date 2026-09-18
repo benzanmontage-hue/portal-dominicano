@@ -1,16 +1,44 @@
 {
-  "updated": "2026-09-17T23:00:46.354779-04:00",
-  "hora": "23:00",
-  "fecha": "17/09/2026",
+  "updated": "2026-09-18T02:00:47.512762-04:00",
+  "hora": "02:00",
+  "fecha": "18/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "michael peluche",
+      "trafico": "100+",
+      "noticia": "PN ultima a dos de los involucrados en muerte de Diddy Glow",
+      "enlace": "https://listindiario.com/la-republica/justicia/20260916/pn-ultima-dos-involucrados-muerte-diddy-glow_922513.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSztsaEfsV2Kx1WMzPXTYZTZDXAJ5Gswo6rG-KeJxnux6F3WKDEWutQQ-2bc0g"
+    },
+    {
+      "termino": "valle salvaje",
+      "trafico": "200+",
+      "noticia": "Mercedes y Victoria, contra las cuerdas: el motivo por el que tendrían que haber huido de  Valle Salvaje",
+      "enlace": "https://www.rtve.es/play/noticias/20260916/valle-salvaje-mercedes-victoria-motivo-huir-final-damaso/17227178.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdNIsd8ugszgk0byqJYq86dPQvJuJGjkTR4Smwiuk7XUZMlCGZivUF51S_Zzo"
+    },
+    {
+      "termino": "angels - twins",
+      "trafico": "100+",
+      "noticia": "MLB: Minnesota Twins at Los Angeles Angels",
+      "enlace": "https://www.reutersconnect.com/item/mlb-minnesota-twins-at-los-angeles-angels/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDYxODk",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAzsYTqbksVcneuPt95jMlgWkmAiStOjlG0WCtC7qr0UuTM864r7gLLWSWHZY"
+    },
+    {
+      "termino": "maicol peluche",
+      "trafico": "100+",
+      "noticia": "Tres mujeres y un peluche: ¿Por qué un hombre tan peligroso puede convertirse en objeto de deseo?",
+      "enlace": "https://eldia.com.do/tre-mujeres-y-un-peluche-cuando-el-amor-se-confunde-con-la-violencia/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVF8V8bNx4w_wqKlC7VVkTymeR_uVoObwhaS1m3jxPJ04GQMArEWdK81R6Es"
+    },
+    {
       "termino": "yordan álvarez",
       "trafico": "200+",
-      "noticia": "Yordan Álvarez queda a un HR del liderato (40)",
-      "enlace": "https://www.mlb.com/es/video/yordan-alvarez-queda-a-un-hr-del-liderato-40",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9OSkYX0mMY6pCvFt4HxS7qBAgQl26Nmj_zp-6uoQv39jat7Lb7v11GJZQ1BY"
+      "noticia": "Análisis a fondo del jonrón de Jeremy Peña",
+      "enlace": "https://www.mlb.com/es/video/a-deep-dive-into-jeremy-pena-s-home-run-x8830",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTfNrJ05T8faIXRGykB7Svt7WAr_V9YXXho7GCx7Ne4jWeLU8vLLCR_7rQjRc"
     },
     {
       "termino": "white sox - tigers",
@@ -30,50 +58,22 @@
       "termino": "rangers - red sox",
       "trafico": "500+",
       "noticia": "MLB: Boston Red Sox at Texas Rangers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-boston-red-sox-at-texas-rangers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4Mzc1MDk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMtP4io1O9ksCMGNEuQOUhXFDiAOGIav9Ikgz6NQML1fdXfkUcZ87oy47LKA"
+      "enlace": "https://www.reutersconnect.com/item/mlb-boston-red-sox-at-texas-rangers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDMyOTE",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5R7ZA_a368cc07p9Xm2aK5ogW0Zgsx2QAXRcJWf8fLZ9V1Koq8RyIITXblVk"
     },
     {
       "termino": "wnba",
       "trafico": "200+",
-      "noticia": "Angel Reese Makes History, Final Box Score Stats   Highlights as Dream Beat Sun",
-      "enlace": "https://bleacherreport.com/articles/25500525-angel-reese-makes-history-final-box-score-stats-highlights-dream-beat-sun",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxcdHaSZQlIp-WoTYTgEXU42HGATUlNVcllVU-hy902vpgU1mOpIUZG6ptV7Y"
+      "noticia": "WNBA: Las Vegas Aces at Seattle Storm",
+      "enlace": "https://www.reutersconnect.com/item/wnba-las-vegas-aces-at-seattle-storm/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDYwODU",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPD5ml1bK9r6cIEot92jmbyncFyAN67SnVG3xpUXA13VRwsuSObkgQVv9MGvs"
     },
     {
       "termino": "astros - royals",
-      "trafico": "1000+",
-      "noticia": "MLB Gameday: Phillies 3, Mets 0 Resultado Final (17/09/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/phillies-vs-mets/2026/09/17/823573/live",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrSmKKl8YTXIOuJCQ4VVrGk00CjANFDxBIOkRABnZ_9JBLRwJKkODMxt5jh4"
-    },
-    {
-      "termino": "mets - phillies",
-      "trafico": "1000+",
-      "noticia": "Resurgent Nola continues best stretch since 2018 with gem vs. Mets",
-      "enlace": "https://www.mlb.com/news/aaron-nola-tosses-seven-scoreless-innings-in-win-vs-mets",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLl3XXTOunIB9fFke2txoak819ydTGLZooe8vvXyiVoJlY9tj-PWFVOPesgsA"
-    },
-    {
-      "termino": "alfonso rodríguez",
-      "trafico": "1000+",
-      "noticia": "¿Quién era y de qué murió la actriz y presentadora de televisión Elizabeth Ruiz?",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/17/se-revela-la-causa-de-muerte-de-la-actriz-elizabeth-ruiz/3662088",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzk1-NXsWSFCFW6s7Nj7qPQzD6a2TGlyltLmwkHkj7LYRz3D5Li82elSzWst4"
-    },
-    {
-      "termino": "spiderman brand new day",
-      "trafico": "500+",
-      "noticia": "‘Spider-Man: Brand New Day’ Hits No. 1 on All-Time Domestic Chart, Topping ‘Force Awakens’",
-      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSif2bA9KY1SW18cVqhIT0UQInVT-gUaUCY9Y5-_zDokZuuG3HLIrIsZ_ripNA"
-    },
-    {
-      "termino": "málaga - villarreal",
       "trafico": "200+",
-      "noticia": "Málaga 1-3 Villarreal: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/malaga-villarreal-en-directo-laliga-ea-sports-en-vivo-hoy-f202609-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKzoMxn0neFm6ZUo-NKnollvsXau35tXNRjshoOXPnd7oQnlkttSWkKG7Xhzc"
+      "noticia": "Kansas City Royals at Houston Astros Game Story, Scores/Highlights - 09/17/2026",
+      "enlace": "https://www.mlb.com/stories/game/824141",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwiGtvwf3lEofvVghg0Rat3WzKLhOnuokLeaRDeznAzrt-peCgkRyItgHwsgY"
     }
   ]
 }

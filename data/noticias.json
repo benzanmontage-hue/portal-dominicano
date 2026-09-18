@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T23:00:51.642364-04:00",
-  "hora": "23:00",
-  "fecha": "17/09/2026",
+  "updated": "2026-09-18T02:00:57.120329-04:00",
+  "hora": "02:00",
+  "fecha": "18/09/2026",
   "total": 15,
   "noticias": [
     {
@@ -13,14 +13,6 @@
       "imagen": "https://www.univision.com/api/image/og/us/shows/primer-impacto/furia-en-republica-dominicana-la-familia-de-un-nino-victima-de-presunto-abuso-protestan-por-prision-domiciliaria-al-acusado-video"
     },
     {
-      "titulo": "Centroamérica, México y la República Dominicana: oportunidades comerciales y de inversión - Naciones Unidas en México",
-      "fuente": "Naciones Unidas en México",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmNQbGFlNldQdnM5cFM5bUl5MWoweUV6R2VvYl9kTFJXMkpuZjRkejVUX2xScVozYnRtS1JNci1Ua0h1bWtRci1LZUZlYzIwM2J2T3h0bEYyZ0RseEhrY1FUZ2pnYmtNTzM3cGdlTkY4RkxiV1hJWkc4aGdvbzEyTEZjX0JPMkdWSndlVTZNVWNDN0FNLUZ5RWVTQ3ZrY29kc19peWFFMFo4bmdIRTdsV1VGYURVRDc4bElwUXg0VkRCeFJkWFk0TWV3OWszS3NHaG50OXBR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 21:30:21 GMT",
-      "imagen": "https://mexico.un.org/sites/default/files/styles/large/public/2026-09/Screenshot%202026-09-16%20152227.png?h=b2f02311&itok=xoyPDIuX"
-    },
-    {
       "titulo": "Trump incluye a RD entre países señalados por tránsito o producción de drogas para el 2027 - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXEtd3MwZWZGWmdyNHRpUzBKcE5XTllpbjJTdE5PUm9zUk92MnV4X3FxZEE3T2p4TldlbDliWkdRbnNERGo2RnAwTFdzc2hxZlp1cUd4eHZjVXlmNFlVRi1JYnFOaTJRdlp0NWJ2eUpEeEo4NEQzOEQxckV5bVNQeUVUNkFoMzBoSFNtNERvc0xHbHhpcmpLMlQzSnFycFZqQkpiTWpNLWhRb2cxbmk1T3BKTzNFbi1j?oc=5",
@@ -29,28 +21,44 @@
       "imagen": "https://resources.diariolibre.com/images/2026/06/26/13-detenidos-y-1833-paquetes-de-drogas-b4e35744-focus-0-0-1200-675.jpg"
     },
     {
-      "titulo": "¿Cómo caen los dominicanos en promesas para ir a Rusia? Diputado denuncia presunto mecanismo - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkwzSDJHNzVELUxFRGZvOTVMYklVMXhyelFvSVNsdjVLQzhzUFJndnlSemhlSm5vbHJWUmZTdWFhaWh2VnI5aWRpOU9oUHBTd0V1OVFITl9pOXNGRlkwdFRWWm1RVkZGVklUN1dYRHZuSEpaNmtVQTJkR0xqN1VSczk1V0RQaHJRUWd5clJWbWI0SnVnU1AxQ0JyWklQYUpJbi0yOU1WSlZwOXlPcjR2SVhYSHFQLW9fcE9tNlJCdzQ3N3YybmFhT0tR0gHPAUFVX3lxTE91QkUwcEswak1fVWxKbktCblM4ZHNJdm5zT2tqUVNXN1hjbGNxMWtzazR1OFpqN0JFc054RC11ZHZiZDRtcWNWWmgtSWFqeGtfd3VRTEEzbWxGYmZmRXVvcS1ZS1NJOWU2ajBob3QwN01CekJXU3N2X09hU0VDM09tRnpPcUZoSW9CU0lFcFFIc2ZwU3MycHhCWXZIa3RHcTZENXhQeVZiQk0xcWdxTHUtUXZVd0FDMlNCaWpad0N3eHVKSFh5cXBSaGhxaUlvNA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 23:00:24 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/17/6aac74da1f822.jpeg"
-    },
-    {
-      "titulo": "Residente anuncia inicio del rodaje de “Porto Rico” en República Dominicana - Acento",
+      "titulo": "República Dominicana estará representada en la Academia Latinoamericana de Música Avanzada (ALMA) por Yohali Montero y Héctor Almánzar - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFhhZFM4VWNWWi1DVnNscF9keEs5Q2hLYmkzTmZfYUdUMnN4UkJkSlhuSlQyVzB3dzNua20wRC1wckZfTVRIb0h3dm5ybC1MaTRoOVpzNXRkalVDOVpoM1VmNUN3OHlhbWtqRmx3UjJEbUpkSVRRV2o5QlR0alpQZnlHRDFZaEZFTVpBTDF1d2JuaHFpdjhRSmhZZURScFJQSjlSMzZLUUIybTE2bUhERFJncw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYl9xVXRyNzN2Unc5TnVGdEplZG5GTFNzaUpQSkFLZzNFMlhfVnhmWW1Wa2VXNDJReWEySUh2RWRzZjByS1NHZ3pnZ3hId0NmdFpzY3c1aEhTV3ZYNmNISExrMUFKeXlxcjNHanBZZUJSTk9qc0RJZDlVZG1PT2o3SXZQdEdyeFFheVl5ZTM1TU56d3c4dHZHRkEwRGpyMU0xQ2lSUmtYOUJ2QjdBSDRFazdjaG5OQ18ya1pZekJualFreDk4ZnhwNUs3TTNDLWF0R0ROakpvcXl2R1d2UWZWOWN5NzlqTVEwNGwtTThldXR5QmUtRjJTV1JUWHBkNm9Kd01ZWlR3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 17:28:58 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/WhatsApp-Image-2026-09-17-at-2.16.28-PM-1-OG.jpg"
+      "fecha": "Thu, 17 Sep 2026 22:55:36 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Becarios-Sinfonia-Participantes-RD-ALMA-OG.jpg"
     },
     {
-      "titulo": "Puerto Rico vence a República Dominicana y gana el Grupo A de la Copa Panamericana - Primera Hora",
-      "fuente": "Primera Hora",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZV9td0hPVThrdVRBajBGQ1gwQ3IwM1Nzd0JlOE45cFROdlJ2MUZzaEUzSlQ3MlgxbXpQT2FSWjN3ZFVESk5lUzFncExQa1Z0eURybXNMNlVNRHVqcDA0bEhwQm5kZldIajNRTlFneEgwR3ZhYm1KWWhVUkxvS1VkczljRmtaWnlndnRLcHpjdVRYelFEcXZTTkZEVnlpdTFQZ1FoenU5bUNudThZbEdvYTY0bGIyM010cmRwZ09uNUk3a2tfYWZwX0tVVUY3bENa?oc=5",
+      "titulo": "«Firmaron prácticamente como mercenarios»: Al menos 50 dominicanos aceptaron ir a combatir a Rusia - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1hsWTZYRWgxRVFBQmRVMVBiUTItdXdveVJpUlliTW1PLThuUkRZdDlyMXJGV0FkVF91OGhGTU52Snp3WmNZemxUa3AwN2J0ZkZrb2Utd2k1eEJfWGh5UkpwbFFiNkRUMU9qc2UxSWZOZDdGNmd5c1BOQ19aTjFBTjVSangxVDJwdVFwUzJCdlBkYmNoUnA3c1FaR3hQNzFnVE1RU2VTRi10NUF6RmRzVGpGQzFJSzZMendmZWFBWFBCNDNuOU8zOFpvUU5XNTdZWEp5TGFLRHFxLXhVczB6a2FWcVFJd1XSAYICQVVfeXFMT0RlSGUxQWZoSFozc0hheWRFdC1VZmZ0V1REQWlTcS1fcm9iUWEyUDl1azMzbDBYSUE3ZHVoYjZucXY5bUdlYkduOXRGa2tUMFQxMDE4T0VaT1Zjanc0WGpBNXRnOXZjTndrYk9KU0NaY0lyZUdzNHhwanZJaGdfNW5vY1NCZTU1ZF9KTkN2enowOVpXVTVIWFhSZFFoUG0xRk9fU05sVkZvOHFMeml0a1FQUGg3RzNfbHJBS3Y2SVppaXpFOVZYbkJ0UERxaW5XaExqdnJjR1RaSHJyY2lGbjJtdlp5cGVqSXdSRHRUUlRuandUbU5aVzdlRlM4QURGWDR3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 16 Sep 2026 12:59:24 GMT",
-      "imagen": "https://www.primerahora.com/resizer/v2/7ISQLWPWHZDI5MFSRVZGQZJI6Y.jpg?auth=26ef2d7da4267ea2e2334b4e02128a3dd100db9780c18d1298fcac8d7999290c&quality=75&width=1200&height=717&focal=2164%2C1927"
+      "fecha": "Wed, 16 Sep 2026 19:17:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/AFRX3ICX2ZCYHOIKSM7JYYSYFU.png?auth=0ce1e8607d86c3be0bdddfc14889b75a6bfefa94a04837633818794ddeab1da3&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "Residente califica su película 'Porto Rico', rodada en República Dominicana, como el proyecto más complejo de su carrera - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU2xfcVU4WmhvYW9ZcUZOR2dmcFhnY0M5NWpZdnZxdm1lZ3pEdGtjc29oMkRQLWVOWEphYkNzMGFsN1VrdFA4dll5VDZYUmpFWjFuVDk1VHVuNGY2QzVFOUpFUjdzVVN2RHpzY1Jxcm0tcDBZSHd4Q3Y5Y212ZHd1V21QcVNsaWgxT2IzWWg4NG0wZzN4MU1ScEc0cjhCb1NVa1lsZlMtV1lWTWlwYkhZcmdkUW5mOHNWUkpPbWlFeGVua3hIMUdZbWJWRnBUZzByLW1adXBZbzZ1MVVfS0prYzBuMDJrckR0TF9ueWd0NHhycm9F0gH6AUFVX3lxTE02Wllwd2dHN1AyTVJGNXJYSDFoRFFkWTNFZElqT1JoMFRjZjR1aGVqMFNPNkczVl9PV1g1Sng0TENqZjl1WHoxTjdJaHEyVXJua085SzdGVTZlTFpreW02ZmtvYmNEUnJBdXRFQWZnYm5VbDY4c1VMNXlpU3dsQWxTUDVDWTRTOFFMQmZvOGQtQzFsZjNjb3UxT3JBc0MyX0ZucHhObnJNbGpiUjRFUmZhT09xdmJTMndkSi1GdmtmUTZjRFU5SEJPU2t1WkdmNXZ5OHBVOHhBOG5ZcEdlSk9PeGc1emlIUE93OWliYVhsZURBdlBndXVJMlE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 17 Sep 2026 20:43:19 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/17/6aac4fec438ea.r_d.666-689-8344.jpeg"
+    },
+    {
+      "titulo": "Clima hoy en Santo Domingo, República Dominicana: el pronóstico del tiempo para este viernes 18 septiembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMThpVXlrMWRET2RjRG9NWFhOb3FmNWRrRGZORjVzd1Y5V3F4NFFicm1VdnFwemdHdlNjcmRqZllQQ0JEcWxRdGx0VzN2OVdwWURtMVhDUG1hQ19NSkNTdHFQX01idllLSTQ3eDhhUklnZ1ZHSTRPMi00QWRCT08wejNueC04cnl6dEVjdGJFUkxFYVhqNFhqX2hiMFg4V1ItX1JPNW9GNFZFNGM2T1F1VnFCX1IwQlg0aG83dkhfd05OXzEtS1VHUXRjRjdORk0yT2c4TkFMUm55UmlPMEMtbUNwcVLSAeoBQVVfeXFMUHczeV9lX3FxQ3ZGc2VVUFdrZUJqdGZjUVJweVA2V2k1Q19KSEMxZlVPX0ctWkNhNVFXajA2d2NfRXlVQzRRZ2xWQnNiU1lDNEhwQjZBSkJKcHhncWM5VWJUOWVFcXlrWkpsMXRWUnlHeTdjdmlqSkhDRzVvU3QxSnlyenlXV1ZjYnU0cVhOTnRxSkxaZ0gwNTd2ZlNBVzVkeE9tT3V5VlhhcDlhNHpIbzFPdE5IVnFHOVdySjhwOC1SbE40ZTFQNllSVHRhRTBTOE5rQ2dhaTdoYzJ3T2ZCekNScFhRTWFTWm9R?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 03:37:28 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Remesas alcanzan US$8,432.7 MM en República Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHVGelJwWkZVNUZWVE9zMU9SY0d4MlFmRlI2WUtNbUIwd2lzT0VYek91NXZCVHV6QXE1WU5RX1p2SFZpWldwdkFfNE42MG9Ed01jdGZWQTBYdC0xNWJZOFRHXzk2cE1jMzJSbHlzTVFBZjN1MUFMdTFfZy1qcDg5Tw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 17 Sep 2026 23:34:13 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana define equipo para enfrentar a Egipto en Copa Davis - El Nuevo Diario",
@@ -61,28 +69,20 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/eb6cc2ec-113f-40ec-bd90-98adec9b07f0-1200x1065.jpg"
     },
     {
-      "titulo": "¿Qué impacto tiene en RD el aumento de las tasas de interés de la Reserva Federal de EE. UU.? - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZmb1RvNHZVU2VvRXBldUkwb3RmT1h3ZnV0V1NNWkF3MmlxQWNxTWZhdDQ0UVFFb0k4bWZWbHZ0enFlUXA2cVVVeWlWX2dfYXJUYXcySEsxcllTeW5od2tXendrU25PYUxkd0VqemZDbkxlaHQ0c01aUFdWOHpydzlDZHBWMjVmUnNhcTRTWlhkcHJ4SVVfcFFIYWdsaUF4aV800gGoAUFVX3lxTE1kdW5zMTdPN2dRTm1ubl9YWnJSNWU1ZUdxM056eS1ERzVzQ0ZaV01XaDJrV3lLSVdCY2FPZFY5eFFxVzZrVzg5V1R5aW51SHRWR09kVkJXeWpubjdLRkhmM2NScDBVMXdkMmhReXNpWkJwVmZzNllrQk04ZkhhVW5BUUJLdVQ2MjlIOUJKRUhmSGMyZ2RiSWR4RWV0LVB6eGQwcml4Y0FQOQ?oc=5",
+      "titulo": "Vivienda y protección social en República Dominicana: avances y datos recientes - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3JwSjdPZ29Ic0lVSW9rYnVySWNvNEo3cEdBZW1zT1IwUkIxeFIzWmxIdnQ4LS1wTEI1RGgwcFE4Z1psY1BDZGVKNmJSWkFCanNLU0k4ckpWbmxFZll1VEJBbFdPVm83SVRjdUdmOFZkaVAxTUExWmZRd2wyZ3RFdElZVmp6cm90MEFyc0VvNDNlS3hralk1N1BRV1p2b2hhU2todEstUHB0YUtyYThJVU1SalY3U2t2clF3dVBKMlBINVN4bEVpd1FR?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 15:33:38 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/17/6aac0958eab5a.r_d.520-306-11538.jpeg"
+      "fecha": "Fri, 18 Sep 2026 04:00:00 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/17/6aac56694f488.jpeg"
     },
     {
-      "titulo": "República Dominicana, la ciudad bajo los adoquines - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTDlhWFVfZVdmSTFoaHgwYWdXRGNzNjN3cnpBQk93NWgwbFBGR2xIVmJwLVZzTGhuTHBRa2pXQ0NFb0lCU2J5ejdXM0w2clBZSnF3b2ZSd3JSRjlyYXRPd3M0RC0yOHZPcTQtRGFuMzlJNzBzX3RFaVhCM2w?oc=5",
+      "titulo": "Puerto Rico vence a República Dominicana y gana el Grupo A de la Copa Panamericana - Primera Hora",
+      "fuente": "Primera Hora",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZV9td0hPVThrdVRBajBGQ1gwQ3IwM1Nzd0JlOE45cFROdlJ2MUZzaEUzSlQ3MlgxbXpQT2FSWjN3ZFVESk5lUzFncExQa1Z0eURybXNMNlVNRHVqcDA0bEhwQm5kZldIajNRTlFneEgwR3ZhYm1KWWhVUkxvS1VkczljRmtaWnlndnRLcHpjdVRYelFEcXZTTkZEVnlpdTFQZ1FoenU5bUNudThZbEdvYTY0bGIyM010cmRwZ09uNUk3a2tfYWZwX0tVVUY3bENa?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 06:01:09 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Lenny Disla lleva los sabores de República Dominicana a la coctelería de autor - Metro Puerto Rico",
-      "fuente": "Metro Puerto Rico",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmJocm9zQ3dUM0Y2bVQyRmFmRnFkVFlLdkNYS2ZmVFNXNFM4OE5ZUU0wV3V3Z1RTbVVQcTZZMWE1YWYtVG9PRWRoZXJGU3FrNGFadV9JbGkzV09iaU4yZVdvMXEycGE4aGxLUDJUZ0VXZjBqT1AtVnVnUnVDX3hmN29hdERXX1dOaDM5N3RieGdUc2dLZVp3VFk1elpjemdqRzBoWlNLcjk3WmFQMlFfcmg0YUhPOW51Y09ETg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 17 Sep 2026 03:02:32 GMT",
-      "imagen": "https://www.metro.pr/api/image/MWLE647IDNCJVC67P6FJG5BT2A.png?w=1200&h=630"
+      "fecha": "Wed, 16 Sep 2026 12:59:24 GMT",
+      "imagen": "https://www.primerahora.com/resizer/v2/7ISQLWPWHZDI5MFSRVZGQZJI6Y.jpg?auth=26ef2d7da4267ea2e2334b4e02128a3dd100db9780c18d1298fcac8d7999290c&quality=75&width=1200&height=717&focal=2164%2C1927"
     },
     {
       "titulo": "Herencia Hispana: Probando comida de Puerto Rico y República Dominicana - Telemundo Orlando (31)",
@@ -109,20 +109,20 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
+      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "La presencia económica de China en la República Dominicana ha crecido con tal rapidez en los últimos años que ha adquirido una dimensión cada vez más visible y profunda, hasta convertirse en un factor que comienza a generar perturbaciones en el com - instagram.com",
       "fuente": "instagram.com",
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fRThTTzZYS29ReVRocTF2V29iUlM5ZmkzTW9vMU52ek8xczVfdmh2eU9VRGtZZ202bGRUY0I4XzB1WkdSMFozWE1NWk1aWDhfNnlCN1l3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 17 Sep 2026 23:53:44 GMT",
       "imagen": "https://scontent.cdninstagram.com/v/t51.71878-15/813177747_1394554715565154_8955568541534801649_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AsTTfmP23rkQ7kNvwEW2owi&_nc_oc=Adq-7bR3eW7GwI8nHDhDIs5E7v6hlZIPgHjENpD3jRfFZeKf8_ZkTTYjPS0080Fr0y8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=aMQhr3LXM9k-X6hcZ8JdPg&_nc_ss=7f689&oh=00_AQINdSGaL9iftE06iUdc45wwdPycu-SSZaGOvZWio9y3HA&oe=6AB274F5"
-    },
-    {
-      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - telemundo47.com",
-      "fuente": "telemundo47.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "imagen": "https://media.telemundo47.com/2026/08/GettyImages-2170071108.jpg?quality=85&strip=all&resize=1200%2C675"
     }
   ]
 }
