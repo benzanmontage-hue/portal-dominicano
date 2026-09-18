@@ -1,10 +1,45 @@
 {
-  "updated": "2026-09-17T17:00:44.314098-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-17T20:00:45.688903-04:00",
+  "hora": "20:00",
   "fecha": "17/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "astros - royals",
+      "trafico": "100+",
+      "noticia": "MLB: Kansas City Royals at Houston Astros",
+      "enlace": "https://www.reutersconnect.com/item/mlb-kansas-city-royals-at-houston-astros/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4MzY2ODQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5pvZcCtXud4FupAuWuM05QB4wP9SJNldYfR6k68dvGjZSkHeSGhzZSGCuNb8"
+    },
+    {
+      "termino": "mets - phillies",
+      "trafico": "500+",
+      "noticia": "Where to watch Mets game against the Phillies tonight (9/17): FREE MLB live stream",
+      "enlace": "https://www.nj.com/tv/2026/09/where-to-watch-mets-game-against-the-phillies-tonight-917-free-mlb-live-stream.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruzfRwzklEBxPKFTeX3O63NhPGYBOB6uctn7sIEYjC89S5XqhhMKU7SwhCLE"
+    },
+    {
+      "termino": "alfonso rodríguez",
+      "trafico": "500+",
+      "noticia": "¿Quién era y de qué murió la actriz y presentadora de televisión Elizabeth Ruiz?",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/17/se-revela-la-causa-de-muerte-de-la-actriz-elizabeth-ruiz/3662088",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzk1-NXsWSFCFW6s7Nj7qPQzD6a2TGlyltLmwkHkj7LYRz3D5Li82elSzWst4"
+    },
+    {
+      "termino": "spiderman brand new day",
+      "trafico": "200+",
+      "noticia": "‘Spider-Man: Brand New Day’ Hits No. 1 on All-Time Domestic Chart, Topping ‘Force Awakens’",
+      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSif2bA9KY1SW18cVqhIT0UQInVT-gUaUCY9Y5-_zDokZuuG3HLIrIsZ_ripNA"
+    },
+    {
+      "termino": "málaga - villarreal",
+      "trafico": "200+",
+      "noticia": "Málaga - Villarreal, en directo: LaLiga EA Sports, en vivo hoy",
+      "enlace": "https://as.com/futbol/primera/malaga-villarreal-en-directo-laliga-ea-sports-en-vivo-hoy-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_emGiMYCHoRenUMt9q_MuJ45340MlaD3Gx9W60tWmOWDF9P4sReEJ7B_ZC1Q"
+    },
     {
       "termino": "rockies - padres",
       "trafico": "1000+",
@@ -14,66 +49,31 @@
     },
     {
       "termino": "real sociedad - bournemouth",
-      "trafico": "200+",
-      "noticia": "Real Sociedad vs Bournemouth: UEFA Europa League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cwm2qe98vpdyt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWslUS5ZSFVSuJAaaXlBI5ikPl69KRW0Dm3fTmpGQNvfBF62f7nUPIj2rqCNo"
+      "trafico": "500+",
+      "noticia": "That s Bournemouth football - Rose sees lots to like in Europa League win",
+      "enlace": "https://www.skysports.com/football/news/11959/13588939/real-sociedad-1-2-bournemouth-justin-kluivert-and-rayan-goals-in-europa-league-clash-hand-cherries-first-ever-european-win",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM7I1nA2NDNvpNiow-KBwj1RsSqVauk58yuPIRoAOXEjg19FQxWV3ilKa2ufA"
     },
     {
       "termino": "país",
-      "trafico": "500+",
-      "noticia": "Presidente Abinader dice que RD negocia con EE. UU. sobre decreto que protege producción de arroz",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/16/abinader-habla-con-negociaciones-con-ee-uu-sobre-dr-cafta/3660954",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCg0_6z44Fnqqr3l-oMQ-UPWPF4tjYhuBUMet6fQBOIsL9_Ow_OROtleoguqY"
+      "trafico": "2000+",
+      "noticia": "INM RD y ONU exploran oportunidades de colaboración en temas migratorios",
+      "enlace": "https://elnuevodiario.com.do/inm-rd-y-onu-exploran-oportunidades-de-colaboracion-en-temas-migratorios/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbCUY2O62Ejige69-ErQF2VGby-VBTNDEpXdF7271Eo7ti5aHdu9gaUj3YaJQ"
     },
     {
       "termino": "manchester city - norwich",
       "trafico": "1000+",
-      "noticia": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score   radio commentary",
-      "enlace": "https://www.bbc.com/sport/football/live/cmlyjl6qdw6et",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMKAUl2E7Cgvf4HwzcJ2JFBW3QWj5gVJUPC62dyrShOyNrqKKO5xx_yzIpF9A"
+      "noticia": "Manchester City 5-0 Norwich City: EFL Cup clinic at the Etihad",
+      "enlace": "https://www.sofascore.com/news/manchester-city-5-0-norwich-city-efl-cup-clinic-at-the-etihad",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxFFjlncBJO7Z_w772LPaOdGEleZ9P8U82bBY-guRNhXPNmktRYWnYM8mKa4Q"
     },
     {
       "termino": "lotería real",
       "trafico": "2000+",
-      "noticia": "Lotería Nacional, en directo: comprobar los resultados y premios del sorteo de hoy, jueves 17 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-jueves-17-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTZnHYf8zERsxbwgD_P60hdX2FG3vsuTUEAyTIBLFn_ecv1NaOkOuxv8tf5E"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "1000+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "lotería",
-      "trafico": "200+",
       "noticia": "Resultados de la Lotería Nacional del 16 de septiembre: del Sorteo Magno al Melate",
       "enlace": "https://www.sinembargo.mx/4871880/resultados-de-la-loteria-nacional-del-16-de-septiembre-del-sorteo-magno-al-melate/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH3_jbOIiOj2Dp4zNQfW-MKEc4qR8wMtCEWHRlrFWN3-DBahe-ke1aTmLibx4"
-    },
-    {
-      "termino": "rays - athletics",
-      "trafico": "1000+",
-      "noticia": "MLB: Athletics at Tampa Bay Rays",
-      "enlace": "https://www.reutersconnect.com/item/mlb-athletics-at-tampa-bay-rays/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDEyMjU",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3CWQ5q-TghqWm0Cx71BfpJnzUbpQ6zpWNnob1BS3kbXc5xNFUxQoZ1ZxhEDk"
-    },
-    {
-      "termino": "los números de hoy",
-      "trafico": "200+",
-      "noticia": "Resultados de las loterías del 16 de septiembre de 2026 en República Dominicana",
-      "enlace": "https://revistamercado.do/actualidad/resultados-loterias-hoy-16-septiembre-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMaQNhe_oN2lZZK3eVevE1s_EwrdFx9cmx7xMifiWBGztNgfhDguQrdjAZRs"
-    },
-    {
-      "termino": "real betis - getafe",
-      "trafico": "1000+",
-      "noticia": "Manuel Pellegrini festejó sus 73 años con victoria del Real Betis",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17270166/manuel-pellegrini-festejo-73-anos-victoria-real-betis-getafe",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6ZY_A6XvUs7ALn4bSM9q6Eob5_HeBb5y7PJ0Rtecz7RxZJlY-CzUiNtrJ5_I"
     }
   ]
 }
