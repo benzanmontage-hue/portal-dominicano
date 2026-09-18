@@ -1,16 +1,58 @@
 {
-  "updated": "2026-09-18T05:00:48.857732-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-18T08:00:50.200017-04:00",
+  "hora": "08:00",
   "fecha": "18/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "valle salvaje",
+      "termino": "météo",
+      "trafico": "500+",
+      "noticia": "Averses orageuses, temps chaud et rafales de vent, de vendredi à dimanche, dans plusieurs provinces du Royaume",
+      "enlace": "https://snrtnews.com/article/averses-orageuses-temps-chaud-et-rafales-de-vent-de-vendredi-a-dimanche-dans-plusieurs",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP_yocU3Yo5w0aY3fwQS39-wZzNexgDPX2o5YNjEPhxf1CiPx1KICR07B4wiA"
+    },
+    {
+      "termino": "coe",
       "trafico": "200+",
-      "noticia": "Avance de ‘Valle Salvaje’ de hoy, 17 de septiembre: Bárbara hace una propuesta a Luisa",
-      "enlace": "https://okdiario.com/happyfm/avance-valle-salvaje-hoy-17-septiembre-barbara-hace-propuesta-luisa-20307435",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwwCMbJ1ZqJy-CyJrfbmHibE4GIS0lBZlkNsKOodM23AhB81H-B2o5Buoy_M"
+      "noticia": "COE mantiene tres demarcaciones en alerta amarilla y seis en verde por lluvias",
+      "enlace": "https://acento.com.do/ecologia/coe-mantiene-tres-demarcaciones-en-alerta-amarilla-y-seis-en-verde-por-lluvias-9754812.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBT5neRZDYqH7z4TSD5KGxl1OJAu1jWzT8FrbIfnKWQG8p-R02PVXcD217x0U"
+    },
+    {
+      "termino": "clima",
+      "trafico": "10000+",
+      "noticia": "Evolución del clima en Ciudad de Buenos Aires: máxima y mínima para hoy, 18 de septiembre de 2026",
+      "enlace": "https://www.canal26.com/clima/ciudad-de-buenos-aires/evolucion-del-clima-en-ciudad-de-buenos-aires-maxima-y-minima-para-hoy-18-de-septiembre-de-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9Fy8AFwG3QdXp576pqsnfS5b9NLB61QhEktslIWfCEGxA-wvAlTjujS7fVkY"
+    },
+    {
+      "termino": "tiempo",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 19 y domingo 20",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-el-fin-de-semana-el-pronostico-para-este-sabado-19-y-domingo-20-9754800.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
+    },
+    {
+      "termino": "weather",
+      "trafico": "500+",
+      "noticia": "NEXT Weather: 6 a.m. report for Minnesota on Sept. 18, 2026",
+      "enlace": "https://www.cbsnews.com/minnesota/video/next-weather-6-a-m-report-for-minnesota-on-sept-18-2026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQvdj3VYUnto0gZOrja6jxlbdVdkFkNyWf8VhckszcrYjX2cXbW-a8mk0uiKo"
+    },
+    {
+      "termino": "avelino abreu, sas",
+      "trafico": "200+",
+      "noticia": "Fallece Andrés Avelino Abreu Vargas, fundador de la compañía Avelino Abreu",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/17/fallece-andres-avelino-abreu-vargas/3662611",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtQcbO15I3d3QAIS5og34HdE3O7kD5wdf-WuU566RXhaqAde3Aekep2PMvrPY"
+    },
+    {
+      "termino": "presupuesto",
+      "trafico": "100+",
+      "noticia": "“No me tomen de tonta”: Patricia Bullrich insiste con los reclamos a la mesa política por no advertirle sobre las “bombas atómicas” del Presupuesto",
+      "enlace": "https://www.clarin.com/politica/tomen-tonta-bullrich-insiste-reclamos-mesa-politica-advertirle-bombas-atomicas-presupuesto_0_23a7Mvkze2.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuK2bOWogTXcH_x3jOlk6a8mYy5NiQG8p8QtSY_CjNqQmU_MrHLbSaKZjomp4"
     },
     {
       "termino": "angels - twins",
@@ -20,60 +62,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzEXi8unS9nRMgui2qiFF-awLNHeIyMGSMaHHvXQuAulk2iaQizJ31rw3ycQ"
     },
     {
+      "termino": "valle salvaje",
+      "trafico": "200+",
+      "noticia": "Avance de ‘Valle Salvaje’ de hoy, 17 de septiembre: Bárbara hace una propuesta a Luisa",
+      "enlace": "https://okdiario.com/happyfm/avance-valle-salvaje-hoy-17-septiembre-barbara-hace-propuesta-luisa-20307435",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwwCMbJ1ZqJy-CyJrfbmHibE4GIS0lBZlkNsKOodM23AhB81H-B2o5Buoy_M"
+    },
+    {
       "termino": "maicol peluche",
       "trafico": "200+",
-      "noticia": "PN ultima a dos de los involucrados en muerte de Diddy Glow",
-      "enlace": "https://listindiario.com/la-republica/justicia/20260916/pn-ultima-dos-involucrados-muerte-diddy-glow_922513.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSztsaEfsV2Kx1WMzPXTYZTZDXAJ5Gswo6rG-KeJxnux6F3WKDEWutQQ-2bc0g"
-    },
-    {
-      "termino": "yordan álvarez",
-      "trafico": "200+",
-      "noticia": "Yordan Álvarez queda a un HR del liderato (40)",
-      "enlace": "https://www.mlb.com/es/video/yordan-alvarez-queda-a-un-hr-del-liderato-40",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9OSkYX0mMY6pCvFt4HxS7qBAgQl26Nmj_zp-6uoQv39jat7Lb7v11GJZQ1BY"
-    },
-    {
-      "termino": "white sox - tigers",
-      "trafico": "200+",
-      "noticia": "Detroit Tigers vs. Chicago White Sox 19/9/26 - Mira Juego en vivo",
-      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401817004",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO7Y1jbzH-vZcsYqujzhRt83033Vx5Z70akAxy7r_yDjysWk6hf8H0dsuCX0I"
-    },
-    {
-      "termino": "rangers - red sox",
-      "trafico": "500+",
-      "noticia": "MLB: Boston Red Sox at Texas Rangers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-boston-red-sox-at-texas-rangers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NDY2NzU",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFQKafOxKMfR96zq4hv1fLAvT5WjMtblP5XiTCBRu6YHub7hBOXZsdkZF-xk"
-    },
-    {
-      "termino": "wnba",
-      "trafico": "200+",
-      "noticia": "Instant Takeaways: Storm Give Up Season-High Points vs. Aces in First Game Back From FIBA Break",
-      "enlace": "https://www.emeraldcityspectrum.com/home/storm-give-up-season-high-points-vs-aces-in-first-game-back-from-fiba-break",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1L4txsRk6avXrbhtPoeFeh5q49Ul_K39eMnLEokneGpHUUKfh5vJOfbXWU3o"
-    },
-    {
-      "termino": "astros - royals",
-      "trafico": "200+",
-      "noticia": "Kansas City Royals at Houston Astros Game Story, Scores/Highlights - 09/17/2026",
-      "enlace": "https://www.mlb.com/stories/game/824141",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwiGtvwf3lEofvVghg0Rat3WzKLhOnuokLeaRDeznAzrt-peCgkRyItgHwsgY"
-    },
-    {
-      "termino": "mets - phillies",
-      "trafico": "1000+",
-      "noticia": "Nothing Good: Phillies 3, Mets 0",
-      "enlace": "https://sports.yahoo.com/articles/nothing-good-phillies-3-mets-022220059.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO_oHB15wo2wXDzkPsSCijtqMwTpCsPL3a45iUcKhDKxO1i5MrO8EBRayr6Nk"
-    },
-    {
-      "termino": "alfonso rodríguez",
-      "trafico": "1000+",
-      "noticia": "¿Quién era y de qué murió la actriz y presentadora de televisión Elizabeth Ruiz?",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/17/se-revela-la-causa-de-muerte-de-la-actriz-elizabeth-ruiz/3662088",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzk1-NXsWSFCFW6s7Nj7qPQzD6a2TGlyltLmwkHkj7LYRz3D5Li82elSzWst4"
+      "noticia": "Suman 14 los presuntos delincuentes ultimados por la Policía en una semana",
+      "enlace": "https://eldia.com.do/suman-14-los-presuntos-delincuentes-ultimados-por-la-policia-en-una-semana/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvPpWTVTEnzdC0-DTgY46B15HCzh-vY3yswNigmhjPio7VlZuD6vJJHQZO_ko"
     }
   ]
 }
