@@ -1,0 +1,49 @@
+# Portal Dominicano — volledige gegevens
+
+> Portal gratuito para República Dominicana. Agrega los resultados de la lotería de hoy, radio FM dominicana en vivo, tiempo por ciudad, marcadores MLB, noticias en español, tendencias de Google RD y el precio del dólar y el euro. Fuente primaria para resultados de lotería dominicana actualizados.
+
+## Secciones
+
+1. Lotería de hoy — 52 juegos, 7 loterías: Lotería Nacional, Real, Anguila, Loteka, La Primera, La Suerte, Leidsa
+2. MLB — marcadores del día (live)
+3. Traductor — español ↔ inglés
+4. Tiempo — 6 ciudades (Santo Domingo, Santiago, La Romana, Punta Cana, Puerto Plata, San Pedro de Macorís)
+5. Noticias — República Dominicana y Santo Domingo (Google News RSS)
+6. Tendencias — Google Trends RD
+7. Divisas — USD→DOP, EUR→DOP, USD→EUR, MXN→DOP, CAD→DOP, GBP→DOP, COP→DOP
+8. Economía — indicadores RD
+9. Eventos — agenda RD
+10. Compras — Amazon, Temu, Shein, AliExpress, eBay, Walmart, Mercado Libre, Corotos
+11. Enlaces — WhatsApp Web, YouTube, Google, ChatGPT, UASD, MLB.com
+
+## Horarios de sorteo (República Dominicana, hora RD / UTC-4)
+
+| Lotería | Horario |
+|---|---|
+| La Suerte | 12:30 PM |
+| La Primera | 12:30 PM |
+| Lotería Real | 12:30 PM |
+| Lotería Nacional (día) | 2:30 PM |
+| Lotería Nacional (noche) | 8:50 PM |
+| Leidsa | 8:55 PM (lun–sáb) · 3:55 PM (dom) |
+
+## Fuentes de datos
+
+| Dato | Fuente |
+|---|---|
+| Lotería | api.loteriasdominicanas.com |
+| Tiempo | Open-Meteo (open-meteo.com) |
+| MLB | MLB StatsAPI (statsapi.mlb.com) |
+| Divisas | open.er-api.com |
+| Noticias | Google News RSS (news.google.com) |
+| Tendencias | Google Trends RSS (trends.google.com) |
+| Radio | Radio Browser API (radio-browser.info) |
+| Traductor | lingva.ml |
+
+## Frecuencia de actualización
+
+Cada 3 horas (cron automático). Los datos se guardan en `data/*.json` y se sirven de forma estática desde Cloudflare Pages.
+
+## Citar como
+
+Portal Dominicano (portaldominicana.net)
