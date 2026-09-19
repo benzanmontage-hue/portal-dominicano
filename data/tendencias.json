@@ -1,37 +1,65 @@
 {
-  "updated": "2026-09-18T17:00:53.197096-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-18T20:00:54.415641-04:00",
+  "hora": "20:00",
   "fecha": "18/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "pirates - royals",
+      "trafico": "100+",
+      "noticia": "Kansas City Royals vs. Pittsburgh Pirates 20/9/26 - Mira Juego en vivo",
+      "enlace": "https://espndeportes.espn.com/watch/player/_/eventCalendarId/401817015",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwuxacyxEx3S7uKlIib5a-XD5eQ7yR7qhjLVw18Fv6r-O_HGRUQoFcXwvLkxA"
+    },
+    {
+      "termino": "reds - cubs",
+      "trafico": "100+",
+      "noticia": "Elche 2-3 Real Madrid (Sep 15, 2026) Player Stats",
+      "enlace": "https://www.espn.com/soccer/player-stats/_/gameId/401882872",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5x7OQJeNQM647sx7xzNO8YLXYj-jDzq-zIO7mjkvV9Vh9fmumYfaxiyfsxGs"
+    },
+    {
+      "termino": "rays - red sox",
+      "trafico": "1000+",
+      "noticia": "Red Sox travel to Tampa to face Rays, move magic number down",
+      "enlace": "https://www.overthemonster.com/red-sox-game-information/108963/red-sox-travel-to-tampa-to-face-rays-move-magic-number-down",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9UkAgW80DDoHiBS2TVTbyzOOR6tjVe9ZfiyoTxUZyyjyzln1es1DSppDmJy4"
+    },
+    {
+      "termino": "construcción",
+      "trafico": "500+",
+      "noticia": "Paliza anuncia construcción del nuevo teleférico de Puerto Plata comenzará el 30 de septiembre",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/18/inicio-de-construccion-del-teleferico-de-puerto-plata-el-30-de-septiembre/3663686",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPVGu5YgA_fRmPaEFHa0LNbgQ-a123xRVDcakr-iYbXkaR1C_BICCt0nCA_M0"
+    },
+    {
       "termino": "combustible",
-      "trafico": "200+",
+      "trafico": "2000+",
       "noticia": "Los principales combustibles suben hasta RD$9.00; gasolina premium costará RD$350",
       "enlace": "https://www.diariolibre.com/economia/energia/2026/09/18/combustibles-suben-y-alcanzan-precios-historicos/3663454",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZDGaSp4fXg7UnMNnp8fnomHJQZYzfoICmof6AvvlvpxKeKjKKFPK6-4HEvrI"
     },
     {
       "termino": "rcd espanyol - elche c. f.",
-      "trafico": "500+",
-      "noticia": "Espanyol - Elche, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+      "trafico": "1000+",
+      "noticia": "Espanyol - Elche: resumen, resultado y goles del partido de LaLiga EA Sports",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/espanyol-elche/2026/09/18/01_0101_20260918_177_954-directo.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEIPY418x_FC0wiZQwZ5-jFvEarIhUxeFwpatiE6yD_zxAogQIEjyZoejFfys"
     },
     {
       "termino": "brentford - chelsea",
-      "trafico": "200+",
-      "noticia": "Premier League: Thiago doubles lead as Brentford stun Chelsea",
-      "enlace": "https://www.bbc.com/sport/football/live/cmrl69xy3lyyt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjHNV_VI_gJu98U8xItJ3wBmVB251hS5Pnth-wR9i3D9NPo4oBk5e7q31e9Os"
+      "trafico": "500+",
+      "noticia": "Xabi Alonso says Chelsea were  out of control  in Brentford loss",
+      "enlace": "https://www.espn.com/soccer/story/_/id/49975410/alonso-says-chelsea-were-control-brentford-defeat",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI3br0BOj33tjhgu72MtE_sd24BLjE-pe1B5lbubs20TtjTt092F4QN23N95w"
     },
     {
       "termino": "bayern - fc union berlin",
       "trafico": "1000+",
-      "noticia": "Kantersieg vor Wiesn-Start! Bayern schenken Union Berlin sieben Mal ein",
-      "enlace": "https://fcbayern.com/de/news/spielberichte/2026/09/spielbericht-bundesliga-fc-bayern-1-fc-union-berlin",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqJqTifDtPTF4n8VmTSk9WB1W1umOMjL4riixMXP8by3-b4gpZj8257eSmRws"
+      "noticia": "Liveticker | Bayern München - 1. FC Union Berlin 7:0 | 4. Spieltag | Bundesliga 2026/27",
+      "enlace": "https://www.kicker.de/bayern-gegen-union-2026-bundesliga-5226836/ticker",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpDr_k0HgRsaM6_GmD4z6tdB8oWVr1KSYiYRjkTcRYU8E2GdFH5VNOfjPCw-Y"
     },
     {
       "termino": "laura escanes",
@@ -43,37 +71,9 @@
     {
       "termino": "senasa",
       "trafico": "500+",
-      "noticia": "Caso Senasa 2.0: ejecutivos de farmacias, médicos y familiares de imputados, entre nuevos detenidos",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/18/caso-senasa-20-ejecutivos-de-farmacias-y-medicos-entre-detenidos/3663267",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0OwP8ERUhSNQnyrB_niN6PGyODk1xw94y25SPKRR9pP71WH1grKgbKdufcI"
-    },
-    {
-      "termino": "green card",
-      "trafico": "200+",
-      "noticia": "Why Trump’s new rule for green card applicants is sparking controversy",
-      "enlace": "https://www.cnn.com/2026/09/18/politics/trump-immigration-rule-controversy",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUe8fQ-Pt3_BtFLZdH90_4ok2DtCtJSUZffwYGhPkffhhoW0FY1DZVznNgLHw"
-    },
-    {
-      "termino": "dan caine",
-      "trafico": "200+",
-      "noticia": "U.S. and Massachusetts flags will fly at half-staff for POW/MIA recognition",
-      "enlace": "https://www.wwlp.com/news/massachusetts/u-s-and-massachusetts-flags-will-fly-at-half-staff-for-pow-mia-recognition/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OyGn8XifjD2-wByPQ6mgQOKVDh_2fI9SSJA29agpeMJTVVw81LplLN9gpDI"
-    },
-    {
-      "termino": "boston red sox",
-      "trafico": "500+",
-      "noticia": "Red Sox travel to Tampa to face Rays, move magic number down",
-      "enlace": "https://www.overthemonster.com/red-sox-game-information/108963/red-sox-travel-to-tampa-to-face-rays-move-magic-number-down",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9UkAgW80DDoHiBS2TVTbyzOOR6tjVe9ZfiyoTxUZyyjyzln1es1DSppDmJy4"
-    },
-    {
-      "termino": "windy",
-      "trafico": "100+",
-      "noticia": "Rain chances increase as humidity builds into the weekend",
-      "enlace": "https://www.wesh.com/article/central-florida-weekend-rain-chances-storms/73786022",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuLHPByYdanXKfA46halP_bVTV5TSRilJhwx_rL175RRlnM2IfQFE7XCTY9S8"
+      "noticia": "Caso Senasa 2.0: médicos cobraban por consultas falsas y luego repartían parte del dinero",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/18/senasa-20-medicos-cobraban-servicios-que-nunca-prestaron/3663468",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvSyZ1dGWFlPSfn-MBN9jM75qablj6TaKRvu2-T57FG7s5jqrQ3nD4VIjYYyY"
     }
   ]
 }
