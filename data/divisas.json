@@ -1,25 +1,25 @@
 {
-  "updated": "2026-09-18T20:01:09.998073-04:00",
-  "hora": "20:01",
+  "updated": "2026-09-18T23:01:04.535786-04:00",
+  "hora": "23:01",
   "fecha": "18/09/2026",
-  "fuente_updated": "Fri, 18 Sep 2026 00:02:31 +0000",
-  "dop_por_usd": 58.79,
+  "fuente_updated": "Sat, 19 Sep 2026 00:02:31 +0000",
+  "dop_por_usd": 58.88,
   "conversiones": [
     {
       "moneda": "Dólar (USD)",
       "codigo": "USD",
       "bandera": "🇺🇸",
       "a": "DOP",
-      "valor": 58.79,
-      "texto": "1 USD = 58.79 DOP"
+      "valor": 58.88,
+      "texto": "1 USD = 58.88 DOP"
     },
     {
       "moneda": "Euro (EUR)",
       "codigo": "EUR",
       "bandera": "🇪🇺",
       "a": "DOP",
-      "valor": 67.53,
-      "texto": "1 EUR = 67.53 DOP"
+      "valor": 67.58,
+      "texto": "1 EUR = 67.58 DOP"
     },
     {
       "moneda": "Dólar (USD)",
@@ -42,16 +42,16 @@
       "codigo": "CAD",
       "bandera": "🇨🇦",
       "a": "DOP",
-      "valor": 42.06,
-      "texto": "1 CAD = 42.06 DOP"
+      "valor": 42.08,
+      "texto": "1 CAD = 42.08 DOP"
     },
     {
       "moneda": "Libra (GBP)",
       "codigo": "GBP",
       "bandera": "🇬🇧",
       "a": "DOP",
-      "valor": 78.57,
-      "texto": "1 GBP = 78.57 DOP"
+      "valor": 78.7,
+      "texto": "1 GBP = 78.70 DOP"
     },
     {
       "moneda": "Peso colombiano (COP)",
