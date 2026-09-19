@@ -1,79 +1,79 @@
 {
-  "updated": "2026-09-19T08:00:59.165633-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-19T14:01:02.640822-04:00",
+  "hora": "14:01",
   "fecha": "19/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "resultado loteria",
+      "termino": "primera",
+      "trafico": "100+",
+      "noticia": "Delcy Rodríguez se reunirá con Trump en Nueva York en un gesto inédito de acercamiento",
+      "enlace": "https://elpais.com/america/2026-09-18/delcy-rodriguez-se-reunira-con-trump-en-nueva-york-en-un-gesto-inedito-de-acercamiento.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT91eqEje0AuA4F7U-psKwJx-TKEdvSiR9GChkf_eMdTOnNinfUhK1o7On_6vI"
+    },
+    {
+      "termino": "juegos",
+      "trafico": "100+",
+      "noticia": "Santa Fe, uno de los anfitriones de los Juegos Suramericanos 2026",
+      "enlace": "https://espndeportes.espn.com/hockey-sobre-cesped/nota/_/id/17270419/leonas-leones-juegos-suramericanos-santa-fe-argentina-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPExCJyPk8w5rlUc8PChjaTMnaVvLCKjoiacqXhkG5Om-_Uu7t5eeFp36UJko"
+    },
+    {
+      "termino": "amazon",
+      "trafico": "100+",
+      "noticia": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
+      "enlace": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSds0x6uYw01hh9IIQcvcuMCh19HMcaaLNcARuzVLWiDIM68D_AzAFx0Lv6CN4"
+    },
+    {
+      "termino": "rnc",
+      "trafico": "100+",
+      "noticia": "Iowa has become tricky territory for GOP in midterm election homestretch",
+      "enlace": "https://thehill.com/homenews/campaign/6099069-iowa-gop-trump-midterm-strategy/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAZ7TD4CLd8dDVcgGHOw907ZVnpmiagvkT9YKU8ulEqU-WLXNiHZ8padEXgg"
+    },
+    {
+      "termino": "google",
       "trafico": "500+",
-      "noticia": "Resultados de la Lotería Primera Hoy 18 de septiembre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-primera-hoy-18-septiembre-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQU6K66yrD3GYKsYKfqHP8DLJil5lfpB_OpK2vwAheRl6_ZapGGnUVboeAoD4"
+      "noticia": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "enlace": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_eQOx92ZHxTeW4aUJhEgLDNZHSORt8lm9YYRVUf9wCeo6o0xwWkHA70YCl14"
     },
     {
       "termino": "administration",
+      "trafico": "200+",
+      "noticia": "D.C. Official to Trump Admin: Scrap Arch, Build 1925 Columns",
+      "enlace": "https://www.yahoo.com/news/politics/articles/d-c-official-trump-admin-202132972.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC_WQw_HoZhcQ094CtXDpPr_j424S5mGu3Ql8oF62dhXDt6EUGucWLjhkeAOs"
+    },
+    {
+      "termino": "netflix",
       "trafico": "100+",
-      "noticia": "JD Vance’s telling ‘give us another chance’ flub",
-      "enlace": "https://www.cnn.com/2026/09/17/politics/vance-another-chance-comment",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9ao247r6ApsllQIuA3h1LT0N-zJHP9kPH97qZejypN-H4mKMauHZf3yMneq4"
+      "noticia": "‘Stranger Things’ Officially Returns to Netflix Today",
+      "enlace": "https://collider.com/netflix-stranger-things-tales-from-85-season-2-release-september-2026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTg2x6nemddq-wIuPH-QbySAC6xpAHqzvTQH4k3w5P9fvD1V_jWKzYGMrXS3ok"
     },
     {
       "termino": "after",
-      "trafico": "100+",
-      "noticia": "Walmart customer, 77, beaten to death by parents of teen employee after shopping cart dispute, widow says",
-      "enlace": "https://nypost.com/2026/09/19/us-news/walmart-customer-bert-atienza-killed-after-teen-employee-parents-attack-him-over-cart-dispute/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGGDzP42DT4S5bwJ9yGlI1HjSIcHIQl2Xlp0qS1YQC_dvlbV9BA9Y8kQoZeHM"
+      "trafico": "200+",
+      "noticia": "Live Updates: CNN, Politico and MS NOW Reporters Denied White House Access After Trump Announces Ban",
+      "enlace": "https://www.nytimes.com/live/2026/09/19/business/trump-white-house-press-ban",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCu0IT15OJU-nEHSmksFEMY3-tqScp3_yHIzbZVilSrnctB1ooPeJGq8AnJuE"
     },
     {
       "termino": "action",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
       "enlace": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1IFCJqocavLJWLvbdNuAQqDYYKrkq7P2xSQ_uk0IiFmOo7h2K-tWGqy_0fuI"
     },
     {
       "termino": "address",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "10 Things Jaguars Must Do to Beat Broncos in Tough Week 2 Road Test",
       "enlace": "https://www.jaguars.com/news/10-things-jaguars-must-do-to-beat-broncos-in-tough-week-2-road-test",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQUMM_1otVAwtl46ahMTRR5oYQMI4oGuDbEU14CEGRCLRpLsQdv_yps3yp3Q"
-    },
-    {
-      "termino": "act",
-      "trafico": "100+",
-      "noticia": "What investors should expect for crypto after Clarity Act fails to advance",
-      "enlace": "https://finance.yahoo.com/video/investors-expect-crypto-clarity-act-205030947.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCHru2ju_h48z--pPRlUdC7rcaHDyLhL8MKCIdhHIggtFUy7qOmkortMZLX4"
-    },
-    {
-      "termino": "ability",
-      "trafico": "100+",
-      "noticia": "The Liftoff Scenario That Terrifies A.I. Doomsayers",
-      "enlace": "https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3ItmxGlw5g_KzdVl3esR2GhMmpRnHDPdvhnJ9iYJFjZd84LbhdGQr4ls2JFg"
-    },
-    {
-      "termino": "m",
-      "trafico": "100+",
-      "noticia": "Uber ordered to pay $40M after driver leaves intoxicated California woman on freeway",
-      "enlace": "https://www.foxbusiness.com/technology/uber-ordered-pay-40m-after-driver-leaves-intoxicated-california-woman-freeway",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUdJUj1qRe8_7bdnwW9xwrhOc1dOWTIPK4K4VBgNUo20cowgI0GjPvbAwztiE"
-    },
-    {
-      "termino": "dodgers - giants",
-      "trafico": "200+",
-      "noticia": "MLB: San Francisco Giants at Los Angeles Dodgers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-san-francisco-giants-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NTM0MTc",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn9KFBA-1GBoo9c9bsQpyQdm8pF2t8uRddOSbIHBG8qWlXmrvlOyJVCXtIb2I"
-    },
-    {
-      "termino": "jeremy peña",
-      "trafico": "200+",
-      "noticia": "If Astros are to win AL West, it will start with Jeremy Peña. Here s why",
-      "enlace": "https://www.houstonchronicle.com/sports/astros/article/jeremy-pena-houston-al-west-22437933.php",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOt5uJDn3z6CXLhgGjIUaqL9PGnh-jhAbU0aIM-BlT71cwHs66f9I0SdMB-oY"
     }
   ]
 }
