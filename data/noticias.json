@@ -1,16 +1,56 @@
 {
-  "updated": "2026-09-19T05:01:07.690381-04:00",
-  "hora": "05:01",
+  "updated": "2026-09-19T08:01:04.391032-04:00",
+  "hora": "08:01",
   "fecha": "19/09/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "República Dominicana: fuera del mapa del hambre crónica, pero aún con inseguridad alimentaria - EL PAÍS",
-      "fuente": "EL PAÍS",
+      "titulo": "República Dominicana: fuera del mapa del hambre crónica, pero aún con inseguridad alimentaria - elpais.com",
+      "fuente": "elpais.com",
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVVmWTBMcWUzVkN4Ulo5ZDFxNHRQRnRZcmNCLVJzZXdUR29WWEE0UVlmS2lHWWZJZmlROEhDOXlCOEwtTmxTZFpFcU5ReC11VjRWdFJwYzBHOG9WeHltcG5HU2F3SHNKUmhFUm1HT1lsSkpqZGgxXzZ4NXZXNmt1X1ZzVXViQzNqMG5UR3RUdDVuc2hjV0lwcVVObXBfaUZubXpBTF9xc2t6ZEYtYVVfY2pHVTJNV3lsUndMSkN0TnYxbnhGQU50NktfSGZMb2hpMWc2cTE5ejDSAewBQVVfeXFMUG5abm1TOW1FWHVoYVFBUWdlNE80cG9sSTdJV0pnNDBUOHg3YlBKN1RHM2ROTUE4MmxTRlhMcmwwM285TjZoM2t0ZWhNQTd1bWdyc3FvejNoRFc4WkI0QXpvR3owZE1URUQ3aWhZdmJaQkNHNGZYQVBsSHRnS256T2VjYnRwMjJwT1RsaGgtS3BuV3Rnb0x6Z2xJb3hvQ1VfWVJ0TkFmM0NtZ25ZM2VkaXlaZ1czcWJ0T3NKU3Eycm9UTHdDVHhsM3ZFWTRiYm9nZVRGbHZjUkVPR0FsLXlPR0JpWndlelBUeE9SeHM?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 18 Sep 2026 09:30:00 GMT",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CPFWM7ACXVE4JO7POMXRJTIEYY.jpg?auth=2a529f0ae1db3d9f38ec3a2aca1a3dbfd241cbdf0a87e84fe200b9a3c776f30e&width=1200"
+    },
+    {
+      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este sábado 19 de septiembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmVTdzNHY1RwXy1GbWRUOVdDYlpqSWNKMWpsRHRwWEFPSXhCTlp0M0pGbF8xTXE5cThCYmd2N2IxNjVNRnV0ZnRIOEpvQTIwRnRkSVhoSHhYU1JRcWZWRnNhYUxiVHNYU3FjRTZYNm5FRXRxRW1GeVBRMFdWVTVaLThxTVdnMUtuUFhuTkE2Y1FIVXdFSkg4VS1BSC1JNHh2RzdQN29MQUVlM1BjUHlwVUJ4ckE0VUs0TmFLUGxpN2RVdE5mNjJUaUs5blJiZ1ljOHZ0UlMxYVM2OTVkRXJiejVMSExGS0g00gHuAUFVX3lxTE5KY1J6bHZxR0pzNzIzcHB6Tm9DMlZoVUNaQUpNbzBEdzF4a2NVNk5rUDk5NHVlczB6b2s0Nm5WdTVYdW52VDR2ZThBYzV5NE84M1VyeHZEVFFseURpT1FLbHVINHk5UUNjX1p0WEtHRFI1blNWR3ZMekZfSnRNczRzcmMzWTdTeHdBNEhkTFMtV0FXRktVeUJya2dUYjdBazg3RFNwZnNFQkRzR185ZGNCaDVQLU1KUnZjTVJxSHdHNHVQdFhsaXVHb19iOVlKQUZnTktXekZnLWRCNUNJWWU5QWVEUjBJbFhLZGJENFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 19 Sep 2026 10:40:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "A cuatro años de Fiona: así impactó el huracán a República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHpaVVJ2UnNnVFZzTzlkcEppNzJ1WHRsUE9vR1hrZlk3elVjQWNuYXJ6NmRvUmJwUXBJUEgwVWY5WGRBWEhDdHQ1STRDMk1EQnBmckpOXzhxWUF1cllqVmpZTVRqNmowTDNZQ1VySXZQY09ZUXUzVF9SUW13cC03NFRHN0c2MjJwN0E3VVN1dHFmZHZ3WGl0a0VhZW5COU15TEhqdGR3UzJGMFpweHFmVnFqQ1loSmfSAbwBQVVfeXFMTTVEaVJkLXUwWHFFTDhwV0NPLWVRMFg1ai02blJESG9MTkk4cHJCaVAtN1FPSUFkd1dSbXhpWC1IWUlDeFJ0THRsVHI5V2s0RjVmanI3T1BNMkdjQkU0bkZDSzhibHhyNTNWQ3BFcU5Xd21uN2dadndkZngtMUhaUHpKYzlUN3RuVzZyQ3JsSFNaYV81enF5UDMydGdZa0pFM3didkttR1I1dWE0c2kwa05tdElkcHFWMHhtQmQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 19 Sep 2026 11:20:00 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/05/13/6a047e509465d.jpeg"
+    },
+    {
+      "titulo": "República Dominicana defiende hoy corona ante Estados Unidos en Copa Panam - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkVpZlJ0VFR4ZURWRjlSZkVmSGZxXzB2czlaNWM0OUZyRVNiWGZGTEZvcU9pSGhXQ0JoUDQyZFdCVDNjTTB3ZUptZFh5aV9CNldYWDVQbnZFdkVyVXZaS0lsbXZDUGdRbU1pN0hUM19hYzk4Qk93V09DeUMyMXhna01JQkpyOHpNWDdQX01GZEdTM0dPQ2hhOVd5ZDVFckw4a3JTekFyR1l4Nm1WOWRRYzIxSkNvbEp4WkcyZmF5U21HTjJOVW5SaUJMUlfSAdIBQVVfeXFMTWRBdHFYTkxEMzRMNkUxcHpkZTZHWEJYNWhxQnNkUGdxVkxvNVdzVnV4TDV0U3JKREc3dWpwV2dNTDRGYWY5T0psYmRWdGtzRVhVNjJyc0pTS2NpQUxYUmp3TzJnU2t2alNBTHRuTWp2YkdEXzJTSlRRMk5kdzh0eUpoVXJNOHF1dVlHMHA0SFRUaU9BaGxsQ2FZOTh0X2p5a3NZendxaHFuZHV5YWdUNDAtdjlQNUhmNThENVVqWDE2MHBXdDV4X0VjRXFwNW1EVTRB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 13:39:02 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/18/6aad3e777ccfc.jpeg"
+    },
+    {
+      "titulo": "Honduras y República Dominicana lanzan estampillas por 102 años de relaciones diplomáticas - ElHeraldo.hn",
+      "fuente": "ElHeraldo.hn",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3pGSnBYTEJBZUFHRTJxT2RGMTM2ZWJqRGtQYXF3WHAzNjItNVo5VVUya3A2MDJRaHgxUFQzVDA2WEVMdnVsT3dpTUxpUUlReEEwUmh1ckx2bjFJaGk4WHBFQ19iNVYzNnFXYndkSlhaWkphUjRtdnhWZWZ1LVh6TGN0dV9yTkxONVBFbHp2Q21GR21VTEFRbk1PRXJMcGdFaXlHZ3ZMWUNWMnRsT290SEFjbzJjeUtDMGV5RFJLZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 20:25:41 GMT",
+      "imagen": "https://www.elheraldo.hn/binrepository/1201x757/0c116/1200d630/none/45933/OHIQ/diseno-sin-titulo-2026-09-18t13155_15630446_20260918131605.jpg"
+    },
+    {
+      "titulo": "Presentan en NY libro “Diplomacia Pública para la República Dominicana”, de Néstor Cerón Suero - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHNVSkVFM2k1bEw5TGYtMDZmR2p1VWI5QVRXdU5WY0RDNGpXNWdBak9fOWpRRHhCMWFGNlRoUXBtX0d5ZDJNcXlvWDBKV0ZMYW8tUUc2azhUcnpzSDl5NDRTOXVqXzg3WXUyQWpVNXlZME4tLUY3YmlFeWU1YnpfT1N2S1dpb2ZHenIxUTNkekVJdFJRWUdMTXhZRVZiUGE0czJVOTZDRl93WFpYU3dHbVBJb1hLNUtaV0QxcWln?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 21:05:58 GMT",
+      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Presentan-en-NY-libro-Diplomacia-Publica-para-la-Republica-Dominicana-de-Nestor-Ceron-Suero-4.jpeg"
     },
     {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 19 y domingo 20 - Acento",
@@ -21,12 +61,20 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
     },
     {
-      "titulo": "República Dominicana domina los sencillos ante Egipto en la Copa Davis - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0hWeERZUXdNUEQ4eWVNd0FJdE1vWkVOR0owRmxTOHRDZUFxQ2p3SVdzOEl5STZ1TkNoZ1liblJEN3hobFZJQ3VNNXNCSXlRQVNtTUtXQlJkMmJFTGlNZldreEhZbGpqeEdsdE1jUjVVRjh0OGlmMW5WM1BFeGc3SFRyaVlxYVdsZmxVdVBCbDZ2NVFHMlF2emNQNVdEblJISGc?oc=5",
+      "titulo": "VIDEO | República Dominicana fortaleció conexiones aéreas con Europa en Top Resa - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnpCeWFfd0NZV3A0N1U1Y1VaWWZpQVdjdjRzemV4LVIwNHF1SkYyaHFoUnE0N3NVRkNZLWNRVURkX3l3RzZHNzMwU1JKVWVuYTJ3U1kyTGhCNG9MX2k4YWZ6ZGJfcW83SS15ZVZNQ0FNbmFqbXFHYndUMmE3a3dvOHhtc3hZV1ViOVBETFVPTFZfeFdCRWdIa1RyQlAxRS02dnhDb0FDWUlDU1Q5SEdpbGxqdzl4dXh6WVM3RHNtVGU0cExJ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 19:15:54 GMT",
-      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/e620e0c8-c188-418b-8999-3b9a96ce6bb1-1200x960.jpg"
+      "fecha": "Fri, 18 Sep 2026 01:29:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/09/18/dominicana-fortalecio-conexiones-aereas-con-europa-en-top-resa-72a67bea-focus-0.01-min0.25-1200-675.jpg"
+    },
+    {
+      "titulo": "Nick Hardt y Roberto Cid dan a República Dominicana los dos primeros puntos frente a Egipto - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWh4bzJ5eXN3eUhHbVN2TzdFVUFUTXEyYXlqWEJFa3dWQWZKRlVMYnVCLWRveHZpbUo2UGdBaW1NM1F1eVFFY0gyN0U3UVdDTzNCdExvMEJjT2VKQThsQ1ozWmN5bm84VFQwMXd4TGwyM09lMG1obV9QMFp6WGM3cjd5azFzYllPVFhtTHFlcHJqekRMbDZzUUd5SG1NYmh2Zzl3aFdEeExLM2dtblB4TVZTY1oxaEFaN2hwemFHbHhXT1FSbFFn0gHMAUFVX3lxTE9TZkk2Q0d2S2JqRFZSYmVSYXItaVNtTHhOMXdESk9FRTZmWXR6WkladENJOXJGZTFrVURzM0c0c3lLYWQ1cmJXZi1WN00zS0ZyYzhpT2M5bnBkME55WVBJSU0zQ0RRdHJJb0pqOTBMYURfWGxUdGRjY2N0dkpQa29oNVFNM1Y2Ri1FZnU4emROWEJ0SFlIU3kxRFRhRFRUV2xISExEVGs1Nlc1ZzZjaUhXZ01HX0lYQl9DMTZ1eFdTWElrSlduUmVFR1BIaQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 23:25:15 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/18/6aadc7e024762.r_d.727-474-9375.jpeg"
     },
     {
       "titulo": "República Dominicana buscará ante Egipto ascenso Copa Davis - AlMomento.net",
@@ -45,64 +93,16 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/3b2796b2-9d52-4cb9-a41e-2f70a916519d-1200x1200.jpg"
     },
     {
-      "titulo": "Honduras y República Dominicana lanzan estampillas por 102 años de relaciones diplomáticas - ElHeraldo.hn",
-      "fuente": "ElHeraldo.hn",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3pGSnBYTEJBZUFHRTJxT2RGMTM2ZWJqRGtQYXF3WHAzNjItNVo5VVUya3A2MDJRaHgxUFQzVDA2WEVMdnVsT3dpTUxpUUlReEEwUmh1ckx2bjFJaGk4WHBFQ19iNVYzNnFXYndkSlhaWkphUjRtdnhWZWZ1LVh6TGN0dV9yTkxONVBFbHp2Q21GR21VTEFRbk1PRXJMcGdFaXlHZ3ZMWUNWMnRsT290SEFjbzJjeUtDMGV5RFJLZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 20:25:41 GMT",
-      "imagen": "https://www.elheraldo.hn/binrepository/1201x757/0c116/1200d630/none/45933/OHIQ/diseno-sin-titulo-2026-09-18t13155_15630446_20260918131605.jpg"
-    },
-    {
-      "titulo": "República Dominicana defiende hoy corona ante Estados Unidos en Copa Panam - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkVpZlJ0VFR4ZURWRjlSZkVmSGZxXzB2czlaNWM0OUZyRVNiWGZGTEZvcU9pSGhXQ0JoUDQyZFdCVDNjTTB3ZUptZFh5aV9CNldYWDVQbnZFdkVyVXZaS0lsbXZDUGdRbU1pN0hUM19hYzk4Qk93V09DeUMyMXhna01JQkpyOHpNWDdQX01GZEdTM0dPQ2hhOVd5ZDVFckw4a3JTekFyR1l4Nm1WOWRRYzIxSkNvbEp4WkcyZmF5U21HTjJOVW5SaUJMUlfSAdIBQVVfeXFMTWRBdHFYTkxEMzRMNkUxcHpkZTZHWEJYNWhxQnNkUGdxVkxvNVdzVnV4TDV0U3JKREc3dWpwV2dNTDRGYWY5T0psYmRWdGtzRVhVNjJyc0pTS2NpQUxYUmp3TzJnU2t2alNBTHRuTWp2YkdEXzJTSlRRMk5kdzh0eUpoVXJNOHF1dVlHMHA0SFRUaU9BaGxsQ2FZOTh0X2p5a3NZendxaHFuZHV5YWdUNDAtdjlQNUhmNThENVVqWDE2MHBXdDV4X0VjRXFwNW1EVTRB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 13:39:02 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/18/6aad3e777ccfc.jpeg"
-    },
-    {
-      "titulo": "Presentan en NY libro “Diplomacia Pública para la República Dominicana”, de Néstor Cerón Suero - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHNVSkVFM2k1bEw5TGYtMDZmR2p1VWI5QVRXdU5WY0RDNGpXNWdBak9fOWpRRHhCMWFGNlRoUXBtX0d5ZDJNcXlvWDBKV0ZMYW8tUUc2azhUcnpzSDl5NDRTOXVqXzg3WXUyQWpVNXlZME4tLUY3YmlFeWU1YnpfT1N2S1dpb2ZHenIxUTNkekVJdFJRWUdMTXhZRVZiUGE0czJVOTZDRl93WFpYU3dHbVBJb1hLNUtaV0QxcWln?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 21:05:58 GMT",
-      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Presentan-en-NY-libro-Diplomacia-Publica-para-la-Republica-Dominicana-de-Nestor-Ceron-Suero-4.jpeg"
-    },
-    {
-      "titulo": "VIDEO | República Dominicana fortaleció conexiones aéreas con Europa en Top Resa - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnpCeWFfd0NZV3A0N1U1Y1VaWWZpQVdjdjRzemV4LVIwNHF1SkYyaHFoUnE0N3NVRkNZLWNRVURkX3l3RzZHNzMwU1JKVWVuYTJ3U1kyTGhCNG9MX2k4YWZ6ZGJfcW83SS15ZVZNQ0FNbmFqbXFHYndUMmE3a3dvOHhtc3hZV1ViOVBETFVPTFZfeFdCRWdIa1RyQlAxRS02dnhDb0FDWUlDU1Q5SEdpbGxqdzl4dXh6WVM3RHNtVGU0cExJ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 01:29:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/09/18/dominicana-fortalecio-conexiones-aereas-con-europa-en-top-resa-72a67bea-focus-0.01-min0.25-1200-675.jpg"
-    },
-    {
-      "titulo": "Remesas alcanzan US$8,432.7 MM en República Dominicana - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHVGelJwWkZVNUZWVE9zMU9SY0d4MlFmRlI2WUtNbUIwd2lzT0VYek91NXZCVHV6QXE1WU5RX1p2SFZpWldwdkFfNE42MG9Ed01jdGZWQTBYdC0xNWJZOFRHXzk2cE1jMzJSbHlzTVFBZjN1MUFMdTFfZy1qcDg5Tw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 11:22:58 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Estados Unidos incluyó a Centroamérica y a República Dominicana en la lista de tránsito o producción de drogas - Infobae",
-      "fuente": "Infobae",
+      "titulo": "Estados Unidos incluyó a Centroamérica y a República Dominicana en la lista de tránsito o producción de drogas - infobae.com",
+      "fuente": "infobae.com",
       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaGVLZFVlTDB3T1VLOVB6aW1WcXBtZzM3UHpnb3pJWnJEbXV3QU84dmI5X2diTGNpeUtlTVdZdmFvLTM3M2s4WVJEVVNTa1c0b3BCa25heGx4SnBtMGdNeXpxYUdOOUJEZzA4akhxRnppcWptdFg4TENWckt1dE1YWWxKclVoRXVXN0V4OGtwbjFhQUpxMXVRRHExM1hFWWUyVEE3eVpZb2xYVXVyRzFrVUw5VUNTZU9BQ01TOU5KSk5rV3NLamQ1VzFZNzhKY2QyNl8tQ2cyVks5cEwtYXV6NmdoblhCVW9NZnFXRGE2NNIBigJBVV95cUxPRk00Z2JkejZvY3RKc1E0TkxiRld0ek9XdDBaWHNKVXM1a0YxdzBxRnE5TTFHRTBVYTlLLUhfRDQ5N1Yxd2ZHcVNFaHVzNEh0dGk3TndHanB3TF9LTy1Rb3M2Mnl5MWw3TW9fZW9QZGdnN01rQzl4blowLUNHM2ZtOXhlanBkNXg1UGgzODBTTU9GYkV2SU5jU2hZTmJpT3lZOFVMOGNocmd6d1Z0bEJiSkFoZjJwX1hSRFNxRENNcWMxSUxKMU1MQ2FCUndSWlNETE5NQkNId3FQQ3lFWjRpWHhDUjFyUHk2SEhnei1mUVdsZUl2X0EwcVZVcTlXaWx3N0xZRGFEbWpJUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 16 Sep 2026 22:38:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/V5Y5BGEE2NHODJZE3FIN2TLPY4.jpg?auth=3723deb0461bc503009524c14c946db2aa3e4f49adb22eb2820a62145a4568e7&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Clima hoy en Punta Cana, República Dominicana: el pronóstico del tiempo para este sábado 19 septiembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmxfdDh4dXlwMFZOcWlSOFhTZ210a3JxYjh6cGpRZTdiSkU4ZEhUXzRJZVRfXzQzZ2wtZDVtejZaNDY2STMzamZsT0dTNjIxc1g2WDdDNWdpbl9lQzRrSFpwN1hoRHpxWWV3UF9RUEdTUlFyOFYwNUVTU3ppck1YVUNzd0FWckJud3VaelhEQ0hnaVk2RWN0bFhncFJCTFJNdmRKZl9DbVZQci00bXFYUWFuUy03SGNYODI5andXcGh2ZUlSYVBhTWhWc3Vjc2NWVEhXOW1lMUhBOG0tV3FN0gHkAUFVX3lxTFAxN1EyTTBWTDNWZ0VVRU8wc3JKYzhrRGhtRVd6eWl3NUFkejlzemwwNmtTRjRUUzI1TXdVemM4OUROR1N3TWs1dXlyakxHWS02NE9mb0kxZHhGN0ZDZnd3UWlpcW1FNmhSM001VXpPdG5yTm82aV8yWVBBVjdXSjdFN09UaVB5ZGhrTmJuajFBU1lnZXVOUG96T29ZX0FRMko3c29Fcm02VTV0MldXS2VlTDJ4N2tSX3RqeUlvNTZuSG1udUIxUDc5cTJucHRkSGRUQnh4RGJLWEdsV052Ylp1YXUtMQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 03:37:16 GMT",
-      "imagen": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_2000x1500__1.jpg"
-    },
-    {
-      "titulo": "República Dominicana: Autoridades detienen a un colombiano por intentar salir del país con más de USD 600,000 sin declarar - Infobae",
-      "fuente": "Infobae",
+      "titulo": "República Dominicana: Autoridades detienen a un colombiano por intentar salir del país con más de USD 600,000 sin declarar - infobae.com",
+      "fuente": "infobae.com",
       "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcnk1cmRvRkRnbzFaNW84cncyYll3NzBYbG02YTl1WDU1dVlEeGZseHM2bUozRTRVZ0FqaGZ3bFk5czhoMFlJdy1vWFNFNGN1Z01OclZyUnh5MFVjVkxkcmFYQUhnQ0NaYjFFMEhjYkpxYWs0ZlR0VDg3NzN0S0VQcE5jdHlSM09mbU9fckU0aEtBMS13YzdoVWUwSHdZQXVQZjRhTi1SeFRTaUNuWXotd0E0U1d3dTMwbFhPYjc4OGdBWDhzZE43cHJfUWZTWUM1aFFqVDJvaDZQcUVnb2hEazRkNDE2OGE5d1ZqVHVmTlEzX1pqcWY3U0E2Tmt6dVB6VE05Q2hNbzTSAaMCQVVfeXFMTndtQy1leHVEemt6NzlIWVBuS3J2MFdzZVpCTTM2Qkl5UE1ZbmdPM0twRS1OSHplakRqc2tYZFAwX1FvUlNZZVFFYjQweWFHRXRDbGI4TGt2LXY3NFhmbzI3NndZcHRyakh2RUdtcTJabW9GbncyZHAyWFVIeXRZaUpMV3hQVW5EU2U1dC1fX21Qc0tuaWxhUmt1eWs2aU1VZVhPYndYclFVdEt4N3gzdlpwSkYwUGd0RGhkU1NUSVVrRERQVXFuWVh5c2k1REJPdWhmaWV4YVJnaDRtM1k1RVhtOE1KUHdTM3gyc0I5Z2RxOUl1QmZCNVY5OHlkQmRCdlo4RTlZb2dVYnROLVRoYnpDd0hTY0xMOGRfcmtZSjNPMWEw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 04 Sep 2026 07:00:00 GMT",
