@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-18T23:00:55.892553-04:00",
-  "hora": "23:00",
-  "fecha": "18/09/2026",
+  "updated": "2026-09-19T02:00:56.675609-04:00",
+  "hora": "02:00",
+  "fecha": "19/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "dodgers - giants",
+      "termino": "m",
       "trafico": "100+",
+      "noticia": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
+      "enlace": "https://www.bbc.com/news/articles/cqp8d1gw6l8po",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaUJ85mVuWk2kziltTOPk-cRORwAWp3y5mpVj_62Zo3_KrBxFGcR95P-UyBLQ"
+    },
+    {
+      "termino": "dodgers - giants",
+      "trafico": "200+",
       "noticia": "Giants vs Dodgers Prediction, Picks   Odds for Tonight s MLB Game",
       "enlace": "https://www.covers.com/mlb/giants-vs-dodgers-prediction-picks-odds-friday-9-18-2026",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrE0CnwxSv3egEhZxR7cutdN0NzL_zpM-lyR6DxmEC6tKmRcFaonc-Tyv54HQ"
@@ -15,30 +22,30 @@
     {
       "termino": "jeremy peña",
       "trafico": "100+",
-      "noticia": "Astros hit FIVE homers in 6-2 win",
-      "enlace": "https://www.mlb.com/rays/video/astros-hit-five-homers-in-6-2-win",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6aaXdmr8XpwIAJbQwvQNQN_qXSi36doqlYj_aGEOvFQI2QaogDfrVhP7bxJ4"
+      "noticia": "If Astros are to win AL West, it will start with Jeremy Peña. Here s why",
+      "enlace": "https://www.houstonchronicle.com/sports/astros/article/jeremy-pena-houston-al-west-22437933.php",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOt5uJDn3z6CXLhgGjIUaqL9PGnh-jhAbU0aIM-BlT71cwHs66f9I0SdMB-oY"
     },
     {
       "termino": "padres - marlins",
-      "trafico": "100+",
-      "noticia": "Padres on deck: Marlins looking to continue to play spoiler",
-      "enlace": "https://www.sandiegouniontribune.com/2026/09/18/padres-on-deck-marlins-looking-to-continue-to-play-spoiler/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCXug7IrEkHgQYLXmdMfYswJpaNOPk2rVgMBbiiZYP9ZFe0sKvTHpxR-YYQcw"
+      "trafico": "500+",
+      "noticia": "Resumen Marlins @ Padres, Resultados/Jugadas destacadas - 18/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823252?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F823252%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list%26r%3D%252Fes",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEIbIYHR5wbtVTpWDZtmVZ6U4U-R-LbnkXmxJLeTWyCoKAFBlNTGMG3mdCKSE"
     },
     {
       "termino": "dbacks - yankees",
-      "trafico": "500+",
-      "noticia": "MLB: New York Yankees at Arizona Diamondbacks",
-      "enlace": "https://www.reutersconnect.com/item/mlb-new-york-yankees-at-arizona-diamondbacks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4NTMxOTE",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXlY9eXtDAgW2R3R_U2kDWvuIRkErerdUeYIOpK74o8tgU8SwzPfuyOmMc_sA"
+      "trafico": "1000+",
+      "noticia": "MLB Gameday: Cubs 4, Reds 6 Resultado Final (18/09/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/cubs-vs-reds/2026/09/18/824463/final/wrap",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIoyVwQ5d4MFftCZkSGNyH5sCGtez1gNW4K-U21ka-fa6QworavRUbeb2TpA"
     },
     {
       "termino": "juan soto",
       "trafico": "1000+",
-      "noticia": "Urquidy shines in Phils debut, but Kerkering s struggles continue",
-      "enlace": "https://www.mlb.com/news/orion-kerkering-struggles-continue-in-phillies-loss",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBUvA2HjNrrWC-VMRbUL98NVSab1qYGx8GLq9_DgMnmwzCg94xt9PWQ0S5u0Q"
+      "noticia": "The Mets slug their way over the Phillies behind Zac Thornton",
+      "enlace": "https://www.amazinavenue.com/new-york-mets-scores/100887/mets-phillies-recap-thornton-soto-lindor-benge",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSW9IO8ycpUPN3NCODjvudw6s481r_WmtaKIomm5QcqrPoJaI7cwbgiekezkM"
     },
     {
       "termino": "pete alonso",
@@ -64,16 +71,9 @@
     {
       "termino": "wnba",
       "trafico": "200+",
-      "noticia": "Watch Kelsey Mitchell Set WNBA Record for Most Points Scored in Single-Season on Video for Fever",
-      "enlace": "https://bleacherreport.com/articles/25500684-watch-kelsey-mitchell-set-wnba-record-most-points-scored-single-season-video-fever",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoeuYWitDA5ic-t6uRMSLgKoSBqLgC2K9vZsnpCUqv4RKdoVL1HxY-k4Trsog"
-    },
-    {
-      "termino": "pirates - royals",
-      "trafico": "200+",
-      "noticia": "Kansas City Royals at Pittsburgh Pirates Game Story, Scores/Highlights - 09/18/2026",
-      "enlace": "https://www.mlb.com/stories/game/823331",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKOBrGUrPe9RSZn9eOxLzldGaPyGx5i-M2hfix6UAMeU3sSdv-CnRw5s5O6Ac"
+      "noticia": "Caitlin Clark returns after FIBA title as Kelsey Mitchell sets WNBA scoring mark in Fever victory over Tempo",
+      "enlace": "https://www.foxnews.com/outkick-sports/caitlin-clark-returns-fiba-title-kelsey-mitchell-sets-wnba-scoring-mark-fever-victory-tempo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP75GZXWxG5AhoPc2g7z3sT4G4G27aigRWMvhPyZpWyGSh4d71GXETb06LHAc"
     }
   ]
 }
