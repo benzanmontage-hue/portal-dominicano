@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-19T23:00:11.690147-04:00",
-  "hora": "23:00",
-  "fecha": "19/09/2026",
+  "updated": "2026-09-20T02:00:12.856434-04:00",
+  "hora": "02:00",
+  "fecha": "20/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "padres - marlins",
+      "trafico": "100+",
+      "noticia": "Padres take hold of 2nd Wild Card spot with Salas  walk-off hit",
+      "enlace": "https://www.mlb.com/news/padres-claim-sole-possession-of-2nd-wild-card-spot",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQao8yaaLDsQ693C6iHCDM9P3B10XOgGZY3oMS-iUvuA3lhd70QU-HgF_59NY"
+    },
     {
       "termino": "primera",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "amazon",
       "trafico": "100+",
-      "noticia": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
-      "enlace": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSds0x6uYw01hh9IIQcvcuMCh19HMcaaLNcARuzVLWiDIM68D_AzAFx0Lv6CN4"
+      "noticia": "Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour, and launches grocery discount and access to new lifetime banking benefits to make everyday life more affordable for our tea",
+      "enlace": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-starting-pay-adds-grocery-banking-benefits",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkhmIQXT5wOPTO2tnlQvnscHmw7MH3PvWQjtNVpGiDQlNOsCqD4ZxiNOPuEfI"
     },
     {
       "termino": "tiktok",
@@ -43,37 +50,30 @@
     {
       "termino": "google",
       "trafico": "500+",
-      "noticia": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development",
-      "enlace": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRu-juchzbrFhrp46Gj1clNYSIMsRjqLct16yjz1dvZ3NRNwTKxVZ-oiU43oAY"
+      "noticia": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "enlace": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJJm4PBPxsK6y0tSs1Kn3Jkf-b8eK469mEYwq5EU38a3HcWCjspBiwCLu1bI"
     },
     {
       "termino": "administration",
       "trafico": "200+",
-      "noticia": "NAACP sues to block Trump administration from sending armed agents to polls",
-      "enlace": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSeFp9tU-A4CgjjxkI5I77jFBzu-77q5ae5v0BN2z59IDcAclsv6EsuzuR9ZI"
+      "noticia": "A DHS email raises new questions about the Trump administration s election plans",
+      "enlace": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2HwqsROaPsFHlWjlWwBsTxMqmD_yoDK5E0L-fM26ntEL7tvTHN-dFyuR68W8"
     },
     {
       "termino": "netflix",
       "trafico": "100+",
-      "noticia": "Netflix Cancels  Sweet Magnolias , Orders  Ladies Of The House  (Excl)",
-      "enlace": "https://deadline.com/2026/09/sweet-magnolias-canceled-joanna-garcia-ladies-of-the-house-1237107743/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR36w15QJhsCOBKIYRMtQQUAYjHmhjCV0BZuk3MhOLpioDi1YAwgLV_kVqaOAI"
+      "noticia": "Widow s Bay  Creator s Failed Franchise Reboot Is Officially Leaving Netflix",
+      "enlace": "https://collider.com/ghostbusters-2016-answer-the-call-leaving-netflix-october-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrXKWbWhhRrRIHXbo1T5buedNHSE8rBNSJvwIeaMIXV3sdxB4_HSGv8rlB0kU"
     },
     {
       "termino": "after",
       "trafico": "200+",
-      "noticia": "MS NOW journalists denied entry to White House on day after Trump bans them in First Amendment test",
-      "enlace": "https://www.ms.now/news/trump-ban-ms-now-cnn-politico-white-house",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTII-Vm0_Kbu7NqZXphrz-YS2baqzY4ns_yQbLt8JVrG3NSxDeOkenFBb9YMYY"
-    },
-    {
-      "termino": "action",
-      "trafico": "200+",
-      "noticia": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
-      "enlace": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1IFCJqocavLJWLvbdNuAQqDYYKrkq7P2xSQ_uk0IiFmOo7h2K-tWGqy_0fuI"
+      "noticia": "Ole Miss, Chambliss spoil Kiffin s return to Oxford, upset LSU",
+      "enlace": "https://www.espn.com/college-football/story/_/id/49985998/ole-miss-chambliss-spoil-kiffin-return-oxford-upset-lsu",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGcp39YN9jDzqY6ow_KAoeObXZcn-BivnK5K_ZF7Gt5Lweh9UjFROFyb0y5TE"
     }
   ]
 }

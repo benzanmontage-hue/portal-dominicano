@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-19T23:00:25.131428-04:00",
-  "hora": "23:00",
-  "fecha": "19/09/2026",
+  "updated": "2026-09-20T02:00:22.860612-04:00",
+  "hora": "02:00",
+  "fecha": "20/09/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Vuelo que inició en un centro aéreo de deportaciones de ICE aterrizó en San Isidro - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTTFpSm5ydWpXd0wxY2hwMXRJQzdjSTQwSkhUX2JTRDRTckJzVHVDSnVrdFRsVEhFVzMtTVZfUFB1dmY0LS1ySXN6Vlc4TU9GaFlqNkJnZ1pGUWdSNUM0WV94a3dxQ214RGZBS1g1aHJnb3FxcWpzWlI5QU00Y2M0a2puQUFGTXZpOXIyY0Jfa25hWERYU3RWbkJXQ2xmTHJKYkNxUE5VbUZCVU9TOXpkZGFESC1Wc0RYRjlKSWIyeXVjRlJmMlFjTW130gHPAUFVX3lxTE5Sdk9FdW9qNk5UQkhRYXNsNkd0N2JTenpxZmRfWnBoNElFcXJ3M0FnSUlFSHFYNVQ0Wkg1T0g5eXI3d3dMcm5ZWFdEUWtFQVR6Vk9QcGQ0NXVRejg4YzRsa0VyX0E4cjlmYkxUcW5RVnFwbDJFSEY2TVlJQ3dlNVB2VDhNczBadEdRSWt5MjZkWkc0SGdzaXUtbW9pWjB0cURzS0pVOFl0T2FJWkt3eXNaVG1kNlhfUFpxSjNsMFVNcGtQbXp6YVNOODBUMFp5QQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 23:32:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2025/07/22/d0ad817e-cc8f-48cf-96da-ab76298889c5-fd5f3a63-focus-0-0-1200-675_wam.jpg"
-    },
     {
       "titulo": "El Salvador, Honduras, México y República Dominicana prohibirán ingreso de quienes posterguen renovación de pasaporte - Proceso Digital",
       "fuente": "Proceso Digital",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlneGo1ZmxHdkdrajdONkFDT05KQzJ2QS1wZ3lzYlB4VDZNM2NWUVFkWHkwVlA4LXVseWVpMG8xNXRQYXMxc254VlZJYjktY0RHUjNFNV9WUlNUaGppUTBtOGJpRHF1QWtONnR6UTNQUVFpQWZtQ0hITHRsZEFJQTFaMVFTMDJTRGxkSHE4bG9jSjZPQ0d0SG5LS1hxSVlYQU1WMWtSb0hUQ1U5ZmRMZ0UzeUd5UjRJQzk5VXdUSWZtbVMxYVZtaGxGbjBvRWFw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 18 Sep 2026 20:52:15 GMT",
+      "imagen": "https://proceso.hn/wp-content/uploads/2026/09/Pasaporte-vencido.jpg"
+    },
+    {
+      "titulo": "Vuelo de ICE Air llega a San Isidro y apunta a primer traslado bajo acuerdo migratorio RD-EE. UU. - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOF9GcWg0dHpuUG5BVEg5ZFN3M19mRjVmcDUyUkhjR19YNXRhTThHQWJsTDduRE9jbGQ4VUVzSHJzUmlHdFljOHlDaUVjWlR2R0lPNDF1NC1iSGltQ1lna2NmQ2xYci10ZEhQNEFValdmWmQwT04yU0l3cVNMQ1lpNGxvQUx5UUgtcGhQWkFVT2JaMVVEZERYY1pjZTRWLU5VUGdkbnB3dzdsV3luYTZ2azBBT2pzYTctdl9oYTNTOVZoZWdQaW5ZMTdlSHgwUzkzV21ZbDRjT1TSAdgBQVVfeXFMTzhfRnFoNHR6blBuQVRIOWRTdzNfZkY1ZnA1MlJIY0dfWDV0YU04R0FibEw3bkRPY2xkOFVFc0hyc1JpR3RZYzh5Q2lFY1pUdkdJTzQxdTQtYkhpbUNZZ2tjZkNsWHItdGRIUDRBVWpXZlpkME9OMlNJd3FTTENZaTRsb0FMeVFILXBoUFpBVU9iWjFVRGREWGNaY2U0Vi1OVVBnZG5wd3c3bFd5bmE2dmswQU9qc2E3LXZfaGEzUzlWaGVnUGluWTE3ZUh4MFM5M1dtWWw0Y09U?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 19 Sep 2026 15:04:31 GMT",
       "imagen": ""
     },
     {
@@ -29,12 +29,20 @@
       "imagen": "https://imagenes.elpais.com/resizer/v2/CPFWM7ACXVE4JO7POMXRJTIEYY.jpg?auth=2a529f0ae1db3d9f38ec3a2aca1a3dbfd241cbdf0a87e84fe200b9a3c776f30e&width=1200"
     },
     {
-      "titulo": "República Dominicana tiene menos nacimientos y las madres son cada vez mayores - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGlMREstTUhBam1rZGlQbTIycTNpLWtwVmZaU1VWeGZjRE9IcVotYU5hNnlvZlVFdmNxMmtvQVYzenAtNi0waFU1cWxpamljeGtvbFVHVmRPaldGR2lydTNJVklENV9tMU16SEQ2N0tnUUE2SUxacGtoaHpXSkJXaUliZERNbldQbGNzUFlTQmg0MWtCaUVzQmY1QjYyWHl3ZFJxbUZuclBDY3BFbGtoRmt0THhYWE04aWh0bDVIWdIBvwFBVV95cUxQbGlMREstTUhBam1rZGlQbTIycTNpLWtwVmZaU1VWeGZjRE9IcVotYU5hNnlvZlVFdmNxMmtvQVYzenAtNi0waFU1cWxpamljeGtvbFVHVmRPaldGR2lydTNJVklENV9tMU16SEQ2N0tnUUE2SUxacGtoaHpXSkJXaUliZERNbldQbGNzUFlTQmg0MWtCaUVzQmY1QjYyWHl3ZFJxbUZuclBDY3BFbGtoRmt0THhYWE04aWh0bDVIWQ?oc=5",
+      "titulo": "República Dominicana buscará bronce Clasificatorio Olímpico - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGdkY2tkN01seXdrU1FwODJuYk9QQmxqSWQzRXhUMlROMnFzR2ttcTZ5T1FLYTV0eVpPNTZFZGFDdkh2U29rcnBLV200SkRTaG1PQ2s3YTE3cXRaeExmbzAzQXctUmR4M1BrT2V5dmtUZWdoNzFKUENNbWlZLUJfZHRHVHh4RC10NlE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 12:00:39 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/pregnant-woman-home-reviewing-clipboard-OG.jpg"
+      "fecha": "Sun, 20 Sep 2026 05:01:44 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clima hoy en Punta Cana, República Dominicana: el pronóstico del tiempo para este domingo 20 septiembre de 2026 - clarin.com",
+      "fuente": "clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3BXSF84THZMVnZMMUw3d1FDcWJLQkRkUV9ERUxVanpRNlJKU2lHV3JhUm14WV8xZ2pQbGlSaERQajN0Wkk4SzA3RVVXd1IzZlcya3E0aXNFeC1PUmVHSXBUbEhqdTBZSnB0ZU11MGoxVWZiTkU0cnZUQmsxY0duZTk1dGM3b3NxUHNFU1ppNWpLVFNtX3R4Q2x2a2RVdmJ3amIxMzdSMmhQcEFPTERpSnBGcVZoQXNlRWVkUVVfS1NqLW9ldmk5Z1RVTVBVVlJORnhLNUVsTkdXUk81WGllU9IB5gFBVV95cUxOTFpkSGh0WXlqeW1PRWlnTko1Q3hCQllZcjRMaE9uM09tWkp1dk5uLVNJbFMtTG8weTJtWkFHdmNPYnF0eDg2am4zVFp0TjhrRjZCa0hINk5BTURYMHdnSkNRQTdiZmlZMEhrbVNTZ0Ixdk1ySVphWU1UV0JXaU5nNXQ1NUxxNzVXWnM5ZDFpYm1FckxUNzRra05zTzBBYlZMTlJjb0ZzNF9JT2NXTDVkNDZnR3AtaXJaU28zUWNIeF9sVVR3V0xlbE8wN01aZDZMclpxV0x6LVYtXzk1LVA5QUd3Y0Fidw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 20 Sep 2026 03:37:10 GMT",
+      "imagen": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_2000x1500__1.jpg"
     },
     {
       "titulo": "A cuatro años de Fiona: así impactó el huracán a República Dominicana - El Nacional — La voz de todos",
@@ -45,16 +53,8 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/05/13/6a047e509465d.jpeg"
     },
     {
-      "titulo": "¿Hay serpientes venenosas en RD? Veterinario explica qué hacer ante una mordedura - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2prYW5OR3hiRVl3V1VYOXlzR2s5bkpxZ2lJYVpzZTBKLWU5RG9fbE1fNmhFZm9TNEo3U3RPdjQ5VWFGb3hFZFJJX0FhMlBSR292TUlvcW1hT2FpdWhxVkRFWXBFXzNXXzFCYVYzLWVkN3U0QkN2R0JxSUJoV01xcEJHNzh6MGY2RmNn0gGQAUFVX3lxTE9za1hPeXBoYnF2aGV4UDZoVWwtMm1Ld2NJSm9udW1BNTlwVlF2VGZMVDV2cG5sV3pGTUoyZE9WbUFGY0h4bkNTbXBOQjBxZ2VGazZyZ2pCWkM2b3MzSlVXbHBfNXNtai1BUjdiUW03T01kYTBQdUUyTlVxbVNoVFUwWm5DWXcycHhwOWpMNzdaag?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 19:36:29 GMT",
-      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaee2968323f.r_d.500-480-12500.jpeg"
-    },
-    {
-      "titulo": "Estados Unidos vence 3-1 a República Dominicana y retiene título de la Copa Panam Sub-23 - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
+      "titulo": "Estados Unidos vence 3-1 a República Dominicana y retiene título de la Copa Panam Sub-23 - elnuevodiario.com.do",
+      "fuente": "elnuevodiario.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSC1KMUNHRG9WQVc3NlU3RllCcWRmdmNxdWxKR0FCaGc5MlVTWHdJLVRfTHFBOTRsUndMTTFKMlZQWUNSNV95bVcxOHhlWEQ0QzZxbDBFbkJGTFYzcF9BeWJfczdBWXRfNE13Zm1yeEF2TzRXSjMzeGJHSWhWVW1BaWsxRDZVRHRKSW84THc0QmpyamlrOVI0Rmg0ckVZZms3V3N0QnFsaVB3TkN1T1ZNcm9SMzctNmRxekE?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 19 Sep 2026 23:26:10 GMT",
@@ -69,12 +69,12 @@
       "imagen": "https://www.elheraldo.hn/binrepository/1201x757/0c116/1200d630/none/45933/OHIQ/diseno-sin-titulo-2026-09-18t13155_15630446_20260918131605.jpg"
     },
     {
-      "titulo": "R. Dominicana toma ventaja sobre Egipto en la Copa Davis - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzR5TmRSUzZETmI5b0xoVDZub0NnOHlqdW5Zc25RdktfYU90bGViWmY3b0FTMkltNFFlLXNIVnFGSVNoa0s5V244OHVEMENpYjJmeUpBTkxsNE5uYlFwWWtqbWhwMFpoTHhCbGRlekZ4dnBudDVCQ3FzNzZ1bHZzMjVLQXM?oc=5",
+      "titulo": "¿Hay serpientes venenosas en RD? Veterinario explica qué hacer ante una mordedura - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2prYW5OR3hiRVl3V1VYOXlzR2s5bkpxZ2lJYVpzZTBKLWU5RG9fbE1fNmhFZm9TNEo3U3RPdjQ5VWFGb3hFZFJJX0FhMlBSR292TUlvcW1hT2FpdWhxVkRFWXBFXzNXXzFCYVYzLWVkN3U0QkN2R0JxSUJoV01xcEJHNzh6MGY2RmNn0gGQAUFVX3lxTE9za1hPeXBoYnF2aGV4UDZoVWwtMm1Ld2NJSm9udW1BNTlwVlF2VGZMVDV2cG5sV3pGTUoyZE9WbUFGY0h4bkNTbXBOQjBxZ2VGazZyZ2pCWkM2b3MzSlVXbHBfNXNtai1BUjdiUW03T01kYTBQdUUyTlVxbVNoVFUwWm5DWXcycHhwOWpMNzdaag?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 06:03:05 GMT",
-      "imagen": ""
+      "fecha": "Sat, 19 Sep 2026 19:36:29 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaee2968323f.r_d.500-480-12500.jpeg"
     },
     {
       "titulo": "China y República Dominicana: el verdadero debate no es el déficit, sino la competitividad - Listín Diario",
@@ -85,19 +85,19 @@
       "imagen": "https://listindiario.com/images/logo_redes.png"
     },
     {
+      "titulo": "Al inicio de los debates se espera la presencia del presidente de los Estados Unidos, Donald Trump, como en otros años. Durante esa jornada, el jefe de Estado desarrollará una intensa agenda diplomática que incluye reuniones bilaterales y acercamientos - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbXE5V2tIMFBsc2Jpb1Z0VC0zLUJEQ0RkaDlKeDZkRkJFcGFjVHZxVHJtYUNXeG1oUFdTYTl3bEJ5d19KMU5oTTVTUnZhSEh3X2c?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 20 Sep 2026 04:17:24 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "El cubano Víctor Mesa Jr. jugará pelota invernal con Licey - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm1HNFYxTDV0SnhmNV94N1k4aDdlT3BfNzByazAyRUUyR2tCWFg2YjVxVkxaMG9NT0pPVk5wb0lhS0Y0SVcza3h3RlRmaEdPNTdlOEtCemlqNmFQU21CNzRrSGN6emozVHo2dWpCNTV3YzRvdnpZbG5abkZkelZ2c3dUTTcwSmgyUHZtZG5NWXE2UlZxRVhKT3M0NVo2dVFEcTlwS0ZMT3U3SjVhTXc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 19 Sep 2026 21:11:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Al inicio de los debates se espera la presencia del presidente de los Estados Unidos, Donald Trump, como en otros años. Durante esa jornada, el jefe de Estado desarrollará una intensa agenda diplomática que incluye reuniones bilaterales y acercamientos - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbXE5V2tIMFBsc2Jpb1Z0VC0zLUJEQ0RkaDlKeDZkRkJFcGFjVHZxVHJtYUNXeG1oUFdTYTl3bEJ5d19KMU5oTTVTUnZhSEh3X2c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 22:49:47 GMT",
       "imagen": ""
     },
     {
@@ -109,19 +109,19 @@
       "imagen": "https://www.infobae.com/resizer/v2/5EZIWUVWCRDTTBR26R4QULO7ZY.jpg?auth=fc0b39474928a060470056f9a9cad377d639fe5dd849103b649a371370b7e965&smart=true&width=1024&height=512&quality=85"
     },
     {
+      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "imagen": "https://media.telemundo47.com/2026/08/GettyImages-2170071108.jpg?quality=85&strip=all&resize=1200%2C675"
+    },
+    {
       "titulo": "Precio del dólar en República Dominicana hoy, 19 de septiembre: conversión de USD a DOP, compra y venta - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHZjZVBCUUpJVUF6b2gwYmtDOURHd202TXZFMmp3N08zSTNldW1BNVhVNUtpbE9hOWhISUR6WnBkRi1CTVpxcW1OeW54anN5d1pKX3hOak8tMUt4cFJEMFNLUHE4UjJEdVBxSFNLbExHVHliU0tKRHNScVYyX3NGd0J6WGtrazdZM21ZX19Wd0Vxa1ZWZkk2OGs4V1FuZHk2bTZZWGwyN0VIRFp2SEZEdG1tc04wOWVWQmVvSG5YZnYtN19ySW5XVEJYYzlCM3JDQTVfN2ZleC1yb1ItQWc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 19 Sep 2026 22:40:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿A qué se comprometió la República Dominicana? Claves del memorando con EE. UU. sobre el traslado de terceros países (Lea el documento completo) - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYWxpZFdDSDRCTFQ2bS1Kb1hjeElMb29HRWZWbTREUlhKMWZTcDJLelhtTm90VmpmQ2JJcmFOLUxoYkNlTGtIcHZ6ajRWQnc5THpQSFJNa1laZTNEVE9mdk5lbUxLc3FHY0RVYk1IdDVuazRCc1dWQnFOWEZvWDdwWlRyVnJQVEoySUtKaTg4T0w5eHhyeVhpdTNObm5Jc3VhcDNrNnFTcnRpNWJHc3lYbGpUQXh5cU9MZXhJb2FoWEZkVV9VN2lsRVo2dl93SFU1bnVMaHpKa3owbHlpN0lTUmdyaEhaNFBUQnFiZVB0VktlRWx2M1BvQllFVVFaUjJ2dFpWQlV2MXpTYzl1bGFIQ3B30gGSAkFVX3lxTE5hbGlkV0NINEJMVDZtLUpvWGN4SUxvb0dFZlZtNERSWEoxZlNwMkt6WG1Ob3RWamZDYklyYU4tTGhiQ2VMa0hwdnpqNFZCdzlMelBIUk1rWVplM0RUT2Z2TmVtTEtzcUdjRFViTUh0NW5rNEJzV1ZCcU5YRm9YN3BaVHJWclBUSjJJS0ppODhPTDl4eHJ5WGl1M05ubklzdWFwM2s2cVNydGk1YkdzeVhsalRBeHlxT0xleElvYWhYRmRVX1U3aWxFWjZ2X3dIVTVudUxoekprejBseWk3SVNSZ3JoSFo0UFRCcWJlUHRWS2VFbHYzUG9CWUVVUVpSMnZ0WlZCVXYxelNjOXVsYUhDcHc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 21:30:01 GMT",
       "imagen": ""
     }
   ]
