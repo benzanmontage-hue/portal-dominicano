@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-20T02:00:12.856434-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-20T05:00:14.176675-04:00",
+  "hora": "05:00",
   "fecha": "20/09/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 6,
   "tendencias": [
     {
       "termino": "padres - marlins",
       "trafico": "100+",
-      "noticia": "Padres take hold of 2nd Wild Card spot with Salas  walk-off hit",
-      "enlace": "https://www.mlb.com/news/padres-claim-sole-possession-of-2nd-wild-card-spot",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQao8yaaLDsQ693C6iHCDM9P3B10XOgGZY3oMS-iUvuA3lhd70QU-HgF_59NY"
+      "noticia": "Mic drop: Rookie Ethan Salas delivers Padres walk-off as magic number shaved to 3",
+      "enlace": "https://www.sandiegouniontribune.com/2026/09/19/padres-come-back-to-beat-marlins-shave-magic-number-to-3/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUUZo9XD7m4ARz2uOORx_RMR0MRNTb2JrHrMytNEhfqR4CiASJ71zp3w0p_M"
     },
     {
       "termino": "primera",
@@ -29,9 +29,9 @@
     {
       "termino": "amazon",
       "trafico": "100+",
-      "noticia": "Amazon raises minimum starting pay for full-time core operations employees to $20/hour, with average pay reaching nearly $24/hour, and launches grocery discount and access to new lifetime banking benefits to make everyday life more affordable for our tea",
-      "enlace": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-starting-pay-adds-grocery-banking-benefits",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkhmIQXT5wOPTO2tnlQvnscHmw7MH3PvWQjtNVpGiDQlNOsCqD4ZxiNOPuEfI"
+      "noticia": "Amazon invests $230 million in higher pay and benefits for 100,000 Whole Foods workers",
+      "enlace": "https://fortune.com/2026/09/18/amazon-investing-230-million-higher-pay-benefits-college-perks-more-than-100000-whole-foods-workers-hourly-pay-21/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNfaFPm13AoLP08Pp9s8SRerllidnOzbpsBHDqlDdARayC3TxAwqXRH5wFRRE"
     },
     {
       "termino": "tiktok",
@@ -43,37 +43,9 @@
     {
       "termino": "rnc",
       "trafico": "100+",
-      "noticia": "WATCH: Trump leads RNC in pledge to  cheat like hell  in November elections",
-      "enlace": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDR7F39WZBdcbZopWLLXWo2GF8tGskUKQ8sMGky5NAPXYPsFACNOMLlkrLio8"
-    },
-    {
-      "termino": "google",
-      "trafico": "500+",
-      "noticia": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "enlace": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJJm4PBPxsK6y0tSs1Kn3Jkf-b8eK469mEYwq5EU38a3HcWCjspBiwCLu1bI"
-    },
-    {
-      "termino": "administration",
-      "trafico": "200+",
-      "noticia": "A DHS email raises new questions about the Trump administration s election plans",
-      "enlace": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2HwqsROaPsFHlWjlWwBsTxMqmD_yoDK5E0L-fM26ntEL7tvTHN-dFyuR68W8"
-    },
-    {
-      "termino": "netflix",
-      "trafico": "100+",
-      "noticia": "Widow s Bay  Creator s Failed Franchise Reboot Is Officially Leaving Netflix",
-      "enlace": "https://collider.com/ghostbusters-2016-answer-the-call-leaving-netflix-october-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrXKWbWhhRrRIHXbo1T5buedNHSE8rBNSJvwIeaMIXV3sdxB4_HSGv8rlB0kU"
-    },
-    {
-      "termino": "after",
-      "trafico": "200+",
-      "noticia": "Ole Miss, Chambliss spoil Kiffin s return to Oxford, upset LSU",
-      "enlace": "https://www.espn.com/college-football/story/_/id/49985998/ole-miss-chambliss-spoil-kiffin-return-oxford-upset-lsu",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGcp39YN9jDzqY6ow_KAoeObXZcn-BivnK5K_ZF7Gt5Lweh9UjFROFyb0y5TE"
+      "noticia": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
+      "enlace": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM2m7IsdPKb-oUfRWpgslmTcbqbIe7zX9YcDOJIbKoe8Jpde8HYdPsHtpWw6Y"
     }
   ]
 }
