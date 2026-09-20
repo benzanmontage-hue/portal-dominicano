@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-20T08:00:22.491996-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-20T11:00:23.004910-04:00",
+  "hora": "11:00",
   "fecha": "20/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Radiografía del descontento: qué dicen 15,000 quejas al Estado dominicano - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUpvbGZDSThGb2dsai0weGItOGphbS05Mllyc2pyWjVzUmVqZW1ibFBtb09VTGRIdHdDbkZKXzRwUHVyeXlEWFBxWVJCVlVISVFQeVppOFZBLTIzdFo0dFczSDJQc2ZPdXpHUVlGN2pqaXBqa3pLUDgyUUtMWGllMFRuM1FTdXJBLWd6aUJtTklfX255SnIyOU9jS0Rva3c3VFR4SFhmWWRyR2Zkdk9mZGlsMThMcTVQ0gG-AUFVX3lxTE9oZjVOMVlmUnJTeUtWa2VwZ0lkUFdpaFd6ZEJyR1BUMWdZclpSb0tDVVM2VUZDeTRVMXItVktzSUpEU0xnYUNoTmVUT0VBQnhlUXpCdU4ta0lScVktekl4eEZTc0ljMGFmWThhcV9BZDZOcmdJREM4eWVLM2p6MlJ6UnlZNUs1LXBSSDU4RlA2bWRKc3NESUlwYmNZQXNwYjBacTVMQTBFYjJSV0F3VmxscFd4OVlVVE5WdVRuSlE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 20 Sep 2026 04:00:00 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/19/6aaef5816f288.png"
+    },
+    {
+      "titulo": "El Salvador, Honduras, México y República Dominicana prohibirán ingreso de quienes posterguen renovación de pasaporte - proceso.hn",
+      "fuente": "proceso.hn",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlneGo1ZmxHdkdrajdONkFDT05KQzJ2QS1wZ3lzYlB4VDZNM2NWUVFkWHkwVlA4LXVseWVpMG8xNXRQYXMxc254VlZJYjktY0RHUjNFNV9WUlNUaGppUTBtOGJpRHF1QWtONnR6UTNQUVFpQWZtQ0hITHRsZEFJQTFaMVFTMDJTRGxkSHE4bG9jSjZPQ0d0SG5LS1hxSVlYQU1WMWtSb0hUQ1U5ZmRMZ0UzeUd5UjRJQzk5VXdUSWZtbVMxYVZtaGxGbjBvRWFw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 18 Sep 2026 20:52:15 GMT",
+      "imagen": "https://proceso.hn/wp-content/uploads/2026/09/Pasaporte-vencido.jpg"
+    },
     {
       "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este domingo 20 de septiembre de 2026 - Clarin.com",
       "fuente": "Clarin.com",
@@ -13,27 +29,11 @@
       "imagen": "https://www.clarin.com/img/2020/02/03/XTufI4c7_1256x620__1.jpg"
     },
     {
-      "titulo": "El Salvador, Honduras, México y República Dominicana prohibirán ingreso de quienes posterguen renovación de pasaporte - Proceso Digital",
-      "fuente": "Proceso Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlneGo1ZmxHdkdrajdONkFDT05KQzJ2QS1wZ3lzYlB4VDZNM2NWUVFkWHkwVlA4LXVseWVpMG8xNXRQYXMxc254VlZJYjktY0RHUjNFNV9WUlNUaGppUTBtOGJpRHF1QWtONnR6UTNQUVFpQWZtQ0hITHRsZEFJQTFaMVFTMDJTRGxkSHE4bG9jSjZPQ0d0SG5LS1hxSVlYQU1WMWtSb0hUQ1U5ZmRMZ0UzeUd5UjRJQzk5VXdUSWZtbVMxYVZtaGxGbjBvRWFw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 20:52:15 GMT",
-      "imagen": "https://proceso.hn/wp-content/uploads/2026/09/Pasaporte-vencido.jpg"
-    },
-    {
       "titulo": "Vuelo de ICE Air llega a San Isidro y apunta a primer traslado bajo acuerdo migratorio RD-EE. UU. - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOF9GcWg0dHpuUG5BVEg5ZFN3M19mRjVmcDUyUkhjR19YNXRhTThHQWJsTDduRE9jbGQ4VUVzSHJzUmlHdFljOHlDaUVjWlR2R0lPNDF1NC1iSGltQ1lna2NmQ2xYci10ZEhQNEFValdmWmQwT04yU0l3cVNMQ1lpNGxvQUx5UUgtcGhQWkFVT2JaMVVEZERYY1pjZTRWLU5VUGdkbnB3dzdsV3luYTZ2azBBT2pzYTctdl9oYTNTOVZoZWdQaW5ZMTdlSHgwUzkzV21ZbDRjT1TSAdgBQVVfeXFMTzhfRnFoNHR6blBuQVRIOWRTdzNfZkY1ZnA1MlJIY0dfWDV0YU04R0FibEw3bkRPY2xkOFVFc0hyc1JpR3RZYzh5Q2lFY1pUdkdJTzQxdTQtYkhpbUNZZ2tjZkNsWHItdGRIUDRBVWpXZlpkME9OMlNJd3FTTENZaTRsb0FMeVFILXBoUFpBVU9iWjFVRGREWGNaY2U0Vi1OVVBnZG5wd3c3bFd5bmE2dmswQU9qc2E3LXZfaGEzUzlWaGVnUGluWTE3ZUh4MFM5M1dtWWw0Y09U?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 19 Sep 2026 15:04:31 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Radiografía del descontento: qué dicen 15,000 quejas al Estado dominicano - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUpvbGZDSThGb2dsai0weGItOGphbS05Mllyc2pyWjVzUmVqZW1ibFBtb09VTGRIdHdDbkZKXzRwUHVyeXlEWFBxWVJCVlVISVFQeVppOFZBLTIzdFo0dFczSDJQc2ZPdXpHUVlGN2pqaXBqa3pLUDgyUUtMWGllMFRuM1FTdXJBLWd6aUJtTklfX255SnIyOU9jS0Rva3c3VFR4SFhmWWRyR2Zkdk9mZGlsMThMcTVQ0gG-AUFVX3lxTE9oZjVOMVlmUnJTeUtWa2VwZ0lkUFdpaFd6ZEJyR1BUMWdZclpSb0tDVVM2VUZDeTRVMXItVktzSUpEU0xnYUNoTmVUT0VBQnhlUXpCdU4ta0lScVktekl4eEZTc0ljMGFmWThhcV9BZDZOcmdJREM4eWVLM2p6MlJ6UnlZNUs1LXBSSDU4RlA2bWRKc3NESUlwYmNZQXNwYjBacTVMQTBFYjJSV0F3VmxscFd4OVlVVE5WdVRuSlE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 04:00:00 GMT",
       "imagen": ""
     },
     {
@@ -61,14 +61,6 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Estados-Unidos-vence-3-1-a-Republica-Dominicana-y-retiene-titulo-de-la-Copa-Panam-Sub-23-2.jpeg"
     },
     {
-      "titulo": "En los últimos 29 años, presidentes de Suprema Corte han sido elegidos por influencia política - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVh4VUJwaUdITG10LUNGMlVoZm9CdVMyM0gyVjlNdi12VnhqOVlFcjBuNDhhWmVWM3hQSGVqcElOWXQybFhTclVDSG5jRXo5c3h2ZlNCVGJpRnJTT3FDb2lpOFR3WWVyY01weFZyOGxCNHJ4NURVUHJESzJkRy1uNEtZV0RSZEpTLTBicGxwNDYzMVdZaGJYMFhaUGpWOVQzM2w5ajZXT01qTm0xMTFPcHIzd1FqcmlKa2MtbWFVQjA3ZGRVbGxURnlWYWZ3UGhkMFFV0gHYAUFVX3lxTFBkMVNxblJaMXpOTnpjRnJOQ2pTQnljX1hDQ3Z5aGhBaVVYVnpUUU5uWUwyUzZuaHlFQ1lwekZHQVNmQ1FQeUNoY2Y1MWxyS2hFd1RCS1BmT0ZoVjl3NUJIamhScVdmVHdLeHZycEY5RllzVjBlLUlGV0RLMzQ0WVZKaGZ1WldHaFBfem96ZzNQcWRuamV3bFAzb0t6UHcwQmJKNi1USllSc25ZQVNwWHB6cXdjWll4RmE4TjBTdUNaRmt5bUY4STZrcl92Q2tCZDlMcThfcTQxdA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 11:00:00 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/19/6aaeeb502bdc6.jpeg"
-    },
-    {
       "titulo": "Identifican mujer hallada sin vida en playa de Uvero Alto - Remolacha",
       "fuente": "Remolacha",
       "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ETzJPVmZBdE9uRGY3N1dvVUk4UjJlVUNUaGxNMkpOeTQxRnF1WHNMTWpHbWR6TUxOTjQzMFFoMDVsVDVZTURjQ19iNGgxX1V1MHQ3Zi14WHViT3BXS0lxUkg2UHjSAWpBVV95cUxPenNURE52WjBMMklqZF9EZndCV3BTTGc1UTN6bHpCWV9YTjRYUVFESFNzTF9zMVlRcU1hQVVqa2ZBZnJCek5LZVhpQ29BbHJUM2pGaU1Mb3FiSkxlek5QVHJTeGJsVU92azl3?oc=5",
@@ -77,12 +69,20 @@
       "imagen": "https://remolacha.net/wp-content/uploads/2026/09/yosaira-cabrera-rosario.jpg"
     },
     {
-      "titulo": "¿Hay serpientes venenosas en RD? Veterinario explica qué hacer ante una mordedura - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2prYW5OR3hiRVl3V1VYOXlzR2s5bkpxZ2lJYVpzZTBKLWU5RG9fbE1fNmhFZm9TNEo3U3RPdjQ5VWFGb3hFZFJJX0FhMlBSR292TUlvcW1hT2FpdWhxVkRFWXBFXzNXXzFCYVYzLWVkN3U0QkN2R0JxSUJoV01xcEJHNzh6MGY2RmNn0gGQAUFVX3lxTE9za1hPeXBoYnF2aGV4UDZoVWwtMm1Ld2NJSm9udW1BNTlwVlF2VGZMVDV2cG5sV3pGTUoyZE9WbUFGY0h4bkNTbXBOQjBxZ2VGazZyZ2pCWkM2b3MzSlVXbHBfNXNtai1BUjdiUW03T01kYTBQdUUyTlVxbVNoVFUwWm5DWXcycHhwOWpMNzdaag?oc=5",
+      "titulo": "Alza de tasas de la Fed impacta economía dominicana: economista advierte presiones en dólar e inflación - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQUpBSG5QcFUyY1k1S3ZlakNVTS1HQ2ZDUEJpU0QxMS1XMnNtV0pYWW1fS0MzaTM4dHJnbkpVSUJ4d2o4d21jenp0YVlxbElNZ3ZZM18wU0w5cjVUdGVRUWhISlQwVG50dHFyc2NXUjFSdTl2YXg3cDYtWmpobmlxbmJiUFZiZkZKOHNoR3VzLTdPZmV2MW5MZ0tQVi1uOVN3VlloVUg2Q3AwazZnTTdOcllPMmhJUjJTeThnU09nLVAxaW5kanl6cDAtYWtkMUdGWVFsTVdUMzgtdWFPN3BuVGNWNNIB6AFBVV95cUxOVUZXTjBoNGJSNUF4enRpMHQxNGxQb1JFMXJReFRaeEVMMVFSa1ljTGZZNWk3U1hJOUwtZ0lRX21CSmdYZ2VPOXBnelZUYVBrUFdnR202R0NIZTJIelJXT25wRTR2WkxuZTVoQkxMN1VFeTNxUnNNbWZlc1hsaEh0YUs0aldMYkx6QlhVT0FiYmJvNlZybEVPMDlMMW1FWXhxR2pMN0J2R3d6ZzFHRFF5b3EyNm11SjY3V2FTVmV4OEFONkdtdlJ4TDVXSkZrY0huVjlDWlZQQm85U0lfN3F4c0RQYnE2NFdy?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 19:36:29 GMT",
-      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaee2968323f.r_d.500-480-12500.jpeg"
+      "fecha": "Thu, 17 Sep 2026 23:22:40 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Trump incluye a RD entre países señalados por tránsito o producción de drogas para el 2027 - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXEtd3MwZWZGWmdyNHRpUzBKcE5XTllpbjJTdE5PUm9zUk92MnV4X3FxZEE3T2p4TldlbDliWkdRbnNERGo2RnAwTFdzc2hxZlp1cUd4eHZjVXlmNFlVRi1JYnFOaTJRdlp0NWJ2eUpEeEo4NEQzOEQxckV5bVNQeUVUNkFoMzBoSFNtNERvc0xHbHhpcmpLMlQzSnFycFZqQkpiTWpNLWhRb2cxbmk1T3BKTzNFbi1j0gG-AUFVX3lxTE0tVnRpazVWM0NnNkdmTzNPQVRPXzc1c1B1bWNYMUpnMjcwUHdaMTR5d2ZVczhGaTZRR1YycXd6UVdvMjV2Unl2MklWMF9jT01QQUR0Z1NRaWJCZFdyMEczX3htWl9wWmRadlJRVDRZM3Iya0FzdzVnal8zOGVNRGtUcUlVRmNqYkw0UW0wdHRjdEdrTklKeXBkRUpGVHQ2em9pUGlPZmh4T2x0MS1teUI3c2RSYldJcTBDOU84NEE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 17 Sep 2026 02:15:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "El cubano Víctor Mesa Jr. jugará pelota invernal con Licey - ESPN Deportes",

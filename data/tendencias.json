@@ -1,51 +1,30 @@
 {
-  "updated": "2026-09-20T08:00:15.378990-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-20T11:00:16.654677-04:00",
+  "hora": "11:00",
   "fecha": "20/09/2026",
   "pais": "República Dominicana",
-  "total": 6,
+  "total": 3,
   "tendencias": [
+    {
+      "termino": "real madrid",
+      "trafico": "200+",
+      "noticia": "Atlético - Real Madrid hoy, en directo: derbi madrileño de LaLiga EA Sports, última hora en el Metropolitano",
+      "enlace": "https://as.com/futbol/primera/atletico-de-madrid-real-madrid-en-directo-derbi-madrileno-de-laliga-ea-sports-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqgdumDGsLzq6gnNLCA2ZfBpTNfhTTQZRNZSImRbR-PdDxswkmuYQcGaZUlU"
+    },
     {
       "termino": "padres - marlins",
       "trafico": "100+",
-      "noticia": "Resumen Marlins @ Padres, Resultados/Jugadas destacadas - 18/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/823252?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F823252%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list%26r%3D%252Fes",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEIbIYHR5wbtVTpWDZtmVZ6U4U-R-LbnkXmxJLeTWyCoKAFBlNTGMG3mdCKSE"
+      "noticia": "PADRES POSTCAST: ETHAN SALAS WALKS IT OFF! Padres Rally From 5-1 Down, Win 12th of 13 Behind Grit + Bullpen, Stay Tied w/ Cubs for Top Wild Card Spot.",
+      "enlace": "https://www.thv11.com/video/sports/locked-on/lo-san-diego/postcast-locked-on-padres/padres-postcast-ethan-salas-walks-it-off-padres-rally-from-5-1-down-win-12th-of-13-behind-grit-bullpen-stay-tied-w-cubs-for-top-wild-card-spot/535-409362db-8614-449b-83e0-102972868208",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpbMHxYlTWecDs0OJ_VGUlzIbd7fioB9EXEqp2EJg3HEMeqJsS38r9etDDqhU"
     },
     {
       "termino": "primera",
       "trafico": "100+",
-      "noticia": "Colón y Baker Mazara guían a San Lázaro a obtener su primera victoria en el basquet distrital",
-      "enlace": "https://listindiario.com/el-deporte/20260919/colon-baker-mazara-guian-san-lazaro-obtener-primera-victoria-basquet-distrital_922908.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcYkPe1N0_CSOU77eSIGS855U1Wakwh5vNdHwNrl8c65k9AEw-L_5ZNVtCIyw"
-    },
-    {
-      "termino": "juegos",
-      "trafico": "100+",
-      "noticia": "Juegos Suramericanos 2026 Santa Fe, Rosario y Rafaela, las mejores fotos de cada disciplina",
-      "enlace": "https://www.clarin.com/fotogalerias/juegos-suramericanos-santa-fe-2026-gran-fiesta-deporte-imagenes-dia-8_5_jfSgX3j3fP.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkeeh34GOKk80_H73qGtjh-IVZpGzc3dQqo0abPmUeHz_sDOO6eWdDz-3fGhQ"
-    },
-    {
-      "termino": "amazon",
-      "trafico": "100+",
-      "noticia": "Amazon invests $230 million in higher pay and benefits for 100,000 Whole Foods workers",
-      "enlace": "https://fortune.com/2026/09/18/amazon-investing-230-million-higher-pay-benefits-college-perks-more-than-100000-whole-foods-workers-hourly-pay-21/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNfaFPm13AoLP08Pp9s8SRerllidnOzbpsBHDqlDdARayC3TxAwqXRH5wFRRE"
-    },
-    {
-      "termino": "tiktok",
-      "trafico": "200+",
-      "noticia": "US judge signals rejection of part of TikTok privacy settlement",
-      "enlace": "https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8b7MwLVnZ1wzZpnYYTAHD5bPHd9L1o7j9IghwC0my2pFMQjgerE4ip33yiMQ"
-    },
-    {
-      "termino": "rnc",
-      "trafico": "100+",
-      "noticia": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
-      "enlace": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM2m7IsdPKb-oUfRWpgslmTcbqbIe7zX9YcDOJIbKoe8Jpde8HYdPsHtpWw6Y"
+      "noticia": "El Club Mauricio Báez vence al El Millón y logra segunda victoria",
+      "enlace": "https://elnacional.com.do/deportes/club-mauricio-baez-vence-millon-logra-segunda-victoria_581324.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpX0q3z6QuBPyTvTukLCZQTXi5Ehsk2deKx8RBQXWqI-42vcLjV-y9DLZhTFI"
     }
   ]
 }
