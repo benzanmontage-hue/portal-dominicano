@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-19T17:00:09.166872-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-19T20:00:14.917954-04:00",
+  "hora": "20:00",
   "fecha": "19/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "¿Hay serpientes venenosas en RD? Veterinario explica qué hacer ante una mordedura - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2prYW5OR3hiRVl3V1VYOXlzR2s5bkpxZ2lJYVpzZTBKLWU5RG9fbE1fNmhFZm9TNEo3U3RPdjQ5VWFGb3hFZFJJX0FhMlBSR292TUlvcW1hT2FpdWhxVkRFWXBFXzNXXzFCYVYzLWVkN3U0QkN2R0JxSUJoV01xcEJHNzh6MGY2RmNn0gGQAUFVX3lxTE9za1hPeXBoYnF2aGV4UDZoVWwtMm1Ld2NJSm9udW1BNTlwVlF2VGZMVDV2cG5sV3pGTUoyZE9WbUFGY0h4bkNTbXBOQjBxZ2VGazZyZ2pCWkM2b3MzSlVXbHBfNXNtai1BUjdiUW03T01kYTBQdUUyTlVxbVNoVFUwWm5DWXcycHhwOWpMNzdaag?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 19 Sep 2026 19:36:29 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "República Dominicana: fuera del mapa del hambre crónica, pero aún con inseguridad alimentaria - EL PAÍS",
       "fuente": "EL PAÍS",
@@ -13,11 +21,11 @@
       "imagen": "https://imagenes.elpais.com/resizer/v2/CPFWM7ACXVE4JO7POMXRJTIEYY.jpg?auth=2a529f0ae1db3d9f38ec3a2aca1a3dbfd241cbdf0a87e84fe200b9a3c776f30e&width=1200"
     },
     {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 21 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZWpENThoclFjOEVvMzRnMTl6ajJXVHdtQ3hVc0tuQ2xpYTdOZnNzSEJSdjFaN1FxUEszZFZlRFRvWG5kRVJCOURtY3VqX1FRc2UzWi1GTGM5dHRpSU5YX1pjQUpQQ0dTU2hzNlo2NUZlNkdqOWRuekgwM3ZVMmwtYy1FQ1M5amhyTHNuNS1Uek96cl9vMGkzaWN5dmlSU05pY1YxbUFzZnd6TWJveGtiWkd6bzVtaUwxV0xaaXdBTmtYbVljdFIxOUFDcEE5cFV2M0FSZnduOVNDdTVxaXJnc2FwV0p5Y183RVR3azU5Q09MVnR5UVHSAfYBQVVfeXFMUGVqRDU4aHJRYzhFbzM0ZzE5emoyV1R3bUN4VXNLbkNsaWE3TmZzc0hCUnYxWjdRcVBLM2RWZURUb1huZEVSQjlEbWN1al9RUXNlM1otRkxjOXR0aUlOWF9aY0FKUENHU1NoczZaNjVGZTZHajlkbnpIMDN2VTJsLWMtRUNTOWpockxzbjUtVHpPenJfbzBpM2ljeXZpUlNOaWNWMW1Bc2Z3ek1ib3hrYlpHem81bWlMMVdMWml3QU5rWG1ZY3RSMTlBQ3BBOXBVdjNBUmZ3bjlTQ3U1cWlyZ3NhcFdKeWNfN0VUd2s1OUNPTFZ0eVFR?oc=5",
+      "titulo": "¿A qué se comprometió la República Dominicana? Claves del memorando con EE. UU. sobre el traslado de terceros países (Lea el documento completo) - acento.com.do",
+      "fuente": "acento.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYWxpZFdDSDRCTFQ2bS1Kb1hjeElMb29HRWZWbTREUlhKMWZTcDJLelhtTm90VmpmQ2JJcmFOLUxoYkNlTGtIcHZ6ajRWQnc5THpQSFJNa1laZTNEVE9mdk5lbUxLc3FHY0RVYk1IdDVuazRCc1dWQnFOWEZvWDdwWlRyVnJQVEoySUtKaTg4T0w5eHhyeVhpdTNObm5Jc3VhcDNrNnFTcnRpNWJHc3lYbGpUQXh5cU9MZXhJb2FoWEZkVV9VN2lsRVo2dl93SFU1bnVMaHpKa3owbHlpN0lTUmdyaEhaNFBUQnFiZVB0VktlRWx2M1BvQllFVVFaUjJ2dFpWQlV2MXpTYzl1bGFIQ3B30gGSAkFVX3lxTE5hbGlkV0NINEJMVDZtLUpvWGN4SUxvb0dFZlZtNERSWEoxZlNwMkt6WG1Ob3RWamZDYklyYU4tTGhiQ2VMa0hwdnpqNFZCdzlMelBIUk1rWVplM0RUT2Z2TmVtTEtzcUdjRFViTUh0NW5rNEJzV1ZCcU5YRm9YN3BaVHJWclBUSjJJS0ppODhPTDl4eHJ5WGl1M05ubklzdWFwM2s2cVNydGk1YkdzeVhsalRBeHlxT0xleElvYWhYRmRVX1U3aWxFWjZ2X3dIVTVudUxoekprejBseWk3SVNSZ3JoSFo0UFRCcWJlUHRWS2VFbHYzUG9CWUVVUVpSMnZ0WlZCVXYxelNjOXVsYUhDcHc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 19:00:05 GMT",
+      "fecha": "Sat, 19 Sep 2026 21:30:01 GMT",
       "imagen": ""
     },
     {
@@ -29,11 +37,11 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/05/13/6a047e509465d.jpeg"
     },
     {
-      "titulo": "República Dominicana destacada durante cumbre de TikTok LIVE en Bangkok - El Nuevo Diario",
+      "titulo": "Estados Unidos vence 3-1 a República Dominicana y retiene título de la Copa Panam Sub-23 - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXh2eWx5YzdRcHFzRWlONlZvbVZsR2pXbmcwd013OGpzVGZlTjBJX0FsNFFfZDFtamFnWVR0VF94QWJTMkdnV0xTclRXVGRjMEJDZ0JTVW5mVmM3OUFlZmRkTXVSbnZ4NkR6NTBQUGNFbnVCMnFzc2NDY1piZktjUlJlYWJQak1GNjhWbHVFdW1uMGw4UnEtbXJhNUlfMDNFSEZB?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSC1KMUNHRG9WQVc3NlU3RllCcWRmdmNxdWxKR0FCaGc5MlVTWHdJLVRfTHFBOTRsUndMTTFKMlZQWUNSNV95bVcxOHhlWEQ0QzZxbDBFbkJGTFYzcF9BeWJfczdBWXRfNE13Zm1yeEF2TzRXSjMzeGJHSWhWVW1BaWsxRDZVRHRKSW84THc0QmpyamlrOVI0Rmg0ckVZZms3V3N0QnFsaVB3TkN1T1ZNcm9SMzctNmRxekE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 15:55:20 GMT",
+      "fecha": "Sat, 19 Sep 2026 23:26:10 GMT",
       "imagen": ""
     },
     {
@@ -45,43 +53,27 @@
       "imagen": "https://www.elheraldo.hn/binrepository/1201x757/0c116/1200d630/none/45933/OHIQ/diseno-sin-titulo-2026-09-18t13155_15630446_20260918131605.jpg"
     },
     {
-      "titulo": "República Dominicana defiende hoy corona ante Estados Unidos en Copa Panam - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkVpZlJ0VFR4ZURWRjlSZkVmSGZxXzB2czlaNWM0OUZyRVNiWGZGTEZvcU9pSGhXQ0JoUDQyZFdCVDNjTTB3ZUptZFh5aV9CNldYWDVQbnZFdkVyVXZaS0lsbXZDUGdRbU1pN0hUM19hYzk4Qk93V09DeUMyMXhna01JQkpyOHpNWDdQX01GZEdTM0dPQ2hhOVd5ZDVFckw4a3JTekFyR1l4Nm1WOWRRYzIxSkNvbEp4WkcyZmF5U21HTjJOVW5SaUJMUlfSAdIBQVVfeXFMTWRBdHFYTkxEMzRMNkUxcHpkZTZHWEJYNWhxQnNkUGdxVkxvNVdzVnV4TDV0U3JKREc3dWpwV2dNTDRGYWY5T0psYmRWdGtzRVhVNjJyc0pTS2NpQUxYUmp3TzJnU2t2alNBTHRuTWp2YkdEXzJTSlRRMk5kdzh0eUpoVXJNOHF1dVlHMHA0SFRUaU9BaGxsQ2FZOTh0X2p5a3NZendxaHFuZHV5YWdUNDAtdjlQNUhmNThENVVqWDE2MHBXdDV4X0VjRXFwNW1EVTRB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 13:39:02 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/18/6aad3e777ccfc.jpeg"
-    },
-    {
-      "titulo": "Nick Hardt y Roberto Cid dan a República Dominicana los dos primeros puntos frente a Egipto - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWh4bzJ5eXN3eUhHbVN2TzdFVUFUTXEyYXlqWEJFa3dWQWZKRlVMYnVCLWRveHZpbUo2UGdBaW1NM1F1eVFFY0gyN0U3UVdDTzNCdExvMEJjT2VKQThsQ1ozWmN5bm84VFQwMXd4TGwyM09lMG1obV9QMFp6WGM3cjd5azFzYllPVFhtTHFlcHJqekRMbDZzUUd5SG1NYmh2Zzl3aFdEeExLM2dtblB4TVZTY1oxaEFaN2hwemFHbHhXT1FSbFFn0gHMAUFVX3lxTE9TZkk2Q0d2S2JqRFZSYmVSYXItaVNtTHhOMXdESk9FRTZmWXR6WkladENJOXJGZTFrVURzM0c0c3lLYWQ1cmJXZi1WN00zS0ZyYzhpT2M5bnBkME55WVBJSU0zQ0RRdHJJb0pqOTBMYURfWGxUdGRjY2N0dkpQa29oNVFNM1Y2Ri1FZnU4emROWEJ0SFlIU3kxRFRhRFRUV2xISExEVGs1Nlc1ZzZjaUhXZ01HX0lYQl9DMTZ1eFdTWElrSlduUmVFR1BIaQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 23:25:15 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/18/6aadc7e024762.r_d.727-474-9375.jpeg"
-    },
-    {
-      "titulo": "República Dominicana buscará ante Egipto ascenso Copa Davis - AlMomento.net",
+      "titulo": "R. Dominicana toma ventaja sobre Egipto en la Copa Davis - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSl9SdHhLd1lkcHlvQjdSdll1cC1hSDdCZUU5bWROWmROVVNMUWZUYzRWbzhOcjdkdXAyYnNqdE5HNEg4bjRlRmQyUHN5Y3ItTFBYOTFuVEdiYlY2b01sQnM0SkpKMnFoZmN3SGNRYnJENklBdVE3QUZFS1k1dE9yTVdjS19URGRPeWc?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzR5TmRSUzZETmI5b0xoVDZub0NnOHlqdW5Zc25RdktfYU90bGViWmY3b0FTMkltNFFlLXNIVnFGSVNoa0s5V244OHVEMENpYjJmeUpBTkxsNE5uYlFwWWtqbWhwMFpoTHhCbGRlekZ4dnBudDVCQ3FzNzZ1bHZzMjVLQXM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 05:00:59 GMT",
+      "fecha": "Sat, 19 Sep 2026 06:03:05 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Roberto Cid abre con victoria la serie de República Dominicana ante Egipto en Copa Davis - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSC11bG1INGloS3RtV3c3My0zYkx4eGJBMmI1SkEyRURLQ19uaWJEWjNxU01ud3hQZ25WSm9UcW5Uam53cUVhMUtnVWpXVkJmMXgwVDlYYjdqWmhNUFJSRW9IQlhGcFFMUkx5dUVsRzR6cUJqa014R0pCcFJLbUlITkZrUmxCQ2pZd0FqTlZLbFlPMUY1M0xBSVlUTzBST3hRRmg4MWlXSGplVjRLVHhjcXJ5WlNWQ2NocWc?oc=5",
+      "titulo": "La nueva madrina de los Tigres del Licey - Remolacha",
+      "fuente": "Remolacha",
+      "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Q3FrcTNUTHRBX1ozWkJKNG1KbEM0M0Rqa09QSlhKT2txMFJ2eVdhTWowbEwtMXlOSVNLUDBjNGEydkJ0NzVuMmt0R1BocDNVcVpNZkI2aDJDVUd1M0dYV3FuTdIBaEFVX3lxTFB2WXJ4ZWpBSWp3anF5Zm5ZMlh4M1pMdUlKcTB4QmhRU3pKcnpZODQ3ZUQzQllVb05jR0REQXdfc2JvZHhJLV9WcVVWNUotb1REdHBzNlFBMy1SeWdXYVV1N3FnMkhsaXRy?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 18 Sep 2026 18:35:33 GMT",
-      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/3b2796b2-9d52-4cb9-a41e-2f70a916519d-1200x1200.jpg"
+      "fecha": "Sat, 19 Sep 2026 15:10:40 GMT",
+      "imagen": ""
     },
     {
-      "titulo": "“Se quedó ahí chuleándome el vidrio” (video) - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55OXB3U2h1S0VPakZkOF9adDRka2ZTYV9QdXotMHVKdXh2OGpwWjUzb0ktdWZCMGdIZ193S3dJQkhvOTBLT1hLUEMxRjFVU0l0ZnBhZ1I4b0HSAV5BVV95cUxOLWxDTzFwazMycTd5eWZiSGs4VDRqcDhmY2V4cGFpMDNVRVUyTnM5bk4wVzJSTmt4eTZWRlRkcFZ1bnlOWXJiTTlBNjFMZTVmdk9mTVBGMHpZOXgxbkF3?oc=5",
+      "titulo": "China y República Dominicana: el verdadero debate no es el déficit, sino la competitividad - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGFRcko2eXZsdGJBR2xNdzVMUGtXVjFlemVOTWIxLWZsMzhGZHZpUE90VjVGcEhzYXN5Rnhwd0FVcUZkQWxwR2c5YjNIRGlLTWlPQVJXM2x3LVo3NjVCSHpldDk1dTczR3B2WW55Q1haQ1laRmtaeFp5Z1NMRzVuejRWcWVUWHJqNnQyX09CajNPYXIzUkoyRmplRm55TGFHTmtoSVZETm1uZFdiNnJPNGRDS2lwMTdPWHVNck5zWlBBb3lwbWhV?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 18:55:35 GMT",
+      "fecha": "Fri, 18 Sep 2026 04:00:00 GMT",
       "imagen": ""
     },
     {
@@ -93,11 +85,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dulces dominicanos que también cuentan la historia de su cocina - Metro Puerto Rico",
-      "fuente": "Metro Puerto Rico",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXVvRF9jUXQ3cFo1VHA4b0Y4VGl6ZlllbHI4b2NDenVJYnVhMm1DUnNydVJSbDc0S1NJLTFORnVWRGtJMS1HaVhtUFNlUWdGa2pCZFBUY0I4eGttOGdBX3JPTU4wZWlxZVVJNEJsRWVjU0FLTDJXbkJjMDR5TXhkeUZuLTVERmFQMGFzS3owT0p2MU44bW9qSmV3emVsdFhqdE9ydEl0azQ?oc=5",
+      "titulo": "Al inicio de los debates se espera la presencia del presidente de los Estados Unidos, Donald Trump, como en otros años. Durante esa jornada, el jefe de Estado desarrollará una intensa agenda diplomática que incluye reuniones bilaterales y acercamientos - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbXE5V2tIMFBsc2Jpb1Z0VC0zLUJEQ0RkaDlKeDZkRkJFcGFjVHZxVHJtYUNXeG1oUFdTYTl3bEJ5d19KMU5oTTVTUnZhSEh3X2c?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 16:49:42 GMT",
+      "fecha": "Sat, 19 Sep 2026 22:49:47 GMT",
       "imagen": ""
     },
     {
@@ -109,20 +101,28 @@
       "imagen": "https://www.infobae.com/resizer/v2/5EZIWUVWCRDTTBR26R4QULO7ZY.jpg?auth=fc0b39474928a060470056f9a9cad377d639fe5dd849103b649a371370b7e965&smart=true&width=1024&height=512&quality=85"
     },
     {
-      "titulo": "La dominicana Marileidy Paulino puso ayer viernes el broche de oro a una temporada 2026 de extraordinario dominio al conquistar los 400 metros del ATHLOS London, celebrado en el StoneX Stadium de la capital británica.⁣ ⁣ La campeona olímpica y mu - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTG1ad2JBVG9lZUZDU0FrS3AtcmxRQXdGOENKcVd0MFpBSjB2bEVuSDRfTkV2dEhOd3dhZGFSbDFPZmVKYnB5aFBOS3N2YUFiYmc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 14:30:10 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Precio del dólar en República Dominicana hoy, 19 de septiembre: conversión de USD a DOP, compra y venta - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHZjZVBCUUpJVUF6b2gwYmtDOURHd202TXZFMmp3N08zSTNldW1BNVhVNUtpbE9hOWhISUR6WnBkRi1CTVpxcW1OeW54anN5d1pKX3hOak8tMUt4cFJEMFNLUHE4UjJEdVBxSFNLbExHVHliU0tKRHNScVYyX3NGd0J6WGtrazdZM21ZX19Wd0Vxa1ZWZkk2OGs4V1FuZHk2bTZZWGwyN0VIRFp2SEZEdG1tc04wOWVWQmVvSG5YZnYtN19ySW5XVEJYYzlCM3JDQTVfN2ZleC1yb1ItQWc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 17:23:02 GMT",
+      "fecha": "Sat, 19 Sep 2026 22:40:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana presentó su nueva campaña internacional - Comercio y Justicia",
+      "fuente": "Comercio y Justicia",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObU1lZEFJTGRZNWlTeTI1MEFVNUlYZmVMRVVhaU5FN18zcDhrTHNuOGhVUU1ZYzRXSWZCdlROd3didmV6NkxLSDhrY09wVkZqbU5wRmJZZDlSRVBEM3ZrOUc0aFRBLV9RMk9NZ3dUa2xqVGZIQVJxbnd4Y1oyZng3R1I1NlJPS2RHM3VTMHA4R2tHdG51eUt6VmFJa1ZMbW9lSHc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 19 Sep 2026 23:05:51 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "imagen": "https://media.telemundo47.com/2026/08/GettyImages-2170071108.jpg?quality=85&strip=all&resize=1200%2C675"
     }
   ]
 }
