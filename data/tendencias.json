@@ -1,30 +1,51 @@
 {
-  "updated": "2026-09-20T11:00:16.654677-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-20T14:00:19.954320-04:00",
+  "hora": "14:00",
   "fecha": "20/09/2026",
   "pais": "República Dominicana",
-  "total": 3,
+  "total": 6,
   "tendencias": [
     {
-      "termino": "real madrid",
+      "termino": "loteria",
+      "trafico": "500+",
+      "noticia": "Resultados de Leidsa del miércoles 16 de septiembre de 2026 en República Dominicana",
+      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-miercoles-16-de-septiembre-de-2026-en-republica-dominicana/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
+    },
+    {
+      "termino": "real de hoy",
       "trafico": "200+",
-      "noticia": "Atlético - Real Madrid hoy, en directo: derbi madrileño de LaLiga EA Sports, última hora en el Metropolitano",
-      "enlace": "https://as.com/futbol/primera/atletico-de-madrid-real-madrid-en-directo-derbi-madrileno-de-laliga-ea-sports-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqgdumDGsLzq6gnNLCA2ZfBpTNfhTTQZRNZSImRbR-PdDxswkmuYQcGaZUlU"
+      "noticia": "Real Zaragoza - Cartagena, en directo: Primera RFEF, hoy en vivo",
+      "enlace": "https://as.com/futbol/primera-rfef/real-zaragoza-cartagena-en-directo-primera-rfef-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSShH5rqYd6xGD0a4Sp7GopVGH1bv3oIIBSdLHaucBB-J-K64_SADOdD4yqgzw"
+    },
+    {
+      "termino": "real",
+      "trafico": "100+",
+      "noticia": "Jonathan David winner helps Atlético Madrid down Real Madrid",
+      "enlace": "https://www.espn.com/soccer/story/_/id/49990129/jonathan-david-winner-helps-atletico-madrid-real-madrid",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOtu8oOOKVvA_hzElxjARbhJXLoUVEtXedTdKZmMGBhYk5xXrEoBi-UcJ9zt8"
+    },
+    {
+      "termino": "juegos",
+      "trafico": "100+",
+      "noticia": "Santa Fe, uno de los anfitriones de los Juegos Suramericanos 2026",
+      "enlace": "https://espndeportes.espn.com/hockey-sobre-cesped/nota/_/id/17270419/leonas-leones-juegos-suramericanos-santa-fe-argentina-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPExCJyPk8w5rlUc8PChjaTMnaVvLCKjoiacqXhkG5Om-_Uu7t5eeFp36UJko"
+    },
+    {
+      "termino": "real madrid",
+      "trafico": "500+",
+      "noticia": "Atlético - Real Madrid en directo | Última hora del derbi de LALIGA EA Sports hoy, en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/atletico-r-madrid/2026/09/20/01_0101_20260920_175_186-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-SGKFd3aj0nGNXolJ8EQ_yuMU9j7jHmsHYz7yezg33po6bv8LEh_Nqm-NCbY"
     },
     {
       "termino": "padres - marlins",
       "trafico": "100+",
-      "noticia": "PADRES POSTCAST: ETHAN SALAS WALKS IT OFF! Padres Rally From 5-1 Down, Win 12th of 13 Behind Grit + Bullpen, Stay Tied w/ Cubs for Top Wild Card Spot.",
-      "enlace": "https://www.thv11.com/video/sports/locked-on/lo-san-diego/postcast-locked-on-padres/padres-postcast-ethan-salas-walks-it-off-padres-rally-from-5-1-down-win-12th-of-13-behind-grit-bullpen-stay-tied-w-cubs-for-top-wild-card-spot/535-409362db-8614-449b-83e0-102972868208",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpbMHxYlTWecDs0OJ_VGUlzIbd7fioB9EXEqp2EJg3HEMeqJsS38r9etDDqhU"
-    },
-    {
-      "termino": "primera",
-      "trafico": "100+",
-      "noticia": "El Club Mauricio Báez vence al El Millón y logra segunda victoria",
-      "enlace": "https://elnacional.com.do/deportes/club-mauricio-baez-vence-millon-logra-segunda-victoria_581324.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpX0q3z6QuBPyTvTukLCZQTXi5Ehsk2deKx8RBQXWqI-42vcLjV-y9DLZhTFI"
+      "noticia": "Resumen Marlins @ Padres, Resultados/Jugadas destacadas - 18/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823252?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F823252%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list%26r%3D%252Fes",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEIbIYHR5wbtVTpWDZtmVZ6U4U-R-LbnkXmxJLeTWyCoKAFBlNTGMG3mdCKSE"
     }
   ]
 }
