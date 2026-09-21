@@ -1,30 +1,23 @@
 {
-  "updated": "2026-09-20T20:00:24.796610-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-20T23:00:25.602788-04:00",
+  "hora": "23:00",
   "fecha": "20/09/2026",
   "pais": "República Dominicana",
-  "total": 6,
+  "total": 5,
   "tendencias": [
-    {
-      "termino": "loteria",
-      "trafico": "1000+",
-      "noticia": "Resultados de Leidsa del miércoles 16 de septiembre de 2026 en República Dominicana",
-      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-miercoles-16-de-septiembre-de-2026-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
-    },
     {
       "termino": "real de hoy",
       "trafico": "200+",
-      "noticia": "La Real reprime los ánimos del Valencia",
+      "noticia": "La Real reprime los ánimos de un Valencia combativo",
       "enlace": "https://www.marca.com/futbol/primera-division/cronica/2026/09/20/real-reprime-animos-valencia.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5ofoxGHo4bTWR58zmyKccZAdGogaHNazsgf7v9pO7nH7V5fqZ5riNWFZbGks"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuZtka0ThEo5nXRX5Ubxubk0nvTWAmfK0wFNUE2SQTp3ilmWIdfjglxJKpUGY"
     },
     {
       "termino": "real",
       "trafico": "100+",
-      "noticia": "Real Monarchs Defeat Ventura County FC in 2026 Finale",
-      "enlace": "https://www.rsl.com/monarchs/news/real-monarchs-defeat-ventura-county-fc-in-2026-finale",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuvOb1A9FZNI0BpB-oTnuY7I7rTvIO3F1to6ONRq6e9aWAXgZrn4yy0m19WIE"
+      "noticia": "Russia s elections had few surprises - but how the Kremlin uses the results is far from clear",
+      "enlace": "https://www.bbc.com/news/articles/cx4gqv239043o",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGBN2rX1XhCsyLWHV1sKjMAVTaKr0c4WryIlGGd0b3uV0mTgeRtEryXaF-GWo"
     },
     {
       "termino": "juegos",
@@ -36,16 +29,16 @@
     {
       "termino": "real madrid",
       "trafico": "500+",
-      "noticia": "Un gran Atleti, un mal Madrid y un peor árbitro",
-      "enlace": "https://as.com/futbol/primera/triunfa-el-atletico-se-estrellan-ortiz-arias-y-el-madrid-f202609-n/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSew-cQkX72kBsiy8gPBWoHhctv5GDYboagrizXbmJQlrubvebZPL7JvIsIMks"
+      "noticia": "Atlético 2-1 Real Madrid: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/primera/atletico-de-madrid-real-madrid-en-directo-derbi-madrileno-de-laliga-ea-sports-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGo98xtt5UujGBG0X3c1xVIP81nXkz1mGwNGXJfN8gKpuOg14Xskt5DInlHZg"
     },
     {
-      "termino": "padres - marlins",
-      "trafico": "100+",
-      "noticia": "Mic drop: Rookie Ethan Salas delivers Padres walk-off as magic number shaved to 3",
-      "enlace": "https://www.sandiegouniontribune.com/2026/09/19/padres-come-back-to-beat-marlins-shave-magic-number-to-3/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToUUZo9XD7m4ARz2uOORx_RMR0MRNTb2JrHrMytNEhfqR4CiASJ71zp3w0p_M"
+      "termino": "resultado loteria",
+      "trafico": "1000+",
+      "noticia": "Resultados de Leidsa del miércoles 16 de septiembre de 2026 en República Dominicana",
+      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-miercoles-16-de-septiembre-de-2026-en-republica-dominicana/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
     }
   ]
 }

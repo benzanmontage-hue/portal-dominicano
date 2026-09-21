@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T20:00:19.848978-04:00",
+  "updated": "2026-09-20T23:00:20.975984-04:00",
   "fecha": "20/09/2026",
-  "hora": "20:00",
+  "hora": "23:00",
   "total_juegos": 52,
   "juegos": [
     {
@@ -189,11 +189,11 @@
       "compania": "Anguila",
       "juego": "Anguila 10:00 PM",
       "numeros": [
-        "89",
-        "34",
-        "18"
+        "84",
+        "61",
+        "87"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6a511b0a07d516b9c5107d05"
     },
     {
@@ -310,7 +310,9 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "60"
+        "60",
+        "90",
+        "19"
       ],
       "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
@@ -330,11 +332,11 @@
       "compania": "Anguila",
       "juego": "Anguila 9:00 PM",
       "numeros": [
-        "08",
-        "03",
-        "43"
+        "11",
+        "45",
+        "90"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d61d"
     },
     {
@@ -377,34 +379,34 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
-        "10",
-        "86",
-        "75",
-        "61"
+        "43",
+        "79",
+        "33",
+        "40"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
     },
     {
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "31"
+        "28"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "95",
-        "23",
-        "44",
-        "64",
-        "39"
+        "58",
+        "48",
+        "08",
+        "47",
+        "31"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -427,22 +429,22 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka",
       "numeros": [
-        "33",
-        "01",
+        "34",
+        "54",
         "70"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
       "compania": "Loteka",
       "juego": "Toca 3",
       "numeros": [
-        "5",
-        "5",
-        "6"
+        "9",
+        "6",
+        "9"
       ],
-      "fecha": "2026-09-19T04:00:00.000Z",
+      "fecha": "2026-09-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4f2"
     },
     {
@@ -636,11 +638,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka",
       "numeros": [
-        "33",
-        "01",
+        "34",
+        "54",
         "70"
       ],
-      "fecha": "2026-09-19"
+      "fecha": "2026-09-20"
     },
     {
       "compania": "La Primera",
