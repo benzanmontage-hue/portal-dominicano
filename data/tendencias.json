@@ -1,58 +1,44 @@
 {
-  "updated": "2026-09-21T11:00:30.897691-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-21T14:00:32.086396-04:00",
+  "hora": "14:00",
   "fecha": "21/09/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 5,
   "tendencias": [
-    {
-      "termino": "julian oro duro",
-      "trafico": "500+",
-      "noticia": "Julián Oro Duro presenta hemorragia intracraneal; MP y la Policía asumen investigación",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-y-su-esposa-en-santo-domingo-este/3665542",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCpW7ciIaIFB4oZUlfO3MXZq1Yk0AXkNHQplNt0KjA-Gcs83gI4Jk1bBh-xAU"
-    },
-    {
-      "termino": "google",
-      "trafico": "100+",
-      "noticia": "Google takes aim at premium laptop market with $899 Googlebook",
-      "enlace": "https://www.axios.com/2026/09/21/googlebook-899-google-laptop",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsoH-ylkbdjfJAdUO3bajWXDrtKxamVqNrjQp9IfeQPikzj2TXjwBavMtpJPU"
-    },
-    {
-      "termino": "primera",
-      "trafico": "100+",
-      "noticia": "Banreservas y MIVED inician construcción de 400 apartamentos en Las Acacias III",
-      "enlace": "https://acento.com.do/economia/banreservas-y-mived-inician-construccion-de-400-apartamentos-en-las-acacias-iii-9756057.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOmliospb-FlraUIc7kkPt8WyGhVf8j7KjD4S8TytnjPKUNNpuPYz4z0TfaIA"
-    },
-    {
-      "termino": "loteria",
-      "trafico": "200+",
-      "noticia": "Cambios al proyecto de ley de juegos de azar inclinan la balanza en favor de los dueños de bancas",
-      "enlace": "https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/bancas-de-loteria-y-proyecto-de-ley-conozca-los-cambios/3665145",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9keiYtzZDLD9CN1jD1xT6x_qfcdMKkEA_9BI0-mQnutzLFQVYIBx-j7YLEKQ"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "200+",
-      "noticia": "Polémica, análisis y reacciones del Atlético 2-1 Real Madrid de LaLiga EA Sports",
-      "enlace": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-atletico-real-madrid-de-laliga-ea-sports-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMFHI8-aWuzXekjaGvPUKTKLbzENvM45ZdxK8ppA0Q2X1A07UK2jFeLLBBuI"
-    },
-    {
-      "termino": "real",
-      "trafico": "100+",
-      "noticia": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "enlace": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTpZAwBNeW15onjak4wtbya36GcZy1v71MfDYfVI6SaKD6apTm__5Cn4Lc9z0"
-    },
     {
       "termino": "loteria de hoy",
       "trafico": "200+",
       "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
       "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+    },
+    {
+      "termino": "flores amarillas",
+      "trafico": "500+",
+      "noticia": "De Floricienta a las redes: ¿por qué hoy se regalan flores amarillas?",
+      "enlace": "https://hoy.com.do/vivir/floricienta-redes-hoy-regalan-flores-amarillas_1103076.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv3O6qcUyniaVPGMMiA7zB6Tk74-M7eHBMAR-jD9uIdUIaJbQ4LCNjLhW2uSI"
+    },
+    {
+      "termino": "julian oro duro",
+      "trafico": "1000+",
+      "noticia": "Julián Oro Duro presenta hemorragia intracraneal; MP y la Policía asumen investigación",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-y-su-esposa-en-santo-domingo-este/3665542",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCpW7ciIaIFB4oZUlfO3MXZq1Yk0AXkNHQplNt0KjA-Gcs83gI4Jk1bBh-xAU"
+    },
+    {
+      "termino": "google",
+      "trafico": "200+",
+      "noticia": "Googlebook: The laptop your Android phone has been waiting for",
+      "enlace": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHp_sjZ-BetGWIZOAGpQeDXLjfcsEgeWvvjtu75oEzK4fpLPj2EyI7iWniBM8"
+    },
+    {
+      "termino": "primera",
+      "trafico": "200+",
+      "noticia": "Las grandes televisiones no participarán en el ‘pool’ presidencial tras la demanda de CNN, MS NOW y Politico a Trump",
+      "enlace": "https://elpais.com/us/2026-09-21/cnn-ms-now-y-politico-demandan-a-trump-por-negarles-el-acceso-a-la-casa-blanca.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSZjse0_E3cBlXqr820OTcEd6jWy2ECVjd76mHWkRchDzp55Xg45Y9dhDCzqg"
     }
   ]
 }
