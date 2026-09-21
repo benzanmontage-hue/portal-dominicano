@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-21T14:00:32.086396-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-21T17:00:34.266829-04:00",
+  "hora": "17:00",
   "fecha": "21/09/2026",
   "pais": "República Dominicana",
-  "total": 5,
+  "total": 7,
   "tendencias": [
     {
       "termino": "loteria de hoy",
       "trafico": "200+",
-      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
-      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+      "noticia": "Números ganadores de las loterías de este sábado 19 de septiembre 2026: ¿Ganaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-sabado-19-septiembre-2026-ganaste_1102988.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
+      "termino": "dgii",
+      "trafico": "100+",
+      "noticia": "La DGII no logra alcanzar meta de recaudación a pesar del plan anticrisis",
+      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/09/21/dgii-no-logra-alcanzar-meta-de-recaudacion-a-pesar-del-plan-anticrisis/3665257",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDSGoFzbWu9OPu-XWWOnqugUmpTrkNI7oNiDqw_OjyOokDqq0X8tZbm7yu7js"
     },
     {
       "termino": "flores amarillas",
@@ -22,23 +29,30 @@
     {
       "termino": "julian oro duro",
       "trafico": "1000+",
-      "noticia": "Julián Oro Duro presenta hemorragia intracraneal; MP y la Policía asumen investigación",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-y-su-esposa-en-santo-domingo-este/3665542",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCpW7ciIaIFB4oZUlfO3MXZq1Yk0AXkNHQplNt0KjA-Gcs83gI4Jk1bBh-xAU"
+      "noticia": "Testigo relata lo que vio en la casa de Julián Oro Duro",
+      "enlace": "https://listindiario.com/la-republica/ciudad/20260921/testigo-relata-ocurrio-casa-julian-oro-duro_923073.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUF5qCzP-rxvYXdlGr1YuG5jPBJ6MFg2xy7y07_atYrSOZ2iGsq7VZsxZYHc"
+    },
+    {
+      "termino": "diario libre",
+      "trafico": "100+",
+      "noticia": "Ministerio Público solicitará coerción a gastroenteróloga investigada en la Operación Cobra 2.0-A",
+      "enlace": "https://pgr.gob.do/ministerio-publico-solicitara-coercion-a-gastroenterologa-investigada-en-la-operacion-cobra-2-0-a/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNUBw68yYCgP9XCUCJCLP4_cBkityBjmr4UPWEIVwQL2rhOMFE7XwMrc13Fp0"
     },
     {
       "termino": "google",
       "trafico": "200+",
       "noticia": "Googlebook: The laptop your Android phone has been waiting for",
       "enlace": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHp_sjZ-BetGWIZOAGpQeDXLjfcsEgeWvvjtu75oEzK4fpLPj2EyI7iWniBM8"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjloqEFVTdL_bQjH_yew5n3mwvfkhrMqbZG5DADnDHVkThYeq8y04ZoDDvz04"
     },
     {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "Las grandes televisiones no participarán en el ‘pool’ presidencial tras la demanda de CNN, MS NOW y Politico a Trump",
-      "enlace": "https://elpais.com/us/2026-09-21/cnn-ms-now-y-politico-demandan-a-trump-por-negarles-el-acceso-a-la-casa-blanca.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSZjse0_E3cBlXqr820OTcEd6jWy2ECVjd76mHWkRchDzp55Xg45Y9dhDCzqg"
+      "noticia": "El petróleo de Texas cae un 4.5% ante expectativa de conversaciones entre EEUU e Irán",
+      "enlace": "https://noticiassin.com/economia/mundial/2026/09/21/petroleo-de-texas-cae-4-5-por-dialogo-entre-eeuu-e-iran-2124361/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aBwzn2NEL3KSaIDiItBjaExuTuD4-H58nNj72ETSYl5LmliNoWH9aiT00ks"
     }
   ]
 }
