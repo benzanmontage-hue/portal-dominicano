@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-21T02:00:26.538247-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-21T05:00:33.573030-04:00",
+  "hora": "05:00",
   "fecha": "21/09/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 7,
   "tendencias": [
     {
       "termino": "primera",
       "trafico": "100+",
-      "noticia": "Estaba en shock . Hideo Kojima se sincera y dice que recibió la peor noticia de su carrera en una simple videollamada de Sony",
-      "enlace": "https://www.3djuegos.com/juegos/physint/noticias/estaba-shock-hideo-kojima-se-sincera-afirma-que-recibio-peor-noticia-su-carrera-simple-videollamada-sony",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXJWl8QQi8z-mjAohWzcxWfsA9sZWSqOHydLUp_87ytHimwGbiUfrTUcrZJz8"
+      "noticia": "María Luisa Plà: primera cronista femenina de la historia de Albaida",
+      "enlace": "https://www.levante-emv.com/costera/2026/09/21/maria-luis-pla-primera-cronista-134508890.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUpBXBlaza42JOim_Udhq0o9JhZ71_e3dTj7zO_uzBHzktDimhDzcjrKd-Y0"
     },
     {
       "termino": "loteria",
@@ -20,18 +20,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9keiYtzZDLD9CN1jD1xT6x_qfcdMKkEA_9BI0-mQnutzLFQVYIBx-j7YLEKQ"
     },
     {
-      "termino": "real de hoy",
-      "trafico": "200+",
-      "noticia": "Barrene calma a los chavales de Mestalla",
-      "enlace": "https://as.com/futbol/primera/barrene-calma-a-los-chavales-de-mestalla-f202609-n/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCHPq-seAf-7-PxjhbJEXOpaEQ7NrQBTo-JB8PYweyuDsJLKLcJZG8rrlUC4"
-    },
-    {
       "termino": "real",
       "trafico": "100+",
-      "noticia": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
-      "enlace": "https://uk.finance.yahoo.com/news/grid-wasted-power-problem-sector-230208698.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPApGlA9PleAgWqkwbYz13YqUhMzSYCjJ9qxPv26Jt_OHlGWQbtZ_8vBiSvU"
+      "noticia": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "enlace": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTpZAwBNeW15onjak4wtbya36GcZy1v71MfDYfVI6SaKD6apTm__5Cn4Lc9z0"
     },
     {
       "termino": "loteria de hoy",
@@ -42,17 +35,17 @@
     },
     {
       "termino": "juegos",
-      "trafico": "100+",
-      "noticia": "El santandereano Simón Gómez Ortiz conquistó el oro en los Juegos Suramericanos Santa Fe 2026",
-      "enlace": "https://www.vanguardia.com/deportes/otros-deportes/2026/09/20/el-santandereano-simon-gomez-ortiz-conquisto-el-oro-en-los-juegos-suramericanos-santa-fe-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvmq1mXB4SQTspfJkAdhC33yY4KjNA3ZX1tmIGgF9ICVj7LhEw-pXToeC2lXA"
+      "trafico": "200+",
+      "noticia": "CD Projekt RED regalará la versión para PC de The Witcher 3 a los propietarios del juego en Xbox",
+      "enlace": "https://ixbt.games/es/news/2026/09/21/437284-cd-projekt-red-besplatno-otdast-pc-versiiu-the-witcher-3-vladelcam-igry-na-xbox.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc3SlzwiwdwagKHdOE2soZeUZotiiTNEvFtuMjnYY6S-gf4s52SlR4tc5YvIo"
     },
     {
       "termino": "real madrid",
-      "trafico": "500+",
-      "noticia": "Atlético 2-1 Real Madrid: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/atletico-de-madrid-real-madrid-en-directo-derbi-madrileno-de-laliga-ea-sports-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ0DsXPQ9c6I2fMpdl4zPXgbqcMeQYT3RtHxjFlrR_UuMUUFYsr-ROZ3xUwI"
+      "trafico": "1000+",
+      "noticia": "Polémica, análisis y reacciones del Atlético 2-1 Real Madrid de LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-atletico-real-madrid-de-laliga-ea-sports-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMFHI8-aWuzXekjaGvPUKTKLbzENvM45ZdxK8ppA0Q2X1A07UK2jFeLLBBuI"
     },
     {
       "termino": "resultado loteria",

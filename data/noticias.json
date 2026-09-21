@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T02:00:36.282646-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-21T05:00:43.504480-04:00",
+  "hora": "05:00",
   "fecha": "21/09/2026",
   "total": 15,
   "noticias": [
@@ -11,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 19 Sep 2026 07:00:00 GMT",
       "imagen": "https://images.ctfassets.net/0gg9pgt9u0k4/4fVdUcuf4ODU5sQ3fcDKw7/b1c70a1821ab1d0e11f9375476496032/IMG_3800.jpeg?w=1200&h=630&fit=crop&f=face"
+    },
+    {
+      "titulo": "Abinader reconoce en Nueva York a 14 dominicanos destacados en Estados Unidos - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVExQNV9OVmtIaDhnTFhDdWJPY1IxU1NzYUJKV1ZpSVJvZk9xS3VNd1JKOWdEcTdVYWtFdVZ6Z3hGQ0NEbGxfZlVpWC1zclhKa0ZPVFctZDlTUHhkQmxMNGtNVURJcnZXS3NWazFicmpvc1p4WldOUzlyWUNvQkEzM1lTdXNYQnZXOEkzSWx2UUFvUlR5cEZxb1V1ZVFtOWdTVG5oRWx6RWRoVGFhQ3d4VlRuTm00T2ZwaDRwYzY1TGZCcFdieDM2bHVIX1pZd9IB0wFBVV95cUxQQkdUWllCZWRFVEZXX2NHTVhkY0JCSmJZT3lBd3JHaHdpVWcxWTV2UzMzYTlnT0ZmREpmZVo0SWFLUms2M21VNUE1XzByWjBHVWozempYR18xN0pGSWZDcnVhSHNxSlM5eXlJSFdFWmJhOWJMOTlrYmRYZTJVazd0b1hqNnpVelVNeFlYM3JIZ2x3TDdGVnppMWszZFRKUmZGN09haENlQmI5UW9oOVJHT1RSOVhHODBHQk9QU3ZTSjBXUjJBcHhIbFRVdjZIQTF5c2pB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 21 Sep 2026 00:02:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/09/21/abinader-reconoce-en-nueva-york-a-14-dominicanos-destacados-en-ee-uu-f63f3e35-focus-0-0-1200-675.jpg"
     },
     {
       "titulo": "El Salvador, Honduras, México y República Dominicana prohibirán ingreso de quienes posterguen renovación de pasaporte - Proceso Digital",
@@ -29,28 +37,20 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab01d327113d.r_d.348-256-16666.jpeg"
     },
     {
-      "titulo": "República Dominicana llevará a Francia agenda de inversión, energía y agroexportación durante SD26 - acento.com.do",
-      "fuente": "acento.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVVYZmtVeDlkaXVpaS0wcTBxSEJTSU1IOHA1MHlTN25ZejFHaGxSYktjdHRmM0h1cXgwckZuSndySVdISXJCeHhZTDVTd3dIT2hJcVQ5cUxacUZpV3NGUWJQQmVGMHhhai1qTUx0amxaZUZHMU14aGFVQUIyMVdLcVpDOWM3MWVPQnd6SjRkSmc2ZWhJN3dtNXQxSG5tcUlaMzRBUG5jZl9UX2FIZVBHSFNEc0hIQ19rRVU0ckw3NkZDdVZaRlg4cFF2aWdfWUdVdWw5RXRlVmbSAdgBQVVfeXFMUC1VWGZrVXg5ZGl1aWktMHEwcUhCU0lNSDhwNTB5UzduWXoxR2hsUmJLY3R0ZjNIdXF4MHJGbkp3cklXSElyQnh4WUw1U3d3SE9oSXFUOXFMWnFGaVdzRlFiUEJlRjB4YWotak1MdGpsWmVGRzFNeGhhVUFCMjFXS3FaQzljNzFlT0J3eko0ZEpnNmVoSTd3bTV0MUhubXFJWjM0QVBuY2ZfVF9hSGVQR0hTRHNISENfa0VVNHJMNzZGQ3VWWkZYOHBRdmlnX1lHVXVsOUV0ZVZm?oc=5",
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir de mañana lunes - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZmxpZEl6N3FlaWhnTkU0V0FoVEloaEIwU0ZzVDJJQWNqREVORVFpbjNvQlZ6MEZsb2swTEo2emZoLVNNTm5mWmFHUnhtcW9BYk90aXpLUDVRRXdLUFAzUlh4c1REWTV3QjlVOERjMmE3M1Q4Y3pfVzEyZWl2amc2aFhNVGxwM1BhZUswQUpFQm1QOWM2VUF4ckhYZVBzaWVDVVRtaTN3eWMxaUl2em5SZnYwOGtQeFVEaVc1YUlUWUVFRVhHZGpscVJrclJJcEp1by13amR5SDJFdWtiN2tQdDhQRTZ0eXBWcW5WQ2E1Q1M3UThoUmNBTkt1cnB4d9IB_gFBVV95cUxPZmxpZEl6N3FlaWhnTkU0V0FoVEloaEIwU0ZzVDJJQWNqREVORVFpbjNvQlZ6MEZsb2swTEo2emZoLVNNTm5mWmFHUnhtcW9BYk90aXpLUDVRRXdLUFAzUlh4c1REWTV3QjlVOERjMmE3M1Q4Y3pfVzEyZWl2amc2aFhNVGxwM1BhZUswQUpFQm1QOWM2VUF4ckhYZVBzaWVDVVRtaTN3eWMxaUl2em5SZnYwOGtQeFVEaVc1YUlUWUVFRVhHZGpscVJrclJJcEp1by13amR5SDJFdWtiN2tQdDhQRTZ0eXBWcW5WQ2E1Q1M3UThoUmNBTkt1cnB4dw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 17:00:17 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Captura-de-pantalla_19-9-2026_12439_presidencia.gob_.do_-OG.jpg"
+      "fecha": "Sun, 20 Sep 2026 19:00:05 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-semana-laboral-OG.jpg"
     },
     {
-      "titulo": "Clima hoy en Punta Cana, República Dominicana: el pronóstico del tiempo para este lunes 21 septiembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamxFendZVERuRlFITS10YkNsY2ZfT2ZnSm5aWmRNa0xIZ29yYWR0QjhXOWFVenc1NV9pVlpvRFA5R3lDSDFlQk5BVGJNQnJ6Yjd3RVEtMTRuU2J4ZTUtRjB2azVLV0NQU3NkYldmUGFEUkJFOFBxaHZUc19SSHBNUlZWOElfQnVhRWNVRVVjS1lzaTlXRHJWMUo0VjVIU0daaGtQUl9UdmxRbzF2OE5fSVRmTE9SLXdwd0ZmSUtpWXY0MGtRa1FUTWV1U3c5YXltZXl5N1R0TDc1Z2lQX1HSAeMBQVVfeXFMTnhFZHZ4ZERPcWJ2QnNxa21QcEI5QzdocmtFRmpsUkdzd0NZeDZSdEdsa2QxSEdrZ0RVSTd6UXh4ZVJCVEk3cHBTQ0RJZ0RtNU1kVHJrR3Q3YmpyQm5IRGFkYWxjZXFUWmlmSUdYYjAteTNZM2lTR3ozQ3BRQWNpbzd3ZVVwdHVDNWhNYTFvRVU5VnZoNTN1Q2dYSHd2NXdMMzB1QmZVc3ZQZlVRN1NkbjZsQURmQkpWN00zd010T1JWNTFVRC1icGNOMUpnVFdzdEV5ODNFeU5CdHdCV1RqMnV6Qk0?oc=5",
+      "titulo": "“Nos robaron, nos quitaron todo”: el drama de dos ambientalistas en República Dominicana - Montevideo Portal",
+      "fuente": "Montevideo Portal",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2Y3QTM2XzBFQ0RvRmV0SkpwV1I3YlZGNWVSY0Ryc0RyZ1lQLWR5M05JelRBSERQcG0zenZJUXFDZUJMYUVOWUxvOVJ4dG9GUUZJOTFDa09FUDhLakxuYmxIX2xYc1FGcFhtbVpmM25kUVJncHQ1ekY0azZtMk5qbW1UUXNMZnBLTUo5VnNWcE1DaVJ1UFR4ZVFQemVsX2UyM29aRVNRbzZ1OVE1UmhPNEZIS3Rpa3J0MHotTmI4TEFuVm9MWjNVNlEzdG5Cd2PSAfMBQVVfeXFMT0tROW41Z3F0ZGUzMldaWW51SEdHMzNWTDVWNUJqT0JTZUV3QWx3bVZUQmNlUW94d1Zsc05Yano2M2FRSVhqUnF1SjF5dEhJZkVTMTJ2ZDEyRzN6Z0ZsOU8wZlkxeFg5UnFXZEZYRFJKZzhzdHN0dXRKNWdtQXlQaGF2RGdIQlZyQk52NU9TblIzS3FGTk8zNUJNNFVxRjdLZFBvSHhyU25UbVdNb1p4bGlQVDZkNXBhNHBBNHBMUHBCSXJBQXZFM1V5dUEzN3k2ZVBfYW80UTlaS3VUdC0xQTVLUlRBeFpTbGxjRjJIM0VjZ01J?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 03:37:13 GMT",
-      "imagen": "https://www.clarin.com/img/2025/04/30/kdfX1azIe_2000x1500__1.jpg"
-    },
-    {
-      "titulo": "Caso Senasa 2.0-A: Ministerio Público ocupa 12 vehículos, armas, relojes de lujo y más de RD$400 mil - listindiario.com",
-      "fuente": "listindiario.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGp5SFB5YkVrNXFxdXQ2amNUWlBFcUdTQUoxTTQwUWZ0ZWQ4VDhBVEpYN0RaTVlWSGJWS3d3bGk0SzhBbHZqM2ZkNU1HdDNOeUNRNGFPdC1OVWtjdk9RMkFGZGpuVnBfUEJfSGkwYUE0SlhVekRmMzlsQzNLVjl0TjNPUzNTM1FHOElRUEhsUE40NjU2MkI5RnBOUlFMbElESU1mWWR4eEpQTEZHS2lUaldMdnMzZXpxQmxrOUFaVUdxQjNyMGxpeWlieXltYTRILWU1N2FDVEN3a2ZoUm9n0gHkAUFVX3lxTE50UnpiQlo1NkpXV2NPd05MdzVBb01IUWtBRU9YRnJWRThMdGhTY2ZvTHdla2FoOTRoelVmOU5KVmd6Ni1hUE1VNHhVNGVDLXNxZzk3QnZPVXk1bkc0TmkzRVpqRnlwTjJob0MxSkxIbmRiR2RjMjdGcmJPYWUzQU81amJFR3hJMm1GMnZuM25XWnJoT0VuM2xXSDQ2RncwWC0zR0w5dzV5WUM5amJPelJqdlFpWFZLNFRLYjY5aGt0cEVrQWdnRjcwZ0Z3NDRDZlhDM0VobElabW1WdXUwQklQdElSVw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 18:58:22 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/20/6aafd7fc382d9.jpeg"
+      "fecha": "Sun, 20 Sep 2026 17:27:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "El desafío de la planificación del desarrollo en la República Dominicana - El Nuevo Diario",
@@ -61,28 +61,28 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/Francisco-Rojas-Castillo-1.jpeg"
     },
     {
-      "titulo": "República Dominicana buscará bronce Clasificatorio Olímpico - AlMomento.net",
+      "titulo": "Tres strikes por no hacer swing - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGdkY2tkN01seXdrU1FwODJuYk9QQmxqSWQzRXhUMlROMnFzR2ttcTZ5T1FLYTV0eVpPNTZFZGFDdkh2U29rcnBLV200SkRTaG1PQ2s3YTE3cXRaeExmbzAzQXctUmR4M1BrT2V5dmtUZWdoNzFKUENNbWlZLUJfZHRHVHh4RC10NlE?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1YWozNi1QaE04dlFrbGQ2Ulc0N25wQ19Pdm1VYnZ4ZHJORVYzRElQU1JwbFdGTnJMdzd1cTNoVlU2bkFvSUJwSFpYWWJDbHpBdWM4U2hyRFc4R29NaENVRXpVci0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 05:01:44 GMT",
+      "fecha": "Sun, 20 Sep 2026 20:21:50 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Deportan de Estados Unidos a dominicano requerido por homicidio en La Altagracia - diariolibre.com",
-      "fuente": "diariolibre.com",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbURSTDZlV3dfMUgyWnVmbnQ5VkVhRjVyTHBfdEhTUXFCYXctSUxVWHdOd0ZBLWRqN055LXFYT3dTTEl2NkN2Y1hNTkE3MWgzalZjdTRwdVVkZHBKam4tM2xkT2VvUnZhb2M2VzdjcnMweEw4b3dvOEJaY2lDeVZJQ0JZYW41bk1FX3NDRWNHMHVnMW01allVdlFTNzU3Sy1zVFNzUkZOR2Jrb1NLaEdHYVpJekhvUXZjX3dDRWtjU0ZERmhpTnI00gHMAUFVX3lxTE14Tl9tdDZ2Q3hBNEpmcFZSU08yWVVKUW9LVTVzVEJ2Q3BoOEZkeU9neFdIbW5FN2Z5Q1BCQkE4RXNwbnFUZ3lUcmNTeUZUeHJoR29JS2pSUGlTeGtibVVETXRRRk94dG9VSnJjaktTSjVuVGk5MmZhaUJ2MGx4Ry1meEdvTUxVWVE1U0oxRTdXUFF3UVdhVlo1MHB6MU1SVXB0TVFzNXItZ21UQUVUenU2QTJfakI5MkZVSGRoTDE0dDhIbEw0cXVOTFdzQQ?oc=5",
+      "titulo": "Clima hoy en Punta Cana, República Dominicana: el pronóstico del tiempo para este lunes 21 septiembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamxFendZVERuRlFITS10YkNsY2ZfT2ZnSm5aWmRNa0xIZ29yYWR0QjhXOWFVenc1NV9pVlpvRFA5R3lDSDFlQk5BVGJNQnJ6Yjd3RVEtMTRuU2J4ZTUtRjB2azVLV0NQU3NkYldmUGFEUkJFOFBxaHZUc19SSHBNUlZWOElfQnVhRWNVRVVjS1lzaTlXRHJWMUo0VjVIU0daaGtQUl9UdmxRbzF2OE5fSVRmTE9SLXdwd0ZmSUtpWXY0MGtRa1FUTWV1U3c5YXltZXl5N1R0TDc1Z2lQX1HSAeMBQVVfeXFMTnhFZHZ4ZERPcWJ2QnNxa21QcEI5QzdocmtFRmpsUkdzd0NZeDZSdEdsa2QxSEdrZ0RVSTd6UXh4ZVJCVEk3cHBTQ0RJZ0RtNU1kVHJrR3Q3YmpyQm5IRGFkYWxjZXFUWmlmSUdYYjAteTNZM2lTR3ozQ3BRQWNpbzd3ZVVwdHVDNWhNYTFvRVU5VnZoNTN1Q2dYSHd2NXdMMzB1QmZVc3ZQZlVRN1NkbjZsQURmQkpWN00zd010T1JWNTFVRC1icGNOMUpnVFdzdEV5ODNFeU5CdHdCV1RqMnV6Qk0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 14:02:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/09/19/whatsapp-image-2026-09-19-at-91249-am-d34d10a8-focus-min0.02-0.42-1200-675_wam.jpg"
+      "fecha": "Mon, 21 Sep 2026 03:37:13 GMT",
+      "imagen": "https://www.clarin.com/img/2025/04/30/kdfX1azIe_2000x1500__1.jpg"
     },
     {
-      "titulo": "Pastor Adrián: “Yo quería ser sicario” (video) - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12LXZwa1RWRDJlOUJnRWRobFZpbjN1TE93YUROOHBxR0pWTDB6NmY2dTVlOV9SR1pYTTd6TExDTW1SdHQwb3lia3R4U01BOXY3N0s2eGlpYmpBeUJ0UGV5Y2JCZlQ5T3AzeEM1dHo3dDhXRWpqQ2twZ3haa3bSAYIBQVVfeXFMTkpPeXY5Nl9BUEJyR2lFSjV4dVotd29rT0tGVXF4RnE3aURHOE1IUXVqeUM1c2lmRExMNGlBa0Q1RnBzRFlTeE1oM0Jrbmx6RGItMjI4VHFySUpwTDgwUllobzdmQy13VHJBV0NsdzZXSTBnQVhBc0M2RVRiaFRMZFlVQQ?oc=5",
+      "titulo": "Caso Senasa 2.0-A: Ministerio Público ocupa 12 vehículos, armas, relojes de lujo y más de RD$400 mil - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGp5SFB5YkVrNXFxdXQ2amNUWlBFcUdTQUoxTTQwUWZ0ZWQ4VDhBVEpYN0RaTVlWSGJWS3d3bGk0SzhBbHZqM2ZkNU1HdDNOeUNRNGFPdC1OVWtjdk9RMkFGZGpuVnBfUEJfSGkwYUE0SlhVekRmMzlsQzNLVjl0TjNPUzNTM1FHOElRUEhsUE40NjU2MkI5RnBOUlFMbElESU1mWWR4eEpQTEZHS2lUaldMdnMzZXpxQmxrOUFaVUdxQjNyMGxpeWlieXltYTRILWU1N2FDVEN3a2ZoUm9n0gHkAUFVX3lxTE50UnpiQlo1NkpXV2NPd05MdzVBb01IUWtBRU9YRnJWRThMdGhTY2ZvTHdla2FoOTRoelVmOU5KVmd6Ni1hUE1VNHhVNGVDLXNxZzk3QnZPVXk1bkc0TmkzRVpqRnlwTjJob0MxSkxIbmRiR2RjMjdGcmJPYWUzQU81amJFR3hJMm1GMnZuM25XWnJoT0VuM2xXSDQ2RncwWC0zR0w5dzV5WUM5amJPelJqdlFpWFZLNFRLYjY5aGt0cEVrQWdnRjcwZ0Z3NDRDZlhDM0VobElabW1WdXUwQklQdElSVw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 19:22:57 GMT",
-      "imagen": "https://remolacha.net/wp-content/uploads/2026/09/pastor-adrian.png"
+      "fecha": "Sun, 20 Sep 2026 18:58:22 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/20/6aafd7fc382d9.jpeg"
     },
     {
       "titulo": "República Dominicana y Honduras celebran sus 102 años de amistad con sellos inspirados en sus lagos y lagunas - Infobae",
@@ -109,11 +109,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Diáspora dominicana, la prueba de que un país pequeño puede ser inmenso - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemIwWlVpSlZ0azlWNzIzSjFJQ2pKTi1hc3lxbTZISkdzRXQ1SmpjUHdZME1abzdSRHcyU0xMRHFsYzV6MkJqT1RDSDBOQTExaGtEVW5UQVJ5dnBWTEx2VHFHanF6dmZ1UERBVllhb2V1bWd4N3NtX0xoZkpxVXJ2S2dyeThJYWJ6ZXhkYnFQdWcwcmpKNmhPVw?oc=5",
+      "titulo": "República Dominicana y Estados Unidos acuerdan cooperación para la extracción y procesamiento de minerales críticos y tierras raras - U.S. Embassy in the Dominican Republic (.gov)",
+      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdGo3MmkwOUJDRnJNT0Yxc0VVWlJPOFJkZE4wRXpLdTd0RDlRVGpqcWlEWjM2X2hfd0FCY0Q0SGVibXhNR1ZSajF4ZzFNSnplSGpPWFhGcFdPYjVjMEwxZFQ5V1FhZFUzWFZhSjlHemN0QjVlVTZWY3J4bTNHZXYtVHlxcUJBenE5Z2tRbEs4TVF0WUhDcFdTU2JuOERaU0lfTy1wOTNreV9xN2FWUzF3b1kzYl9ndXdvWUsxYlFwVUUzaDBRQXNvdzduN0p3MFdvV1FtbFN5a0YzVEV1eVNwR3lfLTdSeXRHdFVfSnVmcDJBdw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 05:12:43 GMT",
+      "fecha": "Thu, 10 Sep 2026 07:00:00 GMT",
       "imagen": ""
     },
     {
