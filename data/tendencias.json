@@ -1,23 +1,44 @@
 {
-  "updated": "2026-09-20T23:00:25.602788-04:00",
-  "hora": "23:00",
-  "fecha": "20/09/2026",
+  "updated": "2026-09-21T02:00:26.538247-04:00",
+  "hora": "02:00",
+  "fecha": "21/09/2026",
   "pais": "República Dominicana",
-  "total": 5,
+  "total": 8,
   "tendencias": [
+    {
+      "termino": "primera",
+      "trafico": "100+",
+      "noticia": "Estaba en shock . Hideo Kojima se sincera y dice que recibió la peor noticia de su carrera en una simple videollamada de Sony",
+      "enlace": "https://www.3djuegos.com/juegos/physint/noticias/estaba-shock-hideo-kojima-se-sincera-afirma-que-recibio-peor-noticia-su-carrera-simple-videollamada-sony",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXJWl8QQi8z-mjAohWzcxWfsA9sZWSqOHydLUp_87ytHimwGbiUfrTUcrZJz8"
+    },
+    {
+      "termino": "loteria",
+      "trafico": "200+",
+      "noticia": "Cambios al proyecto de ley de juegos de azar inclinan la balanza en favor de los dueños de bancas",
+      "enlace": "https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/bancas-de-loteria-y-proyecto-de-ley-conozca-los-cambios/3665145",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9keiYtzZDLD9CN1jD1xT6x_qfcdMKkEA_9BI0-mQnutzLFQVYIBx-j7YLEKQ"
+    },
     {
       "termino": "real de hoy",
       "trafico": "200+",
-      "noticia": "La Real reprime los ánimos de un Valencia combativo",
-      "enlace": "https://www.marca.com/futbol/primera-division/cronica/2026/09/20/real-reprime-animos-valencia.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuZtka0ThEo5nXRX5Ubxubk0nvTWAmfK0wFNUE2SQTp3ilmWIdfjglxJKpUGY"
+      "noticia": "Barrene calma a los chavales de Mestalla",
+      "enlace": "https://as.com/futbol/primera/barrene-calma-a-los-chavales-de-mestalla-f202609-n/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCHPq-seAf-7-PxjhbJEXOpaEQ7NrQBTo-JB8PYweyuDsJLKLcJZG8rrlUC4"
     },
     {
       "termino": "real",
       "trafico": "100+",
-      "noticia": "Russia s elections had few surprises - but how the Kremlin uses the results is far from clear",
-      "enlace": "https://www.bbc.com/news/articles/cx4gqv239043o",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGBN2rX1XhCsyLWHV1sKjMAVTaKr0c4WryIlGGd0b3uV0mTgeRtEryXaF-GWo"
+      "noticia": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
+      "enlace": "https://uk.finance.yahoo.com/news/grid-wasted-power-problem-sector-230208698.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPApGlA9PleAgWqkwbYz13YqUhMzSYCjJ9qxPv26Jt_OHlGWQbtZ_8vBiSvU"
+    },
+    {
+      "termino": "loteria de hoy",
+      "trafico": "200+",
+      "noticia": "Números ganadores de las loterías de este sábado 19 de septiembre 2026: ¿Ganaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-sabado-19-septiembre-2026-ganaste_1102988.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     },
     {
       "termino": "juegos",
@@ -31,14 +52,14 @@
       "trafico": "500+",
       "noticia": "Atlético 2-1 Real Madrid: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/primera/atletico-de-madrid-real-madrid-en-directo-derbi-madrileno-de-laliga-ea-sports-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGo98xtt5UujGBG0X3c1xVIP81nXkz1mGwNGXJfN8gKpuOg14Xskt5DInlHZg"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ0DsXPQ9c6I2fMpdl4zPXgbqcMeQYT3RtHxjFlrR_UuMUUFYsr-ROZ3xUwI"
     },
     {
       "termino": "resultado loteria",
-      "trafico": "1000+",
-      "noticia": "Resultados de Leidsa del miércoles 16 de septiembre de 2026 en República Dominicana",
-      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-miercoles-16-de-septiembre-de-2026-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
+      "trafico": "200+",
+      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, sábado 19 de septiembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-sabado-19-de-septiembre-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ21a4Lv_NsWoeZL5wO67KNGiqLy2rWNgb0KU-LmPWwShREpU83_5wsluKG6FQ"
     }
   ]
 }
