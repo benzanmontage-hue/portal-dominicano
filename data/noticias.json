@@ -1,9 +1,17 @@
 {
-  "updated": "2026-09-22T08:00:50.823433-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-22T11:00:51.552445-04:00",
+  "hora": "11:00",
   "fecha": "22/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "La República Dominicana prioriza situación de Haití, inversiones y exportaciones en su agenda diplomática durante la Asamblea General de la ONU - Presidencia de la República Dominicana",
+      "fuente": "Presidencia de la República Dominicana",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPam03bUJfTElzWE81LWpiZTZVNHBIVG5rbjB4SXUtOW9qaHViR2xYZTV6SThRWFNYX2xPWVFUZjRaT2s0cktQWWxxYUxQUFpMaUtkMGt3cHoxWWQ5dlI2MU1wQmNrdXhKVk5tcGJINk8yendKbnhjMm1fR0piZkliRE8waUpKeEVja2pYQ2ZBbVBuLVhqNEtpT3BVUVA4OVFzVUl6TjZoUFBSSXNsa2pIc3JyLU5WbEZPQUx2eUd3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 14:26:50 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "El élder Rasband ministra a Santos de los Últimos Días y líderes comunitarios en la República Dominicana - Church News",
       "fuente": "Church News",
@@ -11,6 +19,14 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 14:51:00 GMT",
       "imagen": "https://es.thechurchnews.com/resizer/v2/23P3BFTAOZAONMKIIBFBWCSSKU.jpg?focal=924%2C340&auth=da2c97cf3101b538afa5825fbed6713ed0181c748cfc51bdafac558d9cde82d6&width=630&height=331"
+    },
+    {
+      "titulo": "Consulado de República Dominicana empieza a ofrecer el nuevo pasaporte electrónico en NY y NJ - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3hURzlkQ1RBUnVUZnRjZGdjeUVVY2xwM3dEaFBFWUpvVUlvNVdTbEhvX0xPQW52YXlGNXowZGRGcl9RR291ck9VYXhIR1JpNTFZYnNlR3d4d2tyYXlQNFVWaU1qU3lXejJkR3NrZHRrMWFCVHBPRWZibWhOZW9UTVBmbnMtbV9vTjlHLXhFeGNZMUhWWnZfZF9QVXJqTXhuZjlJTzBGS0p0QnYwaURfZnJnbmhRLWFfMGgwenUtYk0wa1BBenJKdmp0dFJna2hZSXNIV3ZOZlJJWTdqUjllYklhdE1pc0V1UUdGYk0tcU_SAfgBQVVfeXFMTVBnM29uWVB1SWdrdWd0bUk5eUZNT0M3NGdGR3o5S0s1Q1g2bnBEMS1jbHBsUkpTTnFnQWJ6RElsWnBlLWhac2VMUnJIcElGUlZ5RzJMQi10bDZLMXM2VDNkR3Jib3ZQdEJORGlYSzJDWlFtZnE5cGtQS29pT2VjM0lGS0wyVl9Xc1ZWOUJfSXlzS0psNFhxSURUMlJYcE9GNW9FQ2VBVDFGT1U5Z1ppSjhKV3ZibE1xTEl6eDVnZU15RGloRk1KNnVjblZ1UlVhcmdKMEk0ZmFrcGtOYi1BdzRsMGwwVkNBaFl5bjVDUGZ4cHQtR01BaGI?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 12:34:47 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Ambientalistas checos: \"Una mala experiencia no representa a la República Dominicana\" - Listín Diario",
@@ -21,30 +37,6 @@
       "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/09/21/6ab1ec378c378.r_d.446-527-0.jpeg"
     },
     {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este martes 22 de septiembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2Y5RTlDYUsxdDVFcVlzRXZ4dTdVNEppeU9ZREY1VUU1SjFWdVNZakEtdkcwaVFHRDVVWU9VS21DcnpNUTRLNEwzcUpuV0hWWWJHbHp3MVBqWldkTlRBcHgzZzlBWGhRZGRETTg1SmpSRE96azdpNzRsTUUxOVZLOWpvdFJ2Z2FRQ1Z5SFk2dGJ6UGUwSTlSektiMTlrVk1JWGNGWGloWFYtal9WVVBobXhOSGhJWi1QWWwxS0JzTFFmdG1ES25GLUxvZXluak5BMTlwckFGTE1fc2c5cnRPbGlfb0RMeGYy0gHuAUFVX3lxTE9iWEIxZXZ2bU1OQUJLSEUxOFRiUFBCUUhUdUdONkxxdXFKM3h1emJKVGpibW5yWmtOVElpeTZiR2NOSEhUT19GV3EzTEJBNi1UTUdEbTBwVlh2bWRONjU0d2tZYWtDUUxVbTV5UzlFUnFKa0tpaENCa0dnSDNqdWtKSy1GcDBCYmJrSmFLaU9DVVJudjVQajhJb3gyVGpUckFVV2FTS1hoa040a1ZlSjVITHVNbG5WSkpNMDhZTFE2T0hSb2pRamFZT19SbThXYVZUQTdRMnJxTUkxMUZuYzEyWkVGS21rZm00b2d2dGc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 10:40:08 GMT",
-      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1256x620__1.jpg"
-    },
-    {
-      "titulo": "Dólar hoy: así se cotizan las principales divisas en República Dominicana - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmluSi1sVm1HWFRLblBsanFqRzdFMnk1NXhWRXJETW1wcUtSM3U0QjhfVHB3TXpUbFlBa2FURVBXNkJFQ1RRa3FGWTRUM0FuLTNVTk9SNEpJQURIVklqQVk0TVdZZkh6OUI2RTlPY3lmUTZRbVBCZFVsbS1BVUlOdUR2NzJaSzFSMk9tWFJyRFhPOFNvdlBNZTJMb2MzaFlvQTY2Wm1B0gGrAUFVX3lxTFAtVG1qSzBkT2llZW9jVkx0TWRNa1dKWGdvcnJOZXpqUXRVamozcS0tdU9LSExzRHdyeFA4eXR4YkNfT2FfakY4NGpOcnRxdUZZOVQ2dFpiNmVnWW1Ec09PWEZsQ1VhSmlCcWJTYzRpdjRQSjJwbzZfSF9ISTVHZnJ1MWdrUDJaODFhSndqekM5RGZqVzk4bi1UQVJvS3hkWU1HWlJTQ1dwaGZaaw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 12:04:44 GMT",
-      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/04/01/69cda81404a1d.jpeg"
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: ¿a cuánto se cotiza este martes? - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDg0X2lmLXhpVXhzNVJHUC1sTldJUGdDT25Hel9hNkRQdXNSbTRyYkpZaEhHUVhkSE9XZG95U1BJSUVlTmxlX0xaeEdtNVNYWHpLRzhDZDctRE52VEhjS0djSDVZSEo2T1RPX3hOU0ZYbEZhbjdXU0NJU3dYLWNsMHdkQnRNRm9pMmIzOTYxeFlOY3hGNlhtZTA3cTAybHlDUFVCYnF3bm1NY2xQ0gGsAUFVX3lxTE9kODRfaWYteGlVeHM1UkdQLWxOV0lQZ0NPbkd6X2E2RFB1c1JtNHJiSlloSEdRWGRIT1dkb3lTUElJRWVObGVfTFp4R201U1hYektHOENkNy1ETnZUSGNLR2NINVlISjZPVE9feE5TRlhsRmFuN1dTQ0lTd1gtY2wwd2RCdE1Gb2kyYjM5NjF4WU5jeEY2WG1lMDdxMDJseUNQVUJicXdubU1jbFA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 07:59:53 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/imagen-primer-plano-benjamin-franklin-concepto-finanzas-100-billetes_169016-61813-OG.avif"
-    },
-    {
       "titulo": "Matan a la esposa del merenguero dominicano Julián Oro Duro - Primera Hora",
       "fuente": "Primera Hora",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2E2TDJLRnp1WUN3VXNYSU5ZZlZiOGpkcmlVcGtodEJYQ01XdGNJUjh1R2JGZTB2MFJ6U3hIbjNjS2xza3VkZ1ZYenExTkxvaEJ4QU1TTUtCalBIT25JTlBDNi1CUTJERElGNldkTG15RkZVd0ZYM2lnQ1JiRGg3TEtHM1ZTTzZnMjh0anRscW9pd05HanRxX2NRaHNOXzItcDRWVVV0YkJYNnhNNmVPYjMxSkV4R2gwWlVLRQ?oc=5",
@@ -53,28 +45,28 @@
       "imagen": "https://www.primerahora.com/resizer/v2/L5UG4PGMKJHTPCSYRJ4B74XF6M.png?auth=5b26f9623e9e29f4df9721bb37544a295df2dcc471f90cba7fdbc74cc62161e2&quality=75&width=1200&height=717&focal=413%2C251"
     },
     {
-      "titulo": "Abinader se reúne con empresarios en Nueva York y los anima a invertir en República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
+      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este martes 22 de septiembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY2Y5RTlDYUsxdDVFcVlzRXZ4dTdVNEppeU9ZREY1VUU1SjFWdVNZakEtdkcwaVFHRDVVWU9VS21DcnpNUTRLNEwzcUpuV0hWWWJHbHp3MVBqWldkTlRBcHgzZzlBWGhRZGRETTg1SmpSRE96azdpNzRsTUUxOVZLOWpvdFJ2Z2FRQ1Z5SFk2dGJ6UGUwSTlSektiMTlrVk1JWGNGWGloWFYtal9WVVBobXhOSGhJWi1QWWwxS0JzTFFmdG1ES25GLUxvZXluak5BMTlwckFGTE1fc2c5cnRPbGlfb0RMeGYy0gHuAUFVX3lxTE9iWEIxZXZ2bU1OQUJLSEUxOFRiUFBCUUhUdUdONkxxdXFKM3h1emJKVGpibW5yWmtOVElpeTZiR2NOSEhUT19GV3EzTEJBNi1UTUdEbTBwVlh2bWRONjU0d2tZYWtDUUxVbTV5UzlFUnFKa0tpaENCa0dnSDNqdWtKSy1GcDBCYmJrSmFLaU9DVVJudjVQajhJb3gyVGpUckFVV2FTS1hoa040a1ZlSjVITHVNbG5WSkpNMDhZTFE2T0hSb2pRamFZT19SbThXYVZUQTdRMnJxTUkxMUZuYzEyWkVGS21rZm00b2d2dGc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 10:40:08 GMT",
+      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1256x620__1.jpg"
+    },
+    {
+      "titulo": "La ultraderecha alinea armas hacia República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaS02TnROSmtrTE9EOW5MX2dDTVpNdVJQX2NQS3otX3NmWUlTNnJRLUh6M0t4WEdraWxxWE0wWlViT1NBX25pcWVPbXZoUkNZTlRBUFlVeGVMcjlGekpPUUU4dG0xeF9hTmZBd3FvVndzMWtoMW1YSE11T0xJSDNDVTZwQXdTN0hXWnpVb1YzUXZ2NWhaYTZjUi0tTmpLMGJq0gGgAUFVX3lxTE5pLTZOdE5Ka2tMT0Q5bkxfZ0NNWk11UlBfY1BLei1fc2ZZSVM2clEtSHozS3hYR2tpbHFYTTBaVWJPU0FfbmlxZU9tdmhSQ1lOVEFQWVV4ZUxyOUZ6Sk9RRTh0bTF4X2FOZkF3cW9Wd3Mxa2gxbVhITXVPTElIM0NVNnBBd1M3SFdaelVvVjNRdnY1aFphNmNSLS1OakswYmo?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 11:00:04 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Abinader se reúne con empresarios en Nueva York y los anima a invertir en República Dominicana - elnacional.com.do",
+      "fuente": "elnacional.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTVqeEZlemI1Y1FaYWVrdVJDQVN3N1ZJcTZweERNYU9xc09kTkZ5STZFcDdEQ1dON2ZMdXEwQlZZMHpJdllwQk1MZTlyT21HMVpkTndESHlwbG9pNklqVEZVaVVtU19HTW05czA3Uno3dXF2NGlVblBMUmpWSnVjLWpMNldaWTVVY0dNTnduVWJmcVh3dmdVOGQwZGhVcDZ3VzJseWVOTXNWaTFlN3ZXNTVPWFNTS0dEVGZBQzFsc9IBxAFBVV95cUxOZUVWMFNnZ29TRnVQMjNTUlVyY3p4ZXkyU3I5bFFpQ2dlMHJfUDlneUFGa3lDUm9RYkQ3WkRsRnhqaHMweWVyVXJBR19kbklINHpBRjJBSGlRdVFsSU5td1VUaDVQeUJ1cjREUDJ2Z0pkcEN6bWh0NlNXMTJjaGNIRXcxOVFfRkwwLUdjcllIODlnTUs4S1MtanZXczZFZFdnY3I1TWx3al9KbU9NN0ZBS3BLOF84a2g5c09maVRLdGRQaERD?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 20:42:41 GMT",
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/21/6ab1965fec7da.jpeg"
-    },
-    {
-      "titulo": "Abinader teme o no confía en la prensa dominicana de N. York - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelFlX1BWV3RnUVhRTHVjYm8zQm5hMHM0RWFxQzlXRUEzMlpzUjQycl9DUDlRQnV0Z2FYUW5WbWMtR0VCMEdTMDF1U3l1ekFiWFRQZEhuR2s3dUlQNVF2Q2lfYTRuV1Jiei1FS05fYzVubnNqX1ZteHpmR0N3bWU0WHJnSmpPWGR3clE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 05:13:10 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presidente dominicano plantea elevar las relaciones con Perú tras reunirse con Fujimori - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0YtdUM0SDdxMlM5RXFRTlBHUHZxS3lvOVBOVlhqZTNYcmpZV01mRF9VaUYtcjhYdkctNDV5VlNzbURhT01XQTloandpRzQxbHF5YnNJa0RlaExjaWRxS19GZE1FZWNVQU10UUlZeEFRSnVvU0xHaWRRdHJGRndZR2psR0llbTVuX0tKcHhJTFpXQk9kZ0drOW1GUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 02:29:00 GMT",
-      "imagen": ""
     },
     {
       "titulo": "A tres años de la muerte de Alvarito - Remolacha",
@@ -93,36 +85,44 @@
       "imagen": ""
     },
     {
-      "titulo": "Día de las Mercedes 2026: ¿se trabaja el jueves 24 de septiembre en República Dominicana? - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3NNOHlveFptazZoZ3hQemhDbnQ5MkZQMENGSXVTOHE1YUR3UEtnVE9DYWpSRW5DaDkxSEFveHJOZ3M2ZUJyQTZzSFJDSE9Cd3ktQmNjSlhrVWlhSWZxVWJnTWRaamhwdmZoNmU1MWlMYjJBZFl5M1NqdHItbG9aSUlVQzJYVVZvbGh4aHN1TUtoZnBBZi1SM0NEbEM4cEZSMUZTdjZqa1hlV1MyMWJqVkRvRDBua3FBTFRFTF9qdW5KazNUbjBfLWpPSFbSAcwBQVVfeXFMT2dzTTh5b3habWs2aGd4UHpoQ250OTJGUDBDRkl1UzhxNWFEd1BLZ1RPQ2FqUkVuQ2g5MUhBb3hyTmdzNmVCckE2c0hSQ0hPQnd5LUJjY0pYa1VpYUlmcVViZ01kWmpocHZmaDZlNTFpTGIyQWRZeTNTanRyLWxvWklJVUMyWFVWb2xoeGhzdU1LaGZwQWYtUjNDRGxDOHBGUjFGU3Y2amtYZVdTMjFialZEb0QwbmtxQUxURUxfanVuSmszVG4wXy1qT0hW?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 19:00:25 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/WhatsApp-Image-2026-09-21-at-12.10.20-PM-OG.jpg"
-    },
-    {
-      "titulo": "Embajada de EE. UU. advierte a sus ciudadanos que viajan a RD: No pagamos atención médica - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDF2WVdGeVpZc2xUNFhoVTBWQzFucmt6SmJ0WjZfYUpXbXFqR25VQXNhb0ZUeGJoUnhRaUo3ZnpyZ3ZlS1ZESHp1Zkw2alZBM1lKcVVxT2p1NDlNeWtDa1drclppNHo4azlMZDJkXzI3Z1pScjNhRmJ3N1lZcTlkdXRzb1kwa0ZHV1BsYi1NaEhJRENVa21DX2N5YzVPZlc5VjNCRlFTWUdCdDdjV3JwWHgybUk4LXZzZy1PWGdZTdIBxAFBVV95cUxOSjNNbVlHblV4OGRsQlkwcWhnRWswQkRwdkNBTjhjUk9HSExJNDBoMmRueVFnUlJON3EwZ2VKVmRYTkxpb241Ml9IZWRQbEZDSTJ4dHBpRDZoSmJCdEtWQWhqQnJBUFRyRTRLRDRBYnE4MVdZaDVCNnFBbldjRmpvbWU2SDJteHJmbU1icVVBUk9zc0w0c0NZM19tcDFrbnR0TjdQckwzbDYtUFdRZU1iejBwNjl2ODNoa1JxUWZMaTV0bXJJ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 17:21:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Asociación gasolineras ratifica desconectará verifones viernes - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnctNzRCY2lEV0d3bmZ6YzItdlJfZU92TmdlYzBvNk9MV1hId0lkNldtWF9yOEhRVWFtelZVWFlVQ0JNUTJMaTNnX1B0aTBkUGFnQ2xxUXNJNXlUT2M1WGlGcjdJekEyN09WS2U2N3Nza0VoT2pCQlZFVFhiMFZ3SGRuZXEzZW1jZzI2dVJDSQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 21:07:57 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana: Autoridades detienen a un colombiano por intentar salir del país con más de USD 600,000 sin declarar - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcnk1cmRvRkRnbzFaNW84cncyYll3NzBYbG02YTl1WDU1dVlEeGZseHM2bUozRTRVZ0FqaGZ3bFk5czhoMFlJdy1vWFNFNGN1Z01OclZyUnh5MFVjVkxkcmFYQUhnQ0NaYjFFMEhjYkpxYWs0ZlR0VDg3NzN0S0VQcE5jdHlSM09mbU9fckU0aEtBMS13YzdoVWUwSHdZQXVQZjRhTi1SeFRTaUNuWXotd0E0U1d3dTMwbFhPYjc4OGdBWDhzZE43cHJfUWZTWUM1aFFqVDJvaDZQcUVnb2hEazRkNDE2OGE5d1ZqVHVmTlEzX1pqcWY3U0E2Tmt6dVB6VE05Q2hNbzTSAaMCQVVfeXFMTndtQy1leHVEemt6NzlIWVBuS3J2MFdzZVpCTTM2Qkl5UE1ZbmdPM0twRS1OSHplakRqc2tYZFAwX1FvUlNZZVFFYjQweWFHRXRDbGI4TGt2LXY3NFhmbzI3NndZcHRyakh2RUdtcTJabW9GbncyZHAyWFVIeXRZaUpMV3hQVW5EU2U1dC1fX21Qc0tuaWxhUmt1eWs2aU1VZVhPYndYclFVdEt4N3gzdlpwSkYwUGd0RGhkU1NUSVVrRERQVXFuWVh5c2k1REJPdWhmaWV4YVJnaDRtM1k1RVhtOE1KUHdTM3gyc0I5Z2RxOUl1QmZCNVY5OHlkQmRCdlo4RTlZb2dVYnROLVRoYnpDd0hTY0xMOGRfcmtZSjNPMWEw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 04 Sep 2026 07:00:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/5EZIWUVWCRDTTBR26R4QULO7ZY.jpg?auth=fc0b39474928a060470056f9a9cad377d639fe5dd849103b649a371370b7e965&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "“También, el primer encuentro con ella después de ser presidenta. Ella me invitó y nosotros la invitamos también”, indicó el mandatario. En el encuentro el presidente Abinader estuvo acompañado del canciller Víctor -Ito- Bisonó; del embajador y viceministro - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wU2VMZWxlSEp4RzNfVWl6ZkEyTzFHS2dpRVhPNFJ2SjE4c0Z6ME5vcmNCY1B3b1FERFREbnFUU3ZhRFhiRFRfYWZETXhydC1oMGc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 01:21:46 GMT",
+      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/820024553_18623339827041593_4481379208623852038_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rrLgaJmBpioQ7kNvwFmrQdK&_nc_oc=Adroev06vS4ZAjsrsBU3aQYXCc-EesXY9q7Oz7LgaN5X5kiiyge9OGzSJ5wsIigmtOE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YwW6tEp_MX8I12RLmxFOvg&_nc_ss=79689&oh=00_AQKOHBlHO5npKl5FD_7wzEb8blFRQaRGH3YYR1nsk2ulFQ&oe=6AB7E037"
+    },
+    {
+      "titulo": "República Dominicana evalúa consolidar relaciones diplomáticas con Venezuela - El Nacional",
+      "fuente": "El Nacional",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUktPdG5DTWhTdEdBYlRjdUdEc1JIMVRvYmgzSFJnSFY3NmVOUW9PMHk1NkJ1Z2FPcXExblBqd3ZwczFfTkYzcmxxM2xFNzFxRi1zMkkwdjk0Wnc5UGlpUkRQTGxFSEdFNXFUaW54eEVDektINV9OU1VOdkJZeXY2d2thdTIxcjBkMXVlS3YzV04yVUpqcklveEs4aEZtSnhhQlVNaDZFVDdDNDl6a1BJelpn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 12:22:30 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presidente de República Dominicana plantea elevar \"a otros niveles\" relación con Perú - notiperú",
+      "fuente": "notiperú",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFAzVDhEbWtkWnd3dzZFMHpUR0g0cnBPYWJzUHJhcHB3Z00yQzVLRDVXZFhBb3lldkxaVHo5aWxvQUpJS3ZqSzZJU3ZCUWRyN3AwQ09nTk5kSU8zWjVSNzB1bXZSNThrTHl2VFAxYVJLZ2NzWDBKdF9MM1dNN3FfRl9BWmVCaEpnQ3M2T1Z5ZW9UaEtXXzBTTU50OXE4UHVHM3k1dHY2b1IwMENSOTVJVE1NQXlzT3hYWVNEVkwtVVJQRzNSMzNOTDRsYktVak0ydHVVQU96dw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 11:54:32 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio del dólar en República Dominicana hoy, 22 de septiembre: cotización USD a DOP, compra y venta - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmt5blRZaDI5SHhEUnRvNFFQMlduN1FUdjRVZTBfV2pJeHp4aGdVcE1BZE9EcjJNRjlHVktnU09peFJ2Ry1rUUNnTm0yVGdPQlpGTmg0WjMxQTNLSTlvRDk4cHBIWW5pWGRtbGxSRzdTdWt1dVFsRUd3ZEhOYlFVTmtvaWZXbmJzMTdMbllZSXEtc2VXWGR1NGtQRTg5bWhjcV8teF83VXVFZlZhemVmYWlOVkgwblhyYmg5RDVPVmk4MHV1V2sxemlGOW5Fb0s4WHN3Tkh5S1ZUUmhCVEZ5eWZfV19VckZIQXNVeA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 12:17:32 GMT",
+      "imagen": ""
     }
   ]
 }

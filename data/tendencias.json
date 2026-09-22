@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-22T08:00:40.692488-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-22T11:00:42.038636-04:00",
+  "hora": "11:00",
   "fecha": "22/09/2026",
   "pais": "República Dominicana",
-  "total": 9,
+  "total": 7,
   "tendencias": [
     {
       "termino": "mlb",
       "trafico": "500+",
-      "noticia": "Who sits atop final Power Rankings of the regular season?",
-      "enlace": "https://www.mlb.com/news/mlb-power-rankings-for-week-of-september-20-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaoDvZOGY5j3cu3ZD6rTL1HS342pgBYma_CzRfNksWr3rxCAnO0M5TRLKl184"
+      "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
+      "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQo7KtJz6kOkkfPCihd92EVIJHx6JNU7LEffc0UkgfaSnJFyON1kaBeBGA6yE"
     },
     {
       "termino": "loteria nacional",
@@ -20,29 +20,29 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
     },
     {
-      "termino": "lotería",
-      "trafico": "1000+",
-      "noticia": "Resultados del Powerball hoy, 21 de septiembre: números ganadores y premios del sorteo",
-      "enlace": "https://as.com/us/actualidad/resultados-del-powerball-hoy-21-de-septiembre-numeros-ganadores-y-premios-del-sorteo-f202609-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
-    },
-    {
       "termino": "chatgpt",
-      "trafico": "200+",
-      "noticia": "Why Muse really just added billions to Meta s market cap and to Mark Zuckerberg s net worth",
-      "enlace": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+      "trafico": "500+",
+      "noticia": "Why Muse just added billions to Meta s market cap and to Mark Zuckerberg s net worth",
+      "enlace": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNROld8hSfyQ60wPQ3Sn1VeRCdBAXV4aVZU0bbli0D74kb26yGR2jtJ_lUJA"
     },
     {
       "termino": "nacional",
       "trafico": "200+",
-      "noticia": "Rays y Yankees se preparan para su serie crucial en el Bronx",
-      "enlace": "https://www.mlb.com/es/news/rays-y-yankees-se-preparan-para-su-serie-crucial-en-el-bronx",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRamMl5A5gN8BxBg12DnfgGpkAqHBuydq5sVmf0d2-N-A0-hlbCTEY1_14MfJU"
+      "noticia": "Hostos Community College celebrará encuentro con líderes latinos por Mes Nacional Herencia Hispana-USA",
+      "enlace": "https://eldia.com.do/borrador-automatico-4hostos-community-college-celebrara-encuentro-con-lideres-latinos-por-mes-nacional-herencia-hispana-usa/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1fe-hxi_sPd0N4-enXPSulZQ1D2BnHIsY2h5XY7_SwplNOI8Pg5T5HXxvI4w"
+    },
+    {
+      "termino": "loteria",
+      "trafico": "1000+",
+      "noticia": "Resultados de Leidsa del sábado 19 de septiembre de 2026 en República Dominicana",
+      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-sabado-19-de-septiembre-de-2026-en-republica-dominicana/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
     },
     {
       "termino": "loteria de hoy",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Números de la lotería de hoy lunes 21/09/26",
       "enlace": "https://hoy.com.do/vivir/loterias/numeros-loteria-hoy-lunes-21-09-26_1103184.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQwVv_ZWxPugq1ZLhsfyxGv7mZCS6b1TdnqUbkD8oEJVfynPDTL5UtPE4eg"
@@ -53,20 +53,6 @@
       "noticia": "La DGII no logra alcanzar meta de recaudación a pesar del plan anticrisis",
       "enlace": "https://www.diariolibre.com/economia/finanzas/2026/09/21/dgii-no-logra-alcanzar-meta-de-recaudacion-a-pesar-del-plan-anticrisis/3665257",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDSGoFzbWu9OPu-XWWOnqugUmpTrkNI7oNiDqw_OjyOokDqq0X8tZbm7yu7js"
-    },
-    {
-      "termino": "flores amarillas",
-      "trafico": "1000+",
-      "noticia": "De Floricienta a las redes: ¿por qué hoy se regalan flores amarillas?",
-      "enlace": "https://hoy.com.do/vivir/floricienta-redes-hoy-regalan-flores-amarillas_1103076.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv3O6qcUyniaVPGMMiA7zB6Tk74-M7eHBMAR-jD9uIdUIaJbQ4LCNjLhW2uSI"
-    },
-    {
-      "termino": "julian oro duro",
-      "trafico": "1000+",
-      "noticia": "Así está fortificada la casa de Julián Oro Duro",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/21/como-entraron-la-casa-de-julian-oro-duro-esta-fuertemente-protegida/3666123",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQObIEhprmYeB-cPeB5VqX4w7YU6qWrPWINla3QV8RMxQvwIv0mEZawDarVrQQ"
     }
   ]
 }
