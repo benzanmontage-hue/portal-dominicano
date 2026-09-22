@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T20:00:38.412025-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-21T23:00:47.147676-04:00",
+  "hora": "23:00",
   "fecha": "21/09/2026",
   "total": 15,
   "noticias": [
@@ -10,7 +10,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnhBN0wtOGhmMjZTQzdrNEp5LTczc1FBQXpoS3NJLVhpU3lUMm8tWk00cml4ajJQZFYzVzhTR09oVzFvcnI4YzdqcjBHcVVNNnNncXA4SXduTFZLS0lraFRBSmNfZGdicENfT1duZDdJOEpfbjc0NUNkX2s1NGlqaExRcVpTZU8yMU00UUlKNl9NVnZ4Wl9BVHdQUmpNYThZcmNPWHJYcVVvTGp2YXBzUUNrei16dFZjektPaTMtT0tKQzN1NnRwOWhOYTA1Zw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 14:51:00 GMT",
-      "imagen": ""
+      "imagen": "https://es.thechurchnews.com/resizer/v2/23P3BFTAOZAONMKIIBFBWCSSKU.jpg?focal=924%2C340&auth=da2c97cf3101b538afa5825fbed6713ed0181c748cfc51bdafac558d9cde82d6&width=630&height=331"
     },
     {
       "titulo": "Matan a la esposa del merenguero dominicano Julián Oro Duro - Primera Hora",
@@ -18,23 +18,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2E2TDJLRnp1WUN3VXNYSU5ZZlZiOGpkcmlVcGtodEJYQ01XdGNJUjh1R2JGZTB2MFJ6U3hIbjNjS2xza3VkZ1ZYenExTkxvaEJ4QU1TTUtCalBIT25JTlBDNi1CUTJERElGNldkTG15RkZVd0ZYM2lnQ1JiRGg3TEtHM1ZTTzZnMjh0anRscW9pd05HanRxX2NRaHNOXzItcDRWVVV0YkJYNnhNNmVPYjMxSkV4R2gwWlVLRQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 18:01:06 GMT",
-      "imagen": ""
+      "imagen": "https://www.primerahora.com/resizer/v2/L5UG4PGMKJHTPCSYRJ4B74XF6M.png?auth=5b26f9623e9e29f4df9721bb37544a295df2dcc471f90cba7fdbc74cc62161e2&quality=75&width=1200&height=717&focal=413%2C251"
     },
     {
-      "titulo": "Embajada de EE. UU. advierte a sus ciudadanos que viajan a RD: No pagamos atención médica - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDF2WVdGeVpZc2xUNFhoVTBWQzFucmt6SmJ0WjZfYUpXbXFqR25VQXNhb0ZUeGJoUnhRaUo3ZnpyZ3ZlS1ZESHp1Zkw2alZBM1lKcVVxT2p1NDlNeWtDa1drclppNHo4azlMZDJkXzI3Z1pScjNhRmJ3N1lZcTlkdXRzb1kwa0ZHV1BsYi1NaEhJRENVa21DX2N5YzVPZlc5VjNCRlFTWUdCdDdjV3JwWHgybUk4LXZzZy1PWGdZTdIBxAFBVV95cUxOSjNNbVlHblV4OGRsQlkwcWhnRWswQkRwdkNBTjhjUk9HSExJNDBoMmRueVFnUlJON3EwZ2VKVmRYTkxpb241Ml9IZWRQbEZDSTJ4dHBpRDZoSmJCdEtWQWhqQnJBUFRyRTRLRDRBYnE4MVdZaDVCNnFBbldjRmpvbWU2SDJteHJmbU1icVVBUk9zc0w0c0NZM19tcDFrbnR0TjdQckwzbDYtUFdRZU1iejBwNjl2ODNoa1JxUWZMaTV0bXJJ?oc=5",
+      "titulo": "La antítesis del Béisbol en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGYybExVcDRSaXE4Q3VCSG0tTFV3TEVueThSd1kzaS1lb0oxXzN5UkdxbXZaN2JhREtzeXRSVWplOEVPMk94OFNNSVE4NGpNQ2R2RC1mMGticVF3LXJCOVd2Zm82blZvaVE1UDRNQnJXM0VrWXNsZ25vUW5iNks3NGYxWGt6aXZVaXF4VWJIdkMycl9kd1BJSFFlcHNBSFdqejBVUG1B0gGrAUFVX3lxTFBpYlF1YzhyUV9DdVljd2x2Ql9tRl9sdWVwOXV4X3Iwc3ViSE84eEtyWnpzVWtpWmR4UTRVMmo2UzFVZDdxMEVYbW9ad1V0bTdVaVJ3SUh6MW9IeHdoQ0U2Q1R5c2cycGpGNjUwRWRDQjN4eExzTjBXNC1YVUFwWE5yUTVCd3o1cGJCVXRjd2Y0ZkZETFpZazc4Y3RKdTJkb1hjU1hnT3JfeUd6WQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 17:21:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dominicana, a pura celebración - Davis Cup",
-      "fuente": "Davis Cup",
-      "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBldnZxbUpWZVV4WDVhU3F5MktpVkIwUXFtUHdfOEY0ZmZ5aGtBZmlPYjAya1ZNbEtISVFGbFUzTGVVeldxU2tPU2hTVVREMDB6SXV0ZmFKLTlZZEk2ZVpoRkxzM21BZ1o5M1JwX1o2TUtRVHg5?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "imagen": "https://images.ctfassets.net/0gg9pgt9u0k4/4fVdUcuf4ODU5sQ3fcDKw7/b1c70a1821ab1d0e11f9375476496032/IMG_3800.jpeg?w=1200&h=630&fit=crop&f=face"
+      "fecha": "Tue, 22 Sep 2026 02:07:52 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/21/6ab1e2df82aa8.jpeg"
     },
     {
       "titulo": "Abinader se reúne con empresarios en Nueva York y los anima a invertir en República Dominicana - El Nacional — La voz de todos",
@@ -42,23 +34,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTVqeEZlemI1Y1FaYWVrdVJDQVN3N1ZJcTZweERNYU9xc09kTkZ5STZFcDdEQ1dON2ZMdXEwQlZZMHpJdllwQk1MZTlyT21HMVpkTndESHlwbG9pNklqVEZVaVVtU19HTW05czA3Uno3dXF2NGlVblBMUmpWSnVjLWpMNldaWTVVY0dNTnduVWJmcVh3dmdVOGQwZGhVcDZ3VzJseWVOTXNWaTFlN3ZXNTVPWFNTS0dEVGZBQzFsc9IBxAFBVV95cUxOZUVWMFNnZ29TRnVQMjNTUlVyY3p4ZXkyU3I5bFFpQ2dlMHJfUDlneUFGa3lDUm9RYkQ3WkRsRnhqaHMweWVyVXJBR19kbklINHpBRjJBSGlRdVFsSU5td1VUaDVQeUJ1cjREUDJ2Z0pkcEN6bWh0NlNXMTJjaGNIRXcxOVFfRkwwLUdjcllIODlnTUs4S1MtanZXczZFZFdnY3I1TWx3al9KbU9NN0ZBS3BLOF84a2g5c09maVRLdGRQaERD?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 20:42:41 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Abinader reconoce en Nueva York a 14 dominicanos destacados en Estados Unidos - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVExQNV9OVmtIaDhnTFhDdWJPY1IxU1NzYUJKV1ZpSVJvZk9xS3VNd1JKOWdEcTdVYWtFdVZ6Z3hGQ0NEbGxfZlVpWC1zclhKa0ZPVFctZDlTUHhkQmxMNGtNVURJcnZXS3NWazFicmpvc1p4WldOUzlyWUNvQkEzM1lTdXNYQnZXOEkzSWx2UUFvUlR5cEZxb1V1ZVFtOWdTVG5oRWx6RWRoVGFhQ3d4VlRuTm00T2ZwaDRwYzY1TGZCcFdieDM2bHVIX1pZd9IB0wFBVV95cUxQQkdUWllCZWRFVEZXX2NHTVhkY0JCSmJZT3lBd3JHaHdpVWcxWTV2UzMzYTlnT0ZmREpmZVo0SWFLUms2M21VNUE1XzByWjBHVWozempYR18xN0pGSWZDcnVhSHNxSlM5eXlJSFdFWmJhOWJMOTlrYmRYZTJVazd0b1hqNnpVelVNeFlYM3JIZ2x3TDdGVnppMWszZFRKUmZGN09haENlQmI5UW9oOVJHT1RSOVhHODBHQk9QU3ZTSjBXUjJBcHhIbFRVdjZIQTF5c2pB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 00:02:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/09/21/abinader-reconoce-en-nueva-york-a-14-dominicanos-destacados-en-ee-uu-f63f3e35-focus-0-0-1200-675.jpg"
-    },
-    {
-      "titulo": "Presidente Abinader inicia entrega oficial del Pasaporte Electrónico para dominicanos en Nueva York, Nueva Jersey y Boston - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdUFCUVV0QWVhaThPbHY3dl9aT0VZUFY5RXJCTVZYYUJLaEFScHNIYzN3LWRmR2ZNNVJKOWhaS0R1TF9GSTYtc1NvcVY5eEp3Wndyb09JTnBtdjVpekdMdUdvN0NnUkIzZXRzRE9vdUtYd3J3ZlAwNzNWQ2JBbW5Tc2ZhOW9yY004RnBUMFhZN2tra25INE1KcGZUMjRjcGJCSnhCQzZtaFpVYjZ3bUt5RnF4TFQ1c0I1dnBrMkdsQkpGTmVKY2lYZ2NmOHVqekR0UV9qN2Q4N3FKcTZXdzVHWHNySDRRWENkVEQ1MlotUW5NQ2VpSlB0Rk9yMNIB-wFBVV95cUxQdUFCUVV0QWVhaThPbHY3dl9aT0VZUFY5RXJCTVZYYUJLaEFScHNIYzN3LWRmR2ZNNVJKOWhaS0R1TF9GSTYtc1NvcVY5eEp3Wndyb09JTnBtdjVpekdMdUdvN0NnUkIzZXRzRE9vdUtYd3J3ZlAwNzNWQ2JBbW5Tc2ZhOW9yY004RnBUMFhZN2tra25INE1KcGZUMjRjcGJCSnhCQzZtaFpVYjZ3bUt5RnF4TFQ1c0I1dnBrMkdsQkpGTmVKY2lYZ2NmOHVqekR0UV9qN2Q4N3FKcTZXdzVHWHNySDRRWENkVEQ1MlotUW5NQ2VpSlB0Rk9yMA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 20 Sep 2026 22:12:45 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/WhatsApp-Image-2026-09-20-at-7.01.00-PM-OG.jpg"
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/21/6ab1965fec7da.jpeg"
     },
     {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, martes 22 de septiembre de 2026? - Acento",
@@ -69,6 +45,14 @@
       "imagen": ""
     },
     {
+      "titulo": "A tres años de la muerte de Alvarito - Remolacha",
+      "fuente": "Remolacha",
+      "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XOGNPRWd2RjB4aGstc3hYT2NucUxhdUYxV2lOWS1ya09sdE5IMDI3VDdpSXpXeUsyMWN2Um5vVHVWVzZPUmVlcEd5Z3otc1hPMEtNWUYzZENWZ9IBX0FVX3lxTFA3WU1salVwTmRQeXlPTm5KUC1NWEpEOHJNc2p2Y2hsd29WNEZ3M0Ffd2pMUkhJc2RGOHVJc1hvY0RPOUp6V1V6cVJFNWVGRjFadkZkbS1KOHBMcHVmc3Mw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 21 Sep 2026 22:22:36 GMT",
+      "imagen": "https://remolacha.net/wp-content/uploads/2025/09/alvaro-arvelo-2.jpg"
+    },
+    {
       "titulo": "Francia y República Dominicana presentan el portal digital de la memoria compartida - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEZEbE4xUkc5ZmpJTjJFbVZLUlZQVnFfUDZzcjg5eW1PWVhGZWhTci12Qm04OU53N1B3SDlSUUFrSkVqT1gtWFNIeVFCc3c4TzY1V3VDdUNlT0wzUUdENG1ZX18zbnUtYlVWMVVpTEllOHhMemdYX2xVbzZjQU9DeFRpQTdLNENIR0dTUGVPSDJ0ckdGVTZVbXVGeDhlNE8xVjhUbEZ4YjRPZ1JOQVVjNjNDOA?oc=5",
@@ -77,19 +61,11 @@
       "imagen": ""
     },
     {
-      "titulo": "LF plantea «alianza estratégica» entre R.Dominicana y diáspora - AlMomento.net",
+      "titulo": "Asociación gasolineras ratifica desconectará verifones viernes - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlh1TkhvSDE4RWI1a2JkVmt6M2JMbjdvcHJCT21wWXhMZHZaejA0Z083VGRCdF81QURpdlJyQ2Jrd3NadGZfdDh3RUxVQnJKRl9LdGZEVTU4YzJ2Vm85RXBMQWxTTzV1M2Q2T1p3eHMxMVRDV0xoN2JnVWU5YXBueGhRSVF3dlJNTHpN?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnctNzRCY2lEV0d3bmZ6YzItdlJfZU92TmdlYzBvNk9MV1hId0lkNldtWF9yOEhRVWFtelZVWFlVQ0JNUTJMaTNnX1B0aTBkUGFnQ2xxUXNJNXlUT2M1WGlGcjdJekEyN09WS2U2N3Nza0VoT2pCQlZFVFhiMFZ3SGRuZXEzZW1jZzI2dVJDSQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 17:58:56 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "A tres años de la muerte de Alvarito - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XOGNPRWd2RjB4aGstc3hYT2NucUxhdUYxV2lOWS1ya09sdE5IMDI3VDdpSXpXeUsyMWN2Um5vVHVWVzZPUmVlcEd5Z3otc1hPMEtNWUYzZENWZ9IBX0FVX3lxTFA3WU1salVwTmRQeXlPTm5KUC1NWEpEOHJNc2p2Y2hsd29WNEZ3M0Ffd2pMUkhJc2RGOHVJc1hvY0RPOUp6V1V6cVJFNWVGRjFadkZkbS1KOHBMcHVmc3Mw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 22:22:36 GMT",
+      "fecha": "Mon, 21 Sep 2026 21:07:57 GMT",
       "imagen": ""
     },
     {
@@ -101,6 +77,22 @@
       "imagen": ""
     },
     {
+      "titulo": "Precio del dólar en República Dominicana hoy, 21 de septiembre: USD a DOP, compra y venta - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVBsV2d5eXh6N0EwR29OeTJlOWlXeW14ajlrVWN1eHBIbk9TMWtSTzhHeVlqemRyVVUxSW02clhTRmkydkJvWFVjSkMwczJuTHZVaTF2TFNFYTdJYWJtS29fTHBVenM0MHZOZlkyTEd4YXlCRjB2b3NkV08zWng1bGZCNzdDTXk1Z1ZhbTRQOWRJWVNvQTZKZy1MSG4zYmtfVndNOEhHYXNkU3Q5NDVKeFlfRE5kZm1OdGdvSDM5RHpTYmZJczZMUi0yWkJPU0RIT1lDaWVWMlRpSjB1Y1E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 21 Sep 2026 23:10:00 GMT",
+      "imagen": "https://elcomercio.pe/resizer/v2/4JPLKII7QNAB7FIUL6MXCFEBNM.jpg?auth=d7885d3ef86da2a080dad5ec0b6a367ccf8d34bc1ac19baafde89d6647cd7e3b&width=980&height=528&quality=75&smart=true"
+    },
+    {
+      "titulo": "“También, el primer encuentro con ella después de ser presidenta. Ella me invitó y nosotros la invitamos también”, indicó el mandatario. En el encuentro el presidente Abinader estuvo acompañado del canciller Víctor -Ito- Bisonó; del embajador y viceministro - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wU2VMZWxlSEp4RzNfVWl6ZkEyTzFHS2dpRVhPNFJ2SjE4c0Z6ME5vcmNCY1B3b1FERFREbnFUU3ZhRFhiRFRfYWZETXhydC1oMGc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 01:21:46 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana prevé exportar tierras raras en 2028 tras medir y procesar sus reservas - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSjhFVXFxc01rZklQQ09rWXVZVE9vbmctUjVoNWFobnhWX2NmbDdyMHNrR0VvaWd1MmZZTzhhSS00QVVqLVd1eDdMSXc5M0pMR21aR2tGNW9fX01KdzhnQ21LTFA2aVF2all4SEN6SGdIZEFCTzlnR182N0xmRlk2Sk5GYkVrVGdRb2dFVWZtc1ZoYXlqZkd6ZjJnWHNWTDdvWUlTMFJ3VUNsaUVxNDhnR2hrYjVtNWpGeGN0VGlEM2dFUjkwaHRHSmtXVlRCQnJ1M2x4eW9HV0t3dzF1ZU1tZ1A2c9IB_gFBVV95cUxPeEJERlNoVnJLM0NRRC1xTGQyNGEzSU9nV1VlUW44OVNlTlBmaGtITnhDd3ZuVVVGeDBpclk3eGZnQ08zWlNDdV9jUmFMZ3NVLTUzQy11TFJRcFlaUHBTa1l4LVVwZHJ2S3VrOHg3VEJFbXYtMmtjc3pGZmdSSmlHSDF3ZVgzU19FV2FET1hmaG9HX19NQ2E0dW0tSF8taThIVXczbEdjbi1qdzR0cUFTSm45U2R6Q0QtX0pmRDI1Qm9IZV9BcjBaQWhWT3BCLVJTck5JMG9hWTd1N3dmVzA4Yzg1eTFXSjBmYkJSeHY5LUFvSnNkb0dReTZzTkttUQ?oc=5",
@@ -109,11 +101,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Con Durango disputó sus últimos 66 encuentros y encabezó al equipo en promedio (.332), porcentaje de embasarse (.427), slugging (.612), OPS (1.039), boletos (35) y robos (19). El jardinero ya conoce la pelota dominicana, tras disputar 44 encuentros con l - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85RndndHowcUdJd2t4d2JMRHRmZ0gyeUF6bkQyMjRhLVM0c3YzUnoxNHZ4R1RWaG1Ec3ZUcmRiT3c2b0NnU3lzS3FwcnU4M3Utc0E?oc=5",
+      "titulo": "Dominicana registra más de 585 mil operaciones aéreas en tres años - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRF9HOWZRbE5xOEhKaHVmZ05iZTJOdXVrOFRSU0xUck40VFBZenR0MmZOdXRORE1mU0RnQ000aklDbEJGaWZZR2pITGpuZEplbV8zYUNpeXg4cVZUYjVMR0N4WWZNaGlNRFczLVI2Si1Va29xM0V5UzEyT3FNSmhmcGY2djRBNHJ3QTFUUmJ2NkdzNklxS1pUN0J6Y3JFOVFlcHk0YVpJRmxwbE0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 21:24:31 GMT",
+      "fecha": "Tue, 22 Sep 2026 01:34:00 GMT",
       "imagen": ""
     },
     {
@@ -122,6 +114,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZThXdGUzQ0JPTnQzWGdBVkU4REtwT2szOVhpa09URXFmOUozU1IweERuYkl5aWVldUxDdDdmQy1PTGtIZ0ZDR2JEbndSMTVYTWMwNjhJbnlvRV9oNmlyek05RHFvZ09lelozVHYxN1dEWG9BV0l0WFZqN2EtSDNESU85Q3VZa1d4U3JGTHFKVUFsdEZtR3k5ci1qVDZpZWlsbDloc0dvRWpMY2tCdnpyTGlDWlQ4T1NPbW1GUEJ0cjQwVDNXTDI4aHZXUHUwd1JPLVc5UWlMdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 21 Sep 2026 17:47:11 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Consulado de la República Dominicana en NY abre nuevas sedes en Brooklyn y El Bronx - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0M5dHNHZlFIWklseEpBTFhvam9tUFNuMVdKTEl1b2FiS0tGMWN4MkhfQ0pHd2U0aDkxdGdGTUwzWHBhTnFIWEpZRFAxaFBjay1iT2JvU3UtTkU3S3lLdjI3aTZldTJQTEZzXzZmX3c0VENxcnM1RTNVZHJaVzlnamZaZzFSMkVXdXdocE9NQVFwLXdQQUlUY21VUHBVYWlmc3VaOGJvOFFBMjBNdHNxQWV5MVFTT0ZUWnk40gHDAUFVX3lxTFBvSmE5UFc2UFVfekJCcW00a21wSkNVMDRPaVhyQU1uUXVGQmVDSTktOHd4X3ZoRTlvejBBZUsyTzJLUDB6cXhCVnI5RkJmSGJDbWk2UUk1S1lLRDExYlVNdG1VLVNhRmNtQm1qSlpPRlJkWE9Cc2Vwcnp0ejR3WmU5V2FzYXdSellNeTVSYlR0MnNWR3M2WGpIaUhTalhaN3FwMGNJeUYzdUZrNFJ5RHJhRVZQXzA5c00xeG9aVlJsZDJsdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 28 Aug 2026 07:00:00 GMT",
       "imagen": ""
     }
   ]

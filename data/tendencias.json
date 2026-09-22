@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-21T20:00:36.019876-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-21T23:00:36.780367-04:00",
+  "hora": "23:00",
   "fecha": "21/09/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 8,
   "tendencias": [
     {
-      "termino": "loteria de hoy",
+      "termino": "chatgpt",
       "trafico": "200+",
+      "noticia": "Meta s Muse AI agent downloads are surging. Here s how it compares to ChatGPT, Grok and Claude",
+      "enlace": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR91hICMwj9EiualedDvmyxE4ke1rTGs5d2s9AulWnhKSEIhOhYyY4sQMjBsg"
+    },
+    {
+      "termino": "nacional",
+      "trafico": "200+",
+      "noticia": "Rays y Yankees se preparan para su serie crucial en el Bronx",
+      "enlace": "https://www.mlb.com/es/news/rays-y-yankees-se-preparan-para-su-serie-crucial-en-el-bronx",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwXM_XDJnfNYHG7hCCcUc2EGTVSS9122vAhEoTmlrIKY-zGE-Gr2Mge6bEbG8"
+    },
+    {
+      "termino": "loteria",
+      "trafico": "200+",
+      "noticia": "Resultados de la Lotería Primera Hoy 21 de septiembre de 2026",
+      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-primera-hoy-21-septiembre-2026/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQU6K66yrD3GYKsYKfqHP8DLJil5lfpB_OpK2vwAheRl6_ZapGGnUVboeAoD4"
+    },
+    {
+      "termino": "loteria de hoy",
+      "trafico": "500+",
       "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
       "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
@@ -34,25 +55,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUF5qCzP-rxvYXdlGr1YuG5jPBJ6MFg2xy7y07_atYrSOZ2iGsq7VZsxZYHc"
     },
     {
-      "termino": "listin diario",
-      "trafico": "100+",
-      "noticia": "Guía Deportiva 21-09-2026",
-      "enlace": "https://listindiario.com/el-deporte/guia-deportiva/20260921/gui-deportiva-21-09-2026_923025.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZ_XmMi9OTeR_tAnbw_ObtOMolMxeJTFQ3_2EY9NbOjYC4hWHa2WiRvCJzMY"
-    },
-    {
       "termino": "google",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Googlebook: The laptop your Android phone has been waiting for",
       "enlace": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjloqEFVTdL_bQjH_yew5n3mwvfkhrMqbZG5DADnDHVkThYeq8y04ZoDDvz04"
-    },
-    {
-      "termino": "primera",
-      "trafico": "200+",
-      "noticia": "Fundación La Merced celebrará cena contra el trabajo infantil",
-      "enlace": "https://listindiario.com/las-sociales/20260921/fundacion-merced-celebrara-primera-cena-gala-apoyo-lucha-trabajo-infantil_923069.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbMjhPcwWnQU3nrRvN1WJ-U7f2kGRcU9rfApRwul31ZuzwJPIAsqjMFGHd9qM"
     }
   ]
 }
