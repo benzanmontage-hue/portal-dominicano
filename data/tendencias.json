@@ -1,37 +1,65 @@
 {
-  "updated": "2026-09-22T14:00:43.717531-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-22T17:00:45.305943-04:00",
+  "hora": "17:00",
   "fecha": "22/09/2026",
   "pais": "República Dominicana",
-  "total": 9,
+  "total": 10,
   "tendencias": [
     {
+      "termino": "los números de hoy",
+      "trafico": "100+",
+      "noticia": "La Lotería Nacional de este sábado deja su primer premio en el centro comercial de un municipio de Valencia",
+      "enlace": "https://www.lasprovincias.es/sorteos/loteria-nacional/loteria-nacional-sabado-deja-primer-premio-centro-20260919133532-nt.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKcqBG8FDE5UKKFPSd9Of3UOn4-8AwUwlJE6fnruQwzvpu0v6R37p1PkJ9w2c"
+    },
+    {
       "termino": "yankees - rays",
-      "trafico": "200+",
+      "trafico": "1000+",
       "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
       "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwXM_XDJnfNYHG7hCCcUc2EGTVSS9122vAhEoTmlrIKY-zGE-Gr2Mge6bEbG8"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjCmEIN_nlj1lVNRJqS241JWhF66LRlv-Bo6YXxxF5NTeAFA9ILv3o9Rya60U"
+    },
+    {
+      "termino": "lotería real",
+      "trafico": "2000+",
+      "noticia": "Resultados Lotería Nacional Hoy 22 de septiembre de 2026",
+      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-nacional-22-septiembre-2026/",
+      "imagen": ""
     },
     {
       "termino": "real de hoy",
       "trafico": "1000+",
-      "noticia": "El GOLAZO del Real Sociedad B vs RCD Mallorca ❤️🖤",
-      "enlace": "https://www.rcdmallorca.es/videos/el-golazo-del-real-sociedad-b-vs-rcd-mallorca-o23iy_tcjjy",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT78ND4P0R50Tiip67k40z1rzxxudF-Xm5XSTH0f8RvRCOfKZna2tcsiPIJ8EU"
+      "noticia": "Quién es la estrella de cada equipo de la Women s Champions League",
+      "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17287383/womens-champions-league-quien-es-la-estrella-de-cada-equipo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBcdiG-wPmHywq9VXi5yG5gk_pZ6p-YKjm2v2i4EBFF_KMkMrC2l0J-n-Znk"
+    },
+    {
+      "termino": "números ganadores de hoy",
+      "trafico": "100+",
+      "noticia": "Powerball deja ocho boletos ganadores en Nueva York con $1.4 millones en premios",
+      "enlace": "https://www.univision.com/local/nueva-york-wxtv/powerball-ocho-ganadores-nueva-york-1-4-millones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUu82yxohE2kDXuU_n6m5NZbPamWEd6aehyEEQDgPuCeKK-YcNQWOQj-g380"
     },
     {
       "termino": "lotería de hoy",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Números de la lotería de hoy lunes 21/09/26",
       "enlace": "https://hoy.com.do/vivir/loterias/numeros-loteria-hoy-lunes-21-09-26_1103184.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQwVv_ZWxPugq1ZLhsfyxGv7mZCS6b1TdnqUbkD8oEJVfynPDTL5UtPE4eg"
     },
     {
+      "termino": "gemini",
+      "trafico": "100+",
+      "noticia": "Googlebook: The laptop your Android phone has been waiting for",
+      "enlace": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjloqEFVTdL_bQjH_yew5n3mwvfkhrMqbZG5DADnDHVkThYeq8y04ZoDDvz04"
+    },
+    {
       "termino": "mlb",
       "trafico": "500+",
-      "noticia": "MLB betting tips for Monday: Will Washington s James Wood wake up?",
-      "enlace": "https://www.espn.com/espn/betting/story/_/id/49997426/mlb-betting-tips-odds-lines-2026-monday-september-21",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKaM6VIm2MqPwzxj_CQdoxZE1I1p1lMS40OeOGTQPYXjcZTOA7BtqjLtWEOew"
+      "noticia": "These 9 series starting tonight will help determine postseason picture",
+      "enlace": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0SwJoh0i4_u_2n_tj1jakqhVzmJp3aEUbsGlnuoUCDVLNhtXdNe9HzqMbc"
     },
     {
       "termino": "loteria nacional",
@@ -43,30 +71,9 @@
     {
       "termino": "chatgpt",
       "trafico": "500+",
-      "noticia": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
-      "enlace": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTna6DvSGfTQ2rCpOYC-IeIIDM4gkDkXDrbk9_42dT7_70zmmvhZeZXNtiuDaU"
-    },
-    {
-      "termino": "nacional",
-      "trafico": "500+",
-      "noticia": "De la cuña al mérito",
-      "enlace": "https://www.diariolibre.com/opinion/agora/2026/09/22/la-sociedad-del-merito-y-su-impacto-en-la-educacion-dominicana/3666602",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtsZN8-odktBDbDtXiJxxNEJzAcaH-A3d8ip8R2YwTWXah__gHV1QnwiQRLJ8"
-    },
-    {
-      "termino": "resultado loteria",
-      "trafico": "200+",
-      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, sábado 19 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-sabado-19-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ21a4Lv_NsWoeZL5wO67KNGiqLy2rWNgb0KU-LmPWwShREpU83_5wsluKG6FQ"
-    },
-    {
-      "termino": "loteria",
-      "trafico": "2000+",
-      "noticia": "Powerball deja ocho boletos ganadores en Nueva York con $1.4 millones en premios",
-      "enlace": "https://www.univision.com/local/nueva-york-wxtv/powerball-ocho-ganadores-nueva-york-1-4-millones",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUu82yxohE2kDXuU_n6m5NZbPamWEd6aehyEEQDgPuCeKK-YcNQWOQj-g380"
+      "noticia": "Introducing GPT-6 Sol and Luna",
+      "enlace": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjqJ5sYVQKPZgbg1X09VgBbWiZ9MqyDXIH764rg9ubhctNI9oZxJZESGPIMMI"
     }
   ]
 }
