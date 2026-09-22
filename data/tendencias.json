@@ -1,20 +1,41 @@
 {
-  "updated": "2026-09-22T11:00:42.038636-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-22T14:00:43.717531-04:00",
+  "hora": "14:00",
   "fecha": "22/09/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 9,
   "tendencias": [
+    {
+      "termino": "yankees - rays",
+      "trafico": "200+",
+      "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
+      "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwXM_XDJnfNYHG7hCCcUc2EGTVSS9122vAhEoTmlrIKY-zGE-Gr2Mge6bEbG8"
+    },
+    {
+      "termino": "real de hoy",
+      "trafico": "1000+",
+      "noticia": "El GOLAZO del Real Sociedad B vs RCD Mallorca ❤️🖤",
+      "enlace": "https://www.rcdmallorca.es/videos/el-golazo-del-real-sociedad-b-vs-rcd-mallorca-o23iy_tcjjy",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT78ND4P0R50Tiip67k40z1rzxxudF-Xm5XSTH0f8RvRCOfKZna2tcsiPIJ8EU"
+    },
+    {
+      "termino": "lotería de hoy",
+      "trafico": "100+",
+      "noticia": "Números de la lotería de hoy lunes 21/09/26",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-loteria-hoy-lunes-21-09-26_1103184.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQwVv_ZWxPugq1ZLhsfyxGv7mZCS6b1TdnqUbkD8oEJVfynPDTL5UtPE4eg"
+    },
     {
       "termino": "mlb",
       "trafico": "500+",
-      "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
-      "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQo7KtJz6kOkkfPCihd92EVIJHx6JNU7LEffc0UkgfaSnJFyON1kaBeBGA6yE"
+      "noticia": "MLB betting tips for Monday: Will Washington s James Wood wake up?",
+      "enlace": "https://www.espn.com/espn/betting/story/_/id/49997426/mlb-betting-tips-odds-lines-2026-monday-september-21",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKaM6VIm2MqPwzxj_CQdoxZE1I1p1lMS40OeOGTQPYXjcZTOA7BtqjLtWEOew"
     },
     {
       "termino": "loteria nacional",
-      "trafico": "2000+",
+      "trafico": "10000+",
       "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
       "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
@@ -22,37 +43,30 @@
     {
       "termino": "chatgpt",
       "trafico": "500+",
-      "noticia": "Why Muse just added billions to Meta s market cap and to Mark Zuckerberg s net worth",
-      "enlace": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNROld8hSfyQ60wPQ3Sn1VeRCdBAXV4aVZU0bbli0D74kb26yGR2jtJ_lUJA"
+      "noticia": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "enlace": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTna6DvSGfTQ2rCpOYC-IeIIDM4gkDkXDrbk9_42dT7_70zmmvhZeZXNtiuDaU"
     },
     {
       "termino": "nacional",
+      "trafico": "500+",
+      "noticia": "De la cuña al mérito",
+      "enlace": "https://www.diariolibre.com/opinion/agora/2026/09/22/la-sociedad-del-merito-y-su-impacto-en-la-educacion-dominicana/3666602",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtsZN8-odktBDbDtXiJxxNEJzAcaH-A3d8ip8R2YwTWXah__gHV1QnwiQRLJ8"
+    },
+    {
+      "termino": "resultado loteria",
       "trafico": "200+",
-      "noticia": "Hostos Community College celebrará encuentro con líderes latinos por Mes Nacional Herencia Hispana-USA",
-      "enlace": "https://eldia.com.do/borrador-automatico-4hostos-community-college-celebrara-encuentro-con-lideres-latinos-por-mes-nacional-herencia-hispana-usa/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1fe-hxi_sPd0N4-enXPSulZQ1D2BnHIsY2h5XY7_SwplNOI8Pg5T5HXxvI4w"
+      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, sábado 19 de septiembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-y-premios-del-sorteo-de-hoy-sabado-19-de-septiembre-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ21a4Lv_NsWoeZL5wO67KNGiqLy2rWNgb0KU-LmPWwShREpU83_5wsluKG6FQ"
     },
     {
       "termino": "loteria",
-      "trafico": "1000+",
-      "noticia": "Resultados de Leidsa del sábado 19 de septiembre de 2026 en República Dominicana",
-      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-sabado-19-de-septiembre-de-2026-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapzC1PFYHejZ6105ONYhOKtXvcJLa0PJ8_cQp4H1ojG1gLBzd9tZRnDDJaag"
-    },
-    {
-      "termino": "loteria de hoy",
-      "trafico": "1000+",
-      "noticia": "Números de la lotería de hoy lunes 21/09/26",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-loteria-hoy-lunes-21-09-26_1103184.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQwVv_ZWxPugq1ZLhsfyxGv7mZCS6b1TdnqUbkD8oEJVfynPDTL5UtPE4eg"
-    },
-    {
-      "termino": "dgii",
-      "trafico": "100+",
-      "noticia": "La DGII no logra alcanzar meta de recaudación a pesar del plan anticrisis",
-      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/09/21/dgii-no-logra-alcanzar-meta-de-recaudacion-a-pesar-del-plan-anticrisis/3665257",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDSGoFzbWu9OPu-XWWOnqugUmpTrkNI7oNiDqw_OjyOokDqq0X8tZbm7yu7js"
+      "trafico": "2000+",
+      "noticia": "Powerball deja ocho boletos ganadores en Nueva York con $1.4 millones en premios",
+      "enlace": "https://www.univision.com/local/nueva-york-wxtv/powerball-ocho-ganadores-nueva-york-1-4-millones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUu82yxohE2kDXuU_n6m5NZbPamWEd6aehyEEQDgPuCeKK-YcNQWOQj-g380"
     }
   ]
 }
