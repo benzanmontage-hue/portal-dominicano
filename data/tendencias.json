@@ -1,10 +1,38 @@
 {
-  "updated": "2026-09-23T14:00:56.752980-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-23T17:00:58.478548-04:00",
+  "hora": "17:00",
   "fecha": "23/09/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 10,
   "tendencias": [
+    {
+      "termino": "vaguada",
+      "trafico": "200+",
+      "noticia": "Vaguada provocará aguaceros, tormentas eléctricas y ráfagas de viento este miércoles",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/23/clima-en-rd-vaguada-provocara-aguaceros-este-miercoles/3667636",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTV62Q2JDoux6yn4UF7zzQoiyaQV11G08fsuzRPtGsNQSN6pJxUsCTcfEfR3Y"
+    },
+    {
+      "termino": "orioles - blue jays",
+      "trafico": "200+",
+      "noticia": "Toronto Blue Jays 2 - Baltimore Orioles 4: Final score, results, recap, box score, stats",
+      "enlace": "https://sports.yahoo.com/mlb/toronto-blue-jays-baltimore-orioles-460923201/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-DjMGc2oygQT9T9POb2k8HMsb27f_m_3NrU_tDRWYymPvp5bzH2_vLY8cvR4"
+    },
+    {
+      "termino": "lotería real",
+      "trafico": "1000+",
+      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
+      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+    },
+    {
+      "termino": "real de hoy",
+      "trafico": "200+",
+      "noticia": "El Real Madrid empata en su estreno en la Women’s Champions League",
+      "enlace": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/cronica-rm-psg-j1-wcl-22-09-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGTRhWmfQy5ZSlfLwz7cZNkN0pb_Y_x_f69zEuCRb4fmtPg0efP9Uw3_2aec"
+    },
     {
       "termino": "la real",
       "trafico": "100+",
@@ -15,23 +43,23 @@
     {
       "termino": "la primera",
       "trafico": "200+",
-      "noticia": "Hablamos con la primera astronauta análoga dominicana sobre su camino al espacio",
-      "enlace": "https://remolacha.net/2026/09/alba-vasquez-astronauta-analoga-dominicana/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUJKIekPatyPe8224XU_GQbvkwh_CZR6tioCq43CXV2ew8FwMyw9fOxCylvgU"
+      "noticia": "Dominicanos en el Tiny Desk: los artistas que han dejado su huella en el escritorio de NPR",
+      "enlace": "https://listindiario.com/entretenimiento/musica/20260922/dominicanos-tiny-desk-artistas-dejan-huella-escritorio-npr_923224.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh2ZJ0Q560-w-5-fVKiZIIe7FTItl1gXu4HNFJZEy04HE7meIFBmAwpQse0nc"
     },
     {
       "termino": "onda tropical",
-      "trafico": "200+",
-      "noticia": "Una baja presión pudiera formarse en las costas de África",
-      "enlace": "https://www.primerahora.com/noticias/estados-unidos/notas/una-baja-presion-pudiera-formarse-en-las-costas-de-africa/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReV4p2TDyOfUipXu8TGpL4FwqIooUkfQKAVHs-0YcnvuZLNV6n7XXN4HH3Ot4"
+      "trafico": "500+",
+      "noticia": "Meteorología vigila onda tropical en el Atlántico",
+      "enlace": "https://elnacional.com.do/nacionales/meteorologia-vigila-onda-tropical-cerca-cabo-verde_581574.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTstOFk_GYieZ48VntkzV9TZIIIlrUs1DVIqmoa5-W3cAwdk9RZTI5-t0MMu5k"
     },
     {
       "termino": "dodgers - padres",
       "trafico": "1000+",
-      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTA1NjE",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1oBs1GQfoKGG7cXaRFaejPI_lgFjqbtiWeua-4KUVq1nrLX4FzKp_kBxJ-6Y"
+      "noticia": "Teoscar Hernandez And Dodgers Play Padres On Sept. 23",
+      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/teoscar-hernandez-and-dodgers-play-padres-on-september-23-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV1MOKr6WbfXdN4CAYi3GPs_8qkt2oYwnDJQQ5h6ROBhxKwGHhhJUQ9wxmXmM"
     },
     {
       "termino": "rangers - mets",
@@ -46,20 +74,6 @@
       "noticia": "MLB: Cleveland Guardians at Boston Red Sox",
       "enlace": "https://www.reutersconnect.com/item/mlb-cleveland-guardians-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTAxNTU",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrO3flo4bMC8hFsp026qeAMOBBrYS7Qjca5zxO3evIi8u2RC6jJIPNwFXTehk"
-    },
-    {
-      "termino": "ley",
-      "trafico": "1000+",
-      "noticia": "Senado aprueba proyecto que prohíbe importar mercancías producidas mediante trabajo forzoso",
-      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/22/senado-prohibe-importaciones-ligadas-al-trabajo-forzoso/3666918",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTtgpxsQ5SirbQhXueON0OOkfynlJ5W2EvEDjpWh6vARNtlV4pR-ZWJEJ_n90"
-    },
-    {
-      "termino": "faride raful",
-      "trafico": "200+",
-      "noticia": "Ángel Martínez es condenado a un año de prisión suspendida por difamar a Faride Raful",
-      "enlace": "https://listindiario.com/la-republica/20260922/angel-martinez-condenado-ano-prision-suspendida-le-prohiben-referirse-faride-raful_923211.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4zwrkZf4uEqKHcKR_FRtN6FdUZ0abnpLUMJHwCsgmCZZyh-yHIHybExs3ATs"
     }
   ]
 }

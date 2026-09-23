@@ -1,20 +1,26 @@
 {
-  "updated": "2026-09-23T14:01:08.619224-04:00",
-  "hora": "14:01",
+  "updated": "2026-09-23T17:01:03.624280-04:00",
+  "hora": "17:01",
   "fecha": "23/09/2026",
   "total": 12,
   "eventos": [
-    {
-      "titulo": "Miss Mundo Joheirry Mola regresa a RD y celebrará su triunfo con un concierto en el Faro a Colón - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnBtNkJ0RHJzMFNnN1dxU1JGOFVpRTJEQVF1S0pRd2EySWh4dm9YUnpndmZEanZkWU14QTcxbEtXMkhyNS1hTXhQY2JpNWd2ajA1a2gzcTZPM3VEbFhXVHA2VmY4RlBTMzd5d1hnMzE2QXMwSXNSNk5fQXVETThOdHFhMTNmVTZmWlVZb0N4SVRLQXNrbHhoZmY5bHp5dG9SQV9Bckw5OU8tclpOX0E1cm5VQjBQbzBvQVMxa0t4M3o1Ti16TTBTc9IBzgFBVV95cUxPMVFqZ1FQV1VzcHJNcFRzOVZMY0NsR3hnNldxYUd4QnE3YVRyVzlNMWU1V0xYSk5leDBydnFTbGhWeEVncGxXdDFjVjcwVTVURUIwZ2VyLVFkR0dPTVR6Z05sQTZ3RDM1c1A4Q3U2QmIxYW5mRG5nSld2SFV6UGhZM3h2bk5Vc2ttMndIRXctc2gxWEhNRi1xSDFUQ0dQUlpENmkyYm1qb0RDMl8xMmFPRVN4OHhyenVXcXFDbUU3d2NyYjVjbWVodDB2dXBvQQ?oc=5",
-      "fecha": "Wed, 23 Sep 2026 00:04:00 GMT"
-    },
     {
       "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
       "fuente": "Billboard",
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
       "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "A dos velas se presentará en concierto benéfico para restaurar la torre de la catedral de Manizales - Caracol Radio",
+      "fuente": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGpWTjRPZHc1MnBmVUVqRTVfZ1BRVkJQTzZzSzdXQ2IxRFFCR2JxYk1OTy0yUkp4bEFhdi1FdUFZYWJBeUpWckVTY2hIX25VSkRJZG11S01FZS1HeU1peWRQYTRYM3ZZbWNOakdkY3dVLU1Vcmo5SEczZWNDVzVQLXZXeFpKcE1TZkNjR1ltbnpZUkxGaHlnOGplWVZyOUpWeldjSHc1dmo0QlJfRG42am5mOENGdUJNVWRoOHNhbUV6SUFYYUFXWDM4bG1xRknSAeMBQVVfeXFMTzBVVHFRd2NTWnVhMC1OMHFwa1Z6U3Rzb2lkQ0hQcE9hbjRmU2RGZzdPM2hmaXV1VVNsUGZJX3dxU2RUWGEydFZnRkFFUzZuajZVYWxVelU1MnFLOHBXVkdOQ3o0SDVtT0lKZlNwWDI5UFJvUWJEYXBpd1dJcFNHNW9aRDdYUEhGTTNFaG9kRlY4R3AtNUdTazdmSjZkekwxRDBVLUI3Mm5NQTFKZzBtdmtCbUtRc0txY3B3QmJxbzVvc0JiRlMydGQ4blY3cm14dWJXVTBGZldMMWVPWDg2bVFvQ2s?oc=5",
+      "fecha": "Wed, 23 Sep 2026 18:14:12 GMT"
+    },
+    {
+      "titulo": "Miss Mundo Joheirry Mola regresa a RD y celebrará su triunfo con un concierto en el Faro a Colón - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnBtNkJ0RHJzMFNnN1dxU1JGOFVpRTJEQVF1S0pRd2EySWh4dm9YUnpndmZEanZkWU14QTcxbEtXMkhyNS1hTXhQY2JpNWd2ajA1a2gzcTZPM3VEbFhXVHA2VmY4RlBTMzd5d1hnMzE2QXMwSXNSNk5fQXVETThOdHFhMTNmVTZmWlVZb0N4SVRLQXNrbHhoZmY5bHp5dG9SQV9Bckw5OU8tclpOX0E1cm5VQjBQbzBvQVMxa0t4M3o1Ti16TTBTc9IBzgFBVV95cUxPMVFqZ1FQV1VzcHJNcFRzOVZMY0NsR3hnNldxYUd4QnE3YVRyVzlNMWU1V0xYSk5leDBydnFTbGhWeEVncGxXdDFjVjcwVTVURUIwZ2VyLVFkR0dPTVR6Z05sQTZ3RDM1c1A4Q3U2QmIxYW5mRG5nSld2SFV6UGhZM3h2bk5Vc2ttMndIRXctc2gxWEhNRi1xSDFUQ0dQUlpENmkyYm1qb0RDMl8xMmFPRVN4OHhyenVXcXFDbUU3d2NyYjVjbWVodDB2dXBvQQ?oc=5",
+      "fecha": "Wed, 23 Sep 2026 00:04:00 GMT"
     },
     {
       "titulo": "Shakira se presenta en España con 12 conciertos mientras un tribunal revisa su querella fiscal de US$63 millones - Bloomberg Línea",
@@ -23,8 +29,8 @@
       "fecha": "Fri, 18 Sep 2026 21:17:56 GMT"
     },
     {
-      "titulo": "Ya se agotaron las boletas para histórico concierto de Ramón Orlando - remolacha.net",
-      "fuente": "remolacha.net",
+      "titulo": "Ya se agotaron las boletas para histórico concierto de Ramón Orlando - Remolacha",
+      "fuente": "Remolacha",
       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEpJUWswb3JzcWhDNy1UdDcxVFdxX282d3lBSkQ3LWRJUE5HcVZqblB6WVZRalgzLTdKVTBiVDJTZEFzTkhLNF9YRXlfbE55ZW91WlE2V2RoVHNaYlN5VnlZbmswUFFPVlpmRjFyQ0RqdFY2Uy04RFJLZy1XaF93QnJmQUs4UndRbTZfR2pTTE0ybmVUMDdMSHpjZXdtM2RM0gGmAUFVX3lxTE9QWlUtaVIxTFhDLW9iLXZYQ1pFNWVOR3U5bWl1SUNqX3pBcnpNSTZ0bERQTXdWLVVUQUpGa0dNVVhOMFVyTDdpWDBfcXQ3VVJqS1gyNWN0Nk9PSVh4cnhLTE1meUlSVkdwdXpJQlN1RHFyUUdvRi1aSDl5bWlReWxwSzF2TEpUTGVKNTAzdDNKdTRjWXVqSEZmN0plSjl0QU1OdDFvZkE?oc=5",
       "fecha": "Mon, 21 Sep 2026 23:53:37 GMT"
     },
@@ -59,16 +65,10 @@
       "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
-      "fuente": "Infobae",
+      "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - infobae.com",
+      "fuente": "infobae.com",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
       "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Juan Luis Guerra celebra la trayectoria de Ramón Orlando durante ensayos de concierto homenaje - eldia.com.do",
-      "fuente": "eldia.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUdOYWlYWDhkTnlPQUxZRGZRZWtlVklBOTZuX2Z1cTgzR09fWTB2U0U2YzRKMjJ1aFllN0VZbVpseTJJMFZYekxZUlV4MGNCSEprRmszVjRqQ0xFcTVvQWZESkd6a1RQZ3RSaml4TUpkWkotVHVhbDNzNDNDc2phYmxseVV2OFo3TlVJUkRiXy0takNFZjlvWlpTSGlORU41ZXk3U3c5WXE0WXhKdEdQRjVGVmE3ZUk?oc=5",
-      "fecha": "Wed, 23 Sep 2026 15:30:05 GMT"
     },
     {
       "titulo": "Ante alta demanda anuncian quinto concierto de Dalvin La Melodía en Puerto Rico - De Último Minuto",

@@ -1,56 +1,72 @@
 {
-  "updated": "2026-09-23T14:01:06.261642-04:00",
-  "hora": "14:01",
+  "updated": "2026-09-23T17:01:00.929118-04:00",
+  "hora": "17:01",
   "fecha": "23/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Guatemala busca ampliar sus exportaciones hacia República Dominicana - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0I1THNsb1U1YkZPOC1LcUQyS0tnT1M3UnlfSkJwMzNPMnRCMFdDX2VMTlFqcG9XR1VrWnZTZG84OUFLSkg2U3RuemZ6SU9US3pmeTZMOEt2UGFJYXhLV1lZeDdYTVdSbFktd0UxM0hUdDhpQmpDVkR4d05OZ2Y1R3JRVmxsRThHb0ZWeVpvdjY5clJpS1Rla0x6ZGdRMThm0gGmAUFVX3lxTE5YTHMwSzNndXVfRlRqNEh2VUY3UXUtTFlmelRITzhWNTNWUlRnLU5zZ0pWc2hzRkxXU2pHdVBEeEx4WDVySTV6bHR1MnpHVG1peHFsZERkQXlncXF0QnNrYlRDdmt3R3VwZktVVGlOTmpzal91QS1MNmwtMDEzamllZUhwYkY0QUZUUzJtRlhsdjM3eDA2d2xERGVpbVRxQk5CMzQ5SFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 20:47:24 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana pide la distensión en Oriente Medio para frenar la inflación - UN News",
+      "fuente": "UN News",
+      "enlace": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGk4Ul9IelRHTWlfT1A5cTI2dUtvMzJ6M0VrelpPcE9KOGxHcGNST24wOVdNZEV6clpPUDVCOF9hZHVDbk9McDdYbWhZVUduaDFpa2FaUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presidente de RD reclama haya despliegue contra bandas Haití - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR1p4QUpQdW1DNkFqNVFkSmxOZFRFczBmSDN4SjJ1R1ZSX3BDQ3JaSFBlM3JjZjhPLWN5R0l2SjVGTzZEVDZwNS1HUG1iX1VlY1QtYW1xbGpTQTVJeDZSakdhTVRzZ3B3cXMzbWVkWnA3TUZhQzdGSGwtNXZ1bE9sNnl4X1Riejg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 19:25:37 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Abinader pide en la ONU completar el despliegue de la fuerza en Haití - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdpSF85RXVPcldRN05IemFDSkRvb285bTZQLVNZMm9zdVQwa1dyblBkQkJhOHlqMkp1U2dRTDRoLXE5N001bHRHVXZxTEgzN213SEFMWE42SGJfRklQVE5RT05tb3V1ajFLNVNoeHloREM3SlVMTjFtejA5ZjgxdlBxT0l0dkpjOE1EajBTQ0FoaDMzMEQ4clRmcjZnMEhIQzRyRWJwTWRvU04wTHhWY1N5YVF6NER3bmMtTXoyRUxaaVBXTHlmQWNPcXLSAdIBQVVfeXFMT0FDNDNSSGcyU3ZPZWhoN2tna29faFViMkJxc3hoUUowWDRHUDUwbnBBRWcxYWc2d0R3c1hxSGVkalFOM1N5T296dkpDeS0zTEJodHRRbUUzZmk4R1E5SXVSS0IyNEZCWFBuQktJOU1LaFdXOUdaUmpEdExiU3dOVHNWZXh1RWRDQVFtcFBMRnV6N3BrTHg1M0JWUmdnbHRNcVVZNnFsSEYwV1AtNW01TWljV2FGRjhvM2FEeE1kUGdXaTJlZ1k5ZXozdFUzZHZCRkdB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 18:03:32 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Consulado de República Dominicana empieza a ofrecer el nuevo pasaporte electrónico en NY y NJ - Telemundo New York",
       "fuente": "Telemundo New York",
       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3hURzlkQ1RBUnVUZnRjZGdjeUVVY2xwM3dEaFBFWUpvVUlvNVdTbEhvX0xPQW52YXlGNXowZGRGcl9RR291ck9VYXhIR1JpNTFZYnNlR3d4d2tyYXlQNFVWaU1qU3lXejJkR3NrZHRrMWFCVHBPRWZibWhOZW9UTVBmbnMtbV9vTjlHLXhFeGNZMUhWWnZfZF9QVXJqTXhuZjlJTzBGS0p0QnYwaURfZnJnbmhRLWFfMGgwenUtYk0wa1BBenJKdmp0dFJna2hZSXNIV3ZOZlJJWTdqUjllYklhdE1pc0V1UUdGYk0tcU_SAfgBQVVfeXFMTVBnM29uWVB1SWdrdWd0bUk5eUZNT0M3NGdGR3o5S0s1Q1g2bnBEMS1jbHBsUkpTTnFnQWJ6RElsWnBlLWhac2VMUnJIcElGUlZ5RzJMQi10bDZLMXM2VDNkR3Jib3ZQdEJORGlYSzJDWlFtZnE5cGtQS29pT2VjM0lGS0wyVl9Xc1ZWOUJfSXlzS0psNFhxSURUMlJYcE9GNW9FQ2VBVDFGT1U5Z1ppSjhKV3ZibE1xTEl6eDVnZU15RGloRk1KNnVjblZ1UlVhcmdKMEk0ZmFrcGtOYi1BdzRsMGwwVkNBaFl5bjVDUGZ4cHQtR01BaGI?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 12:34:47 GMT",
-      "imagen": ""
+      "imagen": "https://media.telemundo47.com/2026/09/51380569277-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "titulo": "República Dominicana celebra al poeta José Mármol, que renovó con asombro la poesía isleña - Yahoo en Español Vida y Estilo",
-      "fuente": "Yahoo en Español Vida y Estilo",
+      "titulo": "República Dominicana celebra al poeta José Mármol, que renovó con asombro la poesía isleña - es-us.vida-estilo.yahoo.com",
+      "fuente": "es-us.vida-estilo.yahoo.com",
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHdaNTZoV3Z1WHg5LXp4Mktiek9pX2lEREFRbXVmYmJLXzJKcUJlekFZaVpJSl92ejA3Nld6V3NicUZQMDZqYUZ3WS1zZzB2cHVzeHc1WHZDWkF2bHRITmFKWHo1TTZjUEJTdF94QktZUVRfOXdGUkpNN0VPUjMwcHpTSFJiY1RwU1NWcV9HM2M0NEIwbG42X19Fdm1zZWNDYVE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 15:41:00 GMT",
+      "fecha": "Wed, 23 Sep 2026 17:52:56 GMT",
       "imagen": "https://s.yimg.com/lo/mysterio/api/79166d1a3877e05d953da84a3b547f0bf77725ae9ab51e413a6259cc8ef85046/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F1eae8177296f5ac25c77c873b0093990.jpg"
     },
     {
-      "titulo": "Arajet apuesta a consolidar a República Dominicana como “hub” de América Latina - elnuevodia.com",
-      "fuente": "elnuevodia.com",
+      "titulo": "Arajet apuesta a consolidar a República Dominicana como “hub” de América Latina - El Nuevo Día",
+      "fuente": "El Nuevo Día",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3ktc3hZUU9UOHFuSVgxb3JqWEU2MGQ3UzJaQzBsMWllczRqY0RhS1JtMmJacjFqcGZ1RlBpT1pyU2tfTkFVcHAtWEdDeF83UzFpYkp6XzlHcVJPMXpjTVpjX3JrQzdvWmJERnV3WFZnVzMwQmJleFVIY1k0dXMwWks0YW55aEczRHFlUzlva3h0TmlENUVKd2wxS3FYcVAwcllHakNhYlRhUHFsWHFQeV9ZVkRiTUxnRmxJTEMwR0dTbl8xWFNn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 22:00:00 GMT",
       "imagen": "https://www.elnuevodia.com/resizer/v2/4HZL4A4BURD3LMUEN7D3UMRI7M.jpg?auth=056e47284d1e16516ff11a68fe8190831791101fc1c73d5f8dd19c7a02d34c37&quality=75&width=1200&height=717&focal=253%2C165"
     },
     {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este miércoles 23 de septiembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0M3Nm82MHhLUjhFMm9tbDV2NXVuVUNIME1sRnV5aU11emR6bUh4NmJ0bUFnU2NQb0dpUTkyVGhtaGZtTmF6S0VubFNMNmdSUmdOaTVKbkdVczlObGtrWjB3OXlPc3VBbllGV0daRGVIaWl3YlZja01WUkF3WElmdU9nUzVUb0JlZTFOYWEwMlJtUFdLN0J3UWVNWFVmUGc0T3NpSDg3QUN4dy1zbjJOUU9ocTY5LU9Zc2dWQVVqSndpbzh3RC1xRThCTGpaMS1ScUhuZVk1RjctVHBQTUp2bEd2c0pYZ0xmdTBGadIB8gFBVV95cUxOM2lhRWdHZ3F6RjRCaHE0MlN5RVBMSUVpU3VEV0ktbHBYb3RRUDI0Qk1TNy1QUXA4MDMyaDBYYVJzeXliR3RVSWdXZl9ZY3lUNGl4TmdlcU1rYnBYMlpORjdKaDFKUHhvS3AyNjNJeXJpN0MtZDdlcl9saUxiSlQwTE1yemxMNEM4X2pQRlNqbzFBTHFkaXRHaGozM0I0cHVzTWtaTW1xRVBjN05aS2dtRXNIYnhZX3p3UW9lWHNnTzNNbXFGWjZjTzcyYUM5d043NVl5X1JOeTAxWVRFRFh2bnV5Yi10SXNVQ0g5U1JYUFZXZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 10:40:12 GMT",
-      "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1256x620__1.jpg"
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: ¿a cuánto se cotiza este martes? - Acento",
+      "titulo": "PISA 2025: República Dominicana mejora en ciencias, matemáticas y lectura, pero persisten brechas - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDg0X2lmLXhpVXhzNVJHUC1sTldJUGdDT25Hel9hNkRQdXNSbTRyYkpZaEhHUVhkSE9XZG95U1BJSUVlTmxlX0xaeEdtNVNYWHpLRzhDZDctRE52VEhjS0djSDVZSEo2T1RPX3hOU0ZYbEZhbjdXU0NJU3dYLWNsMHdkQnRNRm9pMmIzOTYxeFlOY3hGNlhtZTA3cTAybHlDUFVCYnF3bm1NY2xQ0gGsAUFVX3lxTE9kODRfaWYteGlVeHM1UkdQLWxOV0lQZ0NPbkd6X2E2RFB1c1JtNHJiSlloSEdRWGRIT1dkb3lTUElJRWVObGVfTFp4R201U1hYektHOENkNy1ETnZUSGNLR2NINVlISjZPVE9feE5TRlhsRmFuN1dTQ0lTd1gtY2wwd2RCdE1Gb2kyYjM5NjF4WU5jeEY2WG1lMDdxMDJseUNQVUJicXdubU1jbFA?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzMwUmlvZXV3bW1XUHB3dUJIcWZvS0xZTzBvUlZ1U3E2ejFhaEUtYXVhQk1kU0hvQ2JYUkUwN2JqcjFscmlkS19VY1VqdXp4UklsQ1ZOeV8ycXBGT1o3Wk5UZXdvYmFHN0p1M3JSYks1b0M1NmNIUjlfNEdzRDBWT2I1eFd6bmgtNGt4Xy1FUTdTRVNsY3dVRmhQLXZKdVZGWFhrRXpoOGh5aEM3UzJJYWxROVpHTkNBMmFWRjFKT19wVFFWOFIwaVdVaUJ3YTJ1T1BIUHRxY9IB1wFBVV95cUxNNzMwUmlvZXV3bW1XUHB3dUJIcWZvS0xZTzBvUlZ1U3E2ejFhaEUtYXVhQk1kU0hvQ2JYUkUwN2JqcjFscmlkS19VY1VqdXp4UklsQ1ZOeV8ycXBGT1o3Wk5UZXdvYmFHN0p1M3JSYks1b0M1NmNIUjlfNEdzRDBWT2I1eFd6bmgtNGt4Xy1FUTdTRVNsY3dVRmhQLXZKdVZGWFhrRXpoOGh5aEM3UzJJYWxROVpHTkNBMmFWRjFKT19wVFFWOFIwaVdVaUJ3YTJ1T1BIUHRxYw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 07:59:53 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/imagen-primer-plano-benjamin-franklin-concepto-finanzas-100-billetes_169016-61813-OG.avif"
-    },
-    {
-      "titulo": "Precio del dólar en República Dominicana hoy, 21 de septiembre: USD a DOP, compra y venta - El Comercio Perú",
-      "fuente": "El Comercio Perú",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcVBsV2d5eXh6N0EwR29OeTJlOWlXeW14ajlrVWN1eHBIbk9TMWtSTzhHeVlqemRyVVUxSW02clhTRmkydkJvWFVjSkMwczJuTHZVaTF2TFNFYTdJYWJtS29fTHBVenM0MHZOZlkyTEd4YXlCRjB2b3NkV08zWng1bGZCNzdDTXk1Z1ZhbTRQOWRJWVNvQTZKZy1MSG4zYmtfVndNOEhHYXNkU3Q5NDVKeFlfRE5kZm1OdGdvSDM5RHpTYmZJczZMUi0yWkJPU0RIT1lDaWVWMlRpSjB1Y1E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 23:10:00 GMT",
-      "imagen": "https://elcomercio.pe/resizer/v2/4JPLKII7QNAB7FIUL6MXCFEBNM.jpg?auth=d7885d3ef86da2a080dad5ec0b6a367ccf8d34bc1ac19baafde89d6647cd7e3b&width=980&height=528&quality=75&smart=true"
+      "fecha": "Wed, 23 Sep 2026 11:00:59 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana se impone a Canadá en el NORCECA Final Six Femenino 2026 - El Nacional — La voz de todos",
@@ -69,22 +85,6 @@
       "imagen": ""
     },
     {
-      "titulo": "PISA 2025: República Dominicana mejora en ciencias, matemáticas y lectura, pero persisten brechas - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzMwUmlvZXV3bW1XUHB3dUJIcWZvS0xZTzBvUlZ1U3E2ejFhaEUtYXVhQk1kU0hvQ2JYUkUwN2JqcjFscmlkS19VY1VqdXp4UklsQ1ZOeV8ycXBGT1o3Wk5UZXdvYmFHN0p1M3JSYks1b0M1NmNIUjlfNEdzRDBWT2I1eFd6bmgtNGt4Xy1FUTdTRVNsY3dVRmhQLXZKdVZGWFhrRXpoOGh5aEM3UzJJYWxROVpHTkNBMmFWRjFKT19wVFFWOFIwaVdVaUJ3YTJ1T1BIUHRxY9IB1wFBVV95cUxNNzMwUmlvZXV3bW1XUHB3dUJIcWZvS0xZTzBvUlZ1U3E2ejFhaEUtYXVhQk1kU0hvQ2JYUkUwN2JqcjFscmlkS19VY1VqdXp4UklsQ1ZOeV8ycXBGT1o3Wk5UZXdvYmFHN0p1M3JSYks1b0M1NmNIUjlfNEdzRDBWT2I1eFd6bmgtNGt4Xy1FUTdTRVNsY3dVRmhQLXZKdVZGWFhrRXpoOGh5aEM3UzJJYWxROVpHTkNBMmFWRjFKT19wVFFWOFIwaVdVaUJ3YTJ1T1BIUHRxYw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 11:00:59 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana ejecuta operación de manejo de pasivos para reducir riesgo de refinanciamiento - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT3pmb2E5eS1uczZCMUJxOFBQd012R0ZTWWw4cl9mX1JqRjFqcUZZVnFnXzJOOFFZWlN4a0xyMEkzQVlfS29JNm9PZWhZQnhhLVJrWVZoeE9pSFFWdzVUcWNzT3c3cGV0Wko2TmV2NFVnMzZSYy1XQVhnV1FNLVVIbm50OUpZaVRvWDkwYU1CNnVxdERFVHdELU04V19td3M5VHNWWFhTZnk0MkJTSTNIcWJFT2I1Nkp5RWFZc2tpb3FsNFdtTGRTZ3htWVhFOWdnOHZMeXpDd9IB3AFBVV95cUxNMG5ZQjcwd0JRSzNMOFFsTmV0aDJBbTBIclVlaU43Tlh5dXNoSXI5ZFJXbzByakVKNDFLcVRzOXhOa29tZXFFZzZkb3lvWksxX2JVZTRoZXF5Unk0QlljRy1nRVFaRm02NVJRdHhZbTFUTkVnVjB1Z2ZfNEJSQXZXcFBQZGZTVmJsOUNXay12N0p4bkdZV0VLM0JJRlpjbmZNRHBCTmRmZDlRSGlPTHZWajg2UDhTNnlzYlN2SnkxX1lxTTJQZTlmdFBDdVIxZFBFSVR5RTJuT3V2V3pF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 00:08:31 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana viaja a México con la mira puesta en el Mundial U-15 - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG04b1FMalhHUlFtOVJXSGVPWlRjNDIwOHk5MTE4NTRsaDdPQmpRSnAwMHNEOEdzSk1ST045dDg0X2QweXgydDhMdFlEMGV5dUVVdnAtRE9SbmlRNlN0N0pmMWJHOE13bU1MalRDTVVLU3VSV1A3N2t2ZmQ4N1c0XzhJaUh5TWZBbVlPekJMWTlJWW9UbFc0SlpuMVhVWUh0N1dGdDZ3?oc=5",
@@ -93,11 +93,27 @@
       "imagen": ""
     },
     {
-      "titulo": "‘Salió borracho para Cotuí’ (video) - remolacha.net",
-      "fuente": "remolacha.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53UWNBbTJadEd1cDVDVEhsdFlod0RXeWNPRDNMNmk4Rk5ZUzdRMkU0NXpCa0Q4aVpHQlFGc05Za2FTM1JvQjY5RVFiVFRwbG8wNVpfU0FR0gFbQVVfeXFMTnl4Mzl2ODNZemhDTHgwSDJ3eEpicXB4RDQ2VnJ5MzdQbWFrb19RZ0NfSUlWLUNDcThoWkZkbmN4cVY5c3lvSTQ2M3ZiNnF5cnNVVy1fZEVDYWY2bw?oc=5",
+      "titulo": "La UDC pide reforzar acciones contra violencia en Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkV2UEw0eGlVSHRyMnNBTXNyRnBKMFlVMURlWXVQelVNQ1NPT0FxWDNTaXdkOE9zNkdsdnJpb0xYamFHclJCdDUzbUdqeU1kbGFqQmFpZVlwTlBnYjYwR0h3ZkJod29vbHJkQW9lZGo5LWZlR2FjMFdtMWlBSXYwbTRRYWM3dnpzdVJV?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 12:47:20 GMT",
+      "fecha": "Wed, 23 Sep 2026 06:02:58 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La internacionalista Elizabeth Pereira destacó que el actual período de sesiones de la Asamblea General de la ONU aborda temas clave como el 40.° aniversario del derecho al desarrollo, la equidad y el respeto al derecho internacional. Asimismo, señaló qu - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MaVltcGxid29KNVRzUnpIZGZlM3Q1UTNtbHBDdlY0Rkx1QUotMnJYbzhVUG5kWUdVbGV5V0lFLW13VjdManBMOG5FOGZKSmhUUnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 20:15:02 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presidente dominicano reclama en ONU más acción ante crisis de Haití - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXFyems1aXFpUWVTbXI4bmlpcUFBaUo0Nnd6Z1Bnd0lVaVZYaXAwenI5MVQ1OURGNVprekdUMVFyOGg5c2kzU2VtVUdqQjd4d21fUjBOLXNoZEVvaVFHVklQUi11bVExb3gtaHA1ejBYZVAwcUZUNE40Ry16bFYtZ1A5SEwxdnBFV29PMDk1aHIzU2ZBakVsa3g1VkxXdG5KQU9ON3Z4VFNSclkzYWc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 18:34:00 GMT",
       "imagen": ""
     },
     {
@@ -106,22 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSVFoSHlDVi1VMXM1WFVfSGNzdDJQUWNsUjhDelYwMUUyeERUY1M5eVJrTXdMVjNtWDdTVG9wclhTNTV1Q1lLYlJOS0paTmM2YUI2M0JxUG15aHI2cl9lbE5nYWVwMDJJbEg4a2ttZzFid3ZwXzZuN2hvYktDbG1HYUk5eENaY211RXZia1cwQTFIYkVBMzFLd3pDbXRudmFCM3hZQkEzZFFMRHFQeER2T3V3a3ZGaWdlYXdoSzBRU01UUHB5cEdOMUZXZ0JpcnJSVHA4c2NOcTFDSmpsX1Fz?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 17:35:05 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Guatemala por fortalecer relaciones empresariales con Dominicana - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1JJcVg2WWNNYm80dnZrLVpUdTVxUlh0NmwwcUd5Z3E0VktjbVp1OG5Dd0hCNEF3SEVRbE1DcUlPYnd0eXk0WnlRM0FKTkwzV0V3VnZXWnZKX2t0Y1c0X29PbXd6N2hVMF8tVW5PZGE0cFpiZGNIdFAwNDlCVHYyM3NESEhySnB5TnhacFFwamJNSXRDd08yalhHS3JwS21reGRzZFU0NEI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 10:51:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Uno de los implicados en el ataque contra Julián Oro Duro se entregó a las autoridades en República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOWtIQ3hsMS02OG1UNDFNZ1pRYlVVeFFYTnRPM25Ca29OcjlBQVVPZHNJVnd1TnJvT2F4N0s3YWpyTGZGRG1KckJPUUlMdHFfQ2Z0T0FJcm05WjdjM1kyV0w1N3JrRVRqUlBDay1odVFYci1GUmNaVkMyMXF2QmQtRWhSakFTNnlhRWctTnhTc01VblBDTlNlTzJBOGxtUm5BSVRZM2tORG9aZGEyZmNWRWRZa0FCZG04dGxZTW1oX0RXb2xEQXhQUE1aTWpkekVoTDdKNWVlSXdFbTVhYlBXUUF5WTVIdDRTRzE4UjZvbWR2OUdvZ3NydFVDNNIBlgJBVV95cUxOa29VT1VTeE1xdFNoZzYweEF0YThBVXRDemxCS2pKZ1pPd045cldobzNiTkM0aVBSV3RSZzNLRG5Ub1lXS3Y2dkZmSGNoTGphazFVQ3JpUkFUeTdScF8ybnZqemdoRVhsODNQNHNZQml3emlWX3E2OXZpQlhzMEUzNlBHRTJsUkdVWFItSkVGMXpHSHdWRHN4bjR4VjNwbkF0S2hXSDhiY1dmRG01Y0FyQTlTZG9fcVlCVU1haWc2ZHZxUGhoV05TTzBkZG9Md01YTEtuMnNNMFV0dGE3RVBLQW8yLXZKWEJCNHFIbHMyT1hKUnJWUVEtcDVHVEZ6ZVJGOGFvbFNXTDJMTWotMEp3VVhqa2Z3dw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 15:39:04 GMT",
       "imagen": ""
     }
   ]
