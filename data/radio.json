@@ -107,13 +107,6 @@
       "favicon": ""
     },
     {
-      "nombre": "Top Bachata Radio",
-      "url": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
-      "codec": "MP3",
-      "bitrate": 128,
-      "favicon": ""
-    },
-    {
       "nombre": "570 AM Radio Crystal",
       "url": "https://stream.zeno.fm/fu9hfhw8na0uv",
       "codec": "MP3",
@@ -280,6 +273,13 @@
       "codec": "MP3",
       "bitrate": 112,
       "favicon": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png"
+    },
+    {
+      "nombre": "Estelar-106",
+      "url": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEhd29uClrp0DUBQ0hI6ftLzRmYEQjaTu_cxpUEJBtPREGLIzkNxQwSxkYJLa8zsdjCauHjTakBF0CIQFR7gtcda4xga73N_nJeWmKiAQy8OQObQsfYzhTTrWDx6pxq_887mucURzMjgMP3zJDfYqHCvLrhXHTfu40xlan_YgDpdJgv8HLLXrxsa_UCc4Q=s429"
     }
   ]
 }

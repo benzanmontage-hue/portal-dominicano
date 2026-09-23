@@ -1,30 +1,44 @@
 {
-  "updated": "2026-09-22T17:00:45.305943-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-22T20:00:45.940369-04:00",
+  "hora": "20:00",
   "fecha": "22/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "los números de hoy",
+      "termino": "red sox - guardians",
+      "trafico": "200+",
+      "noticia": "MLB: Cleveland Guardians at Boston Red Sox",
+      "enlace": "https://www.reutersconnect.com/item/mlb-cleveland-guardians-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4ODg3MzQ",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdAHJPEfI5coOLaF4S0XjXP4sL0kkEMsNIx-M2BqDJ16gUxM7-uyY4C2hAxkg"
+    },
+    {
+      "termino": "ley",
+      "trafico": "500+",
+      "noticia": "Senado aprueba de urgencia proyecto de ley que lograría Estados Unidos reduzca aranceles a RD",
+      "enlace": "https://listindiario.com/la-republica/congreso/20260922/senado-aprueba-urgencia-proyecto-ley-lograria-estados-unidos-reduzca-aranceles-rd_923237.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZamApf8X_t58UWp-CsZT6NkjkJqsSLDySV8ULZkZgFmEDfoQy65Ra7XPhy4"
+    },
+    {
+      "termino": "faride raful",
       "trafico": "100+",
-      "noticia": "La Lotería Nacional de este sábado deja su primer premio en el centro comercial de un municipio de Valencia",
-      "enlace": "https://www.lasprovincias.es/sorteos/loteria-nacional/loteria-nacional-sabado-deja-primer-premio-centro-20260919133532-nt.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKcqBG8FDE5UKKFPSd9Of3UOn4-8AwUwlJE6fnruQwzvpu0v6R37p1PkJ9w2c"
+      "noticia": "Faride Raful dice que condena contra Ángel Martínez reivindica su honor y dignidad",
+      "enlace": "https://listindiario.com/la-republica/justicia/20260922/faride-raful-dice-condena-angel-martinez-reivindica-honor-dignidad_923242.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTET-x1k9a-vObbRRTs2kqLW4ft1H4a8lNHjHmRe7cQADhPeoUPKHvngQf7kiQ"
     },
     {
       "termino": "yankees - rays",
       "trafico": "1000+",
       "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
       "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjCmEIN_nlj1lVNRJqS241JWhF66LRlv-Bo6YXxxF5NTeAFA9ILv3o9Rya60U"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQo7KtJz6kOkkfPCihd92EVIJHx6JNU7LEffc0UkgfaSnJFyON1kaBeBGA6yE"
     },
     {
-      "termino": "lotería real",
-      "trafico": "2000+",
-      "noticia": "Resultados Lotería Nacional Hoy 22 de septiembre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-nacional-22-septiembre-2026/",
-      "imagen": ""
+      "termino": "numeros ganadores",
+      "trafico": "500+",
+      "noticia": "Buscan al ganador del MiLoto que no ha reclamado 550 millones de pesos: estos fueron los números que cayeron por segunda vez",
+      "enlace": "https://www.eltiempo.com/cultura/gente/buscan-al-ganador-del-miloto-que-no-ha-reclamado-550-millones-de-pesos-estos-fueron-los-numeros-que-cayeron-por-segunda-vez-3588085",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9vws5H7Hr6nWcKxh0DS1qGIF_0LFMQGItelm3EnYoKprswef7hS9PiG-maU"
     },
     {
       "termino": "real de hoy",
@@ -60,20 +74,6 @@
       "noticia": "These 9 series starting tonight will help determine postseason picture",
       "enlace": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0SwJoh0i4_u_2n_tj1jakqhVzmJp3aEUbsGlnuoUCDVLNhtXdNe9HzqMbc"
-    },
-    {
-      "termino": "loteria nacional",
-      "trafico": "10000+",
-      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
-      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
-    },
-    {
-      "termino": "chatgpt",
-      "trafico": "500+",
-      "noticia": "Introducing GPT-6 Sol and Luna",
-      "enlace": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjqJ5sYVQKPZgbg1X09VgBbWiZ9MqyDXIH764rg9ubhctNI9oZxJZESGPIMMI"
     }
   ]
 }
