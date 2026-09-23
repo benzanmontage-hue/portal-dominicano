@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-22T23:00:47.534024-04:00",
-  "hora": "23:00",
-  "fecha": "22/09/2026",
+  "updated": "2026-09-23T02:00:48.554588-04:00",
+  "hora": "02:00",
+  "fecha": "23/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "dodgers - padres",
-      "trafico": "200+",
-      "noticia": "Dodgers get stern warning, NL West rival Padres ‘force to be reckoned with’",
-      "enlace": "https://nypost.com/2026/09/22/sports/padres-most-dangerous-team-mlb-dodgers-series/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKloVJm8haRI3VZDBMhUz1prkgXHIjjTwNDoDbRALBN-x5t2wmpnSAuSXCEbo"
+      "trafico": "500+",
+      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
+      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTAyMzI",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChY2V34j0AfUmoUUUXrC_6DPIt0NHGb7bhUfG9ni3UoSw79I2rZhE0Bd9CRc"
     },
     {
       "termino": "rangers - mets",
       "trafico": "1000+",
-      "noticia": "The Mets travel deep in the heart of Texas for a series with Brandon Nimmo and the Rangers",
-      "enlace": "https://www.amazinavenue.com/new-york-mets-analysis/100972/mest-rangers-preview-degrom-nimmo-rocker-mclean-thornton-manaea",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfSPmPgiJFLKLCWjeJs9XlBEOsFmtyx6f2K77NOgJBu1CEb63VHwTldRB10GE"
+      "noticia": "Resumen Mets @ Rangers, Resultados/Jugadas destacadas - 22/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/822840",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRek8XvQUZvXFOs8--eJrzaz81bNJ9ITy_Bk5E9wHSChDzA1A5fhMWtdZq_H24"
     },
     {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "Another start, another Messick gem as Guards close in on October",
-      "enlace": "https://www.mlb.com/news/parker-messick-guardians-red-sox-postseason-race-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9DBv5jHGDRrv0VxxQMt-e-Qsi9Q6YjfhIJsnB-sfmiCvAzvb-BmV_dqEu-Nk"
+      "noticia": "Smith Earns 40th Save, Genao Makes Amazing Play",
+      "enlace": "https://www.coveringthecorner.com/cleveland-guardians-scores-standings/74469/smith-earns-40th-save-genao-makes-amazing-play",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTECfq9rfsBNUqbzXDe_FNgRL2SpKKJ9jT-1EUWuC5bfgV0Xy3FYYqN2ACftGo"
     },
     {
       "termino": "ley",
@@ -36,16 +36,16 @@
     {
       "termino": "faride raful",
       "trafico": "100+",
-      "noticia": "Faride Raful dice que condena contra Ángel Martínez reivindica su honor y dignidad",
-      "enlace": "https://listindiario.com/la-republica/justicia/20260922/faride-raful-dice-condena-angel-martinez-reivindica-honor-dignidad_923242.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTET-x1k9a-vObbRRTs2kqLW4ft1H4a8lNHjHmRe7cQADhPeoUPKHvngQf7kiQ"
+      "noticia": "Ángel Martínez es condenado a un año de prisión suspendida por difamar a Faride Raful",
+      "enlace": "https://listindiario.com/la-republica/20260922/angel-martinez-condenado-ano-prision-suspendida-le-prohiben-referirse-faride-raful_923211.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4zwrkZf4uEqKHcKR_FRtN6FdUZ0abnpLUMJHwCsgmCZZyh-yHIHybExs3ATs"
     },
     {
       "termino": "yankees - rays",
       "trafico": "2000+",
-      "noticia": "Rodón staves off Rays  clinch with 8 dominant frames in DH opener",
-      "enlace": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLfxQpj93QZ4_QaCkcBH5m9XCaG_TLPy-N1dYPR8s0Nm__T71npU-RmOehT8s"
+      "noticia": "Resumen Rays @ Yankees, Resultados/Jugadas destacadas - 22/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823543",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ_1Z_awGgk7gy4fLf3WgdmIgWDURmdpplT4fStSv1kp5yccC-nJav5LHwmsA"
     },
     {
       "termino": "real de hoy",
@@ -53,6 +53,13 @@
       "noticia": "Quién es la estrella de cada equipo de la Women s Champions League",
       "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17287383/womens-champions-league-quien-es-la-estrella-de-cada-equipo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBcdiG-wPmHywq9VXi5yG5gk_pZ6p-YKjm2v2i4EBFF_KMkMrC2l0J-n-Znk"
+    },
+    {
+      "termino": "números ganadores de hoy",
+      "trafico": "100+",
+      "noticia": "Resultados del sorteo de la lotería Mega Millions de hoy, 22 de septiembre de 2026, con un premio mayor de $261 millones",
+      "enlace": "https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-22-septiembre-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJQPW7ZESnKpuQ8-xK_sx4lrnGXIlpP1M1sMrFaqpv7B0iMtEadqZQoFSpzSM"
     },
     {
       "termino": "gemini",
@@ -64,16 +71,9 @@
     {
       "termino": "mlb",
       "trafico": "500+",
-      "noticia": "BetMGM Bonus Code ROTOSPORTS: Up To $1,500 in Bonus Bets",
-      "enlace": "https://www.rotowire.com/news/betmgm-bonus-code-rotosports-up-to-1500-bonus-bets-if-your-first-bet-loses-922-135966",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG3WX-nVM0IQ6g87iu-kkKgkJxKw2lDR-rGIxgCq7GikYLuUFr_w7Ye0UczRs"
-    },
-    {
-      "termino": "loteria nacional",
-      "trafico": "20000+",
-      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
-      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+      "noticia": "MLB Raises Private Equity Ownership Limit to 20%",
+      "enlace": "https://frontofficesports.com/article/mlb-raises-private-equity-ownership-limit-to-up-to-20-percent/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx7eTqp1zquNytiFbj3jAA7mCdw7Npf1Mbsy5R-PHx3U1iBZSkZf1Sa3RvTPI"
     }
   ]
 }
