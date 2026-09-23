@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-23T05:00:49.493789-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-23T08:00:51.262565-04:00",
+  "hora": "08:00",
   "fecha": "23/09/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 9,
   "tendencias": [
     {
       "termino": "dodgers - padres",
-      "trafico": "500+",
-      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTEzNTk",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgY__L18hRqzvgJxL8RJG9sa8y1VhkEeTXH8yhxqXJIIoVDRn5ZuFZ6rDn-9M"
+      "trafico": "1000+",
+      "noticia": "Key takeaways: Dodgers 7, Padres 0",
+      "enlace": "https://www.mlb.com/news/michael-king-allows-five-runs-as-padres-lose-to-dodgers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5fB-MDmM9WCz-5J_BHwUhSDWg0VhrTY2juL4kmK_f8z9zgdfPNqLj-GpOfw"
     },
     {
       "termino": "rangers - mets",
@@ -22,20 +22,20 @@
     {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "Guards-Red Sox, Astros-Mariners amid tight playoff races on ESPN",
-      "enlace": "https://www.mlb.com/news/guardians-red-sox-and-astros-mariners-on-espn-sept-23-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIdrRktNxZrGZ8fkmwpFNLFrRoDwheCnTLpFS3fbAFyDB-egecsCYsfPNyCJo"
+      "noticia": "Experts release updated Guardians vs. Red Sox for Wedesday prediction following latest injury updates",
+      "enlace": "https://www.cleveland.com/betting/2026/09/experts-release-updated-guardians-vs-red-sox-for-tuesday-prediction-following-latest-injury-updates.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_WlMO9DXJ77LwqJ1U42aJvcipXmLifly334ZwlNTqv6V2qR3F33NRlFeQxvE"
     },
     {
       "termino": "ley",
       "trafico": "1000+",
-      "noticia": "Senado aprueba proyecto que prohíbe importar mercancías producidas mediante trabajo forzoso",
-      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/22/senado-prohibe-importaciones-ligadas-al-trabajo-forzoso/3666918",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTtgpxsQ5SirbQhXueON0OOkfynlJ5W2EvEDjpWh6vARNtlV4pR-ZWJEJ_n90"
+      "noticia": "México avanza hacia una ley de IA entre alertas por falta de una estrategia nacional",
+      "enlace": "https://www.diariolibre.com/planeta/tecnologia/2026/09/22/mexico-y-la-regulacion-de-inteligencia-artificial-en-el-futuro/3667238",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR66MYNriVR-Mm9mW5ONPLHzr--H_O0L-ZUKv7epgcWypeRT7HFZNJf9i2aRF4"
     },
     {
       "termino": "faride raful",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Ángel Martínez es condenado a un año de prisión suspendida por difamar a Faride Raful",
       "enlace": "https://listindiario.com/la-republica/20260922/angel-martinez-condenado-ano-prision-suspendida-le-prohiben-referirse-faride-raful_923211.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4zwrkZf4uEqKHcKR_FRtN6FdUZ0abnpLUMJHwCsgmCZZyh-yHIHybExs3ATs"
@@ -50,27 +50,20 @@
     {
       "termino": "numeros ganadores",
       "trafico": "500+",
-      "noticia": "Resultados Mega Millions HOY: números ganadores del 22 de septiembre y premios del sorteo",
-      "enlace": "https://as.com/us/actualidad/resultados-mega-millions-hoy-numeros-ganadores-del-22-de-septiembre-y-premios-del-sorteo-f202609-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO67D41sw1mf2ao5iq_LMON7CbdfJ7LIfiM5w1S8hNS4SeMyoeA388aam0G_4"
+      "noticia": "Mega Millions en vivo: resultados y ganadores del martes 22 de septiembre de 2026",
+      "enlace": "https://eldiariony.com/2026/09/22/mega-millions-en-vivo-resultados-y-ganadores-del-martes-22-de-septiembre-de-2026/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaCkpj7by-2YxgQST4JkXP_lbCW-pVom3wkUukyOHMBbtrl31lB8VDow2dJU"
     },
     {
       "termino": "real de hoy",
       "trafico": "1000+",
-      "noticia": "Quién es la estrella de cada equipo de la Women s Champions League",
-      "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17287383/womens-champions-league-quien-es-la-estrella-de-cada-equipo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBcdiG-wPmHywq9VXi5yG5gk_pZ6p-YKjm2v2i4EBFF_KMkMrC2l0J-n-Znk"
+      "noticia": "Real Madrid - Paris Saint-Germain en directo | Última hora de Champions League Femenina en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/champions-league-femenina/r-madrid-paris-saint-germain/2026/09/22/01_0183_20260922_16928_9101-directo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAUc6rKbNIMYEvinaIEo6iRkHyoFYexZHHYaDk0RvggMrIcmeFwBpPGPmgfe0"
     },
     {
-      "termino": "gemini",
-      "trafico": "100+",
-      "noticia": "Premium materials and striking design set Googlebook apart",
-      "enlace": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbYBtjhAZPg9iII16cL9O_wJC0xmUathtxDQ3oIMLsRlOKdI9vZYmMZlIC8g"
-    },
-    {
-      "termino": "loteria nacional",
-      "trafico": "20000+",
+      "termino": "lotería nacional de hoy",
+      "trafico": "2000+",
       "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
       "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
