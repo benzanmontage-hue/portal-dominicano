@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T02:00:48.554588-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-23T05:00:49.493789-04:00",
+  "hora": "05:00",
   "fecha": "23/09/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -9,8 +9,8 @@
       "termino": "dodgers - padres",
       "trafico": "500+",
       "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTAyMzI",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChY2V34j0AfUmoUUUXrC_6DPIt0NHGb7bhUfG9ni3UoSw79I2rZhE0Bd9CRc"
+      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTEzNTk",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgY__L18hRqzvgJxL8RJG9sa8y1VhkEeTXH8yhxqXJIIoVDRn5ZuFZ6rDn-9M"
     },
     {
       "termino": "rangers - mets",
@@ -22,9 +22,9 @@
     {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "Smith Earns 40th Save, Genao Makes Amazing Play",
-      "enlace": "https://www.coveringthecorner.com/cleveland-guardians-scores-standings/74469/smith-earns-40th-save-genao-makes-amazing-play",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTECfq9rfsBNUqbzXDe_FNgRL2SpKKJ9jT-1EUWuC5bfgV0Xy3FYYqN2ACftGo"
+      "noticia": "Guards-Red Sox, Astros-Mariners amid tight playoff races on ESPN",
+      "enlace": "https://www.mlb.com/news/guardians-red-sox-and-astros-mariners-on-espn-sept-23-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIdrRktNxZrGZ8fkmwpFNLFrRoDwheCnTLpFS3fbAFyDB-egecsCYsfPNyCJo"
     },
     {
       "termino": "ley",
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ_1Z_awGgk7gy4fLf3WgdmIgWDURmdpplT4fStSv1kp5yccC-nJav5LHwmsA"
     },
     {
+      "termino": "numeros ganadores",
+      "trafico": "500+",
+      "noticia": "Resultados Mega Millions HOY: números ganadores del 22 de septiembre y premios del sorteo",
+      "enlace": "https://as.com/us/actualidad/resultados-mega-millions-hoy-numeros-ganadores-del-22-de-septiembre-y-premios-del-sorteo-f202609-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO67D41sw1mf2ao5iq_LMON7CbdfJ7LIfiM5w1S8hNS4SeMyoeA388aam0G_4"
+    },
+    {
       "termino": "real de hoy",
       "trafico": "1000+",
       "noticia": "Quién es la estrella de cada equipo de la Women s Champions League",
@@ -55,25 +62,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBcdiG-wPmHywq9VXi5yG5gk_pZ6p-YKjm2v2i4EBFF_KMkMrC2l0J-n-Znk"
     },
     {
-      "termino": "números ganadores de hoy",
-      "trafico": "100+",
-      "noticia": "Resultados del sorteo de la lotería Mega Millions de hoy, 22 de septiembre de 2026, con un premio mayor de $261 millones",
-      "enlace": "https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-22-septiembre-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJQPW7ZESnKpuQ8-xK_sx4lrnGXIlpP1M1sMrFaqpv7B0iMtEadqZQoFSpzSM"
-    },
-    {
       "termino": "gemini",
       "trafico": "100+",
-      "noticia": "Googlebook: The laptop your Android phone has been waiting for",
-      "enlace": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjloqEFVTdL_bQjH_yew5n3mwvfkhrMqbZG5DADnDHVkThYeq8y04ZoDDvz04"
+      "noticia": "Premium materials and striking design set Googlebook apart",
+      "enlace": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbYBtjhAZPg9iII16cL9O_wJC0xmUathtxDQ3oIMLsRlOKdI9vZYmMZlIC8g"
     },
     {
-      "termino": "mlb",
-      "trafico": "500+",
-      "noticia": "MLB Raises Private Equity Ownership Limit to 20%",
-      "enlace": "https://frontofficesports.com/article/mlb-raises-private-equity-ownership-limit-to-up-to-20-percent/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx7eTqp1zquNytiFbj3jAA7mCdw7Npf1Mbsy5R-PHx3U1iBZSkZf1Sa3RvTPI"
+      "termino": "loteria nacional",
+      "trafico": "20000+",
+      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
+      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
     }
   ]
 }
