@@ -1,17 +1,9 @@
 {
-  "updated": "2026-09-22T20:00:50.469507-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-22T23:00:56.824300-04:00",
+  "hora": "23:00",
   "fecha": "22/09/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "El élder Rasband ministra a Santos de los Últimos Días y líderes comunitarios en la República Dominicana - Church News",
-      "fuente": "Church News",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnhBN0wtOGhmMjZTQzdrNEp5LTczc1FBQXpoS3NJLVhpU3lUMm8tWk00cml4ajJQZFYzVzhTR09oVzFvcnI4YzdqcjBHcVVNNnNncXA4SXduTFZLS0lraFRBSmNfZGdicENfT1duZDdJOEpfbjc0NUNkX2s1NGlqaExRcVpTZU8yMU00UUlKNl9NVnZ4Wl9BVHdQUmpNYThZcmNPWHJYcVVvTGp2YXBzUUNrei16dFZjektPaTMtT0tKQzN1NnRwOWhOYTA1Zw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 21 Sep 2026 14:51:00 GMT",
-      "imagen": "https://es.thechurchnews.com/resizer/v2/23P3BFTAOZAONMKIIBFBWCSSKU.jpg?focal=924%2C340&auth=da2c97cf3101b538afa5825fbed6713ed0181c748cfc51bdafac558d9cde82d6&width=630&height=331"
-    },
     {
       "titulo": "Consulado de República Dominicana empieza a ofrecer el nuevo pasaporte electrónico en NY y NJ - Telemundo New York",
       "fuente": "Telemundo New York",
@@ -21,20 +13,20 @@
       "imagen": "https://media.telemundo47.com/2026/09/51380569277-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
+      "titulo": "Armada intercepta embarcación con 38 haitianos en aguas dominicanas - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2tuOXhVMU5mYkRQUVVnYS12aVk2VkYxZDZtQUltZjlsMHVuV2RGMXVGSy1vWHBGRVJ3amdYVzRDNThpb1FHVGxBY19oSTJGMklBU2N5Z1AyR05tSWpHTm5odzJ6cllPcURjNUFLRXFlWm05dDM2WHdPLWFsM21hZDhIVDF0WE5VTGhPMEJERFNwc3RHMk5HMDFnOVV5bWphaERrOHJWblFKLXUwUXc0SHV0RzBBRlR3Q2g2a21scWpYQ1JHQ2RsaWZn0gHPAUFVX3lxTE1IejUwX3pjZGxiTGxBcWFsOXVVRjJlZjBrdFZVejVzVHBJZW5OeC1LbXVfSFhTZUdyMmlIYzczMEtYQ0JONVpzMHJGY0g5U0dsSV9rTmxmTGVvNldEMnJsQ0FKRndZZDZJOXgzZW9Qdl9kYkhQNjlUMTVONUR5djFJWWF3QndXMTdtYVcteEYzWkF3Z2tVZEdRY0laSUg5TWpNQWYybFkxc203cTRyZUJQNlI0Q1g2ZEdBUVkwQVFNbWpYV0pvT3RuWmdXeHoxcw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 01:28:18 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/22/6ab32aa02c87b.jpeg"
+    },
+    {
       "titulo": "Arajet apuesta a consolidar a República Dominicana como “hub” de América Latina - El Nuevo Día",
       "fuente": "El Nuevo Día",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ3ktc3hZUU9UOHFuSVgxb3JqWEU2MGQ3UzJaQzBsMWllczRqY0RhS1JtMmJacjFqcGZ1RlBpT1pyU2tfTkFVcHAtWEdDeF83UzFpYkp6XzlHcVJPMXpjTVpjX3JrQzdvWmJERnV3WFZnVzMwQmJleFVIY1k0dXMwWks0YW55aEczRHFlUzlva3h0TmlENUVKd2wxS3FYcVAwcllHakNhYlRhUHFsWHFQeV9ZVkRiTUxnRmxJTEMwR0dTbl8xWFNn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 22:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ambientalistas checos: \"Una mala experiencia no representa a la República Dominicana\" - listindiario.com",
-      "fuente": "listindiario.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHFiUF9oZmpHZ2ZIazhFNVpzR2RFbkV4RG9Dd2ViLVpnQXJwSTNOM1BEMy1KSUU2aTJPdUk0ODRXZXBlRUlZWjh2SW16U3hDaExJNnRLamU1a0FKTEtRNXpnVjYxanVhQnlHY3l6aXZjVmxpZDB2RnpMNUNaUWJndDE2cUl4R1Nwcm1EZWRMRUxjZEpMOWlsTWh6ZmpweEtDWTVFaHNTWEE0SER0bThsODRqQzd2elpNS1dCdXllblRyZmhkcFdPcNIBzgFBVV95cUxPZG5Lcml5LTRtLWlHTFFRNjBGaHo3RU8xanhRMkx5U05vMFNQelZXVl9GaHViZ18xMnd6TUhjNFJJRVRVOFQ0V0JOODVtS0tEbUtSSEFiQXZkNlhYMlRPTVRGQmlnM3p0dWQtVk43S3BnZEh6S2J0c21nMnNfWHVDMXM3TWFYOG5LeEpMT2FsZFptTHpWN2R2eWRjU2piR2dwdF9UeXJmSG9ZRDFGNWFacllKSmRmSkM0MjVGeVhnOE5IcnRQSTE1VnA0Y0RDQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 03:05:30 GMT",
-      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/09/21/6ab1ec378c378.r_d.446-527-0.jpeg"
+      "imagen": "https://www.elnuevodia.com/resizer/v2/4HZL4A4BURD3LMUEN7D3UMRI7M.jpg?auth=056e47284d1e16516ff11a68fe8190831791101fc1c73d5f8dd19c7a02d34c37&quality=75&width=1200&height=717&focal=253%2C165"
     },
     {
       "titulo": "Reafirman en República Dominicana la solidaridad con Cuba y critican medidas diplomáticas recientes - El Nacional — La voz de todos",
@@ -42,7 +34,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaDZRbkNoamdXdUlTbzI1SGgzUjVnazJKMS1vNlRPZ01wVTZsbVY0X1I3dE8xeFdJM0xZOEZzOE51cUROU09DSjc2b1dXUkpOVmJKamJoMGRrTzBpWWFzbTNvSXQzcU82clJnWWgzQ2NxRVI4ZEtKWkdFQ1haeW00Y2J5emp6ZXhzRmVkZUVIX0xvWHNrYnRKMWk4S0FTZWROakl0XzBDQS1qUXMtU3pQOENqTEpGRExVcEViZ29UTkRRb1E0NTdTUDVZVFY5Sjh1TUHSAdcBQVVfeXFMT2d1ZnlpSWoya2FJUmJwbVRDa3JGWFEwYi0wRHVqdDcyVjVEVFBxbldWd01VTzZxMGlLdlhHV01ua1V5YUg0Q1BUSi1nSWZfT1ItRFVWZ0FDSkFvTVVHSkNEQlFJTzhUejR6eFZjRUttYlpVNTlNNGYzT1FQQ2FpMkRtbFdyaGhpNlQzZ0tuRWh5SDlGQ0hGbDIzSFItYnZidENMbWhfcnJIbkprM1dVUXZfc05McmdnS3hFOGFBNl9xQXpRa1hqR2N0NDlIeDg1bjZQV0RqaGc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 19:19:02 GMT",
-      "imagen": ""
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/22/6ab2d45cc263a.jpeg"
     },
     {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, miércoles 23 de septiembre de 2026? - Acento",
@@ -69,8 +61,8 @@
       "imagen": ""
     },
     {
-      "titulo": "R. Dominicana entre los países con mas inflación en la región - almomento.net",
-      "fuente": "almomento.net",
+      "titulo": "R. Dominicana entre los países con mas inflación en la región - AlMomento.net",
+      "fuente": "AlMomento.net",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM2dJcm41cDlQZE5kcE1xZTNQTW5mQmY5NDdzSGRscDZKU2I1emNVX19oMmdkMmFIWGlDbjloYnNwZmZrZENCRUVtVXE0MHhFYTlNT2tWSGxZT3pKZkc4LTlsZGZ1Z25Fa011SXZQd25PMXktUDNPQWJJYWdtcjZhSGdYZUI5OXV6T1pXYTVR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 23:03:00 GMT",
@@ -82,22 +74,38 @@
       "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5saHVwQ0xiUFVNUkNzcWdVZ0dvOTNzRkhjaGdjek5kdWE1dkh6eGRzZlJEaUViQlFTNFJDV2dNSFVSZEI0SzB3bU1OSXB0aWUtVTFkLWtjSFB0SGZUeUpYZ3l3STZ1QlBCWUHSAW9BVV95cUxNYzJ2cUltQVdxWXVFejlIY3REMjRoYTdZWGFUOC1xWE1VeTMyalZzUFFaQlBKNDFSYTZpcFBRU0Q3SVNoSThmZzVqMWJ3WXpvNTlidVVlMTJONHFtMTlGakh0bHI5VzRRbVFnNnlvT00?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 22 Sep 2026 17:04:48 GMT",
-      "imagen": ""
+      "imagen": "https://remolacha.net/wp-content/uploads/2026/09/Jose-Gregorio-Jaquez-Aquino-600x342.png"
     },
     {
-      "titulo": "Con estos nuevos reconocimientos, Tu Casa RD continúa fortaleciendo su posicionamiento como una de las empresas inmobiliarias de mayor alcance, producción y trayectoria del país, reafirmando su compromiso de ofrecer oportunidades de inversión segu - instagram.com",
+      "titulo": "Dólar hoy: así se cotizan las principales divisas en República Dominicana - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmluSi1sVm1HWFRLblBsanFqRzdFMnk1NXhWRXJETW1wcUtSM3U0QjhfVHB3TXpUbFlBa2FURVBXNkJFQ1RRa3FGWTRUM0FuLTNVTk9SNEpJQURIVklqQVk0TVdZZkh6OUI2RTlPY3lmUTZRbVBCZFVsbS1BVUlOdUR2NzJaSzFSMk9tWFJyRFhPOFNvdlBNZTJMb2MzaFlvQTY2Wm1B0gGrAUFVX3lxTFAtVG1qSzBkT2llZW9jVkx0TWRNa1dKWGdvcnJOZXpqUXRVamozcS0tdU9LSExzRHdyeFA4eXR4YkNfT2FfakY4NGpOcnRxdUZZOVQ2dFpiNmVnWW1Ec09PWEZsQ1VhSmlCcWJTYzRpdjRQSjJwbzZfSF9ISTVHZnJ1MWdrUDJaODFhSndqekM5RGZqVzk4bi1UQVJvS3hkWU1HWlJTQ1dwaGZaaw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 21 Sep 2026 12:04:44 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/04/01/69cda81404a1d.jpeg"
+    },
+    {
+      "titulo": "Aunque la meta inicial estipulada para recuperar el título era de 480 horas, el entusiasmo y la resistencia del equipo los impulsaron a continuar más allá del objetivo, culminando por encima de las 500 horas. El momento cumbre del cierre contó con la presen - instagram.com",
       "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQ0xGbC0waUk3SjZVYkVucGZPaUpaQlhjR0tiNlZfbEYtX1p0LWlpTUJGNGw1RVZodWVOUEVvalRfNlRnbElXRjJkeXRoLVBhT3c?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLbFZaTmczWmNkcmFpTnJnSlB4aEE4QjA3NU1YUjFkMDF6S2ZmSEZnTnNKQXItMjJCQnc1aFZwTWVCRE1tWmMwRTBDYThaaXR6RHc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 19:35:01 GMT",
-      "imagen": ""
+      "fecha": "Wed, 23 Sep 2026 00:27:53 GMT",
+      "imagen": "data:image/png;base64,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"
     },
     {
-      "titulo": "República Dominicana lleva a la ONU una agenda que prioriza temas como Haití, inversiones y exportaciones - Infobae",
+      "titulo": "República Dominicana: Autoridades detienen a un colombiano por intentar salir del país con más de USD 600,000 sin declarar - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnNrMGFrYzc4OVpJem04anVyRFpSd3pVUHdKcnZTUG9qM001QU1OaFEzNUVuREs3S1R5TVdJTzJ3OFhLc09BSm1VSkNNZDFmU3pETkRNb3NLUEd5T2xVbzR2TFhSMEo2VmJIcUtOZThoMXphNlVMQTB4VHIwbWJwNnRac2dhVjdVelNaaXBIa2k5eFhURXdnRUZ0LTlKa1BHOHhXN0cwcEJjTUhSYVVMbkpLMnNsRWljUkREemlzU055WXlta3BBQm1JWU9oQWlneVhlN0FKM1ROY1hBQ0VDa0RiN1gwNjhSWXZjdzdPSW5fQ1k?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcnk1cmRvRkRnbzFaNW84cncyYll3NzBYbG02YTl1WDU1dVlEeGZseHM2bUozRTRVZ0FqaGZ3bFk5czhoMFlJdy1vWFNFNGN1Z01OclZyUnh5MFVjVkxkcmFYQUhnQ0NaYjFFMEhjYkpxYWs0ZlR0VDg3NzN0S0VQcE5jdHlSM09mbU9fckU0aEtBMS13YzdoVWUwSHdZQXVQZjRhTi1SeFRTaUNuWXotd0E0U1d3dTMwbFhPYjc4OGdBWDhzZE43cHJfUWZTWUM1aFFqVDJvaDZQcUVnb2hEazRkNDE2OGE5d1ZqVHVmTlEzX1pqcWY3U0E2Tmt6dVB6VE05Q2hNbzTSAaMCQVVfeXFMTndtQy1leHVEemt6NzlIWVBuS3J2MFdzZVpCTTM2Qkl5UE1ZbmdPM0twRS1OSHplakRqc2tYZFAwX1FvUlNZZVFFYjQweWFHRXRDbGI4TGt2LXY3NFhmbzI3NndZcHRyakh2RUdtcTJabW9GbncyZHAyWFVIeXRZaUpMV3hQVW5EU2U1dC1fX21Qc0tuaWxhUmt1eWs2aU1VZVhPYndYclFVdEt4N3gzdlpwSkYwUGd0RGhkU1NUSVVrRERQVXFuWVh5c2k1REJPdWhmaWV4YVJnaDRtM1k1RVhtOE1KUHdTM3gyc0I5Z2RxOUl1QmZCNVY5OHlkQmRCdlo4RTlZb2dVYnROLVRoYnpDd0hTY0xMOGRfcmtZSjNPMWEw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 15:51:21 GMT",
+      "fecha": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/5EZIWUVWCRDTTBR26R4QULO7ZY.jpg?auth=fc0b39474928a060470056f9a9cad377d639fe5dd849103b649a371370b7e965&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "Interceptan lancha con inmigrantes de China, Ecuador, República Dominicana y Cuba frente a los Cayos - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVS1yXy1XeTBTQS1jU2t5b2pGcjdNMzBWbklzako4VXJ3N1NVckgzVTdxQXFKalRTRF96RFVNdFhqSEg0aGZsMG51SGFsR2pIMk03SzBtRVFac3JLV1gyd19DcDVkQlRvamxsS0ktLWhsVzlwY1I3R2NmS0FUeXBjbU1kdml1VWpBdndSQkVmWmhNd3EybGc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 23 Sep 2026 00:22:30 GMT",
       "imagen": ""
     },
     {
@@ -109,19 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "IATA lleva a República Dominicana el Aviation Day - Aviacionline",
-      "fuente": "Aviacionline",
-      "enlace": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNV1VvVm02UUpxUWJZSzI3Y0d4UmhPZkhMdmlwTlNaeWdTckt6b3owWk1adHppd0xSYjk1VTA0bjdhc0Fqcmg4ckdXbE1VN3dXTEhnbDRLX1JpRUdDRFAzUU1Fd1g3Z2dUWVBibHZEMHhIVGR3R2tLajZkWUx1YkJiVDkybnRGVzM5TWxaSGxVdHlza3JFbnNSQi1RZ2Y0M0MzMHEyTDdEMWRiUnVtaDA1REdCZmlyTGI2Z0pUN2lzZGs2RHR6cDhrc0NXVFNCWU1XX1gyRU1rSnFtNjVvV18yaENsXzNqbHlreHUzZ19vdjVWR1VRS3lhU196U3Q4cDZrMEUyTTZMS2lTRm5uTDYxUS1fRTJqZDZQeVE5a1RmYnpQYlVBWHFFNk5USnVyR3E4cUZ0YTVR?oc=5",
+      "titulo": "La diáspora dominicana busca oportunidades para invertir en RD; Porta Properties y BlackLion Properties las acercarán a Nueva York - RC Noticias",
+      "fuente": "RC Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeDZLSC1CYU90UUJMRFZzb2dtZ1lKMjAyX3FMUGtaeDFEUFBaOWxHdHFLVUFHdDZ4NVVtbDA4WjZyeThUX3dNTnlWN1BIcUhqMXZ0OFFwWU9nMDZET1JnQWpvQ0xlWEVkbTRVNGFEWFVCZkJHVWdtQ0tsMEpjY2loX0x0eS1xR0FYS192QWhaYThwZVhxUGhTWGpRYkw5Q0ZtRnJnd0MyQVhyTm9nWXdVRjJWMEtIaVZPTkg5aTN4eWd0RXlLaldXaHZXX2NYeng0Yk0xSzRQam9qdTRhdTZhek1PY2ZFN2phUkJZOQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 22:40:50 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana evalúa consolidar relaciones diplomáticas con Venezuela - El Nacional",
-      "fuente": "El Nacional",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUktPdG5DTWhTdEdBYlRjdUdEc1JIMVRvYmgzSFJnSFY3NmVOUW9PMHk1NkJ1Z2FPcXExblBqd3ZwczFfTkYzcmxxM2xFNzFxRi1zMkkwdjk0Wnc5UGlpUkRQTGxFSEdFNXFUaW54eEVDektINV9OU1VOdkJZeXY2d2thdTIxcjBkMXVlS3YzV04yVUpqcklveEs4aEZtSnhhQlVNaDZFVDdDNDl6a1BJelpn?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 12:26:57 GMT",
+      "fecha": "Wed, 23 Sep 2026 02:07:23 GMT",
       "imagen": ""
     }
   ]

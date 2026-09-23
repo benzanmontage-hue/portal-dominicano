@@ -1,23 +1,37 @@
 {
-  "updated": "2026-09-22T20:00:45.940369-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-22T23:00:47.534024-04:00",
+  "hora": "23:00",
   "fecha": "22/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "dodgers - padres",
+      "trafico": "200+",
+      "noticia": "Dodgers get stern warning, NL West rival Padres ‘force to be reckoned with’",
+      "enlace": "https://nypost.com/2026/09/22/sports/padres-most-dangerous-team-mlb-dodgers-series/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKloVJm8haRI3VZDBMhUz1prkgXHIjjTwNDoDbRALBN-x5t2wmpnSAuSXCEbo"
+    },
+    {
+      "termino": "rangers - mets",
+      "trafico": "1000+",
+      "noticia": "The Mets travel deep in the heart of Texas for a series with Brandon Nimmo and the Rangers",
+      "enlace": "https://www.amazinavenue.com/new-york-mets-analysis/100972/mest-rangers-preview-degrom-nimmo-rocker-mclean-thornton-manaea",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfSPmPgiJFLKLCWjeJs9XlBEOsFmtyx6f2K77NOgJBu1CEb63VHwTldRB10GE"
+    },
+    {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "MLB: Cleveland Guardians at Boston Red Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-cleveland-guardians-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4ODg3MzQ",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdAHJPEfI5coOLaF4S0XjXP4sL0kkEMsNIx-M2BqDJ16gUxM7-uyY4C2hAxkg"
+      "noticia": "Another start, another Messick gem as Guards close in on October",
+      "enlace": "https://www.mlb.com/news/parker-messick-guardians-red-sox-postseason-race-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9DBv5jHGDRrv0VxxQMt-e-Qsi9Q6YjfhIJsnB-sfmiCvAzvb-BmV_dqEu-Nk"
     },
     {
       "termino": "ley",
-      "trafico": "500+",
-      "noticia": "Senado aprueba de urgencia proyecto de ley que lograría Estados Unidos reduzca aranceles a RD",
-      "enlace": "https://listindiario.com/la-republica/congreso/20260922/senado-aprueba-urgencia-proyecto-ley-lograria-estados-unidos-reduzca-aranceles-rd_923237.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZamApf8X_t58UWp-CsZT6NkjkJqsSLDySV8ULZkZgFmEDfoQy65Ra7XPhy4"
+      "trafico": "1000+",
+      "noticia": "Senado aprueba proyecto que prohíbe importar mercancías producidas mediante trabajo forzoso",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/22/senado-prohibe-importaciones-ligadas-al-trabajo-forzoso/3666918",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTtgpxsQ5SirbQhXueON0OOkfynlJ5W2EvEDjpWh6vARNtlV4pR-ZWJEJ_n90"
     },
     {
       "termino": "faride raful",
@@ -28,17 +42,10 @@
     },
     {
       "termino": "yankees - rays",
-      "trafico": "1000+",
-      "noticia": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
-      "enlace": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQo7KtJz6kOkkfPCihd92EVIJHx6JNU7LEffc0UkgfaSnJFyON1kaBeBGA6yE"
-    },
-    {
-      "termino": "numeros ganadores",
-      "trafico": "500+",
-      "noticia": "Buscan al ganador del MiLoto que no ha reclamado 550 millones de pesos: estos fueron los números que cayeron por segunda vez",
-      "enlace": "https://www.eltiempo.com/cultura/gente/buscan-al-ganador-del-miloto-que-no-ha-reclamado-550-millones-de-pesos-estos-fueron-los-numeros-que-cayeron-por-segunda-vez-3588085",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9vws5H7Hr6nWcKxh0DS1qGIF_0LFMQGItelm3EnYoKprswef7hS9PiG-maU"
+      "trafico": "2000+",
+      "noticia": "Rodón staves off Rays  clinch with 8 dominant frames in DH opener",
+      "enlace": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLfxQpj93QZ4_QaCkcBH5m9XCaG_TLPy-N1dYPR8s0Nm__T71npU-RmOehT8s"
     },
     {
       "termino": "real de hoy",
@@ -46,20 +53,6 @@
       "noticia": "Quién es la estrella de cada equipo de la Women s Champions League",
       "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17287383/womens-champions-league-quien-es-la-estrella-de-cada-equipo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBcdiG-wPmHywq9VXi5yG5gk_pZ6p-YKjm2v2i4EBFF_KMkMrC2l0J-n-Znk"
-    },
-    {
-      "termino": "números ganadores de hoy",
-      "trafico": "100+",
-      "noticia": "Powerball deja ocho boletos ganadores en Nueva York con $1.4 millones en premios",
-      "enlace": "https://www.univision.com/local/nueva-york-wxtv/powerball-ocho-ganadores-nueva-york-1-4-millones",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUu82yxohE2kDXuU_n6m5NZbPamWEd6aehyEEQDgPuCeKK-YcNQWOQj-g380"
-    },
-    {
-      "termino": "lotería de hoy",
-      "trafico": "200+",
-      "noticia": "Números de la lotería de hoy lunes 21/09/26",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-loteria-hoy-lunes-21-09-26_1103184.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZQwVv_ZWxPugq1ZLhsfyxGv7mZCS6b1TdnqUbkD8oEJVfynPDTL5UtPE4eg"
     },
     {
       "termino": "gemini",
@@ -71,9 +64,16 @@
     {
       "termino": "mlb",
       "trafico": "500+",
-      "noticia": "These 9 series starting tonight will help determine postseason picture",
-      "enlace": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0SwJoh0i4_u_2n_tj1jakqhVzmJp3aEUbsGlnuoUCDVLNhtXdNe9HzqMbc"
+      "noticia": "BetMGM Bonus Code ROTOSPORTS: Up To $1,500 in Bonus Bets",
+      "enlace": "https://www.rotowire.com/news/betmgm-bonus-code-rotosports-up-to-1500-bonus-bets-if-your-first-bet-loses-922-135966",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG3WX-nVM0IQ6g87iu-kkKgkJxKw2lDR-rGIxgCq7GikYLuUFr_w7Ye0UczRs"
+    },
+    {
+      "termino": "loteria nacional",
+      "trafico": "20000+",
+      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
+      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
     }
   ]
 }
