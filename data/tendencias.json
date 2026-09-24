@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-24T02:01:01.945682-04:00",
-  "hora": "02:01",
+  "updated": "2026-09-24T05:01:03.093100-04:00",
+  "hora": "05:01",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "manny machado",
-      "trafico": "500+",
-      "noticia": "Key takeaways: Padres 5, Dodgers 1",
-      "enlace": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp7yxpk2NKTKV_k6CZuJRTW74XSx7Rlr4wrDmYgrz3_ArmfyaAYYZ0pDqJe68"
+      "trafico": "200+",
+      "noticia": "Padres beat Dodgers to move one win away from postseason",
+      "enlace": "https://www.sandiegouniontribune.com/2026/09/23/padres-beat-dodgers-to-move-a-win-away-from-postseason/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTUQWR3ebaJeLHCMpjTqpnmrg6Btgc6FR8_hfl0CSweu2cAn9DKZ2-5JWtUc"
+    },
+    {
+      "termino": "dodgers - padres",
+      "trafico": "200+",
+      "noticia": "San Diego Padres at Los Angeles Dodgers Game Story, Scores/Highlights - 09/23/2026",
+      "enlace": "https://www.mlb.com/stories/game/823894",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABNW7M8OhDbmuViTXFLvLvZu12l-71vqNnWoKXCUfdvJ5velJJ518cXPA-0c"
     },
     {
       "termino": "juan soto",
@@ -22,16 +29,16 @@
     {
       "termino": "rangers - mets",
       "trafico": "1000+",
-      "noticia": "Resumen Mets @ Rangers, Resultados/Jugadas destacadas - 22/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/822840",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRek8XvQUZvXFOs8--eJrzaz81bNJ9ITy_Bk5E9wHSChDzA1A5fhMWtdZq_H24"
+      "noticia": "Mets  Nolan McLean puts finishing touches on excellent rookie campaign:  Proud of him",
+      "enlace": "https://sny.tv/articles/mets-nolan-mclean-finishing-touches-rookie-campaign",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWDGQo0hMA-hh-KjQ1WpqKfzp2KCkB4UAYa8CGJV-vcKX_6xKZh95BCziKYN4"
     },
     {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "Cleveland Guardians at Boston Red Sox Game Story, Scores/Highlights - 09/23/2026",
-      "enlace": "https://www.mlb.com/stories/game/824710?canonical=http%3A%2F%2Fwww.mlb.com%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fstories%252Fgame%252F824710",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdusUcEiIVBiJMq1gvnP98oCLPqbYQtMMObREprazbjt8B7r6M99KvaAAfk-I"
+      "noticia": "MLB Gameday: Guardians 0, Red Sox 1 Final Score (09/23/2026)",
+      "enlace": "https://www.mlb.com/gameday/guardians-vs-red-sox/2026/09/23/824710/final",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCWNtvVQrXO1q85-c9iPTB8qvgjPnwZqVPkdfjwV3I_YSmHtVH-lJjwuqq6w"
     },
     {
       "termino": "luis abinader",
@@ -57,16 +64,9 @@
     {
       "termino": "orioles - blue jays",
       "trafico": "500+",
-      "noticia": "Resumen Azulejos @ Orioles, Resultados/Jugadas destacadas -23/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/824784",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtUPjw_3MprOJaWFPLb3WR_xq56o7bZMM6-y4JP3nO27_Xc1xMb8Vw6PRHSBA"
-    },
-    {
-      "termino": "lotería real",
-      "trafico": "1000+",
-      "noticia": "Estos son los números ganadores de las loterías de este domingo 20 de septiembre de 2026",
-      "enlace": "https://hoy.com.do/vivir/tuviste-suerte-son-numeros-ganadores-loterias-domingo-20-septiembre-2026_1103070.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+      "noticia": "Orioles 4-2 Blue Jays (Sep 23, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401923610/blue-jays-orioles",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKoZLoRuwfNA0RKderI2u2Cz7qCGYknlPJkhauojXdSfFyH9L9tnWafPMiDg"
     },
     {
       "termino": "real de hoy",

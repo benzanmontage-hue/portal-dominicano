@@ -1,9 +1,15 @@
 {
-  "updated": "2026-09-24T02:01:10.753100-04:00",
-  "hora": "02:01",
+  "updated": "2026-09-24T05:01:14.456149-04:00",
+  "hora": "05:01",
   "fecha": "24/09/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
+      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
+    },
     {
       "titulo": "Ya se agotaron las boletas para histórico concierto de Ramón Orlando - Remolacha",
       "fuente": "Remolacha",
@@ -15,12 +21,6 @@
       "fuente": "Bloomberg Línea",
       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZEhfOGtUa2pGaWFCYURxbWI3ZFNXY05QVW1OWnZYUjE3RkdWZkIyeXJmWkZJbWF0QWFTOUhxdmtWT2hfS1NKUWhqYmlucHA2MmRBQjdYZEFtVzVEaWZQcnFVQWtIei16NFg4cnMzcEhqUHF2MFBzSVdGOFR2dkNyZ0dydnNIb0tuTWtBeVVjR3IxcE5DVEs0UzRIR19OR29KS2hXZjZPOVRZNGtyTTlURFB6dTRkdmtZNVVGSzZHaGptNTYyX01MRWdRYnRBcGlFUmNJWGNUeFR6dG0zaHQ5MXp6aGZzMmdTcjVQb1l5TdIBgwJBVV95cUxNb1hFRUxlb2Nqb0FQek81WkZOMmZFem9KeHZHOWdYVThNNDdMVWRocFZ4c2RjVTRDYVlrUndqSjFvN3JmRGZOUS1hNFZ1LUZzYk5tcHRtZEM3QTNPTncySmdfdG9zSHplNGpfOWhGNm1VQ1hQSFdRaGgxSEFORWdKX2VCMDZVMHBMUVBadmN2dlBhSUNuNlp2Q3hHNy1wcHl6WTg4ZU9CbEhGM3ROOEFpbEU1d0tiQVhlR3ozYmNwNjJBZTRxZ2JYaHVvNnFTdG5sSHJGa0RXX1pOSkstbW5TNjJFZ01Udk5NMVBEWUtOTjlYT2ZNQjk1MUdDTURxTHo2QUhz?oc=5",
       "fecha": "Fri, 18 Sep 2026 21:17:56 GMT"
-    },
-    {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
-      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
       "titulo": "A dos velas se presentará en concierto benéfico para restaurar la torre de la catedral de Manizales - Caracol Radio",
@@ -59,16 +59,16 @@
       "fecha": "Sat, 19 Sep 2026 16:32:00 GMT"
     },
     {
-      "titulo": "“Son artistas que admiro”: Juan Luis Guerra habla de su encuentro con colegas en homenaje a Ramón Orlando - eldia.com.do",
-      "fuente": "eldia.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUdOYWlYWDhkTnlPQUxZRGZRZWtlVklBOTZuX2Z1cTgzR09fWTB2U0U2YzRKMjJ1aFllN0VZbVpseTJJMFZYekxZUlV4MGNCSEprRmszVjRqQ0xFcTVvQWZESkd6a1RQZ3RSaml4TUpkWkotVHVhbDNzNDNDc2phYmxseVV2OFo3TlVJUkRiXy0takNFZjlvWlpTSGlORU41ZXk3U3c5WXE0WXhKdEdQRjVGVmE3ZUk?oc=5",
-      "fecha": "Wed, 23 Sep 2026 15:30:05 GMT"
-    },
-    {
-      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - es.rollingstone.com",
-      "fuente": "es.rollingstone.com",
+      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
+      "fuente": "Rolling Stone en Español",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
       "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Ramón Orlando anuncia que ya vendió todas las boeltas de su concierto - eldia.com.do",
+      "fuente": "eldia.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0gxYl81Z3VSaVFxOHdLaG9lR3JYcGl5NHFtZHY0TG5PWmRWdDhDNi1YRGxHZlItSGt6Y0JzUjh6YTFyV2ZLTkxYdF82ZVdnTDRfd3dhN2tKLTh2eEZJMGowVDUwQXpVUThka29aVFN1bWtDLVFrYllfQXo3ekgtbkpLZS14SzQ3cWZFWGRCUng5QzVtSVVV?oc=5",
+      "fecha": "Tue, 22 Sep 2026 13:00:56 GMT"
     },
     {
       "titulo": "Concierto católico hispano en la escuela secundaria Cardinal Hayes programado para el 2 de mayo - The Good Newsroom",
