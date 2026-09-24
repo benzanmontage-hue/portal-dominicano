@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-24T05:01:03.093100-04:00",
-  "hora": "05:01",
+  "updated": "2026-09-24T08:01:04.829066-04:00",
+  "hora": "08:01",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "fefita la grande",
+      "trafico": "200+",
+      "noticia": "Calle en Nueva York llevará el nombre de Fefita La Grande",
+      "enlace": "https://listindiario.com/entretenimiento/musica/20260923/calle-nueva-york-llevara-nombre-fefita-grande_923387.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZGFBcxOhKYTgsNosCSFUNZEe2-XFVHBSbkM_6Mv-rvdDYZeQoLME-BSm9w6Q"
+    },
     {
       "termino": "manny machado",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "dodgers - padres",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "San Diego Padres at Los Angeles Dodgers Game Story, Scores/Highlights - 09/23/2026",
       "enlace": "https://www.mlb.com/stories/game/823894",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABNW7M8OhDbmuViTXFLvLvZu12l-71vqNnWoKXCUfdvJ5velJJ518cXPA-0c"
@@ -29,16 +36,16 @@
     {
       "termino": "rangers - mets",
       "trafico": "1000+",
-      "noticia": "Mets  Nolan McLean puts finishing touches on excellent rookie campaign:  Proud of him",
-      "enlace": "https://sny.tv/articles/mets-nolan-mclean-finishing-touches-rookie-campaign",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWDGQo0hMA-hh-KjQ1WpqKfzp2KCkB4UAYa8CGJV-vcKX_6xKZh95BCziKYN4"
+      "noticia": "Resumen Mets @ Rangers, Resultados/Jugadas destacadas - 22/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/822840",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRek8XvQUZvXFOs8--eJrzaz81bNJ9ITy_Bk5E9wHSChDzA1A5fhMWtdZq_H24"
     },
     {
       "termino": "red sox - guardians",
       "trafico": "200+",
-      "noticia": "MLB Gameday: Guardians 0, Red Sox 1 Final Score (09/23/2026)",
-      "enlace": "https://www.mlb.com/gameday/guardians-vs-red-sox/2026/09/23/824710/final",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCWNtvVQrXO1q85-c9iPTB8qvgjPnwZqVPkdfjwV3I_YSmHtVH-lJjwuqq6w"
+      "noticia": "Valkyries vs. Fire (Sep 22, 2026) Live Score",
+      "enlace": "https://www.espn.com/wnba/game?gameId=401857212",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2l6A-a6go-LVzIyU32V1-NZ73ShlolebflTuIJaae-8JTKknTd1xTMDCkWak"
     },
     {
       "termino": "luis abinader",
@@ -57,23 +64,16 @@
     {
       "termino": "vaguada",
       "trafico": "1000+",
-      "noticia": "Vaguada provocará aguaceros, tormentas eléctricas y ráfagas de viento este miércoles",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/23/clima-en-rd-vaguada-provocara-aguaceros-este-miercoles/3667636",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTV62Q2JDoux6yn4UF7zzQoiyaQV11G08fsuzRPtGsNQSN6pJxUsCTcfEfR3Y"
+      "noticia": "Vaguada frontal dejará al menos tres días de lluvias en el occidente de Cuba",
+      "enlace": "https://www.cibercuba.com/noticias/2026-09-24-u1-e208574-s27061-nid341054-vaguada-frontal-dejara-al-menos-tres-dias-lluvias",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlPXOW08wt_tv3Xc9Dd46JPr66JzB9yF2eqkhbm5O36MC52x4myYULu3pMays"
     },
     {
       "termino": "orioles - blue jays",
       "trafico": "500+",
-      "noticia": "Orioles 4-2 Blue Jays (Sep 23, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401923610/blue-jays-orioles",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKoZLoRuwfNA0RKderI2u2Cz7qCGYknlPJkhauojXdSfFyH9L9tnWafPMiDg"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "200+",
-      "noticia": "El Real Madrid empata en su estreno en la Women’s Champions League",
-      "enlace": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/cronica-rm-psg-j1-wcl-22-09-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGTRhWmfQy5ZSlfLwz7cZNkN0pb_Y_x_f69zEuCRb4fmtPg0efP9Uw3_2aec"
+      "noticia": "Resumen Azulejos @ Orioles, Resultados/Jugadas destacadas -23/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/824784",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfd9dEJ-ClUtUxZCzWkkBYY8xMNtg8nYNqbqmkyJEzMCVI5h5RUNqBwehGfc"
     }
   ]
 }
