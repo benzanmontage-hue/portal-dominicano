@@ -1,23 +1,44 @@
 {
-  "updated": "2026-09-23T17:00:58.478548-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-23T20:00:59.834304-04:00",
+  "hora": "20:00",
   "fecha": "23/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "vaguada",
+      "termino": "red sox - guardians",
       "trafico": "200+",
+      "noticia": "Polymarket Promo Code FOX: Claim $50 in Bonuses for Guardians vs. Red Sox",
+      "enlace": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-50-bonuses-guardians-vs-red-sox",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeC4-mOrfSNzg4bkR3cYSFwW6LKMS6EhDCmcxYEDkR81mVcT6JxMomaKk3_gk"
+    },
+    {
+      "termino": "ciclón tropical",
+      "trafico": "200+",
+      "noticia": "Trayectoria del huracán Polo: dónde está y hacia dónde se dirige",
+      "enlace": "https://cnnespanol.cnn.com/2026/09/21/clima-y-tiempo/trayectoria-polo-donde-esta-donde-se-dirige-orix",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZM2HB9wIZAWodgiYkhbFuVLCqna-tan3OyLd--J1YJ_xlqoV8mp_12TwCWoU"
+    },
+    {
+      "termino": "luis abinader",
+      "trafico": "200+",
+      "noticia": "Abinader vuelve a la ONU con Haití entre sus temas",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/23/cuantas-veces-ha-hablado-abinader-en-la-onu/3667097",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuhkTnDTxXuK0wmjYSVXGxqGAHtvrQrbh0uTu0dVSDGQci2UWabYYuLDiCi2I"
+    },
+    {
+      "termino": "vaguada",
+      "trafico": "1000+",
       "noticia": "Vaguada provocará aguaceros, tormentas eléctricas y ráfagas de viento este miércoles",
       "enlace": "https://www.diariolibre.com/planeta/clima/2026/09/23/clima-en-rd-vaguada-provocara-aguaceros-este-miercoles/3667636",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTV62Q2JDoux6yn4UF7zzQoiyaQV11G08fsuzRPtGsNQSN6pJxUsCTcfEfR3Y"
     },
     {
       "termino": "orioles - blue jays",
-      "trafico": "200+",
-      "noticia": "Toronto Blue Jays 2 - Baltimore Orioles 4: Final score, results, recap, box score, stats",
-      "enlace": "https://sports.yahoo.com/mlb/toronto-blue-jays-baltimore-orioles-460923201/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-DjMGc2oygQT9T9POb2k8HMsb27f_m_3NrU_tDRWYymPvp5bzH2_vLY8cvR4"
+      "trafico": "500+",
+      "noticia": "Resumen Azulejos @ Orioles, Resultados/Jugadas destacadas - 21/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/824787",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg2kWE9TdEkjlLGsKASmCr0gQjc-oy8QF_HnaEHZq73e9JlfDoWwrF3TXuBbM"
     },
     {
       "termino": "lotería real",
@@ -48,32 +69,11 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh2ZJ0Q560-w-5-fVKiZIIe7FTItl1gXu4HNFJZEy04HE7meIFBmAwpQse0nc"
     },
     {
-      "termino": "onda tropical",
-      "trafico": "500+",
-      "noticia": "Meteorología vigila onda tropical en el Atlántico",
-      "enlace": "https://elnacional.com.do/nacionales/meteorologia-vigila-onda-tropical-cerca-cabo-verde_581574.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTstOFk_GYieZ48VntkzV9TZIIIlrUs1DVIqmoa5-W3cAwdk9RZTI5-t0MMu5k"
-    },
-    {
       "termino": "dodgers - padres",
       "trafico": "1000+",
-      "noticia": "Teoscar Hernandez And Dodgers Play Padres On Sept. 23",
-      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-updates/teoscar-hernandez-and-dodgers-play-padres-on-september-23-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV1MOKr6WbfXdN4CAYi3GPs_8qkt2oYwnDJQQ5h6ROBhxKwGHhhJUQ9wxmXmM"
-    },
-    {
-      "termino": "rangers - mets",
-      "trafico": "1000+",
-      "noticia": "Resumen Mets @ Rangers, Resultados/Jugadas destacadas - 22/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/822840",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRek8XvQUZvXFOs8--eJrzaz81bNJ9ITy_Bk5E9wHSChDzA1A5fhMWtdZq_H24"
-    },
-    {
-      "termino": "red sox - guardians",
-      "trafico": "200+",
-      "noticia": "MLB: Cleveland Guardians at Boston Red Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-cleveland-guardians-at-boston-red-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTAxNTU",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrO3flo4bMC8hFsp026qeAMOBBrYS7Qjca5zxO3evIi8u2RC6jJIPNwFXTehk"
+      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
+      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTA1NjE",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1oBs1GQfoKGG7cXaRFaejPI_lgFjqbtiWeua-4KUVq1nrLX4FzKp_kBxJ-6Y"
     }
   ]
 }
