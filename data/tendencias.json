@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-24T11:00:06.097714-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-24T14:00:09.234237-04:00",
+  "hora": "14:00",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "azerbaiyán",
-      "trafico": "200+",
-      "noticia": "Why is the Azerbaijan Grand Prix on a Saturday, not a Sunday? Baku schedule shift explained",
-      "enlace": "https://www.espn.com/f1/story/_/id/50003145/explained-2026-azerbaijan-grand-prix-saturday-sunday-schedule-baku",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVQwFOoKYYQ9WEekObggacd55o9KBjc4zFs5kMhzxk8hSk0USE5wyUNR1Viso"
+      "termino": "lotería real",
+      "trafico": "500+",
+      "noticia": "Lotería de hoy miércoles 23/09/26",
+      "enlace": "https://hoy.com.do/vivir/loterias/loteria-hoy-miercoles-23-09-26_1103433.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUTYLkdwCzUtN7hxsB5IKkUtY1AN2PIhe4MTCFfjBaA3pyEiiajzxPgpi134U"
     },
     {
       "termino": "azerbaijan",
-      "trafico": "500+",
-      "noticia": "Russell leads Antonelli and Verstappen during FP2 in Baku",
-      "enlace": "https://www.formula1.com/en/latest/article/fp2-russell-leads-antonelli-and-verstappen-in-second-azerbaijan-gp-practice.37CqNf2uaAyxvDPmvbt3Iw",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8NX6xKsmuUeNXcJ6NViC3-UI_7_4sozed2nvNRKBOe3zzVU1O1GFAfmbdJO8"
+      "trafico": "1000+",
+      "noticia": "Azerbaijan Grand Prix practice, qualifying and race times, UK times, plus weather forecast",
+      "enlace": "https://www.bbc.com/sport/formula1/articles/cdx0elx8pz8o",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBg396__IcNZCIGFZ7sUTCFZ5VrmUs7_Nr5S77X40hKNb5QJZL2nGn3MIHuWU"
     },
     {
       "termino": "fefita la grande",
-      "trafico": "200+",
+      "trafico": "1000+",
       "noticia": "Fefita La Grande será homenajeada con cuatro actividades en Nueva Jersey por el Desfile Dominicano",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/09/23/fefita-la-grande-homenajeada-en-desfile-dominicano-en-new-jersey/3667913",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTufjpcige6KXbOhRWJ8HGT75m7Ag3sGy7YkeKKatz67mv3L6neKoerNrcWiL8"
@@ -39,6 +39,13 @@
       "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
       "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTkxNjA",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR2wmmt87DOr9KWU9k2C6NlK0ZDgBcPtLUFMYcWIZEC7AfCqDb0t277lHkhb0"
+    },
+    {
+      "termino": "juan soto",
+      "trafico": "200+",
+      "noticia": "Juan Soto suena jonrón de dos carreras",
+      "enlace": "https://www.mlb.com/es/video/juan-soto-suena-jonron-de-dos-carreras",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKhLHc1-0WsSSg4gNt_nGUNzRV1tPbCI6S7idSI4vQ-atxyraX_rai_k87wIM"
     },
     {
       "termino": "rangers - mets",
@@ -64,16 +71,9 @@
     {
       "termino": "ciclón tropical",
       "trafico": "500+",
-      "noticia": "El huracán Polo se convierte en  una de las tormentas más fuertes jamás registradas  en México",
-      "enlace": "https://listindiario.com/las-mundiales/20260923/huracan-polo-convierte-tormentas-mas-fuertes-registradas-mexico_923351.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9B3yO0Li2ExsaFbr1i6O2XF0LIoqL4H3DMZcIX-1bvwTetZVKNw1SIocfXgo"
-    },
-    {
-      "termino": "vaguada",
-      "trafico": "1000+",
-      "noticia": "Día de las Mercedes con lluvia en la tarde; vigilan zona de aguacero con probabilidad de ciclón",
-      "enlace": "https://listindiario.com/la-republica/20260924/dia-mercedes-lluvia-tarde-vigilan-zona-aguacero_923496.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyJur_eKau4WVx76R6Hj5ouSkwRkcp-rwFcCP6HuMxQNqCURew10xzY8CXl90"
+      "noticia": "Poderoso huracán Polo, de categoría 5, empieza a descargar lluvias en suroeste de México",
+      "enlace": "https://www.telemundo47.com/el-tiempo/huracanes/tormenta-polo-huracanes-suroeste-mexico-pacifico/2656576/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qE3Ysbbz7a6PJbJhejqmzsgUA6zk2l-Ztvsm_PVrWysoBDIA5dskrNbJKgo"
     }
   ]
 }
