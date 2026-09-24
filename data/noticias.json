@@ -1,16 +1,24 @@
 {
-  "updated": "2026-09-23T20:01:01.520186-04:00",
-  "hora": "20:01",
+  "updated": "2026-09-23T23:01:11.622669-04:00",
+  "hora": "23:01",
   "fecha": "23/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Guatemala busca ampliar sus exportaciones hacia República Dominicana - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0I1THNsb1U1YkZPOC1LcUQyS0tnT1M3UnlfSkJwMzNPMnRCMFdDX2VMTlFqcG9XR1VrWnZTZG84OUFLSkg2U3RuemZ6SU9US3pmeTZMOEt2UGFJYXhLV1lZeDdYTVdSbFktd0UxM0hUdDhpQmpDVkR4d05OZ2Y1R3JRVmxsRThHb0ZWeVpvdjY5clJpS1Rla0x6ZGdRMThm0gGmAUFVX3lxTE5YTHMwSzNndXVfRlRqNEh2VUY3UXUtTFlmelRITzhWNTNWUlRnLU5zZ0pWc2hzRkxXU2pHdVBEeEx4WDVySTV6bHR1MnpHVG1peHFsZERkQXlncXF0QnNrYlRDdmt3R3VwZktVVGlOTmpzal91QS1MNmwtMDEzamllZUhwYkY0QUZUUzJtRlhsdjM3eDA2d2xERGVpbVRxQk5CMzQ5SFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 22 Sep 2026 20:47:24 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2e945c9541.r_d.1009-535-7500.jpeg"
+    },
     {
       "titulo": "República Dominicana pide la distensión en Oriente Medio para frenar la inflación - UN News",
       "fuente": "UN News",
       "enlace": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82UGk4Ul9IelRHTWlfT1A5cTI2dUtvMzJ6M0VrelpPcE9KOGxHcGNST24wOVdNZEV6clpPUDVCOF9hZHVDbk9McDdYbWhZVUduaDFpa2FaUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "imagen": ""
+      "imagen": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/23-09-2026-UN-Photo-Dominican-Republic.jpg/image770x420cropped.jpg"
     },
     {
       "titulo": "Abinader vuelve a la ONU con Haití entre sus temas - Diario Libre",
@@ -26,15 +34,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdpSF85RXVPcldRN05IemFDSkRvb285bTZQLVNZMm9zdVQwa1dyblBkQkJhOHlqMkp1U2dRTDRoLXE5N001bHRHVXZxTEgzN213SEFMWE42SGJfRklQVE5RT05tb3V1ajFLNVNoeHloREM3SlVMTjFtejA5ZjgxdlBxT0l0dkpjOE1EajBTQ0FoaDMzMEQ4clRmcjZnMEhIQzRyRWJwTWRvU04wTHhWY1N5YVF6NER3bmMtTXoyRUxaaVBXTHlmQWNPcXLSAdIBQVVfeXFMT0FDNDNSSGcyU3ZPZWhoN2tna29faFViMkJxc3hoUUowWDRHUDUwbnBBRWcxYWc2d0R3c1hxSGVkalFOM1N5T296dkpDeS0zTEJodHRRbUUzZmk4R1E5SXVSS0IyNEZCWFBuQktJOU1LaFdXOUdaUmpEdExiU3dOVHNWZXh1RWRDQVFtcFBMRnV6N3BrTHg1M0JWUmdnbHRNcVVZNnFsSEYwV1AtNW01TWljV2FGRjhvM2FEeE1kUGdXaTJlZ1k5ZXozdFUzZHZCRkdB?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 18:03:32 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Consulado de República Dominicana empieza a ofrecer el nuevo pasaporte electrónico en NY y NJ - Telemundo New York",
-      "fuente": "Telemundo New York",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3hURzlkQ1RBUnVUZnRjZGdjeUVVY2xwM3dEaFBFWUpvVUlvNVdTbEhvX0xPQW52YXlGNXowZGRGcl9RR291ck9VYXhIR1JpNTFZYnNlR3d4d2tyYXlQNFVWaU1qU3lXejJkR3NrZHRrMWFCVHBPRWZibWhOZW9UTVBmbnMtbV9vTjlHLXhFeGNZMUhWWnZfZF9QVXJqTXhuZjlJTzBGS0p0QnYwaURfZnJnbmhRLWFfMGgwenUtYk0wa1BBenJKdmp0dFJna2hZSXNIV3ZOZlJJWTdqUjllYklhdE1pc0V1UUdGYk0tcU_SAfgBQVVfeXFMTVBnM29uWVB1SWdrdWd0bUk5eUZNT0M3NGdGR3o5S0s1Q1g2bnBEMS1jbHBsUkpTTnFnQWJ6RElsWnBlLWhac2VMUnJIcElGUlZ5RzJMQi10bDZLMXM2VDNkR3Jib3ZQdEJORGlYSzJDWlFtZnE5cGtQS29pT2VjM0lGS0wyVl9Xc1ZWOUJfSXlzS0psNFhxSURUMlJYcE9GNW9FQ2VBVDFGT1U5Z1ppSjhKV3ZibE1xTEl6eDVnZU15RGloRk1KNnVjblZ1UlVhcmdKMEk0ZmFrcGtOYi1BdzRsMGwwVkNBaFl5bjVDUGZ4cHQtR01BaGI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 12:34:47 GMT",
-      "imagen": "https://media.telemundo47.com/2026/09/51380569277-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/23/6ab413b630c09.jpeg"
     },
     {
       "titulo": "República Dominicana celebra al poeta José Mármol, que renovó con asombro la poesía isleña - Yahoo en Español Vida y Estilo",
@@ -43,6 +43,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 17:52:56 GMT",
       "imagen": "https://s.yimg.com/lo/mysterio/api/79166d1a3877e05d953da84a3b547f0bf77725ae9ab51e413a6259cc8ef85046/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F1eae8177296f5ac25c77c873b0093990.jpg"
+    },
+    {
+      "titulo": "Estados Unidos aumenta la cuota dominicana de exportación de azúcar de caña un 6,3 % - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGFYS0VCaU80eC1JcHR3NlhGTUItU2pQVFpYR0xwMEg0ZlZROGotenpuWDd4Z3R6b0hSSUI2ZXY2cXdhWk56cHlwVXlYNVd6V3BKSm1JY0hydFFzZFV0OUswOFhfVjl3WExCYU9PM296UmthRkJpVHhFUnV2Q2xoUEl3QWJNVWI0WUxGdVB2R0NNcVdndmxNODdQY3MzV050dWlaQUZ5NmE1TExPeENYZ1Ytbl9TX2M4blVTbThoUFV3QTV6Q3JieFl0TWFxUmN2QmtVbA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 24 Sep 2026 02:30:18 GMT",
+      "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_2000x1500__1.jpg"
     },
     {
       "titulo": "Arajet apuesta a consolidar a República Dominicana como “hub” de América Latina - El Nuevo Día",
@@ -58,15 +66,23 @@
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUhSMXNqS2F5eWRvYno1TTlraUduUTJqUmJlcHRKQ2hhSGl6VldGZkl5WjZGVWNqUmY1ZW1uejJUa0xzVzk5THJna3dYVFVSSTI5b0xzT3VLc3pUa3FsOTd5RklqQnF6UHBBd3A5ajFpN0ZlRTFiSkE0TVBxNEk4dnhCbmhmZE9QeHNhdndrbWRRS0twak82bmpRQkRCaGNvVVBRUjBod2Q1eDAtaTJqYVRNa2dCdkRWNUxR0gHAAUFVX3lxTE9pRHpMQ18yZEFmOEgxVHV0TVZ6dGV1WG03akNGODExUXlfc1psc1lmVUpoZDZqdXJsMGxONEs4NnU1eHRlZEszQ0pfWkljck5iejlOOS1ya2dIbnJtc0xZQjhUekRxVlpIZ3IzYjROd09mQjIxRTR0S0toSFZDNlg3d3o1MWtldmVTRWJNV2piNk5SRVZ1RFB5RWQzZHpjRzV2OXVzYlFkTno5OTBrTzdhSzIzSXBuU2JpaGNlZl9Jdg?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 22:34:36 GMT",
-      "imagen": ""
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/23/6ab45350e46a8.jpeg"
     },
     {
-      "titulo": "República Dominicana y Grecia acuerdan impulsar comercio, inversiones y cadenas de suministro - Acento",
-      "fuente": "Acento",
+      "titulo": "República Dominicana y Grecia acuerdan impulsar comercio, inversiones y cadenas de suministro - acento.com.do",
+      "fuente": "acento.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeURCSWJqWHc1WkpOQlVTY2p4SjNfQzY5d2ZoaEp4Y2loQmcycDcyOWxUeWI3b2NVNjFyMG5MWTZvRjgwYkhfQWFWODJSa0xZbXlrU1VSZnhPWmZObWE4OHp1Ukp1enc2TVV4aUhXcnJtaUtWZy1aaVNLQjMzZmdJelFQaVVmc1M5SC1wVmdITG9HdnFZcmRITENPNU9GY3Mxb0hBQmk5MGZDYWdGakhLaTJBLTVZeHJpLVNTSmtxcnQ5Szd6TGZOUGs2bEQ0VERibXZ2M9IB1AFBVV95cUxQeURCSWJqWHc1WkpOQlVTY2p4SjNfQzY5d2ZoaEp4Y2loQmcycDcyOWxUeWI3b2NVNjFyMG5MWTZvRjgwYkhfQWFWODJSa0xZbXlrU1VSZnhPWmZObWE4OHp1Ukp1enc2TVV4aUhXcnJtaUtWZy1aaVNLQjMzZmdJelFQaVVmc1M5SC1wVmdITG9HdnFZcmRITENPNU9GY3Mxb0hBQmk5MGZDYWdGakhLaTJBLTVZeHJpLVNTSmtxcnQ5Szd6TGZOUGs2bEQ0VERibXZ2Mw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 20:00:17 GMT",
-      "imagen": ""
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/Republica-Dominicana-y-Grecia-acuerdan-impulsar-comercio-inversiones-y-cadenas-de-suministro-OG.jpg"
+    },
+    {
+      "titulo": "República Dominicana debutará en la Liga A de Liga de Naciones este jueves frente a Nicaragua - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTlVzSHgydzh2ZFhHeXluc3NWLTB1V2d3YXJLUGZqTTFOUTl0X0ROeEhIWkMyeVR1RTBmVkRKSmU1ODVtX25sdGVZS3RNdHFDajdUZ0dLblkwWlRfQWNhMDlsQ1RCaG1HZHB3b2V1THdpTWsxeE1ucTNxeWt6bS01TThVSWNXSW0wMHNvVGNlZ0JMRWVUWUhKZ0NoTjgtYm1UTWRfNDJYWnBvMVdxdzhpU3cxNFh4ZmpwWjMzdmE1dmNPNHo5Sk5tN1hlQnJaLXNmaEHSAdcBQVVfeXFMUENKaWxGcExTZ2J1Mnh6T3pBaDFwclhYR0lVN3lQRHh6bjRuaXlWZ0xjMl9ZSzFKbU8tYXdwbkdUMTVJemJDYWJFR0N3b3diTEVNMlRGeVFJTWkyOFQyU1h6WkNQZTVQcUN1SV9kUnZxNXJWU19ROF9BN3MzVTJsa20tdGVCMW52MEhINVlYUmJNdnRua3NFVE5aMTZhQ3p5aGdfRi1TclRCR0c2UlFUWEg1dTlaVnBPcHlhMFNERU10X2Q0d2NMaUZMMUFYbTlyLUZXbEJYMWs?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 24 Sep 2026 01:28:34 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/09/23/6ab47ca049349.jpeg"
     },
     {
       "titulo": "Esposa de reconocido cantante fue asesinada en República Dominicana: esto se sabe del ataque - Revista Semana",
@@ -85,22 +101,6 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana ejecuta operación de manejo de pasivos para reducir riesgo de refinanciamiento - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT3pmb2E5eS1uczZCMUJxOFBQd012R0ZTWWw4cl9mX1JqRjFqcUZZVnFnXzJOOFFZWlN4a0xyMEkzQVlfS29JNm9PZWhZQnhhLVJrWVZoeE9pSFFWdzVUcWNzT3c3cGV0Wko2TmV2NFVnMzZSYy1XQVhnV1FNLVVIbm50OUpZaVRvWDkwYU1CNnVxdERFVHdELU04V19td3M5VHNWWFhTZnk0MkJTSTNIcWJFT2I1Nkp5RWFZc2tpb3FsNFdtTGRTZ3htWVhFOWdnOHZMeXpDd9IB3AFBVV95cUxNMG5ZQjcwd0JRSzNMOFFsTmV0aDJBbTBIclVlaU43Tlh5dXNoSXI5ZFJXbzByakVKNDFLcVRzOXhOa29tZXFFZzZkb3lvWksxX2JVZTRoZXF5Unk0QlljRy1nRVFaRm02NVJRdHhZbTFUTkVnVjB1Z2ZfNEJSQXZXcFBQZGZTVmJsOUNXay12N0p4bkdZV0VLM0JJRlpjbmZNRHBCTmRmZDlRSGlPTHZWajg2UDhTNnlzYlN2SnkxX1lxTTJQZTlmdFBDdVIxZFBFSVR5RTJuT3V2V3pF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 00:08:31 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La UDC pide reforzar acciones contra violencia en Dominicana - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkV2UEw0eGlVSHRyMnNBTXNyRnBKMFlVMURlWXVQelVNQ1NPT0FxWDNTaXdkOE9zNkdsdnJpb0xYamFHclJCdDUzbUdqeU1kbGFqQmFpZVlwTlBnYjYwR0h3ZkJod29vbHJkQW9lZGo5LWZlR2FjMFdtMWlBSXYwbTRRYWM3dnpzdVJV?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 23 Sep 2026 06:02:58 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana insta a la ONU a actuar ante el agravamiento de la violencia en Haití - TRT Español",
       "fuente": "TRT Español",
       "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90OGx2V0pILURVR0JVQkNvVmFqaW82YVVHekJiZ05hSWQ0LTNQS05SU1ZuSDRQT1NVT2NwbktGQ0s1ODFXVVdTRFlldTV6NmdJbEVXSk56UGI3TW8?oc=5",
@@ -109,8 +109,8 @@
       "imagen": ""
     },
     {
-      "titulo": "Presidente dominicano pide completar despliegue de la fuerza contra bandas en Haití - Diario Las Américas",
-      "fuente": "Diario Las Américas",
+      "titulo": "Presidente dominicano pide completar despliegue de la fuerza contra bandas en Haití - diariolasamericas.com",
+      "fuente": "diariolasamericas.com",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVJLbFUxZV9mWFZfRUxlMWN4aWhjbkQ3dTI3Q1Z1cWtkbWtkYm94ZHlrUVJRNG1Ca29YVi1JNmU3ZFdZblY3OXVXM2kzdlo1Sm1jRTZiVm9HcTFvUk5pRzZRVHVoUGFpR2pLb3VRdkExYlJpdmhtMFFDMV9NakM5TEdXS1B1cU15N1hiTGZzR0VETzVUWnNqa2xSNmFWZGdDU1hkY3hFbHUzVVlXMVB2MmJjWW5MV252bTl0TVNRaDlwQUtLeURrQVlLODZzMWIt?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 23 Sep 2026 21:57:00 GMT",
