@@ -1,15 +1,9 @@
 {
-  "updated": "2026-09-23T23:01:14.025322-04:00",
-  "hora": "23:01",
-  "fecha": "23/09/2026",
+  "updated": "2026-09-24T02:01:10.753100-04:00",
+  "hora": "02:01",
+  "fecha": "24/09/2026",
   "total": 12,
   "eventos": [
-    {
-      "titulo": "A dos velas se presentará en concierto benéfico para restaurar la torre de la catedral de Manizales - Caracol Radio",
-      "fuente": "Caracol Radio",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGpWTjRPZHc1MnBmVUVqRTVfZ1BRVkJQTzZzSzdXQ2IxRFFCR2JxYk1OTy0yUkp4bEFhdi1FdUFZYWJBeUpWckVTY2hIX25VSkRJZG11S01FZS1HeU1peWRQYTRYM3ZZbWNOakdkY3dVLU1Vcmo5SEczZWNDVzVQLXZXeFpKcE1TZkNjR1ltbnpZUkxGaHlnOGplWVZyOUpWeldjSHc1dmo0QlJfRG42am5mOENGdUJNVWRoOHNhbUV6SUFYYUFXWDM4bG1xRknSAeMBQVVfeXFMTzBVVHFRd2NTWnVhMC1OMHFwa1Z6U3Rzb2lkQ0hQcE9hbjRmU2RGZzdPM2hmaXV1VVNsUGZJX3dxU2RUWGEydFZnRkFFUzZuajZVYWxVelU1MnFLOHBXVkdOQ3o0SDVtT0lKZlNwWDI5UFJvUWJEYXBpd1dJcFNHNW9aRDdYUEhGTTNFaG9kRlY4R3AtNUdTazdmSjZkekwxRDBVLUI3Mm5NQTFKZzBtdmtCbUtRc0txY3B3QmJxbzVvc0JiRlMydGQ4blY3cm14dWJXVTBGZldMMWVPWDg2bVFvQ2s?oc=5",
-      "fecha": "Wed, 23 Sep 2026 20:08:11 GMT"
-    },
     {
       "titulo": "Ya se agotaron las boletas para histórico concierto de Ramón Orlando - Remolacha",
       "fuente": "Remolacha",
@@ -29,16 +23,16 @@
       "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
+      "titulo": "A dos velas se presentará en concierto benéfico para restaurar la torre de la catedral de Manizales - Caracol Radio",
+      "fuente": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGpWTjRPZHc1MnBmVUVqRTVfZ1BRVkJQTzZzSzdXQ2IxRFFCR2JxYk1OTy0yUkp4bEFhdi1FdUFZYWJBeUpWckVTY2hIX25VSkRJZG11S01FZS1HeU1peWRQYTRYM3ZZbWNOakdkY3dVLU1Vcmo5SEczZWNDVzVQLXZXeFpKcE1TZkNjR1ltbnpZUkxGaHlnOGplWVZyOUpWeldjSHc1dmo0QlJfRG42am5mOENGdUJNVWRoOHNhbUV6SUFYYUFXWDM4bG1xRknSAeMBQVVfeXFMTzBVVHFRd2NTWnVhMC1OMHFwa1Z6U3Rzb2lkQ0hQcE9hbjRmU2RGZzdPM2hmaXV1VVNsUGZJX3dxU2RUWGEydFZnRkFFUzZuajZVYWxVelU1MnFLOHBXVkdOQ3o0SDVtT0lKZlNwWDI5UFJvUWJEYXBpd1dJcFNHNW9aRDdYUEhGTTNFaG9kRlY4R3AtNUdTazdmSjZkekwxRDBVLUI3Mm5NQTFKZzBtdmtCbUtRc0txY3B3QmJxbzVvc0JiRlMydGQ4blY3cm14dWJXVTBGZldMMWVPWDg2bVFvQ2s?oc=5",
+      "fecha": "Wed, 23 Sep 2026 20:08:11 GMT"
+    },
+    {
       "titulo": "Miss Mundo Joheirry Mola regresa a RD y celebrará su triunfo con un concierto en el Faro a Colón - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnBtNkJ0RHJzMFNnN1dxU1JGOFVpRTJEQVF1S0pRd2EySWh4dm9YUnpndmZEanZkWU14QTcxbEtXMkhyNS1hTXhQY2JpNWd2ajA1a2gzcTZPM3VEbFhXVHA2VmY4RlBTMzd5d1hnMzE2QXMwSXNSNk5fQXVETThOdHFhMTNmVTZmWlVZb0N4SVRLQXNrbHhoZmY5bHp5dG9SQV9Bckw5OU8tclpOX0E1cm5VQjBQbzBvQVMxa0t4M3o1Ti16TTBTc9IBzgFBVV95cUxPMVFqZ1FQV1VzcHJNcFRzOVZMY0NsR3hnNldxYUd4QnE3YVRyVzlNMWU1V0xYSk5leDBydnFTbGhWeEVncGxXdDFjVjcwVTVURUIwZ2VyLVFkR0dPTVR6Z05sQTZ3RDM1c1A4Q3U2QmIxYW5mRG5nSld2SFV6UGhZM3h2bk5Vc2ttMndIRXctc2gxWEhNRi1xSDFUQ0dQUlpENmkyYm1qb0RDMl8xMmFPRVN4OHhyenVXcXFDbUU3d2NyYjVjbWVodDB2dXBvQQ?oc=5",
       "fecha": "Wed, 23 Sep 2026 00:04:00 GMT"
-    },
-    {
-      "titulo": "Digesett implementa medidas de tránsito por concierto de Ramón Orlando en el Centro Olímpico - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkhieXFLMmhHVWpZM2g2Z0tQWU9na3phMWRYYUU4M05kQjlncDByMTB4ZEQ1OEV3ZVF3Y3YtSmNvanJreTV5djFXNFZtSmxxUUZETlg0LWdnWXNOWTRROHhBV215R3JDem0xNHB0cW8xdHhIMWEyMmhfMUF5bmRaWUo3TFlsYmh4VnNBeW52ajVKMV9SNU9QTHRwR0pUUUdReXhJOTEzU2w4MHpsZXk4NldzN0xlTEtobXJsUzcwVQ?oc=5",
-      "fecha": "Wed, 23 Sep 2026 23:32:05 GMT"
     },
     {
       "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
@@ -71,10 +65,16 @@
       "fecha": "Wed, 23 Sep 2026 15:30:05 GMT"
     },
     {
-      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
-      "fuente": "Rolling Stone en Español",
+      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - es.rollingstone.com",
+      "fuente": "es.rollingstone.com",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
       "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Concierto católico hispano en la escuela secundaria Cardinal Hayes programado para el 2 de mayo - The Good Newsroom",
+      "fuente": "The Good Newsroom",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTVTQ1N5QU9pV1pNdHZ5OWZnY3BCem9xam1LT1FPTHhTTy1pNTl5a1RQT3J3VHZsMEJwSGxVTVJ3WmxOMV9qWW5HWXd0S2RDZUNfcHBYcjFFUFJ5cVVuRzBrU1ByVWpqQzhCdjl4N2NiQ2hYWlJqWXJaOVJuYmt4OXR5MkgwOGhNekQzRU12TDFQcUV1M0s3R0h6SzlxVmk5ME5RN0tpc2I2QVdtSGNlclQxVGl2SUJvZFEtZUZJTEZVdw?oc=5",
+      "fecha": "Fri, 17 Apr 2026 07:00:00 GMT"
     }
   ]
 }
