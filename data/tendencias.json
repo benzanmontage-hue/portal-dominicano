@@ -1,37 +1,44 @@
 {
-  "updated": "2026-09-24T08:01:04.829066-04:00",
-  "hora": "08:01",
+  "updated": "2026-09-24T11:00:06.097714-04:00",
+  "hora": "11:00",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "azerbaiyán",
+      "trafico": "200+",
+      "noticia": "Why is the Azerbaijan Grand Prix on a Saturday, not a Sunday? Baku schedule shift explained",
+      "enlace": "https://www.espn.com/f1/story/_/id/50003145/explained-2026-azerbaijan-grand-prix-saturday-sunday-schedule-baku",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVQwFOoKYYQ9WEekObggacd55o9KBjc4zFs5kMhzxk8hSk0USE5wyUNR1Viso"
+    },
+    {
+      "termino": "azerbaijan",
+      "trafico": "500+",
+      "noticia": "Russell leads Antonelli and Verstappen during FP2 in Baku",
+      "enlace": "https://www.formula1.com/en/latest/article/fp2-russell-leads-antonelli-and-verstappen-in-second-azerbaijan-gp-practice.37CqNf2uaAyxvDPmvbt3Iw",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8NX6xKsmuUeNXcJ6NViC3-UI_7_4sozed2nvNRKBOe3zzVU1O1GFAfmbdJO8"
+    },
+    {
       "termino": "fefita la grande",
       "trafico": "200+",
-      "noticia": "Calle en Nueva York llevará el nombre de Fefita La Grande",
-      "enlace": "https://listindiario.com/entretenimiento/musica/20260923/calle-nueva-york-llevara-nombre-fefita-grande_923387.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZGFBcxOhKYTgsNosCSFUNZEe2-XFVHBSbkM_6Mv-rvdDYZeQoLME-BSm9w6Q"
+      "noticia": "Fefita La Grande será homenajeada con cuatro actividades en Nueva Jersey por el Desfile Dominicano",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/09/23/fefita-la-grande-homenajeada-en-desfile-dominicano-en-new-jersey/3667913",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTufjpcige6KXbOhRWJ8HGT75m7Ag3sGy7YkeKKatz67mv3L6neKoerNrcWiL8"
     },
     {
       "termino": "manny machado",
       "trafico": "200+",
-      "noticia": "Padres beat Dodgers to move one win away from postseason",
-      "enlace": "https://www.sandiegouniontribune.com/2026/09/23/padres-beat-dodgers-to-move-a-win-away-from-postseason/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTUQWR3ebaJeLHCMpjTqpnmrg6Btgc6FR8_hfl0CSweu2cAn9DKZ2-5JWtUc"
+      "noticia": "Machado s HR sets tone as Padres move one step closer to postseason berth",
+      "enlace": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC-kxIY69OIMkpE1dGAogYwJP_w9g_7ReKxL_HSYzVFkUJBfxLWoiy6_4AEhs"
     },
     {
       "termino": "dodgers - padres",
       "trafico": "500+",
-      "noticia": "San Diego Padres at Los Angeles Dodgers Game Story, Scores/Highlights - 09/23/2026",
-      "enlace": "https://www.mlb.com/stories/game/823894",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABNW7M8OhDbmuViTXFLvLvZu12l-71vqNnWoKXCUfdvJ5velJJ518cXPA-0c"
-    },
-    {
-      "termino": "juan soto",
-      "trafico": "200+",
-      "noticia": "Juan Soto suena jonrón de dos carreras",
-      "enlace": "https://www.mlb.com/es/video/juan-soto-suena-jonron-de-dos-carreras",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcC28Ql5uNJmCtrDRtiEFPM3JMKF62NCdHZu-ofn6pnVWCd70LRoxvX3OnhE"
+      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
+      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTkxNjA",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR2wmmt87DOr9KWU9k2C6NlK0ZDgBcPtLUFMYcWIZEC7AfCqDb0t277lHkhb0"
     },
     {
       "termino": "rangers - mets",
@@ -50,9 +57,9 @@
     {
       "termino": "luis abinader",
       "trafico": "500+",
-      "noticia": "Abinader advierte en la ONU que las guerras encarecen combustibles y alimentos en RD",
-      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/09/23/luis-abinader-advierte-sobre-el-impacto-de-las-guerras-en-rd/3667988",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiRueRTam0JoWP5trE9WzCmsp2Gh3TYm96Lz3x1JoyVe5x0LSijBWloenfM2o"
+      "noticia": "Américas Society distingue a Abinader por gestión económica e institucional",
+      "enlace": "https://www.diariolibre.com/politica/general/2026/09/23/americas-society-otorga-gold-insigne-a-luis-abinader/3668438",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSF2KKGjWRFGJ8WLNIrjnRFarVDUs4cFEK0TEYxBIh-1zbdLlutPSJmZSs7KY"
     },
     {
       "termino": "ciclón tropical",
@@ -64,16 +71,9 @@
     {
       "termino": "vaguada",
       "trafico": "1000+",
-      "noticia": "Vaguada frontal dejará al menos tres días de lluvias en el occidente de Cuba",
-      "enlace": "https://www.cibercuba.com/noticias/2026-09-24-u1-e208574-s27061-nid341054-vaguada-frontal-dejara-al-menos-tres-dias-lluvias",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlPXOW08wt_tv3Xc9Dd46JPr66JzB9yF2eqkhbm5O36MC52x4myYULu3pMays"
-    },
-    {
-      "termino": "orioles - blue jays",
-      "trafico": "500+",
-      "noticia": "Resumen Azulejos @ Orioles, Resultados/Jugadas destacadas -23/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/824784",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfd9dEJ-ClUtUxZCzWkkBYY8xMNtg8nYNqbqmkyJEzMCVI5h5RUNqBwehGfc"
+      "noticia": "Día de las Mercedes con lluvia en la tarde; vigilan zona de aguacero con probabilidad de ciclón",
+      "enlace": "https://listindiario.com/la-republica/20260924/dia-mercedes-lluvia-tarde-vigilan-zona-aguacero_923496.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyJur_eKau4WVx76R6Hj5ouSkwRkcp-rwFcCP6HuMxQNqCURew10xzY8CXl90"
     }
   ]
 }
