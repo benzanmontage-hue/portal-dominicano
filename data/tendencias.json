@@ -1,10 +1,24 @@
 {
-  "updated": "2026-09-25T11:00:19.685116-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-25T14:00:21.665731-04:00",
+  "hora": "14:00",
   "fecha": "25/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "loteria",
+      "trafico": "200+",
+      "noticia": "Resultados Lotería Nacional Hoy 17 de septiembre de 2026",
+      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-nacional-17-septiembre-2026/",
+      "imagen": ""
+    },
+    {
+      "termino": "red sox - cubs",
+      "trafico": "500+",
+      "noticia": "Red Sox and Cubs to play doubleheader Friday ahead of rainy weekend",
+      "enlace": "https://www.bostonglobe.com/2026/09/23/sports/red-sox-cubs-weather-forecast/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt7qgG9a6qSxLHFaAK9nmY0Lk-l9-Cu_JGyyvuylxDXhvu2J3Wi8nC9fwULZ4"
+    },
     {
       "termino": "australia vs brazil",
       "trafico": "200+",
@@ -15,16 +29,16 @@
     {
       "termino": "australie – brésil",
       "trafico": "1000+",
-      "noticia": "Amical : Endrick et Vinicius titulaires avec le Brésil",
-      "enlace": "https://www.footmercato.net/a8238504287197226921-amical-endrick-et-vinicius-titulaires-avec-le-bresil",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6x5O8Gpy3uP0n_TCf12Abff-JojEpe9dV1csGTdZtX5AIOxEoKEjguTJpJs"
+      "noticia": "Le Brésil arrache le nul en amical en Australie, Raphinha passeur décisif",
+      "enlace": "https://www.lequipe.fr/Football/Actualites/Le-bresil-arrache-le-nul-en-amical-en-australie-raphinha-passeur-decisif/1721132",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqejL4n7Mp36tTmWtdxfWCXfftnMjzQzbQDFzSJRfHtJVEDbfOS0MyyaIWrzQ"
     },
     {
       "termino": "australia - brasil",
       "trafico": "2000+",
-      "noticia": "Seleção Brasileira fica apenas no empate em amistoso contra Austrália",
-      "enlace": "https://www.band.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-fica-apenas-no-empate-em-amistoso-contra-australia",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTx4-QgUVFo_FVZi4_Nu2ml1iTyCEcLPu13uSgdgdakX0WPLhRQ-m_3y8ksSk"
+      "noticia": "Ancelotti ficou impressionado com reforço do Sporting: «Irankunda tem talento»",
+      "enlace": "https://sapo.pt/artigo/ancelotti-ficou-impressionado-com-reforco-do-sporting-irankunda-tem-talento-6ab6a26e9a39cd87adb285d2",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_IqBar0zGukMAicXPuuOWG0eCiyJSU8Lw5aVNeKugigdBDQt5AGCyRKoNKUs"
     },
     {
       "termino": "dodgers - padres",
@@ -36,23 +50,23 @@
     {
       "termino": "liga de naciones concacaf",
       "trafico": "200+",
-      "noticia": "El bochorno de La Sele ante Curazao terminó con pelea entre jugadores",
-      "enlace": "https://crhoy.com/deportes/el-bochorno-de-la-sele-ante-curazao-termino-con-pelea-entre-jugadores/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc98Zx25kDWfV2tRwr8jDZZmpoKIDlThlJJ84WQf325rteE5TbkOyPEzbUxmk"
+      "noticia": "¿A qué hora juega y en qué canal transmiten Jamaica vs. Guatemala EN VIVO hoy por Concacaf Nations League 2026 en EE.UU., Guatemala y México?",
+      "enlace": "https://gestion.pe/mix/sports/a-que-hora-juega-y-en-que-canal-transmiten-jamaica-vs-guatemala-en-vivo-hoy-por-concacaf-nations-league-2026-en-eeuu-guatemala-y-mexico-nnda-nnrt-noticia/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLJ1ElW3W8w0rdebgsMSr0ddCj-q1SRp9S1BUebzHU_3DPWqIYiiu3vRYO9NQ"
     },
     {
       "termino": "elly de la cruz",
       "trafico": "500+",
-      "noticia": "De La Cruz pega su HR 30 en el triunfo de los Rojos",
-      "enlace": "https://www.mlb.com/es/reds/video/elly-de-la-cruz-crushes-his-30th-homer-in-reds-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRWDjklyYYk-dyoRYhfNzqy1gq7T_gX1HEsf1-VuWCnEH8YEqOPoDGqlU4Vho"
+      "noticia": "After crushing 30th homer, red-hot Elly on precipice of milestone",
+      "enlace": "https://www.mlb.com/news/elly-de-la-cruz-hits-30th-homer-reds-beat-braves",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZs-5lJSu49lZgWvw8J9j_F2svvNajUyevAAlIOH7Z71tO62eey2_SDNZZ2r8"
     },
     {
       "termino": "república dominicana - nicaragua",
       "trafico": "200+",
-      "noticia": "Éxtasis por ‘Súper Mariano’",
-      "enlace": "https://as.com/futbol/internacional/extasis-por-super-mariano-f202609-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8RhqnytFmigQfynDawyI3eTZa1vEw08GeY_p08a3JIQBoH49C8kIvTlTcR5o"
+      "noticia": "Dominicana debuta con 3 puntos Liga de Naciones",
+      "enlace": "https://listindiario.com/el-deporte/futbol/20260924/dominicana-debuta-3-puntos-liga-naciones_923616.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT8dP4VCWYELThpu2n34XGiXU6zzc6fL_VIu99SmPjoxxK2YAqHF8FapnwhP4"
     },
     {
       "termino": "haiti vs",
@@ -60,20 +74,6 @@
       "noticia": "Haiti vs Trinidad and Tobago: Concacaf Nations League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cw1mv2gvp7nyt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
-    },
-    {
-      "termino": "haití - trinidad y tobago",
-      "trafico": "2000+",
-      "noticia": "Haiti vs Trinidad and Tobago: Concacaf Nations League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cw1mv2gvp7nyt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
-    },
-    {
-      "termino": "yankees - rays",
-      "trafico": "1000+",
-      "noticia": "George Lombard Jr.’s highlight-making slide sparks Yankees rally in win",
-      "enlace": "https://nypost.com/2026/09/24/sports/george-lombard-jr-s-highlight-making-slide-sparks-a-yankees-rally/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfUgD2xF047COA_l1hpOEDfzFHTcWD4jmGXymRtyhVdng5Mdi-dvYXoYTHeE"
     }
   ]
 }

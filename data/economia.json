@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:00:29.564944-04:00",
+  "updated": "2026-09-25T14:00:27.966642-04:00",
   "fecha": "25/09/2026",
   "indicadores": [
     {
@@ -72,15 +72,71 @@
       "clave": "pib_pc",
       "nombre": "PIB per cápita",
       "unidad": "USD",
-      "ultimo": null,
-      "historial": []
+      "ultimo": {
+        "año": "2025",
+        "valor": 11059.0
+      },
+      "historial": [
+        {
+          "año": "2025",
+          "valor": 11059.0
+        },
+        {
+          "año": "2024",
+          "valor": 10876.0
+        },
+        {
+          "año": "2023",
+          "valor": 10630.0
+        },
+        {
+          "año": "2022",
+          "valor": 10104.0
+        },
+        {
+          "año": "2021",
+          "valor": 8527.0
+        },
+        {
+          "año": "2020",
+          "valor": 7135.0
+        }
+      ]
     },
     {
       "clave": "inflacion",
       "nombre": "Inflación anual",
       "unidad": "%",
-      "ultimo": null,
-      "historial": []
+      "ultimo": {
+        "año": "2025",
+        "valor": 3.9
+      },
+      "historial": [
+        {
+          "año": "2025",
+          "valor": 3.9
+        },
+        {
+          "año": "2024",
+          "valor": 3.3
+        },
+        {
+          "año": "2023",
+          "valor": 4.8
+        },
+        {
+          "año": "2022",
+          "valor": 8.8
+        },
+        {
+          "año": "2021",
+          "valor": 8.2
+        },
+        {
+          "año": "2020",
+          "valor": 3.8
+        }
+      ]
     }
   ]
 }
