@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-24T17:00:10.655463-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-24T20:00:12.671462-04:00",
+  "hora": "20:00",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 9,
   "tendencias": [
+    {
+      "termino": "lotería",
+      "trafico": "2000+",
+      "noticia": "Lotería de hoy miércoles 23/09/26",
+      "enlace": "https://hoy.com.do/vivir/loterias/loteria-hoy-miercoles-23-09-26_1103433.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUTYLkdwCzUtN7hxsB5IKkUtY1AN2PIhe4MTCFfjBaA3pyEiiajzxPgpi134U"
+    },
     {
       "termino": "portugal vs",
       "trafico": "500+",
-      "noticia": "LIVESTREAMS FREE] Portugal vs Wales Live Streaming free",
-      "enlace": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html? xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22//thomassrivera.github.io/cms/fr.xml%22/%3E%3C/krpano%3E id=portugal-vs-wales-neutral-03",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzZnBhBm0SEa33ANy-eaBwGwMB4FiBw_tVogpEL9vSQBg6hKIbZWJrgZDrc4c"
+      "noticia": "Portugal 1-0 Wales: Joao Felix strike earns Nations League win over Craig Bellamy s side",
+      "enlace": "https://www.bbc.com/sport/football/live/cqrk31vz1xjxt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS7MZtp7ENVPjXE31oOdF896mOIqHMuNeI-xvFkDYMvKZp0IAG4m4VQ4qMp6w"
     },
     {
       "termino": "rangers - mets",
@@ -22,23 +29,16 @@
     {
       "termino": "países bajos - alemania",
       "trafico": "500+",
-      "noticia": "Países Bajos - Alemania, en directo: UEFA Nations League, hoy en vivo",
+      "noticia": "Países Bajos 1-1 Alemania de UEFA Nations League",
       "enlace": "https://as.com/futbol/internacional/paises-bajos-alemania-en-directo-uefa-nations-league-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspRunaxywQjomSRzhAzk39GoXOcZ4RKwcQR6mTIZTqhX5UkgjyCY0cDYmXZw"
-    },
-    {
-      "termino": "lotería real",
-      "trafico": "500+",
-      "noticia": "Lotería Nacional en directo hoy: comprobar los resultados y premios del sorteo, jueves 24 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-hoy-comprobar-los-resultados-y-premios-del-sorteo-jueves-24-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPiNE7OoQTANPC5sUb5PinDgMjl0TazI6Asa6qTXkblj3S934sQ1XxJ36uRU"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpGStT6_ieA8618jKkKeGb5XyNU1wwPHFw1LNBeU3xIbBe4X6fs85cPtFhq0"
     },
     {
       "termino": "real de hoy",
       "trafico": "100+",
-      "noticia": "Pedro Martínez: Con tantos partidos es difícil mantener un nivel muy alto",
-      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/09/23/euroliga-pedro-martinez-critica-la-cantidad-de-partidos/3668383",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQhEu0n7Vv01QVO40_qNv_gNIX6HXd0gH_m-bA_R7omeEWBQhmekAHO2UZB60"
+      "noticia": "Sant Andreu- Real Madrid Castilla, en directo: 1 RFEF, hoy en vivo",
+      "enlace": "https://as.com/futbol/primera-rfef/sant-andreu-real-madrid-castilla-en-directo-1-rfef-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIi2dlbffUin7KzjxdoiBLLS0LCesY429XKGRWISjiDbY6pChIa6CWrRWjt8"
     },
     {
       "termino": "azerbaijan",
@@ -55,18 +55,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWeG8QWwTiK_Bujvnm-BtpQWf462OVEctOyoKzYM8av7j4NZN4evazEQHd0ho"
     },
     {
-      "termino": "manny machado",
-      "trafico": "200+",
+      "termino": "dodgers - padres",
+      "trafico": "1000+",
       "noticia": "Machado s HR sets tone as Padres move one step closer to postseason berth",
       "enlace": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC-kxIY69OIMkpE1dGAogYwJP_w9g_7ReKxL_HSYzVFkUJBfxLWoiy6_4AEhs"
-    },
-    {
-      "termino": "dodgers - padres",
-      "trafico": "500+",
-      "noticia": "MLB: San Diego Padres at Los Angeles Dodgers",
-      "enlace": "https://www.reutersconnect.com/item/mlb-san-diego-padres-at-los-angeles-dodgers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk4OTkxMjI",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR_ozEzrK4HTwfpCaJXon8mXTzqf9RspTxV_9aT5utrJ3WF6ttmfcdf26mq04"
     },
     {
       "termino": "juan soto",
