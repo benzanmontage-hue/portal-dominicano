@@ -1,9 +1,15 @@
 {
-  "updated": "2026-09-25T08:00:28.708139-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-25T11:01:32.789319-04:00",
+  "hora": "11:01",
   "fecha": "25/09/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "Ramón Orlando agradece a Abinader y colaboradores por respaldo en concierto - RC Noticias",
+      "fuente": "RC Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnhQUU80a21Fd1V1azFNZHk3Zm8zY3VMSWxwUEl1SHJ6RWZmNXFQS2tHdzdaQ1ExbU5tV1laNm9XME5yTTItVFNhWnBlZVM2Tm5Gc2QtRDQxRzROU0FQbkItZWFXb3NPR1lYWFQzV2F1ZFNTakZGcDExZTUzUF85NmZwbWNvVV9oVGk1MUJoOVIycFNEX0ltX250T1ZOV1JCSlp4bg?oc=5",
+      "fecha": "Fri, 25 Sep 2026 12:36:43 GMT"
+    },
     {
       "titulo": "Imágenes del concierto de Ramon Orlando - Remolacha",
       "fuente": "Remolacha",
@@ -11,22 +17,16 @@
       "fecha": "Thu, 24 Sep 2026 17:24:31 GMT"
     },
     {
-      "titulo": "Ramón Orlando convierte su concierto en una celebración de la música popular dominicana - robertocavada.com",
-      "fuente": "robertocavada.com",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDFFUzV4RTV3NlR5NEFBWll5dE5zZWQwMnlQZnVJbTJrNjVkcmhubWMzZUtMdEJKSF9TbkdZR3dqaEpNaVB6eV95QlNnRzdidmxSLVRsYmZzVmJ0ckd2Z3J6dnQ0UEdPcmZNLW9FYnYzdGE1V3d1cXd6LXo1dEVrYzZvQlkzeF9GN0xqU1pYeGtwdmpDUU53UjVKNDNDcmlSVExRRXFvZjZGdVR1MFhWcHcwQ2M?oc=5",
-      "fecha": "Thu, 24 Sep 2026 17:39:32 GMT"
+      "titulo": "Ramón Orlando triunfa en un kilométrico show de 8 horas - eldia.com.do",
+      "fuente": "eldia.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkdITDM3d2RvZUpVal82M0o1dkpFQ3RScGd2bmhSaXI1NlNPU3ZnUmNwWE13dTBoTlp5VDF1YlpiYkI3SlRFLVg0TUdpeV9iZzJjOHVkUHNRRmdWUG5jWk9zSkFNVElSd1g1NHlYVk9oT0NKY1Nza0d2eHROMzFQZXA1Zw?oc=5",
+      "fecha": "Fri, 25 Sep 2026 04:17:00 GMT"
     },
     {
       "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
       "fuente": "Billboard",
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
       "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Ramón Orlando triunfa en un kilométrico show de 8 horas - eldia.com.do",
-      "fuente": "eldia.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkdITDM3d2RvZUpVal82M0o1dkpFQ3RScGd2bmhSaXI1NlNPU3ZnUmNwWE13dTBoTlp5VDF1YlpiYkI3SlRFLVg0TUdpeV9iZzJjOHVkUHNRRmdWUG5jWk9zSkFNVElSd1g1NHlYVk9oT0NKY1Nza0d2eHROMzFQZXA1Zw?oc=5",
-      "fecha": "Fri, 25 Sep 2026 04:17:00 GMT"
     },
     {
       "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
@@ -41,8 +41,8 @@
       "fecha": "Fri, 17 Apr 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Al menos tres personas resultan heridas durante concierto de Ramón Orlando en el Estadio Olímpico - acento.com.do",
-      "fuente": "acento.com.do",
+      "titulo": "Al menos tres personas resultan heridas durante concierto de Ramón Orlando en el Estadio Olímpico - Acento",
+      "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQdIB4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQQ?oc=5",
       "fecha": "Thu, 24 Sep 2026 02:10:28 GMT"
     },
@@ -53,28 +53,28 @@
       "fecha": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Shakira se presenta en España con 12 conciertos mientras un tribunal revisa su querella fiscal de US$63 millones - Bloomberg Línea",
-      "fuente": "Bloomberg Línea",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZEhfOGtUa2pGaWFCYURxbWI3ZFNXY05QVW1OWnZYUjE3RkdWZkIyeXJmWkZJbWF0QWFTOUhxdmtWT2hfS1NKUWhqYmlucHA2MmRBQjdYZEFtVzVEaWZQcnFVQWtIei16NFg4cnMzcEhqUHF2MFBzSVdGOFR2dkNyZ0dydnNIb0tuTWtBeVVjR3IxcE5DVEs0UzRIR19OR29KS2hXZjZPOVRZNGtyTTlURFB6dTRkdmtZNVVGSzZHaGptNTYyX01MRWdRYnRBcGlFUmNJWGNUeFR6dG0zaHQ5MXp6aGZzMmdTcjVQb1l5TdIBgwJBVV95cUxNb1hFRUxlb2Nqb0FQek81WkZOMmZFem9KeHZHOWdYVThNNDdMVWRocFZ4c2RjVTRDYVlrUndqSjFvN3JmRGZOUS1hNFZ1LUZzYk5tcHRtZEM3QTNPTncySmdfdG9zSHplNGpfOWhGNm1VQ1hQSFdRaGgxSEFORWdKX2VCMDZVMHBMUVBadmN2dlBhSUNuNlp2Q3hHNy1wcHl6WTg4ZU9CbEhGM3ROOEFpbEU1d0tiQVhlR3ozYmNwNjJBZTRxZ2JYaHVvNnFTdG5sSHJGa0RXX1pOSkstbW5TNjJFZ01Udk5NMVBEWUtOTjlYT2ZNQjk1MUdDTURxTHo2QUhz?oc=5",
-      "fecha": "Fri, 18 Sep 2026 21:17:56 GMT"
-    },
-    {
       "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
       "fuente": "Rolling Stone en Español",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
       "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Ricardo Montaner se presenta en Altos de Chavón con entradas agotadas - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnN0bXdIUkt2aW1kdW0zZlB0TG9DS042Z2tkbGdEd0dyOGo2SUZ6eUxpaWViRmVDR0Y1WFkya3dWWmtfSm15MTV1LWNRTVEyQnV1WGJySkp2OTYwY2N5Q3BiOU5iYWtoT1VMZGRURXgtdFJfX0hLNTFjaUtGRk9NVFgwQWl6dHVzRF9GTFd6c2RsaTdweFpPY1pkbHdPNWpha282MWtzUzhHZ0xR0gGyAUFVX3lxTE9EQlpTUXFGSWgxVE4xOGZkbnVJaUJXNnNtQmU2S1N1SW1fOElwSDh1b0FDSF9lcGVRaXczYW1VNHJwdFhLVUNsc1lvcXE4NjhHRldTTDRIVE9GR1VDMkZXTWM3YW1temFPcUdjS05yV1dkUHdVR3VYcG1kNV9aUlQ1S2FQZHRxTVhsS3NMRHlBNG5aVF85UFlPWW5PT1FmQWxMV2N4RTE5bndQSE9pRzZOU2c?oc=5",
-      "fecha": "Thu, 24 Sep 2026 22:01:00 GMT"
+      "titulo": "Shakira se presenta en España con 12 conciertos mientras un tribunal revisa su querella fiscal de US$63 millones - bloomberglinea.com",
+      "fuente": "bloomberglinea.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZEhfOGtUa2pGaWFCYURxbWI3ZFNXY05QVW1OWnZYUjE3RkdWZkIyeXJmWkZJbWF0QWFTOUhxdmtWT2hfS1NKUWhqYmlucHA2MmRBQjdYZEFtVzVEaWZQcnFVQWtIei16NFg4cnMzcEhqUHF2MFBzSVdGOFR2dkNyZ0dydnNIb0tuTWtBeVVjR3IxcE5DVEs0UzRIR19OR29KS2hXZjZPOVRZNGtyTTlURFB6dTRkdmtZNVVGSzZHaGptNTYyX01MRWdRYnRBcGlFUmNJWGNUeFR6dG0zaHQ5MXp6aGZzMmdTcjVQb1l5TdIBgwJBVV95cUxNb1hFRUxlb2Nqb0FQek81WkZOMmZFem9KeHZHOWdYVThNNDdMVWRocFZ4c2RjVTRDYVlrUndqSjFvN3JmRGZOUS1hNFZ1LUZzYk5tcHRtZEM3QTNPTncySmdfdG9zSHplNGpfOWhGNm1VQ1hQSFdRaGgxSEFORWdKX2VCMDZVMHBMUVBadmN2dlBhSUNuNlp2Q3hHNy1wcHl6WTg4ZU9CbEhGM3ROOEFpbEU1d0tiQVhlR3ozYmNwNjJBZTRxZ2JYaHVvNnFTdG5sSHJGa0RXX1pOSkstbW5TNjJFZ01Udk5NMVBEWUtOTjlYT2ZNQjk1MUdDTURxTHo2QUhz?oc=5",
+      "fecha": "Fri, 18 Sep 2026 21:17:56 GMT"
     },
     {
       "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
       "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Ricardo Montaner se presenta en Altos de Chavón con entradas agotadas - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnN0bXdIUkt2aW1kdW0zZlB0TG9DS042Z2tkbGdEd0dyOGo2SUZ6eUxpaWViRmVDR0Y1WFkya3dWWmtfSm15MTV1LWNRTVEyQnV1WGJySkp2OTYwY2N5Q3BiOU5iYWtoT1VMZGRURXgtdFJfX0hLNTFjaUtGRk9NVFgwQWl6dHVzRF9GTFd6c2RsaTdweFpPY1pkbHdPNWpha282MWtzUzhHZ0xR0gGyAUFVX3lxTE9EQlpTUXFGSWgxVE4xOGZkbnVJaUJXNnNtQmU2S1N1SW1fOElwSDh1b0FDSF9lcGVRaXczYW1VNHJwdFhLVUNsc1lvcXE4NjhHRldTTDRIVE9GR1VDMkZXTWM3YW1temFPcUdjS05yV1dkUHdVR3VYcG1kNV9aUlQ1S2FQZHRxTVhsS3NMRHlBNG5aVF85UFlPWW5PT1FmQWxMV2N4RTE5bndQSE9pRzZOU2c?oc=5",
+      "fecha": "Thu, 24 Sep 2026 22:01:00 GMT"
     }
   ]
 }
