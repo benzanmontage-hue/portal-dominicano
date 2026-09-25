@@ -1,27 +1,69 @@
 {
-  "updated": "2026-09-24T20:00:12.671462-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-24T23:00:14.557051-04:00",
+  "hora": "23:00",
   "fecha": "24/09/2026",
   "pais": "República Dominicana",
-  "total": 9,
+  "total": 10,
   "tendencias": [
     {
-      "termino": "lotería",
+      "termino": "liga de naciones concacaf",
+      "trafico": "200+",
+      "noticia": "¡GOL! anota para Costa Rica. Orlando Sinclair",
+      "enlace": "https://www.tudn.com/futbol/concacaf-nations-league/gol-anota-para-costa-rica-orlando-sinclair-video",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cCDlStMzY2YAgfPDZW7NZdMiQ0Wd-cNpKyg1j58yf39YKEcFQdQIXp6frMs"
+    },
+    {
+      "termino": "elly de la cruz",
+      "trafico": "500+",
+      "noticia": "Reds go yard 3 times, eke out rubber match vs. Braves",
+      "enlace": "https://www.thesportsleader.com/2026/09/24/reds-go-yard-3-times-eke-out-rubber-match-vs-braves/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc63ZWfLZVn_ySxcejRfqSvANn4JEBouVxaTwfyxSZEw0jPfDpg4UAMO_zC5k"
+    },
+    {
+      "termino": "república dominicana - nicaragua",
+      "trafico": "200+",
+      "noticia": "Selección dominicana está lista para enfrentar a Nicaragua este miércoles",
+      "enlace": "https://elnacional.com.do/deportes/seleccion-dominicana-lista-enfrentar-nicaragua-miercoles_581661.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWkmO_HW7meuDgiPCuNXSzHEC6wvpz3Gr2OF6Lw722s0ekbSiydDFkzyc8l4"
+    },
+    {
+      "termino": "haití - trinidad y tobago",
       "trafico": "2000+",
-      "noticia": "Lotería de hoy miércoles 23/09/26",
-      "enlace": "https://hoy.com.do/vivir/loterias/loteria-hoy-miercoles-23-09-26_1103433.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUTYLkdwCzUtN7hxsB5IKkUtY1AN2PIhe4MTCFfjBaA3pyEiiajzxPgpi134U"
+      "noticia": "**((Live HD!!)) Watch Haiti vs Trinidad   Tobago Match Live Update fixtures   results 24 September 2026",
+      "enlace": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4= id=hait-trin-lie-en-uagsvsojskhcn1",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA_NPxSefOkm3zAiwBJ1o7B-KneWkn15ejVfH_nXAoNzA8C-_gAONCrL_lzkI"
+    },
+    {
+      "termino": "yankees - rays",
+      "trafico": "1000+",
+      "noticia": "Lombard s mind-bending contortionist moves flummox Rays catcher after WP",
+      "enlace": "https://www.mlb.com/news/george-lombard-jr-s-amazing-slide-to-score-on-a-wild-pitch",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV2xUIynn9CTaMD1yeh2xXFqpUxTC1fUf0b__XWDbL4VWFRu9ZGb4McaJe9A"
+    },
+    {
+      "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de gales",
+      "trafico": "200+",
+      "noticia": "Poco Cristiano y mucho João Félix",
+      "enlace": "https://as.com/futbol/internacional/poco-cristiano-y-mucho-joao-felix-f202609-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzjE6EtBuWNRdcx5gF3oEslNIjnK03KzHpGzIqE2Tw8thPXJN63ikh3RDlt0Q"
+    },
+    {
+      "termino": "lotería",
+      "trafico": "5000+",
+      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, jueves 24 de septiembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-hoy-comprobar-los-resultados-y-premios-del-sorteo-jueves-24-de-septiembre-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPiNE7OoQTANPC5sUb5PinDgMjl0TazI6Asa6qTXkblj3S934sQ1XxJ36uRU"
     },
     {
       "termino": "portugal vs",
       "trafico": "500+",
       "noticia": "Portugal 1-0 Wales: Joao Felix strike earns Nations League win over Craig Bellamy s side",
       "enlace": "https://www.bbc.com/sport/football/live/cqrk31vz1xjxt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS7MZtp7ENVPjXE31oOdF896mOIqHMuNeI-xvFkDYMvKZp0IAG4m4VQ4qMp6w"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRavY9o74B7I1NcTdonwhmeYU4UFpf2f1s6XmMfyVXxtYv2gcG_T5sTyhEQwXE"
     },
     {
       "termino": "rangers - mets",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "noticia": "Resumen Mets @ Rangers, Resultados/Jugadas destacadas - 22/09/2026",
       "enlace": "https://www.mlb.com/es/stories/game/822840",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRek8XvQUZvXFOs8--eJrzaz81bNJ9ITy_Bk5E9wHSChDzA1A5fhMWtdZq_H24"
@@ -32,41 +74,6 @@
       "noticia": "Países Bajos 1-1 Alemania de UEFA Nations League",
       "enlace": "https://as.com/futbol/internacional/paises-bajos-alemania-en-directo-uefa-nations-league-hoy-en-vivo-f202609-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpGStT6_ieA8618jKkKeGb5XyNU1wwPHFw1LNBeU3xIbBe4X6fs85cPtFhq0"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "100+",
-      "noticia": "Sant Andreu- Real Madrid Castilla, en directo: 1 RFEF, hoy en vivo",
-      "enlace": "https://as.com/futbol/primera-rfef/sant-andreu-real-madrid-castilla-en-directo-1-rfef-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIi2dlbffUin7KzjxdoiBLLS0LCesY429XKGRWISjiDbY6pChIa6CWrRWjt8"
-    },
-    {
-      "termino": "azerbaijan",
-      "trafico": "1000+",
-      "noticia": "Why is the Azerbaijan Grand Prix on a Saturday, not a Sunday? Baku schedule shift explained",
-      "enlace": "https://www.espn.com/f1/story/_/id/50003145/explained-2026-azerbaijan-grand-prix-saturday-sunday-schedule-baku",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVQwFOoKYYQ9WEekObggacd55o9KBjc4zFs5kMhzxk8hSk0USE5wyUNR1Viso"
-    },
-    {
-      "termino": "fefita la grande",
-      "trafico": "1000+",
-      "noticia": "La 32 entre Bergenline Ave y New York Ave lleva el nombre de Fefita La Grande Way",
-      "enlace": "https://listindiario.com/entretenimiento/musica/20260924/32-bergenline-ave-new-york-ave-lleva-nombre-fefita-grande-way_923525.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWeG8QWwTiK_Bujvnm-BtpQWf462OVEctOyoKzYM8av7j4NZN4evazEQHd0ho"
-    },
-    {
-      "termino": "dodgers - padres",
-      "trafico": "1000+",
-      "noticia": "Machado s HR sets tone as Padres move one step closer to postseason berth",
-      "enlace": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC-kxIY69OIMkpE1dGAogYwJP_w9g_7ReKxL_HSYzVFkUJBfxLWoiy6_4AEhs"
-    },
-    {
-      "termino": "juan soto",
-      "trafico": "200+",
-      "noticia": "Juan Soto castiga a los Rangers con su jonrón 27 y amarga los planes de Texas",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/09/23/juan-soto-castiga-a-los-rangers-con-su-jonron-27/3668537",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxA89zEbxwkB7n8CucJUfLfGxNx5haW9wmnDLW3ZHT4bb1f7DKGVam66E2fM"
     }
   ]
 }
