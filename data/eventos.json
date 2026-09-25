@@ -1,20 +1,26 @@
 {
-  "updated": "2026-09-25T05:00:26.830967-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-25T08:00:28.708139-04:00",
+  "hora": "08:00",
   "fecha": "25/09/2026",
   "total": 12,
   "eventos": [
     {
-      "titulo": "Imágenes del concierto de Ramon Orlando - remolacha.net",
-      "fuente": "remolacha.net",
+      "titulo": "Imágenes del concierto de Ramon Orlando - Remolacha",
+      "fuente": "Remolacha",
       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zR2FyeGg0ODRnRW1MRDdDUFBxM3U5NlZZaHJsdlE5Yi1YcnFWUzFWbkF3QllGYWVKQVdqOHN4cnltQnRTSEtTM3RIN1BOMEtrT1ducGJYYi1zTDlweXNINVZ5eF9ZTnFqNnd3bkdTVXNJaUg0SE52OXlR0gF_QVVfeXFMTko0Y0wteUlYSzE4LWt0MTVHRmkxODgzdy1oVmM3eXQ2Ym8yT05iOWtvd083WVg3NzI0Rm9zd2FyYmFWZmtjaXI5R3lCdDFpZko4Y0xRaDl3NWdGazFSWlNGRzZOVEtSQ09pc1k5VndUa1hxX1gtbEh1U0g1cmlUWQ?oc=5",
       "fecha": "Thu, 24 Sep 2026 17:24:31 GMT"
     },
     {
-      "titulo": "Ramón Orlando convierte su concierto en una celebración de la música popular dominicana - RC Noticias",
-      "fuente": "RC Noticias",
+      "titulo": "Ramón Orlando convierte su concierto en una celebración de la música popular dominicana - robertocavada.com",
+      "fuente": "robertocavada.com",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDFFUzV4RTV3NlR5NEFBWll5dE5zZWQwMnlQZnVJbTJrNjVkcmhubWMzZUtMdEJKSF9TbkdZR3dqaEpNaVB6eV95QlNnRzdidmxSLVRsYmZzVmJ0ckd2Z3J6dnQ0UEdPcmZNLW9FYnYzdGE1V3d1cXd6LXo1dEVrYzZvQlkzeF9GN0xqU1pYeGtwdmpDUU53UjVKNDNDcmlSVExRRXFvZjZGdVR1MFhWcHcwQ2M?oc=5",
       "fecha": "Thu, 24 Sep 2026 17:39:32 GMT"
+    },
+    {
+      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
+      "fuente": "Billboard",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
+      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "titulo": "Ramón Orlando triunfa en un kilométrico show de 8 horas - eldia.com.do",
@@ -29,16 +35,34 @@
       "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
+      "titulo": "Concierto católico hispano en la escuela secundaria Cardinal Hayes programado para el 2 de mayo - The Good Newsroom",
+      "fuente": "The Good Newsroom",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTVTQ1N5QU9pV1pNdHZ5OWZnY3BCem9xam1LT1FPTHhTTy1pNTl5a1RQT3J3VHZsMEJwSGxVTVJ3WmxOMV9qWW5HWXd0S2RDZUNfcHBYcjFFUFJ5cVVuRzBrU1ByVWpqQzhCdjl4N2NiQ2hYWlJqWXJaOVJuYmt4OXR5MkgwOGhNekQzRU12TDFQcUV1M0s3R0h6SzlxVmk5ME5RN0tpc2I2QVdtSGNlclQxVGl2SUJvZFEtZUZJTEZVdw?oc=5",
+      "fecha": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Al menos tres personas resultan heridas durante concierto de Ramón Orlando en el Estadio Olímpico - acento.com.do",
+      "fuente": "acento.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQdIB4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQQ?oc=5",
+      "fecha": "Thu, 24 Sep 2026 02:10:28 GMT"
+    },
+    {
+      "titulo": "La expectativa crece en torno al concierto de Chayanne en República Dominicana y, como antesala, el artista puertorriqueño comparte el playlist que lo acompaña en los momentos previos a subir al escenario. Se trata de una selección de canciones que refl - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HNGRJVzRSVDdCOGNWeGs3d3d0eTBXX09aUUhUdUoyR3pmclZDQ2tJb2VhSjBIZ3E5bDhtOGRJRHUwMmxWTzRnMDlaOTZnQXJzQVE?oc=5",
+      "fecha": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
       "titulo": "Shakira se presenta en España con 12 conciertos mientras un tribunal revisa su querella fiscal de US$63 millones - Bloomberg Línea",
       "fuente": "Bloomberg Línea",
       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZEhfOGtUa2pGaWFCYURxbWI3ZFNXY05QVW1OWnZYUjE3RkdWZkIyeXJmWkZJbWF0QWFTOUhxdmtWT2hfS1NKUWhqYmlucHA2MmRBQjdYZEFtVzVEaWZQcnFVQWtIei16NFg4cnMzcEhqUHF2MFBzSVdGOFR2dkNyZ0dydnNIb0tuTWtBeVVjR3IxcE5DVEs0UzRIR19OR29KS2hXZjZPOVRZNGtyTTlURFB6dTRkdmtZNVVGSzZHaGptNTYyX01MRWdRYnRBcGlFUmNJWGNUeFR6dG0zaHQ5MXp6aGZzMmdTcjVQb1l5TdIBgwJBVV95cUxNb1hFRUxlb2Nqb0FQek81WkZOMmZFem9KeHZHOWdYVThNNDdMVWRocFZ4c2RjVTRDYVlrUndqSjFvN3JmRGZOUS1hNFZ1LUZzYk5tcHRtZEM3QTNPTncySmdfdG9zSHplNGpfOWhGNm1VQ1hQSFdRaGgxSEFORWdKX2VCMDZVMHBMUVBadmN2dlBhSUNuNlp2Q3hHNy1wcHl6WTg4ZU9CbEhGM3ROOEFpbEU1d0tiQVhlR3ozYmNwNjJBZTRxZ2JYaHVvNnFTdG5sSHJGa0RXX1pOSkstbW5TNjJFZ01Udk5NMVBEWUtOTjlYT2ZNQjk1MUdDTURxTHo2QUhz?oc=5",
       "fecha": "Fri, 18 Sep 2026 21:17:56 GMT"
     },
     {
-      "titulo": "Al menos tres personas resultan heridas durante concierto de Ramón Orlando en el Estadio Olímpico - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQdIB4wFBVV95cUxQOUpwdWZWakFSVEFPQkZvSmRLNWVrQVBDajF0OE5hcTJlQ25DeVhqRnBXVGVieTRYdU0ydEdiR0l0NGdxQ0liNVhneExHVXVmbjVIVDNPVDRkbUdBZmZZRUtBQ05mVXFlUGRPb2ZoaTljOUJfajhsSUJxTHN6eUY1RDQtQ0VQaFlsZzA3MXVVNktNR2dmT0hSc2FRV3dieGJwWlprWHBqdDBMR1NRR2RIRkl0UXQyMHVIcF9DRkU0VkNrTU1TRVZoME9yZ2xONTVDbHY2VE0ycURCNmZKQkQtQmJKQQ?oc=5",
-      "fecha": "Thu, 24 Sep 2026 02:10:28 GMT"
+      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
+      "fuente": "Rolling Stone en Español",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
+      "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
       "titulo": "Ricardo Montaner se presenta en Altos de Chavón con entradas agotadas - Diario Libre",
@@ -47,34 +71,10 @@
       "fecha": "Thu, 24 Sep 2026 22:01:00 GMT"
     },
     {
-      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
-      "fuente": "Billboard",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
-      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Joheirry Mola regresa al país y será recibida con el concierto “La Corona Vuelve a Casa” - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWhHNXF5cEN0NUpISE1ORS1aTWRaTVhwMXJHdzM5RVI1LTFfWWVSZFhHMGpvbGJLMmUwbDN3WGN5MFFaUWNldER0TGY3R3p4MWRQTG1VTFQwdzFIMlJldUo5SVdhR09ILTAxZ2Q5UmNQT2c3NkF5RUY3bm44aDVSaElTbkcxb2pxOW1SczUtbmxadjdBUndHYnlDckZhS2F2bWJrUFQ4Nkh5NjRya1ZBblg2Zjhnb2xmSTJV0gHAAUFVX3lxTE5yYUluT3hXcDR0MWRnanhWMUg3WnR0RlNBX3RaQmVXWExWeVczaEFZVUtJSThPa2F3UExLZnZOaDFuRlV5RDg0V1NjS1F4ZU1qRXZoYkN6ZktlM212VllOUWx0TWlfODhCSjluWkMwZktSMUhSd0Q5dzMzZFhlV1R0MXY0TnJMRnNMRFczVDJhWk1RcmhVOVo0S1JoaVV5WFdpUFFqWXlhOVFfMFN4SjJrMzN2RWsySGRyakRScFp4Zw?oc=5",
-      "fecha": "Wed, 23 Sep 2026 01:44:25 GMT"
-    },
-    {
-      "titulo": "Alejandro Fernández tendrá concierto gratis en el Festival Internacional de la Ciudad de Chihuahua: detalles, fechas y horarios - infobae.com",
-      "fuente": "infobae.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVnVtRjlxdXk4SGJCeXZCWVdfd0UwcjRzRC1jOE5fdGIwb3cwT2tQMEhrMzUtOVVKN1lfYkQ4MzRrM3JJN1JQMERMb21DU1o1M3FGbG9fTkNrc0FlRmNlT19nOUJKU2dFQV9PMGZtVGEtbU90M2w3MlNzQW43eVVTekNhMWNkaVpxWlZ2Ui1rT1JaRFNLRlV5cHJaLV92SUM5MXFocVpieGxBMXRTV3hOVHJrbXh2cHdkcHVKUjZPdjBpckVodWZER1JsTFUwOVdXaVhlSmtiRFRfYko2NnhrMDFqT1hVZjhWMzNRTUc4bk1xZHJXU0JOQVpCdVHSAZcCQVVfeXFMUEJDdFNMdUNlM0RiWVpad0owQjNiNUZvY0NDcTZoRVlBVmI0ZXBQczN3dnJyRXRVcHYxd051OHMtOTdENEY0S1BUaUxGTS1QVmJHRWY4M0k0WHdQWDBodkw4b181ZjJHc3JFdE1RNFJlRDYwWkl1eU9rUGFFWDlHZEhQMHpGczM4QUFzdUNsZHJMYW5fZUlYV1pfdU9fczlhT0ZBSkw3ajlYZUNuaGxCWi05Q0lSTVphdGlfN05qdzRGNGtKcHNlNXFKeGd3clhxbU5QZmhwRXNOdTdEZFJicEJIYUlSYmlQUEtFRTNfMWIxTjJXUjdRZ2g2SUFNOXhZTFQ2R2ozcFVTd0hjRWtIMFRXUS1YOXJz?oc=5",
-      "fecha": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Ya se agotaron las boletas para histórico concierto de Ramón Orlando - remolacha.net",
-      "fuente": "remolacha.net",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEpJUWswb3JzcWhDNy1UdDcxVFdxX282d3lBSkQ3LWRJUE5HcVZqblB6WVZRalgzLTdKVTBiVDJTZEFzTkhLNF9YRXlfbE55ZW91WlE2V2RoVHNaYlN5VnlZbmswUFFPVlpmRjFyQ0RqdFY2Uy04RFJLZy1XaF93QnJmQUs4UndRbTZfR2pTTE0ybmVUMDdMSHpjZXdtM2RM0gGmAUFVX3lxTE9QWlUtaVIxTFhDLW9iLXZYQ1pFNWVOR3U5bWl1SUNqX3pBcnpNSTZ0bERQTXdWLVVUQUpGa0dNVVhOMFVyTDdpWDBfcXQ3VVJqS1gyNWN0Nk9PSVh4cnhLTE1meUlSVkdwdXpJQlN1RHFyUUdvRi1aSDl5bWlReWxwSzF2TEpUTGVKNTAzdDNKdTRjWXVqSEZmN0plSjl0QU1OdDFvZkE?oc=5",
-      "fecha": "Mon, 21 Sep 2026 23:53:37 GMT"
-    },
-    {
-      "titulo": "Cabarete Jazz Festival: un tesoro en el Caribe - Rolling Stone en Español",
-      "fuente": "Rolling Stone en Español",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TzlEZFBjYnp5eW9WMkdTUWpaMHVVR2RaeUpkQW03b1FUMFpLMEpZOHZPMmZzb0swQ1hHWFJqUHNNRTc4NzJ1bEFhTU5jdDFFNlFwZVFEbmNCVE01YzJpdGJTVXJpZWR3elloZ0VXNEFidm9Tc29DZk1XeUxlVFE?oc=5",
-      "fecha": "Tue, 09 Jun 2026 07:00:00 GMT"
+      "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
+      "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
     }
   ]
 }
