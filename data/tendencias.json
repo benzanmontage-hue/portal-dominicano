@@ -1,30 +1,44 @@
 {
-  "updated": "2026-09-25T20:00:25.566274-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-25T23:00:27.000006-04:00",
+  "hora": "23:00",
   "fecha": "25/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "giants - dodgers",
+      "trafico": "200+",
+      "noticia": "Dodgers vs Giants Series Preview: Pitching Matchups, Key Injuries, How to Watch",
+      "enlace": "https://www.si.com/mlb/dodgers/onsi/dodgers-vs-giants-series-preview-pitching-matchups-key-injuries-how-to-watch",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs1uo1_G-NrBdMSTlu33TtUn8sagoe3ApZ1-iKx5-IH5wzAnNFL9wCqlOQr0A"
+    },
+    {
+      "termino": "padres - dbacks",
+      "trafico": "200+",
+      "noticia": "D-backs, Padres matchup set to shape NL Wild Card landscape",
+      "enlace": "https://www.mlb.com/dbacks/news/d-backs-padres-meet-with-major-postseason-implications",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-WTVxtE1WwwwejSMQhSprcV5dA-GhXYimx3soexlcy5-MI6mev7YFXPdXyXg"
+    },
+    {
       "termino": "nationals - mets",
-      "trafico": "500+",
-      "noticia": "Mets Notebook: Experimental weekend vs. Nationals in season finale",
-      "enlace": "https://www.nydailynews.com/2026/09/25/mets-nationals-mlb-jefry-yan-andy-green-regular-season/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbyPKGN3mM6iQ82nTrFTQzLLP_J0PH6dyE_-qPRfDgOEPwsRUmGHoqqrAjuwE"
+      "trafico": "1000+",
+      "noticia": "Carson Benge becomes first Mets rookie to go 20/20 in a season",
+      "enlace": "https://sports.yahoo.com/articles/carson-benge-becomes-first-mets-011404457.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH9znnli01xeV8gLW1nn6ZDqPYEXH8gfve-t9cMUyMDIYiGUt7TOMAgtTgblw"
     },
     {
       "termino": "phillies - rays",
       "trafico": "200+",
-      "noticia": "Freddy Peralta against the Phillies",
-      "enlace": "https://www.mlb.com/rays/video/freddy-peralta-against-the-phillies-x2446",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKDeIZhzyJQywILzur4QeDePWCNgkbliPo3JKQ53C_CkDc9_jJCLC-pHvJOE"
+      "noticia": "Things are getting BAD. BAD… BAD. Rays 2, Phillies 0",
+      "enlace": "https://www.thegoodphight.com/philadelphia-phillies-game-information/87938/things-are-getting-bad-bad-bad-rays-2-phillies-0",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqq1YOWQdz5rpZtOq7aHijXifvKrM9n17hYwIisRLtiLToSRW6YGtwAT0Bbk"
     },
     {
       "termino": "yankees - orioles",
       "trafico": "1000+",
-      "noticia": "Orioles and Yankees Game 1 lineups and notes for today’s doubleheader in the Bronx",
-      "enlace": "https://www.masnsports.com/blog/entry/orioles-and-yankees-game-1-lineups-and-notes-for-todays-doubleheader-in-the-bronx/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2ydR2PzEyozrBVBa1Hun45_gTrNLu3IVZQdKcd4gDxr0FI0bkfT3ij7-jXg"
+      "noticia": "Warren dominates out of  pen in possible preview of playoff role",
+      "enlace": "https://www.mlb.com/news/will-warren-helps-yankees-beat-orioles-in-doubleheader-nightcap",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6otDHtUP9O7hFC5Q9xkUHse0S_Px95c2iARaM_zVQmfWCHY19s_rUB5ENq24"
     },
     {
       "termino": "turquía - francia",
@@ -34,11 +48,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO9_w0J4CtHdBlxo9-bxSm0ob_j19yNUCMzYa9tN5efmcjxuQwgeS3letwt0E"
     },
     {
+      "termino": "lotería real de hoy",
+      "trafico": "100+",
+      "noticia": "Loterías de este jueves 24 de septiembre: conoce los números ganadores",
+      "enlace": "https://hoy.com.do/vivir/loterias-de-este-jueves-24-de-septiembre-conoce-los-numeros-ganadores_1103538.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUGZC8LsJKp8vOvcvc6HlBofWsdS4QZG2LUTlPjgEJr1zGyGmtyi_YDvVWIY"
+    },
+    {
       "termino": "red sox - cubs",
       "trafico": "2000+",
-      "noticia": "Chicago Cubs vs. Boston Red Sox Live Coverage, Stats, and Updates - September 25, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/mlb/gametracker/live/MLB_20260925_CHC@BOS_2/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcFL0--MoiRWRCyGPFp40pVrsCrEHS26JgeNyR4IhgExzQEkLHmyHc1sGcaBU"
+      "noticia": "Different level of buzz  as Red Sox secure date with Yanks in Wild Card round",
+      "enlace": "https://www.mlb.com/news/red-sox-seal-playoff-seeding-wild-card-series-vs-yankees",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCqKbcHRO1bU4b4XZz9JLsCq_BqvEV4DAU9CY9KAPRN4luEvtQ3TgwgaX5So"
     },
     {
       "termino": "australia vs brazil",
@@ -53,27 +74,6 @@
       "noticia": "Amical : Endrick et Vinicius titulaires avec le Brésil",
       "enlace": "https://www.footmercato.net/a8238504287197226921-amical-endrick-et-vinicius-titulaires-avec-le-bresil",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6x5O8Gpy3uP0n_TCf12Abff-JojEpe9dV1csGTdZtX5AIOxEoKEjguTJpJs"
-    },
-    {
-      "termino": "australia - brasil",
-      "trafico": "2000+",
-      "noticia": "Brasil x Austrália: onde assistir ao vivo, horário e escalações do amistoso da Seleção",
-      "enlace": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/09/24/brasil-x-australia-onde-assistir-ao-vivo-horario-e-escalacoes-do-amistoso-da-selecao.ghtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqjWY8tIHT3L_EAB9ZMzH-onnH8OzeTpNucPBAt4bkY4WvpGTTyfLyFx5wqWY"
-    },
-    {
-      "termino": "dodgers - padres",
-      "trafico": "500+",
-      "noticia": "Padres clinch 3rd straight postseason berth as they seek 1st World Series title",
-      "enlace": "https://www.mlb.com/news/padres-clinch-2026-postseason-berth",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbNv-NmCJSyw8ZSBgVcizDeR3nq2Zvv_BVBk9HfnO1tqDDkRPpJdspVuump6Q"
-    },
-    {
-      "termino": "liga de naciones concacaf",
-      "trafico": "200+",
-      "noticia": "Jamaica - Guatemala en vivo: resultado de Luis Fernando Tena hoy y goles de Concacaf Nations League 2026, en directo",
-      "enlace": "https://as.com/us/futbol/jamaica-guatemala-en-vivo-resultado-de-luis-fernando-tena-hoy-y-goles-de-concacaf-nations-league-2026-en-directo-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSid4U49lnJjalt8HdYIr3eJfGk1iOM_wNKp3ki7bSpsDOrVgITFsXvVTUasWs"
     }
   ]
 }
