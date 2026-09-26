@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-26T11:00:33.119580-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-26T14:00:34.385443-04:00",
+  "hora": "14:00",
   "fecha": "26/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nationals - mets",
+      "trafico": "200+",
+      "noticia": "MLB Gameday: Rays 2, Phillies 0 Resultado Final (25/09/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/823409/final/wrap",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSytzUpXdHwfYS_F48XoHNGxrDzEwxhX_zrCyU0tkp3UuFhbi7WkA_e5c3qC_k"
+    },
+    {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "F1 LIVE: Azerbaijan Grand Prix 2026 UK start time, grid, radio   race updates from Baku",
-      "enlace": "https://www.bbc.com/sport/formula1/live/c98klj2wn46t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScLODyNMdDmIL7mec2IGw0lUqOqliZQkvjvEQE3mjliLNlqKL3XzfOVLhD97k"
+      "noticia": "Video: Colapinto locks up at Baku restart and hits Gasly, collecting Norris",
+      "enlace": "https://grandepremio.com/en/f1/video-colapinto-locks-up-at-baku-restart-and-hits-gasly-collecting-norris/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvifEeIJmpt2zbouZCkbeV-7aTh4khE6pYNPOI9w3OYT_CjBCVtWeqfT_EcLc"
     },
     {
       "termino": "activity",
@@ -22,16 +29,16 @@
     {
       "termino": "tormenta",
       "trafico": "500+",
-      "noticia": "Tormenta Nor’easter empieza a golpear la costa este con potentes lluvias y vientos",
-      "enlace": "https://www.telemundo47.com/noticias/eeuu/eeuu-tormenta-noreaster-impacto-costa-este-ny-nj-nueva-inglaterra/2656778/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIWXbUPlAnxCttK73NSQYpl8P97cuzblyzWSguEO_lSgA8ejpNy_KA0fQEqrI"
+      "noticia": "La tormenta invernal ‘nor’easter’ azota la costa este de Estados Unidos con fuertes vientos, lluvias torrenciales e inundaciones",
+      "enlace": "https://elpais.com/us/2026-09-26/la-tormenta-invernal-noreaster-azota-la-costa-este-de-estados-unidos-con-fuertes-vientos-lluvias-torrenciales-e-inundaciones.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ1vcH5mB6CPNXV0Fb6j3j8xRi-Ko45U5HDnVCVtb9GpREHD5o1YzMv5yr2iU"
     },
     {
       "termino": "giants - dodgers",
       "trafico": "200+",
-      "noticia": "How to watch Dodgers vs. Giants: TV channel and streaming options for September 26",
-      "enlace": "https://www.nytimes.com/athletic/7632394/2026/09/26/dodgers-vs-giants-stream-how-to-watch-sept-26/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5XmrVf7kb_skFaXUNBmUmrZp83dZFXjX6p3cVwPO6zPhK-HRswFv6C5Im9nQ"
+      "noticia": "Dave Roberts on Tarik Skubal:  He was on a mission",
+      "enlace": "https://www.mlb.com/dodgers/video/dave-roberts-on-tarik-skubal-he-was-on-a-mission",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYueT_1KubMVraPLAmwlg2p_cE96WdE8YLlwzFRHJkxlrU20qEh6PdvCAlqec"
     },
     {
       "termino": "padres - dbacks",
@@ -52,14 +59,14 @@
       "trafico": "200+",
       "noticia": "Have to find a way : Urgency setting in after Phils  12th shutout loss of year",
       "enlace": "https://www.mlb.com/news/phillies-shut-out-for-12th-time-still-trying-to-clinch-postseason-spot",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HIwGWVSJVjz6p4PiutT470k3C__CsYQ6Ri4jMcozOGQ7sz8dC33gLFReqvg"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-D9pcmvqAmM44DHf5XkhIPvaB-K4RYB_CLxrh7hY0qognYgY3PfeWzCqazY"
     },
     {
       "termino": "yankees - orioles",
       "trafico": "1000+",
-      "noticia": "Condensed Game: BAL@NYY - 9/25/26",
-      "enlace": "https://www.mlb.com/yankees/video/condensed-game-bal-nyy-9-25-26-x8378",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlvAQ8pdHSdIJSyMh6dyfOp7V0_4sHpBOU2MFTYsxFN8pRKLFb-CQfxH5o5-Q"
+      "noticia": "Condensed Game: BAL@NYM - 9/16/26",
+      "enlace": "https://www.mlb.com/orioles/video/condensed-game-bal-nym-9-16-26",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1fA0NIfsAVLP8GkeTa0OhHvCDqAmbKRkJB7hNmQKrfjtNQxceOnbnp2hYFA"
     },
     {
       "termino": "loteria nacional",
@@ -67,13 +74,6 @@
       "noticia": "Resultados Lotería Nacional Hoy 23 de septiembre de 2026",
       "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-nacional-23-septiembre-2026/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5J9yYG_JO5_L0AX5lOpmxF5Gq_7KZMv1Q7mG9ftALq74aVqb2b7Dpm9oNkNQ"
-    },
-    {
-      "termino": "turquía - francia",
-      "trafico": "2000+",
-      "noticia": "Un tormento para Mbappé",
-      "enlace": "https://as.com/futbol/primera/un-tormento-para-mbappe-f202609-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdALBbHVa_G8uwsG9i65ajSxSF-HGkE1WqmQ2q1PUJiR2o9cbegtNgBwM5VuI"
     }
   ]
 }
