@@ -1,17 +1,9 @@
 {
-  "updated": "2026-09-26T05:00:36.302030-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-26T08:00:41.768397-04:00",
+  "hora": "08:00",
   "fecha": "26/09/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Guatemala busca ampliar sus exportaciones hacia República Dominicana - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0I1THNsb1U1YkZPOC1LcUQyS0tnT1M3UnlfSkJwMzNPMnRCMFdDX2VMTlFqcG9XR1VrWnZTZG84OUFLSkg2U3RuemZ6SU9US3pmeTZMOEt2UGFJYXhLV1lZeDdYTVdSbFktd0UxM0hUdDhpQmpDVkR4d05OZ2Y1R3JRVmxsRThHb0ZWeVpvdjY5clJpS1Rla0x6ZGdRMThm0gGmAUFVX3lxTE5YTHMwSzNndXVfRlRqNEh2VUY3UXUtTFlmelRITzhWNTNWUlRnLU5zZ0pWc2hzRkxXU2pHdVBEeEx4WDVySTV6bHR1MnpHVG1peHFsZERkQXlncXF0QnNrYlRDdmt3R3VwZktVVGlOTmpzal91QS1MNmwtMDEzamllZUhwYkY0QUZUUzJtRlhsdjM3eDA2d2xERGVpbVRxQk5CMzQ5SFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 22 Sep 2026 20:47:24 GMT",
-      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2e945c9541.r_d.1009-535-7500.jpeg"
-    },
     {
       "titulo": "\"Todos los días se amanece con una crisis\": presidente de República Dominicana habla con N+ Univision 41 - Univision",
       "fuente": "Univision",
@@ -21,28 +13,44 @@
       "imagen": "https://www.univision.com/api/image/og/us/local/nueva-york-wxtv/todos-los-dias-se-amanece-con-una-crisis-presidente-de-republica-dominicana-habla-con-n-univision-41-video"
     },
     {
-      "titulo": "República Dominicana vs Nicaragua | Resumen - Concacaf | Official Website",
-      "fuente": "Concacaf | Official Website",
+      "titulo": "República Dominicana vs. Nicaragua (24 de Sep., 2026) Resultados en Vivo - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiNlhPQnBtX1RtcHlFMTBBR05OeDZYUmE0NXI4LXpCaWdBbzVTOW5KWFhWVUI0dVRqbUVuUzFzX0VBMnJEbjQwWTV0ZzM5NTZUa19USnFab2hNeGtISXl0QUpPQTByMVhUZXdqQU5QYlhFUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 00:02:51 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana vs Nicaragua | Resumen - es.concacaf.com",
+      "fuente": "es.concacaf.com",
       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHlZc1B0bWNHX016M1Uydmo2ZzMyUXJSd293SHdONE9Vb0xFbklnRmtfQlVMTDJwZXJQenVOTFBwU3BqSURSV1dPSUU3Wkg5LWFuZk5ZcVBxS0dxRTFiY200NkRnTFhYZ2otWHl5eDdaODItencxUzZiQjV1bFZoY3BkeFZXd0RjYk9fdXpBaGVrUkVETDV1bW5UZW80enMxWWpn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 03:16:00 GMT",
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/qxo9xga6frmomqubtd3j"
     },
     {
-      "titulo": "Dominicana sufre en victoria frente a Nicaragua en CONCACAF Nations League - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU5ZVV9DTGRLanU0TVpSUmNFSDJwa19wZnl4SW1iMkJHTlRWV3NRNm9NYWdiUW8zR2VSMnhGbGt2aEtZbWUwaVlJOEVjU0ZfNkFrVlE1bkgteXBXU1p1ek5SZ0dkNFlyNTk5MWktYmNwSm5ySFNlODN4aEZmRjZZS1lxZ0xyQndwYU1Zelh2dzkyTC0teWVEOGp4enlGb2ZHTlNTZUU2clR6MlBCSHFv?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana, Haití y Curazao debutaron con triunfos en la Liga A - Concacaf | Official Website",
-      "fuente": "Concacaf | Official Website",
+      "titulo": "República Dominicana, Haití y Curazao debutaron con triunfos en la Liga A - es.concacaf.com",
+      "fuente": "es.concacaf.com",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1RXNG1PclVNb21SWmRWNFc5c08wRUNEZGpQbTdyc1BOTFBsNy1zWEp5SzVySXhFSk15WC1JTnZ3aVBRRGVPWk9WQm1CZjNjUnNaUFhydHc4bWhwRHJwTzlVLW83VEljTXJUak9Sd3ZwQ1dvY0Z1QkJFTlByZnlkUUJQajRHcVpVX3kzQjRKUnRERmJNYXgwMmtVVnNWMmY4aDJZVXYxeWpkRTh6cVBHMlVfd2g5SUhJdHhrWV9mcFpydUtSUmtLVw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 05:30:07 GMT",
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/ihk2ugg7d6q4xux4yqyi"
+    },
+    {
+      "titulo": "Génesis Suero es seleccionada para participar en panel con el presidente de República Dominicana - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMW5kM0F0V3ZBYTZaZXpKbl9TcEpnb1hsYmxPM0lqX0VSdlNhbmJlQkljZ29McW9sUXRLTFgwSExNUnRuRXlWTVJaUHZtdldIVzdvT0RzNGpieFRLTmpNa0hVWXhXdnZUOU41SDlFWXpTNWZTSTVRT0lEMGhDQkd4ZTFjMWJkZnMtUHZOOE9obllscTN5cm5nb1MzRXJ6em9MN29XQlZfem5nZnhGTVA2OW1rbmRqN1FXdHVQLVhPVEluZjEzaV9oeEJ4dHJud2FUdlZxR1dUdk9sLXQ3RVBhSzVLVVZWYTVsQlBwek53SVNFU0RtYWhyS1JrNk9mTWk0S29GQkwwdUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 05:20:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/650/499/48606144789-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Gobierno dominicano anuncia 300 becas para jóvenes dominicanos residentes en Nueva York - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlQ3N1duMGZBakVCTmFFbWF3ODJIaDdpbjJ4SGkwc2hBQWV1VFVmYXRzRTZneGs3RGsxUWhaYUZ6bkYtZThHeXU1b0hydEN3ZW1BbGVwdkR0SjhWdzN0di1ndWVYMWRINy1CNVZpUldmcjc2TmZtdlNMZEZOYVhlcEl0TjBBNEJpTV9GRE10ekFxbzZlOTdtMVpsRHZNa1ZFbnFWbXRrYnFfeU1USTBaUXRnOGTSAbwBQVVfeXFMUHhOYnRORDFxbE1YRjlidU5vdThNei1ubDF5bGVwYlV6WHI3X1A5b0xIdFQ1alVlMko0SlFkSnVPOEU0S2lsNmliNXZEblYtRFo5ZUE0YzlzTUNDamx4WnNldlpMdHFOWjRMcXNHNlY2dFE0MnN0NDBFSEZMQ0JMR1JRcFFTZ3BrU2J5WXkzTUYyS2pMSGZlU0xtSEpVNVo4el9HX1RoeW9WLVlzelY4cVBjQjI3LTZNa3hiOWU?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 13:41:03 GMT",
+      "imagen": "https://media.telemundo47.com/2026/09/GettyImages-1161001258.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
       "titulo": "República Dominicana alerta sobre empleos de guerra en Rusia - DW.com",
@@ -69,28 +77,28 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/25/6ab667bad4142.jpeg"
     },
     {
-      "titulo": "Génesis Suero es seleccionada para participar en panel con el presidente de República Dominicana - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMW5kM0F0V3ZBYTZaZXpKbl9TcEpnb1hsYmxPM0lqX0VSdlNhbmJlQkljZ29McW9sUXRLTFgwSExNUnRuRXlWTVJaUHZtdldIVzdvT0RzNGpieFRLTmpNa0hVWXhXdnZUOU41SDlFWXpTNWZTSTVRT0lEMGhDQkd4ZTFjMWJkZnMtUHZOOE9obllscTN5cm5nb1MzRXJ6em9MN29XQlZfem5nZnhGTVA2OW1rbmRqN1FXdHVQLVhPVEluZjEzaV9oeEJ4dHJud2FUdlZxR1dUdk9sLXQ3RVBhSzVLVVZWYTVsQlBwek53SVNFU0RtYWhyS1JrNk9mTWk0S29GQkwwdUQ?oc=5",
+      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este sábado 26 de septiembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUmIzMjJIOTViSlZvdmMzZHE5TU9odTUwbGIwZHhjNGJSUE9JR2x6dnd1TGVnTzZ1TkVuRUp1M2ZlQnIwbU9IOVZBZVlUblVFQmRXTHRaMnBzUHJVQmRXRXQ2NEtFcllZSDBRTGpoRVBhTGc1YldWMy1FalE3LTcyaEdZVV9jY2NOampZcE9admJOcTFMX2RjMGNDbG1IdWVZeU94SzJ4bFZPYXBQV2Y5TVNDSndMLXM2ZHQzU3lLZTFDakZOeEQ4Uks4Q2s3cmhzU0tCTHFxRkhHSkY1WVMtUVh6QWg1aDZf0gHuAUFVX3lxTFBXZkZsUzdPSk13NXdfbTd2N0Y5QlZ5a1hBOVlsdGhCV0hOaTg0RlNnWVN2al9NNzVOWFJFSnlvS1NLQnR5dVV5dFN4bE1VTmhtMk9LOC0yLUJFNGdZZWNtT2NkYmh1WmlxRkR6b0dRZGxOdzF2c1JDdEU1Y3doTVVPZ0Y0a2xUdFJvbVpqZUZUZ2llQ1hUSXZSZ1ZyTDBnbXAyU3UydHFsRkh1SDZGSHRoUFB5Yl91VzNrTWFnZ1paaG92RXR2WGViU1JpRTlxaVRsSEd1NnFWZVZ5NzRxeFJXbG9Yd3p5ZWZZbjd6MGc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 05:20:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/650/499/48606144789-1080pnbcstations.jpg"
+      "fecha": "Sat, 26 Sep 2026 10:40:07 GMT",
+      "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1256x620__1.jpg"
     },
     {
-      "titulo": "Gobierno dominicano anuncia 300 becas para jóvenes dominicanos residentes en Nueva York - Telemundo New York",
-      "fuente": "Telemundo New York",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlQ3N1duMGZBakVCTmFFbWF3ODJIaDdpbjJ4SGkwc2hBQWV1VFVmYXRzRTZneGs3RGsxUWhaYUZ6bkYtZThHeXU1b0hydEN3ZW1BbGVwdkR0SjhWdzN0di1ndWVYMWRINy1CNVZpUldmcjc2TmZtdlNMZEZOYVhlcEl0TjBBNEJpTV9GRE10ekFxbzZlOTdtMVpsRHZNa1ZFbnFWbXRrYnFfeU1USTBaUXRnOGTSAbwBQVVfeXFMUHhOYnRORDFxbE1YRjlidU5vdThNei1ubDF5bGVwYlV6WHI3X1A5b0xIdFQ1alVlMko0SlFkSnVPOEU0S2lsNmliNXZEblYtRFo5ZUE0YzlzTUNDamx4WnNldlpMdHFOWjRMcXNHNlY2dFE0MnN0NDBFSEZMQ0JMR1JRcFFTZ3BrU2J5WXkzTUYyS2pMSGZlU0xtSEpVNVo4el9HX1RoeW9WLVlzelY4cVBjQjI3LTZNa3hiOWU?oc=5",
+      "titulo": "Nutrióloga alerta sobre aumento del sobrepeso y obesidad en República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEF6VHV3ZWp2U1NtZmRWencwQUZSa2Q0TlB1eE9za0ZzS3V1V2plZ1dhSHpJRnJuTUpvV2FKRDV5aWxfQ2pWMnlBTUxYUFhiLVRleExucWVaQlluZG94YWpqSE5pUFJqOEJZb3pERnVaTWo0S1BCQlNEODgxWEQtMkUtbzEyOHowcGtCRTQyYWt5QWtuWGQyQ3NocTdEUXBDS1BCaEVFbVRTb1FNNmow?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 13:41:03 GMT",
-      "imagen": "https://media.telemundo47.com/2026/09/GettyImages-1161001258.jpg?quality=85&strip=all&resize=1200%2C675"
+      "fecha": "Sat, 26 Sep 2026 00:17:45 GMT",
+      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/09/7918d564-3b6b-4550-b4fc-0079c0ec2243-1200x1200.jpg"
     },
     {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 26 y domingo 27 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZTRpTktFSi1NRFE5QkI3QUdTeEplNFE3cVlRRjJFR3hjbVpuZGNKMFNfRzQ5OGw3bm1DbmdVY1JrZE5VaWc1NmN1bVlKVThVTnFDbDFfb3pVYThGZkJFTzlpRTRidk5ZMUYxT2NnNjNheGVJczN6Q29pSGZZUVRVOEZiaUVRVjM2M1EwSHNTb3ZPeTZFaUdxUm1hUFpvc0ZOUkFDVnhxMTdJcE9OZXhZNVU5S2RmbG1qOGVYbmtDTmlldWlBOFpNdzlxNjQ2VTlNRDhpZ2pCSFc1a2p2ZHR3S1NTWlpoSzhOYTFEMjEwaFlpdHVZQWhRaVNOUUhRMXF6ZUVGamZR0gGGAkFVX3lxTE9lNGlOS0VKLU1EUTlCQjdBR1N4SmU0UTdxWVFGMkVHeGNtWm5kY0owU19HNDk4bDdubUNuZ1VjUmtkTlVpZzU2Y3VtWUpVOFVOcUNsMV9velVhOEZmQkVPOWlFNGJ2TlkxRjFPY2c2M2F4ZUlzM3pDb2lIZllRVFU4RmJpRVFWMzYzUTBIc1Nvdk95NkVpR3FSbWFQWm9zRk5SQUNWeHExN0lwT05leFk1VTlLZGZsbWo4ZVhua0NOaWV1aUE4Wk13OXE2NDZVOU1EOGlnakJIVzVranZkdHdLU1NaWmhLOE5hMUQyMTBoWWl0dVlBaFFpU05RSFExcXplRUZqZlE?oc=5",
+      "titulo": "Temor a otro colapso provoca un déjà vu en República Dominicana - Metro Puerto Rico",
+      "fuente": "Metro Puerto Rico",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VpWXpGWWQwc2EtMUNsdmlkU2l6dm9IS2ItNXV3eUFXTFVkNzJCX1V5TmlJNWVXaU5jeU1yeHZnd1NaSDc5bV9ZZWJQSENpSzlTNFBDcDdYdWFicUFEVTFsZ0Q1WjBWaTZ1RFNrTnVwQThGcGRaQ3BWbnY0d3ByMTZtcGE5RFhwQ0JHYjVxMVF5LUU4Y1kzdjgtb2ZYSW0zbTdLTV9aSzI?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 19:00:17 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
+      "fecha": "Fri, 25 Sep 2026 16:59:26 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Abinader se reúne con el presidente de Brooklyn, el dominicano Antonio Reynoso - Diario Libre",
@@ -101,27 +109,19 @@
       "imagen": "https://resources.diariolibre.com/images/2026/09/25/visita-de-abinader-a-brooklyn-para-encuentro-con-la-diaspora-11ab4dcd-focus-0.18-0.37-1200-675.jpg"
     },
     {
-      "titulo": "Youtuber Luisito Comunica pone a RD en su top 5 de comida callejera - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHRzTXk1VGpNcXJ5bGx0R093MUtCNGR3ZlczWkNZYUNyMnlHbjV6UGNPbU9qaHd6c25nVkEwM2lud3k1TDNVOHF5ZFBRNVRJN2hwS2t6NlBMUVUzMWtTMzRKTGVLTFJ4VU9EQVREMFpYWDhiSXRUWGRDWVc3YmNYbHZfdm5WUlFvYVltQ2hqTVRRQ0FFbTB0SUJEYmdvSnhVZGZQTUgzT1ZaSjJjeGRJdEgxS0ViTl9SUUhYZ1RtSHFIQ0FLVFVSRWRNTURoQdIB0wFBVV95cUxNcUlGTDNUYkJSNW9RNmlOcDY4WnNyOTFJa1liMkJYaWxTT1dtWlRUdHhGaWRoU0x1bFRpNmRMT0xGVEhOaE9OLUpXSERrOXJDU2g2eENnV2Q2S01INWZDbE9yVUNLaFJraC04TmhORW96MkVHZWQyaF9FcUc4SEM0SzViVGwwbkFRd2tpUkt4b2RfQ3RXbGY2V1JrMkFmZi1ldFAtZmdsRlNVVVQzY3hPQVg5dlB2Y2xOdzluNkdNREFWeEM4VUNSUW1wUG1hLVJmYXZB?oc=5",
+      "titulo": "República Dominicana sufre otro revés en el NORCECA Final Six Femenino 2026 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEpyakNuQlVkeWcyWnJrNzNzbWRyZWtDT1NUd0JXcHdhMXVrY3dyb1ExMDhWRFJ5VXhuQS11b2JhSzRKRDMtRDh4UEstaDg0YW1LdkVpS1VsdnRSMUJVcE54R0NZd09uWTRFQk5tckFWX1d1WWN0TndMVUdGUlBvcjBYUzB6aUI0UlVzQW5GMUtZZjlrZmo2cVpmSW5DYy1nNTA2S2F6aXk0clVBQTBleQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 16:11:11 GMT",
-      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2024/09/11/66e21ef102a10.r_d.581-354-0.jpeg"
-    },
-    {
-      "titulo": "Nutrióloga alerta sobre aumento del sobrepeso y obesidad en República Dominicana - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEF6VHV3ZWp2U1NtZmRWencwQUZSa2Q0TlB1eE9za0ZzS3V1V2plZ1dhSHpJRnJuTUpvV2FKRDV5aWxfQ2pWMnlBTUxYUFhiLVRleExucWVaQlluZG94YWpqSE5pUFJqOEJZb3pERnVaTWo0S1BCQlNEODgxWEQtMkUtbzEyOHowcGtCRTQyYWt5QWtuWGQyQ3NocTdEUXBDS1BCaEVFbVRTb1FNNmow?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 00:17:45 GMT",
+      "fecha": "Fri, 25 Sep 2026 12:52:55 GMT",
       "imagen": ""
     },
     {
-      "titulo": "El nuevo pasaporte electrónico de República Dominicana llega a NY y NJ: lo que debes saber - Telemundo New York",
-      "fuente": "Telemundo New York",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnhCQy10VUx6Yll6TC1rUi1kN1p5N1M0MXlWTllGaHBGLVRSYWJyV0d5LU1sWWVTWTNsMGxXRFgyQkRkNXc0Q1F1Y2JzTWtINll5VVVLWFR4cFpLa2MyQ1FGMHoxSGJDZEYzX0Nxdy1FS3U4R3ZQcnZBV1VwdWFCUzIzSmFBek96Mkdzb3NPTUlXU2tFNXZEbzFKRDFpUVhvZUp5QVlLQUI2TzA5Vm9yMC03dTBYUHpQTWxjdHJ5V2l4Z9IBygFBVV95cUxPdTZEVm4tSU9YZTdrakh0SU41N2Q4Yi11aFNaUnl5XzU2WXZDdy0xUTNKNV9wUHZTVjNXZzlRYmRmVDFQODlFOGpzWVFhTXVaVkFNYXNCVkljbDktaXM1MVRYVmc3YWlHTURDd2lpdUlmbVF6MDN1Z3BWV1dDWmxGcnJia0oyYmI5NkRkdFVqUHVXX2g1X3NPa2RoWmVPYzFMT1lhVGkxa0xXWmtZZ3BuTm9oSnZucUw5dl9aeHBvaElQNExvZEtmS213?oc=5",
+      "titulo": "Dominicana sufre en victoria frente a Nicaragua en CONCACAF Nations League - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU5ZVV9DTGRLanU0TVpSUmNFSDJwa19wZnl4SW1iMkJHTlRWV3NRNm9NYWdiUW8zR2VSMnhGbGt2aEtZbWUwaVlJOEVjU0ZfNkFrVlE1bkgteXBXU1p1ek5SZ0dkNFlyNTk5MWktYmNwSm5ySFNlODN4aEZmRjZZS1lxZ0xyQndwYU1Zelh2dzkyTC0teWVEOGp4enlGb2ZHTlNTZUU2clR6MlBCSHFv?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 24 Sep 2026 17:41:29 GMT",
+      "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
       "imagen": ""
     }
   ]

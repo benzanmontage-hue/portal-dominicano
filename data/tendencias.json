@@ -1,16 +1,30 @@
 {
-  "updated": "2026-09-26T05:00:29.762092-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-26T08:00:31.859350-04:00",
+  "hora": "08:00",
   "fecha": "26/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "activity",
+      "trafico": "1000+",
+      "noticia": "OpenAI bots meddled with US government agencies, including SEC and Census",
+      "enlace": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcSK4GrYzW_8HDVNIlv82i7Y6AvH2EJM_7FVvXUReCHIYqPfPw-InRcD-jS1E"
+    },
+    {
+      "termino": "tormenta",
+      "trafico": "200+",
+      "noticia": "Tormenta Nor’easter empieza a golpear la costa este con potentes lluvias y vientos",
+      "enlace": "https://www.telemundo47.com/noticias/eeuu/eeuu-tormenta-noreaster-impacto-costa-este-ny-nj-nueva-inglaterra/2656778/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIWXbUPlAnxCttK73NSQYpl8P97cuzblyzWSguEO_lSgA8ejpNy_KA0fQEqrI"
+    },
+    {
       "termino": "giants - dodgers",
       "trafico": "200+",
-      "noticia": "Tarik Skubal on his dominant start vs. Giants",
-      "enlace": "https://www.mlb.com/dodgers/video/tarik-skubal-on-his-dominant-start-vs-giants",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7nhxuJiFnvHtyCjFkSMTaIxrYS0d4jjnPNhf4wsux5V_GNng-7iv57pvqrXs"
+      "noticia": "Giants to end skid in matchup with the Dodgers",
+      "enlace": "https://www.foxsports.com/articles/mlb/giants-to-end-skid-in-matchup-with-the-dodgers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZbMDYyeJQpeciPrvCnbboR9O0J49FLr4Mwf6F2WyEgGvcuYLtPUOQwqclDs"
     },
     {
       "termino": "padres - dbacks",
@@ -22,9 +36,9 @@
     {
       "termino": "nationals - mets",
       "trafico": "1000+",
-      "noticia": "MLB Gameday: Rays 2, Phillies 0 Resultado Final (25/09/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/rays-vs-phillies/2026/09/25/823409/final/box",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSytzUpXdHwfYS_F48XoHNGxrDzEwxhX_zrCyU0tkp3UuFhbi7WkA_e5c3qC_k"
+      "noticia": "Nationals To Activate Connelly Early From 60-Day IL",
+      "enlace": "https://www.mlbtraderumors.com/2026/09/nationals-to-activate-connelly-early-from-60-day-il.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdcr7uojl2MTfurGw8O0KYEqushIRyz3t8hTntRc4nO5PM3fHlldAdtRPgSfU"
     },
     {
       "termino": "phillies - rays",
@@ -50,9 +64,9 @@
     {
       "termino": "turquía - francia",
       "trafico": "2000+",
-      "noticia": "La reacción de Arda Güler a la lesión de Mbappé con Francia",
-      "enlace": "https://as.com/futbol/videos/la-reaccion-de-arda-guler-a-la-lesion-de-mbappe-con-francia-f202609-v/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtl4vnfgXDYck3ZfdR_tDUSW8FeHQJ1NHWjtuMddoL0x6Elro1cRyiKQFRGEM"
+      "noticia": "Mbappé sufre una lesión tendinosa en la rodilla izquierda",
+      "enlace": "https://espndeportes.espn.com/futbol/nota/_/id/17303052/mbappe-sufre-lesion-tendinosa-rodilla",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlPpBBNZMQOPia7t3vstITm-zReBnYpaUli5Qlacu4dP9lfOWCCGcXAClFCfI"
     },
     {
       "termino": "red sox - cubs",
@@ -60,20 +74,6 @@
       "noticia": "MLB Gameday: Cubs 3, Red Sox 4 Final Score (09/25/2026)",
       "enlace": "https://www.mlb.com/gameday/cubs-vs-red-sox/2026/09/25/824703/live",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFW0u3tkhre6EaB2xLmXgyzY3-0PQbCEau2XDyqKSXGe_o1J6sxhWA2yaaHv4"
-    },
-    {
-      "termino": "australia vs brazil",
-      "trafico": "200+",
-      "noticia": "Australia vs Brazil: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c620l2xl7z4jt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "australie – brésil",
-      "trafico": "1000+",
-      "noticia": "Amical : Endrick et Vinicius titulaires avec le Brésil",
-      "enlace": "https://www.footmercato.net/a8238504287197226921-amical-endrick-et-vinicius-titulaires-avec-le-bresil",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6x5O8Gpy3uP0n_TCf12Abff-JojEpe9dV1csGTdZtX5AIOxEoKEjguTJpJs"
     }
   ]
 }
