@@ -1,44 +1,51 @@
 {
-  "updated": "2026-09-25T17:00:23.079275-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-25T20:00:25.566274-04:00",
+  "hora": "20:00",
   "fecha": "25/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "loteria de hoy",
-      "trafico": "100+",
-      "noticia": "Lotería Nacional: comprobar los resultados y premios del sorteo de hoy, jueves 24 de septiembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-hoy-comprobar-los-resultados-y-premios-del-sorteo-jueves-24-de-septiembre-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPiNE7OoQTANPC5sUb5PinDgMjl0TazI6Asa6qTXkblj3S934sQ1XxJ36uRU"
+      "termino": "nationals - mets",
+      "trafico": "500+",
+      "noticia": "Mets Notebook: Experimental weekend vs. Nationals in season finale",
+      "enlace": "https://www.nydailynews.com/2026/09/25/mets-nationals-mlb-jefry-yan-andy-green-regular-season/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbyPKGN3mM6iQ82nTrFTQzLLP_J0PH6dyE_-qPRfDgOEPwsRUmGHoqqrAjuwE"
+    },
+    {
+      "termino": "phillies - rays",
+      "trafico": "200+",
+      "noticia": "Freddy Peralta against the Phillies",
+      "enlace": "https://www.mlb.com/rays/video/freddy-peralta-against-the-phillies-x2446",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKDeIZhzyJQywILzur4QeDePWCNgkbliPo3JKQ53C_CkDc9_jJCLC-pHvJOE"
     },
     {
       "termino": "yankees - orioles",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Orioles and Yankees Game 1 lineups and notes for today’s doubleheader in the Bronx",
       "enlace": "https://www.masnsports.com/blog/entry/orioles-and-yankees-game-1-lineups-and-notes-for-todays-doubleheader-in-the-bronx/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAKDfhTkEoHxvUIP2TjevqmNXNzIBKBXjwGmembLjSZi5kiTa2VtX5eT4Weqc"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2ydR2PzEyozrBVBa1Hun45_gTrNLu3IVZQdKcd4gDxr0FI0bkfT3ij7-jXg"
     },
     {
       "termino": "turquía - francia",
-      "trafico": "1000+",
-      "noticia": "Turquía - Francia, en directo: Nations League hoy, en vivo",
-      "enlace": "https://as.com/futbol/internacional/turquia-francia-en-directo-nations-league-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEC6sj2QSh79lKplQ8S8J63UE6roa90myiQ9rWfdh5-Ck8uvjUlKZAhN_LWDM"
+      "trafico": "2000+",
+      "noticia": "Alarma con Mbappé: vuelve a Madrid lesionado de la rodilla",
+      "enlace": "https://as.com/futbol/internacional/alarma-mbappe-lesionado-f202609-n/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO9_w0J4CtHdBlxo9-bxSm0ob_j19yNUCMzYa9tN5efmcjxuQwgeS3letwt0E"
     },
     {
       "termino": "red sox - cubs",
-      "trafico": "1000+",
-      "noticia": "Red Sox and Cubs to play doubleheader Friday ahead of rainy weekend",
-      "enlace": "https://www.bostonglobe.com/2026/09/23/sports/red-sox-cubs-weather-forecast/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt7qgG9a6qSxLHFaAK9nmY0Lk-l9-Cu_JGyyvuylxDXhvu2J3Wi8nC9fwULZ4"
+      "trafico": "2000+",
+      "noticia": "Chicago Cubs vs. Boston Red Sox Live Coverage, Stats, and Updates - September 25, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/mlb/gametracker/live/MLB_20260925_CHC@BOS_2/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcFL0--MoiRWRCyGPFp40pVrsCrEHS26JgeNyR4IhgExzQEkLHmyHc1sGcaBU"
     },
     {
       "termino": "australia vs brazil",
       "trafico": "200+",
-      "noticia": "Australia vs Brazil: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c620l2xl7z4jt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "Ancelotti unhappy with pitch after Brazil draw in Australia",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50028484/brazil-australia-friendly-townsville-pitch-carlo-ancelotti",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRHayIXxieFkA6Lw4fhkg1r_U65R2tEGHSfLnNGUgv1samzfyoouv_diRpUU"
     },
     {
       "termino": "australie – brésil",
@@ -50,30 +57,23 @@
     {
       "termino": "australia - brasil",
       "trafico": "2000+",
-      "noticia": "O golaço e o festejo: Irankunda dá espetáculo contra o Brasil",
-      "enlace": "https://sapo.pt/artigo/o-golaco-e-o-festejo-irankunda-da-espetaculo-contra-o-brasil-6ab669872b83b8dc3c9f687b",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXZqOaokwv0Bm7aOCpEJxUaMkHCOqU5z4aHocg2ATkvWY3wXY8Q1v9GVztQ0I"
+      "noticia": "Brasil x Austrália: onde assistir ao vivo, horário e escalações do amistoso da Seleção",
+      "enlace": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/09/24/brasil-x-australia-onde-assistir-ao-vivo-horario-e-escalacoes-do-amistoso-da-selecao.ghtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqjWY8tIHT3L_EAB9ZMzH-onnH8OzeTpNucPBAt4bkY4WvpGTTyfLyFx5wqWY"
     },
     {
       "termino": "dodgers - padres",
       "trafico": "500+",
       "noticia": "Padres clinch 3rd straight postseason berth as they seek 1st World Series title",
       "enlace": "https://www.mlb.com/news/padres-clinch-2026-postseason-berth",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrc2BEX-Ahbhr2wf6kySAEQMVIWeo8-ah9-KX2YhEUgTGlvex6483do29Exw"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbNv-NmCJSyw8ZSBgVcizDeR3nq2Zvv_BVBk9HfnO1tqDDkRPpJdspVuump6Q"
     },
     {
       "termino": "liga de naciones concacaf",
       "trafico": "200+",
-      "noticia": "Jamaica vs Guatemala hoy: dónde ver, a qué hora juegan y transmisión en USA de Concacaf Nations League 2026",
-      "enlace": "https://as.com/us/futbol/jamaica-vs-guatemala-hoy-donde-ver-a-que-hora-juegan-y-transmision-en-usa-de-concacaf-nations-league-2026-f202609-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1EpkYmzpeTNXyDlAR7hUOZTGInYlyY4IxCHJZimtzXu0cyBnUDn4YaSDQ1bU"
-    },
-    {
-      "termino": "elly de la cruz",
-      "trafico": "500+",
-      "noticia": "After crushing 30th homer, red-hot Elly on precipice of milestone",
-      "enlace": "https://www.mlb.com/news/elly-de-la-cruz-hits-30th-homer-reds-beat-braves",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVcylaFHI9TFBfoYWtVgwjzP2RPp2SVo_w0PTt75_XZdh29kkUxRYxZytp2xs"
+      "noticia": "Jamaica - Guatemala en vivo: resultado de Luis Fernando Tena hoy y goles de Concacaf Nations League 2026, en directo",
+      "enlace": "https://as.com/us/futbol/jamaica-guatemala-en-vivo-resultado-de-luis-fernando-tena-hoy-y-goles-de-concacaf-nations-league-2026-en-directo-f202609-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSid4U49lnJjalt8HdYIr3eJfGk1iOM_wNKp3ki7bSpsDOrVgITFsXvVTUasWs"
     }
   ]
 }
