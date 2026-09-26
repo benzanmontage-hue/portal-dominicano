@@ -1,30 +1,65 @@
 {
-  "updated": "2026-09-26T14:00:34.385443-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-26T17:00:35.687443-04:00",
+  "hora": "17:00",
   "fecha": "26/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nationals - mets",
+      "termino": "españa vs",
       "trafico": "200+",
-      "noticia": "MLB Gameday: Rays 2, Phillies 0 Resultado Final (25/09/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/823409/final/wrap",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSytzUpXdHwfYS_F48XoHNGxrDzEwxhX_zrCyU0tkp3UuFhbi7WkA_e5c3qC_k"
+      "noticia": "England vs Spain LIVE: UEFA Nations League score, commentary, updates   stats",
+      "enlace": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5D17GEPVjmhFXBVvx5c83yG9448C7cY_Zqc3pS92k3IPNn7pfyguyhxQ-KY"
+    },
+    {
+      "termino": "blue jays - reds",
+      "trafico": "200+",
+      "noticia": "With swipe of third, Elly becomes 4th Reds player to secure 30-30 season",
+      "enlace": "https://www.mlb.com/news/elly-de-la-cruz-notches-reds-4th-30-30-season",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqGD3fi01z6ZUALi21NZjScTQV9u1hY6jUUGV9Z5uR9W2hALcXQ8qa7dczJjo"
+    },
+    {
+      "termino": "angleterre – espagne",
+      "trafico": "500+",
+      "noticia": "Espagne : Eric Garcia blessé à l’échauffement contre l’Angleterre",
+      "enlace": "https://www.footmercato.net/a2364008939750614692-espagne-eric-garcia-blesse-a-lechauffement-contre-langleterre",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBVwjFMm7wq-gKoOi_4gEku1mpfOt_XZ8njXr3V9Ziacpcph23Dv1T1Z122Pw"
+    },
+    {
+      "termino": "england vs spain",
+      "trafico": "500+",
+      "noticia": "England vs Spain LIVE: UEFA Nations League score, commentary, updates   stats",
+      "enlace": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNnNMFjaiq31_-Sx-e67IH8D3UH8H6JCDfWkDpUNPX9u3-w7at2506FqC_IU"
+    },
+    {
+      "termino": "inglaterra - españa",
+      "trafico": "5000+",
+      "noticia": "Inglaterra - España hoy, en directo: grupo C de Nations League en vivo, última hora en Wembley",
+      "enlace": "https://as.com/futbol/seleccion/inglaterra-espana-en-directo-previa-y-ultima-hora-de-la-seleccion-en-la-nations-league-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIPkuWfXMtWYcYJS_dQI4QKtQbZ7QeNKoVsJCN07HYpjgYzZhKiCwVm2WlSq4"
+    },
+    {
+      "termino": "la real",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "nationals - mets",
+      "trafico": "500+",
+      "noticia": "A.J. Ewing lifts three-run shot, Ronny Mauricio homers twice in Mets  7-1 win over Nationals",
+      "enlace": "https://sny.tv/articles/mets-nationals-takeaways-9-26-26",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf_9nmyMEHRIosLnfcA3BrapI7CoIcMk71Gf-5Z4mVozMyx56iA7n9fmaL36c"
     },
     {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "Video: Colapinto locks up at Baku restart and hits Gasly, collecting Norris",
-      "enlace": "https://grandepremio.com/en/f1/video-colapinto-locks-up-at-baku-restart-and-hits-gasly-collecting-norris/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvifEeIJmpt2zbouZCkbeV-7aTh4khE6pYNPOI9w3OYT_CjBCVtWeqfT_EcLc"
-    },
-    {
-      "termino": "activity",
-      "trafico": "1000+",
-      "noticia": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "enlace": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoCY-euoQTl0xvfrAC8pyrMjRIbVanWs9aKJwzXE3Os8QZjajqAa-yzgMsPY"
+      "noticia": "Russell holds off Verstappen for victory in Azerbaijan GP",
+      "enlace": "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-JJEIhzwnarmvuPj4azlzbF0POW-Gu5hUmwcW3aGlr7xTQwBmui4wZkD3mMw"
     },
     {
       "termino": "tormenta",
@@ -38,42 +73,7 @@
       "trafico": "200+",
       "noticia": "Dave Roberts on Tarik Skubal:  He was on a mission",
       "enlace": "https://www.mlb.com/dodgers/video/dave-roberts-on-tarik-skubal-he-was-on-a-mission",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYueT_1KubMVraPLAmwlg2p_cE96WdE8YLlwzFRHJkxlrU20qEh6PdvCAlqec"
-    },
-    {
-      "termino": "padres - dbacks",
-      "trafico": "500+",
-      "noticia": "Resumen Diamondbacks @ Padres, Resultados/Jugadas destacadas - 25/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/823248?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F823248",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCE6o-WNPt7NxZSwvTOvIOevTlpiOCwH7NVmGoYsZmK2K9wb_-xrslsTTi6vo"
-    },
-    {
-      "termino": "nationals - mets",
-      "trafico": "1000+",
-      "noticia": "New York Mets at Washington Nationals Game Story, Scores/Highlights - 09/25/2026",
-      "enlace": "https://www.mlb.com/stories/game/822681",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-dyTq2Xay9ildmdv3hpoe7F1qGzj5kAVtceu7zcTuAVUOL0s0opv9tN_xFjA"
-    },
-    {
-      "termino": "phillies - rays",
-      "trafico": "200+",
-      "noticia": "Have to find a way : Urgency setting in after Phils  12th shutout loss of year",
-      "enlace": "https://www.mlb.com/news/phillies-shut-out-for-12th-time-still-trying-to-clinch-postseason-spot",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-D9pcmvqAmM44DHf5XkhIPvaB-K4RYB_CLxrh7hY0qognYgY3PfeWzCqazY"
-    },
-    {
-      "termino": "yankees - orioles",
-      "trafico": "1000+",
-      "noticia": "Condensed Game: BAL@NYM - 9/16/26",
-      "enlace": "https://www.mlb.com/orioles/video/condensed-game-bal-nym-9-16-26",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1fA0NIfsAVLP8GkeTa0OhHvCDqAmbKRkJB7hNmQKrfjtNQxceOnbnp2hYFA"
-    },
-    {
-      "termino": "loteria nacional",
-      "trafico": "2000+",
-      "noticia": "Resultados Lotería Nacional Hoy 23 de septiembre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-nacional-23-septiembre-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5J9yYG_JO5_L0AX5lOpmxF5Gq_7KZMv1Q7mG9ftALq74aVqb2b7Dpm9oNkNQ"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu4RjIdO79O1U4ZHtkssBGIyUaz81vZaSlE9XXmYYoFWcPRPZPW7IrNXRWMGc"
     }
   ]
 }
