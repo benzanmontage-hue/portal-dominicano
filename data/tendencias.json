@@ -1,37 +1,51 @@
 {
-  "updated": "2026-09-27T08:00:43.755186-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-27T11:00:45.517699-04:00",
+  "hora": "11:00",
   "fecha": "27/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "temblor de tierra hoy rd",
-      "trafico": "500+",
-      "noticia": "Reportan temblor de 4.1 grados con epicentro en Bohechío, provincia San Juan",
+      "termino": "estadio olímpico félix sánchez",
+      "trafico": "200+",
+      "noticia": "Kelvin Cruz muestra condiciones del Estadio Olímpico tras concierto de Ramón Orlando",
+      "enlace": "https://elnacional.com.do/deportes/kelvin-cruz-muestra-condiciones-estadio-olimpico-concierto-ramon-orlando_581886.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToHLbubHlnWq1LTPBgsRIxnNlBB92AO_AEH4ojkU-X908C06e1YgyRLqz0PzM"
+    },
+    {
+      "termino": "temblor de tierra hoy",
+      "trafico": "5000+",
+      "noticia": "Sismológico ajusta los datos y aclara que temblor de 4.3 fue en Santo Domingo y no en San Juan",
       "enlace": "https://listindiario.com/la-republica/20260927/temblor-4-1-grados-registra-san-juan_923851.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ7a31z-Mz8IrpuPsAeMFdNi1GUJmXBJoEc-x3Rsn9QZ-VSGx4p2v7oNwMgkA"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaR94sZtI9N-xIkQ7XWqvkQ58fgfFoZdtVi1py3M2nom5LCtTfnDUUtXVVvQ"
     },
     {
       "termino": "terremoto",
       "trafico": "200+",
-      "noticia": "Evento de tipo sísmico, posible sismo, reportado hace pocos minutos cerca de Rimini, Emilia-Romagna, Italy",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/noticias/365934/evento-de-tipo-sismico-posible-sismo-reportado-hace-pocos-minutos-cerca-de-rimini-emilia-romagna-italy.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF4Fd87MQassKlH9RUrcQHJNVxnAVMElwA1AJQ2_LWGyuUpZO2kpG84JqzpQU"
+      "noticia": "Terremoto leve mag. 3.3 - Greece, Sunday 27 Sep 2026 a las 15:04 (GMT +3)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23394364/quake-felt-Sep-27-2026-Near-Bitola-Bitola-North-Macedonia.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHf4RcNafnTtQ9xBLd070F5l_rtSHConFm6ehHeuapW8KNKU8aZOhtwltMEkE"
     },
     {
       "termino": "phillies - rays",
       "trafico": "200+",
-      "noticia": "Licensable picture: MLB: Tampa Bay Rays at Philadelphia Phillies",
-      "enlace": "https://www.reutersconnect.com/item/mlb-tampa-bay-rays-at-philadelphia-phillies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk5Mjk1OTM",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbxr2CRs50mm3gU7Diew4s9uqCC9Wv7FR5lWbFf3QUUIhyJHfkjvE9o4o8AE8"
+      "noticia": "Tampa Bay Rays vs. Philadelphia Phillies Results, Stats, and Recap - September 26, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260926_TB@PHI/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9CeH0Lwqw7LQgP7t1O6ucGICJxX3XBXrQpq_6CRDU95JLHa3EusH5OiXiRs8"
     },
     {
       "termino": "yordan álvarez",
       "trafico": "100+",
-      "noticia": "Power Rankings de Bateadores Latinos, con dos posibles JMV al frente",
-      "enlace": "https://www.mlb.com/es/news/power-rankings-de-bateadores-latinos-con-dos-posibles-jmv-al-frente",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFqYsgp-AxAnV5GJKlPU4-en28S7PCMHwwMySMe4wT9rq9v43v6qJ8qG0mbOE"
+      "noticia": "Todo se define en el Juego 162: Astros van por la corona del Oeste",
+      "enlace": "https://www.mlb.com/es/news/jeremy-pena-conecta-dos-jonrones-en-victoria-de-astros-sobre-los-atleticos",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv0O-CBPOXtHTaBIyZ6gjW1uRucdmvLkldod9K4dLoBDdn3HhW7eG7ExfU6tM"
+    },
+    {
+      "termino": "manny machado",
+      "trafico": "500+",
+      "noticia": "Padres’ jersey rankings show Jackson Merrill taking Manny Machado’s place beside Fernando Tatis Jr.",
+      "enlace": "https://friarsonbase.com/padres-jersey-rankings-show-jackson-merrill-taking-manny-machado-s-place-beside-fernando-tatis-jr",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl9swpW_luyEXtViazP84rFhumSYANEmaDncw-iDYK67FKABwyAJu7zquRr6c"
     },
     {
       "termino": "padres - dbacks",
@@ -41,18 +55,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCE6o-WNPt7NxZSwvTOvIOevTlpiOCwH7NVmGoYsZmK2K9wb_-xrslsTTi6vo"
     },
     {
-      "termino": "manny machado",
-      "trafico": "500+",
-      "noticia": "Machado, Bogaerts propel Padres  10-7 win vs. D-backs",
-      "enlace": "https://www.mlb.com/es/video/machado-bogaerts-propel-padres-10-7-win-vs-d-backs",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQknMv9rZBurxhMOY3kgxghhGKoRXEFP2bq20zidUbeWYir_Z2DcXtWs_8xxxA"
-    },
-    {
       "termino": "junior caminero",
       "trafico": "1000+",
-      "noticia": "Tampa Bay Rays at Philadelphia Phillies Game Story, Scores/Highlights - 09/26/2026",
-      "enlace": "https://www.mlb.com/stories/game/823407",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOiz9sroUVVQ-yTwqOf9n8vj3h-toSQRH-AuGiLlGaz4oZcR-j6tqV4mTlMNY"
+      "noticia": "Caminero cumple metas de 40 HR y 100 CI; ahora va por 162 juegos como titular",
+      "enlace": "https://www.mlb.com/es/news/junior-caminero-supera-las-100-impulsadas-por-2da-temporada-consecutiva",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxSB1pIVqr0ZTDWQw6cpt7EJj-TvDRDR9RgrkTttfYzuA6t-vDnRpPa2oFtZE"
     },
     {
       "termino": "méxico - colombia",
@@ -67,13 +74,6 @@
       "noticia": "Colorado Rockies vs. Chicago White Sox Results, Stats, and Recap - September 26, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260926_COL@CHW/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9CeH0Lwqw7LQgP7t1O6ucGICJxX3XBXrQpq_6CRDU95JLHa3EusH5OiXiRs8"
-    },
-    {
-      "termino": "españa vs",
-      "trafico": "200+",
-      "noticia": "Spain win over  superpower  England puts unbeaten run at 39",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50036839/spain-controlled-game-win-superpower-england",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRjh49ouP1kNnb3bkCXnvF6aJgMzkMwc94-kgXotqh8va-AjEegtngYxBYsrw"
     }
   ]
 }
