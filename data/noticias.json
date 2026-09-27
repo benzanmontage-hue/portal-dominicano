@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T14:00:56.957542-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-27T17:00:53.922899-04:00",
+  "hora": "17:00",
   "fecha": "27/09/2026",
   "total": 15,
   "noticias": [
@@ -9,7 +9,7 @@
       "fuente": "AlMomento.net",
       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDhEeHpiQ1owd1RRMVV4enBid25jdnNvMnJncmU1QzdTdGI0Z1ppTkgwdlc1ZGtkSk9DWEVwb2RubExCZk9wZ1RRejRNR25ocGdITnZvRmFZdVo5Yjk0bEZEbENuOWdYb2tuekhCZXNHU3R1aVhERFZ0a3ZWb2o1Sg?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 15:26:35 GMT",
+      "fecha": "Sun, 27 Sep 2026 17:40:30 GMT",
       "imagen": ""
     },
     {
@@ -27,14 +27,6 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "\"Todos los días se amanece con una crisis\": presidente de República Dominicana habla con N+ Univision 41 - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUHZGa1N1R0p3RERKX2w2b2xuYWFwWHJZR0FoN2c4YUV5VHNlVFdGNDFRam54d0NmbEdCdkxpbWxJTVhTaTQ4UWhkMEgzVUhIT1VBWm9yVVdScVptcV9rc0xQVFZfaHNmcklQbjV6M2Z6ZzFMN2ZxaG1rY2JidnhoQjBaeGhPOHJVX0p4OE5RTUxQN0ZtVGVTNWtrdE5BdW00dVAxMDZVVmRaSFkzb2t6Nmw4bnJ0eUVxZjhxUWhUQmZBcEd2N0cyNW42THpVc1BpeHctQ1Y2NlRJZTRwZkVWcW1rR2VFQnZIaWc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 01:07:57 GMT",
-      "imagen": "https://www.univision.com/api/image/og/us/local/nueva-york-wxtv/todos-los-dias-se-amanece-con-una-crisis-presidente-de-republica-dominicana-habla-con-n-univision-41-video"
     },
     {
       "titulo": "Adiós al Amur River: tanquero de gas natural parte a la República Dominicana en medio de pugna - El Nuevo Día",
@@ -93,11 +85,19 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c4f06e698c.r_d.612-351-0.jpeg"
     },
     {
-      "titulo": "No, esto no es Suiza - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDktSzFWeWxvRDU1eWZpbXFRYWtMaDQ4aFFmUjlSRk9yaDVyeXZXTFVpQnFKTWpsbEt5UnljTTQ2NUVIX1lwUzNMbk5ITGZUWVlHTzdzMWpXNFk3MExMVmRka1dLclI4eUVXbVdTRWRlZnZMTUtYZFFETWFXcVN1UDRhQUtVUk9RU21YM0dJYjRUaUlHMkpkRkY5YktiMVVoa09VcTE4dkQtVm5WMTNPRGlub2c3Z9IBuwFBVV95cUxNa29QYmFzSG9XZ09maFY4Y0tlUDFQYk44Z2p4c1ZBcXlFZWdzaHVOcEJyaXd5Snloc3d6RGxCU21idjVqNnFha0lROXNSdzlGcEthQkVGWVV1QllKZGMwdV8wMV9NT0Nrb0NCd19EVmwxUHVxZS1XaFZZQV8xbzVmWEhCWG5BclN2UFpCVXNZSEd3X1Blb0VlY3gwY0QtTjhhTEZMU2sxRWpHR2ozUGpyckpUdG9yVGhlQVRn?oc=5",
+      "titulo": "Semana Dominicana proyectará en Londres nuevas oportunidades de inversión y negocios en el país - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEJQeGNJb09YYXJDQmh2RlNNTnB6TVFfYXY1V1BCVzd0bTFMM1FpRHlVUmNQTTdtMkVxRk41ckRJbUxwWWRQWHV5aVRnRW9QRUo3NEVKU2c3dEYxRk1xcXRycTB2dTRtSE5ZUzF4X0x5TUpLem9JazRseGpQaFFjNTBaLUlhOFZ2MjZwcmZGVHRDUFBsMVdIX3BpWHZpWkxKR2ZoVURVR1hZZmU1ZE82MkN4Z2Y1Uk1lZ05rcXdEaEtwQ0ppVGl3SVdrU2w4VVpLZ3fSAdcBQVVfeXFMTW1uOE13QnFpTzIyT29EMEpaNlRpUTNiajlSUV96LUlyWjJxbG9UR3BGTjk2UEk2RXVwQkk5T2J4RFcxeDk0UUJJWGJBNlpOVnZEcURTWFFOdTFEbEF1LWVmS1VPc0VTX3pRYjlnQklZV1VFZUhYQ1JyVVdobkROR1ZVVTV2SWw0MmswYmlIejFzRkkzNkZBemlVTUMtc0lTcGctT1pKcjYwWFBsci1vanZ3dmEzWEFLU01OR0VrMWNnUXQwMUd5NWRVXzF1R0R3V3FMN1RUcm8?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 00:30:00 GMT",
+      "fecha": "Sun, 27 Sep 2026 18:59:02 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Temor a otro colapso provoca un déjà vu en República Dominicana - metro.pr",
+      "fuente": "metro.pr",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VpWXpGWWQwc2EtMUNsdmlkU2l6dm9IS2ItNXV3eUFXTFVkNzJCX1V5TmlJNWVXaU5jeU1yeHZnd1NaSDc5bV9ZZWJQSENpSzlTNFBDcDdYdWFicUFEVTFsZ0Q1WjBWaTZ1RFNrTnVwQThGcGRaQ3BWbnY0d3ByMTZtcGE5RFhwQ0JHYjVxMVF5LUU4Y1kzdjgtb2ZYSW0zbTdLTV9aSzI?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 16:59:26 GMT",
       "imagen": ""
     },
     {
