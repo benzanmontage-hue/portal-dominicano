@@ -1,44 +1,51 @@
 {
-  "updated": "2026-09-26T17:00:35.687443-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-26T20:00:39.085977-04:00",
+  "hora": "20:00",
   "fecha": "26/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "white sox - rockies",
+      "trafico": "100+",
+      "noticia": "Licensable picture: MLB: Colorado Rockies at Chicago White Sox",
+      "enlace": "https://www.reutersconnect.com/item/mlb-colorado-rockies-at-chicago-white-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk5MTIwNDQ",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGpFJZqvxKyBBEAnhHnfYS0QLQe8n_OuNtvqC0g1jNV9pmBg2KwYBnpEFo5Ec"
+    },
+    {
       "termino": "españa vs",
       "trafico": "200+",
-      "noticia": "England vs Spain LIVE: UEFA Nations League score, commentary, updates   stats",
-      "enlace": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5D17GEPVjmhFXBVvx5c83yG9448C7cY_Zqc3pS92k3IPNn7pfyguyhxQ-KY"
+      "noticia": "England embrace chaos - but Spain show it never claims big prizes",
+      "enlace": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gJ94fnShmWbYWSKyxsuyo-JctRp-iTHlnJ2n7B0aJ6RzHbbVM1DTX2hIKkA"
     },
     {
       "termino": "blue jays - reds",
-      "trafico": "200+",
-      "noticia": "With swipe of third, Elly becomes 4th Reds player to secure 30-30 season",
-      "enlace": "https://www.mlb.com/news/elly-de-la-cruz-notches-reds-4th-30-30-season",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqGD3fi01z6ZUALi21NZjScTQV9u1hY6jUUGV9Z5uR9W2hALcXQ8qa7dczJjo"
+      "trafico": "500+",
+      "noticia": "Toronto Blue Jays Defeated By Cincinnati Reds in Penultimate Game",
+      "enlace": "https://sports.yahoo.com/articles/toronto-blue-jays-defeated-cincinnati-220106339.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL9Z4-V4hct06iM_XoHoo_XO-vkxONxFn9LG0s_0c4u5vG1FPJfNJuTgagG0U"
     },
     {
       "termino": "angleterre – espagne",
       "trafico": "500+",
-      "noticia": "Espagne : Eric Garcia blessé à l’échauffement contre l’Angleterre",
-      "enlace": "https://www.footmercato.net/a2364008939750614692-espagne-eric-garcia-blesse-a-lechauffement-contre-langleterre",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBVwjFMm7wq-gKoOi_4gEku1mpfOt_XZ8njXr3V9Ziacpcph23Dv1T1Z122Pw"
+      "noticia": "Angleterre 2-3 Espagne, Ligue des nations A : La Roja insubmersible à Wembley",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/angleterre-espagne-live/688728",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdpbsIvFm2hj_VtSkp5CySxGnFQ6GKCXDrsNBLTXTAxVBT6y4UWuEH82t9rg8"
     },
     {
       "termino": "england vs spain",
       "trafico": "500+",
-      "noticia": "England vs Spain LIVE: UEFA Nations League score, commentary, updates   stats",
+      "noticia": "England 2-3 Spain LIVE: World champions come from behind to win at Wembley after Kane penalty miss",
       "enlace": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNnNMFjaiq31_-Sx-e67IH8D3UH8H6JCDfWkDpUNPX9u3-w7at2506FqC_IU"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEHrDfw3V3frnFoNFAcSt9xhpyagcXz5Nr1GxNW6TrTagwsI0Xy7bcaRmIiY8"
     },
     {
       "termino": "inglaterra - españa",
       "trafico": "5000+",
-      "noticia": "Inglaterra - España hoy, en directo: grupo C de Nations League en vivo, última hora en Wembley",
-      "enlace": "https://as.com/futbol/seleccion/inglaterra-espana-en-directo-previa-y-ultima-hora-de-la-seleccion-en-la-nations-league-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIPkuWfXMtWYcYJS_dQI4QKtQbZ7QeNKoVsJCN07HYpjgYzZhKiCwVm2WlSq4"
+      "noticia": "La campeona renueva su crédito",
+      "enlace": "https://as.com/futbol/la-campeona-renueva-su-credito-f202609-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwS69fYbY-h5Jzo1g_LwxJVNyStsNk8pI4kLZ3DKjwgqfHLdZn2C05LfdpiIA"
     },
     {
       "termino": "la real",
@@ -50,9 +57,9 @@
     {
       "termino": "nationals - mets",
       "trafico": "500+",
-      "noticia": "A.J. Ewing lifts three-run shot, Ronny Mauricio homers twice in Mets  7-1 win over Nationals",
-      "enlace": "https://sny.tv/articles/mets-nationals-takeaways-9-26-26",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf_9nmyMEHRIosLnfcA3BrapI7CoIcMk71Gf-5Z4mVozMyx56iA7n9fmaL36c"
+      "noticia": "Actualizaciones en vivo de MLB Gameday: Juego de los Mets contra los Nationals el 26/09/2026 gratis",
+      "enlace": "https://www.mlb.com/es/gameday/822678/final/wrap",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYQPBuSg4tJ44kk6MafUTDiXiO8PxwAweMsmK-pl2lDbZ45e1wt7jQgvmo8iY"
     },
     {
       "termino": "f1",
@@ -67,13 +74,6 @@
       "noticia": "La tormenta invernal ‘nor’easter’ azota la costa este de Estados Unidos con fuertes vientos, lluvias torrenciales e inundaciones",
       "enlace": "https://elpais.com/us/2026-09-26/la-tormenta-invernal-noreaster-azota-la-costa-este-de-estados-unidos-con-fuertes-vientos-lluvias-torrenciales-e-inundaciones.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ1vcH5mB6CPNXV0Fb6j3j8xRi-Ko45U5HDnVCVtb9GpREHD5o1YzMv5yr2iU"
-    },
-    {
-      "termino": "giants - dodgers",
-      "trafico": "200+",
-      "noticia": "Dave Roberts on Tarik Skubal:  He was on a mission",
-      "enlace": "https://www.mlb.com/dodgers/video/dave-roberts-on-tarik-skubal-he-was-on-a-mission",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu4RjIdO79O1U4ZHtkssBGIyUaz81vZaSlE9XXmYYoFWcPRPZPW7IrNXRWMGc"
     }
   ]
 }
