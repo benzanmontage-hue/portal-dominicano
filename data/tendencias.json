@@ -1,30 +1,51 @@
 {
-  "updated": "2026-09-26T20:00:39.085977-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-26T23:00:39.609067-04:00",
+  "hora": "23:00",
   "fecha": "26/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "white sox - rockies",
-      "trafico": "100+",
-      "noticia": "Licensable picture: MLB: Colorado Rockies at Chicago White Sox",
-      "enlace": "https://www.reutersconnect.com/item/mlb-colorado-rockies-at-chicago-white-sox/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk5MTIwNDQ",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGpFJZqvxKyBBEAnhHnfYS0QLQe8n_OuNtvqC0g1jNV9pmBg2KwYBnpEFo5Ec"
+      "termino": "manny machado",
+      "trafico": "500+",
+      "noticia": "Analyzing Manny Machado s home run through bat tracking",
+      "enlace": "https://www.mlb.com/padres/video/analyzing-manny-machado-s-home-run-through-bat-tracking-x6976",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYqiLTbg8HUNTavECezhihdNU-1zLnXu4qfRHRXrUMsNguPDoVoKUITjKBJY"
     },
     {
-      "termino": "españa vs",
+      "termino": "padres - dbacks",
       "trafico": "200+",
-      "noticia": "England embrace chaos - but Spain show it never claims big prizes",
-      "enlace": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gJ94fnShmWbYWSKyxsuyo-JctRp-iTHlnJ2n7B0aJ6RzHbbVM1DTX2hIKkA"
+      "noticia": "Resumen Diamondbacks @ Padres, Resultados/Jugadas destacadas - 25/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/823248?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F823248",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCE6o-WNPt7NxZSwvTOvIOevTlpiOCwH7NVmGoYsZmK2K9wb_-xrslsTTi6vo"
+    },
+    {
+      "termino": "junior caminero",
+      "trafico": "500+",
+      "noticia": "Junior Caminero Has Made Rays History With Power Display",
+      "enlace": "https://www.si.com/mlb/rays/onsi/junior-caminero-has-made-rays-history-with-power-display",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2A5w_4BASnn3wT0JcZwUYdLN-jRisySGxzdTLexUZqwrNynVjFjLP7YQ90Ng"
+    },
+    {
+      "termino": "méxico - colombia",
+      "trafico": "1000+",
+      "noticia": "How to Watch Mexico vs. Colombia on TV, Live Stream: International Friendly",
+      "enlace": "https://www.si.com/soccer/how-to-watch-mexico-vs-colombia-tv-live-stream-international-friendly-9-26-26",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTUgPLTGKGB4BF5wP73JH-yR7HPHVC4smu-Ip-7iDikDzQUkfiCqRsZ3Z4CSA"
+    },
+    {
+      "termino": "white sox - rockies",
+      "trafico": "100+",
+      "noticia": "White Sox fall to Rockies as AL Central hopes officially end",
+      "enlace": "https://www.mlb.com/news/white-sox-al-wild-card-berth-loss-rockies-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSo-fa1KW9v2msM7MNBvb0nVCEq_VZ5i4CvOUXGCVkBUMr0PT0mOZ4XtFho4"
     },
     {
       "termino": "blue jays - reds",
       "trafico": "500+",
-      "noticia": "Toronto Blue Jays Defeated By Cincinnati Reds in Penultimate Game",
-      "enlace": "https://sports.yahoo.com/articles/toronto-blue-jays-defeated-cincinnati-220106339.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL9Z4-V4hct06iM_XoHoo_XO-vkxONxFn9LG0s_0c4u5vG1FPJfNJuTgagG0U"
+      "noticia": "Third-inning miscues cost Blue Jays in loss to Reds",
+      "enlace": "https://ca.news.yahoo.com/third-inning-miscues-cost-blue-232935387.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOHdbrHEAMPR0maWab3z0UHcLaUcY0_1cq_Wjyc1kpuLIH8GTXsJjCbzhEy_Q"
     },
     {
       "termino": "angleterre – espagne",
@@ -35,10 +56,10 @@
     },
     {
       "termino": "england vs spain",
-      "trafico": "500+",
-      "noticia": "England 2-3 Spain LIVE: World champions come from behind to win at Wembley after Kane penalty miss",
-      "enlace": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEHrDfw3V3frnFoNFAcSt9xhpyagcXz5Nr1GxNW6TrTagwsI0Xy7bcaRmIiY8"
+      "trafico": "1000+",
+      "noticia": "Spain win over  superpower  England puts unbeaten run at 39",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50036839/spain-controlled-game-win-superpower-england",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRjh49ouP1kNnb3bkCXnvF6aJgMzkMwc94-kgXotqh8va-AjEegtngYxBYsrw"
     },
     {
       "termino": "inglaterra - españa",
@@ -53,27 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "nationals - mets",
-      "trafico": "500+",
-      "noticia": "Actualizaciones en vivo de MLB Gameday: Juego de los Mets contra los Nationals el 26/09/2026 gratis",
-      "enlace": "https://www.mlb.com/es/gameday/822678/final/wrap",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYQPBuSg4tJ44kk6MafUTDiXiO8PxwAweMsmK-pl2lDbZ45e1wt7jQgvmo8iY"
-    },
-    {
-      "termino": "f1",
-      "trafico": "200+",
-      "noticia": "Russell holds off Verstappen for victory in Azerbaijan GP",
-      "enlace": "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-JJEIhzwnarmvuPj4azlzbF0POW-Gu5hUmwcW3aGlr7xTQwBmui4wZkD3mMw"
-    },
-    {
-      "termino": "tormenta",
-      "trafico": "500+",
-      "noticia": "La tormenta invernal ‘nor’easter’ azota la costa este de Estados Unidos con fuertes vientos, lluvias torrenciales e inundaciones",
-      "enlace": "https://elpais.com/us/2026-09-26/la-tormenta-invernal-noreaster-azota-la-costa-este-de-estados-unidos-con-fuertes-vientos-lluvias-torrenciales-e-inundaciones.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ1vcH5mB6CPNXV0Fb6j3j8xRi-Ko45U5HDnVCVtb9GpREHD5o1YzMv5yr2iU"
     }
   ]
 }
