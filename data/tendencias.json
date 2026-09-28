@@ -1,23 +1,30 @@
 {
-  "updated": "2026-09-28T08:00:58.172937-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-28T11:01:00.416520-04:00",
+  "hora": "11:01",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "japón - venezuela",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "¿Cómo y dónde ver? Japón vs Venezuela | EN VIVO | Copa Kirin",
       "enlace": "https://www.telemundo.com/deportes/futbol/venezuela-en-renovacion-pone-a-prueba-el-proyecto-japones-rcna600096",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Ss4sVm_hLHYgekqOwxpnpRZ07GL1vukgpDz8_wwgscBwx6yTY7HLsYDPTQ0"
     },
     {
+      "termino": "comisión nacional de los derechos humanos",
+      "trafico": "200+",
+      "noticia": "CNDH anuncia movilización nacional para defender derechos ciudadanos",
+      "enlace": "https://listindiario.com/la-republica/20260927/cndh-anuncia-movilizacion-nacional-defender-derechos-ciudadanos_923884.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg8UvjvbLpmU347wR5qzKTMoLxGVv0eZGne-nN9bPdRN0lrfAEHqHxd3KitQw"
+    },
+    {
       "termino": "noticia",
       "trafico": "200+",
-      "noticia": "Las caras de la noticia 28 septiembre 2026",
-      "enlace": "https://www.larazon.es/opinion/caras-noticia-28-septiembre-2026_202609286ab99905a520494aafd80db4.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpiszmyx-HAVYMxXJrG5NRuDa9uyccoBRegePiaYaxNXTCVNn59IkcoVTBKNQ"
+      "noticia": "La semana en República Dominicana: las noticias que marcaron la agenda y llegan a la edición impresa",
+      "enlace": "https://hoy.com.do/el-pais/caso-julian-oro-duro-detalles-revelados-senasa-leidas-hoy_1103591.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0wNDMQIpaGQoNMmC4mrKf9rhaAMIUjEhuQFEme4R4OzGjYaRsxNxtb-KD8M"
     },
     {
       "termino": "posiciones de columbus crew contra inter miami",
@@ -25,13 +32,6 @@
       "noticia": "Pese al golazo de tiro libre de Messi, Inter Miami perdió 2-1 sobre la hora ante Columbus Crew por la MLS",
       "enlace": "https://www.infobae.com/deportes/2026/09/27/lionel-messi-jugara-su-ultimo-partido-antes-de-la-despedida-de-la-seleccion-argentina-inter-miami-enfrentara-al-columbus-crew-por-la-mls/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLjjxm8k27UwJudjGGoT1RJFOT85R7Ug4RTzJCra3OYp0RxYsAjNgCkVJLuM"
-    },
-    {
-      "termino": "policía",
-      "trafico": "200+",
-      "noticia": "En siete días, el país ha registrado 1,556 robos y 33 muertes",
-      "enlace": "https://listindiario.com/la-republica/20260928/siete-dias-pais-registrado-1-556-robos-33-muertes_923969.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4xsTsv-37Nu1MH73ZziATniF2hMAYsIh6aSM4OmmLtjbOimcDrJrmmTtxnlQ"
     },
     {
       "termino": "trinidad y tobago - república dominicana",
@@ -43,9 +43,9 @@
     {
       "termino": "columbus crew - inter miami",
       "trafico": "1000+",
-      "noticia": "Messi Closing In on 1,000 Goals as Ronaldo Holds the Edge",
-      "enlace": "https://koorabreak.com/en/342269/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB42hUrqa0sq59ULruUbMLO-RKzJ1QTbI6v6yMBmPIfEu0Mta7YCR72u2usLw"
+      "noticia": "Lionel Messi Two Free-Kicks Away From Another Historic Milestone",
+      "enlace": "https://www.sportscapemagazine.com/blog/lionel-messi-two-free-kicks-away-from-another-historic-milestone",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6v3N9k9HUCX6QkVfXE2bk7jO8eiBxaGxRyjOm10pqowoF-dQF7VuSMj8xgLY"
     },
     {
       "termino": "haití - costa rica",
@@ -57,20 +57,20 @@
     {
       "termino": "haïti – costa rica",
       "trafico": "2000+",
-      "noticia": "Match Highlights Haiti - Costa Rica",
-      "enlace": "https://www.ysscores.com/en/video/367728",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcrCuFSOvOWA64lWBfuai0KHT58Ha5QJ4FKjUCKD7_JS9RtZ1abgDwBUAEkQ"
+      "noticia": "Haiti beats Costa Rica for back-to-back Concacaf Nations League victories",
+      "enlace": "https://haitiantimes.com/2026/09/28/haiti-beats-costa-rica-back-to-back/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXWAeYlu_B_HLM-ebiM5knI7NOt131xadXkanmgGjg9Ossa6cF60Je7K9dYKk"
     },
     {
       "termino": "listin diario",
       "trafico": "500+",
-      "noticia": "La Policía identifica al acusado de doble homicidio en pica pollo de Sabana Perdida y a las víctimas",
-      "enlace": "https://listindiario.com/la-republica/20260927/policia-identifica-acusado-doble-homicidio-sabana-perdida-victimas_923887.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmVGprVPHgskwVQ5YU773IC0S96Q5u1T7B04dH_htjR1m3xidbSkPtqIEn7ns"
+      "noticia": "Juez envía a prisión a ocho de los imputados en el caso Senasa 2.0",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/27/imponen-prision-preventiva-a-ocho-de-los-imputados-en-el-caso-senasa-2/3671878",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_FbW3ZKZ-7WAjPvsdrUw7fq_RnAiHN0FYbbLVpdmjxNUpfGwFwmdqElI7mM"
     },
     {
-      "termino": "earthquake today",
-      "trafico": "1000+",
+      "termino": "earthquake",
+      "trafico": "2000+",
       "noticia": "Strong jolt shakes Dominican Republic as magnitude 4.8 earthquake strikes",
       "enlace": "https://www.foxweather.com/weather-news/magnitude-4-8-earthquake-rattles-dominican-republic",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP0-wMwABWpP9Tik9jCX72h7REM0qxavArjIhujMyEAHdvZ_UyoQthfTm1dlU"
