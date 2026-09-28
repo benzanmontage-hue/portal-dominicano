@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-28T11:01:00.416520-04:00",
-  "hora": "11:01",
+  "updated": "2026-09-28T14:01:02.510617-04:00",
+  "hora": "14:01",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "vaguada",
+      "trafico": "200+",
+      "noticia": "Se va septiembre y no se siente la brisa, el calor extremo no cesa en República Dominicana",
+      "enlace": "https://listindiario.com/la-republica/20260928/septiembre-siente-brisa-calor-extremo-cesa-republica-dominicana_924005.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVv8HiUe-Is92TxtF4HYo0Sh4g1GkYbD9JwNZic_jRaXspmehJmb4CIDvwqaI"
+    },
     {
       "termino": "japón - venezuela",
       "trafico": "200+",
       "noticia": "¿Cómo y dónde ver? Japón vs Venezuela | EN VIVO | Copa Kirin",
       "enlace": "https://www.telemundo.com/deportes/futbol/venezuela-en-renovacion-pone-a-prueba-el-proyecto-japones-rcna600096",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Ss4sVm_hLHYgekqOwxpnpRZ07GL1vukgpDz8_wwgscBwx6yTY7HLsYDPTQ0"
-    },
-    {
-      "termino": "comisión nacional de los derechos humanos",
-      "trafico": "200+",
-      "noticia": "CNDH anuncia movilización nacional para defender derechos ciudadanos",
-      "enlace": "https://listindiario.com/la-republica/20260927/cndh-anuncia-movilizacion-nacional-defender-derechos-ciudadanos_923884.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg8UvjvbLpmU347wR5qzKTMoLxGVv0eZGne-nN9bPdRN0lrfAEHqHxd3KitQw"
     },
     {
       "termino": "noticia",
@@ -34,6 +34,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLjjxm8k27UwJudjGGoT1RJFOT85R7Ug4RTzJCra3OYp0RxYsAjNgCkVJLuM"
     },
     {
+      "termino": "policía",
+      "trafico": "200+",
+      "noticia": "CNDH anuncia movilización nacional para defender derechos ciudadanos",
+      "enlace": "https://listindiario.com/la-republica/20260927/cndh-anuncia-movilizacion-nacional-defender-derechos-ciudadanos_923884.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg8UvjvbLpmU347wR5qzKTMoLxGVv0eZGne-nN9bPdRN0lrfAEHqHxd3KitQw"
+    },
+    {
       "termino": "trinidad y tobago - república dominicana",
       "trafico": "1000+",
       "noticia": "República Dominicana mantiene su invicto al vencer a Trinidad y Tobago a domicilio",
@@ -48,6 +55,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6v3N9k9HUCX6QkVfXE2bk7jO8eiBxaGxRyjOm10pqowoF-dQF7VuSMj8xgLY"
     },
     {
+      "termino": "santo domingo",
+      "trafico": "20000+",
+      "noticia": "Temblores recientes concentran la actividad sísmica en el sur y suroeste del país",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/28/por-que-esta-temblando-sismos-se-concentran-en-el-sur-y-suroeste/3672251",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkk9T9su4m_2GKtVfRwUs0QeeCKWz0qS_lbLETDj1svR5p8uLKGyzqskd9g4"
+    },
+    {
       "termino": "haití - costa rica",
       "trafico": "2000+",
       "noticia": "Costa Rica fracasa ante Haití y pone en riesgo Copa Oro y Liga A",
@@ -60,20 +74,6 @@
       "noticia": "Haiti beats Costa Rica for back-to-back Concacaf Nations League victories",
       "enlace": "https://haitiantimes.com/2026/09/28/haiti-beats-costa-rica-back-to-back/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXWAeYlu_B_HLM-ebiM5knI7NOt131xadXkanmgGjg9Ossa6cF60Je7K9dYKk"
-    },
-    {
-      "termino": "listin diario",
-      "trafico": "500+",
-      "noticia": "Juez envía a prisión a ocho de los imputados en el caso Senasa 2.0",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/27/imponen-prision-preventiva-a-ocho-de-los-imputados-en-el-caso-senasa-2/3671878",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_FbW3ZKZ-7WAjPvsdrUw7fq_RnAiHN0FYbbLVpdmjxNUpfGwFwmdqElI7mM"
-    },
-    {
-      "termino": "earthquake",
-      "trafico": "2000+",
-      "noticia": "Strong jolt shakes Dominican Republic as magnitude 4.8 earthquake strikes",
-      "enlace": "https://www.foxweather.com/weather-news/magnitude-4-8-earthquake-rattles-dominican-republic",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP0-wMwABWpP9Tik9jCX72h7REM0qxavArjIhujMyEAHdvZ_UyoQthfTm1dlU"
     }
   ]
 }
