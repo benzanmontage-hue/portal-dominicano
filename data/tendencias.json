@@ -1,10 +1,24 @@
 {
-  "updated": "2026-09-28T05:00:56.318965-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-28T08:00:58.172937-04:00",
+  "hora": "08:00",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "japón - venezuela",
+      "trafico": "100+",
+      "noticia": "¿Cómo y dónde ver? Japón vs Venezuela | EN VIVO | Copa Kirin",
+      "enlace": "https://www.telemundo.com/deportes/futbol/venezuela-en-renovacion-pone-a-prueba-el-proyecto-japones-rcna600096",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Ss4sVm_hLHYgekqOwxpnpRZ07GL1vukgpDz8_wwgscBwx6yTY7HLsYDPTQ0"
+    },
+    {
+      "termino": "noticia",
+      "trafico": "200+",
+      "noticia": "Las caras de la noticia 28 septiembre 2026",
+      "enlace": "https://www.larazon.es/opinion/caras-noticia-28-septiembre-2026_202609286ab99905a520494aafd80db4.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpiszmyx-HAVYMxXJrG5NRuDa9uyccoBRegePiaYaxNXTCVNn59IkcoVTBKNQ"
+    },
     {
       "termino": "posiciones de columbus crew contra inter miami",
       "trafico": "200+",
@@ -15,30 +29,23 @@
     {
       "termino": "policía",
       "trafico": "200+",
-      "noticia": "Director de la Policía promete buscar “no importa dónde se metan” a los delincuentes",
-      "enlace": "https://listindiario.com/la-republica/20260927/director-policia-promete-buscar-importa-donde-meta-delincuentes_923908.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS28lrGdIN6FHSG3kI9vnvRZPVn39e5MtGnhShJ3UUcAPcSgQUVaGWSPaR2aog"
+      "noticia": "En siete días, el país ha registrado 1,556 robos y 33 muertes",
+      "enlace": "https://listindiario.com/la-republica/20260928/siete-dias-pais-registrado-1-556-robos-33-muertes_923969.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4xsTsv-37Nu1MH73ZziATniF2hMAYsIh6aSM4OmmLtjbOimcDrJrmmTtxnlQ"
     },
     {
       "termino": "trinidad y tobago - república dominicana",
       "trafico": "1000+",
-      "noticia": "República Dominicana vs. Trinidad y Tobago: hora y dónde ver",
-      "enlace": "https://cdndeportes.com.do/republica-dominicana-vs-trinidad-y-tobago-hora-y-donde-ver-el-partido-por-la-liga-de-naciones-concacaf/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2BisfWeJJSh8EiVBZ5cW5Dz3Oagz6iqF6krJxQcCtx4WPMPX5hW-gdnes6b8"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "500+",
-      "noticia": "Carolina Mejía juramenta nuevos dirigentes del PRM en Bahoruco de cara a 2028",
-      "enlace": "https://hoy.com.do/el-pais/carolina-mejia-juramenta-nuevos-dirigentes-prm-bahoruco-cara-2028_1103701.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWAS9Kk-9vivAvN0SHoaUb67SpbqRk-1o1H7H4sk_Vf8_Vk0JhdM5xl3jvKWw"
+      "noticia": "República Dominicana mantiene su invicto al vencer a Trinidad y Tobago a domicilio",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/09/27/liga-de-naciones-rd-mantiene-invicto-al-vencer-a-trinidad-y-tobago/3671910",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOmwoWUI2rWSaYDSrKn_VUyEc9lPYCxie7pcopcxs6omb25fVxrFWVtXdDhk"
     },
     {
       "termino": "columbus crew - inter miami",
       "trafico": "1000+",
-      "noticia": "👑​ Messi stunner! Argentine star close to another record",
-      "enlace": "https://sports.yahoo.com/articles/messi-stunner-argentine-star-close-005900582.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQkGw2KaqUl0jfbUKLEVGSH3Rq72hun9_4MrCezWzLBrSmRt8oROUeQuaPMc"
+      "noticia": "Messi Closing In on 1,000 Goals as Ronaldo Holds the Edge",
+      "enlace": "https://koorabreak.com/en/342269/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB42hUrqa0sq59ULruUbMLO-RKzJ1QTbI6v6yMBmPIfEu0Mta7YCR72u2usLw"
     },
     {
       "termino": "haití - costa rica",
@@ -50,9 +57,9 @@
     {
       "termino": "haïti – costa rica",
       "trafico": "2000+",
-      "noticia": "Haiti vs Costa Rica: Concacaf Nations League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/ckp84711550pt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+      "noticia": "Match Highlights Haiti - Costa Rica",
+      "enlace": "https://www.ysscores.com/en/video/367728",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcrCuFSOvOWA64lWBfuai0KHT58Ha5QJ4FKjUCKD7_JS9RtZ1abgDwBUAEkQ"
     },
     {
       "termino": "listin diario",
@@ -67,13 +74,6 @@
       "noticia": "Strong jolt shakes Dominican Republic as magnitude 4.8 earthquake strikes",
       "enlace": "https://www.foxweather.com/weather-news/magnitude-4-8-earthquake-rattles-dominican-republic",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP0-wMwABWpP9Tik9jCX72h7REM0qxavArjIhujMyEAHdvZ_UyoQthfTm1dlU"
-    },
-    {
-      "termino": "earthquake",
-      "trafico": "1000+",
-      "noticia": "Magnitude 3.5 earthquake rattles South Bay cities",
-      "enlace": "https://www.latimes.com/california/story/2026-09-27/magnitude-3-5-earthquake-rattles-several-south-bay-cities",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3A0cniNoS251OD-0OXMZpZVRn-zKtAc1Nty0zFdYFRe1PoR8ORjJeyAF-1rU"
     }
   ]
 }
