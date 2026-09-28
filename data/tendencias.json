@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-28T14:01:02.510617-04:00",
-  "hora": "14:01",
+  "updated": "2026-09-28T17:01:04.424266-04:00",
+  "hora": "17:01",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "bélgica - francia",
+      "trafico": "2000+",
+      "noticia": "Bélgica - Francia en directo | Última hora de UEFA Nations League en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/uefa-nations-league/belgica-francia/2026/09/28/01_0195_20260928_360_368-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVuOgOXtG2GKXPvZTNTMGB76j3SQywlEtmasGG1SioD3-d6esKRUWHY7mQ8pE"
+    },
+    {
       "termino": "vaguada",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Se va septiembre y no se siente la brisa, el calor extremo no cesa en República Dominicana",
       "enlace": "https://listindiario.com/la-republica/20260928/septiembre-siente-brisa-calor-extremo-cesa-republica-dominicana_924005.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVv8HiUe-Is92TxtF4HYo0Sh4g1GkYbD9JwNZic_jRaXspmehJmb4CIDvwqaI"
@@ -15,9 +22,9 @@
     {
       "termino": "japón - venezuela",
       "trafico": "200+",
-      "noticia": "¿Cómo y dónde ver? Japón vs Venezuela | EN VIVO | Copa Kirin",
-      "enlace": "https://www.telemundo.com/deportes/futbol/venezuela-en-renovacion-pone-a-prueba-el-proyecto-japones-rcna600096",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1Ss4sVm_hLHYgekqOwxpnpRZ07GL1vukgpDz8_wwgscBwx6yTY7HLsYDPTQ0"
+      "noticia": "Oswaldo Vizcarrondo tras la polémica arbitral ante Japón:  Nos sentimos irrespetados",
+      "enlace": "https://www.globovision.com/deportes/62325/oswaldo-vizcarrondo-tras-la-polemica-arbitral-ante-japon-nos-sentimos-irrespetados",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC48Xz5ADpWnaXe-Iv3DSz6fLimXFyteOmdKHPyBYdB16yg10117VHpgUH1Oo"
     },
     {
       "termino": "noticia",
@@ -36,9 +43,9 @@
     {
       "termino": "policía",
       "trafico": "200+",
-      "noticia": "CNDH anuncia movilización nacional para defender derechos ciudadanos",
-      "enlace": "https://listindiario.com/la-republica/20260927/cndh-anuncia-movilizacion-nacional-defender-derechos-ciudadanos_923884.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg8UvjvbLpmU347wR5qzKTMoLxGVv0eZGne-nN9bPdRN0lrfAEHqHxd3KitQw"
+      "noticia": "En cuál Gobierno se produjeron más muertes durante intercambios de disparos",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/28/en-que-gobierno-se-ha-matado-mas-gente-en-accion-policial/3672496",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn6G4_Vzse0oP5e2xsYS8YIh33XjE2bjGwKEXxWnoeSfqjY3q35TY6x1U9R6I"
     },
     {
       "termino": "trinidad y tobago - república dominicana",
@@ -57,9 +64,9 @@
     {
       "termino": "santo domingo",
       "trafico": "20000+",
-      "noticia": "Temblores recientes concentran la actividad sísmica en el sur y suroeste del país",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/28/por-que-esta-temblando-sismos-se-concentran-en-el-sur-y-suroeste/3672251",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkk9T9su4m_2GKtVfRwUs0QeeCKWz0qS_lbLETDj1svR5p8uLKGyzqskd9g4"
+      "noticia": "¿Está el país preparado para un sismo de gran magnitud?",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/27/estamos-preparados-para-un-terremoto-el-estado-no-lo-sabe/3671625",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWZGa7RgRKOka7e32Z0h-75cdRsZ1HhNGbGh4hZv08quqekWV-dIxL-ijQrgA"
     },
     {
       "termino": "haití - costa rica",
@@ -67,13 +74,6 @@
       "noticia": "Costa Rica fracasa ante Haití y pone en riesgo Copa Oro y Liga A",
       "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17311907/costa-rica-haiti-derrota-fernando-batista-liga-naciones",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBihgsNC4ItGJhX6MBluD4LFceqaIfxeBo5BSDnVQkY6O8DfBsflIx6t273hM"
-    },
-    {
-      "termino": "haïti – costa rica",
-      "trafico": "2000+",
-      "noticia": "Haiti beats Costa Rica for back-to-back Concacaf Nations League victories",
-      "enlace": "https://haitiantimes.com/2026/09/28/haiti-beats-costa-rica-back-to-back/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXWAeYlu_B_HLM-ebiM5knI7NOt131xadXkanmgGjg9Ossa6cF60Je7K9dYKk"
     }
   ]
 }
