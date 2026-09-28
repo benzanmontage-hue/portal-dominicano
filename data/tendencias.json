@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-27T23:00:52.738002-04:00",
-  "hora": "23:00",
-  "fecha": "27/09/2026",
+  "updated": "2026-09-28T02:00:53.657305-04:00",
+  "hora": "02:00",
+  "fecha": "28/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de columbus crew contra inter miami",
+      "trafico": "200+",
+      "noticia": "Messi desafía la lógica con un tiro libre que parecía imposible",
+      "enlace": "https://as.com/us/futbol/messi-desafia-la-logica-con-un-tiro-libre-que-parecia-imposible-f202609-n/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhi_ZrJsDXa7vaowTg2R5Rvn4zC9FVV3l8bNW8BP0b-qOr6-4ri3wqZVHyHU"
+    },
     {
       "termino": "policía",
       "trafico": "200+",
@@ -14,17 +21,10 @@
     },
     {
       "termino": "trinidad y tobago - república dominicana",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "República Dominicana vs. Trinidad y Tobago: hora y dónde ver",
       "enlace": "https://cdndeportes.com.do/republica-dominicana-vs-trinidad-y-tobago-hora-y-donde-ver-el-partido-por-la-liga-de-naciones-concacaf/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2BisfWeJJSh8EiVBZ5cW5Dz3Oagz6iqF6krJxQcCtx4WPMPX5hW-gdnes6b8"
-    },
-    {
-      "termino": "haiti vs",
-      "trafico": "1000+",
-      "noticia": "Match Highlights Haiti - Costa Rica",
-      "enlace": "https://www.ysscores.com/en/video/367728",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcrCuFSOvOWA64lWBfuai0KHT58Ha5QJ4FKjUCKD7_JS9RtZ1abgDwBUAEkQ"
     },
     {
       "termino": "columbus crew - inter miami",
@@ -39,6 +39,20 @@
       "noticia": "Costa Rica fracasa ante Haití y pone en riesgo Copa Oro y Liga A",
       "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17311907/costa-rica-haiti-derrota-fernando-batista-liga-naciones",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBihgsNC4ItGJhX6MBluD4LFceqaIfxeBo5BSDnVQkY6O8DfBsflIx6t273hM"
+    },
+    {
+      "termino": "haïti – costa rica",
+      "trafico": "2000+",
+      "noticia": "Match Highlights Haiti - Costa Rica",
+      "enlace": "https://www.ysscores.com/en/video/367728",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcrCuFSOvOWA64lWBfuai0KHT58Ha5QJ4FKjUCKD7_JS9RtZ1abgDwBUAEkQ"
+    },
+    {
+      "termino": "listin diario",
+      "trafico": "500+",
+      "noticia": "La Policía identifica al acusado de doble homicidio en pica pollo de Sabana Perdida y a las víctimas",
+      "enlace": "https://listindiario.com/la-republica/20260927/policia-identifica-acusado-doble-homicidio-sabana-perdida-victimas_923887.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmVGprVPHgskwVQ5YU773IC0S96Q5u1T7B04dH_htjR1m3xidbSkPtqIEn7ns"
     },
     {
       "termino": "earthquake",
@@ -57,23 +71,9 @@
     {
       "termino": "norvège – portugal",
       "trafico": "500+",
-      "noticia": "Une rareté : Cristiano Ronaldo est resté sur le banc durant tout un match avec le Portugal pour la première fois hors match amical depuis 18 ans",
-      "enlace": "https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-est-reste-sur-le-banc-durant-tout-un-match-avec-le-portugal-pour-la-premiere-fois-hors-match-amical-depuis-18-ans/1721773",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM1Vfy2BJteGcssM-1d68BaTjB3tVYtbJVWyLaFwqgaS_SQ-bduXuPbFBYpGI"
-    },
-    {
-      "termino": "noruega - portugal",
-      "trafico": "5000+",
-      "noticia": "Ronaldo passou um jogo inteiro da Seleção no banco apenas pela terceira vez na carreira",
-      "enlace": "https://sapo.pt/artigo/ronaldo-passou-um-jogo-inteiro-da-selecao-no-banco-apenas-pela-terceira-vez-na-carreira-6ab99cf21c8a161561004c92",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6V_uO-v0ZgLC15S5UJrn6uYFXc4ZW9S1w67yRN4XDNWzLF3MpoUL67egzI4c"
-    },
-    {
-      "termino": "nfl scores",
-      "trafico": "200+",
-      "noticia": "What I’m hearing on Jayden Daniels’ future, Giants’ QB options, ‘QB pandemic’ lessons - The Athletic",
-      "enlace": "https://www.nytimes.com/athletic/7631525/2026/09/26/jayden-daniels-jaxson-dart-jameis-winston/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfPDHT23xIc1Bc-5uVs4GJe5jJYWMbP4quUY9IPIsdB96Lf9UUotmX2anpCss"
+      "noticia": "Une première depuis 18 ans pour Cristiano Ronaldo avec le Portugal - Ligue des nations - J2 - Norvège-Portugal (1-2)",
+      "enlace": "https://www.sofoot.com/breves/oser-mettre-cristiano-ronaldo-sur-le-banc-et-ne-pas-le-faire-entrer-une-premiere-depuis-18-ans-pour-le-portugal",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBSOdudWSxoqpRFbc0ES2PTvgT5Y5WxY3EM3BNSpHxp4P85nSO6LaEs52lshg"
     }
   ]
 }
