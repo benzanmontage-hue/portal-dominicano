@@ -1,24 +1,16 @@
 {
-  "updated": "2026-09-27T17:00:53.922899-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-27T20:00:52.841744-04:00",
+  "hora": "20:00",
   "fecha": "27/09/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Reportan sismo de 4.3 grados en República Dominicana - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDhEeHpiQ1owd1RRMVV4enBid25jdnNvMnJncmU1QzdTdGI0Z1ppTkgwdlc1ZGtkSk9DWEVwb2RubExCZk9wZ1RRejRNR25ocGdITnZvRmFZdVo5Yjk0bEZEbENuOWdYb2tuekhCZXNHU3R1aVhERFZ0a3ZWb2o1Sg?oc=5",
+      "titulo": "Se reporta un sismo en la zona oriental de República Dominicana - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejRCVTRsSG42eldZYnJOOUlQUGluZldHXzhnUURydGlENGxsM3NqMFA2Y3Fhblpzc1FpMHdkUDdlWG1HTEpDdDJsdEtweGRiQjhFOXFtVm14MnRJVklMYTc1NUZxVzNfS2xsREN1WE0yUWQyS1A2RERWbEtHS1o3TnJBVjJ6YW12UUdzS1EyTGVQZ180Y0RTTkxkdEdwU2tQS2hnelNnT3NNVlJzS2lLNERpS3g?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 17:40:30 GMT",
+      "fecha": "Sun, 27 Sep 2026 22:17:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Dos temblores sacuden a la República Dominicana este domingo en la madrugada - Ensegundos.do",
-      "fuente": "Ensegundos.do",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFNFd0F4UkRZSzEyQy1oS3JHRVZoS25fMXkydUd6Vjc5RUtXbzFobW1PQU5KWXRxMTNkdWl6bG1hSlNwRWhZSEg0UWZGNjY2b1MxRDNLUU5fazc4NF9CQlJwQUxPLUpydm9SejVzc2hvUjEyek5SRXFlVGc1V2pYeTMwa1ZhQXFPMnNvTkJrV1dhLTl3SUFabnpHcEgxSVRvQV80bTU5bkVWUEZEbHc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 10:21:59 GMT",
-      "imagen": "https://i0.wp.com/ensegundos.do/wp-content/uploads/2026/09/c4269a9f-32b6-4035-93ff-ac5b8d9ecd54.png?fit=1200%2C675&quality=80&ssl=1"
     },
     {
       "titulo": "Dominicana sufre en victoria frente a Nicaragua en CONCACAF Nations League - ESPN Deportes",
@@ -27,30 +19,6 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Adiós al Amur River: tanquero de gas natural parte a la República Dominicana en medio de pugna - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDlYRGZ5NE5LTzM3RUFNTDZvY3VLTGhybHhGRUJNckEwNmJ2T1FMN2NVc3ZENGZETmxPZm1ZbUZpSmNYQlUwNFZNSlZJdll5N0lsaUtJeTRxdUNScWFwM01sUWswQ2t1ZWFESmhUajY3emN6dDRmaG9neS0tMDUtN1BJV1ZhdTNSM3dwWkpKcXpKWm1Sd1dUU2hsVVZpR21SSi11U0RadU5NS1lkcEhfVFhyN3BwclJsTGpfUmNfRjJDOVV4WUs3eVRWQ0EwMFdpUjVMMDBveTh4LVlu?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 19:06:59 GMT",
-      "imagen": "https://www.elnuevodia.com/resizer/v2/OEKQKVWRE5ES7JVX3SWSL3WBKM.jpg?auth=8b6021a958100791d361492f6ef6776bf87aad441733e9efb71f7e48e72aa58d&quality=75&width=1200&height=717&focal=2781%2C2363"
-    },
-    {
-      "titulo": "NFE aclara que Amur River irá a República Dominicana para reabastecerse tras señalamientos de José Aponte - El Vocero de Puerto Rico",
-      "fuente": "El Vocero de Puerto Rico",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHppR0wwTzRQYy1uMzhoT1dhUkthX2RRU0licFppOGQ1UWxiQmtteGhVSjBDY0hCNkdhdHI1N2pvenJZeHYteGtId2dBZ3JMSlkwb2pNc3FqWGVmUWNuN0hVOFR6bzRpZ2xXcld4TTJSZXdCNkhTRng0bjVGOFZDRUhDN3djUDRMZDVvSnQtdWFTS3g3bjVZR0F0NGxjQ2hTc21FRTBSQmVERjlNOUVyWTFWeGI0aEdIN1F5Y092ZG1YY0V4bzhzYmp1VnF0YnI0RDlHMDB5T2h3ZGI3Z1ctcnQ3VUc4aUxxQUNmR3BSSE55QjJaaDVUM0VmeEgtdF96bG1r0gGIAkFVX3lxTFBwWE1KQ0JJX3UxSlo0SlFoYTlFRkpVZWtzOXd5UU5JeGFTcnZ5YkhfTFZZTHdhMkRkcUN4TDFyWUlGN2xkTEtIM2I1bHpKUDZpSkFGMFBmZG5DWklhNkdCQjg3UDNMQkRRc3J0ODJaeDdkTDNib2ZFOW5zWkhMNHI1TEgxeVNLRkxuSEhiekxZaDBwLVRYLWVVNk00Q0RtcW1MTVRqN0M5LVNrTkFFbXkzcm1KLXBpVjYxYUdjXzRhaXNfd2NLTWVkSGJ6Z3VqbTNyVE5DdnZJX2NreEhYLVdNRzMwclpXVVZsc3B5YnVfVGxwdi13RE91Nm04bEQ5T3RTN21xSWtHTA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 18:03:00 GMT",
-      "imagen": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/c/82/c82516f4-acf1-41cb-9a8a-79a83050adc0/6887b82fa5bb3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    },
-    {
-      "titulo": "Buque con gas licuado partirá a República Dominicana tras semana en afueras de bahía de San Juan - wapa.tv",
-      "fuente": "wapa.tv",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMEZqZmtZY2poSFI1QnBuN0g1MVpRc18zTElnSHdqZE43RU1tNzlwWG9URGVmWlJPLU1YUkhCQ1h0Q3VMMVluSV9zdDBLeHVnN0dxZWxWMGZXcWtTeXdiZExXREJWRUpxbVVRSjRYVzNxbm83RENGSzdHNWJleUprM3pPa01hbjFiODl4WXJXUlJTZzlXd2hIX2JHM1hGTGktdGhURlpTam1tSzd6S2FKZDZtYXBVeEl6ZVh1bWxXVmNQR0hNZlJacElhTzZVSGpkZGc1MWs5YmVvT1VlSE0tbGtST1FBdm9RdnlXRGJRc29mOEVUZUFZ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 00:37:34 GMT",
-      "imagen": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/4/b4/4b4dc4f8-f70c-5505-8b77-279de2dc7fe9/6ab86548ceab6.image.webp?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     },
     {
       "titulo": "Precio del dólar hoy sábado 26 de septiembre de 2026 - elcaribe.com.do",
@@ -69,6 +37,30 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/01/disparo-jpg-OG.jpg"
     },
     {
+      "titulo": "NFE aclara que Amur River irá a República Dominicana para reabastecerse tras señalamientos de José Aponte - El Vocero de Puerto Rico",
+      "fuente": "El Vocero de Puerto Rico",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHppR0wwTzRQYy1uMzhoT1dhUkthX2RRU0licFppOGQ1UWxiQmtteGhVSjBDY0hCNkdhdHI1N2pvenJZeHYteGtId2dBZ3JMSlkwb2pNc3FqWGVmUWNuN0hVOFR6bzRpZ2xXcld4TTJSZXdCNkhTRng0bjVGOFZDRUhDN3djUDRMZDVvSnQtdWFTS3g3bjVZR0F0NGxjQ2hTc21FRTBSQmVERjlNOUVyWTFWeGI0aEdIN1F5Y092ZG1YY0V4bzhzYmp1VnF0YnI0RDlHMDB5T2h3ZGI3Z1ctcnQ3VUc4aUxxQUNmR3BSSE55QjJaaDVUM0VmeEgtdF96bG1r0gGIAkFVX3lxTFBwWE1KQ0JJX3UxSlo0SlFoYTlFRkpVZWtzOXd5UU5JeGFTcnZ5YkhfTFZZTHdhMkRkcUN4TDFyWUlGN2xkTEtIM2I1bHpKUDZpSkFGMFBmZG5DWklhNkdCQjg3UDNMQkRRc3J0ODJaeDdkTDNib2ZFOW5zWkhMNHI1TEgxeVNLRkxuSEhiekxZaDBwLVRYLWVVNk00Q0RtcW1MTVRqN0M5LVNrTkFFbXkzcm1KLXBpVjYxYUdjXzRhaXNfd2NLTWVkSGJ6Z3VqbTNyVE5DdnZJX2NreEhYLVdNRzMwclpXVVZsc3B5YnVfVGxwdi13RE91Nm04bEQ5T3RTN21xSWtHTA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 26 Sep 2026 18:03:00 GMT",
+      "imagen": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/c/82/c82516f4-acf1-41cb-9a8a-79a83050adc0/6887b82fa5bb3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    },
+    {
+      "titulo": "Adiós al Amur River: tanquero de gas natural parte a la República Dominicana en medio de pugna - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDlYRGZ5NE5LTzM3RUFNTDZvY3VLTGhybHhGRUJNckEwNmJ2T1FMN2NVc3ZENGZETmxPZm1ZbUZpSmNYQlUwNFZNSlZJdll5N0lsaUtJeTRxdUNScWFwM01sUWswQ2t1ZWFESmhUajY3emN6dDRmaG9neS0tMDUtN1BJV1ZhdTNSM3dwWkpKcXpKWm1Sd1dUU2hsVVZpR21SSi11U0RadU5NS1lkcEhfVFhyN3BwclJsTGpfUmNfRjJDOVV4WUs3eVRWQ0EwMFdpUjVMMDBveTh4LVlu?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 26 Sep 2026 19:06:59 GMT",
+      "imagen": "https://www.elnuevodia.com/resizer/v2/OEKQKVWRE5ES7JVX3SWSL3WBKM.jpg?auth=8b6021a958100791d361492f6ef6776bf87aad441733e9efb71f7e48e72aa58d&quality=75&width=1200&height=717&focal=2781%2C2363"
+    },
+    {
+      "titulo": "Buque con gas licuado partirá a República Dominicana tras semana en afueras de bahía de San Juan - wapa.tv",
+      "fuente": "wapa.tv",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMEZqZmtZY2poSFI1QnBuN0g1MVpRc18zTElnSHdqZE43RU1tNzlwWG9URGVmWlJPLU1YUkhCQ1h0Q3VMMVluSV9zdDBLeHVnN0dxZWxWMGZXcWtTeXdiZExXREJWRUpxbVVRSjRYVzNxbm83RENGSzdHNWJleUprM3pPa01hbjFiODl4WXJXUlJTZzlXd2hIX2JHM1hGTGktdGhURlpTam1tSzd6S2FKZDZtYXBVeEl6ZVh1bWxXVmNQR0hNZlJacElhTzZVSGpkZGc1MWs5YmVvT1VlSE0tbGtST1FBdm9RdnlXRGJRc29mOEVUZUFZ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 26 Sep 2026 00:37:34 GMT",
+      "imagen": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/4/b4/4b4dc4f8-f70c-5505-8b77-279de2dc7fe9/6ab86548ceab6.image.webp?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    },
+    {
       "titulo": "México vence 2-1 a República Dominicana en la séptima entrada del Mundial Sub-15 - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1RvNXNXWjdKTUZPY3Jqb1A5MlU2X1ZvZTd0M2ZDakl2MEt0OXphSjJMS3NjRGhlSkw1eE5laWFuWTRXM1lyNG5EQTQ0anhsLVJpSVo5R0thN2FKdi1QcmRDSGlxbHJzWVNNTWlHVThTZUlxc012eGVzSVZDWGx2enEzM3BNVHI2ZFhQTzVxS21uZ2ZXVFNKT05xdTdaMWNhTVZpT1BNVndCdG9zNU13?oc=5",
@@ -77,12 +69,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Joheirry Mola, Miss Mundo 2026, vuelve a República Dominicana entre emoción y orgullo - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDNXMmZFMk5IQnZPU2lvN2VFbEt6RmRYN0JYU2swcldYaEJ0UVNVOHJ5SjNQVHF6Z2xoUEdLam1rVDNGU1c4aHI1OGV0VFMyRGJBb1hzdllCZmdJeUxZamlvRUQ4QVF0dER3RF9qN2VtQTV4Snhyb0J1LS01VVZRalR6UDdhNkNCYkd2VDV5UHFFdmFJdXUzWDlOQ2FKajFLZWNYRUhqTXR0YTZLbGl4clJMcjEwQzRSWjZhTEdhWkpZVDhoUzJKN2czVVZ0MnkxWlo0U203WmNmZGvSAeABQVVfeXFMT3Q2dEFGOEZ0ZVBlV19uYTFjWTFkVk9jX1lGRjZMYTZWWDNqYk1paHE1N0k5T3ptMGI5Y3lhaVJZWVFURmJRaHlEV2JybFpHV0FyODhvN0JTMU1TZEd6eEdRbnFQYjhqa3J4UGhTOXNJWW5uUG04UWFXS1h1YUNMc0E1VEYyT2RJRlJHVzRIV1o1bUxnaDBCZlVrRUQ4TGgxR0twSi1iNFlkS1FNNkZjcnBqNmJ0LWJWeVpTamhzbV9LSXJNMGVpU2U1QkVERkU2VU5GaVlZS01NWTk4d0ZiU1Y?oc=5",
+      "titulo": "Lanzador cubano Leandro Forteza llega a República Dominicana en busca de una firma con MLB - cibercuba.com",
+      "fuente": "cibercuba.com",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUk1QY3gyLWhyNkRWOFR0Q2M5eUNQREZSME8xZTFmUjBnT2w0aWRkeDltazlnbnZ0cTJYc0xHckVKNkVkYWJSVkhyU0lKV2ZWNHU0Z01FbmhsX3BadVAyWTJkTDBEaEp4N29hTUgwbkRublFSWVJ4cGhDd0xBelNBUVI1Z1lrTFhYcVJrTzR4SjJSOE1RSGR6SWhOLThzSkFBS3oyRXJxLS1Mb0NQd2FTTmRHR0lkTW91YzdLZ3Z30gG-AUFVX3lxTE9STVBjeDItaHI2RFY4VHRDYzl5Q1BERlIwTzFlMWZSMGdPbDRpZGR4OW1rOWdudnRxMlhzTEdyRUo2RWRhYlJWSHJTSUpXZlY0dTRnTUVuaGxfcFp1UDJZMmRMMERoSng3b2FNSDBuRG5uUVJZUnhwaEN3TEF6U0FRUjVnWWtMWFhxUmtPNHhKMlI4TVFIZHpJaE4tOHNKQUFLejJFcnEtLUxvQ1B3YVNOZEdHSWRNb3VjN0tndnc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 00:03:46 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c4f06e698c.r_d.612-351-0.jpeg"
+      "fecha": "Sun, 27 Sep 2026 22:07:39 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Semana Dominicana proyectará en Londres nuevas oportunidades de inversión y negocios en el país - Listín Diario",
@@ -93,11 +85,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Temor a otro colapso provoca un déjà vu en República Dominicana - metro.pr",
-      "fuente": "metro.pr",
+      "titulo": "Temor a otro colapso provoca un déjà vu en República Dominicana - Metro Puerto Rico",
+      "fuente": "Metro Puerto Rico",
       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VpWXpGWWQwc2EtMUNsdmlkU2l6dm9IS2ItNXV3eUFXTFVkNzJCX1V5TmlJNWVXaU5jeU1yeHZnd1NaSDc5bV9ZZWJQSENpSzlTNFBDcDdYdWFicUFEVTFsZ0Q1WjBWaTZ1RFNrTnVwQThGcGRaQ3BWbnY0d3ByMTZtcGE5RFhwQ0JHYjVxMVF5LUU4Y1kzdjgtb2ZYSW0zbTdLTV9aSzI?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 16:59:26 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "El “Come Hombres de Los Frailes” murió tras un operativo ejecutado por la policía en República Dominicana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX2ZvV2hOM1ZMQmdETUo0bmktNjFoZ2stSnZnQjdpZW56WmZaR3JiTGstVkJiUmwxQ0dzcWZIaHdTOXBPVjlDM1hMbl9LY3l6UDRYXzNnZFN0UGVvNndEbVB3Y09LU3ZBZmRRa18xZWw5ZEJPektGdlZ6MGprZUUyWVRGMmUwaHdkOHR6YW5TRHQ4WkZOLTlWOVpQdTc3aHI3Y2VLRUFRRmJKdU9tRW5ZRDJpRmlpUmtvb1lVeWRvOTZ4WTMxOUZmbWo0T3ZTX01paEhnQzNNdng2OVQ2YlBBLWlxT1g0VVQyaFR2djdpWXRnd9IBjAJBVV95cUxPcTdpV0RhOWRYblVscVF1REx1VGtJTU9YYXBpYjc1cmJFenVTaVRlZFVJTlNEdG1scUxJRExBLTFQeEhia1haZTJvNlh6Qk9WRG1HN0o4bXNxS3V6OEZhQW9QeDJoZE1oNmp5Sm03Q1ZQMnl2REloQXBTeTBwN3ZFczdMY2ZjY2lVbC1pTFM0TTFIa0JVNE1mQnV3cFlyNEpXYWZIeW5TdlJrUEFZazNSc0hfSU92WkFnSDQ1RVRRcWVFWk1EalhCMWFLZXoxZDJhQWVKc09vaXdSNGVMcGVZblNEVkdvRDFFeVpJMzlfeThEMVQ3OGNtdHNVRkpvZk00cDZiOFFMamgwTWUt?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 18:41:00 GMT",
       "imagen": ""
     },
     {
@@ -109,20 +109,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Dos dominicanos fueron extraditados a Miami por una causa federal de narcotráfico - Infobae",
+      "titulo": "Taller creaba compartimientos secretos para drogas en República Dominicana hasta ser desmantelado - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPczNkZFd4YWVJb1ZWSFpjaXlyN3Z2Q0V0bVhweFJaTWxnMHFscmdTNGFYNmM0M0tpYll2Y0hob0YxeHBwd2MxS3A3cXJTUkpNT2xUS0pnRW84eTRHS20tZDh0V0IwYkFNNklBN0VOU3ZIMkZBN2F5RjRGVExHV3VjMmU4YVdxZ3pOWnZUaHd4NjliOVhkb0YzQnpaT3U4OE1uRkxEdXRTLV8zaDVJdldCNEtnYUFGRmpIN3BiNDFLVjlkd0xZZVZuTnZxaklsMjZObE5KVtIB7wFBVV95cUxOaFdtTjVvV2xVYWh5R3NTcU1xX0tKV2RLcjA1a3BBZEVlb0FYN1A3WnFhTE44N2tLMjBMUDJvOTI1bG8xRy1QaGtEVmVtWGlhMUlCQWNDTUl3c0YtN3JybWt0NzFWYWZCNW5oRmhmZTY5dnkwWUFpb1VGT1J6VFV0NmxvT0FtLUp1b3p1aVNMVXI1OTNGQVhRc3pfeDVNTXV0Y0pEa2tDamV1NC0zWkVMNzJUV21aaW9jMzY2aUozc0VxWmVDSk1heElEZWhoX05Nb1BDMjM2MmUxcWdhajJ2aXdER04wekY5eWxHd3gwdw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOXhqS1NJWjVkZG16WENxcXB6WlA5bGhBRjZFUmpGQ3M4eHNxZjFCa09jM2VPb3U1QzFfVzNDUHFQZmlFMzdnZ1dBdlV1b2JMN0pVNGRIQzBudzZiN1haYTJmcXNDYnhUcU1SWVRqQ0Z2SXN2QW5qWDcwTmpsWDI3cktEbldhLXpkNjJUWVpNcHY1TmJmdG13VDNGNTA3X1k0RzdvRXdUdWh2YjVYM0RoWVFJSG5SRTJXZFRHMmpHQzVQanYxcTNnTVBtam9NeG1LaG1YYkRfNXFieUktT0dJaVF2TENqbFU1MEHSAYQCQVVfeXFMT29WTzJLWU5UcnJRb2F1WkItVEpYUXRyYXF0cktsUWZkX0htTG9MOTVyNFoyZnpXSTliSUtqRUxXcmJpSkEyQkpqX09JdF9MbG8xSGRJYXF2b01jalpsWG1UdHVkLVdVUVFSeWlVa2FrS1g3ci00OTQwYU8zeGNra3o3Y09ISmtyZTFYdjRTOWF5bGdMaENrYXg0UU5MczJLVV9TSmp3SGZmQzRkeG1Ba0lIU0E5R25nUUtRRGdUTE5Iek05VldodzJIaHhNd0tGaXRRLW9FTXFHNmFTcWItbDYySEQzdHhYZWNaSnJyQ0VLWS1jZ2FraUZKTVZ2dnp6SU1xRWw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 13:09:00 GMT",
+      "fecha": "Sun, 27 Sep 2026 23:01:55 GMT",
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana, Haití y Curazao debutaron con triunfos en la Liga A - Concacaf | Official Website",
-      "fuente": "Concacaf | Official Website",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1RXNG1PclVNb21SWmRWNFc5c08wRUNEZGpQbTdyc1BOTFBsNy1zWEp5SzVySXhFSk15WC1JTnZ3aVBRRGVPWk9WQm1CZjNjUnNaUFhydHc4bWhwRHJwTzlVLW83VEljTXJUak9Sd3ZwQ1dvY0Z1QkJFTlByZnlkUUJQajRHcVpVX3kzQjRKUnRERmJNYXgwMmtVVnNWMmY4aDJZVXYxeWpkRTh6cVBHMlVfd2g5SUhJdHhrWV9mcFpydUtSUmtLVw?oc=5",
+      "titulo": "Temblor de 5.2 en zona oriental de República Dominicana se siente en la isla - Telemundo Puerto Rico",
+      "fuente": "Telemundo Puerto Rico",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTVVR2U5M0tkN2VSRWlGWGx5cXRqQWk0VndFU1podmdKVkx1YUlxV1pDMUdINVN2OHdCRlVTa0ttdE40OUJWUS1rWTlfaXZfd0xTS3Z0XzEwb05jSnNXQ3U0TzA4c3g2dkYwVWZiNm0tbjRvNW93WlRyNXQwbFJBd3IzLUxmdWlQX2U5Y1U4UXhjVkdIWHZEclhUNVRCWU5PTDlLN1RFYVZlbjhMVE1Kcm83elZxSk5VQlBoZ05zVC1lRkRrOEs1NUY2eWtIWW_SAdcBQVVfeXFMTlN4ZmlDM1Z5WmhYU2VUZFVvRm1JdkRpajFxSzM0LXB3Qm9wUzV1ZlhRZjI2Z0I2NTJ0aHpFWWFRMnNvN25pbHJTbkdaNnRWOGVSU2pkVV9lcFhNeEpVZVA1THJGSGFYelNBaGZIZWxjMDEwbHN2ZGFKcm9nNTdvcFZVTUhXSkQ0Z2dQRDUzdmNVR2RFV3gzMGVveHZucmJCZkxOQ1RNYUZKbTk4elREbW5rMzNCZzdSUWUwU3h5eVByRDdDaFJtTjRmNXZYa2RmZTVuSEowcVk?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 05:30:07 GMT",
-      "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/ihk2ugg7d6q4xux4yqyi"
+      "fecha": "Sun, 27 Sep 2026 22:03:19 GMT",
+      "imagen": ""
     }
   ]
 }
