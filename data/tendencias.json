@@ -1,37 +1,44 @@
 {
-  "updated": "2026-09-29T08:00:21.757807-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-29T11:00:22.090008-04:00",
+  "hora": "11:00",
   "fecha": "29/09/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 8,
   "tendencias": [
     {
       "termino": "australia vs brazil",
       "trafico": "200+",
-      "noticia": "Australia v Brazil: men’s international football friendly – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPuHImVKhf3iOsq5zve-r_ngvQFkiiEMsTWf6oKvLcv6nyISFWQ1lXe75jqE"
+      "noticia": "Australia go down fighting to Brazil in fiery 4-2 friendly defeat",
+      "enlace": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTcS1q43_rbVujJ6EB_KAABvC1xEgGTYn0-Vw1zFiW-A3Oxr8mPvNE2agEY0"
     },
     {
       "termino": "australie – brésil",
       "trafico": "1000+",
-      "noticia": "Prédiction Australie - Brésil : La pression monte pour l équipe locale.",
-      "enlace": "https://www.vietnam.vn/fr/nhan-dinh-uc-vs-brazil-ap-luc-de-nang-chu-nha",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qeNBemAK_PuQOgJVK2KSYcBeupfRAGP7OU3ycY9JsEOw81FgE1xnPIBDsxk"
+      "noticia": "Le Brésil renverse l Australie mais le Barça s inquiète pour Raphinha, sorti sur blessure",
+      "enlace": "https://rmcsport.bfmtv.com/football/equipe-bresil/bresil-la-selecao-renverse-l-australie-mais-retient-son-souffle-pour-raphinha-sorti-sur-blessure_AV-202609290570.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YCZnf_eAWqi4p_60tJnhBoErFF2E4KFk-G9pzcZh95ADch6YLZUu0tBnkr8"
     },
     {
       "termino": "diario libre",
       "trafico": "100+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "El alto costo de la vida encabeza los problemas del país y de las familias, según una encuesta",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/29/encuesta-alto-costo-de-la-vida-encabeza-los-problemas-del-pais/3672846",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQx705cPXGTOCii0JTJcyJbqCOpxCvvFYiFtD4iTCu9WUk2ooI_L-6yJcnvS4"
     },
     {
       "termino": "australia - brasil",
       "trafico": "2000+",
-      "noticia": "Confira a escalação da Seleção Brasileira para enfrentar a Austrália",
-      "enlace": "https://www.metropoles.com/esportes/confira-a-escalacao-da-selecao-brasileira-para-enfrentar-a-australia",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNTRlANJraDU2TwN_KB2BLEXsJ8qBJ-vUVCQLJag4Qsstnwt8lst9QW-WCovo"
+      "noticia": "Circati e Irankunda titulares em derrota da Austrália com o Brasil",
+      "enlace": "https://sapo.pt/artigo/circati-e-irankunda-titulares-em-derrota-da-australia-com-o-brasil-6abbb0e7fb6126a6369c7e5d",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1LvxHU9QBbr2IkAb3dIDKCS9kL9bg4x3NlCljUJD52mgRXVIfXpqMdnMmUY"
+    },
+    {
+      "termino": "empresa de transmisión eléctrica dominicana (eted)",
+      "trafico": "1000+",
+      "noticia": "Conoce los sectores que tendrán suspensiones eléctricas debido a las reparaciones de la ETED",
+      "enlace": "https://hoy.com.do/economia/conoce-sectores-tendran-suspensiones-electricas-debido-reparaciones-eted_1103828.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUyqtJAPWmOWzUN0livcOlxyZEQY8rILnfDE17xthan9lWfffpfCiSYY_GXAw"
     },
     {
       "termino": "instituto dominicano de las telecomunicaciones indotel",
