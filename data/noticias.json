@@ -1,16 +1,40 @@
 {
-  "updated": "2026-09-29T14:00:38.592997-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-29T17:00:29.046341-04:00",
+  "hora": "17:00",
   "fecha": "29/09/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Temblor de 5.2 en zona oriental de República Dominicana se siente en la isla - telemundopr.com",
-      "fuente": "telemundopr.com",
+      "titulo": "Temblor de 5.2 en zona oriental de República Dominicana se siente en la isla - Telemundo Puerto Rico",
+      "fuente": "Telemundo Puerto Rico",
       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTVVR2U5M0tkN2VSRWlGWGx5cXRqQWk0VndFU1podmdKVkx1YUlxV1pDMUdINVN2OHdCRlVTa0ttdE40OUJWUS1rWTlfaXZfd0xTS3Z0XzEwb05jSnNXQ3U0TzA4c3g2dkYwVWZiNm0tbjRvNW93WlRyNXQwbFJBd3IzLUxmdWlQX2U5Y1U4UXhjVkdIWHZEclhUNVRCWU5PTDlLN1RFYVZlbjhMVE1Kcm83elZxSk5VQlBoZ05zVC1lRkRrOEs1NUY2eWtIWW_SAdcBQVVfeXFMTlN4ZmlDM1Z5WmhYU2VUZFVvRm1JdkRpajFxSzM0LXB3Qm9wUzV1ZlhRZjI2Z0I2NTJ0aHpFWWFRMnNvN25pbHJTbkdaNnRWOGVSU2pkVV9lcFhNeEpVZVA1THJGSGFYelNBaGZIZWxjMDEwbHN2ZGFKcm9nNTdvcFZVTUhXSkQ0Z2dQRDUzdmNVR2RFV3gzMGVveHZucmJCZkxOQ1RNYUZKbTk4elREbW5rMzNCZzdSUWUwU3h5eVByRDdDaFJtTjRmNXZYa2RmZTVuSEowcVk?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 27 Sep 2026 22:03:19 GMT",
       "imagen": "https://media.telemundopr.com/2026/09/BSN-THUMBNAILS-10.png?resize=1200%2C675&quality=85&strip=all"
+    },
+    {
+      "titulo": "Sismo de 4.8 sacude la zona oriental de República Dominicana - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejRCVTRsSG42eldZYnJOOUlQUGluZldHXzhnUURydGlENGxsM3NqMFA2Y3Fhblpzc1FpMHdkUDdlWG1HTEpDdDJsdEtweGRiQjhFOXFtVm14MnRJVklMYTc1NUZxVzNfS2xsREN1WE0yUWQyS1A2RERWbEtHS1o3TnJBVjJ6YW12UUdzS1EyTGVQZ180Y0RTTkxkdEdwU2tQS2hnelNnT3NNVlJzS2lLNERpS3g?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 27 Sep 2026 22:17:00 GMT",
+      "imagen": "https://www.elnuevodia.com/resizer/v2/LUOSTCCU4RGZ5MOK55GWYVHA7Y.png?auth=3a5f05b7e9227e445f79147f96dc9076f805ea43c2e2d870dcfb907b8fcb5ca7&quality=75&width=1200&height=717&focal=462%2C270"
+    },
+    {
+      "titulo": "Un sismo de magnitud 5,6 sacude una parte de República Dominicana - EFE - Agencia de noticias",
+      "fuente": "EFE - Agencia de noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53a2hlMTNLblN2cnQ3UEpscEkzWWJXbDlBMnc3dS1zNF9LSkhSSXZCSjBxYm1XMmoyc3NMYUtRWFdwclRJcXBGbHprZ1U1NDNTZ29WZF9iVlJnUXdFcWZZWG14UnlUejJjR0l3Vg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 28 Sep 2026 02:33:04 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿A quién apoyará Luis Abinader para las elecciones presidenciales de República Dominicana de 2028? - univision.com",
+      "fuente": "univision.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFJlUkJXQjMtS092b2Y5UE94WmxiWDQtRkRuVENNVVAzZ1QtU240Y3l3Z3Q5enBaX1Y2RHNvaXZBejFKUGd2UzNxbEVhU2VORVlxc1VlLVUwRFI4bGloYWhyY2pQMktEdzdUN1Jvb0Rvdnl1V05ScDhSZ2NPYmxaWnNhQXkyUm51NkdPY1JmdkoyX2MzYVhEZ3pYMVRyaW9qR0tRSWtfTkRiNFNhYWE5bjk1ZTRBcmJ2bmtJUXpLV0hSb0RPWXV4aG1RcFZOYUJqVkZCRTVVb0xodEl2V1BSWHE4LVA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 29 Sep 2026 00:59:09 GMT",
+      "imagen": "https://www.univision.com/api/image/og/us/local/nueva-york-wxtv/a-quien-apoyara-luis-abinader-para-las-elecciones-presidenciales-de-republica-dominicana-de-2028-video"
     },
     {
       "titulo": "Trin   Tob 1-2 República Dominicana (27 de Sep., 2026) Resultado Final - ESPN Deportes",
@@ -21,28 +45,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Embarcación con decenas de inmigrantes naufraga cerca de Isla de Mona, donde buscan sobrevivientes - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPczlCaWRRUFR4LUJYRzFCSW5DM0R4dDNvblFGMkxVN20tNXc5d3Qya1RIWEZBUWo3T25sMTRiYkZUcXdabVlkQWRXRlJvbkR4clIxWTlzSVhIQThXWmNKdEdqRGpiQXlibzBZQ0h5UWhXeURyajhMVDRtUEdUZDVLYnJnSGRyMlhkS0hlRDJaR3RBQVhfU2ZSWk5nUHJJLXZLSkp6TkpzT1lhVmVUdjdrYjhwMGh3b3F6aHpUaUpFci1oUVVRRFpxUVZ4UUhENGttLWlFRjY1OW94bU9ZbWJpNDZOdFk5R2RKZWE3c2RWcEtkMW4wd0E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 20:59:04 GMT",
-      "imagen": "https://www.univision.com/api/image/og/us/local/puerto-rico-wste/embarcacion-con-decenas-de-inmigrantes-sale-de-republica-dominicana-a-puerto-rico-y-naufraga-cerca-de-isla-de-mona"
-    },
-    {
       "titulo": "República Dominicana desperdicia 1.1 millones de kilos de comida por semana, según ONG - Listín Diario",
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGk0SjZGc19BMHIxeDE5dU8zZlZGUXNFdGFicnNNM29kWHJUcFFkbDBKNEpHTmI2eUV0dF8zUF9BUFVlZjRLRXdRSTM3bW1fa0xqTWRGTV9sM3QtWkRQcGEyMFRiSmw3RGxsOTRFcmo1Z3VORk15WnJRcmx4SkQ5OGUwaF9weWpnQXpxbXFhR09QOHlILU0zakxEQy1reV95VDF5Y0R1WkxzOFNudDIxWEZ4V3Q0RmxsWmUwNEQ4enhMQ1N5WFM00gHMAUFVX3lxTE1HUzNIb3V6cGk3NmZkck9lX09OdDktdndZaDNwMXhLY3ZndkNFY21uWm11aEFpRHFnTzBueWpSZ1BLZzVnbXN2dnFmU2Y0OFBoODNkdUQxYkNjOV9MSUx6X2w1RlpUVWFMdWdnMHZPSnVsVW1qdlJra1hoY1BwVmRyZUFBQVRQMkxJUkVXd1Q4dTRQZDM2RGNnR2theEw3d1A1a29UVTY0TFpQUS1hbWdQR21ESGtNUWFkYkxHUFFVUTI3MTQwTnA2SmdKWQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 29 Sep 2026 02:55:11 GMT",
       "imagen": "https://listindiario.com/files/main_image/uploads/2024/09/20/66ed9e233535b.jpeg"
-    },
-    {
-      "titulo": "Soltour impulsa República Dominicana y Jamaica para llenar el vacío de Cuba - Hosteltur, noticias de turismo",
-      "fuente": "Hosteltur, noticias de turismo",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSm5ITF9jYmxSQ0R6LW9VN2xZSFBoSkdpZElMQ0xnN0wwcWpoWmlMdUZaYjJDTlZSRUpKSk9GeURQLWhsX2JqcTJaRTR1Z2g5RTEtd1NDcGc4QzBsczZIY1dOZ1FsNVpXVHpZQmUySkx6TFNmanpHVHZzVXRpMnNUREJlN3FRX0ZMb1BfN1FkMXdoS0FEbnVHbnNzdk1waW5BT25vYWJxZ1ZLSWhWLUVZLXBrcw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 05:46:27 GMT",
-      "imagen": "https://static.hosteltur.com/app/public/uploads/img/articles/2026/09/25/L_140427_soltour-impulsa-republica-dominicana-y-jamaica-para-llenar-el-vacio-de-cuba.jpg"
     },
     {
       "titulo": "El alto costo del alquiler obliga a dominicanos a compartir piso en Madrid - Diario Libre",
@@ -53,28 +61,28 @@
       "imagen": "https://resources.diariolibre.com/images/imagenes/2011/19/195331-focus-0-0-1200-675.jpg"
     },
     {
-      "titulo": "Alexia Putellas lleva su legado hasta República Dominicana - MARCA",
-      "fuente": "MARCA",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTBEN2ZTWVpuWm5Ic0FUbEp4aFdFdW5la3F1Mm9SNE03bW96S1FkbnFPY3J2NUlGZ1JHeXFhTW5qdjczOHAzS055a21kUXVLblBzNG9YR1haSDFYTnJUa25ZZWlVVXJzcWhlczYxVHhBVWl6SEI1eXVQRkFyVUN3MXlRcnd5SVU2OHZlUlNCMGNwWWpxam1ack82SFBiZGhQMEdZU0RrQTE1YWtocWFZ0gGvAUFVX3lxTFBfYTdpWnY3anU1a0w0cE5jdHhPS0tpdlV1LWw0dFhzckQ5Y0h6XzNyZWE5SGNuekVKUDI5R0hxOVVySmU1NkFnWkMzOF9lOV95YnJ1WUltYzJleXFXclB4YWtNNmh4RENVSV9sMUNld3BMbTVhbVlzVjRqODVpRlQzWHU3TEN0YjN3ZUdjcWRaMDBEMzA5dGtKeDBMSWtubHY0dDdha1BHaUt1YTRTWDQ?oc=5",
+      "titulo": "Precio del dólar hoy lunes 28 de septiembre de 2026 - elcaribe.com.do",
+      "fuente": "elcaribe.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkVxckN4b0VDbkRGQmJEaWotaVZQX09ydlpyODJxMEhqVWJwdkg3UURBVmhDaV8yb2otWTh1dDRBZVZNMmNXRnFlT2NaaHlxNW5PM0wzRW1Pc2Zra2FmS0I4TmI4NzZKVVZMQkx2enZaNDQxQ0lYTzdnNnpRSTB0UkJPU1Q3MkpVNXVIUWFtMEdVeWRlbDlMYnBxMGdvUQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 15:32:27 GMT",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/09/29/6abbd9c7d1d56.jpeg"
+      "fecha": "Mon, 28 Sep 2026 13:06:08 GMT",
+      "imagen": ""
     },
     {
-      "titulo": "Director comercial de Google Cloud destaca perspectivas de desarrollo de República Dominicana - Acento",
+      "titulo": "República Dominicana 'avanza en los preparativos' para reabrir su consulado en Venezuela - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0JGeENtTzMtYUJ3ak9JdHpCUl9wU29wVmlHbHR6cHR1dnlOUGFwVE56M1c1RXdHdTFjNDUzV1VlcjVtRDRvSk5EZC1aRjE0RGl3YVpfeGNiNElTNExLMXgtczI1SnRyZkJjMVQtZjRFN1E5dmFPQUxSaTY0M1BtNmMweWktVmpQV2dOeVlWWEpSUXFldXBkT2YxeXhRMFVFOGtJSDk1eFcyWHVjRGxHY1ZQLWdEMGJhZUsweHBOOF84ZkNLc1RFNFo5cjVLZTRodzhR0gHTAUFVX3lxTE1TQkZ4Q21PMy1hQndqT0l0ekJSX3BTb3BWaUdsdHpwdHV2eU5QYXBUTnozVzVFd0d1MWM0NTNXVWVyNW1ENG9KTkRkLVpGMTREaXdhWl94Y2I0SVM0TEsxeC1zMjVKdHJmQmMxVC1mNEU3UTl2YU9BTFJpNjQzUG02YzB5aS1WalBXZ055WVZYSlJRcWV1cGRPZjF5eFEwVUU4a0lIOTV4VzJYdWNEbEdjVlAtZ0QwYmFlSzB4cE44XzhmQ0tzVEU0WjlyNUtlNGh3OFE?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdldCdXM0SzE4RnBNZEdFVWQzNUg5V2diY2hnQUo1amZ6b0tCNDI5OEVFRlB0d3A1VGNUNFlnQWZid3k4ZHMxTllKWWFxeWFsbldFalRvZEFtd1FoNnNHdUg0dzlaRjVReXlpX1hFRmVVN1RoVzJNbWpJUkZsa0pPTVFrWnQzdWtzSmhlTkVaeGx3QWV1c2VHVTVISFhTcTNYbFVkeWN5MVRXLVUzYVExWVZYOVd2ZENnNWFCY0ZBYXRMZjlCbkJfcEpaTVnSAcwBQVVfeXFMTnZXQnVzNEsxOEZwTWRHRVVkMzVIOVdnYmNoZ0FKNWpmem9LQjQyOThFRUZQdHdwNVRjVDRZZ0FmYnd5OGRzMU5ZSllhcXlhbG5XRWpUb2RBbXdRaDZzR3VINHc5WkY1UXl5aV9YRUZlVTdUaFcyTW1qSVJGbGtKT01Ra1p0M3Vrc0poZU5FWnhsd0FldXNlR1U1SEhYU3EzWGxVZHljeTFUVy1VM2FRMVlWWDlXdmRDZzVhQmNGQWF0TGY5Qm5CX3BKWk1Z?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 14:54:24 GMT",
+      "fecha": "Tue, 29 Sep 2026 18:50:03 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Adiós al Amur River: tanquero de gas natural parte a la República Dominicana en medio de pugna - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDlYRGZ5NE5LTzM3RUFNTDZvY3VLTGhybHhGRUJNckEwNmJ2T1FMN2NVc3ZENGZETmxPZm1ZbUZpSmNYQlUwNFZNSlZJdll5N0lsaUtJeTRxdUNScWFwM01sUWswQ2t1ZWFESmhUajY3emN6dDRmaG9neS0tMDUtN1BJV1ZhdTNSM3dwWkpKcXpKWm1Sd1dUU2hsVVZpR21SSi11U0RadU5NS1lkcEhfVFhyN3BwclJsTGpfUmNfRjJDOVV4WUs3eVRWQ0EwMFdpUjVMMDBveTh4LVlu?oc=5",
+      "titulo": "Soltour impulsa República Dominicana y Jamaica para llenar el vacío de Cuba - Hosteltur, noticias de turismo",
+      "fuente": "Hosteltur, noticias de turismo",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSm5ITF9jYmxSQ0R6LW9VN2xZSFBoSkdpZElMQ0xnN0wwcWpoWmlMdUZaYjJDTlZSRUpKSk9GeURQLWhsX2JqcTJaRTR1Z2g5RTEtd1NDcGc4QzBsczZIY1dOZ1FsNVpXVHpZQmUySkx6TFNmanpHVHZzVXRpMnNUREJlN3FRX0ZMb1BfN1FkMXdoS0FEbnVHbnNzdk1waW5BT25vYWJxZ1ZLSWhWLUVZLXBrcw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 19:06:59 GMT",
-      "imagen": ""
+      "fecha": "Mon, 28 Sep 2026 05:46:27 GMT",
+      "imagen": "https://static.hosteltur.com/app/public/uploads/img/articles/2026/09/25/L_140427_soltour-impulsa-republica-dominicana-y-jamaica-para-llenar-el-vacio-de-cuba.jpg"
     },
     {
       "titulo": "Controversial barcaza con gas natural sale hacia República Dominicana para reabastecerse - wapa.tv",
@@ -82,14 +90,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmE2R3JvRnF5WGlzbGlWT0NVcC1mRWY3dXVTQndQTmc4dDNDSURiVXRIUWp6WE5MOHBTbVZCVmdHOGxiY3JweElPTWhEMHpHNHV6d1BVaUZ6UjNHV1Rmb0JYd21VTmRlRHhfNnVwU3d6RTE4bWtKZXNzWnZZQk1GZFU3VUF2aGM0eENtaGRDa2ZsQ2RILWoyTWpkdzNJbGVidlh2VHZfaVkyMmM3ZkJfT1A2SEI1bUpiZUliSkcwaGpFdGM0TlVPbUl6YUIxM196NTIxckpfaDVYYklJNHRmSk5PY1QxQndkelU5QUM4a253cUpLUW9FQ3dVWGNZN0lfYzhR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 28 Sep 2026 19:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El buque Amur River se dirige a República Dominicana para reabastecerse; se espera su regreso el martes - Metro Puerto Rico",
-      "fuente": "Metro Puerto Rico",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZEFFOWJ5UDlreGtsN2FnNGpBVWp4aG9MdTh0TGpjREFKYm9IZ0QtSGNhcHpfRExzaDcwdlRBcnoxQzBYWE5hcnhvWlB3dGtKOThZOU9aZ1JvQ1dWU3YwcXFjTE9ITXY3eFZKTnVuQ3ZZajBmOHA0UnpvcFhfU1F1d3B3bklNZVRtLW1RMnFpQktrZHkwR0RyTE8wMjRFNXpxWXVhenVZbDNIZ2p5YTVTZFRuTl9VZllEVkxuUTlXVi1Fb2x2MEphYURJdmZWWTBkbkpwTU9KNlEtbnRh?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 26 Sep 2026 14:53:00 GMT",
       "imagen": ""
     },
     {
@@ -109,19 +109,19 @@
       "imagen": ""
     },
     {
+      "titulo": "República Dominicana registra varios temblores el fin de semana - Telemundo New York",
+      "fuente": "Telemundo New York",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEJXVkZ6SXNaLXFmSnEwelUxZ2I4MVpmWmVCbmUzNl9vWC1vMUlqLUNNQjhKRnNkcWFleEhDWEdmSmpPVi02NVVRTmlaTTVQUmZFVTlJMkhBREhFdjBYdzBlNjhUWE5GUWZCeE5UOVJrci1Ia1dOMlRWdVMtUHVJU0NmUmpHVmpiT25HZC1Db2xNWk9VaW5FbkhBZzBkZFNXem1sR2xhLUtPR0FG0gG0AUFVX3lxTE9YQXRJSzZNTFJWMUtWUG9zcDBjTHFZVmJEbmR1VUxpMnBGd1F3a2dBS3IyUjJOcDE1TE05T0h6dmJxQ3B4VWVfRjVhbHpmUnBDbGtvalFYc3lHckIzT0M4QmxqU1U2NVIxRk9mRUt1aWJHNmpSdlo5Z0FnOTAydmJkQlZMek5VUXVmSGVRS2h2cnJEalpKTTZYNFJYNVNYQlF3VFVJaFpSeEJWbW5yN3QwZ1FaRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 28 Sep 2026 17:27:25 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Dominicanos en Nueva York celebran con fe a Nuestra Señora de las Mercedes - The Good Newsroom",
       "fuente": "The Good Newsroom",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjlRajFBZXJjS2hHZm9qMHl4dWtjZ2JBMTV0S1pWeVB1Um5od193MmQ1eGtmZFpJN2FIRmh5Y3RpWEZWWUlyZkgxOW9jSG85MkhIYm05d2hNajdtWnVhT2I3VHY3ZHlVREtrd0w1YkpVYzJkM3RYTWdQOThBcnlJN2xpeGxjRlhuT1dOZENaMkdFb1FzOHFPU3psbFg0N0lZTm5EcTlB?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 28 Sep 2026 18:00:56 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La actividad económica de República Dominicana crece 4,5% interanual a agosto - www.revistaeyn.com",
-      "fuente": "www.revistaeyn.com",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXVVcWNKak9YTTllcnAycThnRXIydzdCR1FtWlRJV1JURlF0VzNZUERWOGx3Nk04VUcyRVdwSnJwaGF6TXlBWlhUZDhOVV9FUVZDVDU2d0Q1d05DUEl6R2ZLdkxxc2lLVnhOWnhaT1kzT0RrSVljTHRpZ1lKdi1tVHJfWFVBWmhXVTVSSUpRaHZrSGNfSEx1aS11cHFlY0JjT0F1UHVKZDFLVXpZTWM0Rm1tR3BQbEQ5NW11LTlERjNIdVF5ZWtPOWgyQWJ0UQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 17:37:30 GMT",
       "imagen": ""
     }
   ]

@@ -107,13 +107,6 @@
       "favicon": ""
     },
     {
-      "nombre": "Top Bachata Radio",
-      "url": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
-      "codec": "MP3",
-      "bitrate": 128,
-      "favicon": ""
-    },
-    {
       "nombre": "570 AM Radio Crystal",
       "url": "https://stream.zeno.fm/fu9hfhw8na0uv",
       "codec": "MP3",
@@ -175,6 +168,13 @@
       "codec": "AAC+",
       "bitrate": 64,
       "favicon": "https://buenpastoradio.blogspot.com/favicon.ico"
+    },
+    {
+      "nombre": "Bachata FM",
+      "url": "https://stream.zeno.fm/4nky4dtvqp8uv",
+      "codec": "",
+      "bitrate": 0,
+      "favicon": ""
     },
     {
       "nombre": "Bachata Hits",

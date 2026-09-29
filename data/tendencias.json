@@ -1,16 +1,44 @@
 {
-  "updated": "2026-09-29T14:00:24.507105-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-29T17:00:24.684952-04:00",
+  "hora": "17:00",
   "fecha": "29/09/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 10,
   "tendencias": [
+    {
+      "termino": "espagne – croatie",
+      "trafico": "200+",
+      "noticia": "Ligue des nations 2026 : un choc Espagne - Croatie, tous les résultats et les classements",
+      "enlace": "https://www.linternaute.com/sport/competitions/11303797-ligue-des-nations-2026-un-choc-espagne-croatie-tous-les-resultats-et-les-classements/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTChubElwGd0uWfjlHTD-1sihTH3MHRuvw9IiPmUH7vXvnMUTFO6iGg0WThUVo"
+    },
+    {
+      "termino": "chequia - inglaterra",
+      "trafico": "1000+",
+      "noticia": "La posible alineación titular de Inglaterra para enfrentar a República Checa",
+      "enlace": "https://www.si.com/es-us/futbol/la-posible-alineacion-titular-de-inglaterra-para-enfrentar-a-republica-checa-29-9-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFY6yEG7VfCFXCkiPrVBN8cwZnxLJXPHNNu8Wcy_HZBLBj6JLV2RG7ngZilcQ"
+    },
+    {
+      "termino": "españa - croacia",
+      "trafico": "5000+",
+      "noticia": "España - Croacia hoy, en directo: grupo C de Nations League, última hora en el Pizjuán",
+      "enlace": "https://as.com/futbol/seleccion/espana-croacia-hoy-en-directo-grupo-c-de-nations-league-en-vivo-ultima-hora-en-el-sanchez-pizjuan-f202609-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-I067vDH7wMR4o4zZmHNM-0xnn5XGCcPuXED7C2dwPWQrTnCMy4c1XTUEg-w"
+    },
+    {
+      "termino": "braves - phillies",
+      "trafico": "2000+",
+      "noticia": "Austin RIley Gets the Postseason Off to an ELECTRIC Start With a Game-Winning 3-Run HR",
+      "enlace": "https://www.barstoolsports.com/blog/3578153/austin-riley-gets-the-postseason-off-to-an-electric-start-with-a-game-winning",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBtlIVB_UaFpJl1mWLvVah51uYx6JffXB3709TJAuTfwORJLbKxqtIuQK9-Zw"
+    },
     {
       "termino": "australia vs brazil",
       "trafico": "200+",
-      "noticia": "Australia go down fighting to Brazil in fiery 4-2 friendly defeat",
-      "enlace": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTcS1q43_rbVujJ6EB_KAABvC1xEgGTYn0-Vw1zFiW-A3Oxr8mPvNE2agEY0"
+      "noticia": "2–4: Vini Jr. scores and Endrick provides the assist in Brazil’s victory in Australia",
+      "enlace": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/2-4-vini-jr-marca-en-la-victoria-de-brasil-en-australia-29-09-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9_E2HSTsMwXc8W_G3IwTBF3r8osdM1SmYH-kW-TM98U7QNjbobU3V-BDEXd8"
     },
     {
       "termino": "australie – brésil",
@@ -22,9 +50,9 @@
     {
       "termino": "diario libre",
       "trafico": "100+",
-      "noticia": "Una mujer es encontrada muerta y desnuda en la autopista Duarte",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/29/mujer-encontrada-muerta-sin-ropa-en-la-autopista-duarte/3673311",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWael1UA8hVXt8LmxESplp2h8qCUViU0t310A7AvZ57tcDeYHGb9V4Jl_mo0o"
+      "noticia": "“Mi hermana es un número de estadística”: el dolor de la familia de Loyca Alvarado",
+      "enlace": "https://hoy.com.do/el-pais/mi-hermana-numero-estadistica-dolor-familia-loyca-alvarado_1103914.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUPx9g5UQVOGTZu8HrByXYM03zdU2t2McLv7qeMHLG_0aSoGOC-Eu-BTUmyUI"
     },
     {
       "termino": "australia - brasil",
@@ -46,13 +74,6 @@
       "noticia": "Indotel afirma que entregó US$ 963,000 para adquirir el sistema",
       "enlace": "https://acento.com.do/actualidad/indotel-afirma-que-entrego-us-963000-para-adquirir-el-sistema-9760697.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtOhPtU8Qr2VV5CbVTIWdlIkXR3A2cwOAc90gk2aMyWnDJMbRxFz9k_APemg"
-    },
-    {
-      "termino": "bélgica - francia",
-      "trafico": "2000+",
-      "noticia": "El golazo escandaloso de 70 metros de Olise que va a dar la vuelta al mundo",
-      "enlace": "https://as.com/futbol/videos/el-golazo-escandaloso-de-70-metros-de-olise-que-va-a-dar-la-vuelta-al-mundo-f202609-v/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWYB7IWn3TXmc8FpNDZIkCa8CbffnOBTNtGbHj_6kKgD9WvOqTVV85ZnRZ9Yo"
     }
   ]
 }
