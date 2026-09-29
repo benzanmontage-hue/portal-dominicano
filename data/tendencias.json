@@ -1,23 +1,51 @@
 {
-  "updated": "2026-09-29T05:00:15.488604-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-29T08:00:21.757807-04:00",
+  "hora": "08:00",
   "fecha": "29/09/2026",
   "pais": "República Dominicana",
-  "total": 5,
+  "total": 7,
   "tendencias": [
+    {
+      "termino": "australia vs brazil",
+      "trafico": "200+",
+      "noticia": "Australia v Brazil: men’s international football friendly – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPuHImVKhf3iOsq5zve-r_ngvQFkiiEMsTWf6oKvLcv6nyISFWQ1lXe75jqE"
+    },
+    {
+      "termino": "australie – brésil",
+      "trafico": "1000+",
+      "noticia": "Prédiction Australie - Brésil : La pression monte pour l équipe locale.",
+      "enlace": "https://www.vietnam.vn/fr/nhan-dinh-uc-vs-brazil-ap-luc-de-nang-chu-nha",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qeNBemAK_PuQOgJVK2KSYcBeupfRAGP7OU3ycY9JsEOw81FgE1xnPIBDsxk"
+    },
+    {
+      "termino": "diario libre",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "australia - brasil",
+      "trafico": "2000+",
+      "noticia": "Confira a escalação da Seleção Brasileira para enfrentar a Austrália",
+      "enlace": "https://www.metropoles.com/esportes/confira-a-escalacao-da-selecao-brasileira-para-enfrentar-a-australia",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNTRlANJraDU2TwN_KB2BLEXsJ8qBJ-vUVCQLJag4Qsstnwt8lst9QW-WCovo"
+    },
     {
       "termino": "instituto dominicano de las telecomunicaciones indotel",
       "trafico": "2000+",
-      "noticia": "Indotel pagó RD$59.9 millones por alertas sísmicas que no llegaron a celulares durante los 2 terremotos",
-      "enlace": "https://elnacional.com.do/economia/gobierno-pago-rd-59-9-millones-sistema-alertas-activo-dos-terremotos_582025.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6BdwAZ1JjilZQVh1Ugqi59bDzjxxr6fnUlIXyybxpqi6ngEiyENb-Z614yNg"
+      "noticia": "Indotel afirma que entregó US$ 963,000 para adquirir el sistema",
+      "enlace": "https://acento.com.do/actualidad/indotel-afirma-que-entrego-us-963000-para-adquirir-el-sistema-9760697.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtOhPtU8Qr2VV5CbVTIWdlIkXR3A2cwOAc90gk2aMyWnDJMbRxFz9k_APemg"
     },
     {
       "termino": "bélgica - francia",
       "trafico": "2000+",
-      "noticia": "Una locura de Olise vuelve  loco  a Zidane",
-      "enlace": "https://www.marca.com/futbol/nations-league/cronica/2026/09/28/locura-olise-vuelve-loco-zidane.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX6yw3k0U3iK-tYO2lGE-hnj-23YiwyuQOJrqkr_7d_nUdex69wHmachWJZgg"
+      "noticia": "El golazo escandaloso de 70 metros de Olise que va a dar la vuelta al mundo",
+      "enlace": "https://as.com/futbol/videos/el-golazo-escandaloso-de-70-metros-de-olise-que-va-a-dar-la-vuelta-al-mundo-f202609-v/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWYB7IWn3TXmc8FpNDZIkCa8CbffnOBTNtGbHj_6kKgD9WvOqTVV85ZnRZ9Yo"
     },
     {
       "termino": "vaguada",
@@ -25,20 +53,6 @@
       "noticia": "Lloverá este marte desde las primeras horas de la madrugada; también en la tarde con tormentas eléctricas",
       "enlace": "https://elnacional.com.do/nacionales/ambiente-seguira-poca-lluvia-meteorologia_582058.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiydI72uMbKGhnSI8fotddrHA6K56GXWQhiqCti5naUDtw2uvefh2STUNI_Xk"
-    },
-    {
-      "termino": "japón - venezuela",
-      "trafico": "200+",
-      "noticia": "Un penalti sobre Kubo decide el triunfo de Japón 2-1 ante Venezuela",
-      "enlace": "https://hoy.com.do/deportes/futbol/penalti-sobre-kubo-decide-triunfo-japon-2-1-venezuela_1103825.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVR-BBcDz0oPm4cIPQGHe1mlrgmXxqOIBtafuZic1LvKZsuvC4ESFRQdq44Rg"
-    },
-    {
-      "termino": "noticia",
-      "trafico": "200+",
-      "noticia": "Aisha Syed acaricia las cuerdas de su violín para enviar un mensaje de esperanza a las víctimas desde el Teatro Nacional",
-      "enlace": "https://pgr.gob.do/aisha-syed-acaricia-las-cuerdas-de-su-violin-para-enviar-un-mensaje-de-esperanza-a-las-victimas-desde-el-teatro-nacional/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFeqjq3jRrvBYd54iow6xWdFrfGu4glgd9PczIPIHmKTuOj9AXNDPwf_BdBes"
     }
   ]
 }
