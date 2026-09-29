@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T20:01:05.769664-04:00",
-  "hora": "20:01",
+  "updated": "2026-09-28T23:00:08.025438-04:00",
+  "hora": "23:00",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 5,
   "tendencias": [
     {
       "termino": "instituto dominicano de las telecomunicaciones indotel",
@@ -15,9 +15,9 @@
     {
       "termino": "bélgica - francia",
       "trafico": "2000+",
-      "noticia": "Bélgica 0 - 1 Francia: resumen, gol y resultado del grupo A1 de la Nations League",
-      "enlace": "https://as.com/futbol/internacional/belgica-francia-hoy-en-directo-grupo-a1-de-la-nations-league-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjmV7tS5kviSUV3KNfUwmH92qCXumHzY3fInFWziEcpnZsJDsjEhHnrXxe78M"
+      "noticia": "Olise es un escándalo",
+      "enlace": "https://as.com/futbol/internacional/olise-es-un-escandalo-f202609-n-2/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDjx4roIDJSqf_PlB8HSCgObs6HTD2XlRs_e23kcD-AI3aTGh1kuZaj6uGoU"
     },
     {
       "termino": "vaguada",
@@ -36,30 +36,9 @@
     {
       "termino": "noticia",
       "trafico": "200+",
-      "noticia": "Aisha Syed llama a visibilizar la violencia doméstica durante concierto a favor de las víctimas",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/25/aisha-syed-llama-a-visibilizar-la-violencia-domestica-en-concierto/3670509",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6eAvIXxVqMOXkijt1czrKExRMxZyGHP8QVvxMWaucdW6hWZ_sfunH-ycAInM"
-    },
-    {
-      "termino": "posiciones de columbus crew contra inter miami",
-      "trafico": "200+",
-      "noticia": "Pese al golazo de tiro libre de Messi, Inter Miami perdió 2-1 sobre la hora ante Columbus Crew por la MLS",
-      "enlace": "https://www.infobae.com/deportes/2026/09/27/lionel-messi-jugara-su-ultimo-partido-antes-de-la-despedida-de-la-seleccion-argentina-inter-miami-enfrentara-al-columbus-crew-por-la-mls/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLjjxm8k27UwJudjGGoT1RJFOT85R7Ug4RTzJCra3OYp0RxYsAjNgCkVJLuM"
-    },
-    {
-      "termino": "policía",
-      "trafico": "200+",
-      "noticia": "En cuál Gobierno se produjeron más muertes durante intercambios de disparos",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/28/en-que-gobierno-se-ha-matado-mas-gente-en-accion-policial/3672496",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn6G4_Vzse0oP5e2xsYS8YIh33XjE2bjGwKEXxWnoeSfqjY3q35TY6x1U9R6I"
-    },
-    {
-      "termino": "trinidad y tobago - república dominicana",
-      "trafico": "1000+",
-      "noticia": "Selección de Fútbol solo necesita sumar un punto para asegurar permanencia en Liga A",
-      "enlace": "https://elnacional.com.do/deportes/seleccion-futbol-necesita-sumar-punto-asegurar-permanencia-liga_582035.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTddP_Z6g-uycCFTf6kHs5Ya748az7-N2p3Bb2FWd27X-wbNNJSkOJFod2d3o4"
+      "noticia": "Aisha Syed lleva al Teatro Nacional un concierto en apoyo a las víctimas de violencia",
+      "enlace": "https://acento.com.do/sociales/aisha-syed-lleva-al-teatro-nacional-un-concierto-en-apoyo-a-las-victimas-de-violencia-9759526.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNivgNjJWxduUt81bmMMHJYVgBxEQnFlnLQdpK70VSixzY5kOf2437XMd09U"
     }
   ]
 }
