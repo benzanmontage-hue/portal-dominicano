@@ -1,23 +1,30 @@
 {
-  "updated": "2026-09-28T17:01:04.424266-04:00",
-  "hora": "17:01",
+  "updated": "2026-09-28T20:01:05.769664-04:00",
+  "hora": "20:01",
   "fecha": "28/09/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 8,
   "tendencias": [
+    {
+      "termino": "instituto dominicano de las telecomunicaciones indotel",
+      "trafico": "2000+",
+      "noticia": "Indotel pagó RD$59.9 millones por alertas sísmicas que no llegaron a celulares durante los 2 terremotos",
+      "enlace": "https://elnacional.com.do/economia/gobierno-pago-rd-59-9-millones-sistema-alertas-activo-dos-terremotos_582025.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6BdwAZ1JjilZQVh1Ugqi59bDzjxxr6fnUlIXyybxpqi6ngEiyENb-Z614yNg"
+    },
     {
       "termino": "bélgica - francia",
       "trafico": "2000+",
-      "noticia": "Bélgica - Francia en directo | Última hora de UEFA Nations League en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/uefa-nations-league/belgica-francia/2026/09/28/01_0195_20260928_360_368-directo.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVuOgOXtG2GKXPvZTNTMGB76j3SQywlEtmasGG1SioD3-d6esKRUWHY7mQ8pE"
+      "noticia": "Bélgica 0 - 1 Francia: resumen, gol y resultado del grupo A1 de la Nations League",
+      "enlace": "https://as.com/futbol/internacional/belgica-francia-hoy-en-directo-grupo-a1-de-la-nations-league-hoy-en-vivo-f202609-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjmV7tS5kviSUV3KNfUwmH92qCXumHzY3fInFWziEcpnZsJDsjEhHnrXxe78M"
     },
     {
       "termino": "vaguada",
       "trafico": "500+",
-      "noticia": "Se va septiembre y no se siente la brisa, el calor extremo no cesa en República Dominicana",
-      "enlace": "https://listindiario.com/la-republica/20260928/septiembre-siente-brisa-calor-extremo-cesa-republica-dominicana_924005.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVv8HiUe-Is92TxtF4HYo0Sh4g1GkYbD9JwNZic_jRaXspmehJmb4CIDvwqaI"
+      "noticia": "Domingo soleado en gran parte del país y mucho calor",
+      "enlace": "https://listindiario.com/la-republica/20260927/domingo-soleado-gran-parte-pais-calor_923859.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJA75-Kz_XVcAF4042ukR1vO5rdB7Sbw_WDh7TnK-K_uHPKrIK7m3cGQwJtc"
     },
     {
       "termino": "japón - venezuela",
@@ -29,9 +36,9 @@
     {
       "termino": "noticia",
       "trafico": "200+",
-      "noticia": "La semana en República Dominicana: las noticias que marcaron la agenda y llegan a la edición impresa",
-      "enlace": "https://hoy.com.do/el-pais/caso-julian-oro-duro-detalles-revelados-senasa-leidas-hoy_1103591.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0wNDMQIpaGQoNMmC4mrKf9rhaAMIUjEhuQFEme4R4OzGjYaRsxNxtb-KD8M"
+      "noticia": "Aisha Syed llama a visibilizar la violencia doméstica durante concierto a favor de las víctimas",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/09/25/aisha-syed-llama-a-visibilizar-la-violencia-domestica-en-concierto/3670509",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6eAvIXxVqMOXkijt1czrKExRMxZyGHP8QVvxMWaucdW6hWZ_sfunH-ycAInM"
     },
     {
       "termino": "posiciones de columbus crew contra inter miami",
@@ -50,30 +57,9 @@
     {
       "termino": "trinidad y tobago - república dominicana",
       "trafico": "1000+",
-      "noticia": "República Dominicana mantiene su invicto al vencer a Trinidad y Tobago a domicilio",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/09/27/liga-de-naciones-rd-mantiene-invicto-al-vencer-a-trinidad-y-tobago/3671910",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOmwoWUI2rWSaYDSrKn_VUyEc9lPYCxie7pcopcxs6omb25fVxrFWVtXdDhk"
-    },
-    {
-      "termino": "columbus crew - inter miami",
-      "trafico": "1000+",
-      "noticia": "Lionel Messi Two Free-Kicks Away From Another Historic Milestone",
-      "enlace": "https://www.sportscapemagazine.com/blog/lionel-messi-two-free-kicks-away-from-another-historic-milestone",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6v3N9k9HUCX6QkVfXE2bk7jO8eiBxaGxRyjOm10pqowoF-dQF7VuSMj8xgLY"
-    },
-    {
-      "termino": "santo domingo",
-      "trafico": "20000+",
-      "noticia": "¿Está el país preparado para un sismo de gran magnitud?",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/09/27/estamos-preparados-para-un-terremoto-el-estado-no-lo-sabe/3671625",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWZGa7RgRKOka7e32Z0h-75cdRsZ1HhNGbGh4hZv08quqekWV-dIxL-ijQrgA"
-    },
-    {
-      "termino": "haití - costa rica",
-      "trafico": "2000+",
-      "noticia": "Costa Rica fracasa ante Haití y pone en riesgo Copa Oro y Liga A",
-      "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17311907/costa-rica-haiti-derrota-fernando-batista-liga-naciones",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBihgsNC4ItGJhX6MBluD4LFceqaIfxeBo5BSDnVQkY6O8DfBsflIx6t273hM"
+      "noticia": "Selección de Fútbol solo necesita sumar un punto para asegurar permanencia en Liga A",
+      "enlace": "https://elnacional.com.do/deportes/seleccion-futbol-necesita-sumar-punto-asegurar-permanencia-liga_582035.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTddP_Z6g-uycCFTf6kHs5Ya748az7-N2p3Bb2FWd27X-wbNNJSkOJFod2d3o4"
     }
   ]
 }
