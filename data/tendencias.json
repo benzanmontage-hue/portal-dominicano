@@ -1,37 +1,51 @@
 {
-  "updated": "2026-09-30T05:00:32.700180-04:00",
-  "hora": "05:00",
+  "updated": "2026-09-30T08:00:35.972940-04:00",
+  "hora": "08:00",
   "fecha": "30/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "michael king",
+      "termino": "diario libre",
       "trafico": "500+",
-      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-Rk10uxsZEzqb9GBJCH6v7dW0gxH9NDso-Pl55p8BDJPIz7Fay6xAQz7yaCY"
+      "noticia": "Fallece Gilbert Bigio, magnate haitiano y expropietario de Texaco en RD",
+      "enlace": "https://listindiario.com/economia/20260929/fallece-gilbert-bigio-magnate-haitiano-expropietario-texaco-rd_924251.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV9xPxzVZjQGNx__lBzdgno3IhQinQ_hqhraX3M2o3gA92qYgxmPncl0_wek"
     },
     {
-      "termino": "padres - cubs",
+      "termino": "mlb",
       "trafico": "1000+",
-      "noticia": "NBC explains why Clayton Kershaw is serving as ‘Inside the Pitch’ analyst for Padres-Cubs",
-      "enlace": "https://awfulannouncing.com/nbc/clayton-kershaw-padres-cubs-wild-card-inside-the-pitch.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQTaobV-NzNhnflEyAfF3CjLIkn_9k_vxEQ0rXuzCuIuLJc1yrQdzBebW595g"
+      "noticia": "Top storyline for each Wild Card Series Game 2",
+      "enlace": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_FyCdkZn77FfP1F_TZ3tlx7s4unkwPUdDUrUyCzuR9AnD6w2hiuI51_mkOE"
+    },
+    {
+      "termino": "ben rice",
+      "trafico": "200+",
+      "noticia": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
+      "enlace": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvodXegP6PnV4l7QI8h0SJgooKxJ1vNTlBVQYe1VTffuZkrNJoCRX7efvNQLU"
+    },
+    {
+      "termino": "michael king",
+      "trafico": "2000+",
+      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHwkp3J303i1s4RAoxIKHHBE7vVXcGJf8BG9VjS0_8k1XT_zhII3i4f9oHKdM"
     },
     {
       "termino": "méxico - perú",
       "trafico": "500+",
       "noticia": "Mexico vs Peru: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cjkg77dgz1g3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
     },
     {
       "termino": "yankees - red sox",
       "trafico": "2000+",
-      "noticia": "Boston Red Sox at New York Yankees Game Story, Scores/Highlights - 09/29/2026",
-      "enlace": "https://www.mlb.com/stories/game/849851",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqRs-gCUFVAc-jTWW5MpzaZMQtSIv6BbkWEJOFCjf4TQrDSyx9g64lo8R8Rs"
+      "noticia": "MLB Gameday: Red Sox 0, Yankees 9 Final Score (09/29/2026)",
+      "enlace": "https://www.mlb.com/gameday/red-sox-vs-yankees/2026/09/29/849851/live",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0rFn3RuWiSrzVNf4-6ZQXBdiNAzZLanZMINkQ5yPy_DXpJ03yay9qrixSuZc"
     },
     {
       "termino": "astros - white sox",
@@ -43,9 +57,9 @@
     {
       "termino": "espagne – croatie",
       "trafico": "200+",
-      "noticia": "Le résumé de Espagne - Croatie | Foot - Ligue des nations",
-      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-espagne-croatie/20242212",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbxfyJZgvOdAp0J3qsi3EZo9HTT8nB_Wrt3YExriEZKJY_7ftT2YP4t8u0PTI"
+      "noticia": "Lamine Yamal retourne toute l’Espagne, Manchester City dénonce une conspiration",
+      "enlace": "https://www.footmercato.net/a2113384433462462386-lamine-yamal-retourne-toute-lespagne-manchester-city-denonce-une-conspiration",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxHfwp6utcDplKmKCWM44v4CVIzGLJGZz4ZXpHmOsnKvBiMp5Tqt4heJxEfAs"
     },
     {
       "termino": "chequia - inglaterra",
@@ -60,20 +74,6 @@
       "noticia": "España 4-1 Croacia: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/seleccion/espana-croacia-hoy-en-directo-grupo-c-de-nations-league-en-vivo-ultima-hora-en-el-sanchez-pizjuan-f202609-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS07gN01UJYqQTBsgYOoWXKcJb78ktQbEv-5DqDV8vAvIXU4S61TxB5rml-XrY"
-    },
-    {
-      "termino": "braves - phillies",
-      "trafico": "2000+",
-      "noticia": "Philadelphia Phillies at Atlanta Braves Game Story, Scores/Highlights - 09/29/2026",
-      "enlace": "https://www.mlb.com/stories/game/849845",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVc5iY8gPSOrktTg5ngmFrSnfCdvPksIiGOTYpV24S1lqyxfsRlR_aCLm_tOs"
-    },
-    {
-      "termino": "australia vs brazil",
-      "trafico": "200+",
-      "noticia": "Brazil Outguns Socceroos In Six-Goal Brisbane Thriller",
-      "enlace": "https://evrimagaci.org/gpt/brazil-outguns-socceroos-in-sixgoal-brisbane-thriller-546160",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQb76nFnXrItYFyBx7FZvd9g9wGUoG7egOgQcR-c0wirVTSnto28m5fAk6Y2o"
     }
   ]
 }
