@@ -172,8 +172,8 @@
     {
       "nombre": "Bachata FM",
       "url": "https://stream.zeno.fm/4nky4dtvqp8uv",
-      "codec": "",
-      "bitrate": 0,
+      "codec": "MP3",
+      "bitrate": 256,
       "favicon": ""
     },
     {

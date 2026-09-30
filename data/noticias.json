@@ -1,39 +1,23 @@
 {
-  "updated": "2026-09-30T02:00:41.436900-04:00",
-  "hora": "02:00",
+  "updated": "2026-09-30T05:00:45.563358-04:00",
+  "hora": "05:00",
   "fecha": "30/09/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Fuerte temblor de 5.2 sacude República Dominicana la tarde de este domingo; es el segundo del día - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRWaTZJUEZUUERjcEZDdVJybjBGMVd3UFpQVG9pQWlsUUVsZEd2V0dETGRVckg2ZU9RY1M2ZkdZcmRxdl9LaWFRV2ZjMzh4VDdTMFBRdU1zZHVxYWtXNDNsZjZOOU1EbEVhdWZXTUw5RTVPUHdFMlZ3SHNISEwzY0xSTzQzS0FwdXZPeUxtcTZJNDZJN2tTX0pfaDAxSDEycjdjS2paZjFYOUEtSDhWaW0yWW1pQ1FlUFBYalBsY9IBxAFBVV95cUxNWVJQTkFrSEFNWEhoQVNCN2twUU5DQTVDSGd5ejdpcjdyWXdTUDloSG1Ga3hLbjRtOURNT09vMUJzRVdiaU9oYTVtcmlEdjc4X2hwZFozRGJycGNlTEsxWTFDb3FqM0o0NHpRbGF6NjBGcExxQ1lXbGdXdDdRbGhFcmV3VmN3N2RrZE5UNkd1SXJaOTJmdVZWbV90Y1psTmNMb3JFZHVmYXlleDhaSDR1RVpHd05PdURfbjREODhkQV9BUWst?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 27 Sep 2026 22:01:14 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/09/27/6ab9947faa274.jpeg"
+    },
     {
       "titulo": "Trin   Tob 1-2 República Dominicana (27 de Sep., 2026) Resultado Final - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeDhOMjhNUjRSVVJoY2NSM1ZtVzlGMkN1ZVg0aEtiUEhxTm4wWm93b2hrNEczODUxeE03RS16TnVRdmNMdkRXSjVEa3hLWUNDRUxTT05fd1Q4MTFIRFQxcmJMYXB2ZFlXWU9TZ2FGVk9rUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 28 Sep 2026 00:59:29 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El alto costo del alquiler obliga a dominicanos a compartir piso en Madrid - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnBpYk80aURBNFBQaGxFSGRSelphUm10SzBKUUotR3ZtM2RvR0RUc0hrUGlhaWVlaHBELXd5RE1GVnZmNFdxck9hTDJSbGhwN2x4cmhJc19sTl9ZN0lmUUhRS0JjRnFKOHM5ZXhlS3JBZ2U3ZUc0ZkxOQ2FRN2U1TkZRd200ZXVKRFVGZ2Y2Z2xubTNnSXNyWkdMcEoxck1wb21tQXQxZXBlY2ZLVEh1R2dLcXJSdG45anNLUHJ3YmVGNFpRTWYxcNIBzgFBVV95cUxORHA5NHF6cUtiUVBfaTNxVjI4QkVaM1NxUWxfNW5pRDAxSEpRR1RncV9BNmozbm5lRWNpVDJKbkdqaEViTG1rLWM3S2pLZy1sZ1hCT1A4NlR4ajRvZDlNUF9xNjZhZ0xhTDQwUDY2UDg3QjZRMDk5bWRPOUk1VkpjZ1JPMTFZcmJBeE9PRmhFQjUxdUVPbFlMaGV6V2VQTS16Z1hFUlVfV3lyMkxjQ1l5R3NFbGx3aVMxd1I4TFlZV292SmduVTkxU09acFJZdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 18:58:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/imagenes/2011/19/195331-focus-0-0-1200-675.jpg"
-    },
-    {
-      "titulo": "Controversial barcaza con gas natural sale hacia República Dominicana para reabastecerse - wapa.tv",
-      "fuente": "wapa.tv",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmE2R3JvRnF5WGlzbGlWT0NVcC1mRWY3dXVTQndQTmc4dDNDSURiVXRIUWp6WE5MOHBTbVZCVmdHOGxiY3JweElPTWhEMHpHNHV6d1BVaUZ6UjNHV1Rmb0JYd21VTmRlRHhfNnVwU3d6RTE4bWtKZXNzWnZZQk1GZFU3VUF2aGM0eENtaGRDa2ZsQ2RILWoyTWpkdzNJbGVidlh2VHZfaVkyMmM3ZkJfT1A2SEI1bUpiZUliSkcwaGpFdGM0TlVPbUl6YUIxM196NTIxckpfaDVYYklJNHRmSk5PY1QxQndkelU5QUM4a253cUpLUW9FQ3dVWGNZN0lfYzhR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 19:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fuerte temblor de 4.8 sacude República Dominicana la tarde de este domingo; es el segundo del día - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzZyOWdrY3VMbVFRcEpoVlU0cHd5LVNyZmRWZHEwczFIYlNiZVZTYzgyWVJxb2VFOFNUOHBWNnFTVWcyVXg4bnJhZ1dwX0FsejRIVDJ0WVdMdk9ieGtwVm9BaUpvNWhKd0hEcU5aYXJydFlsNnY0X3hyOGdpUkhQVlQxMmwtQjVnNUJhRzc4eEFWc1FtLURyWHlTdHZYV3dmZ2gwdDgzTU1adkpIeDk2bzZRNl85Z3NvM2NOVmJxVUFOcWcxN0RRUjlKT2YzRlFyOXVsWmdWLURPSmwy0gHiAUFVX3lxTE12eW5xaVZwX1FENnptb0huUVg5LThoRW5jZU1mV29tRU9PZXk2RE5rN3ltS0hBS0ZJbmtBT0E3WC1jRGRjN3FFcC1yekctYVVpNktoaGRhNWw0bkI4cE1tZWZ6bDRsM3JxZ3hVeHowWm1ibm8tNjdPaXdGSjFJSDIzZnFPMy05N1dBdG40dF9HX0FfcUpyeDJHY1RBT0g3a3A3SmpxYWdtN3h5XzI0YnNydktFYkRYUXJXRDdKQzZ0RDYzNE11SzNzZU1GSkVCaW8yRVlNellxN1lFOWFEU0stcFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 22:01:14 GMT",
       "imagen": ""
     },
     {
@@ -45,20 +29,20 @@
       "imagen": "https://listindiario.com/files/main_image/uploads/2024/09/20/66ed9e233535b.jpeg"
     },
     {
-      "titulo": "Dólar en República Dominicana: estas son las tasas de compra y venta para este martes - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRV9pU19RaF8ydm9tU3dkd2syc1AxYi1TVV9GNTJLYzZtaWNObllqbVJaRkJlVnI3X0lDbVg1elJYUU5Hd2tYZ3RYRmtNa2w0UEdWRVJNSHVMLXR2R0xSM3N6ejIxQW56RTNrVnUzVDc5NjAtNEt0Rzd1UGlxUlhtek51X3FpWDZkTm9FNy1IN3hsT1BMcUhOdnhWNWRxZ9IBowFBVV95cUxOc25xRW02ejhLZWVtdVltcU9lUmJkOGNFQ1hFRXZmTUpwSV82NnZweVNnaGZFeWYwY1NzQ2VncEczSW92OTV1TzMxZFI0cTV1MDJVUnhuMG1QRGhGS2wtRy1JclM5Z1VxR2ZqczJrVVZRREZld3VHTkFhUEpvb3pHZHV6NnM5dFNNWFRXbFBVLUhfVkxseHV6RlloYTU4SHJXODI4?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 12:01:37 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Cuál es la tasa de homicidios en República Dominicana, según las cifras oficiales - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObk9DZHNaVWNfOW9tRk9zOHJvakpOMURyRGFtTjNjRXhxWmxnVWpBQkI2NHN0NVV5OUFSNXpkcU5jYl93N1h6aTNZeXBIVE9pbktKRTZ5ZWhudlNZWGh0eEpKbUZOYS0xTjg4MnVkb3VhSlBFTnhfc1VBa0JSNnVncE14aG9vTENNRkRaaHh1TUZfUEJRZDVFSHVEeG1McldGc254TUt1WV9MdHN6SGNJeXY3blZ6ZXJkcjFfTmRvZ0Zmejhu0gHEAUFVX3lxTE5uT0Nkc1pVY185b21GT3M4cm9qSk4xRHJEYW1OM2NFeHFabGdVakFCQjY0c3Q1VXk5QVI1emRxTmNiX3c3WHppM1l5cEhUT2luS0pFNnllaG52U1lYaHR4SkptRk5hLTFOODgydWRvdWFKUEVOeF9zVUFrQlI2dWdwTXhob29MQ01GRFpoeHVNRl9QQlFkNUVIdUR4bUxyV0ZzbnhNS3VZX0x0c3pIY0l5djduVnplcmRyMV9OZG9nRmZ6OG4?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 29 Sep 2026 20:00:42 GMT",
-      "imagen": ""
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/09/WhatsApp-Image-2026-09-29-at-3.15.20-PM-OG.jpg"
+    },
+    {
+      "titulo": "Dólar en República Dominicana: estas son las tasas de compra y venta para este martes - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRV9pU19RaF8ydm9tU3dkd2syc1AxYi1TVV9GNTJLYzZtaWNObllqbVJaRkJlVnI3X0lDbVg1elJYUU5Hd2tYZ3RYRmtNa2w0UEdWRVJNSHVMLXR2R0xSM3N6ejIxQW56RTNrVnUzVDc5NjAtNEt0Rzd1UGlxUlhtek51X3FpWDZkTm9FNy1IN3hsT1BMcUhOdnhWNWRxZ9IBowFBVV95cUxOc25xRW02ejhLZWVtdVltcU9lUmJkOGNFQ1hFRXZmTUpwSV82NnZweVNnaGZFeWYwY1NzQ2VncEczSW92OTV1TzMxZFI0cTV1MDJVUnhuMG1QRGhGS2wtRy1JclM5Z1VxR2ZqczJrVVZRREZld3VHTkFhUEpvb3pHZHV6NnM5dFNNWFRXbFBVLUhfVkxseHV6RlloYTU4SHJXODI4?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 29 Sep 2026 12:01:37 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/12/03/69301dd37bf4d.png"
     },
     {
       "titulo": "Castro Popsitivo anuncia gira por República Dominicana y celebra más de dos décadas de trayectoria musical - El Nuevo Diario",
@@ -69,20 +53,36 @@
       "imagen": ""
     },
     {
+      "titulo": "Controversial barcaza con gas natural sale hacia República Dominicana para reabastecerse - wapa.tv",
+      "fuente": "wapa.tv",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUmE2R3JvRnF5WGlzbGlWT0NVcC1mRWY3dXVTQndQTmc4dDNDSURiVXRIUWp6WE5MOHBTbVZCVmdHOGxiY3JweElPTWhEMHpHNHV6d1BVaUZ6UjNHV1Rmb0JYd21VTmRlRHhfNnVwU3d6RTE4bWtKZXNzWnZZQk1GZFU3VUF2aGM0eENtaGRDa2ZsQ2RILWoyTWpkdzNJbGVidlh2VHZfaVkyMmM3ZkJfT1A2SEI1bUpiZUliSkcwaGpFdGM0TlVPbUl6YUIxM196NTIxckpfaDVYYklJNHRmSk5PY1QxQndkelU5QUM4a253cUpLUW9FQ3dVWGNZN0lfYzhR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 28 Sep 2026 19:47:00 GMT",
+      "imagen": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/4/f0/4f03c9c8-47bc-5b1d-b525-20028482b3cf/6abbe2b888c6e.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    },
+    {
+      "titulo": "RD buscando luz teniendo al sol - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbG1kNldfQUhzWDk5QnJfYU45d2Zoa3Q0dEdRclVrOVhfYXhQMTJvTVVnNTU2d0R1VE5tM002Zk56c19rZGJjczBSOWNCdnNvbmdxS2duNjg0djhkdzRUS3pFM0U?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 30 Sep 2026 08:02:34 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "¿Freno a China? Acuerdo de EE.UU. con República Dominicana - Fox News",
       "fuente": "Fox News",
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56SHo2N2M1bThrak1LdTBqSDNRbUJqcTNCTGdCQmdvYWFXWHFSMmJIMzFsUGlQR3RmMVBIZ29QM0F0Q2lZWUZBQVpJdE9uYUtZUTZ0UmdR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 29 Sep 2026 19:20:27 GMT",
-      "imagen": ""
+      "imagen": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7de3af7d-f680-477c-bb7e-b0deeb8df809/8b86679f-90eb-4570-9744-cfd91894e7b4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
     },
     {
-      "titulo": "Clima hoy en Punta Cana, República Dominicana: el pronóstico del tiempo para este miércoles 30 septiembre de 2026 - clarin.com",
-      "fuente": "clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0NhbE9BTEZQS3VodFkzemh6Y0VlNkY2U0VGZVFHQ3JqRmJOZUVURkV4OGxZMFRMU2lXVGU5RWFhX1NpZXRIRW12T3A4bERIVDBfc3daMk9OdWFSZjh2bnMzTm9EdmpjQ0VrUXZwYVJmMEZhT3R5UGpnV1J5YktZUlota00xOGRSVHFKX0ZSX2FCb3JZU00yVm9yUm84QVhPMUg5SlBZOFhvS3ZJRWdjcGlyeEU5dGxCWVh3UlJMVXE5cWRaa0c4aEx6aFoxQU1mY3dNYTk4Tk9LSlFOOXpVT1ZqSdIB6AFBVV95cUxNbEdDUGxnYjd5UXVBZ3NXVENVSGdOS2ZCZVFGVEZtdlRkWWpBZXRYTUNfUHZiTlJsaXMzWGtsSzhqM2dRSkROR0xoOE5MRDQ2VjdxNjBXcWluemUtVU1McmtUczRnc2JGcjB2THBGRndZY2tza3pDemJsaHJETFV4dTJxVWh1VDJvNnFjWmFLNjRuX0ZFYVo0RnkxbENjVUVoSFN0aFNsVWRjLWt0d29sVHZuVlJ1SndrTHZXSzV1QWItM21KTXZ6c0pGMmFweV9yMmZGa0NaelM3bDhqeUhjcG1OVXNOcDZh?oc=5",
+      "titulo": "El alto costo del alquiler obliga a dominicanos a compartir piso en Madrid - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnBpYk80aURBNFBQaGxFSGRSelphUm10SzBKUUotR3ZtM2RvR0RUc0hrUGlhaWVlaHBELXd5RE1GVnZmNFdxck9hTDJSbGhwN2x4cmhJc19sTl9ZN0lmUUhRS0JjRnFKOHM5ZXhlS3JBZ2U3ZUc0ZkxOQ2FRN2U1TkZRd200ZXVKRFVGZ2Y2Z2xubTNnSXNyWkdMcEoxck1wb21tQXQxZXBlY2ZLVEh1R2dLcXJSdG45anNLUHJ3YmVGNFpRTWYxcNIBzgFBVV95cUxORHA5NHF6cUtiUVBfaTNxVjI4QkVaM1NxUWxfNW5pRDAxSEpRR1RncV9BNmozbm5lRWNpVDJKbkdqaEViTG1rLWM3S2pLZy1sZ1hCT1A4NlR4ajRvZDlNUF9xNjZhZ0xhTDQwUDY2UDg3QjZRMDk5bWRPOUk1VkpjZ1JPMTFZcmJBeE9PRmhFQjUxdUVPbFlMaGV6V2VQTS16Z1hFUlVfV3lyMkxjQ1l5R3NFbGx3aVMxd1I4TFlZV292SmduVTkxU09acFJZdw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 30 Sep 2026 03:37:07 GMT",
-      "imagen": ""
+      "fecha": "Mon, 28 Sep 2026 18:58:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/imagenes/2011/19/195331-focus-0-0-1200-675.jpg"
     },
     {
       "titulo": "República Dominicana registra varios temblores el fin de semana - Telemundo New York",
