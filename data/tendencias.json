@@ -1,30 +1,44 @@
 {
-  "updated": "2026-09-29T20:00:26.538304-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-29T23:00:28.135423-04:00",
+  "hora": "23:00",
   "fecha": "29/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "padres - cubs",
+      "trafico": "500+",
+      "noticia": "Cubs vs. Padres (Sep 29, 2026) Live Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcuXDOkWwl5acw8Tvj8qIabG4pWAIuM-m3w0PqMcvqKxZszslFgOldZzspoU"
+    },
+    {
+      "termino": "méxico - perú",
+      "trafico": "500+",
+      "noticia": "Mexico vs Peru: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cjkg77dgz1g3t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
+    },
+    {
       "termino": "yankees - red sox",
-      "trafico": "200+",
-      "noticia": "Red Sox-Yankees AL Wild Card Series Game 1 FAQ, lineups (8 ET, NBC/Peacock)",
+      "trafico": "2000+",
+      "noticia": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
       "enlace": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnbWHBlyPjBdloXNFSfeHRkuMhjc0GOY87x1EG7a2mN_k9HHuI2ijR25SHOQA"
     },
     {
       "termino": "astros - white sox",
       "trafico": "1000+",
-      "noticia": "LIVE: White Sox-Astros AL Wild Card Series Game 1 (Peacock/NBCSN)",
-      "enlace": "https://www.mlb.com/news/white-sox-vs-astros-wild-card-series-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaz6dWhk2M1X2fTHgssqeSziLPXsq7BFNStMs4eQxo0EwqDZQXbb6GkMXWaBM"
+      "noticia": "White Sox 6-3 Astros (Sep 29, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907896/white-sox-astros",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-Pt931gSAgPRpjaF-67NyMcfgt-zzI_R8TUgN3hkr-CKmVQNF2zK8rQY3YBc"
     },
     {
       "termino": "espagne – croatie",
       "trafico": "200+",
       "noticia": "Espagne, FC Barcelone : Lamine Yamal n’a plus aucune limite !",
       "enlace": "https://www.footmercato.net/a1512335165741173881-espagne-fc-barcelone-lamine-yamal-na-plus-aucune-limite",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFdKiYqn_t595meYC-lrVXguif_3Ab083GBxtnYN02fHLwyyEGY01LYNByBxs"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZz9Qkk6SCBSQKbO3rOU5QcrODjLONKvBc8EB9Lqq0ZoxpH5LpiNutfOM5UI"
     },
     {
       "termino": "chequia - inglaterra",
@@ -36,9 +50,9 @@
     {
       "termino": "españa - croacia",
       "trafico": "5000+",
-      "noticia": "España - Croacia hoy, en directo: grupo C de Nations League, última hora en el Pizjuán",
-      "enlace": "https://as.com/futbol/seleccion/espana-croacia-hoy-en-directo-grupo-c-de-nations-league-en-vivo-ultima-hora-en-el-sanchez-pizjuan-f202609-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfPt3qUCh7j7fdFFXPuqR4gg93uy7ACmQXZ1cJnRK7UOT6xmhaJ3RcEm3Rho"
+      "noticia": "Lamine, un duende en Sevilla",
+      "enlace": "https://as.com/futbol/lamine-un-duende-en-sevilla-f202609-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-dW4IRtj_wfX9Oky8FUqR114xAg3v8K6XRW0z8rdbSHmSX_cC9gasaQdsPME"
     },
     {
       "termino": "braves - phillies",
@@ -50,9 +64,9 @@
     {
       "termino": "australia vs brazil",
       "trafico": "200+",
-      "noticia": "Herrington: Australia s performances against Brazil show how far we ve come",
-      "enlace": "https://www.beinsports.com/en-asia/football/friendlies/articles/herrington-australias-performances-against-brazil-show-how-far-weve-come-2026-09-29",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ1dXpfTHkTu5E8gp3J73JjjNmgqS0wHQuN57uP2MV8hH8OOfyk9jAHQvgYFA"
+      "noticia": "Brazil Outguns Socceroos In Six-Goal Brisbane Thriller",
+      "enlace": "https://evrimagaci.org/gpt/brazil-outguns-socceroos-in-sixgoal-brisbane-thriller-546160",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQb76nFnXrItYFyBx7FZvd9g9wGUoG7egOgQcR-c0wirVTSnto28m5fAk6Y2o"
     },
     {
       "termino": "australie – brésil",
@@ -60,20 +74,6 @@
       "noticia": "Le Brésil renverse l Australie mais le Barça s inquiète pour Raphinha, sorti sur blessure",
       "enlace": "https://rmcsport.bfmtv.com/football/equipe-bresil/bresil-la-selecao-renverse-l-australie-mais-retient-son-souffle-pour-raphinha-sorti-sur-blessure_AV-202609290570.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YCZnf_eAWqi4p_60tJnhBoErFF2E4KFk-G9pzcZh95ADch6YLZUu0tBnkr8"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "100+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "australia - brasil",
-      "trafico": "2000+",
-      "noticia": "Austrália 2 x 4 Brasil | Amistosos da Seleção Brasileira: melhores momentos",
-      "enlace": "https://ge.globo.com/futebol/selecao-brasileira/jogo/29-09-2026/australia-brasil.ghtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVyG4edWTg8lSc5zQU2jJn7NVi0TKxyl4XkuqxL9V2J7UxCRYOQjjFx9_Qo0w"
     }
   ]
 }

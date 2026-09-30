@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T20:00:21.691675-04:00",
+  "updated": "2026-09-29T23:00:23.763984-04:00",
   "fecha": "29/09/2026",
-  "hora": "20:00",
+  "hora": "23:00",
   "total_juegos": 52,
   "juegos": [
     {
@@ -43,11 +43,11 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "50",
-        "34",
-        "62"
+        "78",
+        "94",
+        "69"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
@@ -67,11 +67,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "31",
-        "26",
-        "29"
+        "43",
+        "17",
+        "45"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -189,11 +189,11 @@
       "compania": "Anguila",
       "juego": "Anguila 10:00 PM",
       "numeros": [
-        "63",
-        "92",
-        "03"
+        "07",
+        "20",
+        "10"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6a511b0a07d516b9c5107d05"
     },
     {
@@ -311,7 +311,8 @@
       "juego": "Anguila 8:00 PM",
       "numeros": [
         "00",
-        "37"
+        "37",
+        "56"
       ],
       "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
@@ -331,11 +332,11 @@
       "compania": "Anguila",
       "juego": "Anguila 9:00 PM",
       "numeros": [
-        "60",
-        "82",
-        "75"
+        "14",
+        "57",
+        "05"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d61d"
     },
     {
@@ -378,34 +379,34 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
-        "47",
-        "50",
-        "42",
-        "23"
+        "67",
+        "22",
+        "81",
+        "53"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
     },
     {
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "22"
+        "78"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "57",
-        "11",
-        "50",
-        "40",
-        "69"
+        "88",
+        "08",
+        "32",
+        "49",
+        "04"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -428,22 +429,22 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka",
       "numeros": [
-        "83",
-        "33",
-        "64"
+        "00",
+        "06",
+        "99"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
       "compania": "Loteka",
       "juego": "Toca 3",
       "numeros": [
-        "2",
-        "8",
-        "3"
+        "1",
+        "4",
+        "9"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4f2"
     },
     {
@@ -542,73 +543,73 @@
       "compania": "Leidsa",
       "juego": "Loto Pool",
       "numeros": [
-        "06",
-        "13",
-        "29",
-        "28",
-        "17"
+        "27",
+        "08",
+        "03",
+        "14",
+        "24"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d45f"
     },
     {
       "compania": "Leidsa",
       "juego": "Pega 3 Más",
       "numeros": [
-        "10",
-        "36",
-        "24"
+        "18",
+        "48",
+        "15"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d471"
     },
     {
       "compania": "Leidsa",
       "juego": "Quiniela Leidsa",
       "numeros": [
-        "02",
-        "33",
-        "72"
+        "26",
+        "50",
+        "11"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d453"
     },
     {
       "compania": "Leidsa",
       "juego": "Super Kino TV",
       "numeros": [
-        "83",
-        "22",
-        "02",
-        "46",
-        "56",
-        "41",
-        "70",
-        "43",
-        "63",
-        "27",
-        "16",
-        "59",
-        "75",
-        "15",
-        "68",
-        "25",
-        "17",
         "64",
-        "18",
-        "24"
+        "77",
+        "76",
+        "02",
+        "20",
+        "51",
+        "03",
+        "36",
+        "58",
+        "54",
+        "41",
+        "83",
+        "55",
+        "49",
+        "14",
+        "61",
+        "22",
+        "38",
+        "28",
+        "25"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d459"
     },
     {
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "02",
-        "50"
+        "26",
+        "78"
       ],
-      "fecha": "2026-09-28T04:00:00.000Z",
+      "fecha": "2026-09-29T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -617,31 +618,31 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "50",
-        "34",
-        "62"
+        "78",
+        "94",
+        "69"
       ],
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "31",
-        "26",
-        "29"
+        "43",
+        "17",
+        "45"
       ],
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     },
     {
       "compania": "Loteka",
       "juego": "Quiniela Loteka",
       "numeros": [
-        "83",
-        "33",
-        "64"
+        "00",
+        "06",
+        "99"
       ],
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     },
     {
       "compania": "La Primera",
@@ -667,11 +668,11 @@
       "compania": "Leidsa",
       "juego": "Quiniela Leidsa",
       "numeros": [
-        "02",
-        "33",
-        "72"
+        "26",
+        "50",
+        "11"
       ],
-      "fecha": "2026-09-28"
+      "fecha": "2026-09-29"
     }
   ]
 }

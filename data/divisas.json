@@ -1,65 +1,65 @@
 {
-  "updated": "2026-09-29T20:00:32.754985-04:00",
-  "hora": "20:00",
+  "updated": "2026-09-29T23:00:30.207583-04:00",
+  "hora": "23:00",
   "fecha": "29/09/2026",
-  "fuente_updated": "Tue, 29 Sep 2026 00:02:31 +0000",
-  "dop_por_usd": 59.48,
+  "fuente_updated": "Wed, 30 Sep 2026 00:02:31 +0000",
+  "dop_por_usd": 58.49,
   "conversiones": [
     {
       "moneda": "Dólar (USD)",
       "codigo": "USD",
       "bandera": "🇺🇸",
       "a": "DOP",
-      "valor": 59.48,
-      "texto": "1 USD = 59.48 DOP"
+      "valor": 58.49,
+      "texto": "1 USD = 58.49 DOP"
     },
     {
       "moneda": "Euro (EUR)",
       "codigo": "EUR",
       "bandera": "🇪🇺",
       "a": "DOP",
-      "valor": 67.65,
-      "texto": "1 EUR = 67.65 DOP"
+      "valor": 66.35,
+      "texto": "1 EUR = 66.35 DOP"
     },
     {
       "moneda": "Dólar (USD)",
       "codigo": "USD",
       "bandera": "🇺🇸",
       "a": "EUR",
-      "valor": 0.879,
-      "texto": "1 USD = 0.879 EUR"
+      "valor": 0.882,
+      "texto": "1 USD = 0.882 EUR"
     },
     {
       "moneda": "Peso mexicano (MXN)",
       "codigo": "MXN",
       "bandera": "🇲🇽",
       "a": "DOP",
-      "valor": 3.32,
-      "texto": "1 MXN = 3.32 DOP"
+      "valor": 3.25,
+      "texto": "1 MXN = 3.25 DOP"
     },
     {
       "moneda": "Dólar canadiense (CAD)",
       "codigo": "CAD",
       "bandera": "🇨🇦",
       "a": "DOP",
-      "valor": 42.0,
-      "texto": "1 CAD = 42.00 DOP"
+      "valor": 41.23,
+      "texto": "1 CAD = 41.23 DOP"
     },
     {
       "moneda": "Libra (GBP)",
       "codigo": "GBP",
       "bandera": "🇬🇧",
       "a": "DOP",
-      "valor": 78.84,
-      "texto": "1 GBP = 78.84 DOP"
+      "valor": 77.37,
+      "texto": "1 GBP = 77.37 DOP"
     },
     {
       "moneda": "Peso colombiano (COP)",
       "codigo": "COP",
       "bandera": "🇨🇴",
       "a": "DOP",
-      "valor": 0.018,
-      "texto": "1 COP = 0.018 DOP"
+      "valor": 0.017,
+      "texto": "1 COP = 0.017 DOP"
     }
   ]
 }
