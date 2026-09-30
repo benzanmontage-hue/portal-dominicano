@@ -1,37 +1,44 @@
 {
-  "updated": "2026-09-30T08:00:35.972940-04:00",
-  "hora": "08:00",
+  "updated": "2026-09-30T11:00:37.688967-04:00",
+  "hora": "11:00",
   "fecha": "30/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "diario libre",
-      "trafico": "500+",
+      "trafico": "2000+",
+      "noticia": "Temblores en la República Dominicana: datos importantes que deberías conocer",
+      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/09/30/temblores-en-rd-debe-preocuparse-la-poblacion-/3673752",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkk9T9su4m_2GKtVfRwUs0QeeCKWz0qS_lbLETDj1svR5p8uLKGyzqskd9g4"
+    },
+    {
+      "termino": "gilbert bigio",
+      "trafico": "1000+",
       "noticia": "Fallece Gilbert Bigio, magnate haitiano y expropietario de Texaco en RD",
       "enlace": "https://listindiario.com/economia/20260929/fallece-gilbert-bigio-magnate-haitiano-expropietario-texaco-rd_924251.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV9xPxzVZjQGNx__lBzdgno3IhQinQ_hqhraX3M2o3gA92qYgxmPncl0_wek"
     },
     {
       "termino": "mlb",
-      "trafico": "1000+",
-      "noticia": "Top storyline for each Wild Card Series Game 2",
-      "enlace": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_FyCdkZn77FfP1F_TZ3tlx7s4unkwPUdDUrUyCzuR9AnD6w2hiuI51_mkOE"
-    },
-    {
-      "termino": "ben rice",
-      "trafico": "200+",
-      "noticia": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
-      "enlace": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvodXegP6PnV4l7QI8h0SJgooKxJ1vNTlBVQYe1VTffuZkrNJoCRX7efvNQLU"
+      "trafico": "2000+",
+      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
       "termino": "michael king",
-      "trafico": "2000+",
-      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHwkp3J303i1s4RAoxIKHHBE7vVXcGJf8BG9VjS0_8k1XT_zhII3i4f9oHKdM"
+      "trafico": "500+",
+      "noticia": "King sets tone with no-hit bid in Padres   beautiful night of baseball",
+      "enlace": "https://www.mlb.com/news/michael-king-takes-no-hit-bid-into-7th-inning-in-wild-card-series-opener",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1hC7bB_Dt5AQ1y52BuZBuBXmXhFqsUX4hyvzHESAuHutpEf8-UkGBq5GC_UE"
+    },
+    {
+      "termino": "padres - cubs",
+      "trafico": "1000+",
+      "noticia": "NBC explains why Clayton Kershaw is serving as ‘Inside the Pitch’ analyst for Padres-Cubs",
+      "enlace": "https://awfulannouncing.com/nbc/clayton-kershaw-padres-cubs-wild-card-inside-the-pitch.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQTaobV-NzNhnflEyAfF3CjLIkn_9k_vxEQ0rXuzCuIuLJc1yrQdzBebW595g"
     },
     {
       "termino": "méxico - perú",
@@ -43,16 +50,9 @@
     {
       "termino": "yankees - red sox",
       "trafico": "2000+",
-      "noticia": "MLB Gameday: Red Sox 0, Yankees 9 Final Score (09/29/2026)",
-      "enlace": "https://www.mlb.com/gameday/red-sox-vs-yankees/2026/09/29/849851/live",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0rFn3RuWiSrzVNf4-6ZQXBdiNAzZLanZMINkQ5yPy_DXpJ03yay9qrixSuZc"
-    },
-    {
-      "termino": "astros - white sox",
-      "trafico": "1000+",
-      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+      "noticia": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
+      "enlace": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvodXegP6PnV4l7QI8h0SJgooKxJ1vNTlBVQYe1VTffuZkrNJoCRX7efvNQLU"
     },
     {
       "termino": "espagne – croatie",
