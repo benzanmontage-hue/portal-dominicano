@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-30T11:00:37.688967-04:00",
-  "hora": "11:00",
+  "updated": "2026-09-30T14:00:40.948188-04:00",
+  "hora": "14:00",
   "fecha": "30/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "cámara de cuentas de la república",
+      "trafico": "500+",
+      "noticia": "Cámara de Cuentas revela irregularidades por RD$18,967 millones en Aduanas, operaciones sin soporte y fallas de control",
+      "enlace": "https://acento.com.do/actualidad/camara-de-cuentas-revela-irregularidades-por-rd18967-millones-en-aduanas-operaciones-sin-soporte-y-fallas-de-control-9761262.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvRT_SUH21-4r80Z7V0_SudpluIL3B6s3Odb0tm_dMXytTiZruK1nThXudYRM"
+    },
+    {
       "termino": "diario libre",
-      "trafico": "2000+",
-      "noticia": "Temblores en la República Dominicana: datos importantes que deberías conocer",
-      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/09/30/temblores-en-rd-debe-preocuparse-la-poblacion-/3673752",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkk9T9su4m_2GKtVfRwUs0QeeCKWz0qS_lbLETDj1svR5p8uLKGyzqskd9g4"
+      "trafico": "5000+",
+      "noticia": "Julián Oro Duro se ve la cara con los supuestos asesinos de su esposa",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/30/ataque-a-julian-oro-duro-merenguero-vera-cara-a-cara-sus-agresores/3674471",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_8JcQlt6aq_QLcK1uQULpj4isLtGP4pDxuODGxorsP3WCzmWCL2YFL-i6wQ"
     },
     {
       "termino": "gilbert bigio",
@@ -21,45 +28,45 @@
     },
     {
       "termino": "mlb",
-      "trafico": "2000+",
-      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "michael king",
-      "trafico": "500+",
-      "noticia": "King sets tone with no-hit bid in Padres   beautiful night of baseball",
-      "enlace": "https://www.mlb.com/news/michael-king-takes-no-hit-bid-into-7th-inning-in-wild-card-series-opener",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1hC7bB_Dt5AQ1y52BuZBuBXmXhFqsUX4hyvzHESAuHutpEf8-UkGBq5GC_UE"
+      "trafico": "1000+",
+      "noticia": "Top storyline for each Wild Card Series Game 2",
+      "enlace": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_FyCdkZn77FfP1F_TZ3tlx7s4unkwPUdDUrUyCzuR9AnD6w2hiuI51_mkOE"
     },
     {
       "termino": "padres - cubs",
-      "trafico": "1000+",
-      "noticia": "NBC explains why Clayton Kershaw is serving as ‘Inside the Pitch’ analyst for Padres-Cubs",
-      "enlace": "https://awfulannouncing.com/nbc/clayton-kershaw-padres-cubs-wild-card-inside-the-pitch.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQTaobV-NzNhnflEyAfF3CjLIkn_9k_vxEQ0rXuzCuIuLJc1yrQdzBebW595g"
+      "trafico": "2000+",
+      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcuXDOkWwl5acw8Tvj8qIabG4pWAIuM-m3w0PqMcvqKxZszslFgOldZzspoU"
     },
     {
       "termino": "méxico - perú",
       "trafico": "500+",
       "noticia": "Mexico vs Peru: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cjkg77dgz1g3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "yankees - red sox",
       "trafico": "2000+",
-      "noticia": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
-      "enlace": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvodXegP6PnV4l7QI8h0SJgooKxJ1vNTlBVQYe1VTffuZkrNJoCRX7efvNQLU"
+      "noticia": "Cam Schlittler, Ben Rice lead Yankees to emphatic Game 1 win over Red Sox",
+      "enlace": "https://nypost.com/2026/09/29/sports/cam-schlittler-ben-rice-lead-yankees-to-game-1-win-over-red-sox/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzoV71zl2I0S7yohKKAyxEb2M_YPRZV682R9xzh9RQF-oC9mCVkDVYqTQreIY"
+    },
+    {
+      "termino": "astros - white sox",
+      "trafico": "1000+",
+      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
       "termino": "espagne – croatie",
       "trafico": "200+",
       "noticia": "Lamine Yamal retourne toute l’Espagne, Manchester City dénonce une conspiration",
       "enlace": "https://www.footmercato.net/a2113384433462462386-lamine-yamal-retourne-toute-lespagne-manchester-city-denonce-une-conspiration",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxHfwp6utcDplKmKCWM44v4CVIzGLJGZz4ZXpHmOsnKvBiMp5Tqt4heJxEfAs"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFceB7kYF2SGHOCTAySArRSY4tkIUmaDYGyiR4aHlilq0IZ5j7CTK8anHr9UM"
     },
     {
       "termino": "chequia - inglaterra",
@@ -67,13 +74,6 @@
       "noticia": "República Checa 0 - Inglaterra 2: resumen, goles y resultado del partido de UEFA Nations League",
       "enlace": "https://as.com/futbol/uefa/republica-checa-inglaterra-en-directo-uefa-nations-league-hoy-en-vivo-f202609-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaDOWw7FB1N8kcl6CzXG97woLgJ7DO8SvZVwqZPanXCAHe-209hWr40H32Uw"
-    },
-    {
-      "termino": "españa - croacia",
-      "trafico": "5000+",
-      "noticia": "España 4-1 Croacia: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/seleccion/espana-croacia-hoy-en-directo-grupo-c-de-nations-league-en-vivo-ultima-hora-en-el-sanchez-pizjuan-f202609-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS07gN01UJYqQTBsgYOoWXKcJb78ktQbEv-5DqDV8vAvIXU4S61TxB5rml-XrY"
     }
   ]
 }
