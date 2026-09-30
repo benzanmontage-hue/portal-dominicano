@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T17:00:29.046341-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-29T20:00:32.626424-04:00",
+  "hora": "20:00",
   "fecha": "29/09/2026",
   "total": 15,
   "noticias": [
@@ -13,14 +13,6 @@
       "imagen": "https://media.telemundopr.com/2026/09/BSN-THUMBNAILS-10.png?resize=1200%2C675&quality=85&strip=all"
     },
     {
-      "titulo": "Sismo de 4.8 sacude la zona oriental de República Dominicana - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejRCVTRsSG42eldZYnJOOUlQUGluZldHXzhnUURydGlENGxsM3NqMFA2Y3Fhblpzc1FpMHdkUDdlWG1HTEpDdDJsdEtweGRiQjhFOXFtVm14MnRJVklMYTc1NUZxVzNfS2xsREN1WE0yUWQyS1A2RERWbEtHS1o3TnJBVjJ6YW12UUdzS1EyTGVQZ180Y0RTTkxkdEdwU2tQS2hnelNnT3NNVlJzS2lLNERpS3g?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 27 Sep 2026 22:17:00 GMT",
-      "imagen": "https://www.elnuevodia.com/resizer/v2/LUOSTCCU4RGZ5MOK55GWYVHA7Y.png?auth=3a5f05b7e9227e445f79147f96dc9076f805ea43c2e2d870dcfb907b8fcb5ca7&quality=75&width=1200&height=717&focal=462%2C270"
-    },
-    {
       "titulo": "Un sismo de magnitud 5,6 sacude una parte de República Dominicana - EFE - Agencia de noticias",
       "fuente": "EFE - Agencia de noticias",
       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53a2hlMTNLblN2cnQ3UEpscEkzWWJXbDlBMnc3dS1zNF9LSkhSSXZCSjBxYm1XMmoyc3NMYUtRWFdwclRJcXBGbHprZ1U1NDNTZ29WZF9iVlJnUXdFcWZZWG14UnlUejJjR0l3Vg?oc=5",
@@ -29,8 +21,16 @@
       "imagen": ""
     },
     {
-      "titulo": "¿A quién apoyará Luis Abinader para las elecciones presidenciales de República Dominicana de 2028? - univision.com",
-      "fuente": "univision.com",
+      "titulo": "Sismo de 4.8 sacude la zona oriental de República Dominicana - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejRCVTRsSG42eldZYnJOOUlQUGluZldHXzhnUURydGlENGxsM3NqMFA2Y3Fhblpzc1FpMHdkUDdlWG1HTEpDdDJsdEtweGRiQjhFOXFtVm14MnRJVklMYTc1NUZxVzNfS2xsREN1WE0yUWQyS1A2RERWbEtHS1o3TnJBVjJ6YW12UUdzS1EyTGVQZ180Y0RTTkxkdEdwU2tQS2hnelNnT3NNVlJzS2lLNERpS3g?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 27 Sep 2026 22:17:00 GMT",
+      "imagen": "https://www.elnuevodia.com/resizer/v2/LUOSTCCU4RGZ5MOK55GWYVHA7Y.png?auth=3a5f05b7e9227e445f79147f96dc9076f805ea43c2e2d870dcfb907b8fcb5ca7&quality=75&width=1200&height=717&focal=462%2C270"
+    },
+    {
+      "titulo": "¿A quién apoyará Luis Abinader para las elecciones presidenciales de República Dominicana de 2028? - Univision",
+      "fuente": "Univision",
       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFJlUkJXQjMtS092b2Y5UE94WmxiWDQtRkRuVENNVVAzZ1QtU240Y3l3Z3Q5enBaX1Y2RHNvaXZBejFKUGd2UzNxbEVhU2VORVlxc1VlLVUwRFI4bGloYWhyY2pQMktEdzdUN1Jvb0Rvdnl1V05ScDhSZ2NPYmxaWnNhQXkyUm51NkdPY1JmdkoyX2MzYVhEZ3pYMVRyaW9qR0tRSWtfTkRiNFNhYWE5bjk1ZTRBcmJ2bmtJUXpLV0hSb0RPWXV4aG1RcFZOYUJqVkZCRTVVb0xodEl2V1BSWHE4LVA?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 29 Sep 2026 00:59:09 GMT",
@@ -61,28 +61,20 @@
       "imagen": "https://resources.diariolibre.com/images/imagenes/2011/19/195331-focus-0-0-1200-675.jpg"
     },
     {
-      "titulo": "Precio del dólar hoy lunes 28 de septiembre de 2026 - elcaribe.com.do",
-      "fuente": "elcaribe.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkVxckN4b0VDbkRGQmJEaWotaVZQX09ydlpyODJxMEhqVWJwdkg3UURBVmhDaV8yb2otWTh1dDRBZVZNMmNXRnFlT2NaaHlxNW5PM0wzRW1Pc2Zra2FmS0I4TmI4NzZKVVZMQkx2enZaNDQxQ0lYTzdnNnpRSTB0UkJPU1Q3MkpVNXVIUWFtMEdVeWRlbDlMYnBxMGdvUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 13:06:08 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana 'avanza en los preparativos' para reabrir su consulado en Venezuela - Acento",
+      "titulo": "Cuál es la tasa de homicidios en República Dominicana, según las cifras oficiales - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdldCdXM0SzE4RnBNZEdFVWQzNUg5V2diY2hnQUo1amZ6b0tCNDI5OEVFRlB0d3A1VGNUNFlnQWZid3k4ZHMxTllKWWFxeWFsbldFalRvZEFtd1FoNnNHdUg0dzlaRjVReXlpX1hFRmVVN1RoVzJNbWpJUkZsa0pPTVFrWnQzdWtzSmhlTkVaeGx3QWV1c2VHVTVISFhTcTNYbFVkeWN5MVRXLVUzYVExWVZYOVd2ZENnNWFCY0ZBYXRMZjlCbkJfcEpaTVnSAcwBQVVfeXFMTnZXQnVzNEsxOEZwTWRHRVVkMzVIOVdnYmNoZ0FKNWpmem9LQjQyOThFRUZQdHdwNVRjVDRZZ0FmYnd5OGRzMU5ZSllhcXlhbG5XRWpUb2RBbXdRaDZzR3VINHc5WkY1UXl5aV9YRUZlVTdUaFcyTW1qSVJGbGtKT01Ra1p0M3Vrc0poZU5FWnhsd0FldXNlR1U1SEhYU3EzWGxVZHljeTFUVy1VM2FRMVlWWDlXdmRDZzVhQmNGQWF0TGY5Qm5CX3BKWk1Z?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObk9DZHNaVWNfOW9tRk9zOHJvakpOMURyRGFtTjNjRXhxWmxnVWpBQkI2NHN0NVV5OUFSNXpkcU5jYl93N1h6aTNZeXBIVE9pbktKRTZ5ZWhudlNZWGh0eEpKbUZOYS0xTjg4MnVkb3VhSlBFTnhfc1VBa0JSNnVncE14aG9vTENNRkRaaHh1TUZfUEJRZDVFSHVEeG1McldGc254TUt1WV9MdHN6SGNJeXY3blZ6ZXJkcjFfTmRvZ0Zmejhu0gHEAUFVX3lxTE5uT0Nkc1pVY185b21GT3M4cm9qSk4xRHJEYW1OM2NFeHFabGdVakFCQjY0c3Q1VXk5QVI1emRxTmNiX3c3WHppM1l5cEhUT2luS0pFNnllaG52U1lYaHR4SkptRk5hLTFOODgydWRvdWFKUEVOeF9zVUFrQlI2dWdwTXhob29MQ01GRFpoeHVNRl9QQlFkNUVIdUR4bUxyV0ZzbnhNS3VZX0x0c3pIY0l5djduVnplcmRyMV9OZG9nRmZ6OG4?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 18:50:03 GMT",
+      "fecha": "Tue, 29 Sep 2026 20:00:42 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Soltour impulsa República Dominicana y Jamaica para llenar el vacío de Cuba - Hosteltur, noticias de turismo",
-      "fuente": "Hosteltur, noticias de turismo",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSm5ITF9jYmxSQ0R6LW9VN2xZSFBoSkdpZElMQ0xnN0wwcWpoWmlMdUZaYjJDTlZSRUpKSk9GeURQLWhsX2JqcTJaRTR1Z2g5RTEtd1NDcGc4QzBsczZIY1dOZ1FsNVpXVHpZQmUySkx6TFNmanpHVHZzVXRpMnNUREJlN3FRX0ZMb1BfN1FkMXdoS0FEbnVHbnNzdk1waW5BT25vYWJxZ1ZLSWhWLUVZLXBrcw?oc=5",
+      "titulo": "Precio del dólar hoy martes 29 de septiembre de 2026 - elcaribe.com.do",
+      "fuente": "elcaribe.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTU56QmhjblVkazJhYzU1eHJNb0VDdHpjcG1Qd0ZPczFzYXFUZVBhLWdUMzZ5RVIxOFZJakpBTGlUWXVoSmJuVXJxYU1kczIya3I3ZjVtZlVXQ2paMlUwNFFVY1RrQjhEb0FtV0MwdmFUU3VaUUtsaXFGb2RCM1VuY05DZ2N2OWpGNlJCVDF2cjBjeXIySVNrM1BEY0dxZw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 05:46:27 GMT",
-      "imagen": "https://static.hosteltur.com/app/public/uploads/img/articles/2026/09/25/L_140427_soltour-impulsa-republica-dominicana-y-jamaica-para-llenar-el-vacio-de-cuba.jpg"
+      "fecha": "Tue, 29 Sep 2026 11:42:16 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Controversial barcaza con gas natural sale hacia República Dominicana para reabastecerse - wapa.tv",
@@ -93,11 +85,27 @@
       "imagen": ""
     },
     {
-      "titulo": "World Vision República Dominicana designa a Elías Dinzey como nuevo director - El Nuevo Diario",
+      "titulo": "Castro Popsitivo anuncia gira por República Dominicana y celebra más de dos décadas de trayectoria musical - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkU1WEFUci1YcDdObFYzM2VjZThuYVJ2SUVnMXRJcmdtYWV3NTJSRWZPQXF0UWVWckxqdnFXQVZvTFMwRS1pQ2NNekp1eUlVWnpvVTBVSHFvRXZKb3hnZjRCbURBaENCVEI2am9qWkxXSUFNcUtrNkVxT09qbFVOaVRjSnhZMlRDeTBsSHEwejFINkx4aERfZFRIbVlDdzZlN05HUzNjSTJ1UQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb3YyS3YtbGdfVjRiM1Q3WVJjTWpGZEw3LU96Ym9zV0pxYS1GRnM2MUhxbVdqRHY0Q2xZN2l3UGV1Q3pyZEpDbjhBdEFxWDF1WDNVU2c2aTUzRF9zaDhaTF82bGIxckFOa0pLbVpfaUpNcWsxTGlrQnc3Vkd4a0E3bi03dUxGaGRzUGlFZGdia2ZzYkEzdFRORFlDSWN2dTg2YnU4aE81Z1E4Umg1QTlOTmxXaXhqN1ZIS0pmdDdtMy1WNy1QZ1V1cUZjNEp0VGhhVnc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 29 Sep 2026 17:12:44 GMT",
+      "fecha": "Tue, 29 Sep 2026 23:43:33 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "UDC llama a fortalecer unidad familiar y social en Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlFrTmFkWFVfdGZuLVJ1TmtoQXY1Z0FuMVp4NXpKUW1MSHY4ckhDU2VfcGJMamxjU0hsOHdXZzY3dGtWaGJxTDdxN2drN2lSV2FSanhtblBabWgtZEpJamR1R09iR3JnVnBJZWVtQXlLVnZXM015OVVDaEY5ems3WVE2U2xfMUZxSUxOTQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 29 Sep 2026 07:01:19 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana registra varios temblores el fin de semana - telemundo47.com",
+      "fuente": "telemundo47.com",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEJXVkZ6SXNaLXFmSnEwelUxZ2I4MVpmWmVCbmUzNl9vWC1vMUlqLUNNQjhKRnNkcWFleEhDWEdmSmpPVi02NVVRTmlaTTVQUmZFVTlJMkhBREhFdjBYdzBlNjhUWE5GUWZCeE5UOVJrci1Ia1dOMlRWdVMtUHVJU0NmUmpHVmpiT25HZC1Db2xNWk9VaW5FbkhBZzBkZFNXem1sR2xhLUtPR0FG0gG0AUFVX3lxTE9YQXRJSzZNTFJWMUtWUG9zcDBjTHFZVmJEbmR1VUxpMnBGd1F3a2dBS3IyUjJOcDE1TE05T0h6dmJxQ3B4VWVfRjVhbHpmUnBDbGtvalFYc3lHckIzT0M4QmxqU1U2NVIxRk9mRUt1aWJHNmpSdlo5Z0FnOTAydmJkQlZMek5VUXVmSGVRS2h2cnJEalpKTTZYNFJYNVNYQlF3VFVJaFpSeEJWbW5yN3QwZ1FaRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 28 Sep 2026 17:27:25 GMT",
       "imagen": ""
     },
     {
@@ -106,14 +114,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU5ZVV9DTGRLanU0TVpSUmNFSDJwa19wZnl4SW1iMkJHTlRWV3NRNm9NYWdiUW8zR2VSMnhGbGt2aEtZbWUwaVlJOEVjU0ZfNkFrVlE1bkgteXBXU1p1ek5SZ0dkNFlyNTk5MWktYmNwSm5ySFNlODN4aEZmRjZZS1lxZ0xyQndwYU1Zelh2dzkyTC0teWVEOGp4enlGb2ZHTlNTZUU2clR6MlBCSHFv?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana registra varios temblores el fin de semana - Telemundo New York",
-      "fuente": "Telemundo New York",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEJXVkZ6SXNaLXFmSnEwelUxZ2I4MVpmWmVCbmUzNl9vWC1vMUlqLUNNQjhKRnNkcWFleEhDWEdmSmpPVi02NVVRTmlaTTVQUmZFVTlJMkhBREhFdjBYdzBlNjhUWE5GUWZCeE5UOVJrci1Ia1dOMlRWdVMtUHVJU0NmUmpHVmpiT25HZC1Db2xNWk9VaW5FbkhBZzBkZFNXem1sR2xhLUtPR0FG0gG0AUFVX3lxTE9YQXRJSzZNTFJWMUtWUG9zcDBjTHFZVmJEbmR1VUxpMnBGd1F3a2dBS3IyUjJOcDE1TE05T0h6dmJxQ3B4VWVfRjVhbHpmUnBDbGtvalFYc3lHckIzT0M4QmxqU1U2NVIxRk9mRUt1aWJHNmpSdlo5Z0FnOTAydmJkQlZMek5VUXVmSGVRS2h2cnJEalpKTTZYNFJYNVNYQlF3VFVJaFpSeEJWbW5yN3QwZ1FaRQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 28 Sep 2026 17:27:25 GMT",
       "imagen": ""
     },
     {
