@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-30T14:00:40.948188-04:00",
-  "hora": "14:00",
+  "updated": "2026-09-30T17:00:42.136434-04:00",
+  "hora": "17:00",
   "fecha": "30/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "braves - phillies",
+      "trafico": "1000+",
+      "noticia": "LIVE: Phillies-Braves NL Wild Card Series Game 2 on NBC/Peacock",
+      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRH0f2zKz7NgpobfOxAZsg0gTI1L_aEdq374CYYUoaVqyUWZ3qmRe5R0MxZBM"
+    },
+    {
       "termino": "cámara de cuentas de la república",
-      "trafico": "500+",
+      "trafico": "2000+",
       "noticia": "Cámara de Cuentas revela irregularidades por RD$18,967 millones en Aduanas, operaciones sin soporte y fallas de control",
       "enlace": "https://acento.com.do/actualidad/camara-de-cuentas-revela-irregularidades-por-rd18967-millones-en-aduanas-operaciones-sin-soporte-y-fallas-de-control-9761262.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvRT_SUH21-4r80Z7V0_SudpluIL3B6s3Odb0tm_dMXytTiZruK1nThXudYRM"
@@ -15,9 +22,9 @@
     {
       "termino": "diario libre",
       "trafico": "5000+",
-      "noticia": "Julián Oro Duro se ve la cara con los supuestos asesinos de su esposa",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/09/30/ataque-a-julian-oro-duro-merenguero-vera-cara-a-cara-sus-agresores/3674471",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_8JcQlt6aq_QLcK1uQULpj4isLtGP4pDxuODGxorsP3WCzmWCL2YFL-i6wQ"
+      "noticia": "Trump califica a Abinader como “un gran hombre” y destaca labor de embajadora de EE. UU. en RD",
+      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/09/30/trump-elogia-a-luis-abinader-y-destaca-labor-de-su-embajadora/3674903",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMAOnUcAgRY0xnZoPe4h9nmk4oQLclmvdgp_GO-BxbS-qnvThaZLIayg9TpI"
     },
     {
       "termino": "gilbert bigio",
@@ -29,16 +36,30 @@
     {
       "termino": "mlb",
       "trafico": "1000+",
-      "noticia": "Top storyline for each Wild Card Series Game 2",
-      "enlace": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_FyCdkZn77FfP1F_TZ3tlx7s4unkwPUdDUrUyCzuR9AnD6w2hiuI51_mkOE"
+      "noticia": "Roman Anthony’s injury instantly clouds Red Sox’ playoff hopes, especially in must-win Game 2",
+      "enlace": "https://www.bostonglobe.com/2026/09/30/sports/red-sox-injuries-roman-anthony-mlb-playoffs/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzW04Sn5ufwaYSzjlhy0vEXEcikY8NRs2CyhfvZt0oOo71Kpc_Ig_scc77rfU"
     },
     {
-      "termino": "padres - cubs",
-      "trafico": "2000+",
+      "termino": "ben rice",
+      "trafico": "200+",
+      "noticia": "Ben Rice delivers otherworldly night to carry Yankees’ offense in Game 1 win",
+      "enlace": "https://nypost.com/2026/09/30/sports/ben-rice-delivers-big-night-to-carry-yankees-offense-in-game-1-win/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnEQDaUoPbysrkmAxRm2Y7R_3G3z8VnqCmwgQIjzHcnU2g9L3Wb8gTxlWtyUU"
+    },
+    {
+      "termino": "michael king",
+      "trafico": "500+",
       "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
       "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcuXDOkWwl5acw8Tvj8qIabG4pWAIuM-m3w0PqMcvqKxZszslFgOldZzspoU"
+    },
+    {
+      "termino": "padres - cubs",
+      "trafico": "1000+",
+      "noticia": "Cubs turn to Gausman s poise, postseason track record in must-win Game 2",
+      "enlace": "https://www.mlb.com/news/kevin-gausman-to-start-nl-wild-card-series-game-2-for-cubs",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwAoxX4K3OjCSFh7x4baooUMHSed-z6IAZ0i0Lsi3YkWmJqpqKizOlWc3NghA"
     },
     {
       "termino": "méxico - perú",
@@ -50,30 +71,9 @@
     {
       "termino": "yankees - red sox",
       "trafico": "2000+",
-      "noticia": "Cam Schlittler, Ben Rice lead Yankees to emphatic Game 1 win over Red Sox",
-      "enlace": "https://nypost.com/2026/09/29/sports/cam-schlittler-ben-rice-lead-yankees-to-game-1-win-over-red-sox/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzoV71zl2I0S7yohKKAyxEb2M_YPRZV682R9xzh9RQF-oC9mCVkDVYqTQreIY"
-    },
-    {
-      "termino": "astros - white sox",
-      "trafico": "1000+",
-      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "espagne – croatie",
-      "trafico": "200+",
-      "noticia": "Lamine Yamal retourne toute l’Espagne, Manchester City dénonce une conspiration",
-      "enlace": "https://www.footmercato.net/a2113384433462462386-lamine-yamal-retourne-toute-lespagne-manchester-city-denonce-une-conspiration",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFceB7kYF2SGHOCTAySArRSY4tkIUmaDYGyiR4aHlilq0IZ5j7CTK8anHr9UM"
-    },
-    {
-      "termino": "chequia - inglaterra",
-      "trafico": "1000+",
-      "noticia": "República Checa 0 - Inglaterra 2: resumen, goles y resultado del partido de UEFA Nations League",
-      "enlace": "https://as.com/futbol/uefa/republica-checa-inglaterra-en-directo-uefa-nations-league-hoy-en-vivo-f202609-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaDOWw7FB1N8kcl6CzXG97woLgJ7DO8SvZVwqZPanXCAHe-209hWr40H32Uw"
+      "noticia": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
+      "enlace": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnbWHBlyPjBdloXNFSfeHRkuMhjc0GOY87x1EG7a2mN_k9HHuI2ijR25SHOQA"
     }
   ]
 }
