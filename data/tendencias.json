@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-01T08:00:50.577518-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-01T11:00:51.645294-04:00",
+  "hora": "11:00",
   "fecha": "01/10/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 8,
   "tendencias": [
     {
       "termino": "padres - cubs",
-      "trafico": "2000+",
-      "noticia": "Never a doubt : Resilient Phils force Game 3 on three dramatic swings",
-      "enlace": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdmsj9VLDwLrPmeArNHw4dG55QdIoOEGTJ_4NBIgb57vQi7p6OIXcxP-aPNU"
+      "trafico": "1000+",
+      "noticia": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
+      "enlace": "https://www.mlb.com/news/padres-win-nl-wild-card-series-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmAoOnBEiTzXcUhZYPARwVa7Q0ThEl59ayDdcj0Y5bxfk0hfwBBR_F0VQqYCc"
     },
     {
       "termino": "argentina vs bolivia",
       "trafico": "500+",
-      "noticia": "The energy is still the same!  – Lautaro Martinez speaks out after firing Argentina to 4-0 win",
-      "enlace": "https://www.goal.com/en-us/lists/lautaro-martinez-argentina-bolivia-4-0-opener-reaction/blt2ffcb5fb824254b7",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpOVV_4SJf3yWMc6704WJShTPSkVSREplZi040lFcGl1ZnTLqwh_kPJddxjGA"
+      "noticia": "Scaloni praises Argentina’s attitude after emphatic win over Bolivia",
+      "enlace": "https://www.idman.biz/en/news/world-football/159048",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-giKZRBjMDG5k6v1JTQY9_OUBf6U9jyA3olAM2ABRGRacZhi4TRmpnEVZBBY"
     },
     {
       "termino": "argentine – bolivie",
@@ -35,7 +35,7 @@
     },
     {
       "termino": "leah campos",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Trump dice que Abinader le pidió mantener a Leah Campos como embajadora",
       "enlace": "https://listindiario.com/la-republica/gobierno/20260930/donald-trump-define-abinader-buen-tipo_924389.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbNvFeU1ahmAqMcMy2ZDU24KpWc4l9A8BZiVUEAtYd36VSmYryLFCpAzRCiw"
@@ -46,6 +46,13 @@
       "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
       "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+    },
+    {
+      "termino": "braves - phillies",
+      "trafico": "2000+",
+      "noticia": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
+      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA"
     },
     {
       "termino": "cámara de cuentas de la república",
