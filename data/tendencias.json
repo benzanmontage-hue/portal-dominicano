@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-01T05:00:48.277869-04:00",
-  "hora": "05:00",
+  "updated": "2026-10-01T08:00:50.577518-04:00",
+  "hora": "08:00",
   "fecha": "01/10/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 7,
   "tendencias": [
     {
       "termino": "padres - cubs",
       "trafico": "2000+",
-      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHwkp3J303i1s4RAoxIKHHBE7vVXcGJf8BG9VjS0_8k1XT_zhII3i4f9oHKdM"
+      "noticia": "Never a doubt : Resilient Phils force Game 3 on three dramatic swings",
+      "enlace": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdmsj9VLDwLrPmeArNHw4dG55QdIoOEGTJ_4NBIgb57vQi7p6OIXcxP-aPNU"
     },
     {
       "termino": "argentina vs bolivia",
-      "trafico": "1000+",
+      "trafico": "500+",
       "noticia": "The energy is still the same!  – Lautaro Martinez speaks out after firing Argentina to 4-0 win",
       "enlace": "https://www.goal.com/en-us/lists/lautaro-martinez-argentina-bolivia-4-0-opener-reaction/blt2ffcb5fb824254b7",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpOVV_4SJf3yWMc6704WJShTPSkVSREplZi040lFcGl1ZnTLqwh_kPJddxjGA"
@@ -48,32 +48,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
-      "termino": "braves - phillies",
-      "trafico": "2000+",
-      "noticia": "MLB Gameday: Phillies 4, Braves 3 Final Score (09/30/2026)",
-      "enlace": "https://www.mlb.com/gameday/phillies-vs-braves/2026/09/30/849841/live",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAkaiN5w6DxVVxGWqSFUaSX15ctfWKXb5AZAY-Xdfus_6W0s6HVtzotO717p8"
-    },
-    {
       "termino": "cámara de cuentas de la república",
       "trafico": "2000+",
       "noticia": "Cámara de Cuentas revela irregularidades por RD$18,967 millones en Aduanas, operaciones sin soporte y fallas de control",
       "enlace": "https://acento.com.do/actualidad/camara-de-cuentas-revela-irregularidades-por-rd18967-millones-en-aduanas-operaciones-sin-soporte-y-fallas-de-control-9761262.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvRT_SUH21-4r80Z7V0_SudpluIL3B6s3Odb0tm_dMXytTiZruK1nThXudYRM"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "5000+",
-      "noticia": "Otro presunto delincuente cae abatido por la Policía en Santiago",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/09/30/eudy-antonio-infante-de-leon-cae-abatido-por-la-policia-en-santiago/3675212",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj-Z6iL5mUlDmaTy_DUMpiMOVH_0Oc6q2ytzCkhswbwlMMD_jCJwy7TVi6rao"
-    },
-    {
-      "termino": "gilbert bigio",
-      "trafico": "1000+",
-      "noticia": "El imperio de Gilbert Bigio: negocios en Haití, sociedades offshore y una fuerte conexión con RD",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/01/gilbert-bigio-del-acero-a-los-combustibles-y-su-expansion-empresarial/3675055",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTouW8-Pahk2y3D9WXAAbbBp9JCajj3mR_b-hV8sxmcBPf_JowGM_dAn2zWs"
     }
   ]
 }
