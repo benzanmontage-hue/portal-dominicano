@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T14:00:49.092332-04:00",
+  "updated": "2026-10-01T17:00:50.045901-04:00",
   "fecha": "01/10/2026",
-  "hora": "14:00",
+  "hora": "17:00",
   "total_juegos": 53,
   "juegos": [
     {
@@ -19,24 +19,24 @@
       "compania": "Nacional",
       "juego": "Gana Más",
       "numeros": [
-        "41",
-        "46",
-        "79"
+        "31",
+        "29",
+        "49"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d482"
     },
     {
       "compania": "Nacional",
       "juego": "Juega + Pega +",
       "numeros": [
-        "26",
-        "08",
-        "16",
+        "24",
+        "13",
+        "04",
         "25",
-        "02"
+        "21"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d48e"
     },
     {
@@ -159,10 +159,10 @@
       "compania": "Loteria Real",
       "juego": "Super Palé",
       "numeros": [
-        "87",
-        "41"
+        "40",
+        "31"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4b4"
     },
     {
@@ -233,7 +233,9 @@
       "compania": "Anguila",
       "juego": "Anguila 2:00 PM",
       "numeros": [
-        "49"
+        "49",
+        "39",
+        "52"
       ],
       "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6a3e96e25036a431f5f40c87"
@@ -242,33 +244,32 @@
       "compania": "Anguila",
       "juego": "Anguila 3:00 PM",
       "numeros": [
-        "27",
-        "85",
-        "07"
+        "10",
+        "81",
+        "52"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6a3e97a25036a431f5f41eef"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 4:00 PM",
       "numeros": [
-        "97",
-        "23",
-        "70"
+        "42",
+        "21",
+        "51"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6a5116a607d516b9c5102db7"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 5:00 PM",
       "numeros": [
-        "04",
-        "76",
-        "72"
+        "93",
+        "13"
       ],
-      "fecha": "2026-09-30T04:00:00.000Z",
+      "fecha": "2026-10-01T04:00:00.000Z",
       "game_id": "6a5116f607d516b9c510302f"
     },
     {

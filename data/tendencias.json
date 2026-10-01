@@ -1,23 +1,44 @@
 {
-  "updated": "2026-10-01T14:00:53.831602-04:00",
-  "hora": "14:00",
+  "updated": "2026-10-01T17:00:54.620993-04:00",
+  "hora": "17:00",
   "fecha": "01/10/2026",
   "pais": "República Dominicana",
-  "total": 7,
+  "total": 9,
   "tendencias": [
+    {
+      "termino": "gales - noruega",
+      "trafico": "200+",
+      "noticia": "Gales vs Noruega EN VIVO | Nations League: Haaland, goles, resultado y minuto a minuto",
+      "enlace": "https://www.beinsports.com/es-us/football/uefa-nations-league/articles/live-blog-gales-vs-noruega-uefa-nations-league-2026-10-01",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGV1BV4kfDF8-H6WpZFzDp_S8uG081UIoYwaaHjbCa7knZJrdsD-c9-XyNwY"
+    },
+    {
+      "termino": "terremoto",
+      "trafico": "5000+",
+      "noticia": "Terremoto moderado mag. 4.6 - Fiji Region, Thursday 1 Oct 2026 a las 06:54 (GMT -12)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23404196/mag4quake-Oct-1-2026-Fiji-Region.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPROURPst7puboCK9XKlwALkrGRT8YRMX6Xj5frX6Urn1C0t6f1jJBfbLKDCE"
+    },
+    {
+      "termino": "dinamarca - portugal",
+      "trafico": "2000+",
+      "noticia": "Recado para Cristiano Ronaldo? Atacante da Dinamarca, Rasmus Höjlund zomba de Portugal com comemoração de CR7",
+      "enlace": "https://www.goal.com/br/not%C3%ADcias/recado-para-cristiano-ronaldo-atacante-da-dinamarca-rasmus-hoejlund-zomba-de-portugal-com-comemoracao-de-cr7/blt78f76b15d8615154",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSdy9fmIe6dqRZ882DGfyGfGrNE4vMdPlu9mI-SwKVo2WQFlNEsuA7xdGzGxs"
+    },
     {
       "termino": "padres - cubs",
       "trafico": "1000+",
-      "noticia": "Chicago Cubs at San Diego Padres Preview - 09/30/2026",
-      "enlace": "https://www.mlb.com/stories/game-preview/849842",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftbSkvcXxbUGhxH7mjE1V4riL79DGin-RjPLgZzOZO3r1hlttYcrbqOifx2I"
+      "noticia": "Emma: After an ugly exit, Cubs need to significantly adjust their core philosophies",
+      "enlace": "https://www.audacy.com/thescorechicago/sports/chicago-cubs/emma-after-an-ugly-exit-cubs-need-to-significantly-adjust-their-core-philosophies",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvfkyTk9L7qM4iEh3d2hNijiai7Kft_PfY0bG9iuK5n4FROpFNuKk4M-GnPw0"
     },
     {
       "termino": "argentina vs bolivia",
       "trafico": "500+",
-      "noticia": "Lautaro Martinez matches Aguero to become Argentina’s third all-time top scorer",
-      "enlace": "https://football-italia.net/lautaro-martinez-argentina-third-top-scorer/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fTfEhivYXlBRsCUHF5wvTtJ63XxK8fr_3bVTmul4zTq__wgOkw4Xnvrtr6A"
+      "noticia": "Scaloni praises Argentina’s attitude after emphatic win over Bolivia",
+      "enlace": "https://www.idman.biz/en/news/world-football/159048",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-giKZRBjMDG5k6v1JTQY9_OUBf6U9jyA3olAM2ABRGRacZhi4TRmpnEVZBBY"
     },
     {
       "termino": "argentine – bolivie",
@@ -44,15 +65,8 @@
       "termino": "astros - white sox",
       "trafico": "500+",
       "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "braves - phillies",
-      "trafico": "2000+",
-      "noticia": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
-      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA"
+      "enlace": "https://www.mlb.com/es/stories/game/849849",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGZEpM9BbBK0VDCjZcu0zys5HB-vINlNxT1tAyrH5S614qo1KY2dkJJHLlK6A"
     }
   ]
 }
