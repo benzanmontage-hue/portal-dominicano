@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-01T11:00:51.645294-04:00",
-  "hora": "11:00",
+  "updated": "2026-10-01T14:00:53.831602-04:00",
+  "hora": "14:00",
   "fecha": "01/10/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 7,
   "tendencias": [
     {
       "termino": "padres - cubs",
       "trafico": "1000+",
-      "noticia": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
-      "enlace": "https://www.mlb.com/news/padres-win-nl-wild-card-series-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmAoOnBEiTzXcUhZYPARwVa7Q0ThEl59ayDdcj0Y5bxfk0hfwBBR_F0VQqYCc"
+      "noticia": "Chicago Cubs at San Diego Padres Preview - 09/30/2026",
+      "enlace": "https://www.mlb.com/stories/game-preview/849842",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftbSkvcXxbUGhxH7mjE1V4riL79DGin-RjPLgZzOZO3r1hlttYcrbqOifx2I"
     },
     {
       "termino": "argentina vs bolivia",
       "trafico": "500+",
-      "noticia": "Scaloni praises Argentina’s attitude after emphatic win over Bolivia",
-      "enlace": "https://www.idman.biz/en/news/world-football/159048",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-giKZRBjMDG5k6v1JTQY9_OUBf6U9jyA3olAM2ABRGRacZhi4TRmpnEVZBBY"
+      "noticia": "Lautaro Martinez matches Aguero to become Argentina’s third all-time top scorer",
+      "enlace": "https://football-italia.net/lautaro-martinez-argentina-third-top-scorer/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fTfEhivYXlBRsCUHF5wvTtJ63XxK8fr_3bVTmul4zTq__wgOkw4Xnvrtr6A"
     },
     {
       "termino": "argentine – bolivie",
@@ -53,13 +53,6 @@
       "noticia": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
       "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA"
-    },
-    {
-      "termino": "cámara de cuentas de la república",
-      "trafico": "2000+",
-      "noticia": "Cámara de Cuentas revela irregularidades por RD$18,967 millones en Aduanas, operaciones sin soporte y fallas de control",
-      "enlace": "https://acento.com.do/actualidad/camara-de-cuentas-revela-irregularidades-por-rd18967-millones-en-aduanas-operaciones-sin-soporte-y-fallas-de-control-9761262.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvRT_SUH21-4r80Z7V0_SudpluIL3B6s3Odb0tm_dMXytTiZruK1nThXudYRM"
     }
   ]
 }
