@@ -1,16 +1,44 @@
 {
-  "updated": "2026-09-30T17:00:42.136434-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-30T20:00:44.275323-04:00",
+  "hora": "20:00",
   "fecha": "30/09/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "braves - phillies",
+      "termino": "argentine – bolivie",
+      "trafico": "500+",
+      "noticia": "Argentine - Bolivie, Matches amicaux A, match en direct le 01/10/2026",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/matches-amicaux-a/2026-2027/argentine-bolivie-live/703000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45vN0QcXVyg7M9HXzEmTY5tMthkmACIV7TiOzd0RAJFdBKob1n6tMR1sdDas"
+    },
+    {
+      "termino": "argentina - bolivia",
       "trafico": "1000+",
-      "noticia": "LIVE: Phillies-Braves NL Wild Card Series Game 2 on NBC/Peacock",
-      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRH0f2zKz7NgpobfOxAZsg0gTI1L_aEdq374CYYUoaVqyUWZ3qmRe5R0MxZBM"
+      "noticia": "La formación de Argentina vs. Bolivia",
+      "enlace": "https://www.tycsports.com/seleccion-argentina/la-formacion-de-la-seleccion-argentina-vs-bolivia-por-un-amistoso-id763243.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4v6jgzs08p4OXQJestyyNS-chKrO86Oh741H8_EIJ_nWocF22olmwdgeC8k"
+    },
+    {
+      "termino": "leah campos",
+      "trafico": "5000+",
+      "noticia": "Trump dice que Abinader le pidió mantener a Leah Campos como embajadora",
+      "enlace": "https://listindiario.com/la-republica/gobierno/20260930/donald-trump-define-abinader-buen-tipo_924389.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2eTI_-yDaYzBMQfi7gud_oAtM02oePX7uDXi7alJ43fcKPKiTIifY5GV-9mM"
+    },
+    {
+      "termino": "astros - white sox",
+      "trafico": "500+",
+      "noticia": "Resumen White Sox @ Astros, Resultados/Jugadas destacadas - 29/09/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849849?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849849",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+    },
+    {
+      "termino": "braves - phillies",
+      "trafico": "2000+",
+      "noticia": "Backs to wall, resilient Phils force Game 3 on Bohm s 10th-inning drive",
+      "enlace": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdmsj9VLDwLrPmeArNHw4dG55QdIoOEGTJ_4NBIgb57vQi7p6OIXcxP-aPNU"
     },
     {
       "termino": "cámara de cuentas de la república",
@@ -18,13 +46,6 @@
       "noticia": "Cámara de Cuentas revela irregularidades por RD$18,967 millones en Aduanas, operaciones sin soporte y fallas de control",
       "enlace": "https://acento.com.do/actualidad/camara-de-cuentas-revela-irregularidades-por-rd18967-millones-en-aduanas-operaciones-sin-soporte-y-fallas-de-control-9761262.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvRT_SUH21-4r80Z7V0_SudpluIL3B6s3Odb0tm_dMXytTiZruK1nThXudYRM"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "5000+",
-      "noticia": "Trump califica a Abinader como “un gran hombre” y destaca labor de embajadora de EE. UU. en RD",
-      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/09/30/trump-elogia-a-luis-abinader-y-destaca-labor-de-su-embajadora/3674903",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMAOnUcAgRY0xnZoPe4h9nmk4oQLclmvdgp_GO-BxbS-qnvThaZLIayg9TpI"
     },
     {
       "termino": "gilbert bigio",
@@ -36,44 +57,23 @@
     {
       "termino": "mlb",
       "trafico": "1000+",
-      "noticia": "Roman Anthony’s injury instantly clouds Red Sox’ playoff hopes, especially in must-win Game 2",
-      "enlace": "https://www.bostonglobe.com/2026/09/30/sports/red-sox-injuries-roman-anthony-mlb-playoffs/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzW04Sn5ufwaYSzjlhy0vEXEcikY8NRs2CyhfvZt0oOo71Kpc_Ig_scc77rfU"
+      "noticia": "Astros players blast their own fans for booing, not showing up to playoff loss - The Athletic",
+      "enlace": "https://www.nytimes.com/athletic/7644992/2026/09/30/astros-loss-game-1-fans-frustration/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPjbuWLRjkqOPgnTz4fAXJU1EUFNs5xXHHyDGjR2xD0DpUZxX00bTYLccYt6A"
     },
     {
       "termino": "ben rice",
       "trafico": "200+",
-      "noticia": "Ben Rice delivers otherworldly night to carry Yankees’ offense in Game 1 win",
-      "enlace": "https://nypost.com/2026/09/30/sports/ben-rice-delivers-big-night-to-carry-yankees-offense-in-game-1-win/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnEQDaUoPbysrkmAxRm2Y7R_3G3z8VnqCmwgQIjzHcnU2g9L3Wb8gTxlWtyUU"
-    },
-    {
-      "termino": "michael king",
-      "trafico": "500+",
-      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcuXDOkWwl5acw8Tvj8qIabG4pWAIuM-m3w0PqMcvqKxZszslFgOldZzspoU"
+      "noticia": "Yankees: Lucky Charm or Superstition? Ben Rice’s Secret Routine That Crushed the Red Sox in the MLB Playoffs",
+      "enlace": "https://en.albat.com/thebigs/yankees-lucky-charm-or-superstition-ben-rices-secret-routine-that-crushed-the-red-sox-in-the-mlb-playoffs-20260930-0005.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC3s3Ske280vDKsxhx6gQUHJR8n-pyU_iEBE1WVJlFLZ_yucOwVHcRxOTexUo"
     },
     {
       "termino": "padres - cubs",
-      "trafico": "1000+",
-      "noticia": "Cubs turn to Gausman s poise, postseason track record in must-win Game 2",
-      "enlace": "https://www.mlb.com/news/kevin-gausman-to-start-nl-wild-card-series-game-2-for-cubs",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwAoxX4K3OjCSFh7x4baooUMHSed-z6IAZ0i0Lsi3YkWmJqpqKizOlWc3NghA"
-    },
-    {
-      "termino": "méxico - perú",
-      "trafico": "500+",
-      "noticia": "Mexico vs Peru: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cjkg77dgz1g3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "yankees - red sox",
       "trafico": "2000+",
-      "noticia": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
-      "enlace": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnbWHBlyPjBdloXNFSfeHRkuMhjc0GOY87x1EG7a2mN_k9HHuI2ijR25SHOQA"
+      "noticia": "Padres 8-0 Cubs (Sep 29, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHwkp3J303i1s4RAoxIKHHBE7vVXcGJf8BG9VjS0_8k1XT_zhII3i4f9oHKdM"
     }
   ]
 }

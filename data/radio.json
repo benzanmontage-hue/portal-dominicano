@@ -107,6 +107,13 @@
       "favicon": ""
     },
     {
+      "nombre": "Top Bachata Radio",
+      "url": "https://radio.dominiserver.com/proxy/topbachata?mp=/stream",
+      "codec": "MP3",
+      "bitrate": 128,
+      "favicon": ""
+    },
+    {
       "nombre": "570 AM Radio Crystal",
       "url": "https://stream.zeno.fm/fu9hfhw8na0uv",
       "codec": "MP3",
@@ -245,13 +252,6 @@
       "codec": "MP3",
       "bitrate": 128,
       "favicon": "https://imgur.com/a/EB8PGIr"
-    },
-    {
-      "nombre": "EXTASIS 89.5",
-      "url": "https://radio.hostlagarto.com/8070/stream",
-      "codec": "AAC+",
-      "bitrate": 128,
-      "favicon": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ=="
     },
     {
       "nombre": "EXTASIS 89.5",

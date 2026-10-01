@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T17:00:52.250493-04:00",
-  "hora": "17:00",
+  "updated": "2026-09-30T20:00:56.629265-04:00",
+  "hora": "20:00",
   "fecha": "30/09/2026",
   "total": 12,
   "eventos": [
@@ -17,16 +17,16 @@
       "fecha": "Wed, 30 Sep 2026 08:00:00 GMT"
     },
     {
+      "titulo": "Shakira transmitirá gratis su concierto desde Madrid: a qué hora es en RD y dónde verlo en vivo - Revista Mercado",
+      "fuente": "Revista Mercado",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmM0SDE2WmRjLWxyYVBDeThVSXpiM05KbzlvOFRxOFhWN1huRlhFUWFxMW11TWx6ak4yTHp0ckJ3OENCVmpZMU5pS3l3ZFNVZUlBQVhxaGt6elFNZVNZTTgyYlRIWnBDaUhoUDRCSDcxdi1IXy1aaFk4SEF3dk1kV014SDFGeEsyZ04wS3N3WTF1NTNIWVRLd2lQd2tZV3JUTllrdUFndW9yenpfZWNxTXAwTktHR09pMGJheXBWd0J4U3RxOHVTRmEzSXAzVGJCNHN2V0ZEMGVhenlC?oc=5",
+      "fecha": "Wed, 30 Sep 2026 21:09:34 GMT"
+    },
+    {
       "titulo": "Ciudad de Ángeles está de regreso y anuncia su primer show en el país - eldia.com.do",
       "fuente": "eldia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDdndjZnU0ViU0swZ0pNb2dDQ2k1ZU9PSWQyb3RmSHVqX0MzUE15YVVfdFFnTklDbXlSNnc1c0hMamRBU1Zla21wVV8xVlQybUw2SVBTS0JxV3ZUUl9LS0NOZVJ1N2ZZRGk3ZEFQX2Z0cVEzRmlsTDZrX2ZuYXh2UVF4VXhTa2xpU2E1WGpmR3Rubk01Wmc?oc=5",
       "fecha": "Wed, 30 Sep 2026 04:18:00 GMT"
-    },
-    {
-      "titulo": "RD cierra el año con grandes conciertos y el regreso del Festival Presidente - elcaribe.com.do",
-      "fuente": "elcaribe.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEo4bkhQUGZmdTZLYzVhR1Ewc2xtX0JBLVE1WDdJYWhaNm9zaWlVdHVnSUdTSzlFYUxFREJSd2ZnaEFkTU1QbHNDM2s2S3I2RklkZXVfd2FjN28wSld4bURMYmI0eVRRT3VqejZ5c1l0N01makhmSlk4V01Rc2V1RE1ZWXNXZFE?oc=5",
-      "fecha": "Tue, 29 Sep 2026 23:29:13 GMT"
     },
     {
       "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
@@ -35,10 +35,16 @@
       "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Ricardo Montaner anuncia concierto en Santo Domingo para abril de 2027 - Acento",
-      "fuente": "Acento",
+      "titulo": "Ricardo Montaner anuncia concierto en Santo Domingo para abril de 2027 - acento.com.do",
+      "fuente": "acento.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDlEUTRfX3hYbVcxdmlXNFNkdE10dm45ZC00c3hVc0lyVmJzUWt1TVhRR21XYkJDQTg5empsM2h4enA0OElqODYxMXNPVUpjbUVkWjI1RUlQMWN4amFOem5aamxOYXBnZDFkeDU2di0yMF9yc1N5bHc3S1RoZUdfNjliRkRhbmpKVEhqZTdSaUlFcVlncWlTNzFXQWlMUnpldGtYR2p1Wi1WX3dEZjNpSjNRTmR5cWpadXfSAboBQVVfeXFMTlA5RFE0X194WG1XMXZpVzRTZHRNdHZuOWQtNHN4VXNJclZic1FrdU1YUUdtV2JCQ0E4OXpqbDNoeHpwNDhJajg2MTFzT1VKY21FZFoyNUVJUDFjeGphTnpuWmpsTmFwZ2QxZHg1NnYtMjBfcnNTeWx3N0tUaGVHXzY5YkZEYW5qSlRIamU3UmlJRXFZZ3FpUzcxV0FpTFJ6ZXRrWEdqdVotVl93RGYzaUozUU5keXFqWnV3?oc=5",
       "fecha": "Sun, 27 Sep 2026 03:08:33 GMT"
+    },
+    {
+      "titulo": "RD cierra el año con grandes conciertos y el regreso del Festival Presidente - elcaribe.com.do",
+      "fuente": "elcaribe.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEo4bkhQUGZmdTZLYzVhR1Ewc2xtX0JBLVE1WDdJYWhaNm9zaWlVdHVnSUdTSzlFYUxFREJSd2ZnaEFkTU1QbHNDM2s2S3I2RklkZXVfd2FjN28wSld4bURMYmI0eVRRT3VqejZ5c1l0N01makhmSlk4V01Rc2V1RE1ZWXNXZFE?oc=5",
+      "fecha": "Tue, 29 Sep 2026 23:29:13 GMT"
     },
     {
       "titulo": "El último trimestre viene cargado de artistas que tomarán los escenarios de RD - N Digital",
@@ -47,8 +53,8 @@
       "fecha": "Mon, 28 Sep 2026 10:40:30 GMT"
     },
     {
-      "titulo": "Kapo anuncia concierto en República Dominicana - listindiario.com",
-      "fuente": "listindiario.com",
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDg?oc=5",
       "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
@@ -69,12 +75,6 @@
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
       "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Shakira se presenta en España con 12 conciertos mientras un tribunal revisa su querella fiscal de US$63 millones - Bloomberg Línea",
-      "fuente": "Bloomberg Línea",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZEhfOGtUa2pGaWFCYURxbWI3ZFNXY05QVW1OWnZYUjE3RkdWZkIyeXJmWkZJbWF0QWFTOUhxdmtWT2hfS1NKUWhqYmlucHA2MmRBQjdYZEFtVzVEaWZQcnFVQWtIei16NFg4cnMzcEhqUHF2MFBzSVdGOFR2dkNyZ0dydnNIb0tuTWtBeVVjR3IxcE5DVEs0UzRIR19OR29KS2hXZjZPOVRZNGtyTTlURFB6dTRkdmtZNVVGSzZHaGptNTYyX01MRWdRYnRBcGlFUmNJWGNUeFR6dG0zaHQ5MXp6aGZzMmdTcjVQb1l5TdIBgwJBVV95cUxNb1hFRUxlb2Nqb0FQek81WkZOMmZFem9KeHZHOWdYVThNNDdMVWRocFZ4c2RjVTRDYVlrUndqSjFvN3JmRGZOUS1hNFZ1LUZzYk5tcHRtZEM3QTNPTncySmdfdG9zSHplNGpfOWhGNm1VQ1hQSFdRaGgxSEFORWdKX2VCMDZVMHBMUVBadmN2dlBhSUNuNlp2Q3hHNy1wcHl6WTg4ZU9CbEhGM3ROOEFpbEU1d0tiQVhlR3ozYmNwNjJBZTRxZ2JYaHVvNnFTdG5sSHJGa0RXX1pOSkstbW5TNjJFZ01Udk5NMVBEWUtOTjlYT2ZNQjk1MUdDTURxTHo2QUhz?oc=5",
-      "fecha": "Fri, 18 Sep 2026 07:00:00 GMT"
     }
   ]
 }
