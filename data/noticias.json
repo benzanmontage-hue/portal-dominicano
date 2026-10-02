@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T08:01:19.082950-04:00",
-  "hora": "08:01",
+  "updated": "2026-10-02T11:01:19.089601-04:00",
+  "hora": "11:01",
   "fecha": "02/10/2026",
   "total": 15,
   "noticias": [
@@ -21,12 +21,28 @@
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/v0cxg4rsilocthtntegg"
     },
     {
+      "titulo": "La campaña a favor de los cursos de creole en las escuelas aviva el sentimiento antihaitiano en la República Dominicana - The Conversation",
+      "fuente": "The Conversation",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUNBOWNsYzJ2Ym80dEtEQ2xtdjFaRy1IeWFkVHBsclQ4a0hCQkZaVzl6ZXlyQThsVV9FdVJjRGc2VG5ka2N3bXEzTElMWk9BWjNmbnVNcHoxX0dycDYzLUVTTnNrUnBDVS04REhFV2tPZzhocWVvZzZaSnVEVEp3TV9EMHlObzRUcXhiSUdLRlpwX1VocWx3d1BPam9WNVNSYUhkaXhZMEZPTmJFQmVTbGlBTEctODZmdzAyMGFTUFBEc1NXUERkYzYwMlY1bEh5b2tJc1ZDTHpHdHVUdkZZRFp4NjlHd01lQVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 12:25:54 GMT",
+      "imagen": "https://images.theconversation.com/files/763212/original/file-20260924-60-eqfwuz.jpg?ixlib=rb-4.1.1&rect=0%2C165%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
       "titulo": "Embajada rusa investigará envío de dominicanos a la guerra con Ucrania - Listín Diario",
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlRTUHpPM0w4QlNOWm5od2swREVTZVgxRlhDWlpfaDJhLTAxLXRPdks0RkVXYWR3c2NUWkhic21tZTZoYVJEdjFIMDRNam9iUEpxSlNUUmc4S2RzbHlab0t1YlBPeFBkMTJaRF92a3BkdER0OWgwY3JyNzNMTFo5RUNPVFRjdkI1WWdZX2FxRFJGLWlmZDA2MG5PamFIeHEzczFRVmJ4VE1LR2xzWkRmWlQ2R1Y5TmtI0gG-AUFVX3lxTE5BQ0pEeURhdkVwYklkODI4S0pKN1lQcVVfOUdTbFBSQVZkTm9MRXZVUEE4R3k4M2kwR1IyeDNjejl0UTFIck9wQVBlbDJ5R3VRWk1vcDc5N2sxa0o1eHk2WmVxWmVndG9xRmFDbWFiLWZ2RzlfcHl2S1NoTnFQWHJNaXVaV29vT3I2UklrUjI5OU9XcHZQT2lxRXVrZjZpdkkxWDhSVC1ZSDRVclNnbDlFMG54MG1BZW5oV3prV0E?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 02 Oct 2026 11:42:23 GMT",
+      "fecha": "Fri, 02 Oct 2026 04:00:00 GMT",
       "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/10/01/6abf10518f19b.r_d.395-321-0.jpeg"
+    },
+    {
+      "titulo": "Lo más visto en Netflix República Dominicana: las 10 películas más exitosas del momento, con “Venganza en la prisión” a la cabeza - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaVJkN0xwWmNRejlmUTA5VDFqSDNiWFQ1a045SjYyWTR2ZVlXb0cyVll2dkc5R3BpVmFfWkdjUnBvc05KOHpueW9PSnZEdEZucG5QU0p0OE91Mjg1T21SODdkV3J2MENNNVFwNmNCN3NjMTVJdUptZFNYYnFJVHRkNFlYOG5JQTRtc1hBcXU3V01teWhWZWRpZktvQnBMaG1HeUo5RzFjWmZTYXJIRTItaE5RZmVjWDUwejByX1RodE8yZXZvNFdTVW5YeXROd0xxWkhlRnJRTVpuNE1tN0tDdHBCNHhuTlZJajlzb3dNSGhjc09ZaXRDR2x3LWRrU0hBbW1KblJfTDdGalHSAZACQVVfeXFMT2EzY1JsajhmSnFwdUk2S1NPVjROcDdrYTVZQmhrNW82TzZja0RoWDg2azhjcFBxSFNYcGhhZ1ZmbFZQWXhqYjhOT3FnM1ZJb3FldXVBanItZTNscXR1WlUwU3lDaTRXYUM5bDVjaXBXUmpvZ0ZZQ0xGaWxNNEVvNVd4bXdibFdWc19Rc0VfSTQxLWg1SVAwWVlnNmQzZHU4MnB6LWs4U2hYcEtVNnBjMnYzSE8xNmlUMms1Q1c1eXZFS1dubFZSWkdyRVlmSVlLV1lLZGl1N0ZCakY1SlRHWGs0N3QzTFFZdHIyRnRTaUJfZEFCMTdneHVJV2RHR3FZcDk2YmIzY3hpZ3ZUSHFlSUE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 11:41:12 GMT",
+      "imagen": "https://www.clarin.com/img/2022/05/10/4MeKLP9oi_2000x1500__1.jpg"
     },
     {
       "titulo": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este 2 de octubre - Acento",
@@ -45,20 +61,12 @@
       "imagen": "https://www.clarin.com/img/2021/11/23/DMEZ4i0la_2000x1500__1.jpg"
     },
     {
-      "titulo": "Precio del dólar en República Dominicana hoy, jueves 1 de octubre: cuánto es el tipo de cambio de USD a DOP, compra y venta - El Comercio Perú",
-      "fuente": "El Comercio Perú",
+      "titulo": "Precio del dólar en República Dominicana hoy, jueves 1 de octubre: cuánto es el tipo de cambio de USD a DOP, compra y venta - elcomercio.pe",
+      "fuente": "elcomercio.pe",
       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2wyM2VkUkE3OHhaQzdNQmg5SVoyQlcxODNSTHRFd1JxQlFYVlFYZXY4MmlXZ1RwRkdmZHBWRzZnc1h6Q0Jxa21tQnpCLWZ6V0p1TXZzRm51VEQ1WFB0NGZxb2I3c2hQOVJYNG5lZWNMZVNGMGZCSGhIYU1Ib2JubENITFhlT3lPaWU5RVd5Z2hwVTlYZjNyUUppd05RWGRUY212eFkzbFhUcnQycnZMazd3bzVpZHdlQ212Tm1IQUE5RUU0cXRhdkRRUmlpMlRKZHJpR2VwTkR2d3NxNzRaRjA5UWFUcmdCNENpdHp5eEFsNUFxNnhoaNIBjAJBVV95cUxPV1BoT0dEQVFmMlF3b2FjUDlSM3p0TDJndXVrZFRoY2Zjdl9xekNRQVNZU0hGb19oTkp3QnMzeE8xM1ZXSmlwUXdsaTVyOHlBdl9RaG5pSGtiUG56cHFvVzlPVmFUNXpQQUdmZEM2RkEwWEdBalFrMG9MbFVTbXktUUNzbUplRzhIZHQtVXYzelF6cFpSQkdEdWp6cU44NjYtVkdqWk5DaFpuSUNyX1daZW9lazBYbWJTZGZHaHhCS3RZcVdkTXB3WFMwdmV6dHRiSFlMckQwNU9pRGJ2RC1tMEZIVHBsUndiaDJHM1FaSko5S0dhcXhHYWt5alF2TlJQWENWMlk4MWZCRC1i?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 01 Oct 2026 22:40:00 GMT",
       "imagen": "https://elcomercio.pe/resizer/v2/MX2M7NS46ZHDDHPDP5D52AFOGY.jpg?auth=0a16db14789d2613274d9966258024aa592aadb01a71b99ef31957eadb804c2b&width=980&height=528&quality=75&smart=true"
-    },
-    {
-      "titulo": "Lo más visto en Netflix República Dominicana: las 10 series más exitosas del momento, con “Te conozco: temporada 1” a la cabeza - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV2FReW9hdXZDOC1NTjJmVl9jb1d2QndGV3k2MFZ1NEc2LW85Mk5Bb3kwTTlLNmpjeVB6SW5SSEU3N1FhRUdRZExvV0tfM25GaEZnNU5ZRHBLbGZVOTNKeFlISXVYTUp2OWQ4U0NDc1hfRXRpODFEWGN6NldCRFozcVh0UmJKN05kV196QUhkdU54WDFxMHJ4T1VIYlVPUW9IbkN0ZzhhbHVaSFBvY0EwdHo3dlN5d0RzWldoZ3k3LTFyemxBNTNDdU1odjIyVGt3b3NHUUNmdXBaN3c4RFN5cWotaXVzQ1JCUkFFQUczTzY0T0JhaEZfckNxck53SUFyM3RJeWk5c9IBjAJBVV95cUxOcWhxdjhVMm5nX2NPLXJDSF9rbHZ3clAwZE05aW5kaHhvREoyYk9XVmV0UFpKRXhwSTh0MVdYUFRBVDB4Vm9FbUZvcTh3b2FURWVKbm5zZ284T2FOemhXV2NHWHZTblFVdjFaRDJreDI2cEpUbHFoS2xud19PR1lwYmFtMDRmSk41bGpVeU8wcGdLNGJsRkwxbHlsUDg4X2tmUXB4WXhla2p2dUtUUDYxSVN5VThCS2lfbUFPTnlpcTV4SXdSS2ZOZS1aeUowd0FNcVVaMUdweGtQTDg0UkxXeXdRSjhXRERFSWwzZUx4ZXZYWGhNRnJUdVg1cDFkanp6Ml9TTHVhNE50N211?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 02 Oct 2026 11:35:13 GMT",
-      "imagen": "https://www.clarin.com/img/2025/11/14/af2ppiD10_2000x1500__1.jpg"
     },
     {
       "titulo": "Reabren en Caracas consulado de la República Dominicana - AlMomento.net",
@@ -69,44 +77,28 @@
       "imagen": ""
     },
     {
-      "titulo": "¿Has visto cómo se conducen las motoras en República Dominicana? Pues es bueno que sepas que el 99% no tiene licencia - Metro Puerto Rico",
-      "fuente": "Metro Puerto Rico",
+      "titulo": "República Dominicana asume presidencia pro témpore de Promecafé - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmZEMWFnem40UUFETmJpcGQ3UzFaTjk5aGxVRGRfdGhCREI0cDlVMVdFb0lMeUptd2hLN0JRYS02QWhxeW0wMnNJR1hJVzhQMFdZZEJtYmZaLWtPd0ZBQ1c5WHNldTAxdjdLWV9PYzI5Y2FhVFBJSTB5b1duYTc3ekwydTZQTzZYNkF1b29NSVM4czFtMy05QQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 14:45:56 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Has visto cómo se conducen las motoras en República Dominicana? Pues es bueno que sepas que el 99% no tiene licencia - metro.pr",
+      "fuente": "metro.pr",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUEZGYUVBVkZOSXdvUWJRVEd3YjBuNmFYM09LZF9UOWJpNzFJUE5Ha0lkN0VmSk5XeXNsbWVxRUxXRzdSWjZfTXoyMnlhcUY2YUJhZWxuczhCRk95a2VBQ3poM2FnZGR0M3B6anpVTEtlZFpCaFJkRHlWWS1PV3l3XzUzbFhjT1g5cEdpZjgxVkpjYks2a1N0TEIxclNQWFByZGlrdFBHdkJ3MlJfNXNpd1p2RGVUZTJZb2JTa3ZvdlVQaVcyQkF2T1hIYlFqSVQwa3MtNFpqTkgtZy1UWE1pWTFBVkktNWhuVHBJ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 01 Oct 2026 16:03:17 GMT",
-      "imagen": ""
+      "imagen": "https://www.metro.pr/api/image/FAK4FLSCMVHRFPYU65M4DP3F2Y.png?w=1200&h=630"
     },
     {
-      "titulo": "Estados Unidos aguanta reacción de los dominicanos en Copa Mundial Sub-15 de Béisbol - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTZsOHdveHRXSmNnaFp2YWVqQWZtV1B2d3E3UWdyZ1VjempWUmpydVp0Y2ZRV2tLZ0FrQkxNb3VFWUlRcGJCdHVoUTBVd3lmNjRLMy0wS1BQc3d0M0JCNXA1ZlQtTGdIRVZ1UTZqa3BHR1lZUlh6Yi05Vy1obUlnTXphUUozSVN6OFBLTDlzOUVfelRCNWFNQUNIX2k3ZVE1Y2R3VEJSOHprbGJfN3ZFUEg5Yk8xOFFXblHSAb8BQVVfeXFMTVJWUG1FOGVBeVFVT0Z4dTJncjFkSG1FNUlheURSbm56blV6MmxFamtwWVhzX2xicUp5THBjVkZkOWdaY1ZmajEtU2dtR1pMcjdPYWRaN3FQUTBENzNJTkVGaGdzcVlEczFlb2R3SnRiSnpxM0JZRTZlYUJyWjNsSEg5RmVhbVc3dkdqNGNCZHd6RThBOWc2aEl3Sl9UQVd0NDcyR0w2ejJvZzJFcDRtRFJzR1hmWU9jbE4xTUFJQnc?oc=5",
+      "titulo": "‘¡Pero tendrán que recibirlos en el Estadio Olímpico!’ - Remolacha",
+      "fuente": "Remolacha",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFJSelpIX3g4OHBURTJZTVVyN1hIcEx6V3dMOGFFcjg5YUtrNFFHZkRtTVVyLUZFZTRUMmtXOVRXQWdyVVcxS29HcVpoQ0pPaGVoYTQzbURVR0Z2R2J5UWkxNlFyUVRUR0Jid1BpU3pLaHNORWRhMXlSVXF1bVY5eHBsVGVieHFf0gGOAUFVX3lxTFBCWFNKSXFTM1c4bzRxcXdkbWE5NkhJU2MyVlpKeEhBQ3Q2Q01WNkFkQVdGWTg0QkZKQ1JOM3U4Z0EyNGNtU0puRmE2WDhUY0RkTUVvX1FfVVRzVlhoVjRrUWt2T2k2cjZqWnFaN0x6SDA4U0pZSWpqVXdTSGxGd1ZfMFIxT3Rnb0VKOHVBQkE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 02 Oct 2026 01:55:13 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Autonomía y competencias municipales en la República Dominicana - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckRmRmQwV3pBa1JtYzc2YXVyX0J5YWgtTUpfQlZUQ0R1aUVhOXV0QUdHbVlHby1ZR0lYYjlWQjBRbTVjMzBhcTh5UkFmS2l3TUd5eHNRTm11bmNzYzVRUnBoZGVSakJadTB1TEljdUFWZ3Z5MUNFNjI4Wnc3NWYwaGIyM1VCUG5UM0hSOUZXV24yUFBHUkRiMQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 14:01:40 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "México y Dominicana preparan acuerdo para tratamiento del sargazo - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2tUYWFGNENNcjczUm9LYktmRnhPakJOVjJFTjk2bGh0ZXR4eW1KZ0lDWGt3WkpCYW83bDI1VWgxSDdvdzBIQzBhQ21Hbkg3QlNsZmRTQ1FuWlpyRGExQTRXVi1RUXROem9xYzJzNDVUNDk4WTJWUnZNaVQ1ZnYxTjJPS2FEOURia250LUtLOXZ1eVNROHBqR1pHdWw0bndh?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 21:50:27 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana y Haití se enfrentarán este jueves en un esperado partido de la Liga de Naciones de la Concacaf al que ambas selecciones llegan en un momento dulce después de ganar sus dos primeros partidos.🇩🇴🇭🇹 - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yb0Mtalp5dkJMV3NxQkNKZ3RZbmZLWDMyUEpJMmZUZndaRWZiaVptODRDV2hlcTd1TUptVG56SzJtd2c2RVdwUVlFdUVudVczMWc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 02 Oct 2026 06:52:01 GMT",
-      "imagen": ""
+      "fecha": "Fri, 02 Oct 2026 10:21:53 GMT",
+      "imagen": "https://remolacha.net/wp-content/uploads/2026/10/2_Nacionales_2_5p01-1200x1155-1.webp"
     },
     {
       "titulo": "Junior Firpo se retira lesionado con República Dominicana - MundoBetis",
@@ -117,11 +109,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Ambiente festivo a pesar de la rivalidad por el \"derbi\" de La Española - france24.com",
-      "fuente": "france24.com",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2l4UlZUWVJOMVZNcFg1UmpVdERaOTdsOFp2cWg5QVZLc2hzcDllRDNJRnJIQmVNMzBrNTFLbWY4N0F6eXVDcVFLMF9YZ3hjdE5NY09lcGRjSUU4VWR0bXJNc2NwMTZqUDZRY3l6UzhGaG5XM0cyWkl0M0NScGNlcDVFbVBrRlpjN1lPWHBseUNvVUpzckRmT3lFNFUyRnpRWDZiN1QwQXJIeXZRQlROeEFMSjdrTXJLU0RySGZzRnJpTWRL?oc=5",
+      "titulo": "República Dominicana y Haití se enfrentarán este jueves en un esperado partido de la Liga de Naciones de la Concacaf al que ambas selecciones llegan en un momento dulce después de ganar sus dos primeros partidos.🇩🇴🇭🇹 - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yb0Mtalp5dkJMV3NxQkNKZ3RZbmZLWDMyUEpJMmZUZndaRWZiaVptODRDV2hlcTd1TUptVG56SzJtd2c2RVdwUVlFdUVudVczMWc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 02 Oct 2026 05:56:46 GMT",
+      "fecha": "Fri, 02 Oct 2026 01:00:04 GMT",
+      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/829356595_18626727946041593_4642859757581968505_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5rx-285woikQ7kNvwE_Pveq&_nc_oc=Adqbvon0OrLa3nBbgj7zECHEA7KgZ-evu8x1hYpp1GLT50PWQl-K1E8845zdiSDaRmw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TA7JmAeJybpBw8fiAJpC_A&_nc_ss=79289&oh=00_AQOonUytnT-VjVEFmlF6GvCMogAR_7ccnXdBolbNXDoLdA&oe=6AC5A582"
+    },
+    {
+      "titulo": "Dominicana sufre en victoria frente a Nicaragua en CONCACAF Nations League - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU5ZVV9DTGRLanU0TVpSUmNFSDJwa19wZnl4SW1iMkJHTlRWV3NRNm9NYWdiUW8zR2VSMnhGbGt2aEtZbWUwaVlJOEVjU0ZfNkFrVlE1bkgteXBXU1p1ek5SZ0dkNFlyNTk5MWktYmNwSm5ySFNlODN4aEZmRjZZS1lxZ0xyQndwYU1Zelh2dzkyTC0teWVEOGp4enlGb2ZHTlNTZUU2clR6MlBCSHFv?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
       "imagen": ""
     }
   ]
