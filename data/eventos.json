@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T23:01:02.417575-04:00",
-  "hora": "23:01",
-  "fecha": "01/10/2026",
+  "updated": "2026-10-02T02:01:05.219800-04:00",
+  "hora": "02:01",
+  "fecha": "02/10/2026",
   "total": 12,
   "eventos": [
     {
@@ -17,16 +17,10 @@
       "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - bloomberglinea.com",
-      "fuente": "bloomberglinea.com",
+      "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - Bloomberg Línea",
+      "fuente": "Bloomberg Línea",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEFpcU9nSVJMcWg5Y250Y3JkemdwX08tNl9JZjNpZ0NWTlZDTEFPWThnWFlLQXVzd29ZVDBmdElFVW5MdVZ2REEtZTdRQThLcWpMVlNjSDJ4cnJyX2hzV2ZOUjVhOGExTGtZV2pISldKOFhqTUNyZ0pBenEwVlpUYkV2SU9Ga1JDem5fSThsY2dpQ1k4T25HcGNNbXhsTmlvcUxBaWZNMWJVaVl6NVlYZtIBxAFBVV95cUxNbEV4cUtuTEd3d1d2WG5KNGdsRTE0a1E5elV2ZVVoZHp1emhKUW9QWHF6QWlDdm93eGpubGhhNDNvcEpBTEZPRUV2Qkp2d0c0dGVYaGpRampGM3lmZUJuSk5vaTZ3T0Z4TXdGbG9WSDRQVHc0aExZRGdlV2hTU2daRVFKWGJ0Q1E3ekQxNDRLLWVTOVJ5a19fTE5SdXlidGVzQ2FwcnZTQ0U1b1dnLVNWWVBwQVRXRHZsMFhnbVpWODA5WmtT?oc=5",
       "fecha": "Wed, 30 Sep 2026 08:00:00 GMT"
-    },
-    {
-      "titulo": "Ramón Orlando: el histórico concierto de RD$60 millones que venció los “noes” - Periódico elDinero",
-      "fuente": "Periódico elDinero",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG9NclZoU1NPWWw0SnF3ZTItbndtcS1PUmpxcXV1VGhfSVdzSmFURzNMTGZsNHZyT3ZGWHBkSmJKODQ0SS1yQ3gxWVdfajd3M0ZWZGdOVlk5NnNySWlLOHdYQ0JCMUlCbEZnM05HZFk5ZG9TdUlWN2tMUzl5XzVIcnJxdHMwV1dtUXRIMUhScnBPeWJ1RHpZdGhqamdPa01NSjJfTVJES1Q?oc=5",
-      "fecha": "Thu, 01 Oct 2026 06:38:18 GMT"
     },
     {
       "titulo": "RD cierra el año con grandes conciertos y el regreso del Festival Presidente - elcaribe.com.do",
@@ -57,6 +51,12 @@
       "fuente": "eldia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDdndjZnU0ViU0swZ0pNb2dDQ2k1ZU9PSWQyb3RmSHVqX0MzUE15YVVfdFFnTklDbXlSNnc1c0hMamRBU1Zla21wVV8xVlQybUw2SVBTS0JxV3ZUUl9LS0NOZVJ1N2ZZRGk3ZEFQX2Z0cVEzRmlsTDZrX2ZuYXh2UVF4VXhTa2xpU2E1WGpmR3Rubk01Wmc?oc=5",
       "fecha": "Wed, 30 Sep 2026 04:18:00 GMT"
+    },
+    {
+      "titulo": "Ramón Orlando: el histórico concierto de RD$60 millones que venció los “noes” - Periódico elDinero",
+      "fuente": "Periódico elDinero",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG9NclZoU1NPWWw0SnF3ZTItbndtcS1PUmpxcXV1VGhfSVdzSmFURzNMTGZsNHZyT3ZGWHBkSmJKODQ0SS1yQ3gxWVdfajd3M0ZWZGdOVlk5NnNySWlLOHdYQ0JCMUlCbEZnM05HZFk5ZG9TdUlWN2tMUzl5XzVIcnJxdHMwV1dtUXRIMUhScnBPeWJ1RHpZdGhqamdPa01NSjJfTVJES1Q?oc=5",
+      "fecha": "Thu, 01 Oct 2026 06:38:18 GMT"
     },
     {
       "titulo": "El último trimestre viene cargado de artistas que tomarán los escenarios de RD - N Digital",
