@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-02T05:01:04.242773-04:00",
-  "hora": "05:01",
+  "updated": "2026-10-02T08:01:04.081262-04:00",
+  "hora": "08:01",
   "fecha": "02/10/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 9,
   "tendencias": [
+    {
+      "termino": "empresario",
+      "trafico": "200+",
+      "noticia": "El presidente de CEV Alicante reclama conexiones ferroviarias a la altura del potencial económico de la provincia",
+      "enlace": "https://www.elespanol.com/alicante/economia/empresas/20261002/presidente-cev-alicante-reclama-conexiones-ferroviarias-altura-potencial-economico-provincia/1003744406328_0.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Q4jzjJZ13bE6iDul8Im2lrMztpXf0HfV-LfbPpkTlkWeU4InkWKX7_4snyo"
+    },
     {
       "termino": "nicaragua - costa rica",
       "trafico": "200+",
@@ -22,16 +29,16 @@
     {
       "termino": "braves - phillies",
       "trafico": "1000+",
-      "noticia": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ, lineups (8 ET, NBC/Peacock)",
-      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA"
+      "noticia": "Kerr, Holmes shine in Braves  Wild Card-clinching win",
+      "enlace": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs42FlJpM56j36wSiFoRUHKuKYrmNB9ERVeD2__aZx-AbCh6Cxs_V7iA1mxco"
     },
     {
       "termino": "república dominicana - haití",
       "trafico": "10000+",
-      "noticia": "República Dominicana vs. Haití: hora y dónde ver",
-      "enlace": "https://cdndeportes.com.do/republica-dominicana-vs-haiti-hora-donde-ver-y-como-llegan-en-liga-de-naciones/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWBcFB60zy9KsYqlCnzO3aTe8D5iU1OwDLt1u1zsA1I_czFAQVeNNe876zcLk"
+      "noticia": "Haití le gana a RD con contundente 4-1 en el duelo de la Liga de Naciones",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/01/liga-de-naciones-haiti-extiende-su-dominio-ante-rd/3676479",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRayBsr6ZfFtAnXPYr3Nx-lQbaUznjLYzC-3Wnht-yc6h8oslMewlVEYG2a2qI"
     },
     {
       "termino": "république dominicaine – haïti",
@@ -50,16 +57,16 @@
     {
       "termino": "terremoto",
       "trafico": "10000+",
-      "noticia": "Importante sismo de magnitud 5.2 sacude la zona de Munda (Provincia Occidental)",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/noticias/369526/importante-sismo-de-magnitud-5-2-sacude-la-zona-de-munda-provincia-occidental.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa-RakeGcyDdH-86BrHUdD-5IPm5oWghVbZgkG7-FsV9xDGC-5vamswXYa3Ro"
+      "noticia": "Terremoto moderado mag. 4.1 - 30 km al este de Trujillo, Departamento de La Libertad, Perú, Friday 2 Oct 2026 a las 01:14 (GMT -5)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23405104/mag4quake-Oct-2-2026-Near-Coast-of-Northern-Peru.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSag28qir4DTBHdBfbTIoWVeLq1nUcMmEL-d1DT1dxOe4V_JyNH-d1V2SsHi90"
     },
     {
       "termino": "dinamarca - portugal",
       "trafico": "2000+",
-      "noticia": "Após a crise de Cristiano Ronaldo, Vitinha sai com declaração surpreendente sobre Portugal",
-      "enlace": "https://www.goal.com/br/not%C3%ADcias/apos-a-crise-de-cristiano-ronaldo-vitinha-sai-com-declaracao-surpreendente-sobre-portugal/bltad5f595eb7a4c4c0",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThVJjtZVptsOhGoWHB45jKNEsP6VWhTHdYd9Cs0Ek-FGeVW73yLgMPO53dBTg"
+      "noticia": "Bruno Fernandes oferece duas assistências na vitória de Portugal por 4-2 sobre a Dinamarca, chegando a 19 assistências em 33 jogos oficiais neste ano",
+      "enlace": "https://www.sofascore.com/pt/news/bruno-fernandes-oferece-duas-assistencias-na-vitoria-de-portugal-por-4-2-sobre-a-dinamarca-chegando-a-19-assistencias-em-33-jogos-oficiais-neste-ano",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2B_OBZdQ-8hfsj3GFku4uTSSf5W6XsavJyqr-Txpm4MiIvcq4UwlAIxzLue8"
     }
   ]
 }

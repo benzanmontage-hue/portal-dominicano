@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:01:06.267427-04:00",
+  "updated": "2026-10-02T08:01:19.276980-04:00",
   "fecha": "02/10/2026",
   "indicadores": [
     {
@@ -107,8 +107,36 @@
       "clave": "inflacion",
       "nombre": "Inflación anual",
       "unidad": "%",
-      "ultimo": null,
-      "historial": []
+      "ultimo": {
+        "año": "2025",
+        "valor": 3.9
+      },
+      "historial": [
+        {
+          "año": "2025",
+          "valor": 3.9
+        },
+        {
+          "año": "2024",
+          "valor": 3.3
+        },
+        {
+          "año": "2023",
+          "valor": 4.8
+        },
+        {
+          "año": "2022",
+          "valor": 8.8
+        },
+        {
+          "año": "2021",
+          "valor": 8.2
+        },
+        {
+          "año": "2020",
+          "valor": 3.8
+        }
+      ]
     }
   ]
 }
