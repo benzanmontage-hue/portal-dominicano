@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-02T14:00:09.503790-04:00",
-  "hora": "14:00",
+  "updated": "2026-10-02T17:00:11.974538-04:00",
+  "hora": "17:00",
   "fecha": "02/10/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 9,
   "tendencias": [
+    {
+      "termino": "francia - italia",
+      "trafico": "2000+",
+      "noticia": "Francia - Italia, en directo: Nations League, en vivo hoy",
+      "enlace": "https://as.com/futbol/internacional/francia-italia-en-directo-nations-league-en-vivo-hoy-f202610-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VEhF7DsQbic-vxTSHicnA1-5c5eykRjdQoXsKxVa5bze-cx7PYYQC5DFqaI"
+    },
     {
       "termino": "narcotráfico",
       "trafico": "500+",
@@ -15,16 +22,16 @@
     {
       "termino": "empresario",
       "trafico": "200+",
-      "noticia": "Estados Unidos acusa a empresario de contrabandear tecnología de IA a China",
-      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/10/02/ee-uu-acusa-a-empresario-de-contrabandear-tecnologia-ia-a-china/3676800",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvcelUSfmynoKQZHXSqxy5X7i2xo4ZqiHwx2GAyzcMBlbENqe1D3t_3o0cqC4"
+      "noticia": "EE.UU. sanciona a la cúpula del cártel de Sinaloa y a altos cargos estatales en México",
+      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/09/29/eeuu-sanciona-a-cupula-del-cartel-de-sinaloa-y-a-altos-cargos-mexico/3673642",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfZSFnaI5RjvP_5ZZ45YR3TeEIosEqx8ikf2_3-BMro3l0Rna8fOQlPeTpIRs"
     },
     {
       "termino": "nicaragua - costa rica",
       "trafico": "200+",
-      "noticia": "Cuarteto guatemalteco se encargará de impartir justicia en partido Nicaragua-Costa Rica",
-      "enlace": "https://www.teletica.com/la-sele/cuarteto-guatemalteco-se-encargara-de-impartir-justicia-en-partido-nicaragua-costa-rica_418380",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7jSmLNPO8L6mc1t0LkwHTSaagGL5V1hjBsvsOddrPg1lt1Zx9Biy0-_AaGWc"
+      "noticia": "Costa Rica vuelve a ganar 353 días después en el debut de Bryan Ruiz",
+      "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17327339/costa-rica-nicaragua-victoria-debut-bryan-ruiz",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWCtTZ-Y0mvo8y6B9fBi-MnEDm6ZuiSgHXeCkkoh2uokrbZs2Z1lDCjhGosxs"
     },
     {
       "termino": "liga de naciones concacaf",
@@ -45,35 +52,21 @@
       "trafico": "1000+",
       "noticia": "Unlikely hero pens storybook clinch for Braves",
       "enlace": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiT9yKIbiKxTewH7EMztIyW-sOA6GLnVIWGf-O3EvzGJzvdKodC3exMhO4eMs"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ31n4HCeWIqf4a5OHPxvK8qBNe-Oo5cWW5R9aWNaLLtqCbh6-x9kAfNp-o9jk"
     },
     {
       "termino": "república dominicana - haití",
       "trafico": "10000+",
-      "noticia": "Haití le gana a RD con contundente 4-1 en el duelo de la Liga de Naciones",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/01/liga-de-naciones-haiti-extiende-su-dominio-ante-rd/3676479",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRayBsr6ZfFtAnXPYr3Nx-lQbaUznjLYzC-3Wnht-yc6h8oslMewlVEYG2a2qI"
+      "noticia": "“La Hispaniola es Haití. Esto es Haití”: dijo jugador estrella del fútbol de Haití tras el partido",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/10/02/la-hispaniola-es-haiti-esto-es-haiti-dijo-wilson-isidor/3677110",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbQonanvSDukKoKN4ax1ZlA3GI5K-2JiitUWLCBVgSc3II6fLs8aXWsJNnK0"
     },
     {
       "termino": "république dominicaine – haïti",
       "trafico": "2000+",
-      "noticia": "Haïti et la République dominicaine s affrontent dans un match qui dépasse le cadre de la rivalité sportive",
-      "enlace": "https://haitiantimes.com/fr/2026/10/01/Ha%C3%AFti-et-la-R%C3%A9publique-dominicaine-s%27affrontent-dans-un-match-qui-d%C3%A9passe-le-cadre-de-la-rivalit%C3%A9-sportive./",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScYSkVA0zvllHlSNKiCFr2j5uyuP3ru7dqdP-EYH46Jyy5cUbkeOzS6PRzsdo"
-    },
-    {
-      "termino": "gales - noruega",
-      "trafico": "200+",
-      "noticia": "Portugal golea sin Ronaldo y Noruega pierde con Haaland sin pólvora",
-      "enlace": "https://acento.com.do/deportes/portugal-golea-sin-ronaldo-y-noruega-pierde-con-haaland-sin-polvora-9762654.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKUqCBtvsUcKki29_TKOuRTwzRO3SRRE9myX1PUHzeKLHQaaMhtuvn4p3rvsc"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "10000+",
-      "noticia": "Terremoto leve mag. 3.0 - Laos-Vietnam Border Region, Friday 2 Oct 2026 a las 23:41 (GMT +7)",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23406237/mag3quake-Oct-2-2026-Vietnam.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuGNcbPYwzeIv2ZflYMHl7qRW29dGCUBnAyPEJHu75kS1lnhD4siiHh9ikE0I"
+      "noticia": "Football : Haïti surclasse la République dominicaine (4-1)",
+      "enlace": "https://lenouvelliste.com/article/272542/football-haiti-surclasse-la-republique-dominicaine-4-1",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQBtdoHUQ-5svF-o_GEBta0__dsimgDbt3CdYHrjn6zxGP401TIkWCHPER62g"
     }
   ]
 }
