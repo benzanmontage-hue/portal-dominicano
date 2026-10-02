@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T20:00:57.928563-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-01T23:00:59.620284-04:00",
+  "hora": "23:00",
   "fecha": "01/10/2026",
   "total": 15,
   "noticias": [
@@ -10,6 +10,22 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFJLOGlvYXBTOE1hWi1VUndoVHNDNllRR2JlQTBVbzB0bHJMekJwN19MbzF6SWlGOTJaaXJoWWljSEhPYTR4M3dLN2pvNVEtaDU3eWVreFdiUFlHTW5lWm95bTBHcWhnZG5abzZZNGNndlpTWnJOcDdjMGhTOEVULVNjcDRfcU1CN3BVb2taREszZlNtdkZWbWxHR3hCS1F3eTZKRUN0NTViZw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 01 Oct 2026 13:43:36 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Haitianos ponen a vibrar el Estadio Olímpico en apoyo a su equipo contra República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWF3dWxQNDBVTTBQSlk3ZFR4NllJSXlQU2wzenphdHBHV3U0bXpXc2V4djZvbDV6SUpEaTdOQ1FFcW0yZGJ5NVZPbzNhNzRBUzVpOTFOemNXOWpTMjI1b281ZGQwdlV2bFVQTG04VW9FYTJnekFQWmRyTWQ2Vl80MV9xNWR1aTBGYlZpR2NHNHFpcTBoMm8xZU9VMjFYdFVZdzd1N1ZPd3FNdWVoWkdGZmM0QkNCRDdNSDFCQdIBwgFBVV95cUxQZmJobkt2WUxhV3FpVXFQQUdXLTRoMm5pV21KNkszTFE1Q3VrZ3pScHNQcHZuQ3AtZFo2QjJQQXE4WUItWm03ck5iYmIzSkZTZUNuaFVpYkN5SE5kZmVrY2kyVUtuNmVmVENyMHR0WUwwcUs3eFdQNFdIbTR3a3J6djd3ODNSZzFBOUhTQmlJSXVTdmkxVUpSYXRiYjQ3aGgxbm1WMzZCb1dQZUFIZFV1R3djMEtLUE5UNzdKd1V6dHBVZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 01:02:48 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Qué se juega la República Dominicana ante Haití en la Liga de Naciones? - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXlLcEtRMWNQY1IzU3M3bHJwcTI0bHF6SVF0eUdvR0F6VU5GX2hsWDRyYXFKajI3VzZSM2NsN1lxMFdtTU1GdHdLQWw1UzZVNzB2ajlaY2VLRXYxNXh0VDk5ZHhXZWhSRmxLZjI4c3U1cFpMaTFPTWRwZkE4Vks0MFR2Y3o2dUdPdVR3bFJzVmE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 01 Oct 2026 20:23:54 GMT",
       "imagen": ""
     },
     {
@@ -29,51 +45,27 @@
       "imagen": "https://lac.unwomen.org/sites/default/files/2026-10/curso_wps_nap_webarticle_img_01.jpg"
     },
     {
-      "titulo": "Familiares de dominicanos protestan frente a embajada rusa para que retiren sus hijos de la guerra - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY1plY2ZQSGFaY3F6MFh3X2EyOEIxakpOdmZWaUtlcVBOeU9IUTFYZmJwTUlEM1E3ZjFQTkpJd0FXS25fNmZ4Mi0yRTVQdGRLUVR6UWpKajhsaHl6a0RJR1NwbWtoaEpmdUYxNU54YVdzUldTTzlsQWl0T2NyQ1M0YzBnU2RXVVhqZHp1X0pxZjZzaEt1Tzk3NFc0WUYtNFFQUldnVHVMYTRCamNZb0xWM2JLWG1PY1pMSzBtTVh5LXFYNlVGM09HelJndGVBX2JLTkZUTEhn0gHbAUFVX3lxTFAwOG9OU1I1NnRENzk2akVZM0FvNzFSQjVhZW0tVUFCR2tObllZNUs1T2FNRERfbFRTUHlKUm9faUFhSGpBTlgzVXVReUJJVk9wVkw4UGdTQ3RaR1hHWENYOHIzVDBYYXVEY1F5aWxQQTloQTliazFrN2hDNEJmSHk1aEJNR1FpQjVNcDNsN2UyY0lqREU2MjY2NkV1NHNucjNEREYyWWxIcWxmSVdvREtoT0N3ZERVOHR1cmo5X1ZlVGc2MWRhS0VGbTlodE5tQ3NxNTY1NGJ5S09ETQ?oc=5",
+      "titulo": "República Dominicana impulsa una nueva etapa de transformación digital con foco en interoperabilidad, IA y confianza ciudadana - acento.com.do",
+      "fuente": "acento.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMmpIWUE3Z2x5X3ZQWDJqMTlTZGVScmdjb1NqLUtNUlV5cWxGOUtNZ21CNFhiMG9CRi1wa2h4X2RfYm9XWUVuWkpFeTJEUFlVbFVZYUlmbHNydFVJbEFPRDdtWGc0aFRFQWg3dENPSVY0RGsyNGMyTTg3c0x0VENDcUZlcF8telRNVjR6S21vRjJRNmZ0UVhqY0c4RFV5ekVBRUpfU3FYQTdNN0dTVGNFemozRmxnYjJkeV9FWF9pYW9sckI3MGlBUEp2Wk5uWmg0dk5yUnVXSzMzYk9CRHhTMEgyaU83OGVMbWw2TXFmcTRvMGJOSXpYRnIyZTgtNzBQ0gGAAkFVX3lxTE8yakhZQTdnbHlfdlBYMmoxOVNkZVJyZ2NvU2otS01SVXlxbEY5S01nbUI0WGIwb0JGLXBraHhfZF9ib1dZRW5aSkV5MkRQWVVsVVlhSWZsc3J0VUlsQU9EN21YZzRoVEVBaDd0Q09JVjREazI0YzJNODdzTHRUQ0NxRmVwXy16VE1WNHpLbW9GMlE2ZnRRWGpjRzhEVXl6RUFFSl9TcVhBN003R1NUY0V6ajNGbGdiMmR5X0VYX2lhb2xyQjcwaUFQSnZaTm5aaDR2TnJSdVdLMzNiT0JEeFMwSDJpTzc4ZUxtbDZNcWZxNG8wYk5JelhGcjJlOC03MFA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 18:40:58 GMT",
+      "fecha": "Fri, 02 Oct 2026 00:00:09 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Precio del dólar en República Dominicana hoy, jueves 1 de octubre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
+      "titulo": "Precio del dólar en República Dominicana hoy, jueves 1 de octubre: cuánto es el tipo de cambio de USD a DOP, compra y venta - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2wyM2VkUkE3OHhaQzdNQmg5SVoyQlcxODNSTHRFd1JxQlFYVlFYZXY4MmlXZ1RwRkdmZHBWRzZnc1h6Q0Jxa21tQnpCLWZ6V0p1TXZzRm51VEQ1WFB0NGZxb2I3c2hQOVJYNG5lZWNMZVNGMGZCSGhIYU1Ib2JubENITFhlT3lPaWU5RVd5Z2hwVTlYZjNyUUppd05RWGRUY212eFkzbFhUcnQycnZMazd3bzVpZHdlQ212Tm1IQUE5RUU0cXRhdkRRUmlpMlRKZHJpR2VwTkR2d3NxNzRaRjA5UWFUcmdCNENpdHp5eEFsNUFxNnhoaNIBjAJBVV95cUxPV1BoT0dEQVFmMlF3b2FjUDlSM3p0TDJndXVrZFRoY2Zjdl9xekNRQVNZU0hGb19oTkp3QnMzeE8xM1ZXSmlwUXdsaTVyOHlBdl9RaG5pSGtiUG56cHFvVzlPVmFUNXpQQUdmZEM2RkEwWEdBalFrMG9MbFVTbXktUUNzbUplRzhIZHQtVXYzelF6cFpSQkdEdWp6cU44NjYtVkdqWk5DaFpuSUNyX1daZW9lazBYbWJTZGZHaHhCS3RZcVdkTXB3WFMwdmV6dHRiSFlMckQwNU9pRGJ2RC1tMEZIVHBsUndiaDJHM1FaSko5S0dhcXhHYWt5alF2TlJQWENWMlk4MWZCRC1i?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 17:20:00 GMT",
+      "fecha": "Thu, 01 Oct 2026 22:40:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana reúne a más de 20 países para impulsar la transformación digital en la región - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLVFQWE91c3FsMUd0LXhENlVoREpxdGRZQXNDV1NiZkpobzBjVjJpcGtaOXQzYkhyWGtnMk9ISWt5MGYyRVhyQ3hSdElvZjNlWjVsRTZFMkxFYkRNemdjck9waWZMaUNjcjJOWEpMekdOaU14TFVZYURwOG16V2VicTBhVUlCVzdXWElIWTd0a1A1MU51cy15bUFZVTQwWG5FUzdVMjcya0I4QV9hOHJWR1BvdjktS2gyYy1yemo4OTFzbm9NNU5aaDRiY2tDb0Zfd1BfbjBoLUFta1dE0gHcAUFVX3lxTE8tUVBYT3VzcWwxR3QteEQ2VWhESnF0ZFlBc0NXU2JmSmhvMGNWMmlwa1o5dDNiSHJYa2cyT0hJa3kwZjJFWHJDeFJ0SW9mM2VaNWxFNkUyTEViRE16Z2NyT3BpZkxpQ2NyMk5YSkx6R05pTXhMVVlhRHA4bXpXZWJxMGFVSUJXN1dYSUhZN3RrUDUxTnVzLXltQVlVNDBYbkVTN1UyNzJrQjhBX2E4clZHUG92OS1LaDJjLXJ6ajg5MXNub001TlpoNGJja0NvRl93UF9uMGgtQW1rV0Q?oc=5",
+      "titulo": "República Dominicana con la menor incidencia de dengue en la región, llama a no bajar la guardia - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTGZtUndGUWpnZ0hHdkMwdzltRVRCSkthZnBsRGNtYmMtVkZLWldJdFhtY2wtZi03bDA1cFJrMlo1alVXdi1kdEltcjMtR1hmTXRPRFV1d2hLb3ZiUmFsYzZoTjVnNFJLRHJIMVRzTUREMmNGemJWVlpuWlJFRmFObnc4bjhsRGlmZHptWXZzRnJsQmR6X180ZUZPdi1ad1ZuLXJCbEN6R3hlcjlpMXdnbllrQ2hENF9SUGxqS3kzbnQ2R2tEOXVBNnJB0gHPAUFVX3lxTFB5RzNhSkVjSDJmVVJ2bWFza2dJZm9KXzZPN0ZzZTJYcnVqRlRfTnEwZkw2aDJJcmxIRjRLczZkSGpHVXlCam9wRkxucVphUGNYUW5NbC1CRlgxaEE2WDVObXZoUDZFc05keDNfbnJtRnc3QVR5WkNOZVduUFUwaU1UTFJoRk5RWHNZcUdMc3I2YzZIQWVXU09aQWFVcUJjQlYzRnRQeENTckxzMHRHUmV2dC1GazBqdC1EUlhLbGhhT3pVWXFGVnp4R05UNVBybw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 14:00:04 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/Republica-Dominicana-reune-a-mas-de-20-paises-para-impulsar-la-transformacion-digital-en-la-region-OG.jpg"
-    },
-    {
-      "titulo": "Más de la mitad de los vehículos en República Dominicana son motocicletas - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeE1hMlZRbFVPSEQ5a21yWmJYQzYxTjJjU2V5dzl4V0V2ZS1iM1ZWTml5b0JkRGVaRmdPdUpWYjBHZlMtV2l1QUJSWnlqX04xWXBDbDlOUWtjMXNxUGdQdUVKSHAyNHNDbWpibmxRX1pvY2RRdmVodkJBYks1bWNNX0pwY3NqWW9oWG1KZkhfUW54TGdrOXM2dEJ3Z2FRVF9yS1hZNHB3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 16:53:16 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Bajan embarazos de haitianas en la República Dominicana - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHM0RXFEYXo4RnhXM1dsaUg4ZGlFejVGX3BXSTZ1S1J4UngxbF9NWlA4Q0hyNzZDdkNpR0pDVU9qVGRLa2hjUzBpQkVpWWFrLWFyWndzT1dmcmZLdUN3UVlydUg4M1FJYzlTalY5YmpKZXc5WHNvOWhNZE9hZWpkX1E2amZSdUxTcXB4Yw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 13:02:50 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana se consolida como eje estratégico del turismo de lujo con la gran apuesta de Lopesan - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVFEVUVqSXNNclNEMnNyUzBTUEpoSTlXUzBiQTMtUFVjNHVsZlRrcmNSdnJoTUpnazNpdDRyV1BNTU9rcWZwbFd3UzBOa3ExNDBCc0MyUlRGUENvdGQxX0lKeVBZTkxEMHFESjVuWWJhRjBnX1V4Tlpfb0djYkNJdWdoSHlyemloM2J1OXJHVE5abzdxak95NmxVOW5jZ3lWeUxuTFhoSTh0YVhpWVdTcnFUczBHcmp0dWxSTmZRWWZVTFFiLVHSAcsBQVVfeXFMTTNXZVQtanNwMDJQUG1RWFdYLTUxYzlZYjFwMFJ2QXZhNWE2QTVCU3BTdC1FNVhUcGFIWmowVTNFUkVReTk2U1NBY1ZmTmdHQTM2VkdtSU1BM3JKNi0tc1IyR3RJWlZJQWlIQjZURlV5QldfeHhtLXlpc1hmS1IxZjVEYlRPYmhUMW9XUXVzXzBhRnl6aUcxRGpYNERWeDZTLTQybHhwaEdUN2E1RzVqNEhHakgxa1pseHQtS0lIZklHVDZrNjR4TFVKYlE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 30 Sep 2026 21:10:00 GMT",
+      "fecha": "Thu, 01 Oct 2026 17:43:33 GMT",
       "imagen": ""
     },
     {
@@ -85,6 +77,38 @@
       "imagen": "https://www.metro.pr/api/image/FAK4FLSCMVHRFPYU65M4DP3F2Y.png?w=1200&h=630"
     },
     {
+      "titulo": "Autonomía y competencias municipales en la República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckRmRmQwV3pBa1JtYzc2YXVyX0J5YWgtTUpfQlZUQ0R1aUVhOXV0QUdHbVlHby1ZR0lYYjlWQjBRbTVjMzBhcTh5UkFmS2l3TUd5eHNRTm11bmNzYzVRUnBoZGVSakJadTB1TEljdUFWZ3Z5MUNFNjI4Wnc3NWYwaGIyM1VCUG5UM0hSOUZXV24yUFBHUkRiMQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 01 Oct 2026 14:01:40 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Bajan embarazos de haitianas en la República Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHM0RXFEYXo4RnhXM1dsaUg4ZGlFejVGX3BXSTZ1S1J4UngxbF9NWlA4Q0hyNzZDdkNpR0pDVU9qVGRLa2hjUzBpQkVpWWFrLWFyWndzT1dmcmZLdUN3UVlydUg4M1FJYzlTalY5YmpKZXc5WHNvOWhNZE9hZWpkX1E2amZSdUxTcXB4Yw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 01 Oct 2026 13:02:50 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Estados Unidos aguanta reacción de los dominicanos en Copa Mundial Sub-15 de Béisbol - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTZsOHdveHRXSmNnaFp2YWVqQWZtV1B2d3E3UWdyZ1VjempWUmpydVp0Y2ZRV2tLZ0FrQkxNb3VFWUlRcGJCdHVoUTBVd3lmNjRLMy0wS1BQc3d0M0JCNXA1ZlQtTGdIRVZ1UTZqa3BHR1lZUlh6Yi05Vy1obUlnTXphUUozSVN6OFBLTDlzOUVfelRCNWFNQUNIX2k3ZVE1Y2R3VEJSOHprbGJfN3ZFUEg5Yk8xOFFXblHSAb8BQVVfeXFMTVJWUG1FOGVBeVFVT0Z4dTJncjFkSG1FNUlheURSbm56blV6MmxFamtwWVhzX2xicUp5THBjVkZkOWdaY1ZmajEtU2dtR1pMcjdPYWRaN3FQUTBENzNJTkVGaGdzcVlEczFlb2R3SnRiSnpxM0JZRTZlYUJyWjNsSEg5RmVhbVc3dkdqNGNCZHd6RThBOWc2aEl3Sl9UQVd0NDcyR0w2ejJvZzJFcDRtRFJzR1hmWU9jbE4xTUFJQnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 01:55:13 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana y Haití se enfrentarán este jueves en un esperado partido de la Liga de Naciones de la Concacaf al que ambas selecciones llegan en un momento dulce después de ganar sus dos primeros partidos.🇩🇴🇭🇹 - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yb0Mtalp5dkJMV3NxQkNKZ3RZbmZLWDMyUEpJMmZUZndaRWZiaVptODRDV2hlcTd1TUptVG56SzJtd2c2RVdwUVlFdUVudVczMWc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 02 Oct 2026 01:00:04 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Qué canal pasa República Dominicana vs Haití hoy: dónde ver gratis y en vivo por la Liga de Naciones CONCACAF - 365Scores",
       "fuente": "365Scores",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FWmdDdWdkMWV4WHQ5bDlzdHRmdEFCZ2JZTXNyZGptakM5ZmZUcGItcWlBeFZoQjhwMjZxdHBJQkc5QlVxMzB6WXR0R1czWlIyWUY3ZkJlTm1OQ1E2SzVVY2JWcTlleGVRcFM3STRNdnplVktGd0lCejJQakkyWDQ?oc=5",
@@ -93,35 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dominicana sufre en victoria frente a Nicaragua en CONCACAF Nations League - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNU5ZVV9DTGRLanU0TVpSUmNFSDJwa19wZnl4SW1iMkJHTlRWV3NRNm9NYWdiUW8zR2VSMnhGbGt2aEtZbWUwaVlJOEVjU0ZfNkFrVlE1bkgteXBXU1p1ek5SZ0dkNFlyNTk5MWktYmNwSm5ySFNlODN4aEZmRjZZS1lxZ0xyQndwYU1Zelh2dzkyTC0teWVEOGp4enlGb2ZHTlNTZUU2clR6MlBCSHFv?oc=5",
+      "titulo": "República Dominicana vs. Haití (1 de Oct., 2026) Resultados en Vivo - espndeportes.espn.com",
+      "fuente": "espndeportes.espn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DZmFkS0c5V1B0dVROVjh6YWR1VHpYWUMwbmRiNWtJMEh2OEc1SXBPbTVyblFYSUw1V2MtazRJemlVYnVLYk8xSUZ6UXY0Mzh4X2t5OGlfZ1Z2UGxSOXFrNGFMYWVqblNVRDNfcndSY3MzZw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 25 Sep 2026 02:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana restablece atención consular en Venezuela - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalNjY3V6X0ZkNTV2Sk5QNVA1eGJWZ3FPbExhejNDVU9vMEFpT1k1YWN2bC1oczRYU2lPRldpRExWRGpycnhZdFZYUjNUNzF0RVZ0U1hqZkxRSTZNMnRRNk50MlphOGhVbjhfQ29BMk9Wdmd5UFNKS0Z3aFF1TDBUZm9lNzFxV1dQYlk3S0ZfRWRxRVRwaGNLTVhHMzBRaV83V2ZmYUhR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 21:19:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Con apoyo de la Unión Europea, la OPS acompaña a República Dominicana en la medición y el fortalecimiento de sus redes de servicios de salud - Pan American Health Organization (PAHO)",
-      "fuente": "Pan American Health Organization (PAHO)",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXhEOVF1OHp3aXhmRURPMkhzSWRYNXBJeFJGeWRvWl83S1NETVNxMkpfM1lEclo1UlRpWllucXRuVkVDS21BRjdYYV9GWFlPT2hxWm9OOWhUbF85bUlOREVhdTNzX1BoYXNxeVJtMjZseEYzNFpkQk5kZ0hKc25XbzFVTE5uOXY4NGtNdDllLVB0OWRtV1RMRC0xUUlXMTRHZlBpOVp2Tkp4Z2M1UGc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 20:57:25 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana y Haití llegan al Félix Sánchez después de ganar sus primeros dos compromisos, lo que hace el partido más atractivo. - instagram.com",
-      "fuente": "instagram.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82d3hTRV9kUmZQRHVqSmdnNm80UVV0aUVUTkZOYjZ0RTByVE03QTJmV3FRaXR5YjhjQS1LeWpuZUE0OXlVcldiNkN0bnZFR0ZiSU01ZEl3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 01 Oct 2026 21:25:35 GMT",
+      "fecha": "Mon, 28 Sep 2026 08:24:00 GMT",
       "imagen": ""
     }
   ]

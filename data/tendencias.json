@@ -1,23 +1,51 @@
 {
-  "updated": "2026-10-01T20:00:56.207094-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-01T23:00:57.509346-04:00",
+  "hora": "23:00",
   "fecha": "01/10/2026",
   "pais": "República Dominicana",
-  "total": 6,
+  "total": 8,
   "tendencias": [
     {
+      "termino": "liga de naciones concacaf",
+      "trafico": "1000+",
+      "noticia": "Costa Rica queda eliminada de Liga de Naciones antes de enfrentar a Nicaragua",
+      "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17326970/costa-rica-eliminada-liga-naciones-curazao-liga-b-copa-oro",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBihgsNC4ItGJhX6MBluD4LFceqaIfxeBo5BSDnVQkY6O8DfBsflIx6t273hM"
+    },
+    {
+      "termino": "haiti vs",
+      "trafico": "2000+",
+      "noticia": "Dominican Republic vs Haiti: Concacaf Nations League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cvp8dgzx0gdgt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+    },
+    {
+      "termino": "braves - phillies",
+      "trafico": "1000+",
+      "noticia": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ, lineups (8 ET, NBC/Peacock)",
+      "enlace": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA"
+    },
+    {
+      "termino": "república dominicana - haití",
+      "trafico": "10000+",
+      "noticia": "República Dominicana vs. Haití: hora y dónde ver",
+      "enlace": "https://cdndeportes.com.do/republica-dominicana-vs-haiti-hora-donde-ver-y-como-llegan-en-liga-de-naciones/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWBcFB60zy9KsYqlCnzO3aTe8D5iU1OwDLt1u1zsA1I_czFAQVeNNe876zcLk"
+    },
+    {
       "termino": "république dominicaine – haïti",
-      "trafico": "200+",
-      "noticia": "« Vendre l’héritage » : comment la République dominicaine est allée au-delà du baseball pour devenir une menace dans la CONCACAF avant un choc de rivalité longtemps attendu face à Haïti",
-      "enlace": "https://www.goal.com/fr/originaux/vendre-l-heritage-comment-la-republique-dominicaine-est-allee-au-dela-du-baseball-pour-devenir-une-menace-dans-la-concacaf-avant-un-choc-de-rivalite-longtemps-attendu-face-a-haiti/bltc8fc4f891bc246e7",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToNOe9XAsHKaU4nfxCncU_FYI0l7-Nz4zJTMd5p_oXAgcYKyfLUvOM5Swajqc"
+      "trafico": "2000+",
+      "noticia": "Ligue des Nations : Entre Haïtiens et Dominicains, l’île s’apprête à choisir son maître",
+      "enlace": "https://haititempo.com/ligue-des-nations-entre-haitiens-et-dominicains-lile-sapprete-a-choisir-son-maitre/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE-iQ7Ndljl6QcU5TlM8kx4hmjqvX_ubb1HQAqOWmlGRBVtbBmn7n2LkELpSA"
     },
     {
       "termino": "gales - noruega",
       "trafico": "200+",
-      "noticia": "Un cyborg desconectado",
-      "enlace": "https://as.com/futbol/internacional/un-cyborg-desconectado-f202610-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4zvcTQhDLT-RXabNJuVw-QPkEGnHxDmdBK4YXdiD9rouYxKiPg9zSN4mMT84"
+      "noticia": "Portugal golea sin Ronaldo y Noruega pierde con Haaland sin pólvora",
+      "enlace": "https://acento.com.do/deportes/portugal-golea-sin-ronaldo-y-noruega-pierde-con-haaland-sin-polvora-9762654.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKUqCBtvsUcKki29_TKOuRTwzRO3SRRE9myX1PUHzeKLHQaaMhtuvn4p3rvsc"
     },
     {
       "termino": "terremoto",
@@ -29,23 +57,9 @@
     {
       "termino": "dinamarca - portugal",
       "trafico": "2000+",
-      "noticia": "Ioannidis brilha contra os Países Baixos e Klopp estreia-se a vencer pela Alemanha",
-      "enlace": "https://sapo.pt/artigo/ioannidis-brilha-contra-os-paises-baixos-e-klopp-estreia-se-a-vencer-pela-alemanha-6abee4702886dbbd71ed1108",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_aiEhJuP9xzo4WFG780x9s3nvs6Wt0c_AL7SjFBr-c_kXSMSYUHZQkfWhiEM"
-    },
-    {
-      "termino": "padres - cubs",
-      "trafico": "1000+",
-      "noticia": "Padres Found Their October Formula In Beatdown of Cubs",
-      "enlace": "https://padresmission.com/forums/topic/98714-padres-found-their-october-formula-in-beatdown-of-cubs/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ_Z8-gpEjSN8dzXnWGnm4Q4q8Fo1crjo1Ffa0TzU70v8y8awF34OBsyQL9Jo"
-    },
-    {
-      "termino": "argentina vs bolivia",
-      "trafico": "500+",
-      "noticia": "Scaloni praises Argentina’s attitude after emphatic win over Bolivia",
-      "enlace": "https://www.idman.biz/en/news/world-football/159048",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-giKZRBjMDG5k6v1JTQY9_OUBf6U9jyA3olAM2ABRGRacZhi4TRmpnEVZBBY"
+      "noticia": "Com seis gols e provocação, Portugal vence Dinamarca em primeiro jogo sem Cristiano Ronaldo",
+      "enlace": "https://tmc.com.br/esporte/com-seis-gols-e-provocacao-portugal-vence-dinamarca-em-primeiro-jogo-sem-cristiano-ronaldo/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGKllg7aErcWzn6hLTR1nBQPUQSIYUMwkJbqm0m_7NS6XDKURI2wHOwsrqcF0"
     }
   ]
 }
