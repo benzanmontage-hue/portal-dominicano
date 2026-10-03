@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-03T05:00:18.706526-04:00",
-  "hora": "05:00",
+  "updated": "2026-10-03T08:00:21.681787-04:00",
+  "hora": "08:00",
   "fecha": "03/10/2026",
   "pais": "República Dominicana",
-  "total": 4,
+  "total": 5,
   "tendencias": [
+    {
+      "termino": "tiempo",
+      "trafico": "1000+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, sábado 03 de octubre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-sabado-03-de-octubre-de-2026-9763579.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
+    },
+    {
+      "termino": "météo",
+      "trafico": "500+",
+      "noticia": "La météo à Agen du samedi 3 octobre 2026",
+      "enlace": "https://www.sudouest.fr/lot-et-garonne/agen/agen-meteo-du-samedi-3-octobre-2026-30895467.php",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrd2_JSx7dCSPTZSPDeiz7XY8l7z0s6NSzRDqkXHAwD5potG59KYztEUPprs"
+    },
     {
       "termino": "haití",
       "trafico": "1000+",
@@ -15,9 +29,9 @@
     {
       "termino": "francia - italia",
       "trafico": "2000+",
-      "noticia": "Zidane corta su pleno ante Mancini y Bélgica pisa los talones a Francia",
-      "enlace": "https://acento.com.do/rfi/zidane-corta-su-pleno-ante-mancini-y-belgica-pisa-los-talones-a-francia-9763562.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Ys1UVXsAGZ9BJQYg5oT8FNRSKNjMX1ILkAVa0Kdk27SgyGnWp-m5ss7v5cE"
+      "noticia": "Italia amarga con un empate, el histórico estreno de Zidane en Francia",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/02/italia-amarga-con-un-empate-el-estreno-de-zidane-en-francia/3677438",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1Q_c4AQkYxUFGjWvahZ5tt5TBMR6wwzCW_HJyCUZJZmL2JXAE4NJlXEz9dQ"
     },
     {
       "termino": "narcotráfico",
@@ -25,13 +39,6 @@
       "noticia": "DNCD y Guardia Civil de España atrapan a un supuesto capo en Punta Cana",
       "enlace": "https://listindiario.com/la-republica/20261003/dncd-guardia-civil-espana-atrapan-supuesto-capo-punta-cana_924685.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVzJ2sgAVOggqo_KQY0MAYXDzeYjqzB9wz4lAtRQ4E08_4pZ-RImRe-C9HJCo"
-    },
-    {
-      "termino": "empresario",
-      "trafico": "200+",
-      "noticia": "El empresario que donó pintura a los estudiantes durante el movimiento del 2 de octubre",
-      "enlace": "https://www.eleconomista.com.mx/el-empresario/empresario-dono-pintura-estudiantes-movimiento-2-octubre-20261002-836325.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0oYWqUrHaOPrwhDh9lTjqOKhj06oOyaPPEg_57vR1Ec6QKitkio-4FG84gG0"
     }
   ]
 }
