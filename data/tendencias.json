@@ -1,20 +1,41 @@
 {
-  "updated": "2026-10-03T11:00:22.582346-04:00",
-  "hora": "11:00",
+  "updated": "2026-10-03T14:00:24.812696-04:00",
+  "hora": "14:00",
   "fecha": "03/10/2026",
   "pais": "República Dominicana",
-  "total": 6,
+  "total": 9,
   "tendencias": [
     {
+      "termino": "guardians - white sox",
+      "trafico": "200+",
+      "noticia": "White Sox-Guardians ALDS Game 1 FAQ, lineups (1 p.m. ET, TBS/HBO Max)",
+      "enlace": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpnPHMhG3oiDGJ1kguFdBH8iM_lsR56cdaOGiNGhaxuxFXoTqE49pP-8BL1Ms"
+    },
+    {
+      "termino": "croatie – angleterre",
+      "trafico": "200+",
+      "noticia": "Programme TV Foot : Croatie-Angleterre à 18h, Ligue 3 à 20h45",
+      "enlace": "https://www.webgirondins.com/actualite-girondins-programme-tv-foot-croatie-angleterre-a-18h-ligue-3-a-20h45-134722",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0flbmqWRPvuVn2XKhwDS3jivDZnV6wJy92OEixYCkUs9RGer7vin9xWihnhA"
+    },
+    {
+      "termino": "croacia - inglaterra",
+      "trafico": "2000+",
+      "noticia": "Croacia vs. Inglaterra hoy: Pronóstico, promociones y cómo apostar en el partido de la Nations League 2026",
+      "enlace": "https://www.sportingnews.com/us-es/futbol/news/croacia-inglaterra-pronostico-como-apostar-nations-league-2026/24a0b8a5658f7675b9eea91d",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9IXsA9gxU7ukT-6DtsSggAG4YOOv-P1Kz-jcTAoKYgRWj6OF0mPrP8R8o14"
+    },
+    {
       "termino": "inde – brésil",
-      "trafico": "500+",
-      "noticia": "Sécurité maximale pour le Brésil à Kolkata",
-      "enlace": "https://rdcsport.cd/news/securite-maximale-bresil-kolkata",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3M33v1oGMaf968BcNvGoIoTpsLH5T2wPlf0hXckO2MX7G_rqyAQOcT6vQSw4"
+      "trafico": "1000+",
+      "noticia": "Inde-Brésil : une première historique à Calcutta pour la Seleção d’Ancelotti",
+      "enlace": "https://www.sport.fr/football/inde-bresil-une-premiere-historique-a-calcutta-pour-la-selecao-dancelotti-1486920.shtm",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL16Z2xBeu6vkmf078JRdth2G-voQEAUSSRQyZndSbaKed4Q2N5iMecolA1Nc"
     },
     {
       "termino": "india - brasil",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "India vs Brazil: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
@@ -22,23 +43,23 @@
     {
       "termino": "tiempo",
       "trafico": "1000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 03 y domingo 04",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-este-fin-de-semana-el-pronostico-para-este-sabado-03-y-domingo-04-9763275.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
+      "noticia": "Clima en Chicago, Illinois hoy: cuál es el pronóstico del tiempo para hoy 3 de octubre",
+      "enlace": "https://www.lanacion.com.ar/estados-unidos/illinois/clima-en-chicago-illinois-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-3-de-octubre-nid03102026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZFFkxnyi_vt7vstNEOohsHTueWf4Fit7UxJOJWWnE39oSETL3s5Umj1ms-Sg"
     },
     {
       "termino": "météo",
       "trafico": "500+",
-      "noticia": "Vacances de la Toussaint : quel temps fait-il généralement en France ?",
-      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-10-02/vacances-de-la-toussaint-quel-temps-fait-il-generalement-en-france-92837",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSVSDJzAXwy9kiubjMLw_YJVks7lNjSJSRu6WHWWFe-ySPIBFjHup7FLZm4c"
+      "noticia": "Les Pyrénées-Orientales en vigilance orange pluie et inondations dimanche",
+      "enlace": "https://www.lemonde.fr/planete/article/2026/10/03/pluies-et-inondations-fin-de-la-vigilance-orange-dans-l-aude-l-herault-toujours-concerne_6787783_3245.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw810Zz_itesT2yNP0ajnctxCeer5OTHRxWiE-5U9Z2ACzq_L6wRzMPX48_Hs"
     },
     {
       "termino": "haití",
       "trafico": "1000+",
-      "noticia": "Embajada haitiana se desmarca de declaraciones de futbolistas y reafirma respeto a soberanía de RD",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/02/embajada-haiti-reafirma-respeto-a-soberania-de-rd/3677418",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFyAlXWeABwDaMcES3XDFLHvyn_YjM_XMv3bi5xg9WLuVEFQ3Wot3sVVihMMU"
+      "noticia": "Embajada de Haití se desliga de declaraciones de jugadores y reafirma respeto a soberanía dominicana",
+      "enlace": "https://listindiario.com/las-mundiales/haiti/20261002/embajada-haiti-desliga-declaraciones-jugadores-reafirma-respeto-soberania-dominicana_924698.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzv9DtiiX8i9r_6bl9p4ebbvXdnWmPiL7kv4_r4wY6fI5awDuh6wUbGcoqVUQ"
     },
     {
       "termino": "francia - italia",
