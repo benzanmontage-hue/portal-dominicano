@@ -1,30 +1,44 @@
 {
-  "updated": "2026-10-03T08:00:21.681787-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-03T11:00:22.582346-04:00",
+  "hora": "11:00",
   "fecha": "03/10/2026",
   "pais": "República Dominicana",
-  "total": 5,
+  "total": 6,
   "tendencias": [
+    {
+      "termino": "inde – brésil",
+      "trafico": "500+",
+      "noticia": "Sécurité maximale pour le Brésil à Kolkata",
+      "enlace": "https://rdcsport.cd/news/securite-maximale-bresil-kolkata",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3M33v1oGMaf968BcNvGoIoTpsLH5T2wPlf0hXckO2MX7G_rqyAQOcT6vQSw4"
+    },
+    {
+      "termino": "india - brasil",
+      "trafico": "1000+",
+      "noticia": "India vs Brazil: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
+    },
     {
       "termino": "tiempo",
       "trafico": "1000+",
-      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, sábado 03 de octubre de 2026",
-      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-sabado-03-de-octubre-de-2026-9763579.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 03 y domingo 04",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-este-fin-de-semana-el-pronostico-para-este-sabado-03-y-domingo-04-9763275.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
     },
     {
       "termino": "météo",
       "trafico": "500+",
-      "noticia": "La météo à Agen du samedi 3 octobre 2026",
-      "enlace": "https://www.sudouest.fr/lot-et-garonne/agen/agen-meteo-du-samedi-3-octobre-2026-30895467.php",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrd2_JSx7dCSPTZSPDeiz7XY8l7z0s6NSzRDqkXHAwD5potG59KYztEUPprs"
+      "noticia": "Vacances de la Toussaint : quel temps fait-il généralement en France ?",
+      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-10-02/vacances-de-la-toussaint-quel-temps-fait-il-generalement-en-france-92837",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSVSDJzAXwy9kiubjMLw_YJVks7lNjSJSRu6WHWWFe-ySPIBFjHup7FLZm4c"
     },
     {
       "termino": "haití",
       "trafico": "1000+",
-      "noticia": "Omar Fernández responde a Wilson Isidor: “Haití es Haití y República Dominicana es República Dominicana”",
-      "enlace": "https://www.diariolibre.com/politica/general/2026/10/02/omar-fernandez-responde-a-declaraciones-sobre-la-hispaniola/3677310",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXx7vK3Ftq5zCHjshuEuBtmZhWsmIei9QSnZ45qGPIavGSjWlXTZnjFlGyNQ"
+      "noticia": "Embajada haitiana se desmarca de declaraciones de futbolistas y reafirma respeto a soberanía de RD",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/02/embajada-haiti-reafirma-respeto-a-soberania-de-rd/3677418",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFyAlXWeABwDaMcES3XDFLHvyn_YjM_XMv3bi5xg9WLuVEFQ3Wot3sVVihMMU"
     },
     {
       "termino": "francia - italia",
@@ -32,13 +46,6 @@
       "noticia": "Italia amarga con un empate, el histórico estreno de Zidane en Francia",
       "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/02/italia-amarga-con-un-empate-el-estreno-de-zidane-en-francia/3677438",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1Q_c4AQkYxUFGjWvahZ5tt5TBMR6wwzCW_HJyCUZJZmL2JXAE4NJlXEz9dQ"
-    },
-    {
-      "termino": "narcotráfico",
-      "trafico": "500+",
-      "noticia": "DNCD y Guardia Civil de España atrapan a un supuesto capo en Punta Cana",
-      "enlace": "https://listindiario.com/la-republica/20261003/dncd-guardia-civil-espana-atrapan-supuesto-capo-punta-cana_924685.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVzJ2sgAVOggqo_KQY0MAYXDzeYjqzB9wz4lAtRQ4E08_4pZ-RImRe-C9HJCo"
     }
   ]
 }
