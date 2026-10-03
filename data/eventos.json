@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T02:00:22.760255-04:00",
-  "hora": "02:00",
+  "updated": "2026-10-03T05:00:24.077580-04:00",
+  "hora": "05:00",
   "fecha": "03/10/2026",
   "total": 12,
   "eventos": [
@@ -11,16 +11,22 @@
       "fecha": "Sat, 03 Oct 2026 00:08:20 GMT"
     },
     {
-      "titulo": "El mapa de los conciertos cambia en República Dominicana - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNXzFMNGRWcnFUUUVONmsyUHBCR19zT1Z5OU41ZkVIS0ZDMlFYa1p3VGZnNjhicEw1cnNRbzE4eUEyU2Juc3czM1dSSVNUOGZRTkFadUYxRzByTnZMUGxDSi1NbjFKd0VHQnZhbl9XTGpkUlczRmVKRVlhOWpQXzk5VGp1WHdtb1pEUG1sS2h3MEQ1UzA1Vk1VdVpIQm1kS1M1MElwQmhYZEtUNHZfVWZvNExWUzRPME96UE9VVm9qN2FxZW5oQ0p3OTZqUkbSAcwBQVVfeXFMTV8xTDRkVnJxVFFFTjZrMlBwQkdfc09WeTlONWZFSEtGQzJRWGtad1RmZzY4YnBMNXJzUW8xOHlBMlNibnN3MzNXUklTVDhmUU5BWnVGMUcwck52TFBsQ0otTW4xSndFR0J2YW5fV0xqZFJXM0ZlSkVZYTlqUF85OVRqdVh3bW9aRFBtbEtodzBENVMwNVZNVXVaSEJtZEtTNTBJcEJoWGRLVDR2X1VmbzRMVlM0TzBPelBPVVZvajdhcWVuaENKdzk2alJG?oc=5",
-      "fecha": "Wed, 30 Sep 2026 14:00:00 GMT"
+      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
+      "fuente": "Billboard",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
+      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - Bloomberg Línea",
       "fuente": "Bloomberg Línea",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEFpcU9nSVJMcWg5Y250Y3JkemdwX08tNl9JZjNpZ0NWTlZDTEFPWThnWFlLQXVzd29ZVDBmdElFVW5MdVZ2REEtZTdRQThLcWpMVlNjSDJ4cnJyX2hzV2ZOUjVhOGExTGtZV2pISldKOFhqTUNyZ0pBenEwVlpUYkV2SU9Ga1JDem5fSThsY2dpQ1k4T25HcGNNbXhsTmlvcUxBaWZNMWJVaVl6NVlYZtIBxAFBVV95cUxNbEV4cUtuTEd3d1d2WG5KNGdsRTE0a1E5elV2ZVVoZHp1emhKUW9QWHF6QWlDdm93eGpubGhhNDNvcEpBTEZPRUV2Qkp2d0c0dGVYaGpRampGM3lmZUJuSk5vaTZ3T0Z4TXdGbG9WSDRQVHc0aExZRGdlV2hTU2daRVFKWGJ0Q1E3ekQxNDRLLWVTOVJ5a19fTE5SdXlidGVzQ2FwcnZTQ0U1b1dnLVNWWVBwQVRXRHZsMFhnbVpWODA5WmtT?oc=5",
       "fecha": "Wed, 30 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
+      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
       "titulo": "RD cierra el año con grandes conciertos y el regreso del Festival Presidente - elcaribe.com.do",
@@ -35,18 +41,6 @@
       "fecha": "Thu, 01 Oct 2026 23:46:48 GMT"
     },
     {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
-      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
-      "fuente": "Billboard",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
-      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
       "titulo": "Shakira transmitirá gratis su concierto desde Madrid: a qué hora es en RD y dónde verlo en vivo - Revista Mercado",
       "fuente": "Revista Mercado",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmM0SDE2WmRjLWxyYVBDeThVSXpiM05KbzlvOFRxOFhWN1huRlhFUWFxMW11TWx6ak4yTHp0ckJ3OENCVmpZMU5pS3l3ZFNVZUlBQVhxaGt6elFNZVNZTTgyYlRIWnBDaUhoUDRCSDcxdi1IXy1aaFk4SEF3dk1kV014SDFGeEsyZ04wS3N3WTF1NTNIWVRLd2lQd2tZV3JUTllrdUFndW9yenpfZWNxTXAwTktHR09pMGJheXBWd0J4U3RxOHVTRmEzSXAzVGJCNHN2V0ZEMGVhenlC?oc=5",
@@ -59,22 +53,28 @@
       "fecha": "Sun, 27 Sep 2026 03:08:33 GMT"
     },
     {
+      "titulo": "La expectativa crece en torno al concierto de Chayanne en República Dominicana y, como antesala, el artista puertorriqueño comparte el playlist que lo acompaña en los momentos previos a subir al escenario. Se trata de una selección de canciones que refl - instagram.com",
+      "fuente": "instagram.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HNGRJVzRSVDdCOGNWeGs3d3d0eTBXX09aUUhUdUoyR3pmclZDQ2tJb2VhSjBIZ3E5bDhtOGRJRHUwMmxWTzRnMDlaOTZnQXJzQVE?oc=5",
+      "fecha": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
+      "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Ante alta demanda anuncian quinto concierto de Dalvin La Melodía en Puerto Rico - De Último Minuto",
+      "fuente": "De Último Minuto",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NNQTZwUmcwRzVCUnJfUnFWRWZFV05uclB2S1phMjJ2MDBDVFpGY0tPdGxxcEtKU0Z6MG5qZ1VCRzMxdGdLR0NEVmh0alJtRUpsSzZWQjJqR2NPZjRnaVNXSmxOVWV1M0ZXOUVaQW5HQlh2RmpzSldCS1ZsRkZaWHhn?oc=5",
+      "fecha": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
       "titulo": "De Gloria Trevi a Rawayana: los conciertos imperdibles en Panamá para cerrar 2026 - La Estrella de Panamá",
       "fuente": "La Estrella de Panamá",
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmI1ZVo4ZzNtZEt4VmRjamd4NVNPSlNMN05uMi1adTR3azFsOGN5NFJvMXROMVRRcmUzZlNSQmMwU3lFemRXZkFfeWF5NzAzUjByMUpzQzJHcjZleFVDOGx4dHpOYVF0bjh2N19hN3ZpN04zNkxCblBaMFZHaUdFbDhyWXJtMm93Tm92UGE1bjkzRnAwU3UxYUE2Vk1CQ3hKcG1ra05mRjFxaWpTWE1rRW02MXhmMlJKd3VtSkdIMEVuMXhTNF8tRTh4VE9lTEFIYktSVU16NWt2V3Ixby1j0gHkAUFVX3lxTE5ycEF5OURFU2JJMTJ2LXB5cmVKSXZfY1htUWYwR09GaVdMWUxBNUs0WlV1OE1pOWR4eFFOdzVhOWQzd2hJOU1POS1HODRpLWF4ckhVMWN0RXF0T3dvRnRvMUY0ZkZQaVd3c1pXVHNBWElaeUZ2cldnRnFrckUtdkN4UkxrdjRMejJMX0ZVcTN1ZnZ4MVdqT0hILVhIUExlekQtbmRBM2JFQWtJUFkwNWw5S1d5NXVlYkpOdWkwdE9sZVZBUGllTWtCMmdvbXdRZHZBTlJIU1FhX29pdHlRaThGUGdubA?oc=5",
       "fecha": "Wed, 30 Sep 2026 03:00:00 GMT"
-    },
-    {
-      "titulo": "Alejandro Fernández tendrá concierto gratis en el Festival Internacional de la Ciudad de Chihuahua: detalles, fechas y horarios - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVnVtRjlxdXk4SGJCeXZCWVdfd0UwcjRzRC1jOE5fdGIwb3cwT2tQMEhrMzUtOVVKN1lfYkQ4MzRrM3JJN1JQMERMb21DU1o1M3FGbG9fTkNrc0FlRmNlT19nOUJKU2dFQV9PMGZtVGEtbU90M2w3MlNzQW43eVVTekNhMWNkaVpxWlZ2Ui1rT1JaRFNLRlV5cHJaLV92SUM5MXFocVpieGxBMXRTV3hOVHJrbXh2cHdkcHVKUjZPdjBpckVodWZER1JsTFUwOVdXaVhlSmtiRFRfYko2NnhrMDFqT1hVZjhWMzNRTUc4bk1xZHJXU0JOQVpCdVHSAZcCQVVfeXFMUEJDdFNMdUNlM0RiWVpad0owQjNiNUZvY0NDcTZoRVlBVmI0ZXBQczN3dnJyRXRVcHYxd051OHMtOTdENEY0S1BUaUxGTS1QVmJHRWY4M0k0WHdQWDBodkw4b181ZjJHc3JFdE1RNFJlRDYwWkl1eU9rUGFFWDlHZEhQMHpGczM4QUFzdUNsZHJMYW5fZUlYV1pfdU9fczlhT0ZBSkw3ajlYZUNuaGxCWi05Q0lSTVphdGlfN05qdzRGNGtKcHNlNXFKeGd3clhxbU5QZmhwRXNOdTdEZFJicEJIYUlSYmlQUEtFRTNfMWIxTjJXUjdRZ2g2SUFNOXhZTFQ2R2ozcFVTd0hjRWtIMFRXUS1YOXJz?oc=5",
-      "fecha": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Ramón Orlando convierte su concierto en una celebración de la música popular dominicana - RC Noticias",
-      "fuente": "RC Noticias",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDFFUzV4RTV3NlR5NEFBWll5dE5zZWQwMnlQZnVJbTJrNjVkcmhubWMzZUtMdEJKSF9TbkdZR3dqaEpNaVB6eV95QlNnRzdidmxSLVRsYmZzVmJ0ckd2Z3J6dnQ0UEdPcmZNLW9FYnYzdGE1V3d1cXd6LXo1dEVrYzZvQlkzeF9GN0xqU1pYeGtwdmpDUU53UjVKNDNDcmlSVExRRXFvZjZGdVR1MFhWcHcwQ2M?oc=5",
-      "fecha": "Thu, 24 Sep 2026 07:00:00 GMT"
     }
   ]
 }
