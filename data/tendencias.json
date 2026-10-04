@@ -1,23 +1,37 @@
 {
-  "updated": "2026-10-04T11:00:37.164900-04:00",
-  "hora": "11:00",
+  "updated": "2026-10-04T14:00:39.068216-04:00",
+  "hora": "14:00",
   "fecha": "04/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "alerta meteorológica",
+      "trafico": "200+",
+      "noticia": "Vaguada desata aguaceros fuertes este sábado; mantienen 14 provincias en alerta",
+      "enlace": "https://listindiario.com/la-republica/20261003/vaguada-desata-aguaceros-fuertes-sabado-mantienen-14-provincias-alerta_924747.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1kAZl0aH-8eoz0PBLN_o3J8rNc_2hCkr6p8rtxmp6QyLmE83iPO66h1EZ1es"
+    },
+    {
+      "termino": "la primera",
+      "trafico": "1000+",
+      "noticia": "Me recuerda muchos de los dolores que pasé : la dura confesión de Nadal al volver a una cancha de tenis",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17332363/me-recuerda-muchos-de-los-dolores-que-pase-la-dura-confesion-de-nadal-al-volver-a-una-cancha-de-tenis-academia-evento",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcAU_Ro71EkZZyWn5jCMfRjeVfBKxXsxM1ZwkL0vBmP6IjEifZQD3mRH_9h4M"
+    },
+    {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "Météo : des orages attendus cet après-midi sur l’Ouest",
-      "enlace": "https://www.rtci.tn/article/6ac20a0a8f89cd9fc6c12339/m%C3%A9t%C3%A9o--des-orages-attendus-cet-apr%C3%A8s-midi-sur-louest",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPjT4rSR6xF2M5W19uEmRZg358rwrqs13orlc_gSr8YQwuXA8Pr23vMHlOgxM"
+      "noticia": "Sécheresse historique des sols : une seule journée de pluie enregistrée à l’échelle de la France depuis le 1er septembre",
+      "enlace": "https://lannion-perros.maville.com/actu/actudet_-secheresse-historique-des-sols-une-seule-journee-de-pluie-enregistree-a-l-echelle-de-la-france-depuis-le-1er-septembre_-7490807_actu.Htm",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6_fycaY72WcIOCvoxeeyyzR9mejLZ8c51WHCqGGmSQJQ0bu5811Y0yC5dwCA"
     },
     {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "F1 marshal goes viral in delayed Bahrain GP - and the memes write themselves",
-      "enlace": "https://www.indy100.com/sport/f1-bahrain-gp-malaysia-delay-marshal-photo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkOTe6TxZngRya68irQXsK7vLwLZmoCGGlv6YByzQw0aYcNizrLnnbV0s8B4w"
+      "noticia": "What is the weather forecast for the Bahrain Grand Prix?",
+      "enlace": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-bahrain-grand-prix-in-malaysia.5OZ23exBdO608dxwkDLrad",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjv7LIag3KKyO5u-UAi3I-jlFFkA2L0GjvhOJ-c0ZGRSE0aOhFH71a-GFtgzU"
     },
     {
       "termino": "estados unidos - méxico",
@@ -29,16 +43,16 @@
     {
       "termino": "brewers - padres",
       "trafico": "2000+",
-      "noticia": "MLB Gameday: Yankees 0, Rays 1 Resultado Final (03/10/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/yankees-vs-rays/2026/10/03/849835/final/box",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbONSHm49L1ycN6cDah0gn6PghRnmdkMppdhpDmi5f0UvIqWc3Gg-hFDIC-_s"
+      "noticia": "MLB Gameday: Padres 2, Brewers 3 Resultado Final (03/10/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/padres-vs-brewers/2026/10/03/849830/final/box",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjBwAp1O5l4l1RTmKVN4FaXKfu2eXzSxL0R8BU6AtXOicID1pplVc998gxxsA"
     },
     {
       "termino": "argentine – burkina faso",
       "trafico": "1000+",
-      "noticia": "Football: l Argentine écrase 7-0 un Burkina Faso dépeuplé de ses joueurs",
-      "enlace": "https://www.rfi.fr/fr/afrique-foot/20261004-football-l-argentine-%C3%A9crase-7-0-un-burkina-faso-d%C3%A9peupl%C3%A9-de-ses-joueurs",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCwUqP0O3_mpCHFrnmghcADo1zsRYlwm99gUExQSmunP6GJvelPEPg5vzCRTI"
+      "noticia": "Un nouveau  match honteux  pour l Argentine ? Après le Burkina Faso, le Bénin connaît lui aussi une préparation chaotique",
+      "enlace": "https://rmcsport.bfmtv.com/football/matchs-amicaux/un-nouveau-match-honteux-pour-l-argentine-apres-le-burkina-faso-le-benin-connait-lui-aussi-une-preparation-chaotique_AV-202610040264.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzEQVZRyH4X3LrbBHoh7FZMDFwvaWV7hxePhEom8hB6xKILoKnduLCEl3EW_s"
     },
     {
       "termino": "nba",
@@ -50,9 +64,9 @@
     {
       "termino": "auditoría",
       "trafico": "200+",
-      "noticia": "Rodrigo Paz, presidente de Bolivia, promulga una ley que permitirá destituir al fiscal general",
-      "enlace": "https://eldia.com.do/rodrigo-paz-presidente-de-bolivia-promulga-una-ley-que-permitira-destituir-al-fiscal-general/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rZqJ5e4LrB9f5EMvljRUgx7czeD4YBqejXgXsnzE0tZ8rri8ac8JUkxV-RM"
+      "noticia": "Auditoría a la DGM indica 150 vehículos no localizados compras sin plan por RD$ 553 millones",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/03/auditoria-a-migracion-detecta-150-vehiculos-no-localizados/3677943",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43U4AIaM3PAbCIoMG3B4OvMCNRciZkLMkW5F4f04HXU3_ljpJyx0jlU7U4zk"
     },
     {
       "termino": "argentina - burkina faso",
@@ -60,20 +74,6 @@
       "noticia": "Argentina score 7 past makeshift Burkina Faso after travel woes",
       "enlace": "https://www.espn.com/soccer/story/_/id/50097420/argentina-burkina-faso-friendly-lautaro-martinez",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9EL1PLKKkZpqr9nvPELeq07h6gLJv8hbGXkoKr1fETcPdryxqNorn9yCdtf8"
-    },
-    {
-      "termino": "rays - yankees",
-      "trafico": "2000+",
-      "noticia": "Post-season fever : Tampa Bay Rays in playoffs could bring up to $7M per game to St. Pete",
-      "enlace": "https://www.tampabay28.com/news/region-pinellas/post-season-fever-tampa-bay-rays-in-playoffs-could-bring-up-to-7m-per-game-to-st-pete",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrPuwalugRxPf6uGjWvU3UPMeCbyfa3lGY_3yvokstkbrg5TX1p6K2Y-oFHGs"
-    },
-    {
-      "termino": "haití",
-      "trafico": "1000+",
-      "noticia": "Embajada de Haití se desliga de declaraciones de jugadores y reafirma respeto a soberanía dominicana",
-      "enlace": "https://listindiario.com/las-mundiales/haiti/20261002/embajada-haiti-desliga-declaraciones-jugadores-reafirma-respeto-soberania-dominicana_924698.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzv9DtiiX8i9r_6bl9p4ebbvXdnWmPiL7kv4_r4wY6fI5awDuh6wUbGcoqVUQ"
     }
   ]
 }
