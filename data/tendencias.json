@@ -1,79 +1,79 @@
 {
-  "updated": "2026-10-03T17:00:26.203020-04:00",
-  "hora": "17:00",
+  "updated": "2026-10-03T20:00:28.739692-04:00",
+  "hora": "20:00",
   "fecha": "03/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nba",
+      "trafico": "200+",
+      "noticia": "NBA PRESEASON GAMETHREAD: Miami Heat (0-0) vs Toronto Raptors (0-0)",
+      "enlace": "https://hothothoops.com/2026/10/03/nba-preseason-gamethread-miami-heat-0-0-vs-toronto-raptors-0-0/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-El6tLfjDS1PHCavKNzWrYUKMo8K6nHNnRHQpdUNosxDGXbcStlwc8p27U5w"
+    },
+    {
+      "termino": "auditoría",
+      "trafico": "200+",
+      "noticia": "Contraloría comienza a publicar auditorías de instituciones públicas",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/10/02/contraloria-general-republica-publica-auditorias-de-instituciones/3677217",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvqeWXRBCaURWkHwVZT5CJfQT6vA29sCVEyJNMgnbdD5XZ7GR4-btpBM6QBJs"
+    },
+    {
+      "termino": "argentina - burkina faso",
+      "trafico": "500+",
+      "noticia": "Why isn t Lionel Messi playing for Argentina against Burkina Faso?",
+      "enlace": "https://www.usatoday.com/story/sports/soccer/2026/10/03/lionel-messi-argentina-burkina-faso-farewell-match-international-retirement/92055665007/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9G8y7bsARwmX5t8ULgl2hkZhMZ1Ehydsg0RORJuoU8wW8E_AEvhGSxxA_TRo"
+    },
+    {
+      "termino": "rays - yankees",
+      "trafico": "2000+",
+      "noticia": "Lingering calf injury keeps Judge off ALDS roster",
+      "enlace": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsFD8tx4jn9RSCMorE0o6TO32cuXRy5Rp7FzdfwDK719fitAt0Cr8ViprCWr8"
+    },
+    {
+      "termino": "haití",
+      "trafico": "500+",
+      "noticia": "Omar Fernández responde a Wilson Isidor: “Haití es Haití y República Dominicana es República Dominicana”",
+      "enlace": "https://www.diariolibre.com/politica/general/2026/10/02/omar-fernandez-responde-a-declaraciones-sobre-la-hispaniola/3677310",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXx7vK3Ftq5zCHjshuEuBtmZhWsmIei9QSnZ45qGPIavGSjWlXTZnjFlGyNQ"
+    },
+    {
+      "termino": "teoscar hernández",
+      "trafico": "200+",
+      "noticia": "2026 MLB division series Day 1: Live updates, lineups, analysis",
+      "enlace": "https://www.espn.com/mlb/story/_/id/50090503/2026-mlb-division-series-day-1-updates-lineups-analysis",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTODVNU49XVC_sDghvPfeiPCv74viy9N8jW0aETjxcv_KDAEYtK6jryd3mG6fI"
+    },
+    {
+      "termino": "lamine yamal",
+      "trafico": "200+",
+      "noticia": "Josko Gvardiol makes honest Lamine Yamal admission after Croatia suffers heavy defeat to Spain",
+      "enlace": "https://www.goal.com/en/lists/josko-gvardiol-lamine-yamal-croatia-spain/blta8e0d60ea5d85ac1",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmOHxRMZPfxfX4T55yaHZmlweEppFD6C_J40AFWEMiZ7va0MyBjwf0VnDe0w"
+    },
+    {
       "termino": "dodgers - braves",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Braves vs. Dodgers (Oct 3, 2026) Live Score",
       "enlace": "https://www.espn.com/mlb/game/_/gameId/401908007/braves-dodgers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz1V_rThoxfvXoHHSRk_KamZqIAOsytxs6IeMkAYbqHDk-_JaIIaj2z8MYUY"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3L4bbAdxRKLMjTqtYnSncwqjFq0_emIKms71uyOodlE48I3LXlLUAz16MXg"
     },
     {
       "termino": "espagne – tchéquie",
       "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "Espagne : le bijou de Lamine Yamal contre la République Tchèque",
+      "enlace": "https://www.footmercato.net/a6449216828268599586-espagne-le-bijou-de-lamine-yamal-contre-la-republique-tcheque",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX9ujXOo8Ia6AV0gzx-sdHCnBok2d7zlEHUeOGJENRCunk3W0X34CTaY9XevQ"
     },
     {
       "termino": "spain vs czechia",
       "trafico": "500+",
-      "noticia": "Czech Republic midfielder warns of Lamine Yamal danger ahead of Nations League showdown",
-      "enlace": "https://barcauniversal.com/czech-republic-midfielder-warns-of-lamine-yamal-danger-ahead-of-nations-league-showdown/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFZD_cQO2KK3UaRgdmuC9rMRB01qRSwqC0t9321Yh72Jvi1_MLINimX3HiVUc"
-    },
-    {
-      "termino": "españa - chequia",
-      "trafico": "2000+",
-      "noticia": "España - República Checa hoy, en directo: grupo C de Nations League, última hora en el Tartiere",
-      "enlace": "https://as.com/futbol/seleccion/espana-republica-checa-en-directo-ultima-hora-de-la-seleccion-en-la-nations-league-hoy-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXT8dVkkgh_oqy50lvjgapoBcoDga0y-iHKcVXsWKpfgi3gw63rxxsY0kRTRM"
-    },
-    {
-      "termino": "guardians - white sox",
-      "trafico": "1000+",
-      "noticia": "White Sox-Guardians ALDS Game 1 (LIVE on TBS/HBO Max)",
-      "enlace": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpnPHMhG3oiDGJ1kguFdBH8iM_lsR56cdaOGiNGhaxuxFXoTqE49pP-8BL1Ms"
-    },
-    {
-      "termino": "croatie – angleterre",
-      "trafico": "500+",
-      "noticia": "Une humiliation historique: l Angleterre inflige à la Croatie la pire défaite de son histoire",
-      "enlace": "https://rmcsport.bfmtv.com/football/ligue-des-nations/une-humiliation-historique-l-angleterre-inflige-a-la-croatie-la-pire-defaite-de-son-histoire_AV-202610030338.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo2I8pzsXz3EuLJDNUlmJYpKI6anXq-iJGASLq9kta3sUFFbCJtVApvozrQ8o"
-    },
-    {
-      "termino": "croacia - inglaterra",
-      "trafico": "2000+",
-      "noticia": "Paliza histórica de Inglaterra: goleó 7-0 a Croacia y le provocó la peor derrota de su historia",
-      "enlace": "https://www.clarin.com/deportes/paliza-historica-inglaterra-goleo-7-0-croacia-provoco-peor-derrota-historia_0_EYvBwjcdU2.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHOj4LGTFPHUyrud3QEJO_K-DN-cyBuSxj-2r5xYGhksY-vMp-kJ-GI5F3eHM"
-    },
-    {
-      "termino": "inde – brésil",
-      "trafico": "1000+",
-      "noticia": "Inde-Brésil : une première historique à Calcutta pour la Seleção d’Ancelotti",
-      "enlace": "https://www.sport.fr/football/inde-bresil-une-premiere-historique-a-calcutta-pour-la-selecao-dancelotti-1486920.shtm",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL16Z2xBeu6vkmf078JRdth2G-voQEAUSSRQyZndSbaKed4Q2N5iMecolA1Nc"
-    },
-    {
-      "termino": "india - brasil",
-      "trafico": "2000+",
-      "noticia": "India vs Brazil: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
-    },
-    {
-      "termino": "tiempo",
-      "trafico": "1000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 03 y domingo 04",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-este-fin-de-semana-el-pronostico-para-este-sabado-03-y-domingo-04-9763275.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMGgarpkHZRn6509Oyotdr7-dvYAxl7nNyQdMguc1WesQfI2kScGUe_v0y4C4"
+      "noticia": "Spain 3-1 Czechia: World champions still perfect as Krejci red card halts fightback",
+      "enlace": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/spain-3-1-czechia-world-champions-still-perfect-as-krejci-red-card-halts-fightback-2026-10-03",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9U7ub2jlPNilktXeoxHjK7DQByCIl5gpajI-6jIS6gHwwgwr_BGQ80GYvOPk"
     }
   ]
 }
