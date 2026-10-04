@@ -1,37 +1,51 @@
 {
-  "updated": "2026-10-04T05:00:32.902699-04:00",
-  "hora": "05:00",
+  "updated": "2026-10-04T08:00:35.539801-04:00",
+  "hora": "08:00",
   "fecha": "04/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "météo",
+      "trafico": "200+",
+      "noticia": "L’Aude et les Pyrénées-Orientales en vigilance orange pluie et inondations",
+      "enlace": "https://www.lemonde.fr/planete/article/2026/10/04/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-et-inondations_6787783_3245.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw810Zz_itesT2yNP0ajnctxCeer5OTHRxWiE-5U9Z2ACzq_L6wRzMPX48_Hs"
+    },
+    {
+      "termino": "f1",
+      "trafico": "200+",
+      "noticia": "Sepang F1 marshal steals the show during Bahrain GP delay: “Absolute icon”",
+      "enlace": "https://sports.yahoo.com/articles/sepang-f1-marshal-steals-show-080341734.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu9E0jEMeII6Orsj2eMM6tofhaXNuuyh4LwQ1EnQTrP578RSIgJCCu2Py2APc"
+    },
+    {
       "termino": "estados unidos - méxico",
       "trafico": "500+",
-      "noticia": "Entre Rafa Márquez y Estados Unidos ya todo es personal",
-      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17325002/mexico-vs-usa-estados-unidos-rafa-marquez-antecedentes",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyfSm1areugZ0OiVvRd6PZM4bOF987xB1e_D8H0OQQQAg2Y79xlzjqqCFmqKA"
+      "noticia": "México pierde ante Estados Unidos en noche trágica de Tala Rangel",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17335810/mexico-vs-estados-unidos-derrota-tala-rangel-errores-rafael-marquez",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpjEHkCGHOcU1ZsneoObVo2D__jh2ODmRS83FYEy7R1b9z_XQdq25fW5wJPqY"
     },
     {
       "termino": "brewers - padres",
       "trafico": "2000+",
-      "noticia": "MLB Gameday: White Sox 3, Guardians 0 Resultado Final (03/10/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/white-sox-vs-guardians/2026/10/03/849829",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr5SOGLnQMYDkatid0-ODl3WaBUXsKtO_aIL6lhcjANohazIPtvz4Sih8SR_o"
+      "noticia": "MLB Gameday: Padres 2, Brewers 3 Resultado Final (03/10/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/padres-vs-brewers/2026/10/03/849830/preview",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjBwAp1O5l4l1RTmKVN4FaXKfu2eXzSxL0R8BU6AtXOicID1pplVc998gxxsA"
     },
     {
       "termino": "argentine – burkina faso",
       "trafico": "1000+",
-      "noticia": "Le déplacement complètement invraisemblable du Burkina Faso en Argentine",
-      "enlace": "https://www.footmercato.net/a5562057663275859829-le-deplacement-completement-invraisemblable-du-burkina-faso-en-argentine",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFjV4tnFl4llznVjW59m8QFC2s6ael3rYqTdHY-zY4akAe0guYetxRptMzLI4"
+      "noticia": "L’Argentine inflige une déculottée au Burkina Faso dans le match de la honte !",
+      "enlace": "https://www.footmercato.net/a7568030472849072190-largentine-inflige-une-deculottee-au-burkina-faso-dans-le-match-de-la-honte",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRViKXkuYKZ_WEedVYW-9EI1_ST85QmhVds6i-Y_J1A3wmvYyj2KoJ3zYKq1kE"
     },
     {
       "termino": "nba",
       "trafico": "1000+",
-      "noticia": "Noa Essengue is already accomplishing exactly what the Bulls need in training camp",
-      "enlace": "https://pippenainteasy.com/noa-essengue-is-already-accomplishing-exactly-what-the-bulls-need-in-training-camp",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlwn36rncgl7aNUD_w4_b6HGmJmBu4IXKhx3hAt7bNnQVC7VMBjHLGdYOhp7Y"
+      "noticia": "Anthony Davis calls out Lakers over unwanted change, sends warning to rest of NBA",
+      "enlace": "https://basketnews.com/news-256702-anthony-davis-calls-out-lakers-over-unwanted-change-sends-warning-to-rest-of-nba.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBFNlKpoYxRatjZiyJMLDPhOzsK98s7hC28ZKSj6G83aSlYHFgsw4aTlekOtU"
     },
     {
       "termino": "auditoría",
@@ -49,31 +63,17 @@
     },
     {
       "termino": "rays - yankees",
-      "trafico": "5000+",
-      "noticia": "Braves vs. Dodgers (Oct 4, 2026) Live Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908014/braves-dodgers",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ75Aej1jm9G8atXc5MyiKFzzI8oBT5pQquDnz9gUqsYkRIEaAspsd3TTaezo"
+      "trafico": "2000+",
+      "noticia": "Rasmussen -- the  definition of ace  -- takes no-no into 8th as Rays 1-hit Yankees",
+      "enlace": "https://www.mlb.com/news/rays-win-alds-game-1-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQM_WiB6xAVY4qTx-tg5gK3YudqyYHxOm5nzxK7PXCIZUcpISc1e7fELaviOg"
     },
     {
       "termino": "haití",
-      "trafico": "500+",
-      "noticia": "VIDEO | RD prohíbe a la selección de fútbol de Haití jugar en sus estadios tras desórdenes",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/02/rd-prohibe-a-haiti-jugar-en-sus-estadios-tras-desordenes/3677333",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTJCEzLNF2VScwUDhF_pRe0jpPujdiI8KVgxkL_506xkJrO9vttIOvT17chOM"
-    },
-    {
-      "termino": "teoscar hernández",
-      "trafico": "200+",
-      "noticia": "MLB India: Teoscar Hernández s two-run home run",
-      "enlace": "https://www.mlb.com/dodgers/video/mlb-india-teoscar-hernandez-s-two-run-home-run",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNDtF0G0JAU_3XwPW6Q3l1W1XWPmnux_1Vwg86geO1VA6JM23MF8RpNFFWaeg"
-    },
-    {
-      "termino": "espagne – tchéquie",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "trafico": "1000+",
+      "noticia": "“La Hispaniola es Haití. Esto es Haití”: la afrenta de jugador de fútbol de Haití tras el partido",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/02/la-hispaniola-es-haiti-esto-es-haiti-dijo-wilson-isidor/3677110",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbQonanvSDukKoKN4ax1ZlA3GI5K-2JiitUWLCBVgSc3II6fLs8aXWsJNnK0"
     }
   ]
 }

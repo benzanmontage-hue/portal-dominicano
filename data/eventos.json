@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T05:00:43.390706-04:00",
-  "hora": "05:00",
+  "updated": "2026-10-04T08:00:41.223810-04:00",
+  "hora": "08:00",
   "fecha": "04/10/2026",
   "total": 12,
   "eventos": [
@@ -23,8 +23,14 @@
       "fecha": "Wed, 30 Sep 2026 08:00:00 GMT"
     },
     {
-      "titulo": "¡Vicente García vuelve a casa! Anuncia concierto en formato sinfónico en el Teatro Nacional - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
+      "titulo": "“Soy Luna” regresa a República Dominicana con “El Último Show” tras 10 años alejada de los escenarios - Más Vip -",
+      "fuente": "Más Vip -",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFo3dnpEVGxWaFdmdWFCZTBXSXdFOUJ1bjJfTm5rZlJPYkdXSWs1aU1FODBTNUlIbGthNmplRXVEdF95dHRsc3d4dkpNdmQzQnE1cDNPMVFHUWVUdnN3QWF1cnpYQ2dYXy1vODlKSzJQUFVuc3pPSDRVbzJkak16bTljRVowR0NHUW1PVU4zVzg1VF9yNGFGdF9hTE5LVE5yLVV1djBFc2dsWkRZQnZzSl9nbW93VnE0RUdOcTA5V3N5WE1QdE44aUMwTQ?oc=5",
+      "fecha": "Sun, 04 Oct 2026 00:11:15 GMT"
+    },
+    {
+      "titulo": "¡Vicente García vuelve a casa! Anuncia concierto en formato sinfónico en el Teatro Nacional - elnacional.com.do",
+      "fuente": "elnacional.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnBjd3hzWGRjX0xVTkNZS2gtdUJLXzVVclU0TzliMjJBaXJ3cW5nbTR2Rm1kSXYtM0RuYV9PMkNUbXkwa0U5dzJlejhQSThXZXV5bThsNHpkbTF3Y21VNF9LQkRjY3NndllJMURGRW10eS0zZHA3MVU3eWs0U1ZqUFpNbURGc2IwZWlhR0xQckstOFZzMjNHd3gyclYtM01zaU8xMm5RT2tnMHUyMmxzR2U0VktQbDAzVnNMbWxPQ1ZiSU1zaWZqWGdHUDV1RE5PN3pwNmE0eC14Y3JlQkZYaEZR0gHnAUFVX3lxTE4xWDFmdFRHRWg0UTNtMnV3cm9XU0pSNUpWOFNocmhScWJjYms0a0RLcllHMXp1ckVnbWhBNDNncEpxeXFuT2xaWEVVcWZOazctZ0lSdERBSHJTMHpjdFpCMVVlQWZfRUNRX0t1VXVmOHhycE9TYS04bWsxXzRqRV95dW1oSGg3ck9CZWo0YUdNRV82SXpETlhmaWxWREtDNmlSNDQwSkZFZVVPaUlYLTNlUlJad3JVdVM4RHYzbFhjM1R1YlplYVRlTTllekVVeTlVTDZPcnF2Q0M5UlBHdm9mdTNVWnA1cw?oc=5",
       "fecha": "Sat, 03 Oct 2026 00:08:20 GMT"
     },
@@ -41,14 +47,8 @@
       "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
-      "titulo": "“Soy Luna” regresa a República Dominicana con “El Último Show” tras 10 años alejada de los escenarios - Más Vip -",
-      "fuente": "Más Vip -",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFo3dnpEVGxWaFdmdWFCZTBXSXdFOUJ1bjJfTm5rZlJPYkdXSWs1aU1FODBTNUlIbGthNmplRXVEdF95dHRsc3d4dkpNdmQzQnE1cDNPMVFHUWVUdnN3QWF1cnpYQ2dYXy1vODlKSzJQUFVuc3pPSDRVbzJkak16bTljRVowR0NHUW1PVU4zVzg1VF9yNGFGdF9hTE5LVE5yLVV1djBFc2dsWkRZQnZzSl9nbW93VnE0RUdOcTA5V3N5WE1QdE44aUMwTQ?oc=5",
-      "fecha": "Sat, 03 Oct 2026 14:12:16 GMT"
-    },
-    {
-      "titulo": "Shakira transmitirá gratis su concierto desde Madrid: a qué hora es en RD y dónde verlo en vivo - revistamercado.do",
-      "fuente": "revistamercado.do",
+      "titulo": "Shakira transmitirá gratis su concierto desde Madrid: a qué hora es en RD y dónde verlo en vivo - Revista Mercado",
+      "fuente": "Revista Mercado",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmM0SDE2WmRjLWxyYVBDeThVSXpiM05KbzlvOFRxOFhWN1huRlhFUWFxMW11TWx6ak4yTHp0ckJ3OENCVmpZMU5pS3l3ZFNVZUlBQVhxaGt6elFNZVNZTTgyYlRIWnBDaUhoUDRCSDcxdi1IXy1aaFk4SEF3dk1kV014SDFGeEsyZ04wS3N3WTF1NTNIWVRLd2lQd2tZV3JUTllrdUFndW9yenpfZWNxTXAwTktHR09pMGJheXBWd0J4U3RxOHVTRmEzSXAzVGJCNHN2V0ZEMGVhenlC?oc=5",
       "fecha": "Wed, 30 Sep 2026 22:28:49 GMT"
     },
@@ -65,8 +65,8 @@
       "fecha": "Sun, 27 Sep 2026 03:08:33 GMT"
     },
     {
-      "titulo": "Ante alta demanda anuncian quinto concierto de Dalvin La Melodía en Puerto Rico - deultimominuto.com",
-      "fuente": "deultimominuto.com",
+      "titulo": "Ante alta demanda anuncian quinto concierto de Dalvin La Melodía en Puerto Rico - De Último Minuto",
+      "fuente": "De Último Minuto",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NNQTZwUmcwRzVCUnJfUnFWRWZFV05uclB2S1phMjJ2MDBDVFpGY0tPdGxxcEtKU0Z6MG5qZ1VCRzMxdGdLR0NEVmh0alJtRUpsSzZWQjJqR2NPZjRnaVNXSmxOVWV1M0ZXOUVaQW5HQlh2RmpzSldCS1ZsRkZaWHhn?oc=5",
       "fecha": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
