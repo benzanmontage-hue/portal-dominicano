@@ -1,37 +1,58 @@
 {
-  "updated": "2026-10-04T14:00:39.068216-04:00",
-  "hora": "14:00",
+  "updated": "2026-10-04T17:00:40.928099-04:00",
+  "hora": "17:00",
   "fecha": "04/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "brewers - padres",
+      "trafico": "500+",
+      "noticia": "Padres-Brewers NLDS Game 1: LIVE on FS1/FOX One",
+      "enlace": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-u8f7cD4TXNzMkNEPbfQRgvZFHHX02wMsE6MdmsOVgx-PGNwerSkpi-WymIM"
+    },
+    {
+      "termino": "portugal – norvège",
+      "trafico": "500+",
+      "noticia": "Portugal - Norvège en direct - Ligue des Nations : Football Scores   Résultats - 04/10/2026",
+      "enlace": "https://www.eurosport.fr/football/ligue-des-nations/2026-2027/live-portugal-norvege_mtc20005931/live.shtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQadvrPp5JwMMS6vg1g3ltr77IMzYiyvlzGOnRr69IGxwBLPXnK9wgmhsiU-1A"
+    },
+    {
+      "termino": "portugal - noruega",
+      "trafico": "2000+",
+      "noticia": "Portugal-Noruega: equipa das quinas procura fechar apuramento",
+      "enlace": "https://www.abola.pt/futebol/jogo/portugal-noruega-8394780/liveblog",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9BpEgG9ASSjYXPuu_LoZ9hXabIox3nxSn2_DU94G4vOEsz2DDJom-_NKIv8"
+    },
+    {
       "termino": "alerta meteorológica",
-      "trafico": "200+",
-      "noticia": "Vaguada desata aguaceros fuertes este sábado; mantienen 14 provincias en alerta",
-      "enlace": "https://listindiario.com/la-republica/20261003/vaguada-desata-aguaceros-fuertes-sabado-mantienen-14-provincias-alerta_924747.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1kAZl0aH-8eoz0PBLN_o3J8rNc_2hCkr6p8rtxmp6QyLmE83iPO66h1EZ1es"
+      "trafico": "500+",
+      "noticia": "Más de medio país está en alerta verde por efectos de una vaguada",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261004/mas-medio-pais-esta-alerta-verde-efectos-vaguada_924773.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FoeRMz0Gea-uXPtWZPC0NyemK0APZuk9L9B4we08fc313OiqgUJ69LQLSVg"
     },
     {
       "termino": "la primera",
       "trafico": "1000+",
-      "noticia": "Me recuerda muchos de los dolores que pasé : la dura confesión de Nadal al volver a una cancha de tenis",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17332363/me-recuerda-muchos-de-los-dolores-que-pase-la-dura-confesion-de-nadal-al-volver-a-una-cancha-de-tenis-academia-evento",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcAU_Ro71EkZZyWn5jCMfRjeVfBKxXsxM1ZwkL0vBmP6IjEifZQD3mRH_9h4M"
+      "noticia": "UNEV e INCAI celebran graduación de la primera promoción del Diplomado en Sanidad Interior y Liderazgo",
+      "enlace": "https://ultimasnoticias.com.do/2026/10/02/unev-e-incai-celebran-graduacion-de-la-primera-promocion-del-diplomado-en-sanidad-interior-y-liderazgo/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShIWwEBHJxdxSp3_wuoTw14tAfhDUJzkgl9JMdYsxaFZ6sE-RzqEJPWe5nRY4"
     },
     {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "Sécheresse historique des sols : une seule journée de pluie enregistrée à l’échelle de la France depuis le 1er septembre",
-      "enlace": "https://lannion-perros.maville.com/actu/actudet_-secheresse-historique-des-sols-une-seule-journee-de-pluie-enregistree-a-l-echelle-de-la-france-depuis-le-1er-septembre_-7490807_actu.Htm",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6_fycaY72WcIOCvoxeeyyzR9mejLZ8c51WHCqGGmSQJQ0bu5811Y0yC5dwCA"
+      "noticia": "Tendance météo à 4 semaines : vers un temps globalement calme et de saison pour les vacances de Toussaint",
+      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-vers-un-temps-globalement-calme-et-de-saison-pour-les-vacances-de-toussaint-71369",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZvm9UztF387MDll3R1VhzfViRMqgblGbum5Z2W3Q-4oehSf7-v08MCrIRPA"
     },
     {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "What is the weather forecast for the Bahrain Grand Prix?",
-      "enlace": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-bahrain-grand-prix-in-malaysia.5OZ23exBdO608dxwkDLrad",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjv7LIag3KKyO5u-UAi3I-jlFFkA2L0GjvhOJ-c0ZGRSE0aOhFH71a-GFtgzU"
+      "noticia": "F1 marshal goes viral in delayed Bahrain GP - and the memes write themselves",
+      "enlace": "https://www.indy100.com/sport/f1-bahrain-gp-malaysia-delay-marshal-photo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkOTe6TxZngRya68irQXsK7vLwLZmoCGGlv6YByzQw0aYcNizrLnnbV0s8B4w"
     },
     {
       "termino": "estados unidos - méxico",
@@ -43,37 +64,16 @@
     {
       "termino": "brewers - padres",
       "trafico": "2000+",
-      "noticia": "MLB Gameday: Padres 2, Brewers 3 Resultado Final (03/10/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/padres-vs-brewers/2026/10/03/849830/final/box",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjBwAp1O5l4l1RTmKVN4FaXKfu2eXzSxL0R8BU6AtXOicID1pplVc998gxxsA"
+      "noticia": "MLB Gameday: Yankees 0, Rays 1 Resultado Final (03/10/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/yankees-vs-rays/2026/10/03/849835/final/box",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbONSHm49L1ycN6cDah0gn6PghRnmdkMppdhpDmi5f0UvIqWc3Gg-hFDIC-_s"
     },
     {
       "termino": "argentine – burkina faso",
       "trafico": "1000+",
-      "noticia": "Un nouveau  match honteux  pour l Argentine ? Après le Burkina Faso, le Bénin connaît lui aussi une préparation chaotique",
-      "enlace": "https://rmcsport.bfmtv.com/football/matchs-amicaux/un-nouveau-match-honteux-pour-l-argentine-apres-le-burkina-faso-le-benin-connait-lui-aussi-une-preparation-chaotique_AV-202610040264.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzEQVZRyH4X3LrbBHoh7FZMDFwvaWV7hxePhEom8hB6xKILoKnduLCEl3EW_s"
-    },
-    {
-      "termino": "nba",
-      "trafico": "1000+",
-      "noticia": "Sources: NBA reviewing bids from three finalists for Vegas team",
-      "enlace": "https://www.espn.com/nba/story/_/id/50060732/nba-reviewing-finalists-bids-vegas-team-12-13b",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGkQZ5jWn532RNnm2sQBX_NhqpXbFD2xdL30YHfTqfUyQjAOc2xl_maopioX0"
-    },
-    {
-      "termino": "auditoría",
-      "trafico": "200+",
-      "noticia": "Auditoría a la DGM indica 150 vehículos no localizados compras sin plan por RD$ 553 millones",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/03/auditoria-a-migracion-detecta-150-vehiculos-no-localizados/3677943",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43U4AIaM3PAbCIoMG3B4OvMCNRciZkLMkW5F4f04HXU3_ljpJyx0jlU7U4zk"
-    },
-    {
-      "termino": "argentina - burkina faso",
-      "trafico": "5000+",
-      "noticia": "Argentina score 7 past makeshift Burkina Faso after travel woes",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50097420/argentina-burkina-faso-friendly-lautaro-martinez",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9EL1PLKKkZpqr9nvPELeq07h6gLJv8hbGXkoKr1fETcPdryxqNorn9yCdtf8"
+      "noticia": "Désistement des A et arrivée tardive des U23, l improbable déplacement du Burkina Faso en Argentine : « Je me fichais de savoir si ça prendrait 30 heures ou plus, je voulais venir »",
+      "enlace": "https://www.lequipe.fr/Football/Actualites/Desistement-des-a-et-arrivee-tardive-des-u23-l-improbable-deplacement-du-burkina-faso-en-argentine-je-me-fichais-de-savoir-si-ca-prendrait-30-heures-ou-plus-je-voulais-venir/1723334",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ25VkcqXpNc1kuBZCmtWJndAzJ_G5S3sknMdkCEdYUFChp2pvCV-MqXbDDkA0"
     }
   ]
 }
