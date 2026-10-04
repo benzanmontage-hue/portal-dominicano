@@ -1,27 +1,48 @@
 {
-  "updated": "2026-10-03T20:00:28.739692-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-03T23:00:29.811997-04:00",
+  "hora": "23:00",
   "fecha": "03/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nba",
+      "termino": "estados unidos - méxico",
       "trafico": "200+",
-      "noticia": "NBA PRESEASON GAMETHREAD: Miami Heat (0-0) vs Toronto Raptors (0-0)",
-      "enlace": "https://hothothoops.com/2026/10/03/nba-preseason-gamethread-miami-heat-0-0-vs-toronto-raptors-0-0/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-El6tLfjDS1PHCavKNzWrYUKMo8K6nHNnRHQpdUNosxDGXbcStlwc8p27U5w"
+      "noticia": "EN VIVO: Sigue USA vs México, el clásico de la Concacaf",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17326372/estados-unidos-vs-mexico-en-vivo-el-clasico-concacaf",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhVw0Rf0rV03bdfZB5L-4fHMWQJiQMDxBFbqaAYptNMIZ0p5ekCHFC7ZjrtXk"
+    },
+    {
+      "termino": "brewers - padres",
+      "trafico": "2000+",
+      "noticia": "Chicago State vs. Tarleton State (Oct 3, 2026) Live Score",
+      "enlace": "https://www.espn.com/college-football/game?gameId=401867688",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3Zbs6Wrum2yA-DVdZGbzgC59gUqzmNaleJyB1KHoH0vngqdQWJSc-Nyr5LI"
+    },
+    {
+      "termino": "argentine – burkina faso",
+      "trafico": "1000+",
+      "noticia": "Vols annulés, match à jouer à la descente de l avion... Pourquoi le Burkina va défier l’Argentine avec ses U23",
+      "enlace": "https://rmcsport.bfmtv.com/football/vols-annules-match-a-jouer-a-la-descente-de-l-avion-pourquoi-le-burkina-va-defier-l-argentine-avec-ses-u23_AV-202610030306.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStdIa2A5XpAbR1JmHgAXy8fBEWm6VnZqdpQ2mSwen8dmDLGflgddYz5GoQpxg"
+    },
+    {
+      "termino": "nba",
+      "trafico": "1000+",
+      "noticia": "Giannis Antetokounmpo expected to debut for Miami in preseason opener",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/03/giannis-antetokounmpo-expected-to-debut-for-miami-in-preseason-opener/92082332007/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHu5_1yezBBmG1PYYcFrq9S9_QcgUZOyHpWg3znCygt_lfGkO98xNxN60Qukc"
     },
     {
       "termino": "auditoría",
       "trafico": "200+",
-      "noticia": "Contraloría comienza a publicar auditorías de instituciones públicas",
-      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/10/02/contraloria-general-republica-publica-auditorias-de-instituciones/3677217",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvqeWXRBCaURWkHwVZT5CJfQT6vA29sCVEyJNMgnbdD5XZ7GR4-btpBM6QBJs"
+      "noticia": "Auditoría a la DGM indica 150 vehículos no localizados compras sin plan por RD$ 553 millones",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/03/auditoria-a-migracion-detecta-150-vehiculos-no-localizados/3677943",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43U4AIaM3PAbCIoMG3B4OvMCNRciZkLMkW5F4f04HXU3_ljpJyx0jlU7U4zk"
     },
     {
       "termino": "argentina - burkina faso",
-      "trafico": "500+",
+      "trafico": "5000+",
       "noticia": "Why isn t Lionel Messi playing for Argentina against Burkina Faso?",
       "enlace": "https://www.usatoday.com/story/sports/soccer/2026/10/03/lionel-messi-argentina-burkina-faso-farewell-match-international-retirement/92055665007/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9G8y7bsARwmX5t8ULgl2hkZhMZ1Ehydsg0RORJuoU8wW8E_AEvhGSxxA_TRo"
@@ -29,51 +50,30 @@
     {
       "termino": "rays - yankees",
       "trafico": "2000+",
-      "noticia": "Lingering calf injury keeps Judge off ALDS roster",
-      "enlace": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsFD8tx4jn9RSCMorE0o6TO32cuXRy5Rp7FzdfwDK719fitAt0Cr8ViprCWr8"
+      "noticia": "Yankees-Rays ALDS Game 1 (LIVE on TBS/HBO Max)",
+      "enlace": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2GRWCpkP8uFzy3BTwsUPXvFjwLVmWKWMw2FZmLpRKrHewKseWcpiI53Pspnw"
     },
     {
       "termino": "haití",
       "trafico": "500+",
-      "noticia": "Omar Fernández responde a Wilson Isidor: “Haití es Haití y República Dominicana es República Dominicana”",
-      "enlace": "https://www.diariolibre.com/politica/general/2026/10/02/omar-fernandez-responde-a-declaraciones-sobre-la-hispaniola/3677310",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXx7vK3Ftq5zCHjshuEuBtmZhWsmIei9QSnZ45qGPIavGSjWlXTZnjFlGyNQ"
+      "noticia": "Haití se desmarca de Wilson Isidor: embajada afirma respeto a la soberanía dominicana",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/03/goleada-haiti-republica-dominicana-y-declaraciones-polemicas/3677965",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbQonanvSDukKoKN4ax1ZlA3GI5K-2JiitUWLCBVgSc3II6fLs8aXWsJNnK0"
     },
     {
       "termino": "teoscar hernández",
       "trafico": "200+",
-      "noticia": "2026 MLB division series Day 1: Live updates, lineups, analysis",
-      "enlace": "https://www.espn.com/mlb/story/_/id/50090503/2026-mlb-division-series-day-1-updates-lineups-analysis",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTODVNU49XVC_sDghvPfeiPCv74viy9N8jW0aETjxcv_KDAEYtK6jryd3mG6fI"
-    },
-    {
-      "termino": "lamine yamal",
-      "trafico": "200+",
-      "noticia": "Josko Gvardiol makes honest Lamine Yamal admission after Croatia suffers heavy defeat to Spain",
-      "enlace": "https://www.goal.com/en/lists/josko-gvardiol-lamine-yamal-croatia-spain/blta8e0d60ea5d85ac1",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmOHxRMZPfxfX4T55yaHZmlweEppFD6C_J40AFWEMiZ7va0MyBjwf0VnDe0w"
+      "noticia": "A deep dive into Kyle Tucker s home run",
+      "enlace": "https://www.mlb.com/dodgers/video/a-deep-dive-into-kyle-tucker-s-home-run-x7831",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP175rS6UaX9l-VBfWdo81YVATgXrzDmAdppLC7kNomO1UKx27xbBWkDK8ORA"
     },
     {
       "termino": "dodgers - braves",
       "trafico": "2000+",
-      "noticia": "Braves vs. Dodgers (Oct 3, 2026) Live Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908007/braves-dodgers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3L4bbAdxRKLMjTqtYnSncwqjFq0_emIKms71uyOodlE48I3LXlLUAz16MXg"
-    },
-    {
-      "termino": "espagne – tchéquie",
-      "trafico": "500+",
-      "noticia": "Espagne : le bijou de Lamine Yamal contre la République Tchèque",
-      "enlace": "https://www.footmercato.net/a6449216828268599586-espagne-le-bijou-de-lamine-yamal-contre-la-republique-tcheque",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX9ujXOo8Ia6AV0gzx-sdHCnBok2d7zlEHUeOGJENRCunk3W0X34CTaY9XevQ"
-    },
-    {
-      "termino": "spain vs czechia",
-      "trafico": "500+",
-      "noticia": "Spain 3-1 Czechia: World champions still perfect as Krejci red card halts fightback",
-      "enlace": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/spain-3-1-czechia-world-champions-still-perfect-as-krejci-red-card-halts-fightback-2026-10-03",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9U7ub2jlPNilktXeoxHjK7DQByCIl5gpajI-6jIS6gHwwgwr_BGQ80GYvOPk"
+      "noticia": "Sale in play for Game 2 start? Braves  plans after Game 1 up in the air",
+      "enlace": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6X7DaifiFLhqogaPiT1NZE9ELY3q9dgv03v5iTuFTabKrnlFOnTipEmzFRWY"
     }
   ]
 }

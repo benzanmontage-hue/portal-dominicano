@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-03T20:00:35.554132-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-03T23:00:31.895411-04:00",
+  "hora": "23:00",
   "fecha": "03/10/2026",
-  "fuente_updated": "Sat, 03 Oct 2026 00:02:32 +0000",
+  "fuente_updated": "Sun, 04 Oct 2026 00:02:32 +0000",
   "dop_por_usd": 59.59,
   "conversiones": [
     {
@@ -50,8 +50,8 @@
       "codigo": "GBP",
       "bandera": "🇬🇧",
       "a": "DOP",
-      "valor": 78.79,
-      "texto": "1 GBP = 78.79 DOP"
+      "valor": 78.78,
+      "texto": "1 GBP = 78.78 DOP"
     },
     {
       "moneda": "Peso colombiano (COP)",
