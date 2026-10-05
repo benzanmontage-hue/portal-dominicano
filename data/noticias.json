@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T08:00:52.620989-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-05T11:01:04.108820-04:00",
+  "hora": "11:01",
   "fecha": "05/10/2026",
   "total": 15,
   "noticias": [
@@ -10,7 +10,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzdMSHQ4cmxGSGx5Vng2SjR5OVR0M3dMU05JLXhGVXc4dF9DSkdfZTlHRjZhVUl2MF9yZkEySXB5UDJYLWFrWXhpM1lTTF9UakFLaUxCVDdjUXhGUTNQdmYzQTFERDRiNzFyMFZqclQwR2RURnVSekdNWWNVRUh6RzhsbU9YYVlKamZXZzVpTklscTNYaGZJaUJYTktZUGpqLUhFaHNsTGE1TVA1WG9jZWhLTFZsNkNJeDhKNdIBwgFBVV95cUxNV2RfZEY1VzNBWkVKbHpTMFpMeDM5TmxyVUgwVnIyMFlYY21rbnFOdC1ibE02MjVFblgxdjRpQzNkV3dKeEd6ZG9ESmNKYU1EQ21weWo5OEhjVnNYdlh5RE1tYnBtLXFucXlYMVBJT3pBdEwwWTZEcEJzQkRpWmhEeEJuc2ZVdkdHSVF5NVczM3Y2cVFVVkJfRExMMVhLZzEwdS03Ymx2TFZtZWxXU19lZXE2WEE5MUVGRWNaSmYzOG02Zw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 03:11:49 GMT",
-      "imagen": ""
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/10/04/6ac3153fe440d.jpeg"
     },
     {
       "titulo": "República Dominicana vence a China en Mundial Beisbol U-15 - AlMomento.net",
@@ -29,6 +29,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Los dominicanos reclutados con engaños por Rusia para luchar contra Ucrania - France 24",
+      "fuente": "France 24",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1FjZllqNXBZN2Zqb3ZNeWlURUFYeWhQbXZLSFVmODJzUjdTazZGd3JLVkNZUFhSTXNjSW9iSEZEVGJ6eWhiY0RZOElqVVdBWk8tNERhVlBZRWFWLWx6d3QxajF5RjZBRTVkU0phSjVvV0xhWGZ3b1AtYkxBZkNNNzkwODZadDh4d2QwUHRYQUtxSHp6X0hDaEExb2tnZUdad0NaeHRRbUFuWFB5VTlUZ3gxNUp6eDVreGI2a1h2bk0zTDgzTEN2UWd2WV9PZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 14:34:50 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Nicaragua vs. República Dominicana (4 de Oct., 2026) Resultados en Vivo - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOGo5aWFYdkZyQWhvS0JBWFVXVEJCVVV4MkxOcm5OM21sQVNINnExTE5Rdlk3ZWtXb3ZSa0xfXzNxb3NvdmtxR1lTZHpEWGsycVV4cS1vd3hJZnZPa2t2LW9rZVpIbmxkUUctSjZjZFNNQQ?oc=5",
@@ -37,20 +45,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Haití prohíbe que mercancías de terceros países pasen por República Dominicana - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXZWME1vSkNYUTFDUFRUNVlwSTNieS1sZnBSamlENjdQajFLZTVxcm5RYXBTTURBSERvTEh3cXVKOXo3RmJVT05hNEk3dEEzNy1rTWZobVhzX21uUFlLSjEwNC1YMG5fRUtjdXFHYXltZHdiYU5lanFKcG9aczRQY2dTeUw3WDVXOGtHbmlKd1B0TUEwd2lnMkhiN2FMTlgzM1poN0xpX3c2ekF6bEFITWRnb0R0SVBaQWFJdVVyck9FcnZzeVZNX9IBzgFBVV95cUxOTlFPZ2hXanJ6SDNEV2xvcUtla19LOHlyXzQwOGZSTnNSWFJ5Y3BJTmRYeTdoa3ZjbUphSHpCMFd1aFpkRWtoSnJvX0gzQUVyZ3dXdGNjRlI0eGxjdElMR29KUkZjVVRvRnQ3bTN1czFzWEdZaFZsZ0M0Y1V4cF9wLXhaQ0JKSTdlYmhmT2k1bVhydndpXzJFUnViWnU3blBkdnZCd1RwMkZRZzZoRy1pTmg2T0Z1ZzJKX0MzT0RjSkZIS29jOHhmYnVpeXUtZw?oc=5",
+      "titulo": "Kelvin Cruz dice que jugadores haitianos deben pedir perdón a República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRkoxMEZiMXZESTFXYXZuR0pGVWdnWm85M0RPUEphZ1JsSENKeEQwOHdwMmM4ejlhYlJnRktkdzJrdlhrYTFjMUxDQTBaVkhKNW9rTmtxb2R5ckoyZU9MVkFWdnVJeGE1b19wOER5V1BzWjdSUTNhVHpVdXNEMHplNG4taU1uNlZYQXpVamxkSkFOS3NOS1JybmFYdlBrSGxRVTlCSGJZWFY0enBQMVNCU01wZ0J0Q2JUQmJrUGo4YUI2Q0NjQU5LSjdIbDl1cGRKazdUM24tVdIB3AFBVV95cUxQbllfaVZ5MnRDNC1iQlZlYkM4QVNxSkNZX0J4LTFyLTE3RG9kSzVpTVBZeTZmcnNESHRQNUpzZ1BMNnFTejhQNjQ3czRQTUVYSnpOQ3YwampMbGZ0Yi1TRGd4aUpHT09SdjRQM2tITjZTeTEzalNBaFJOeUl1LUhuMWp2Q2htZUUwVVF1TEVmdE5TZGZQUm5LRHlJQTJHTnFPNkRTbjNuSUJrd2tUN3V4ZlFJOXpuMUJaNlZvQ2x5T2RJelc5UWdMaDNlbmhfOHp2QVlOSnYzcVcydnJF?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 01:23:00 GMT",
-      "imagen": ""
+      "fecha": "Mon, 05 Oct 2026 04:01:51 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/07/15/6a580e63f1f74.jpeg"
     },
     {
-      "titulo": "República Dominicana cierra su embajada en Nicaragua - RFI",
-      "fuente": "RFI",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzFpNG5KTHUzQmx0SjFScHVXb1ktelQxTEh3Z0xCMHBvZ0hCR0txZHZJSl92R3FyRVZiSFh0ZGo4SHJVdnprU0Fhb3JJWGZoQlBwOXFKRzQxYms3cnBuLTRHV2FUNXNfWGZ5ajljTlBYOXVZUVBCY0oyNE45WFIyelJmcDZkejQ3QmdzeUVPZEQ4U3dabTcxRU9MNWhfWUlnUmUtU09neGowQQ?oc=5",
+      "titulo": "Mariano, como una estrella del rock en República Dominicana: a besos con una fan - MARCA",
+      "fuente": "MARCA",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzlPR0M1SEdGb3N0SXRnX2hPVFRwVGFxaTdPVklQRkozQldURW9pME9jQ0ZKa01uS2V4bTlqZ05ia1ZDelRYbWtOc000X01KM0VyM0xHclVJSzRxYllyZWo0bnlDTGJ4bHVPRFZOZ2NLS21qNl9SMkV5NkgzOXBuTUo2Z1JGVER6enRaTXZnU21jT0otRk5kM1F2Nkg0dGJIOGJFQk9wUdIBpwFBVV95cUxNNlZTM2RuSkdFbG1BZTdkVEVkeFNOZk45RGhPM3VIV1ROSHRvOUw4bjVvVldvUzRTcFBGMzk3SVY2S2JwcVl2bTF4N1pvRUFUbmJ6N29Jc1M0WmlwajJpSVhrNmxxVlJBV3Q2OUNPUVA5MzNDNzh3djNwTlhPbm9uekVkeFRlYlpvMnZ1bms1U0k4NnpOQkNZVFlIODhaLVQ2SkpjUDBDOA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 09:24:59 GMT",
-      "imagen": ""
+      "fecha": "Mon, 05 Oct 2026 07:03:14 GMT",
+      "imagen": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/05/U1gmqjhHhRRwp.jpeg"
     },
     {
       "titulo": "Nicaragua vs República Dominicana | Resumen - Concacaf | Official Website",
@@ -58,7 +66,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3A4cFYzcnVhVEpKVzhBdmpSTXVBN0J5Q2phVzVobm4yVFJLMkVYaFp5V2UyeWFVQjJNVDdCc3c1M2toYVNPc3FRS3hBT3RHbE9DaF83NG5zUnZGU2NwWVEwYlVuS0VMRndfb1ZVMk5WdGJYLWlfY1FZMVdmWFM3WFJSOFpfS2FKSWR3ckJRWjNsdkpHRUJfWDZkMk9DSlllVU9N?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 04:47:00 GMT",
-      "imagen": ""
+      "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/jk6kecugettzocpekeeh"
+    },
+    {
+      "titulo": "República Dominicana cierra su embajada en Nicaragua - RFI",
+      "fuente": "RFI",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzFpNG5KTHUzQmx0SjFScHVXb1ktelQxTEh3Z0xCMHBvZ0hCR0txZHZJSl92R3FyRVZiSFh0ZGo4SHJVdnprU0Fhb3JJWGZoQlBwOXFKRzQxYms3cnBuLTRHV2FUNXNfWGZ5ajljTlBYOXVZUVBCY0oyNE45WFIyelJmcDZkejQ3QmdzeUVPZEQ4U3dabTcxRU9MNWhfWUlnUmUtU09neGowQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 09:24:59 GMT",
+      "imagen": "https://s.rfi.fr/media/display/a206aae6-c09e-11f1-9db2-69fad0a7cb9f/w:1280/p:16x9/fed257c4e9bbbca0d90e13001bc6d15b6c3eaa75.jpg"
     },
     {
       "titulo": "Panamá y República Dominicana firman acuerdo para impulsar coproducciones cinematográficas - Yahoo en Español Vida y Estilo",
@@ -66,14 +82,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3BQX0w0RnVORkNHb2hBU3FBQTVySlA1M2l3U2pHNF9tV0JzUUlRU1hNSEhXUkxIRDluc3YyTktPdDRpTUtScC04VzU2NkRmY1U2ZWtRUGMzMHBWeV9nd2hEX2JCNHBvcHVldnVMMFhHMURESUhZV3J4UDdqRnZSU1hQWWwtRTJ5SHowRlU0Wko5NHlsMFpNWG5uV1Rkb2RHUTlkc0Rn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 03 Oct 2026 22:39:14 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/a31425362e2255a58657a50f25cc236a9f5724f33c7359b407f202efad6f6b8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F73f95e53e2dbe91b561bf02c5960572f.jpg"
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este lunes 5 de octubre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmdLbkIwSGIycmctNDJvLWZ3UmYxaVZlZnVoSzMyNHkyb2dBZTFJVU9LWmxWSG8zUTIyd1RaYkRweGN3ZmQ4cnEzTDVmTGZGMXFpY1laa09hQXU0QVdPeklTYkVvamY0RTVBZ2dmZkdWVmkyOHM1NHZ6blBWQmtNel9wSXZXRjU3S2VlakpZYS10UFpnVEIxTko3MEtQdHg4SG9nSXFKdXhZMnEyYjhFQnBBNUg4OHF6aUVaa08xRmhhSVlFaVJtT1lSSVpsNXlSNENPVVJPTHdMdWxkTkt6VHZn0gHnAUFVX3lxTE5ialp5MUJkZ0lmT3hOcHV2LWJPYnQ3cUoxQ2oxTFBNcVNsd21hT3FSMWx3US1WUWZ1eTBPYXNLR1hIa3psYjd2MjBnRk5felBiM1hmUTV3TXBFYlBCR0h4V0FuRWNQY2psM0xScS1BZmtvZlNSekNZNG5YMW1xNWN5TDVieXFSelhRR1VwOVMzT2JMR1JJbU9GdjYwTV9xUlNUdEVIVWMyWFVJbmhpR0ZJeDY5eGVveENuWXpkcldSRXdEb2ZQTnZHa1pxdnZqWUdsbWdLMW1oRlVBWGVyM3plMmppSmdJMA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 10:40:08 GMT",
       "imagen": ""
     },
     {
@@ -85,19 +93,11 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana intercepta dos embarcaciones con 749 paquetes de cocaína en operativo con la DEA - Diario Las Américas",
-      "fuente": "Diario Las Américas",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlVLdGM3QTFseWc2RU1oYzFPRW5IVmpjUk4waktVNktoVlYwd2xTZGJCbXVXaEpRblM5M2tLZzdEb2YzSDZPdkQ1MG5SaGVGb004OU13SmxUcmNLaGstMDRwNkJmRC1TR2g2T09lNWxXLTd4WUktaTgxM1otai1RNHNNdGVPazFaWnp4aGdZR20tYlJ4TGhCbnV3X01RUDdQSldHNElZSzFlMUxQVEF6RzdaWENpYUw2ZTFMbjYzZ2k3NllBakxuOUw5R3ZyMWZFLUo0VlIwTjNZa3g1OUHSAeMBQVVfeXFMUFBIaVpwYk13Z1podEdockQ1b1NBcVBNbjJMcnhacVJzV0xuX0YzaUoxX2xXWUMzYmhTaFhtakpGbGJLQ1MwTGp3LUh2TXhRTGRobHJDOUR5MHBkeWlLN2pOQzRDU0pUT3p6NXh2dXNtclhUREY1NDRGNGRveHRjenFhek11TE5YT1FvREx6UnZBNGRNT0VpNWJnWGt4R1BydTNZZHJSODV4ZlljdTdPd1F3ZFVXeHJqdEx2ZVE3TXFMQWJUazY2U0hNWVNkTkFYZGFIcE9DbTRYWlA0S0pmcXB5M2M?oc=5",
+      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este lunes 5 de octubre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmdLbkIwSGIycmctNDJvLWZ3UmYxaVZlZnVoSzMyNHkyb2dBZTFJVU9LWmxWSG8zUTIyd1RaYkRweGN3ZmQ4cnEzTDVmTGZGMXFpY1laa09hQXU0QVdPeklTYkVvamY0RTVBZ2dmZkdWVmkyOHM1NHZ6blBWQmtNel9wSXZXRjU3S2VlakpZYS10UFpnVEIxTko3MEtQdHg4SG9nSXFKdXhZMnEyYjhFQnBBNUg4OHF6aUVaa08xRmhhSVlFaVJtT1lSSVpsNXlSNENPVVJPTHdMdWxkTkt6VHZn0gHnAUFVX3lxTE5ialp5MUJkZ0lmT3hOcHV2LWJPYnQ3cUoxQ2oxTFBNcVNsd21hT3FSMWx3US1WUWZ1eTBPYXNLR1hIa3psYjd2MjBnRk5felBiM1hmUTV3TXBFYlBCR0h4V0FuRWNQY2psM0xScS1BZmtvZlNSekNZNG5YMW1xNWN5TDVieXFSelhRR1VwOVMzT2JMR1JJbU9GdjYwTV9xUlNUdEVIVWMyWFVJbmhpR0ZJeDY5eGVveENuWXpkcldSRXdEb2ZQTnZHa1pxdnZqWUdsbWdLMW1oRlVBWGVyM3plMmppSmdJMA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 04 Oct 2026 22:34:00 GMT",
-      "imagen": "https://media.diariolasamericas.com/p/ef473109b42a29e7ded1b1b1ed823516/adjuntos/216/imagenes/100/282/0100282433/1200x630/smart/decomiso-droga-republica-dominicana.jpg"
-    },
-    {
-      "titulo": "PANAMÁ: Presidente CONEP expone transformación RD - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02RVZERk93c09xRVhYRTRubjRJRy1YQkc5a1JXdHJWNF9QNzFCcGhFTXEwSGpmcVN2UEpTS2JmSmtSNnNQUkxjUDN3cW9IUEszODczbVlSd2xNZ3M0VHF3VlE4WW82cmdZRGpDeno3WEVuTVFNczBFU0tlOA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 11:02:10 GMT",
+      "fecha": "Mon, 05 Oct 2026 10:40:08 GMT",
       "imagen": ""
     },
     {
@@ -117,8 +117,8 @@
       "imagen": ""
     },
     {
-      "titulo": "Nicaragua sufre una remontada ante República Dominicana y pierde la categoría - Claro Sports",
-      "fuente": "Claro Sports",
+      "titulo": "Nicaragua sufre una remontada ante República Dominicana y pierde la categoría - clarosports.com",
+      "fuente": "clarosports.com",
       "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPM2pHSkFQbmlyY2gzaWRrZTl3aU1MOXU0MWVyU2VvbjlCZHVYazM4MzhqenJEa1JxSGNiV2U4VE9JQVN2WVlNa3d2UGd1d0tIdngzeUQ2T2M3c2FOUzJONWNnUzBNYmR0RTdkYWZHU09TOFhySE5ROElTUjNFWWsybDdvYUZJeHp1ZGxVd1l3Qjh2b01acWV0ckxDZmNKSmhGMVJMWndxVzVxZlVDR2VyclhVTU5sczZQa3BEcFYxbjF0QnZESzVXMV9IMVUxaTlxVXdiV1FiZjBGNy1RMF9Kd1NYQ2V5SGc5RkkwQlVfdWpjZ0N5RVpITW83MDdkcVZxS2NkSnEtd0pYWVBlUmlkMQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 04 Oct 2026 23:24:14 GMT",

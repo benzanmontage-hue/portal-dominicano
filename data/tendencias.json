@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-05T08:00:49.974003-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-05T11:00:51.508814-04:00",
+  "hora": "11:00",
   "fecha": "05/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "banco popular",
+      "trafico": "200+",
+      "noticia": "La cartera hipotecaria del Popular alcanzó los RD$87,700 millones en 2025",
+      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/10/04/creditos-hipotecarios-del-popular-alcanzaron-rd87700-mm-en-2025/3678341",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApOtp06z8qFlzRwoxid-Kx-qvNfMkVKu_ZSut_j1oxlE2EzHiIbkgvI_6ZDg"
+    },
+    {
+      "termino": "listin diario",
+      "trafico": "500+",
+      "noticia": "Listín Diario 05-10-2026",
+      "enlace": "https://listindiario.com/edicion-impresa/20261005/listin-diario-05-10-2026_924854.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlJaczjxCXbMpMG7G22H3k8BWygQd-bWXBP-qBnHLgTuW3apRRg-natsL6Y"
+    },
     {
       "termino": "haití",
       "trafico": "200+",
@@ -36,9 +50,9 @@
     {
       "termino": "lula",
       "trafico": "200+",
-      "noticia": "Flávio e Lula vão ao segundo turno, e eleição presidencial será decidida dia 25 de outubro",
-      "enlace": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-e-lula-vao-ao-segundo-turno-e-eleicao-presidencial-sera-decidida-dia-25-de-outubro.ghtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8jHmhpOCz8f_GEoJ_XkAaSiptPA2tA-wmdVqgxZWkzzeRrEF7oTjO_ydtLI"
+      "noticia": "Disputa na Amazônia ignora floresta em pé, e candidatos defendem abertura de áreas e grandes obras",
+      "enlace": "https://www1.folha.uol.com.br/poder/2026/10/disputa-na-amazonia-ignora-floresta-em-pe-e-candidatos-defendem-abertura-de-areas-e-grandes-obras.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9tQ2sNrEovR0npJ2mcg1B9Vvl3T9GZHhAdQSIJX_b2XilRjRqAXWW7jGroGo"
     },
     {
       "termino": "costa rica – haïti",
@@ -50,30 +64,16 @@
     {
       "termino": "costa rica - haití",
       "trafico": "5000+",
-      "noticia": "Siga aquí el partido entre Costa Rica y Haití",
-      "enlace": "https://www.teletica.com/la-sele/siga-aqui-el-partido-entre-costa-rica-y-haiti_418516",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFXTi8eCCuqCsxFAu1LJvKKiju1f3LHB6GCEHM7pmclTkKd_O1dLkM5Dj_jHw"
+      "noticia": "Costa Rica recupera el alma con Bryan Ruiz y somete a Haití",
+      "enlace": "https://espndeportes.espn.com/futbol/costa-rica/nota/_/id/17340000/costa-rica-haiti-resultado-goles-liga-naciones",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVuWQKILcg7ghVbsKoMjmwIchWA0dcdmq26as2y2ymnpcdAHbQPG0ap85uzDM"
     },
     {
       "termino": "flávio bolsonaro",
       "trafico": "1000+",
-      "noticia": "Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração",
-      "enlace": "https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY"
-    },
-    {
-      "termino": "elecciones brasil 2026",
-      "trafico": "1000+",
-      "noticia": "Lula reconoce que el resultado de las elecciones fue inesperado",
-      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/10/04/lula-reconoce-que-el-resultado-en-primera-vuelta-es-inesperado/3678769",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKt5q_MKZcsBsINOYQaryGjMUI-AmDvdfBAea-6OI1ce_DPG1jkb_uTF4Xq7E"
-    },
-    {
-      "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de noruega",
-      "trafico": "500+",
-      "noticia": "Portugal se mantiene perfecto sin Ronaldo en la Liga de Naciones",
-      "enlace": "https://eldia.com.do/portugal-se-mantiene-perfecto-sin-ronaldo-en-la-liga-de-naciones/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMbkRiqWwEEGqboMGml4QEbj4n9U78PWj-QlpiSLkFmPEEDHXg_xi6I0SKyk"
+      "noticia": "Dólar cai abaixo de R$ 5 após resultado do primeiro turno das eleições",
+      "enlace": "https://veja.abril.com.br/economia/dolar-cai-abaixo-de-r-5-apos-resultado-do-primeiro-turno-das-eleicoes/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoNTLuCUUsFdFfnkLSO38EMkYHGC-HH1NMrvA3YBITxW-D3CxvZiVjlfznb-M"
     }
   ]
 }
