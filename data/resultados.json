@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T17:00:36.511359-04:00",
+  "updated": "2026-10-04T20:00:38.100855-04:00",
   "fecha": "04/10/2026",
-  "hora": "17:00",
+  "hora": "20:00",
   "total_juegos": 53,
   "juegos": [
     {
@@ -43,35 +43,35 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "95",
-        "29",
-        "64"
+        "69",
+        "05",
+        "45"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
       "compania": "Loteria Real",
       "juego": "Chance Real",
       "numeros": [
-        "41",
-        "48",
-        "37",
-        "06",
-        "12"
+        "44",
+        "83",
+        "63",
+        "64",
+        "05"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695be"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "94",
-        "20",
-        "12"
+        "91",
+        "74",
+        "53"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -90,12 +90,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool Noche",
       "numeros": [
-        "05",
-        "64",
-        "11",
-        "71"
+        "37",
+        "75",
+        "79",
+        "91"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695cc"
     },
     {
@@ -150,9 +150,9 @@
       "compania": "Loteria Real",
       "juego": "Repartidera Real",
       "numeros": [
-        "16"
+        "99"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695c5"
     },
     {
@@ -267,7 +267,8 @@
       "juego": "Anguila 5:00 PM",
       "numeros": [
         "32",
-        "96"
+        "96",
+        "43"
       ],
       "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a5116f607d516b9c510302f"
@@ -276,22 +277,22 @@
       "compania": "Anguila",
       "juego": "Anguila 6:00 PM",
       "numeros": [
-        "25",
-        "76",
-        "20"
+        "65",
+        "07",
+        "84"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d617"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 7:00 PM",
       "numeros": [
-        "73",
-        "36",
-        "73"
+        "82",
+        "90",
+        "76"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a51185b07d516b9c5104c69"
     },
     {
@@ -309,11 +310,10 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "21",
-        "79",
-        "81"
+        "31",
+        "84"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
     },
     {
@@ -366,12 +366,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 6:00 PM",
       "numeros": [
-        "70",
-        "85",
-        "57",
-        "18"
+        "20",
+        "62",
+        "80",
+        "95"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d629"
     },
     {
@@ -470,9 +470,9 @@
       "compania": "La Primera",
       "juego": "El Quinielón Noche",
       "numeros": [
-        "77"
+        "86"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5d8"
     },
     {
@@ -490,25 +490,25 @@
       "compania": "La Primera",
       "juego": "Loto 5",
       "numeros": [
-        "37",
-        "03",
+        "14",
+        "21",
         "06",
-        "23",
-        "28",
-        "06"
+        "27",
+        "36",
+        "07"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5cc"
     },
     {
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "53",
-        "16",
-        "64"
+        "55",
+        "73",
+        "63"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c6"
     },
     {
@@ -526,11 +526,11 @@
       "compania": "La Suerte",
       "juego": "La Suerte 18:00",
       "numeros": [
-        "43",
-        "39",
-        "03"
+        "76",
+        "13",
+        "29"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d5e9"
     },
     {
@@ -616,10 +616,10 @@
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "43",
-        "95"
+        "18",
+        "69"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -628,31 +628,31 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "95",
-        "29",
-        "64"
+        "69",
+        "05",
+        "45"
       ],
-      "fecha": "2026-10-03"
+      "fecha": "2026-10-04"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "94",
-        "20",
-        "12"
+        "91",
+        "74",
+        "53"
       ],
-      "fecha": "2026-10-03"
+      "fecha": "2026-10-04"
     },
     {
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "53",
-        "16",
-        "64"
+        "55",
+        "73",
+        "63"
       ],
-      "fecha": "2026-10-03"
+      "fecha": "2026-10-04"
     },
     {
       "compania": "La Suerte",

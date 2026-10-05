@@ -1,30 +1,58 @@
 {
-  "updated": "2026-10-04T17:00:40.928099-04:00",
-  "hora": "17:00",
+  "updated": "2026-10-04T20:00:42.559459-04:00",
+  "hora": "20:00",
   "fecha": "04/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "brewers - padres",
+      "termino": "costa rica - haití",
       "trafico": "500+",
-      "noticia": "Padres-Brewers NLDS Game 1: LIVE on FS1/FOX One",
-      "enlace": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-u8f7cD4TXNzMkNEPbfQRgvZFHHX02wMsE6MdmsOVgx-PGNwerSkpi-WymIM"
+      "noticia": "Bryan Ruiz hace un llamado última hora en Costa Rica: tres refuerzos para enfrentar a Haití",
+      "enlace": "https://futbolcentroamerica.com/noticias/bryan-ruiz-hace-un-llamado-ultima-hora-en-costa-rica-tres-refuerzos-para-enfrentar-a-haiti-aCj1T6N5CTrk",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu3ufT0csuKhDYzAC3HoHIWhlkLvAyu9_6XVVH9Z56qfbnPVYYZv3UD4i6ElY"
+    },
+    {
+      "termino": "flávio bolsonaro",
+      "trafico": "500+",
+      "noticia": "Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração",
+      "enlace": "https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY"
+    },
+    {
+      "termino": "elecciones brasil 2026",
+      "trafico": "500+",
+      "noticia": "Elecciones presidenciales en Brasil, en vivo: votaciones, resultados y más | CNN",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/04/latinoamerica/live-news/brasil-elecciones-presidenciales-en-vivo-resultado-lula-bolsonaro-orix",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYWIypr_sPGh5yPMe_wwJdq9q4GQZp0AFpZxoswZw3ZQiX4WETWMAufHU6hw"
+    },
+    {
+      "termino": "michael king",
+      "trafico": "200+",
+      "noticia": "Fernando Tatis Jr. Went Turbo Mode",
+      "enlace": "https://blogs.fangraphs.com/fernando-tatis-jr-went-turbo-mode/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnV-SNPq3CIt1OnpNkBe5vMao2z_ES0qu2ZyW_lXtoY_NNhfJ__7V3KzyUkf0"
+    },
+    {
+      "termino": "brewers - padres",
+      "trafico": "2000+",
+      "noticia": "Todo lo que debes saber del Juego 2 entre Padres y Cerveceros (En Vivo)",
+      "enlace": "https://www.mlb.com/es/news/todo-lo-que-debes-saber-padres-cerveceros-juego-2",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg7zAifCkAahYJ2gzABnEJhxcaISI6PZUayzMUUZd3lG1yRZlb2yhYjuCGCb0"
     },
     {
       "termino": "portugal – norvège",
       "trafico": "500+",
-      "noticia": "Portugal - Norvège en direct - Ligue des Nations : Football Scores   Résultats - 04/10/2026",
-      "enlace": "https://www.eurosport.fr/football/ligue-des-nations/2026-2027/live-portugal-norvege_mtc20005931/live.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQadvrPp5JwMMS6vg1g3ltr77IMzYiyvlzGOnRr69IGxwBLPXnK9wgmhsiU-1A"
+      "noticia": "Ligue des nations : le Portugal et les Pays-Bas s’imposent, la Grèce neutralise l’Allemagne",
+      "enlace": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-le-portugal-et-les-pays-bas-s-imposent-la-grece-neutralise-l-allemagne-20261004",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpW3j3uOwrlrlIE6kvoDsEa6rV93mB9FKcK3H4ErXKDETVY8ETrdRhHZeIcA0"
     },
     {
       "termino": "portugal - noruega",
       "trafico": "2000+",
-      "noticia": "Portugal-Noruega: equipa das quinas procura fechar apuramento",
-      "enlace": "https://www.abola.pt/futebol/jogo/portugal-noruega-8394780/liveblog",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9BpEgG9ASSjYXPuu_LoZ9hXabIox3nxSn2_DU94G4vOEsz2DDJom-_NKIv8"
+      "noticia": "Vídeo: dois gols de outro mundo! Portugal e Noruega brilham longe dos olhos de Cristiano Ronaldo",
+      "enlace": "https://www.goal.com/br/not%C3%ADcias/video-dois-gols-de-outro-mundo-portugal-e-noruega-brilham-longe-dos-olhos-de-cristiano-ronaldo/blta2b3ae33f57cc8b8",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jMGFjdN76Hqeoihepp12dnyDqPx5GuRJQPjjz40jL5f5fpHnHyowKkxsb0E"
     },
     {
       "termino": "alerta meteorológica",
@@ -36,44 +64,16 @@
     {
       "termino": "la primera",
       "trafico": "1000+",
-      "noticia": "UNEV e INCAI celebran graduación de la primera promoción del Diplomado en Sanidad Interior y Liderazgo",
-      "enlace": "https://ultimasnoticias.com.do/2026/10/02/unev-e-incai-celebran-graduacion-de-la-primera-promocion-del-diplomado-en-sanidad-interior-y-liderazgo/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShIWwEBHJxdxSp3_wuoTw14tAfhDUJzkgl9JMdYsxaFZ6sE-RzqEJPWe5nRY4"
+      "noticia": "Minkah Fitzpatrick logra la primera intercepción de los Jets en 20 partidos",
+      "enlace": "https://lancasteronline.com/lavoz/deportes/minkah-fitzpatrick-logra-la-primera-intercepci-n-de-los-jets-en-20-partidos/article_ebde3484-5c8b-5639-bd02-0655f4fbeb38.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefcHFGru2ogiR8Zicto0n2q4Ig8noRqbMVIw9O69uTowSmrixtan6o0lIg2c"
     },
     {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "Tendance météo à 4 semaines : vers un temps globalement calme et de saison pour les vacances de Toussaint",
-      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-vers-un-temps-globalement-calme-et-de-saison-pour-les-vacances-de-toussaint-71369",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZvm9UztF387MDll3R1VhzfViRMqgblGbum5Z2W3Q-4oehSf7-v08MCrIRPA"
-    },
-    {
-      "termino": "f1",
-      "trafico": "200+",
-      "noticia": "F1 marshal goes viral in delayed Bahrain GP - and the memes write themselves",
-      "enlace": "https://www.indy100.com/sport/f1-bahrain-gp-malaysia-delay-marshal-photo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkOTe6TxZngRya68irQXsK7vLwLZmoCGGlv6YByzQw0aYcNizrLnnbV0s8B4w"
-    },
-    {
-      "termino": "estados unidos - méxico",
-      "trafico": "500+",
-      "noticia": "México pierde ante Estados Unidos en noche trágica de Tala Rangel",
-      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17335810/mexico-vs-estados-unidos-derrota-tala-rangel-errores-rafael-marquez",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpjEHkCGHOcU1ZsneoObVo2D__jh2ODmRS83FYEy7R1b9z_XQdq25fW5wJPqY"
-    },
-    {
-      "termino": "brewers - padres",
-      "trafico": "2000+",
-      "noticia": "MLB Gameday: Yankees 0, Rays 1 Resultado Final (03/10/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/yankees-vs-rays/2026/10/03/849835/final/box",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbONSHm49L1ycN6cDah0gn6PghRnmdkMppdhpDmi5f0UvIqWc3Gg-hFDIC-_s"
-    },
-    {
-      "termino": "argentine – burkina faso",
-      "trafico": "1000+",
-      "noticia": "Désistement des A et arrivée tardive des U23, l improbable déplacement du Burkina Faso en Argentine : « Je me fichais de savoir si ça prendrait 30 heures ou plus, je voulais venir »",
-      "enlace": "https://www.lequipe.fr/Football/Actualites/Desistement-des-a-et-arrivee-tardive-des-u23-l-improbable-deplacement-du-burkina-faso-en-argentine-je-me-fichais-de-savoir-si-ca-prendrait-30-heures-ou-plus-je-voulais-venir/1723334",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ25VkcqXpNc1kuBZCmtWJndAzJ_G5S3sknMdkCEdYUFChp2pvCV-MqXbDDkA0"
+      "noticia": "Météo en Nouvelle-Aquitaine : cette fois, c est la bonne, l automne arrive mercredi !",
+      "enlace": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/meteo-en-nouvelle-aquitaine-cette-fois-c-est-la-bonne-l-automne-arrive-mercredi-3427833.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYbX1-N4-068iRusVq9yl2-KVSDjIf6KJOfg7O4Y7ZfGM5iFdAHf-_GSl-cWY"
     }
   ]
 }
