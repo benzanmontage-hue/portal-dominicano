@@ -1,37 +1,72 @@
 {
-  "updated": "2026-10-04T20:00:42.559459-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-04T23:00:44.360889-04:00",
+  "hora": "23:00",
   "fecha": "04/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nicaragua - república dominicana",
+      "trafico": "1000+",
+      "noticia": "República Dominicana busca frente a Nicaragua resarcirse de la derrota contra Haití",
+      "enlace": "https://listindiario.com/el-deporte/20261003/republica-dominicana-busca-frente-nicaragua-resarcirse-derrota-haiti_924755.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlvXSpfddI1s40wfR-2LBr1cYsKee0MuTVTbk1GSnjvFobHPCgSUeC6AbRmvQ"
+    },
+    {
+      "termino": "dodgers - braves",
+      "trafico": "2000+",
+      "noticia": "Dodgers 5-3 Braves (Oct 3, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908007/braves-dodgers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyaSMkZzCYweVLwlQMlRl_skYmrMvYOE0QsbMHpcT-Y3_4BKlJ2q64W9-zkQ"
+    },
+    {
+      "termino": "lula",
+      "trafico": "200+",
+      "noticia": "Radar da eleição: acompanhe a apuração do primeiro turno das eleições",
+      "enlace": "https://noticias.uol.com.br/ao-vivo/2026/10/04/eleicoes-2026-acompanhe-a-votacao-do-primeiro-turno.htm",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3c2M0ouEu5vfgXDsOpPuf_Y96lYdNE24Lliw-bXDT8hBhzM5NOsgzPDUXGAs"
+    },
+    {
+      "termino": "costa rica – haïti",
+      "trafico": "2000+",
+      "noticia": "Costa Rica vs Haiti Live Stream: How to Watch CONCACAF Nations League",
+      "enlace": "https://www.fubo.tv/news/concacaf-nations-league/costa-rica-vs-haiti-live-stream-how-to-watch-concacaf-nations-league/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGoIX-kk7qoyG11nxyanncgV9obGni6NHB9zF11QPwlE_eky7BmDYHyyxmnIs"
+    },
+    {
       "termino": "costa rica - haití",
-      "trafico": "500+",
-      "noticia": "Bryan Ruiz hace un llamado última hora en Costa Rica: tres refuerzos para enfrentar a Haití",
-      "enlace": "https://futbolcentroamerica.com/noticias/bryan-ruiz-hace-un-llamado-ultima-hora-en-costa-rica-tres-refuerzos-para-enfrentar-a-haiti-aCj1T6N5CTrk",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu3ufT0csuKhDYzAC3HoHIWhlkLvAyu9_6XVVH9Z56qfbnPVYYZv3UD4i6ElY"
+      "trafico": "5000+",
+      "noticia": "Costa Rica cumple ante Haití: triunfo, permanencia y boleto al repechaje de la Copa Oro",
+      "enlace": "https://www.clarosports.com/futbol/concacaf-nations-league/costa-rica-vs-haiti-en-vivo-goles-y-resultado-del-partido-de-la-concacaf-nations-league-2026-hoy-4-de-octubre/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKCBVECevjJNIGm2vDxCyvqoj-k3A44EZctMTH7KVWUr8v-3i-c4I4friKutU"
     },
     {
       "termino": "flávio bolsonaro",
-      "trafico": "500+",
-      "noticia": "Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração",
-      "enlace": "https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY"
+      "trafico": "1000+",
+      "noticia": "AO VIVO: Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+      "enlace": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Fh8njRz1QZJHRvJD7HIAwevS7cFOkFGe0Lo5ekwRkkM6mAKjprISN3zlsGY"
     },
     {
       "termino": "elecciones brasil 2026",
+      "trafico": "1000+",
+      "noticia": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
+      "enlace": "https://www.bbc.com/mundo/articles/c62e9knnnnnro",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnW6D_a3-eLWr28kjSwEFhg4mlfxNe0leN1OxjGnOuyPisdW8_5QG4-o2Buyo"
+    },
+    {
+      "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de noruega",
       "trafico": "500+",
-      "noticia": "Elecciones presidenciales en Brasil, en vivo: votaciones, resultados y más | CNN",
-      "enlace": "https://cnnespanol.cnn.com/2026/10/04/latinoamerica/live-news/brasil-elecciones-presidenciales-en-vivo-resultado-lula-bolsonaro-orix",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYWIypr_sPGh5yPMe_wwJdq9q4GQZp0AFpZxoswZw3ZQiX4WETWMAufHU6hw"
+      "noticia": "Portugal se mantiene perfecto sin Ronaldo en la Liga de Naciones",
+      "enlace": "https://eldia.com.do/portugal-se-mantiene-perfecto-sin-ronaldo-en-la-liga-de-naciones/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMbkRiqWwEEGqboMGml4QEbj4n9U78PWj-QlpiSLkFmPEEDHXg_xi6I0SKyk"
     },
     {
       "termino": "michael king",
       "trafico": "200+",
-      "noticia": "Fernando Tatis Jr. Went Turbo Mode",
-      "enlace": "https://blogs.fangraphs.com/fernando-tatis-jr-went-turbo-mode/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnV-SNPq3CIt1OnpNkBe5vMao2z_ES0qu2ZyW_lXtoY_NNhfJ__7V3KzyUkf0"
+      "noticia": "Michael King strikes out six in Game 2 start",
+      "enlace": "https://www.mlb.com/video/michael-king-strikes-out-six-in-game-2-start",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgyFtCFy_s3ifgZkbWjtY1NE4eK9HmG2xYGSdqe7MqgaP5iEkY-T0T_KiglE"
     },
     {
       "termino": "brewers - padres",
@@ -39,41 +74,6 @@
       "noticia": "Todo lo que debes saber del Juego 2 entre Padres y Cerveceros (En Vivo)",
       "enlace": "https://www.mlb.com/es/news/todo-lo-que-debes-saber-padres-cerveceros-juego-2",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg7zAifCkAahYJ2gzABnEJhxcaISI6PZUayzMUUZd3lG1yRZlb2yhYjuCGCb0"
-    },
-    {
-      "termino": "portugal – norvège",
-      "trafico": "500+",
-      "noticia": "Ligue des nations : le Portugal et les Pays-Bas s’imposent, la Grèce neutralise l’Allemagne",
-      "enlace": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-le-portugal-et-les-pays-bas-s-imposent-la-grece-neutralise-l-allemagne-20261004",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpW3j3uOwrlrlIE6kvoDsEa6rV93mB9FKcK3H4ErXKDETVY8ETrdRhHZeIcA0"
-    },
-    {
-      "termino": "portugal - noruega",
-      "trafico": "2000+",
-      "noticia": "Vídeo: dois gols de outro mundo! Portugal e Noruega brilham longe dos olhos de Cristiano Ronaldo",
-      "enlace": "https://www.goal.com/br/not%C3%ADcias/video-dois-gols-de-outro-mundo-portugal-e-noruega-brilham-longe-dos-olhos-de-cristiano-ronaldo/blta2b3ae33f57cc8b8",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jMGFjdN76Hqeoihepp12dnyDqPx5GuRJQPjjz40jL5f5fpHnHyowKkxsb0E"
-    },
-    {
-      "termino": "alerta meteorológica",
-      "trafico": "500+",
-      "noticia": "Más de medio país está en alerta verde por efectos de una vaguada",
-      "enlace": "https://listindiario.com/la-republica/provincias/20261004/mas-medio-pais-esta-alerta-verde-efectos-vaguada_924773.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FoeRMz0Gea-uXPtWZPC0NyemK0APZuk9L9B4we08fc313OiqgUJ69LQLSVg"
-    },
-    {
-      "termino": "la primera",
-      "trafico": "1000+",
-      "noticia": "Minkah Fitzpatrick logra la primera intercepción de los Jets en 20 partidos",
-      "enlace": "https://lancasteronline.com/lavoz/deportes/minkah-fitzpatrick-logra-la-primera-intercepci-n-de-los-jets-en-20-partidos/article_ebde3484-5c8b-5639-bd02-0655f4fbeb38.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefcHFGru2ogiR8Zicto0n2q4Ig8noRqbMVIw9O69uTowSmrixtan6o0lIg2c"
-    },
-    {
-      "termino": "météo",
-      "trafico": "200+",
-      "noticia": "Météo en Nouvelle-Aquitaine : cette fois, c est la bonne, l automne arrive mercredi !",
-      "enlace": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/meteo-en-nouvelle-aquitaine-cette-fois-c-est-la-bonne-l-automne-arrive-mercredi-3427833.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYbX1-N4-068iRusVq9yl2-KVSDjIf6KJOfg7O4Y7ZfGM5iFdAHf-_GSl-cWY"
     }
   ]
 }

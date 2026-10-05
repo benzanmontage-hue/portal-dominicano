@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T20:00:38.100855-04:00",
+  "updated": "2026-10-04T23:00:39.800517-04:00",
   "fecha": "04/10/2026",
-  "hora": "20:00",
+  "hora": "23:00",
   "total_juegos": 53,
   "juegos": [
     {
@@ -189,11 +189,11 @@
       "compania": "Anguila",
       "juego": "Anguila 10:00 PM",
       "numeros": [
-        "27",
-        "07",
-        "99"
+        "65",
+        "86",
+        "66"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a511b0a07d516b9c5107d05"
     },
     {
@@ -311,7 +311,8 @@
       "juego": "Anguila 8:00 PM",
       "numeros": [
         "31",
-        "84"
+        "84",
+        "25"
       ],
       "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
@@ -331,11 +332,11 @@
       "compania": "Anguila",
       "juego": "Anguila 9:00 PM",
       "numeros": [
-        "44",
-        "74",
-        "23"
+        "10",
+        "82",
+        "11"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d61d"
     },
     {
@@ -378,34 +379,34 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
-        "55",
-        "40",
-        "00",
-        "73"
+        "73",
+        "54",
+        "26",
+        "11"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
     },
     {
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "04"
+        "35"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "33",
-        "50",
-        "80",
-        "11",
-        "22"
+        "66",
+        "44",
+        "22",
+        "26",
+        "53"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -439,22 +440,22 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "49",
-        "10",
-        "98"
+        "94",
+        "32",
+        "00"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
       "compania": "Loteka",
       "juego": "Toca 3",
       "numeros": [
-        "8",
-        "6",
+        "1",
+        "9",
         "7"
       ],
-      "fecha": "2026-10-03T04:00:00.000Z",
+      "fecha": "2026-10-04T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4f2"
     },
     {
