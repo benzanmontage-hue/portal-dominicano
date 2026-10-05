@@ -1,30 +1,44 @@
 {
-  "updated": "2026-10-05T05:00:47.201861-04:00",
-  "hora": "05:00",
+  "updated": "2026-10-05T08:00:49.974003-04:00",
+  "hora": "08:00",
   "fecha": "05/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "haití",
+      "trafico": "200+",
+      "noticia": "El grito de gol  La Española es Haití  de Wilson Isidor reabre aquí viejas dudas sobre Haití",
+      "enlace": "https://listindiario.com/la-republica/20261005/grito-gol-hispaniola-haiti-wilson-isidor-reabre-viejas-dudas-sobre-haiti_924823.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgBf9x9lhGqDggMpGC-R71onW1ZU40NLZDgX2mZH5ubEzQ3p4uGm5jqY3b1i8"
+    },
+    {
       "termino": "concacaf nations league",
       "trafico": "100+",
-      "noticia": "Haiti and Curaçao advance to Nations League Quarterfinals",
-      "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-and-curacao-advance-to-nations-league-quarterfinals",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRASNPCqyFFRghjK50NDIxnVB92xX3g8A63H6uQgxofIQ05uIklQuM_LV7Gg"
+      "noticia": "Aruba vs Anguilla: Concacaf Nations League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c6wyzy1lz241t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
     },
     {
       "termino": "nicaragua - república dominicana",
       "trafico": "2000+",
-      "noticia": "RD intentará llegar a cuartos de final de Liga de Naciones este domingo en Nicaragua",
-      "enlace": "https://hoy.com.do/deportes/rd-intentara-llegar-cuartos-final-liga-naciones-domingo-nicaragua_1104431.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBIMufoKzqX2Y0pYRLxyIdK0IQxSwbMNxoz4CSsLdCS1HbnpZUFjivTFkM1r0"
+      "noticia": "Dominicana cierra la Liga de Naciones con una remontada ante Nicaragua",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/05/dominicana-remonta-ante-nicaragua/3678855",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviRFvh9OUO_eHJfBATTKoXRFgxQMaCSLulTHH1pv3G6sy3s9HmaZQztRQ1iI"
     },
     {
       "termino": "dodgers - braves",
       "trafico": "2000+",
-      "noticia": "Brewers 4-3 Padres (Oct 4, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908003/padres-brewers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHs-YSaMfNxorNvklpEy-XvBI2axZokcYLi-sOe210bHzTnhOGBrQ9o7x1As"
+      "noticia": "Resumen Bravos @ Dodgers, Resultados/Jugadas destacadas - 03/10/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849828?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849828%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnt_GEMvWqntew43WUnE3-Fa-2Uaip-oCDF2ZSwAWl6q9NxDHVP9-HLndWtFY"
+    },
+    {
+      "termino": "lula",
+      "trafico": "200+",
+      "noticia": "Flávio e Lula vão ao segundo turno, e eleição presidencial será decidida dia 25 de outubro",
+      "enlace": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-e-lula-vao-ao-segundo-turno-e-eleicao-presidencial-sera-decidida-dia-25-de-outubro.ghtml",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8jHmhpOCz8f_GEoJ_XkAaSiptPA2tA-wmdVqgxZWkzzeRrEF7oTjO_ydtLI"
     },
     {
       "termino": "costa rica – haïti",
@@ -43,16 +57,16 @@
     {
       "termino": "flávio bolsonaro",
       "trafico": "1000+",
-      "noticia": "Flávio e Lula vão ao segundo turno, e eleição presidencial será decidida dia 25 de outubro",
-      "enlace": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-e-lula-vao-ao-segundo-turno-e-eleicao-presidencial-sera-decidida-dia-25-de-outubro.ghtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8jHmhpOCz8f_GEoJ_XkAaSiptPA2tA-wmdVqgxZWkzzeRrEF7oTjO_ydtLI"
+      "noticia": "Lula lidera votação no exterior e soma mais votos que Flávio Bolsonaro; acompanhe a apuração",
+      "enlace": "https://g1.globo.com/mundo/noticia/2026/10/04/resultados-eleicao-exterior-primeiro-turno-presidente-boletins-de-urna.ghtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHwvOmCLEuvSfvVt_y6zne6Kh8-PiUKwNDQA_0NtVdXM_wejzJHo-36Tj_SoY"
     },
     {
       "termino": "elecciones brasil 2026",
       "trafico": "1000+",
-      "noticia": "Bolsonaro vence a Lula en primera vuelta de las elecciones y acaricia el retorno de la ultraderecha al poder en Brasil",
-      "enlace": "https://elpais.com/america/2026-10-05/bolsonaro-vence-a-lula-en-primera-vuelta-y-acaricia-el-retorno-de-la-ultraderecha-al-poder-en-brasil.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8kw1UZxfY4QFdSQWQXYaaXe19krqObCLMGG2C1E4dpHDC9ggnz8QUW0zwRg"
+      "noticia": "Lula reconoce que el resultado de las elecciones fue inesperado",
+      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/10/04/lula-reconoce-que-el-resultado-en-primera-vuelta-es-inesperado/3678769",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKt5q_MKZcsBsINOYQaryGjMUI-AmDvdfBAea-6OI1ce_DPG1jkb_uTF4Xq7E"
     },
     {
       "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de noruega",
@@ -60,20 +74,6 @@
       "noticia": "Portugal se mantiene perfecto sin Ronaldo en la Liga de Naciones",
       "enlace": "https://eldia.com.do/portugal-se-mantiene-perfecto-sin-ronaldo-en-la-liga-de-naciones/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMbkRiqWwEEGqboMGml4QEbj4n9U78PWj-QlpiSLkFmPEEDHXg_xi6I0SKyk"
-    },
-    {
-      "termino": "michael king",
-      "trafico": "200+",
-      "noticia": "Fernando Tatis Jr. s incredible sliding catch",
-      "enlace": "https://www.mlb.com/padres/video/jackson-chourio-flies-out-to-right-fielder-fernando-tatis-jr-p1drnz",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4_83OOiGZ0wHArk43KhXjpvl2cDqbpOCeTpecjX4wnR-gdpc3Bng1T_N_IU"
-    },
-    {
-      "termino": "brewers - padres",
-      "trafico": "2000+",
-      "noticia": "MLB Gameday: Braves 3, Marlins 5 Resultado Final (27/09/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/braves-vs-marlins/2026/09/27/823814/final/video",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2pX43tiLRGBs8y-yOUv0LIcJWb2NY3xGTOx_re3-MUOmtvv9ZGrK-PXlW3Ho"
     }
   ]
 }
