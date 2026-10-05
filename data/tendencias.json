@@ -1,10 +1,31 @@
 {
-  "updated": "2026-10-05T14:00:53.442132-04:00",
-  "hora": "14:00",
+  "updated": "2026-10-05T17:00:54.864370-04:00",
+  "hora": "17:00",
   "fecha": "05/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "inundación",
+      "trafico": "500+",
+      "noticia": "Lluvias, inundaciones y turismo: gobierno y privados se preparan para atenuar las consecuencias de El Niño",
+      "enlace": "https://www.elpais.com.uy/informacion/sociedad/lluvias-inundaciones-y-turismo-gobierno-y-privados-se-preparan-para-atenuar-las-consecuencias-de-el-nino",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMfReaxtxihqK9c92nlfip5w7AE3jSJS3hFid-kz_HQDufv5GK5Sjjcb7EhsM"
+    },
+    {
+      "termino": "france – belgique",
+      "trafico": "500+",
+      "noticia": "France – Belgique : Grande première pour Leny Yoro (ex-LOSC), pas de Mike Maignan",
+      "enlace": "https://lepetitlillois.com/2026/10/05/france-belgique-premiere-yoro-losc-pas-maignan/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhD2avPlN4BemrPJ--ChFs711Nyhqeo_9dbroJMz3QkKvDJ_uDC62Sv4ntZX4"
+    },
+    {
+      "termino": "francia - bélgica",
+      "trafico": "2000+",
+      "noticia": "Francia 4 - 1 Bélgica: resumen, goles y resultado de la UEFA Nations League",
+      "enlace": "https://as.com/futbol/internacional/francia-belgica-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_LhHmuUPi85_5RPbIeajVgh18q82DNolY_LWo75BQ-pEaqOwfSVisbsDsvk"
+    },
     {
       "termino": "banco popular",
       "trafico": "200+",
@@ -15,9 +36,9 @@
     {
       "termino": "listin diario",
       "trafico": "500+",
-      "noticia": "Listín Diario 05-10-2026",
-      "enlace": "https://listindiario.com/edicion-impresa/20261005/listin-diario-05-10-2026_924854.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlJaczjxCXbMpMG7G22H3k8BWygQd-bWXBP-qBnHLgTuW3apRRg-natsL6Y"
+      "noticia": "Sigue desaparecida una de dos menores que salieron con un hombre hacia un río",
+      "enlace": "https://elnacional.com.do/nacionales/policiales/llllllll_582593.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDZiAz_R_sxEc2OjvEzDvK6OR3Ps-aEUlMbcIpHuiSF5fGvCy1PPZDoOFkB1E"
     },
     {
       "termino": "outlook",
@@ -36,9 +57,9 @@
     {
       "termino": "concacaf nations league",
       "trafico": "100+",
-      "noticia": "Preview: Jamaica vs Honduras - prediction, team news, lineups",
-      "enlace": "https://www.sportsmole.co.uk/football/jamaica/preview/jamaica-vs-honduras-prediction-team-news-lineups_605850.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiLI-eoV6ZH95dnWuUEAd8GRHwWndG5MqSRa6AfjSpvTDYMAFIbK6svHx9pSE"
+      "noticia": "Honduras vs Jamaica: Where to watch, live stream, TV channel and kick-off time",
+      "enlace": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-honduras-v-jamaica/blt2a7178511525a3ba",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPjKvVVgX3h36A826KKjVvuCz8fMQgE3_4Zogu2olXlorxeAiKb11LvixmNc"
     },
     {
       "termino": "liga de naciones concacaf",
@@ -53,27 +74,6 @@
       "noticia": "Dominicana cierra la Liga de Naciones con una remontada ante Nicaragua",
       "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/05/dominicana-remonta-ante-nicaragua/3678855",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviRFvh9OUO_eHJfBATTKoXRFgxQMaCSLulTHH1pv3G6sy3s9HmaZQztRQ1iI"
-    },
-    {
-      "termino": "dodgers - braves",
-      "trafico": "2000+",
-      "noticia": "Dodgers know they must break their reliance on home runs to beat Braves",
-      "enlace": "https://www.latimes.com/sports/dodgers/story/2026-10-04/dodgers-must-break-home-run-reliance-braves",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-46aqtRTv_6seM2-87xqwZwLSxNn9h-UlP-VrdKSKY_LOysm61KBE0_n8-3U"
-    },
-    {
-      "termino": "lula",
-      "trafico": "200+",
-      "noticia": "Disputa na Amazônia ignora floresta em pé, e candidatos defendem abertura de áreas e grandes obras",
-      "enlace": "https://www1.folha.uol.com.br/poder/2026/10/disputa-na-amazonia-ignora-floresta-em-pe-e-candidatos-defendem-abertura-de-areas-e-grandes-obras.shtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9tQ2sNrEovR0npJ2mcg1B9Vvl3T9GZHhAdQSIJX_b2XilRjRqAXWW7jGroGo"
-    },
-    {
-      "termino": "costa rica – haïti",
-      "trafico": "2000+",
-      "noticia": "Costa Rica vs Haiti Live Stream: How to Watch CONCACAF Nations League",
-      "enlace": "https://www.fubo.tv/news/concacaf-nations-league/costa-rica-vs-haiti-live-stream-how-to-watch-concacaf-nations-league/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGoIX-kk7qoyG11nxyanncgV9obGni6NHB9zF11QPwlE_eky7BmDYHyyxmnIs"
     }
   ]
 }
