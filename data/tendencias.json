@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-04T23:00:44.360889-04:00",
-  "hora": "23:00",
-  "fecha": "04/10/2026",
+  "updated": "2026-10-05T02:00:45.653233-04:00",
+  "hora": "02:00",
+  "fecha": "05/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "concacaf nations league",
+      "trafico": "100+",
+      "noticia": "Haiti and Curaçao advance to Nations League Quarterfinals",
+      "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-and-curacao-advance-to-nations-league-quarterfinals",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRASNPCqyFFRghjK50NDIxnVB92xX3g8A63H6uQgxofIQ05uIklQuM_LV7Gg"
+    },
+    {
       "termino": "nicaragua - república dominicana",
-      "trafico": "1000+",
-      "noticia": "República Dominicana busca frente a Nicaragua resarcirse de la derrota contra Haití",
-      "enlace": "https://listindiario.com/el-deporte/20261003/republica-dominicana-busca-frente-nicaragua-resarcirse-derrota-haiti_924755.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlvXSpfddI1s40wfR-2LBr1cYsKee0MuTVTbk1GSnjvFobHPCgSUeC6AbRmvQ"
+      "trafico": "2000+",
+      "noticia": "RD intentará llegar a cuartos de final de Liga de Naciones este domingo en Nicaragua",
+      "enlace": "https://hoy.com.do/deportes/rd-intentara-llegar-cuartos-final-liga-naciones-domingo-nicaragua_1104431.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBIMufoKzqX2Y0pYRLxyIdK0IQxSwbMNxoz4CSsLdCS1HbnpZUFjivTFkM1r0"
     },
     {
       "termino": "dodgers - braves",
       "trafico": "2000+",
-      "noticia": "Dodgers 5-3 Braves (Oct 3, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908007/braves-dodgers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyaSMkZzCYweVLwlQMlRl_skYmrMvYOE0QsbMHpcT-Y3_4BKlJ2q64W9-zkQ"
-    },
-    {
-      "termino": "lula",
-      "trafico": "200+",
-      "noticia": "Radar da eleição: acompanhe a apuração do primeiro turno das eleições",
-      "enlace": "https://noticias.uol.com.br/ao-vivo/2026/10/04/eleicoes-2026-acompanhe-a-votacao-do-primeiro-turno.htm",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3c2M0ouEu5vfgXDsOpPuf_Y96lYdNE24Lliw-bXDT8hBhzM5NOsgzPDUXGAs"
+      "noticia": "Braves 3-2 Dodgers (Oct 4, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908014/braves-dodgers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQliBRCbw6X5R_VAh3aarXDjupJWMxQbt8GDUMdHus7PKkBDvXPMgT13MrvsM"
     },
     {
       "termino": "costa rica – haïti",
@@ -43,9 +43,9 @@
     {
       "termino": "flávio bolsonaro",
       "trafico": "1000+",
-      "noticia": "AO VIVO: Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
-      "enlace": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-Fh8njRz1QZJHRvJD7HIAwevS7cFOkFGe0Lo5ekwRkkM6mAKjprISN3zlsGY"
+      "noticia": "Flávio e Lula vão ao segundo turno, e eleição presidencial será decidida dia 25 de outubro",
+      "enlace": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/04/flavio-e-lula-vao-ao-segundo-turno-e-eleicao-presidencial-sera-decidida-dia-25-de-outubro.ghtml",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8jHmhpOCz8f_GEoJ_XkAaSiptPA2tA-wmdVqgxZWkzzeRrEF7oTjO_ydtLI"
     },
     {
       "termino": "elecciones brasil 2026",
@@ -64,16 +64,16 @@
     {
       "termino": "michael king",
       "trafico": "200+",
-      "noticia": "Michael King strikes out six in Game 2 start",
-      "enlace": "https://www.mlb.com/video/michael-king-strikes-out-six-in-game-2-start",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUgyFtCFy_s3ifgZkbWjtY1NE4eK9HmG2xYGSdqe7MqgaP5iEkY-T0T_KiglE"
+      "noticia": "Fernando Tatis Jr. s incredible sliding catch",
+      "enlace": "https://www.mlb.com/padres/video/jackson-chourio-flies-out-to-right-fielder-fernando-tatis-jr-p1drnz",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4_83OOiGZ0wHArk43KhXjpvl2cDqbpOCeTpecjX4wnR-gdpc3Bng1T_N_IU"
     },
     {
       "termino": "brewers - padres",
       "trafico": "2000+",
-      "noticia": "Todo lo que debes saber del Juego 2 entre Padres y Cerveceros (En Vivo)",
-      "enlace": "https://www.mlb.com/es/news/todo-lo-que-debes-saber-padres-cerveceros-juego-2",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg7zAifCkAahYJ2gzABnEJhxcaISI6PZUayzMUUZd3lG1yRZlb2yhYjuCGCb0"
+      "noticia": "MLB Gameday: Padres 2, Brewers 3 Resultado Final (03/10/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/padres-vs-brewers/2026/10/03/849830/final/box",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjBwAp1O5l4l1RTmKVN4FaXKfu2eXzSxL0R8BU6AtXOicID1pplVc998gxxsA"
     }
   ]
 }
