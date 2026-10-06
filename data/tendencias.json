@@ -1,79 +1,79 @@
 {
-  "updated": "2026-10-06T14:00:13.763170-04:00",
-  "hora": "14:00",
+  "updated": "2026-10-06T17:00:17.888075-04:00",
+  "hora": "17:00",
   "fecha": "06/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "estafa",
+      "trafico": "100+",
+      "noticia": "Ministerio Público acusa a 13 personas y cinco empresas de la red de estafa electrónica y lavado que desmanteló con Operación Discovery 3.0",
+      "enlace": "https://pgr.gob.do/ministerio-publico-acusa-a-13-personas-y-cinco-empresas-de-la-red-de-estafa-electronica-y-lavado-que-desmantelo-con-operacion-discovery-3-0/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNUBw68yYCgP9XCUCJCLP4_cBkityBjmr4UPWEIVwQL2rhOMFE7XwMrc13Fp0"
+    },
+    {
+      "termino": "angleterre – tchéquie",
+      "trafico": "200+",
+      "noticia": "Le secret derrière la longévité d’Harry Kane révélé",
+      "enlace": "https://www.footmercato.net/a8345849119447386434-le-secret-derriere-la-longevite-dharry-kane-revele",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRwJrF-qtPDRfc9JjefKnvrFWp9QoQQBhdEH7VX8kvv5nvemH7vPpDW3BUgY"
+    },
+    {
+      "termino": "england vs czechia",
+      "trafico": "200+",
+      "noticia": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates   stats",
+      "enlace": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5wvwMtHg42GWxPjQg_4yFmNp8gjduBK6dX2Q81JZJudn8Xy1MmWlZM0lVZQQ"
+    },
+    {
+      "termino": "croatia vs spain",
+      "trafico": "200+",
+      "noticia": "Licensable picture: Croatia v Spain - UEFA Nations League 2026/27 Group A3 MD4",
+      "enlace": "https://www.reutersconnect.com/item/croatia-v-spain-uefa-nations-league-202627-group-a3-md4/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA4U0ZPQ1I",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB79-bc3EF2aGD_rS-TUonN6HI-5Ubzq5E9aKaig99NqY1fdL5TvLOfn3EsJw"
+    },
+    {
+      "termino": "croatie – espagne",
+      "trafico": "500+",
+      "noticia": "« Le retour des titulaires » : des changements majeurs dans la composition de l Espagne pour le choc face à la Croatie",
+      "enlace": "https://www.goal.com/fr/news/le-retour-des-titulaires-des-changements-majeurs-dans-la-composition-de-l-espagne-pour-le-choc-face-a-la-croatie/blt1941fca91481e967",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5noJsruJvb1z2uDIRW36J3E4fId_nLYplit1Rf84NcBHYEy984R_d9raZE8"
+    },
+    {
+      "termino": "inglaterra - chequia",
+      "trafico": "1000+",
+      "noticia": "Inglaterra - República Checa en directo | Última hora de UEFA Nations League en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/uefa-nations-league/inglaterra-republica-checa/2026/10/06/01_0195_20261006_114_367-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHD9_eK9T9LBRPHJQLEVdHlG2mmVu7QIU5VNTM1zgOOUOe2Xzf3T0KXDTi8EI"
+    },
+    {
+      "termino": "dólar estadounidense",
+      "trafico": "1000+",
+      "noticia": "Dólar en República Dominicana: tasa de compra y venta para este martes 6 de octubre de 2026",
+      "enlace": "https://hoy.com.do/economia/dolar-republica-dominicana-tasa-compra-venta-martes-6-octubre-2026_1104650.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgmFa4skaKk6RO7foOIDJXxiR9GNAq3bBotRpCnb9BPs6VaIHAoqNn-pL80x4"
+    },
+    {
+      "termino": "croacia - españa",
+      "trafico": "2000+",
+      "noticia": "Croacia - España, en directo: previa y última de la Selección en la Nations League, hoy en vivo",
+      "enlace": "https://as.com/futbol/seleccion/croacia-espana-hoy-en-directo-grupo-c-de-nations-league-ultima-hora-f202610-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR57y9LMgLsc5xNt0TA_nhz1rv68d_JwLBtwWeOHN-RoelppbEo9yMxADICZIw"
+    },
+    {
       "termino": "barco",
       "trafico": "100+",
-      "noticia": "Un ataque ruso contra un buque en el Mar Negro deja dos muertos, según Ucrania",
-      "enlace": "https://listindiario.com/las-mundiales/20261005/ataque-ruso-buque-mar-negro-deja-dos-muertos-ucrania_924877.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP3WMkYnm2-hx-E2Mvx7MzkWYbRpKBJU4GyBTNujazAcCeEgyTotGs-VyOvKw"
+      "noticia": "El mercado náutico crece un 7% hasta septiembre impulsado por los barcos a motor y las esloras mayores",
+      "enlace": "https://forbes.es/ultima-hora/1038648/el-mercado-nautico-crece-un-7-hasta-septiembre-impulsado-por-los-barcos-a-motor-y-las-esloras-mayores/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06FrsoKnAlSOz3fsBiLzyygulCAqS3-4rtNHUdy07B-ZbVfHO2hRwj42O2LE"
     },
     {
       "termino": "emilio bonifacio",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "¡Es tiempo! : El mensaje de Emilio Bonifacio que genera expectativa a la fanaticada del Licey",
       "enlace": "https://elnacional.com.do/deportes/mensaje-emilio-bonifacio-genera-expectativa-fanaticada-licey_582638.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUufNz0iDfiawmOkKADzf7ocrGIuh9xzmGxs-b8YT6eH99pZJEtEXHsk1OUDc"
-    },
-    {
-      "termino": "salario",
-      "trafico": "200+",
-      "noticia": "Estos estados y ciudades de EEUU aumentarán el salario mínimo en 2027: las nuevas tarifas superarán los USD 22 por hora",
-      "enlace": "https://www.infobae.com/estados-unidos/2026/10/06/estos-estados-y-ciudades-de-eeuu-aumentaran-el-salario-minimo-en-2027-las-nuevas-tarifas-superaran-los-usd-22-por-hora/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknmMoMakUHhtcQWNGslPP-aF-aCsOqmuPqQPLvSoE2z34cMeypTpv5FINZpI"
-    },
-    {
-      "termino": "freddy peralta",
-      "trafico": "200+",
-      "noticia": "Mets Went for Upside in the Freddy Peralta Trade",
-      "enlace": "https://metsmerizedonline.com/mets-went-for-upside-in-the-freddy-peralta-trade/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8IhpKyeqw5aZKsPPKZu8I_JX8h5ukn0ro3zfTdq4Whkoq2wETyhKfWbg-Gw"
-    },
-    {
-      "termino": "rays - yankees",
-      "trafico": "2000+",
-      "noticia": "Resumen Yankees @ Rays, Resultados/Jugadas destacadas - 05/10/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849839?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849839%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJQqYwzKRmw0mSW2B_v9ADtGePSuPKgxEoZUQ6q1s_gcpeh7mR7QFrqLsbtTg"
-    },
-    {
-      "termino": "chubasco",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "guardians - white sox",
-      "trafico": "1000+",
-      "noticia": "White Sox Touched By God, Or Perhaps Merely Joyful Exuberance",
-      "enlace": "https://defector.com/white-sox-touched-by-god-or-perhaps-merely-joyful-exuberance",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC27NedcHUpMpV00R82rMCVWxVBU3k2TPJArBdBsbGJK9czIUt-r4JhMgjTYc"
-    },
-    {
-      "termino": "inundación",
-      "trafico": "500+",
-      "noticia": "Lam Dong: Un camión fue arrastrado por la inundación mientras cruzaba el aliviadero; tres personas escaparon ilesas.",
-      "enlace": "https://www.vietnam.vn/es/lam-dong-xe-tai-bi-lu-cuon-khi-qua-dap-tran-3-nguoi-thoat-nan",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf9AiDuxyceZTt_tEyTjBX7idOMd7noEqWVzL4VoT1wZOtDvk2fqximUAiNxI"
-    },
-    {
-      "termino": "france – belgique",
-      "trafico": "1000+",
-      "noticia": "Le débrief d Alain Giresse après la victoire des Bleus contre la Belgique : « On a deux créateurs, ça faisait longtemps »",
-      "enlace": "https://www.lequipe.fr/Football/Article/Le-debrief-d-alain-giresse-apres-la-victoire-des-bleus-contre-la-belgique-on-a-deux-createurs-ca-faisait-longtemps/1723693",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KCRaTBHMe6Gp0rhoN7i03BuIph99kYn00knt-pj1rSCIr-tXUIEc8TC7BXo"
-    },
-    {
-      "termino": "francia - bélgica",
-      "trafico": "2000+",
-      "noticia": "Zidane elogia a Olise tras doblete en Francia:  Es lo que amamos",
-      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17344774/francia-zidane-elogia-olise-doblete-amamos",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHA0z7wsd8ODnng1V36dDf3yQrI98g3MXBJNZ6zl-y_eZD5Sb3fkLduDyC2yU"
     }
   ]
 }
