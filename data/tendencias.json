@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-05T23:00:58.855570-04:00",
-  "hora": "23:00",
-  "fecha": "05/10/2026",
+  "updated": "2026-10-06T02:01:00.460810-04:00",
+  "hora": "02:01",
+  "fecha": "06/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "freddy peralta",
       "trafico": "200+",
-      "noticia": "Peralta pretende continuar con su pitcheo brillante en el Juego 2",
-      "enlace": "https://www.mlb.com/es/news/peralta-pretende-continuar-con-su-pitcheo-brillante-en-el-juego-2",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO0tWYIEH3Pq7-hMWsy1PBHRpb46oGvJKw25LGIlY0rIih8_jdHM1ems5aVc0"
+      "noticia": "Inside Freddy Peralta’s revival with Rays, from Mets disappointment to playoff starter",
+      "enlace": "https://www.nytimes.com/athletic/7661024/2026/10/05/freddy-peralta-rays-revival-alds-playoffs/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn-Zlk0TxZggDZXAe3hUi5VJq_0UimNz4Bjy6mVff9rDtdM1etCfVRgLhEwmw"
     },
     {
       "termino": "rays - yankees",
       "trafico": "2000+",
-      "noticia": "Yankees-Rays ALDS Game 2 FAQ, lineups (8 p.m. ET, TBS/HBO Max)",
-      "enlace": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtk3A7hY1MtSLWnEEvaJW92IHTdnOaMQAKoMGukAmhgE57E3vbjhwR2HfMKTM"
+      "noticia": "Aaron Boone shouldn’t regret rotation decision — even if Yankees lost Game 1",
+      "enlace": "https://nypost.com/2026/10/04/sports/aaron-boone-shouldnt-regret-starting-gerrit-cole-for-yankees/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBCvHV9sNe-fr839ZSbde2d9lstN--Z-G2E96X_kKJkxPM9R3erht8LOAU1Y"
     },
     {
       "termino": "chubasco",
@@ -27,32 +27,39 @@
       "imagen": ""
     },
     {
+      "termino": "classement équipe de france de football – équipe de belgique de football",
+      "trafico": "200+",
+      "noticia": "Ligue des Nations : les chances de qualification en quarts de finale 👀",
+      "enlace": "https://onefootball.com/fr/news/ligue-des-nations-les-chances-de-qualification-en-quarts-de-finale-43563973",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN7F7IrVrgp34sz0FqYpRW82zMFEQ0jDXTVfxSgI3VDWdyzqmX6WhJMRj5Jcc"
+    },
+    {
       "termino": "guardians - white sox",
       "trafico": "1000+",
       "noticia": "White Sox 4-3 Guardians (Oct 5, 2026) Final Score",
       "enlace": "https://www.espn.com/mlb/game/_/gameId/401907991/white-sox-guardians",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzoU1IzBOew13fW1V4o3h2nEtb2yMOLt_bUi0Z7rHM3R_xTXsxlJPfVjC5A2w"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlcBD_l3GU_IopQ2Xoa2mFbqf6DQqHfKSqFmcYOLUgpbQxTVy10ERttDFFDkY"
     },
     {
       "termino": "inundación",
       "trafico": "500+",
-      "noticia": "Suben a 31 muertos en Tailandia por inundaciones que continúan en algunas regiones",
-      "enlace": "https://elnuevodiario.com.do/suben-a-31-los-muertos-en-tailandia-por-las-inundaciones-que-continuan-en-algunas-regiones/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ0w4kL7AexoxkTdxGPyHS_B2X5VRg0Vtm9Sbki6myfRPxJCKNV3vhWTGgMy8"
+      "noticia": "Al menos siete personas murieron tras inundación de una mina ilegal en China",
+      "enlace": "https://es-us.noticias.yahoo.com/personas-murieron-inundaci%C3%B3n-mina-ilegal-025150882.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-OfQIAlCI2zU8ckDQf52SE2ixNhzxrNceoETknARI4OzgJmhKzy5Hz0LXw1k"
     },
     {
       "termino": "france – belgique",
-      "trafico": "1000+",
-      "noticia": "France 4-1 Belgique, Ligue des nations A : Fin de match tonitruante, la France renverse les Belges",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-belgique-live/688709",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVGLSL0CESUquwmMXIhZIN-eUfhOLdWF2mkj8D4rb4rhsmRK7G4qjVgt2P5Dw"
+      "trafico": "500+",
+      "noticia": "Les Bleus électrisés par les entrants: Doué, Cherki et Olise offrent une troisième victoire à Zidane",
+      "enlace": "https://www.lequipe.fr/Football/Actualites/Les-bleus-electrises-par-les-entrants-doue-cherki-et-olise-offrent-une-troisieme-victoire-a-zidane/1723670",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ97enkYPv_ObuQ6J6OA1xrt3Yu6gAsf4YIztclLRVk9xxtlLkKDunSgb2b_nw"
     },
     {
       "termino": "francia - bélgica",
       "trafico": "2000+",
-      "noticia": "‘Masterclass’ de Zidane",
-      "enlace": "https://as.com/futbol/internacional/masterclass-de-zidane-f202610-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVCdbp4Tf6r4ooLzk3_j8HU3hh3JsYxgeYeqNVTFQqJLy3_XsWIcIhxCq4o5g"
+      "noticia": "Olise le regala a Zidane su primera gran noche en el Stade de France",
+      "enlace": "https://www.marca.com/futbol/nations-league/cronica/2026/10/05/olise-le-regala-zidane-primera-gran-noche-stade-france.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmenddNtB_9qq6f9G4eTsCZped6DAyTLi3l120DolaEKgrsUvWtF0G70TAVww"
     },
     {
       "termino": "banco popular",
@@ -67,13 +74,6 @@
       "noticia": "Guía Deportiva 05-10-2026",
       "enlace": "https://listindiario.com/el-deporte/guia-deportiva/20261005/gui-deportiva-05-10-2026_924852.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlJaczjxCXbMpMG7G22H3k8BWygQd-bWXBP-qBnHLgTuW3apRRg-natsL6Y"
-    },
-    {
-      "termino": "outlook",
-      "trafico": "500+",
-      "noticia": "Wall St Week Ahead Spiking bond yields, midterms, earnings to test US stocks  typical fourth-quarter strength",
-      "enlace": "https://www.reuters.com/business/wall-st-week-ahead-spiking-bond-yields-midterms-earnings-test-us-stocks-typical-2026-10-02/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoaUrC8E6vhKWuBkvOBpp_af2ju4aWF5nM_MGI7S6jVekn4q9PAfLVDwHV2D8"
     }
   ]
 }
