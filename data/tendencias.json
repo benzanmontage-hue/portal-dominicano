@@ -1,16 +1,30 @@
 {
-  "updated": "2026-10-06T11:00:10.596622-04:00",
-  "hora": "11:00",
+  "updated": "2026-10-06T14:00:13.763170-04:00",
+  "hora": "14:00",
   "fecha": "06/10/2026",
   "pais": "República Dominicana",
-  "total": 8,
+  "total": 10,
   "tendencias": [
     {
-      "termino": "salario",
+      "termino": "barco",
       "trafico": "100+",
-      "noticia": "Estudio sitúa al país entre los peores posicionados en relación salarial para alcanzar bienestar básico",
-      "enlace": "https://elnacional.com.do/economia/estudio-situa-pais-peores-posicionados-relacion-salarial-alcanzar-bienestar-basico_582626.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoVXoWYdJxZSaA5N1oG9MsYN-wbWrG2cN2hcC7U7aHWDDogj88DI4mnjfMR_Q"
+      "noticia": "Un ataque ruso contra un buque en el Mar Negro deja dos muertos, según Ucrania",
+      "enlace": "https://listindiario.com/las-mundiales/20261005/ataque-ruso-buque-mar-negro-deja-dos-muertos-ucrania_924877.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP3WMkYnm2-hx-E2Mvx7MzkWYbRpKBJU4GyBTNujazAcCeEgyTotGs-VyOvKw"
+    },
+    {
+      "termino": "emilio bonifacio",
+      "trafico": "200+",
+      "noticia": "¡Es tiempo! : El mensaje de Emilio Bonifacio que genera expectativa a la fanaticada del Licey",
+      "enlace": "https://elnacional.com.do/deportes/mensaje-emilio-bonifacio-genera-expectativa-fanaticada-licey_582638.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUufNz0iDfiawmOkKADzf7ocrGIuh9xzmGxs-b8YT6eH99pZJEtEXHsk1OUDc"
+    },
+    {
+      "termino": "salario",
+      "trafico": "200+",
+      "noticia": "Estos estados y ciudades de EEUU aumentarán el salario mínimo en 2027: las nuevas tarifas superarán los USD 22 por hora",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/10/06/estos-estados-y-ciudades-de-eeuu-aumentaran-el-salario-minimo-en-2027-las-nuevas-tarifas-superaran-los-usd-22-por-hora/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknmMoMakUHhtcQWNGslPP-aF-aCsOqmuPqQPLvSoE2z34cMeypTpv5FINZpI"
     },
     {
       "termino": "freddy peralta",
@@ -50,16 +64,16 @@
     {
       "termino": "france – belgique",
       "trafico": "1000+",
-      "noticia": "Les Bleus électrisés par les entrants: Doué, Cherki et Olise offrent une troisième victoire à Zidane",
-      "enlace": "https://www.lequipe.fr/Football/Actualites/Les-bleus-electrises-par-les-entrants-doue-cherki-et-olise-offrent-une-troisieme-victoire-a-zidane/1723670",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ97enkYPv_ObuQ6J6OA1xrt3Yu6gAsf4YIztclLRVk9xxtlLkKDunSgb2b_nw"
+      "noticia": "Le débrief d Alain Giresse après la victoire des Bleus contre la Belgique : « On a deux créateurs, ça faisait longtemps »",
+      "enlace": "https://www.lequipe.fr/Football/Article/Le-debrief-d-alain-giresse-apres-la-victoire-des-bleus-contre-la-belgique-on-a-deux-createurs-ca-faisait-longtemps/1723693",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KCRaTBHMe6Gp0rhoN7i03BuIph99kYn00knt-pj1rSCIr-tXUIEc8TC7BXo"
     },
     {
       "termino": "francia - bélgica",
       "trafico": "2000+",
-      "noticia": "Francia 4 - 1 Bélgica: resumen, goles y resultado de la UEFA Nations League",
-      "enlace": "https://as.com/futbol/internacional/francia-belgica-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStBsSSqdyb3myog112E8uzXRLAXkiuDaHWQ-tcD7yaEHny0rfIwPxLQK2rRBM"
+      "noticia": "Zidane elogia a Olise tras doblete en Francia:  Es lo que amamos",
+      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17344774/francia-zidane-elogia-olise-doblete-amamos",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHA0z7wsd8ODnng1V36dDf3yQrI98g3MXBJNZ6zl-y_eZD5Sb3fkLduDyC2yU"
     }
   ]
 }
