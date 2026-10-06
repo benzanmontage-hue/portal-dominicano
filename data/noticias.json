@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T08:01:09.150800-04:00",
-  "hora": "08:01",
+  "updated": "2026-10-06T11:00:13.025138-04:00",
+  "hora": "11:00",
   "fecha": "06/10/2026",
   "total": 15,
   "noticias": [
@@ -21,8 +21,8 @@
       "imagen": "https://www.propublica.org/wp-content/uploads/2026/09/20251021-Gregory-DR-Baseball-0113-1_maxHeight_3000_maxWidth_3000OG.jpg?resize=2000,1050"
     },
     {
-      "titulo": "República Dominicana prohíbe a Haití jugar en sus estadios tras unos disturbios - rfi.fr",
-      "fuente": "rfi.fr",
+      "titulo": "República Dominicana prohíbe a Haití jugar en sus estadios tras unos disturbios - RFI",
+      "fuente": "RFI",
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc3JSaVc3TGJvOFM0ckppUXNBZXBSSVhIWkt5dElCNzZJbjhnQVRlUmg1SmdyT0pLVDhtZWR3czdMSHBXbUdHdF81aFFhd1FsQkVzc25nbUdqbTFqc1JKakIybVljWTlLSGRHN0szeEp4clNXZ1lUTDVaNF94WWVLMzZnNGtvdnI4QUdMMDl3SGQ2QUNzdGhmN2JjT1Y0clU3bHNwWkdGbFhrQVBjbzQ4SWh6NlVqQmEzbjNnbGRLRVJEUVJiWHEzUU1FUE1QOWxjQnI1Z0tDV0dpVDA?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 10:48:57 GMT",
@@ -53,43 +53,27 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana cierra su embajada en Nicaragua - France 24",
-      "fuente": "France 24",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWhmZWp5UDJWajY2LXpBVW5OSkVubm83R0Nkb1A0VDFtREd3Mmc0VlppOXN5SVlUY1dpU0o4Y2pKdkFfLTlhb1V5WWR6SG8tRUlMMDVaME1ZNXVFcFdyRjJXdEJISWp5QjFqdEFlcHlvSDFTV1VyLXFScHlsX3YtdGxGZi1IcVdfSVk4bnZWdHhscWFaUGJFYkFFcXBTekZfX1pFZktORWEyUjhWUTZz?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 09:24:52 GMT",
-      "imagen": "https://s.france24.com/media/display/9d2641c6-c09e-11f1-96d0-69fad0a7cb9f/w:1280/p:16x9/fed257c4e9bbbca0d90e13001bc6d15b6c3eaa75.jpg"
-    },
-    {
-      "titulo": "Nicaragua vs República Dominicana | Resumen - Concacaf | Official Website",
-      "fuente": "Concacaf | Official Website",
+      "titulo": "Nicaragua vs República Dominicana | Resumen - es.concacaf.com",
+      "fuente": "es.concacaf.com",
       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3A4cFYzcnVhVEpKVzhBdmpSTXVBN0J5Q2phVzVobm4yVFJLMkVYaFp5V2UyeWFVQjJNVDdCc3c1M2toYVNPc3FRS3hBT3RHbE9DaF83NG5zUnZGU2NwWVEwYlVuS0VMRndfb1ZVMk5WdGJYLWlfY1FZMVdmWFM3WFJSOFpfS2FKSWR3ckJRWjNsdkpHRUJfWDZkMk9DSlllVU9N?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 04:47:00 GMT",
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/jk6kecugettzocpekeeh"
     },
     {
-      "titulo": "Rescatan a 61 migrantes de una embarcación que se hundía frente a República Dominicana - Univision",
-      "fuente": "Univision",
+      "titulo": "República Dominicana vence a Nicaragua en Liga de Naciones - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmhEQTFWMFktSFRRTV9ldjVHR2g1MzBYc1l5YW1LQlBsN1dwYzRFOWd1Y2N4NEk5RXFldHBlSTU1R1g0ZnFWblhrcTVSSFU3ZE9GUTB4elNhX191Qks3MGVKQTNTRm55OURfWWNNTl8wV3NDbFAyaG5fUTIwZEFNaXpmWjBiUUJIV2Y4?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 06 Oct 2026 05:03:46 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rescatan a 61 migrantes de una embarcación que se hundía frente a República Dominicana - univision.com",
+      "fuente": "univision.com",
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0NScWF4Nk44TE5NYy1teVpvV3VUTUVQXzV3a0E2T0NWb3otVnpiUW8tRThxNnlUZHFLZWIxSERhQ0pIZVRpcVBkQU5lZHlyemV1QUZ6T2tONHZuWEZuTldvZGZhVE1UTDFnODdHelZUV0JHY0p4RGxYZ0kwVmFEUUJ1MmZBRzY3TUFzdV8tWXRPa2xvWkRFRnBXaFdvMWVUSTRjTTVTQzZJR1JiU2NCYjJCc2FiTXl6dXRRY242dnpVWXVmWkdTcFEtLUEzUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 06 Oct 2026 02:34:02 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este martes 6 de octubre de 2026 - clarin.com",
-      "fuente": "clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRXhaRzNIeUZVWDBpU2hIQ0szOUJJZHQtektza1QtQ2F5U3VqV1VodWxONmhGUnlzQjRuUjlPTDZON1BBR3BMNG15dGpydUhjZ1FzcDlNQ0RYNmFOcUh2V2hXbWQyYU9LNXA4dFJEMUtLazY0RmVfcGY5bWl1bGFRd2RlZXprMDMyb1VxanFodmNMNTVaallBaklVWXF2NEp4dFhjMkpGT0h6eTNGUzVmV0kzNE9iRExXaE9jUVVoTHE5LWVfck9OOFd4N01Yd3R3a2E2OFo0MkZtQUJ4VTl5b0NpQdIB6AFBVV95cUxOLVZHZDZEdnhHMldLTnRLRF8zUFpUVVh4VEJwQkg3LU9QeFpfcmtoVTVXTTBZUUtlQUlMWnZtcDBxZjU2dWpCV3ctczQteHQxaFgyazBXZExxRmRpZ21TQUFQbWZadTM5eWl6MjFJX2RBRDVNTmg1UllKMmxmaTIwZ3NYbjB1U3pFdDhRSlhvQmRwSmVUSDcwQ01zZUwwdXdoYmgxV3NDMkotek1WN3NvSFNXUUt6VUFmd0xnN1h6UmNfdy1Oc1ZVR016NnpGQ3hqWWplaU1WZTRwTXAwREN1cWdZV2duTnl0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 06 Oct 2026 10:40:07 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rep. Dominicana elimina arancel al arroz importado desde EEUU - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2p1cDBCYUtVb2ctMkJqQlNyR1Fud1V3ai1FSEliOHQ2ZHd2dFBUVWptLVlUREVJMzlyeEVWU2xUZTd2cF9sZUdHeElVUktYeWNyYW9NWTRHeGk3NGRkYVpDR21CRlBZQXE4QVFCYUh3MnJMODNCTm1lWjRNWDM0TDV0azN2YmRoczkwNA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 06 Oct 2026 11:33:55 GMT",
       "imagen": ""
     },
     {
@@ -101,20 +85,36 @@
       "imagen": ""
     },
     {
-      "titulo": "Mariano, como una estrella del rock en República Dominicana: a besos con una fan - MARCA",
-      "fuente": "MARCA",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzlPR0M1SEdGb3N0SXRnX2hPVFRwVGFxaTdPVklQRkozQldURW9pME9jQ0ZKa01uS2V4bTlqZ05ia1ZDelRYbWtOc000X01KM0VyM0xHclVJSzRxYllyZWo0bnlDTGJ4bHVPRFZOZ2NLS21qNl9SMkV5NkgzOXBuTUo2Z1JGVER6enRaTXZnU21jT0otRk5kM1F2Nkg0dGJIOGJFQk9wUdIBpwFBVV95cUxNNlZTM2RuSkdFbG1BZTdkVEVkeFNOZk45RGhPM3VIV1ROSHRvOUw4bjVvVldvUzRTcFBGMzk3SVY2S2JwcVl2bTF4N1pvRUFUbmJ6N29Jc1M0WmlwajJpSVhrNmxxVlJBV3Q2OUNPUVA5MzNDNzh3djNwTlhPbm9uekVkeFRlYlpvMnZ1bms1U0k4NnpOQkNZVFlIODhaLVQ2SkpjUDBDOA?oc=5",
+      "titulo": "Dominicana elimina arancel al arroz importado desde EEUU - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2p1cDBCYUtVb2ctMkJqQlNyR1Fud1V3ai1FSEliOHQ2ZHd2dFBUVWptLVlUREVJMzlyeEVWU2xUZTd2cF9sZUdHeElVUktYeWNyYW9NWTRHeGk3NGRkYVpDR21CRlBZQXE4QVFCYUh3MnJMODNCTm1lWjRNWDM0TDV0azN2YmRoczkwNA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:03:14 GMT",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/05/U1gmqjhHhRRwp.jpeg"
+      "fecha": "Tue, 06 Oct 2026 14:00:32 GMT",
+      "imagen": ""
     },
     {
-      "titulo": "Tráfico aéreo entre Boston y República Dominicana crecería 24 % en 2026 y superaría los 790,000 pasajeros - Acento",
+      "titulo": "Prazmowski: el reto de República Dominicana no es diseñar más planes, sino ejecutarlos - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWdlVWNDbFdvSllHWTBtcVhiWkVXbUdacWNtRkpmYnpBXzVLcnVwaF9jRU83a1Y5T0pFUkRuVTZfeEZKRUZTWXpzdUo4b1prdWNDOU5nMHZtbEtNSEhGald1VGx5REswWmMyeGFMbDVMMFJyb29rUS1yQ2ZvV1pyTjNTSkJqUC10U29zRlI2dmFHZDNoelNnTURPLS1Na3B6a2M1YjBzNDZFYVFtbVBncWpkV3RINUVLWVIwS3J0T1Z4ZzhyVXdBZHlVcG9pUTdGaElNNGozeHlzTXF2YkHSAd4BQVVfeXFMTU1nZVVjQ2xXb0pZR1kwbXFYYlpFV21HWnFjbUZKZmJ6QV81S3J1cGhfY0VPN2tWOU9KRVJEblU2X3hGSkVGU1l6c3VKOG9aa3VjQzlOZzB2bWxLTUhIRmpXdVRseURLMFpjMnhhTGw1TDBScm9va1EtckNmb1dack4zU0pCalAtdFNvc0ZSNnZhR2QzaHpTZ01ETy0tTWtwemtjNWIwczQ2RWFRbW1QZ3FqZFd0SDVFS1lSMEtydE9WeGc4clV3QWR5VXBvaVE3RmhJTTRqM3h5c01xdmJB?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVk0V3FLMTJNVXJYVzlhUG0ybTF0NUZodW45YjdnR25scjAya1pTVGRVS0EzMUx5QTBsencwTDkyaHVZeEZubFZyTEE1MUlsZFJqUmtQc2JsNy03NjhFQmpReDFXQnhRRkR2TW16VW5samtGUENiWnZRZEJlckJwT3J2ZDRrSGFMVThwTTlBdWc3ODU5UGtqbDc1WWJCcFNYc0k0eTVybGQwZjduUkY3dFhYRl96VlhKSFNodUctQ09uLU5Ba05N0gHHAUFVX3lxTFAxWTRXcUsxMk1VclhXOWFQbTJtMXQ1Rmh1bjliN2dHbmxyMDJrWlNUZFVLQTMxTHlBMGx6dzBMOTJodVl4Rm5sVnJMQTUxSWxkUmpSa1BzYmw3LTc2OEVCalF4MVdCeFFGRHZNbXpVbmxqa0ZQQ2JadlFkQmVyQnBPcnZkNGtIYUxVOHBNOUF1Zzc4NTlQa2psNzVZYkJwU1hzSTR5NXJsZDBmN25SRjd0WFhGX3pWWEpIU2h1Ry1DT24tTkFrTk0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 19:00:27 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/Foto-1-OG.jpg"
+      "fecha": "Tue, 06 Oct 2026 13:02:29 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La ética administrativa en República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjd5TmNvR1JsUDN0WFhETGJQZ1hqSXB2OFdLTlRNajZCcXpMa2JjQVZ1WE5VZHlDUG9yN1dLck14LWc1bnpXYlFpZnVzbS1NS2xXbGFRQ3RrZW1RR25ETFdTRENMNnRvcUpiOVdWZE9ETWtmT2ozaGxXT0FpX3RfRTVjUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 06 Oct 2026 12:31:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Panamá y República Dominicana acuerdan impulsar coproducciones cinematográficas - NotiCel",
+      "fuente": "NotiCel",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlloV0pkVk5xOVF6bDRkMHJjSTBzQlV1LUV3R2FHdDZ0TDBoY0EteXk3TkU0ak1UR0NpSXY4Qmw0cGcybTVhWi1LOTUzNWNObWNuSWpuTjR6Zmd3Vlduc0p6dDZlOHpYcTN2STFrSFUyNEhLQU5laThUQk5lR0FXNkZIazlMbUdjeVZXR2VkUXU1M0JiaVZ5ZkVCZWdDZHVZQzl4UVFCc2NHaFVZVG40YXR3VUI3S1JsRnlBbXUyYzVpYlE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 23:25:21 GMT",
+      "imagen": "https://cdn.noticel.com/2026/10/04105615/rss-efe32306fd02293b03053d9a78e1130a56023ecd3a6w-1120x677-1.webp"
     },
     {
       "titulo": "Nicaragua 1-2 República Dominicana (4 de Oct., 2026) Estadísticas del equipo - ESPN Deportes",

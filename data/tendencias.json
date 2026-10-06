@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-06T08:01:06.228562-04:00",
-  "hora": "08:01",
+  "updated": "2026-10-06T11:00:10.596622-04:00",
+  "hora": "11:00",
   "fecha": "06/10/2026",
   "pais": "República Dominicana",
-  "total": 10,
+  "total": 8,
   "tendencias": [
+    {
+      "termino": "salario",
+      "trafico": "100+",
+      "noticia": "Estudio sitúa al país entre los peores posicionados en relación salarial para alcanzar bienestar básico",
+      "enlace": "https://elnacional.com.do/economia/estudio-situa-pais-peores-posicionados-relacion-salarial-alcanzar-bienestar-basico_582626.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoVXoWYdJxZSaA5N1oG9MsYN-wbWrG2cN2hcC7U7aHWDDogj88DI4mnjfMR_Q"
+    },
     {
       "termino": "freddy peralta",
       "trafico": "200+",
@@ -29,9 +36,9 @@
     {
       "termino": "guardians - white sox",
       "trafico": "1000+",
-      "noticia": "Gavin Williams Strikes Out 11 in Guardians  4-3 Loss",
-      "enlace": "https://knup.com/sports/mlb/player-news/performance/gavin-williams-performance-10-5-2026-693162/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmQTaEzVpg88Lv1mR2N_jrFfikkKXMF-PTXJxQuPwY81iwwsTis3XtiV5MqnY"
+      "noticia": "White Sox Touched By God, Or Perhaps Merely Joyful Exuberance",
+      "enlace": "https://defector.com/white-sox-touched-by-god-or-perhaps-merely-joyful-exuberance",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTC27NedcHUpMpV00R82rMCVWxVBU3k2TPJArBdBsbGJK9czIUt-r4JhMgjTYc"
     },
     {
       "termino": "inundación",
@@ -53,27 +60,6 @@
       "noticia": "Francia 4 - 1 Bélgica: resumen, goles y resultado de la UEFA Nations League",
       "enlace": "https://as.com/futbol/internacional/francia-belgica-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202610-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStBsSSqdyb3myog112E8uzXRLAXkiuDaHWQ-tcD7yaEHny0rfIwPxLQK2rRBM"
-    },
-    {
-      "termino": "banco popular",
-      "trafico": "200+",
-      "noticia": "Cartera hipotecaria del Banco Popular cerró en RD$87,729 millones el año pasado",
-      "enlace": "https://elnacional.com.do/economia/cartera-hipotecaria-banco-popular-cerro-rd-87-729-millones-ano-pasado_582520.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2AJ-DPDcnmdJtqi2GGBFrIn7Gh-339zwY13L_JCyugxeTd4kOdG7zhRCVmIA"
-    },
-    {
-      "termino": "listin diario",
-      "trafico": "500+",
-      "noticia": "Guía Deportiva 05-10-2026",
-      "enlace": "https://listindiario.com/el-deporte/guia-deportiva/20261005/gui-deportiva-05-10-2026_924852.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlJaczjxCXbMpMG7G22H3k8BWygQd-bWXBP-qBnHLgTuW3apRRg-natsL6Y"
-    },
-    {
-      "termino": "outlook",
-      "trafico": "500+",
-      "noticia": "Wall St Week Ahead Spiking bond yields, midterms, earnings to test US stocks  typical fourth-quarter strength",
-      "enlace": "https://www.reuters.com/business/wall-st-week-ahead-spiking-bond-yields-midterms-earnings-test-us-stocks-typical-2026-10-02/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZAI91mXVYSp3E8Jx32smI9Vqs90TGk8Neorg36mzMpaz1Fyv1Y2HNAhQ_BM"
     }
   ]
 }
