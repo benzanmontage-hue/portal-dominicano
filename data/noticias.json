@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T17:01:07.285296-04:00",
-  "hora": "17:01",
+  "updated": "2026-10-05T20:01:03.649693-04:00",
+  "hora": "20:01",
   "fecha": "05/10/2026",
   "total": 15,
   "noticias": [
@@ -11,6 +11,22 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 12:23:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2026/09/18/807682631179643064022383947568515523459417480n-01ad9be7-focus-min0.06-0.61-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Rusia no tiene constancia de que haya dominicanos en la guerra - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVtV2VtZW9aNzZWeEljdTBvNlZVcFg4TEdDYkRfbG9xOHd6VVJsRmlVM1hjRm9veVhUb2JUeUh0TDVBemdhdXc2NTljWG1nTzlrVzlKc1Vtd1BfZTg4Mk5SU1N3U2NXTjFaYk5NdGstRnMzY0xuLUVobEhicWg1VE0xb1daVVBtZkE4?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 04 Oct 2026 22:59:41 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Embajador ruso: “No tenemos información confirmada sobre dominicanos en la guerra” - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdktNWjNvTnM5LWZ1X2NYSWp3WHA2eE84cUs2NmF5Z2doWjlEVFBoMG5ZN3oxekdLc1ZjMkg3Y0xzN0VwVE9Vb25yRFhlZ1JobnI0VDhhYTd1QkdhY1ZNRkZwR3BkVkVaOVhSZG5yYXNqUkdsNUVjcWVYVjVLOVdLMU1NZkx0ZFNDM25yVzRCUDlCNzJFdWFuNGpZNDRqQ1ZaaHp6cW1TUnpuREp5NmVhV3A2V01YbWpoUzMwR0hn0gHDAUFVX3lxTFBCVExVS1JhUldhYzJ4S3lhcjZmM08yb3E2YS1TdVFSeTc4RU1KTkJGMHNfNy0zWS1tX2x0NHZGd21GN2R3WlMyV1ZDcGloY3lxSGdkZ2s3UnR4aUQ0QlpuQ1E3cng2d1pQZ0x6TUlQenBDcWJhZkN3TlJ6RHdTdDBvU0wyckNYbUY5cndNb1lCRG12c0hyVHhvVTl2NTNQTEhTVkV4QWxOdkM4OWRfN0E5TXV2S0dzenlncmVWNng1QzlGTQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 16:20:12 GMT",
+      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/06/11/6a2b6413541a8.r_d.402-255-0.png"
     },
     {
       "titulo": "República Dominicana gana plata en el Mundial Sub 15 de Béisbol - Diario Libre",
@@ -37,12 +53,28 @@
       "imagen": ""
     },
     {
+      "titulo": "República Dominicana prohíbe a Haití jugar en sus estadios tras unos disturbios - France 24",
+      "fuente": "France 24",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFJDRW1CampXVTlBM0VOdG9LOGFyOWNCeGt3M21TRWc0blVlS3c1X2djTDJjWXM2VW91WkFMcXd1V3RMZF9ZT1NGcE1rYy1kZmxOVlJodm16Q2dNUWF3VkFyYzViR1pDY0Zva1dMQlJONXUzdFhzRWtpa09oblpCTElzdG9yZnV5YzZCTW44bkdMU1lhX0t4ZlNYdmxQQjROaDFQTTRNU25QdklxTU4yYlZPeVlPRUZUTHFiQjZpSTJjWjlBVnF3aENybUh0dmhNRDNaWE9TMEg2dHJSX2lhTg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 10:48:50 GMT",
+      "imagen": "https://s.france24.com/media/display/58d93878-c0aa-11f1-be82-dd51fcab6130/w:1280/p:16x9/07168dd792e2376d492fcc4ab179c1a44a69919f.jpg"
+    },
+    {
       "titulo": "Haití prohíbe que mercancías de terceros países pasen por República Dominicana - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXZWME1vSkNYUTFDUFRUNVlwSTNieS1sZnBSamlENjdQajFLZTVxcm5RYXBTTURBSERvTEh3cXVKOXo3RmJVT05hNEk3dEEzNy1rTWZobVhzX21uUFlLSjEwNC1YMG5fRUtjdXFHYXltZHdiYU5lanFKcG9aczRQY2dTeUw3WDVXOGtHbmlKd1B0TUEwd2lnMkhiN2FMTlgzM1poN0xpX3c2ekF6bEFITWRnb0R0SVBaQWFJdVVyck9FcnZzeVZNX9IBzgFBVV95cUxOTlFPZ2hXanJ6SDNEV2xvcUtla19LOHlyXzQwOGZSTnNSWFJ5Y3BJTmRYeTdoa3ZjbUphSHpCMFd1aFpkRWtoSnJvX0gzQUVyZ3dXdGNjRlI0eGxjdElMR29KUkZjVVRvRnQ3bTN1czFzWEdZaFZsZ0M0Y1V4cF9wLXhaQ0JKSTdlYmhmT2k1bVhydndpXzJFUnViWnU3blBkdnZCd1RwMkZRZzZoRy1pTmg2T0Z1ZzJKX0MzT0RjSkZIS29jOHhmYnVpeXUtZw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 01:23:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2026/08/25/whatsapp-image-2026-08-25-at-85429-am-3f2f0da8-focus-0-0-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Un comentario de celebración tras un partido de fútbol agrava brecha entre Haití y Dominicana - San Antonio Express-News",
+      "fuente": "San Antonio Express-News",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3FaY0QxR1Jjem1naTJZdkFNbG5BYWJnRTVoa29oajU4QTlKNE9XZVNzZ0Q5c2ljVGxYTmxZaUlBMDFVRXdGZl9lYm5PbUg0VEJKYkJoWGlYR0pmd2ZnQnp6NG8wR2hYUzVaamNkcTZRNXFjcTNJSE9JVFp4bUp6eC1JTFctczNORkwwZzNHdzlDY1JMUmdPTTRiSEtNeGZjVjRKdll3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 20:02:15 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Nicaragua vs. República Dominicana (4 de Oct., 2026) Resultados en Vivo - ESPN Deportes",
@@ -61,12 +93,12 @@
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/jk6kecugettzocpekeeh"
     },
     {
-      "titulo": "Dominicana cierra la Liga de Naciones con una remontada ante Nicaragua - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOExQaEMtOGx3MTNxOXVjRDBja1B3OTQ2ZnZQdEMyMGdCVjV4d19ZeEJwS1daUzhWOVI2UGNZVHI2b3FYYnJCNnFUMzk3cENVNTNoX1lIWW9RVnZjaFF1Y3F2eGF3SmFET2RnYnRfLWZQRmJFTTk0VlpSR2g4Vms4dEhZczFPZGFUMTZzc3dvQ1kydXNpUHBhclY4b1rSAaIBQVVfeXFMT25vWWhuZ25BeV96TkZjZ3AwSkkydFZOX1pTWFdTcHd4MHotR0NEeGJDcV9sVHNhZ0FSN1hPSHJMMVNyUlBZSEtEclZfanJPXzR5eDVNbFJ3cGxVWWJPRVhVLTJXYXNMeTRmRHgyRDlGa2NqUkJ4ZXlRakN2Q1N1dHVOS1VGX3p0SHY1TlhOWkdDcVhwVmIwZDBrU19IV3Z5Rnl3?oc=5",
+      "titulo": "República Dominicana logra remontada ante Nicaragua y obtiene triunfo 2-1 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajh4U3AwQWI4Qy16UnVsQVBqajRkSlVpRmg5eDgtbzRnRHNKWGdPSnRWa1diUVROdnZKZlVkVUgxMjdPS0kweVQtM0dQMGZlMlRrN2dGdjZyZ1ZmZEhyUUdha3NyZ0tOXzZDdzQ5bktodzJ4dWl5U1hsRHRYYTJ6cFFnb1R4SHZIVlY5b2VDZ1BUcDBFclVuZjdzWFUzOVhnNThRV3AtUmdDb2lzczhjWHNOSdIBuAFBVV95cUxOSi12cjNsMGhYVU52NC1sTUE1eEVJdGJpellWMjdKclpRVk1Fc2xUdWo4T0JqSXQxRkpoX1RYR3NxdWE1ejJxRW1FZlhtMEpaV0FjMnplMDFwN1N3MkdNWW1UVWZ6RnhqR2tkRmpqZjdVX3JaUzgwZDdVRGg5YnV2UkVFdnFtOENSNDNQdzkzTmVKTlZCZVNmMmFVVm1Za0dIdFY5VDA1Tkp4SWlueFJSQy16elQ5SzU3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 04:56:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/07/31/i-2-d8868bef-focus-0.08-0.42-1200-675.jpg"
+      "fecha": "Mon, 05 Oct 2026 13:19:28 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana cierra su embajada en Nicaragua - France 24",
@@ -91,38 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 19:00:27 GMT",
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/Foto-1-OG.jpg"
-    },
-    {
-      "titulo": "Los dominicanos reclutados con engaños por Rusia para luchar contra Ucrania - RFI",
-      "fuente": "RFI",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXpVNGVTUjFnVkZJM3hEZUpWRS1LOU1pdWVhdUo2R1QxVUlxQ0M0RVZZRzBSNXF6X3pyajRtLWtabXdFM3EtN3pzVlRuNGUxOU55UmdNQk5yTGc1eFNtUWVKZjZBTVNiOVlwRlZ1WGc5VDNLLVhrWHFzT0dlTkN5QnVvZGFlVHVwbHk0NUZfWVd1WlhsMGw3XzlJeUJzNnZ2dklIV25kVFZ0Ulplbk1fS0xvaHVIVGNRV0ZTSVBRb0NPZ004RHhZWA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 14:35:05 GMT",
-      "imagen": "https://s.rfi.fr/media/display/f448ffae-c0c9-11f1-a995-69fad0a7cb9f/w:1280/p:16x9/17714e1510195bb9a125aada14d55d9e0c2a56cc.jpg"
-    },
-    {
-      "titulo": "Panamá y República Dominicana acuerdan impulsar coproducciones cinematográficas - NotiCel",
-      "fuente": "NotiCel",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlloV0pkVk5xOVF6bDRkMHJjSTBzQlV1LUV3R2FHdDZ0TDBoY0EteXk3TkU0ak1UR0NpSXY4Qmw0cGcybTVhWi1LOTUzNWNObWNuSWpuTjR6Zmd3Vlduc0p6dDZlOHpYcTN2STFrSFUyNEhLQU5laThUQk5lR0FXNkZIazlMbUdjeVZXR2VkUXU1M0JiaVZ5ZkVCZWdDZHVZQzl4UVFCc2NHaFVZVG40YXR3VUI3S1JsRnlBbXUyYzVpYlE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 19:19:32 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana intercepta dos embarcaciones con 749 paquetes de cocaína en operativo con la DEA - Diario Las Américas",
-      "fuente": "Diario Las Américas",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlVLdGM3QTFseWc2RU1oYzFPRW5IVmpjUk4waktVNktoVlYwd2xTZGJCbXVXaEpRblM5M2tLZzdEb2YzSDZPdkQ1MG5SaGVGb004OU13SmxUcmNLaGstMDRwNkJmRC1TR2g2T09lNWxXLTd4WUktaTgxM1otai1RNHNNdGVPazFaWnp4aGdZR20tYlJ4TGhCbnV3X01RUDdQSldHNElZSzFlMUxQVEF6RzdaWENpYUw2ZTFMbjYzZ2k3NllBakxuOUw5R3ZyMWZFLUo0VlIwTjNZa3g1OUHSAeMBQVVfeXFMUFBIaVpwYk13Z1podEdockQ1b1NBcVBNbjJMcnhacVJzV0xuX0YzaUoxX2xXWUMzYmhTaFhtakpGbGJLQ1MwTGp3LUh2TXhRTGRobHJDOUR5MHBkeWlLN2pOQzRDU0pUT3p6NXh2dXNtclhUREY1NDRGNGRveHRjenFhek11TE5YT1FvREx6UnZBNGRNT0VpNWJnWGt4R1BydTNZZHJSODV4ZlljdTdPd1F3ZFVXeHJqdEx2ZVE3TXFMQWJUazY2U0hNWVNkTkFYZGFIcE9DbTRYWlA0S0pmcXB5M2M?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 04 Oct 2026 22:34:00 GMT",
-      "imagen": "https://media.diariolasamericas.com/p/ef473109b42a29e7ded1b1b1ed823516/adjuntos/216/imagenes/100/282/0100282433/1200x630/smart/decomiso-droga-republica-dominicana.jpg"
-    },
-    {
-      "titulo": "Nicaragua 1-2 República Dominicana (4 de Oct., 2026) Estadísticas del equipo - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1I1eUdRbERSTVNqX0ZIbkpLb2NnRzZBbjdZUzFUVmZGSmx6UG5IeGdWMjdqWml4cGNzNjc2U1psUWZQSFVJSDBGdDRUUWU3UWhRWlNNVFMxZWFkY3BZX1Z2U1pPUGVEeldxbWV4Z0xVd3dkZTQ2RmtKYUJHQTIyU2dhbXRiRmw2SEd3b0VnVWpiTlFFcWU4YWJKaDF2YmJJVG9HRXJBalJXZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 01:56:45 GMT",
-      "imagen": ""
     }
   ]
 }

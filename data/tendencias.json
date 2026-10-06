@@ -1,30 +1,44 @@
 {
-  "updated": "2026-10-05T17:00:54.864370-04:00",
-  "hora": "17:00",
+  "updated": "2026-10-05T20:00:57.289544-04:00",
+  "hora": "20:00",
   "fecha": "05/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "chubasco",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "guardians - white sox",
+      "trafico": "1000+",
+      "noticia": "White Sox vs. Guardians (Oct 5, 2026) Live Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401907991/white-sox-guardians",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkcHxNkeh-fvrc7rM_QSSwEgBfLI53EkWqmdRFD9F-n0DlLaZXaGR_NtmnkfU"
+    },
+    {
       "termino": "inundación",
-      "trafico": "500+",
-      "noticia": "Lluvias, inundaciones y turismo: gobierno y privados se preparan para atenuar las consecuencias de El Niño",
-      "enlace": "https://www.elpais.com.uy/informacion/sociedad/lluvias-inundaciones-y-turismo-gobierno-y-privados-se-preparan-para-atenuar-las-consecuencias-de-el-nino",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMfReaxtxihqK9c92nlfip5w7AE3jSJS3hFid-kz_HQDufv5GK5Sjjcb7EhsM"
+      "trafico": "1000+",
+      "noticia": "Cómo afectó la lluvia a la estación de El Labrador y qué explicó el Metro sobre la inudación",
+      "enlace": "https://www.elcomercio.com/actualidad/quito/como-afecto-la-lluvia-a-la-estacion-de-el-labrador-y-que-explico-el-metro-sobre-la-inudacion/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD7h9wL9Q823airdb4cAfh9o830eeUfupnmUYrbSnWaFI3GjxpM7UmqMMb6o0"
     },
     {
       "termino": "france – belgique",
-      "trafico": "500+",
-      "noticia": "France – Belgique : Grande première pour Leny Yoro (ex-LOSC), pas de Mike Maignan",
-      "enlace": "https://lepetitlillois.com/2026/10/05/france-belgique-premiere-yoro-losc-pas-maignan/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhD2avPlN4BemrPJ--ChFs711Nyhqeo_9dbroJMz3QkKvDJ_uDC62Sv4ntZX4"
+      "trafico": "1000+",
+      "noticia": "France 4-1 Belgique, Ligue des nations A : Fin de match tonitruante, la France renverse les Belges",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-belgique-live/688709",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVGLSL0CESUquwmMXIhZIN-eUfhOLdWF2mkj8D4rb4rhsmRK7G4qjVgt2P5Dw"
     },
     {
       "termino": "francia - bélgica",
       "trafico": "2000+",
-      "noticia": "Francia 4 - 1 Bélgica: resumen, goles y resultado de la UEFA Nations League",
-      "enlace": "https://as.com/futbol/internacional/francia-belgica-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_LhHmuUPi85_5RPbIeajVgh18q82DNolY_LWo75BQ-pEaqOwfSVisbsDsvk"
+      "noticia": "Francia e Italia clasifican gracias al sello ganador de Zidane y Mancini",
+      "enlace": "https://acento.com.do/deportes/francia-e-italia-beneficiarios-del-sello-ganador-zidane-y-mancini-9764982.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTolveyHgZ_fCWeI9UollA-z7to2OJ_2UqNijr26JH1bzM-lQ5a3JmclqPOqJ4"
     },
     {
       "termino": "banco popular",
@@ -36,9 +50,9 @@
     {
       "termino": "listin diario",
       "trafico": "500+",
-      "noticia": "Sigue desaparecida una de dos menores que salieron con un hombre hacia un río",
-      "enlace": "https://elnacional.com.do/nacionales/policiales/llllllll_582593.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDZiAz_R_sxEc2OjvEzDvK6OR3Ps-aEUlMbcIpHuiSF5fGvCy1PPZDoOFkB1E"
+      "noticia": "Guía Deportiva 05-10-2026",
+      "enlace": "https://listindiario.com/el-deporte/guia-deportiva/20261005/gui-deportiva-05-10-2026_924852.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlJaczjxCXbMpMG7G22H3k8BWygQd-bWXBP-qBnHLgTuW3apRRg-natsL6Y"
     },
     {
       "termino": "outlook",
@@ -57,23 +71,9 @@
     {
       "termino": "concacaf nations league",
       "trafico": "100+",
-      "noticia": "Honduras vs Jamaica: Where to watch, live stream, TV channel and kick-off time",
-      "enlace": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-honduras-v-jamaica/blt2a7178511525a3ba",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPjKvVVgX3h36A826KKjVvuCz8fMQgE3_4Zogu2olXlorxeAiKb11LvixmNc"
-    },
-    {
-      "termino": "liga de naciones concacaf",
-      "trafico": "200+",
-      "noticia": "¿Qué pasa si Honduras pierde ante Jamaica por la CONCACAF Liga de Naciones hoy?",
-      "enlace": "https://www.365scores.com/es/news/honduras-que-pasa-si-pierde-vs-jamaica/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAw_d0fEnP3qtiALdxt_80WYRfPG-kKDL0XsR6mawP7jyU9Y8Hs6XkDiNOiDk"
-    },
-    {
-      "termino": "nicaragua - república dominicana",
-      "trafico": "2000+",
-      "noticia": "Dominicana cierra la Liga de Naciones con una remontada ante Nicaragua",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/05/dominicana-remonta-ante-nicaragua/3678855",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviRFvh9OUO_eHJfBATTKoXRFgxQMaCSLulTHH1pv3G6sy3s9HmaZQztRQ1iI"
+      "noticia": "Haiti and Curaçao advance to Nations League Quarterfinals",
+      "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-and-curacao-advance-to-nations-league-quarterfinals",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRASNPCqyFFRghjK50NDIxnVB92xX3g8A63H6uQgxofIQ05uIklQuM_LV7Gg"
     }
   ]
 }
