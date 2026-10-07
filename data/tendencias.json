@@ -1,13 +1,20 @@
 {
-  "updated": "2026-10-07T08:00:29.858738-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-07T11:00:32.787939-04:00",
+  "hora": "11:00",
   "fecha": "07/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "arroz",
+      "termino": "tormenta",
       "trafico": "100+",
+      "noticia": "Se espera que la tormenta tropical Isaías llegue a huracán",
+      "enlace": "https://listindiario.com/las-mundiales/20261007/espera-tormenta-tropical-isaias-llegue-huracan-golpee-costa-eeuu_925172.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDQACEJvFYi6t5CnZcrKJvtUjb2cCvY4eU6YwZQbQPfz7tj9XlCnZx2KF6YXY"
+    },
+    {
+      "termino": "arroz",
+      "trafico": "200+",
       "noticia": "La salvaguarda frente al DR-Cafta se acabó: ¿en qué posición está el arroz dominicano ahora?",
       "enlace": "https://www.diariolibre.com/economia/agro/2026/10/07/arroz-la-salvaguarda-frente-al-dr-cafta-se-acabo/3680958",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4LNdUetxqcopFPbnm-Sb8ayx-rDAW2mFrQyn9737WVDGr27aUn12kOXaUbDg"
@@ -15,13 +22,13 @@
     {
       "termino": "resultado mlb",
       "trafico": "200+",
-      "noticia": "Relato Rays 5-2 Yankees (5 Oct., 2026)",
-      "enlace": "https://www.espn.com.do/beisbol/mlb/jugadas/_/juegoId/401907986",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbwv9Vt_3UX5gaoSLeMRbsYgIqU7HjeR1V6WVStp5NeYaFnnwb_OYzWzQPMU"
+      "noticia": "Padres luchan, batallan y hacen lo justo para mantener viva su temporada",
+      "enlace": "https://www.mlb.com/es/news/padres-ganan-el-juego-3-de-la-sdnl-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrmxsyAUegC7pcveXq3Fo-BZQ2ZSxg87t-5V1skc3X9k4zrQ8X5LqTvT96oU"
     },
     {
       "termino": "dirección general de migración",
-      "trafico": "200+",
+      "trafico": "1000+",
       "noticia": "Inspector de Migración facilitaba salida irregular de personas por el AILA; juez lo envía a Najayo",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/06/inspector-de-migracion-facilitaba-salida-irregular-de-personas-en-aila/3680913",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoNy2mhKjelKAlVl327vlw-H0sIlNTKx2xHIIk1Q7FrtSauy9gngLBiR_0uiQ"
@@ -36,16 +43,23 @@
     {
       "termino": "yaxel lendeborg",
       "trafico": "100+",
-      "noticia": "NBA: Preseason-Los Angeles Lakers at Golden State Warriors",
-      "enlace": "https://www.reutersconnect.com/item/nba-preseason-los-angeles-lakers-at-golden-state-warriors/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwMTcyMTY",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq1HsiBKX0cXSWarsejpXtzsY-kEnz7CB8ubeC5YU4_C0Rzg_k1S-CTMzkdCg"
+      "noticia": "Recap: Shorthanded Lakers Blown Out By Warriors In Second Night Of Preseason Back-To-Back",
+      "enlace": "https://lakersnation.com/recap-shorthanded-lakers-blown-out-by-warriors-in-second-night-of-preseason-back-to-back/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTezv7EaTKgVFOUh0Ni-VRYzUkFaZT4RVhx553jQ73iJhfNx96XumiicLgyYnc"
+    },
+    {
+      "termino": "padres vs brewers",
+      "trafico": "100+",
+      "noticia": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
+      "enlace": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9zpecyo9rL2sSRKus0SpGRfFlXe7jKQLklETZZMTiQtYndMfG4c_NYbuCqo"
     },
     {
       "termino": "mason miller",
       "trafico": "100+",
       "noticia": "Padres closer Miller misses NLDS Game 3 on paternity list, could return for Game 4",
       "enlace": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLUJLfgg1NoXrPZgZIKXkN8VTYPI5ClLuR9iyv9OK1TRu8atYn_KfBNlObeCY"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfrQ6TNZZQYXm5l49gkSpvO_H6nKfRbGYDcIJfoyIQisOLCWQDksDeyKuEcpU"
     },
     {
       "termino": "padres - brewers",
@@ -57,23 +71,9 @@
     {
       "termino": "estados unidos - canadá",
       "trafico": "200+",
-      "noticia": "Estados Unidos cierra la fecha FIFA con pleno de victorias",
-      "enlace": "https://quepasamedia.com/deportes/1-0-estados-unidos-cierra-la-fecha-fifa-con-pleno-de-victorias/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjgMdd0ueZU5qjCGU-JU7LY01-zNywlThAvSPmZCrmHBxGvNwZo6eg4TRtGs"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "500+",
-      "noticia": "IMD Weather Update: Monsoon Exit Delayed By Western Disturbances, Rain Likely Till October 12",
-      "enlace": "https://www.etvbharat.com/en/bharat/imd-india-weather-update-rainfall-likely-till-october-12-monsoon-exit-delayed-by-western-disturbances-enn26100702049",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiYdFq2dU8ZZnaUcFNXjzvTlsUyDqJL4k1mIoGRXqduQ_edoMimmO1QCMAgTg"
-    },
-    {
-      "termino": "colombia - perú",
-      "trafico": "200+",
-      "noticia": "Colombia vs Peru: Where to watch, live stream, TV channel and kick-off time",
-      "enlace": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-colombia-v-peru/bltfcb8a98960741384",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ21JoCqR258Tntc7TSZW1zXeeAgkxoqEM9adJsOhIc151L1cXu-wwxU-vutPk"
+      "noticia": "Estados Unidos cerró la gira con triunfo ante Canadá",
+      "enlace": "https://www.espn.com.do/futbol/mundial/nota/_/id/17348232/estados-unidos-cerro-la-gira-con-triunfo-ante-canada",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJFEiAoi380X0LmsWivUDAomdHEhHtvzoR3EWcZktpAFjFezAqWPXOYCQg-ps"
     }
   ]
 }

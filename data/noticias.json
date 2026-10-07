@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-07T08:00:32.310571-04:00",
-  "hora": "08:00",
+  "updated": "2026-10-07T11:00:35.190213-04:00",
+  "hora": "11:00",
   "fecha": "07/10/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "¿Hasta dónde pueden navegar los grandes buques en los ríos dominicanos? - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX21KYUVlT2VONWp4YkdfVFlxUXhJZVZUU3ZvalVJWmY3NjBFVWhxWWtPRnhRZ1gxN0dmRF9NekkwS1pTLVFldHZuVG5IazFVTFJzNVdVVzVQcmZGUXdPaVdlSC1QMU1XdndUMnRDZTVuZFJoY0ZnUEJOcHd0SWNYdVE5SW0yanNCeEVZam51MlppdTRheGtlVEl2LTlLQzVOanNaN1I0VnJad3BaU1U5UGc0UE9zUjJjd1pHTml3Y2JlcHdTUmfSAcsBQVVfeXFMTlhDRFB5QUVCN2RzOVZNNjNyUXZESVhEQUQ0Z1RtUkwtZl9pcl9URG5oWUg4bV9uRnVXMGVBUmVuYy0tT0N6c0pEbmJXSF9QT1BYN3gzTXFkU2NuT0hUY2ZPb2lDczNKcE9MVlYtLW50VDhNRzVSSk9SeFlHUDFkT0dlQlNnUG4xcGZoS3RpT2k0UUtVbnZ1NmloMnowX2FyWktoWm50NmR4RHl4TU5scXNmVFg2V3E5eEN4SHZYdTg0alg1ZFU2LUlhZkE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 07 Oct 2026 04:01:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Estas son las provincias con mayor densidad vehicular en República Dominicana - Hoy Digital",
       "fuente": "Hoy Digital",
@@ -13,19 +21,19 @@
       "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/10/01/6abe99daefb22.jpeg"
     },
     {
+      "titulo": "República Dominicana supera los 9.2 millones de visitantes hasta septiembre - Presidencia de la República Dominicana",
+      "fuente": "Presidencia de la República Dominicana",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1U1RHJEVzJpOU1CczUxemowNEYxZkZVMTFmakExamtrdWx2LTN4YVJuUy1aYlRYVG9jMEEzVGdXQnNkRktqR0psTlo3eDZEUHdrbkkteVg5VzZtVU1LOUNXYUdCSVNvdTZDQkFMSmN1NHY5WTJySFE0NnFoeDN4RDVMWHhKUUlJLTkxLXRDSkZtUkIwbWZEWWZEWUtkWS1Kb3pyWjgxelNrbERfbkd3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 07 Oct 2026 14:08:08 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Dos adolescentes fueron raptadas y atacadas en República Dominicana; una de ellas logró sobrevivir - Univision",
       "fuente": "Univision",
       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM2R6WS1DbHZURmhHVnJ1YlhlTXhQZzNxLWdmQzBsMUZJeDJ2V09MaFF3NXVNazRVVUhLS1dFcU1qSWhZTnhGbEgyclZ1bkJob2pDektmZlYyNzV0NG1IYXV1N2Q0TVQwU2NBQjVuY2ZYVWRXb2xGMTlhdlh0eW05QTEyQ01QYnJaZmVENHdtakdDSUJyXy1rN2VlWlhvSk1kUXRUOW5KYUpqYVpYUlBVM2Z3bzBNOElYX2EtTHpvNUt6N0NHMWRnR3JKNm4tUHYxdlFIZEpHODViV19FQUNZM1A1U2s?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 06 Oct 2026 22:15:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Hasta dónde pueden navegar los grandes buques en los ríos dominicanos? - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX21KYUVlT2VONWp4YkdfVFlxUXhJZVZUU3ZvalVJWmY3NjBFVWhxWWtPRnhRZ1gxN0dmRF9NekkwS1pTLVFldHZuVG5IazFVTFJzNVdVVzVQcmZGUXdPaVdlSC1QMU1XdndUMnRDZTVuZFJoY0ZnUEJOcHd0SWNYdVE5SW0yanNCeEVZam51MlppdTRheGtlVEl2LTlLQzVOanNaN1I0VnJad3BaU1U5UGc0UE9zUjJjd1pHTml3Y2JlcHdTUmfSAcsBQVVfeXFMTlhDRFB5QUVCN2RzOVZNNjNyUXZESVhEQUQ0Z1RtUkwtZl9pcl9URG5oWUg4bV9uRnVXMGVBUmVuYy0tT0N6c0pEbmJXSF9QT1BYN3gzTXFkU2NuT0hUY2ZPb2lDczNKcE9MVlYtLW50VDhNRzVSSk9SeFlHUDFkT0dlQlNnUG4xcGZoS3RpT2k0UUtVbnZ1NmloMnowX2FyWktoWm50NmR4RHl4TU5scXNmVFg2V3E5eEN4SHZYdTg0alg1ZFU2LUlhZkE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 07 Oct 2026 04:01:00 GMT",
       "imagen": ""
     },
     {
@@ -37,36 +45,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Nicaragua vs. República Dominicana (4 de Oct., 2026) Resultados en Vivo - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOGo5aWFYdkZyQWhvS0JBWFVXVEJCVVV4MkxOcm5OM21sQVNINnExTE5Rdlk3ZWtXb3ZSa0xfXzNxb3NvdmtxR1lTZHpEWGsycVV4cS1vd3hJZnZPa2t2LW9rZVpIbmxkUUctSjZjZFNNQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 01:56:45 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "El beso en los morros a Mariano Díaz que ha causado impacto de República Dominicana hasta Vitoria - Diario AS",
       "fuente": "Diario AS",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjRnd1M2VGFaazlMNElDUXlaZWt0bFRGWUtvOHNwSEVGaFI1OXFaOW4wdW9POTRfNk9rY20xX0l5T2J6OUdDZW5fTFNnQ1pOVjJjc0VPTktTNEczbVVOYVA3SGRmZzhZR2lxOHppZzNXVU4xMkVuNHJqS2IxZmxXZDF3MUlhRmJlY1hWYWdQWVhpTVd0MnE5QjRCSm9CYm9qZU15X293VWhMUkNKVmpfUThrVzRPTWtVUVRHamxieklIZmdHeFBneVVrQlNzSXZQUVg00gHnAUFVX3lxTE5JcDdKclRGZTluTWt6WVdDeTF1eVJTWmRNM0VmZHF2NTZmMEtXTzg3SHpYTV90STRNN2xFQmJFZzAtVExzQ09WcUZGNkJfdlh3VVlweTVSbk9jMXBXLS1MVTlGalhPQnNQX0taejdMeXVrR2ZHQS1CeHZXSmx2eFc0aVVXUEZ4TXJBT0ZNeUR6Z1FCRnk2ZjlrZ3BLb1ZZNXJwUlBuanhzRlBEMERvYTVJR2lkTlFwU25ZLW9QMDF4Q2p0blhFbXhMMjRCS2RoWnJ5RFYyQnVTY0xHbklNbFN4bUpGU3NEUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 06 Oct 2026 16:12:14 GMT",
       "imagen": "https://img.asmedia.epimg.net/resizer/v2/5B2DP5HDRVBFBLOSKHDCTH2LPY.png?auth=326e9bdaffdba6a23e654217e5b170a1cf36953b45aa5e08d7e222883df93384&width=1472&height=828&smart=true"
-    },
-    {
-      "titulo": "Federación de Haití minimiza lo dicho por atleta tras juego RD - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGM5TW9SZ0RRWnFlbnl0ZXRIZ3VZZzl1OXZtVVU1S1FOdkhHSURnSGRWNm1jTkR2NnFkX1A2aVhvb2FHWm5wRkNQWHQxUFRPZUFxQ0hRX292ZEFGeWpEVVgzeDRvRE9MTmZqSEM5UHdKQUtzdFg1QzB4LVN0OTZ4TDUzYXpXTHRwNE1B?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 07 Oct 2026 05:33:41 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este miércoles 7 de octubre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFRSbTNmMm1CbG9xSDVfQk9tOVFaamtDZndkbjBuSFVxTXBuZm0xazZaanFlaGJEQmkwMldPdHFLdGV2NDJkSmlneGQ5LUk2ejBnMEVPSlJ0TDlVM0k1UFFqZ1FDdDVkZ2o3M3g3UzhNaGVlOVgwd0FZckUyV0hsT2ZqUnhweWdOdVBXamlGRVphU3lHUmJsU0dTaV90Z0QxZG9sMU5NRVVpRlk1dTNrU0dWM1B2NlVLUUtJLS1abjZUc2RvN05tYnRReXJydENacms2eHpicExGMHFYdUhXOVItcXFSVUHSAewBQVVfeXFMTThmdlpZam5zYkxDamNScThvbnRrMDdUeElfLTdUbEItU2hUa3gxN3Y2M29ST0EzbEZvUDhJVm1TSC1SdzF3QTctajdhbjY0SDBKMUJFRWsyM0ZGRmFkcWh4WFpYY3IwWWdKN1RqeEpKVFdHb1J1XzdSalAtQ3BCRV9TckI2eDYtQTdBVjNUSlpXczhtUEprUE9XWmFjLWF3T2pwN3NXSzFkWHk1TXFKVE4wWnFVSDUwaG5CWTRsWHNSdnJtZ0VpcGJUclVLNHJ5WjF6UFpZSVJld1RocDRPdzFMNWlCRFg1R1FtSHY?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 07 Oct 2026 10:40:08 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este miércoles 7 de octubre - Acento",
@@ -77,11 +61,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Precio del dólar hoy en RD martes 6 de octubre - El Caribe",
-      "fuente": "El Caribe",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVBLNllPSGtCN2ZmNFNvWXFJb0hjakZ5bEZ6RktpRVB5SFptRC10U29ON0Q3cEk0UWw0YlRPNnhGT0hnZmVIXzNSeWFrR3Yzb2M0RVJFems5dDNjUHNTSFg4UHlTSGhvVlNKOWpEOUthUTJockxDS2NpYlM2em1ieHN0aEtpZnBrQ1RLRWJPd1JscGQwUTNoSw?oc=5",
+      "titulo": "Guardia Costera rescata a 61 personas de embarcación cerca de República Dominicana - Primera Hora",
+      "fuente": "Primera Hora",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdG9HZll6TFZXbWxIR2lfd3dlY09ESW93QWFGRWVScWo2Z2JvYUxvcXlnZ0RmdGIxaE8yNWVMX19JVkhYVTZGYkNwcnR3ZGIzR2plbVdCSWEyQzRTcWlLZVZncVlib0x1MTd0MGJOMUNNRFNyb2lzRkJqNTVzWFJLeno3aFNrSmpkeVJCeHhkdWlLbXJzemwwaF9SMjJ0LTJPMzd6TFRfaDRQMTNCMGNqdGtMSzJDYnZYSmo0Y29yaWtWcklORjZaSGluOXdpemJNN2Z6Z05MR2Q?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 06 Oct 2026 13:03:58 GMT",
+      "fecha": "Tue, 06 Oct 2026 00:11:37 GMT",
+      "imagen": "https://www.primerahora.com/resizer/v2/27XMULVYNJDFFOGG2M2POJBZPM.jpg?auth=166060843657b859babba4b82998099e26f7c6de42c4a058916a85583b7d03b3&quality=75&width=1200&height=717&smart=true"
+    },
+    {
+      "titulo": "Nicaragua 1-2 República Dominicana (4 de Oct., 2026) Estadísticas del equipo - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1I1eUdRbERSTVNqX0ZIbkpLb2NnRzZBbjdZUzFUVmZGSmx6UG5IeGdWMjdqWml4cGNzNjc2U1psUWZQSFVJSDBGdDRUUWU3UWhRWlNNVFMxZWFkY3BZX1Z2U1pPUGVEeldxbWV4Z0xVd3dkZTQ2RmtKYUJHQTIyU2dhbXRiRmw2SEd3b0VnVWpiTlFFcWU4YWJKaDF2YmJJVG9HRXJBalJXZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 05 Oct 2026 01:56:45 GMT",
       "imagen": ""
     },
     {
@@ -93,36 +85,44 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana prepara programa de trabajo decente 2027-2029 y anuncia proceso para ratificar convenio de la OIT - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMkNQTjdnUWRGb3o3YjRnVFQza1FibTNMZEdWVkdESlh2TDNFS010cDlIeXc1UVlDb0VxS05ZTC13RDEzMEFXZnR0UEduZFI4anVHUnAtRmMtSlBLaHFnNHRkS3NrRUhyVlVyY3JKczlBcmpWWS1UT1Q5XzRMb1lMTWxvOFFKTFg1VE4wRG84NXk2VDRwTGw3TUU0bmJUdEZpaDdnMGZPSVpfd0UxYWw4bmRrdDdyb2w1RmhQTjF5RC1uUWltRkpRNmg2M0JzT0VRckpNOVFXc1Y4ek1nU1djMUtaa3VXM2RNVFRfUXhGUDRjUmRtUm930gH3AUFVX3lxTE4yQ1BON2dRZEZvejdiNGdUVDNrUWJtM0xkR1ZWR0RKWHZMM0VLTXRwOUh5dzVRWUNvRXFLTllMLXdEMTMwQVdmdHRQR25kUjhqdUdScC1GYy1KUEtocWc0dGRLc2tFSHJWVXJjckpzOUFyalZZLVRPVDlfNExvWUxNbG84UUpMWDVUTjBEbzg1eTZUNHBMbDdNRTRuYlR0RmloN2cwZk9JWl93RTFhbDhuZGt0N3JvbDVGaFBOMXlELW5RaW1GSlE2aDYzQnNPRVFySk05UVdzVjh6TWdTV2MxS1prdVczZE1UVF9ReEZQNGNSZG1Sb3c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 07 Oct 2026 00:00:39 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/Republica-Dominicana-prepara-programa-de-trabajo-decente-2027-2029-y-anuncia-proceso-para-ratificar-convenio-de-la-OIT-OG.jpg"
-    },
-    {
-      "titulo": "Se ponen de moda los asaltos en casas en República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFAxUEtLN2dMQk1HUXdqcHhZS2wwWHc3WDVUeTNYZlFrSnVyZUZvVDM5OU9FN1V3WExKVVNXcnNSMl96d1Y5Vm9ncVlGQ2FTSkhiVVRlMUNHczF1eHVwMEdPTzhrcENzX3B6Mk9KV0pHNWpEdWdKR2dSRzJyOWVPQ1IzclJNZmlCdkpSSXg5TjZpeFZqX1ByWmQ4M1M0bU5jVURKYVd2QUPSAa4BQVVfeXFMTTNUcHhEeE84dDhpZFZrekd4YVQ2N1FaRTJ6Sk1keElPUjIwY244N0hDOG14amR5SHZ0Sy1OeHdZN0lYSmZLemJGYm5mNVBUcVZqU2F0VXl1b0pnYkQtcXRRVlpvVVdMTFJFVENaVkI1ZFM3aTNqTU5jMFg5VDJaWTFIdzM1dEpmYVZiSDJKaWNUdFZFYWRxVFNEMHJUZGthbXlha0tHUW5IQXJXNHpB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 06 Oct 2026 10:34:35 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Cepal debate en Dominicana cooperación y avance regional - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXV3VFRwRW5EMlhXSGd5akltTjJ6bVlHX0lXdlg3UW9aczRlNUFUV0RxNHAyN3hwaERtMWVReGgtTmFxSzZ4ejk3SFFzLXRiZVdpSUJlVk44UTZBZEZYcEd3ZVVQU2x5SmxrRkRRdmdZZnZ5VWprR3BCZW9sZ0ZPSE5kLWVOVXRQN0E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 07 Oct 2026 09:08:56 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
       "fuente": "ProPublica",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 16:30:00 GMT",
       "imagen": "https://www.propublica.org/wp-content/uploads/2026/09/20251021-Gregory-DR-Baseball-0113-1_maxHeight_3000_maxWidth_3000OG.jpg?resize=2000,1050"
+    },
+    {
+      "titulo": "Dominicana prohíbe a Haití jugar en sus estadios de fútbol - DW.com",
+      "fuente": "DW.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUhKeVpkNUx3LXZEWTRib1JFNzVUOXJucS13cnpDZXRTQnRnbGc3UlBNUHp3dFROVlR1bWVFT1RXcWx3UEdlbTdmVmQ0dUQzakI0SUg0UEdSeVZHbGtYc2pDY2hscjQ3YXNJOGFlY1R3TVpyWjNFMGJxYnhIRXVqQkJoLU5xeDRwcmx3R0hOS2l5V0J5elN0RXJaaWZTZGl2YmZMNFo5QUhDUdIBqgFBVV95cUxPanlkUTRHOWVmTFQxZkV4V3VFc1I3MjR5QzdVdWNPMXpMaEptUklzNUQyZUZoOFdQTFh2Mk5MSXpLcjUwVUE0OVIzZWU2emlZVXlNY3hIcy1ORVhjN0RCaWRHcWJDV1NkX2Fvb2hsZEFBZ1MtSXFod1UxbW5Lc09HOW4yUEI2RUNzeXlsdTZiczNvNU1ucmQwQmNaYTEyeHBIc1h1eHd0WUdCUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 04 Oct 2026 01:32:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Arroz en República Dominicana: EE.UU. concentra el 91,8% de las importaciones y crece la preocupación - AgroLatam",
+      "fuente": "AgroLatam",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRTdBZTc2TkJXeUNFNTBtdnMxLVBQbVZjRXZnd3VwSnF6TlJ1ZGhQRnRqRnlMaEI1T000eERaeHJKRDBDb0VHbE0yTUFLUU1pYWRaNlROS1NPUTZ6SGFzNUpZVnVJZ3NuczhvTFZYWlRWU0VRRURUSmxLQ0U1NDg0N3lFYXNyRWJNNENJazNVWHh3eVBETWttUWtpZ2ZEN25nTWpTMk1zQjU4dy1ReThCY2FISnR2WHJfWjhVVnlTUjZwb0NwdENldnUxYkpkRDVfWFBNdlVZdkpUZms?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 07 Oct 2026 11:57:22 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "VIDEO | Hombre rapta y agrede a dos mujeres en República Dominicana: Solo una sobrevivió | Shows Primer Impacto - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObTZuWXdZSXdXZXQ4SHNna3BRU0ZsaU5RVmViQXpIaUU1V3hsNV9kZ1BlcWtMcm9OTDZLVGY0R1M3bkNaNjRxTTUxMW5QLWZLTWoyU2FxbHh4NmY0N3BtU3Y1eS1wZ1JQUnZZVlNBMzcxcTVkTXJpeXJUSWpPRV96SmFVSDB0U0JqYXVabk5BaXNCc2oweXhHRnV3YXJmWTExOFpvQXJ5cnNVcHV3Y3VXUmVUOUhrNmhqOGxpUm9KZklFb3FsQS1jcFBqdFhkQm5QUElEVDJmVDM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 07 Oct 2026 01:45:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "El comercio de República Dominicana acumula una disminución real hasta julio de 2026 - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORjV1LTBEcmxYQ3p3aTdGMk1wVGlvLWlOOUF4eWhaVmJjVHgwUW5iTkV0VFAwM3lHOGgwTV9OV0JZLU41UzQwQ3N6c202NUY1RnJ4VXFUeDVNZHBzLUpaV1gwZUJ1X2RiRWZkcTZKd2ROdGR0TkplT2RlY0t1SWtYU1RmM2FDNmhFcUlaS0laN0JtYUdvMzdxUjZ1T2hqZURrT1lhbTZHbUU5MmozazE3Y3J5NFB0Z3JqRzg2ZG5aUHhhRlVDRzNWR29PeGVxYjB6Q1ZiOWNJUFTSAfMBQVVfeXFMT0I2RUVEUG5xTXlWUkIxRkNIRlV5QUFOWnE2NXk2dy11Y3BiZloxY2x5cUk1SkRmUGxIbVZkaU1xUWJXTVg0bWNYbnJmYkY3dUllQ2t4SHo3ZzVPRmxXRUNxQklWNkdjWERQVUpGWXh5Z29CTmViLWpxcHpSV296RnI2TnhrUjh3UDBUdVAyTzY5NHJGNXZGQXVrWXUxQk9neEgzbEhGQVZvY3RENldjVC1ER1Bpc0RkRTZFRzlIRzZOaW1NdzFSRnVBSnhBQWNDTWVMWEl3Z2FOZzBCUFZ3Sks5Y2FRbDhtTUp0eEJWczdKTlhz?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 07 Oct 2026 03:58:37 GMT",
+      "imagen": ""
     }
   ]
 }
