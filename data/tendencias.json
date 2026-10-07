@@ -1,13 +1,62 @@
 {
-  "updated": "2026-10-06T17:00:17.888075-04:00",
-  "hora": "17:00",
+  "updated": "2026-10-06T20:00:21.035002-04:00",
+  "hora": "20:00",
   "fecha": "06/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "estafa",
+      "termino": "vix",
       "trafico": "100+",
+      "noticia": "The VIX Has Very Little Room To Fall Even If The VIXEQ Rises",
+      "enlace": "https://mottcapitalmanagement.com/the-vix-has-very-little-room-to-fall-even-if-the-vixeq-rises/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcwSJLpjjtOWNusUtJZn6Qvp9wMUtV1C9U1gLde_vOJAretD3rfyeWh4Ord60"
+    },
+    {
+      "termino": "argentine – bénin",
+      "trafico": "200+",
+      "noticia": "Steve Mounié refuse d idolâtrer Messi avant le match historique",
+      "enlace": "https://rdcsport.cd/news/steve-mounie-refuse-idolatrer-messi",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5tqWtYmtugyYw5ZOtDqcnaTPaWklwoU-0oFdYAhcP3lB47gBexvIFaf0AVT0"
+    },
+    {
+      "termino": "argentina - benín",
+      "trafico": "2000+",
+      "noticia": "Lionel Messi live updates: Latest score as Messi makes final Argentina appearance against Benin",
+      "enlace": "https://www.nytimes.com/athletic/live-blogs/lionel-messi-live-updates-argentina-vs-benin-score-result/Zodrl7PQUgQc/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNDEJJhRMZFNUnwE_x8TVCQpaDqPyDfj_5SA1jYN6NO69AKjRf261ik8qRD6A"
+    },
+    {
+      "termino": "argentina vs",
+      "trafico": "1000+",
+      "noticia": "Argentina vs. Benín partido EN VIVO de Messi: ¡Scaloni y Messi rompen en llanto!",
+      "enlace": "https://www.tudn.com/futbol/argentina-vs-benin-partido-en-vivo-de-messi-en-estadio-monumental-minuto-a-minuto-del-juego",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmngh_ZKzsI_s2NWGyyI1_F6ITd1NqQuGLvBB27AL3SYI5fH6-JjJt18ChoOk"
+    },
+    {
+      "termino": "petróleo",
+      "trafico": "100+",
+      "noticia": "Bajan los precios del petróleo",
+      "enlace": "https://listindiario.com/las-mundiales/20261006/bajan-precios-petroleo_924986.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGzxy6PiXM7XvFtsYFu5Kf8FLpb3K_KQMZCWzVfsILaytFFLDHUyCDpuuoioQ"
+    },
+    {
+      "termino": "braves - dodgers",
+      "trafico": "2000+",
+      "noticia": "LIVE on FS1/FOX One: Dodgers-Braves NLDS Game 3",
+      "enlace": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRJTWSo66fv0xw0RCcYjtw2ghDtcVvUzlbzx7GHLoIzOCVws_GWmYcX1CjpWE"
+    },
+    {
+      "termino": "huracán nolo",
+      "trafico": "100+",
+      "noticia": "Hurricane Nolo becomes a typhoon in rare weather feat",
+      "enlace": "https://www.syracuse.com/us-news/2026/10/hurricane-nolo-becomes-a-typhoon-in-rare-weather-feat.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-KkJW2DloHJcD2lBjvVM_M9g34zuRHjmHYj_kCQLghx-h4TOeZZYdX5c6aE"
+    },
+    {
+      "termino": "estafa",
+      "trafico": "200+",
       "noticia": "Ministerio Público acusa a 13 personas y cinco empresas de la red de estafa electrónica y lavado que desmanteló con Operación Discovery 3.0",
       "enlace": "https://pgr.gob.do/ministerio-publico-acusa-a-13-personas-y-cinco-empresas-de-la-red-de-estafa-electronica-y-lavado-que-desmantelo-con-operacion-discovery-3-0/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNUBw68yYCgP9XCUCJCLP4_cBkityBjmr4UPWEIVwQL2rhOMFE7XwMrc13Fp0"
@@ -15,65 +64,16 @@
     {
       "termino": "angleterre – tchéquie",
       "trafico": "200+",
-      "noticia": "Le secret derrière la longévité d’Harry Kane révélé",
-      "enlace": "https://www.footmercato.net/a8345849119447386434-le-secret-derriere-la-longevite-dharry-kane-revele",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRwJrF-qtPDRfc9JjefKnvrFWp9QoQQBhdEH7VX8kvv5nvemH7vPpDW3BUgY"
+      "noticia": "Jude Bellingham chante les louanges d Harry Kane : « C est le meilleur joueur anglais à n avoir jamais porté ce maillot »",
+      "enlace": "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-chante-les-louanges-d-harry-kane-c-est-le-meilleur-joueur-anglais-a-n-avoir-jamais-porte-ce-maillot/1723895",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVxf9o8XsLfVGFCg-PTVVsux7Vy_Q0VmQ3ou2G1R4p2mmsIsw0WTpAxaswjjE"
     },
     {
       "termino": "england vs czechia",
       "trafico": "200+",
       "noticia": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates   stats",
       "enlace": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5wvwMtHg42GWxPjQg_4yFmNp8gjduBK6dX2Q81JZJudn8Xy1MmWlZM0lVZQQ"
-    },
-    {
-      "termino": "croatia vs spain",
-      "trafico": "200+",
-      "noticia": "Licensable picture: Croatia v Spain - UEFA Nations League 2026/27 Group A3 MD4",
-      "enlace": "https://www.reutersconnect.com/item/croatia-v-spain-uefa-nations-league-202627-group-a3-md4/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA4U0ZPQ1I",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB79-bc3EF2aGD_rS-TUonN6HI-5Ubzq5E9aKaig99NqY1fdL5TvLOfn3EsJw"
-    },
-    {
-      "termino": "croatie – espagne",
-      "trafico": "500+",
-      "noticia": "« Le retour des titulaires » : des changements majeurs dans la composition de l Espagne pour le choc face à la Croatie",
-      "enlace": "https://www.goal.com/fr/news/le-retour-des-titulaires-des-changements-majeurs-dans-la-composition-de-l-espagne-pour-le-choc-face-a-la-croatie/blt1941fca91481e967",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5noJsruJvb1z2uDIRW36J3E4fId_nLYplit1Rf84NcBHYEy984R_d9raZE8"
-    },
-    {
-      "termino": "inglaterra - chequia",
-      "trafico": "1000+",
-      "noticia": "Inglaterra - República Checa en directo | Última hora de UEFA Nations League en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/uefa-nations-league/inglaterra-republica-checa/2026/10/06/01_0195_20261006_114_367-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHD9_eK9T9LBRPHJQLEVdHlG2mmVu7QIU5VNTM1zgOOUOe2Xzf3T0KXDTi8EI"
-    },
-    {
-      "termino": "dólar estadounidense",
-      "trafico": "1000+",
-      "noticia": "Dólar en República Dominicana: tasa de compra y venta para este martes 6 de octubre de 2026",
-      "enlace": "https://hoy.com.do/economia/dolar-republica-dominicana-tasa-compra-venta-martes-6-octubre-2026_1104650.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgmFa4skaKk6RO7foOIDJXxiR9GNAq3bBotRpCnb9BPs6VaIHAoqNn-pL80x4"
-    },
-    {
-      "termino": "croacia - españa",
-      "trafico": "2000+",
-      "noticia": "Croacia - España, en directo: previa y última de la Selección en la Nations League, hoy en vivo",
-      "enlace": "https://as.com/futbol/seleccion/croacia-espana-hoy-en-directo-grupo-c-de-nations-league-ultima-hora-f202610-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR57y9LMgLsc5xNt0TA_nhz1rv68d_JwLBtwWeOHN-RoelppbEo9yMxADICZIw"
-    },
-    {
-      "termino": "barco",
-      "trafico": "100+",
-      "noticia": "El mercado náutico crece un 7% hasta septiembre impulsado por los barcos a motor y las esloras mayores",
-      "enlace": "https://forbes.es/ultima-hora/1038648/el-mercado-nautico-crece-un-7-hasta-septiembre-impulsado-por-los-barcos-a-motor-y-las-esloras-mayores/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06FrsoKnAlSOz3fsBiLzyygulCAqS3-4rtNHUdy07B-ZbVfHO2hRwj42O2LE"
-    },
-    {
-      "termino": "emilio bonifacio",
-      "trafico": "500+",
-      "noticia": "¡Es tiempo! : El mensaje de Emilio Bonifacio que genera expectativa a la fanaticada del Licey",
-      "enlace": "https://elnacional.com.do/deportes/mensaje-emilio-bonifacio-genera-expectativa-fanaticada-licey_582638.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUufNz0iDfiawmOkKADzf7ocrGIuh9xzmGxs-b8YT6eH99pZJEtEXHsk1OUDc"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT952cYup1WXB3El4l8V5-jqDhYLnr-wQ_yPFCdmG2iaEqCXbLwXEGINYk8Fuc"
     }
   ]
 }
