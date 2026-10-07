@@ -1,13 +1,41 @@
 {
-  "updated": "2026-10-07T11:00:32.787939-04:00",
-  "hora": "11:00",
+  "updated": "2026-10-07T14:00:34.439228-04:00",
+  "hora": "14:00",
   "fecha": "07/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "tormenta",
+      "termino": "soborno",
       "trafico": "100+",
+      "noticia": "Ministerio Público solicita enviar a juicio a exfiscal acusado de soborno",
+      "enlace": "https://pgr.gob.do/ministerio-publico-solicita-enviar-a-juicio-a-exfiscal-acusado-de-soborno/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBpVa9Utyen_BaJtPL1CBC9ltD0Jyun0VdW0cqIliJShpYOU3x-6qg5Q5YEg"
+    },
+    {
+      "termino": "policía",
+      "trafico": "500+",
+      "noticia": "Policía indaga denuncia de que una agente cobró dinero para devolver una motocicleta retenida",
+      "enlace": "https://elnacional.com.do/nacionales/policiales/policia-investiga-denuncia-supuesto-cobro-irregular-motocicleta-retenida_582783.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTA3_x2zuFUjy3Ja6N8KrF3dRSh9KtDBbbSWPShOQc6gv5zqYqe_dUlWXvRhl0"
+    },
+    {
+      "termino": "onda tropical",
+      "trafico": "500+",
+      "noticia": "Se forma tormenta tropical Isaías y se espera que una onda tropical cause lluvias este miércoles",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261007/forma-tormenta-tropical-isaias-espera-onda-tropical-cause-lluvias-miercoles_925171.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlSjCFpdbI0yKE_twYy6uWaDrHPPsWk0TBzefx3WWK1w7o-bDrX10FGauG89w"
+    },
+    {
+      "termino": "profesor",
+      "trafico": "500+",
+      "noticia": "Noticia UPV: El campus de Gandia acogió el acto con el que la UPV reconoce al profesorado de secundaria más valorado por sus estudiantes | Universitat Politècnica de València",
+      "enlace": "https://www.upv.es/noticias-upv/noticia-16101-magistrales-20-es.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB9M95S6CZ18F8hiOsHSbwmtVvkGZANppFBzVOxU4-53ESVsZajWybMdKBXuc"
+    },
+    {
+      "termino": "tormenta",
+      "trafico": "1000+",
       "noticia": "Se espera que la tormenta tropical Isaías llegue a huracán",
       "enlace": "https://listindiario.com/las-mundiales/20261007/espera-tormenta-tropical-isaias-llegue-huracan-golpee-costa-eeuu_925172.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDQACEJvFYi6t5CnZcrKJvtUjb2cCvY4eU6YwZQbQPfz7tj9XlCnZx2KF6YXY"
@@ -20,6 +48,13 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4LNdUetxqcopFPbnm-Sb8ayx-rDAW2mFrQyn9737WVDGr27aUn12kOXaUbDg"
     },
     {
+      "termino": "mlb resultados",
+      "trafico": "100+",
+      "noticia": "Cora vuelve a rechazar la oferta para ser el nuevo manager de los Filis (Informe)",
+      "enlace": "https://www.mlb.com/es/news/alex-cora-rechaza-oferta-manager-filis-futuro-don-mattingly",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnpfhcbNrEr8ySb4vRCVlK3SCQINcZ20dNUBBBM1UqejPwiaGIgYLjuAsdr-w"
+    },
+    {
       "termino": "resultado mlb",
       "trafico": "200+",
       "noticia": "Padres luchan, batallan y hacen lo justo para mantener viva su temporada",
@@ -29,9 +64,9 @@
     {
       "termino": "dirección general de migración",
       "trafico": "1000+",
-      "noticia": "Inspector de Migración facilitaba salida irregular de personas por el AILA; juez lo envía a Najayo",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/06/inspector-de-migracion-facilitaba-salida-irregular-de-personas-en-aila/3680913",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoNy2mhKjelKAlVl327vlw-H0sIlNTKx2xHIIk1Q7FrtSauy9gngLBiR_0uiQ"
+      "noticia": "Inspector de Migración es enviado a prisión por aceptar sobornos para salidas irregulares de RD",
+      "enlace": "https://listindiario.com/la-republica/20261007/inspector-migracion-arrestado-aceptar-sobornos-aprobar-salidas-irregulares-pais_925180.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyGY3ZXNb0WqGdEeS6ey9ZTlkeSlINXsEV0WGD6j2cPJt8e_a1xt_qFrD9DLY"
     },
     {
       "termino": "méxico - chile",
@@ -39,41 +74,6 @@
       "noticia": "Mexico vs. Chile—International Friendly: Preview, Predictions and Lineups",
       "enlace": "https://www.si.com/soccer/mexico-vs-chile-international-friendly-preview-predictions-lineups-10-6-26",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_lIQpI_0IoPlJAhW-ni5C2vFp3FH40MH5N_z8bcGk7I-9uKwvOFkn5PzmM0"
-    },
-    {
-      "termino": "yaxel lendeborg",
-      "trafico": "100+",
-      "noticia": "Recap: Shorthanded Lakers Blown Out By Warriors In Second Night Of Preseason Back-To-Back",
-      "enlace": "https://lakersnation.com/recap-shorthanded-lakers-blown-out-by-warriors-in-second-night-of-preseason-back-to-back/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTezv7EaTKgVFOUh0Ni-VRYzUkFaZT4RVhx553jQ73iJhfNx96XumiicLgyYnc"
-    },
-    {
-      "termino": "padres vs brewers",
-      "trafico": "100+",
-      "noticia": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
-      "enlace": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9zpecyo9rL2sSRKus0SpGRfFlXe7jKQLklETZZMTiQtYndMfG4c_NYbuCqo"
-    },
-    {
-      "termino": "mason miller",
-      "trafico": "100+",
-      "noticia": "Padres closer Miller misses NLDS Game 3 on paternity list, could return for Game 4",
-      "enlace": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfrQ6TNZZQYXm5l49gkSpvO_H6nKfRbGYDcIJfoyIQisOLCWQDksDeyKuEcpU"
-    },
-    {
-      "termino": "padres - brewers",
-      "trafico": "2000+",
-      "noticia": "Led by King s all-in relief effort, Padres fight and force Game 4",
-      "enlace": "https://www.mlb.com/news/padres-win-nlds-game-3-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLUJLfgg1NoXrPZgZIKXkN8VTYPI5ClLuR9iyv9OK1TRu8atYn_KfBNlObeCY"
-    },
-    {
-      "termino": "estados unidos - canadá",
-      "trafico": "200+",
-      "noticia": "Estados Unidos cerró la gira con triunfo ante Canadá",
-      "enlace": "https://www.espn.com.do/futbol/mundial/nota/_/id/17348232/estados-unidos-cerro-la-gira-con-triunfo-ante-canada",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJFEiAoi380X0LmsWivUDAomdHEhHtvzoR3EWcZktpAFjFezAqWPXOYCQg-ps"
     }
   ]
 }
