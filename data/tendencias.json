@@ -1,37 +1,51 @@
 {
-  "updated": "2026-10-06T23:00:23.103863-04:00",
-  "hora": "23:00",
-  "fecha": "06/10/2026",
+  "updated": "2026-10-07T02:00:25.072686-04:00",
+  "hora": "02:00",
+  "fecha": "07/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "yaxel lendeborg",
+      "trafico": "100+",
+      "noticia": "The Lakers are resting basically everyone against the Warriors",
+      "enlace": "https://www.silverscreenandroll.com/lakers-injury-report/126992/lakers-injury-report-warriors-preseason-austin-reaves-luka-doncic-walker-kessler",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn8mMbrpx2eJlRIZi3JFfD9emp4XtCj54h3vUGJtJXMn4Wpl2K3Q1-lP9HBog"
+    },
+    {
+      "termino": "padres vs brewers",
+      "trafico": "100+",
+      "noticia": "Brewers-Padres NLDS Game 3 FAQ, lineups (9:30 ET, FS1 /FOX One)",
+      "enlace": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9zpecyo9rL2sSRKus0SpGRfFlXe7jKQLklETZZMTiQtYndMfG4c_NYbuCqo"
+    },
+    {
       "termino": "mason miller",
       "trafico": "100+",
-      "noticia": "Mason Miller placed on paternity list ahead of NLDS Game 3",
+      "noticia": "Padres closer Miller placed on paternity list ahead of NLDS Game 3",
       "enlace": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe4u01bbWD9KXfYpwSwItj2UpXA46kv4qnRGHfxFd2YDXurG9faLCxcbDpYno"
     },
     {
       "termino": "padres - brewers",
-      "trafico": "1000+",
-      "noticia": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
-      "enlace": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9zpecyo9rL2sSRKus0SpGRfFlXe7jKQLklETZZMTiQtYndMfG4c_NYbuCqo"
+      "trafico": "2000+",
+      "noticia": "No sweep, Crew sets sights on closing out Padres in Game 4",
+      "enlace": "https://www.mlb.com/news/brewers-lose-game-3-of-2026-nlds",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWsvrqlZlMvVnZvWT9PB8YXZqizNZXQz2GFM8GZ83pbUPAAUnWQrUDmhiAh2A"
     },
     {
       "termino": "estados unidos - canadá",
       "trafico": "200+",
-      "noticia": "Estados Unidos vs Canadá en vivo hoy: resultado y goles de USA en partido amistoso 2026, en directo",
+      "noticia": "Cómo quedó Estados Unidos vs Canadá hoy: resultado y goles de USA en partido amistoso 2026",
       "enlace": "https://as.com/us/futbol/estados-unidos-vs-canada-en-vivo-hoy-resultado-y-goles-de-usa-en-partido-amistoso-2026-en-directo-f202610-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpr8FLVK1HmKtOcDRns9iTbW-QMqccnC2GwLPJIaYDwrs3lxYE-b76T6vXCg"
     },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "FORECAST: Another fantastic weather day",
-      "enlace": "https://www.wdrbwave.com/2026/10/06/forecast-another-fantastic-weather-day/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoG4XbEKbl_Wjl_kDvmt16aSyBSvahw8p1D_FjfXVExpJPeTn-XZTx5oLt_wo"
+      "noticia": "Eight Uttarakhand districts under yellow alert for rain, gusty winds",
+      "enlace": "https://ddnews.gov.in/en/eight-uttarakhand-districts-under-yellow-alert-for-rain-gusty-winds/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm89f5CjBEADdan5Adw5CEfL48FxnII_jz9dRE3VBwGiHeXmhWN0JyLNmL0Tk"
     },
     {
       "termino": "colombia - perú",
@@ -43,9 +57,9 @@
     {
       "termino": "contrato",
       "trafico": "500+",
-      "noticia": "¿Qué podría hacer Puerto Rico con los $5,887 millones que habría costado el contrato de Power Expectations?",
-      "enlace": "https://www.elnuevodia.com/negocios/economia/notas/que-podria-hacer-puerto-rico-con-los-5887-millones-que-habria-costado-el-contrato-de-power-expectations/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEFINuYjL080ACAseoQK0mKFUBsJeLsxudfSMX9sIc5fBGBM7r1eLSvJWtfo"
+      "noticia": "Un millonario contrato, en manos de un fondo mixto, tendría un único proponente",
+      "enlace": "https://www.minuto60.com/investigacion/un-fondo-mixto-entregaria-millonario-contrato-un-unico-proponente/16677",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCramkdQioItLXnp_D9SMT6vOh-K1gFFJoSWdxAglRFU508iEeXiNTgvxRnc"
     },
     {
       "termino": "shohei ohtani",
@@ -57,23 +71,9 @@
     {
       "termino": "enrique hernández",
       "trafico": "500+",
-      "noticia": "Yamamoto (10 K) brilla y deja a los Dodgers a un triunfo de volver a la SCLN",
-      "enlace": "https://www.mlb.com/es/news/yoshinobu-yamamoto-poncha-a-10-en-7-innings-en-el-juego-3-de-la-sdln-vs-bravos",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tKy7xLR1ueBeip75BwKkvQDhzAUmm8zlCi4iktek0uBNHdej95sgMa6l52M"
-    },
-    {
-      "termino": "walter mercado",
-      "trafico": "200+",
-      "noticia": "Horóscopo para miércoles 7 de octubre de Las Estrellas de Walter Mercado",
-      "enlace": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article317477650.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbQjdgkR0y8fgaR3_U1rRioRKQd-6VyDDfv5zUpMnEQdSTQKh8oCCDZy_SMo"
-    },
-    {
-      "termino": "vix",
-      "trafico": "200+",
-      "noticia": "The VIX Has Very Little Room To Fall Even If The VIXEQ Rises",
-      "enlace": "https://mottcapitalmanagement.com/the-vix-has-very-little-room-to-fall-even-if-the-vixeq-rises/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcwSJLpjjtOWNusUtJZn6Qvp9wMUtV1C9U1gLde_vOJAretD3rfyeWh4Ord60"
+      "noticia": "MLB India Call: Kiké Hernández s home run",
+      "enlace": "https://www.mlb.com/es/video/mlb-india-call-kike-hernandez-s-home-run",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzuQeal3m5q2fQelP_W3LWxOFc0L9BqR8r9OKMMyS3kRn9qO3OFtFMq3oDHLA"
     }
   ]
 }
