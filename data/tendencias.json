@@ -1,79 +1,79 @@
 {
-  "updated": "2026-10-06T20:00:21.035002-04:00",
-  "hora": "20:00",
+  "updated": "2026-10-06T23:00:23.103863-04:00",
+  "hora": "23:00",
   "fecha": "06/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "vix",
+      "termino": "mason miller",
       "trafico": "100+",
+      "noticia": "Mason Miller placed on paternity list ahead of NLDS Game 3",
+      "enlace": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe4u01bbWD9KXfYpwSwItj2UpXA46kv4qnRGHfxFd2YDXurG9faLCxcbDpYno"
+    },
+    {
+      "termino": "padres - brewers",
+      "trafico": "1000+",
+      "noticia": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
+      "enlace": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM9zpecyo9rL2sSRKus0SpGRfFlXe7jKQLklETZZMTiQtYndMfG4c_NYbuCqo"
+    },
+    {
+      "termino": "estados unidos - canadá",
+      "trafico": "200+",
+      "noticia": "Estados Unidos vs Canadá en vivo hoy: resultado y goles de USA en partido amistoso 2026, en directo",
+      "enlace": "https://as.com/us/futbol/estados-unidos-vs-canada-en-vivo-hoy-resultado-y-goles-de-usa-en-partido-amistoso-2026-en-directo-f202610-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpr8FLVK1HmKtOcDRns9iTbW-QMqccnC2GwLPJIaYDwrs3lxYE-b76T6vXCg"
+    },
+    {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "FORECAST: Another fantastic weather day",
+      "enlace": "https://www.wdrbwave.com/2026/10/06/forecast-another-fantastic-weather-day/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoG4XbEKbl_Wjl_kDvmt16aSyBSvahw8p1D_FjfXVExpJPeTn-XZTx5oLt_wo"
+    },
+    {
+      "termino": "colombia - perú",
+      "trafico": "200+",
+      "noticia": "Colombia vs Peru: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwy8l4n0k5jnt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
+    },
+    {
+      "termino": "contrato",
+      "trafico": "500+",
+      "noticia": "¿Qué podría hacer Puerto Rico con los $5,887 millones que habría costado el contrato de Power Expectations?",
+      "enlace": "https://www.elnuevodia.com/negocios/economia/notas/que-podria-hacer-puerto-rico-con-los-5887-millones-que-habria-costado-el-contrato-de-power-expectations/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEFINuYjL080ACAseoQK0mKFUBsJeLsxudfSMX9sIc5fBGBM7r1eLSvJWtfo"
+    },
+    {
+      "termino": "shohei ohtani",
+      "trafico": "200+",
+      "noticia": "What s behind Ohtani s NLDS struggles? It s complicated ...",
+      "enlace": "https://www.mlb.com/news/shohei-ohtani-off-to-slow-start-in-2026-nlds",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB25fO6Uuc-KjQ4RS3tVDS72f2SWMKB7hpJGKAV1TERJNob0VV-hujz5Z9tDQ"
+    },
+    {
+      "termino": "enrique hernández",
+      "trafico": "500+",
+      "noticia": "Yamamoto (10 K) brilla y deja a los Dodgers a un triunfo de volver a la SCLN",
+      "enlace": "https://www.mlb.com/es/news/yoshinobu-yamamoto-poncha-a-10-en-7-innings-en-el-juego-3-de-la-sdln-vs-bravos",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tKy7xLR1ueBeip75BwKkvQDhzAUmm8zlCi4iktek0uBNHdej95sgMa6l52M"
+    },
+    {
+      "termino": "walter mercado",
+      "trafico": "200+",
+      "noticia": "Horóscopo para miércoles 7 de octubre de Las Estrellas de Walter Mercado",
+      "enlace": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article317477650.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbQjdgkR0y8fgaR3_U1rRioRKQd-6VyDDfv5zUpMnEQdSTQKh8oCCDZy_SMo"
+    },
+    {
+      "termino": "vix",
+      "trafico": "200+",
       "noticia": "The VIX Has Very Little Room To Fall Even If The VIXEQ Rises",
       "enlace": "https://mottcapitalmanagement.com/the-vix-has-very-little-room-to-fall-even-if-the-vixeq-rises/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcwSJLpjjtOWNusUtJZn6Qvp9wMUtV1C9U1gLde_vOJAretD3rfyeWh4Ord60"
-    },
-    {
-      "termino": "argentine – bénin",
-      "trafico": "200+",
-      "noticia": "Steve Mounié refuse d idolâtrer Messi avant le match historique",
-      "enlace": "https://rdcsport.cd/news/steve-mounie-refuse-idolatrer-messi",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5tqWtYmtugyYw5ZOtDqcnaTPaWklwoU-0oFdYAhcP3lB47gBexvIFaf0AVT0"
-    },
-    {
-      "termino": "argentina - benín",
-      "trafico": "2000+",
-      "noticia": "Lionel Messi live updates: Latest score as Messi makes final Argentina appearance against Benin",
-      "enlace": "https://www.nytimes.com/athletic/live-blogs/lionel-messi-live-updates-argentina-vs-benin-score-result/Zodrl7PQUgQc/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNDEJJhRMZFNUnwE_x8TVCQpaDqPyDfj_5SA1jYN6NO69AKjRf261ik8qRD6A"
-    },
-    {
-      "termino": "argentina vs",
-      "trafico": "1000+",
-      "noticia": "Argentina vs. Benín partido EN VIVO de Messi: ¡Scaloni y Messi rompen en llanto!",
-      "enlace": "https://www.tudn.com/futbol/argentina-vs-benin-partido-en-vivo-de-messi-en-estadio-monumental-minuto-a-minuto-del-juego",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmngh_ZKzsI_s2NWGyyI1_F6ITd1NqQuGLvBB27AL3SYI5fH6-JjJt18ChoOk"
-    },
-    {
-      "termino": "petróleo",
-      "trafico": "100+",
-      "noticia": "Bajan los precios del petróleo",
-      "enlace": "https://listindiario.com/las-mundiales/20261006/bajan-precios-petroleo_924986.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGzxy6PiXM7XvFtsYFu5Kf8FLpb3K_KQMZCWzVfsILaytFFLDHUyCDpuuoioQ"
-    },
-    {
-      "termino": "braves - dodgers",
-      "trafico": "2000+",
-      "noticia": "LIVE on FS1/FOX One: Dodgers-Braves NLDS Game 3",
-      "enlace": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRJTWSo66fv0xw0RCcYjtw2ghDtcVvUzlbzx7GHLoIzOCVws_GWmYcX1CjpWE"
-    },
-    {
-      "termino": "huracán nolo",
-      "trafico": "100+",
-      "noticia": "Hurricane Nolo becomes a typhoon in rare weather feat",
-      "enlace": "https://www.syracuse.com/us-news/2026/10/hurricane-nolo-becomes-a-typhoon-in-rare-weather-feat.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-KkJW2DloHJcD2lBjvVM_M9g34zuRHjmHYj_kCQLghx-h4TOeZZYdX5c6aE"
-    },
-    {
-      "termino": "estafa",
-      "trafico": "200+",
-      "noticia": "Ministerio Público acusa a 13 personas y cinco empresas de la red de estafa electrónica y lavado que desmanteló con Operación Discovery 3.0",
-      "enlace": "https://pgr.gob.do/ministerio-publico-acusa-a-13-personas-y-cinco-empresas-de-la-red-de-estafa-electronica-y-lavado-que-desmantelo-con-operacion-discovery-3-0/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNUBw68yYCgP9XCUCJCLP4_cBkityBjmr4UPWEIVwQL2rhOMFE7XwMrc13Fp0"
-    },
-    {
-      "termino": "angleterre – tchéquie",
-      "trafico": "200+",
-      "noticia": "Jude Bellingham chante les louanges d Harry Kane : « C est le meilleur joueur anglais à n avoir jamais porté ce maillot »",
-      "enlace": "https://www.lequipe.fr/Football/Actualites/Jude-bellingham-chante-les-louanges-d-harry-kane-c-est-le-meilleur-joueur-anglais-a-n-avoir-jamais-porte-ce-maillot/1723895",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVxf9o8XsLfVGFCg-PTVVsux7Vy_Q0VmQ3ou2G1R4p2mmsIsw0WTpAxaswjjE"
-    },
-    {
-      "termino": "england vs czechia",
-      "trafico": "200+",
-      "noticia": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates   stats",
-      "enlace": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT952cYup1WXB3El4l8V5-jqDhYLnr-wQ_yPFCdmG2iaEqCXbLwXEGINYk8Fuc"
     }
   ]
 }
