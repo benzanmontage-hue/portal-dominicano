@@ -1,20 +1,62 @@
 {
-  "updated": "2026-10-07T17:00:37.377199-04:00",
-  "hora": "17:00",
+  "updated": "2026-10-07T20:00:40.244934-04:00",
+  "hora": "20:00",
   "fecha": "07/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "yankees - rays",
+      "trafico": "500+",
+      "noticia": "Volpe, Caballero get call from Boone; Jazz sits in Game 3 lineup shakeup",
+      "enlace": "https://www.mlb.com/news/anthony-volpe-jose-caballero-start-for-yankees-in-game-3-of-alds",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDYBobqLC6M5FFVksClcTSvaYNGgUrRRQD_yyplpfwNtz9EmkuZmStjsdxCdY"
+    },
+    {
+      "termino": "madre",
+      "trafico": "200+",
+      "noticia": "Tragedia en El Bronx: dominicana habría sido empujada con su bebé desde el piso 15 de un edificio",
+      "enlace": "https://listindiario.com/la-republica/20261007/tragedia-bronx-dominicana-habria-sido-empujada-bebe-piso-15-edificio_925218.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfUt0juyoPA53HwKAGaUVddELb36soVn6cmPs89yprXLOMl5FIDfzzDbxsl1U"
+    },
+    {
+      "termino": "bulin 47",
+      "trafico": "200+",
+      "noticia": "Improvisación de Bulin 47 alcanza más de 50 millones de reproducciones en redes sociales",
+      "enlace": "https://listindiario.com/entretenimiento/redes-sociales/20261007/improvisacion-bulin-47-alcanza-mas-50-millones-reproducciones-redes-sociales_925192.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn_kok0JDxwRfMpoQLZj8J6Drt-xwkZET_vendb6pkNEL82zLrhQKer5dGto"
+    },
+    {
+      "termino": "contraloría",
+      "trafico": "200+",
+      "noticia": "Piden valorar la decisión de Luis Abinader publicar resultados auditorías en entidades públicas",
+      "enlace": "https://hoy.com.do/el-pais/piden-valorar-decision-luis-abinader-publicar-resultados-auditorias-entidades-publicas_1104695.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToVeLgh_JxxrOSrmiRxG3Lggiuh8cqViz34kzaWbP9EjnN3KoYgyrUEn33eRw"
+    },
+    {
+      "termino": "deportación",
+      "trafico": "1000+",
+      "noticia": "Activistas piden a la ciudad más venezolana de EE. UU. que no sea  epicentro  de deportación",
+      "enlace": "https://elnuevodiario.com.do/activistas-piden-a-la-ciudad-mas-venezolana-de-ee-uu-que-no-sea-epicentro-de-deportacion/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZy31xrYbGMMJvIzT8sM37c83PNlyC0fvppTZGFNL2wLmc6s8KjcmcIA0pt4"
+    },
+    {
+      "termino": "piero",
+      "trafico": "500+",
+      "noticia": "Muere Piero, autor de  Viejo, mi querido viejo ; fue una de las grandes voces de Latinoamérica",
+      "enlace": "https://elnacional.com.do/fama-y-vida/muere-piero-81-anos-apaga-grandes-voces-latinoamerica_582832.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2BED7bp0QSCkPc7J2V1GQIOZWCFYM-JJbM-8Gtx9GehOQ-WWV4YbEP2JG8qE"
+    },
+    {
       "termino": "arresto",
-      "trafico": "100+",
-      "noticia": "Livorno e le truffe agli anziani: è il terzo arresto in pochi mesi della polizia",
-      "enlace": "https://www.iltirreno.it/livorno/cronaca/2026/10/07/news/livorno-e-le-truffe-agli-anziani-e-il-terzo-arresto-in-pochi-mesi-della-polizia-1.100927063",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd760ZcIXQCxXOqVR6uN-W-Rk7-xn0gFbQotYklDK2hJ0IQbr-LV-NmrSAqt4"
+      "trafico": "500+",
+      "noticia": "Polizia di Stato. Un arresto in flagranza di reato in materia di stupefacenti",
+      "enlace": "https://www.lameziaterme.it/polizia-di-stato-un-arresto-in-flagranza-di-reato-in-materia-di-stupefacenti/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4opv7TW-MOwtgn2ODRcPV93pOlFxq_5F4RbFeu6BWMTuzGj3nV6FJw4Feyk"
     },
     {
       "termino": "white sox - guardians",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "LIVE on TBS/HBO Max: Guardians-White Sox ALDS Game 3",
       "enlace": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU3lk0zTOJRGysTXiw3gm3s3utv3jp5qiTvNVlSw_PMhCrLiBCui7geg30vuA"
@@ -28,52 +70,10 @@
     },
     {
       "termino": "policía",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Se entrega a la Policía uno de los señalados por tiroteo en Los Mina",
       "enlace": "https://elnacional.com.do/nacionales/policiales/entrega-policia-senalados-tiroteo-tablita-mina_582819.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ4a0FvDO6ieNSPxf7ljYYu5f5uShrjqQbLUGDFBEA9K2pYPpKZr4jyiieNag"
-    },
-    {
-      "termino": "onda tropical",
-      "trafico": "1000+",
-      "noticia": "El COE emite alerta verde para Santo Domingo y otras provincias por lluvias",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/07/clima-en-rd-santo-domingo-y-otras-provincias-bajo-alerta-verde/3681630",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTV62Q2JDoux6yn4UF7zzQoiyaQV11G08fsuzRPtGsNQSN6pJxUsCTcfEfR3Y"
-    },
-    {
-      "termino": "profesor",
-      "trafico": "2000+",
-      "noticia": "Noticia UPV: El campus de Gandia acogió el acto con el que la UPV reconoce al profesorado de secundaria más valorado por sus estudiantes | Universitat Politècnica de València",
-      "enlace": "https://www.upv.es/noticias-upv/noticia-16101-magistrales-20-es.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB9M95S6CZ18F8hiOsHSbwmtVvkGZANppFBzVOxU4-53ESVsZajWybMdKBXuc"
-    },
-    {
-      "termino": "tormenta",
-      "trafico": "2000+",
-      "noticia": "Tormenta tropical Isaías amenaza a costas del Golfo de México",
-      "enlace": "https://es-us.noticias.yahoo.com/forma-tormenta-tropical-isaias-prev%C3%A9n-093517026.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8RMZeImiFc113l0PFbHoNowowmZTVHhL06PuN_-1bFacOI-iQmEvCa-6mhrM"
-    },
-    {
-      "termino": "arroz",
-      "trafico": "200+",
-      "noticia": "El Gobierno asegura protegerá a los productores de arroz y descarta alzas en precios",
-      "enlace": "https://www.diariolibre.com/economia/agro/2026/10/07/paliza-asegura-apoyo-a-los-productores-de-arroz/3681539",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX1EVQZ8P5ibcExcC_TQDUYiRT95w9F8JPmK3BgSDM7NceI0jqW0uw7sIqdr0"
-    },
-    {
-      "termino": "mlb resultados",
-      "trafico": "100+",
-      "noticia": "Lo último sobre Mason Miller y Adrián Morejón de cara al Juego 4 de la SDLN",
-      "enlace": "https://www.mlb.com/es/news/lo-ultimo-sobre-mason-miller-y-adrian-morejon-de-cara-al-juego-4-de-la-sdln",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe4u01bbWD9KXfYpwSwItj2UpXA46kv4qnRGHfxFd2YDXurG9faLCxcbDpYno"
-    },
-    {
-      "termino": "resultado mlb",
-      "trafico": "200+",
-      "noticia": "MLB Gameday: Brewers 3, Padres 4 Resultado Final (06/10/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/849826/final/box",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLDgYnmy9dRBmpjlzrDykJm5N1Go1Es4tFyiTAufMA_FulT6meeDMTQ6RfhHw"
     }
   ]
 }
