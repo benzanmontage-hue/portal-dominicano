@@ -5,6 +5,9 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
+/sw.js
+  Cache-Control: no-cache
+
 /data/*
   Cache-Control: public, max-age=900
   X-Robots-Tag: noindex
