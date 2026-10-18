@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-18T12:25:20-04:00",
+ "actualizado": "2026-10-18T14:07:44-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -91,6 +91,14 @@
   ],
   "Anguila|Anguila 1:00 PM": [
    {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "25",
+     "13",
+     "86"
+    ]
+   },
+   {
     "fecha": "2026-10-17",
     "numeros": [
      "95",
@@ -108,6 +116,14 @@
    }
   ],
   "Anguila|Anguila 2:00 PM": [
+   {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "53",
+     "26",
+     "66"
+    ]
+   },
    {
     "fecha": "2026-10-17",
     "numeros": [
@@ -308,6 +324,15 @@
   ],
   "Anguila|La Cuarteta 1:00 PM": [
    {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "67",
+     "17",
+     "27",
+     "77"
+    ]
+   },
+   {
     "fecha": "2026-10-17",
     "numeros": [
      "00",
@@ -469,6 +494,14 @@
    }
   ],
   "La Suerte|La Suerte 12:30": [
+   {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "59",
+     "48",
+     "10"
+    ]
+   },
    {
     "fecha": "2026-10-17",
     "numeros": [
@@ -724,6 +757,14 @@
   ],
   "Loteka|Quiniela Loteka Día": [
    {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "28",
+     "12",
+     "81"
+    ]
+   },
+   {
     "fecha": "2026-10-17",
     "numeros": [
      "75",
@@ -818,6 +859,15 @@
   ],
   "Loteria Real|Loto Pool": [
    {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "12",
+     "92",
+     "58",
+     "44"
+    ]
+   },
+   {
     "fecha": "2026-10-17",
     "numeros": [
      "43",
@@ -882,6 +932,14 @@
   ],
   "Loteria Real|Nueva Yol Real": [
    {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "99",
+     "18",
+     "29"
+    ]
+   },
+   {
     "fecha": "2026-10-17",
     "numeros": [
      "37",
@@ -910,6 +968,14 @@
    }
   ],
   "Loteria Real|Quiniela Real": [
+   {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "65",
+     "98",
+     "24"
+    ]
+   },
    {
     "fecha": "2026-10-17",
     "numeros": [
@@ -958,6 +1024,12 @@
    }
   ],
   "Loteria Real|Tu Fecha Real": [
+   {
+    "fecha": "2026-10-18",
+    "numeros": [
+     "09"
+    ]
+   },
    {
     "fecha": "2026-10-17",
     "numeros": [

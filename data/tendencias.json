@@ -1,23 +1,65 @@
 {
-  "updated": "2026-10-18T12:25:12.515285-04:00",
-  "hora": "12:25",
+  "updated": "2026-10-18T14:07:30.557634-04:00",
+  "hora": "14:07",
   "fecha": "18/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nottingham forest - arsenal",
+      "termino": "real de hoy",
+      "trafico": "1000+",
+      "noticia": "Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo",
+      "enlace": "https://as.com/futbol/primera/real-madrid-sevilla-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-el-bernabeu-f202610-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiF3T5mBUoMW3DcIUHAl-tItu7Q6_qtTV4CA8UVT_YiXAs-hrFDt2k19S9ZLQ"
+    },
+    {
+      "termino": "real",
+      "trafico": "500+",
+      "noticia": "Real Madrid vs. Sevilla: Preview, Predictions and Lineups",
+      "enlace": "https://www.si.com/soccer/real-madrid-vs-sevilla-preview-predictions-lineups-10-18-26",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYI1w23_SekLLYYlA5s-2ItvbHgKGj6AOEx6rxJPtinkh8s3cAeDTRJ2uqUm0"
+    },
+    {
+      "termino": "málaga - real sociedad",
+      "trafico": "100+",
+      "noticia": "El Málaga sale con Adrián Niño y Chupete en punta",
+      "enlace": "https://www.infobae.com/espana/agencias/2026/10/18/el-malaga-sale-con-adrian-nino-y-chupete-en-punta/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+    },
+    {
+      "termino": "milan - atalanta",
+      "trafico": "100+",
+      "noticia": "AC Milan vs Atalanta: Italian Serie A stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwp8gkl77yyjt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "nottm forest – arsenal",
+      "trafico": "100+",
+      "noticia": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgTBc2GcZ1g1795XHYTUw-i31ubei7g_nHvzEWxi97_NWx8IZnvKHyAmzAHo"
+    },
+    {
+      "termino": "primera",
       "trafico": "200+",
-      "noticia": "Nottingham Forest v Arsenal: Premier League – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdQ_XTMIlXFToO5tkQnhhVjU_6X2A5RlR5LN2VDiqUD4ePI7d21JkCrit95bs"
+      "noticia": "Colombia clasifica por primera vez a una final por equipos en Mundial de Gimnasia",
+      "enlace": "https://noticiassin.com/deportes/mas-deportes/2026/10/18/colombia-clasifica-por-primera-vez-a-una-final-por-equipos-en-mundial-de-gimnasia-2146905/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUSLhamYNDIHb1Ya8iLPdB6KFTL1JayvP8XLWALxztqlMgL0uTPtZfp678syM"
+    },
+    {
+      "termino": "nottingham forest - arsenal",
+      "trafico": "500+",
+      "noticia": "Premier League LIVE: Arsenal beat Forest after Man Utd   Leeds draw, Brighton and Bournemouth win",
+      "enlace": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNaVcr250Cc0DP7BUn_UKmC84kcQhnnI7FiUALYjlk1oS91hpYh0xzeARC0eo"
     },
     {
       "termino": "celta de vigo - alavés",
-      "trafico": "100+",
-      "noticia": "Celta - Alavés, en directo | Última hora de LaLiga EA Sports hoy en vivo",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/celta-alaves/2026/10/18/01_0101_20261018_176_173-directo.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLDqdZjg7DvfcrSnE0imNGfDWIeOrFOVl4MPgctpnq8Qj_NluXSqbdwqnsYks"
+      "trafico": "200+",
+      "noticia": "Celta 2 - 1 Alavés, resumen, goles y resultado de LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/primera/celta-alaves-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNJvIshxPyRY6l3Kaxt4TKbwi9ABtTGwl_X5HZV6_nBApdg8cJbnMZjWno28Q"
     },
     {
       "termino": "leeds - manchester united",
@@ -28,52 +70,10 @@
     },
     {
       "termino": "junta central electoral",
-      "trafico": "1000+",
-      "noticia": "Te traemos a tu casa con tu cédula en mano : fechas y lugares del operativo móvil de la JCE",
-      "enlace": "https://hoy.com.do/el-pais/te-traemos-casa-cedula-mano-conoce-operativo-movil-renovar-documento_1105926.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_QUDbepsal76ByDsZVK3HNq7AWH4R2GkdddihsPub2ULAtFE_Bv6PrBNrtis"
-    },
-    {
-      "termino": "cleveland vs tampa",
-      "trafico": "100+",
-      "noticia": "ALCS Game 4 storylines coming off Friday s postponement",
-      "enlace": "https://www.mlb.com/news/2026-alcs-game-4-storylines",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzQecxDN9Ed9aiVD76wq557d9XmQ_qN6s5xz8ko9KD_fsU83QLct3zpBTulpY"
-    },
-    {
-      "termino": "tampa bay rays",
-      "trafico": "200+",
-      "noticia": "How Do Toronto Blue Jays Compare to Tampa Bay Rays in 2026?",
-      "enlace": "https://sports.yahoo.com/articles/toronto-blue-jays-compare-tampa-125405608.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAPRQZl5swKtgSoieJ0RxJ8m-bvbrf8kYuzXzWRs5-g3bquJjnOkR0GrJsTg"
-    },
-    {
-      "termino": "freddy peralta",
-      "trafico": "200+",
-      "noticia": "Breaking down Nick Martinez s ALCS Game 4 start",
-      "enlace": "https://www.mlb.com/es/rays/video/breaking-down-nick-martinez-s-alcs-game-4-start",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7mOPAv-_RZbHRo_etHhH7Z1-_adLPLKprM-bLW0tVOCAJ4Vf582VjtBA_fLY"
-    },
-    {
-      "termino": "tampa vs cleveland",
-      "trafico": "200+",
-      "noticia": "Milan vs. Atalanta (18 Oct, 2026) Team Stats",
-      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/401874978/league/ita.1",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBPRQbcPqNj4UG15kc3LQoYXVBl3OTB0HXFvlDvv_b3zm-4zSAefUXA35DfmU"
-    },
-    {
-      "termino": "posiciones de atlanta united contra inter miami",
-      "trafico": "200+",
-      "noticia": "Lionel Messi anota dos goles en la victoria del Inter de Miami",
-      "enlace": "https://listindiario.com/el-deporte/20261018/lionel-messi-anota-dos-goles-victoria-inter-miami_926572.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR66iqxIrjzKpTOeb2VF5SnX0BAFwYqAJgvyKkYHrC7QC9xIiroRlVmsA_1j2o"
-    },
-    {
-      "termino": "evaluación docente",
-      "trafico": "1000+",
-      "noticia": "Atención maestros: La nota promedio de la Evaluación del Desempeño Docente fue de 85 puntos",
-      "enlace": "https://listindiario.com/la-republica/educacion/20261017/nota-promedio-evaluacion-docente-85-puntos_926550.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1PG_W3NJ2IS1ecGdJU-06qO3mgyU8WOaZPp17osx3AdN_39wCEXQEMj79tzM"
+      "trafico": "2000+",
+      "noticia": "JCE realiza simulacro electoral para jóvenes que votarán por primera vez en Puerto Plata",
+      "enlace": "https://elnuevodiario.com.do/jce-realiza-simulacro-electoral-para-jovenes-que-votaran-por-primera-vez-en-puerto-plata/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK1YMTg27tqZ1uDrv0QW1lxOnP0rRWDlVBUfX55xFQsugjpsytoZ_LlkxskTY"
     }
   ]
 }
