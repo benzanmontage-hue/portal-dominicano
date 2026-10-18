@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T12:09:57.596755-04:00",
-  "hora": "12:09",
+  "updated": "2026-10-18T12:25:12.515285-04:00",
+  "hora": "12:25",
   "fecha": "18/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Nottingham Forest v Arsenal: Premier League – live",
       "enlace": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdQ_XTMIlXFToO5tkQnhhVjU_6X2A5RlR5LN2VDiqUD4ePI7d21JkCrit95bs"
+    },
+    {
+      "termino": "celta de vigo - alavés",
+      "trafico": "100+",
+      "noticia": "Celta - Alavés, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/celta-alaves/2026/10/18/01_0101_20261018_176_173-directo.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLDqdZjg7DvfcrSnE0imNGfDWIeOrFOVl4MPgctpnq8Qj_NluXSqbdwqnsYks"
     },
     {
       "termino": "leeds - manchester united",
@@ -36,9 +43,9 @@
     {
       "termino": "tampa bay rays",
       "trafico": "200+",
-      "noticia": "Rays slip past Guards in Game 4 to knot up ALCS",
-      "enlace": "https://www.mlb.com/news/rays-win-alcs-game-4-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9IeqyvorjDPE1h-V4iDrL75MVcAt8FIbTFNt7EiB7THzzL8PLYEHzesz5TQ8"
+      "noticia": "How Do Toronto Blue Jays Compare to Tampa Bay Rays in 2026?",
+      "enlace": "https://sports.yahoo.com/articles/toronto-blue-jays-compare-tampa-125405608.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAPRQZl5swKtgSoieJ0RxJ8m-bvbrf8kYuzXzWRs5-g3bquJjnOkR0GrJsTg"
     },
     {
       "termino": "freddy peralta",
@@ -50,9 +57,9 @@
     {
       "termino": "tampa vs cleveland",
       "trafico": "200+",
-      "noticia": "Le Havre AC vs. Auxerre (18 Oct, 2026) Team Stats",
-      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/401876438/league/fra.1",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNJPS4aQ7rZR_pGv37xMdF2S9axpISo4YRpJtNPZP0GEz-b1kW3wfP2aA2sU"
+      "noticia": "Milan vs. Atalanta (18 Oct, 2026) Team Stats",
+      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/401874978/league/ita.1",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBPRQbcPqNj4UG15kc3LQoYXVBl3OTB0HXFvlDvv_b3zm-4zSAefUXA35DfmU"
     },
     {
       "termino": "posiciones de atlanta united contra inter miami",
@@ -67,13 +74,6 @@
       "noticia": "Atención maestros: La nota promedio de la Evaluación del Desempeño Docente fue de 85 puntos",
       "enlace": "https://listindiario.com/la-republica/educacion/20261017/nota-promedio-evaluacion-docente-85-puntos_926550.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1PG_W3NJ2IS1ecGdJU-06qO3mgyU8WOaZPp17osx3AdN_39wCEXQEMj79tzM"
-    },
-    {
-      "termino": "mls",
-      "trafico": "200+",
-      "noticia": "[LIVESTREAM]FREE!!] San Jose Earthquakes vs Nashville SC MLS Live Free Match",
-      "enlace": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vbW90aS9xcHIueG1sIi8+PC9rcnBhbm8+ id=san-jose-earthquakes-vs-nashville-sc-fox-sports-amz8b",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYpiaMz3YDDRyOjxw2HYnQKHaFVpmj8V_3HTC-emfMrNi5DCbduHPuuZ9nvoM"
     }
   ]
 }
