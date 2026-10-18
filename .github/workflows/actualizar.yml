@@ -1,0 +1,52 @@
+# Actualiza los datos del portal y regenera las páginas varias veces al día.
+# Reemplaza al cron del servidor antiguo. Gratis en repositorios públicos.
+name: Actualizar datos
+
+on:
+  schedule:
+    # Hora UTC. En RD (UTC-4): 9:20, 11:20, 13:20, 15:20, 17:20, 19:20, 21:20 y 23:20.
+    # La de 21:20 recoge Lotería Nacional y Leidsa; la de 23:20 la última Anguila.
+    - cron: "20 1,3,13,15,17,19,21,23 * * *"
+  workflow_dispatch: {}   # botón "Run workflow" para actualizar a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar datos y regenerar páginas
+        id: update
+        run: python3 scripts/update_all.py
+        continue-on-error: true
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "portal-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+            exit 0
+          fi
+          git commit -q -m "auto-update datos ($(TZ=America/Santo_Domingo date '+%d/%m/%Y %H:%M') RD)"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
+
+      - name: Avisar si falló la lotería
+        if: steps.update.outcome == 'failure'
+        run: |
+          echo "::error::Falló la descarga de lotería o la generación de páginas. Revisa el paso anterior."
+          exit 1

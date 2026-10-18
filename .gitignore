@@ -3,3 +3,5 @@
 .DS_Store
 UX-CRO_review.md
 .wrangler/
+__pycache__/
+*.pyc

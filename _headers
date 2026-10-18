@@ -6,7 +6,11 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 /data/*
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=900
+  X-Robots-Tag: noindex
 
 /img/*
   Cache-Control: public, max-age=604800
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600

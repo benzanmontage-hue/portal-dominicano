@@ -12,6 +12,10 @@ import urllib.request
 import urllib.parse
 import datetime
 from datetime import timezone, timedelta
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
@@ -90,7 +94,7 @@ def main():
         "eventos": eventos,
     }
 
-    path = "/opt/data/home/portal-dominicano/data/eventos.json"
+    path = os.path.join(ROOT, "data", "eventos.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"OK: {len(eventos)} eventos -> {path}")

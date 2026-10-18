@@ -11,6 +11,10 @@ import urllib.parse
 import datetime
 from datetime import timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 QUERIES = [
     "República Dominicana",
@@ -112,7 +116,7 @@ def main():
         "noticias": noticias,
     }
 
-    path = "/opt/data/home/portal-dominicano/data/noticias.json"
+    path = os.path.join(ROOT, "data", "noticias.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     con_img = sum(1 for n in noticias if n.get("imagen"))

@@ -9,6 +9,10 @@ import json
 import urllib.request
 import datetime
 from datetime import timezone, timedelta
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 API = "https://open.er-api.com/v6/latest/USD"
 UA = {"User-Agent": "Mozilla/5.0"}
@@ -51,7 +55,7 @@ def main():
         "conversiones": conversiones,
     }
 
-    path = "/opt/data/home/portal-dominicano/data/divisas.json"
+    path = os.path.join(ROOT, "data", "divisas.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"OK: USD = {dop} DOP -> {path}")

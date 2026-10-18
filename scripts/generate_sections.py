@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """Generar páginas SEO de las secciones (mlb, traductor, tiempo, divisas, economía,
-noticias, eventos) + actualizar sitemap a 15 URLs."""
+noticias, eventos). El sitemap lo genera scripts/build_sitemap.py."""
 
 import json
 import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 BASE = "https://portaldominicana.net"
 
@@ -86,7 +89,7 @@ def tiempo_relativo(fecha_str):
 
 def render_data_html(data_type):
     """Renderizar el contenido de una sección desde data/*.json (estático, indexable)."""
-    path = "/opt/data/home/portal-dominicano/data/" + data_type + ".json"
+    path = os.path.join(ROOT, "data", data_type + ".json")
     try:
         d = json.load(open(path, encoding="utf-8"))
     except Exception:
@@ -143,7 +146,7 @@ def render_data_html(data_type):
 
 
 TEMPLATE = """<!DOCTYPE html>
-<html lang="es">
+<html lang="es-DO">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -165,7 +168,7 @@ TEMPLATE = """<!DOCTYPE html>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script type="application/ld+json">
-{{"@context":"https://schema.org","@type":"WebPage","name":"{h1}","url":"{base}/{slug}/","inLanguage":"es-DO","isPartOf":{{"@type":"WebSite","name":"Portal Dominicano","url":"{base}/"}}}}
+{{"@context":"https://schema.org","@graph":[{{"@type":"WebPage","name":"{h1}","url":"{base}/{slug}/","inLanguage":"es-DO","isPartOf":{{"@type":"WebSite","@id":"{base}/#website","name":"Portal Dominicano","url":"{base}/"}},"breadcrumb":{{"@id":"{base}/{slug}/#breadcrumb"}}}},{{"@type":"BreadcrumbList","@id":"{base}/{slug}/#breadcrumb","itemListElement":[{{"@type":"ListItem","position":1,"name":"Portal Dominicano","item":"{base}/"}},{{"@type":"ListItem","position":2,"name":"{h1}","item":"{base}/{slug}/"}}]}}]}}
 </script>
 <style>
 :root{{--azul:#002a5c;--azul2:#0a5bbf;--rojo:#d90429;--bg:#f4f6fb;--card:#fff;--border:#e5eaf3;--border2:#d8e0ee;--txt:#0d1b33;--muted:#64748b;--gold:#f5b942;--shadow:0 2px 4px rgba(13,27,51,.04),0 8px 20px rgba(13,27,51,.07);--grad:linear-gradient(135deg,#002a5c,#d90429)}}
@@ -204,19 +207,19 @@ footer a{{color:var(--azul2);font-weight:700}}
 </style>
 </head>
 <body>
-<div class="hero">
-  <div class="crumb"><a href="{base}/">← Portal Dominicano</a></div>
+<header class="hero">
+  <nav class="crumb" aria-label="Ruta de navegación"><a href="../">Portal Dominicano</a> › <span aria-current="page">{h1}</span></nav>
   <h1>{h1}</h1>
-</div>
-<div class="wrap">
+</header>
+<main class="wrap">
   <p class="intro">{intro}</p>
 
   <h2 class="sect"><span class="bar"></span> Hoy</h2>
   {contenido}
 
   <h2 class="sect"><span class="bar"></span> Todo el portal</h2>
-  <div class="otras">{otras}</div>
-</div>
+  <nav class="otras" aria-label="Todo el portal">{otras}</nav>
+</main>
 <footer>
   <p>Portal informativo. Verifica siempre con la fuente oficial.</p>
   <p><a href="{base}/">Portal Dominicano</a> · República Dominicana</p>
@@ -227,7 +230,7 @@ footer a{{color:var(--azul2);font-weight:700}}
 
 
 def main():
-    base_dir = "/opt/data/home/portal-dominicano"
+    base_dir = ROOT
     slugs = []
     # para el bloque "otras" enlazamos a las 7 loterías + las otras secciones
     todas = [p["slug"] for p in PAGINAS] + [
@@ -263,19 +266,6 @@ def main():
             f.write(html)
         slugs.append(p["slug"])
         print(f"OK: {p['slug']}/")
-
-    # sitemap completo: home + 7 loterías + 7 secciones = 15 URLs
-    loterias = ["loteria-nacional", "loteria-real", "anguila", "loteka", "la-primera", "la-suerte", "leidsa"]
-    todos = ["home"] + loterias + slugs
-    urls = []
-    for s in todos:
-        loc = BASE + "/" if s == "home" else BASE + "/" + s + "/"
-        prio = "1.0" if s == "home" else "0.8"
-        urls.append("  <url>\n    <loc>" + loc + "</loc>\n    <lastmod>2026-09-09</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>" + prio + "</priority>\n  </url>")
-    sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "\n".join(urls) + "\n</urlset>\n"
-    with open(os.path.join(base_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
-        f.write(sitemap)
-    print("sitemap actualizado:", len(todos), "URLs")
 
 
 if __name__ == "__main__":

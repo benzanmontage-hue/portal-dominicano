@@ -40,7 +40,13 @@ Es una web estática (HTML + CSS + JS vanilla, sin frameworks) alojada en GitHub
 | `scripts/scrape_noticias.py` | Google News RSS | Noticias RD |
 | `scripts/scrape_tendencias.py` | Google Trends RSS | Tendencias de búsqueda |
 
-Un cron actualiza los datos y hace push cada 3 horas (8 veces al día).
+**GitHub Actions** (`.github/workflows/actualizar.yml`) ejecuta `scripts/update_all.py` 8 veces al día (9:20 AM a 11:20 PM hora RD): descarga los datos, guarda el historial de lotería (`data/archivo.json`), regenera las páginas y el sitemap, y publica los cambios. Para actualizar a mano: pestaña **Actions → Actualizar datos → Run workflow**.
+
+### SEO
+- Los resultados de lotería se escriben **directamente en el HTML** (portada y las 7 páginas de lotería), así Google los lee sin ejecutar JavaScript.
+- Cada página de lotería incluye fecha, resultados de los últimos días, juegos, preguntas frecuentes y datos estructurados (`BreadcrumbList`, `FAQPage`, `WebPage`).
+- `sitemap.xml` se genera con la fecha real del último cambio de cada página (`scripts/build_sitemap.py`).
+- No edites a mano las páginas generadas ni lo que está entre `<!--LOTERIA:INICIO-->` y `<!--LOTERIA:FIN-->` en `index.html`: edita los scripts en `scripts/`.
 
 ## ⚙️ Despliegue
 
@@ -49,11 +55,8 @@ Un cron actualiza los datos y hace push cada 3 horas (8 veces al día).
 git clone https://github.com/benzanmontage-hue/portal-dominicano.git
 cd portal-dominicano
 
-# Regenerar datos
-python3 scripts/scrape_loteria.py
-python3 scripts/scrape_radio.py
-python3 scripts/scrape_noticias.py
-python3 scripts/scrape_tendencias.py
+# Descargar datos y regenerar todas las páginas
+python3 scripts/update_all.py
 
 # Servir localmente
 python3 -m http.server 8000

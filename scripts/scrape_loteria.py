@@ -16,6 +16,10 @@ import sys
 import urllib.request
 import datetime
 from datetime import timezone, timedelta
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 API_BASE = "https://api.loteriasdominicanas.com/dominicana"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -108,7 +112,7 @@ def main():
         "historial": historial,
     }
 
-    path = "/opt/data/home/portal-dominicano/data/resultados.json"
+    path = os.path.join(ROOT, "data", "resultados.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"OK: {len(juegos)} juegos + historial {len(historial)} juegos -> {path}")

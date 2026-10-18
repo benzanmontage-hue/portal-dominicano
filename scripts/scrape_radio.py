@@ -5,6 +5,10 @@ Produce data/radio.json con una lista curada de emisoras FM con stream válido.
 """
 import json
 import urllib.request
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 API = "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/DO?hidebroken=true&limit=100"
 UA = {"User-Agent": "portal-dominicano/1.0"}
@@ -52,7 +56,7 @@ def main():
     out.sort(key=key)
     out = out[:40]
 
-    path = "/opt/data/home/portal-dominicano/data/radio.json"
+    path = os.path.join(ROOT, "data", "radio.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"total": len(out), "emisoras": out}, f, ensure_ascii=False, indent=2)
     print(f"OK: {len(out)} emisoras -> {path}")

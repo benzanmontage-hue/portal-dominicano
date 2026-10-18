@@ -16,6 +16,10 @@ import re
 import urllib.request
 import datetime
 from datetime import timezone, timedelta
+import os
+
+# Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 RSS_URL = "https://trends.google.com/trending/rss?geo=DO"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -73,7 +77,7 @@ def main():
         "tendencias": tendencias,
     }
 
-    path = "/opt/data/home/portal-dominicano/data/tendencias.json"
+    path = os.path.join(ROOT, "data", "tendencias.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"OK: {len(tendencias)} tendencias -> {path}")
