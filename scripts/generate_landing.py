@@ -25,7 +25,7 @@ LOTERIAS = [
         "desc": "Resultados de la Lotería Nacional de hoy en República Dominicana. Números ganadores de la quiniela, Gana Más, Juega + Pega + y Billetes Domingo, con historial de días anteriores.",
         "h1": "Lotería Nacional de Hoy",
         "intro": "Consulta los <strong>resultados de la Lotería Nacional de hoy</strong> con sus números ganadores. La Lotería Nacional Dominicana sortea todos los días e incluye la <strong>Quiniela</strong> (3 pares de dos cifras), <strong>Gana Más</strong>, <strong>Juega + Pega +</strong> y <strong>Billetes Domingo</strong>.",
-        "hora": "Todos los días a las 8:50 PM (hora RD).",
+        "hora": "Gana Más 2:30 PM. Noche: lun–sáb 8:50–9:00 PM, domingo 6:00 PM (hora RD).",
     },
     {
         "slug": "loteria-real",
@@ -35,7 +35,7 @@ LOTERIAS = [
         "desc": "Resultados de la Lotería Real de hoy en República Dominicana. Números ganadores de la Quiniela Real, Lotería Real Noche, Loto Real, Loto Pool y Super Palé, con historial.",
         "h1": "Lotería Real de Hoy",
         "intro": "Consulta los <strong>resultados de la Lotería Real de hoy</strong> con sus números ganadores. Incluye <strong>Lotería Real Noche</strong>, <strong>Quiniela Real</strong>, <strong>Loto Real</strong>, <strong>Loto Pool</strong> y más sorteos.",
-        "hora": "Sorteos diarios, incluyendo Lotería Real Noche.",
+        "hora": "Quiniela Real todos los días a las 12:55 PM (hora RD).",
     },
     {
         "slug": "anguila",
@@ -45,7 +45,7 @@ LOTERIAS = [
         "desc": "Resultados de la Lotería Anguila de hoy en República Dominicana. Todos los sorteos horarios de 8:00 AM a 10:00 PM y La Cuarteta, con sus números ganadores.",
         "h1": "Lotería Anguila de Hoy",
         "intro": "Consulta los <strong>resultados de la Lotería Anguila de hoy</strong> con todos sus sorteos horarios. Anguila sortea varias veces al día, desde las <strong>8:00 AM hasta las 10:00 PM</strong>, e incluye <strong>La Cuarteta</strong>.",
-        "hora": "Sorteos horarios desde 8:00 AM hasta 10:00 PM.",
+        "hora": "Cada hora de 8:00 AM a 10:00 PM (hora RD).",
     },
     {
         "slug": "loteka",
@@ -55,7 +55,7 @@ LOTERIAS = [
         "desc": "Resultados de Loteka de hoy en República Dominicana. Números ganadores de la Quiniela Loteka, MegaLotto, Mega Chances y Toca 3, con historial de días anteriores.",
         "h1": "Loteka de Hoy",
         "intro": "Consulta los <strong>resultados de Loteka de hoy</strong> con sus números ganadores. Incluye <strong>Quiniela Loteka</strong>, <strong>MegaLotto</strong>, <strong>Mega Chances</strong>, <strong>Toca 3</strong> y <strong>MC Repartidera</strong>.",
-        "hora": "Sorteos diarios.",
+        "hora": "Todos los días a las 7:55 PM (hora RD).",
     },
     {
         "slug": "la-primera",
@@ -65,7 +65,7 @@ LOTERIAS = [
         "desc": "Resultados de La Primera de hoy en República Dominicana. Números ganadores de La Primera Día, Primera Noche, El Quinielón y Loto 5, con historial.",
         "h1": "La Primera de Hoy",
         "intro": "Consulta los <strong>resultados de La Primera de hoy</strong> con sus números ganadores. Incluye <strong>La Primera Día</strong>, <strong>Primera Noche</strong>, <strong>El Quinielón</strong> y <strong>Loto 5</strong>.",
-        "hora": "Sorteos de día y noche.",
+        "hora": "Día 12:00 PM y Noche 8:00 PM, todos los días (hora RD).",
     },
     {
         "slug": "la-suerte",
@@ -75,7 +75,7 @@ LOTERIAS = [
         "desc": "Resultados de La Suerte Dominicana de hoy. Números ganadores de los sorteos de las 12:30 y las 6:00 PM, con historial de días anteriores.",
         "h1": "La Suerte de Hoy",
         "intro": "Consulta los <strong>resultados de La Suerte de hoy</strong> con sus números ganadores. La Suerte sortea a las <strong>12:30 PM</strong> y a las <strong>6:00 PM</strong> (hora RD).",
-        "hora": "Sorteos a las 12:30 PM y 6:00 PM.",
+        "hora": "12:30 PM y 6:00 PM, todos los días (hora RD).",
     },
     {
         "slug": "leidsa",
@@ -85,7 +85,7 @@ LOTERIAS = [
         "desc": "Resultados de Leidsa de hoy en República Dominicana. Números ganadores de Quiniela Leidsa, Loto Pool, Pega 3 Más, Súper Kino TV y Super Palé, con historial.",
         "h1": "Leidsa de Hoy",
         "intro": "Consulta los <strong>resultados de Leidsa de hoy</strong> con sus números ganadores. Incluye <strong>Quiniela Leidsa</strong>, <strong>Pega 3 Más</strong>, <strong>Loto Pool</strong>, <strong>Súper Kino TV</strong> y <strong>Super Palé</strong>.",
-        "hora": "Sorteos a las 8:55 PM (hora RD).",
+        "hora": "Lun–sáb 8:55 PM; domingo 3:55 PM (hora RD).",
     },
 ]
 
@@ -229,7 +229,7 @@ def faqs_para(l, juegos, upd):
             f"{' - '.join(j['numeros'])}. En esta página están los resultados de todos los juegos de {nombre}, "
             f"actualizados el {fecha_larga(upd.date())} a las {hora_12(upd)} (hora RD)."
         ))
-    faqs.append((f"¿A qué hora juega {nombre}?", l["hora"]))
+    faqs.append((f"¿A qué hora juega {nombre}?", l["hora"] + " Ver todos los horarios en portaldominicana.net/horarios-loterias/."))
     if juegos:
         nombres = [limpiar(j["juego"]) for j in juegos]
         lista = nombres[0] if len(nombres) == 1 else ", ".join(nombres[:-1]) + " y " + nombres[-1]

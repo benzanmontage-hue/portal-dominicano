@@ -862,30 +862,35 @@ fetch('data/eventos.json?v=1')
 
 // ---- Countdown al próximo sorteo ----
 const SORTEOS = [
-  {h: 12, m: 30, nombre: 'La Suerte · La Primera · Real', etiqueta: 'mediodía'},
-  {h: 14, m: 30, nombre: 'Lotería Nacional', etiqueta: 'día'},
-  {h: 20, m: 50, nombre: 'Lotería Nacional', etiqueta: 'noche'},
-  {h: 20, m: 55, nombre: 'Leidsa', etiqueta: 'noche'},
+  // hora RD; dias: 0=domingo … 6=sábado (sin dias = todos). Ver /horarios-loterias/
+  {h: 12, m: 0,  nombre: 'La Primera Día', etiqueta: 'mediodía'},
+  {h: 12, m: 30, nombre: 'La Suerte', etiqueta: 'mediodía'},
+  {h: 12, m: 55, nombre: 'Lotería Real', etiqueta: 'mediodía'},
+  {h: 14, m: 30, nombre: 'Gana Más (Nacional)', etiqueta: 'tarde'},
+  {h: 15, m: 55, nombre: 'Leidsa', etiqueta: 'domingo', dias: [0]},
+  {h: 18, m: 0,  nombre: 'La Suerte · Nacional domingo', etiqueta: 'tarde', dias: [0]},
+  {h: 18, m: 0,  nombre: 'La Suerte', etiqueta: 'tarde', dias: [1,2,3,4,5,6]},
+  {h: 19, m: 55, nombre: 'Loteka', etiqueta: 'noche'},
+  {h: 20, m: 0,  nombre: 'Primera Noche', etiqueta: 'noche'},
+  {h: 20, m: 55, nombre: 'Leidsa · Lotería Nacional', etiqueta: 'noche', dias: [1,2,3,4,5,6]},
 ];
 function proximoSorteo(){
-  const now = new Date();
-  // hora RD (UTC-4) — usar el offset real para que el diff sea correcto
-  const rdStr = now.toLocaleString('en-US', {timeZone: 'America/Santo_Domingo'});
-  const rd = new Date(rdStr);
-  const rdNow = rd.getTime(); // ms en hora RD
-  let best = null, bestDiff = Infinity;
-  for (const s of SORTEOS){
-    const d = new Date(rd);
-    d.setHours(s.h, s.m, 0, 0);
-    let diff = d.getTime() - rdNow;
-    if (diff < 0) diff += 24*3600*1000; // ya pasó hoy → mañana
-    if (diff < bestDiff){ bestDiff = diff; best = { ...s, target: d }; }
+  const rd = new Date(new Date().toLocaleString('en-US', {timeZone: 'America/Santo_Domingo'}));
+  const rdNow = rd.getTime();
+  for (let dia = 0; dia < 2; dia++){
+    const base = new Date(rd); base.setDate(base.getDate() + dia);
+    const cands = SORTEOS.filter(s => !s.dias || s.dias.includes(base.getDay()))
+      .map(s => { const d = new Date(base); d.setHours(s.h, s.m, 0, 0); return {...s, target: d}; })
+      .filter(s => s.target.getTime() > rdNow)
+      .sort((a, b) => a.target - b.target);
+    if (cands.length) return {...cands[0], manana: dia === 1};
   }
-  return best;
+  return null;
 }
 function pad(n){ return String(n).padStart(2, '0'); }
 function tickCountdown(){
   const nxt = proximoSorteo();
+  if (!nxt) return;
   const el = document.getElementById('cd-time');
   const sorteo = document.getElementById('cd-sorteo');
   const sub = document.getElementById('cd-sub');
@@ -899,7 +904,7 @@ function tickCountdown(){
   el.textContent = pad(h) + ':' + pad(m) + ':' + pad(s);
   sorteo.textContent = nxt.nombre;
   const hh = pad(nxt.target.getHours()) + ':' + pad(nxt.target.getMinutes());
-  sub.textContent = 'hoy a las ' + hh + ' (' + nxt.etiqueta + ')';
+  sub.textContent = (nxt.manana ? 'mañana' : 'hoy') + ' a las ' + hh + ' (hora RD)';
 }
 tickCountdown();
 setInterval(tickCountdown, 1000);

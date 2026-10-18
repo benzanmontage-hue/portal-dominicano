@@ -47,7 +47,7 @@ def pagina_fecha(f, sorteos, anterior, siguiente, hoy):
         p = principal(comp, js)
         if p:
             nums = " - ".join(p["numeros"])
-            resumen.append(f"<li><strong>{esc(nombre)}</strong> ({esc(p['juego'])}): {esc(nums)}</li>")
+            resumen.append(f"<li><strong>{esc(nombre)}</strong> ({esc(p['juego'])}): <span class=\"nw\">{esc(nums)}</span></li>")
             faqs.append((f"¿Qué números salieron en {nombre} el {d.day} de {MESES[d.month - 1]} de {d.year}?",
                          f"En {p['juego']} del {largo} salieron los números {nums}."))
         secciones.append(
@@ -113,7 +113,7 @@ def pagina_indice(fechas, por_fecha, hoy):
         js = [{"juego": j, "numeros": n} for c, j, n in por_fecha[ultimo] if c == comp]
         p = principal(comp, js)
         if p:
-            resumen.append(f"<li><strong>{esc(NOMBRE_COMPANIA[comp])}</strong> ({esc(p['juego'])}): {esc(' - '.join(p['numeros']))}</li>")
+            resumen.append(f"<li><strong>{esc(NOMBRE_COMPANIA[comp])}</strong> ({esc(p['juego'])}): <span class=\"nw\">{esc(' - '.join(p['numeros']))}</span></li>")
 
     cuerpo = f"""  <p class="intro">Busca los números ganadores de cualquier día. Cada página tiene todos los sorteos de las 7 loterías dominicanas de esa fecha.</p>
   <h2 class="sect"><span class="bar"></span> Último día completo: {esc(fecha_larga(du))}</h2>

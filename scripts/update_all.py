@@ -30,6 +30,7 @@ GENERADORES = [
     "scripts/generate_landing.py",
     "scripts/generate_juegos.py",
     "scripts/generate_sections.py",
+    "scripts/generate_info.py",
     "scripts/tarjeta.py",
     "scripts/prerender_home.py",
     "scripts/build_sitemap.py",
