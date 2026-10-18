@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-18T11:23:55.213119-04:00",
-  "hora": "11:23",
+  "updated": "2026-10-18T12:09:57.596755-04:00",
+  "hora": "12:09",
   "fecha": "18/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "leeds - manchester united",
+      "termino": "nottingham forest - arsenal",
       "trafico": "200+",
-      "noticia": "Without a winner at Elland Road, Leeds and United share a draw",
-      "enlace": "https://www.gazetaexpress.com/en/pa-fitues-ne-elland-road-leedsi-e-unitedi-ndahen-baras/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgXW0iVP8DpXHTEQn0iAZCyQCv2hK3jln3IuLw6XR8knCS6T-ZzE8MOfehxvE"
+      "noticia": "Nottingham Forest v Arsenal: Premier League – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdQ_XTMIlXFToO5tkQnhhVjU_6X2A5RlR5LN2VDiqUD4ePI7d21JkCrit95bs"
+    },
+    {
+      "termino": "leeds - manchester united",
+      "trafico": "500+",
+      "noticia": "Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carrick s side",
+      "enlace": "https://www.bbc.com/sport/football/live/cwzrdvx44pkpt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ044w9BvThvzl66EChmSQBf2enWmmVmZaF1AR8sUNTVEFjp__Hnza5gQnvAeo"
     },
     {
       "termino": "junta central electoral",
@@ -43,9 +50,9 @@
     {
       "termino": "tampa vs cleveland",
       "trafico": "200+",
-      "noticia": "Man City vs. Brighton (18 Oct, 2026) Team Stats",
-      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/401902887/league/eng.w.1",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO7FgKUuDws2DbiGVA9VHbaXWs77X70QUz47GkL27Y-Rbt3WK_jbDxqMwawbI"
+      "noticia": "Le Havre AC vs. Auxerre (18 Oct, 2026) Team Stats",
+      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/401876438/league/fra.1",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNJPS4aQ7rZR_pGv37xMdF2S9axpISo4YRpJtNPZP0GEz-b1kW3wfP2aA2sU"
     },
     {
       "termino": "posiciones de atlanta united contra inter miami",
@@ -67,13 +74,6 @@
       "noticia": "[LIVESTREAM]FREE!!] San Jose Earthquakes vs Nashville SC MLS Live Free Match",
       "enlace": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vbW90aS9xcHIueG1sIi8+PC9rcnBhbm8+ id=san-jose-earthquakes-vs-nashville-sc-fox-sports-amz8b",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYpiaMz3YDDRyOjxw2HYnQKHaFVpmj8V_3HTC-emfMrNi5DCbduHPuuZ9nvoM"
-    },
-    {
-      "termino": "michel martelly",
-      "trafico": "1000+",
-      "noticia": "Martelly se inscribe para volver a la Presidencia de Haití pese a sanciones internacionales",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/17/michel-martelly-busca-la-presidencia-en-haiti-pese-a-sanciones-interna/3692197",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVMKYt4PLTplOFfzqqtAZFgtFuCtXlfeBocN09_8wuRr_oHwuY6HvD_ncobzo"
     }
   ]
 }
