@@ -27,7 +27,7 @@
 - **Widget flotante** de radio con noticias deslizantes
 - **Móvil primero**, identidad dominicana (bandera, escudo, "Dios · Patria · Libertad")
 - **100% gratis** — sin API keys, sin registro
-- **Datos en vivo** — se actualiza automáticamente cada 3 horas
+- **Datos en vivo** — se actualiza automáticamente 8 veces al día
 
 ## 🛠️ Cómo funciona
 

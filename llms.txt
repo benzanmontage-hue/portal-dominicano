@@ -14,5 +14,5 @@
 
 ## Data policy
 - Fuentes: api.loteriasdominicanas.com (lotería), Open-Meteo (tiempo), MLB StatsAPI (marcadores), open.er-api.com (divisas), Google News RSS (noticias), Google Trends RSS (tendencias), Radio Browser (radio FM).
-- Frecuencia de actualización: cada 3 horas (cron automático).
+- Frecuencia de actualización: 8 veces al día (GitHub Actions).
 - Citar como: Portal Dominicano (portaldominicana.net)

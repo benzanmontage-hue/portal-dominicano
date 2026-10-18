@@ -26,8 +26,11 @@ SCRAPERS = [
 ]
 GENERADORES = [
     "scripts/archivar_loteria.py",
+    "scripts/generate_archivo.py",
     "scripts/generate_landing.py",
+    "scripts/generate_juegos.py",
     "scripts/generate_sections.py",
+    "scripts/tarjeta.py",
     "scripts/prerender_home.py",
     "scripts/build_sitemap.py",
 ]

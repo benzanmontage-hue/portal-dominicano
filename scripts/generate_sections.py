@@ -2,8 +2,10 @@
 """Generar páginas SEO de las secciones (mlb, traductor, tiempo, divisas, economía,
 noticias, eventos). El sitemap lo genera scripts/build_sitemap.py."""
 
+import datetime
 import json
 import os
+from html import escape as esc
 
 # Raíz del repositorio (funciona en GitHub Actions y en cualquier servidor)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -123,11 +125,11 @@ def render_data_html(data_type):
         items = []
         for n in noticias:
             img = n.get("imagen", "")
-            thumb = ('<img class="n-img" src="' + img + '" alt="" loading="lazy" referrerpolicy="no-referrer">') if img else ""
+            thumb = ('<img class="n-img" src="' + esc(img) + '" alt="" width="72" height="54" loading="lazy" referrerpolicy="no-referrer">') if img else ""
             items.append(
-                '<a class="news-item" href="' + n.get("enlace", "#") + '" target="_blank" rel="noopener">'
-                + thumb + '<div><div class="item-tit">' + n.get("titulo", "") + "</div>"
-                '<div class="item-sub">' + n.get("fuente", "") + " · " + tiempo_relativo(n.get("fecha", "")) + "</div></div></a>"
+                '<a class="news-item" href="' + esc(n.get("enlace", "#")) + '" target="_blank" rel="noopener">'
+                + thumb + '<div><div class="item-tit">' + esc(n.get("titulo", "")) + "</div>"
+                '<div class="item-sub">' + esc(n.get("fuente", "")) + " · " + tiempo_relativo(n.get("fecha", "")) + "</div></div></a>"
             )
         return '<div class="list">' + "".join(items) + "</div>"
 
@@ -136,13 +138,58 @@ def render_data_html(data_type):
         items = []
         for e in eventos:
             items.append(
-                '<a class="news-item" href="' + e.get("enlace", "#") + '" target="_blank" rel="noopener">'
-                '<div><div class="item-tit">🎪 ' + e.get("titulo", "") + "</div>"
-                '<div class="item-sub">' + e.get("fuente", "") + "</div></div></a>"
+                '<a class="news-item" href="' + esc(e.get("enlace", "#")) + '" target="_blank" rel="noopener">'
+                '<div><div class="item-tit">🎪 ' + esc(e.get("titulo", "")) + "</div>"
+                '<div class="item-sub">' + esc(e.get("fuente", "")) + "</div></div></a>"
             )
         return '<div class="list">' + "".join(items) + "</div>"
 
     return ""
+
+
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre",
+         "octubre", "noviembre", "diciembre"]
+
+
+def dolar_titulos_e_historial():
+    """Título con fecha y valor; guarda y muestra el historial diario (data/divisas_historial.json)."""
+    try:
+        d = json.load(open(os.path.join(ROOT, "data", "divisas.json"), encoding="utf-8"))
+    except Exception:
+        d = {}
+    usd = d.get("dop_por_usd")
+    eur = next((c.get("valor") for c in d.get("conversiones", []) if c.get("codigo") == "EUR" and c.get("a") == "DOP"), None)
+    fecha = (d.get("updated") or "")[:10]
+    hist_path = os.path.join(ROOT, "data", "divisas_historial.json")
+    try:
+        hist = json.load(open(hist_path, encoding="utf-8"))
+    except Exception:
+        hist = {}
+    if not (usd and fecha):
+        return "Precio del Dólar Hoy en RD — Tasa de Cambio", "Precio del Dólar Hoy en RD", ""
+    hist[fecha] = {"usd": usd, "eur": eur}
+    hist = dict(sorted(hist.items())[-400:])
+    with open(hist_path, "w", encoding="utf-8") as f:
+        json.dump(hist, f, ensure_ascii=False, indent=1)
+    dt = datetime.date.fromisoformat(fecha)
+    cuando = f"{dt.day} de {MESES[dt.month - 1]}"
+    title = f"Dólar Hoy {cuando}: RD${usd:.2f} — Tasa de Cambio en República Dominicana"
+    h1 = f"Precio del Dólar Hoy en RD: RD${usd:.2f}"
+    td = '<td style="padding:10px;border-top:1px solid var(--border)">'
+    filas = []
+    for f, v in sorted(hist.items(), reverse=True)[:30]:
+        df = datetime.date.fromisoformat(f)
+        e = f"RD${v['eur']:.2f}" if v.get("eur") else "—"
+        filas.append(f"<tr>{td}{df.day} de {MESES[df.month - 1]} {df.year}</td>{td}RD${v['usd']:.2f}</td>{td}{e}</td></tr>")
+    th = '<th style="text-align:left;padding:10px">'
+    extra = (f'<p class="intro" style="margin-top:14px">Hoy, {cuando}, un dólar estadounidense equivale a <strong>RD${usd:.2f}</strong>'
+             + (f' y un euro a <strong>RD${eur:.2f}</strong>' if eur else '')
+             + '. Es una tasa de referencia: los bancos y casas de cambio aplican su propio precio de compra y venta.</p>'
+             '<h2 class="sect"><span class="bar"></span> Historial del dólar</h2>'
+             '<div style="overflow-x:auto;background:var(--card);border:1px solid var(--border);border-radius:14px">'
+             f'<table style="width:100%;border-collapse:collapse"><thead><tr>{th}Fecha</th>{th}Dólar</th>{th}Euro</th></tr></thead><tbody>'
+             + "".join(filas) + "</tbody></table></div>")
+    return title, h1, extra
 
 
 TEMPLATE = """<!DOCTYPE html>
@@ -162,11 +209,11 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:image" content="{base}/img/og-portal-dominicano.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#002a5c">
-<meta name="robots" content="index,follow">
+<meta name="robots" content="{robots}">
 <link rel="icon" type="image/png" href="../img/icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[{{"@type":"WebPage","name":"{h1}","url":"{base}/{slug}/","inLanguage":"es-DO","isPartOf":{{"@type":"WebSite","@id":"{base}/#website","name":"Portal Dominicano","url":"{base}/"}},"breadcrumb":{{"@id":"{base}/{slug}/#breadcrumb"}}}},{{"@type":"BreadcrumbList","@id":"{base}/{slug}/#breadcrumb","itemListElement":[{{"@type":"ListItem","position":1,"name":"Portal Dominicano","item":"{base}/"}},{{"@type":"ListItem","position":2,"name":"{h1}","item":"{base}/{slug}/"}}]}}]}}
 </script>
@@ -174,7 +221,7 @@ TEMPLATE = """<!DOCTYPE html>
 :root{{--azul:#002a5c;--azul2:#0a5bbf;--rojo:#d90429;--bg:#f4f6fb;--card:#fff;--border:#e5eaf3;--border2:#d8e0ee;--txt:#0d1b33;--muted:#64748b;--gold:#f5b942;--shadow:0 2px 4px rgba(13,27,51,.04),0 8px 20px rgba(13,27,51,.07);--grad:linear-gradient(135deg,#002a5c,#d90429)}}
 @media (prefers-color-scheme:dark){{:root{{--bg:#0b1220;--card:#121a2b;--border:#1e2a44;--border2:#2a3a5c;--txt:#e7edf8;--muted:#8b9bb8}}}}
 *{{box-sizing:border-box;margin:0;padding:0}}
-body{{background:var(--bg);color:var(--txt);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}}
+body{{background:var(--bg);color:var(--txt);font-family:'Archivo',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}}
 .hero{{position:relative;overflow:hidden;color:#fff;padding:40px 16px 44px;text-align:center;background:var(--azul)}}
 .hero::before{{content:"";position:absolute;inset:-40%;background:radial-gradient(40% 60% at 15% 20%,rgba(239,35,60,.55),transparent 60%),radial-gradient(50% 70% at 85% 10%,rgba(10,91,191,.65),transparent 60%);filter:blur(30px)}}
 .hero>*{{position:relative;z-index:1}}
@@ -250,15 +297,23 @@ def main():
         for s in todas:
             if s != p["slug"]:
                 links.append('<a href="../' + s + '/">' + nombres.get(s, s) + "</a>")
+        links += ['<a href="/resultados/">Resultados por fecha</a>', '<a href="/horarios-loterias/">Horarios</a>',
+                  '<a href="/feriados/">Días feriados</a>']
         otras = " ".join(links)
+        ancla = {"mlb": "mlb", "traductor": "traductor", "tiempo-santo-domingo": "tiempo"}.get(p["slug"], "")
         contenido = render_data_html(p["data"]) if p["data"] else (
-            '<p style="color:var(--muted)">Contenido en vivo disponible en la '
-            '<a href="{base}/" style="color:var(--azul2);font-weight:700">página principal</a> '
-            'del Portal Dominicano.</p>'.replace("{base}", BASE)
+            '<p style="color:var(--muted)">Esta herramienta funciona en vivo en la '
+            '<a href="/#' + ancla + '" style="color:var(--azul2);font-weight:700">página principal</a> '
+            'del Portal Dominicano.</p>'
         )
+        robots = "index,follow" if p["data"] else "noindex,follow"
+        title, h1 = p["title"], p["h1"]
+        if p["slug"] == "dolar-hoy":
+            title, h1, extra = dolar_titulos_e_historial()
+            contenido += extra
         html = TEMPLATE.format(
-            base=BASE, slug=p["slug"], title=p["title"], desc=p["desc"],
-            h1=p["h1"], intro=p["intro"], contenido=contenido, otras=otras,
+            base=BASE, slug=p["slug"], title=title, desc=p["desc"],
+            h1=h1, intro=p["intro"], contenido=contenido, otras=otras, robots=robots,
         )
         d = os.path.join(base_dir, p["slug"])
         os.makedirs(d, exist_ok=True)

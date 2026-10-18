@@ -12,7 +12,7 @@ import json
 import os
 import re
 
-from comun import ROOT, BASE, TZ_RD, cargar_json
+from comun import ROOT, BASE, TZ_RD, cargar_json, fechas_con_pagina
 
 PAGINAS = [
     ("", "1.0", "hourly"),
@@ -27,9 +27,6 @@ PAGINAS = [
     ("noticias-rd/", "0.7", "daily"),
     ("eventos-rd/", "0.6", "daily"),
     ("economia-rd/", "0.5", "weekly"),
-    ("mlb/", "0.5", "daily"),
-    ("tiempo-santo-domingo/", "0.5", "daily"),
-    ("traductor/", "0.4", "monthly"),
 ]
 
 VOLATIL = [
@@ -56,7 +53,12 @@ def main():
     estado = cargar_json("sitemap_estado.json", {}) or {}
     ahora = datetime.datetime.now(TZ_RD).isoformat(timespec="minutes")
     urls = []
-    for ruta, prio, freq in PAGINAS:
+    from generate_juegos import JUEGOS
+    paginas = list(PAGINAS)
+    paginas += [("resultados/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly")]
+    paginas += [(f"{slug}/", "0.7", "daily") for slug, *_ in JUEGOS]
+    paginas += [(f"resultados/{f}/", "0.5", "never") for f in reversed(fechas_con_pagina(cargar_json("archivo.json", {}) or {}))]
+    for ruta, prio, freq in paginas:
         archivo = os.path.join(ROOT, ruta, "index.html")
         h = huella(archivo)
         if h is None:

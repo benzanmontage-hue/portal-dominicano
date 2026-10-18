@@ -153,6 +153,15 @@ def main():
     html = zona(html, "ANGUILA", anguila(juegos, hoy))
     html = zona(html, "LOTERIA", todos(juegos, hoy))
     html = zona(html, "DOLAR", dolar())
+    try:
+        with open(os.path.join(ROOT, "data", "tarjeta.txt"), encoding="utf-8") as f:
+            texto = f.read().strip()
+    except FileNotFoundError:
+        texto = "Resultados de la lotería de hoy: https://portaldominicana.net/"
+    from urllib.parse import quote
+    html = zona(html, "COMPARTIR",
+                f'<a class="btn-wa" href="https://wa.me/?text={quote(texto)}" target="_blank" rel="noopener">Compartir resultados por WhatsApp</a>'
+                '<a class="btn-img" href="compartir/resultados-hoy.png" download>Descargar imagen</a>')
     fecha_txt = f"{DIAS[hoy.weekday()].capitalize()} {hoy.day} de {MESES[hoy.month - 1]}"
     html = re.sub(r'(<span class="meta" id="loteria-fecha">)[^<]*(</span>)',
                   lambda m: m.group(1) + fecha_txt + m.group(2), html, count=1)

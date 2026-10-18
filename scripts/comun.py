@@ -136,3 +136,21 @@ def ordenar_juegos(compania, juegos):
 def balls_html(numeros):
     gold = " gold" if len(numeros) <= 4 else ""
     return "".join(f'<span class="ball{gold}">{esc(n)}</span>' for n in numeros)
+
+
+MIN_SORTEOS_FECHA = 12  # días con menos sorteos guardados no tienen página propia (evita páginas pobres)
+
+
+def sorteos_por_fecha(archivo):
+    """{'2026-10-17': [(compania, juego, [numeros]), ...]} a partir de data/archivo.json."""
+    por_fecha = {}
+    for clave, lista in (archivo.get("sorteos") or {}).items():
+        comp, juego = clave.split("|", 1)
+        for s in lista:
+            por_fecha.setdefault(s["fecha"], []).append((comp, juego, s["numeros"]))
+    return por_fecha
+
+
+def fechas_con_pagina(archivo):
+    """Fechas (ISO, ascendente) que tienen página /resultados/AAAA-MM-DD/."""
+    return sorted(f for f, l in sorteos_por_fecha(archivo).items() if len(l) >= MIN_SORTEOS_FECHA)

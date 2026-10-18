@@ -9,10 +9,11 @@ Lee:  data/resultados.json, data/archivo.json
 Escribe: <slug>/index.html
 """
 import datetime
+import re
 import json
 import os
 
-from comun import (ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha,
+from comun import (ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha, fechas_con_pagina, minutos_juego,
                    fecha_larga, actualizado_rd, hora_12, ordenar_juegos, balls_html)
 
 LOTERIAS = [
@@ -94,7 +95,7 @@ CSS = """
 :root{--azul:#002a5c;--azul2:#0a5bbf;--rojo:#d90429;--bg:#f4f6fb;--card:#fff;--border:#e5eaf3;--txt:#0d1b33;--muted:#5b6b82;--grad:linear-gradient(135deg,#002a5c,#d90429)}
 @media (prefers-color-scheme:dark){:root{--bg:#0b1220;--card:#121a2b;--border:#1e2a44;--txt:#e7edf8;--muted:#9aa9c3;--azul2:#6aa8ff;--rojo:#ff6b7d}}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--txt);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+body{background:var(--bg);color:var(--txt);font-family:'Archivo',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
 .hero{position:relative;overflow:hidden;color:#fff;padding:34px 16px 40px;text-align:center;background:var(--azul)}
 .hero::before{content:"";position:absolute;inset:-40%;background:radial-gradient(40% 60% at 15% 20%,rgba(239,35,60,.55),transparent 60%),radial-gradient(50% 70% at 85% 10%,rgba(10,91,191,.65),transparent 60%);filter:blur(30px)}
 .hero>*{position:relative;z-index:1}
@@ -123,9 +124,11 @@ table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}
 th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
 tr:last-child td{border-bottom:0}
+td a{color:var(--azul2);font-weight:600;text-decoration:none}
 td.n{font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:.03em}
 @media(max-width:600px){table{font-size:.8rem}th,td{padding:9px 8px}}
 .juegos{display:flex;flex-wrap:wrap;gap:8px}
+.juegos li a{color:var(--azul2);text-decoration:none;font-weight:600}
 .juegos li{list-style:none;font-size:.85rem;background:var(--card);border:1px solid var(--border);padding:6px 12px;border-radius:999px}
 .faq details{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:8px}
 .faq summary{font-weight:700;cursor:pointer;font-size:.95rem}
@@ -173,8 +176,9 @@ def render_cards(juegos, hoy):
         meta = fecha_larga(d, con_anio=False) if d else ""
         if d and d < hoy:
             meta += ' · <span class="ant">sorteo anterior</span>'
+        ancla = re.sub(r"[^a-z0-9]+", "-", limpiar(j["juego"]).lower().replace("á","a").replace("é","e").replace("í","i").replace("ó","o").replace("ú","u").replace("ñ","n")).strip("-")
         cards.append(
-            '<article class="lot-card">'
+            f'<article class="lot-card" id="{ancla}">'
             f'<h3>{esc(limpiar(j["juego"]))}</h3>'
             f'<div class="lot-meta">{meta}</div>'
             f'<div class="nums">{balls_html(j["numeros"])}</div>'
@@ -202,8 +206,11 @@ def render_historial(compania, juegos_hoy, archivo, hoy):
     orden = {j["juego"]: i for i, j in enumerate(ordenar_juegos(compania, [{"juego": f[1]} for f in filas]))}
     filas.sort(key=lambda f: (f[0], -orden.get(f[1], 0)), reverse=True)  # fecha desc, juego principal primero
     trs = []
+    con_pagina = set(fechas_con_pagina(archivo))
     for fecha, juego, nums in filas[:60]:
-        trs.append(f'<tr><td>{esc(fecha_larga(parse_fecha(fecha), con_anio=False))}</td><td>{esc(juego)}</td>'
+        txt = esc(fecha_larga(parse_fecha(fecha), con_anio=False))
+        celda = f'<a href="/resultados/{fecha}/">{txt}</a>' if fecha in con_pagina else txt
+        trs.append(f'<tr><td>{celda}</td><td>{esc(juego)}</td>'
                    f'<td class="n">{esc(" - ".join(nums))}</td></tr>')
     return ('<div class="tabla-wrap"><table><thead><tr><th>Fecha</th><th>Sorteo</th><th>Números</th></tr></thead>'
             "<tbody>" + "".join(trs) + "</tbody></table></div>")
@@ -245,13 +252,25 @@ def render_pagina(l, resultados, archivo):
     url = f"{BASE}/{l['slug']}/"
     fecha_txt = fecha_larga(hoy)
     pref, _, suf = l["title"].partition(" — ")
-    title = f"{pref}, {hoy.day} de {MESES[hoy.month - 1]} {hoy.year} — {suf}"
+    if juegos:
+        p = juegos[0]
+        if l["compania"] == "Anguila":
+            p = max(juegos, key=lambda j: ((j.get("fecha") or "")[:10], minutos_juego(limpiar(j["juego"])) or 0))
+        dp = parse_fecha(p.get("fecha")) or hoy
+        title = f"{pref} {dp.day} de {MESES[dp.month - 1]}: {'-'.join(p['numeros'])} — {suf}"
+    else:
+        title = f"{pref}, {hoy.day} de {MESES[hoy.month - 1]} {hoy.year} — {suf}"
 
     cards = render_cards(juegos, hoy) if juegos else '<p class="intro">Sin resultados por ahora. Vuelve más tarde.</p>'
     historial = render_historial(l["compania"], juegos, archivo, hoy)
     faqs = faqs_para(l, juegos, upd)
 
-    lista_juegos = "".join(f"<li>{esc(limpiar(j['juego']))}</li>" for j in juegos)
+    from generate_juegos import JUEGOS  # import tardío: generate_juegos importa este módulo
+    pag_juego = {(c, g): slug for slug, _n, _h, claves in JUEGOS for c, g in claves}
+    lista_juegos = "".join(
+        f'<li><a href="/{pag_juego[(j["compania"], limpiar(j["juego"]))]}/">{esc(limpiar(j["juego"]))}</a></li>'
+        if (j["compania"], limpiar(j["juego"])) in pag_juego else f"<li>{esc(limpiar(j['juego']))}</li>"
+        for j in juegos)
     otras = " ".join(f'<a href="../{o["slug"]}/">{esc(o["nombre"])}</a>' for o in LOTERIAS if o["slug"] != l["slug"])
     secciones = " ".join(f'<a href="../{s}/">{esc(n)}</a>' for s, n in SECCIONES)
 
@@ -318,7 +337,7 @@ def render_pagina(l, resultados, archivo):
 <link rel="manifest" href="../manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script type="application/ld+json">{ld_json}</script>
 <style>{CSS}</style>
 </head>
@@ -343,6 +362,8 @@ def render_pagina(l, resultados, archivo):
   </div>
 
   {hist_html}
+
+  <p class="intro" style="margin-top:10px"><a href="/resultados/" style="color:var(--azul2);font-weight:700">Ver resultados de días anteriores por fecha ›</a></p>
 
   <h2 class="sect"><span class="bar"></span> Juegos de {esc(l['nombre'])}</h2>
   <ul class="juegos">{lista_juegos}</ul>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-DO">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,13 +12,13 @@
 <meta property="og:url" content="https://portaldominicana.net/">
 <meta property="og:site_name" content="Portal Dominicano">
 <meta property="og:locale" content="es_DO">
-<meta property="og:image" content="https://portaldominicana.net/img/og-portal-dominicano.png">
+<meta property="og:image" content="https://portaldominicana.net/compartir/resultados-hoy.png">
 <meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:height" content="1200">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Portal Dominicano — Resultados de Lotería, Radio y Tiempo RD">
 <meta name="twitter:description" content="Lotería, radio, noticias, tiempo y MLB de República Dominicana.">
-<meta name="twitter:image" content="https://portaldominicana.net/img/og-portal-dominicano.png">
+<meta name="twitter:image" content="https://portaldominicana.net/compartir/resultados-hoy.png">
 <meta name="theme-color" content="#002a5c">
 <meta name="robots" content="index,follow">
 <link rel="manifest" href="manifest.json">
@@ -40,7 +40,9 @@
       "inLanguage": "es-DO",
       "description": "Resultados de la Lotería de hoy en República Dominicana, radio FM dominicana, tiempo por ciudad, MLB y tendencias de Google RD.",
       "isAccessibleForFree": true,
-      "publisher": { "@id": "https://portaldominicana.net/#organization" }
+      "publisher": {
+        "@id": "https://portaldominicana.net/#organization"
+      }
     },
     {
       "@type": "Organization",
@@ -56,37 +58,6 @@
       },
       "sameAs": [
         "https://github.com/benzanmontage-hue/portal-dominicano"
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://portaldominicana.net/#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "¿Dónde veo los resultados de la lotería de hoy?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En Portal Dominicano encuentras los resultados del día de las 7 loterías principales — Lotería Nacional, Real, Anguila, Loteka, La Primera, La Suerte y Leidsa — actualizados automáticamente cada 3 horas." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿A qué hora salen los sorteos?",
-          "acceptedAnswer": { "@type": "Answer", "text": "La Suerte, La Primera y Real sortean a las 12:30 PM; Lotería Nacional a las 2:30 PM (día) y 8:50 PM (noche); y Leidsa a las 8:55 PM (lunes a sábado, domingo 3:55 PM)." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Puedo escuchar radio dominicana en vivo?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, el reproductor flotante de la esquina te deja escuchar más de 40 emisoras de radio FM dominicana en vivo, gratis y sin instalar nada." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿Cómo veo el precio del dólar y el euro hoy?",
-          "acceptedAnswer": { "@type": "Answer", "text": "En la sección Divisas verás el tipo de cambio actualizado de USD a DOP, EUR a DOP y otras monedas." }
-        },
-        {
-          "@type": "Question",
-          "name": "¿El portal es gratis?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Sí, Portal Dominicano es completamente gratis. No necesitas registrarte ni pagar nada para ver lotería, radio, tiempo, MLB, noticias y divisas." }
-        }
       ]
     }
   ]
@@ -183,6 +154,8 @@ h2.sect .meta{font-size:.76rem;color:var(--muted);font-weight:600;margin-left:au
 @media (prefers-color-scheme:dark){.nb{background:#2a64b8}}
 .res-row .chev{flex:0 0 auto;color:var(--muted)}
 .res-hint{font-size:.84rem;color:var(--muted);margin-top:8px}
+.res-hint a{color:var(--azul2);font-weight:700;text-decoration:none}
+@media (prefers-color-scheme:dark){.res-hint a{color:#7fb0ff}}
 @media(min-width:760px){.resumen{grid-template-columns:repeat(2,minmax(0,1fr))}.res-row:nth-child(odd){border-right:1px solid var(--border)}}
 h2.sect a.more{margin-left:auto;font-size:.88rem;font-weight:700;color:var(--azul2);text-decoration:none}
 @media (prefers-color-scheme:dark){h2.sect a.more{color:#7fb0ff}}
@@ -213,6 +186,9 @@ details.todos[open]>summary{margin-bottom:12px}
 .tile-radio .tile-k{color:#b9c6da}
 .tile-play{display:flex;align-items:center;gap:10px;font-weight:700;font-size:.95rem;margin-top:8px}
 .tile-pbtn{width:36px;height:36px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+.compartir{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap}
+.btn-wa{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 18px;border-radius:12px;background:#128c4a;color:#fff;font-weight:800;text-decoration:none}
+.btn-img{display:inline-flex;align-items:center;min-height:48px;padding:0 16px;border-radius:12px;border:1px solid var(--border2);background:var(--card);color:var(--txt);font-weight:700;text-decoration:none}
 /* ---- Countdown sorteo ---- */
 .countdown{background:#0b1b33;color:#fff;border-radius:16px;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:14px;border:1px solid rgba(255,255,255,.08);position:relative;overflow:hidden}
 .countdown::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--rojo)}
@@ -524,7 +500,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 <a class="res-row" href="leidsa/" data-comp="Leidsa"><div class="res-info"><div class="res-nom">Leidsa</div><div class="res-juego">Quiniela · sáb 17 oct</div></div><div class="res-nums"><span class="nb">61</span><span class="nb">09</span><span class="nb">25</span></div><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></a>
 <!--RESUMEN:FIN-->
     </div>
-    <p class="res-hint">Toca una lotería para ver todos sus juegos y los resultados de días anteriores.</p>
+    <p class="res-hint">Toca una lotería para ver todos sus juegos. ¿Buscas otro día? <a href="resultados/">Resultados por fecha</a> · <a href="horarios-loterias/">Horarios de los sorteos</a></p>
 
     <div id="angBlock">
       <h2 class="sect"><span class="bar"></span> Anguila hoy <a class="more" href="anguila/">Ver todo</a></h2>
@@ -564,6 +540,12 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
         <button class="mn-btn ghost" id="mnClear" aria-label="Borrar mis números">✕</button>
       </div>
       <div class="mn-result" id="mnResult" aria-live="polite"></div>
+    </div>
+
+    <div class="compartir">
+<!--COMPARTIR:INICIO (generado por scripts/prerender_home.py, no editar a mano)-->
+<a class="btn-wa" href="https://wa.me/?text=%F0%9F%87%A9%F0%9F%87%B4%20%2ALoter%C3%ADa%20de%20hoy%2A%20%E2%80%94%20domingo%2018%20de%20octubre%2C%2011%3A23%20AM%0A%0A%2ALoter%C3%ADa%20Nacional%2A%20%28Quiniela%20noche%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2023%20-%2001%20-%2068%0A%2AAnguila%2A%20%2811%3A00%20AM%20%C2%B7%20hoy%29%3A%2019%20-%2001%20-%2019%0A%2ALoter%C3%ADa%20Real%2A%20%28Real%20Noche%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2086%20-%2003%20-%2037%0A%2ALoteka%2A%20%28Quiniela%20Noche%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2017%20-%2057%20-%2097%0A%2ALa%20Primera%2A%20%28Primera%20Noche%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2048%20-%2077%20-%2028%0A%2ALa%20Suerte%2A%20%28Sorteo%206%3A00%20PM%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2098%20-%2023%20-%2069%0A%2ALeidsa%2A%20%28Quiniela%20%C2%B7%20s%C3%A1b%2017%20oct%29%3A%2061%20-%2009%20-%2025%0A%0ATodos%20los%20sorteos%3A%20https%3A//portaldominicana.net/%0AInformativo.%20Verifica%20con%20la%20fuente%20oficial." target="_blank" rel="noopener">Compartir resultados por WhatsApp</a><a class="btn-img" href="compartir/resultados-hoy.png" download>Descargar imagen</a>
+<!--COMPARTIR:FIN-->
     </div>
 
     <details class="todos" id="todosJuegos">
@@ -760,6 +742,13 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       <a href="economia-rd/">Economía</a> ·
       <a href="noticias-rd/">Noticias</a> ·
       <a href="eventos-rd/">Eventos</a>
+     ·
+      <a href="resultados/">Resultados por fecha</a> ·
+      <a href="horarios-loterias/">Horarios</a> ·
+      <a href="feriados/">Días feriados</a> ·
+      <a href="super-pale/">Super Palé</a> ·
+      <a href="gana-mas/">Gana Más</a> ·
+      <a href="la-cuarteta/">La Cuarteta</a>
     </nav>
     <p>Datos: <a href="https://loteriasdominicanas.com" target="_blank" rel="noopener">loteriasdominicanas.com</a> · <a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a> · <a href="https://www.radio-browser.info" target="_blank" rel="noopener">Radio Browser</a></p>
     <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>

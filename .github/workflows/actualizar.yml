@@ -26,6 +26,8 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -33,23 +35,34 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Instalar dependencias
+        run: pip install --quiet pillow
+
       - name: Descargar datos y regenerar páginas
         id: update
         run: python3 scripts/update_all.py
         continue-on-error: true
 
       - name: Publicar cambios
+        id: publicar
         run: |
           git config user.name "portal-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
             echo "Sin cambios."
+            echo "commit=no" >> "$GITHUB_OUTPUT"
             exit 0
+          fi
+          if git diff --cached --quiet -- data/tarjeta_numeros.txt; then
+            echo "numeros=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "numeros=si" >> "$GITHUB_OUTPUT"
           fi
           git commit -q -m "auto-update datos ($(TZ=America/Santo_Domingo date '+%d/%m/%Y %H:%M') RD)"
           git pull -q --rebase origin main
           git push -q origin HEAD:main
+          echo "commit=si" >> "$GITHUB_OUTPUT"
 
       # Publica en Cloudflare Pages (portaldominicana.net). Necesita dos "secrets" del repositorio:
       #   CLOUDFLARE_API_TOKEN  (permiso: Cloudflare Pages → Edit)
@@ -64,7 +77,7 @@ jobs:
           mkdir -p _site
           rsync -a --exclude '.git' --exclude '.github' --exclude '_site' --exclude 'scripts' \
             --exclude 'screenshots' --exclude 'README.md' --exclude 'LICENSE' --exclude '.gitignore' \
-            --exclude 'data/sitemap_estado.json' ./ _site/
+            --exclude 'data/sitemap_estado.json' --exclude 'data/tarjeta*.txt' ./ _site/
           npx -y wrangler@3 pages deploy _site --project-name="$PROYECTO" --branch=main --commit-dirty=true
 
       # Borra la caché de Cloudflare para que portaldominicana.net muestre la versión nueva.
@@ -76,6 +89,34 @@ jobs:
             -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
             --data '{"purge_everything":true}')
           echo "$r" | grep -q '"success":true' && echo "Caché borrada." || { echo "::warning::No se pudo borrar la caché: $r"; }
+
+      - name: Avisar a buscadores (IndexNow)
+        if: steps.publicar.outputs.commit == 'si'
+        continue-on-error: true
+        run: python3 scripts/indexnow.py
+
+      # Telegram: secrets TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID (p. ej. @mi_canal). Solo cuando hay números nuevos.
+      - name: Publicar en Telegram
+        if: steps.publicar.outputs.numeros == 'si' && env.TELEGRAM_BOT_TOKEN != ''
+        continue-on-error: true
+        env:
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -sS -F chat_id="$TELEGRAM_CHAT_ID" -F photo=@compartir/resultados-hoy.png \
+            -F caption="$(head -c 1000 data/tarjeta.txt)" -F parse_mode=Markdown \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" | grep -q '"ok":true' && echo "Enviado a Telegram."
+
+      # Facebook: secrets FB_PAGE_ID y FB_PAGE_TOKEN (token de página). Máximo 3 publicaciones al día (1:20, 7:20 y 9:20 PM RD).
+      - name: Publicar en Facebook
+        if: steps.publicar.outputs.numeros == 'si' && env.FB_PAGE_TOKEN != ''
+        continue-on-error: true
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+        run: |
+          H=$(TZ=America/Santo_Domingo date +%H)
+          case "$H" in 13|19|21) ;; *) echo "Fuera de horario de Facebook ($H h)."; exit 0;; esac
+          curl -sS -F source=@compartir/resultados-hoy.png -F message="$(cat data/tarjeta.txt)" \
+            -F access_token="$FB_PAGE_TOKEN" "https://graph.facebook.com/v21.0/${FB_PAGE_ID}/photos" | grep -q '"id"' && echo "Publicado en Facebook."
 
       - name: Avisar si falló la lotería
         if: steps.update.outcome == 'failure'

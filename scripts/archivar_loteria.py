@@ -12,7 +12,7 @@ import os
 
 from comun import ROOT, cargar_json, limpiar, parse_fecha, TZ_RD
 
-DIAS_GUARDAR = 35
+DIAS_GUARDAR = 450  # más de un año: las páginas por fecha no deben desaparecer
 ARCHIVO = os.path.join(ROOT, "data", "archivo.json")
 
 
