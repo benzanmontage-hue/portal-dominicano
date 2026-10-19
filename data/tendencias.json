@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-19T03:34:32.443373-04:00",
-  "hora": "03:34",
+  "updated": "2026-10-19T03:49:33.036477-04:00",
+  "hora": "03:49",
   "fecha": "19/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "google",
+      "trafico": "100+",
+      "noticia": "Google releases update that fixes stuttering and freezing Pixel screens",
+      "enlace": "https://www.phonearena.com/news/beta-update-fixes-stuttering-and-freezing-pixel-screens_id184133",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWPRSVt_J5SDczg-lvuF837Iv6imwKY7Ugt5HoWbyvl2KfSMSgn4fu2vJIqqs"
+    },
     {
       "termino": "terremoto",
       "trafico": "2000+",
@@ -67,13 +74,6 @@
       "noticia": "Dylan Sprouse Praises New Mom Barbara Palvin for Walking the 2026 Victoria’s Secret Fashion Show",
       "enlace": "https://people.com/dylan-sprouse-praises-wife-barbara-palvin-for-walking-2026-victorias-secret-fashion-show-after-giving-birth-12181008",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0gc5y4sfsYueexQksu5jpXvN4X9HlCkarsuWSZ2SSYlxVhKBssIait_ivetQ"
-    },
-    {
-      "termino": "gus ormo",
-      "trafico": "200+",
-      "noticia": "Body found floating in pool of Weston home",
-      "enlace": "https://www.local10.com/news/local/2026/10/16/body-found-floating-in-pool-of-weston-home/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO4vQtudVzqJqy90Su12HS2WLCyJoQAKZQyU15-y_9IM0kL7vpolDrXKY1HYY"
     }
   ]
 }
