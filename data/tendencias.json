@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-19T10:51:00.768604-04:00",
-  "hora": "10:51",
+  "updated": "2026-10-19T14:49:50.480654-04:00",
+  "hora": "14:49",
   "fecha": "19/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "19 de octubre",
+      "trafico": "500+",
+      "noticia": "Precio del dólar hoy en RD lunes 19 de octubre",
+      "enlace": "https://www.elcaribe.com.do/panorama/dinero/precio-del-dolar-hoy-rd-19-octubre-2026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFHqs1bSvDihlwONaKQZKdVrcr-H6h3CC4LXT2E_Jk7BPWj-mxfewW5JsiPTk"
+    },
+    {
+      "termino": "irán",
+      "trafico": "200+",
+      "noticia": "Rusia busca mediar entre Irán y EE. UU. mientras sus negocios con Trump irritan a Europa",
+      "enlace": "https://www.diariolibre.com/mundo/medio-oriente/2026/10/19/rusia-busca-mediar-entre-iran-y-ee-uu-y-genera-criticas-en-europa/3693507",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnntj8CRadW6WXSJ_d2CcLzXi8vXEqJPxgkFWGXO1HS6id-fbADUnFpB97McY"
+    },
     {
       "termino": "19 de octubre que se celebra",
       "trafico": "100+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "combustible",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Petróleo caro, deuda creciente y déficit fiscal presionan las perspectivas de la economía dominicana",
       "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/10/19/factores-que-presionan-la-economia-dominicana/3692985",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1byj1E_kAu_2zrXf30I_LocgrKdy2NdmzzNvYWxxsgQ63j6BnqxSxLMDjsU"
@@ -28,7 +42,7 @@
     },
     {
       "termino": "cristopher pujols",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "La Ross María y el pelotero Cristopher Pujols oficializan su relación con romántica sorpresa",
       "enlace": "https://eldia.com.do/la-ross-maria-y-el-pelotero-cristopher-pujols-oficializan-su-relacion-con-romantica-sorpresa/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDkmQgVqR9rStx7DWWvBqVMo69fVaIHR-UbL2CnHbVtnqzXLMjhk9c7MK9nk"
@@ -36,9 +50,9 @@
     {
       "termino": "terremoto",
       "trafico": "2000+",
-      "noticia": "Significativo sismo de magnitud 5.9 sacude la zona de Sola (Torba)",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/noticias/382743/significativo-sismo-de-magnitud-5-9-sacude-la-zona-de-sola-torba.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsgWm3tl9qxkOV8tg8Ex2Foi14ccIzCPBBxZale31I-tKv8ZHQwz7AoIjhIig"
+      "noticia": "¿Cómo funciona el sistema de alertas de terremotos de Google?",
+      "enlace": "https://hoy.com.do/vivir/tecnologia/funciona-sistema-alertas-terremotos-google_1106049.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPkvuJG_j4pNzztcldPqN1AZHe2mgKSlyFewSnL55x1G5iYSUpV82zpPhNGKE"
     },
     {
       "termino": "coreógrafo",
@@ -50,9 +64,9 @@
     {
       "termino": "megan thee stallion",
       "trafico": "100+",
-      "noticia": "Megan Thee Stallion’s Dream Comes True on the Victoria’s Secret Runway",
-      "enlace": "https://www.yahoo.com/entertainment/celebrity/articles/megan-thee-stallion-dream-comes-005802234.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpWMV_ZlGaaLKLEEIVLvumYdysflcU0WrDQp8vvZKJtmumbv6-FPZJ3fKFdvc"
+      "noticia": "#TSRBeauty: IKDR! #MeganTheeStallion absolutely devoured her performance during the 2026 #VSFashionShow.😍🔥 (🎥: @victoriassecret) 📸:@gettyimages (SWIPE) ✍🏾:#TSRStaffJR",
+      "enlace": "https://www.instagram.com/p/DeqGfMRjAo0/",
+      "imagen": ""
     },
     {
       "termino": "sacerdote muere en plena misa",
@@ -60,20 +74,6 @@
       "noticia": "Un sacerdote muere tras caerle encima una cruz durante una misa en Ecuador",
       "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/10/18/sacerdote-muere-tras-caerle-una-cruz-durante-una-misa-en-ecuador/3692763",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGpB95TDbLCLZhRiXQ41U39IvAVtrEeIJrrBlhC52PNHmVgwYsUiexmlMZQ74"
-    },
-    {
-      "termino": "tate mcrae",
-      "trafico": "200+",
-      "noticia": "Tate McRae Turns Heads in Spicy Red Lingerie for Her 2026 Victoria’s Secret Fashion Show Performance",
-      "enlace": "https://people.com/tate-mcrae-wears-red-lingerie-for-2026-victorias-secret-fashion-show-performance-12171712",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkR0bwP2tApNX4kB6XNHm2KndMp-ydgwpcTPc87TdMmTxm1aRIZhC8sTpdzGw"
-    },
-    {
-      "termino": "alex consani",
-      "trafico": "100+",
-      "noticia": "Alex Consani Returns to the Victoria’s Secret Fashion Show—This Time in a Puffy Pink Cape",
-      "enlace": "https://www.harpersbazaar.com/celebrity/latest/a74162843/alex-consani-victorias-secret-fashion-show-2026-runway-photos/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aIMUuBT7xoy7W4LUMi0AC0r_8yICVjFcuFFNmu7tWmjCEjcFxiOb58FOJg4"
     }
   ]
 }
