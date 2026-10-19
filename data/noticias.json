@@ -1,9 +1,17 @@
 {
-  "updated": "2026-10-18T21:18:17.985391-04:00",
-  "hora": "21:18",
-  "fecha": "18/10/2026",
+  "updated": "2026-10-19T02:17:46.969612-04:00",
+  "hora": "02:17",
+  "fecha": "19/10/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Cómo un migrante dominicano en Nueva York se convirtió en blanco del ICE - The New York Times",
+      "fuente": "The New York Times",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT21VR2RxcEhlMTlmRWhwZ3VhSVRDN09VVzBJMUI0RXppcUo3U2FvT1hHZ3VSWXJ5SV9mVFI5ZWJRRW11dEJSbDY3UFY2Q1VPbFFWX2t2UlE3dVgzalI2azFCZlhsazFsREY3cGEtVGdLYy1uRjhHYVMwbWQxTDZRY2RwSzk5ZmhPQ3pWWjJMdU9YZkZQVlk1Uw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 18 Oct 2026 22:03:06 GMT",
+      "imagen": "https://static01.nyt.com/images/2026/10/15/espanol/00met-ice-reconstruct-kicker-qklz-ES-copy1/00met-ice-reconstruct-kicker-qklz-facebookJumbo.jpg"
+    },
     {
       "titulo": "Las fallas sísmicas que más encuentra el Mivhed en los edificios que se construyen en RD - Revista Mercado",
       "fuente": "Revista Mercado",
@@ -19,14 +27,6 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 18 Oct 2026 13:11:04 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "RD no permitirá juego anunciado para el martes en Santiago de equipo de fútbol de Haití - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0hxSHNnSXpYLUdNYzZtSGN6dTdWR2lfZ2t1T3NCSmJLOUs3UmZxVnlZMDJlN24wakROQ0NqUE9MUFFKekhRSkhaU0VBZnB2dnRpLXNxemlRRHdNOV9UZVRQRG1fOVZvZkZPUVhxVzhzU0RNWTBSSlBFY2Rla0JSTklaX0NMQm1wbW9DOU9WUEVpaXFPWVUzeUx6UkFENTFMWHJkZlpnVWdHSllQMXNNY2tRTnZseTdmNFRnctIBwgFBVV95cUxPdXFoY2NKVGc1dGpwWEFoUDBxOXlWeXpuUVVfYkNlbFlaVUIzY2U5RTY4SVN4VlFLeldGV2stdjNhaUk1bUxXcGVTSkF1S3NuSWROOXJ2Z2thZGpsOTM1c0ZlVFVMQnhmS24wZlFBbFg3M3paOTdpV01maVRkZlJabFFnNmUtVi1fUHVIUjFYekJrUUdRNXhiYlhuS0dWYU1laW9xYTFEMWR4c0lhWTRoaS1FeVFfSVFSTHE1ZVNFcG5Gdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 18 Oct 2026 16:43:11 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/10/18/6ad4eeac75385.webp"
     },
     {
       "titulo": "Ministro de Deportes reitera prohibición de juego a equipo de fútbol haitiano en República Dominicana - Listín Diario",
@@ -45,6 +45,14 @@
       "imagen": "https://resources.diariolibre.com/images/2026/08/22/kelvin-cruz-recibe-a-presidentes-de-fifa-y-concacaf-2f8839fb-focus-min0.01-0.76-1200-675.jpg"
     },
     {
+      "titulo": "Rodríguez Pimentel rechaza prohibición equipos haitianos - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1o0SmtmVy1Gd1pLcEsya0tuenk0eXlVVWtUYXJ3dXE5djQ3WW9ldVE1TTduYzdpcUhNWFNJMHVsMl9Xc3NpdmJDbldDbXVmZXdQcnpEZUpiQ1g1em5RMjB1REZaRlF3Q3h4STlKaVhULVdJMXV6TFB4QjN1WWFCck9vRGpuUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 18 Oct 2026 22:36:51 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Con estos cuatro teléfonos, Balaguer gobernó la República Dominicana - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamN4TFpVaHJQLUh0Wkw2d05qelpWLWNscjAxVmFGM3MzYk5iWUdfTVZMUFVfaml1dzFCQ2hDVm1WTXU5YXdBZWtVekJkeVRUNkRQUUNtbXlSSjRtdG14S25pOUc2b1BPb0NvTDF4bzlDTzcxRDl5S0pXYzhpQThGTUhreF9VUG12ZjBOQTZNT1o1enlBQ0ZEV3RnbkFyZ05YUVVPdVdJbnptZmlUVnNNcmV3bEtaalpjdGFfVV9NNFplVjJmVzJxN1JR0gHPAUFVX3lxTE53QlFkcXNrd1dkV0NnMTJpeGRIanltVlVzMzQtMHViTVdZaVBxc1ZnZHc2blhvVXl0a1NaSVFZdlRKQkQ4U05yRWxrUDc1b01qSWFCblNmbjlNTU1udkxCQnIySlB0M25zSDlDZm9iZWYtQXhEMEhMWFA0WHFwdFVCMW8xTTVIYlpEUDQyMWNvTGFWSFNLdTNvdkZ2bk1SVldncUJTNWRyeHBMVGVzQTdYcXhQVXVrMGhfczRHS0FZODByRUN0dXhRQUM3NjV0OA?oc=5",
@@ -61,12 +69,12 @@
       "imagen": "https://cdn.amxinfra.com/unotv/images/2026/10/diseno-sin-titulo-3-100331.jpg"
     },
     {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir de mañana lunes - Acento",
+      "titulo": "Digito inicia operaciones en República Dominicana con servicios de firma electrónica - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONHNYaVFRYzVmUUx1VWh2LUpHOWRjOHJZWm5YQU1Fc194cXctbC01elo3UmdJVHlUanVSU1hiTG5ZbmttNEdqdVZfa0VxSlEtUndBMnNGYVFXRlpubERIZFUweVM5a0N5NXBMUE1waDRsXzM0YTdoU0tsWHFCYmI4aFhaN1VmYVRpSTh6VWVlbFdFWlVaVkY1NEd0YXN2S0JoVS12WUYtREpxOWVXMHNZQW5DQmp0elZNRTItRXBQTTBoRWhjdXhIUFpOd0Y4VDdycUJLZEVqSWdvSTQ0cUx5VU0zNTVqbFY5OGRMLUs0bV90V0xpY0VUOXh5VVYxd9IB_gFBVV95cUxONHNYaVFRYzVmUUx1VWh2LUpHOWRjOHJZWm5YQU1Fc194cXctbC01elo3UmdJVHlUanVSU1hiTG5ZbmttNEdqdVZfa0VxSlEtUndBMnNGYVFXRlpubERIZFUweVM5a0N5NXBMUE1waDRsXzM0YTdoU0tsWHFCYmI4aFhaN1VmYVRpSTh6VWVlbFdFWlVaVkY1NEd0YXN2S0JoVS12WUYtREpxOWVXMHNZQW5DQmp0elZNRTItRXBQTTBoRWhjdXhIUFpOd0Y4VDdycUJLZEVqSWdvSTQ0cUx5VU0zNTVqbFY5OGRMLUs0bV90V0xpY0VUOXh5VVYxdw?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcWpGa3NKSmYxVDVoaHFXbXpoaWVnOEZDNmxVd1Q1azdpRm5NeEpwWVRjQkRqdkpIVTJ1N0VHQm1iMXpaZ0UxcHlXTmNjVWpsWlR3NEQ4VlExQ2t1Y2kxZDlyOTI1RUJuWm81dTRJenNFbzN5YlRIS1dBMm1kZDBHOWRYNDVwMzRBTlQ0WTB2OGVGS1AzRmY1clFrNDYzY19TTjVVX2pxdFg0c0tRb2ZqNXBnRmdqdnlUUHVWZmVGT0hGZWtXR0hZ0gHHAUFVX3lxTE1xakZrc0pKZjFUNWhocVdtemhpZWc4RkM2bFV3VDVrN2lGbk14SnBZVGNCRGp2SkhVMnU3RUdCbWIxelpnRTFweVdOY2NVamxaVHc0RDhWUTFDa3VjaTFkOXI5MjVFQm5abzV1NEl6c0VvM3liVEhLV0EybWRkMEc5ZFg0NXAzNEFOVDRZMHY4ZUZLUDNGZjVyUWs0NjNjX1NONVVfanF0WDRzS1FvZmo1cGdGZ2p2eVRQdVZmZUZPSEZla1dHSFk?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 18 Oct 2026 19:00:05 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-semana-laboral-OG.jpg"
+      "fecha": "Mon, 19 Oct 2026 05:00:51 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/WhatsApp-Image-2026-10-18-at-10.38.44-AM-OG.jpg"
     },
     {
       "titulo": "Ismael Munguía con un inicio violento en el beisbol de República Dominicana - La Prensa - Noticias de Nicaragua y el mundo",
@@ -77,6 +85,14 @@
       "imagen": "https://s3.laprensani.com/wp-content/uploads/2025/11/Ismael-Munguia-sele.jpg"
     },
     {
+      "titulo": "Clima hoy en Santiago de los Caballeros, República Dominicana: el pronóstico del tiempo para este lunes 19 octubre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNHQyc3ViSjNjUEt2dzZhSnZxbXQtUUZyUUplR3J3NWpzdkZxTUpOYnUybzlSWDVMLWRUNm5uNUdOeEhXZFNDakFvc04zZmFuR3h1TlhNbF9oTXp0aTZ3Q0gxd2tZdlVXZktkanV4QngyMjJ4bUQ4bHBTZmpIZkVHZU43WFpybGZwUk1IX0Zvd0RJcHptamtTRDdfbF9MTl9lQkw2TXh6akVRMzRYeXk2Tk5LZjlPVnhrUV9pNjRySk1SeFFaZnV1V1ZhcFhmXzFDSXMtX2NPS3BWTEptaXdicjE0T2FNQdIB6wFBVV95cUxOaWthOGt0X2E3d2VXQ2hlbFJZM24zQUo2SXhBSUdxV0VGa281MTR2eElMRkh5N0UwdUNyazh1b21TcnBwOU9QM3l6OWFFUk54b0tIeXVpa2RyTGhXWFBaamdibUNoeXU5RGcweTRoNTUzQzlDS1g0TmdBaTFHeU1VM2hmOGxBb1NsMWRmYldNRUwyYnJYeTZLbEh0ZTc4VlpaZmVIZTVMZFJTQ3FJTnNnRmJfWTRKLVhzXy10UUYwTmVDVkZJSjhuUFZ5TGg2YXJlUE1RWGFjOHlEdmxvUWVVMWdITkQ2M21fcmg0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 19 Oct 2026 03:37:30 GMT",
+      "imagen": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_2000x1500__1.jpg"
+    },
+    {
       "titulo": "MICM y Nclusion acuerdan ampliar inversiones y operaciones en República Dominicana - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdV8wYmRXQmQzNC1TbVN5RHA5V2w5ZUZvT1I3eW1BVzF3Tm5ldjVXN1RlNDVPV2lHNjJuZHVZWWtBcjk1elpwRHRHb2Y1cEhsSl8xa0c3RXY4WDlsZDJiNl9aZnBvcGVWUHItWVFUSlZZNGVwR29fcjBXakI0WjJBbnl6b1MzVXhxbXNnM3VSTk01YkFsYkRET3piQ0JRWTYtU3lDZEctOXhtcDlEYklGV0dB?oc=5",
@@ -85,36 +101,20 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/Ministro-de-Industria-Comercio-y-Mipymes-Eduardo-Yayo-Sanz-Lovaton-y-el-director-ejecutivo-de-Nclusion-Jeffrey-Haley-1-1200x854.jpeg"
     },
     {
-      "titulo": "Productores de arroz bloquean la autopista del Nordeste (video) - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ01iZVZFbF9fcmZEMVhSSXVPVjRMQWhIbWlEU1ZLTlJFTkRwN1VPaVFHdlFfb2ZtVlpGZEtSQkZpdXp1d2JQcXo5dUVuRWtTeW05alAxRTcwVGl5U1E5WlFxWWVkaWQxQTV0YUM2MXh0R0tDMTJxeXZkZ2xhQjd0SXpNSU5Gc1c1RHlVV1ZSc255d0VTczc40gGcAUFVX3lxTFBuVjhPQno5b2hTRVQ4MmFoNjl2TGdHaFJMQWVjWG5uSlh5WHRCODhhaVhhclB0OEdWWVhQOUgyR1oxOVpDZzhjN0pVTDJiZkdOWXpiX3Fkek5vcWVrN3FzOWdzY3UtaFFFQ1lmWlY1dFAyeFhjWDF0RFF2N2s0dnlrZEZDa2RrbUpIWmIzejM4TWFveV8wenhrb1dmOA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 18 Oct 2026 18:46:01 GMT",
-      "imagen": "https://remolacha.net/wp-content/uploads/2026/10/productores-de-arroz-bloquean.png"
-    },
-    {
-      "titulo": "Turistas canadienses afrontan su primer invierno sin Cuba y pagan hasta 400 dólares más por irse a México... - CiberCuba",
-      "fuente": "CiberCuba",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkkydUdIenhFV3MxVWRHbHFlbzV0NGNYdldTbnFKd094WUpNZ3lBZFFKcGNMcGJwLWZtc0dBREhWM0xjNmY1LWJCdVREd2lxTThLaVdYOFVGWklOQkwybnAxOWpNdnp6WThKOHZDQnI4azNzTHM3R20tbEI5Qk1FbjNuekRCUHhjS1JycEs5RVJLY3pGSF9oNjJ3TGFsdWx3MnA0RHJCXzlHcUNPOEFvdDZ1WmpQQlR4X1hPWVRHUkXSAcABQVVfeXFMTmZJMnVHSHp4RVdzMVVkR2xxZW81dDRjWHZXU25xSndPeFlKTWd5QWRRSnBjTHBicC1mbXNHQURIVjNMYzZmNS1iQnVURHdpcU04S2lXWDhVRlpJTkJMMm5wMTlqTXZ6elk4Sjh2Q0JyOGszc0xzN0dtLWxCOUJNRW4zbnpEQlB4Y0tScnBLOUVSS2N6RkhfaDYyd0xhbHVsdzJwNERyQl85R3FDTzhBb3Q2dVpqUEJUeF9YT1lUR1JF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 18 Oct 2026 16:20:42 GMT",
-      "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1792333201-prensa-canadiense-turistas-canada-afrontan-primer-invierno-cuba-pagan-400-dolares-irse.jpg"
-    },
-    {
-      "titulo": "Cómo un migrante dominicano en Nueva York se convirtió en blanco del ICE - The New York Times",
-      "fuente": "The New York Times",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT21VR2RxcEhlMTlmRWhwZ3VhSVRDN09VVzBJMUI0RXppcUo3U2FvT1hHZ3VSWXJ5SV9mVFI5ZWJRRW11dEJSbDY3UFY2Q1VPbFFWX2t2UlE3dVgzalI2azFCZlhsazFsREY3cGEtVGdLYy1uRjhHYVMwbWQxTDZRY2RwSzk5ZmhPQ3pWWjJMdU9YZkZQVlk1Uw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 18 Oct 2026 22:03:06 GMT",
-      "imagen": "https://static01.nyt.com/images/2026/10/15/espanol/00met-ice-reconstruct-kicker-qklz-ES-copy1/00met-ice-reconstruct-kicker-qklz-facebookJumbo.jpg"
-    },
-    {
       "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
       "fuente": "ProPublica",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 05 Oct 2026 16:30:00 GMT",
       "imagen": "https://www.propublica.org/wp-content/uploads/2026/09/20251021-Gregory-DR-Baseball-0113-1_maxHeight_3000_maxWidth_3000OG.jpg?resize=2000,1050"
+    },
+    {
+      "titulo": "República Dominicana cierra sus canchas a Haití tras la polémica en Santo Domingo - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2lNMlp4WjYxSzc4U3ZqR20wUWd4YV8zVmt6NzNZZjgxVG9Tck5UNUxGZ09EWms1Rk9WZERmYWNJOFBVNzBEc3lTNjFmNG1nY0V1UkM0OU5zR1BoWGxoYmh1MzNvd3VuY2dFRTBKLUt3Q0dFdkFubHZpNS1mQVNEQXZReURYTUhteEZtM2EyRlFwbk5Ga3pNeC1kNjVJMG41dEdQRzQzejdfRDk5S3d0aTItUGFpeVR4dktaTWJtR0dSVUNlOWJNUmJySzJ5QWpCemtiLdIB7wFBVV95cUxOdnl5bHpsLUU5V1prY25xcU1qTlNVVEQ3TGhnQW5YejRyTG1LUkw2Z3FHaGFuLW9xZ2hmOURvdFRzeUJFeVpuQ1gyUnp1anpNaFJkV21oMlREM1ZQS015SmFZRF90aGVSQllyNWNtWWMwODJBZnQtUkFKcUVRSGRHa19oV1c1WjM4MUtIaWUwamVzQWgxdk9CR09Nd0pobGFxNGhsX1VDdS1RdS1VQkU2SFQ3VGVHVUlBcTZIS3lyNlY0MWJBcHQ4NGpiZWROanRBVXhteU9Gb0o2eVVYSm5EM1k0LVZIeEZhOVI2eUZkaw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 19 Oct 2026 03:38:26 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/IL6TFNBC3VHCRHGTDIGBWHMMKU.JPG?auth=70ff4e51bd4f3c845ac82d8d9c16396cce9212c6375b882743d65fc1586f6178&smart=true&width=1200&height=630&quality=85"
     },
     {
       "titulo": "El ministro de Deportes y Recreación, Kelvin Cruz, reiteró este domingo la prohibición de que la selección nacional de fútbol de Haití o cualquier equipo de ese país juegue en las instalaciones deportivas de la República Dominicana.⁣ ⁣ El funcionario ratific - Instagram",

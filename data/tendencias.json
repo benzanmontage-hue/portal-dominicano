@@ -1,34 +1,41 @@
 {
-  "updated": "2026-10-18T21:18:10.796347-04:00",
-  "hora": "21:18",
-  "fecha": "18/10/2026",
+  "updated": "2026-10-19T02:17:38.766576-04:00",
+  "hora": "02:17",
+  "fecha": "19/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "terremoto",
+      "trafico": "2000+",
+      "noticia": "Terremoto leve mag. 3.6 - India, Monday 19 Oct 2026 a las 11:34 (Hora Kolkata)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23447891/mag3quake-Oct-19-2026-Myanmar-Burma-Myanmar.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrk8xmwIctlQbQuWSTWv5rN2SHRSzcX6LaFlQl3zB9KJqMU3v6Hb0ddGt37Xs"
+    },
+    {
+      "termino": "coreógrafo",
+      "trafico": "500+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
       "termino": "kylie jenner",
       "trafico": "200+",
-      "noticia": "Kylie Jenner makes surprise Victoria’s Secret Fashion Show runway debut — in the world’s most expensive Fantasy Bra",
-      "enlace": "https://pagesix.com/2026/10/18/style/kylie-jenner-makes-victorias-secret-fashion-show-debut-in-fantasy-bra/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsCESHn0BdLGSIhVY9g5I7-ZOueMBQkTQN-ennO5LNi7HI_8jFXfLGYGHaQ88"
+      "noticia": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra",
+      "enlace": "https://www.vogue.com/article/kylie-jenner-fantasy-bra-2026-victorias-secret-10-18-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLZakAjQQfjWRxzW7LwqN6-ImzTOh1dYczSWgo9BgiLMnuDtU9OtbXrsak4E0"
     },
     {
-      "termino": "gigi hadid",
-      "trafico": "200+",
-      "noticia": "See 16 Vintage Photos from the First Victoria’s Secret Fashion Show, 31 Years After Its Debut in New York",
-      "enlace": "https://people.com/victorias-secret-fashion-show-vintage-photos-12175468",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXlvVMtMyQGzljIdbSYk_h-LsnNZy6NhYWCfAaqPOtmhdgLXBhbYkcf9nsJwE"
-    },
-    {
-      "termino": "alessandra ambrosio",
+      "termino": "megan thee stallion",
       "trafico": "100+",
-      "noticia": "Victoria’s Secret icon returns for 20th show",
-      "enlace": "https://www.thechronicle.com.au/lifestyle/fashion/supermodel-alessandra-ambrosio-makes-her-return-to-victorias-secret-runway/image-gallery/955a1d5b24252a3bde1e84813390420b",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD5RtKij-AyMYrIW0zCDcp1QIBNor9uNBHsgZq0cmcQld44_iqDvC7og86sRc"
+      "noticia": "Megan Thee Stallion’s Dream Comes True on the Victoria’s Secret Runway",
+      "enlace": "https://www.yahoo.com/entertainment/celebrity/articles/megan-thee-stallion-dream-comes-005802234.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpWMV_ZlGaaLKLEEIVLvumYdysflcU0WrDQp8vvZKJtmumbv6-FPZJ3fKFdvc"
     },
     {
       "termino": "sacerdote muere en plena misa",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Un sacerdote muere en Ecuador después de caerle encima una cruz en plena misa",
       "enlace": "https://listindiario.com/las-mundiales/20261018/sacerdote-muere-ecuador-caerle-encima-gran-cruz-plena-misa_926624.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1eXnorTXdBS8fPfhWfnUHuQHPjkm1zGIr5rPBPqtcvxBsO6_a70LuOZyVoA"
@@ -36,23 +43,30 @@
     {
       "termino": "tate mcrae",
       "trafico": "200+",
-      "noticia": "Megan Thee Stallion, Tate McRae, Katseye, and Megan Moroney s Victoria’s Secret Fashion Show Looks",
-      "enlace": "https://www.cosmopolitan.com/entertainment/celebs/a74172114/megan-thee-stallion-tate-mcrae-katseye-megan-moroney-victoria-secret-looks/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn-BIJpvVSg-h1PSzIKjD3cElzXC6xrnzdquiY7ksnWMWzwBY41-E2zEPnWtA"
+      "noticia": "Tate McRae Went for Red Hot Monochrome Lingerie at Victoria s Secret Fashion Show 2026",
+      "enlace": "https://www.teenvogue.com/story/tate-mcrae-victorias-secret-fashion-show-10-18-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWxLMg3ICed85QS8wZrG9ZWuZDTDMkYnZ5QZvk6PEKZq0Aiobs77xaikBsaPU"
+    },
+    {
+      "termino": "alex consani",
+      "trafico": "100+",
+      "noticia": "Alex Consani Returns to the Victoria’s Secret Fashion Show—This Time in a Puffy Pink Cape",
+      "enlace": "https://www.harpersbazaar.com/celebrity/latest/a74162843/alex-consani-victorias-secret-fashion-show-2026-runway-photos/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aIMUuBT7xoy7W4LUMi0AC0r_8yICVjFcuFFNmu7tWmjCEjcFxiOb58FOJg4"
     },
     {
       "termino": "guardians vs. rays",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Rays 3-1 Guardians (Oct 18, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401930515",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIS6BrLl3l8jneHeL5gBczuzvHVkWgim-w778udBLqSzmny8IaGwlUU0zUN2A"
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401930515/rays-guardians",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS45PtRHN_F0aDe08wGux_fU7cYUPU-Ivyn1Q0Pj3DH_mgLzsSPBQrI1x3BnJE"
     },
     {
       "termino": "barbara palvin",
-      "trafico": "200+",
-      "noticia": "Exclusive | Barbara Palvin talks returning to Victoria s Secret Fashion Show 2026, 6 weeks after giving birth",
-      "enlace": "https://pagesix.com/2026/10/18/style/barbara-palvin-talks-returning-to-victorias-secret-fashion-show-2026-6-weeks-after-giving-birth/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-_T-I7ibSq2dy8nOFlBhWfmzw0_EMoVcXG9u19LV--tP-5aBh9Gi0vfg3MeY"
+      "trafico": "500+",
+      "noticia": "Dylan Sprouse’s Wife Barbara Palvin Stuns Front Row Crowd at Victoria’s Secret Fashion Show Just Weeks After Welcoming Their First Child",
+      "enlace": "https://cristinaiglesias.com/newsday/dylan-sprouses-wife-barbara-palvin-stuns-front-row-crowd-at-victorias-secret-fashion-show-just-weeks-after-welcoming-their-first-child/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4Gdsj844zOTeHkmdeY_IFAw8Wccj87aXBIs_jnF7SoHSEZeSBmBD4jBYTFw"
     },
     {
       "termino": "gus ormo",
@@ -60,20 +74,6 @@
       "noticia": "Body found floating in pool of Weston home",
       "enlace": "https://www.local10.com/news/local/2026/10/16/body-found-floating-in-pool-of-weston-home/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO4vQtudVzqJqy90Su12HS2WLCyJoQAKZQyU15-y_9IM0kL7vpolDrXKY1HYY"
-    },
-    {
-      "termino": "adriana lima",
-      "trafico": "500+",
-      "noticia": "Saying Adriana Lima Had a “Glow Up” Isn’t as Kind as You Think",
-      "enlace": "https://www.allure.com/story/adriana-lima-glow-up-victorias-secret-fashion-show",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDmSjhPwfRjQa-I3GFA54qwR6VDyOE23ecv8guixuTTOrScAWRAan9xnon1fg"
-    },
-    {
-      "termino": "andreina martinez",
-      "trafico": "200+",
-      "noticia": "Solange Omon es el nuevo ángel de Victoria s Secret",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261018/nuevo-angel-pasarela-victoria-secret-fashion-show-2026_926652.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-MCswhivw8dj4X78uqxK7OUc1shvKgit4-yTgBYXNSPygvsNrlxNDtWZNLJs"
     }
   ]
 }
