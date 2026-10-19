@@ -160,6 +160,10 @@ def tile_lidom(hoy):
     nombre = {"Aguilas Cibaenas": "Águilas Cibaeñas"}.get(lider.get("nombre"), lider.get("nombre") or lider["equipo"])
     n_hoy = sum(1 for j in L.get("juegos", []) if j.get("fecha") == hoy.isoformat())
     sub = f"{n_hoy} juego{'s' if n_hoy != 1 else ''} hoy" if n_hoy else "Resultados y posiciones"
+    empatados = sum(1 for t in tabla if t.get("pct") == lider.get("pct"))
+    if empatados > 1:
+        return (f'<span class="tile-k">Lidom</span><span class="tile-t">{empatados} equipos empatados en el 1.º ({lider["g"]}-{lider["p"]})</span>'
+                f'<span class="tile-s">{sub}</span>')
     return (f'<span class="tile-k">Lidom · líder</span><span class="tile-t">{esc(nombre)} ({lider["g"]}-{lider["p"]})</span>'
             f'<span class="tile-s">{sub}</span>')
 
