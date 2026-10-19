@@ -55,7 +55,8 @@ def main():
     urls = []
     from generate_juegos import JUEGOS
     paginas = list(PAGINAS)
-    paginas += [("resultados/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly")]
+    paginas += [("resultados/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly"),
+                ("lidom/", "0.8", "hourly"), ("combustibles/", "0.8", "weekly")]
     paginas += [(f"{slug}/", "0.7", "daily") for slug, *_ in JUEGOS]
     paginas += [(f"resultados/{f}/", "0.5", "never") for f in reversed(fechas_con_pagina(cargar_json("archivo.json", {}) or {}))]
     for ruta, prio, freq in paginas:

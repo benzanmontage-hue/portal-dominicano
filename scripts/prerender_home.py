@@ -142,6 +142,28 @@ def dolar():
     return f'<span class="tile-k">Dólar hoy</span><span class="tile-v">RD${usd:.2f}</span>{sub}'
 
 
+def tile_combustibles():
+    c = cargar_json("combustibles.json", {}) or {}
+    p = c.get("precios") or {}
+    if not p.get("premium"):
+        return '<span class="tile-k">Combustibles</span><span class="tile-t">Precios de la semana</span><span class="tile-s">Gasolina, gasoil y GLP</span>'
+    reg = f'<span class="tile-s">Regular: RD${p["regular"]:.2f}</span>' if p.get("regular") else ""
+    return f'<span class="tile-k">Gasolina premium</span><span class="tile-v">RD${p["premium"]:.2f}</span>{reg}'
+
+
+def tile_lidom(hoy):
+    L = cargar_json("lidom.json", {}) or {}
+    tabla = L.get("tabla") or []
+    if not tabla:
+        return '<span class="tile-k">Lidom</span><span class="tile-t">Béisbol invernal</span><span class="tile-s">Resultados y posiciones</span>'
+    lider = tabla[0]
+    nombre = {"Aguilas Cibaenas": "Águilas Cibaeñas"}.get(lider.get("nombre"), lider.get("nombre") or lider["equipo"])
+    n_hoy = sum(1 for j in L.get("juegos", []) if j.get("fecha") == hoy.isoformat())
+    sub = f"{n_hoy} juego{'s' if n_hoy != 1 else ''} hoy" if n_hoy else "Resultados y posiciones"
+    return (f'<span class="tile-k">Lidom · líder</span><span class="tile-t">{esc(nombre)} ({lider["g"]}-{lider["p"]})</span>'
+            f'<span class="tile-s">{sub}</span>')
+
+
 def main():
     res = cargar_json("resultados.json", {}) or {}
     juegos = res.get("juegos", [])
@@ -153,6 +175,8 @@ def main():
     html = zona(html, "ANGUILA", anguila(juegos, hoy))
     html = zona(html, "LOTERIA", todos(juegos, hoy))
     html = zona(html, "DOLAR", dolar())
+    html = zona(html, "COMBUSTIBLES", tile_combustibles())
+    html = zona(html, "LIDOM", tile_lidom(hoy))
     try:
         with open(os.path.join(ROOT, "data", "tarjeta.txt"), encoding="utf-8") as f:
             texto = f.read().strip()

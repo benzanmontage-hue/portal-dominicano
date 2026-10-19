@@ -23,6 +23,8 @@ SCRAPERS = [
     "scripts/scrape_divisas.py",
     "scripts/scrape_economia.py",
     "scripts/scrape_eventos.py",
+    "scripts/scrape_lidom.py",
+    "scripts/scrape_combustibles.py",
 ]
 GENERADORES = [
     "scripts/archivar_loteria.py",
@@ -31,6 +33,8 @@ GENERADORES = [
     "scripts/generate_juegos.py",
     "scripts/generate_sections.py",
     "scripts/generate_info.py",
+    "scripts/generate_lidom.py",
+    "scripts/generate_combustibles.py",
     "scripts/tarjeta.py",
     "scripts/prerender_home.py",
     "scripts/build_sitemap.py",

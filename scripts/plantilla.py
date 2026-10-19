@@ -24,6 +24,12 @@ CSS_EXTRA = """
 .resumen-txt li{margin:4px 0 4px 18px}
 .tabla-wrap td a{color:var(--azul2);font-weight:600;text-decoration:none}
 .nw{white-space:nowrap;font-weight:800}
+.juegos-l{list-style:none;display:flex;flex-direction:column;gap:8px}
+.juego{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 14px}
+.j-m{font-weight:600;font-size:1rem}
+.j-m .gan{font-weight:900}
+.j-s{font-size:.82rem;color:var(--muted);margin-top:2px}
+.sub-h{font-size:.95rem;font-weight:800;margin:14px 0 8px}
 .nota{font-size:.82rem;color:var(--muted);margin-top:10px}
 @media (prefers-color-scheme:dark){.navfechas a,.comp-h a,.dias a,.tabla-wrap td a{color:#7fb0ff}}
 """

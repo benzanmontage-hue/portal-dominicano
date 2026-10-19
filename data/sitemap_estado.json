@@ -1,35 +1,35 @@
 {
  "/": {
-  "hash": "f538d116699a801b",
-  "lastmod": "2026-10-19T03:34-04:00"
+  "hash": "fd9d6079cc114219",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "loteria-nacional/": {
-  "hash": "fa2dd0eb18fbedc3",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "ec157a10a6180e95",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "anguila/": {
-  "hash": "f313503f48a8c528",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "3ece36a386d4fdf5",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "loteria-real/": {
-  "hash": "99f6a22af1a617b3",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "17db1aae76c73753",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "loteka/": {
-  "hash": "0516d925dada6b20",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "6bd2bd3e27086e61",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "la-primera/": {
-  "hash": "60b487413d1792fe",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "c5e0b372bc517f26",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "la-suerte/": {
-  "hash": "3f9f22b1ac61cce8",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "2063c5da190f1a6a",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "leidsa/": {
-  "hash": "cc2daa35abaa8886",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "8c68bee4fed93cb6",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "dolar-hoy/": {
   "hash": "3f23eeb4e029a2fa",
@@ -132,15 +132,19 @@
   "lastmod": "2026-10-18T12:24-04:00"
  },
  "horarios-loterias/": {
-  "hash": "8abf2cf83aa2d0db",
-  "lastmod": "2026-10-18T12:24-04:00"
+  "hash": "c2e1e9d8b5418569",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "feriados/": {
-  "hash": "a43b404a37fc9e51",
-  "lastmod": "2026-10-19T02:17-04:00"
+  "hash": "20bbea7d35cd295b",
+  "lastmod": "2026-10-19T03:48-04:00"
  },
  "resultados/2026-10-18/": {
   "hash": "ef65ac0782e6d16c",
   "lastmod": "2026-10-19T02:17-04:00"
+ },
+ "combustibles/": {
+  "hash": "26deff30c625da2f",
+  "lastmod": "2026-10-19T03:48-04:00"
  }
 }
