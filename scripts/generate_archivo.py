@@ -80,7 +80,7 @@ def pagina_fecha(f, sorteos, anterior, siguiente, hoy):
   </div>
   <p class="nota">Verifica siempre tus números con la fuente oficial de cada lotería antes de cobrar un premio.</p>"""
 
-    title = f"Resultados Lotería Dominicana {corto} — Nacional, Leidsa, Loteka y más"
+    title = f"Resultados de la Lotería del {d.day} de {MESES[d.month - 1].capitalize()} {d.year} — RD"
     desc = (f"Números ganadores de la lotería dominicana del {largo}: Lotería Nacional, Leidsa, Loteka, "
             f"Real, La Primera, La Suerte y Anguila. {total} sorteos.")
     migas = [("Portal Dominicano", "/"), ("Resultados por fecha", "/resultados/"), (corto, ruta)]
@@ -121,7 +121,7 @@ def pagina_indice(fechas, por_fecha, hoy):
   <p class="nota"><a href="/resultados/{ultimo}/">Ver todos los sorteos del {esc(fecha_larga(du, con_anio=False))} ›</a></p>
   <h2 class="sect"><span class="bar"></span> Días anteriores</h2>
   <div class="meses">{''.join(bloques)}</div>"""
-    title = "Resultados de Lotería Dominicana por Fecha — Archivo de Sorteos"
+    title = "Resultados de la Lotería Dominicana por Fecha — Archivo"
     desc = "Archivo de resultados de la lotería dominicana día por día: Lotería Nacional, Leidsa, Loteka, Real, La Primera, La Suerte y Anguila."
     migas = [("Portal Dominicano", "/"), ("Resultados por fecha", ruta)]
     ld = jsonld(BASE + ruta, "Resultados de lotería por fecha", desc, migas)

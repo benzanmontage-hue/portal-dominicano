@@ -69,6 +69,8 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
         for i, (n, h) in enumerate(migas))
     otras = " ".join(f'<a href="/{o["slug"]}/">{esc(o["nombre"])}</a>' for o in LOTERIAS)
     secciones = " ".join(f'<a href="/{s}/">{esc(n)}</a>' for s, n in SECCIONES)
+    from generate_juegos import JUEGOS  # import tardío (generate_juegos importa este módulo)
+    juegos = " ".join(f'<a href="/{slug}/">{esc(nombre)}</a>' for slug, nombre, *_ in JUEGOS if f"/{slug}/" != ruta)
     extras = ('<a href="/resultados/">Resultados por fecha</a> <a href="/horarios-loterias/">Horarios</a> '
               '<a href="/feriados/">Días feriados</a>')
     return f"""<!DOCTYPE html>
@@ -95,7 +97,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
 <link rel="manifest" href="/manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"></noscript>
 <script type="application/ld+json">{ld}</script>
 <style>{CSS_BASE}{CSS_EXTRA}</style>
 </head>
@@ -113,6 +115,9 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
 
   <h2 class="sect"><span class="bar"></span> Loterías dominicanas</h2>
   <nav class="otras" aria-label="Loterías">{otras}</nav>
+
+  <h2 class="sect"><span class="bar"></span> Juegos</h2>
+  <nav class="otras" aria-label="Juegos">{juegos}</nav>
 
   <h2 class="sect"><span class="bar"></span> Más en Portal Dominicano</h2>
   <nav class="otras" aria-label="Secciones">{extras} {secciones}</nav>

@@ -154,3 +154,11 @@ def sorteos_por_fecha(archivo):
 def fechas_con_pagina(archivo):
     """Fechas (ISO, ascendente) que tienen página /resultados/AAAA-MM-DD/."""
     return sorted(f for f, l in sorteos_por_fecha(archivo).items() if len(l) >= MIN_SORTEOS_FECHA)
+
+
+def titulo(*partes, maximo=65):
+    """Une partes con ' — ' y descarta las finales mientras el título pase de `maximo` caracteres."""
+    partes = [x for x in partes if x]
+    while len(partes) > 1 and len(" — ".join(partes)) > maximo:
+        partes.pop()
+    return " — ".join(partes)

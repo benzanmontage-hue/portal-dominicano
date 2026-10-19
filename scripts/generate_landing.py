@@ -13,7 +13,7 @@ import re
 import json
 import os
 
-from comun import (ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha, fechas_con_pagina, minutos_juego,
+from comun import (ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha, fechas_con_pagina, minutos_juego, titulo,
                    fecha_larga, actualizado_rd, hora_12, ordenar_juegos, balls_html)
 
 LOTERIAS = [
@@ -257,9 +257,9 @@ def render_pagina(l, resultados, archivo):
         if l["compania"] == "Anguila":
             p = max(juegos, key=lambda j: ((j.get("fecha") or "")[:10], minutos_juego(limpiar(j["juego"])) or 0))
         dp = parse_fecha(p.get("fecha")) or hoy
-        title = f"{pref} {dp.day} de {MESES[dp.month - 1]}: {'-'.join(p['numeros'])} — {suf}"
+        title = titulo(f"{pref} {dp.day} de {MESES[dp.month - 1]}: {'-'.join(p['numeros'])}", suf, "Resultados")
     else:
-        title = f"{pref}, {hoy.day} de {MESES[hoy.month - 1]} {hoy.year} — {suf}"
+        title = titulo(f"{pref}, {hoy.day} de {MESES[hoy.month - 1]} {hoy.year}", suf, "Resultados")
 
     cards = render_cards(juegos, hoy) if juegos else '<p class="intro">Sin resultados por ahora. Vuelve más tarde.</p>'
     historial = render_historial(l["compania"], juegos, archivo, hoy)
@@ -267,6 +267,7 @@ def render_pagina(l, resultados, archivo):
 
     from generate_juegos import JUEGOS  # import tardío: generate_juegos importa este módulo
     pag_juego = {(c, g): slug for slug, _n, _h, claves in JUEGOS for c, g in claves}
+    todos_juegos = " ".join(f'<a href="/{slug}/">{esc(n)}</a>' for slug, n, *_ in JUEGOS)
     lista_juegos = "".join(
         f'<li><a href="/{pag_juego[(j["compania"], limpiar(j["juego"]))]}/">{esc(limpiar(j["juego"]))}</a></li>'
         if (j["compania"], limpiar(j["juego"])) in pag_juego else f"<li>{esc(limpiar(j['juego']))}</li>"
@@ -337,7 +338,7 @@ def render_pagina(l, resultados, archivo):
 <link rel="manifest" href="../manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"></noscript>
 <script type="application/ld+json">{ld_json}</script>
 <style>{CSS}</style>
 </head>
@@ -375,6 +376,9 @@ def render_pagina(l, resultados, archivo):
 
   <h2 class="sect"><span class="bar"></span> Otras loterías dominicanas</h2>
   <nav class="otras" aria-label="Otras loterías">{otras}</nav>
+
+  <h2 class="sect"><span class="bar"></span> Resultados por juego</h2>
+  <nav class="otras" aria-label="Juegos">{todos_juegos}</nav>
 
   <h2 class="sect"><span class="bar"></span> Más en Portal Dominicano</h2>
   <nav class="otras" aria-label="Secciones">{secciones}</nav>

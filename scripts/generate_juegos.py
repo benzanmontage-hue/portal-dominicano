@@ -8,7 +8,7 @@ y preguntas frecuentes con los números reales. Lee data/resultados.json y data/
 import datetime
 
 from comun import (BASE, SLUG_COMPANIA, NOMBRE_COMPANIA, esc, limpiar, cargar_json, parse_fecha,
-                   fecha_larga, actualizado_rd, hora_12, minutos_juego, fechas_con_pagina, MESES)
+                   fecha_larga, actualizado_rd, hora_12, minutos_juego, fechas_con_pagina, MESES, titulo)
 from generate_landing import render_cards
 from plantilla import pagina, jsonld, faq_ld, faq_html, escribir
 
@@ -108,7 +108,9 @@ def render_juego(slug, nombre, h1, claves, res, archivo):
   <h2 class="sect"><span class="bar"></span> Ver la lotería completa</h2>
   <nav class="otras" aria-label="Loterías de este juego">{enlaces_comp} <a href="/resultados/">Resultados por fecha</a></nav>"""
 
-    title = f"{nombre} de Hoy, {du.day} de {MESES[du.month - 1]}: {nums_ult} — Resultados"
+    nums_t = nums_ult.replace(" - ", "-") if len(ult["numeros"]) <= 6 else ""
+    title = titulo(f"{nombre} de Hoy {du.day} de {MESES[du.month - 1]}" + (f": {nums_t}" if nums_t else ""),
+                   "Resultados", "Números Ganadores")
     desc = (f"Resultados de {nombre} de hoy en República Dominicana ({lista_txt(companias)}). "
             f"Último sorteo: {nums_ult}. Números ganadores e historial de días anteriores.")
     migas = [("Portal Dominicano", "/"), ("Lotería de hoy", "/#loteria"), (nombre, ruta)]

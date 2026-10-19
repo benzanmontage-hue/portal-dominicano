@@ -26,7 +26,6 @@ PAGINAS = [
     ("dolar-hoy/", "0.7", "daily"),
     ("noticias-rd/", "0.7", "daily"),
     ("eventos-rd/", "0.6", "daily"),
-    ("economia-rd/", "0.5", "weekly"),
 ]
 
 VOLATIL = [

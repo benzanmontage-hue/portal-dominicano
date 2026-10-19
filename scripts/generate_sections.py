@@ -173,7 +173,7 @@ def dolar_titulos_e_historial():
         json.dump(hist, f, ensure_ascii=False, indent=1)
     dt = datetime.date.fromisoformat(fecha)
     cuando = f"{dt.day} de {MESES[dt.month - 1]}"
-    title = f"Dólar Hoy {cuando}: RD${usd:.2f} — Tasa de Cambio en República Dominicana"
+    title = f"Dólar Hoy {cuando}: RD${usd:.2f} — Tasa de Cambio RD"
     h1 = f"Precio del Dólar Hoy en RD: RD${usd:.2f}"
     td = '<td style="padding:10px;border-top:1px solid var(--border)">'
     filas = []
@@ -189,6 +189,20 @@ def dolar_titulos_e_historial():
              '<div style="overflow-x:auto;background:var(--card);border:1px solid var(--border);border-radius:14px">'
              f'<table style="width:100%;border-collapse:collapse"><thead><tr>{th}Fecha</th>{th}Dólar</th>{th}Euro</th></tr></thead><tbody>'
              + "".join(filas) + "</tbody></table></div>")
+    conv = "".join(f"<tr>{td}US${n:,}</td>{td}RD${n * usd:,.2f}</td>{td}RD${n * eur:,.2f}</td></tr>" for n in (1, 10, 20, 50, 100, 500, 1000)) if eur else ""
+    if conv:
+        extra += ('<h2 class="sect"><span class="bar"></span> Convertir dólares y euros a pesos</h2>'
+                  '<div style="overflow-x:auto;background:var(--card);border:1px solid var(--border);border-radius:14px">'
+                  f'<table style="width:100%;border-collapse:collapse"><thead><tr>{th}Cantidad</th>{th}En dólares → pesos</th>{th}En euros → pesos</th></tr></thead><tbody>'
+                  + conv + "</tbody></table></div>")
+    faqs = [(f"¿A cuánto está el dólar hoy en República Dominicana?",
+             f"Hoy, {cuando}, la tasa de referencia es RD${usd:.2f} por cada dólar estadounidense."),
+            ("¿Cuánto son 100 dólares en pesos dominicanos?", f"Con la tasa de hoy, 100 dólares son unos RD${100 * usd:,.2f}."),
+            ("¿Por qué el banco me da otro precio?",
+             "Los bancos y casas de cambio compran el dólar un poco más barato y lo venden un poco más caro que la tasa de referencia. Consulta la tasa de compra y venta de tu banco antes de cambiar.")]
+    extra += '<h2 class="sect"><span class="bar"></span> Preguntas frecuentes</h2>' + "".join(
+        f'<details style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:8px">'
+        f'<summary style="font-weight:700;cursor:pointer">{q}</summary><p style="color:var(--muted);margin-top:8px">{a}</p></details>' for q, a in faqs)
     return title, h1, extra
 
 
@@ -213,7 +227,7 @@ TEMPLATE = """<!DOCTYPE html>
 <link rel="icon" type="image/png" href="../img/icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"></noscript>
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[{{"@type":"WebPage","name":"{h1}","url":"{base}/{slug}/","inLanguage":"es-DO","isPartOf":{{"@type":"WebSite","@id":"{base}/#website","name":"Portal Dominicano","url":"{base}/"}},"breadcrumb":{{"@id":"{base}/{slug}/#breadcrumb"}}}},{{"@type":"BreadcrumbList","@id":"{base}/{slug}/#breadcrumb","itemListElement":[{{"@type":"ListItem","position":1,"name":"Portal Dominicano","item":"{base}/"}},{{"@type":"ListItem","position":2,"name":"{h1}","item":"{base}/{slug}/"}}]}}]}}
 </script>
@@ -306,7 +320,7 @@ def main():
             '<a href="/#' + ancla + '" style="color:var(--azul2);font-weight:700">página principal</a> '
             'del Portal Dominicano.</p>'
         )
-        robots = "index,follow" if p["data"] else "noindex,follow"
+        robots = "index,follow" if p["data"] and p["slug"] != "economia-rd" else "noindex,follow"  # economía: muy poco contenido
         title, h1 = p["title"], p["h1"]
         if p["slug"] == "dolar-hoy":
             title, h1, extra = dolar_titulos_e_historial()

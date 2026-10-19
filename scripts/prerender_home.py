@@ -108,6 +108,40 @@ def anguila(juegos, hoy):
     return "\n".join(out)
 
 
+def enlace_juego(comp, juego):
+    from generate_juegos import JUEGOS
+    n = limpiar(juego)
+    for slug, _nom, _h, claves in JUEGOS:
+        if (comp, n) in claves:
+            return f'<a href="{slug}/">{esc(n)}</a>'
+    return esc(n)
+
+
+def titulo_y_descr(html, res, hoy):
+    """Título y descripción de la portada con la fecha y los números del día (mejora el clic en Google)."""
+    mes = MESES[hoy.month - 1]
+    title = f"Lotería de Hoy {hoy.day} de {mes.capitalize()}: Resultados RD | Portal Dominicano"
+    partes = []
+    for comp, cands in RESUMEN:
+        if comp == "Anguila" or not cands:
+            continue
+        js = {limpiar(j["juego"]): j for j in res.get("juegos", []) if j["compania"] == comp}
+        ops = [js[g] for g, _m in cands if g in js]
+        if ops:
+            j = max(ops, key=lambda x: ((x.get("fecha") or "")[:10], [g for g, _m in cands].index(limpiar(x["juego"]))))
+            partes.append(f"{NOMBRE_COMPANIA[comp].replace('Lotería ', '')} {'-'.join(j['numeros'])}")
+    desc = (f"Lotería de hoy en RD, últimos resultados: " + ", ".join(partes[:4])
+            + ". Todas las loterías, Anguila hora por hora, dólar, combustibles y Lidom.")
+    html = re.sub(r"<title>[^<]*</title>", lambda m: f"<title>{esc(title)}</title>", html, count=1)
+    for patron, valor in [(r'(<meta name="description" content=")[^"]*(")', desc),
+                          (r'(<meta property="og:title" content=")[^"]*(")', title),
+                          (r'(<meta property="og:description" content=")[^"]*(")', desc),
+                          (r'(<meta name="twitter:title" content=")[^"]*(")', title),
+                          (r'(<meta name="twitter:description" content=")[^"]*(")', desc)]:
+        html = re.sub(patron, lambda m: m.group(1) + esc(valor) + m.group(2), html, count=1)
+    return html
+
+
 def todos(juegos, hoy):
     por_comp = {}
     for j in juegos:
@@ -125,7 +159,7 @@ def todos(juegos, hoy):
                 meta += '<span class="lot-dia">día anterior</span>'
             partes.append(
                 f'<div class="lot-card" data-comp="{esc(comp)}" data-numeros="{esc(",".join(j["numeros"]))}">'
-                f'<div class="game">{esc(limpiar(j["juego"]))}</div>'
+                f'<div class="game">{enlace_juego(comp, j["juego"])}</div>'
                 + (f'<div class="lot-meta">{meta}</div>' if meta else "")
                 + f'<div class="nums">{balls_html(j["numeros"])}</div></div>'
             )
@@ -176,6 +210,7 @@ def main():
     with open(INDEX, encoding="utf-8") as f:
         html = f.read()
     html = zona(html, "RESUMEN", resumen(juegos, hoy))
+    html = titulo_y_descr(html, res, hoy)
     html = zona(html, "ANGUILA", anguila(juegos, hoy))
     html = zona(html, "LOTERIA", todos(juegos, hoy))
     html = zona(html, "DOLAR", dolar())
