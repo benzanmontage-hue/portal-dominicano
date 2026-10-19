@@ -4,9 +4,9 @@ name: Actualizar datos
 
 on:
   schedule:
-    # Hora UTC. En RD (UTC-4): 9:20, 11:20, 13:20, 15:20, 17:20, 19:20, 21:20 y 23:20.
-    # La de 21:20 recoge Lotería Nacional y Leidsa; la de 23:20 la última Anguila.
-    - cron: "20 1,3,13,15,17,19,21,23 * * *"
+    # Hora UTC. Cada hora a los :37 de 8:37 AM a 12:37 AM hora RD (UTC-4).
+    # GitHub a veces retrasa o salta ejecuciones programadas; correr cada hora lo compensa.
+    - cron: "37 0-4,12-23 * * *"
   workflow_dispatch: {}   # botón "Run workflow" para actualizar a mano
   push:
     branches: [main]      # publica también cuando se cambia el código
@@ -29,9 +29,9 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -117,6 +117,17 @@ jobs:
           case "$H" in 13|19|21) ;; *) echo "Fuera de horario de Facebook ($H h)."; exit 0;; esac
           curl -sS -F source=@compartir/resultados-hoy.png -F message="$(cat data/tarjeta.txt)" \
             -F access_token="$FB_PAGE_TOKEN" "https://graph.facebook.com/v21.0/${FB_PAGE_ID}/photos" | grep -q '"id"' && echo "Publicado en Facebook."
+
+      # Deja constancia (anotación) de lo que ven los visitantes, para detectar caché vieja.
+      - name: Comprobar sitio en vivo
+        continue-on-error: true
+        run: |
+          sleep 20
+          for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/ https://portal-dominicano.pages.dev/leidsa/; do
+            h=$(curl -sS -D - -o /tmp/p.html "$u" | tr -d '\r' | grep -i -E '^(cf-cache-status|age|cache-control):' | tr '\n' ' ')
+            t=$(grep -o -m1 'Actualizado[^<]*' /tmp/p.html | head -1)
+            echo "::notice title=En vivo::$u -> ${t:-sin fecha} | $h"
+          done
 
       - name: Avisar si falló la lotería
         if: steps.update.outcome == 'failure'
