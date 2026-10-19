@@ -1,20 +1,69 @@
 {
-  "updated": "2026-10-19T14:49:50.480654-04:00",
-  "hora": "14:49",
+  "updated": "2026-10-19T19:04:24.003145-04:00",
+  "hora": "19:04",
   "fecha": "19/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "19 de octubre",
+      "termino": "carolina mejía",
+      "trafico": "200+",
+      "noticia": "“Estamos frente a la próxima presidenta”: Delia Ortiz se une al proyecto de Carolina Mejía",
+      "enlace": "https://hoy.com.do/el-pais/frente-proxima-presidenta-delia-ortiz-une-proyecto-carolina-mejia_1105911.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DpSC8Z7ZXnxAZKXAaXI7_R7XUhbKfR_R4CDFhC_7aIPLCC2h1QMLz-gQJkg"
+    },
+    {
+      "termino": "acd media",
+      "trafico": "100+",
+      "noticia": "PRM lidera intención de voto, pero seis de cada diez no simpatizan con ningún partido",
+      "enlace": "https://www.diariolibre.com/politica/partidos/2026/10/19/encuesta-acd-media-el-prm-lidera-en-intencion-de-votos/3693488",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm87EfrBm53tCPy5sSftLBCn7cwdpWeElpRMmYI1C9deOjF4k49UdjSH-Ozpw"
+    },
+    {
+      "termino": "kim jong un",
+      "trafico": "200+",
+      "noticia": "North Korea’s Kim visits new defense museum as Trump floats meeting",
+      "enlace": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/north-korea-kim-trump-museum/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAn3PFVvA83ezZA_xt_1OY1yJR1aEp1Z6NZUVc_sEQv_Hfs05mMRIn5Hi8hIw"
+    },
+    {
+      "termino": "stella banderas",
       "trafico": "500+",
+      "noticia": "Antonio Banderas and Melanie Griffith’s Daughter Stella Celebrates 1st Anniversary with Alex Gruszynski",
+      "enlace": "https://people.com/stella-banderas-celebrates-first-anniversary-alex-gruszynski-photos-wedding-moments-with-parents-12181870",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhFCbTXYgQH6ul3bbUOreC5a0dvpebZ-i2r50hfH7UeH23NDmiTkL6P1zAyG4"
+    },
+    {
+      "termino": "tottenham - coventry city",
+      "trafico": "200+",
+      "noticia": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season",
+      "enlace": "https://www.bbc.com/sport/football/live/cq99z1401xljt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7ntgWjkbIkFK0iBgyBmtTMYSl0puNrkI4LEGQ0s5mYrWMSrJAmk5iIm4Zd08"
+    },
+    {
+      "termino": "getafe - rayo vallecano",
+      "trafico": "1000+",
+      "noticia": "Getafe - Rayo, en directo: LaLiga EA Sports, hoy en vivo",
+      "enlace": "https://as.com/futbol/primera/getafe-rayo-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUcyYuimDvuwExQ4efLCVW6pqUoPs6sinKe4cWUZCYDSQ5ZlCXskGmHVis6s"
+    },
+    {
+      "termino": "19 de octubre",
+      "trafico": "1000+",
       "noticia": "Precio del dólar hoy en RD lunes 19 de octubre",
       "enlace": "https://www.elcaribe.com.do/panorama/dinero/precio-del-dolar-hoy-rd-19-octubre-2026/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFHqs1bSvDihlwONaKQZKdVrcr-H6h3CC4LXT2E_Jk7BPWj-mxfewW5JsiPTk"
     },
     {
+      "termino": "jennifer lopez",
+      "trafico": "500+",
+      "noticia": "Rob Zangardi’s Star Clients Stepped Out to Celebrate Auter’s Debut at Maxfield’s",
+      "enlace": "https://www.vogue.com/slideshow/rob-zangardi-auter-maxfields-celebration",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSao_x3hv0Wx1RBRTuXVooMvHzt-70BlizxbujDkKcNfQ3ntJ1exZ4-F9-O-yM"
+    },
+    {
       "termino": "irán",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Rusia busca mediar entre Irán y EE. UU. mientras sus negocios con Trump irritan a Europa",
       "enlace": "https://www.diariolibre.com/mundo/medio-oriente/2026/10/19/rusia-busca-mediar-entre-iran-y-ee-uu-y-genera-criticas-en-europa/3693507",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnntj8CRadW6WXSJ_d2CcLzXi8vXEqJPxgkFWGXO1HS6id-fbADUnFpB97McY"
@@ -25,55 +74,6 @@
       "noticia": "Cáncer de Mama",
       "enlace": "https://www.elcaribe.com.do/opiniones/editorial/cancer-de-mama/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1T5lTlSkEBAMWUALVWaRSiLyxfUHFUGQ4cfOJSiBBn8xJoby6qqeDp_eAjo"
-    },
-    {
-      "termino": "combustible",
-      "trafico": "1000+",
-      "noticia": "Petróleo caro, deuda creciente y déficit fiscal presionan las perspectivas de la economía dominicana",
-      "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/10/19/factores-que-presionan-la-economia-dominicana/3692985",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1byj1E_kAu_2zrXf30I_LocgrKdy2NdmzzNvYWxxsgQ63j6BnqxSxLMDjsU"
-    },
-    {
-      "termino": "google",
-      "trafico": "100+",
-      "noticia": "MapQuest’s new ‘surveillance layer’ feature flags Flock cameras on users’ routes",
-      "enlace": "https://thehill.com/business/6156038-mapquest-adds-surveillance-layer/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiJ1ExPCw5pc0HMmFSP64wg_QVWumUcSqSKJhwDSZJx1PBFmRUxixyn1xMjC4"
-    },
-    {
-      "termino": "cristopher pujols",
-      "trafico": "1000+",
-      "noticia": "La Ross María y el pelotero Cristopher Pujols oficializan su relación con romántica sorpresa",
-      "enlace": "https://eldia.com.do/la-ross-maria-y-el-pelotero-cristopher-pujols-oficializan-su-relacion-con-romantica-sorpresa/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDkmQgVqR9rStx7DWWvBqVMo69fVaIHR-UbL2CnHbVtnqzXLMjhk9c7MK9nk"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "2000+",
-      "noticia": "¿Cómo funciona el sistema de alertas de terremotos de Google?",
-      "enlace": "https://hoy.com.do/vivir/tecnologia/funciona-sistema-alertas-terremotos-google_1106049.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPkvuJG_j4pNzztcldPqN1AZHe2mgKSlyFewSnL55x1G5iYSUpV82zpPhNGKE"
-    },
-    {
-      "termino": "coreógrafo",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "megan thee stallion",
-      "trafico": "100+",
-      "noticia": "#TSRBeauty: IKDR! #MeganTheeStallion absolutely devoured her performance during the 2026 #VSFashionShow.😍🔥 (🎥: @victoriassecret) 📸:@gettyimages (SWIPE) ✍🏾:#TSRStaffJR",
-      "enlace": "https://www.instagram.com/p/DeqGfMRjAo0/",
-      "imagen": ""
-    },
-    {
-      "termino": "sacerdote muere en plena misa",
-      "trafico": "500+",
-      "noticia": "Un sacerdote muere tras caerle encima una cruz durante una misa en Ecuador",
-      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/10/18/sacerdote-muere-tras-caerle-una-cruz-durante-una-misa-en-ecuador/3692763",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGpB95TDbLCLZhRiXQ41U39IvAVtrEeIJrrBlhC52PNHmVgwYsUiexmlMZQ74"
     }
   ]
 }
