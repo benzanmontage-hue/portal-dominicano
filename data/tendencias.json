@@ -1,23 +1,44 @@
 {
-  "updated": "2026-10-19T22:03:21.054562-04:00",
-  "hora": "22:03",
-  "fecha": "19/10/2026",
+  "updated": "2026-10-20T03:55:02.859303-04:00",
+  "hora": "03:55",
+  "fecha": "20/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "xián martínez",
+      "termino": "randy arozarena",
+      "trafico": "200+",
+      "noticia": "Look who s back! Glasnow, Arozarena among Game 6 attendees at Trop",
+      "enlace": "https://www.mlb.com/news/tyler-glasnow-randy-arozarena-attend-2026-alcs-game-6-at-trop",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRld3LeJ87bjAEEnqz4t_iLS5Hsk2JsHNHvhegFBli-FZBhIKa0DLjc7Bfpc1w"
+    },
+    {
+      "termino": "richie palacios",
       "trafico": "100+",
+      "noticia": "Patrick Bailey Goes 0 for 3 In Loss To Rays",
+      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-recaps/patrick-bailey-goes-0-for-3-in-loss-to-rays-oct-20-2026-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwALgWY1wuLLJ_RRBGviAC58Rxrd_dR-AQpx517a7zpqmvMoJxzcMuB6Wi2Jc"
+    },
+    {
+      "termino": "tampa vs cleveland",
+      "trafico": "200+",
+      "noticia": "Resumen Rays @ Guardianes, Resultados/Jugadas destacadas - 16/10/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849817?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849817%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+    },
+    {
+      "termino": "xián martínez",
+      "trafico": "200+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
     },
     {
       "termino": "freddy peralta",
-      "trafico": "500+",
-      "noticia": "Resumen Rays @ Guardianes, Resultados/Jugadas destacadas - 16/10/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849817?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849817%253Fstorylocal%253Dweb-scores-game-embed",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
+      "trafico": "1000+",
+      "noticia": "Freddy Peralta s Strong Performance Leads Rays to 7–3 Victory",
+      "enlace": "https://knup.com/sports/mlb/player-news/performance/freddy-peralta-performance-10-19-2026-697224/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmQTaEzVpg88Lv1mR2N_jrFfikkKXMF-PTXJxQuPwY81iwwsTis3XtiV5MqnY"
     },
     {
       "termino": "wnba",
@@ -29,16 +50,16 @@
     {
       "termino": "rays - guardians",
       "trafico": "5000+",
-      "noticia": "LIVE: Guardians-Rays ALCS Game 6 on TBS/HBO Max",
-      "enlace": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkpxiPb4Jc1SkmXSs7j0eXlaXTG76kHVRxwweNyNN8uiRuXrHCn7bL8gG4zFk"
+      "noticia": "Resumen Guardianes @ Rays, Resultados/Jugadas destacadas -19/10/2026",
+      "enlace": "https://www.mlb.com/es/stories/game/849815?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849815%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
     },
     {
       "termino": "justicia",
       "trafico": "200+",
-      "noticia": "Policía Nacional registra 314 entregas voluntarias de personas con órdenes de arrestos pendientes",
-      "enlace": "https://listindiario.com/la-republica/20261019/pn-314-personas-han-entregado-voluntariamente-ordenes-arrestos-pendientes_926719.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJ2wOy4Y9oAta2SpJIdQ5XZvSPYH1e0kFT6LPoHir9Q0JtUOxpfcnYhrbA-s"
+      "noticia": "Cándido Simón califica de  justicia del espectáculo  la decisión jurídica en el caso Jet Set",
+      "enlace": "https://elnacional.com.do/nacionales/judicial/candido-simon-califica-justicia-espectaculo-decision-juridica-caso-jet-set_583841.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ5LUdBA9_XfaA4NiMTQrXMPMU2eUlxNZRWKPElzy4N4K5ZwqRihUc_3lDtLM"
     },
     {
       "termino": "carolina mejía",
@@ -50,30 +71,9 @@
     {
       "termino": "acd media",
       "trafico": "200+",
-      "noticia": "PRM lidera intención de voto, pero seis de cada diez no simpatizan con ningún partido",
-      "enlace": "https://www.diariolibre.com/politica/partidos/2026/10/19/encuesta-acd-media-el-prm-lidera-en-intencion-de-votos/3693488",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm87EfrBm53tCPy5sSftLBCn7cwdpWeElpRMmYI1C9deOjF4k49UdjSH-Ozpw"
-    },
-    {
-      "termino": "kim jong un",
-      "trafico": "1000+",
-      "noticia": "Kim Jong-un death claims escalate online potentially plunging North Korea into civil war’",
-      "enlace": "https://londonlovesbusiness.com/kim-jong-un-death-claims-escalate-online-potentially-plunging-north-korea-into-civil-war/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSaa9Vl5aHaCLBGWhuoqoORSn2yAb-PvMnT1wZz18UThQVEVRBY5gsPCdwHe8"
-    },
-    {
-      "termino": "stella banderas",
-      "trafico": "1000+",
-      "noticia": "Antonio Banderas and Melanie Griffith’s Daughter Stella Celebrates 1st Anniversary with Alex Gruszynski",
-      "enlace": "https://people.com/stella-banderas-celebrates-first-anniversary-alex-gruszynski-photos-wedding-moments-with-parents-12181870",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhFCbTXYgQH6ul3bbUOreC5a0dvpebZ-i2r50hfH7UeH23NDmiTkL6P1zAyG4"
-    },
-    {
-      "termino": "tottenham - coventry city",
-      "trafico": "200+",
-      "noticia": "Tottenham 3-1 Coventry: Spurs earn first Premier League win of season",
-      "enlace": "https://www.bbc.com/sport/football/live/cq99z1401xljt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNf5qp0CVKZUhtYxIxD-ScDbeUakrai7h2HO2kicUSnwjgOm91QkKpMPh5_tU"
+      "noticia": "Collado aventaja a Carolina en el PRM; Gonzalo lidera en el PLD y Leonel entre los miembros de la FP",
+      "enlace": "https://www.diariolibre.com/politica/partidos/2026/10/19/carolina-mejia-y-david-collado-en-candidatura-presidencial-prm/3693332",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqucyKo8TKVPi1_TekbT5HKiuTyD3lxQja-r-_bZtaSOlhPTHbVMx2xEPDb4E"
     }
   ]
 }
