@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T13:30:31.860443-04:00",
+  "updated": "2026-10-20T16:51:03.716288-04:00",
   "fecha": "20/10/2026",
-  "hora": "13:30",
+  "hora": "16:51",
   "total_juegos": 53,
   "juegos": [
     {
@@ -19,24 +19,24 @@
       "compania": "Nacional",
       "juego": "Gana Más",
       "numeros": [
-        "33",
-        "64",
-        "55"
+        "87",
+        "77",
+        "29"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d482"
     },
     {
       "compania": "Nacional",
       "juego": "Juega + Pega +",
       "numeros": [
-        "18",
-        "12",
-        "08",
-        "04",
-        "20"
+        "26",
+        "23",
+        "15",
+        "23",
+        "07"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d48e"
     },
     {
@@ -159,10 +159,10 @@
       "compania": "Loteria Real",
       "juego": "Super Palé",
       "numeros": [
-        "07",
-        "33"
+        "71",
+        "87"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4b4"
     },
     {
@@ -233,33 +233,33 @@
       "compania": "Anguila",
       "juego": "Anguila 2:00 PM",
       "numeros": [
-        "01",
-        "64",
-        "99"
+        "94",
+        "66",
+        "84"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6a3e96e25036a431f5f40c87"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 3:00 PM",
       "numeros": [
-        "88",
-        "52",
-        "62"
+        "44",
+        "03",
+        "59"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6a3e97a25036a431f5f41eef"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 4:00 PM",
       "numeros": [
-        "89",
-        "66",
-        "86"
+        "85",
+        "33",
+        "85"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6a5116a607d516b9c5102db7"
     },
     {
@@ -429,11 +429,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Día",
       "numeros": [
-        "22",
-        "19",
-        "53"
+        "68",
+        "72",
+        "72"
       ],
-      "fecha": "2026-10-19T04:00:00.000Z",
+      "fecha": "2026-10-20T04:00:00.000Z",
       "game_id": "6abd4faeacdb2c1c557c84c2"
     },
     {
