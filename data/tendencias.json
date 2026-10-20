@@ -1,23 +1,72 @@
 {
-  "updated": "2026-10-20T03:55:02.859303-04:00",
-  "hora": "03:55",
+  "updated": "2026-10-20T13:30:33.984307-04:00",
+  "hora": "13:30",
   "fecha": "20/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "randy arozarena",
+      "termino": "subsidio",
       "trafico": "200+",
+      "noticia": "La auditoría tardía e irregular a los subsidios de los transportistas que no tuvo consecuencias",
+      "enlace": "https://listindiario.com/la-republica/20261019/auditoria-tardia-e-irregular-subsidios-combustibles-tuvo-consecuencias_926678.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgmp4Qxete4Xv9qGIzH7wFBEum3CAXJwv6_gpRXeaGZVhb5dXlTQ7O4RMzNJE"
+    },
+    {
+      "termino": "yamil abreu navarro",
+      "trafico": "200+",
+      "noticia": "Anuncian “bonche del siglo” para recibir a Yamil Abreu Navarro",
+      "enlace": "https://listindiario.com/la-republica/20261020/anuncian-bonche-siglo-recibir-yamil-abreu-navarro_926824.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUWgFJKdi-KXcE-rTl62mM4mW_m5pmjWp2rEVgJ3mHBqrrB7e6BHbtuR8vwiw"
+    },
+    {
+      "termino": "pádel",
+      "trafico": "200+",
+      "noticia": "FIP World Padel Report 2026",
+      "enlace": "https://www.padelfip.com/es/fip-world-padel-report-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvVymwFnh6ZksE7kCQe7BBK56KGYNeqzLvxdPCdBbFkPTUqYlJclAgMRHU3zA"
+    },
+    {
+      "termino": "terremoto",
+      "trafico": "2000+",
+      "noticia": "Terremoto moderado mag. 4.1 - Océano Pacífico Sur, Tonga, Tuesday 20 Oct 2026 a las 04:29 (GMT -12)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23452019/mag3quake-Oct-20-2026-New-Zealand.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJxWK8vUfIpq0VvoSFJxqg_XEF71HbkTldIBQFfywbOkn5wHlK7yVQbxe3Iks"
+    },
+    {
+      "termino": "randy arozarena",
+      "trafico": "1000+",
       "noticia": "Look who s back! Glasnow, Arozarena among Game 6 attendees at Trop",
       "enlace": "https://www.mlb.com/news/tyler-glasnow-randy-arozarena-attend-2026-alcs-game-6-at-trop",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRld3LeJ87bjAEEnqz4t_iLS5Hsk2JsHNHvhegFBli-FZBhIKa0DLjc7Bfpc1w"
     },
     {
+      "termino": "tampa bay rays",
+      "trafico": "500+",
+      "noticia": "How World Series-bound Rays found  a source of inspiration’ in 2025 Blue Jays",
+      "enlace": "https://www.sportsnet.ca/mlb/article/how-world-series-bound-rays-found-a-source-of-inspiration-in-2025-blue-jays/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsnoU0rP1uRnSVXfH2bl5YfC5wWGIKDZAWUKU50Q46DK-0mTTBgLNdX3Meo58"
+    },
+    {
+      "termino": "tampa bay",
+      "trafico": "200+",
+      "noticia": "Police Shooting of 1-Year-Old Kohen Wiley ‘Was Justified,’ Mississippi Attorney General Says",
+      "enlace": "https://www.mississippifreepress.org/police-shooting-of-1-year-old-kohen-wiley-was-justified-mississippi-attorney-general-says/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAKTOt-kpnARsY3N_JCK1neLgcUQDixGUGGbyOeO3ppkObTEcSNswWPoGUog"
+    },
+    {
+      "termino": "junior caminero",
+      "trafico": "1000+",
+      "noticia": "Junior s major moment: Caminero savors 1st playoff homer AND strikes familiar pose",
+      "enlace": "https://www.mlb.com/news/junior-caminero-hits-first-postseason-hr-in-2026-alcs-game-6",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtxzaDKYr2Pu7CqqQwZyOL8oq_MnsB_kr0Tyf-h-uR9WHnn0IgI1utU-tvgyU"
+    },
+    {
       "termino": "richie palacios",
       "trafico": "100+",
-      "noticia": "Patrick Bailey Goes 0 for 3 In Loss To Rays",
-      "enlace": "https://www.fanduel.com/research/mlb/player-news/game-recaps/patrick-bailey-goes-0-for-3-in-loss-to-rays-oct-20-2026-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwALgWY1wuLLJ_RRBGviAC58Rxrd_dR-AQpx517a7zpqmvMoJxzcMuB6Wi2Jc"
+      "noticia": "Richie Palacios Home Runs Odds   Prediction: World Series Game 1",
+      "enlace": "https://sports.betmgm.com/en/blog/mlb/richie-palacios-home-runs-today-odds-hit-home-run-gaa/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_Q9ZC_DNE5kArYlgsC8HgheRuAw4rU5DwIVi4WQrNOtFI-EkLVec0N4K6LuE"
     },
     {
       "termino": "tampa vs cleveland",
@@ -25,55 +74,6 @@
       "noticia": "Resumen Rays @ Guardianes, Resultados/Jugadas destacadas - 16/10/2026",
       "enlace": "https://www.mlb.com/es/stories/game/849817?storylocal=web-scores-game-embed canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849817%253Fstorylocal%253Dweb-scores-game-embed%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "xián martínez",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "freddy peralta",
-      "trafico": "1000+",
-      "noticia": "Freddy Peralta s Strong Performance Leads Rays to 7–3 Victory",
-      "enlace": "https://knup.com/sports/mlb/player-news/performance/freddy-peralta-performance-10-19-2026-697224/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmQTaEzVpg88Lv1mR2N_jrFfikkKXMF-PTXJxQuPwY81iwwsTis3XtiV5MqnY"
-    },
-    {
-      "termino": "wnba",
-      "trafico": "200+",
-      "noticia": "WNBA Finals 2026: Valkyries vs. Dream schedule, scores, more",
-      "enlace": "https://www.espn.com/wnba/story/_/id/50176202/2026-wnba-finals-valkyries-dream-schedule-scores-news",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHgB-emQFuaRzT8sLJccBcdbcLEHDT0d-n2HviuOqoi9gYFNa8mhxuutAtJ5A"
-    },
-    {
-      "termino": "rays - guardians",
-      "trafico": "5000+",
-      "noticia": "Resumen Guardianes @ Rays, Resultados/Jugadas destacadas -19/10/2026",
-      "enlace": "https://www.mlb.com/es/stories/game/849815?canonical=http%3A%2F%2Fwww.mlb.com%2Fes%2Fstories%3Fs%3Dhttps%253A%252F%252Fwww.mlb.com%252Fes%252Fstories%252Fgame%252F849815%26p%3Dsel-es-vvc-lasmayores-main-vvc-list",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaJBldsOs-BK3JbzkKs_lQt6mPYf21inxLUGKylU2j_UktjvfOrIWtg9ywW4"
-    },
-    {
-      "termino": "justicia",
-      "trafico": "200+",
-      "noticia": "Cándido Simón califica de  justicia del espectáculo  la decisión jurídica en el caso Jet Set",
-      "enlace": "https://elnacional.com.do/nacionales/judicial/candido-simon-califica-justicia-espectaculo-decision-juridica-caso-jet-set_583841.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ5LUdBA9_XfaA4NiMTQrXMPMU2eUlxNZRWKPElzy4N4K5ZwqRihUc_3lDtLM"
-    },
-    {
-      "termino": "carolina mejía",
-      "trafico": "500+",
-      "noticia": "“Estamos frente a la próxima presidenta”: Delia Ortiz se une al proyecto de Carolina Mejía",
-      "enlace": "https://hoy.com.do/el-pais/frente-proxima-presidenta-delia-ortiz-une-proyecto-carolina-mejia_1105911.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DpSC8Z7ZXnxAZKXAaXI7_R7XUhbKfR_R4CDFhC_7aIPLCC2h1QMLz-gQJkg"
-    },
-    {
-      "termino": "acd media",
-      "trafico": "200+",
-      "noticia": "Collado aventaja a Carolina en el PRM; Gonzalo lidera en el PLD y Leonel entre los miembros de la FP",
-      "enlace": "https://www.diariolibre.com/politica/partidos/2026/10/19/carolina-mejia-y-david-collado-en-candidatura-presidencial-prm/3693332",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqucyKo8TKVPi1_TekbT5HKiuTyD3lxQja-r-_bZtaSOlhPTHbVMx2xEPDb4E"
     }
   ]
 }
