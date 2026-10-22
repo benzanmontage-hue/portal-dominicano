@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21T17:58:28-04:00",
+ "actualizado": "2026-10-21T20:52:50-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -437,6 +437,14 @@
   ],
   "Anguila|Anguila 6:00 PM": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "66",
+     "05",
+     "35"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "71",
@@ -478,6 +486,14 @@
    }
   ],
   "Anguila|Anguila 7:00 PM": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "27",
+     "22",
+     "80"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -562,6 +578,14 @@
    }
   ],
   "Anguila|Anguila 8:00 PM": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "11",
+     "20",
+     "98"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -791,6 +815,15 @@
   ],
   "Anguila|La Cuarteta 6:00 PM": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "30",
+     "32",
+     "11",
+     "39"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "23",
@@ -923,6 +956,12 @@
   ],
   "La Primera|El Quinielón Noche": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "23"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "97"
@@ -1005,6 +1044,17 @@
   ],
   "La Primera|Loto 5": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "09",
+     "29",
+     "15",
+     "21",
+     "17",
+     "04"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "17",
@@ -1061,6 +1111,14 @@
    }
   ],
   "La Primera|Primera Noche": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "19",
+     "79",
+     "91"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -1153,6 +1211,14 @@
    }
   ],
   "La Suerte|La Suerte 18:00": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "50",
+     "97",
+     "89"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -1524,6 +1590,12 @@
   ],
   "Loteka|MC Repartidera": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "62"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "21"
@@ -1555,6 +1627,16 @@
    }
   ],
   "Loteka|Mega Chances": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "66",
+     "90",
+     "42",
+     "76",
+     "68"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -1699,6 +1781,14 @@
   ],
   "Loteka|Quiniela Loteka Noche": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "47",
+     "59",
+     "45"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "30",
@@ -1741,6 +1831,14 @@
   ],
   "Loteka|Toca 3": [
    {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "0",
+     "0",
+     "7"
+    ]
+   },
+   {
     "fecha": "2026-10-20",
     "numeros": [
      "4",
@@ -1782,6 +1880,16 @@
    }
   ],
   "Loteria Real|Chance Real": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "25",
+     "33",
+     "51",
+     "56",
+     "93"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -1834,6 +1942,14 @@
    }
   ],
   "Loteria Real|Lotería Real Noche": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "57",
+     "45",
+     "09"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -1932,6 +2048,15 @@
    }
   ],
   "Loteria Real|Loto Pool Noche": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "82",
+     "65",
+     "45",
+     "56"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
@@ -2125,6 +2250,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-10-21",
+    "numeros": [
+     "82"
+    ]
+   },
    {
     "fecha": "2026-10-20",
     "numeros": [
