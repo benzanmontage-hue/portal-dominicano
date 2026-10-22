@@ -1,23 +1,51 @@
 {
-  "updated": "2026-10-22T13:36:40.640028-04:00",
-  "hora": "13:36",
+  "updated": "2026-10-22T16:49:29.536685-04:00",
+  "hora": "16:49",
   "fecha": "22/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "europa league",
+      "trafico": "100+",
+      "noticia": "Celtic starting XI for UEL match against Celta Vigo",
+      "enlace": "https://www.celticfc.com/news/2026/october/22/celtic-starting-xi-for-uel-match-against-celta-vigo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-xEWksWTNIr02nGviurWdwVyrCKCOBwFiM-5NMdsNsdOM3RclIElDU3e9VJg"
+    },
+    {
+      "termino": "inundación",
+      "trafico": "200+",
+      "noticia": "Un reportero se lanza al agua a salvar a hombre de una inundación en pleno directo",
+      "enlace": "https://elnacional.com.do/mundo/reportero-lanza-agua-salvar-hombre-inundacion-pleno-directo_584126.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbakzRa70huL75TaoYTgX8g4flj2BKqo1_KeWC6ATh3FN_gn2wSHD7Zy7zlmU"
+    },
+    {
+      "termino": "chubasco",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
       "termino": "estafa",
       "trafico": "100+",
-      "noticia": "Hicham El Hafed, sobre cómo solucionar el hackeo de Whatsapp:  En un iPhone basta con desvincular, pero en Android tienes que eliminar aplicaciones que no te suenen, porque puede ser el malware",
-      "enlace": "https://www.cope.es/programas/herrera-en-cope/audios/hicham-hafed-sobre-solucionar-hackeo-whatsapp-iphone-basta-desvincular-android-tienes-eliminar-aplicaciones-no-te-suenen-malware-20261022_3460624.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRnnlLRvivIMD1o8Mrhtl_fL9vYYxs-GSOCyXWsBjs6hPqxIRzIJcOq5bVtec"
+      "noticia": "Dictan prisión preventiva a implicado en muerte de Emmanuel Contreras",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/10/19/dictan-prision-preventiva-a-vinculado-en-muerte-emmanuel-contreras/3693564",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5GhEi52RGkADle-CJ3OV8NuDWLXu_GR2XazaTJDUOr8zFQxmqCdj19n7BIAM"
+    },
+    {
+      "termino": "getafe - lugano",
+      "trafico": "500+",
+      "noticia": "Preview: Getafe vs Lugano - prediction, team news, lineups",
+      "enlace": "https://www.sportsmole.co.uk/football/getafe/europa-conference-league/preview/getafe-vs-lugano-prediction-team-news-lineups_607287.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4cj1aEqBfnJqJI0O4g1dWx0gb0CI1lLvc-LFkEe-vf8oEgN9dJ4SFOaVDX74"
     },
     {
       "termino": "aeropuerto internacional luis muñoz marín",
-      "trafico": "200+",
-      "noticia": "Aumenta la cantidad de pasajeros atrapados en la Isla mientras intentan abordar un avión armados",
-      "enlace": "https://www.primerahora.com/noticias/puerto-rico/notas/aumenta-la-cantidad-de-pasajeros-atrapados-en-la-isla-mientras-intentan-abordar-un-avion-armados/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTumHv-MD58es8VTtIFYmAfaWtJxjQUDbMlvEO54MaB-4zvAOW5RLimWgZ7G0c"
+      "trafico": "500+",
+      "noticia": "Preocupa al TSA aumento de incautaciones de armas de fuego en aeropuertos",
+      "enlace": "https://www.telemundopr.com/noticias/puerto-rico/preocupa-al-tsa-aumento-de-incautaciones-de-armas-de-fuego-en-aeropuertos/2853559/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy6JXCAYYpDdQmRJJMQKUixxLJDemsFzbUJKekc8E9d-hXRmWs9eYkzG-yc_k"
     },
     {
       "termino": "tarifa",
@@ -28,14 +56,14 @@
     },
     {
       "termino": "nelson cruz",
-      "trafico": "200+",
-      "noticia": "Nelson Cruz recibe ofertas para dirigir en Grandes Ligas",
-      "enlace": "https://elnacional.com.do/deportes/nelson-cruz-recibe-ofertas-dirigir-grandes-ligas_584100.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2D96AFGxfYgyoAfry5LavtYPx8WldHXRS0Id1mN9En3epD5bsg5YJMO8z3QM"
+      "trafico": "500+",
+      "noticia": "Nelson Cruz revela por qué no aceptaría dirigir un equipo de Grandes Ligas",
+      "enlace": "https://elnacional.com.do/deportes/nelson-cruz-quiere-dirigir-equipo-grandes-ligas_584163.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFk6U_HRL3aWbUlImmsvUBab85iwfbSLErIFsR1AJzgkv20CeNrzPGzDocOnI"
     },
     {
       "termino": "inposdom",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Condenan a Inposdom y director a pagar RD$1.5 millones y RD$5,000 diarios por no reintegrar empleada",
       "enlace": "https://elnacional.com.do/nacionales/judicial/condenan-inposdom-director-pagar-rd-1-5-millones-rd-5-000-diarios-reintegrar-empleada_584096.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJKoIVrcA2Dh67thOEbf8-FMN7-WkQM_pfrdKHKab6n1y0bp9cliHdGevVxQ"
@@ -45,35 +73,7 @@
       "trafico": "20000+",
       "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, jueves 22 de octubre de 2026",
       "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-jueves-22-de-octubre-de-2026-9775120.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "weather",
-      "trafico": "500+",
-      "noticia": "The pleasant stretch of fall weather continues across Maryland",
-      "enlace": "https://www.wbaltv.com/article/the-pleasant-stretch-of-fall-weather-continues-across-maryland/74219709",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWCfL9LWQjpnynYfyC67PPjIXUeFBpB-jYM6ccEiUvxecJGboB9f345PSeTUE"
-    },
-    {
-      "termino": "frontera entre haití y la república dominicana",
-      "trafico": "1000+",
-      "noticia": "Fuerzas haitianas e internacionales atacaron bastiones de pandillas antes del anuncio de Bukele",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/22/fuerzas-haitianas-e-internacionales-atacan-bastiones-de-pandillas/3696946",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT63DsVpJo-UIvAsFRBQFJDlgXKVFkJtcr6JQ-Z-79e0rWQRva1nivvgtDLfA"
-    },
-    {
-      "termino": "kick",
-      "trafico": "200+",
-      "noticia": "Kick Streamer Togi: ‘Right Now My Faith Is Lukewarm and I Don’t Know Why’",
-      "enlace": "https://relevantmagazine.com/culture/kick-streamer-togi-right-now-my-faith-is-lukewarm-and-i-dont-know-why/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIELXOhhu6vrjVA8S9wNeXa1_aHKGd6HZWHGrqLcgHK1iaHqfbuWkbDgHNxkU"
-    },
-    {
-      "termino": "gui santos",
-      "trafico": "100+",
-      "noticia": "Warriors  Gui Santos: Scores 12 points, hauls in five boards",
-      "enlace": "https://www.cbssports.com/fantasy/basketball/news/warriors-gui-santos-scores-12-points-hauls-in-five-boards/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6vYEVbmS3GhiQVqGrKgkMPCwrREM5kZkTvdLJt9Izx8_-ygWgVFlsnrePC5M"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4lkMcP96N396zWJoVo3-BJDJfK6fQShG8-lJQn3gbzoEF1n0Av_PjTPwniA"
     }
   ]
 }
