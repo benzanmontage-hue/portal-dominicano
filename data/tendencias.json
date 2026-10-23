@@ -1,10 +1,45 @@
 {
-  "updated": "2026-10-23T13:25:34.349519-04:00",
-  "hora": "13:25",
+  "updated": "2026-10-23T16:37:50.195624-04:00",
+  "hora": "16:37",
   "fecha": "23/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bucks - bulls",
+      "trafico": "200+",
+      "noticia": "Bulls visit Bucks with both teams seeking first victory",
+      "enlace": "https://www.cbssports.com/nba/news/bulls-visit-bucks-with-both-teams-seeking-first-victory/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKuKEnWy4JkebTFtgkQs5a0lLXddb0VbxnUcTdwEZJFaSD3oze0n-lyQjMaPM"
+    },
+    {
+      "termino": "haití",
+      "trafico": "500+",
+      "noticia": "Nayib Bukele busca negociar con bandas de Haití la liberación de cuatro salvadoreños, según WSJ",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/23/nayib-bukele-busca-liberar-a-salvadorenos-en-haiti/3697984",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRewFFTUggOMZ6eWPxpaCKPh8hVw8GVubCsD-Xe2rbnLEZl8gvCCwGhQduFm5E"
+    },
+    {
+      "termino": "serpiente",
+      "trafico": "100+",
+      "noticia": "Sale por cena y termina mordida por serpiente venenosa en Bacalar",
+      "enlace": "https://quintanaroo.quadratin.com.mx/sale-por-cena-y-termina-mordida-por-serpiente-venenosa-en-bacalar/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS48_Nqp_Ft57HzOCisqWKAp8bJBMPuUbTw0KxvpI8Cy_bliDeSNVmtXxPpjGg"
+    },
+    {
+      "termino": "accidente",
+      "trafico": "200+",
+      "noticia": "Una agente de la Policía embarazada entre los cinco muertos en accidente en la Circunvalación",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/10/23/agente-policial-embarazada-entre-muertos-en-accidente-de-transito/3698293",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnT2Obtbqoi15683MDDNYoyBJ7TrHPGCz3gvRvaz7KOH5LqKxv6uHLqgckqVg"
+    },
+    {
+      "termino": "premios billboard de la música latina",
+      "trafico": "200+",
+      "noticia": "Fuerza Regida, Bad Bunny, Karol G, Peso Pluma y Romeo Santos lideran los Billboard Latinos",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/10/22/billboard-latinos-bad-bunny-karol-g-y-romeo-santos-entre-ganadores/3697795",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLLXqWgvBEhcxkXHk9XzT1dYre9qo9nB-nijBieioAUd1TkWl61g9MOn845io"
+    },
     {
       "termino": "educación",
       "trafico": "200+",
@@ -14,66 +49,31 @@
     },
     {
       "termino": "classement al faisaly – al-nassr fc",
-      "trafico": "200+",
-      "noticia": "Alle Ballon-d Or-Gewinner der letzten 25 Jahre",
-      "enlace": "https://onefootball.com/en/video/alle-ballon-dor-gewinner-der-letzten-25-jahre-43660889",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVBMP_SQNaqODs0yoSoZ_zunJcL20FurjERBFadPTEJYHMD3ur6d0bFAkjJ5c"
+      "trafico": "100+",
+      "noticia": "Cristiano Ronaldo scores 1st goal since Portugal suspension, now 18 short of 1,000",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50258631/cristiano-ronaldo-portugal-al-nassr-goal-saudi-pro-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxqQ6AQqZJFfbHdijrQvYeEAlFa0jisjUigs7dxwfcA01YA2EgycJYxxr4U"
     },
     {
       "termino": "estafa",
       "trafico": "200+",
-      "noticia": "Suplantan al Hospital Gregorio Marañón para pedir dinero con falsas emergencias familiares",
-      "enlace": "https://www.eleconomista.es/salud-bienestar/noticias/14023065/10/26/suplantan-al-hospital-gregorio-maranon-para-pedir-dinero-con-falsas-emergencias-familiares.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM1SyQHLV-yaZjRM02el7o8nxwCfxQu5zAUSRJbPqamvV5A9sAbKCUnbzXmHw"
+      "noticia": "No votes a Eliska en WhatsApp: la Guardia Civil alerta de la estafa que busca secuestrar tu cuenta",
+      "enlace": "https://www.abc.es/sevilla/vivir-y-hogar/guardia-civil-pide-abrir-mensaje-eliska-whatsapp-20261023133228-nts.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-Ky0chkp1VVR1DzyBjCgB0wCmUtJn3OxyI4ZJPmBmSxIbTeX1gOLLI4iqgQ"
     },
     {
       "termino": "lluvia",
-      "trafico": "200+",
-      "noticia": "Temperaturas en Bogotá: prepárate antes de salir de casa",
-      "enlace": "https://www.infobae.com/colombia/2026/10/23/temperaturas-en-bogota-preparate-antes-de-salir-de-casa/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTunWZHc-lpPcWVOBe8kAbKSsvVvnY0oupFGtNUaW1BvgKT-LHx-xjTsAJPMCs"
-    },
-    {
-      "termino": "weather",
-      "trafico": "1000+",
-      "noticia": "Network Rail slows trains on Scottish main lines for Friday rain",
-      "enlace": "https://www.railway.supply/network-rail-slows-trains-on-scottish-main-lines-for-friday-rain/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRqTyNgI2kPCRN1tydfmxoy3g1kPlD41P34qmwnNvlxHrn6b_ax6FQ9_z7kpo"
-    },
-    {
-      "termino": "météo",
       "trafico": "500+",
-      "noticia": "Tempête Austen : vents violents ce vendredi sur le Nord-Ouest du pays",
-      "enlace": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX35NmarapY_h03_p9a0hp6Cw7uEHTs1Ebnq7X4igOEWdh7A78XfCy0hfldxE"
+      "noticia": "Lluvia y tormentas eléctricas en Santiago hoy viernes: a esta hora comenzarán las precipitaciones",
+      "enlace": "https://www.adnradio.cl/2026/10/23/lluvia-y-tormentas-electricas-en-santiago-hoy-viernes-a-esta-hora-comenzaran-las-precipitaciones/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtvAQOnToCDv6FuojeflN-sDgP-d3GGjUmO6ZQZX1ceZ37_nhMHU66oeaE_o0"
     },
     {
-      "termino": "clima",
-      "trafico": "20000+",
-      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, jueves 22 de octubre de 2026",
-      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-jueves-22-de-octubre-de-2026-9775120.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "10000+",
-      "noticia": "Terremoto de magnitud 5,0 sacude Japón hoy: epicentro frente a Iwate y preocupación por posible tsunami",
-      "enlace": "https://dsn.pe/terremoto-de-magnitud-50-sacude-japon-hoy-epicentro-frente-a-iwate-y-preocupacion-por-posible-tsunami/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6gB2-amowIfQ27KIPNspB2KyAa9qd74JQgG-gI7McciNTW34WyHIB7RQJvzk"
-    },
-    {
-      "termino": "v. j. edgecombe",
-      "trafico": "100+",
-      "noticia": "Watch LeBron James Give VJ Edgecombe Bloody Nose After 76ers Teammates Collide in Viral Video",
-      "enlace": "https://bleacherreport.com/articles/25519236-watch-lebron-james-give-vj-edgecombe-bloody-nose-after-76ers-teammates-collide-viral-video",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS6xPP_bHtDiUsbQe75O9RZCDxf9v_HheDpezYuiN0YeGM5t43TQpjzO3Ayys"
-    },
-    {
-      "termino": "alerta",
-      "trafico": "5000+",
-      "noticia": "Incrementan a 25 las comunidades en alerta por vaguada",
-      "enlace": "https://listindiario.com/la-republica/provincias/20261022/incrementan-25-comunidades-alerta-vaguada_927204.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8WMIUXYYQlXimzJpH1_awJQR5yvHCCY5jU0CdLgQb2CP-US4p2LDYxtGhWcE"
+      "termino": "al faisaly – al-nassr fc",
+      "trafico": "200+",
+      "noticia": "Alle Ballon-d Or-Gewinner der letzten 25 Jahre",
+      "enlace": "https://onefootball.com/en/video/alle-ballon-dor-gewinner-der-letzten-25-jahre-43660889",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVBMP_SQNaqODs0yoSoZ_zunJcL20FurjERBFadPTEJYHMD3ur6d0bFAkjJ5c"
     }
   ]
 }
