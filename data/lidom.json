@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:38:00-04:00",
+ "updated": "2026-10-23T19:58:55-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -254,6 +254,21 @@
    "serie": "Regular Season"
   },
   {
+   "id": 851559,
+   "fecha": "2026-10-21",
+   "hora": "19:15",
+   "estado": "Live",
+   "detalle": "Suspended",
+   "visitante": "Estrellas Orientales",
+   "visitante_id": 669,
+   "carreras_v": null,
+   "local": "Aguilas Cibaenas",
+   "local_id": 667,
+   "carreras_l": null,
+   "estadio": "Estadio Cibao",
+   "serie": "Regular Season"
+  },
+  {
    "id": 851489,
    "fecha": "2026-10-21",
    "hora": "19:15",
@@ -284,21 +299,6 @@
    "serie": "Regular Season"
   },
   {
-   "id": 851559,
-   "fecha": "2026-10-21",
-   "hora": "19:15",
-   "estado": "Final",
-   "detalle": "Postponed",
-   "visitante": "Estrellas Orientales",
-   "visitante_id": 669,
-   "carreras_v": null,
-   "local": "Aguilas Cibaenas",
-   "local_id": 667,
-   "carreras_l": null,
-   "estadio": "Estadio Cibao",
-   "serie": "Regular Season"
-  },
-  {
    "id": 851515,
    "fecha": "2026-10-22",
    "hora": "19:00",
@@ -317,8 +317,8 @@
    "id": 851488,
    "fecha": "2026-10-23",
    "hora": "19:15",
-   "estado": "Preview",
-   "detalle": "Scheduled",
+   "estado": "Live",
+   "detalle": "In Progress",
    "visitante": "Aguilas Cibaenas",
    "visitante_id": 667,
    "carreras_v": null,
@@ -332,8 +332,8 @@
    "id": 851538,
    "fecha": "2026-10-23",
    "hora": "19:30",
-   "estado": "Preview",
-   "detalle": "Scheduled",
+   "estado": "Live",
+   "detalle": "In Progress",
    "visitante": "Tigres del Licey",
    "visitante_id": 672,
    "carreras_v": null,
@@ -431,6 +431,21 @@
    "local_id": 672,
    "carreras_l": null,
    "estadio": "Estadio Quisqueya Juan Marichal",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851559,
+   "fecha": "2026-10-26",
+   "hora": "19:15",
+   "estado": "Live",
+   "detalle": "Suspended",
+   "visitante": "Estrellas Orientales",
+   "visitante_id": 669,
+   "carreras_v": null,
+   "local": "Aguilas Cibaenas",
+   "local_id": 667,
+   "carreras_l": null,
+   "estadio": "Estadio Cibao",
    "serie": "Regular Season"
   },
   {

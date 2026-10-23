@@ -1,15 +1,9 @@
 {
-  "updated": "2026-10-23T16:38:00.355016-04:00",
-  "hora": "16:38",
+  "updated": "2026-10-23T19:58:55.764760-04:00",
+  "hora": "19:58",
   "fecha": "23/10/2026",
   "total": 12,
   "eventos": [
-    {
-      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
-      "fuente": "Billboard",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
-      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
     {
       "titulo": "Un gran número de conciertos aún están pendientes para presentarse en lo que resta del 2026 - El Dia.com.do",
       "fuente": "El Dia.com.do",
@@ -23,22 +17,16 @@
       "fecha": "Fri, 16 Oct 2026 12:00:00 GMT"
     },
     {
-      "titulo": "David Bisbal regresará a RD con su concierto «Tour Eternos 2026» - El Caribe",
-      "fuente": "El Caribe",
-      "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNERVdDZ0aHd5OF9YMExnbzVIN2VJa2NjeEtwbmEyUE05eEZNQ1pYX0Qxc1VfY01Hd1pSNDV0d0I1REpRWVY2OXplOGxmSFhZMzFITUJjbThWUHQ5blpiS3RKQ0h0QmdrM18wVFBkU0x2dVE?oc=5",
-      "fecha": "Fri, 23 Oct 2026 00:35:49 GMT"
-    },
-    {
-      "titulo": "Todo listo para el Desfile y Festival Dominicano en Boston este fin de semana - Telemundo Nueva Inglaterra",
-      "fuente": "Telemundo Nueva Inglaterra",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0NPTURjVGw4LU1lb1FUVkhNcDBHRGpQYjRuMzJWenpmQ3owQ19CYW5jMzU0dnVrZVNKWnVQTk1OaDlRTmNQeFFQanBlRlQ5OGhUZi1oS2w3N0R3WjVUOGhhdW1rajN2ZlhSZlVFWnVpbnE5WTBhUDdqZTdjaHNqc1ZmQkN4UWw5U2ZLelRUMjBXRkVPaThGb0xKTnhqUk5sdm5OQm95alg3R01GOVU3aWJWaFNFSnREeTh0U056c2xXTWIwVWRYSU1zNXNEREJGZ3hwSldwWTlkZ19mZU5kcGZn0gHqAUFVX3lxTFBlMFY5UkNBUlpsLXVEeExmT1pvX0NsU19VZVRldUdNeFRKX1BqRjJkZFY3TDBtMVVCOE1vRXhpaEczM0s3WjhSREhoTnkxNlBoemdLVDJHSEp1WXNIOW11RFZ1ckVnYlRuUHJ5OXJ3R0RnbUtfMzBiM1pWVTkwWkN1eDdpMVE2RWJ0dWMtc014TzQydnBpaFU2RTZVVzN0MWJ5Y00wVUU5LV9PX1I1SUtuQ1ZDVk9oMUY0SVpYeTd3RmZaQk5mazRrMV9zSmxKcEhhc0R5TUgtSl8tUlZfQWZEUXgzVGptOEZ1Zw?oc=5",
-      "fecha": "Fri, 14 Aug 2026 07:00:00 GMT"
-    },
-    {
       "titulo": "Alejandro Sanz vuelve a RD el 14 de noviembre: dónde será el concierto y cómo comprar las boletas - Revista Mercado",
       "fuente": "Revista Mercado",
       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb012NTJvOUdtTHFuQzRFbkp5M1I1cVhSWjRDMVJMZ1UyNHlGeVB5VUJoVmlCeU4xLXJPN3FERF9kTVBiYXdjRTctNEpQUkluZW44bW5CUVhsTzB1RlhTVU9qNlg4RkQybmdXRHFvNDNSazdYU21abzVmcWxEWFM5Ml9Ya2ZkaHdpTlZWZlFCRk1VUV82RHdLczctSHh5Y19jLXdTd1pPcF9qcm9Xbk1WM1pfUEJDS0pHR015UjNpbHhwZ0dwemw3ZkJNTUF1ZWc?oc=5",
       "fecha": "Sat, 17 Oct 2026 21:33:26 GMT"
+    },
+    {
+      "titulo": "David Bisbal regresará a RD con su concierto «Tour Eternos 2026» - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TNERVdDZ0aHd5OF9YMExnbzVIN2VJa2NjeEtwbmEyUE05eEZNQ1pYX0Qxc1VfY01Hd1pSNDV0d0I1REpRWVY2OXplOGxmSFhZMzFITUJjbThWUHQ5blpiS3RKQ0h0QmdrM18wVFBkU0x2dVE?oc=5",
+      "fecha": "Fri, 23 Oct 2026 00:35:49 GMT"
     },
     {
       "titulo": "Alejandro Sanz volverá a República Dominicana en noviembre con la gira “¿Y ahora qué?” - Infobae",
@@ -47,22 +35,16 @@
       "fecha": "Fri, 16 Oct 2026 23:15:00 GMT"
     },
     {
+      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
+      "fuente": "Billboard",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
+      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
       "titulo": "¡Festival de Piano 2026 en el Cenart presenta shows en vivo a $250 pesos! - Dónde Ir",
       "fuente": "Dónde Ir",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGpxMHRzNkcxM0t4LS1fQXI4d1dTRXFjTjMwdE9IeG5RWXNKa1UwOXJNeXFTakJEVXh0R3N6Xy1JV1luNmtWVzBjRlk5NVRIZnduSlpIZ0JwckZuZ2xvQnIxcXRsTU01bUpjTTFIb0xNRUdLQVlrdkw3M2ttYURYTC03T0FDLUZkVDhlNFE1Q3lwdmdGYk9EaDNqUHdHaWRXS3AwR2xzT1BOMWtyeVpR?oc=5",
       "fecha": "Tue, 20 Oct 2026 19:10:35 GMT"
-    },
-    {
-      "titulo": "Festival dominicano en Orlando celebra la Independencia de República Dominicana - Telemundo Orlando (31)",
-      "fuente": "Telemundo Orlando (31)",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3Z1ckpGRVRFUlg4T3dzbXplZFA5b2hJdGtGQUZHX3NXSlA3emxNdjVfRkZWT1UwOVlxNXFVRWQ3T1g0c3NTT180RkhOVDRvZWxaNk9oaExGWkdVWFRtVkZQX3FtTlJBY20zRk15V2NhaTdPcE9SRTJTcTB0YW5zVlJ0RjVsZU0wMmpNMk1lWnViaGt4SkpSUzJNT0dsMFJCLWlCZW8xWkh2NGw4VUdPRWFDTHViZnVEb19IaVJXd2lndWZfVTQw0gHPAUFVX3lxTE1Bd1BSX2h2YWdMV19HeDg2V3k2ZUc2VlNHcjdsMzNtZlBEa3MzTDZWLUtwY2VGMFR6SnI0M0hVSThIWnRSWUJqUkxscktuY25qWDV2Sk1UZUI1dTctMlBYQVF5ZVoyZmFoMnNMLVB0YkdDalcxc1R5VHdGX1k4NEtrZTI0ZUZWRnJmdmpyendSMG14dlhDODRYajhrT3JfYk9HY0VuaTdVY1ZlWlEwOUljVFQ0UGI1TEtiUkVFS2pNRUM3UGhhVkZLTnZuSnV2TQ?oc=5",
-      "fecha": "Tue, 24 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "titulo": "La expectativa crece en torno al concierto de Chayanne en República Dominicana y, como antesala, el artista puertorriqueño comparte el playlist que lo acompaña en los momentos previos a subir al escenario. Se trata de una selección de canciones que refl - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HNGRJVzRSVDdCOGNWeGs3d3d0eTBXX09aUUhUdUoyR3pmclZDQ2tJb2VhSjBIZ3E5bDhtOGRJRHUwMmxWTzRnMDlaOTZnQXJzQVE?oc=5",
-      "fecha": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
       "titulo": "BTS ya está en Argentina: así fue la llegada del grupo surcoreano para sus tres conciertos agotados - El Universo",
@@ -75,6 +57,24 @@
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkpma1FrbUdoUnpVOWt5M3dJZTBUMnFxMF9mVjFpQVJQdEZoNEd5VmxCa3MxYm5vT2tDWTltQXZaRlpUeEpSS05EdFpKaFo0ZkZJLXkySGxJOTg5WjhOVUUwTXdYVWxNU2xTb1Y3dS1NTmZxU3NQeWU0Zm1UWGtBSDhaRXl4NGZla2JZRWNvcEliTlBNdXJ2VFYteGRGemNaTTN0Z1kxbm9nS1lOQnFTMFUyN1M1XzktQkZDQlhJUmZHVGZ3NEdJd3lLLXZBMGlIQ2fSAdcBQVVfeXFMTVc0a3U4M2xXTmNmRk1OeUt6ekdOT3lTWDYzNGhJQ1NSZmRYZWV2cWJ6SnBSQXc2TFVuVkZ1UDMyM25FbHlObWxGNDN1bVhscmhmbWVENUlEMjNkQmoxdm41RGNMckVUR2lMMGZhOW80WnhUUEppUjh3a2xyRkFfZlV5ZHhqbDFuSFZpTjFFeWlGMG5tUDEzRWZlZ2hIU3RlMnVnVHQ5bUo0eWV4azhYWjE2dk12dEQzM0dBeXYybHduUDR2cG4ySm5jZ2R0Ukx1Q3J2aUxmN0U?oc=5",
       "fecha": "Thu, 15 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Todo listo para el Desfile y Festival Dominicano en Boston este fin de semana - Telemundo Nueva Inglaterra",
+      "fuente": "Telemundo Nueva Inglaterra",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0NPTURjVGw4LU1lb1FUVkhNcDBHRGpQYjRuMzJWenpmQ3owQ19CYW5jMzU0dnVrZVNKWnVQTk1OaDlRTmNQeFFQanBlRlQ5OGhUZi1oS2w3N0R3WjVUOGhhdW1rajN2ZlhSZlVFWnVpbnE5WTBhUDdqZTdjaHNqc1ZmQkN4UWw5U2ZLelRUMjBXRkVPaThGb0xKTnhqUk5sdm5OQm95alg3R01GOVU3aWJWaFNFSnREeTh0U056c2xXTWIwVWRYSU1zNXNEREJGZ3hwSldwWTlkZ19mZU5kcGZn0gHqAUFVX3lxTFBlMFY5UkNBUlpsLXVEeExmT1pvX0NsU19VZVRldUdNeFRKX1BqRjJkZFY3TDBtMVVCOE1vRXhpaEczM0s3WjhSREhoTnkxNlBoemdLVDJHSEp1WXNIOW11RFZ1ckVnYlRuUHJ5OXJ3R0RnbUtfMzBiM1pWVTkwWkN1eDdpMVE2RWJ0dWMtc014TzQydnBpaFU2RTZVVzN0MWJ5Y00wVUU5LV9PX1I1SUtuQ1ZDVk9oMUY0SVpYeTd3RmZaQk5mazRrMV9zSmxKcEhhc0R5TUgtSl8tUlZfQWZEUXgzVGptOEZ1Zw?oc=5",
+      "fecha": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - Bloomberg Línea",
+      "fuente": "Bloomberg Línea",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEFpcU9nSVJMcWg5Y250Y3JkemdwX08tNl9JZjNpZ0NWTlZDTEFPWThnWFlLQXVzd29ZVDBmdElFVW5MdVZ2REEtZTdRQThLcWpMVlNjSDJ4cnJyX2hzV2ZOUjVhOGExTGtZV2pISldKOFhqTUNyZ0pBenEwVlpUYkV2SU9Ga1JDem5fSThsY2dpQ1k4T25HcGNNbXhsTmlvcUxBaWZNMWJVaVl6NVlYZtIBxAFBVV95cUxNbEV4cUtuTEd3d1d2WG5KNGdsRTE0a1E5elV2ZVVoZHp1emhKUW9QWHF6QWlDdm93eGpubGhhNDNvcEpBTEZPRUV2Qkp2d0c0dGVYaGpRampGM3lmZUJuSk5vaTZ3T0Z4TXdGbG9WSDRQVHc0aExZRGdlV2hTU2daRVFKWGJ0Q1E3ekQxNDRLLWVTOVJ5a19fTE5SdXlidGVzQ2FwcnZTQ0U1b1dnLVNWWVBwQVRXRHZsMFhnbVpWODA5WmtT?oc=5",
+      "fecha": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Festival del Chocolate Dominicano culmina su sexta edición cerrando su Ruta Chocolatera en Santiago - Más Vip -",
+      "fuente": "Más Vip -",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQazloMnhKdHRjdzZXaHp6Wi1SUEtqbllXTFpzOGZpdjRKUFN3WFpNeGQzOG8zbDhYa3FjYmotZWs5QkhZcm10LUhSejhYcDk4dnhvR1FEa0Myd2pQcU1nNjJ6Zm9vYjctSWg3dnFRRUJ2aVNqUnZ3ZVVvNWlBLWhGYzBhaVFiTzhRNFlVSEI1NXhtbGRzemVVbmtYVEx4bHJPZkVEa1BLd1JIb2VPbGtGTng2c2RDdnpPaWNscDNPZmxwRHpvaTduTUxkTDhvUQ?oc=5",
+      "fecha": "Thu, 22 Oct 2026 12:16:08 GMT"
     }
   ]
 }

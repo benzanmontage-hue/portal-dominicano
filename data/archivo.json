@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T16:38:02-04:00",
+ "actualizado": "2026-10-23T19:58:57-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -515,6 +515,14 @@
   ],
   "Anguila|Anguila 5:00 PM": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "76",
+     "97",
+     "48"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "18",
@@ -573,6 +581,14 @@
   ],
   "Anguila|Anguila 6:00 PM": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "00",
+     "76",
+     "78"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "42",
@@ -630,6 +646,14 @@
    }
   ],
   "Anguila|Anguila 7:00 PM": [
+   {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "02",
+     "11",
+     "32"
+    ]
+   },
    {
     "fecha": "2026-10-22",
     "numeros": [
@@ -1059,6 +1083,15 @@
   ],
   "Anguila|La Cuarteta 6:00 PM": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "68",
+     "89",
+     "72",
+     "57"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "50",
@@ -1239,6 +1272,12 @@
   ],
   "La Primera|El Quinielón Noche": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "66"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "85"
@@ -1349,6 +1388,17 @@
   ],
   "La Primera|Loto 5": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "31",
+     "10",
+     "03",
+     "06",
+     "32",
+     "08"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "37",
@@ -1427,6 +1477,14 @@
    }
   ],
   "La Primera|Primera Noche": [
+   {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "38",
+     "34",
+     "56"
+    ]
+   },
    {
     "fecha": "2026-10-22",
     "numeros": [
@@ -1551,6 +1609,14 @@
    }
   ],
   "La Suerte|La Suerte 18:00": [
+   {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "50",
+     "58",
+     "76"
+    ]
+   },
    {
     "fecha": "2026-10-22",
     "numeros": [
@@ -2419,6 +2485,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "01",
+     "77",
+     "24",
+     "41",
+     "14"
+    ]
+   },
+   {
     "fecha": "2026-10-22",
     "numeros": [
      "77",
@@ -2865,6 +2941,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-10-23",
+    "numeros": [
+     "00"
+    ]
+   },
    {
     "fecha": "2026-10-22",
     "numeros": [
