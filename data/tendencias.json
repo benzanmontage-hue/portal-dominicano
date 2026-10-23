@@ -1,20 +1,55 @@
 {
-  "updated": "2026-10-22T20:08:36.679150-04:00",
-  "hora": "20:08",
-  "fecha": "22/10/2026",
+  "updated": "2026-10-23T01:18:54.779455-04:00",
+  "hora": "01:18",
+  "fecha": "23/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "76ers - cavaliers",
+      "termino": "v. j. edgecombe",
+      "trafico": "100+",
+      "noticia": "LeBron James gives 76ers teammate VJ Edgecombe bloody nose via accidental elbow",
+      "enlace": "https://sports.yahoo.com/articles/lebron-james-gives-76ers-teammate-013221959.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7NtiuXpLxP2mpoVYJm53SMzkfx63Uae7e0CkotTyUbOPBAtGCVYro4l3dElk"
+    },
+    {
+      "termino": "alerta",
       "trafico": "1000+",
-      "noticia": "NBA Predictions and Moneyline Picks: Thursday, Oct. 22",
-      "enlace": "https://www.covers.com/nba/moneyline-predictions-picks-oct-22-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh6d6gVJ64a7g5mgP5k9_LLF_Ht3Nuw9wIsg7_FDLjDMsmesW-dVILtjhpzt0"
+      "noticia": "El COE advierte sobre aguaceros muy fuertes y posibles granizadas mientras eleva alerta en el país",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/22/el-coe-advierte-sobre-aguaceros-muy-fuertes-y-posibles-granizadas/3697178",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY1F0g7mHP1P4eAJhQbXXPqf4ImN3gmmpnQz0VfUCxnan2Hj9HkItyKovB-QM"
+    },
+    {
+      "termino": "thunder - nuggets",
+      "trafico": "1000+",
+      "noticia": "Nuggets face tough road test against Thunder in season opener",
+      "enlace": "https://www.cbssports.com/nba/news/nuggets-face-tough-road-test-against-thunder-in-season-opener/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgOGMArS6PH30IOWheCtlaAYYGwj5xJhj7q8v1fEXFmKzJYiG4m1RFWsbgtIY"
+    },
+    {
+      "termino": "crecimiento económico",
+      "trafico": "200+",
+      "noticia": "Cepal reduce a 2 % proyección de crecimiento de América Latina en 2026",
+      "enlace": "https://elnacional.com.do/economia/cepal-reduce-2-proyeccion-crecimiento-america-latina-2026_584181.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIse-oZ_IDZ-gC-IvmUuQErjB9BXXOV5kPYA7_MQ4hFPQb-poq8i77bMLg5s4"
+    },
+    {
+      "termino": "76ers - cavaliers",
+      "trafico": "5000+",
+      "noticia": "76ers 114-106 Cavaliers (Oct 22, 2026) Game Recap",
+      "enlace": "https://www.espn.com/nba/recap?gameId=401909093",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDdh7daQa4G1n4C_uNIA_4o2Z52RqyyEuUK3x3eB57KACeCx5uSFjclajn3A"
+    },
+    {
+      "termino": "posiciones de lillestrøm sk contra real sociedad",
+      "trafico": "100+",
+      "noticia": "🚨 Line-up confirmed: Real Sociedad must win in Norway",
+      "enlace": "https://sports.yahoo.com/articles/line-confirmed-real-sociedad-must-175100359.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ2gMrtjmPhVUuVxJb-xIUFdVtisOdKIxSGuUREVcXAOQZgpZfhIl1rLsDlfk"
     },
     {
       "termino": "dinero",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Gastar un dinero depositado por error en tu cuenta puede llevarte a la cárcel",
       "enlace": "https://elnacional.com.do/nacionales/judicial/gastar-un-dinero-depositado-por-error-en-tu-cuenta-puede-llevarte-a-la-carcel_584179.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaDA6VZSimnoKz83mhyTrG7k8RAllBIDL2QQRLWhyXXzB9FjgY74H7wbBP7I"
@@ -22,7 +57,7 @@
     {
       "termino": "bournemouth - milan",
       "trafico": "100+",
-      "noticia": "Bournemouth 3-0 AC Milan: Cherries sweep aside 10-man Milan in Europa League",
+      "noticia": "Bournemouth sweep aside 10-man Milan in Europa League",
       "enlace": "https://www.bbc.com/sport/football/live/cq0ld6p0xy09t",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVNUNSgklBpqrAkovzO1k1mB4fjTiK9-uPgKRk03Jyku7bhapxmw5RRp9PrA"
     },
@@ -39,41 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "estafa",
-      "trafico": "100+",
-      "noticia": "Expertos en ciberseguridad dan la clave sobre la última estafa por WhatsApp:  El mayor miedo no es el que se divulgue el mensaje entre tus contactos, es que es una certificación de identidad",
-      "enlace": "https://www.cope.es/programas/la-linterna/audios/expertos-ciberseguridad-dan-clave-sobre-ultima-estafa-whatsapp-mayor-miedo-no-divulgue-mensaje-tus-contactos-certificacion-identidad-20261022_3461119.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmvWku94o6pnljg0ISExsyKiLkF5FBw0PkuyYyQMM54GiOSYJwoDdBwhfC0C0"
-    },
-    {
-      "termino": "getafe - lugano",
-      "trafico": "500+",
-      "noticia": "Preview: Getafe vs Lugano - prediction, team news, lineups",
-      "enlace": "https://www.sportsmole.co.uk/football/getafe/europa-conference-league/preview/getafe-vs-lugano-prediction-team-news-lineups_607287.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4cj1aEqBfnJqJI0O4g1dWx0gb0CI1lLvc-LFkEe-vf8oEgN9dJ4SFOaVDX74"
-    },
-    {
-      "termino": "aeropuerto internacional luis muñoz marín",
-      "trafico": "500+",
-      "noticia": "Preocupa al TSA aumento de incautaciones de armas de fuego en aeropuertos",
-      "enlace": "https://www.telemundopr.com/noticias/puerto-rico/preocupa-al-tsa-aumento-de-incautaciones-de-armas-de-fuego-en-aeropuertos/2853559/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy6JXCAYYpDdQmRJJMQKUixxLJDemsFzbUJKekc8E9d-hXRmWs9eYkzG-yc_k"
-    },
-    {
-      "termino": "tarifa",
-      "trafico": "200+",
-      "noticia": "¡Cuánto abuso con la factura eléctrica!",
-      "enlace": "https://eldia.com.do/cuanto-abuso-con-la-factura-electrica/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRCqyIzm_Y2xfaqi2oSZNAOMUOwB37yBJHDWCTsHPxTQ6Sb9iaqBe9IFbJ2oM"
-    },
-    {
-      "termino": "nelson cruz",
-      "trafico": "500+",
-      "noticia": "Nelson Cruz revela por qué no aceptaría dirigir un equipo de Grandes Ligas",
-      "enlace": "https://elnacional.com.do/deportes/nelson-cruz-quiere-dirigir-equipo-grandes-ligas_584163.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFk6U_HRL3aWbUlImmsvUBab85iwfbSLErIFsR1AJzgkv20CeNrzPGzDocOnI"
     }
   ]
 }
