@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:50:03-04:00",
+ "updated": "2026-10-22T20:08:48-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -302,8 +302,8 @@
    "id": 851515,
    "fecha": "2026-10-22",
    "hora": "19:00",
-   "estado": "Preview",
-   "detalle": "Scheduled",
+   "estado": "Live",
+   "detalle": "In Progress",
    "visitante": "Toros del Este",
    "visitante_id": 668,
    "carreras_v": null,
