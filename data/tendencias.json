@@ -1,79 +1,79 @@
 {
-  "updated": "2026-10-23T01:18:54.779455-04:00",
-  "hora": "01:18",
+  "updated": "2026-10-23T13:25:34.349519-04:00",
+  "hora": "13:25",
   "fecha": "23/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "educación",
+      "trafico": "200+",
+      "noticia": "Educación autoriza suspensión condicional de la docencia en siete provincias en alerta amarilla",
+      "enlace": "https://elnacional.com.do/nacionales/educacion-autoriza-suspension-condicional-docencia-siete-provincias-alerta-amarilla_584194.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdmKIctYJH37tMkUu3kJcAUx2nF42GnmGhXB1XDqc2WI3G-v9yu7CfNNPjkBc"
+    },
+    {
+      "termino": "classement al faisaly – al-nassr fc",
+      "trafico": "200+",
+      "noticia": "Alle Ballon-d Or-Gewinner der letzten 25 Jahre",
+      "enlace": "https://onefootball.com/en/video/alle-ballon-dor-gewinner-der-letzten-25-jahre-43660889",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVBMP_SQNaqODs0yoSoZ_zunJcL20FurjERBFadPTEJYHMD3ur6d0bFAkjJ5c"
+    },
+    {
+      "termino": "estafa",
+      "trafico": "200+",
+      "noticia": "Suplantan al Hospital Gregorio Marañón para pedir dinero con falsas emergencias familiares",
+      "enlace": "https://www.eleconomista.es/salud-bienestar/noticias/14023065/10/26/suplantan-al-hospital-gregorio-maranon-para-pedir-dinero-con-falsas-emergencias-familiares.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM1SyQHLV-yaZjRM02el7o8nxwCfxQu5zAUSRJbPqamvV5A9sAbKCUnbzXmHw"
+    },
+    {
+      "termino": "lluvia",
+      "trafico": "200+",
+      "noticia": "Temperaturas en Bogotá: prepárate antes de salir de casa",
+      "enlace": "https://www.infobae.com/colombia/2026/10/23/temperaturas-en-bogota-preparate-antes-de-salir-de-casa/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTunWZHc-lpPcWVOBe8kAbKSsvVvnY0oupFGtNUaW1BvgKT-LHx-xjTsAJPMCs"
+    },
+    {
+      "termino": "weather",
+      "trafico": "1000+",
+      "noticia": "Network Rail slows trains on Scottish main lines for Friday rain",
+      "enlace": "https://www.railway.supply/network-rail-slows-trains-on-scottish-main-lines-for-friday-rain/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRqTyNgI2kPCRN1tydfmxoy3g1kPlD41P34qmwnNvlxHrn6b_ax6FQ9_z7kpo"
+    },
+    {
+      "termino": "météo",
+      "trafico": "500+",
+      "noticia": "Tempête Austen : vents violents ce vendredi sur le Nord-Ouest du pays",
+      "enlace": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX35NmarapY_h03_p9a0hp6Cw7uEHTs1Ebnq7X4igOEWdh7A78XfCy0hfldxE"
+    },
+    {
+      "termino": "clima",
+      "trafico": "20000+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, jueves 22 de octubre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-jueves-22-de-octubre-de-2026-9775120.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
+      "termino": "terremoto",
+      "trafico": "10000+",
+      "noticia": "Terremoto de magnitud 5,0 sacude Japón hoy: epicentro frente a Iwate y preocupación por posible tsunami",
+      "enlace": "https://dsn.pe/terremoto-de-magnitud-50-sacude-japon-hoy-epicentro-frente-a-iwate-y-preocupacion-por-posible-tsunami/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6gB2-amowIfQ27KIPNspB2KyAa9qd74JQgG-gI7McciNTW34WyHIB7RQJvzk"
+    },
+    {
       "termino": "v. j. edgecombe",
       "trafico": "100+",
-      "noticia": "LeBron James gives 76ers teammate VJ Edgecombe bloody nose via accidental elbow",
-      "enlace": "https://sports.yahoo.com/articles/lebron-james-gives-76ers-teammate-013221959.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7NtiuXpLxP2mpoVYJm53SMzkfx63Uae7e0CkotTyUbOPBAtGCVYro4l3dElk"
+      "noticia": "Watch LeBron James Give VJ Edgecombe Bloody Nose After 76ers Teammates Collide in Viral Video",
+      "enlace": "https://bleacherreport.com/articles/25519236-watch-lebron-james-give-vj-edgecombe-bloody-nose-after-76ers-teammates-collide-viral-video",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS6xPP_bHtDiUsbQe75O9RZCDxf9v_HheDpezYuiN0YeGM5t43TQpjzO3Ayys"
     },
     {
       "termino": "alerta",
-      "trafico": "1000+",
-      "noticia": "El COE advierte sobre aguaceros muy fuertes y posibles granizadas mientras eleva alerta en el país",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/22/el-coe-advierte-sobre-aguaceros-muy-fuertes-y-posibles-granizadas/3697178",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY1F0g7mHP1P4eAJhQbXXPqf4ImN3gmmpnQz0VfUCxnan2Hj9HkItyKovB-QM"
-    },
-    {
-      "termino": "thunder - nuggets",
-      "trafico": "1000+",
-      "noticia": "Nuggets face tough road test against Thunder in season opener",
-      "enlace": "https://www.cbssports.com/nba/news/nuggets-face-tough-road-test-against-thunder-in-season-opener/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgOGMArS6PH30IOWheCtlaAYYGwj5xJhj7q8v1fEXFmKzJYiG4m1RFWsbgtIY"
-    },
-    {
-      "termino": "crecimiento económico",
-      "trafico": "200+",
-      "noticia": "Cepal reduce a 2 % proyección de crecimiento de América Latina en 2026",
-      "enlace": "https://elnacional.com.do/economia/cepal-reduce-2-proyeccion-crecimiento-america-latina-2026_584181.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIse-oZ_IDZ-gC-IvmUuQErjB9BXXOV5kPYA7_MQ4hFPQb-poq8i77bMLg5s4"
-    },
-    {
-      "termino": "76ers - cavaliers",
       "trafico": "5000+",
-      "noticia": "76ers 114-106 Cavaliers (Oct 22, 2026) Game Recap",
-      "enlace": "https://www.espn.com/nba/recap?gameId=401909093",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDdh7daQa4G1n4C_uNIA_4o2Z52RqyyEuUK3x3eB57KACeCx5uSFjclajn3A"
-    },
-    {
-      "termino": "posiciones de lillestrøm sk contra real sociedad",
-      "trafico": "100+",
-      "noticia": "🚨 Line-up confirmed: Real Sociedad must win in Norway",
-      "enlace": "https://sports.yahoo.com/articles/line-confirmed-real-sociedad-must-175100359.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ2gMrtjmPhVUuVxJb-xIUFdVtisOdKIxSGuUREVcXAOQZgpZfhIl1rLsDlfk"
-    },
-    {
-      "termino": "dinero",
-      "trafico": "5000+",
-      "noticia": "Gastar un dinero depositado por error en tu cuenta puede llevarte a la cárcel",
-      "enlace": "https://elnacional.com.do/nacionales/judicial/gastar-un-dinero-depositado-por-error-en-tu-cuenta-puede-llevarte-a-la-carcel_584179.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaDA6VZSimnoKz83mhyTrG7k8RAllBIDL2QQRLWhyXXzB9FjgY74H7wbBP7I"
-    },
-    {
-      "termino": "bournemouth - milan",
-      "trafico": "100+",
-      "noticia": "Bournemouth sweep aside 10-man Milan in Europa League",
-      "enlace": "https://www.bbc.com/sport/football/live/cq0ld6p0xy09t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVNUNSgklBpqrAkovzO1k1mB4fjTiK9-uPgKRk03Jyku7bhapxmw5RRp9PrA"
-    },
-    {
-      "termino": "inundación",
-      "trafico": "200+",
-      "noticia": "Un reportero se lanza al agua a salvar a hombre de una inundación en pleno directo",
-      "enlace": "https://elnacional.com.do/mundo/reportero-lanza-agua-salvar-hombre-inundacion-pleno-directo_584126.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbakzRa70huL75TaoYTgX8g4flj2BKqo1_KeWC6ATh3FN_gn2wSHD7Zy7zlmU"
-    },
-    {
-      "termino": "chubasco",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "Incrementan a 25 las comunidades en alerta por vaguada",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261022/incrementan-25-comunidades-alerta-vaguada_927204.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8WMIUXYYQlXimzJpH1_awJQR5yvHCCY5jU0CdLgQb2CP-US4p2LDYxtGhWcE"
     }
   ]
 }
