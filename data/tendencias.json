@@ -1,44 +1,51 @@
 {
-  "updated": "2026-10-24T13:51:12.571989-04:00",
-  "hora": "13:51",
+  "updated": "2026-10-24T14:11:37.201425-04:00",
+  "hora": "14:11",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "ufc",
+      "trafico": "100+",
+      "noticia": "Abdul Rakhman Yakhyaev: UFC Record, Stats and Profile",
+      "enlace": "https://fightomic.com/abdul-rakhman-yakhyaev-profile/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUSojB0qZE4EGDO7PXW_LYslUwuWotjjd2rAB-G7hxd2l1cJLhxHmc0CwiSlA"
+    },
+    {
       "termino": "valencia c. f. - villarreal",
       "trafico": "100+",
-      "noticia": "Aguirre: Al equipo le falta ganar y tener continuidad en el juego pero está bien de ánimo",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/aguirre-equipo-falta-ganar-continuidad-122252558.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Q2pKfkBP8zkcTcNTlBx3_YWK_IXszujcmXO_FL69GvrJw7to3KUWXEaS-aw"
+      "noticia": "Pepelu rompe su maleficio en el Valencia CF - Villarreal CF: las estadísticas de sus 15 penaltis",
+      "enlace": "https://www.superdeporte.es/valencia-cf/2026/10/24/pepelu-rompe-maleficio-valencia-cf-135721294.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo5Uy-ohydmA29bifv6jY1BYdwJMXUh4BPtbCWs6kIPZuO5zxIvWsHrbpsLo"
     },
     {
       "termino": "chelsea - tottenham",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Chelsea vs Tottenham: Key statistics and facts | News | Official Site",
       "enlace": "https://www.chelseafc.com/en/news/article/chelsea-vs-tottenham-key-statistics-and-facts-26-27",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNTBmDBLWkVvjinooGRM3RmuFjdo1FsNvFsXUtzKlsuxBgGGLuojdHl1GmHFw"
     },
     {
       "termino": "napoli - roma",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Napoli-Roma, Gollini tocca il pallone col braccio fuori area: Marelli spiega perché non è rosso | DAZN News Italia",
       "enlace": "https://www.dazn.com/it-IT/news/calcio/napoli-roma-gollini-braccio-fuori-area-rosso-moviola-live-marelli-dazn/h8bzdzi8pp7w1febz7i5a43ox",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQYVt116mmKASQmkrNJGY_BwaR3IJTBwnXuKKtTflIEC1i8NHYVt8KeLrgjWU"
     },
     {
       "termino": "arsenal - everton",
-      "trafico": "1000+",
-      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXdYM-kCn5YB4MeGhqXYTmy_837R20HdHRK2Ck28n540cdIHXHRlzY-Z0YC4"
+      "trafico": "500+",
+      "noticia": "BBC journalist reveals what left David Moyes furious during Arsenal vs Everton",
+      "enlace": "https://www.livescore.com/en/news/football/premier-league/bbc-journalist-reveals-what-left-david-moyes-furious-during-arsenal-vs-everton-caughtoffside/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXIug8SAjff9ziBRFqXedwSfwCNEOVbsIyGzp27wMXva05WPn2NLV-JDzVIP0"
     },
     {
       "termino": "florida",
       "trafico": "100+",
-      "noticia": "Florida Retirement Hotspots Cheaper To Own in Than Rent",
-      "enlace": "https://www.moneylion.com/trending/money/popular-florida-retirement-destinations-cheaper-to-own-than-rent",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpzyAfYRwW7L4ivJ6yYgoSEUTp5CUTionwjtosoKZHGXEAOmX0KHlYL7-NpPM"
+      "noticia": "The Insurance Bill Was Supposed to Empty Florida of Retirees. The Ones Who Stayed Know Why It Didn’t",
+      "enlace": "https://finance.yahoo.com/real-estate/articles/insurance-bill-supposed-empty-florida-174359339.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5sERyjmVr2p_PcT5yLGDj4AsZ5PvjOQDwKpzJxwRrdVqIfd5iTpuz933cq3o"
     },
     {
       "termino": "rayo vallecano - elche c. f.",
@@ -48,11 +55,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR2PUcMAkydCN-Wn5mgdczAYc_MP93wM-eWDxLk_AtzyMHbSnXjVo_dgSm5E0"
     },
     {
+      "termino": "premier league",
+      "trafico": "500+",
+      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0J1WjNB2V6UGZNrNZnX0IMqBof7GIe1-gAw7IyHwtxWSVoMXfOcvYY2jOzdQ"
+    },
+    {
       "termino": "puente",
       "trafico": "200+",
-      "noticia": "Cierre del puente de Real de Gandia por riesgo de colapso tras la DANA",
-      "enlace": "https://cadenaser.com/comunitat-valenciana/2026/10/23/cierre-del-puente-de-real-de-gandia-por-riesgo-de-colapso-tras-la-dana-radio-gandia/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4OcGTPluGNKGCwYwqbFwith93C_UnXXMsFYa6odLL0262LYdu3MzJhxhJ2Io"
+      "noticia": "Kim Jong-un viaja a China por un puente recién inaugurado, según Seúl",
+      "enlace": "https://www.dw.com/es/kim-jong-un-viaja-a-china-por-un-puente-reci%C3%A9n-inaugurado-seg%C3%BAn-se%C3%BAl/a-79749031",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYFyWdWsZAPX-EV2_U1o-nl7Wunc3LWid0GnxOy3Jht8OrpTD9Bi80HIzRio"
     },
     {
       "termino": "aston villa - manchester city",
@@ -60,20 +74,6 @@
       "noticia": "Man City lose 100% Premier League record with defeat at Aston Villa",
       "enlace": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFqF9FH8uOPUIcmitNpHMbpiVwY0s3OfdsNNjSB26bQ_tq6bROOGgWaZaK3I"
-    },
-    {
-      "termino": "météo",
-      "trafico": "500+",
-      "noticia": "La météo à La Rochelle du samedi 24 octobre 2026",
-      "enlace": "https://www.sudouest.fr/charente-maritime/la-rochelle/la-rochelle-meteo-du-samedi-24-octobre-2026-31214420.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLv2n0zwDOcea7UdiiG46Ru_2KwQg5KjlNJmxb4C072tzNVu0MwIKtYRY5acY"
-    },
-    {
-      "termino": "kings - trail blazers",
-      "trafico": "100+",
-      "noticia": "Doug Christie ‘drastically needs  Kings  consistency on defense to improve",
-      "enlace": "https://sports.yahoo.com/videos/doug-christie-drastically-needs-kings-074529143.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGIN6Syj9E7lrkP-33BwhoqgtuI9gs075P8SNhFRu6-KCsGXGuI3f_86vrYw4"
     }
   ]
 }
