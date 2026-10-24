@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-24T16:13:58.507710-04:00",
-  "hora": "16:13",
+  "updated": "2026-10-24T16:34:16.848420-04:00",
+  "hora": "16:34",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "escuela",
+      "trafico": "100+",
+      "noticia": "INEFI inaugura su aula de psicomotricidad número 15 y proyecta llegar a 22 en 2026",
+      "enlace": "https://ciudadoriental.com/inefi-aula-psicomotricidad-numero-15/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA1pKw1kfnxYn2Wgo2vY-GitcvmbmWSNEAHAc-F1XGoJ6YB3MKNnjmiH8aUK8"
+    },
     {
       "termino": "vaguada",
       "trafico": "500+",
@@ -29,20 +36,20 @@
     {
       "termino": "ufc",
       "trafico": "200+",
-      "noticia": "Islam Makhachev reportedly out of planned UFC 336 main event with new options being explored",
-      "enlace": "https://bloodyelbow.com/2026/10/23/islam-makhachev-reportedly-falls-out-of-ufc-336-main-event-with-new-options-being-explored/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9MsX8wyY4LsJedUBu3Hwp1AQL2c2MbTJwdWWJV7qdIrLeOMLiX_sqsMKcCo"
+      "noticia": "Carlos Prates reacts to Islam Makhachev s reported UFC 336 withdrawal with iconic Nate Diaz moment",
+      "enlace": "https://bloodyelbow.com/2026/10/24/carlos-prates-reacts-to-islam-makhachevs-reported-ufc-336-withdrawal-with-iconic-nate-diaz-moment/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkFdv4HdeP217AoOQDWCrJsO5N73--DSOiFPFar0GNjnbbsRmdVC3a60Qqwo"
     },
     {
       "termino": "resultado de la real",
       "trafico": "200+",
-      "noticia": "Andrés Feliz anota 18 puntos, Real Madrid supera al Maccabi Tel Aviv en Euroliga",
-      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261023/andres-feliz-anota-18-puntos-real-madrid-supera-maccabi-tel-aviv-euroliga_927251.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8GnKOq8BFA27k8rwkFWGbfS3lGqoMUJ7q6WJgx48agD6AyGmJ6uD2ip89Do"
+      "noticia": "Martínez: “El momento clave fue cuando Luwawu-Cabarrot empezó a anotar”",
+      "enlace": "https://as.com/baloncesto/euroliga/pedro-martinez-el-momento-clave-fue-cuando-luwawu-cabarrot-empezo-a-anotar-f202610-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbwbyKUGpSP1um4MObfprnPCQ65b2GFJcXgYVPUETgAa_beo2P3BEtchtjIHQ"
     },
     {
       "termino": "valencia c. f. - villarreal",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Valencia 1-2 Villarreal: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/primera/valencia-villarreal-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAag5EQz22qom_y9QWbITkYT2I0IaWLMV7rAhqijCDeKuOncr3NFIVXOxiak"
@@ -57,23 +64,16 @@
     {
       "termino": "napoli - roma",
       "trafico": "500+",
-      "noticia": "Doppiette di McTominay e Balerdi, Allegri espulso: Napoli-Roma show",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/24-10-2026/napoli-roma-live-gol-e-risultato-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfJgxeP-0S7XXKa9PkkgtOkE0FbVyrwMUxZTl9HPD3Hxg9VM0skfmF4Oxe4A"
+      "noticia": "Furia Allegri:  Ogni volta che mi muovo vengo espulso. Ho cambiato modo di giocare, ora tutti all attacco",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/24-10-2026/allegri-napoli-roma-polemica-parole-conferenza.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo8p2RVk4X5GqarWDJ6QHrjabhMIBu2cu6s7u6KWWYOjPc5MyGyF3hewQBYDg"
     },
     {
-      "termino": "arsenal - everton",
-      "trafico": "500+",
-      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXdYM-kCn5YB4MeGhqXYTmy_837R20HdHRK2Ck28n540cdIHXHRlzY-Z0YC4"
-    },
-    {
-      "termino": "florida",
+      "termino": "trevor bauer",
       "trafico": "100+",
-      "noticia": "Florida-breds Put in Final Works for Breeders’ Cup Sprint",
-      "enlace": "https://www.ftboa.com/florida-breds-put-in-final-works-for-breeders-cup-sprint",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDSaZVCXF9O6Zw1ZNvhXdX-I2j0Vql9xxxwPPrHop9ce9jxd4ly9OdSEsl5Ws"
+      "noticia": "Trevor Bauer debutará ante Águilas",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/10/22/lidom-trevor-bauer-debutara-ante-aguilas/3697733",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXjX8-K-M68zb0zbfHWcIc89L4MigRcpNh1OGL_ylxuYYlUtzmDSwyxCht674"
     }
   ]
 }
