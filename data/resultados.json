@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T12:49:49.301554-04:00",
+  "updated": "2026-10-24T12:59:15.991655-04:00",
   "fecha": "24/10/2026",
-  "hora": "12:49",
+  "hora": "12:59",
   "total_juegos": 53,
   "juegos": [
     {
@@ -169,9 +169,9 @@
       "compania": "Loteria Real",
       "juego": "Tu Fecha Real",
       "numeros": [
-        "12"
+        "01"
       ],
-      "fecha": "2026-10-23T04:00:00.000Z",
+      "fecha": "2026-10-24T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ba"
     },
     {
