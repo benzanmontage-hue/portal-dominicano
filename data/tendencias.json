@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-24T15:53:32.075477-04:00",
-  "hora": "15:53",
+  "updated": "2026-10-24T16:13:58.507710-04:00",
+  "hora": "16:13",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "vaguada",
+      "trafico": "500+",
+      "noticia": "Vaguada provocará aguaceros este sábado; cuatro provincias siguen en alerta",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/24/el-clima-en-rd-estara-dominado-por-una-vaguada-este-sabado/3699123",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQszoiw8JJU9gA1WjmDgYrClOgnYuV-r2yOC_aWr3zKEz4YfwyG2AtzDS23U_c"
+    },
+    {
       "termino": "haití",
-      "trafico": "1000+",
-      "noticia": "Ejército envía refuerzos a Jimaní ante tensiones en Haití",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/23/ejercito-despliega-militares-tras-crisis-en-haiti/3698859",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTownWBaSyxiiKbUoUmQjZV4jPsfqabErgMzw_0Soi5hCykG1L3EW6XmswmJ74"
+      "trafico": "200+",
+      "noticia": "Exjefe militar haitiano advierte de poca posibilidad de éxito de contingente salvadoreño",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/23/contingente-militar-de-el-salvador-llega-a-haiti/3698777",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREDQSFYyzoC23Lrg5mJkT9pFygF76Ou8o-yMnvTbGyZFhVADOO2ZaqGM09YGI"
     },
     {
       "termino": "atlético madrid - deportivo",
@@ -22,9 +29,9 @@
     {
       "termino": "ufc",
       "trafico": "200+",
-      "noticia": "UFC 333 LIVE results: Volkanovski vs Evloev start time, card and fight updates tonight",
-      "enlace": "https://www.independent.co.uk/sport/ufc/ufc-333-volkanovski-evloev-live-stream-updates-b3072757.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cdUYf3tg7n5nyaCdk5tlv8805jYOwxTYlA6tQgaVyMO2KuAqoPeThXNu3zM"
+      "noticia": "Islam Makhachev reportedly out of planned UFC 336 main event with new options being explored",
+      "enlace": "https://bloodyelbow.com/2026/10/23/islam-makhachev-reportedly-falls-out-of-ufc-336-main-event-with-new-options-being-explored/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9MsX8wyY4LsJedUBu3Hwp1AQL2c2MbTJwdWWJV7qdIrLeOMLiX_sqsMKcCo"
     },
     {
       "termino": "resultado de la real",
@@ -42,7 +49,7 @@
     },
     {
       "termino": "chelsea - tottenham",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
       "enlace": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQL2oYM0hY6DwySmZruCP1bK55yYkLP8HCFnRh6qx3gis8medXIsBDrHKz-g"
@@ -50,30 +57,23 @@
     {
       "termino": "napoli - roma",
       "trafico": "500+",
-      "noticia": "Doppiette di McTominay e Balerdi, Allegri espulso: Napoli-Roma show. Ma ora Inter e Lazio possono allungare",
+      "noticia": "Doppiette di McTominay e Balerdi, Allegri espulso: Napoli-Roma show",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Napoli/24-10-2026/napoli-roma-live-gol-e-risultato-in-diretta-serie-a.shtml",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfJgxeP-0S7XXKa9PkkgtOkE0FbVyrwMUxZTl9HPD3Hxg9VM0skfmF4Oxe4A"
     },
     {
       "termino": "arsenal - everton",
       "trafico": "500+",
-      "noticia": "Premier League LIVE: Reaction as Tottenham win at Chelsea in the Premier League.",
+      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
       "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-hoCxztjxjxKhrCU4KLrFJL5NlEAZshExS0gH752Nl2PPAC7hViYoWWgOtY"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXdYM-kCn5YB4MeGhqXYTmy_837R20HdHRK2Ck28n540cdIHXHRlzY-Z0YC4"
     },
     {
       "termino": "florida",
       "trafico": "100+",
-      "noticia": "Central Florida Defendant Sentenced for Violating Probation",
-      "enlace": "https://westorlandonews.com/central-florida-defendant-sentenced-for-violating-probation/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWNLBoDicKzbzYvzyhcdG2tSBDnFI3BRpn0OacbYEKl8Pr-oXKI4DNI9P_xdw"
-    },
-    {
-      "termino": "rayo vallecano - elche c. f.",
-      "trafico": "200+",
-      "noticia": "Rayo - Elche | Resumen, resultado y goles del partido de LALIGA EA Sports",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/rayo-elche/2026/10/24/01_0101_20261024_184_954-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR2PUcMAkydCN-Wn5mgdczAYc_MP93wM-eWDxLk_AtzyMHbSnXjVo_dgSm5E0"
+      "noticia": "Florida-breds Put in Final Works for Breeders’ Cup Sprint",
+      "enlace": "https://www.ftboa.com/florida-breds-put-in-final-works-for-breeders-cup-sprint",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDSaZVCXF9O6Zw1ZNvhXdX-I2j0Vql9xxxwPPrHop9ce9jxd4ly9OdSEsl5Ws"
     }
   ]
 }

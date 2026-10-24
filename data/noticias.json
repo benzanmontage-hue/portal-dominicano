@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T15:53:41.835411-04:00",
-  "hora": "15:53",
+  "updated": "2026-10-24T16:14:00.249421-04:00",
+  "hora": "16:14",
   "fecha": "24/10/2026",
   "total": 15,
   "noticias": [
@@ -21,6 +21,14 @@
       "imagen": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/ES-PLA-local/2026/Compania/DOMREP-Evergo-Fest-2026/PLA26_3314.jpeg/jcr:content/PLA26_3314.jpeg"
     },
     {
+      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Esta es la tasa para este sábado 24 de octubre - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0E3TUhBWUVKenFTbGJEYW9SN3lzNTEyclNvaWxVRjFLamtkbkJMa2NjNlVCRW9seURzZ0RJM1BQV1ppd211X0FTNm0yWHZ3RmFoTUlGSzZvOEgzNkI2VHJTT1N3bUUyZU1qWHhxcjFHMkxXSUtIaDkzNEJaNUNkcHVBd0FGV0tsYi15UDRlSmZpX0pKVkpJS3Bn0gGfAUFVX3lxTFBMaXZyMGlid2VUWnpENENfR29OdVNTOVBiNEphVkhuWXVNR3J5RTNzZkpuVTg2Z2JDdXQ1ZXZtN25haENycWxZR3JKX0F6S2JkdzZmWFhFUDloMlFrbl8wMGFBZ0RSNGs2WEpQcWFqTjdtbnJqWE9VRDdnbnFDV3BsbmFnbFdHc1RZOUREYkkxYlFNUmE3NlBXQm5rT01IWQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 12:30:00 GMT",
+      "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/12/12/693c198470bf4.jpeg"
+    },
+    {
       "titulo": "Chile expulsa este viernes a 11 dominicanos - Listín Diario",
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t1RW1Uc0lwbG9KN19sZlBjZU51aUhEcVdLQi1LM3ZZY0tVVC0yXzA4YXUwRmcxZzgwZUVIWUdFdGZITkxycC05dW84cHpQeDhqNWVqdWl1eXl1YUZ2WC1YTUdJMm90TmdURUk3dXJpcjcyNHRWZGlBMFZXaHhvZjlrSHRWekRObW1LTGp2V0JBRlN1cjYzTWpyOWHSAaIBQVVfeXFMTWdXMHpNTmVrN0xVVWJZeFRscThQUUpkZWlxVWEyRi1JMF90OHBXa1lFako0M0xIaDJPeUZyR2pvbVlTajBXRVUzY09ob09DSV8yZlAyZzUzS0g2Yl9qR1N0Q0Z4OTVVUW1QTTZPV3ZrdWJVVUVkaGp5SGFmcmtsdEthV0FxRnRxWmhpNEhxV2NTc1RmRjhlbWlVUURyWV9MMUlR?oc=5",
@@ -37,35 +45,11 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2024/05/AFP.-Jimani-OG.jpg"
     },
     {
-      "titulo": "PARLACEN inaugura Galería de Presidentes en su subsede de República Dominicana - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTllZM3pUUUZ4NFBWcmctMG01dnlsR0Jsb3RlZGRPZU5CbE1HUlNPa2FUaXhYRUtnamhaWUxpeFlURmhzNGhvS1N6b3hCTjB6cklYOEk5bkVORExJd2FHb2FGeFFUM29OMHVjMnhJcHVEdVB3Z0N4bk0yNHVBdUQ5SV9qTzVxd0YxYnc4Q2laeWgxN0JXSkxNcFNYeFRxNjZLY1ZsdFYxTklLbzhL?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 24 Oct 2026 16:39:55 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "titulo": "El propósito del Centro Cultural Rainieri: dejar huella en dominicanos y visitantes - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXJSZk5ZdXVKeS15YW43ZVRMbXkzTnU2clJzVjVVbFgwc2hUSTh4WVM3RzBLUWljT0ZwRWlNVk5NQmZSWF9kbndpSE05NHBRRzVvQUhtN1RYdDJCMFJWeDdvMXQwUnB1Q2R3UlBLeWZPOURiaU1hT2hJYUxsWXctTkEwaTRPd0NVMUZfTDFRY1VNTG8wbk9RMk5jQS1IbGUybGNSUEE0aFBNLWlNTGxVektEMHl2Y29ZT1HSAb8BQVVfeXFMTi1nRTRQN01YVmVHeHppcHh2SGtVUFlfQzh4bHFpa2JrU1ZSM2VYM0pVSnM5bHJ2R3M0M0l2WTI2SHc5R3NROG8zc0J4Yk92NGpJZk81RWJaM19QWWNsaEJUY2I0UkxkYklVTVBUcnZZaDNrWVhqQnBYR2djWkU3aTVuUFFidkxET1VGNU1PZGxpb3czYjNzRE0wcHdfTG5XazEtR1ppSy14dDNJSTlfRmxzenVRdzE0b3pPZnZ2RUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 23 Oct 2026 17:39:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "titulo": "Pelota Invernal: Tabla de posiciones - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qOUp3NnptSFdFbnd4ZFd0WERDWTc2ZXdpR3hNZGFjaHJIc2Nsa0VXN01jcUZhbDN2WUhoVjBMdnBCZXgxMWxnRmNyS0JlZlZublJiZ2hhMmVZNFN5TFJnSE1XX1JycEpQSW9HYXpwaWdpSHV5ZjhIeHVB0gF_QVVfeXFMTm1SbU5RWm9NbGUzM19EY3V1Qlg0WWlqdFlWejkwSnljQ2RJeUttejBLeFR2MVlObWNLcHBwNUVmci1Ma2RwSmozQnZJWWhuNlhKXzZ5Y01sMnVPR1F0c1RSZTIxdTN0TkYyZjNxLTlpOXNhaElhZGszN091Wk5qTQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 24 Oct 2026 13:17:56 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dólar bajó otros 18 cts. y el euro 22 en la República Dominicana - AlMomento.net",
+      "titulo": "Advierten que ofensiva contra bandas Haití podría cruzar a RD - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX3YxQnJFLXRBMjcxR1dFQTFzS2NqdXpud0NBYzFXYVpnd1pFTk03SGFGQy1KaEVaRldPb0xRRkNQa0UxQkV4RzRxTUtqS09OVTR3STRPOXYzaW9zWnBaNXNCcm1aM1BUbDMtWl9JNnMyYjFGZTB4N0ppSVpWQXpzTFRqMlZfcWVmejBR?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU29wZ3FOOUxQclpkeVh5VVBwYzFmSW8tQ0RmNnY0ZTBPZmM3azlEX3ZsS1RlczZidW9fOXR3MGZKeFhDcm4zY2VsdlpCTEx3RkpXXzFTS2RhdTF2cnpjU1pGTS1Penc4TUhwcFptNWIzMDEwOGZ1YVNRN3BrT29kRjdRWmFKa2tXLXVEaQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 23 Oct 2026 11:51:14 GMT",
+      "fecha": "Sat, 24 Oct 2026 11:58:30 GMT",
       "imagen": ""
     },
     {
@@ -77,6 +61,30 @@
       "imagen": ""
     },
     {
+      "titulo": "PARLACEN inaugura Galería de Presidentes en su subsede de República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTllZM3pUUUZ4NFBWcmctMG01dnlsR0Jsb3RlZGRPZU5CbE1HUlNPa2FUaXhYRUtnamhaWUxpeFlURmhzNGhvS1N6b3hCTjB6cklYOEk5bkVORExJd2FHb2FGeFFUM29OMHVjMnhJcHVEdVB3Z0N4bk0yNHVBdUQ5SV9qTzVxd0YxYnc4Q2laeWgxN0JXSkxNcFNYeFRxNjZLY1ZsdFYxTklLbzhL?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 16:39:55 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "titulo": "Pelota Invernal: Tabla de posiciones - Remolacha",
+      "fuente": "Remolacha",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qOUp3NnptSFdFbnd4ZFd0WERDWTc2ZXdpR3hNZGFjaHJIc2Nsa0VXN01jcUZhbDN2WUhoVjBMdnBCZXgxMWxnRmNyS0JlZlZublJiZ2hhMmVZNFN5TFJnSE1XX1JycEpQSW9HYXpwaWdpSHV5ZjhIeHVB0gF_QVVfeXFMTm1SbU5RWm9NbGUzM19EY3V1Qlg0WWlqdFlWejkwSnljQ2RJeUttejBLeFR2MVlObWNLcHBwNUVmci1Ma2RwSmozQnZJWWhuNlhKXzZ5Y01sMnVPR1F0c1RSZTIxdTN0TkYyZjNxLTlpOXNhaElhZGszN091Wk5qTQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 13:17:56 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vaguada provoca aguaceros y tronadas hoy en Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGNHbnk1V3ZVT1o2aGFHX29pcWtVWGZudjRVT3B4bUdFbENuSFVvVkszeGFNZEdyLU1OMU5WU0xPX1doak9fb2ltdk8xSUp2MlZsMlFpcmtuaEpFeDdxOWd5ckhJR0NaNmR1S2d2XzhGcC1kdkVweGhYbDVobEtYUUUzYw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 14:33:11 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Crece 34.9% la llegada de mexicanos a República Dominicana: Arajet - El Sol de México",
       "fuente": "El Sol de México",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFcyeXJ4eFB3eE9EVlQzaEpfYXBKVDBueThLYjBRZXYxcmZuN2REX3p6VHg3a1lTUDNNX3NXUFM3MTZoMEljbDh6MEVQWXBianZFYlNaandTMU5aTmxabS1WZDFVYjJfUUtFcG01bFRPSVFtaVVqLTlYYS1hNE9pYzgwUnJ1bHRKNVRGQmtXRkY1REc1NmhRLWNyZmNTTUFHSGNEblUwckRsSjA?oc=5",
@@ -85,12 +93,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
-      "fuente": "PGA Tour",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm9FaHFUUDhTSmtjRkdZbG1qam44QlJLYXdhaC1XblphSmRaay1QNWU1Y0RJM1R1Wkc5T1c5eTJyU0E0VHlyLUUxcTlhWHhtcVB0Rkp2aUloNHY3M25LVndDSDNhRDY4ZGUxVHFJMjdndjVCanQwdVljbkRFbk1GQTRySEVsMlNOcUgzSW1uZXJ4NDRWZTloeHg4M2ZhSHVoNDZVTUFXZ3hFSlA4SmpyVTdrVGVEZXhUa0Vsa1R2cw?oc=5",
+      "titulo": "Joan Leyba destaca la importancia comercial de Haití para República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmdFeXVua1hiUmstcmxHeXliSV9GOXkxbEd4MDVoZ0dRYmpnRWdONm5FLURvVDBQSUMtWHloTXh4RGtrWnhvcS1WYjFGWlVJRUtxNDVvT1Q0R1hUajllWjFPUHk2MzZiMzlxZ0pycWhuNjRDcXpta1ZWYTd2N0oxa0ZibWZ5YnlLMHpTeWlSR1gwN1NHTnZhNHJKRVJqd0lzdDQxTktRRXVLaEVy?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 19 Oct 2026 02:31:13 GMT",
-      "imagen": ""
+      "fecha": "Sat, 24 Oct 2026 16:03:20 GMT",
+      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-24-114842.jpg"
     },
     {
       "titulo": "Milwaukee es el favorito de los expertos, pero el fanático dominicano tiene otros motivos para elegir. El talento de los nuestros y el orgullo de verlos competir en el escenario más importante pesan en esa decisión. ⚾️El poder de los Gigantes El dato refleja u - Instagram",
@@ -109,20 +117,12 @@
       "imagen": "https://www.infobae.com/resizer/v2/PT4DBI422JDGTJWWY2SKVMSWK4.jpeg?auth=f35024cad789e7c3c4ab2de9f4877f3f986e44d84607cfc00ca4cde39e19c632&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
-      "fuente": "ProPublica",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
+      "titulo": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas - BBC",
+      "fuente": "BBC",
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRFpPa3Z4RDNWd0pWc1RjZDNIcDdtWUhVM2dlWHFyU3NKalFBVFk1c3REZlAxUUVjelpRQU1iS0Y4cnBSYVVNd2UyT25DRlFkaHdOWHFDSUppYms1?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "imagen": "https://www.propublica.org/wp-content/uploads/2026/09/20251021-Gregory-DR-Baseball-0113-1_maxHeight_3000_maxWidth_3000OG.jpg?resize=2000,1050"
-    },
-    {
-      "titulo": "Votación para ciudadanos estadounidenses desde la República Dominicana - U.S. Embassy in the Dominican Republic (.gov)",
-      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 20 Oct 2026 01:27:06 GMT",
-      "imagen": "data:image/png;base64,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"
+      "fecha": "Fri, 23 Oct 2026 19:47:36 GMT",
+      "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1431/live/325322c0-cef3-11f1-accf-3309656ad0bb.jpg"
     }
   ]
 }
