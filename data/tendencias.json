@@ -1,30 +1,44 @@
 {
-  "updated": "2026-10-24T14:32:01.162992-04:00",
-  "hora": "14:32",
+  "updated": "2026-10-24T14:52:22.809339-04:00",
+  "hora": "14:52",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "atlético madrid - deportivo",
+      "trafico": "200+",
+      "noticia": "🚨 ONCES del Atleti-Deportivo: ¡Giuliano y Jonathan David descansan!",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/onces-atleti-deportivo-giuliano-jonathan-174300454.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjBeS4H8SzBd5ECPl7RwFIJkJ1FOLAa3gKE80oTiIgJUgKja3iympFtf_h6tY"
+    },
+    {
       "termino": "ufc",
       "trafico": "100+",
-      "noticia": "UFC 333 predictions: Volkanovski and Evloev priced as a coin flip in Abu Dhabi",
-      "enlace": "https://news.kalshi.com/p/ufc-333-predictions-odds-volkanovski-and-evloev",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3-mxbmpDHemh4mbW5hJ1j6qYhdpTv6w6FMQ5grYWTnem6bXpA_Aysgms56M"
+      "noticia": "Rizvan Kuniev Pranks Alexander Volkov With Birthday Cake",
+      "enlace": "https://mmasucka.com/news/rizvan-kuniev-celebrates-alexander-volkovs-birthday-by-writing-a-loss-into-the-cake/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3AW_SU4nVlJEfBodWO1ZsZaYFtRopHCJy8yC7OBmXj4QgeWmsNadpuCIDU0o"
+    },
+    {
+      "termino": "resultado de la real",
+      "trafico": "200+",
+      "noticia": "Andrés Feliz anota 18 puntos, Real Madrid supera al Maccabi Tel Aviv en Euroliga",
+      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261023/andres-feliz-anota-18-puntos-real-madrid-supera-maccabi-tel-aviv-euroliga_927251.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8GnKOq8BFA27k8rwkFWGbfS3lGqoMUJ7q6WJgx48agD6AyGmJ6uD2ip89Do"
     },
     {
       "termino": "valencia c. f. - villarreal",
       "trafico": "200+",
-      "noticia": "Aguirre: Al equipo le falta ganar y tener continuidad en el juego pero está bien de ánimo",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/aguirre-equipo-falta-ganar-continuidad-122252558.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Q2pKfkBP8zkcTcNTlBx3_YWK_IXszujcmXO_FL69GvrJw7to3KUWXEaS-aw"
+      "noticia": "Valencia - Villarreal en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/valencia-villarreal/2026/10/24/01_0101_20261024_191_449-directo.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS83qy7_7_kzrWzg3uFlEX4Xu83L2LTqbwI8uFjW9xTQR-___sgKhJaTJB_Cw"
     },
     {
       "termino": "chelsea - tottenham",
       "trafico": "200+",
-      "noticia": "Chelsea fans’ preferred lineup against Spurs: Never change a winning lineup",
-      "enlace": "https://weaintgotnohistory.sbnation.com/premier-league/173337/chelsea-fans-preferred-lineup-against-spurs-never-change-a-winning-lineup",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpzFs_u8KFr_pDHZEg64ZMxtffwbEQV1zBEu_4mQYQTCP6ULXxfQrolXXsqXE"
+      "noticia": "Chelsea vs Tottenham: Key statistics and facts | News | Official Site",
+      "enlace": "https://www.chelseafc.com/en/news/article/chelsea-vs-tottenham-key-statistics-and-facts-26-27",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNTBmDBLWkVvjinooGRM3RmuFjdo1FsNvFsXUtzKlsuxBgGGLuojdHl1GmHFw"
     },
     {
       "termino": "napoli - roma",
@@ -43,9 +57,9 @@
     {
       "termino": "florida",
       "trafico": "100+",
-      "noticia": "Florida leads national snowbird rankings",
-      "enlace": "https://www.floridarealtors.org/news-media/news-articles/2026/10/florida-leads-national-snowbird-rankings",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe2f2Ki0fWsafn5E2Ktd6yAFdhiu-gB8GgtKQW2cNERXeSntZp2QqpWrZk4s0"
+      "noticia": "6 killed in fiery turnpike crash involving Road Ranger, troopers say",
+      "enlace": "https://www.clickorlando.com/video/news/2026/10/24/6-killed-in-fiery-turnpike-crash-involving-road-ranger-troopers-say/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnRuO9oPIg5ZjpIWwdjQBXnpBqVeb2cUodT68qnmujJITEu_TspoNMQTFT8tg"
     },
     {
       "termino": "rayo vallecano - elche c. f.",
@@ -60,20 +74,6 @@
       "noticia": "El dictador norcoreano Kim Jong-un visitó China a través de un puente recién inaugurado en Dandong",
       "enlace": "https://www.infobae.com/america/mundo/2026/10/24/el-dictador-norcoreano-kim-jong-un-visito-china-a-traves-de-un-puente-recien-inaugurado-en-dandong/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykMS6UE7olKnlUVPwIIkE0bdC7_1Jntb-ffFhWhmRY6viPj4ap8a-ti-0CjY"
-    },
-    {
-      "termino": "aston villa - manchester city",
-      "trafico": "2000+",
-      "noticia": "Man City lose 100% Premier League record with defeat at Aston Villa",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFqF9FH8uOPUIcmitNpHMbpiVwY0s3OfdsNNjSB26bQ_tq6bROOGgWaZaK3I"
-    },
-    {
-      "termino": "météo",
-      "trafico": "500+",
-      "noticia": "Météo : prévisions du samedi 24 octobre 2026",
-      "enlace": "https://letemps.news/2026/10/24/meteo-previsions-du-samedi-24-octobre-2026/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCO83Q1dI4h6-U6vSKq6CYLvOBbo0n22BQYlgOI-tGrFbhNBGJQG2TUTM8w4s"
     }
   ]
 }
