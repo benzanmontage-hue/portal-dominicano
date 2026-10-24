@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-24T12:59:17.156645-04:00",
-  "hora": "12:59",
+  "updated": "2026-10-24T13:10:17.993431-04:00",
+  "hora": "13:10",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "chelsea - tottenham",
+      "trafico": "100+",
+      "noticia": "Chelsea vs Tottenham: Key statistics and facts | News | Official Site",
+      "enlace": "https://www.chelseafc.com/en/news/article/chelsea-vs-tottenham-key-statistics-and-facts-26-27",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNTBmDBLWkVvjinooGRM3RmuFjdo1FsNvFsXUtzKlsuxBgGGLuojdHl1GmHFw"
+    },
+    {
       "termino": "napoli - roma",
       "trafico": "200+",
-      "noticia": "[ＤＩＲＥＴＴＡ@TV!!] Napoli-Roma in diretta Ｓｔｒｅａｍｉｎｇ sul canale TV 25 ottobre 2026",
-      "enlace": "https://www.fctokyo.co.jp/en/panorama/back_sb.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEveG9iLnhtbCIvPjwva3JwYW5vPg== id=video-napoli-roma-viv-directo-tv-ukkk0-0-0-0-0-0-91-3oeqonm",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdg-T5oD8qj146VaUcO82yQobfrsS5WNFV1nWOI4Ypg8TRYRAoa0r7_W5bZM"
+      "noticia": "Serie A, oggi Napoli-Roma – Diretta",
+      "enlace": "https://www.isolaonline24.it/2026/10/24/serie-a-oggi-napoli-roma-diretta-2/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMZVhkTT_u25iuBoK3FBK_t45bPRb-yBqxlDKfVZR0Ju8JdtWRwiDzOMTmnMc"
     },
     {
       "termino": "arsenal - everton",
@@ -43,9 +50,9 @@
     {
       "termino": "aston villa - manchester city",
       "trafico": "2000+",
-      "noticia": "Man City lose 100% Premier League record with defeat at Aston Villa",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFqF9FH8uOPUIcmitNpHMbpiVwY0s3OfdsNNjSB26bQ_tq6bROOGgWaZaK3I"
+      "noticia": "Aston Villa 2-1 Man City: Gianluigi Donnarumma and Marc Guehi under spotlight",
+      "enlace": "https://www.bbc.com/sport/football/articles/c6kg7z700k7jo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyS3yKRnsEQ6X1ukGe3rO36BaUvREcCGeeJ6xOW2Yxi764OEMobtlCOsC0fnM"
     },
     {
       "termino": "météo",
@@ -67,13 +74,6 @@
       "noticia": "NBA HOY: partidos este sábado; horas y dónde verlos. Bucks-76ers y Warriors-Suns encabezan jornada",
       "enlace": "https://acento.com.do/deportes/nba-hoy-partidos-este-sabado-horas-y-donde-verlos-bucks-76ers-y-warriors-suns-encabezan-jornada-9776781.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC2XBjOYf6BpEwxswscSresk0VBbmeKkHqlo4o2dgy9EVGugCDG0EgoRqG84I"
-    },
-    {
-      "termino": "ziaire williams",
-      "trafico": "200+",
-      "noticia": "Golden State Warriors vs. Los Angeles Lakers Live Score and Stats - October 21, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261021_GS@LAL/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Bbzcqq4cPgJ0w6n1Lt7kBPOLiRm7fqisXZekFUqxgVacP23I5tjWHQRqUmc"
     }
   ]
 }
