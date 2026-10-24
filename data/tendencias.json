@@ -1,13 +1,20 @@
 {
-  "updated": "2026-10-24T15:33:12.732789-04:00",
-  "hora": "15:33",
+  "updated": "2026-10-24T15:53:32.075477-04:00",
+  "hora": "15:53",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "haití",
+      "trafico": "1000+",
+      "noticia": "Ejército envía refuerzos a Jimaní ante tensiones en Haití",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/23/ejercito-despliega-militares-tras-crisis-en-haiti/3698859",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTownWBaSyxiiKbUoUmQjZV4jPsfqabErgMzw_0Soi5hCykG1L3EW6XmswmJ74"
+    },
+    {
       "termino": "atlético madrid - deportivo",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Atlético - Deportivo en directo | Última hora de LALIGA EA Sports en vivo hoy",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/atletico-deportivo/2026/10/24/01_0101_20261024_175_180-directo.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79ckU-41JhMgvNEFT9Be0pEPJ00DmeVOCfy7lM32vkTp2_BCNHbAY_vZgKIE"
@@ -15,9 +22,9 @@
     {
       "termino": "ufc",
       "trafico": "200+",
-      "noticia": "Dana White ‘absolutely’ recognized Alexander Volkov at UFC 333 presser, played along for sake of the ‘shtick’",
-      "enlace": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/481218/dana-white-absolutely-recognized-alexander-volkov-ufc-333-presser-played-along-sake-shtick",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRugCVE1HGDwJthwtAlPkydEJlq3iev7Qx-6bYwNHUBAMeV9RILPqrDoGR8QeU"
+      "noticia": "UFC 333 LIVE results: Volkanovski vs Evloev start time, card and fight updates tonight",
+      "enlace": "https://www.independent.co.uk/sport/ufc/ufc-333-volkanovski-evloev-live-stream-updates-b3072757.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cdUYf3tg7n5nyaCdk5tlv8805jYOwxTYlA6tQgaVyMO2KuAqoPeThXNu3zM"
     },
     {
       "termino": "resultado de la real",
@@ -29,16 +36,16 @@
     {
       "termino": "valencia c. f. - villarreal",
       "trafico": "200+",
-      "noticia": "¿Quién es Alejandro Quintero González? Árbitro del Valencia vs Villarreal de la jornada 10 de LALIGA",
-      "enlace": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/quien-es-alejandro-quintero-gonzalez-arbitro-valencia-vs-villarreal-jornada-10-laliga/108t45wtwujau1cp25uhiz9ibl",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcgCl4TD9tbGMHJ4Kzli10o87xbTgM6Qcoc9sdfGvFadspf87yFBWlUrOUPE"
+      "noticia": "Valencia 1-2 Villarreal: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/primera/valencia-villarreal-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAag5EQz22qom_y9QWbITkYT2I0IaWLMV7rAhqijCDeKuOncr3NFIVXOxiak"
     },
     {
       "termino": "chelsea - tottenham",
       "trafico": "500+",
-      "noticia": "Premier League LIVE: Reaction as Tottenham win at Chelsea in the Premier League.",
-      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-hoCxztjxjxKhrCU4KLrFJL5NlEAZshExS0gH752Nl2PPAC7hViYoWWgOtY"
+      "noticia": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
+      "enlace": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQL2oYM0hY6DwySmZruCP1bK55yYkLP8HCFnRh6qx3gis8medXIsBDrHKz-g"
     },
     {
       "termino": "napoli - roma",
@@ -50,16 +57,16 @@
     {
       "termino": "arsenal - everton",
       "trafico": "500+",
-      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
+      "noticia": "Premier League LIVE: Reaction as Tottenham win at Chelsea in the Premier League.",
       "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXdYM-kCn5YB4MeGhqXYTmy_837R20HdHRK2Ck28n540cdIHXHRlzY-Z0YC4"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-hoCxztjxjxKhrCU4KLrFJL5NlEAZshExS0gH752Nl2PPAC7hViYoWWgOtY"
     },
     {
       "termino": "florida",
       "trafico": "100+",
-      "noticia": "6 killed in fiery turnpike crash involving Road Ranger, troopers say",
-      "enlace": "https://www.clickorlando.com/video/news/2026/10/24/6-killed-in-fiery-turnpike-crash-involving-road-ranger-troopers-say/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnRuO9oPIg5ZjpIWwdjQBXnpBqVeb2cUodT68qnmujJITEu_TspoNMQTFT8tg"
+      "noticia": "Central Florida Defendant Sentenced for Violating Probation",
+      "enlace": "https://westorlandonews.com/central-florida-defendant-sentenced-for-violating-probation/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWNLBoDicKzbzYvzyhcdG2tSBDnFI3BRpn0OacbYEKl8Pr-oXKI4DNI9P_xdw"
     },
     {
       "termino": "rayo vallecano - elche c. f.",
@@ -67,13 +74,6 @@
       "noticia": "Rayo - Elche | Resumen, resultado y goles del partido de LALIGA EA Sports",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/rayo-elche/2026/10/24/01_0101_20261024_184_954-directo.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR2PUcMAkydCN-Wn5mgdczAYc_MP93wM-eWDxLk_AtzyMHbSnXjVo_dgSm5E0"
-    },
-    {
-      "termino": "puente",
-      "trafico": "200+",
-      "noticia": "El puente flotante estará cerrado hasta el mediodía del sábado",
-      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/10/23/puente-flotante-estara-cerrado-manana-sabado-por-paso-de-embarcacion/3698649",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjcPia8JoeBU1Fmt09800hVlw5A61UQDCg2pCzKKswfLuHO1R6Juo-hE71GRc"
     }
   ]
 }
