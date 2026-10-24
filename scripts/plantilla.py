@@ -63,7 +63,7 @@ def faq_html(faqs):
     return "\n    ".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faqs)
 
 
-def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large"):
+def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False):
     """ruta: '/resultados/2026-10-17/'. migas: [(nombre, ruta)], la última es esta página."""
     url = BASE + ruta
     crumbs = "\n    ".join(
@@ -129,6 +129,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
   <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>
   <p><a href="/">Portal Dominicano</a> · Datos de lotería: <a href="https://loteriasdominicanas.com" rel="noopener">loteriasdominicanas.com</a></p>
 </footer>
+{'<script src="/radio.js" defer></script>' if radio else ''}
 </body>
 </html>
 """

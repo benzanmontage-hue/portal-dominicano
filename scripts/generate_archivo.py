@@ -88,7 +88,7 @@ def pagina_fecha(f, sorteos, anterior, siguiente, hoy):
     ld = jsonld(BASE + ruta, f"Resultados de la lotería del {largo}", desc, migas,
                 extra=[faq_ld(BASE + ruta, faqs[:4])] if faqs else None)
     html = pagina(ruta=ruta, title=title, desc=desc, h1=f"Resultados de la lotería del {largo}",
-                  sub=f"{total} sorteos de 7 loterías dominicanas", migas=migas, cuerpo=cuerpo, ld=ld)
+                  sub=f"{total} sorteos de 7 loterías dominicanas", migas=migas, cuerpo=cuerpo, ld=ld, radio=True)
     escribir(ruta, html)
 
 
@@ -126,7 +126,7 @@ def pagina_indice(fechas, por_fecha, hoy):
     migas = [("Portal Dominicano", "/"), ("Resultados por fecha", ruta)]
     ld = jsonld(BASE + ruta, "Resultados de lotería por fecha", desc, migas)
     escribir(ruta, pagina(ruta=ruta, title=title, desc=desc, h1="Resultados de la lotería por fecha",
-                          sub="Archivo de sorteos de República Dominicana", migas=migas, cuerpo=cuerpo, ld=ld))
+                          sub="Archivo de sorteos de República Dominicana", migas=migas, cuerpo=cuerpo, ld=ld, radio=True))
 
 
 def main():

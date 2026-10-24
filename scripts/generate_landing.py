@@ -411,6 +411,7 @@ def render_pagina(l, resultados, archivo):
   <p><a href="../">Portal Dominicano</a> · Datos: <a href="https://loteriasdominicanas.com" rel="noopener">loteriasdominicanas.com</a></p>
 </footer>
 <script>{js}</script>
+<script src="/radio.js" defer></script>
 </body>
 </html>
 """
