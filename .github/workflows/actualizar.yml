@@ -59,7 +59,10 @@ jobs:
         continue-on-error: true
         run: |
           sleep 30
-          for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/; do
-            t=$(curl -sS "$u" | grep -o -m1 'Actualizado[^<]*' | head -1)
-            echo "::notice title=En vivo::$u -> ${t:-sin fecha}"
+          for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/ \
+                   https://portaldominicana.net/anguila/10am/ https://portaldominicana.net/suenos/; do
+            c=$(curl -sS -o /tmp/p.html -w '%{http_code}' "$u")
+            t=$(grep -o -m1 'Actualizado[^<]*' /tmp/p.html | head -1)
+            h=$(grep -o -m1 '<h1>[^<]*' /tmp/p.html | sed 's/<h1>//')
+            echo "::notice title=En vivo::$u -> HTTP $c | ${h} | ${t:-sin fecha}"
           done
