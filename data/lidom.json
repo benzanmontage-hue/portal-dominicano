@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:37:27-04:00",
+ "updated": "2026-10-24T18:57:48-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -11,7 +11,7 @@
    "g": 4,
    "p": 2,
    "pct": ".667",
-   "dif": "-1.0",
+   "dif": "-1.5",
    "racha": "W2",
    "pos": 1,
    "nombre": "Gigantes del Cibao"
@@ -22,7 +22,7 @@
    "g": 4,
    "p": 2,
    "pct": ".667",
-   "dif": "-1.0",
+   "dif": "-1.5",
    "racha": "L1",
    "pos": 2,
    "nombre": "Tigres del Licey"
@@ -33,32 +33,32 @@
    "g": 3,
    "p": 2,
    "pct": ".600",
-   "dif": "-0.5",
+   "dif": "-1.0",
    "racha": "W1",
    "pos": 3,
    "nombre": "Estrellas Orientales"
   },
   {
+   "id": 671,
+   "equipo": "Leones",
+   "g": 3,
+   "p": 4,
+   "pct": ".429",
+   "dif": "-",
+   "racha": "W2",
+   "pos": 4,
+   "nombre": "Leones del Escogido"
+  },
+  {
    "id": 668,
    "equipo": "Toros",
    "g": 3,
-   "p": 3,
-   "pct": ".500",
-   "dif": "-",
-   "racha": "L2",
-   "pos": 4,
-   "nombre": "Toros del Este"
-  },
-  {
-   "id": 671,
-   "equipo": "Leones",
-   "g": 2,
    "p": 4,
-   "pct": ".333",
-   "dif": "1.0",
-   "racha": "W1",
+   "pct": ".429",
+   "dif": "-",
+   "racha": "L3",
    "pos": 5,
-   "nombre": "Leones del Escogido"
+   "nombre": "Toros del Este"
   },
   {
    "id": 667,
@@ -66,7 +66,7 @@
    "g": 1,
    "p": 4,
    "pct": ".200",
-   "dif": "1.5",
+   "dif": "1.0",
    "racha": "L2",
    "pos": 6,
    "nombre": "Aguilas Cibaenas"
@@ -347,14 +347,14 @@
    "id": 851487,
    "fecha": "2026-10-24",
    "hora": "16:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Toros del Este",
    "visitante_id": 668,
-   "carreras_v": null,
+   "carreras_v": 0,
    "local": "Leones del Escogido",
    "local_id": 671,
-   "carreras_l": null,
+   "carreras_l": 2,
    "estadio": "Estadio Quisqueya Juan Marichal",
    "serie": "Regular Season"
   },
