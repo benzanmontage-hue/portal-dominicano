@@ -35,6 +35,8 @@ GENERADORES = [
     "scripts/generate_info.py",
     "scripts/generate_lidom.py",
     "scripts/generate_combustibles.py",
+    "scripts/generate_anguila.py",
+    "scripts/generate_suenos.py",
     "scripts/tarjeta.py",
     "scripts/prerender_home.py",
     "scripts/build_sitemap.py",

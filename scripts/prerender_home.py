@@ -65,6 +65,9 @@ def etiqueta(nombre):
     return ETIQUETA.get(n) or (hora_anguila(n) if n.startswith("Anguila") else n)
 
 
+from generate_anguila import slug_hora  # noqa: E402
+
+
 def zona(html, nombre, contenido):
     patron = re.compile(r"(<!--" + nombre + r":INICIO[^>]*-->)(.*?)(<!--" + nombre + r":FIN-->)", re.S)
     if not patron.search(html):
@@ -103,8 +106,12 @@ def anguila(juegos, hoy):
     for j in ang:
         salio = parse_fecha(j.get("fecha")) == hoy
         valor = " · ".join(esc(n) for n in j["numeros"]) if salio else "Pendiente"
-        out.append(f'<div class="ang{"" if salio else " pend"}"><div class="ang-h">{esc(hora_anguila(j["juego"]))}</div>'
-                   f'<div class="ang-n">{valor}</div></div>')
+        mins = minutos_juego(limpiar(j["juego"]))
+        es_hora = limpiar(j["juego"]).startswith("Anguila ") and mins is not None
+        tag, cierre = (f'a class="ang{"" if salio else " pend"}" href="anguila/{slug_hora(mins)}/"', "a") if es_hora else \
+                      (f'div class="ang{"" if salio else " pend"}"', "div")
+        out.append(f'<{tag}><div class="ang-h">{esc(hora_anguila(j["juego"]))}</div>'
+                   f'<div class="ang-n">{valor}</div></{cierre}>')
     return "\n".join(out)
 
 

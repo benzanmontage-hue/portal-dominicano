@@ -267,6 +267,12 @@ def render_pagina(l, resultados, archivo):
 
     from generate_juegos import JUEGOS  # import tardío: generate_juegos importa este módulo
     pag_juego = {(c, g): slug for slug, _n, _h, claves in JUEGOS for c, g in claves}
+    horas_html = ""
+    if l["slug"] == "anguila":
+        from generate_anguila import sorteos_horarios, slug_hora, etiqueta
+        enl = " ".join(f'<a href="/anguila/{slug_hora(m)}/">Anguila {etiqueta(m)}</a>' for m, _j in sorteos_horarios(resultados))
+        horas_html = ('<h2 class="sect"><span class="bar"></span> Anguila por hora</h2>\n'
+                      f'  <nav class="otras" aria-label="Anguila por hora">{enl}</nav>')
     todos_juegos = " ".join(f'<a href="/{slug}/">{esc(n)}</a>' for slug, n, *_ in JUEGOS)
     lista_juegos = "".join(
         f'<li><a href="/{pag_juego[(j["compania"], limpiar(j["juego"]))]}/">{esc(limpiar(j["juego"]))}</a></li>'
@@ -361,6 +367,8 @@ def render_pagina(l, resultados, archivo):
   <div class="loteria-grid" id="grid">
     {cards}
   </div>
+
+  {horas_html}
 
   {hist_html}
 

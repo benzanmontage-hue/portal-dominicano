@@ -24,6 +24,8 @@ CSS_EXTRA = """
 .resumen-txt li{margin:4px 0 4px 18px}
 .tabla-wrap td a{color:var(--azul2);font-weight:600;text-decoration:none}
 .nw{white-space:nowrap;font-weight:800}
+.resumen-txt a,.nota a{color:var(--azul2);text-decoration:none;font-weight:600}
+@media (prefers-color-scheme:dark){.resumen-txt a,.nota a{color:#7fb0ff}}
 .juegos-l{list-style:none;display:flex;flex-direction:column;gap:8px}
 .juego{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 14px}
 .j-m{font-weight:600;font-size:1rem}
