@@ -17,6 +17,7 @@
     '#radioRD .rlst{display:flex;flex-direction:column;gap:5px;max-height:220px;overflow-y:auto}' +
     '#radioRD .rst{background:none;border:1px solid rgba(255,255,255,.14);border-radius:10px;color:#fff;padding:9px 11px;text-align:left;font:inherit;font-size:.84rem;font-weight:600;cursor:pointer;min-height:40px}' +
     '#radioRD .rst:hover,#radioRD .rst.act{background:rgba(255,255,255,.18)}' +
+    '#radioRD .rst small{display:block;font-weight:500;opacity:.7;font-size:.72rem;text-transform:capitalize;margin-top:1px}' +
     '#radioRD .rmin{font-size:.75rem;opacity:.7;margin-top:6px}' +
     '@media(max-width:600px){#radioRD{right:12px;bottom:12px;width:calc(100vw - 24px)}}' +
     'body{padding-bottom:84px}';
@@ -44,7 +45,10 @@
       lista.innerHTML = '';
       emisoras.forEach(function (e, i) {
         var b = document.createElement('button');
-        b.type = 'button'; b.className = 'rst'; b.textContent = e.nombre; b.setAttribute('role', 'listitem');
+        b.type = 'button'; b.className = 'rst'; b.setAttribute('role', 'listitem');
+        var g = (e.tags || []).filter(function (t) { return !/domin|republic|rep\.|santiago|santo|fm|am$|radio|online|live|vivo|latin america/i.test(t); }).slice(0, 2);
+        b.textContent = e.nombre;
+        if (g.length) { var sm = document.createElement('small'); sm.textContent = g.join(' · '); b.appendChild(sm); }
         b.addEventListener('click', function () { sintonizar(i); });
         lista.appendChild(b);
       });
