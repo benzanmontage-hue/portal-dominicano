@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-24T18:16:56.132512-04:00",
-  "hora": "18:16",
+  "updated": "2026-10-24T18:37:17.552077-04:00",
+  "hora": "18:37",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "hornets - heat",
+      "trafico": "200+",
+      "noticia": "Miami Heat vs Charlotte Hornets Prediction, Pick, NBA Odds -- 10/24",
+      "enlace": "https://www.actionnetwork.com/nba/miami-heat-vs-charlotte-hornets-prediction-pick-nba-odds-for-saturday-october-24",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6Bi3swCPQ0WAwwthIaO_YROaUfSu9y_x7WBVutS4UNYlonV8xqUIAqIeLnak"
+    },
+    {
+      "termino": "policía",
+      "trafico": "100+",
+      "noticia": "Mateo Moquete sufre accidente y director de Policía lo visita",
+      "enlace": "https://elnacional.com.do/nacionales/policiales/director-policia-visita-general-mateo-moquete-sufrir-accidente-via-nagua_584337.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvGZ8G_gy19A6KyQnvrgADt9WVDvdvZ38yq3g-nYCNRN_h8Ln1qbFFunc4u1w"
+    },
     {
       "termino": "posiciones de atlético de madrid contra deportivo la coruña",
       "trafico": "200+",
@@ -14,10 +28,10 @@
     },
     {
       "termino": "new york rb - inter miami",
-      "trafico": "200+",
-      "noticia": "New York Red Bulls vs Inter Miami: How to watch, Live Stream, TV Channel and Time for a MLS game on October...",
-      "enlace": "https://bolavip.com/en/soccer/new-york-red-bulls-vs-inter-miami-how-to-watch-live-stream-tv-channel-and-time-for-a-mls-game-on-october-24-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDC_j_m1PK42kcbLld6oBNeWujmbs_RYIXiVGrw5NzTk5YhTJ-HsrN4v3AOBE"
+      "trafico": "500+",
+      "noticia": "Why Is Lionel Messi Not Playing Today for Inter Miami vs. Red Bull New York?",
+      "enlace": "https://athlonsports.com/soccer/why-is-lionel-messi-not-playing-inter-miami-vs-red-bull-new-york",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLy9DSfUFhwp_O_VqjV2cLlc4CrwAljRJNycDrw8vakyTmjMbR_mVoKHkeH5M"
     },
     {
       "termino": "escuela",
@@ -28,7 +42,7 @@
     },
     {
       "termino": "vaguada",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Descontinúan alerta verde para El Gran Santo Domingo y 4 provincias ante disminución de aguaceros",
       "enlace": "https://listindiario.com/la-republica/20261024/descontinua-salerta-verde-gran-santo-domingo-4-provincias-disminucion-aguaceros_927375.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
@@ -57,23 +71,9 @@
     {
       "termino": "resultado de la real",
       "trafico": "200+",
-      "noticia": "El Real Madrid pide pista: cose a triples al Maccabi para su séptima victoria seguida",
-      "enlace": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/10/22/6ada4cb2e4d4d8a5518b458f.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwzg9CbnvdZhpHj1Kzialqt_K_jCNLR3hHHAQ08yhxPNcv2x1eR_1CdSBJuUY"
-    },
-    {
-      "termino": "valencia c. f. - villarreal",
-      "trafico": "500+",
-      "noticia": "Vasco  Aguirre, preocupado por no ganar con Valencia",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17425261/javier-vasco-aguirre-valencia-mala-racha-sin-victorias-laliga",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYBg4uGJ-1BBhCyLcCyhBXQ2xcXVYyoxiEIryd3Hl5EqCLYJgoiF_MyvtN3Lk"
-    },
-    {
-      "termino": "chelsea - tottenham",
-      "trafico": "1000+",
-      "noticia": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
-      "enlace": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQL2oYM0hY6DwySmZruCP1bK55yYkLP8HCFnRh6qx3gis8medXIsBDrHKz-g"
+      "noticia": "Andrés Feliz anota 18 puntos, Real Madrid supera al Maccabi Tel Aviv en Euroliga",
+      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261023/andres-feliz-anota-18-puntos-real-madrid-supera-maccabi-tel-aviv-euroliga_927251.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8GnKOq8BFA27k8rwkFWGbfS3lGqoMUJ7q6WJgx48agD6AyGmJ6uD2ip89Do"
     }
   ]
 }
