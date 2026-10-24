@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24T19:38:42-04:00",
+ "actualizado": "2026-10-24T19:59:09-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -2794,6 +2794,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "40",
+     "58",
+     "37",
+     "16",
+     "24"
+    ]
+   },
+   {
     "fecha": "2026-10-23",
     "numeros": [
      "01",
@@ -3303,6 +3313,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "53"
+    ]
+   },
    {
     "fecha": "2026-10-23",
     "numeros": [

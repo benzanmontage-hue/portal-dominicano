@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-24T19:38:28.356398-04:00",
-  "hora": "19:38",
+  "updated": "2026-10-24T19:58:54.661738-04:00",
+  "hora": "19:58",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cavaliers - nets",
+      "trafico": "200+",
+      "noticia": "How to watch Cavaliers vs Nets: NBA, live stream, TV channel",
+      "enlace": "https://sports.yahoo.com/articles/watch-cavaliers-vs-nets-nba-222000831.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkYEOtbRNyvLdSEjrsdJRJZ3AHtjuZL3INhYaX5LC502XOHxGWYBpIV4WMBys"
+    },
     {
       "termino": "76ers - bucks",
       "trafico": "200+",
@@ -29,23 +36,23 @@
     {
       "termino": "hornets - heat",
       "trafico": "200+",
-      "noticia": "Miami Heat vs. Charlotte Hornets Live Score and Stats - October 24, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261024_MIA@CHA/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOSGK1DZjkpwfZW88On2escB7mklK61Kb09R5RXwSG9XwOYq3aJ8vCbOETH94"
+      "noticia": "Heat visit Hornets as both teams look to regroup from routs",
+      "enlace": "https://www.cbssports.com/nba/news/heat-visit-hornets-as-both-teams-look-to-regroup-from-routs/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
     },
     {
       "termino": "posiciones de atlético de madrid contra deportivo la coruña",
       "trafico": "200+",
       "noticia": "Atlético 1-0 Deportivo (Oct 24, 2026) Game Analysis",
       "enlace": "https://www.espn.com/soccer/report/_/gameId/401882834",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPuqa0ZFS2EN4LjiEfL9aNasYc4HcS1XZJ5J8aEC77aZXAn9TY-n8Bxqu0Qow"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMTknqNC_L_apdRpgEvz3N1_hUbg5I0N75atndWwLcvudo2pJj6ivCphHN5E"
     },
     {
       "termino": "new york rb - inter miami",
       "trafico": "1000+",
-      "noticia": "New York Red Bulls vs Inter Miami LIVE streaming, TV channel, kick-off time   where to watch MLS 2026",
-      "enlace": "https://khelnow.com/football/new-york-red-bulls-vs-inter-miami-where-to-watch-mls-202610",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8ggmv7MDi4qfSvAiJj-8ZTvF-3CoWXmYmiOXPNNB-4deX8VPzMk0Ft43R9DE"
+      "noticia": "New York Red Bulls Inter Miami CF 25 October 2026 Live Score and Match Summary",
+      "enlace": "https://en.yenisafak.com/sports/football/live-match/new-york-red-bulls-inter-miami-cf-2002132",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQP1gzPY2esGD_C1RvduCoVM6vNtwZVONwk5W5Oc_j7j3Mh4ZHdGjPx3CoYWhM"
     },
     {
       "termino": "escuela",
@@ -67,13 +74,6 @@
       "noticia": "Exjefe militar haitiano advierte de poca posibilidad de éxito de contingente salvadoreño",
       "enlace": "https://www.diariolibre.com/mundo/haiti/2026/10/23/contingente-militar-de-el-salvador-llega-a-haiti/3698777",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREDQSFYyzoC23Lrg5mJkT9pFygF76Ou8o-yMnvTbGyZFhVADOO2ZaqGM09YGI"
-    },
-    {
-      "termino": "atlético madrid - deportivo",
-      "trafico": "2000+",
-      "noticia": "Atlético de Madrid 1-0 Deportivo: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/atletico-de-madrid-deportivo-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_AQAxd9tFMR579JU6a0FWCPq6NxOu_pu4_3vq4BrQu03Wb-A5TC_E7SbHZLw"
     }
   ]
 }
