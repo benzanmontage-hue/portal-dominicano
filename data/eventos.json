@@ -1,9 +1,15 @@
 {
-  "updated": "2026-10-24T15:14:21.003059-04:00",
-  "hora": "15:14",
+  "updated": "2026-10-24T15:15:52.548723-04:00",
+  "hora": "15:15",
   "fecha": "24/10/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "El primer concierto de la orquesta sinfónica nacional de la República Dominicana. (2 De 2)Una misión al borde de la realidad y la quimera - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOUZFTHhpQjBrRkpSTzhwMGRsNFJaTnJqOXotUWE2VHlYOWtheWFWRlRqZkVBczQ2MmVpS3JWOU5lV0V4N2NaX0x5VG5FMG9jeWgtb0ptS2REeG5RTG1XQ3RFcWszMFhpVWhwM3ZpSFpjQW1UU1dUVHg3X1BGaVpEeVVCTlRLTDloZm0tS3l4elRjXzNGRnBlRUE3RHRSS3dWLU9McGJCdWlQcnpDdFdyUmoyUWV6OEpQNE02M3lMZ1c2aEh5U3gyZFBzNHEzQVYzQkYxZkItZVQ1OUVIc0FWazhleFhFdHB5RTdZM2k2akdKN0RHazJReWFVck4yRkRQWG5kcS15cVM?oc=5",
+      "fecha": "Sat, 24 Oct 2026 04:00:00 GMT"
+    },
     {
       "titulo": "Un gran número de conciertos aún están pendientes para presentarse en lo que resta del 2026 - El Dia.com.do",
       "fuente": "El Dia.com.do",
@@ -15,12 +21,6 @@
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR19qeFBvOUFxeHR0Q1NDVVFuOU9hckpGN0FmN3MzaExHaVRGMlhoeVpTLWV5ZW9zUWwyN0tVUGNZdko1Uy1aXzY2LVhpQXdlSkI5cTE3NG1xdHZKMFBIWWIzRmlscFJ4MzhWWDhRa0U0SzNmd05fc29sN19xQ0xBeFBOeUJISGs3ZzIyaVlQVjlDdXlTTi1pa2pya255YTdFcFp0WEd5NTI0ZXBrMHFwbHZzNXFxcEVWRU9VZFNxb29WZ3p0eTJZRUpqYzXSAdIBQVVfeXFMTnNOczRMT09GbjNFamhwcUZ5QUU5ZjRfRS1GejhWeGw4czNadGdsR0dmVGEzUUpiS0x3aGZUcXplUzkxSnBGRlVXVDlwOTNVNXZUdmtBeEFyVFl4aGhydEY3X29XX3BBUnBRWnpYbkVENU1DbnNvS3VRSXNhck5yS3pGUzRiWWJWaER6UDN4UHBQSk9ibDQwWXIxbUxOaFprbEYteGpBVVM0SWw2bU11V2hQYmtQbll1LXVYQUZSTUo4X2t3TXhyZmNEWkpwN1h1UVZB?oc=5",
       "fecha": "Fri, 16 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "titulo": "El primer concierto de la orquesta sinfónica nacional de la República Dominicana. (2 De 2)Una misión al borde de la realidad y la quimera - El Caribe",
-      "fuente": "El Caribe",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOUZFTHhpQjBrRkpSTzhwMGRsNFJaTnJqOXotUWE2VHlYOWtheWFWRlRqZkVBczQ2MmVpS3JWOU5lV0V4N2NaX0x5VG5FMG9jeWgtb0ptS2REeG5RTG1XQ3RFcWszMFhpVWhwM3ZpSFpjQW1UU1dUVHg3X1BGaVpEeVVCTlRLTDloZm0tS3l4elRjXzNGRnBlRUE3RHRSS3dWLU9McGJCdWlQcnpDdFdyUmoyUWV6OEpQNE02M3lMZ1c2aEh5U3gyZFBzNHEzQVYzQkYxZkItZVQ1OUVIc0FWazhleFhFdHB5RTdZM2k2akdKN0RHazJReWFVck4yRkRQWG5kcS15cVM?oc=5",
-      "fecha": "Sat, 24 Oct 2026 04:00:00 GMT"
     },
     {
       "titulo": "Alejandro Sanz volverá a República Dominicana en noviembre con la gira “¿Y ahora qué?” - Infobae",
@@ -35,16 +35,10 @@
       "fecha": "Sat, 17 Oct 2026 21:33:26 GMT"
     },
     {
-      "titulo": "Alejandro Sanz regresa a República Dominicana con concierto el 14 de noviembre - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkpma1FrbUdoUnpVOWt5M3dJZTBUMnFxMF9mVjFpQVJQdEZoNEd5VmxCa3MxYm5vT2tDWTltQXZaRlpUeEpSS05EdFpKaFo0ZkZJLXkySGxJOTg5WjhOVUUwTXdYVWxNU2xTb1Y3dS1NTmZxU3NQeWU0Zm1UWGtBSDhaRXl4NGZla2JZRWNvcEliTlBNdXJ2VFYteGRGemNaTTN0Z1kxbm9nS1lOQnFTMFUyN1M1XzktQkZDQlhJUmZHVGZ3NEdJd3lLLXZBMGlIQ2fSAdcBQVVfeXFMTVc0a3U4M2xXTmNmRk1OeUt6ekdOT3lTWDYzNGhJQ1NSZmRYZWV2cWJ6SnBSQXc2TFVuVkZ1UDMyM25FbHlObWxGNDN1bVhscmhmbWVENUlEMjNkQmoxdm41RGNMckVUR2lMMGZhOW80WnhUUEppUjh3a2xyRkFfZlV5ZHhqbDFuSFZpTjFFeWlGMG5tUDEzRWZlZ2hIU3RlMnVnVHQ5bUo0eWV4azhYWjE2dk12dEQzM0dBeXYybHduUDR2cG4ySm5jZ2R0Ukx1Q3J2aUxmN0U?oc=5",
-      "fecha": "Thu, 15 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
-      "fuente": "Billboard",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
-      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
+      "titulo": "¡Festival de Piano 2026 en el Cenart presenta shows en vivo a $250 pesos! - Dónde Ir",
+      "fuente": "Dónde Ir",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGpxMHRzNkcxM0t4LS1fQXI4d1dTRXFjTjMwdE9IeG5RWXNKa1UwOXJNeXFTakJEVXh0R3N6Xy1JV1luNmtWVzBjRlk5NVRIZnduSlpIZ0JwckZuZ2xvQnIxcXRsTU01bUpjTTFIb0xNRUdLQVlrdkw3M2ttYURYTC03T0FDLUZkVDhlNFE1Q3lwdmdGYk9EaDNqUHdHaWRXS3AwR2xzT1BOMWtyeVpR?oc=5",
+      "fecha": "Tue, 20 Oct 2026 19:10:35 GMT"
     },
     {
       "titulo": "Todo listo para el Desfile y Festival Dominicano en Boston este fin de semana - Telemundo Nueva Inglaterra",
@@ -53,22 +47,28 @@
       "fecha": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - Bloomberg Línea",
-      "fuente": "Bloomberg Línea",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEFpcU9nSVJMcWg5Y250Y3JkemdwX08tNl9JZjNpZ0NWTlZDTEFPWThnWFlLQXVzd29ZVDBmdElFVW5MdVZ2REEtZTdRQThLcWpMVlNjSDJ4cnJyX2hzV2ZOUjVhOGExTGtZV2pISldKOFhqTUNyZ0pBenEwVlpUYkV2SU9Ga1JDem5fSThsY2dpQ1k4T25HcGNNbXhsTmlvcUxBaWZNMWJVaVl6NVlYZtIBxAFBVV95cUxNbEV4cUtuTEd3d1d2WG5KNGdsRTE0a1E5elV2ZVVoZHp1emhKUW9QWHF6QWlDdm93eGpubGhhNDNvcEpBTEZPRUV2Qkp2d0c0dGVYaGpRampGM3lmZUJuSk5vaTZ3T0Z4TXdGbG9WSDRQVHc0aExZRGdlV2hTU2daRVFKWGJ0Q1E3ekQxNDRLLWVTOVJ5a19fTE5SdXlidGVzQ2FwcnZTQ0U1b1dnLVNWWVBwQVRXRHZsMFhnbVpWODA5WmtT?oc=5",
-      "fecha": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "¡Festival de Piano 2026 en el Cenart presenta shows en vivo a $250 pesos! - Dónde Ir",
-      "fuente": "Dónde Ir",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGpxMHRzNkcxM0t4LS1fQXI4d1dTRXFjTjMwdE9IeG5RWXNKa1UwOXJNeXFTakJEVXh0R3N6Xy1JV1luNmtWVzBjRlk5NVRIZnduSlpIZ0JwckZuZ2xvQnIxcXRsTU01bUpjTTFIb0xNRUdLQVlrdkw3M2ttYURYTC03T0FDLUZkVDhlNFE1Q3lwdmdGYk9EaDNqUHdHaWRXS3AwR2xzT1BOMWtyeVpR?oc=5",
-      "fecha": "Tue, 20 Oct 2026 19:10:35 GMT"
+      "titulo": "Alejandro Sanz regresa a República Dominicana con concierto el 14 de noviembre - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkpma1FrbUdoUnpVOWt5M3dJZTBUMnFxMF9mVjFpQVJQdEZoNEd5VmxCa3MxYm5vT2tDWTltQXZaRlpUeEpSS05EdFpKaFo0ZkZJLXkySGxJOTg5WjhOVUUwTXdYVWxNU2xTb1Y3dS1NTmZxU3NQeWU0Zm1UWGtBSDhaRXl4NGZla2JZRWNvcEliTlBNdXJ2VFYteGRGemNaTTN0Z1kxbm9nS1lOQnFTMFUyN1M1XzktQkZDQlhJUmZHVGZ3NEdJd3lLLXZBMGlIQ2fSAdcBQVVfeXFMTVc0a3U4M2xXTmNmRk1OeUt6ekdOT3lTWDYzNGhJQ1NSZmRYZWV2cWJ6SnBSQXc2TFVuVkZ1UDMyM25FbHlObWxGNDN1bVhscmhmbWVENUlEMjNkQmoxdm41RGNMckVUR2lMMGZhOW80WnhUUEppUjh3a2xyRkFfZlV5ZHhqbDFuSFZpTjFFeWlGMG5tUDEzRWZlZ2hIU3RlMnVnVHQ5bUo0eWV4azhYWjE2dk12dEQzM0dBeXYybHduUDR2cG4ySm5jZ2R0Ukx1Q3J2aUxmN0U?oc=5",
+      "fecha": "Thu, 15 Oct 2026 07:00:00 GMT"
     },
     {
       "titulo": "BTS ya está en Argentina: así fue la llegada del grupo surcoreano para sus tres conciertos agotados - El Universo",
       "fuente": "El Universo",
       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmJackZYaXlaNVZHS292d09SVUNHWUpxakpXYWxIaE4wSW93TlJmZ3FlUkduLUYtQlRzcFRZWUVESlc4djhsbkY2YnR1VjJNWFpHN1VncjIwVk04a2JtVXVpTGNUcFRLQlZoVko2NXlqMDF0NHB5VzFDb3Y2SlY4SXZjbG54QmYxU3ZPTnVIT1dNT0N3THhGRmZNR2NzeWNDcnJUM09EVnJXT3ZMOV90QS1paWhVZnBIODgwVUVsUmVLOXYtUVl2S0c3VURWb0pnazJVVUJtNDQ5VWVUWng1YXpWaWlxZ1lO0gH8AUFVX3lxTE5jV0ktX052WXVWOVlETXVGUWRTWmo3aTRtOGZGU3BOYWtLcU5OWUx6dnExMVpfUkRxTGNCV0ZoLVRtcGF4LU5vblVRT0FtTlVmMW1UaExndUxhNmJFajZZY3JwUDlhcGU1cHV5UmQyVmNLUlpNTGlLQ3JMQlVVVlZfeUhmQ0RTZXFhMXJMaGpBWDJiWk14R2Izc3J4bWpyN3hTNVZ4VlhKcEdnMDlRNV91SF9KZEZLLTJiT3hYWGRiSmxYNnFQbWJ6U3NYUzlqaXhiaHJtLW41UGhGOER2VTdseldWTTJ3ZXhhNExZaFFGeEx2Ym9KbFRLZmQ3UQ?oc=5",
       "fecha": "Tue, 20 Oct 2026 19:27:00 GMT"
+    },
+    {
+      "titulo": "Bad Bunny concluye histórica gira mundial con $467 millones: Aquí un desglose completo, en números - Billboard",
+      "fuente": "Billboard",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzhabV8wU3VweXZQZnhmQnp3VG90Zm9yRzhCTjRLV19XeDhiVDNnZE9wOThub3NGLW1uR0k5QzNrNmZvWmh6Z1p2NzZuRG85SVJSUnllN1AxM01BYjRYSy1mOS1FQWc0Y2xGbW93UjdOOFl1U211U0lNQXlLWm5FWjYwbTd4UVNYZDZPR05fdnoteFEwckE?oc=5",
+      "fecha": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Shakira en Madrid: cuándo y dónde ver gratis su concierto en vivo - Bloomberg Línea",
+      "fuente": "Bloomberg Línea",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEFpcU9nSVJMcWg5Y250Y3JkemdwX08tNl9JZjNpZ0NWTlZDTEFPWThnWFlLQXVzd29ZVDBmdElFVW5MdVZ2REEtZTdRQThLcWpMVlNjSDJ4cnJyX2hzV2ZOUjVhOGExTGtZV2pISldKOFhqTUNyZ0pBenEwVlpUYkV2SU9Ga1JDem5fSThsY2dpQ1k4T25HcGNNbXhsTmlvcUxBaWZNMWJVaVl6NVlYZtIBxAFBVV95cUxNbEV4cUtuTEd3d1d2WG5KNGdsRTE0a1E5elV2ZVVoZHp1emhKUW9QWHF6QWlDdm93eGpubGhhNDNvcEpBTEZPRUV2Qkp2d0c0dGVYaGpRampGM3lmZUJuSk5vaTZ3T0Z4TXdGbG9WSDRQVHc0aExZRGdlV2hTU2daRVFKWGJ0Q1E3ekQxNDRLLWVTOVJ5a19fTE5SdXlidGVzQ2FwcnZTQ0U1b1dnLVNWWVBwQVRXRHZsMFhnbVpWODA5WmtT?oc=5",
+      "fecha": "Wed, 30 Sep 2026 07:00:00 GMT"
     },
     {
       "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
