@@ -58,6 +58,7 @@ jobs:
         if: always()
         continue-on-error: true
         run: |
+          sleep 30
           for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/; do
             t=$(curl -sS "$u" | grep -o -m1 'Actualizado[^<]*' | head -1)
             echo "::notice title=En vivo::$u -> ${t:-sin fecha}"
