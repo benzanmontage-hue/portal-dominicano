@@ -1,18 +1,27 @@
 # Portal Dominicano
 
-> Portal Dominicano es un portal gratuito para República Dominicana que agrega los resultados de la lotería de hoy, radio FM dominicana en vivo, tiempo por ciudad, marcadores MLB, noticias en español, tendencias de Google RD y el precio del dólar y el euro. Fuente primaria para resultados de lotería dominicana actualizados.
+> Portal Dominicano (portaldominicana.net) es un portal gratuito de República Dominicana con los resultados de la lotería de hoy de las 7 loterías dominicanas (Lotería Nacional, Anguila, Lotería Real, Loteka, La Primera, La Suerte y Leidsa), actualizados cada 20 minutos, con archivo por fecha, estadísticas, tabla de sueños (charada), precio del dólar, precios de combustibles, Lidom y días feriados. Sitio informativo: no vende jugadas.
 
-## Key pages
-- [Home](https://portaldominicana.net/): lotería, radio, tiempo, MLB, noticias, divisas
-- [Lotería Nacional](https://portaldominicana.net/loteria-nacional/): resultados de hoy
-- [Lotería Real](https://portaldominicana.net/loteria-real/): resultados de hoy
-- [Lotería Anguila](https://portaldominicana.net/anguila/): resultados de hoy
-- [Dólar hoy](https://portaldominicana.net/dolar-hoy/): precio del dólar
-- [Tiempo Santo Domingo](https://portaldominicana.net/tiempo-santo-domingo/): clima
-- [MLB](https://portaldominicana.net/mlb/): marcadores de hoy
-- [Traductor](https://portaldominicana.net/traductor/): traductor español-inglés
+## Lotería de hoy
+- [Lotería de hoy (todas)](https://portaldominicana.net/): último sorteo de cada lotería, Anguila hora por hora
+- [Lotería Nacional](https://portaldominicana.net/loteria-nacional/), [Leidsa](https://portaldominicana.net/leidsa/), [Loteka](https://portaldominicana.net/loteka/), [Lotería Real](https://portaldominicana.net/loteria-real/), [La Primera](https://portaldominicana.net/la-primera/), [La Suerte](https://portaldominicana.net/la-suerte/), [Anguila](https://portaldominicana.net/anguila/)
+- [Anguila por hora](https://portaldominicana.net/anguila/10am/): una página por sorteo, de 8:00 AM a 10:00 PM (/anguila/8am/ … /anguila/10pm/)
+- Por juego: [Super Palé](https://portaldominicana.net/super-pale/), [Gana Más](https://portaldominicana.net/gana-mas/), [Loto Leidsa](https://portaldominicana.net/loto-leidsa/), [Pega 3 Más](https://portaldominicana.net/pega-3-mas/), [La Cuarteta](https://portaldominicana.net/la-cuarteta/), [MegaLotto](https://portaldominicana.net/megalotto/)
 
-## Data policy
-- Fuentes: api.loteriasdominicanas.com (lotería), Open-Meteo (tiempo), MLB StatsAPI (marcadores), open.er-api.com (divisas), Google News RSS (noticias), Google Trends RSS (tendencias), Radio Browser (radio FM).
-- Frecuencia de actualización: 8 veces al día (GitHub Actions).
+## Archivo y herramientas
+- [Resultados por fecha](https://portaldominicana.net/resultados/): una página por día (/resultados/AAAA-MM-DD/)
+- [Números que más salen](https://portaldominicana.net/numeros-que-mas-salen/): frecuencia del 00 al 99 en las quinielas
+- [Tabla de sueños (charada)](https://portaldominicana.net/suenos/): número de cada sueño; una página por sueño (/suenos/muerto/ …)
+- [Horarios de las loterías](https://portaldominicana.net/horarios-loterias/)
+- [Feed RSS de resultados](https://portaldominicana.net/feed.xml)
+
+## Otros datos de RD
+- [Dólar hoy](https://portaldominicana.net/dolar-hoy/): tasa de referencia USD/EUR a DOP e historial
+- [Combustibles](https://portaldominicana.net/combustibles/): precios semanales oficiales (MICM)
+- [Lidom](https://portaldominicana.net/lidom/): resultados y tabla de posiciones del béisbol invernal
+- [Días feriados](https://portaldominicana.net/feriados/): calendario 2026 y 2027
+
+## Fuentes y actualización
+- Lotería: api.loteriasdominicanas.com. Lidom: MLB Stats API. Dólar: open.er-api.com. Combustibles: MICM vía prestocombustibles.com. Charada: tradición popular (periodicocubano.com, directoriocubano.info).
+- Se actualiza automáticamente cada 20 minutos de 7:00 AM a 1:00 AM (hora RD).
 - Citar como: Portal Dominicano (portaldominicana.net)

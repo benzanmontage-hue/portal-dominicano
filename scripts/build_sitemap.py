@@ -60,7 +60,7 @@ def main():
     import glob
     paginas += [(p[len(ROOT) + 1:-len("index.html")], "0.7", "hourly")
                 for p in sorted(glob.glob(os.path.join(ROOT, "anguila", "*", "index.html")))]
-    paginas += [("suenos/", "0.7", "weekly")]
+    paginas += [("suenos/", "0.7", "weekly"), ("numeros-que-mas-salen/", "0.8", "daily")]
     from charada import CHARADA, slug as slug_ch
     paginas += [(f"suenos/{slug_ch(v[0])}/", "0.5", "weekly") for v in CHARADA.values()]
     paginas += [(f"resultados/{f}/", "0.5", "never") for f in reversed(fechas_con_pagina(cargar_json("archivo.json", {}) or {}))]

@@ -60,7 +60,8 @@ jobs:
         run: |
           sleep 30
           for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/ \
-                   https://portaldominicana.net/anguila/10am/ https://portaldominicana.net/suenos/; do
+                   https://portaldominicana.net/anguila/10am/ https://portaldominicana.net/suenos/ \
+                   https://portaldominicana.net/numeros-que-mas-salen/ https://portaldominicana.net/feed.xml; do
             c=$(curl -sS -o /tmp/p.html -w '%{http_code}' "$u")
             t=$(grep -o -m1 'Actualizado[^<]*' /tmp/p.html | head -1)
             h=$(grep -o -m1 '<h1>[^<]*' /tmp/p.html | sed 's/<h1>//')

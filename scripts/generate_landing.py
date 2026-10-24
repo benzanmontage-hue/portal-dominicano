@@ -116,6 +116,8 @@ h2.sect .bar{width:5px;height:20px;border-radius:99px;background:var(--grad);fle
 .lot-card h3{font-weight:700;font-size:.95rem}
 .lot-card .lot-meta{font-size:.76rem;color:var(--muted);margin-top:2px}
 .lot-card .lot-meta .ant{color:var(--rojo);font-weight:600}
+.charada-l{font-size:.78rem;color:var(--muted);margin-top:10px;line-height:1.5}
+.charada-l a{color:var(--muted);text-decoration:none;border-bottom:1px dotted currentColor}
 .lot-card .nums{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
 .ball{min-width:36px;height:36px;padding:0 7px;display:inline-flex;align-items:center;justify-content:center;background:var(--bg);border:1px solid var(--border);border-radius:10px;font-weight:800;font-size:1rem;font-variant-numeric:tabular-nums}
 .ball.gold{background:linear-gradient(180deg,#ffe08a,#f2b32e);color:#3d2800;border-color:#e6a800}
@@ -169,6 +171,19 @@ JS = """
 """
 
 
+def charada_linea(nums):
+    """'En la charada: 39 Conejo · 22 Sapo' para quinielas (hasta 4 números de 2 cifras)."""
+    from charada import significado
+    if not nums or len(nums) > 4 or not all(len(n) == 2 and n.isdigit() for n in nums):
+        return ""
+    partes = []
+    for n in nums:
+        nombre, url = significado(n)
+        if nombre:
+            partes.append(f'<a href="{url}">{esc(n)} {esc(nombre.lower())}</a>')
+    return f'<div class="charada-l">Charada: {" · ".join(partes)}</div>' if partes else ""
+
+
 def render_cards(juegos, hoy):
     cards = []
     for j in juegos:
@@ -182,6 +197,7 @@ def render_cards(juegos, hoy):
             f'<h3>{esc(limpiar(j["juego"]))}</h3>'
             f'<div class="lot-meta">{meta}</div>'
             f'<div class="nums">{balls_html(j["numeros"])}</div>'
+            + charada_linea(j["numeros"]) +
             '</article>'
         )
     return "\n    ".join(cards)
@@ -297,8 +313,7 @@ def render_pagina(l, resultados, archivo):
                 "@type": "BreadcrumbList", "@id": url + "#breadcrumb",
                 "itemListElement": [
                     {"@type": "ListItem", "position": 1, "name": "Portal Dominicano", "item": BASE + "/"},
-                    {"@type": "ListItem", "position": 2, "name": "Lotería de hoy", "item": BASE + "/#loteria"},
-                    {"@type": "ListItem", "position": 3, "name": l["nombre"], "item": url},
+                    {"@type": "ListItem", "position": 2, "name": l["nombre"], "item": url},
                 ],
             },
             {
@@ -342,6 +357,7 @@ def render_pagina(l, resultados, archivo):
 <meta name="geo.region" content="DO">
 <link rel="icon" type="image/png" href="../img/icon-192.png">
 <link rel="manifest" href="../manifest.json">
+<link rel="alternate" type="application/rss+xml" title="Resultados de lotería — Portal Dominicano" href="https://portaldominicana.net/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"></noscript>
@@ -352,7 +368,6 @@ def render_pagina(l, resultados, archivo):
 <header class="hero">
   <nav class="crumb" aria-label="Ruta de navegación"><ol>
     <li><a href="../">Portal Dominicano</a></li>
-    <li><a href="../#loteria">Lotería de hoy</a></li>
     <li aria-current="page">{esc(l['nombre'])}</li>
   </ol></nav>
   <h1>{esc(l['h1'])}</h1>
@@ -372,7 +387,7 @@ def render_pagina(l, resultados, archivo):
 
   {hist_html}
 
-  <p class="intro" style="margin-top:10px"><a href="/resultados/" style="color:var(--azul2);font-weight:700">Ver resultados de días anteriores por fecha ›</a></p>
+  <p class="intro" style="margin-top:10px"><a href="/resultados/" style="color:var(--azul2);font-weight:700">Ver resultados de días anteriores por fecha ›</a> · <a href="/numeros-que-mas-salen/" style="color:var(--azul2);font-weight:700">Números que más salen ›</a></p>
 
   <h2 class="sect"><span class="bar"></span> Juegos de {esc(l['nombre'])}</h2>
   <ul class="juegos">{lista_juegos}</ul>

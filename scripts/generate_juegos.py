@@ -113,7 +113,7 @@ def render_juego(slug, nombre, h1, claves, res, archivo):
                    "Resultados", "Números Ganadores")
     desc = (f"Resultados de {nombre} de hoy en República Dominicana ({lista_txt(companias)}). "
             f"Último sorteo: {nums_ult}. Números ganadores e historial de días anteriores.")
-    migas = [("Portal Dominicano", "/"), ("Lotería de hoy", "/#loteria"), (nombre, ruta)]
+    migas = [("Portal Dominicano", "/"), (nombre, ruta)]
     ld = jsonld(url, h1, desc, migas, extra=[faq_ld(url, faqs)], fecha_mod=upd.isoformat(timespec="seconds"))
     escribir(ruta, pagina(ruta=ruta, title=title, desc=desc, h1=h1, sub=f"Resultados del {fecha_larga(hoy)}",
                           chip=f"Lotería: {lista_txt(companias)}", migas=migas, cuerpo=cuerpo, ld=ld))

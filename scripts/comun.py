@@ -47,7 +47,7 @@ JUEGO_PRINCIPAL = {
 }
 
 SECCIONES = [
-    ("lidom", "Lidom"), ("combustibles", "Combustibles"), ("suenos", "Tabla de sueños"), ("mlb", "MLB"), ("traductor", "Traductor"), ("tiempo-santo-domingo", "Clima"),
+    ("lidom", "Lidom"), ("combustibles", "Combustibles"), ("suenos", "Tabla de sueños"), ("numeros-que-mas-salen", "Números que más salen"), ("mlb", "MLB"), ("traductor", "Traductor"), ("tiempo-santo-domingo", "Clima"),
     ("dolar-hoy", "Dólar hoy"), ("economia-rd", "Economía"), ("noticias-rd", "Noticias"),
     ("eventos-rd", "Eventos"),
 ]

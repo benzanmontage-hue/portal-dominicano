@@ -20,3 +20,7 @@
 
 /compartir/*
   Cache-Control: public, max-age=600
+
+/feed.xml
+  Cache-Control: public, max-age=600
+  Content-Type: application/rss+xml; charset=utf-8
