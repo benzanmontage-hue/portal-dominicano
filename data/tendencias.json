@@ -1,20 +1,27 @@
 {
-  "updated": "2026-10-24T19:18:02.140543-04:00",
-  "hora": "19:18",
+  "updated": "2026-10-24T19:38:28.356398-04:00",
+  "hora": "19:38",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "76ers - bucks",
+      "trafico": "200+",
+      "noticia": "Sixers seek 3-0 start against winless Bucks",
+      "enlace": "https://www.cbssports.com/nba/news/sixers-seek-3-0-start-against-winless-bucks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
+    },
+    {
       "termino": "lidom hoy",
-      "trafico": "100+",
-      "noticia": "Águilas Cibaeñas sufren otra derrota y caen al último lugar en R.D.",
-      "enlace": "https://www.mlb.com/es/news/aguilas-cibaenas-sufren-otra-derrota-y-caen-al-ultimo-lugar-de-r-d",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBJJtGiMDY6BaAi1QSConI6sWHshIkZfmxrk0cm3O64I_XLFN5FcTG_Av7Ic"
+      "trafico": "200+",
+      "noticia": "EN VIVO: Toros del Este vs. Gigantes del Cibao",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-toros-vs-gigantes-250997",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2EmxEXgweXwgY_DalrjtdiUtUnNd5tIUeF_x4uASBIOMd2TlYm1xjORNmeuo"
     },
     {
       "termino": "policía",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Mateo Moquete sufre accidente y director de Policía lo visita",
       "enlace": "https://elnacional.com.do/nacionales/policiales/director-policia-visita-general-mateo-moquete-sufrir-accidente-via-nagua_584337.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvGZ8G_gy19A6KyQnvrgADt9WVDvdvZ38yq3g-nYCNRN_h8Ln1qbFFunc4u1w"
@@ -35,10 +42,10 @@
     },
     {
       "termino": "new york rb - inter miami",
-      "trafico": "500+",
-      "noticia": "MATCH PREVIEW: Inter Miami CF Visits Red Bull New York in Search of Fourth Straight Win",
-      "enlace": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-visits-red-bull-new-york-in-search-of-fourth-straight-win",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHH4vu-nd98gSFT5YAs1CYSCc7Vs0q5TYG8mhm64UF5scbeG9E5MC2l102ogc"
+      "trafico": "1000+",
+      "noticia": "New York Red Bulls vs Inter Miami LIVE streaming, TV channel, kick-off time   where to watch MLS 2026",
+      "enlace": "https://khelnow.com/football/new-york-red-bulls-vs-inter-miami-where-to-watch-mls-202610",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8ggmv7MDi4qfSvAiJj-8ZTvF-3CoWXmYmiOXPNNB-4deX8VPzMk0Ft43R9DE"
     },
     {
       "termino": "escuela",
@@ -64,16 +71,9 @@
     {
       "termino": "atlético madrid - deportivo",
       "trafico": "2000+",
-      "noticia": "Atlético de Madrid - Deportivo hoy, en directo: partido de LaLiga EA Sports, en vivo",
+      "noticia": "Atlético de Madrid 1-0 Deportivo: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/primera/atletico-de-madrid-deportivo-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdA1Y4xPG8k9cSzRCBvRNR-xZ_E7S3MspBpZHKDmrpagnQI63DGzARQvDueA"
-    },
-    {
-      "termino": "ufc",
-      "trafico": "500+",
-      "noticia": "Joshua Van vs. Manel Kape set for UFC 336",
-      "enlace": "https://www.mmafighting.com/ufc/517377/joshua-van-vs-manel-kape-set-for-ufc-336",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSXvCeRu_ShRBkeqPVxuRrgFLr37oA4yLIM57OYsgK_nMBre6Zvbl0QhrD5V4"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_AQAxd9tFMR579JU6a0FWCPq6NxOu_pu4_3vq4BrQu03Wb-A5TC_E7SbHZLw"
     }
   ]
 }
