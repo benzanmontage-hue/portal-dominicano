@@ -1,35 +1,41 @@
-# Actualiza los datos del portal y regenera las páginas varias veces al día.
-# Reemplaza al cron del servidor antiguo. Gratis en repositorios públicos.
+# Actualiza los datos del portal, regenera las páginas y publica en Cloudflare Pages.
+#
+# GitHub solo arranca unas pocas de las ejecuciones programadas al día, así que cada ejecución
+# programada se queda activa ~5,5 horas y actualiza cada 20 minutos (scripts/ciclo.sh).
+# Mientras una está activa, la siguiente programada espera en cola y arranca al terminar.
+# Un push (cambio de código) hace una sola actualización inmediata, en paralelo.
 name: Actualizar datos
 
 on:
   schedule:
-    # Hora UTC. Cada hora a los :37 de 8:37 AM a 12:37 AM hora RD (UTC-4).
-    # GitHub a veces retrasa o salta ejecuciones programadas; correr cada hora lo compensa.
-    - cron: "37 0-4,12-23 * * *"
-  workflow_dispatch: {}   # botón "Run workflow" para actualizar a mano
+    - cron: "37 * * * *"
+  workflow_dispatch: {}   # botón "Run workflow" para arrancar un ciclo a mano
   push:
-    branches: [main]      # publica también cuando se cambia el código
+    branches: [main]
 
 permissions:
   contents: write
 
 concurrency:
-  group: actualizar-datos
+  group: actualizar-${{ github.event_name == 'push' && 'push' || 'ciclo' }}
   cancel-in-progress: false
 
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     env:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+      CF_PAGES_PROJECT: ${{ vars.CF_PAGES_PROJECT || 'portal-dominicano' }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
 
       - uses: actions/setup-python@v6
         with:
@@ -38,99 +44,21 @@ jobs:
       - name: Instalar dependencias
         run: pip install --quiet pillow
 
-      - name: Descargar datos y regenerar páginas
-        id: update
-        run: python3 scripts/update_all.py
-        continue-on-error: true
-
-      - name: Publicar cambios
-        id: publicar
+      # push: 1 vuelta. Programada o manual: 16 vueltas cada 20 minutos (~5,5 h).
+      - name: Actualizar y publicar
         run: |
-          git config user.name "portal-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "Sin cambios."
-            echo "commit=no" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          if git diff --cached --quiet -- data/tarjeta_numeros.txt; then
-            echo "numeros=no" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" = "push" ]; then
+            bash scripts/ciclo.sh 1 0
           else
-            echo "numeros=si" >> "$GITHUB_OUTPUT"
+            bash scripts/ciclo.sh 16 20
           fi
-          git commit -q -m "auto-update datos ($(TZ=America/Santo_Domingo date '+%d/%m/%Y %H:%M') RD)"
-          git pull -q --rebase origin main
-          git push -q origin HEAD:main
-          echo "commit=si" >> "$GITHUB_OUTPUT"
 
-      # Publica en Cloudflare Pages (portaldominicana.net). Necesita dos "secrets" del repositorio:
-      #   CLOUDFLARE_API_TOKEN  (permiso: Cloudflare Pages → Edit)
-      #   CLOUDFLARE_ACCOUNT_ID
-      # y opcionalmente la variable CF_PAGES_PROJECT (por defecto "portal-dominicano").
-      # Si faltan, este paso se salta sin error.
-      - name: Publicar en Cloudflare Pages
-        if: env.CLOUDFLARE_API_TOKEN != ''
-        env:
-          PROYECTO: ${{ vars.CF_PAGES_PROJECT || 'portal-dominicano' }}
-        run: |
-          mkdir -p _site
-          rsync -a --exclude '.git' --exclude '.github' --exclude '_site' --exclude 'scripts' \
-            --exclude 'screenshots' --exclude 'README.md' --exclude 'LICENSE' --exclude '.gitignore' \
-            --exclude 'data/sitemap_estado.json' --exclude 'data/tarjeta*.txt' ./ _site/
-          npx -y wrangler@3 pages deploy _site --project-name="$PROYECTO" --branch=main --commit-dirty=true
-
-      # Borra la caché de Cloudflare para que portaldominicana.net muestre la versión nueva.
-      # Necesita el secret CLOUDFLARE_ZONE_ID y que el token tenga el permiso "Zone → Cache Purge".
-      - name: Borrar caché de Cloudflare
-        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ZONE_ID != ''
-        run: |
-          r=$(curl -sS -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE_ID/purge_cache" \
-            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
-            --data '{"purge_everything":true}')
-          echo "$r" | grep -q '"success":true' && echo "Caché borrada." || { echo "::warning::No se pudo borrar la caché: $r"; }
-
-      - name: Avisar a buscadores (IndexNow)
-        if: steps.publicar.outputs.commit == 'si'
-        continue-on-error: true
-        run: python3 scripts/indexnow.py
-
-      # Telegram: secrets TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID (p. ej. @mi_canal). Solo cuando hay números nuevos.
-      - name: Publicar en Telegram
-        if: steps.publicar.outputs.numeros == 'si' && env.TELEGRAM_BOT_TOKEN != ''
-        continue-on-error: true
-        env:
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -sS -F chat_id="$TELEGRAM_CHAT_ID" -F photo=@compartir/resultados-hoy.png \
-            -F caption="$(head -c 1000 data/tarjeta.txt)" -F parse_mode=Markdown \
-            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" | grep -q '"ok":true' && echo "Enviado a Telegram."
-
-      # Facebook: secrets FB_PAGE_ID y FB_PAGE_TOKEN (token de página). Máximo 3 publicaciones al día (1:20, 7:20 y 9:20 PM RD).
-      - name: Publicar en Facebook
-        if: steps.publicar.outputs.numeros == 'si' && env.FB_PAGE_TOKEN != ''
-        continue-on-error: true
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-        run: |
-          H=$(TZ=America/Santo_Domingo date +%H)
-          case "$H" in 13|19|21) ;; *) echo "Fuera de horario de Facebook ($H h)."; exit 0;; esac
-          curl -sS -F source=@compartir/resultados-hoy.png -F message="$(cat data/tarjeta.txt)" \
-            -F access_token="$FB_PAGE_TOKEN" "https://graph.facebook.com/v21.0/${FB_PAGE_ID}/photos" | grep -q '"id"' && echo "Publicado en Facebook."
-
-      # Deja constancia (anotación) de lo que ven los visitantes, para detectar caché vieja.
+      # Deja constancia (anotación) de lo que ven los visitantes.
       - name: Comprobar sitio en vivo
+        if: always()
         continue-on-error: true
         run: |
-          sleep 20
-          for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/ https://portal-dominicano.pages.dev/leidsa/; do
-            h=$(curl -sS -D - -o /tmp/p.html "$u" | tr -d '\r' | grep -i -E '^(cf-cache-status|age|cache-control):' | tr '\n' ' ')
-            t=$(grep -o -m1 'Actualizado[^<]*' /tmp/p.html | head -1)
-            echo "::notice title=En vivo::$u -> ${t:-sin fecha} | $h"
+          for u in https://portaldominicana.net/ https://portaldominicana.net/leidsa/; do
+            t=$(curl -sS "$u" | grep -o -m1 'Actualizado[^<]*' | head -1)
+            echo "::notice title=En vivo::$u -> ${t:-sin fecha}"
           done
-
-      - name: Avisar si falló la lotería
-        if: steps.update.outcome == 'failure'
-        run: |
-          echo "::error::Falló la descarga de lotería o la generación de páginas. Revisa el paso anterior."
-          exit 1
