@@ -1,6 +1,6 @@
 {
  "actualizado": "2026-10-24T19:14:05+00:00",
- "total": 40,
+ "total": 39,
  "emisoras": [
   {
    "nombre": "Disco 106.1",
@@ -278,15 +278,6 @@
   {
    "nombre": "wao89.1",
    "url": "https://stream.zeno.fm/pkxlvgeiocstv",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
-   "tags": [],
-   "clics": 4
-  },
-  {
-   "nombre": "GamersOnFireHR",
-   "url": "https://stream.zeno.fm/2h6plesly3nvv",
    "codec": "MP3",
    "bitrate": 128,
    "favicon": "",

@@ -28,7 +28,7 @@ MAXIMO = 40
 PREFERIDAS = ["zol 106", "la bakana", "kq 94", "disco 106", "dominicana fm", "amor fm", "la rocka", "la nueva 106",
               "escandalo 102", "be 99", "canal 105", "comando 88", "super q", "la 91", "la mega", "rumba 98",
               "z 101", "cdn radio", "bachata", "criolla 106", "estelar 106"]
-EXCLUIR = re.compile(r"islam|quran|cor[aá]n|abdul|mp3islam", re.I)
+EXCLUIR = re.compile(r"islam|quran|cor[aá]n|abdul|mp3islam|gamer", re.I)
 
 
 def norm(t):
