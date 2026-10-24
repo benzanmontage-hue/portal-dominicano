@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24T18:57:50-04:00",
+ "actualizado": "2026-10-24T19:18:15-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -727,6 +727,14 @@
   ],
   "Anguila|Anguila 7:00 PM": [
    {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "85",
+     "73",
+     "98"
+    ]
+   },
+   {
     "fecha": "2026-10-23",
     "numeros": [
      "02",
@@ -1426,6 +1434,12 @@
   ],
   "La Primera|El Quinielón Noche": [
    {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "68"
+    ]
+   },
+   {
     "fecha": "2026-10-23",
     "numeros": [
      "66"
@@ -1550,6 +1564,17 @@
   ],
   "La Primera|Loto 5": [
    {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "27",
+     "02",
+     "26",
+     "32",
+     "10",
+     "03"
+    ]
+   },
+   {
     "fecha": "2026-10-23",
     "numeros": [
      "31",
@@ -1639,6 +1664,14 @@
    }
   ],
   "La Primera|Primera Noche": [
+   {
+    "fecha": "2026-10-24",
+    "numeros": [
+     "60",
+     "83",
+     "59"
+    ]
+   },
    {
     "fecha": "2026-10-23",
     "numeros": [
