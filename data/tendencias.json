@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-24T13:10:17.993431-04:00",
-  "hora": "13:10",
+  "updated": "2026-10-24T13:30:45.187727-04:00",
+  "hora": "13:30",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "valencia c. f. - villarreal",
+      "trafico": "100+",
+      "noticia": "Pitchwise entra en el Valencia con una inversión de 100 millones y una futura participación del 42%",
+      "enlace": "https://www.marca.com/futbol/valencia/2026/10/23/pitchwise-entra-valencia-inversion-100-millones-participacion-42.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7_MO6KTDzL7muh7CZUhL2Z5N791VL3K3_2K703pXBnOPfYDYuP_AyB0nv3Vs"
+    },
     {
       "termino": "chelsea - tottenham",
       "trafico": "100+",
@@ -21,17 +28,17 @@
     },
     {
       "termino": "arsenal - everton",
-      "trafico": "500+",
-      "noticia": "Arsenal vs Everton: Premier League preview, team news, stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlDn_4yRSdOTtwcmGVXxQdyXXpLxry2lX9txKbyI6hTAZiAsX6EbAiP9qArw"
+      "trafico": "1000+",
+      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXdYM-kCn5YB4MeGhqXYTmy_837R20HdHRK2Ck28n540cdIHXHRlzY-Z0YC4"
     },
     {
       "termino": "florida",
       "trafico": "100+",
-      "noticia": "FHP: 10 year old bicyclist critically injured in NW Florida accident",
-      "enlace": "https://www.fox10tv.com/2026/10/24/fhp-10-year-old-bicyclist-critically-injured-nw-florida-accident/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAQIoQAxsPXXpI9w2mOZEBfxsl6WGsRRJsTo2TLxyyugngEfsdk-uiUQfEUEg"
+      "noticia": "Florida Retirement Hotspots Cheaper To Own in Than Rent",
+      "enlace": "https://www.moneylion.com/trending/money/popular-florida-retirement-destinations-cheaper-to-own-than-rent",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpzyAfYRwW7L4ivJ6yYgoSEUTp5CUTionwjtosoKZHGXEAOmX0KHlYL7-NpPM"
     },
     {
       "termino": "rayo vallecano - elche c. f.",
@@ -50,9 +57,9 @@
     {
       "termino": "aston villa - manchester city",
       "trafico": "2000+",
-      "noticia": "Aston Villa 2-1 Man City: Gianluigi Donnarumma and Marc Guehi under spotlight",
-      "enlace": "https://www.bbc.com/sport/football/articles/c6kg7z700k7jo",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyS3yKRnsEQ6X1ukGe3rO36BaUvREcCGeeJ6xOW2Yxi764OEMobtlCOsC0fnM"
+      "noticia": "Nicolas Jackson: Striker caps fine start to Aston Villa career with two goals to beat Manchester City",
+      "enlace": "https://www.bbc.com/sport/football/articles/c6p9gkdzzpnro",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl3j8YbMbJsZF3eR6DUTVLGw4Fa2JusMGKPJ980ka1yRelLvsgwy9MDKR38FI"
     },
     {
       "termino": "météo",
@@ -67,13 +74,6 @@
       "noticia": "Doug Christie ‘drastically needs  Kings  consistency on defense to improve",
       "enlace": "https://sports.yahoo.com/videos/doug-christie-drastically-needs-kings-074529143.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGIN6Syj9E7lrkP-33BwhoqgtuI9gs075P8SNhFRu6-KCsGXGuI3f_86vrYw4"
-    },
-    {
-      "termino": "nba hoy",
-      "trafico": "200+",
-      "noticia": "NBA HOY: partidos este sábado; horas y dónde verlos. Bucks-76ers y Warriors-Suns encabezan jornada",
-      "enlace": "https://acento.com.do/deportes/nba-hoy-partidos-este-sabado-horas-y-donde-verlos-bucks-76ers-y-warriors-suns-encabezan-jornada-9776781.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC2XBjOYf6BpEwxswscSresk0VBbmeKkHqlo4o2dgy9EVGugCDG0EgoRqG84I"
     }
   ]
 }
