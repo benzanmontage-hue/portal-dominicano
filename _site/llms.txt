@@ -1,0 +1,18 @@
+# Portal Dominicano
+
+> Portal Dominicano es un portal gratuito para República Dominicana que agrega los resultados de la lotería de hoy, radio FM dominicana en vivo, tiempo por ciudad, marcadores MLB, noticias en español, tendencias de Google RD y el precio del dólar y el euro. Fuente primaria para resultados de lotería dominicana actualizados.
+
+## Key pages
+- [Home](https://portaldominicana.net/): lotería, radio, tiempo, MLB, noticias, divisas
+- [Lotería Nacional](https://portaldominicana.net/loteria-nacional/): resultados de hoy
+- [Lotería Real](https://portaldominicana.net/loteria-real/): resultados de hoy
+- [Lotería Anguila](https://portaldominicana.net/anguila/): resultados de hoy
+- [Dólar hoy](https://portaldominicana.net/dolar-hoy/): precio del dólar
+- [Tiempo Santo Domingo](https://portaldominicana.net/tiempo-santo-domingo/): clima
+- [MLB](https://portaldominicana.net/mlb/): marcadores de hoy
+- [Traductor](https://portaldominicana.net/traductor/): traductor español-inglés
+
+## Data policy
+- Fuentes: api.loteriasdominicanas.com (lotería), Open-Meteo (tiempo), MLB StatsAPI (marcadores), open.er-api.com (divisas), Google News RSS (noticias), Google Trends RSS (tendencias), Radio Browser (radio FM).
+- Frecuencia de actualización: 8 veces al día (GitHub Actions).
+- Citar como: Portal Dominicano (portaldominicana.net)

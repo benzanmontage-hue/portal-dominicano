@@ -1,23 +1,30 @@
 {
-  "updated": "2026-10-24T12:09:47.155683-04:00",
-  "hora": "12:09",
+  "updated": "2026-10-24T12:29:21.558200-04:00",
+  "hora": "12:29",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "napoli - roma",
+      "trafico": "100+",
+      "noticia": "Serie A, oggi Napoli-Roma – Diretta",
+      "enlace": "https://www.isolaonline24.it/2026/10/24/serie-a-oggi-napoli-roma-diretta-2/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMZVhkTT_u25iuBoK3FBK_t45bPRb-yBqxlDKfVZR0Ju8JdtWRwiDzOMTmnMc"
+    },
+    {
+      "termino": "arsenal - everton",
+      "trafico": "1000+",
+      "noticia": "Arsenal vs Everton: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c6vgj4p7dzd7t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlDn_4yRSdOTtwcmGVXxQdyXXpLxry2lX9txKbyI6hTAZiAsX6EbAiP9qArw"
+    },
     {
       "termino": "posiciones de aston villa contra manchester city",
       "trafico": "2000+",
       "noticia": "Man City lose 100% Premier League record with defeat at Aston Villa",
       "enlace": "https://www.espn.com/soccer/story/_/id/50265416/man-city-lose-100-premier-league-record-defeat-aston-villa",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFqF9FH8uOPUIcmitNpHMbpiVwY0s3OfdsNNjSB26bQ_tq6bROOGgWaZaK3I"
-    },
-    {
-      "termino": "arsenal - everton",
-      "trafico": "500+",
-      "noticia": "Premier League: Arsenal beat Everton and Fulham win at Coventry - reaction",
-      "enlace": "https://www.bbc.com/sport/football/live/cm4gvy14w7q4t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5_gDRRxys-ckqNUP6ujzdMmDxequb771wQBP2DkEkAvUgZ7lSgysbqoCjw4"
     },
     {
       "termino": "rayo vallecano - elche c. f.",
@@ -29,9 +36,9 @@
     {
       "termino": "puente",
       "trafico": "200+",
-      "noticia": "Kim Jong-un viaja a China por un puente recién inaugurado, según Seúl",
-      "enlace": "https://www.dw.com/es/kim-jong-un-viaja-a-china-por-un-puente-reci%C3%A9n-inaugurado-seg%C3%BAn-se%C3%BAl/a-79749031",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhYFyWdWsZAPX-EV2_U1o-nl7Wunc3LWid0GnxOy3Jht8OrpTD9Bi80HIzRio"
+      "noticia": "Cierre del puente de Real de Gandia por riesgo de colapso tras la DANA",
+      "enlace": "https://cadenaser.com/comunitat-valenciana/2026/10/23/cierre-del-puente-de-real-de-gandia-por-riesgo-de-colapso-tras-la-dana-radio-gandia/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4OcGTPluGNKGCwYwqbFwith93C_UnXXMsFYa6odLL0262LYdu3MzJhxhJ2Io"
     },
     {
       "termino": "météo",
@@ -43,9 +50,9 @@
     {
       "termino": "kings - trail blazers",
       "trafico": "100+",
-      "noticia": "Acuff, Sabonis  efforts can t lead Sacramento Kings past POR",
-      "enlace": "https://sactownsports.com/nba/sacramento-kings/blazers-acuff",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr786M5PDPyTYRHYwHB3HjTH_P_FPZ67je36PzYbhLrUw1LH_rnJW4hZcIppA"
+      "noticia": "Doug Christie ‘drastically needs  Kings  consistency on defense to improve",
+      "enlace": "https://sports.yahoo.com/videos/doug-christie-drastically-needs-kings-074529143.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGIN6Syj9E7lrkP-33BwhoqgtuI9gs075P8SNhFRu6-KCsGXGuI3f_86vrYw4"
     },
     {
       "termino": "nba hoy",
@@ -67,13 +74,6 @@
       "noticia": "Warriors rookie Graham Ike gets first NBA start vs. Grizzlies",
       "enlace": "https://www.fresnobee.com/sports/article317758731.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOpEdJUpzx6L1yzhosdfmYBWlWQdyhsPYCRMVvjEfW-yhWQcL67LOoYVVu5c"
-    },
-    {
-      "termino": "mlb",
-      "trafico": "2000+",
-      "noticia": "Orioles news: An uncertain MLB offseason inches closer",
-      "enlace": "https://sports.yahoo.com/articles/orioles-news-uncertain-mlb-offseason-120000055.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPiQQeYRCo398VP9pxRkbsH4o03_SJI2OX1f_AoI7UO7ROiCOtQeWdbQ_UIpw"
     }
   ]
 }
