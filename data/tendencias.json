@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-25T11:11:40.570944-04:00",
-  "hora": "11:11",
+  "updated": "2026-10-25T11:32:01.292214-04:00",
+  "hora": "11:32",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "celta de vigo - real betis",
+      "trafico": "200+",
+      "noticia": "Celta - Betis: El calendario prueba la madurez del Betis",
+      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/celta-betis-calendario-prueba-madurez-betis-20261025071803-nts.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4pEZcRlafED_WhJnMUscuGwnATSPvoYiTOLY6JYCK-wPUkNiSoktHVHBR22s"
+    },
+    {
       "termino": "manchester united - bournemouth",
       "trafico": "200+",
-      "noticia": "Carrick s team news for Cherries clash",
-      "enlace": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ty_-98Lf52dHkAsVu8MEzh0AB6j9ooGYAZwz06Pe27W9vnRrqVusKReSsUk"
+      "noticia": "Liverpool vs Brighton   Hove Albion: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Fbr75z4wiLdAMoPiKoNbbb-c2rNp-YVHbDpmITh_T7mPjb_xs_cHXpZ0hGE"
     },
     {
       "termino": "liverpool - brighton",
@@ -48,13 +55,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
-      "termino": "tiempo",
-      "trafico": "2000+",
-      "noticia": "Chicago: el tiempo para hoy domingo 25 de octubre",
-      "enlace": "https://eldiariony.com/2026/10/25/chicago-el-tiempo-para-hoy-domingo-25-de-octubre/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLft7tMU2Rzl737YQBCf_3eh1NPmFz1ReGy5aPkBI2HREVq0Lo_Cevcswdcc"
-    },
-    {
       "termino": "nayib bukele",
       "trafico": "2000+",
       "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
@@ -64,9 +64,9 @@
     {
       "termino": "clima",
       "trafico": "20000+",
-      "noticia": "Descontinúan alerta verde para El Gran Santo Domingo y 4 provincias ante disminución de aguaceros",
-      "enlace": "https://listindiario.com/la-republica/20261024/descontinua-salerta-verde-gran-santo-domingo-4-provincias-disminucion-aguaceros_927375.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
       "termino": "jacob misiorowski",
