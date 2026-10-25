@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-25T00:45:17.910408-04:00",
-  "hora": "00:45",
+  "updated": "2026-10-25T07:06:16.774896-04:00",
+  "hora": "07:06",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "météo",
+      "trafico": "100+",
+      "noticia": "Météo. Quel temps fera-t-il à Châteaubriant et ses environs le dimanche 25 octobre 2026 ?",
+      "enlace": "https://www.ouest-france.fr/meteo/pays-de-la-loire/chateaubriant-44110/la-meteo-du-jour-a-chateaubriant-61026cfe-28a6-4c8d-b124-d77ef6e131fb",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6k6yokPg_2vc4BrUU3-DRbs7nGz7ELfBF2mFRoSzT1cgUY8qhwY-sE8u4nqs"
+    },
+    {
+      "termino": "brandon williams",
+      "trafico": "200+",
+      "noticia": "Rotherham United Announce Free Agent Capture Of Former Norwich City Man",
+      "enlace": "https://footballlowdown.com/rotherham-united-announce-free-agent-capture-of-former-norwich-city-man/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR__rtHwadu40wIpVRe6FeAWtuYBLBtMez_CiDV51gDAtmWAVs4uwrjxCkI8F0"
+    },
     {
       "termino": "yaxel lendeborg",
       "trafico": "200+",
@@ -15,65 +29,51 @@
     {
       "termino": "mob",
       "trafico": "100+",
-      "noticia": "Sahil Wakode death case: Parents seek CM intervention in demise of IIT Bombay student",
-      "enlace": "https://www.thehindu.com/news/cities/mumbai/iit-b-student-death-case-sahil-wakodes-parents-seek-cm-intervention/article71603332.ece",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ16Rgsaf6T7PwkUxMGnev6Qp9jSDeyX2io1X-GVaDzdneDABG_JQMLPx6Yw5I"
+      "noticia": "Two killed in mob beating over alleged auto-rickshaw theft in Rangpur",
+      "enlace": "https://www.tbsnews.net/bangladesh/two-killed-mob-beating-over-alleged-auto-rickshaw-theft-rangpur-1582321",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ECCJ2WmZYZx2GzmSFCPP7A3gZaibsf5XumpE98WV1H6JZv4uDZ4ExEoJRQM"
     },
     {
       "termino": "tampa bay",
-      "trafico": "1000+",
-      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
-      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
+      "trafico": "200+",
+      "noticia": "A pleasant morning leads to a warm afternoon",
+      "enlace": "https://www.winknews.com/weather/a-pleasant-morning-leads-to-a-warm-afternoon/article_21e9034d-c8bf-4655-9ce5-c335b2993f2f.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjZvq8oKUv693YAN4caHQHEsGfw8XVDdErNMnkimWD5nas7bn9C7RD0zA5yU8"
     },
     {
       "termino": "nuggets - pelicans",
-      "trafico": "500+",
-      "noticia": "Portland vs. Charlotte (25 Oct, 2026) Team Stats",
-      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/761902/league/usa.1",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3Q-ViczcAqSnDSSLKP_9jmYvQ0hJDzjle4ol5ZqvgTfOEhYMTGA2gH-kLz38"
+      "trafico": "200+",
+      "noticia": "Nuggets host Pelicans as both teams seek first win",
+      "enlace": "https://www.cbssports.com/nba/news/nuggets-host-pelicans-as-both-teams-seek-first-win/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOSGK1DZjkpwfZW88On2escB7mklK61Kb09R5RXwSG9XwOYq3aJ8vCbOETH94"
     },
     {
       "termino": "juego de hoy mlb",
       "trafico": "1000+",
-      "noticia": "Lo que debes saber sobre el J2 de la Serie Mundial entre Rays y Cerveceros (EN VIVO)",
-      "enlace": "https://www.mlb.com/es/news/lo-que-debes-saber-juego-2-serie-mundial-2026-rays-cerveceros",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
+      "noticia": "Cerveceros dan otro golpe con remontada para ponerse 2-0 en la Serie Mundial",
+      "enlace": "https://www.mlb.com/es/news/cerveceros-ganan-el-juego-2-de-la-serie-mundial-del-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIxxEXZIQ3cbK1oKCE7DXbo0eeMO4PumvON9kR77LEtkLpx0s0V_lRvdhpogM"
     },
     {
       "termino": "hawks - rockets",
       "trafico": "200+",
-      "noticia": "Reed Sheppard News: Nets 19 points with seven assists",
-      "enlace": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-nets-19-points-with-seven-assists-535947",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBQzu9zTdML8I4TEDkxigBIzxp-SO6O2L7q6gxhOV2X9AtLQU_neGfQ6iH2Vw"
+      "noticia": "Sengun records double-double as Houston beats Atlanta 121-114",
+      "enlace": "https://www.turkiyetoday.com/sports/sengun-records-double-double-as-houston-beats-atlanta-121-114-3230972",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRDRmfXUlblRQMFig6JLYoCm-LbF8E5_Re-aHVK23p4p2UqGd3foh4mS9MOw"
     },
     {
       "termino": "suns - warriors",
       "trafico": "2000+",
-      "noticia": "Steph Curry, Brandin Podziemski not expected to play in Warriors vs. Suns game",
-      "enlace": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-brandin-podziemski-not-expected-to-play-suns/1973812/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRDGTce6SXNI8gRXnxkrF6NnJN_wRXzxz1zk6mf3XDywslQ856U8o1E9qp5CM"
+      "noticia": "Postgame analysis of rookie Yaxel Lendeborg s big game despite the loss to Suns",
+      "enlace": "https://www.nba.com/watch/video/postgame-analysis-of-rookie-yaxel-lendeborgs-big-game-despite-the-loss-to-suns?plsrc=nba collection=more-to-watch-2",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7COoB4qLx-F-A2FLCorKkhSUD6_QRGhfif9GWbd9eC2s4Pxy4vMGyUGAOKlc"
     },
     {
-      "termino": "dean wade",
-      "trafico": "500+",
-      "noticia": "LeBron James Sits Out First Game for Back Treatment",
-      "enlace": "https://www.chosun.com/english/sports-en/2026/10/25/ETFSJ2YFABAYNOLOTDWLJCAXCM/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyLWY8bivjiEJsz3VlP8bxT8LRQFDwGnD7D9lqb2ImUQPmMqKV4bw3SyIEyrs"
-    },
-    {
-      "termino": "tiempo mañana",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "500+",
-      "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
-      "enlace": "https://www.indiatoday.in/science/story/south-india-weather-forecast-heavy-rain-october-imd-cyclone-3024156-2026-10-24",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
+      "termino": "drew rasmussen",
+      "trafico": "100+",
+      "noticia": "World Series 2026: The Rays are learning the hard way what the Padres and Dodgers already know — these Brewers are relentless",
+      "enlace": "https://sports.yahoo.com/mlb/article/world-series-2026-the-rays-are-learning-the-hard-way-what-the-padres-and-dodgers-already-know--these-brewers-are-relentless-072329199.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdD1nm_gXg8ML91oM4SKFcOjmus7auJtmOILNj8PE0GwoGd4IDk5P7waVDaBc"
     }
   ]
 }
