@@ -1,30 +1,37 @@
 {
-  "updated": "2026-10-25T12:33:03.772883-04:00",
-  "hora": "12:33",
+  "updated": "2026-10-25T12:53:21.801652-04:00",
+  "hora": "12:53",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "friburgo - bayern",
+      "trafico": "200+",
+      "noticia": "Confirmed lineups: SC Freiburg vs. Bayern Munich",
+      "enlace": "https://sports.yahoo.com/articles/confirmed-lineups-sc-freiburg-vs-153100803.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtToSF03JwmbduuJJIpQJOOWqTfGHefUVMj4x16HQbS4HeVThfgXPpmkrbm7A"
+    },
+    {
       "termino": "luisa gonzález",
       "trafico": "100+",
-      "noticia": "Así fue la audiencia de formulación de cargos de Luisa González, excandidata presidencial de Ecuador",
-      "enlace": "https://cnnespanol.cnn.com/2026/10/23/latinoamerica/video/luisa-gonzalez-ecuador-candidato-presidencial-conclusiones",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMD9GATvXeVIs9rU5YFLDk9z9FZbeTgEDxBuU01yiJF3RRNr9n_3_J9lZ4Hko"
+      "noticia": "La Policía de Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/22/latinoamerica/ecuador-policia-detiene-luisa-gonzalez-efe",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOZt23DBemauqF2T_nN6edtk0LPwb6mWuO-dIZFvvTlXCiubZdDxWjF5lSdo"
     },
     {
       "termino": "premier league",
       "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "Premier League LIVE: Build-up, team news, live text, radio   score updates as it happens from across the Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqfTSNo0i3IKqfAxHBGqzFXr0E9iG89daXwh86Or2ZqoWWR61q7Rsw-MIXSc"
     },
     {
       "termino": "lluvia",
       "trafico": "200+",
-      "noticia": "Lo que la lluvia sostiene",
-      "enlace": "https://www.informador.mx/jalisco/lo-que-la-lluvia-sostiene-20261025-0032.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS628eZ6MpOGl7osY_czqIcG3_mxmaD8HInN9S26LETqV6avzxG4FZxW3zreGg"
+      "noticia": "Tres vehículos arrastrados por arroyos y dos árboles caídos, balance tras aguacero en Barranquilla",
+      "enlace": "https://zonacero.com/generales/tres-vehiculos-arrastrados-por-arroyos-y-dos-arboles-caidos-balance-tras-aguacero-en",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbWuB4DgawjAd5C5thaXMo4He0ujV-ofiiBoODasd9IF5XcT4JT8q-lPLR7G4"
     },
     {
       "termino": "celta de vigo - real betis",
@@ -35,17 +42,17 @@
     },
     {
       "termino": "manchester united - bournemouth",
-      "trafico": "200+",
-      "noticia": "Carrick s team news for Cherries clash",
-      "enlace": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ty_-98Lf52dHkAsVu8MEzh0AB6j9ooGYAZwz06Pe27W9vnRrqVusKReSsUk"
+      "trafico": "500+",
+      "noticia": "Manchester United vs Bournemouth: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/ck62yqmle02mt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3nvA2eZiuA8b5Tjbxz2wF7g1ESA3W1uscLnHTluGB_cOFhGuCh736x15SmsM"
     },
     {
       "termino": "liverpool - brighton",
-      "trafico": "200+",
-      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
-      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5N02PBaTcZ9PoMGM_wl2vNzmVlIk6ixM87SvAnQQdyoZZtpFwYabRAfxsWLU"
+      "trafico": "500+",
+      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
     },
     {
       "termino": "william contreras",
@@ -57,23 +64,16 @@
     {
       "termino": "barcelona vs real madrid",
       "trafico": "500+",
-      "noticia": "Barcelona - Real Madrid en directo: previa, reacciones y última hora de El Clásico hoy en vivo",
-      "enlace": "https://www.marca.com/futbol/2026/10/25/6addc8ba5660fba9dd2bd77d-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRckMhP-LrCFUiaUTzMCKAsreQdLpqo-TV-hyNj2Pws7femG9xMbp8yv70VpIs"
+      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiMQTJ0X4XAmx-MbsRJtf2TCQ-NC3MsDmBb-HN47DtEgJ8CBwbn166_C0ANv0"
     },
     {
       "termino": "athletic - getafe",
       "trafico": "500+",
-      "noticia": "Athletic - Getafe: Resumen, resultado y goles",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/athletic-getafe/2026/10/25/01_0101_20261025_174_1450-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXKysqboTjWYNVMoqMN8bRFhYD962RIe_jLYq1DdDpjbS1yOlInyXf7Y_UDQ"
-    },
-    {
-      "termino": "inter - fiorentina",
-      "trafico": "200+",
-      "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "El Athletic vuelve a zurrar al Getafe",
+      "enlace": "https://www.marca.com/futbol/primera-division/cronica/2026/10/25/athletic-vuelve-zurrar-getafe.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK7bKPLq-0yHeJXmjEjZzM3JWcHHv4ra1mUumOpATRd_vlGCtoMmukSxM5OMs"
     }
   ]
 }
