@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-25T10:31:04.222234-04:00",
-  "hora": "10:31",
+  "updated": "2026-10-25T10:51:22.896925-04:00",
+  "hora": "10:51",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "manchester united - bournemouth",
+      "trafico": "100+",
+      "noticia": "Carrick s team news for Cherries clash",
+      "enlace": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ty_-98Lf52dHkAsVu8MEzh0AB6j9ooGYAZwz06Pe27W9vnRrqVusKReSsUk"
+    },
+    {
+      "termino": "liverpool - brighton",
+      "trafico": "200+",
+      "noticia": "Liverpool seek first Anfield league win in SIX months!",
+      "enlace": "https://www.thisisanfield.com/2026/10/liverpool-brighton-premier-league-stats-preview/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgy0mVv08j0eBXxytv0skFYpEisbk_pSUAAVtWH96XWnY14caajxdLTJ9fmiY"
+    },
     {
       "termino": "william contreras",
       "trafico": "100+",
@@ -13,18 +27,25 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKbWHVmecodaNkje_wcRckG6dWUSnk0ldXSLA_tXqzA4Vf2io_flq1GFohSw"
     },
     {
+      "termino": "barcelona vs real madrid",
+      "trafico": "200+",
+      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiMQTJ0X4XAmx-MbsRJtf2TCQ-NC3MsDmBb-HN47DtEgJ8CBwbn166_C0ANv0"
+    },
+    {
       "termino": "athletic - getafe",
       "trafico": "200+",
-      "noticia": "¿Quién es Francisco José Hernández Maeso? Árbitro del Athletic Club vs Getafe de la jornada 10 de LALIGA",
-      "enlace": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/quien-es-francisco-jose-hernandez-maeso-arbitro-athletic-club-getafe-jornada-10-laliga/lhyfjty7q01y11cad6qk1vnaw",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_BRhd6spZHuRIvkxjern4-s-RK2USUbcgZojQzFR_AdMrSl_Bm2KU1009jdI"
+      "noticia": "Athletic - Getafe en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/athletic-getafe/2026/10/25/01_0101_20261025_174_1450-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9jjEJGL1umjzLb2E7GzBwK4RMhF65OUGZTZof5PpJfLQvdH5wK462afRGi2U"
     },
     {
       "termino": "inter - fiorentina",
       "trafico": "200+",
-      "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "Inter needs late effort from Thuram in Serie A. Real Madrid visits Barcelona in the clasico",
+      "enlace": "https://www.thestar.com/sports/soccer/inter-needs-late-effort-from-thuram-in-serie-a-real-madrid-visits-barcelona-in-the-clasico/article_8eb0baa1-c425-5867-a796-c7e3cd074baa.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_trhV8MK1Wc98--kV2JNk2f3HW_hGFJQXqn7ZwW3nqMjbvCrx3mXOCNnEnNc"
     },
     {
       "termino": "tiempo",
@@ -35,10 +56,10 @@
     },
     {
       "termino": "nayib bukele",
-      "trafico": "2000+",
-      "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
-      "enlace": "https://listindiario.com/la-republica/20261024/bukele-niega-sean-soldados-salvadorenos-cuatro-cuerpos-calcinados-encontrados-haiti_927440.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
+      "trafico": "200+",
+      "noticia": "Abinader coordina con Bukele mientras continúa la búsqueda de cuatro salvadoreños en Haití",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/25/crisis-en-haiti-genera-dialogo-entre-el-salvador-y-la-republica-dominicana/3699519",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9w9HD0xbcVFJN241J8DEjoQ6KR_aYqPNdf6qPZkM2JnsAiGw076VDG97yhF8"
     },
     {
       "termino": "clima",
@@ -53,27 +74,6 @@
       "noticia": "Enjoy the World Series because all signs point to a lockout",
       "enlace": "https://www.bostonglobe.com/2026/10/24/sports/world-series-labor-strife/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkH7slekBaaiULjYWHlVsO7MJa8gWqpBwlX8tlQj7RhgqmqnACqoXBmrM_1HY"
-    },
-    {
-      "termino": "météo",
-      "trafico": "500+",
-      "noticia": "Météo. Quel temps fera-t-il à Châteaubriant et ses environs le dimanche 25 octobre 2026 ?",
-      "enlace": "https://www.ouest-france.fr/meteo/pays-de-la-loire/chateaubriant-44110/la-meteo-du-jour-a-chateaubriant-61026cfe-28a6-4c8d-b124-d77ef6e131fb",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6k6yokPg_2vc4BrUU3-DRbs7nGz7ELfBF2mFRoSzT1cgUY8qhwY-sE8u4nqs"
-    },
-    {
-      "termino": "brandon williams",
-      "trafico": "200+",
-      "noticia": "Rotherham United Announce Free Agent Capture Of Former Norwich City Man",
-      "enlace": "https://footballlowdown.com/rotherham-united-announce-free-agent-capture-of-former-norwich-city-man/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR__rtHwadu40wIpVRe6FeAWtuYBLBtMez_CiDV51gDAtmWAVs4uwrjxCkI8F0"
-    },
-    {
-      "termino": "yaxel lendeborg",
-      "trafico": "200+",
-      "noticia": "Very poor : Steve Kerr identifies major problem in Yaxel Lendeborg s game that  has to improve",
-      "enlace": "https://www.hitc.com/very-poor-steve-kerr-identifies-major-problem-in-yaxel-lendeborgs-game-that-has-to-improve/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH7izFC0DGUsBf1AsrlRUqhpb26D4Q8B9Bs5mGDuZjF5mqToc058mIQJXxyeM"
     }
   ]
 }
