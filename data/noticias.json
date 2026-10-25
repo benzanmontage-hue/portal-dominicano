@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T08:27:53.840275-04:00",
-  "hora": "08:27",
+  "updated": "2026-10-25T08:29:01.164443-04:00",
+  "hora": "08:29",
   "fecha": "25/10/2026",
   "total": 15,
   "noticias": [
@@ -10,7 +10,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekVnZTMzZ040QkthbWNkaVJpdHlOSUdFT2hHSjBYcVZ5cnlCYVpmOC1Sc1RWdnI4THNhWnNSbFN0Q3BMWUNZNkUwTEdGekp1U3BmdHNkcXhrcXU5cWNhU21XTlZIVW5vbXpubVE2Z2ViNU0wU253RFIzZ2N2X1A2SkpWYXdoV1JQcWhSQ3JoQzkzVy04X0tpOWFGS0VaMlpKeHdsMFVpZ3RoMVBBbDBjYjJNV1FodHhzOHdDTFBkR1p1SU9aVDNEQnVVZzFmUzJWVk5pbkNKYXfSAd4BQVVfeXFMT2J4cFNfeDJXbFJtdGhWM0JFZVBNMjRvRm9mekM2dU1wR1pmYjJaX0o2MFdjNzBCZ0M2VS1Ub1VCRkk3ckxXcXkxb2tEaXBIclN3QjZhNTFPWE90UkZuV3dma1VBWDRBZ2dCVEFSSUtmOThNMmxaSTRMYzdrTkZsNk1LQ0Fmbmlnc0RZbjdPeUcweXZ1bXRWV0NUcjgtQlRzS1kxd2VpOW9BbEt4MDJYZFY3WWFIVUE0dVRDcHpxenVZaU1zVnZ6eFVKU2pQbEEtdV83WUR4VzdybW53dFdB?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 25 Oct 2026 04:01:00 GMT",
-      "imagen": ""
+      "imagen": "https://resources.diariolibre.com/images/2026/10/24/lo-que-se-sabe-sobre-desaparicion-de-militares-salvadorenos-en-haiti-bb337c12-focus-0.21-0.48-1200-675_wam.jpg"
     },
     {
       "titulo": "Presencia militar aumenta en Jimaní mientras el paso fronterizo de Mal Paso permanece abierto - Listín Diario",
@@ -50,7 +50,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3VvMl91NktSWVRwTk9mUjlhUFBjTzctVWd3NUJSNFU3VVJ4TDZ5Q3BNdXY3dGZiOUFyUE1OTTlNQUxRLXlOMEYzZTVfay0zQ1ZLNnNQeVFDZG1XRU5HME9oWEs3VzFpd2I2VkN6VFpqUGt5VTZIdWcyWFROQ0JKWGdMQlNNamdGY1VoTGl4UHVyU0tWdkdzblA5THhfOUFhTUM2WTI3Z2VrVy1FMmRuWVl2OHlxNzBmMEpFSUlxVjlaeExBUW9ubNIBzgFBVV95cUxNc25TcHJUb1I4aEpJN0RLZmd0S3ZyeW5JUERLYTlxSXhpUnFzZXZtVEdEbWs4aE8yZVI3X0Fla1MzcmMxSU16eEtXOTlHRlpIanBHUndhRXBQeVM2WndlOUJtc1dsbFEzSWZxRWNSVUNfTmJCbXBJMGJRbkFKWEtmMEs1SWlwMnFIMUIxWjNJT2FWcWhfMDJ5SjdTU3dWOWxRS29GaG40alhIYVFQdkRadlluUXdaWlotTWpnTWxMTDB4UWNkWllKbDZzdjA3Zw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 25 Oct 2026 04:00:00 GMT",
-      "imagen": ""
+      "imagen": "https://listindiario.com/files/main_image/uploads/2022/12/28/64309170161b3.jpeg"
     },
     {
       "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, domingo 25 de octubre de 2026 - Acento",
@@ -114,7 +114,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPanhWaFRpemhIdXBHYTNMc2x5OXhBUmVCTFRYajVBQ0gtRTdmWmdwTEJxSEJ3VExTdXpzcmpkRjRKZnJTTzVYQnBYWmlVSjhLOF8wRzBmelF1UVVQZXB2VFR4LTNBVUNaUWhpMkxueTVwRHI1RkYyV1REc2dpeUk2QUFEQ2laVHNuMHd0eTBHeUpUaVlZcTNuUFVKeVhkOVhHZ0RUay0zMHNqTFdGNkJCYW1raGJNTUZHTUYxbk9lWFBTVGhDRzVoSUxMcFJHa0lEc0oyd3Nhd0tPMkozSDhWemExOHdaLWkxbDRJN01rUmVfaXp1NXpZdTdiN1psUDVCcWFERnpOeU9UUdIBpAJBVV95cUxQVGU0cU5qUnJCdDlLSV9nU1MxRTFxendmWC14TlRnZ2dYWEphallWRTFHN2xjTUxWQWNtUnBSUzNCX2xJb3lGV2lHX3JqajFPd2tQSXBnR3Y1cWY4ZDZYdEFZaERsMzFWLU5LRmlacUdDVVphX0VTN1lNNHpKWTJGSXFoaFJqZy1xa0NRbkJXOUZoWUZBLWpuTTlIVXpwdHRTM0x2SElOLTNzV25Wc0Z6LVpiUTJEQlhwQThOYU8zR3lmLVJjX3Y1MlhSWXRiNTNOLVBRbVBHblRYNkNpNXlYT1ZyMm9BOUtwbkc1cEJYc1pXNlFzRDZRNnZKTnU3V2NpUVo1TDU5OVlNVXVpbkpVTHB4VEVvU0hVZVdkVXFtVWFLaHE1?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 25 Oct 2026 02:21:00 GMT",
-      "imagen": ""
+      "imagen": "https://www.infobae.com/resizer/v2/EES4DU6WVFAN3DNVKOE4RAFCHY.jpeg?auth=ba000578474cfaac7b2a7de87f778bc9450657da2343bc0fb5d8ce29613bbc66&smart=true&width=1200&height=630&quality=85"
     },
     {
       "titulo": "Organizaciones sociales y políticas se movilizan en República Dominicana en defensa de la producción agrícola - teleSUR",
