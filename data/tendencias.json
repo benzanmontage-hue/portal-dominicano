@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-25T12:12:44.696986-04:00",
-  "hora": "12:12",
+  "updated": "2026-10-25T12:33:03.772883-04:00",
+  "hora": "12:33",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "luisa gonzález",
+      "trafico": "100+",
+      "noticia": "Así fue la audiencia de formulación de cargos de Luisa González, excandidata presidencial de Ecuador",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/23/latinoamerica/video/luisa-gonzalez-ecuador-candidato-presidencial-conclusiones",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMD9GATvXeVIs9rU5YFLDk9z9FZbeTgEDxBuU01yiJF3RRNr9n_3_J9lZ4Hko"
+    },
+    {
+      "termino": "premier league",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
     {
       "termino": "lluvia",
       "trafico": "200+",
@@ -14,14 +28,14 @@
     },
     {
       "termino": "celta de vigo - real betis",
-      "trafico": "200+",
-      "noticia": "Celta - Betis: El calendario prueba la madurez del Betis",
-      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/celta-betis-calendario-prueba-madurez-betis-20261025071803-nts.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4pEZcRlafED_WhJnMUscuGwnATSPvoYiTOLY6JYCK-wPUkNiSoktHVHBR22s"
+      "trafico": "500+",
+      "noticia": "Celta - Betis en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOH_R2EKaPlBUW-XQ71Pr4wJzyxjUzdEH9e2ASs5CwSTb2gvTDD6OxreofKs"
     },
     {
       "termino": "manchester united - bournemouth",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "Carrick s team news for Cherries clash",
       "enlace": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ty_-98Lf52dHkAsVu8MEzh0AB6j9ooGYAZwz06Pe27W9vnRrqVusKReSsUk"
@@ -29,9 +43,9 @@
     {
       "termino": "liverpool - brighton",
       "trafico": "200+",
-      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
+      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
+      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5N02PBaTcZ9PoMGM_wl2vNzmVlIk6ixM87SvAnQQdyoZZtpFwYabRAfxsWLU"
     },
     {
       "termino": "william contreras",
@@ -42,10 +56,10 @@
     },
     {
       "termino": "barcelona vs real madrid",
-      "trafico": "200+",
-      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
-      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiMQTJ0X4XAmx-MbsRJtf2TCQ-NC3MsDmBb-HN47DtEgJ8CBwbn166_C0ANv0"
+      "trafico": "500+",
+      "noticia": "Barcelona - Real Madrid en directo: previa, reacciones y última hora de El Clásico hoy en vivo",
+      "enlace": "https://www.marca.com/futbol/2026/10/25/6addc8ba5660fba9dd2bd77d-directo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRckMhP-LrCFUiaUTzMCKAsreQdLpqo-TV-hyNj2Pws7femG9xMbp8yv70VpIs"
     },
     {
       "termino": "athletic - getafe",
@@ -60,20 +74,6 @@
       "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "tiempo",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "nayib bukele",
-      "trafico": "2000+",
-      "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
-      "enlace": "https://listindiario.com/la-republica/20261024/bukele-niega-sean-soldados-salvadorenos-cuatro-cuerpos-calcinados-encontrados-haiti_927440.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
     }
   ]
 }
