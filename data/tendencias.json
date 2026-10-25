@@ -1,37 +1,51 @@
 {
-  "updated": "2026-10-25T00:25:01.572603-04:00",
-  "hora": "00:25",
+  "updated": "2026-10-25T00:45:17.910408-04:00",
+  "hora": "00:45",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "mlb hoy",
-      "trafico": "1000+",
-      "noticia": "EN VIVO: Sigue Rays vs. Brewers en el Juego 2 de la Serie Mundial",
-      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17423492/rays-vs-brewers-en-vivo-juego-2-serie-mundial-beisbol",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt9L2JYoUoIAPM1k_yzRAXaCCfngYTZQ3b3dUq43ZPnYT5PWMyQ1VGaoWIW3M"
+      "termino": "yaxel lendeborg",
+      "trafico": "200+",
+      "noticia": "Warriors  Yaxel Lendeborg:  Lost all respect  for Luka Doncic",
+      "enlace": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT8vge__sczD0fb4jRUNor0JLMiPj4Z9TWshA9CwUY1g3gqts_icw-8u-bPT8"
     },
     {
       "termino": "mob",
       "trafico": "100+",
-      "noticia": "IIT Bombay students allege CSO called them a ‘mob’ as dispute over seized belongings continues",
-      "enlace": "https://www.mumbaimirror.com/mumbai/iit-bombay-students-allege-cso-called-them-a-mob-as-dispute-over-seized-belongings-continues-1635964",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp__UIFokkgvyKTtkaI5ezuwGgsJsK6emEsOlgQ0XBVauHw-uwx4ZCR2GrSHY"
+      "noticia": "Sahil Wakode death case: Parents seek CM intervention in demise of IIT Bombay student",
+      "enlace": "https://www.thehindu.com/news/cities/mumbai/iit-b-student-death-case-sahil-wakodes-parents-seek-cm-intervention/article71603332.ece",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ16Rgsaf6T7PwkUxMGnev6Qp9jSDeyX2io1X-GVaDzdneDABG_JQMLPx6Yw5I"
+    },
+    {
+      "termino": "tampa bay",
+      "trafico": "1000+",
+      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
+      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
     },
     {
       "termino": "nuggets - pelicans",
       "trafico": "500+",
-      "noticia": "Clippers vs. Lakers (Oct 23, 2026) Live Score",
-      "enlace": "https://www.espn.com/nba/game?gameId=401909851",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlTBgqLf31jBc07utdbwXN5tfc_U9OZH7TDA8-YnjVTcktpRWkakToBb6v7ko"
+      "noticia": "Portland vs. Charlotte (25 Oct, 2026) Team Stats",
+      "enlace": "https://www.espn.co.uk/football/team-stats/_/gameId/761902/league/usa.1",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3Q-ViczcAqSnDSSLKP_9jmYvQ0hJDzjle4ol5ZqvgTfOEhYMTGA2gH-kLz38"
+    },
+    {
+      "termino": "juego de hoy mlb",
+      "trafico": "1000+",
+      "noticia": "Lo que debes saber sobre el J2 de la Serie Mundial entre Rays y Cerveceros (EN VIVO)",
+      "enlace": "https://www.mlb.com/es/news/lo-que-debes-saber-juego-2-serie-mundial-2026-rays-cerveceros",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
     },
     {
       "termino": "hawks - rockets",
       "trafico": "200+",
-      "noticia": "Houston Rockets vs. Atlanta Hawks Live Score and Stats - October 24, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261024_HOU@ATL/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOSGK1DZjkpwfZW88On2escB7mklK61Kb09R5RXwSG9XwOYq3aJ8vCbOETH94"
+      "noticia": "Reed Sheppard News: Nets 19 points with seven assists",
+      "enlace": "https://www.rotowire.com/basketball/headlines/reed-sheppard-news-nets-19-points-with-seven-assists-535947",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBQzu9zTdML8I4TEDkxigBIzxp-SO6O2L7q6gxhOV2X9AtLQU_neGfQ6iH2Vw"
     },
     {
       "termino": "suns - warriors",
@@ -41,13 +55,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRDGTce6SXNI8gRXnxkrF6NnJN_wRXzxz1zk6mf3XDywslQ856U8o1E9qp5CM"
     },
     {
-      "termino": "tiempo mañana",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
       "termino": "dean wade",
       "trafico": "500+",
       "noticia": "LeBron James Sits Out First Game for Back Treatment",
@@ -55,25 +62,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyLWY8bivjiEJsz3VlP8bxT8LRQFDwGnD7D9lqb2ImUQPmMqKV4bw3SyIEyrs"
     },
     {
+      "termino": "tiempo mañana",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
       "termino": "weather tomorrow",
       "trafico": "500+",
       "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
       "enlace": "https://www.indiatoday.in/science/story/south-india-weather-forecast-heavy-rain-october-imd-cyclone-3024156-2026-10-24",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
-    },
-    {
-      "termino": "brewers vs. rays",
-      "trafico": "500+",
-      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
-      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
-    },
-    {
-      "termino": "licey vs aguilas",
-      "trafico": "200+",
-      "noticia": "René Francisco afirma que las Águilas tienen un equipo mejor que el del año pasado",
-      "enlace": "https://elnuevodiario.com.do/rene-francisco-afirma-que-las-aguilas-tienen-un-equipo-mejor-que-el-del-ano-pasado/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRCi34eGE7TcLYQweeEtIqMbkCA6eWfHLWh4v9d1m1WRvqjc5HWmtCC8Qq-M"
     }
   ]
 }
