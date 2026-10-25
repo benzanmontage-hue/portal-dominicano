@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-25T09:30:04.403396-04:00",
-  "hora": "09:30",
+  "updated": "2026-10-25T09:50:24.307978-04:00",
+  "hora": "09:50",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "inter - fiorentina",
+      "termino": "athletic - getafe",
       "trafico": "100+",
+      "noticia": "¿Quién es Francisco José Hernández Maeso? Árbitro del Athletic Club vs Getafe de la jornada 10 de LALIGA",
+      "enlace": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/quien-es-francisco-jose-hernandez-maeso-arbitro-athletic-club-getafe-jornada-10-laliga/lhyfjty7q01y11cad6qk1vnaw",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_BRhd6spZHuRIvkxjern4-s-RK2USUbcgZojQzFR_AdMrSl_Bm2KU1009jdI"
+    },
+    {
+      "termino": "inter - fiorentina",
+      "trafico": "200+",
       "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjbbAXGFzgeoyMKc2jfKSX1lPs1hejNfr9fTjJw4Mrc8ie31XhAY2O9pZEBH4"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
     },
     {
       "termino": "tiempo",
@@ -62,18 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-MVd55o2titQEv3OR33HZ9fTlGxosrBYupF63ZcqVd9euS0dQEv1vg8-SE4"
     },
     {
-      "termino": "mob",
-      "trafico": "100+",
-      "noticia": "Two killed in mob beating over alleged auto-rickshaw theft in Rangpur",
-      "enlace": "https://www.tbsnews.net/bangladesh/two-killed-mob-beating-over-alleged-auto-rickshaw-theft-rangpur-1582321",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ECCJ2WmZYZx2GzmSFCPP7A3gZaibsf5XumpE98WV1H6JZv4uDZ4ExEoJRQM"
-    },
-    {
-      "termino": "tampa bay",
-      "trafico": "200+",
-      "noticia": "Buccaneers-Panthers: Top Storylines   Key Matchups in Week Seven",
-      "enlace": "https://www.buccaneers.com/news/buccaneers-panthers-top-storylines-key-matchups-in-week-seven",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCj09El37i1T-9H0oEpYFd3MZ0G7cQ1gZM1QJN_tV4D7QfDoeEdrvc41B9hKI"
+      "termino": "mlb hoy",
+      "trafico": "500+",
+      "noticia": "Box Score Brewers 5-4 Rays (24 Oct., 2026)",
+      "enlace": "https://www.espn.com.do/beisbol/mlb/ficha/_/juegoId/401908043",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv15ReaQ0raRTL17_1bYZT99zTrh1uXgTpfP4Qeh1-nq99E7LYcn9Crsajk_I"
     }
   ]
 }
