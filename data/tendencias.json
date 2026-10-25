@@ -1,16 +1,37 @@
 {
-  "updated": "2026-10-25T14:56:47.001294-04:00",
-  "hora": "14:56",
+  "updated": "2026-10-25T15:17:05.301049-04:00",
+  "hora": "15:17",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "barcelona - real madrid",
+      "trafico": "200+",
+      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbQBQcIU0t31nCTK8UGC5WoPqL5ULbXXqXobNlTTRfz0T2tI8LNDw1b3-DaH8"
+    },
     {
       "termino": "real sociedad - levante",
       "trafico": "200+",
       "noticia": "El momento de Remiro ante el efecto Castro",
       "enlace": "https://as.com/futbol/primera/el-momento-de-remiro-ante-el-efecto-castro-f202610-n/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOrTdWlnEK-9g-2NVHSOcf3DEp7YV8TUwbx67tFZuZpq2YD_Ij5mJEK6aqit4"
+    },
+    {
+      "termino": "elecciones brasil 2026",
+      "trafico": "100+",
+      "noticia": "EN VIVO Lula y Bolsonaro se enfrentan voto a voto en la cerrada segunda vuelta por la presidencia de Brasil",
+      "enlace": "https://www.bbc.com/mundo/live/cm5ynp5y1871t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYmd6jlVFZYxe0puyFxXTFZuPfw-OomipjRhgBdoO6Jremn8BcBYBbqNhyQo"
+    },
+    {
+      "termino": "lula",
+      "trafico": "200+",
+      "noticia": "Jerônimo determina uso de viaturas para eleitores votarem em Salvador",
+      "enlace": "https://www.cnnbrasil.com.br/eleicoes/jeronimo-determina-uso-de-viaturas-para-eleitores-votarem-em-salvador/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWSL82eZFoavOPLkUhDJps4CbTHB8bNMvmtDxmxKKLDlYarUdbp7GoCTLTBU8"
     },
     {
       "termino": "friburgo - bayern",
@@ -21,7 +42,7 @@
     },
     {
       "termino": "flávio bolsonaro",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "Votação no exterior: Lula vence em 37 países; Flávio Bolsonaro, em 12",
       "enlace": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl-XiQ70ehun4hCaHi2YdtL_hkPx8uGyh-rpmBD725A4AO0f94by91CG8oZQ"
@@ -45,35 +66,14 @@
       "trafico": "200+",
       "noticia": "Premier League LIVE: Sunderland host Leeds after Michael Carrick s Man Utd lose to Bournemouth",
       "enlace": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkaoFFRAczvwq2TsH3xzh6zphL5eUgBMvZY3ssooLzSK1vm9SoWArpveln01U"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkIFfnNkMATXLOPG79NtJ7XWsW6O_S7bV30DVXS-cNezR2OQeJvmzyBVERlII"
     },
     {
       "termino": "lluvia",
       "trafico": "200+",
-      "noticia": "Lo que la lluvia sostiene",
-      "enlace": "https://www.informador.mx/jalisco/lo-que-la-lluvia-sostiene-20261025-0032.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS628eZ6MpOGl7osY_czqIcG3_mxmaD8HInN9S26LETqV6avzxG4FZxW3zreGg"
-    },
-    {
-      "termino": "celta de vigo - real betis",
-      "trafico": "500+",
-      "noticia": "Yoel Lago vuelve en el Celta; Pellegrini sorprende con Nelson Deossa en punta",
-      "enlace": "https://www.infobae.com/espana/agencias/2026/10/25/yoel-lago-vuelve-en-el-celta-pellegrini-sorprende-con-nelson-deossa-en-punta/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
-    },
-    {
-      "termino": "manchester united - bournemouth",
-      "trafico": "500+",
-      "noticia": "Manchester United vs Bournemouth: Premier League preview, team news, stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/ck62yqmle02mt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3nvA2eZiuA8b5Tjbxz2wF7g1ESA3W1uscLnHTluGB_cOFhGuCh736x15SmsM"
-    },
-    {
-      "termino": "liverpool - brighton",
-      "trafico": "500+",
-      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
+      "noticia": "El huracán Vance se fortalece a categoría 2 y causa lluvias en tres estados de México",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/23/clima-y-tiempo/huracan-vance-categoria-2-mexico-efe",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWWyiYtESBpdH_tz8Sr0hXXKYcXwTQ-OgeoQCcSJABLwutNkAs4ODryqv-9jg"
     }
   ]
 }
