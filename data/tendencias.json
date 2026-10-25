@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-24T21:00:05.196863-04:00",
-  "hora": "21:00",
+  "updated": "2026-10-24T21:20:25.921353-04:00",
+  "hora": "21:20",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "météo demain",
+      "trafico": "200+",
+      "noticia": "Tempête Austen : vents violents ce vendredi sur le Nord-Ouest du pays",
+      "enlace": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX35NmarapY_h03_p9a0hp6Cw7uEHTs1Ebnq7X4igOEWdh7A78XfCy0hfldxE"
+    },
+    {
       "termino": "tiempo mañana",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "dean wade",
-      "trafico": "100+",
-      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
-      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
     },
     {
       "termino": "weather tomorrow",
@@ -25,6 +25,13 @@
       "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
       "enlace": "https://www.indiatoday.in/science/story/south-india-weather-forecast-heavy-rain-october-imd-cyclone-3024156-2026-10-24",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
+    },
+    {
+      "termino": "dean wade",
+      "trafico": "100+",
+      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
+      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
     },
     {
       "termino": "brewers vs. rays",
@@ -56,7 +63,7 @@
     },
     {
       "termino": "mavericks - spurs",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Victor Wembanyama, Spurs chase first win at Mavericks",
       "enlace": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-chase-first-win-at-mavericks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
@@ -67,13 +74,6 @@
       "noticia": "How to watch Cavaliers vs Nets: NBA, live stream, TV channel",
       "enlace": "https://www.thebiglead.com/how-to-watch-cavaliers-vs-nets-nba-live-stream-tv-channel/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYogMZX4WbzFDE1RbG0IMwYEb7l3dL1-osZUpnDuboJFNPt53OSn6y6sDC6QQ"
-    },
-    {
-      "termino": "76ers - bucks",
-      "trafico": "1000+",
-      "noticia": "Sixers seek 3-0 start against winless Bucks",
-      "enlace": "https://www.cbssports.com/nba/news/sixers-seek-3-0-start-against-winless-bucks/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
     }
   ]
 }
