@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-25T09:50:24.307978-04:00",
-  "hora": "09:50",
+  "updated": "2026-10-25T10:10:46.426033-04:00",
+  "hora": "10:10",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "athletic - getafe",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "¿Quién es Francisco José Hernández Maeso? Árbitro del Athletic Club vs Getafe de la jornada 10 de LALIGA",
       "enlace": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/quien-es-francisco-jose-hernandez-maeso-arbitro-athletic-club-getafe-jornada-10-laliga/lhyfjty7q01y11cad6qk1vnaw",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_BRhd6spZHuRIvkxjern4-s-RK2USUbcgZojQzFR_AdMrSl_Bm2KU1009jdI"
@@ -15,9 +15,9 @@
     {
       "termino": "inter - fiorentina",
       "trafico": "200+",
-      "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+      "noticia": "Inter Milán - Fiorentina LIVE. Serie A latest updates",
+      "enlace": "https://www.marca.com/en/soccer/serie-a/inter-milan-fiorentina/2026/10/25/01_0107_20261025_127_125-live.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI"
     },
     {
       "termino": "tiempo",
@@ -43,9 +43,9 @@
     {
       "termino": "jacob misiorowski",
       "trafico": "200+",
-      "noticia": "World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game",
-      "enlace": "https://www.bbc.com/sport/baseball/articles/cwe8lnp78jgko",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmUyD2If02KWnvnCeW56byVEhHULKR0KXLJckFXCGtklzxSL4Y7wa9TokdQgU"
+      "noticia": "Miz sets World Series velo record -- on first pitch!",
+      "enlace": "https://www.mlb.com/news/jacob-misiorowski-makes-world-series-history-in-game-1",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZL33dX8mDeCkp2JpBL2m74QTzHFH3AWEtGjvSq1VYXMkBBE2qc9_Lq0bUIU8"
     },
     {
       "termino": "météo",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-MVd55o2titQEv3OR33HZ9fTlGxosrBYupF63ZcqVd9euS0dQEv1vg8-SE4"
     },
     {
-      "termino": "mlb hoy",
-      "trafico": "500+",
-      "noticia": "Box Score Brewers 5-4 Rays (24 Oct., 2026)",
-      "enlace": "https://www.espn.com.do/beisbol/mlb/ficha/_/juegoId/401908043",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv15ReaQ0raRTL17_1bYZT99zTrh1uXgTpfP4Qeh1-nq99E7LYcn9Crsajk_I"
+      "termino": "mob",
+      "trafico": "100+",
+      "noticia": "Two killed in mob beating over alleged auto-rickshaw theft in Rangpur",
+      "enlace": "https://www.tbsnews.net/bangladesh/two-killed-mob-beating-over-alleged-auto-rickshaw-theft-rangpur-1582321",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ECCJ2WmZYZx2GzmSFCPP7A3gZaibsf5XumpE98WV1H6JZv4uDZ4ExEoJRQM"
     }
   ]
 }
