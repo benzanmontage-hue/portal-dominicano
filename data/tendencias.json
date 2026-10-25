@@ -1,16 +1,30 @@
 {
-  "updated": "2026-10-25T19:22:04.309015-04:00",
-  "hora": "19:22",
+  "updated": "2026-10-25T19:42:37.980157-04:00",
+  "hora": "19:42",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "knicks - magic",
+      "termino": "76ers - pistons",
       "trafico": "200+",
-      "noticia": "Knicks look to snap 0-2 start as Magic visit without Paolo Banchero",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-look-to-snap-0-2-start-as-magic-visit-without-paolo-banchero/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+      "noticia": "Pistons C Jalen Duren out at least two weeks with hamstring strain",
+      "enlace": "https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3ifXGfqGImQYgLXaCpIoF66-Y0CQLWhtH2l8SilO1ibFfFXhkHPIJj0h0gis"
+    },
+    {
+      "termino": "licey vs aguilas",
+      "trafico": "500+",
+      "noticia": "LIVE: Águilas Cibaeñas @ Tigres del Licey | 25/10/2026",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251069",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
+    },
+    {
+      "termino": "knicks - magic",
+      "trafico": "1000+",
+      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
     },
     {
       "termino": "pedro martínez",
@@ -20,18 +34,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtXFz2aBukKyaT4jZHD49kc4RlhwBfqJrNG5yzzoE9WWpSPkdjFaiRba45yAQ"
     },
     {
-      "termino": "resultados loteria",
-      "trafico": "500+",
-      "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+      "termino": "leonor de borbón",
+      "trafico": "200+",
+      "noticia": "El futuro de la corona: De Kate Middleton a Leonor, las princesas que gobernarán Europa",
+      "enlace": "https://www.soycarmin.com/el-futuro-de-la-corona-de-kate-middleton-a-leonor-las-princesas-que-gobernaran-europa-t202610200019.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwl7DDLNYGZvT_-aZZOSXrjvgT3zR2-vjgO2Av8_uYTq8n1FyuVGdPv5HQWrI"
     },
     {
-      "termino": "leonor de borbón",
-      "trafico": "100+",
-      "noticia": "Dos expertos coinciden sobre la princesa Leonor:  El color le queda bien y la apertura en la parte baja le favorece pero no se puede pasar por alto el patronaje",
-      "enlace": "https://www.lecturas.com/realeza/expertos-coinciden-sobre-princesa-leonor-color-buganvilla-le-queda-bien-apertura-parte-baja-le-favorece-no-obstante-no-se-puede-pasar-por-alto-patronaje_200330",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8l60-G0_33aPBsK2dc2MsWN0eEWiPDZGkuRhECRtQE2G--gJJ9F1vd2zL8Vc"
+      "termino": "resultados loteria",
+      "trafico": "500+",
+      "noticia": "Resultados de la Lotería Real hoy 23 de octubre de 2026",
+      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-real-hoy-23-octubre-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXErPsTmUbD_wGbohJmOP4ZVFK4NrIiKwmEcno17_w0x_Xlq0veL4zwC7DyNg"
     },
     {
       "termino": "lotería nacional",
@@ -41,39 +55,25 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA4GCcHS50cLkoG1Cdu62QHPdbhqA7dLQTNu_rejNMRlM_QBCHuk4bZdif20"
     },
     {
-      "termino": "lamine yamal",
-      "trafico": "100+",
-      "noticia": "Bayern: Kane considera  estresante  la espera por el Balón de Oro",
-      "enlace": "https://www.espn.com.do/futbol/champions-league/nota/_/id/17414157/bayern-kane-balon-de-oro-espera-estresante",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1CcpmEvRVPYM336dsjp9PGwxp6bQpcf_JlhxSVchjCG3l-2fd0j4R2DbL2-0"
-    },
-    {
       "termino": "lidom hoy",
       "trafico": "200+",
-      "noticia": "Partidos de LIDOM hoy: tres encuentros marcarán la jornada del béisbol invernal",
-      "enlace": "https://acento.com.do/deportes/partidos-de-lidom-hoy-tres-encuentros-marcaran-la-jornada-del-beisbol-invernal-9777353.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7oXTQ9PldEmBNZ4g0caR1a7xwFb6Pb-KKeZCRUxafdIrF33ZX1mG4zVfMVhY"
-    },
-    {
-      "termino": "real vs barcelona",
-      "trafico": "100+",
-      "noticia": "Barcelona vs Real Madrid LIVE! El Clasico score updates, news, line-ups and analysis",
-      "enlace": "https://www.skysports.com/football/live-blog/13603540/barcelona-vs-real-madrid-live-el-clasico-score-updates-news-line-ups-and-analysis",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf-dMxczvJRJZ83GTiLzdBSlJE9AHO6jgTsntl69tsH5Sxs_HUtBh1mrTYecc"
+      "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
+      "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
     },
     {
       "termino": "independiente - boca juniors",
       "trafico": "100+",
-      "noticia": "El gol agónico de Jagger Herrera con el que Boca le gana a Independiente",
-      "enlace": "https://www.tycsports.com/independiente/gol-jagger-herrera-boca-independiente-id768567.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeA4dGhtCipupYAOTlRwyKD9zzCFpHeR-eJS85YP8ZSjFxzFbnyBtxVh-P5-Q"
+      "noticia": "Así quedó la tabla anual de la Liga Profesional: Boca ganó sobre la hora el clásico, sigue líder y dejó obligado a Argentinos Juniors",
+      "enlace": "https://www.clarin.com/deportes/quedo-tabla-anual-liga-profesional-boca-gano-hora-clasico-sigue-lider-dejo-obligado-argentinos-juniors_0_Gjlgu7lQnp.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfFWX0oXVhL6ffyCnWAadnx2oB8-oyDTppCdBeTpqbkqm-rWEiRqJxFeVk2pQ"
     },
     {
-      "termino": "lakers - jazz",
-      "trafico": "2000+",
-      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
+      "termino": "inundación",
+      "trafico": "1000+",
+      "noticia": "El COE coloca 16 provincias en alerta por lluvias asociadas a una vaguada",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/25/alerta-inundaciones-en-republica-dominicana-por-lluvias/3700051",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeLRusKgq4253i_Sadc1UEc_YpD1TgFWaaGfkVM-8ZeZeFnILTF9McMI8bNbY"
     }
   ]
 }
