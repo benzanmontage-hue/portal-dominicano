@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-25T13:55:54.110237-04:00",
-  "hora": "13:55",
+  "updated": "2026-10-25T14:16:12.390032-04:00",
+  "hora": "14:16",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "real sociedad - levante",
+      "trafico": "200+",
+      "noticia": "Real Sociedad vs Levante: Spanish La Liga stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cv0ldkr955g1t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "lula",
+      "trafico": "100+",
+      "noticia": "Lula derrota Flávio Bolsonaro na França com 84% dos votos no 2º turno",
+      "enlace": "https://www.cartacapital.com.br/politica/lula-derrota-flavio-bolsonaro-na-franca-com-84-dos-votos-no-2o-turno/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIYMtDPyY8z_bxoVbcgr7VYgi4rpigpqhlH1EJOoUA8FoLMuAauxbJCP7VPw"
+    },
     {
       "termino": "friburgo - bayern",
       "trafico": "500+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "flávio bolsonaro",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar",
       "enlace": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiOPK1XA00LcM0C0pFVJNSZw1bCPnv2sUPYmYcM0BwFc3ckSonRR2fL7JYnfQ"
@@ -31,14 +45,14 @@
       "trafico": "200+",
       "noticia": "Premier League LIVE: Sunderland host Leeds after Michael Carrick s Man Utd lose to Bournemouth",
       "enlace": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkIFfnNkMATXLOPG79NtJ7XWsW6O_S7bV30DVXS-cNezR2OQeJvmzyBVERlII"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkaoFFRAczvwq2TsH3xzh6zphL5eUgBMvZY3ssooLzSK1vm9SoWArpveln01U"
     },
     {
       "termino": "lluvia",
       "trafico": "200+",
-      "noticia": "Lo que la lluvia sostiene",
-      "enlace": "https://www.informador.mx/jalisco/lo-que-la-lluvia-sostiene-20261025-0032.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS628eZ6MpOGl7osY_czqIcG3_mxmaD8HInN9S26LETqV6avzxG4FZxW3zreGg"
+      "noticia": "El huracán Vance se fortalece a categoría 2 y causa lluvias en tres estados de México",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/23/clima-y-tiempo/huracan-vance-categoria-2-mexico-efe",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWWyiYtESBpdH_tz8Sr0hXXKYcXwTQ-OgeoQCcSJABLwutNkAs4ODryqv-9jg"
     },
     {
       "termino": "celta de vigo - real betis",
@@ -57,23 +71,9 @@
     {
       "termino": "liverpool - brighton",
       "trafico": "500+",
-      "noticia": "Ipswich Town vs Nottingham Forest: Premier League preview, team news, stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cmn0628p5rkyt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfeLIAEMeNjx5OhYbqt5PNUZu4xutqfiZj3xFX6y7KF3To5YMHKvAKF6LoZUc"
-    },
-    {
-      "termino": "william contreras",
-      "trafico": "200+",
-      "noticia": "How William Contreras, the MVP of this Brewers playoff run, is commanding the game from every angle",
-      "enlace": "https://www.cbssports.com/mlb/news/william-contreras-mvp-brewers-playoff-run-commanding-the-game/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWNptRQrL9qGMI_nyydm_jzQakDOyoDAaw_iBO4GAJVXfzWN2ykynzQv02_o"
-    },
-    {
-      "termino": "barcelona vs real madrid",
-      "trafico": "1000+",
-      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
-      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsHMcycqHHdL68XJDopGEtWKaWw3PTyxU6a_8-zan8iECujXDhCPJrSft9EW4"
+      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
     }
   ]
 }
