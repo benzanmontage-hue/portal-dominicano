@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T14:16:12.390032-04:00",
-  "hora": "14:16",
+  "updated": "2026-10-25T14:36:31.166260-04:00",
+  "hora": "14:36",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,16 +8,16 @@
     {
       "termino": "real sociedad - levante",
       "trafico": "200+",
-      "noticia": "Real Sociedad vs Levante: Spanish La Liga stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cv0ldkr955g1t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "El momento de Remiro ante el efecto Castro",
+      "enlace": "https://as.com/futbol/primera/el-momento-de-remiro-ante-el-efecto-castro-f202610-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOrTdWlnEK-9g-2NVHSOcf3DEp7YV8TUwbx67tFZuZpq2YD_Ij5mJEK6aqit4"
     },
     {
       "termino": "lula",
       "trafico": "100+",
-      "noticia": "Lula derrota Flávio Bolsonaro na França com 84% dos votos no 2º turno",
-      "enlace": "https://www.cartacapital.com.br/politica/lula-derrota-flavio-bolsonaro-na-franca-com-84-dos-votos-no-2o-turno/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIYMtDPyY8z_bxoVbcgr7VYgi4rpigpqhlH1EJOoUA8FoLMuAauxbJCP7VPw"
+      "noticia": "Lula vence em Milão com 57% e alcança 89% dos votos válidos, em Berlim",
+      "enlace": "https://veronoticias.com/politica/lula-vence-em-milao-com-57-e-alcanca-89-dos-votos-validos-em-berlim/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMiX0Jvs-YDrnXC4lGE5hN22hWPoghM4cKbf0DZLE0zRog5ngaETURJNWQNs"
     },
     {
       "termino": "friburgo - bayern",
@@ -28,10 +28,17 @@
     },
     {
       "termino": "flávio bolsonaro",
-      "trafico": "100+",
-      "noticia": "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar",
+      "trafico": "200+",
+      "noticia": "Votação no exterior: Lula vence em 37 países; Flávio Bolsonaro, em 12",
       "enlace": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiOPK1XA00LcM0C0pFVJNSZw1bCPnv2sUPYmYcM0BwFc3ckSonRR2fL7JYnfQ"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl-XiQ70ehun4hCaHi2YdtL_hkPx8uGyh-rpmBD725A4AO0f94by91CG8oZQ"
+    },
+    {
+      "termino": "celta vigo – betis",
+      "trafico": "100+",
+      "noticia": "¡EN VIVO! El Betis de Pellegrini visita al Celta en busca de prolongar su buen arranque en LaLiga",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17429243/celta-vs-betis-vivo-partido-laliga-pellgrini",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvK0fA0UTWJO9Qyu5KzooZSPDbsH6vjECmuFNDC2RHlCRJ0PB5mCMYgP6g_Ak"
     },
     {
       "termino": "luisa gonzález",
@@ -45,35 +52,28 @@
       "trafico": "200+",
       "noticia": "Premier League LIVE: Sunderland host Leeds after Michael Carrick s Man Utd lose to Bournemouth",
       "enlace": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkaoFFRAczvwq2TsH3xzh6zphL5eUgBMvZY3ssooLzSK1vm9SoWArpveln01U"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkIFfnNkMATXLOPG79NtJ7XWsW6O_S7bV30DVXS-cNezR2OQeJvmzyBVERlII"
     },
     {
       "termino": "lluvia",
       "trafico": "200+",
-      "noticia": "El huracán Vance se fortalece a categoría 2 y causa lluvias en tres estados de México",
-      "enlace": "https://cnnespanol.cnn.com/2026/10/23/clima-y-tiempo/huracan-vance-categoria-2-mexico-efe",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWWyiYtESBpdH_tz8Sr0hXXKYcXwTQ-OgeoQCcSJABLwutNkAs4ODryqv-9jg"
+      "noticia": "Por cercanía de Vance, CNPC despliega una Misión ECO para fortalecer acciones preventivas en costas del Pacífico, regiones Occidente y Noroeste del país",
+      "enlace": "https://edomexaldia.com/por-cercania-de-vance-cnpc-despliega-una-mision-eco-para-fortalecer-acciones-preventivas-en-costas-del-pacifico-regiones-occidente-y-noroeste-del-pais/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDj7sJ3A1tznLVs2KhqBkGlijD7iQFtXB6zsH1P93AmvHYkSApeimelR3Zeu4"
     },
     {
       "termino": "celta de vigo - real betis",
       "trafico": "500+",
-      "noticia": "Celta - Betis en directo | Última hora de LALIGA EA Sports en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOH_R2EKaPlBUW-XQ71Pr4wJzyxjUzdEH9e2ASs5CwSTb2gvTDD6OxreofKs"
+      "noticia": "Yoel Lago vuelve en el Celta; Pellegrini sorprende con Nelson Deossa en punta",
+      "enlace": "https://www.infobae.com/espana/agencias/2026/10/25/yoel-lago-vuelve-en-el-celta-pellegrini-sorprende-con-nelson-deossa-en-punta/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
     },
     {
       "termino": "manchester united - bournemouth",
       "trafico": "500+",
-      "noticia": "Manchester United vs Bournemouth: Premier League preview, team news, stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/ck62yqmle02mt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3nvA2eZiuA8b5Tjbxz2wF7g1ESA3W1uscLnHTluGB_cOFhGuCh736x15SmsM"
-    },
-    {
-      "termino": "liverpool - brighton",
-      "trafico": "500+",
-      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
+      "noticia": "Liverpool vs Brighton   Hove Albion: Premier League preview, team news, stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Fbr75z4wiLdAMoPiKoNbbb-c2rNp-YVHbDpmITh_T7mPjb_xs_cHXpZ0hGE"
     }
   ]
 }
