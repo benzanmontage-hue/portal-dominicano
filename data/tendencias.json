@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-24T22:22:40.264028-04:00",
-  "hora": "22:22",
+  "updated": "2026-10-24T22:43:17.794041-04:00",
+  "hora": "22:43",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tampa bay",
+      "trafico": "100+",
+      "noticia": "NHL On Tap: Kucherov can become leading point-scorer in Lightning history",
+      "enlace": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-october-23-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEVvpH_VCghYsgTmqyRBKNlTViFDRHngJ9Kzn5hqEIfH7t1NgzXrXpD8Tubs"
+    },
     {
       "termino": "nuggets - pelicans",
       "trafico": "100+",
@@ -34,6 +41,20 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj3Vkj0-JqMbN4ZioofnfXFqn-HScJfpF6jLnsg3Kj8L_kmVjRXslsf_4YIKw"
     },
     {
+      "termino": "drew rasmussen",
+      "trafico": "2000+",
+      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
+      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
+    },
+    {
+      "termino": "dean wade",
+      "trafico": "500+",
+      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
+      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
+    },
+    {
       "termino": "tiempo mañana",
       "trafico": "2000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
@@ -49,31 +70,10 @@
     },
     {
       "termino": "brewers vs. rays",
-      "trafico": "2000+",
-      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
-      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
-    },
-    {
-      "termino": "vladimir guerrero jr.",
-      "trafico": "100+",
-      "noticia": "Lejos de los yates y los millones, Vladimir Guerrero Jr. prefiere pescar en el río con su gente",
-      "enlace": "https://elnacional.com.do/deportes/lejos-yates-millones-vladdy-jr-prefiere-pescar-rio-gente-nizao_584364.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Oc_Aa2y00sGyTqEsipYLMD1KU1WinVUeR8F1UILN6XeR5YgVwZR4ihnkIDA"
-    },
-    {
-      "termino": "v. j. edgecombe",
       "trafico": "200+",
-      "noticia": "Jalen Duren injury rules him out for Detroit Pistons game vs 76ers",
-      "enlace": "https://www.freep.com/story/sports/nba/pistons/2026/10/24/jalen-duren-injury-update-pistons-news/92419228007/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H912af9VhE9aVYP7r5jeL3kGINSgr2ARchZUClGwAMlLk9Lcgq0VrMX9Wa8"
-    },
-    {
-      "termino": "gasolina",
-      "trafico": "200+",
-      "noticia": "Precio promedio del diésel iguala “por primera vez” al de la gasolina en América Latina ante repunte inflacionario",
-      "enlace": "https://www.bloomberglinea.com/economia/precio-promedio-del-diesel-iguala-por-primera-vez-al-de-la-gasolina-en-america-latina-ante-repunte-inflacionario/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxWa62SLWfaDrx1jODcHlIVNNsbdcDgsZPTF9TXImketoDKPk-OW7GoL_vv1c"
+      "noticia": "MLB Gameday: Obregon 8, Mexicali 9 Resultado Final (16/10/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/obregon-vs-mexicali/2026/10/16/850562/final",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7N3EW5EoLRHs_Z0-5TfWs-1tjiX00BdM3je1_uyEbmNHvr_CXBlEcyIXci4Q"
     }
   ]
 }
