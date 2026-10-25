@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T08:28:50.612717-04:00",
-  "hora": "08:28",
+  "updated": "2026-10-25T08:49:29.159618-04:00",
+  "hora": "08:49",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -14,10 +14,10 @@
     },
     {
       "termino": "nayib bukele",
-      "trafico": "100+",
-      "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
-      "enlace": "https://listindiario.com/la-republica/20261024/bukele-niega-sean-soldados-salvadorenos-cuatro-cuerpos-calcinados-encontrados-haiti_927440.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
+      "trafico": "2000+",
+      "noticia": "Abinader coordina con Bukele mientras continúa la búsqueda de cuatro salvadoreños en Haití",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/10/25/crisis-en-haiti-genera-dialogo-entre-el-salvador-y-la-republica-dominicana/3699519",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9w9HD0xbcVFJN241J8DEjoQ6KR_aYqPNdf6qPZkM2JnsAiGw076VDG97yhF8"
     },
     {
       "termino": "clima",
@@ -27,18 +27,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
     },
     {
-      "termino": "météo",
-      "trafico": "1000+",
-      "noticia": "Tendance météo à 4 semaines : rupture océanique et pluvieuse après Halloween",
-      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-rupture-oceanique-et-pluvieuse-apres-halloween-71369",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRSpJxnYzX4vaNNZOKpcfS3zpRC6cd8xADl3_zmoRMtAaZ282CDUKGU9gTiPA"
-    },
-    {
       "termino": "jacob misiorowski",
       "trafico": "100+",
       "noticia": "Miz sets World Series velo record -- on first pitch!",
       "enlace": "https://www.mlb.com/news/jacob-misiorowski-makes-world-series-history-in-game-1",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZL33dX8mDeCkp2JpBL2m74QTzHFH3AWEtGjvSq1VYXMkBBE2qc9_Lq0bUIU8"
+    },
+    {
+      "termino": "météo",
+      "trafico": "500+",
+      "noticia": "Météo. Quel temps fera-t-il à Châteaubriant et ses environs le dimanche 25 octobre 2026 ?",
+      "enlace": "https://www.ouest-france.fr/meteo/pays-de-la-loire/chateaubriant-44110/la-meteo-du-jour-a-chateaubriant-61026cfe-28a6-4c8d-b124-d77ef6e131fb",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6k6yokPg_2vc4BrUU3-DRbs7nGz7ELfBF2mFRoSzT1cgUY8qhwY-sE8u4nqs"
     },
     {
       "termino": "brandon williams",
@@ -57,16 +57,9 @@
     {
       "termino": "tampa bay",
       "trafico": "200+",
-      "noticia": "What voters need to know about the races for Florida’s Cabinet positions",
-      "enlace": "https://www.miamiherald.com/news/politics-government/state-politics/article317753393.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfkgljSB2KgFgwNZUdM8_wZoOkO8hCZj0tkhHjRLlK9zlb7Jl6eXDUOHkfczk"
-    },
-    {
-      "termino": "nuggets - pelicans",
-      "trafico": "200+",
-      "noticia": "Golden State Warriors vs Phoenix Suns Oct 24, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-phx-0022600111/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWxEOk_0QcCRCJMpzf-2OUPEfazR3SJrjwW4iU99ON0Sd6iO--bfGUxDq7jw"
+      "noticia": "Florida AG Seeks Election Against Ex-Legislator, Biden Official",
+      "enlace": "https://www.law360.com/pulse/articles/2541909",
+      "imagen": ""
     },
     {
       "termino": "juego de hoy mlb",
@@ -74,6 +67,13 @@
       "noticia": "Cerveceros dan otro golpe con remontada para ponerse 2-0 en la Serie Mundial",
       "enlace": "https://www.mlb.com/es/news/cerveceros-ganan-el-juego-2-de-la-serie-mundial-del-2026",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIxxEXZIQ3cbK1oKCE7DXbo0eeMO4PumvON9kR77LEtkLpx0s0V_lRvdhpogM"
+    },
+    {
+      "termino": "hawks - rockets",
+      "trafico": "200+",
+      "noticia": "Sengun records double-double as Houston beats Atlanta 121-114",
+      "enlace": "https://www.turkiyetoday.com/sports/sengun-records-double-double-as-houston-beats-atlanta-121-114-3230972",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRDRmfXUlblRQMFig6JLYoCm-LbF8E5_Re-aHVK23p4p2UqGd3foh4mS9MOw"
     }
   ]
 }
