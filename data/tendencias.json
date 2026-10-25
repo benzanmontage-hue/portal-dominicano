@@ -1,17 +1,10 @@
 {
-  "updated": "2026-10-25T11:52:26.755871-04:00",
-  "hora": "11:52",
+  "updated": "2026-10-25T12:12:44.696986-04:00",
+  "hora": "12:12",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "premier league",
-      "trafico": "100+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
     {
       "termino": "lluvia",
       "trafico": "200+",
@@ -28,24 +21,17 @@
     },
     {
       "termino": "manchester united - bournemouth",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Carrick s team news for Cherries clash",
       "enlace": "https://www.manutd.com/en/news/carricks-team-news-for-man-utd-v-bournemouth-25-october",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Ty_-98Lf52dHkAsVu8MEzh0AB6j9ooGYAZwz06Pe27W9vnRrqVusKReSsUk"
     },
     {
-      "termino": "real madrid vs barcelona",
-      "trafico": "200+",
-      "noticia": "Courtois, ausente en Real Madrid para El Clásico contra Barcelona",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17428185/courtois-no-juega-en-real-madrid-el-clasico-vs-barcelona",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZjJ-YJJL6h1dvlZfE6r-D9CSfAeexEenSFj4uMHMRdW7Aoya789ZW13bQ3U"
-    },
-    {
       "termino": "liverpool - brighton",
       "trafico": "200+",
-      "noticia": "Liverpool vs. Brighton GAME ON – 2pm kickoff at Anfield as planned",
-      "enlace": "https://www.thisisanfield.com/2026/10/liverpool-vs-brighton-game-on-kickoff-confirmed/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDD0Ze2iuQ2b3XfEgnNZQckhR9WxRkf-kDB3hI5mWReiD9EKL2-ntkKuOHJgE"
+      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
     },
     {
       "termino": "william contreras",
@@ -66,7 +52,7 @@
       "trafico": "500+",
       "noticia": "Athletic - Getafe: Resumen, resultado y goles",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/athletic-getafe/2026/10/25/01_0101_20261025_174_1450-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNJnLnsQHpMMfUtcx1oHNitBkFUrVRxNKed67wKSXJ4xk4pTDZ1AYKUgaq2Q"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXKysqboTjWYNVMoqMN8bRFhYD962RIe_jLYq1DdDpjbS1yOlInyXf7Y_UDQ"
     },
     {
       "termino": "inter - fiorentina",
@@ -74,6 +60,20 @@
       "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "tiempo",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
+      "termino": "nayib bukele",
+      "trafico": "2000+",
+      "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
+      "enlace": "https://listindiario.com/la-republica/20261024/bukele-niega-sean-soldados-salvadorenos-cuatro-cuerpos-calcinados-encontrados-haiti_927440.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
     }
   ]
 }
