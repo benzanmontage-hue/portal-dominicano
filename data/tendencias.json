@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T21:20:25.921353-04:00",
-  "hora": "21:20",
+  "updated": "2026-10-24T21:40:49.363393-04:00",
+  "hora": "21:40",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,6 +20,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
+      "termino": "dean wade",
+      "trafico": "200+",
+      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
+      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
+    },
+    {
       "termino": "weather tomorrow",
       "trafico": "500+",
       "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
@@ -27,16 +34,9 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
     },
     {
-      "termino": "dean wade",
-      "trafico": "100+",
-      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
-      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
-    },
-    {
       "termino": "brewers vs. rays",
       "trafico": "2000+",
-      "noticia": "Rays-Brewers World Series Game 2 FAQ, lineups (8 ET, FOX/FOX One)",
+      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
       "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
     },
@@ -50,13 +50,13 @@
     {
       "termino": "v. j. edgecombe",
       "trafico": "100+",
-      "noticia": "VJ Edgecombe gets the and-1 to fall",
-      "enlace": "https://www.espn.co.uk/video/clip/_/id/50253561/vj-edgecombe-gets-1-fall",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLqGlj2-KOq-cSowyw4bFkgXZGiuUY6t5UeLXBP3wxqNNl_nz1Wpv-owLF9XU"
+      "noticia": "Sixers star Joel Embiid gives thoughts on VJ Edgecombe as a leader",
+      "enlace": "https://sports.yahoo.com/articles/sixers-star-joel-embiid-gives-171233941.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ1wzc8beXXAfZBs8aKKi3B4RuoIjRFrpBTB0knth8o3WZIZhuO_Uinaw2dZI"
     },
     {
       "termino": "gasolina",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Precio promedio del diésel iguala “por primera vez” al de la gasolina en América Latina ante repunte inflacionario",
       "enlace": "https://www.bloomberglinea.com/economia/precio-promedio-del-diesel-iguala-por-primera-vez-al-de-la-gasolina-en-america-latina-ante-repunte-inflacionario/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxWa62SLWfaDrx1jODcHlIVNNsbdcDgsZPTF9TXImketoDKPk-OW7GoL_vv1c"
