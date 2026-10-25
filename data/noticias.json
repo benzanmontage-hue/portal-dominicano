@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T18:19:39.703603-04:00",
-  "hora": "18:19",
+  "updated": "2026-10-25T18:39:55.061832-04:00",
+  "hora": "18:39",
   "fecha": "25/10/2026",
   "total": 15,
   "noticias": [
@@ -93,6 +93,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Votación para ciudadanos estadounidenses desde la República Dominicana - U.S. Embassy in the Dominican Republic (.gov)",
+      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 20 Oct 2026 01:27:06 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana: El presidente Abinader ofrece apoyo logístico y de inteligencia a Bukele por los secuestros en Haití - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPanhWaFRpemhIdXBHYTNMc2x5OXhBUmVCTFRYajVBQ0gtRTdmWmdwTEJxSEJ3VExTdXpzcmpkRjRKZnJTTzVYQnBYWmlVSjhLOF8wRzBmelF1UVVQZXB2VFR4LTNBVUNaUWhpMkxueTVwRHI1RkYyV1REc2dpeUk2QUFEQ2laVHNuMHd0eTBHeUpUaVlZcTNuUFVKeVhkOVhHZ0RUay0zMHNqTFdGNkJCYW1raGJNTUZHTUYxbk9lWFBTVGhDRzVoSUxMcFJHa0lEc0oyd3Nhd0tPMkozSDhWemExOHdaLWkxbDRJN01rUmVfaXp1NXpZdTdiN1psUDVCcWFERnpOeU9UUdIBpAJBVV95cUxQVGU0cU5qUnJCdDlLSV9nU1MxRTFxendmWC14TlRnZ2dYWEphallWRTFHN2xjTUxWQWNtUnBSUzNCX2xJb3lGV2lHX3JqajFPd2tQSXBnR3Y1cWY4ZDZYdEFZaERsMzFWLU5LRmlacUdDVVphX0VTN1lNNHpKWTJGSXFoaFJqZy1xa0NRbkJXOUZoWUZBLWpuTTlIVXpwdHRTM0x2SElOLTNzV25Wc0Z6LVpiUTJEQlhwQThOYU8zR3lmLVJjX3Y1MlhSWXRiNTNOLVBRbVBHblRYNkNpNXlYT1ZyMm9BOUtwbkc1cEJYc1pXNlFzRDZRNnZKTnU3V2NpUVo1TDU5OVlNVXVpbkpVTHB4VEVvU0hVZVdkVXFtVWFLaHE1?oc=5",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQllaWldEbW9ybWpsbTFHUDk2MVk4YjRyMTVkRVowT25zVlNIaFBGdDh2RUpMQm1wSEhrU0hFRU5ISEhQakw2dVR4NEpwTktQNEpUUnd4REF2RnhMMWoza050ekdab2dGMEVqSTMxdENCRldMV29ZMGl5a3J5aVdYMzVaa0tSQnlj?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 25 Oct 2026 16:36:55 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "SIP: sentencia a favor DL es relevante para equilibrio libertad de prensa y derecho al olvido - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTF6ZEp1RDdIdGRwWXpfcXZZWFM0WW5QQ09SejYybzFPVmR6WjZsQkJHYkYwaEhOQmVmay1wMFhuQlFwUTVIVzhWWDM1UEY2XzYwdDFkdDdHWWpERHNpSGFobVJHRlRJLTRwNFJaWWFxUmdUMWhwNFQzRHJSbFdMY2lNWWJaekt0X1k3N3B3dWJYWG4yR0o4aHh0LWd3RWZWUVpPbGpPcXBMRGNGVUVXOFZvTWFjVDZhZ1HSAb8BQVVfeXFMTmlNV19RdWVHOEhiQkpwdlQ0Rk5WajlqaGJOd0JFSWlXSmpMVzE2RDVPb0ZReF9LWkVOaXBQSy1RVXJPT25EQ1UxLXFOV0pKVG8tXzdObDhCSU9hSnJnUDhZTk5XM2paUFp3M0JEYzZ0cHJ6VzhFRHN1YWpfdmRzckFsbWtoUHR2Vnc2ZWZ0UDFEY3pzSml2a1R6Ukhlc2lOLUNuQS0xVkIzYmdJeGRmdDROQXRyRmsyTFlZRjkwMGM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 25 Oct 2026 16:28:00 GMT",
       "imagen": ""
     }
   ]

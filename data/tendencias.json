@@ -1,10 +1,31 @@
 {
-  "updated": "2026-10-25T18:19:38.321781-04:00",
-  "hora": "18:19",
+  "updated": "2026-10-25T18:39:53.489352-04:00",
+  "hora": "18:39",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pedro martínez",
+      "trafico": "200+",
+      "noticia": "24 three-pointers scored to make history in the ACB",
+      "enlace": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/24-triples-anotados-para-hacer-historia-en-la-acb-25-10-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8pyqWXpv6MNP8OR484kyQuwrVVC4oaRe19iilkHy9zoOua3CCX1ndHKMf43I"
+    },
+    {
+      "termino": "resultados loteria",
+      "trafico": "500+",
+      "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
+      "termino": "leonor de borbón",
+      "trafico": "100+",
+      "noticia": "El futuro de la corona: De Kate Middleton a Leonor, las princesas que gobernarán Europa",
+      "enlace": "https://www.soycarmin.com/el-futuro-de-la-corona-de-kate-middleton-a-leonor-las-princesas-que-gobernaran-europa-t202610200019.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwl7DDLNYGZvT_-aZZOSXrjvgT3zR2-vjgO2Av8_uYTq8n1FyuVGdPv5HQWrI"
+    },
     {
       "termino": "lamine yamal",
       "trafico": "100+",
@@ -13,11 +34,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_fK0AyqBJmw0d9xKOvWsaxNUnmhFsjP4vnXNu0Lj3DSfDVxj1qzlCS9cDqRY"
     },
     {
-      "termino": "real vs barcelona",
+      "termino": "alineaciones de fc barcelona contra real madrid",
       "trafico": "100+",
-      "noticia": "Courtois, last-minute absence",
-      "enlace": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/courtois-baja-de-ultima-hora-25-10-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-f5F1UNqYqE4kV6qJhLT2c0TL686RZCGhx3hVrZ7F2dHhBr7tWapZdMvf8ZI"
+      "noticia": "Barcelona 1 - 2 Real Madrid: resumen, goles y resultado del Clásico de LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNoVq8igwOVPh7z9BUtGnoaDpkFleZXunsnFXXEIAEcV05cZV54_NQRBdvER8"
     },
     {
       "termino": "lidom hoy",
@@ -29,23 +50,9 @@
     {
       "termino": "independiente - boca juniors",
       "trafico": "100+",
-      "noticia": "Boca le ganó el clásico a Independiente, es líder de la Tabla Anual y se clasificó en el Clausura",
-      "enlace": "https://www.lanacion.com.ar/deportes/futbol/independiente/independiente-vs-boca-por-el-torneo-clausura-en-vivo-nid25102026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZgZT5klPgKbelZeFM7NO04atfhFsRRqANHaXyFRq7P1YQGU05aVZK3xlcLOM"
-    },
-    {
-      "termino": "lakers - jazz",
-      "trafico": "2000+",
-      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
-    },
-    {
-      "termino": "kylian mbappé",
-      "trafico": "200+",
-      "noticia": "The Barcelona Mistake That Put Real Madrid Ahead in the First El Clásico of the 2026-27 Season",
-      "enlace": "https://www.beinsports.com/en-us/soccer/la-liga/articles-video/the-barcelona-mistake-that-put-real-madrid-ahead-in-the-first-el-cl%C3%A1sico-of-the-2026-27-season-2026-10-25",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPSDU_9TtS4br4YUy5pnvE5kWI9NxGqq_ZXfXGC04B6aPlmzmQVpcnsp4Yx7M"
+      "noticia": "EN VIVO: Independiente y Boca empatan 0-0 en Avellaneda por el Torneo Clausura, con el título anual y los playoffs en juego",
+      "enlace": "https://www.gentedesalta.com/deportes/en-vivo-independiente-boca-empatan-0-0-avellaneda-torneo-clausura-titulo-anual-playoffs-juego-n13265",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Gkk9B6w59L7Ks6HeVzU1pTaQgrGy10oMi_D7HuB4LpBzme4QITyIzIRCHrw"
     },
     {
       "termino": "inundación",
@@ -56,24 +63,17 @@
     },
     {
       "termino": "udinese - milan",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Il Milan è terzo con la Roma: Pulisic-Hutchinson, 2-0 a Udine. Sesta sconfitta in fila, occhio a Runjaic",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/25-10-2026/udinese-milan-live-risultato-e-gol-in-diretta-serie-a.shtml",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUir6I8Hgh44l7tVZkjqruPObbNoEiAE5ytE-H34pfcRJhTj-y1mJOMex3OpI"
     },
     {
       "termino": "jazz - lakers",
-      "trafico": "1000+",
-      "noticia": "Walker Kessler leads Lakers into reunion with Jazz",
-      "enlace": "https://www.cbssports.com/nba/news/walker-kessler-leads-lakers-into-reunion-with-jazz/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
-    },
-    {
-      "termino": "barca",
-      "trafico": "200+",
-      "noticia": "Forte vento sul Garda, barca spiaggiata: si cerca il proprietario",
-      "enlace": "https://www.bresciaoggi.it/territorio-bresciano/garda/forte-vento-sul-garda-barca-spiaggiata-si-cerca-il-proprietario-1.13161795",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9RpYh_YfIuNUXDdNt8VHcshJXVHCzvqdxFXJfW7WIT_Z-_vVV6bwAj0qKgPk"
+      "trafico": "2000+",
+      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
     }
   ]
 }
