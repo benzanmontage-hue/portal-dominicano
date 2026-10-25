@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T14:36:31.166260-04:00",
-  "hora": "14:36",
+  "updated": "2026-10-25T14:56:47.001294-04:00",
+  "hora": "14:56",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,13 +13,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOrTdWlnEK-9g-2NVHSOcf3DEp7YV8TUwbx67tFZuZpq2YD_Ij5mJEK6aqit4"
     },
     {
-      "termino": "lula",
-      "trafico": "100+",
-      "noticia": "Lula vence em Milão com 57% e alcança 89% dos votos válidos, em Berlim",
-      "enlace": "https://veronoticias.com/politica/lula-vence-em-milao-com-57-e-alcanca-89-dos-votos-validos-em-berlim/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMiX0Jvs-YDrnXC4lGE5hN22hWPoghM4cKbf0DZLE0zRog5ngaETURJNWQNs"
-    },
-    {
       "termino": "friburgo - bayern",
       "trafico": "500+",
       "noticia": "Freiburg vs Bayern Munich: German Bundesliga stats   head-to-head",
@@ -28,7 +21,7 @@
     },
     {
       "termino": "flávio bolsonaro",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Votação no exterior: Lula vence em 37 países; Flávio Bolsonaro, em 12",
       "enlace": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl-XiQ70ehun4hCaHi2YdtL_hkPx8uGyh-rpmBD725A4AO0f94by91CG8oZQ"
@@ -36,30 +29,30 @@
     {
       "termino": "celta vigo – betis",
       "trafico": "100+",
-      "noticia": "¡EN VIVO! El Betis de Pellegrini visita al Celta en busca de prolongar su buen arranque en LaLiga",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17429243/celta-vs-betis-vivo-partido-laliga-pellgrini",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvK0fA0UTWJO9Qyu5KzooZSPDbsH6vjECmuFNDC2RHlCRJ0PB5mCMYgP6g_Ak"
+      "noticia": "Celta 0 - Betis 0: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/primera/celta-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8leBwCxcy6ghrQlCxIacO4F7bTdcyfJ0sA6-ie4PIDiO2sh701KvV-lzI5_I"
     },
     {
       "termino": "luisa gonzález",
       "trafico": "200+",
-      "noticia": "Así fue la audiencia de formulación de cargos de Luisa González, excandidata presidencial de Ecuador",
-      "enlace": "https://cnnespanol.cnn.com/2026/10/23/latinoamerica/video/luisa-gonzalez-ecuador-candidato-presidencial-conclusiones",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMD9GATvXeVIs9rU5YFLDk9z9FZbeTgEDxBuU01yiJF3RRNr9n_3_J9lZ4Hko"
+      "noticia": "La Policía de Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/22/latinoamerica/ecuador-policia-detiene-luisa-gonzalez-efe",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOZt23DBemauqF2T_nN6edtk0LPwb6mWuO-dIZFvvTlXCiubZdDxWjF5lSdo"
     },
     {
       "termino": "premier league",
       "trafico": "200+",
       "noticia": "Premier League LIVE: Sunderland host Leeds after Michael Carrick s Man Utd lose to Bournemouth",
       "enlace": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkIFfnNkMATXLOPG79NtJ7XWsW6O_S7bV30DVXS-cNezR2OQeJvmzyBVERlII"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkaoFFRAczvwq2TsH3xzh6zphL5eUgBMvZY3ssooLzSK1vm9SoWArpveln01U"
     },
     {
       "termino": "lluvia",
       "trafico": "200+",
-      "noticia": "Por cercanía de Vance, CNPC despliega una Misión ECO para fortalecer acciones preventivas en costas del Pacífico, regiones Occidente y Noroeste del país",
-      "enlace": "https://edomexaldia.com/por-cercania-de-vance-cnpc-despliega-una-mision-eco-para-fortalecer-acciones-preventivas-en-costas-del-pacifico-regiones-occidente-y-noroeste-del-pais/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDj7sJ3A1tznLVs2KhqBkGlijD7iQFtXB6zsH1P93AmvHYkSApeimelR3Zeu4"
+      "noticia": "Lo que la lluvia sostiene",
+      "enlace": "https://www.informador.mx/jalisco/lo-que-la-lluvia-sostiene-20261025-0032.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS628eZ6MpOGl7osY_czqIcG3_mxmaD8HInN9S26LETqV6avzxG4FZxW3zreGg"
     },
     {
       "termino": "celta de vigo - real betis",
@@ -71,9 +64,16 @@
     {
       "termino": "manchester united - bournemouth",
       "trafico": "500+",
-      "noticia": "Liverpool vs Brighton   Hove Albion: Premier League preview, team news, stats   head-to-head",
+      "noticia": "Manchester United vs Bournemouth: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/ck62yqmle02mt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3nvA2eZiuA8b5Tjbxz2wF7g1ESA3W1uscLnHTluGB_cOFhGuCh736x15SmsM"
+    },
+    {
+      "termino": "liverpool - brighton",
+      "trafico": "500+",
+      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
       "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_Fbr75z4wiLdAMoPiKoNbbb-c2rNp-YVHbDpmITh_T7mPjb_xs_cHXpZ0hGE"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
     }
   ]
 }
