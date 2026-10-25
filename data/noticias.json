@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T16:58:35.463221-04:00",
-  "hora": "16:58",
+  "updated": "2026-10-25T17:18:51.000598-04:00",
+  "hora": "17:18",
   "fecha": "25/10/2026",
   "total": 15,
   "noticias": [
@@ -61,6 +61,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Orgullo platense: la niña de 10 años se consagró \"Reina Internacional de belleza\" en República Dominicana - Infocielo",
+      "fuente": "Infocielo",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSDFfY1laZndlakpQQ3dzZUJsTnRCYjdZU0p6ems5Y0dWVVB3RFR1T3I5V2lTbXlWVHcwblpCQzY5d2pNNXE5c21Cc3g5ZmtrRzVtUU91eGpaNkhFRV9KRnUybkRHNWx0aF9EX0RnenROZU5Qc01tN3FPcVdhOXh3aWcxZ2FzaWs1Ylk1OXZ0Zm1Wb0xmbHVWTzhRcFZxWURWaU1HeEdQVlFUYTEyMFhNR29yZVV1SkZXdWZDaXBlUncweEh0MHF1OW8xcVliNDBMU2dXazgtdjNTdFRYNFZhc29Daw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 12:28:30 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "PARLACEN inaugura Galería de Presidentes en su subsede de República Dominicana - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTllZM3pUUUZ4NFBWcmctMG01dnlsR0Jsb3RlZGRPZU5CbE1HUlNPa2FUaXhYRUtnamhaWUxpeFlURmhzNGhvS1N6b3hCTjB6cklYOEk5bkVORExJd2FHb2FGeFFUM29OMHVjMnhJcHVEdVB3Z0N4bk0yNHVBdUQ5SV9qTzVxd0YxYnc4Q2laeWgxN0JXSkxNcFNYeFRxNjZLY1ZsdFYxTklLbzhL?oc=5",
@@ -69,19 +77,11 @@
       "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-12.04.19-PM-2-1200x854.jpeg"
     },
     {
-      "titulo": "Pelota Invernal: Tabla de posiciones - Remolacha",
-      "fuente": "Remolacha",
-      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zdF9ORmVaUTRLMnhBenFwRHlxdGFSY0dvakpWTnFlRkx2WVZrNk1leENLenpQYjU0QzNQR2I4WGpEYWN5X1Bad2pocFp2T0lxYUFNOTdrMFJIUHBTVFM5ZmV5cDNNNmFqM0ZPazhGY2lJXzlsNjhBbXdR0gF_QVVfeXFMUEVwb0V0T2s1NjF6VXgzWGRJLXM1Q0c3YjlJdDRHZEFaMzBnaksxQkZTTkNXSmNjV3BTUWl5eGpiTURuUUNsUmRJblpSQjd3T1k3SnRMaWFwOXhVeGUtS3BGeEFfeUNzNHVDTFVwQ3FCVVJZbmtmTFN0c3lrenQ4dw?oc=5",
+      "titulo": "Cuatro dominicanos que escaparon del Ejército ruso ya vienen rumbo a RD - N Digital",
+      "fuente": "N Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWdaaVBMWnlaeEdrcHkzVHNmbmpQMHlFTXdBOTlHNUpFVXUyYlpPN25jVVFkZHhiSzVQSWhTd1dyQnlwWWhqZER6TFZJVkxoT0ttSklaTkI1SjhoZkFpYlVzVVo1bUtMeVg5S3hYUzVubVMxTU5xZU03TTRoQUNuYmoyWWFkNFVvZkNkT09md2NBQWhaWDRMczZUVEczZjBHaVE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 25 Oct 2026 13:24:14 GMT",
-      "imagen": "https://remolacha.net/wp-content/uploads/2026/10/pelota-invernal-tabla-de-posiciones-180.jpg"
-    },
-    {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Esta es la tasa para este sábado 24 de octubre - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0E3TUhBWUVKenFTbGJEYW9SN3lzNTEyclNvaWxVRjFLamtkbkJMa2NjNlVCRW9seURzZ0RJM1BQV1ppd211X0FTNm0yWHZ3RmFoTUlGSzZvOEgzNkI2VHJTT1N3bUUyZU1qWHhxcjFHMkxXSUtIaDkzNEJaNUNkcHVBd0FGV0tsYi15UDRlSmZpX0pKVkpJS3Bn0gGfAUFVX3lxTFBMaXZyMGlid2VUWnpENENfR29OdVNTOVBiNEphVkhuWXVNR3J5RTNzZkpuVTg2Z2JDdXQ1ZXZtN25haENycWxZR3JKX0F6S2JkdzZmWFhFUDloMlFrbl8wMGFBZ0RSNGs2WEpQcWFqTjdtbnJqWE9VRDdnbnFDV3BsbmFnbFdHc1RZOUREYkkxYlFNUmE3NlBXQm5rT01IWQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 24 Oct 2026 12:30:00 GMT",
+      "fecha": "Sun, 25 Oct 2026 16:23:37 GMT",
       "imagen": ""
     },
     {
@@ -117,12 +117,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Organizaciones sociales y políticas se movilizan en República Dominicana en defensa de la producción agrícola - teleSUR",
-      "fuente": "teleSUR",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTnVqNzBIcTdiQjNkUXlsTExXaC13d1FqNVlRUGpkZC1nZEVxVTlhZExNa0QtcGJvTENQV0w4eEhRSXh3cXJmX292SzRhLXFXU2w2UThkT2Q1a18yX1NUOXdOZTd5R29uelFHSjZrZjh5cEdUblpnV2ZvVmI2czk1aG5TbDZSNk04X0FpbWlLRXMyN21tLVp3TE8xbUdIUTBzRnIyNGRhMl81QXo3S2N0cDJBYUZlbU4zTnJWdVROQnVaLXpyMmZ4aEM4b3hFTXF5eUE?oc=5",
+      "titulo": "SIP: sentencia a favor DL es relevante para equilibrio libertad de prensa y derecho al olvido - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTF6ZEp1RDdIdGRwWXpfcXZZWFM0WW5QQ09SejYybzFPVmR6WjZsQkJHYkYwaEhOQmVmay1wMFhuQlFwUTVIVzhWWDM1UEY2XzYwdDFkdDdHWWpERHNpSGFobVJHRlRJLTRwNFJaWWFxUmdUMWhwNFQzRHJSbFdMY2lNWWJaekt0X1k3N3B3dWJYWG4yR0o4aHh0LWd3RWZWUVpPbGpPcXBMRGNGVUVXOFZvTWFjVDZhZ1HSAb8BQVVfeXFMTmlNV19RdWVHOEhiQkpwdlQ0Rk5WajlqaGJOd0JFSWlXSmpMVzE2RDVPb0ZReF9LWkVOaXBQSy1RVXJPT25EQ1UxLXFOV0pKVG8tXzdObDhCSU9hSnJnUDhZTk5XM2paUFp3M0JEYzZ0cHJ6VzhFRHN1YWpfdmRzckFsbWtoUHR2Vnc2ZWZ0UDFEY3pzSml2a1R6Ukhlc2lOLUNuQS0xVkIzYmdJeGRmdDROQXRyRmsyTFlZRjkwMGM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 25 Oct 2026 10:39:32 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      "fecha": "Sun, 25 Oct 2026 16:28:00 GMT",
+      "imagen": ""
     }
   ]
 }
