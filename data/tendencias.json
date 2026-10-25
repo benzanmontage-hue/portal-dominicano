@@ -1,13 +1,20 @@
 {
-  "updated": "2026-10-25T07:06:16.774896-04:00",
-  "hora": "07:06",
+  "updated": "2026-10-25T07:26:57.114809-04:00",
+  "hora": "07:26",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "clima",
+      "trafico": "5000+",
+      "noticia": "Descontinúan alerta verde para El Gran Santo Domingo y 4 provincias ante disminución de aguaceros",
+      "enlace": "https://listindiario.com/la-republica/20261024/descontinua-salerta-verde-gran-santo-domingo-4-provincias-disminucion-aguaceros_927375.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
+    },
+    {
       "termino": "météo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Météo. Quel temps fera-t-il à Châteaubriant et ses environs le dimanche 25 octobre 2026 ?",
       "enlace": "https://www.ouest-france.fr/meteo/pays-de-la-loire/chateaubriant-44110/la-meteo-du-jour-a-chateaubriant-61026cfe-28a6-4c8d-b124-d77ef6e131fb",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6k6yokPg_2vc4BrUU3-DRbs7nGz7ELfBF2mFRoSzT1cgUY8qhwY-sE8u4nqs"
@@ -20,13 +27,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR__rtHwadu40wIpVRe6FeAWtuYBLBtMez_CiDV51gDAtmWAVs4uwrjxCkI8F0"
     },
     {
-      "termino": "yaxel lendeborg",
-      "trafico": "200+",
-      "noticia": "Warriors  Yaxel Lendeborg:  Lost all respect  for Luka Doncic",
-      "enlace": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT8vge__sczD0fb4jRUNor0JLMiPj4Z9TWshA9CwUY1g3gqts_icw-8u-bPT8"
-    },
-    {
       "termino": "mob",
       "trafico": "100+",
       "noticia": "Two killed in mob beating over alleged auto-rickshaw theft in Rangpur",
@@ -36,16 +36,16 @@
     {
       "termino": "tampa bay",
       "trafico": "200+",
-      "noticia": "A pleasant morning leads to a warm afternoon",
-      "enlace": "https://www.winknews.com/weather/a-pleasant-morning-leads-to-a-warm-afternoon/article_21e9034d-c8bf-4655-9ce5-c335b2993f2f.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjZvq8oKUv693YAN4caHQHEsGfw8XVDdErNMnkimWD5nas7bn9C7RD0zA5yU8"
+      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
+      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZZb8bARp9SDwpl4QZ-afI16hXq84ksCJpARpvLei3mYLNXc8ctZu2e3W7C4"
     },
     {
-      "termino": "nuggets - pelicans",
+      "termino": "warriors - suns",
       "trafico": "200+",
-      "noticia": "Nuggets host Pelicans as both teams seek first win",
-      "enlace": "https://www.cbssports.com/nba/news/nuggets-host-pelicans-as-both-teams-seek-first-win/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOSGK1DZjkpwfZW88On2escB7mklK61Kb09R5RXwSG9XwOYq3aJ8vCbOETH94"
+      "noticia": "Postgame analysis of rookie Yaxel Lendeborg s big game despite the loss to Suns",
+      "enlace": "https://www.nba.com/watch/video/postgame-analysis-of-rookie-yaxel-lendeborgs-big-game-despite-the-loss-to-suns?plsrc=nba collection=more-to-watch-2",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7COoB4qLx-F-A2FLCorKkhSUD6_QRGhfif9GWbd9eC2s4Pxy4vMGyUGAOKlc"
     },
     {
       "termino": "juego de hoy mlb",
@@ -64,9 +64,9 @@
     {
       "termino": "suns - warriors",
       "trafico": "2000+",
-      "noticia": "Postgame analysis of rookie Yaxel Lendeborg s big game despite the loss to Suns",
-      "enlace": "https://www.nba.com/watch/video/postgame-analysis-of-rookie-yaxel-lendeborgs-big-game-despite-the-loss-to-suns?plsrc=nba collection=more-to-watch-2",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7COoB4qLx-F-A2FLCorKkhSUD6_QRGhfif9GWbd9eC2s4Pxy4vMGyUGAOKlc"
+      "noticia": "Golden State Warriors vs Phoenix Suns Oct 24, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-phx-0022600111/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWxEOk_0QcCRCJMpzf-2OUPEfazR3SJrjwW4iU99ON0Sd6iO--bfGUxDq7jw"
     },
     {
       "termino": "drew rasmussen",
