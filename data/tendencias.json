@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-25T16:38:18.789940-04:00",
-  "hora": "16:38",
+  "updated": "2026-10-25T16:58:33.969070-04:00",
+  "hora": "16:58",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "jazz - lakers",
+      "trafico": "200+",
+      "noticia": "Walker Kessler leads Lakers into reunion with Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/walker-kessler-leads-lakers-into-reunion-with-jazz/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+    },
+    {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
-      "enlace": "https://sports.yahoo.com/articles/toto-wolff-gets-brutally-honest-192651366.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHQZJLmo5Y7WxfMMtp8TEIHIFjTnxFB-0k3zAiNWlUKZnw4e6uT0E_oUaZ7Mw"
+      "noticia": "I / AM AUSTIN. For the new generation of fans.",
+      "enlace": "https://www.astonmartinf1.com/en-GB/news/feature/i-am-austin-for-the-new-generation-of-fans",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXdz9E7LIccC9fXM1BBOXtoTxJcGIcaTRQ44OoE4Mnco_lcjor_kgPs1en5kU"
     },
     {
       "termino": "vix",
@@ -28,52 +35,45 @@
     },
     {
       "termino": "laliga",
+      "trafico": "1000+",
+      "noticia": "Barcelona vs Real Madrid live updates: El Clasico predictions, team news and more",
+      "enlace": "https://www.nytimes.com/athletic/live-blogs/barcelona-vs-real-madrid-live-updates-el-clasico-predictions-team-news-and-more/cZB0CJqaIcUo/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdR1WcssyKybcxh2z_LhWKOW4bseMTvaUELaVnPMXGqKqHMv9F2bXdyqC89zw"
+    },
+    {
+      "termino": "espn",
       "trafico": "200+",
+      "noticia": "Even With the QB News, Buckeyes are Still Overwhelming Favorites to Make the CFP",
+      "enlace": "https://sports.yahoo.com/articles/even-qb-news-buckeyes-still-213019379.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJBz6qGy1yiZXSBRBe4Sd_LjjkDONDOhUsy86K-FeT8etuG9MD5VmNEcfWfX0"
+    },
+    {
+      "termino": "dalton smith",
+      "trafico": "100+",
       "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
       "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xE7rHDABw062P_OjrRjdtyeyGrDRTQek8wkyj11KY0FBqPUUFYFba906RqE"
     },
     {
-      "termino": "espn",
-      "trafico": "200+",
-      "noticia": "College GameDay had no obvious Week 9 destination. Here’s where it landed",
-      "enlace": "https://www.usatoday.com/story/sports/ncaaf/2026/10/25/college-gameday-week-9-location-indiana-minnesota-football-espn/92431339007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf0ArsJtdqQlid1_9rbT9VN4oAufUFBuLeDLM6UQ29LrzpFa01MXonSTiUtfI"
-    },
-    {
       "termino": "barcelone – real madrid",
       "trafico": "2000+",
-      "noticia": "Barça – Real : ne cherchez pas le Clásico sur beIN Sports ce dimanche",
-      "enlace": "https://www.live-mercato.com/article/198846-barca-real-ne-cherchez-pas-le-clasico-sur-bein-sports-ce-dimanche",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQamM5KkvZ7srO4ssXjNygJJa3lGosBVTvf-o2pj078j2ZrGQDi0ZtvXBAt3dg"
-    },
-    {
-      "termino": "la liga",
-      "trafico": "200+",
-      "noticia": "🚨 Barcelona   Real Madrid name XIs for El Clásico",
-      "enlace": "https://sports.yahoo.com/articles/barcelona-real-madrid-name-xis-185400203.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZLmV7zFyhZGJ0z9GNS80t5UzbP_HWVaAdaUgxvphjeW_WFuPRnkdIdlCpHr4"
+      "noticia": "DIRECT. FC Barcelone - Real Madrid, La Liga : C est la mi-temps ! (0-1)",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/fc-barcelone-real-madrid-live/693170",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLHZHzLLKNxQeMTHMVKXs3fS_AnuUtgO5zOiLu7ty3blLX8zED5BWhbVyewAQ"
     },
     {
       "termino": "barcelona - real madrid",
       "trafico": "10000+",
-      "noticia": "EN VIVO: Sigue Barcelona vs. Real Madrid, el clásico español",
-      "enlace": "https://www.espn.com.do/futbol/espana/nota/_/id/17419952/barcelona-vs-real-madrid-en-vivo-clasico-espanol",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3cnRJVZBmyqrA5gIUhTrvwi-P9i8CgV3mRjliYhqa-KJOR80PGOzQvPwpGSU"
+      "noticia": "Barcelona - Real Madrid hoy, en directo: última hora del Clásico de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk-X02FcX78eTwd4bqFGFuRClucohofs8j6uaWPykNTjNIRngVC05SMt5JPTk"
     },
     {
       "termino": "posiciones de sc freiburg contra bayern",
       "trafico": "1000+",
-      "noticia": "Freiburg 1-3 Bayern Munich: Bayern beat Freiburg as fans unveil Kompany banner",
-      "enlace": "https://www.bbc.com/sport/football/live/cmjwe75yxn4lt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtkiuWFjf6H0XRik1tNg1i7d3RhO9U9auYZzHfIp4DvVg-SOFACLG4WFeOvS0"
-    },
-    {
-      "termino": "lecce - juventus",
-      "trafico": "100+",
-      "noticia": "Serie A, oggi Lecce-Juventus 0-0 – Diretta",
-      "enlace": "https://www.radiopavia.com/notizie-nazionali/serie-a-oggi-lecce-juventus-0-0-diretta/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUgtXH6rSdrcGHvBA_aGi90KXF4HrtKaM0E9yTr8piJMo5ADxugBU_UkToKoc"
+      "noticia": "Freiburg 1-3 Bayern (Oct 25, 2026) Game Analysis",
+      "enlace": "https://www.espn.com/soccer/report/_/gameId/401884759",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKb8gPbbVxV8qOTYm1-xRxUwzdphIjXzjZwSukZmeV5ZtJpl6fqo26YqKMea8"
     }
   ]
 }
