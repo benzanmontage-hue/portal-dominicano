@@ -1,23 +1,30 @@
 {
-  "updated": "2026-10-25T07:47:17.191540-04:00",
-  "hora": "07:47",
+  "updated": "2026-10-25T08:07:34.870345-04:00",
+  "hora": "08:07",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "tiempo",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
+      "termino": "nayib bukele",
+      "trafico": "100+",
+      "noticia": "Bukele niega que sean soldados salvadoreños los cuatro cuerpos calcinados encontrados en Haití",
+      "enlace": "https://listindiario.com/la-republica/20261024/bukele-niega-sean-soldados-salvadorenos-cuatro-cuerpos-calcinados-encontrados-haiti_927440.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
+    },
+    {
       "termino": "clima",
-      "trafico": "5000+",
-      "noticia": "Descontinúan alerta verde para El Gran Santo Domingo y 4 provincias ante disminución de aguaceros",
-      "enlace": "https://listindiario.com/la-republica/20261024/descontinua-salerta-verde-gran-santo-domingo-4-provincias-disminucion-aguaceros_927375.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
+      "trafico": "10000+",
+      "noticia": "Sábado con algunos aguaceros por incidencia de una vaguada; siguen las altas temperaturas",
+      "enlace": "https://listindiario.com/la-republica/20261024/sabado-aguaceros-incidencia-vaguada-siguen-altas-temperaturas_927361.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToRvmHpNwDR_74DKDwJuyrgxKlRGlQKCO3unqaRUx8UnVgfjVhljYaFGxfJ4w"
     },
     {
       "termino": "météo",
@@ -57,23 +64,16 @@
     {
       "termino": "warriors - suns",
       "trafico": "200+",
-      "noticia": "Postgame analysis of rookie Yaxel Lendeborg s big game despite the loss to Suns",
-      "enlace": "https://www.nba.com/watch/video/postgame-analysis-of-rookie-yaxel-lendeborgs-big-game-despite-the-loss-to-suns?plsrc=nba collection=more-to-watch-2",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7COoB4qLx-F-A2FLCorKkhSUD6_QRGhfif9GWbd9eC2s4Pxy4vMGyUGAOKlc"
+      "noticia": "Very poor : Steve Kerr identifies major problem in Yaxel Lendeborg s game that  has to improve",
+      "enlace": "https://sports.yahoo.com/articles/very-poor-steve-kerr-identifies-115000710.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiU6KfGhFGXZYZUAxUSF5JoiYsMCb2D31VdbREPkRwd_ygpTpZbENHW9ilWno"
     },
     {
       "termino": "nuggets - pelicans",
-      "trafico": "200+",
-      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
-      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZZb8bARp9SDwpl4QZ-afI16hXq84ksCJpARpvLei3mYLNXc8ctZu2e3W7C4"
-    },
-    {
-      "termino": "juego de hoy mlb",
       "trafico": "1000+",
-      "noticia": "Cerveceros dan otro golpe con remontada para ponerse 2-0 en la Serie Mundial",
-      "enlace": "https://www.mlb.com/es/news/cerveceros-ganan-el-juego-2-de-la-serie-mundial-del-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9Wfv2EYStHM9BF9_LFQbNMLq3IbF3ekpN6JZj8Y4MEHA4Su4giJVZEfBHlE"
+      "noticia": "Brewers 5-4 Rays (Oct 24, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWsBnjN7XHPOAcdD6Kba9EBUN0vDUMVJok4gflNMZ0POSttNuv9yvzIHnnT18"
     }
   ]
 }
