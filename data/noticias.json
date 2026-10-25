@@ -1,32 +1,16 @@
 {
-  "updated": "2026-10-24T22:21:43.404391-04:00",
-  "hora": "22:21",
+  "updated": "2026-10-24T22:22:47.948346-04:00",
+  "hora": "22:22",
   "fecha": "24/10/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "El negocio verde que gana terreno en República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3VfbWR6MXpYdWRrc1J1OF9NclBiY0NPOTdNbHFBOFVraDZtMm1lV2x3cEJTRTkwY0dOZXVyUzNZWF9feHBuZFJWNEs0R2k4Q1UxUmpWVjUtRkl0blEtSEZpb252RVZsOTRWLVVVSjFlZDhhVXNhTXlsMmlCSnJQaU5uZmRqQ245aFc3YlI5UGg5TjVFcDFuSkpILXIyd9IBowFBVV95cUxQR0Jjekdncm1CTmh1bDUzV2JtMmV3VUJITzNVdjRQOVJsakJDWTVZMGt5SU9TR3o5WWlQNGZtY2wwU2xvdzRKZ3dpbjQtdk5IZU9mXzlBd2Y3UXZfUXhNRWt3M2VWRDhqMGhFS1I4NTJGY3d2ZXM3X2xDdnJRQzVOSWR6eUxDT2RsdFlJYXlqVnBPVFNkeTdFUGZrLW1sSXZnZ2Iw?oc=5",
+      "titulo": "República Dominicana envía militares a frontera en medio de la creciente tensión en Haití - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNERERWN2c09GRGE0czV3Szc1S1M5b2t6emtVV0FtWC1RUTdmZjFVai1CMnRQVXdHRFBHZDdaWE1rbnMwdWRoaEFTVzVMWVFGbElDX09BR3FkbU12dkdIQ1ZOb2oxMnJOT0MtbVlLdDA0MVItWmtTLUl6UzdQbFhBX19uSGdMRUlUeTA5VUJsZUdZb1FqdzlNOVlTZ0sxekszWlhKSnRBX3JmQm8tdHh0UWJqTDYwTE1FdnpIcGJXSlhZWmVMOHRDZThB0gHPAUFVX3lxTE1EV3FsdGdnVDE3WnZFQXBQaFJjSEtDM05neW9USzBGT3h6SUkyQndoWjgwOWZ4b2hDTTlQVjdVZG5kYVlERC1STXpZajFtQWNYal9ybTRwWnNjenV6SVRMOFd0NnRodzFJeUVBWkI1Y0lFRm52OTY2MHdIZng2QzlIQm9LeE1QUGRMeGJibHRQdTVlS0JWcG4yWG5lckd0blpvbFRKMXVGOTZYOXNDa3hQY3JhdjRrRkwtQzlMVVBYbnJsUUZKUTVia0kyUkJKZw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 24 Oct 2026 00:36:42 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/10/23/6adbe02454a70.jpeg"
-    },
-    {
-      "titulo": "Porsche presenta su oferta movilidad eléctrica en República Dominicana durante el Evergo Fest. - Porsche Newsroom",
-      "fuente": "Porsche Newsroom",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUpVT3V5S1puRDdlRGN3b3BHT2xKUXJoXzR5M3pYMVNWdF9BSUVwMllxRkFIVFhsM3VkMXRSOUhZNkVYaEpCVXpYRS1SdzNwc18zRE14c1VuXzQ3VTVzdDl4VW5hbUVyMUhwcGNPR3c1X2NOazdMZXV1aWw4OUlvT0UwcHJaazFST2l6elVwa0pzYkhFWWZfb3BXSlhubHFFbHhGbTNJV0wzM3hUenN0RkM3RVZCclVvR0hlLTJtTFZHSjZyZkxrbmJBcmU0U09VSWtXcGNhazRCTjlR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 23 Oct 2026 22:41:20 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "titulo": "República Dominicana refuerza frontera con Haití tras desaparición de soldados salvadoreños - elsalvador.com",
-      "fuente": "elsalvador.com",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTRNWkxkR0ZjQm02SXM2MFYzemhXMGFoa1dMcEFoQ1ZXVkJkUkhqVDJrUm1sNkZTS3BsNldXcGlOXzNWenBVaE1JNzM1QXVfUDRsbXlPOU82NzJJbmtDTzVkX0tmcUZoLVYyNTR3aGl6bFVibFRsNUVZclFRQWktbUR0azlJRFhmRVV1aEMtXzRWWkpYbUE4ZVduakVpUjZtWVVERVE5WmpWaWZk?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 24 Oct 2026 23:00:04 GMT",
-      "imagen": "https://cdn-pro.elsalvador.com/wp-content/uploads/2026/10/republica-dominicana-haiti-salvadorenos.jpg"
+      "fecha": "Sat, 24 Oct 2026 20:46:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2025/05/16/whatsapp-image-2025-05-16-at-24516-pm-2-70513460-focus-0-0-1200-675_wam.jpg"
     },
     {
       "titulo": "Abinader dice RD responderá con firmeza a bandas haitianas - AlMomento.net",
@@ -43,6 +27,22 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 24 Oct 2026 18:10:44 GMT",
       "imagen": "https://listindiario.com/files/main_image/uploads/2026/10/24/6adcef99e4d63.jpeg"
+    },
+    {
+      "titulo": "El negocio verde que gana terreno en República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3VfbWR6MXpYdWRrc1J1OF9NclBiY0NPOTdNbHFBOFVraDZtMm1lV2x3cEJTRTkwY0dOZXVyUzNZWF9feHBuZFJWNEs0R2k4Q1UxUmpWVjUtRkl0blEtSEZpb252RVZsOTRWLVVVSjFlZDhhVXNhTXlsMmlCSnJQaU5uZmRqQ245aFc3YlI5UGg5TjVFcDFuSkpILXIyd9IBowFBVV95cUxQR0Jjekdncm1CTmh1bDUzV2JtMmV3VUJITzNVdjRQOVJsakJDWTVZMGt5SU9TR3o5WWlQNGZtY2wwU2xvdzRKZ3dpbjQtdk5IZU9mXzlBd2Y3UXZfUXhNRWt3M2VWRDhqMGhFS1I4NTJGY3d2ZXM3X2xDdnJRQzVOSWR6eUxDT2RsdFlJYXlqVnBPVFNkeTdFUGZrLW1sSXZnZ2Iw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 24 Oct 2026 00:36:42 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/10/23/6adbe02454a70.jpeg"
+    },
+    {
+      "titulo": "Porsche presenta su oferta movilidad eléctrica en República Dominicana durante el Evergo Fest. - Porsche Newsroom",
+      "fuente": "Porsche Newsroom",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUpVT3V5S1puRDdlRGN3b3BHT2xKUXJoXzR5M3pYMVNWdF9BSUVwMllxRkFIVFhsM3VkMXRSOUhZNkVYaEpCVXpYRS1SdzNwc18zRE14c1VuXzQ3VTVzdDl4VW5hbUVyMUhwcGNPR3c1X2NOazdMZXV1aWw4OUlvT0UwcHJaazFST2l6elVwa0pzYkhFWWZfb3BXSlhubHFFbHhGbTNJV0wzM3hUenN0RkM3RVZCclVvR0hlLTJtTFZHSjZyZkxrbmJBcmU0U09VSWtXcGNhazRCTjlR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 23 Oct 2026 22:41:20 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "titulo": "¿A cómo está el dólar hoy en República Dominicana? Esta es la tasa para este sábado 24 de octubre - Hoy Digital",
@@ -98,7 +98,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUs4Zm5HeFVOcEZZcEJCNmlCOVQ3a2NGVXhfNmJVZVZCVUcxMVhIVFJIenc3Yl9EMDE2bGJhMWZGdDd4M0JSM2JVNGdOdWk5MDN0eDI3R1p2d0JEcVNsMEV3amtKUVNRay1BemkwcEVUMEhNNG50TFAtYnZmQVJFcGJhNm41RHVOWkRkajN5WVZyYndEWWh4VmJsbExPeWFYWjhpTTd2SWhzd2JFYzBmdDZ5a1h1a0U5?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 24 Oct 2026 18:47:57 GMT",
-      "imagen": ""
+      "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-2.38.09-PM-1200x1070.jpeg"
     },
     {
       "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
