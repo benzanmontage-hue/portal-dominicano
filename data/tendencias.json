@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T13:34:06.790578-04:00",
-  "hora": "13:34",
+  "updated": "2026-10-25T13:35:12.061875-04:00",
+  "hora": "13:35",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -34,18 +34,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkIFfnNkMATXLOPG79NtJ7XWsW6O_S7bV30DVXS-cNezR2OQeJvmzyBVERlII"
     },
     {
+      "termino": "lluvia",
+      "trafico": "200+",
+      "noticia": "Lo que la lluvia sostiene",
+      "enlace": "https://www.informador.mx/jalisco/lo-que-la-lluvia-sostiene-20261025-0032.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS628eZ6MpOGl7osY_czqIcG3_mxmaD8HInN9S26LETqV6avzxG4FZxW3zreGg"
+    },
+    {
       "termino": "celta de vigo - real betis",
       "trafico": "500+",
       "noticia": "Celta - Betis en directo | Última hora de LALIGA EA Sports en vivo hoy",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-directo.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOH_R2EKaPlBUW-XQ71Pr4wJzyxjUzdEH9e2ASs5CwSTb2gvTDD6OxreofKs"
-    },
-    {
-      "termino": "real madrid vs barcelona",
-      "trafico": "500+",
-      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
-      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLlzxnSXpB3wM9ktBbXqBz5U8Enq41xjVvldnYM6Qu8Gq_uhn804wT_9KmbKE"
     },
     {
       "termino": "manchester united - bournemouth",
@@ -57,9 +57,9 @@
     {
       "termino": "liverpool - brighton",
       "trafico": "500+",
-      "noticia": "Liverpool 2-0 Brighton: Alexander Isak scores again as Reds beat in-form Seagulls in Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cmdx325w7gy6t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw5jRymUaG0VVLTQO2orPoFUoogJc0VzlrVt8diK7Trn8dWAxL71WoNo0eco8"
+      "noticia": "Premier League - Liverpool v Brighton   Hove Albion",
+      "enlace": "https://www.reutersconnect.com/item/premier-league-liverpool-v-brighton-hove-albion/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQVAxNEVISzg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlca8LIluny_hZW2LEVuJCd_8nEHnpT2e1MSrR0wwvRlWSxAgT_T5bTsxG3GY"
     },
     {
       "termino": "william contreras",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWNptRQrL9qGMI_nyydm_jzQakDOyoDAaw_iBO4GAJVXfzWN2ykynzQv02_o"
     },
     {
-      "termino": "athletic - getafe",
+      "termino": "barcelona vs real madrid",
       "trafico": "500+",
-      "noticia": "El Athletic vuelve a zurrar al Getafe",
-      "enlace": "https://www.marca.com/futbol/primera-division/cronica/2026/10/25/athletic-vuelve-zurrar-getafe.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK7bKPLq-0yHeJXmjEjZzM3JWcHHv4ra1mUumOpATRd_vlGCtoMmukSxM5OMs"
+      "noticia": "Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLlzxnSXpB3wM9ktBbXqBz5U8Enq41xjVvldnYM6Qu8Gq_uhn804wT_9KmbKE"
     }
   ]
 }
