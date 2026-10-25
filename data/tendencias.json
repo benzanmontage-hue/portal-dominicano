@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-25T07:26:57.114809-04:00",
-  "hora": "07:26",
+  "updated": "2026-10-25T07:47:17.191540-04:00",
+  "hora": "07:47",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tiempo",
+      "trafico": "500+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
     {
       "termino": "clima",
       "trafico": "5000+",
@@ -14,10 +21,17 @@
     },
     {
       "termino": "météo",
-      "trafico": "200+",
-      "noticia": "Météo. Quel temps fera-t-il à Châteaubriant et ses environs le dimanche 25 octobre 2026 ?",
-      "enlace": "https://www.ouest-france.fr/meteo/pays-de-la-loire/chateaubriant-44110/la-meteo-du-jour-a-chateaubriant-61026cfe-28a6-4c8d-b124-d77ef6e131fb",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6k6yokPg_2vc4BrUU3-DRbs7nGz7ELfBF2mFRoSzT1cgUY8qhwY-sE8u4nqs"
+      "trafico": "1000+",
+      "noticia": "Tendance météo à 4 semaines : rupture océanique et pluvieuse après Halloween",
+      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-rupture-oceanique-et-pluvieuse-apres-halloween-71369",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRSpJxnYzX4vaNNZOKpcfS3zpRC6cd8xADl3_zmoRMtAaZ282CDUKGU9gTiPA"
+    },
+    {
+      "termino": "jacob misiorowski",
+      "trafico": "100+",
+      "noticia": "Miz sets World Series velo record -- on first pitch!",
+      "enlace": "https://www.mlb.com/news/jacob-misiorowski-makes-world-series-history-in-game-1",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZL33dX8mDeCkp2JpBL2m74QTzHFH3AWEtGjvSq1VYXMkBBE2qc9_Lq0bUIU8"
     },
     {
       "termino": "brandon williams",
@@ -36,9 +50,9 @@
     {
       "termino": "tampa bay",
       "trafico": "200+",
-      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
-      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZZb8bARp9SDwpl4QZ-afI16hXq84ksCJpARpvLei3mYLNXc8ctZu2e3W7C4"
+      "noticia": "Windy Sunday for Tampa Bay",
+      "enlace": "https://www.wfla.com/news/windy-sunday-for-tampa-bay/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYtzwPbRrTcnIQCUbLmaeG7h4snJbnSd-uogG7gr_1PV1XNQkX-1g_FT1QITA"
     },
     {
       "termino": "warriors - suns",
@@ -48,32 +62,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7COoB4qLx-F-A2FLCorKkhSUD6_QRGhfif9GWbd9eC2s4Pxy4vMGyUGAOKlc"
     },
     {
+      "termino": "nuggets - pelicans",
+      "trafico": "200+",
+      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
+      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZZb8bARp9SDwpl4QZ-afI16hXq84ksCJpARpvLei3mYLNXc8ctZu2e3W7C4"
+    },
+    {
       "termino": "juego de hoy mlb",
       "trafico": "1000+",
       "noticia": "Cerveceros dan otro golpe con remontada para ponerse 2-0 en la Serie Mundial",
       "enlace": "https://www.mlb.com/es/news/cerveceros-ganan-el-juego-2-de-la-serie-mundial-del-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIxxEXZIQ3cbK1oKCE7DXbo0eeMO4PumvON9kR77LEtkLpx0s0V_lRvdhpogM"
-    },
-    {
-      "termino": "hawks - rockets",
-      "trafico": "200+",
-      "noticia": "Sengun records double-double as Houston beats Atlanta 121-114",
-      "enlace": "https://www.turkiyetoday.com/sports/sengun-records-double-double-as-houston-beats-atlanta-121-114-3230972",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRDRmfXUlblRQMFig6JLYoCm-LbF8E5_Re-aHVK23p4p2UqGd3foh4mS9MOw"
-    },
-    {
-      "termino": "suns - warriors",
-      "trafico": "2000+",
-      "noticia": "Golden State Warriors vs Phoenix Suns Oct 24, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-phx-0022600111/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWxEOk_0QcCRCJMpzf-2OUPEfazR3SJrjwW4iU99ON0Sd6iO--bfGUxDq7jw"
-    },
-    {
-      "termino": "drew rasmussen",
-      "trafico": "100+",
-      "noticia": "World Series 2026: The Rays are learning the hard way what the Padres and Dodgers already know — these Brewers are relentless",
-      "enlace": "https://sports.yahoo.com/mlb/article/world-series-2026-the-rays-are-learning-the-hard-way-what-the-padres-and-dodgers-already-know--these-brewers-are-relentless-072329199.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdD1nm_gXg8ML91oM4SKFcOjmus7auJtmOILNj8PE0GwoGd4IDk5P7waVDaBc"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9Wfv2EYStHM9BF9_LFQbNMLq3IbF3ekpN6JZj8Y4MEHA4Su4giJVZEfBHlE"
     }
   ]
 }
