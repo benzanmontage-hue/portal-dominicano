@@ -1,10 +1,21 @@
 {
- "updated": "2026-10-24T21:40:54-04:00",
+ "updated": "2026-10-24T22:01:19-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
  "fin_temporada": "2027-01-29",
  "tabla": [
+  {
+   "id": 672,
+   "equipo": "Tigres",
+   "g": 5,
+   "p": 2,
+   "pct": ".714",
+   "dif": "-2.0",
+   "racha": "W1",
+   "pos": 1,
+   "nombre": "Tigres del Licey"
+  },
   {
    "id": 670,
    "equipo": "Gigantes",
@@ -13,19 +24,8 @@
    "pct": ".667",
    "dif": "-1.5",
    "racha": "W2",
-   "pos": 1,
-   "nombre": "Gigantes del Cibao"
-  },
-  {
-   "id": 672,
-   "equipo": "Tigres",
-   "g": 4,
-   "p": 2,
-   "pct": ".667",
-   "dif": "-1.5",
-   "racha": "L1",
    "pos": 2,
-   "nombre": "Tigres del Licey"
+   "nombre": "Gigantes del Cibao"
   },
   {
    "id": 669,
@@ -64,10 +64,10 @@
    "id": 667,
    "equipo": "Aguilas",
    "g": 1,
-   "p": 4,
-   "pct": ".200",
-   "dif": "1.0",
-   "racha": "L2",
+   "p": 5,
+   "pct": ".167",
+   "dif": "1.5",
+   "racha": "L3",
    "pos": 6,
    "nombre": "Aguilas Cibaenas"
   }
@@ -362,14 +362,14 @@
    "id": 851557,
    "fecha": "2026-10-24",
    "hora": "18:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Tigres del Licey",
    "visitante_id": 672,
-   "carreras_v": null,
+   "carreras_v": 6,
    "local": "Aguilas Cibaenas",
    "local_id": 667,
-   "carreras_l": null,
+   "carreras_l": 2,
    "estadio": "Estadio Cibao",
    "serie": "Regular Season"
   },

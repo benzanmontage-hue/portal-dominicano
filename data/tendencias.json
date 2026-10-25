@@ -1,23 +1,30 @@
 {
-  "updated": "2026-10-24T21:40:49.363393-04:00",
-  "hora": "21:40",
+  "updated": "2026-10-24T22:01:09.360824-04:00",
+  "hora": "22:01",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "hawks - rockets",
+      "trafico": "100+",
+      "noticia": "Hawks host Rockets with 3-0 start on the line",
+      "enlace": "https://www.cbssports.com/nba/news/hawks-host-rockets-with-3-0-start-on-the-line/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
+    },
+    {
+      "termino": "suns - warriors",
+      "trafico": "200+",
+      "noticia": "After ‘everything went wrong,’ Suns eager to make right vs. Warriors",
+      "enlace": "https://www.thesportsleader.com/2026/10/24/after-everything-went-wrong-suns-eager-to-make-right-vs-warriors/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj3Vkj0-JqMbN4ZioofnfXFqn-HScJfpF6jLnsg3Kj8L_kmVjRXslsf_4YIKw"
+    },
     {
       "termino": "météo demain",
       "trafico": "200+",
       "noticia": "Tempête Austen : vents violents ce vendredi sur le Nord-Ouest du pays",
       "enlace": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX35NmarapY_h03_p9a0hp6Cw7uEHTs1Ebnq7X4igOEWdh7A78XfCy0hfldxE"
-    },
-    {
-      "termino": "tiempo mañana",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
       "termino": "dean wade",
@@ -41,6 +48,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
     },
     {
+      "termino": "brewers vs rays",
+      "trafico": "200+",
+      "noticia": "First World Series HR comes from Hicks, capping 4-run first",
+      "enlace": "https://www.mlb.com/news/rays-score-4-runs-in-first-inning-of-2026-world-series-game-2",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt_nybFDe-vrnE4u-3sZH3UiNeims6s2c57jGTSrRbFjNDp-d6wEGAf8kTYvQ"
+    },
+    {
       "termino": "vladimir guerrero jr.",
       "trafico": "100+",
       "noticia": "Lejos de los yates y los millones, Vladimir Guerrero Jr. prefiere pescar en el río con su gente",
@@ -49,10 +63,10 @@
     },
     {
       "termino": "v. j. edgecombe",
-      "trafico": "100+",
-      "noticia": "Sixers star Joel Embiid gives thoughts on VJ Edgecombe as a leader",
-      "enlace": "https://sports.yahoo.com/articles/sixers-star-joel-embiid-gives-171233941.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ1wzc8beXXAfZBs8aKKi3B4RuoIjRFrpBTB0knth8o3WZIZhuO_Uinaw2dZI"
+      "trafico": "200+",
+      "noticia": "Jalen Duren injury rules him out for Detroit Pistons game vs 76ers",
+      "enlace": "https://www.freep.com/story/sports/nba/pistons/2026/10/24/jalen-duren-injury-update-pistons-news/92419228007/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H912af9VhE9aVYP7r5jeL3kGINSgr2ARchZUClGwAMlLk9Lcgq0VrMX9Wa8"
     },
     {
       "termino": "gasolina",
@@ -60,20 +74,6 @@
       "noticia": "Precio promedio del diésel iguala “por primera vez” al de la gasolina en América Latina ante repunte inflacionario",
       "enlace": "https://www.bloomberglinea.com/economia/precio-promedio-del-diesel-iguala-por-primera-vez-al-de-la-gasolina-en-america-latina-ante-repunte-inflacionario/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxWa62SLWfaDrx1jODcHlIVNNsbdcDgsZPTF9TXImketoDKPk-OW7GoL_vv1c"
-    },
-    {
-      "termino": "mavericks - spurs",
-      "trafico": "500+",
-      "noticia": "Victor Wembanyama, Spurs chase first win at Mavericks",
-      "enlace": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-chase-first-win-at-mavericks/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
-    },
-    {
-      "termino": "cavaliers - nets",
-      "trafico": "200+",
-      "noticia": "How to watch Cavaliers vs Nets: NBA, live stream, TV channel",
-      "enlace": "https://www.thebiglead.com/how-to-watch-cavaliers-vs-nets-nba-live-stream-tv-channel/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYogMZX4WbzFDE1RbG0IMwYEb7l3dL1-osZUpnDuboJFNPt53OSn6y6sDC6QQ"
     }
   ]
 }
