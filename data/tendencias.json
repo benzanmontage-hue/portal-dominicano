@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-25T19:01:41.172371-04:00",
-  "hora": "19:01",
+  "updated": "2026-10-25T19:22:04.309015-04:00",
+  "hora": "19:22",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "knicks - magic",
+      "trafico": "200+",
+      "noticia": "Knicks look to snap 0-2 start as Magic visit without Paolo Banchero",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-look-to-snap-0-2-start-as-magic-visit-without-paolo-banchero/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+    },
     {
       "termino": "pedro martínez",
       "trafico": "200+",
@@ -36,44 +43,37 @@
     {
       "termino": "lamine yamal",
       "trafico": "100+",
-      "noticia": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-      "enlace": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBQ7KNPbM8SAhP9OXWLBWeJ09AiwiegRDTKuKtCLS3IjOaF99AoyjiNUQdN_w"
+      "noticia": "Bayern: Kane considera  estresante  la espera por el Balón de Oro",
+      "enlace": "https://www.espn.com.do/futbol/champions-league/nota/_/id/17414157/bayern-kane-balon-de-oro-espera-estresante",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1CcpmEvRVPYM336dsjp9PGwxp6bQpcf_JlhxSVchjCG3l-2fd0j4R2DbL2-0"
     },
     {
       "termino": "lidom hoy",
-      "trafico": "100+",
-      "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
-      "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
+      "trafico": "200+",
+      "noticia": "Partidos de LIDOM hoy: tres encuentros marcarán la jornada del béisbol invernal",
+      "enlace": "https://acento.com.do/deportes/partidos-de-lidom-hoy-tres-encuentros-marcaran-la-jornada-del-beisbol-invernal-9777353.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7oXTQ9PldEmBNZ4g0caR1a7xwFb6Pb-KKeZCRUxafdIrF33ZX1mG4zVfMVhY"
     },
     {
       "termino": "real vs barcelona",
       "trafico": "100+",
-      "noticia": "When is the second LaLiga Clásico played? Date and day of Real Madrid vs Barcelona part II",
-      "enlace": "https://en.as.com/soccer/when-is-the-second-laliga-clasico-played-date-and-day-of-real-madrid-vs-barcelona-part-ii-f202610-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ915fUJm2j6duPYRVWTdhEJlhQrxag5ihqsl4KZs2RDywQ6cGiXNgKi8ng_so"
+      "noticia": "Barcelona vs Real Madrid LIVE! El Clasico score updates, news, line-ups and analysis",
+      "enlace": "https://www.skysports.com/football/live-blog/13603540/barcelona-vs-real-madrid-live-el-clasico-score-updates-news-line-ups-and-analysis",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf-dMxczvJRJZ83GTiLzdBSlJE9AHO6jgTsntl69tsH5Sxs_HUtBh1mrTYecc"
     },
     {
       "termino": "independiente - boca juniors",
       "trafico": "100+",
-      "noticia": "VIDEO: resumen de Independiente vs. Boca por el Torneo Clausura 2026",
-      "enlace": "https://espndeportes.espn.com/futbol/argentina/nota/_/id/17430801/video-resumen-independiente-vs-boca-torneo-clausura-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauxeXQ6-wTQssopZOsdDJgJGrvUN01wNnckz0r4USxCHa-ifJKIGgZks_V3Y"
+      "noticia": "El gol agónico de Jagger Herrera con el que Boca le gana a Independiente",
+      "enlace": "https://www.tycsports.com/independiente/gol-jagger-herrera-boca-independiente-id768567.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeA4dGhtCipupYAOTlRwyKD9zzCFpHeR-eJS85YP8ZSjFxzFbnyBtxVh-P5-Q"
     },
     {
-      "termino": "inundación",
-      "trafico": "1000+",
-      "noticia": "Aumentan a 16 las provincias en alerta por vaguada",
-      "enlace": "https://listindiario.com/la-republica/20261025/aumentan-16-provincias-alerta-vaguada_927496.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsI_DXv0ed1gcqYwD1qMbI9sN4uhzxXnx5m7GfMte8fp_ylUjGZLpZQcs_5VU"
-    },
-    {
-      "termino": "udinese - milan",
-      "trafico": "200+",
-      "noticia": "Il Milan è terzo con la Roma: Pulisic-Hutchinson, 2-0 a Udine. Sesta sconfitta in fila, occhio a Runjaic",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/25-10-2026/udinese-milan-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUir6I8Hgh44l7tVZkjqruPObbNoEiAE5ytE-H34pfcRJhTj-y1mJOMex3OpI"
+      "termino": "lakers - jazz",
+      "trafico": "2000+",
+      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
     }
   ]
 }
