@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T23:03:41.189656-04:00",
-  "hora": "23:03",
+  "updated": "2026-10-24T23:24:04.097833-04:00",
+  "hora": "23:24",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,13 +8,13 @@
     {
       "termino": "tampa bay",
       "trafico": "100+",
-      "noticia": "NHL On Tap: Kucherov can become leading point-scorer in Lightning history",
-      "enlace": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-october-23-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEVvpH_VCghYsgTmqyRBKNlTViFDRHngJ9Kzn5hqEIfH7t1NgzXrXpD8Tubs"
+      "noticia": "Nikita Kucherov Passes Steven Stamkos for Most Points in Tampa Bay Lightning History",
+      "enlace": "https://www.si.com/nhl/lightning/onsi/news/nikita-kucherov-passes-steven-stamkos-for-most-points-in-tampa-bay-lightning-history-01m5aaq8rwza",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_8w09B75XPj5J2YS5gAeNzVIPl9ITBOB0KDAmy5bGIEXWu-b7yqrfRMu-BzM"
     },
     {
       "termino": "nuggets - pelicans",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Nuggets host Pelicans as both teams seek first win",
       "enlace": "https://www.cbssports.com/nba/news/nuggets-host-pelicans-as-both-teams-seek-first-win/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
@@ -28,7 +28,7 @@
     },
     {
       "termino": "hawks - rockets",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Hawks host Rockets with 3-0 start on the line",
       "enlace": "https://www.cbssports.com/nba/news/hawks-host-rockets-with-3-0-start-on-the-line/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
     },
     {
+      "termino": "tiempo mañana",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
       "termino": "weather tomorrow",
       "trafico": "500+",
       "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
@@ -56,24 +63,17 @@
     },
     {
       "termino": "brewers vs. rays",
-      "trafico": "2000+",
+      "trafico": "200+",
+      "noticia": "Lye Town vs. Peterborough (25 Oct, 2026) Live Score",
+      "enlace": "https://www.espn.in/football/match/_/gameId/401928690/peterborough-united-lye-town",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeSbS1HioMquJSCRaZ9wR0Ths-w83igohl6zuhYVc6o2FC8ZcrXsPQYxPWGw"
+    },
+    {
+      "termino": "brewers vs rays",
+      "trafico": "200+",
       "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
       "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
-    },
-    {
-      "termino": "licey vs aguilas",
-      "trafico": "200+",
-      "noticia": "#ENDTV - En vivo desde el Estadio Cibao, 1er Juego: Licey vs. Águilas",
-      "enlace": "https://elnuevodiario.com.do/tv/endtv-en-vivo-desde-el-estadio-cibao-1er-juego-licey-vs-aguilas/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjJMOxpICn8ZlnDfQ6pA_eYm-SjB9HUsD41HiIrl_Fcjh02g2TC3m5suPnE4E"
-    },
-    {
-      "termino": "vladimir guerrero jr.",
-      "trafico": "100+",
-      "noticia": "Blue Jays’ Vladimir Guerrero Jr Makes Stunning Change Immediately After Career Worst Season",
-      "enlace": "https://sports.yahoo.com/articles/blue-jays-vladimir-guerrero-jr-100000555.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScB8Gszgk6Wrj5OoGusKJHKWWt_i7DPEGsBsKnVvpo-X1yxMNre_0qGoRn510"
     }
   ]
 }
