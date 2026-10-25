@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-24T22:01:09.360824-04:00",
-  "hora": "22:01",
+  "updated": "2026-10-24T22:21:33.634074-04:00",
+  "hora": "22:21",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nuggets - pelicans",
+      "trafico": "100+",
+      "noticia": "Nuggets host Pelicans as both teams seek first win",
+      "enlace": "https://www.cbssports.com/nba/news/nuggets-host-pelicans-as-both-teams-seek-first-win/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
+    },
+    {
+      "termino": "juego de hoy mlb",
+      "trafico": "100+",
+      "noticia": "Caminero rompe la pantalla gigante con un HR en las prácticas previas al Juego 1",
+      "enlace": "https://www.mlb.com/es/news/caminero-rompe-la-pantalla-gigante-con-un-hr-en-las-practicas-previas-al-juego-1",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAWVma4xK2W9Y64NelvrhXaGg_g8jINVLSN5UQ0pHxN8IoOII07P_xRe5POYc"
+    },
     {
       "termino": "hawks - rockets",
       "trafico": "100+",
@@ -14,24 +28,17 @@
     },
     {
       "termino": "suns - warriors",
-      "trafico": "200+",
-      "noticia": "After ‘everything went wrong,’ Suns eager to make right vs. Warriors",
-      "enlace": "https://www.thesportsleader.com/2026/10/24/after-everything-went-wrong-suns-eager-to-make-right-vs-warriors/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj3Vkj0-JqMbN4ZioofnfXFqn-HScJfpF6jLnsg3Kj8L_kmVjRXslsf_4YIKw"
+      "trafico": "500+",
+      "noticia": "Steph Curry officially ruled out tonight in Phoenix …",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/24/steph-curry-officially-ruled-out-tonight-in-phoenix/92420087007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRArpCKuXv73dE5ONgBNCUfQyaW0sY6-WNNYCm3iAKlsd1sygFcCtqWvr9NJTc"
     },
     {
-      "termino": "météo demain",
-      "trafico": "200+",
-      "noticia": "Tempête Austen : vents violents ce vendredi sur le Nord-Ouest du pays",
-      "enlace": "https://meteofrance.com/actualites/tempete-austen-vents-violents-ce-vendredi-sur-le-nord-ouest-du-pays",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX35NmarapY_h03_p9a0hp6Cw7uEHTs1Ebnq7X4igOEWdh7A78XfCy0hfldxE"
-    },
-    {
-      "termino": "dean wade",
-      "trafico": "200+",
-      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
-      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
+      "termino": "tiempo mañana",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
       "termino": "weather tomorrow",
@@ -46,13 +53,6 @@
       "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
       "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
-    },
-    {
-      "termino": "brewers vs rays",
-      "trafico": "200+",
-      "noticia": "First World Series HR comes from Hicks, capping 4-run first",
-      "enlace": "https://www.mlb.com/news/rays-score-4-runs-in-first-inning-of-2026-world-series-game-2",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt_nybFDe-vrnE4u-3sZH3UiNeims6s2c57jGTSrRbFjNDp-d6wEGAf8kTYvQ"
     },
     {
       "termino": "vladimir guerrero jr.",
