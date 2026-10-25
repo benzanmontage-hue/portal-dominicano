@@ -1,30 +1,44 @@
 {
-  "updated": "2026-10-25T15:57:37.046538-04:00",
-  "hora": "15:57",
+  "updated": "2026-10-25T16:18:00.206568-04:00",
+  "hora": "16:18",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "espn",
+      "trafico": "100+",
+      "noticia": "College GameDay had no obvious Week 9 destination. Here’s where it landed",
+      "enlace": "https://www.usatoday.com/story/sports/ncaaf/2026/10/25/college-gameday-week-9-location-indiana-minnesota-football-espn/92431339007/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf0ArsJtdqQlid1_9rbT9VN4oAufUFBuLeDLM6UQ29LrzpFa01MXonSTiUtfI"
+    },
+    {
+      "termino": "dalton smith",
+      "trafico": "100+",
+      "noticia": "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
+      "enlace": "https://www.nytimes.com/2026/10/21/weather/super-typhoon-champi-strongest-storm-year.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xE7rHDABw062P_OjrRjdtyeyGrDRTQek8wkyj11KY0FBqPUUFYFba906RqE"
+    },
+    {
       "termino": "barcelone – real madrid",
       "trafico": "1000+",
-      "noticia": "Barça – Real : ne cherchez pas le Clásico sur beIN Sports ce dimanche",
-      "enlace": "https://www.live-mercato.com/article/198846-barca-real-ne-cherchez-pas-le-clasico-sur-bein-sports-ce-dimanche",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQamM5KkvZ7srO4ssXjNygJJa3lGosBVTvf-o2pj078j2ZrGQDi0ZtvXBAt3dg"
+      "noticia": "DIRECT. FC Barcelone - Real Madrid, La Liga : Le match commence !",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/fc-barcelone-real-madrid-live/693170",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLHZHzLLKNxQeMTHMVKXs3fS_AnuUtgO5zOiLu7ty3blLX8zED5BWhbVyewAQ"
     },
     {
       "termino": "la liga",
       "trafico": "200+",
-      "noticia": "Barcelona vs Real Madrid: Lamine Yamal   Kylian Mabppe lead way in most valuable XI",
-      "enlace": "https://www.transfermarkt.com/barcelona-vs-real-madrid-lamine-yamal-amp-kylian-mabppe-lead-way-in-most-valuable-xi/view/news/489413",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ6rgZs2QMw3kl5HUKOMb6grHEY4Lm-NAx7uuclslSngvWfN9UVBDSICI13SM"
+      "noticia": "Inteligjenca artificiale parashikon fituesin e El Clasicos mes Barcelonës dhe Real Madridit",
+      "enlace": "https://reporteri.net/en/sport/Artificial-intelligence-predicts-the-winner-of-El-Clasico-between-Barcelona-and-Real-Madrid/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXuQeKCzc2dTc-HF81iVdP_ldL1naZbvmK6xjRhIJI--uqb6hJbkTM--aMGg"
     },
     {
       "termino": "barcelona - real madrid",
       "trafico": "5000+",
       "noticia": "Barcelona - Real Madrid hoy, en directo: última hora del Clásico de LaLiga EA Sports, en vivo",
       "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxt6SZ7r98HIL3DNyb_T8pgr03o9poS7YtVT1GB7pwS2Oz8Z2K6y9-3DOqvLA"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01b8t45Vkzk5YpOMbEQOwfnp5D92ICGDkykNJEfmTgVSjTJ7dPl7aWFLZIfY"
     },
     {
       "termino": "posiciones de sc freiburg contra bayern",
@@ -36,23 +50,23 @@
     {
       "termino": "real sociedad - levante",
       "trafico": "200+",
-      "noticia": "Real Sociedad vs Levante: Spanish La Liga stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cv0ldkr955g1t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "Real Sociedad - Levante en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/real-sociedad-levante/2026/10/25/01_0101_20261025_188_855-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1Wy998fMtg0-RDHqEpmzJqMF23oxHaBh1TDgf8bYce7QKJLYG0hzcEL-lpM"
     },
     {
       "termino": "elecciones brasil 2026",
-      "trafico": "100+",
-      "noticia": "Elecciones en Brasil, en vivo |Lula pide ampliar el horario de voto por problemas con el transporte: “No permitiremos que haya robo”",
-      "enlace": "https://elpais.com/america/2026-10-25/elecciones-en-brasil-2026-en-vivo-la-segunda-vuelta-entre-lula-y-flavio-bolsonaro.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwpOLSkU83Jq_6Xm7JFXFjoMV23xkYbzRsv_r39NZoyE29UTFtSnePzmYMNxk"
+      "trafico": "200+",
+      "noticia": "Elecciones presidenciales en Brasil, en vivo: Lula vs. Bolsonaro, votaciones y resultado",
+      "enlace": "https://cnnespanol.cnn.com/2026/10/25/latinoamerica/live-news/brasil-elecciones-presidente-lula-bolsonaro-resultado-orix",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_zJ3d76R82zzfJYHoG0tORXWWfXl8SzVY9OPSWrR3PtlmwmnwtI8AH0h2ZjM"
     },
     {
       "termino": "lula",
       "trafico": "200+",
-      "noticia": "Apuração do 2º turno no Alagoas: veja o resultado para presidente em tempo real",
-      "enlace": "https://exame.com/brasil/apuracao-do-2o-turno-no-alagoas-veja-o-resultado-para-presidente-em-tempo-real/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzBK2kbgAkgjrV47Nieg9JKBmn9qT0nSiRv1yC4kJ-Pi3Z_uFcej0s5-b6kHk"
+      "noticia": "Campanha de Flávio pede votação até 19h por chuvas em alguns estados",
+      "enlace": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4CwUrvK-pnGtES3h_lgMDtVNFuFMl2iWSyTOj8Feq4QSvdnujYiYEZp9uhwk"
     },
     {
       "termino": "flávio bolsonaro",
@@ -60,20 +74,6 @@
       "noticia": "Votação no exterior: Lula vence em 37 países; Flávio Bolsonaro, em 12",
       "enlace": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl-XiQ70ehun4hCaHi2YdtL_hkPx8uGyh-rpmBD725A4AO0f94by91CG8oZQ"
-    },
-    {
-      "termino": "celta vigo – betis",
-      "trafico": "100+",
-      "noticia": "Celta y Betis no pasan del empate en Balaídos y se reparten los puntos",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17429243/celta-vs-betis-vivo-partido-laliga-pellgrini",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvK0fA0UTWJO9Qyu5KzooZSPDbsH6vjECmuFNDC2RHlCRJ0PB5mCMYgP6g_Ak"
-    },
-    {
-      "termino": "luisa gonzález",
-      "trafico": "200+",
-      "noticia": "La Policía de Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
-      "enlace": "https://cnnespanol.cnn.com/2026/10/22/latinoamerica/ecuador-policia-detiene-luisa-gonzalez-efe",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOZt23DBemauqF2T_nN6edtk0LPwb6mWuO-dIZFvvTlXCiubZdDxWjF5lSdo"
     }
   ]
 }
