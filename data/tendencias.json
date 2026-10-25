@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-24T23:44:20.339376-04:00",
-  "hora": "23:44",
-  "fecha": "24/10/2026",
+  "updated": "2026-10-25T00:04:36.044027-04:00",
+  "hora": "00:04",
+  "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "mlb hoy",
+      "trafico": "1000+",
+      "noticia": "Lo que debes saber sobre el J2 de la Serie Mundial entre Rays y Cerveceros (EN VIVO)",
+      "enlace": "https://www.mlb.com/es/news/lo-que-debes-saber-juego-2-serie-mundial-2026-rays-cerveceros",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
+    },
     {
       "termino": "mob",
       "trafico": "100+",
@@ -13,25 +20,11 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp__UIFokkgvyKTtkaI5ezuwGgsJsK6emEsOlgQ0XBVauHw-uwx4ZCR2GrSHY"
     },
     {
-      "termino": "tampa bay",
-      "trafico": "200+",
-      "noticia": "Nikita Kucherov makes Lightning history, securing all-time points record",
-      "enlace": "https://boltsbythebay.com/nikita-kucherov-makes-lightning-history-securing-all-time-points-record",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI2R8DNEjcXLgNStmFxFtc2MV7F3Bv0AcnoBSNE2aqU7uFHxjyU9acKysD9hg"
-    },
-    {
       "termino": "nuggets - pelicans",
       "trafico": "200+",
       "noticia": "Nuggets host Pelicans as both teams seek first win",
       "enlace": "https://www.cbssports.com/nba/news/nuggets-host-pelicans-as-both-teams-seek-first-win/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
-    },
-    {
-      "termino": "juego de hoy mlb",
-      "trafico": "200+",
-      "noticia": "Lo que debes saber sobre el J2 de la Serie Mundial entre Rays y Cerveceros (EN VIVO)",
-      "enlace": "https://www.mlb.com/es/news/lo-que-debes-saber-juego-2-serie-mundial-2026-rays-cerveceros",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
     },
     {
       "termino": "hawks - rockets",
@@ -48,18 +41,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRDGTce6SXNI8gRXnxkrF6NnJN_wRXzxz1zk6mf3XDywslQ856U8o1E9qp5CM"
     },
     {
-      "termino": "dean wade",
-      "trafico": "500+",
-      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
-      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
-    },
-    {
       "termino": "tiempo mañana",
       "trafico": "2000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, domingo 25 de octubre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-domingo-25-de-octubre-de-2026-9776866.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
+      "termino": "dean wade",
+      "trafico": "500+",
+      "noticia": "Sixers list James and Wade as questionable for 1st leg of back-to-back",
+      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-news/sixers-injury-updates-lebron-james-dean-wade-sixers-vs-bucks/760999/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlfPDe0h2a6k_PfdEL06UOW06WJlza17qVPnLS_W6VLkQCllCDVrqq6hGmhI"
     },
     {
       "termino": "weather tomorrow",
@@ -69,11 +62,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
     },
     {
-      "termino": "brewers vs rays",
+      "termino": "brewers vs. rays",
+      "trafico": "1000+",
+      "noticia": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
+      "enlace": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfDOTosyPClZRhFMUTJPajxd17OYzKAiM0UyP-tedlvM1pzLKUEnl3JKJ-mE"
+    },
+    {
+      "termino": "licey vs aguilas",
       "trafico": "200+",
-      "noticia": "Lye Town vs. Peterborough (25 Oct, 2026) Live Score",
-      "enlace": "https://www.espn.in/football/match/_/gameId/401928690/peterborough-united-lye-town",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBeSbS1HioMquJSCRaZ9wR0Ths-w83igohl6zuhYVc6o2FC8ZcrXsPQYxPWGw"
+      "noticia": "René Francisco afirma que las Águilas tienen un equipo mejor que el del año pasado",
+      "enlace": "https://elnuevodiario.com.do/rene-francisco-afirma-que-las-aguilas-tienen-un-equipo-mejor-que-el-del-ano-pasado/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRCi34eGE7TcLYQweeEtIqMbkCA6eWfHLWh4v9d1m1WRvqjc5HWmtCC8Qq-M"
     }
   ]
 }

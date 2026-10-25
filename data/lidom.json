@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:44:24-04:00",
+ "updated": "2026-10-25T00:04:50-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -17,26 +17,26 @@
    "nombre": "Tigres del Licey"
   },
   {
-   "id": 670,
-   "equipo": "Gigantes",
+   "id": 669,
+   "equipo": "Estrellas",
    "g": 4,
    "p": 2,
    "pct": ".667",
    "dif": "-1.5",
    "racha": "W2",
    "pos": 2,
-   "nombre": "Gigantes del Cibao"
+   "nombre": "Estrellas Orientales"
   },
   {
-   "id": 669,
-   "equipo": "Estrellas",
-   "g": 3,
-   "p": 2,
-   "pct": ".600",
+   "id": 670,
+   "equipo": "Gigantes",
+   "g": 4,
+   "p": 3,
+   "pct": ".571",
    "dif": "-1.0",
-   "racha": "W1",
+   "racha": "L1",
    "pos": 3,
-   "nombre": "Estrellas Orientales"
+   "nombre": "Gigantes del Cibao"
   },
   {
    "id": 671,
@@ -377,14 +377,14 @@
    "id": 851539,
    "fecha": "2026-10-24",
    "hora": "19:30",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Game Over",
    "visitante": "Gigantes del Cibao",
    "visitante_id": 670,
-   "carreras_v": null,
+   "carreras_v": 11,
    "local": "Estrellas Orientales",
    "local_id": 669,
-   "carreras_l": null,
+   "carreras_l": 12,
    "estadio": "Estadio Tetelo Vargas",
    "serie": "Regular Season"
   },
