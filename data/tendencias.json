@@ -1,10 +1,24 @@
 {
-  "updated": "2026-10-24T20:19:21.133813-04:00",
-  "hora": "20:19",
+  "updated": "2026-10-24T20:39:45.706181-04:00",
+  "hora": "20:39",
   "fecha": "24/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "v. j. edgecombe",
+      "trafico": "100+",
+      "noticia": "VJ Edgecombe gets the and-1 to fall",
+      "enlace": "https://www.espn.co.uk/video/clip/_/id/50253561/vj-edgecombe-gets-1-fall",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLqGlj2-KOq-cSowyw4bFkgXZGiuUY6t5UeLXBP3wxqNNl_nz1Wpv-owLF9XU"
+    },
+    {
+      "termino": "gasolina",
+      "trafico": "100+",
+      "noticia": "Precio promedio del diésel iguala “por primera vez” al de la gasolina en América Latina ante repunte inflacionario",
+      "enlace": "https://www.bloomberglinea.com/economia/precio-promedio-del-diesel-iguala-por-primera-vez-al-de-la-gasolina-en-america-latina-ante-repunte-inflacionario/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxWa62SLWfaDrx1jODcHlIVNNsbdcDgsZPTF9TXImketoDKPk-OW7GoL_vv1c"
+    },
     {
       "termino": "mavericks - spurs",
       "trafico": "200+",
@@ -28,24 +42,24 @@
     },
     {
       "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Águilas Cibaeñas sufren otra derrota y caen al último lugar en R.D.",
-      "enlace": "https://www.mlb.com/es/news/aguilas-cibaenas-sufren-otra-derrota-y-caen-al-ultimo-lugar-de-r-d",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBJJtGiMDY6BaAi1QSConI6sWHshIkZfmxrk0cm3O64I_XLFN5FcTG_Av7Ic"
+      "trafico": "500+",
+      "noticia": "EN VIVO: Toros del Este vs. Gigantes del Cibao",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-toros-vs-gigantes-250997",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2EmxEXgweXwgY_DalrjtdiUtUnNd5tIUeF_x4uASBIOMd2TlYm1xjORNmeuo"
     },
     {
       "termino": "policía",
-      "trafico": "500+",
-      "noticia": "Mateo Moquete sufre accidente y director de Policía lo visita",
-      "enlace": "https://elnacional.com.do/nacionales/policiales/director-policia-visita-general-mateo-moquete-sufrir-accidente-via-nagua_584337.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvGZ8G_gy19A6KyQnvrgADt9WVDvdvZ38yq3g-nYCNRN_h8Ln1qbFFunc4u1w"
+      "trafico": "1000+",
+      "noticia": "Dos amigos fueron muertos a tiros en un incidente en un centro de diversión en Los Frailes",
+      "enlace": "https://listindiario.com/la-republica/20261024/celos-mujer-provoca-muerte-dos-amigos-frailes_927382.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWM37uWAzWAO9WwEAP90BKRmdC8BMgWRBhbj5RldNIbDUDdDExdgnYKQvxwU"
     },
     {
       "termino": "hornets - heat",
-      "trafico": "200+",
-      "noticia": "☑️!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑️ Miami Heat vs Charlotte Hornets : Live stream, TV channel   start time for in 2026",
-      "enlace": "https://www.fctokyo.co.jp/en/panorama/back_sb.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9GdWxoYW0vcXdlLnhtbCIvPjwva3JwYW5vPg== id=miami-heat-vs-charlotte-hornets-fox-sports-yl8o9",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr-jEbFErtpkgXfLGd2za_UsMxssKyjuc8oHO8xga4wG4bFaG3_HcLcygvP98"
+      "trafico": "500+",
+      "noticia": "Heat visit Hornets as both teams look to regroup from routs",
+      "enlace": "https://www.cbssports.com/nba/news/heat-visit-hornets-as-both-teams-look-to-regroup-from-routs/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzun8iwYkAxMHRK12_M5eJJM-CFISfmkumwFQlt1cX9XBXoBY4mvQ3Bkz_dzs"
     },
     {
       "termino": "posiciones de atlético de madrid contra deportivo la coruña",
@@ -56,24 +70,10 @@
     },
     {
       "termino": "new york rb - inter miami",
-      "trafico": "1000+",
-      "noticia": "New York Red Bulls Inter Miami CF 25 October 2026 Live Score and Match Summary",
-      "enlace": "https://en.yenisafak.com/sports/football/live-match/new-york-red-bulls-inter-miami-cf-2002132",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQP1gzPY2esGD_C1RvduCoVM6vNtwZVONwk5W5Oc_j7j3Mh4ZHdGjPx3CoYWhM"
-    },
-    {
-      "termino": "escuela",
-      "trafico": "200+",
-      "noticia": "INEFI inaugura aula de psicomotricidad número 15 y anuncia capacitación para 2,500 docentes",
-      "enlace": "https://noticiassin.com/pais/nacional/2026/10/24/inefi-inaugura-aula-de-psicomotricidad-y-capacitara-docentes-2152904/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7lyt6z5AZeXLAi4GeY7O69KrSUEV96CVMiIV-ibzW7MnIViky-KNkeXxXlNU"
-    },
-    {
-      "termino": "vaguada",
       "trafico": "2000+",
-      "noticia": "Descontinúan alerta verde para El Gran Santo Domingo y 4 provincias ante disminución de aguaceros",
-      "enlace": "https://listindiario.com/la-republica/20261024/descontinua-salerta-verde-gran-santo-domingo-4-provincias-disminucion-aguaceros_927375.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTueo0r8FG8wxE-jzsyWBqBtSeYi5p8rsOyKtsCg8SAm_9nRTKgD0AHtJ2X3Ok"
+      "noticia": "Highlights: New York Red Bulls 2-0 Inter Miami CF (MLS)",
+      "enlace": "https://onefootball.com/en/video/highlights-new-york-red-bulls-2-0-inter-miami-cf-mls-43667255",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUzX2Qwtg3-yHmc682YTYM--HSLH5vTDNOqf3sZXTn5y0hmc68J5jX08MfBRI"
     }
   ]
 }

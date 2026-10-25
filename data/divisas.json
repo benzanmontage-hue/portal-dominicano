@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-24T20:19:25.971568-04:00",
-  "hora": "20:19",
+  "updated": "2026-10-24T20:39:47.640897-04:00",
+  "hora": "20:39",
   "fecha": "24/10/2026",
-  "fuente_updated": "Sat, 24 Oct 2026 00:02:31 +0000",
+  "fuente_updated": "Sun, 25 Oct 2026 00:02:31 +0000",
   "dop_por_usd": 61.42,
   "conversiones": [
     {
@@ -18,8 +18,8 @@
       "codigo": "EUR",
       "bandera": "🇪🇺",
       "a": "DOP",
-      "valor": 68.79,
-      "texto": "1 EUR = 68.79 DOP"
+      "valor": 68.8,
+      "texto": "1 EUR = 68.80 DOP"
     },
     {
       "moneda": "Dólar (USD)",
@@ -42,8 +42,8 @@
       "codigo": "CAD",
       "bandera": "🇨🇦",
       "a": "DOP",
-      "valor": 43.85,
-      "texto": "1 CAD = 43.85 DOP"
+      "valor": 43.86,
+      "texto": "1 CAD = 43.86 DOP"
     },
     {
       "moneda": "Libra (GBP)",
