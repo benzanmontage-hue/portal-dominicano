@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-25T10:10:46.426033-04:00",
-  "hora": "10:10",
+  "updated": "2026-10-25T10:31:04.222234-04:00",
+  "hora": "10:31",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "william contreras",
+      "trafico": "100+",
+      "noticia": "Contreras pega dos hits y retira dos corredores | 23/10/2026",
+      "enlace": "https://www.mlb.com/es/video/william-contreras-nabs-two-runners-collects-two-hits",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKbWHVmecodaNkje_wcRckG6dWUSnk0ldXSLA_tXqzA4Vf2io_flq1GFohSw"
+    },
     {
       "termino": "athletic - getafe",
       "trafico": "200+",
@@ -15,16 +22,16 @@
     {
       "termino": "inter - fiorentina",
       "trafico": "200+",
-      "noticia": "Inter Milán - Fiorentina LIVE. Serie A latest updates",
-      "enlace": "https://www.marca.com/en/soccer/serie-a/inter-milan-fiorentina/2026/10/25/01_0107_20261025_127_125-live.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI"
+      "noticia": "Inter Milan vs Fiorentina: Italian Serie A stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cqrmye9drvk3t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "tiempo",
       "trafico": "2000+",
-      "noticia": "Clima hoy en New York, Estados Unidos: el pronóstico del tiempo para este domingo 25 octubre de 2026",
-      "enlace": "https://www.clarin.com/estados-unidos/clima/clima-hoy-new-york-estados-unidos-pronostico-tiempo-domingo-25-octubre-2026_0_MbYQM5guy1.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO_GpgN4s89puTj-1pduj80po4WsjbCBBEBJESfJqKAqLedYPZb8rd4_rs7lU"
+      "noticia": "Chicago: el tiempo para hoy domingo 25 de octubre",
+      "enlace": "https://eldiariony.com/2026/10/25/chicago-el-tiempo-para-hoy-domingo-25-de-octubre/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLft7tMU2Rzl737YQBCf_3eh1NPmFz1ReGy5aPkBI2HREVq0Lo_Cevcswdcc"
     },
     {
       "termino": "nayib bukele",
@@ -43,9 +50,9 @@
     {
       "termino": "jacob misiorowski",
       "trafico": "200+",
-      "noticia": "Miz sets World Series velo record -- on first pitch!",
-      "enlace": "https://www.mlb.com/news/jacob-misiorowski-makes-world-series-history-in-game-1",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZL33dX8mDeCkp2JpBL2m74QTzHFH3AWEtGjvSq1VYXMkBBE2qc9_Lq0bUIU8"
+      "noticia": "Enjoy the World Series because all signs point to a lockout",
+      "enlace": "https://www.bostonglobe.com/2026/10/24/sports/world-series-labor-strife/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkH7slekBaaiULjYWHlVsO7MJa8gWqpBwlX8tlQj7RhgqmqnACqoXBmrM_1HY"
     },
     {
       "termino": "météo",
@@ -64,16 +71,9 @@
     {
       "termino": "yaxel lendeborg",
       "trafico": "200+",
-      "noticia": "Steve Kerr, Warriors discuss mindset after hard-fought loss against Suns",
-      "enlace": "https://sports.yahoo.com/videos/steve-kerr-warriors-discuss-mindset-125641945.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-MVd55o2titQEv3OR33HZ9fTlGxosrBYupF63ZcqVd9euS0dQEv1vg8-SE4"
-    },
-    {
-      "termino": "mob",
-      "trafico": "100+",
-      "noticia": "Two killed in mob beating over alleged auto-rickshaw theft in Rangpur",
-      "enlace": "https://www.tbsnews.net/bangladesh/two-killed-mob-beating-over-alleged-auto-rickshaw-theft-rangpur-1582321",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ECCJ2WmZYZx2GzmSFCPP7A3gZaibsf5XumpE98WV1H6JZv4uDZ4ExEoJRQM"
+      "noticia": "Very poor : Steve Kerr identifies major problem in Yaxel Lendeborg s game that  has to improve",
+      "enlace": "https://www.hitc.com/very-poor-steve-kerr-identifies-major-problem-in-yaxel-lendeborgs-game-that-has-to-improve/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH7izFC0DGUsBf1AsrlRUqhpb26D4Q8B9Bs5mGDuZjF5mqToc058mIQJXxyeM"
     }
   ]
 }
