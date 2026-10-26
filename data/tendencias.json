@@ -1,10 +1,31 @@
 {
-  "updated": "2026-10-25T22:25:21.171785-04:00",
-  "hora": "22:25",
+  "updated": "2026-10-25T22:45:40.063603-04:00",
+  "hora": "22:45",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "jalen williams",
+      "trafico": "100+",
+      "noticia": "Jalen Williams Stretchered Off Court After Suffering Apparent Leg Injury",
+      "enlace": "https://www.hoopsrumors.com/2026/10/jalen-williams-stretchered-off-court-after-suffering-apparent-leg-injury.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBYmUldKj2BHvrMff49ER51oOQ17a4LVAZgOWDoZ3BLjfoEX8w1Gx70eT2pPc"
+    },
+    {
+      "termino": "dean wade",
+      "trafico": "100+",
+      "noticia": "Dean Wade reacts to his Sixers debut after win over Bucks at home",
+      "enlace": "https://sports.yahoo.com/articles/dean-wade-reacts-sixers-debut-192626307.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9D5rtP1LL1VZPBzasgzBI-JieeyxiJc9I6mvrRp_M-vMnSei8T12xKGK5Rhk"
+    },
+    {
+      "termino": "kings - grizzlies",
+      "trafico": "100+",
+      "noticia": "Zach Edey, Domantas Sabonis square off as Grizzlies visit Kings",
+      "enlace": "https://www.cbssports.com/nba/news/zach-edey-domantas-sabonis-square-off-as-grizzlies-visit-kings/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+    },
     {
       "termino": "lebron james",
       "trafico": "100+",
@@ -15,9 +36,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "IMD weather today: ‘Red’ alert for heavy rains in Odisha, Kerala, Tamil Nadu as severe cyclonic storm nears Andhra",
-      "enlace": "https://www.livemint.com/news/india/imd-weather-today-red-alert-for-heavy-rains-in-odisha-kerala-tamil-nadu-as-severe-cyclonic-storm-nears-andhra-11792976086151.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWH_1s7oSiz2BTD9gSVQVDfX9jtfBWodsJVTgEjKQ6A8HDRV9PRhuQx9_rlU"
+      "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
+      "enlace": "https://www.indiatoday.in/science/story/south-india-weather-forecast-heavy-rain-october-imd-cyclone-3024156-2026-10-24",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
     },
     {
       "termino": "météo demain",
@@ -29,51 +50,30 @@
     {
       "termino": "nets - pacers",
       "trafico": "100+",
-      "noticia": "Indiana Pacers photos vs. Brooklyn Nets in NBA action",
-      "enlace": "https://www.indystar.com/picture-gallery/sports/nba/pacers/2026/10/25/indiana-pacers-photos-vs-brooklyn-nets-in-nba-action/92435001007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdBCcCVaGFN3IzHlLSpqcSPT2HXDRB0dQQXncN1PQAW-JPySinN5iVKsuB7oo"
+      "noticia": "NBA Highlights: Pacers 136, Nets 109",
+      "enlace": "https://www.sportsnet.ca/nba/video/nba-highlights-pacers-136-nets-109/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49_d6O6eoj9O20oODPeuJy5Unx-4qgfHxvOTp-3bfl6NsdnaQAjLEc21HuiY"
     },
     {
       "termino": "timberwolves - raptors",
       "trafico": "200+",
-      "noticia": "Anthony Edwards leads Timberwolves past Raptors in 117-94 rout",
-      "enlace": "https://www.cbssports.com/nba/news/anthony-edwards-leads-timberwolves-past-raptors-in-117-94-rout/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
-    },
-    {
-      "termino": "licey aguilas",
-      "trafico": "100+",
-      "noticia": "LIVE: Estrellas Orientales @ Gigantes del Cibao | 25/10/2026",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-estrellas-vs-gigantes-251072",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfaELRnh_K76CY8s3L4zOcWf-K0aqdS8qMPzeMgOPol55gFH4rhnj7JR6MDo"
+      "noticia": "Wolves cruise to another blowout win, but is Anthony Edwards  knee a concern?",
+      "enlace": "https://sports.yahoo.com/articles/wolves-cruise-another-blowout-win-014309476.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToNr93j-B4_ch5D09N1Mv21HNss1BoX2hm5clr8SLzhjz28dEMOHZgSVAJ9cQ"
     },
     {
       "termino": "thunder - clippers",
       "trafico": "500+",
-      "noticia": "Jalen Williams Stretchered Off Court After Suffering Apparent Leg Injury",
-      "enlace": "https://www.hoopsrumors.com/2026/10/jalen-williams-stretchered-off-court-after-suffering-apparent-leg-injury.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBYmUldKj2BHvrMff49ER51oOQ17a4LVAZgOWDoZ3BLjfoEX8w1Gx70eT2pPc"
-    },
-    {
-      "termino": "76ers - pistons",
-      "trafico": "1000+",
-      "noticia": "76ers host Pistons in Sunday clash of unbeaten East contenders",
-      "enlace": "https://www.cbssports.com/nba/news/76ers-host-pistons-in-sunday-clash-of-unbeaten-east-contenders/",
+      "noticia": "Shai Gilgeous-Alexander scores 34 as Thunder beat Clippers 108-101",
+      "enlace": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-scores-34-as-thunder-beat-clippers-108-101/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
     },
     {
-      "termino": "licey vs aguilas",
-      "trafico": "500+",
-      "noticia": "LIVE: Águilas Cibaeñas @ Tigres del Licey | 25/10/2026",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251069",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
-    },
-    {
-      "termino": "knicks - magic",
-      "trafico": "1000+",
-      "noticia": "Golden State Warriors vs Phoenix Suns Oct 24, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-phx-0022600111/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWxEOk_0QcCRCJMpzf-2OUPEfazR3SJrjwW4iU99ON0Sd6iO--bfGUxDq7jw"
+      "termino": "76ers - pistons",
+      "trafico": "2000+",
+      "noticia": "76ers host Pistons in Sunday clash of unbeaten East contenders",
+      "enlace": "https://www.cbssports.com/nba/news/76ers-host-pistons-in-sunday-clash-of-unbeaten-east-contenders/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
     }
   ]
 }
