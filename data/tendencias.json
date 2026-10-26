@@ -1,20 +1,34 @@
 {
-  "updated": "2026-10-25T21:03:52.280370-04:00",
-  "hora": "21:03",
+  "updated": "2026-10-25T21:24:10.657928-04:00",
+  "hora": "21:24",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "Storm Boelo: Man killed by falling tree as strong winds and heavy rain hit UK",
+      "enlace": "https://www.bbc.com/news/live/ck8dzrlg27rdt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTAs0nAd-B4UCCw7Q_DrszXX1m0se9g_eeG_s8htTt8y5fRMtfxDUnWq3VOk"
+    },
+    {
+      "termino": "météo demain",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
       "termino": "nets - pacers",
       "trafico": "100+",
-      "noticia": "Brewers 5-4 Rays (Oct 24, 2026) Final Score",
-      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWsBnjN7XHPOAcdD6Kba9EBUN0vDUMVJok4gflNMZ0POSttNuv9yvzIHnnT18"
+      "noticia": "Tyrese Haliburton leads Pacers in 136-109 rout of Nets",
+      "enlace": "https://www.cbssports.com/nba/news/tyrese-haliburton-leads-pacers-in-136-109-rout-of-nets/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
     },
     {
       "termino": "timberwolves - raptors",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Unbeaten Timberwolves host red-hot Raptors in battle of 2-0 teams",
       "enlace": "https://www.cbssports.com/nba/news/unbeaten-timberwolves-host-red-hot-raptors-in-battle-of-2-0-teams/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
@@ -22,9 +36,9 @@
     {
       "termino": "thunder - clippers",
       "trafico": "200+",
-      "noticia": "Clippers vs Thunder Preview: A Tough Test in OKC",
-      "enlace": "https://213hoops.com/clippers-vs-thunder-preview-a-tough-test-in-okc/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPo58MaUt4epC5LRnvqXUhLW9N3MZ_CppCwFf7HV7iZIg8y0J1Zv6OT9ogIYQ"
+      "noticia": "Clippers’ Injury Report Rules Out Five Players for Marquee Thunder Matchup",
+      "enlace": "https://sports.yahoo.com/articles/clippers-injury-report-rules-five-171617621.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEe0wBKOrrk-3kU71sRVCKp-U8NGl8nZnaffrpee-TP1iUYgTZNvchIVDuPUs"
     },
     {
       "termino": "76ers - pistons",
@@ -41,6 +55,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
+      "termino": "knicks - magic",
+      "trafico": "1000+",
+      "noticia": "Indiana Pacers vs Brooklyn Nets Oct 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/ind-vs-bkn-0022600113/box-score",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCehP42KApxAWJx7KtDNm8QP5RBDHtTp_mcnhG_6WVgLYpLGNcQ6Ze2XNCzJU"
+    },
+    {
       "termino": "pedro martínez",
       "trafico": "500+",
       "noticia": "24 three-pointers scored to make history in the ACB",
@@ -50,30 +71,9 @@
     {
       "termino": "leonor de borbón",
       "trafico": "500+",
-      "noticia": "Lionel Messi recibe el Premio Princesa de Asturias de los Deportes en una emotiva ceremonia",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/23/lionel-messi-recibe-el-premio-princesa-de-asturias-de-los-deportes/3698615",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTpwHJffQs8Uq30heiSXv11mNqtC6mn9ueE5OegbZ9SVOArZspMAGjOd2YYLA"
-    },
-    {
-      "termino": "resultados loteria",
-      "trafico": "500+",
-      "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
-    },
-    {
-      "termino": "lotería nacional",
-      "trafico": "10000+",
-      "noticia": "Lotería Nacional: comprobar los resultados del sorteo de hoy, sábado 24 de octubre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-de-hoy-sabado-24-de-octubre-f202610-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA4GCcHS50cLkoG1Cdu62QHPdbhqA7dLQTNu_rejNMRlM_QBCHuk4bZdif20"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "500+",
-      "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
-      "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
+      "noticia": "El futuro de la corona: De Kate Middleton a Leonor, las princesas que gobernarán Europa",
+      "enlace": "https://www.soycarmin.com/el-futuro-de-la-corona-de-kate-middleton-a-leonor-las-princesas-que-gobernaran-europa-t202610200019.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwl7DDLNYGZvT_-aZZOSXrjvgT3zR2-vjgO2Av8_uYTq8n1FyuVGdPv5HQWrI"
     }
   ]
 }

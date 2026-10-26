@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T21:03:54.317906-04:00",
-  "hora": "21:03",
+  "updated": "2026-10-25T21:24:12.808770-04:00",
+  "hora": "21:24",
   "fecha": "25/10/2026",
   "total": 15,
   "noticias": [
@@ -21,20 +21,36 @@
       "imagen": "https://multimedia.noticiassin.com/wp-content/uploads/2026/10/24/post-2153278-discover-branding.webp"
     },
     {
+      "titulo": "Cuatro dominicanos que desistieron de incorporarse al ejercito ruso regresarán al país - Listin Diario",
+      "fuente": "Listin Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTGU1NkxJT1ZkV1hMNTlKM1RVdUF6QzJZMkk3TjB2M3ZLNlVaWEdVNXc2eHlId281MVNxYVF4cmtCWXE5alR1M29LTUt3ZmxBc2N5aG5tT05YRWF4bVlrbkp3RDhvWlRBVmtvczNxVjROVmVOa1VtY3g3QlBkTDFweGxSUXprcno4U2NyRGUwVjltc192aVVTSVZDSWYyUHEwVGlhODVRbDBfYUpRN21iV2FzaFFQYXJYS2J2SmE5MFAyLXNnWjRvNkMyRzA5ZGRCcFZYaE5paVhSdW80S3fSAeMBQVVfeXFMT29SSHN2RlZMbkozMFhIT19jOXRoWHl0Tm9TWmhpQlJCNmR5TGdEV2tTeVVCUmtsaklUOURLSGRhenBRYnk3NTJub2thSmN0MVRyMG5QbzFISGZ5WGVMUkxiYml0Z3hTSUxuZnpjNWUxaVBIUWxlLVdaV0VXQU02dWxQT0U1RWZJTERvbUwzaF9PR1hCYWRMOXhQMnd5M0p1dEctT0JiMk5FRmVXWDQ4OE16amRPek9zZlZyOUd4Rm1zeXNsdXNTcG40OUxlR1dhX2RnWE9OWWRtVlgtcXVuLVNfZ1E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 25 Oct 2026 22:55:24 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mirex: cuatro dominicanos que desistieron de ingresar al Ejército ruso están de camino al país - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHJSYk9ZX09menpfSmU3NDg0U0NGVmU2ZDBwem1OdDBpVjFYX1NqNVN1YkhwU0NpaHlSdzB0ek92NjhCa3NST2tsY3F6aTJEN0hvT2pMN0VwNGI3N1dXQ1pzNG93SGVILXRrWnlKWEp6QW5ReVBXU2ptYXBtbFNHd2ljMUkyQ3hMTWN5ek5Da0M1YVNnTUdMczJXZUJiZnY0RFdPRnYzeFJmcWRXMG5GVVF4TEdpY0dMZ2hVNWZtLU7SAcYBQVVfeXFMTzBsU042NnlyZGJHRU9zU0Q3eENaVnpnU1lrSjh4Ung4Zzdmd3pIcmpZbnhwa19jLWRaNEs5YUF2VHZTQVB5NUxLdUx1dHhuUkRxUTJhMzlrNUhpdGk0NURCMkcxOE1uNFprUTUtRXdmM1BQbjJKUERDTERvejJiWGFZRllNM25EQ1BvRXJnOVRKMVJ5ZlpzOF9WV0c0a09iQ1B6VmdYTEtnWFc0b2dXb3BBSkVFY0JpOUIxMnppM1pjemdUQnFR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 25 Oct 2026 22:09:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cuatro dominicanos que escaparon del Ejército ruso ya vienen rumbo a RD - N Digital",
+      "fuente": "N Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWdaaVBMWnlaeEdrcHkzVHNmbmpQMHlFTXdBOTlHNUpFVXUyYlpPN25jVVFkZHhiSzVQSWhTd1dyQnlwWWhqZER6TFZJVkxoT0ttSklaTkI1SjhoZkFpYlVzVVo1bUtMeVg5S3hYUzVubVMxTU5xZU03TTRoQUNuYmoyWWFkNFVvZkNkT09md2NBQWhaWDRMczZUVEczZjBHaVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 25 Oct 2026 16:28:31 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Bukele arrasa en encuesta de El Nacional y usuarios cuestionan duramente a los políticos dominicanos - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ1VjOWh3VHFXZi03N0FwRzFtWEIzbUJMRjgtSFJ5SnJ0VjZ6MXFfWXRUWEsyaXBUNk9DLUxaU3ppVlcyeDBpSUYwczB5RXpDMUg3WXFNbjU5THRyVVBiYTY2elZzT3NXRk5ZaWVqSS1qWm1iMlZWVVZ6UEowTjE0UzdCZlYxeF9qbGJ1Ri1wRmZtMmtDZXRkdUk3LVRJM2pvQXZaVkpjQWlRdXhvQjNvcDlzU3hHdnh2NHVOcUNCOXh2OE9oLWxWMFlTV2bSAdIBQVVfeXFMTWktY2RZblR5cmJNS3paUHBZazBOUjg0anlxQ2xqNklQUkI5TjZSMkZGdW9qTk42MFNsV2dxeDJUamppNGp1cFJqbVQ3eG1zYUZFdFFVcGhmRFB4ekpkNndmZ2s1SHZXeFIta1ZGQkpRVlZKaVpxdHEtY0l1TEtlYTVwYVJRUHZrNEVrTElYeEp0akhPOVNtMUMweDVyY0N6Z1lkNFByM2I3aFpmWUh1dXBWeTNFdlN5cXFYNzN1SU9reW54LTQ4WEs0QlJkVm96SHBR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 25 Oct 2026 15:17:55 GMT",
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade141aaa12e.r_d.216-343-0.jpeg"
-    },
-    {
-      "titulo": "Municiones robadas de la Policía Nacional tenían un valor de más de 92 millones de pesos - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3VvMl91NktSWVRwTk9mUjlhUFBjTzctVWd3NUJSNFU3VVJ4TDZ5Q3BNdXY3dGZiOUFyUE1OTTlNQUxRLXlOMEYzZTVfay0zQ1ZLNnNQeVFDZG1XRU5HME9oWEs3VzFpd2I2VkN6VFpqUGt5VTZIdWcyWFROQ0JKWGdMQlNNamdGY1VoTGl4UHVyU0tWdkdzblA5THhfOUFhTUM2WTI3Z2VrVy1FMmRuWVl2OHlxNzBmMEpFSUlxVjlaeExBUW9ubNIBzgFBVV95cUxNc25TcHJUb1I4aEpJN0RLZmd0S3ZyeW5JUERLYTlxSXhpUnFzZXZtVEdEbWs4aE8yZVI3X0Fla1MzcmMxSU16eEtXOTlHRlpIanBHUndhRXBQeVM2WndlOUJtc1dsbFEzSWZxRWNSVUNfTmJCbXBJMGJRbkFKWEtmMEs1SWlwMnFIMUIxWjNJT2FWcWhfMDJ5SjdTU3dWOWxRS29GaG40alhIYVFQdkRadlluUXdaWlotTWpnTWxMTDB4UWNkWllKbDZzdjA3Zw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 25 Oct 2026 04:00:00 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2022/12/28/64309170161b3.jpeg"
     },
     {
       "titulo": "La SIP advierte sobre indicios de restricciones al periodismo en República Dominicana - Acento",
@@ -97,7 +113,7 @@
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZkl4UVphWG1qMnJVb3B5NTBITExWSWZ5c3REMUhFWU95eUJjenpNNnFxN2s0UUtvaWVZUU55a1htMTM4Q3hBdnZ0dkZOYTh3M2REWVJkRjhadkpaa0Q4dmtYbzYxNF9SME9RT0FNRGNIQTJyZjRzd0hSeDQybjBWSjlvWjdhYUpvLTFXXzNUOU9SOWdGem5pVS1TUGNNZG5aUkpiWE1WQk1OY2ZHVTk4UnVya3BkYUNpTk9LMkxLT0tmWnAtS0xERk0zTHdRdmcxR3NDOEp5and0RHlrcklMUXF2dmdlcGpkWi1xN3hXZXdQZFnSAY4CQVVfeXFMTnNla29xc1hONmM3bmtLNlM3ckp4X1hVMzh3TDMyUHNiVlhOeWJrSjE2WUpRbVVIM1IydlpMX1I5VnE2c2lycEF4SkdTaDZsX3VyMklrZS05UnVqTVVndkd2czVQcVNURjM3VVB3SUNxVGtqTDRvNE5fTVBRTG5iOVItdmdyRGtLNDNRSUUtTjlPQnViUG52TGR4U2pGVkZxQTlxOXNfam9Gb2wzNHNxTUdMNHBob2Z1NkwyMlB6Nm5xUkt5UHRmd1ZNWUNWdWJNTU4waUk5YzljeElidWtyMWpib1FTNmU3Mi05akk5SkFOMGg0T0tYdkYtUmRiMF9aTnJQaDBuVTc3NndRUmZn?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 26 Oct 2026 01:00:38 GMT",
+      "fecha": "Mon, 26 Oct 2026 01:13:32 GMT",
       "imagen": ""
     },
     {
@@ -106,22 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 20 Oct 2026 01:27:06 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El crecimiento del sector portuario constituye, además, una expresión concreta del dinamismo económico y comercial que ha experimentado la República Dominicana. Desde 2020, el transporte de carga a través del sistema portuario nacional ha registrado - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLa2V0aGVXTHdDYVZBLUpiM1NqS01GVDJyclVBVm91YWpjZkFLV3M5QmFsOEw4YmRXc1BJUmFwaGFmMWM4RzRvT0lhRHVCMUwzWFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 26 Oct 2026 00:15:01 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
-      "fuente": "ProPublica",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
       "imagen": ""
     }
   ]
