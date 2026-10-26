@@ -1,20 +1,27 @@
 {
-  "updated": "2026-10-25T22:04:58.425085-04:00",
-  "hora": "22:04",
+  "updated": "2026-10-25T22:25:21.171785-04:00",
+  "hora": "22:25",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "LeBron James to see minutes at center against Detroit",
+      "enlace": "https://sports.yahoo.com/articles/lebron-james-see-minutes-center-215259154.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcuDHKCm9itwLGL4wQy8E72xlgFsCnbSUm4k5ZlHSNWAXZZqSosPBKjLwCz4o"
+    },
+    {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Storm Boelo: Man killed by falling tree as strong winds and heavy rain hit UK",
-      "enlace": "https://www.bbc.com/news/live/ck8dzrlg27rdt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTAs0nAd-B4UCCw7Q_DrszXX1m0se9g_eeG_s8htTt8y5fRMtfxDUnWq3VOk"
+      "noticia": "IMD weather today: ‘Red’ alert for heavy rains in Odisha, Kerala, Tamil Nadu as severe cyclonic storm nears Andhra",
+      "enlace": "https://www.livemint.com/news/india/imd-weather-today-red-alert-for-heavy-rains-in-odisha-kerala-tamil-nadu-as-severe-cyclonic-storm-nears-andhra-11792976086151.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWH_1s7oSiz2BTD9gSVQVDfX9jtfBWodsJVTgEjKQ6A8HDRV9PRhuQx9_rlU"
     },
     {
       "termino": "météo demain",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -22,16 +29,16 @@
     {
       "termino": "nets - pacers",
       "trafico": "100+",
-      "noticia": "Tyrese Haliburton leads Pacers in 136-109 rout of Nets",
-      "enlace": "https://www.cbssports.com/nba/news/tyrese-haliburton-leads-pacers-in-136-109-rout-of-nets/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+      "noticia": "Indiana Pacers photos vs. Brooklyn Nets in NBA action",
+      "enlace": "https://www.indystar.com/picture-gallery/sports/nba/pacers/2026/10/25/indiana-pacers-photos-vs-brooklyn-nets-in-nba-action/92435001007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdBCcCVaGFN3IzHlLSpqcSPT2HXDRB0dQQXncN1PQAW-JPySinN5iVKsuB7oo"
     },
     {
       "termino": "timberwolves - raptors",
       "trafico": "200+",
-      "noticia": "Live: Wolves dominate Raptors deep into game on wicked three-point shooting",
-      "enlace": "https://www.startribune.com/minnesota-timberwolves-toronto-raptors-score-today-wolves-updates-anthony-edwards-lamelo-ball-stats/601902966",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdY0K70f9OSLkcOb3EHK8QVzTUTpuVkNuHaCokAcyNa1vEGVJOMtIRheHf-uI"
+      "noticia": "Anthony Edwards leads Timberwolves past Raptors in 117-94 rout",
+      "enlace": "https://www.cbssports.com/nba/news/anthony-edwards-leads-timberwolves-past-raptors-in-117-94-rout/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
     },
     {
       "termino": "licey aguilas",
@@ -41,18 +48,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfaELRnh_K76CY8s3L4zOcWf-K0aqdS8qMPzeMgOPol55gFH4rhnj7JR6MDo"
     },
     {
-      "termino": "juego de hoy lidom",
-      "trafico": "1000+",
-      "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
-      "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
-    },
-    {
       "termino": "thunder - clippers",
       "trafico": "500+",
-      "noticia": "Shai Gilgeous-Alexander back at his best in Thunder s bittersweet win over Clippers",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/25/shai-gilgeous-alexander-back-at-his-best-in-thunders-bittersweet-win-over-clippers/92438047007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbmAz-cT9Xg_FvVnP2fTaKDupWu2b0r7A7cXDYJcg21iC8yRK8YNXlWluAJKQ"
+      "noticia": "Jalen Williams Stretchered Off Court After Suffering Apparent Leg Injury",
+      "enlace": "https://www.hoopsrumors.com/2026/10/jalen-williams-stretchered-off-court-after-suffering-apparent-leg-injury.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBYmUldKj2BHvrMff49ER51oOQ17a4LVAZgOWDoZ3BLjfoEX8w1Gx70eT2pPc"
     },
     {
       "termino": "76ers - pistons",
@@ -70,10 +70,10 @@
     },
     {
       "termino": "knicks - magic",
-      "trafico": "500+",
-      "noticia": "Milwaukee Bucks vs Philadelphia 76ers Oct 24, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/mil-vs-phi-0022600106/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqmEyCGcDX9-hR1WsOoB8NxEwQ1Dk63_6PnXO2-ovLjxfWC8YE2tyVErdC2_c"
+      "trafico": "1000+",
+      "noticia": "Golden State Warriors vs Phoenix Suns Oct 24, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-phx-0022600111/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWxEOk_0QcCRCJMpzf-2OUPEfazR3SJrjwW4iU99ON0Sd6iO--bfGUxDq7jw"
     }
   ]
 }
