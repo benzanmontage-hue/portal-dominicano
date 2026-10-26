@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-25T22:45:40.063603-04:00",
-  "hora": "22:45",
+  "updated": "2026-10-25T23:05:58.446309-04:00",
+  "hora": "23:05",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "evaluación del desempeño",
+      "trafico": "100+",
+      "noticia": "Minerd afirma completó el pago retroactivo al 99.29 % de los docentes evaluados",
+      "enlace": "https://www.diariolibre.com/actualidad/educacion/2026/10/25/evaluacion-desempeno-docente-y-pago-retroactivo-en-rd/3700061",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZub4blxI109zC4keCuoGbZuV4jyXlF9mhxFFrUUg2pgBiZBdGVUv3Bkps-iE"
+    },
+    {
       "termino": "jalen williams",
       "trafico": "100+",
-      "noticia": "Jalen Williams Stretchered Off Court After Suffering Apparent Leg Injury",
-      "enlace": "https://www.hoopsrumors.com/2026/10/jalen-williams-stretchered-off-court-after-suffering-apparent-leg-injury.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBYmUldKj2BHvrMff49ER51oOQ17a4LVAZgOWDoZ3BLjfoEX8w1Gx70eT2pPc"
+      "noticia": "Thunder’s Jalen Williams stretchered off court after horrific-looking knee injury",
+      "enlace": "https://www.nbcsports.com/nba/news/thunders-jalen-williams-stretchered-off-court-after-horrific-looking-knee-injury",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaMM-EJ3897g7xI2zG-ZfdZ-sDG7UyD-M1FGhwAtAceQfD26KAG6F4n2W6wZQ"
     },
     {
       "termino": "dean wade",
@@ -28,17 +35,17 @@
     },
     {
       "termino": "lebron james",
-      "trafico": "100+",
-      "noticia": "LeBron James to see minutes at center against Detroit",
-      "enlace": "https://sports.yahoo.com/articles/lebron-james-see-minutes-center-215259154.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcuDHKCm9itwLGL4wQy8E72xlgFsCnbSUm4k5ZlHSNWAXZZqSosPBKjLwCz4o"
+      "trafico": "500+",
+      "noticia": "Los Angeles Lakers vs. Utah Jazz Live Score and Stats - October 25, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261025_LAL@UTA/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1hiWEiCIUXmSc6OdQtkTA0aBKeDr3WrtPYSc8PlsRv59n7hf_VJ8afYeBw"
     },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Heavy rain to hit South India on Sunday, Bay system to pick up pace",
-      "enlace": "https://www.indiatoday.in/science/story/south-india-weather-forecast-heavy-rain-october-imd-cyclone-3024156-2026-10-24",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSoWJHgvVL0rF5c5EAD17rhZnebH00mnYtGTr8CrwEdtCAPECXawsmnlMsOpQ"
+      "noticia": "Weather Today, October 26: IMD predicts rain, thunderstorms in Tamil Nadu, Odisha, Chhattisgarh; Check for",
+      "enlace": "https://m.economictimes.com/news/new-updates/weather-today-october-26-imd-predicts-rain-thunderstorms-in-tamil-nadu-odisha-chhattisgarh-check-forecast-for-delhi-bihar-up-and-other-states/articleshow/135200619.cms",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkpZNsiGq7PnUqMeHaOsyOzz1bCbfFu-zl5jA5pucHfaK2PbJzNqzgtqENC8"
     },
     {
       "termino": "météo demain",
@@ -62,18 +69,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToNr93j-B4_ch5D09N1Mv21HNss1BoX2hm5clr8SLzhjz28dEMOHZgSVAJ9cQ"
     },
     {
-      "termino": "thunder - clippers",
-      "trafico": "500+",
-      "noticia": "Shai Gilgeous-Alexander scores 34 as Thunder beat Clippers 108-101",
-      "enlace": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-scores-34-as-thunder-beat-clippers-108-101/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
-    },
-    {
-      "termino": "76ers - pistons",
-      "trafico": "2000+",
-      "noticia": "76ers host Pistons in Sunday clash of unbeaten East contenders",
-      "enlace": "https://www.cbssports.com/nba/news/76ers-host-pistons-in-sunday-clash-of-unbeaten-east-contenders/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+      "termino": "juego de hoy lidom",
+      "trafico": "200+",
+      "noticia": "Águilas Cibaeñas sufren otra derrota y caen al último lugar en R.D.",
+      "enlace": "https://www.mlb.com/es/news/aguilas-cibaenas-sufren-otra-derrota-y-caen-al-ultimo-lugar-de-r-d",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBJJtGiMDY6BaAi1QSConI6sWHshIkZfmxrk0cm3O64I_XLFN5FcTG_Av7Ic"
     }
   ]
 }
