@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-25T20:02:56.328919-04:00",
-  "hora": "20:02",
+  "updated": "2026-10-25T20:23:16.131746-04:00",
+  "hora": "20:23",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "timberwolves - raptors",
+      "trafico": "100+",
+      "noticia": "~$!【Live Stream】 Timberwolves vs Raptors Live today in 25 October, Live scores, player stats, standings, fantasy games",
+      "enlace": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+ id=video-timberwolves-vs-raptors-liv-str-gjilbdz",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqycNsIXT1gEEtLVeyKnLDgrsTxtVfvMLGphWw-_fSKPTyHKsm1NdeyaaIgX4"
+    },
     {
       "termino": "juego de hoy lidom",
       "trafico": "200+",
@@ -49,17 +56,17 @@
     },
     {
       "termino": "resultados loteria",
-      "trafico": "2000+",
+      "trafico": "500+",
       "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
       "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     },
     {
       "termino": "posiciones de fc barcelona contra real madrid",
-      "trafico": "1000+",
-      "noticia": "Barcelona 1 - 2 Real Madrid: resumen, goles y resultado del Clásico de LaLiga EA Sports",
-      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNoVq8igwOVPh7z9BUtGnoaDpkFleZXunsnFXXEIAEcV05cZV54_NQRBdvER8"
+      "trafico": "5000+",
+      "noticia": "García antes del Clásico: los títulos no se deciden en octubre",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/garc%C3%ADa-cl%C3%A1sico-t%C3%ADtulos-deciden-octubre-143739539.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToDHOtgqXzneh2BFTB7AI9C5Qs3yy3to5aapohFPugVvxTp7YMqdlZd8PFIXA"
     },
     {
       "termino": "lotería nacional",
@@ -67,13 +74,6 @@
       "noticia": "Lotería Nacional: comprobar los resultados del sorteo de hoy, sábado 24 de octubre",
       "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-de-hoy-sabado-24-de-octubre-f202610-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA4GCcHS50cLkoG1Cdu62QHPdbhqA7dLQTNu_rejNMRlM_QBCHuk4bZdif20"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
-      "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
     }
   ]
 }

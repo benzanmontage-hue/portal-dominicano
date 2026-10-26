@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T20:02:54.235378-04:00",
+  "updated": "2026-10-25T20:23:14.386344-04:00",
   "fecha": "25/10/2026",
-  "hora": "20:02",
+  "hora": "20:23",
   "total_juegos": 53,
   "juegos": [
     {
@@ -391,22 +391,22 @@
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "58"
+        "81"
       ],
-      "fecha": "2026-10-24T04:00:00.000Z",
+      "fecha": "2026-10-25T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
+        "45",
         "40",
-        "87",
-        "70",
-        "38",
-        "70"
+        "47",
+        "96",
+        "09"
       ],
-      "fecha": "2026-10-24T04:00:00.000Z",
+      "fecha": "2026-10-25T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -440,22 +440,22 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "56",
-        "44",
-        "38"
+        "54",
+        "87",
+        "77"
       ],
-      "fecha": "2026-10-24T04:00:00.000Z",
+      "fecha": "2026-10-25T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
       "compania": "Loteka",
       "juego": "Toca 3",
       "numeros": [
-        "0",
-        "8",
-        "4"
+        "9",
+        "2",
+        "7"
       ],
-      "fecha": "2026-10-24T04:00:00.000Z",
+      "fecha": "2026-10-25T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4f2"
     },
     {
