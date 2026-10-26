@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T21:24:10.657928-04:00",
-  "hora": "21:24",
+  "updated": "2026-10-25T21:44:29.640781-04:00",
+  "hora": "21:44",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "météo demain",
       "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "Tendance météo à 4 semaines : rupture océanique et pluvieuse après Halloween",
+      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-01-08/tendance-meteo-a-4-semaines-rupture-oceanique-et-pluvieuse-apres-halloween-71369",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRSpJxnYzX4vaNNZOKpcfS3zpRC6cd8xADl3_zmoRMtAaZ282CDUKGU9gTiPA"
     },
     {
       "termino": "nets - pacers",
@@ -29,16 +29,16 @@
     {
       "termino": "timberwolves - raptors",
       "trafico": "200+",
-      "noticia": "Unbeaten Timberwolves host red-hot Raptors in battle of 2-0 teams",
-      "enlace": "https://www.cbssports.com/nba/news/unbeaten-timberwolves-host-red-hot-raptors-in-battle-of-2-0-teams/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvmSRR1A-jOueaUlfuPh2vzeqaBEstW5rp5bQsrztzjvurFVEv-yHxaIBIGtc"
+      "noticia": "Live: Wolves dominate Raptors deep into game on wicked three-point shooting",
+      "enlace": "https://www.startribune.com/minnesota-timberwolves-toronto-raptors-score-today-wolves-updates-anthony-edwards-lamelo-ball-stats/601902966",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdY0K70f9OSLkcOb3EHK8QVzTUTpuVkNuHaCokAcyNa1vEGVJOMtIRheHf-uI"
     },
     {
       "termino": "thunder - clippers",
       "trafico": "200+",
-      "noticia": "Clippers’ Injury Report Rules Out Five Players for Marquee Thunder Matchup",
-      "enlace": "https://sports.yahoo.com/articles/clippers-injury-report-rules-five-171617621.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEe0wBKOrrk-3kU71sRVCKp-U8NGl8nZnaffrpee-TP1iUYgTZNvchIVDuPUs"
+      "noticia": "Shai Gilgeous-Alexander back at his best in Thunder s bittersweet win over Clippers",
+      "enlace": "https://uk.sports.yahoo.com/news/shai-gilgeous-alexander-back-best-013157836.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSs1yqB4DwMSkxOCBkjdWtVd7NPVO42FCE_UzC9FKax5KIQ0G0bqsUXbuhph0"
     },
     {
       "termino": "76ers - pistons",
@@ -55,13 +55,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
-      "termino": "knicks - magic",
-      "trafico": "1000+",
-      "noticia": "Indiana Pacers vs Brooklyn Nets Oct 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/ind-vs-bkn-0022600113/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCehP42KApxAWJx7KtDNm8QP5RBDHtTp_mcnhG_6WVgLYpLGNcQ6Ze2XNCzJU"
-    },
-    {
       "termino": "pedro martínez",
       "trafico": "500+",
       "noticia": "24 three-pointers scored to make history in the ACB",
@@ -71,9 +64,16 @@
     {
       "termino": "leonor de borbón",
       "trafico": "500+",
-      "noticia": "El futuro de la corona: De Kate Middleton a Leonor, las princesas que gobernarán Europa",
-      "enlace": "https://www.soycarmin.com/el-futuro-de-la-corona-de-kate-middleton-a-leonor-las-princesas-que-gobernaran-europa-t202610200019.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwl7DDLNYGZvT_-aZZOSXrjvgT3zR2-vjgO2Av8_uYTq8n1FyuVGdPv5HQWrI"
+      "noticia": "Lionel Messi recibe el Premio Princesa de Asturias de los Deportes en una emotiva ceremonia",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/23/lionel-messi-recibe-el-premio-princesa-de-asturias-de-los-deportes/3698615",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTpwHJffQs8Uq30heiSXv11mNqtC6mn9ueE5OegbZ9SVOArZspMAGjOd2YYLA"
+    },
+    {
+      "termino": "resultados loteria",
+      "trafico": "500+",
+      "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     }
   ]
 }
