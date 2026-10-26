@@ -1,10 +1,17 @@
 {
-  "updated": "2026-10-25T20:43:33.885758-04:00",
-  "hora": "20:43",
+  "updated": "2026-10-25T21:03:52.280370-04:00",
+  "hora": "21:03",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nets - pacers",
+      "trafico": "100+",
+      "noticia": "Brewers 5-4 Rays (Oct 24, 2026) Final Score",
+      "enlace": "https://www.espn.com/mlb/game/_/gameId/401908043/rays-brewers",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWsBnjN7XHPOAcdD6Kba9EBUN0vDUMVJok4gflNMZ0POSttNuv9yvzIHnnT18"
+    },
     {
       "termino": "timberwolves - raptors",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "76ers - pistons",
       "trafico": "1000+",
-      "noticia": "Sixers overrule Embiid, sit center with plantar fasciitis management",
-      "enlace": "https://www.espn.com/nba/story/_/id/50279725/76ers-rule-embiid-plantar-fasciitis-management",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Gx07eHtTHR3XA--fvULjK8aaGhw1D4d4XKDczA0Sn77iSC8qPg3iftfFOU0"
+      "noticia": "How to watch Pistons vs 76ers: NBA, live stream, TV channel",
+      "enlace": "https://www.thebiglead.com/how-to-watch-pistons-vs-76ers-nba-live-stream-tv-channel/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWEBViTTybBeGxqXg_yytbcoTiQGnI9KDUdkpQGbrfso_1bGlgjhsdtnLoZ0"
     },
     {
       "termino": "licey vs aguilas",
@@ -36,16 +43,16 @@
     {
       "termino": "pedro martínez",
       "trafico": "500+",
-      "noticia": "Wife Of Beloved Boston Red Sox Star Sends Out Heartfelt Post",
-      "enlace": "https://heavy.com/sports/mlb/boston-red-sox/wife-of-beloved-varitek-sends-out-heartfelt-post/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtXFz2aBukKyaT4jZHD49kc4RlhwBfqJrNG5yzzoE9WWpSPkdjFaiRba45yAQ"
+      "noticia": "24 three-pointers scored to make history in the ACB",
+      "enlace": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/24-triples-anotados-para-hacer-historia-en-la-acb-25-10-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8pyqWXpv6MNP8OR484kyQuwrVVC4oaRe19iilkHy9zoOua3CCX1ndHKMf43I"
     },
     {
       "termino": "leonor de borbón",
       "trafico": "500+",
-      "noticia": "El futuro de la corona: De Kate Middleton a Leonor, las princesas que gobernarán Europa",
-      "enlace": "https://www.soycarmin.com/el-futuro-de-la-corona-de-kate-middleton-a-leonor-las-princesas-que-gobernaran-europa-t202610200019.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwl7DDLNYGZvT_-aZZOSXrjvgT3zR2-vjgO2Av8_uYTq8n1FyuVGdPv5HQWrI"
+      "noticia": "Lionel Messi recibe el Premio Princesa de Asturias de los Deportes en una emotiva ceremonia",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/10/23/lionel-messi-recibe-el-premio-princesa-de-asturias-de-los-deportes/3698615",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTpwHJffQs8Uq30heiSXv11mNqtC6mn9ueE5OegbZ9SVOArZspMAGjOd2YYLA"
     },
     {
       "termino": "resultados loteria",
@@ -67,13 +74,6 @@
       "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
       "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
-    },
-    {
-      "termino": "alineaciones de fc barcelona contra real madrid",
-      "trafico": "100+",
-      "noticia": "Barcelona 1 - 2 Real Madrid: resumen, goles y resultado del Clásico de LaLiga EA Sports",
-      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNoVq8igwOVPh7z9BUtGnoaDpkFleZXunsnFXXEIAEcV05cZV54_NQRBdvER8"
     }
   ]
 }

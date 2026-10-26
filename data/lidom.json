@@ -1,10 +1,21 @@
 {
- "updated": "2026-10-25T20:43:39-04:00",
+ "updated": "2026-10-25T21:03:57-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
  "fin_temporada": "2027-01-29",
  "tabla": [
+  {
+   "id": 669,
+   "equipo": "Estrellas",
+   "g": 5,
+   "p": 2,
+   "pct": ".714",
+   "dif": "-2.0",
+   "racha": "W3",
+   "pos": 1,
+   "nombre": "Estrellas Orientales"
+  },
   {
    "id": 672,
    "equipo": "Tigres",
@@ -13,28 +24,17 @@
    "pct": ".714",
    "dif": "-2.0",
    "racha": "W1",
-   "pos": 1,
-   "nombre": "Tigres del Licey"
-  },
-  {
-   "id": 669,
-   "equipo": "Estrellas",
-   "g": 4,
-   "p": 2,
-   "pct": ".667",
-   "dif": "-1.5",
-   "racha": "W2",
    "pos": 2,
-   "nombre": "Estrellas Orientales"
+   "nombre": "Tigres del Licey"
   },
   {
    "id": 670,
    "equipo": "Gigantes",
    "g": 4,
-   "p": 3,
-   "pct": ".571",
-   "dif": "-1.0",
-   "racha": "L1",
+   "p": 4,
+   "pct": ".500",
+   "dif": "-0.5",
+   "racha": "L2",
    "pos": 3,
    "nombre": "Gigantes del Cibao"
   },
@@ -392,14 +392,14 @@
    "id": 851516,
    "fecha": "2026-10-25",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Estrellas Orientales",
    "visitante_id": 669,
-   "carreras_v": null,
+   "carreras_v": 12,
    "local": "Gigantes del Cibao",
    "local_id": 670,
-   "carreras_l": null,
+   "carreras_l": 6,
    "estadio": "Estadio Julian Javier",
    "serie": "Regular Season"
   },
