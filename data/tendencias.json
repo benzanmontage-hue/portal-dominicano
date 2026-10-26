@@ -1,13 +1,27 @@
 {
-  "updated": "2026-10-25T19:42:37.980157-04:00",
-  "hora": "19:42",
+  "updated": "2026-10-25T20:02:56.328919-04:00",
+  "hora": "20:02",
   "fecha": "25/10/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "76ers - pistons",
+      "termino": "juego de hoy lidom",
       "trafico": "200+",
+      "noticia": "Águilas Cibaeñas sufren otra derrota y caen al último lugar en R.D.",
+      "enlace": "https://www.mlb.com/es/news/aguilas-cibaenas-sufren-otra-derrota-y-caen-al-ultimo-lugar-de-r-d",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBJJtGiMDY6BaAi1QSConI6sWHshIkZfmxrk0cm3O64I_XLFN5FcTG_Av7Ic"
+    },
+    {
+      "termino": "thunder - clippers",
+      "trafico": "200+",
+      "noticia": "Clippers’ Injury Report Rules Out Five Players for Marquee Thunder Matchup",
+      "enlace": "https://sports.yahoo.com/articles/clippers-injury-report-rules-five-171617621.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEe0wBKOrrk-3kU71sRVCKp-U8NGl8nZnaffrpee-TP1iUYgTZNvchIVDuPUs"
+    },
+    {
+      "termino": "76ers - pistons",
+      "trafico": "500+",
       "noticia": "Pistons C Jalen Duren out at least two weeks with hamstring strain",
       "enlace": "https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3ifXGfqGImQYgLXaCpIoF66-Y0CQLWhtH2l8SilO1ibFfFXhkHPIJj0h0gis"
@@ -20,15 +34,8 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
-      "termino": "knicks - magic",
-      "trafico": "1000+",
-      "noticia": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6P0OnURa3hAgAKK38kfKWhdp9a-ZVe7OEjvqBKNKihZ5THhuMUyT_tJ_jUZI"
-    },
-    {
       "termino": "pedro martínez",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Wife Of Beloved Boston Red Sox Star Sends Out Heartfelt Post",
       "enlace": "https://heavy.com/sports/mlb/boston-red-sox/wife-of-beloved-varitek-sends-out-heartfelt-post/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtXFz2aBukKyaT4jZHD49kc4RlhwBfqJrNG5yzzoE9WWpSPkdjFaiRba45yAQ"
@@ -42,10 +49,17 @@
     },
     {
       "termino": "resultados loteria",
-      "trafico": "500+",
-      "noticia": "Resultados de la Lotería Real hoy 23 de octubre de 2026",
-      "enlace": "https://www.elcaribe.com.do/panorama/resultados-loteria-real-hoy-23-octubre-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXErPsTmUbD_wGbohJmOP4ZVFK4NrIiKwmEcno17_w0x_Xlq0veL4zwC7DyNg"
+      "trafico": "2000+",
+      "noticia": "Números ganadores de las loterías de este 18/10/2026: ¿El premio es tuyo?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-18-10-2026-premio_1106014.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
+      "termino": "posiciones de fc barcelona contra real madrid",
+      "trafico": "1000+",
+      "noticia": "Barcelona 1 - 2 Real Madrid: resumen, goles y resultado del Clásico de LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/primera/barcelona-real-madrid-hoy-en-directo-el-clasico-de-laliga-ea-sports-ultima-hora-en-vivo-f202610-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNoVq8igwOVPh7z9BUtGnoaDpkFleZXunsnFXXEIAEcV05cZV54_NQRBdvER8"
     },
     {
       "termino": "lotería nacional",
@@ -60,20 +74,6 @@
       "noticia": "Partidos de LIDOM hoy: Águilas buscarán recuperarse y el primer lugar estará en disputa",
       "enlace": "https://acento.com.do/deportes/partidos-de-hoy-en-lidom-aguilas-buscaran-recuperarse-y-el-primer-lugar-estara-en-disputa-9776714.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkqf-Jo4e8YDTH_vz1RS2U7UcEKkoCtnixT3VaRuJjHWieVRdrZC629Q0NWbU"
-    },
-    {
-      "termino": "independiente - boca juniors",
-      "trafico": "100+",
-      "noticia": "Así quedó la tabla anual de la Liga Profesional: Boca ganó sobre la hora el clásico, sigue líder y dejó obligado a Argentinos Juniors",
-      "enlace": "https://www.clarin.com/deportes/quedo-tabla-anual-liga-profesional-boca-gano-hora-clasico-sigue-lider-dejo-obligado-argentinos-juniors_0_Gjlgu7lQnp.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfFWX0oXVhL6ffyCnWAadnx2oB8-oyDTppCdBeTpqbkqm-rWEiRqJxFeVk2pQ"
-    },
-    {
-      "termino": "inundación",
-      "trafico": "1000+",
-      "noticia": "El COE coloca 16 provincias en alerta por lluvias asociadas a una vaguada",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/10/25/alerta-inundaciones-en-republica-dominicana-por-lluvias/3700051",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeLRusKgq4253i_Sadc1UEc_YpD1TgFWaaGfkVM-8ZeZeFnILTF9McMI8bNbY"
     }
   ]
 }
