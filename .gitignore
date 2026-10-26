@@ -5,3 +5,6 @@ UX-CRO_review.md
 .wrangler/
 __pycache__/
 *.pyc
+
+# Carpeta temporal de publicación (se genera en cada ciclo)
+_site/

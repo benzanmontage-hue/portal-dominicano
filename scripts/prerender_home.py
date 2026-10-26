@@ -137,8 +137,8 @@ def titulo_y_descr(html, res, hoy):
         if ops:
             j = max(ops, key=lambda x: ((x.get("fecha") or "")[:10], [g for g, _m in cands].index(limpiar(x["juego"]))))
             partes.append(f"{NOMBRE_COMPANIA[comp].replace('Lotería ', '')} {'-'.join(j['numeros'])}")
-    desc = (f"Lotería de hoy en RD, últimos resultados: " + ", ".join(partes[:4])
-            + ". Todas las loterías, Anguila hora por hora, dólar, combustibles y Lidom.")
+    desc = (f"Lotería de hoy RD, últimos resultados: " + ", ".join(partes[:4])
+            + ". Todas las loterías, Anguila, dólar y Lidom.")
     html = re.sub(r"<title>[^<]*</title>", lambda m: f"<title>{esc(title)}</title>", html, count=1)
     for patron, valor in [(r'(<meta name="description" content=")[^"]*(")', desc),
                           (r'(<meta property="og:title" content=")[^"]*(")', title),

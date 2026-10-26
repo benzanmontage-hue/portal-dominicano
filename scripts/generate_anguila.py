@@ -123,8 +123,8 @@ def main():
   </div>"""
         nums_t = "-".join(j["numeros"])
         title = titulo(f"Anguila {et} Hoy {d.day} de {MESES[d.month - 1]}: {nums_t}", "Resultados", "Números Ganadores")
-        desc = (f"Resultados de la Anguila de las {et} de hoy en República Dominicana. Último sorteo ({fecha_larga(d, con_anio=False)}): "
-                f"{nums}. Historial de esta hora y significado en la charada.")
+        desc = (f"Anguila {et} de hoy en RD. Último sorteo ({d.day} de {MESES[d.month - 1]}): {nums}. "
+                f"Historial de esta hora y su significado en la charada.")
         migas = [("Portal Dominicano", "/"), ("Anguila", "/anguila/"), (f"Anguila {et}", ruta)]
         ld = jsonld(BASE + ruta, f"Anguila {et} de hoy", desc, migas, extra=[faq_ld(BASE + ruta, faqs)],
                     fecha_mod=upd.isoformat(timespec="seconds"))
