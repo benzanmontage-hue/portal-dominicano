@@ -103,8 +103,16 @@ def anguila(juegos, hoy):
     ang = [j for j in juegos if j["compania"] == "Anguila"]
     ang.sort(key=lambda j: (minutos_juego(limpiar(j["juego"])) or 0, limpiar(j["juego"])))
     out = []
+    alguna_hoy = any(parse_fecha(j.get("fecha")) == hoy for j in ang)
     for j in ang:
         salio = parse_fecha(j.get("fecha")) == hoy
+        if not alguna_hoy and j.get("numeros"):  # de madrugada: mostrar los de ayer
+            mins = minutos_juego(limpiar(j["juego"]))
+            es_hora = limpiar(j["juego"]).startswith("Anguila ") and mins is not None
+            tag, cierre = (f'a class="ang ayer" href="anguila/{slug_hora(mins)}/"', "a") if es_hora else ('div class="ang ayer"', "div")
+            out.append(f'<{tag}><div class="ang-h">{esc(hora_anguila(j["juego"]))}<span class="ang-ayer">ayer</span></div>'
+                       f'<div class="ang-n">{" · ".join(esc(n) for n in j["numeros"])}</div></{cierre}>')
+            continue
         valor = " · ".join(esc(n) for n in j["numeros"]) if salio else "Pendiente"
         mins = minutos_juego(limpiar(j["juego"]))
         es_hora = limpiar(j["juego"]).startswith("Anguila ") and mins is not None
@@ -234,7 +242,7 @@ def main():
                 '<a class="btn-img" href="compartir/resultados-hoy.png" download>Descargar imagen</a>')
     fecha_txt = f"{DIAS[hoy.weekday()].capitalize()} {hoy.day} de {MESES[hoy.month - 1]}"
     html = re.sub(r'(<span class="meta" id="loteria-fecha">)[^<]*(</span>)',
-                  lambda m: m.group(1) + fecha_txt + m.group(2), html, count=1)
+                  lambda m: m.group(1) + m.group(2), html, count=1)
     html = re.sub(r'(id="updated">)[^<]*(<)',
                   lambda m: m.group(1) + f"{fecha_txt} · Actualizado a las {hora_12(upd)} (hora RD)" + m.group(2),
                   html, count=1)

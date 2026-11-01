@@ -39,7 +39,7 @@
       "name": "Portal Dominicano",
       "alternateName": "Portal RD",
       "inLanguage": "es-DO",
-      "description": "Resultados de la Lotería de hoy en República Dominicana, radio FM dominicana, tiempo por ciudad, MLB y tendencias de Google RD.",
+      "description": "Resultados de la Lotería de hoy en República Dominicana, Anguila por hora, tabla de sueños, dólar, combustibles, Lidom y radio FM dominicana.",
       "isAccessibleForFree": true,
       "publisher": {
         "@id": "https://portaldominicana.net/#organization"
@@ -104,11 +104,6 @@ body{background:var(--bg);color:var(--txt);font-family:'Archivo',-apple-system,B
 @media(min-width:700px){.hoy-in{padding:22px 16px}.hoy-in h1{font-size:2rem}}
 
 /* ---- Navegación (glass sticky) ---- */
-nav.tabs{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--card) 82%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--border);display:flex;gap:6px;overflow-x:auto;padding:10px 14px;scrollbar-width:none}
-nav.tabs::-webkit-scrollbar{display:none}
-nav.tabs a{flex:0 0 auto;padding:8px 15px;border-radius:999px;color:var(--muted);text-decoration:none;font-size:.86rem;font-weight:600;white-space:nowrap;transition:all .18s;border:1px solid transparent}
-nav.tabs a:hover{color:var(--txt);background:var(--card);border-color:var(--border)}
-nav.tabs a.active{background:var(--grad);color:#fff;box-shadow:0 4px 14px rgba(217,4,41,.28);border-color:transparent}
 
 .wrap{max-width:1080px;margin:0 auto;padding:22px 16px}
 
@@ -243,8 +238,6 @@ details.todos[open]>summary{margin-bottom:12px}
 .retry{display:inline-flex;align-items:center;gap:7px;margin-top:6px;background:var(--grad);border:none;color:#fff;font-weight:800;padding:9px 16px;border-radius:11px;cursor:pointer;font-size:.84rem;box-shadow:0 4px 12px rgba(217,4,41,.2)}
 
 /* ---- Tendencias ---- */
-.tendencias-list{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
-.tendencias-list::-webkit-scrollbar{display:none}
 .tend{flex:0 0 300px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;display:flex;gap:14px;align-items:flex-start;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
 .tend:hover{transform:translateX(4px);box-shadow:var(--shadow)}
 .tend .rank{font-weight:900;font-size:1.3rem;color:var(--azul2);min-width:30px;text-align:center;line-height:1.3;font-variant-numeric:tabular-nums}
@@ -274,16 +267,6 @@ details.todos[open]>summary{margin-bottom:12px}
 .news .meta .dot-sep{opacity:.5}
 
 /* ---- Tiempo ---- */
-#weather-hero{background:linear-gradient(135deg,#0a5bbf 0%,#14b8ff 60%,#0ea5e9 100%);border-radius:20px;padding:22px;color:#fff;box-shadow:var(--shadow-lg);margin-bottom:12px;display:flex;align-items:center;gap:20px;position:relative;overflow:hidden}
-#weather-hero::after{content:"";position:absolute;inset:0;background:radial-gradient(50% 80% at 90% 0%,rgba(255,255,255,.18),transparent 60%)}
-#weather-hero .wicon{font-size:3.6rem;line-height:1;filter:drop-shadow(0 3px 8px rgba(0,0,0,.25));position:relative;z-index:1}
-#weather-hero .winfo{flex:1;position:relative;z-index:1}
-#weather-hero .wcity{font-weight:700;font-size:1rem;opacity:.92}
-#weather-hero .wtemp{font-size:3rem;font-weight:900;line-height:1;letter-spacing:-.02em}
-#weather-hero .wdesc{font-size:.92rem;opacity:.92;margin-top:3px}
-#weather-hero .wmeta{display:flex;gap:16px;margin-top:10px;font-size:.8rem;opacity:.92;flex-wrap:wrap}
-.weather-grid{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
-.weather-grid::-webkit-scrollbar{display:none}
 .w-card{flex:0 0 150px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px 14px;text-align:center;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
 .w-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
 .w-card .wicon{font-size:1.9rem;line-height:1}
@@ -293,59 +276,14 @@ details.todos[open]>summary{margin-bottom:12px}
 .w-card .range{color:var(--muted);font-size:.72rem;margin-top:3px;font-weight:600}
 
 /* ---- Divisas ---- */
-.divisas-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.divisa{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s;position:relative;overflow:hidden}
-.divisa:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
-.divisa::after{content:"";position:absolute;top:0;right:0;width:60px;height:60px;background:radial-gradient(circle at top right,rgba(10,91,191,.08),transparent 70%)}
-.divisa .d-top{display:flex;align-items:center;gap:8px;margin-bottom:10px}
-.divisa .flag{font-size:1.5rem;line-height:1}
-.divisa .mon{font-size:.82rem;font-weight:700;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.divisa .valor{font-size:1.75rem;font-weight:900;color:var(--azul2);letter-spacing:-.01em;font-variant-numeric:tabular-nums;line-height:1.1}
-.divisa .a{font-size:.85rem;color:var(--muted);font-weight:600;margin-left:4px}
-.divisas-mas{grid-column:1/-1;background:none;border:1px dashed var(--border2);border-radius:12px;color:var(--azul2);font-weight:700;font-size:.82rem;padding:10px;cursor:pointer;transition:border-color .15s,background .15s}
-.divisas-mas:hover{border-color:var(--azul2);background:rgba(10,91,191,.05)}
-.divisas-extra{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;grid-column:1/-1}
-@media(max-width:600px){.divisas-grid{grid-template-columns:1fr;gap:10px}.divisas-extra{grid-template-columns:1fr;gap:10px}.divisa .valor{font-size:1.55rem}.divisa .mon{font-size:.8rem}.divisa .flag{font-size:1.35rem}}
 
 /* ---- Economía ---- */
-.econ-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
-.econ{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow-sm);transition:transform .18s,box-shadow .18s}
-.econ:hover{transform:translateY(-3px);box-shadow:var(--shadow)}
-.econ .e-ico{font-size:1.3rem;line-height:1;margin-bottom:8px}
-.econ .e-nom{font-size:.76rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
-.econ .e-val{font-size:1.7rem;font-weight:900;color:var(--azul2);letter-spacing:-.02em;font-variant-numeric:tabular-nums;margin:3px 0}
-.econ .e-val .u{font-size:.8rem;color:var(--muted);font-weight:700;margin-left:4px}
-.econ .e-ano{font-size:.7rem;color:var(--muted);font-weight:600;margin-bottom:8px}
-.econ .e-hist{display:flex;align-items:flex-end;gap:4px;height:32px}
-.econ .e-hist .barra{flex:1;background:linear-gradient(180deg,var(--azul2),var(--azul));border-radius:3px 3px 0 0;min-height:3px;opacity:.85;transition:opacity .15s}
-.econ .e-hist .barra:hover{opacity:1}
-.econ .e-hist .barra.last{background:linear-gradient(180deg,var(--rojo2),var(--rojo))}
 
 /* ---- MLB ---- */
-.mlb-grid{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:none}
-.mlb-grid::-webkit-scrollbar{display:none}
-.mlb-card{flex:0 0 250px;scroll-snap-align:start;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow-sm);transition:transform .18s}
-.mlb-card:hover{transform:translateX(4px)}
-.mlb-card .match{font-weight:700;font-size:.95rem}
-.mlb-card .score{font-size:1.4rem;font-weight:900;margin-top:3px;color:var(--azul2);letter-spacing:-.01em}
-.mlb-card .score .st{font-size:.72rem;color:var(--muted);font-weight:700;margin-left:6px}
 
 /* ---- Traductor ---- */
-.translator{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:20px;box-shadow:var(--shadow-sm)}
-.translator textarea{width:100%;min-height:90px;background:var(--bg);border:1px solid var(--border);border-radius:12px;color:var(--txt);padding:13px;font-size:.95rem;resize:vertical;font-family:inherit;transition:border-color .15s,box-shadow .15s}
-.translator textarea:focus{outline:none;border-color:var(--azul2);box-shadow:0 0 0 3px rgba(10,91,191,.15)}
-.translator .row{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}
-.translator select,.translator button{padding:10px 14px;border-radius:11px;border:1px solid var(--border);background:var(--bg);color:var(--txt);font-size:.88rem;font-weight:600}
-.translator button{background:var(--grad);border:none;color:#fff;font-weight:800;cursor:pointer;box-shadow:0 4px 12px rgba(217,4,41,.24)}
-.translator button:hover{opacity:.92}
-.translator .out{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:13px;margin-top:12px;min-height:60px;font-size:.95rem;white-space:pre-wrap}
 
 /* ---- Enlaces ---- */
-.shortcuts{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
-.shortcut{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:18px 10px;text-align:center;text-decoration:none;color:var(--txt);font-weight:700;font-size:.85rem;transition:all .18s;box-shadow:var(--shadow-sm)}
-.shortcut:hover{transform:translateY(-3px);border-color:var(--azul2);box-shadow:var(--shadow)}
-.shortcut .ico{font-size:1.6rem;display:block;margin-bottom:6px}
-.shortcut img{width:36px;height:36px;display:block;margin:0 auto 7px;border-radius:8px;object-fit:contain}
 
 footer{text-align:center;color:var(--muted);font-size:.75rem;padding:28px 16px 24px;border-top:1px solid var(--border);margin-top:20px}
 footer a{color:var(--azul2);font-weight:700}
@@ -403,6 +341,12 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
   .ball{min-width:40px;height:40px;font-size:.95rem}
   .tend .thumb{width:44px;height:44px}
 }
+.atajos{display:flex;gap:8px;overflow-x:auto;padding:12px 16px 4px;max-width:1100px;margin:0 auto;scrollbar-width:none}
+.atajos::-webkit-scrollbar{display:none}
+.atajos a{flex:0 0 auto;padding:8px 14px;border-radius:999px;background:var(--card);border:1px solid var(--border);color:var(--txt);text-decoration:none;font-size:.86rem;font-weight:600;white-space:nowrap}
+.atajos a:hover{border-color:var(--border2)}
+.ang.ayer .ang-n{color:var(--muted)}
+.ang-ayer{font-size:.7rem;font-weight:700;color:var(--muted);margin-left:4px;text-transform:uppercase;letter-spacing:.05em}
 </style>
 </head>
 <body>
@@ -426,18 +370,15 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
 
 <div class="bandera-franja" aria-hidden="true"></div>
 
-<nav class="tabs" id="nav">
-  <a href="#loteria" class="active">🎰 Lotería</a>
-  <a href="#mlb">⚾ MLB</a>
-  <a href="#traductor">🔤 Traductor</a>
-  <a href="#tiempo">🌤️ Tiempo</a>
-  <a href="#noticias">📰 Noticias</a>
-  <a href="#tendencias">📈 Tendencias</a>
-  <a href="#divisas">💵 Divisas</a>
-  <a href="#economia">📊 Economía</a>
-  <a href="#eventos">🎪 Eventos</a>
-  <a href="#compras">🛒 Compras</a>
-  <a href="#enlaces">🔗 Enlaces</a>
+<nav class="atajos" aria-label="Accesos rápidos">
+  <a href="resultados/">📅 Por fecha</a>
+  <a href="anguila/">🕐 Anguila por hora</a>
+  <a href="suenos/">💤 Sueños</a>
+  <a href="numeros-que-mas-salen/">🔥 Más salen</a>
+  <a href="horarios-loterias/">⏰ Horarios</a>
+  <a href="dolar-hoy/">💵 Dólar</a>
+  <a href="combustibles/">⛽ Combustibles</a>
+  <a href="lidom/">⚾ Lidom</a>
 </nav>
 
 <div class="wrap">
@@ -465,7 +406,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       <button class="chip" type="button" data-comp="Leidsa" aria-pressed="false">Leidsa</button>
     </div>
 
-    <h2 class="sect"><span class="bar"></span> Últimos resultados <span class="meta" id="loteria-fecha">Domingo 1 de noviembre</span></h2>
+    <h2 class="sect"><span class="bar"></span> Últimos resultados <span class="meta" id="loteria-fecha"></span></h2>
     <div class="resumen" id="resumen">
 <!--RESUMEN:INICIO (generado por scripts/prerender_home.py, no editar a mano)-->
 <a class="res-row" href="loteria-nacional/" data-comp="Nacional"><div class="res-info"><div class="res-nom">Lotería Nacional</div><div class="res-juego">Quiniela noche · sáb 31 oct</div></div><div class="res-nums"><span class="nb">97</span><span class="nb">77</span><span class="nb">41</span></div><svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></a>
@@ -483,25 +424,25 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       <h2 class="sect"><span class="bar"></span> Anguila hoy <a class="more" href="anguila/">Ver todo</a></h2>
       <div class="ang-strip" id="angStrip">
 <!--ANGUILA:INICIO (generado por scripts/prerender_home.py, no editar a mano)-->
-<a class="ang pend" href="anguila/8am/"><div class="ang-h">8:00 AM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/9am/"><div class="ang-h">9:00 AM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/10am/"><div class="ang-h">10:00 AM</div><div class="ang-n">Pendiente</div></a>
-<div class="ang pend"><div class="ang-h">Cuarteta 10:00 AM</div><div class="ang-n">Pendiente</div></div>
-<a class="ang pend" href="anguila/11am/"><div class="ang-h">11:00 AM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/12pm/"><div class="ang-h">12:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/1pm/"><div class="ang-h">1:00 PM</div><div class="ang-n">Pendiente</div></a>
-<div class="ang pend"><div class="ang-h">Cuarteta 1:00 PM</div><div class="ang-n">Pendiente</div></div>
-<a class="ang pend" href="anguila/2pm/"><div class="ang-h">2:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/3pm/"><div class="ang-h">3:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/4pm/"><div class="ang-h">4:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/5pm/"><div class="ang-h">5:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/6pm/"><div class="ang-h">6:00 PM</div><div class="ang-n">Pendiente</div></a>
-<div class="ang pend"><div class="ang-h">Cuarteta 6:00 PM</div><div class="ang-n">Pendiente</div></div>
-<a class="ang pend" href="anguila/7pm/"><div class="ang-h">7:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/8pm/"><div class="ang-h">8:00 PM</div><div class="ang-n">Pendiente</div></a>
-<a class="ang pend" href="anguila/9pm/"><div class="ang-h">9:00 PM</div><div class="ang-n">Pendiente</div></a>
-<div class="ang pend"><div class="ang-h">Cuarteta 9:00 PM</div><div class="ang-n">Pendiente</div></div>
-<a class="ang pend" href="anguila/10pm/"><div class="ang-h">10:00 PM</div><div class="ang-n">Pendiente</div></a>
+<a class="ang ayer" href="anguila/8am/"><div class="ang-h">8:00 AM<span class="ang-ayer">ayer</span></div><div class="ang-n">14 · 52 · 15</div></a>
+<a class="ang ayer" href="anguila/9am/"><div class="ang-h">9:00 AM<span class="ang-ayer">ayer</span></div><div class="ang-n">09 · 42 · 88</div></a>
+<a class="ang ayer" href="anguila/10am/"><div class="ang-h">10:00 AM<span class="ang-ayer">ayer</span></div><div class="ang-n">09 · 06 · 80</div></a>
+<div class="ang ayer"><div class="ang-h">Cuarteta 10:00 AM<span class="ang-ayer">ayer</span></div><div class="ang-n">84 · 82 · 14 · 64</div></div>
+<a class="ang ayer" href="anguila/11am/"><div class="ang-h">11:00 AM<span class="ang-ayer">ayer</span></div><div class="ang-n">74 · 41 · 59</div></a>
+<a class="ang ayer" href="anguila/12pm/"><div class="ang-h">12:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">16 · 93 · 28</div></a>
+<a class="ang ayer" href="anguila/1pm/"><div class="ang-h">1:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">60 · 96 · 33</div></a>
+<div class="ang ayer"><div class="ang-h">Cuarteta 1:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">23 · 57 · 67 · 51</div></div>
+<a class="ang ayer" href="anguila/2pm/"><div class="ang-h">2:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">70 · 16 · 74</div></a>
+<a class="ang ayer" href="anguila/3pm/"><div class="ang-h">3:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">52 · 95 · 54</div></a>
+<a class="ang ayer" href="anguila/4pm/"><div class="ang-h">4:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">88 · 50 · 39</div></a>
+<a class="ang ayer" href="anguila/5pm/"><div class="ang-h">5:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">46 · 25 · 12</div></a>
+<a class="ang ayer" href="anguila/6pm/"><div class="ang-h">6:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">46 · 84 · 43</div></a>
+<div class="ang ayer"><div class="ang-h">Cuarteta 6:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">97 · 87 · 60 · 46</div></div>
+<a class="ang ayer" href="anguila/7pm/"><div class="ang-h">7:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">55 · 69 · 84</div></a>
+<a class="ang ayer" href="anguila/8pm/"><div class="ang-h">8:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">81 · 93 · 57</div></a>
+<a class="ang ayer" href="anguila/9pm/"><div class="ang-h">9:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">05 · 18 · 80</div></a>
+<div class="ang ayer"><div class="ang-h">Cuarteta 9:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">56 · 64 · 23 · 66</div></div>
+<a class="ang ayer" href="anguila/10pm/"><div class="ang-h">10:00 PM<span class="ang-ayer">ayer</span></div><div class="ang-n">74 · 65 · 49</div></a>
 <!--ANGUILA:FIN-->
       </div>
     </div>
@@ -616,42 +557,17 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
         <span class="tile-k">Radio en vivo</span>
         <span class="tile-play"><span class="tile-pbtn" aria-hidden="true"><svg width="13" height="13" viewBox="0 0 24 24" fill="#002d62"><path d="M7 4l13 8-13 8z"/></svg></span>40 emisoras FM</span>
       </button>
-      <a class="tile" href="#tiempo">
-        <span class="tile-k">Clima</span>
-        <span class="tile-t">Santo Domingo</span>
-        <span class="tile-s">Ver pronóstico</span>
+      <a class="tile" href="suenos/">
+        <span class="tile-k">Tabla de sueños</span>
+        <span class="tile-t">¿Qué número es?</span>
+        <span class="tile-s">La charada del 00 al 99</span>
       </a>
-      <a class="tile" href="#mlb">
-        <span class="tile-k">MLB</span>
-        <span class="tile-t">Marcadores</span>
-        <span class="tile-s">Juegos de hoy</span>
+      <a class="tile" href="numeros-que-mas-salen/">
+        <span class="tile-k">Estadísticas</span>
+        <span class="tile-t">Números que más salen</span>
+        <span class="tile-s">Calientes y atrasados</span>
       </a>
     </div>
-  </section>
-
-  <section id="mlb">
-    <h2 class="sect"><span class="bar"></span> MLB — Marcadores de hoy</h2>
-    <div class="mlb-grid" id="mlb-grid"><p style="color:var(--muted)">Cargando marcadores…</p></div>
-  </section>
-
-  <section id="traductor">
-    <h2 class="sect"><span class="bar"></span> Traductor</h2>
-    <div class="translator">
-      <textarea id="tr-in" placeholder="Escribe algo…"></textarea>
-      <div class="row">
-        <select id="tr-from"><option value="es">Español</option><option value="en">English</option></select>
-        <span style="color:var(--muted);font-weight:700">→</span>
-        <select id="tr-to"><option value="en">English</option><option value="es">Español</option></select>
-        <button id="tr-go">Traducir</button>
-      </div>
-      <div class="out" id="tr-out"></div>
-    </div>
-  </section>
-
-  <section id="tiempo">
-    <h2 class="sect"><span class="bar"></span> Tiempo</h2>
-    <div id="weather-hero"></div>
-    <div class="weather-grid" id="weather-grid"></div>
   </section>
 
   <section id="noticias">
@@ -659,56 +575,15 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
     <div class="news-list" id="noticias-list"><p style="color:var(--muted)">Cargando noticias…</p></div>
   </section>
 
-  <section id="tendencias">
-    <h2 class="sect"><span class="bar"></span> Tendencias en Google (RD) <span class="meta" id="tendencias-updated"></span></h2>
-    <div class="tendencias-list" id="tendencias-list"><p style="color:var(--muted)">Cargando tendencias…</p></div>
-  </section>
-
-  <section id="divisas">
-    <h2 class="sect"><span class="bar"></span> Tipo de cambio <span class="meta" id="divisas-updated"></span></h2>
-    <div class="divisas-grid" id="divisas-grid"><p style="color:var(--muted)">Cargando…</p></div>
-  </section>
-
-  <section id="economia">
-    <h2 class="sect"><span class="bar"></span> Economía de RD <span class="meta" id="economia-updated"></span></h2>
-    <div class="econ-grid" id="economia-grid"><p style="color:var(--muted)">Cargando…</p></div>
-  </section>
-
   <section id="eventos">
     <h2 class="sect"><span class="bar"></span> Eventos en RD <span class="meta" id="eventos-updated"></span></h2>
     <div class="eventos-grid" id="eventos-grid"><p style="color:var(--muted)">Cargando eventos…</p></div>
   </section>
 
-  <section id="compras">
-    <h2 class="sect"><span class="bar"></span> Compras en línea</h2>
-    <div class="shortcuts">
-      <a class="shortcut" href="https://www.amazon.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=64" alt="Amazon" loading="lazy">Amazon</a>
-      <a class="shortcut" href="https://www.temu.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=temu.com&sz=64" alt="Temu" loading="lazy">Temu</a>
-      <a class="shortcut" href="https://www.shein.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=shein.com&sz=64" alt="Shein" loading="lazy">Shein</a>
-      <a class="shortcut" href="https://www.aliexpress.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=aliexpress.com&sz=64" alt="AliExpress" loading="lazy">AliExpress</a>
-      <a class="shortcut" href="https://www.ebay.com" target="_blank" rel="noopener"><img src="https://cdn.simpleicons.org/ebay" alt="eBay" loading="lazy">eBay</a>
-      <a class="shortcut" href="https://www.walmart.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=walmart.com&sz=64" alt="Walmart" loading="lazy">Walmart</a>
-      <a class="shortcut" href="https://www.mercadolibre.com.do" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=mercadolibre.com.do&sz=64" alt="Mercado Libre" loading="lazy">Mercado Libre</a>
-      <a class="shortcut" href="https://www.corotos.com.do" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=corotos.com.do&sz=64" alt="Corotos" loading="lazy">Corotos</a>
-    </div>
-  </section>
-
-  <section id="enlaces">
-    <h2 class="sect"><span class="bar"></span> Enlaces útiles</h2>
-    <div class="shortcuts">
-      <a class="shortcut" href="https://www.youtube.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" alt="YouTube" loading="lazy">YouTube</a>
-      <a class="shortcut" href="https://www.google.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=google.com&sz=64" alt="Google" loading="lazy">Google</a>
-      <a class="shortcut" href="https://chatgpt.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64" alt="ChatGPT" loading="lazy">ChatGPT</a>
-      <a class="shortcut" href="https://uasd.edu.do" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=uasd.edu.do&sz=64" alt="UASD" loading="lazy">UASD</a>
-      <a class="shortcut" href="https://www.mlb.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=mlb.com&sz=64" alt="MLB" loading="lazy">MLB.com</a>
-      <a class="shortcut" href="https://translate.google.com" target="_blank" rel="noopener"><img src="https://www.google.com/s2/favicons?domain=translate.google.com&sz=64" alt="Traductor" loading="lazy">Traductor</a>
-    </div>
-  </section>
-
   <section id="sobre" aria-labelledby="sobre-h">
     <h2 class="sect" id="sobre-h"><span class="bar"></span> Sobre Portal Dominicano</h2>
     <p class="seo-intro">
-      Consulta los <strong>resultados de la lotería de hoy</strong> en República Dominicana: <strong>Lotería Nacional</strong>, <strong>Lotería Real</strong>, <strong>Anguila</strong>, <strong>Loteka</strong>, <strong>La Primera</strong>, <strong>La Suerte</strong> y <strong>Leidsa</strong>, con sus números ganadores actualizados varias veces al día. Además escucha <strong>radio FM dominicana en vivo</strong>, lee las <strong>noticias de República Dominicana</strong>, consulta el <strong>precio del dólar</strong>, el <strong>tiempo</strong> por ciudad, los marcadores de <strong>MLB</strong> y usa el <strong>traductor</strong> español-inglés. Todo en un solo lugar, gratis y sin registrarte.
+      Consulta los <strong>resultados de la lotería de hoy</strong> en República Dominicana: <strong>Lotería Nacional</strong>, <strong>Lotería Real</strong>, <strong>Anguila</strong> hora por hora, <strong>Loteka</strong>, <strong>La Primera</strong>, <strong>La Suerte</strong> y <strong>Leidsa</strong>, con sus números ganadores actualizados durante todo el día. Busca el número de tu sueño en la <strong>tabla de sueños</strong>, mira los <strong>números que más salen</strong>, el <strong>precio del dólar</strong> y de los <strong>combustibles</strong>, la tabla de <strong>Lidom</strong> y escucha <strong>radio dominicana en vivo</strong>. Todo en un solo lugar, gratis y sin registrarte.
     </p>
   </section>
 
@@ -722,11 +597,7 @@ footer .bandera{display:inline-block;width:100%;max-width:320px;height:5px;borde
       <a href="la-primera/">La Primera</a> ·
       <a href="la-suerte/">La Suerte</a> ·
       <a href="leidsa/">Leidsa</a> ·
-      <a href="mlb/">MLB</a> ·
-      <a href="traductor/">Traductor</a> ·
-      <a href="tiempo-santo-domingo/">Tiempo</a> ·
       <a href="dolar-hoy/">Dólar hoy</a> ·
-      <a href="economia-rd/">Economía</a> ·
       <a href="noticias-rd/">Noticias</a> ·
       <a href="eventos-rd/">Eventos</a>
      ·
@@ -978,8 +849,15 @@ function renderResumen(d){
   ang.sort((a,b) => a.mins - b.mins || limpioJ(a.j.juego).localeCompare(limpioJ(b.j.juego)));
   const strip = document.getElementById('angStrip');
   if (strip && ang.length){
+    const algunaHoy = ang.some(({j}) => (j.fecha||'').slice(0,10) === hoy);
     strip.innerHTML = ang.map(({j}) => {
       const salio = (j.fecha||'').slice(0,10) === hoy;
+      if (!algunaHoy && j.numeros && j.numeros.length){
+        const mm0 = minJuego(limpioJ(j.juego)); const esH0 = /^Anguila \d/.test(limpioJ(j.juego)) && mm0 !== null;
+        const sl0 = esH0 ? ((Math.floor(mm0/60) % 12 || 12) + (mm0 < 720 ? 'am' : 'pm')) : '';
+        return (esH0 ? '<a class="ang ayer" href="anguila/'+sl0+'/">' : '<div class="ang ayer">')+'<div class="ang-h">'+escH(horaAng(j.juego))+
+          '<span class="ang-ayer">ayer</span></div><div class="ang-n">'+j.numeros.map(escH).join(' · ')+'</div>'+(esH0 ? '</a>' : '</div>');
+      }
       const mm = minJuego(limpioJ(j.juego));
       const esHora = /^Anguila \d/.test(limpioJ(j.juego)) && mm !== null;
       const slugH = esHora ? ((Math.floor(mm/60) % 12 || 12) + (mm < 720 ? 'am' : 'pm')) : '';
@@ -1018,7 +896,7 @@ function cargarLoteria(){
 fetch('data/resultados.json?v=1')
   .then(r => r.json())
   .then(d => {
-    { const p = (d.updated||'').slice(0,10).split('-'); const dd = new Date(+p[0], p[1]-1, +p[2]); const DL = ['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado']; const ML = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre']; const ft = DL[dd.getDay()] + ' ' + dd.getDate() + ' de ' + ML[dd.getMonth()]; const [hh, mm] = (d.hora||'0:00').split(':').map(Number); const h12 = (hh % 12 || 12) + ':' + String(mm).padStart(2,'0') + (hh < 12 ? ' AM' : ' PM'); document.getElementById('updated').textContent = ft + ' · Actualizado a las ' + h12 + ' (hora RD)'; const lf = document.getElementById('loteria-fecha'); if (lf) lf.textContent = ft; }
+    { const p = (d.updated||'').slice(0,10).split('-'); const dd = new Date(+p[0], p[1]-1, +p[2]); const DL = ['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado']; const ML = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre']; const ft = DL[dd.getDay()] + ' ' + dd.getDate() + ' de ' + ML[dd.getMonth()]; const [hh, mm] = (d.hora||'0:00').split(':').map(Number); const h12 = (hh % 12 || 12) + ':' + String(mm).padStart(2,'0') + (hh < 12 ? ' AM' : ' PM'); document.getElementById('updated').textContent = ft + ' · Actualizado a las ' + h12 + ' (hora RD)';  }
     const grid = document.getElementById('loteria-grid');
     const byComp = {};
     d.juegos.forEach(j => (byComp[j.compania] = byComp[j.compania] || []).push(j));
@@ -1159,30 +1037,6 @@ cargarLoteria();
   ins.forEach(i => i.addEventListener('keydown', e => { if (e.key === 'Enter') aplicar(); }));
 })();
 
-// ---- Tendencias ----
-lazy('tendencias', () => {
-fetch('data/tendencias.json?v=1')
-  .then(r => r.json())
-  .then(d => {
-    document.getElementById('tendencias-updated').textContent = d.hora + ' (hora RD)';
-    const list = document.getElementById('tendencias-list');
-    list.innerHTML = '';
-    d.tendencias.forEach((t, i) => {
-      const el = document.createElement('div');
-      el.className = 'tend';
-      const thumb = t.imagen ? '<img class="thumb" src="'+t.imagen+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' : '';
-      const noti = t.noticia ? '<div class="noti">'+t.noticia+'</div>' : '';
-      const hot = i < 3 ? ' hot' : '';
-      const links = [];
-      if (t.enlace) links.push('<a href="'+t.enlace+'" target="_blank" rel="noopener">📰 Noticia</a>');
-      links.push('<a href="https://www.google.com/search?q='+encodeURIComponent(t.termino)+'" target="_blank" rel="noopener">🔍 Buscar</a>');
-      el.innerHTML = '<div class="rank'+hot+'">'+(i+1)+'</div>'+thumb+'<div class="body"><div class="term">'+t.termino+'<span class="traf">'+t.trafico+'</span></div>'+noti+'<div class="links">'+links.join('')+'</div></div>';
-      list.appendChild(el);
-    });
-  })
-  .catch(() => { document.getElementById('tendencias-list').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las tendencias.</p>'; });
-});
-
 // ---- Noticias ----
 lazy('noticias', () => {
 fetch('data/noticias.json?v=1')
@@ -1230,189 +1084,6 @@ function tiempoRelativo(fechaStr){
     return 'hace ' + Math.floor(diff/86400) + ' días';
   } catch(e){ return ''; }
 }
-
-// ---- Tiempo ----
-const ciudades = [
-  {nombre:'Santo Domingo', lat:18.47, lon:-69.89},
-  {nombre:'Santiago', lat:19.45, lon:-70.70},
-  {nombre:'Punta Cana', lat:18.56, lon:-68.37},
-  {nombre:'La Romana', lat:18.43, lon:-68.97},
-  {nombre:'San Pedro', lat:18.46, lon:-69.31},
-  {nombre:'Puerto Plata', lat:19.79, lon:-70.69},
-];
-const wmoDesc = {0:'Despejado',1:'Mayormente despejado',2:'Parcialmente nublado',3:'Nublado',45:'Niebla',48:'Niebla',51:'Llovizna',53:'Llovizna',55:'Llovizna',61:'Lluvia ligera',63:'Lluvia',65:'Lluvia fuerte',71:'Nieve ligera',73:'Nieve',75:'Nieve fuerte',80:'Chubascos',81:'Chubascos',82:'Chubascos fuertes',95:'Tormenta',96:'Tormenta con granizo',99:'Tormenta fuerte'};
-const wmoIcon = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌦️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'🌨️',80:'🌦️',81:'🌧️',82:'🌧️',95:'⛈️',96:'⛈️',99:'⛈️'};
-const hero = document.getElementById('weather-hero');
-const wgrid = document.getElementById('weather-grid');
-lazy('tiempo', () => {
-ciudades.forEach((c, i) => {
-  const url = 'https://api.open-meteo.com/v1/forecast?latitude='+c.lat+'&longitude='+c.lon+'&current=temperature_2m,weather_code,relative_humidity_2m,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FSanto_Domingo&forecast_days=1';
-  fetch(url).then(r=>r.json()).then(d=>{
-    const code = d.current.weather_code;
-    const temp = Math.round(d.current.temperature_2m);
-    const icon = wmoIcon[code] || '🌡️';
-    const desc = wmoDesc[code] || '—';
-    if (i === 0) {
-      // hero: Santo Domingo
-      hero.innerHTML = '<div class="wicon">'+icon+'</div><div class="winfo"><div class="wcity">'+c.nombre+'</div><div class="wtemp">'+temp+'°</div><div class="wdesc">'+desc+'</div><div class="wmeta"><span>💧 '+d.current.relative_humidity_2m+'%</span><span>🌬️ '+Math.round(d.current.wind_speed_10m)+' km/h</span><span>🌡️ Máx '+Math.round(d.daily.temperature_2m_max[0])+'° · Mín '+Math.round(d.daily.temperature_2m_min[0])+'°</span></div></div>';
-    } else {
-      const card = document.createElement('div');
-      card.className = 'w-card';
-      card.innerHTML = '<div class="wicon">'+icon+'</div><div class="city">'+c.nombre+'</div><div class="temp">'+temp+'°</div><div class="desc">'+desc+'</div><div class="range">Máx '+Math.round(d.daily.temperature_2m_max[0])+'° · Mín '+Math.round(d.daily.temperature_2m_min[0])+'°</div>';
-      wgrid.appendChild(card);
-    }
-  }).catch(()=>{});
-});
-});
-
-// ---- Divisas ----
-lazy('divisas', () => {
-fetch('data/divisas.json?v=1')
-  .then(r => r.json()).then(d => {
-    document.getElementById('divisas-updated').textContent = 'Actualizado ' + d.fecha;
-    const grid = document.getElementById('divisas-grid');
-    grid.innerHTML = '';
-    // 3 principales primero
-    const main = d.conversiones.slice(0, 3);
-    const resto = d.conversiones.slice(3);
-    main.forEach(c => {
-      const el = document.createElement('div');
-      el.className = 'divisa main';
-      el.innerHTML = '<div class="d-top"><span class="flag">'+c.bandera+'</span><span class="mon">'+c.moneda+'</span></div><div class="valor">'+c.valor+'<span class="a">'+c.a+'</span></div>';
-      grid.appendChild(el);
-    });
-    if (resto.length){
-      // link "ver más" + panel oculto
-      const toggle = document.createElement('button');
-      toggle.className = 'divisas-mas';
-      toggle.textContent = 'Ver más monedas ▾';
-      grid.appendChild(toggle);
-      const extra = document.createElement('div');
-      extra.className = 'divisas-extra';
-      extra.style.display = 'none';
-      resto.forEach(c => {
-        const el = document.createElement('div');
-        el.className = 'divisa';
-        el.innerHTML = '<div class="d-top"><span class="flag">'+c.bandera+'</span><span class="mon">'+c.moneda+'</span></div><div class="valor">'+c.valor+'<span class="a">'+c.a+'</span></div>';
-        extra.appendChild(el);
-      });
-      grid.appendChild(extra);
-      let open = false;
-      toggle.addEventListener('click', () => {
-        open = !open;
-        extra.style.display = open ? 'grid' : 'none';
-        toggle.textContent = open ? 'Ver menos monedas ▴' : 'Ver más monedas ▾';
-      });
-    }
-  })
-  .catch(() => { document.getElementById('divisas-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar las divisas.</p>'; });
-});
-
-// ---- Economía ----
-const econIcos = {'desempleo':'👷','deuda_ext':'💰','pib_pc':'📈','inflacion':'🔥'};
-lazy('economia', () => {
-fetch('data/economia.json?v=1')
-  .then(r => r.json()).then(d => {
-    document.getElementById('economia-updated').textContent = 'Fuente: Banco Mundial';
-    const grid = document.getElementById('economia-grid');
-    grid.innerHTML = '';
-    d.indicadores.forEach(ind => {
-      const el = document.createElement('div');
-      el.className = 'econ';
-      const u = ind.ultimo ? ind.ultimo.valor : '—';
-      const ano = ind.ultimo ? ind.ultimo.año : '';
-      // mini gráfico de barras (historial invertido: más antiguo a más reciente)
-      const hist = ind.historial.slice().reverse();
-      let barras = '';
-      if (hist.length > 1){
-        const max = Math.max(...hist.map(h => h.valor)) || 1;
-        hist.forEach((h, i) => {
-          const hPct = Math.max(8, Math.round((h.valor / max) * 100));
-          barras += '<div class="barra' + (i === hist.length - 1 ? ' last' : '') + '" style="height:' + hPct + '%" title="' + h.año + ': ' + h.valor + '"></div>';
-        });
-      }
-      el.innerHTML = '<div class="e-ico">' + (econIcos[ind.clave] || '📊') + '</div><div class="e-nom">' + ind.nombre + '</div><div class="e-val">' + u + '<span class="u">' + ind.unidad + '</span></div><div class="e-ano">' + (ano ? 'Año ' + ano : '') + '</div><div class="e-hist">' + barras + '</div>';
-      grid.appendChild(el);
-    });
-  })
-  .catch(() => { document.getElementById('economia-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los datos.</p>'; });
-});
-
-// ---- MLB ----
-function mlbDate(){
-  const now = new Date();
-  const d = new Date(now.toLocaleString('en-US',{timeZone:'America/Santo_Domingo'}));
-  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
-}
-lazy('mlb', () => {
-fetch('https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=' + mlbDate(), {headers:{'Accept':'application/json'}})
-  .then(r=>r.json())
-  .then(d=>{
-    const g = d.dates[0]?.games || [];
-    const grid = document.getElementById('mlb-grid');
-    if (!g.length){ grid.innerHTML = '<p style="color:var(--muted)">No hay juegos programados hoy.</p>'; return; }
-    grid.innerHTML = '';
-    g.forEach(game=>{
-      const card = document.createElement('div');
-      card.className = 'mlb-card';
-      const st = game.status.abstractGameState;
-      const stEs = {'Final':'Final','Live':'En vivo','Preview':'Previo','Pre-Game':'Previo','In Progress':'En curso','Scheduled':'Programado','Delayed':'Retrasado','Postponed':'Pospuesto'}[st] || st;
-      const away = game.teams.away, home = game.teams.home;
-      let score = '';
-      if (st === 'Final' || st === 'Live'){
-        score = '<div class="score">'+(away.score ?? '–')+' — '+(home.score ?? '–')+'<span class="st">'+stEs+'</span></div>';
-      } else {
-        const det = game.status.detailedState || '';
-        const detEs = {'Scheduled':'Programado','Pre-Game':'Previo','In Progress':'En curso','Delayed':'Retrasado','Postponed':'Pospuesto','Final':'Final','Cancelled':'Cancelado'}[det] || det;
-        score = '<div class="score" style="font-size:.95rem;color:var(--muted)">'+(detEs || stEs)+' · '+new Date(game.gameDate).toLocaleTimeString('es-DO',{hour:'2-digit',minute:'2-digit'})+'</div>';
-      }
-      card.innerHTML = '<div class="match">'+away.team.name+' @ '+home.team.name+'</div>'+score;
-      grid.appendChild(card);
-    });
-  })
-  .catch(()=>{ document.getElementById('mlb-grid').innerHTML = '<p style="color:var(--muted)">No se pudieron cargar los marcadores.</p>'; });
-});
-
-// ---- Traductor ----
-document.getElementById('tr-go').addEventListener('click', translate);
-function syncLangs(){
-  const f = document.getElementById('tr-from').value;
-  const t = document.getElementById('tr-to').value;
-  if (f === t) document.getElementById('tr-to').value = (f === 'es') ? 'en' : 'es';
-}
-document.getElementById('tr-from').addEventListener('change', syncLangs);
-document.getElementById('tr-to').addEventListener('change', syncLangs);
-async function translate(){
-  const text = document.getElementById('tr-in').value.trim();
-  if (!text) return;
-  const from = document.getElementById('tr-from').value;
-  const to = document.getElementById('tr-to').value;
-  const out = document.getElementById('tr-out');
-  out.textContent = 'Traduciendo…';
-  try {
-    const r = await fetch('https://lingva.ml/api/v1/' + from + '/' + to + '/' + encodeURIComponent(text));
-    const d = await r.json();
-    if (d.translation) {
-      out.textContent = d.translation;
-    } else {
-      throw new Error('sin traducción');
-    }
-  } catch(e){
-    out.textContent = 'No se pudo traducir. Intenta de nuevo o usa el enlace de Google Traductor.';
-  }
-}
-
-// ---- Navegación: active state al hacer scroll ----
-const sections = document.querySelectorAll('section');
-const navLinks = document.querySelectorAll('nav.tabs a');
-const observer = new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting){
-      navLinks.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#'+e.target.id));
-    }
-  });
-}, {rootMargin:'-40% 0px -55% 0px'});
-sections.forEach(s => observer.observe(s));
 
 // ---- Registrar service worker (PWA) ----
 if ('serviceWorker' in navigator) {
