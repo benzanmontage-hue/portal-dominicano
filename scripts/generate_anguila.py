@@ -130,7 +130,7 @@ def main():
                     fecha_mod=upd.isoformat(timespec="seconds"))
         escribir(ruta, pagina(ruta=ruta, title=title, desc=desc, h1=f"Anguila {et} de hoy",
                               sub=f"Resultados del {fecha_larga(hoy)}", chip=f"Sorteo diario a las {et} (hora RD)",
-                              migas=migas, cuerpo=cuerpo, ld=ld, radio=True))
+                              migas=migas, cuerpo=cuerpo, ld=ld, radio=True, aviso="anguila"))
     print(f"OK: {len(horas)} páginas de Anguila por hora")
 
 

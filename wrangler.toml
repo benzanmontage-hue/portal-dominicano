@@ -1,0 +1,9 @@
+# Configuración de Cloudflare Pages (la usa `wrangler pages deploy` en scripts/ciclo.sh).
+name = "portal-dominicano"
+pages_build_output_dir = "_site"
+compatibility_date = "2025-01-01"
+
+# Suscripciones a los avisos al móvil (functions/api/avisos.js, scripts/notificar.py).
+[[kv_namespaces]]
+binding = "AVISOS"
+id = "5cf813d3fdf144918ccc3def59d2d679"

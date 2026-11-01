@@ -373,6 +373,7 @@ def render_pagina(l, resultados, archivo):
   <h1>{esc(l['h1'])}</h1>
   <p class="fecha">Resultados del {esc(fecha_txt)}</p>
   <div class="hora">🕐 {esc(l['hora'])}</div>
+  <div><button class="aviso-btn" type="button" data-aviso="{l['slug']}" hidden>🔔 Avísame cuando salga {esc(l['nombre'])}</button></div>
 </header>
 <main class="wrap">
   <p class="intro">{l['intro']}</p>
@@ -412,6 +413,7 @@ def render_pagina(l, resultados, archivo):
 </footer>
 <script>{js}</script>
 <script src="/radio.js" defer></script>
+<script src="/avisos.js" defer></script>
 </body>
 </html>
 """

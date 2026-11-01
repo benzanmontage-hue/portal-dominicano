@@ -63,7 +63,7 @@ def faq_html(faqs):
     return "\n    ".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faqs)
 
 
-def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False):
+def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False, aviso=""):
     """ruta: '/resultados/2026-10-17/'. migas: [(nombre, ruta)], la última es esta página."""
     url = BASE + ruta
     crumbs = "\n    ".join(
@@ -112,6 +112,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
   <h1>{esc(h1)}</h1>
   {f'<p class="fecha">{esc(sub)}</p>' if sub else ''}
   {f'<div class="hora">{esc(chip)}</div>' if chip else ''}
+  {f'<div><button class="aviso-btn" type="button" data-aviso="{aviso}" hidden>Avísame</button></div>' if aviso else ''}
 </header>
 <main class="wrap">
 {cuerpo}
@@ -130,6 +131,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
   <p><a href="/">Portal Dominicano</a> · Datos de lotería: <a href="https://loteriasdominicanas.com" rel="noopener">loteriasdominicanas.com</a></p>
 </footer>
 {'<script src="/radio.js" defer></script>' if radio else ''}
+{'<script src="/avisos.js" defer></script>' if aviso else ''}
 </body>
 </html>
 """

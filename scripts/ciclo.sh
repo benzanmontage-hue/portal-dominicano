@@ -18,7 +18,7 @@ git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 publicar_cloudflare() {
   [ -z "${CLOUDFLARE_API_TOKEN:-}" ] && return 0
   rm -rf _site && mkdir -p _site
-  rsync -a --exclude '.git' --exclude '.github' --exclude '_site' --exclude 'scripts' \
+  rsync -a --exclude '.git' --exclude '.github' --exclude '_site' --exclude 'scripts' --exclude 'functions' --exclude 'wrangler.toml' \
     --exclude 'screenshots' --exclude 'README.md' --exclude 'LICENSE' --exclude '.gitignore' \
     --exclude 'data/sitemap_estado.json' --exclude 'data/tarjeta*.txt' ./ _site/
   npx -y wrangler@3 pages deploy _site --project-name="$PROYECTO" --branch=main --commit-dirty=true >/dev/null 2>&1 \
@@ -43,6 +43,7 @@ difundir() {  # solo cuando cambian los números
 una_vuelta() {
   # Partir siempre de lo último publicado (otra ejecución pudo publicar entretanto).
   git fetch -q origin main && git reset -q --hard origin/main
+  cp data/resultados.json "${RUNNER_TEMP:-/tmp}/resultados_antes.json" 2>/dev/null || true
   python3 scripts/update_all.py || FALLOS=$((FALLOS + 1))
   git add -A
   if git diff --cached --quiet; then
@@ -53,7 +54,7 @@ una_vuelta() {
   git diff --cached --quiet -- data/tarjeta_numeros.txt || NUMEROS=si
   git commit -q -m "auto-update datos ($(TZ=America/Santo_Domingo date '+%d/%m/%Y %H:%M') RD)"
   git push -q origin HEAD:main || return 2   # alguien publicó antes: repetir la vuelta
-  publicar_cloudflare
+  publicar_cloudflare && python3 scripts/notificar.py "${RUNNER_TEMP:-/tmp}/resultados_antes.json" || true
   python3 scripts/indexnow.py || true
   [ "$NUMEROS" = si ] && difundir
   return 0

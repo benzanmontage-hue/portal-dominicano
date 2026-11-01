@@ -2,7 +2,7 @@
 // v4: (1) cache-versie gebumpd om de oude stale cache (v3, ~7 okt) te wissen,
 //     (2) netwerk-eerst i.p.v. stale-while-revalidate/cache-first, zodat de data
 //         (8x/dag ververst) nooit meer verouderd getoond wordt.
-const CACHE = 'portal-rd-v4';
+const CACHE = 'portal-rd-v5';
 
 const SHELL = [
   './',
@@ -30,7 +30,7 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  if (e.request.method !== 'GET') return;
+  if (e.request.method !== 'GET' || new URL(e.request.url).pathname.startsWith('/api/')) return;
   // Netwerk eerst, cache als fallback (offline). Zo is data + shell altijd actueel.
   e.respondWith(
     fetch(e.request).then(resp => {
@@ -41,4 +41,26 @@ self.addEventListener('fetch', e => {
       return resp;
     }).catch(() => caches.match(e.request))
   );
+});
+
+// ---- Avisos al móvil (los envía scripts/notificar.py) ----
+self.addEventListener('push', e => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch (_) { d = { title: e.data ? e.data.text() : '' }; }
+  e.waitUntil(self.registration.showNotification(d.title || 'Portal Dominicano', {
+    body: d.body || 'Nuevos resultados de la lotería.',
+    icon: '/img/icon-192.png',
+    badge: '/img/icon-192.png',
+    tag: d.tag || 'resultados',
+    data: { url: d.url || '/' },
+  }));
+});
+
+self.addEventListener('notificationclick', e => {
+  e.notification.close();
+  const url = new URL((e.notification.data && e.notification.data.url) || '/', self.location.origin).href;
+  e.waitUntil(clients.matchAll({ type: 'window', includeUncontrolled: true }).then(ws => {
+    for (const w of ws) { if (w.url === url && 'focus' in w) return w.focus(); }
+    return clients.openWindow(url);
+  }));
 });

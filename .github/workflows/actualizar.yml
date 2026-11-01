@@ -43,7 +43,7 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependencias
-        run: pip install --quiet pillow
+        run: pip install --quiet pillow cryptography
 
       # Repositorio público (minutos gratis sin límite): las programadas se quedan ~5,5 h y
       # actualizan cada 20 min. Repositorio privado (2.000 min/mes gratis): una sola vuelta
@@ -70,3 +70,5 @@ jobs:
             h=$(grep -o -m1 '<h1>[^<]*' /tmp/p.html | sed 's/<h1>//')
             echo "::notice title=En vivo::$u -> HTTP $c | ${h} | ${t:-sin fecha}"
           done
+          a=$(curl -sS -w ' HTTP %{http_code}' https://portaldominicana.net/api/avisos | head -c 160)
+          echo "::notice title=Avisos::/api/avisos -> $a"
