@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T03:25:37.289638-04:00",
-  "hora": "03:25",
+  "updated": "2026-11-01T03:44:18.358418-04:00",
+  "hora": "03:44",
   "fecha": "01/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "grizzlies - kings",
       "trafico": "100+",
-      "noticia": "Cameron Boozer scores 27 points Saturday",
-      "enlace": "https://www.fantasypros.com/nba/news/616923/cameron-boozer-scores-27-points-saturday.php",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRnZ_-iKfkzGr9_J2mJEQzL9VUDmL0NdE1OSw6i9rzBm8GcRVtBiboPr1gQSA"
+      "noticia": "Sacramento Kings vs Memphis Grizzlies | November 1, 2026 | NBA Matchup",
+      "enlace": "https://www.thescore.com/nba/event/2462791?source=ticker_home",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuYflykFyVtAPDP6jngZZmLvyFVM7FOZkMkOvmIyqThuU1Mf8IylXjGs621HQ"
     },
     {
       "termino": "números ganadores de hoy",
@@ -36,9 +36,9 @@
     {
       "termino": "wnba",
       "trafico": "500+",
-      "noticia": "Golden State Valkyries Win First WNBA Championship in Game Seven",
-      "enlace": "https://sportnation.nz/article/golden-state-valkyries-win-first-wnba-championship-in-game-seven",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyuxJVE74iilVIltMmtJn6AQNGpAN-31iGXRpEnBxviX8WwIm5MSvYjy2vV-Y"
+      "noticia": "Lineup switch by coach Natalie Nakase works out as Valkyries even WNBA Finals series with Dream at 2",
+      "enlace": "https://apnews.com/article/valkyries-dream-wnba-finals-3cfb7b35d2f0a73ac3853b08216fa4f6",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOQezXP_-f99FyCskOg06werwnm2zo-FXgfuuq4JIsR-PRQ7jY1EqBFrSUw3A"
     },
     {
       "termino": "bucks - cavaliers",
@@ -48,11 +48,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwQ2Mt2Qb6a0PXMQt9SHeLVOHOnBgCF46KirGjF3PcPfvPA4xwG3Sm8lI8Hf8"
     },
     {
+      "termino": "spurs - timberwolves",
+      "trafico": "1000+",
+      "noticia": "Philadelphia 76ers vs Charlotte Hornets Oct 31, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/phi-vs-cha-0022600148/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzETaB1aY73jLcOcUA5M6y0J_FXpqYf47-1YwKRL5oNxji6mg5gsUoXjPQGro"
+    },
+    {
       "termino": "breaking bad",
       "trafico": "200+",
-      "noticia": "Aaron Paul   Krysten Ritter s Breaking Bad Reunion Goes Viral:  Jesse   Jane Forever",
-      "enlace": "https://www.cbr.com/aaron-paul-krysten-ritter-breaking-bad-reunion/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlGyA0ceCfP4y8-GplRcYj1i1wDPhRNLOiR6Zz2SK__sFz15toPiBxuLcdAzE"
+      "noticia": "Iconic Political Drama is One of Netflix s Best Shows 20 Years After Its Last Episode",
+      "enlace": "https://www.yahoo.com/entertainment/tv/articles/iconic-political-drama-one-netflixs-233000218.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCne52BFiDCbBA5VIGVnNapUj1Zg7PXKxzr-0uRQlHR9Li1dQbwbd37HAgGeM"
     },
     {
       "termino": "fátima báñez",
@@ -67,13 +74,6 @@
       "noticia": "Le groupe du Barça pour affronter Alavés",
       "enlace": "https://www.footmercato.net/a6248380606781085615-le-groupe-du-barca-pour-affronter-alaves",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEvL8inRQMwK1WICNc9soNvNWfKFQpaMdtenC-fcXzIwH68PjLyx82ew0k2uY"
-    },
-    {
-      "termino": "lamine yamal",
-      "trafico": "200+",
-      "noticia": "Hansi Flick reveals  easy  secret to Lamine Yamal substitution as Barcelona crush Alaves",
-      "enlace": "https://www.goal.com/en-ca/news/barcelona-alaves-lamine-yamal-hansi-flick/bltafcafe4201ab4160",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwzmRL-sn2cB8EFJBvtqWb0GG9I4Nls7MgaoU3-Li8rv4zB6DvD_8Xc8LIO5k"
     }
   ]
 }
