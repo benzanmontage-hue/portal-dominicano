@@ -1,7 +1,15 @@
 {
- "actualizado": "2026-11-01T03:46:24-04:00",
+ "actualizado": "2026-11-01T13:14:19-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "82",
+     "95",
+     "81"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -175,6 +183,14 @@
   ],
   "Anguila|Anguila 11:00 AM": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "56",
+     "23",
+     "92"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "74",
@@ -265,6 +281,14 @@
   ],
   "Anguila|Anguila 12:00 PM": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "01",
+     "62",
+     "61"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "16",
@@ -354,6 +378,14 @@
    }
   ],
   "Anguila|Anguila 1:00 PM": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "30",
+     "59",
+     "05"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -985,6 +1017,14 @@
   ],
   "Anguila|Anguila 8:00 AM": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "37",
+     "48",
+     "24"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "14",
@@ -1155,6 +1195,14 @@
    }
   ],
   "Anguila|Anguila 9:00 AM": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "74",
+     "91",
+     "16"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -1328,6 +1376,15 @@
   ],
   "Anguila|La Cuarteta 10:00 AM": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "66",
+     "35",
+     "05",
+     "34"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "84",
@@ -1419,6 +1476,15 @@
    }
   ],
   "Anguila|La Cuarteta 1:00 PM": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "22",
+     "10",
+     "25",
+     "86"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -1723,6 +1789,12 @@
   ],
   "La Primera|El Quinielón Día": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "45"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "40"
@@ -1858,6 +1930,14 @@
    }
   ],
   "La Primera|La Primera Día": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "54",
+     "33",
+     "19"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -2161,6 +2241,14 @@
    }
   ],
   "La Suerte|La Suerte 12:30": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "02",
+     "68",
+     "10"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -3776,6 +3864,15 @@
   ],
   "Loteria Real|Loto Pool": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "16",
+     "61",
+     "86",
+     "90"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "62",
@@ -4035,6 +4132,14 @@
   ],
   "Loteria Real|Nueva Yol Real": [
    {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "07",
+     "19",
+     "90"
+    ]
+   },
+   {
     "fecha": "2026-10-31",
     "numeros": [
      "93",
@@ -4135,6 +4240,14 @@
    }
   ],
   "Loteria Real|Quiniela Real": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "35",
+     "78",
+     "15"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
@@ -4372,6 +4485,12 @@
    }
   ],
   "Loteria Real|Tu Fecha Real": [
+   {
+    "fecha": "2026-11-01",
+    "numeros": [
+     "21"
+    ]
+   },
    {
     "fecha": "2026-10-31",
     "numeros": [
