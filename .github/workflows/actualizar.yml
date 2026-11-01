@@ -1,14 +1,15 @@
 # Actualiza los datos del portal, regenera las páginas y publica en Cloudflare Pages.
 #
-# GitHub solo arranca unas pocas de las ejecuciones programadas al día, así que cada ejecución
-# programada se queda activa ~5,5 horas y actualiza cada 20 minutos (scripts/ciclo.sh).
+# Repositorio público: cada ejecución programada se queda activa ~5,5 horas y actualiza cada
+# 20 minutos (scripts/ciclo.sh). Repositorio privado: una actualización corta por hora.
 # Mientras una está activa, la siguiente programada espera en cola y arranca al terminar.
 # Un push (cambio de código) hace una sola actualización inmediata, en paralelo.
 name: Actualizar datos
 
 on:
   schedule:
-    - cron: "37 * * * *"
+    # Cada hora entre las 7 AM y la 1 AM hora RD (11–05 UTC); de madrugada no hay sorteos.
+    - cron: "37 0-5,11-23 * * *"
   workflow_dispatch: {}   # botón "Run workflow" para arrancar un ciclo a mano
   push:
     branches: [main]
@@ -44,10 +45,12 @@ jobs:
       - name: Instalar dependencias
         run: pip install --quiet pillow
 
-      # push: 1 vuelta. Programada o manual: 16 vueltas cada 20 minutos (~5,5 h).
+      # Repositorio público (minutos gratis sin límite): las programadas se quedan ~5,5 h y
+      # actualizan cada 20 min. Repositorio privado (2.000 min/mes gratis): una sola vuelta
+      # corta (~2 min) por ejecución, una vez por hora, para no agotar los minutos.
       - name: Actualizar y publicar
         run: |
-          if [ "${{ github.event_name }}" = "push" ]; then
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event.repository.private }}" = "true" ]; then
             bash scripts/ciclo.sh 1 0
           else
             bash scripts/ciclo.sh 16 20
@@ -55,7 +58,7 @@ jobs:
 
       # Deja constancia (anotación) de lo que ven los visitantes.
       - name: Comprobar sitio en vivo
-        if: always()
+        if: always() && (github.event_name != 'schedule' || !github.event.repository.private)
         continue-on-error: true
         run: |
           sleep 30
