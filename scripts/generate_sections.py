@@ -112,7 +112,9 @@ def render_data_html(data_type):
         inds = d.get("indicadores", [])
         cards = []
         for i in inds:
-            ultimo = i.get("ultimo", {})
+            ultimo = i.get("ultimo") or {}
+            if not ultimo:  # la fuente no trajo dato para este indicador
+                continue
             cards.append(
                 '<div class="item-card"><div class="item-tit">' + i.get("nombre", "") + '</div>'
                 '<div class="item-val">' + str(ultimo.get("valor", "")) + " " + i.get("unidad", "") + '</div>'
