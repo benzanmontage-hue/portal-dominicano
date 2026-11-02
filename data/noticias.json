@@ -1,9 +1,89 @@
 {
-  "updated": "2026-11-01T17:22:41.437008-04:00",
-  "hora": "17:22",
+  "updated": "2026-11-01T21:00:32.320590-04:00",
+  "hora": "21:00",
   "fecha": "01/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "RD sirve de puente para enviar equipos de Bangladesh a Haití - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWN3Q0hYX0FUWnpjY3l3SXh5dlBMLWJBWHBaS2NjVlpfVXBxRGotZUtkd2ZmR20zWFh4Wl81bG9ZY2NqTm5nbkd5ZllOT3pXUkFRN29tTktJMVdxcGN6N2Ixd3NfUkFpQUFzMWtNdkk2anBfZGxkaXo0Q21SNVMxY0FJNmxWZHVWREozRWduQ2U3d2ZCWDVUc0NHQ3VKQ0ZKal9kREVBeVZwaFpvZjBVX3dQRzhQcnBKZVpoRlRJRGdFMVJy0gHKAUFVX3lxTE15TEdfNTgycFl1bWtfTE9ya2M1d0psbXZvM3VzaGxMRXNoSTg4VWVTbDNkMU5RbG80Rk1VemJXYTZhNHlicHJCWWljZVFvRjJZaDFad2syTGU4R05ldkdPYWtFNnNlaXZTOVZJd2NQc1pFR0FUUEpnWUsxSjRaLS1VcFdiNGtMcktuVHYzRnRiZW1lemdGcVh3NE5yakRVcGlNdDlXbnBWQ3dGVWpNaFdZWVJVNVpLdnp5dnNrTzdkaFEzdjJXNjlBdWc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 12:51:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/01/republica-dominicana-envia-equipos-a-haiti-desde-bangladesh-0a85f7c8-focus-0-0-1200-675.jpg"
+    },
+    {
+      "titulo": "Alerta de Seguridad: Embajada de los Estados Unidos en Santo Domingo, República Dominicana (30 de octubre de 2026) - U.S. Embassy in the Dominican Republic (.gov)",
+      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnZFZ0FYdjRVUUtoVjRvLTFacmhoUmVvZWN4VHRsa0t5VnIwNk1vRmI5U3ZUZ0R3Zml0cWtEQ1BEajkwd3V2aXVRenNnQk8tVWZTYXZmbWgzb2wzcWhoN19seVNaVnRyQVk1WlExNVB4LTJPUWJrdTNVU0RvNHR3SEdRQ1JndTlnOFY3QWJrQkFaRVduU3hXSEZzQ3V0RHNlMHJPMmlIdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 30 Oct 2026 17:30:53 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana ingresa a plataforma internacional contra el crimen organizado transnacional - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMnBmTTNZQ1Y0ZjM4TGVZem5pYnI1Vmw2MHAyNkZDV0VDc3Fxd3hkem01QmktNkpjN2ptaUZ2VkxjTGtRX2RCRXJZcXdEdUh5dlBEdlhLRHZSN0dDbG1YY1ExMllMNnV1dHpCSGxvMXJxQWF5ZW9MeXRDbm96QjdzZGVNdTNVdUtZWC1zeVBpUzVOTlpOaXBDeFkySG1jaVVkbXNzY3pXbVY5eC1wMkFqMDY0ZFpXVWpOR1dwMm1lTGt3dzVTMDlPMDc2US01VFcwdUczemY5b2ctdEXSAdsBQVVfeXFMUDJwZk0zWUNWNGYzOExlWXpuaWJyNVZsNjBwMjZGQ1dFQ3NxcXd4ZHptNUJpLTZKYzdqbWlGdlZMY0xrUV9kQkVyWXF3RHVIeXZQRHZYS0R2UjdHQ2xtWGNRMTJZTDZ1dXR6QkhsbzFycUFheWVvTHl0Q25vekI3c2RlTXUzVXVLWVgtc3lQaVM1Tk5aTmlwQ3hZMkhtY2lVZG1zc2N6V21WOXgtcDJBajA2NGRaV1VqTkdXcDJtZUxrd3c1UzA5TzA3NlEtNVRXMHVHM3pmOW9nLXRF?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 22:00:16 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Republica-Dominicana-ingresa-a-la-Plataforma-de-Palermo-contra-el-crimen-organizado-transnacional-OG.jpg"
+    },
+    {
+      "titulo": "República Dominicana desfila al ritmo de la cultura africana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFIM3NhWkMxRmdBY0ZPbGJRMnA2S01nbGlpMkttSkxRaGp5V0dXNkVocTBvMl80UTRRUmdxc0F5YlJ0N3FNanB3QkdHYXZkS0x5bGFYZ2ZTRF96NVBLTGRSTVdRVnJjVUE5cjFGZUpwY3hLMF84eng3NFhrbHNDR2NvM1FFQ3I1eGMzdF9zWVY1WFd5dkZPTWQxbWVJZjjSAaQBQVVfeXFMTUZEcFhSSDU0VThsU1Q5Q1BXVE5oLVZhLXE1dGFydEFkVUhmS1JMbm1ucFYyWVBYTG94djY2SmxKT3EtMTYwS2MyTWJzMWVic2l5N1Z4SjZ6dlh3X1JfNXZtS1I5U3RTSFAxZFg3SDVjeHRHT0txQk85NGpIOVdKTmtVVVp1dFo2UlJhNFZUYkhWYzBWUnQ2RDlHMDEtXzE0ajcxUWY?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 03:09:53 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Excónsul de Haití en RD dice pandillas están inquietas por la presencia de fuerzas extranjeras - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVIzbWJ5R00xcXJpelFLdVY2Wlh4X2Rhak5VakhXdnJMQ3BRbkVxVS14UkRBOTc5N3JDOEYyZjJYdFNCVkV4S1RVZXBOSjRRSm5VTVVGZVB0bGEtQUcwUXBOWGdfV1ZMWERMeWpaZ0tjN0JqQTFhbXdGR3JWeG5pS25fR2FsQ2ZhUnFsQTg5ajA0RUduMkVBZVktVUF4VTdOM0pNNHhHSnI2eTRzNmJwX3c4c2ZHVlpxSXp4UkxsQnFxa2xVbVBnT2s0WdIB0AFBVV95cUxQaHY2Rl9NbUtPTUZaNXNaQjlLM0hjcFZTMXdFX2ppUFkyUGoyeHhzUF9jb0N5UmdnWHhMWDZxMkFHdXllM1lHR0JxZjJ3M3hqLWhYQkRCU3d4VGtpRG9VanNNYlVWcWw5X1pOU3RvVTVtTXlIQUluQ29EMjhiNGlpWHQ3MHp5T2l3a0w2M3NQMHVIcEhCTEtPRHcxbUVsV1N3RC11eTlqYWltYnFUeE1odDREemZvclFBNkhtcGhwak90V2ZpU0lWOGxIY3N3OFZC?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 20:57:09 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Carolina Mejía promueve a RD como destino estratégico para inversión británica - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkJtWllMeGJnZzBSTFJhbjB4V0c1SFJDblh1WExycXhZUkdYeGxjeWZmaHFoc1JZaHJNLWN0YmI0QnNBYkJIUWpZdUNzOEUwVjB6TjNSZ1pqbFdNV04wUWF5anVqT3FTX3ctWnRtZWJ4WGFGZHdXLTQzYUFTZmplWFM0TmhSLU0tcXpWa3BmVmhmSTItdWY5Y1NQekxtOTZnQ2lWcFdZZThvRFpi?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 23:49:42 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "RD facilita envío a Haití de cargamento procedente de Bangladesh para combatir pandillas - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHo3cUlkNHVNZFZ1Y29XdkF5eDI3R2hPcUp5T1RWZHVzVmhuTEdZaEY4dUdGZHNiMmFqWkk5ejExcnY4X2gtWGtWNXdEYkRsUlpvVlV5amVGSFBYYThSZkx5NnFzSlpnRHNualVrOVBfOWhtS1lFY282SUUyUnlJZUQzVW91X3A1RFdjNDVxRkItd2FJRnV3RXNVNV9kQkNEY04ydGNLUmV1ekE2MWdPVEVkcVlGRXlkbDRXVnRmQ2ZwVmVM0gHKAUFVX3lxTE9lcFJMRTBiSkZjS21sSEpDN1Vld1Q2RTBHT2lmdkZfMWJuWlFNWU9JdmluSXNFMXNTLXctVUFGZ3A0OWJMV1Y0WFo1VzBSc0ZkelQyMWFnNWdYeFFtSzNQaVBsM1hkQTR5c1EyUkxlQlkxSEI5RVNVMGx6Mks3TFE4TEpZbXMxWjg1ME10MTl0ZmRiOW9YcE1HR2dNTGZLbzY5QzczQm5iMFdFZGc5c3Q0M0NwaS1jN1VySGlKeUpXN0VxeXN5clEzSVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 15:20:24 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir de mañana lunes - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY3ZzR2dEdU5RcTNhY2J1WmJMRVNSTXh6UGFYMDQxNzJ5cnlsZjNfejVwWFktUWNkdE9ES1FuREpfT0w5QTNBTkVrU2RzMENpckJIZnlvSmdMWDVvemItTFVIbE5ZdVpPUEdaZlJfZGFuWUNkQTNBSll5Rk50XzlLMmZtSWo2c2Y4QWFORTFsT25rVklROGtHMHJzWHY4MzlsSDM2NHlVMDhaR21hb3dDWkZpbEY4VGRKb1dCbXRvOXNpMnhOOTFvbXlMYWR0Tk4yN01ULUlfU09ZVkhyU2o2Z3hmcFdPdGdmMEtBVGFGdW5pYkdwQl9MRjBoMEtJUdIB_gFBVV95cUxOY3ZzR2dEdU5RcTNhY2J1WmJMRVNSTXh6UGFYMDQxNzJ5cnlsZjNfejVwWFktUWNkdE9ES1FuREpfT0w5QTNBTkVrU2RzMENpckJIZnlvSmdMWDVvemItTFVIbE5ZdVpPUEdaZlJfZGFuWUNkQTNBSll5Rk50XzlLMmZtSWo2c2Y4QWFORTFsT25rVklROGtHMHJzWHY4MzlsSDM2NHlVMDhaR21hb3dDWkZpbEY4VGRKb1dCbXRvOXNpMnhOOTFvbXlMYWR0Tk4yN01ULUlfU09ZVkhyU2o2Z3hmcFdPdGdmMEtBVGFGdW5pYkdwQl9MRjBoMEtJUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 19:00:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cándido Mercedes advierte que la crisis haitiana representa uno de los mayores desafíos para República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTTh6aldLWFc5SzRuM0tJYVRjeG1CeXM0YUo2OVhBMzRfTU1mYUxtMnJ2c2pESk1zdENiS2pyQzEzUTFRNnJfbmp4NExGM2t1MmpzWnBaNFBGTXlkckhJMlhvR3BCUXNBUFZhQzhjUlJYaXpjM29EU0g2TUZydmZtMW1xZGNtU3lzcW9nQ0V2TGdOVXVjUUlTcEZVNDVWd0dyMFFqa1pUaGVxUE5nS1ZrZzhabUxlbVo4TmhlazBMbmR0enh0dzU0ME0xdFpVUUhmNGg4RDlfOTIyc0lhanRoVFRzV3lqWUpXem8ta2NNTnHSAfABQVVfeXFMUE04empXS1hXOUs0bjNLSWFUY3htQnlzNGFKNjlYQTM0X01NZmFMbTJydnNqREpNc3RDYktqckMxM1ExUTZyX25qeDRMRjNrdTJqc1pwWjRQRk15ZHJISTJYb0dwQlFzQVBWYUM4Y1JSWGl6YzNvRFNINk1GcnZmbTFtcWRjbVN5c3FvZ0NFdkxnTlV1Y1FJU3BGVTQ1VndHcjBRamtaVGhlcVBOZ0tWa2c4Wm1MZW1aOE5oZWswTG5kdHp4dHc1NDBNMXRaVVFIZjRoOEQ5XzkyMnNJYWp0aFRUc1d5allKV3pvLWtjTU5x?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 17:00:59 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este domingo 1 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVRTVmluLXY5MUdJZVNOblpoaUxZeV9abW5oUEtLcXI1SUdqUEVreEFqa29uZlB6UFVGSHdDMkJMSG4za0hsU19qT1l4ekxVUzhqem9NV0t6ZkRsczhtTERRd3pKMmpGWkgwV29pbW03TXU0d21POEloRlZtYVFyN2J2MWRwRjlFODJxbzFlbEFXVEVYZkFWMDV6V1dMTm5wODFSclNfaVVIOXpMYXc2SGN3VzBXQlU0Z1hoS0VUYnlxekFyT1E0TmE4cEhfdktYMWxkMWhqY9IB1wFBVV95cUxQLVRTVmluLXY5MUdJZVNOblpoaUxZeV9abW5oUEtLcXI1SUdqUEVreEFqa29uZlB6UFVGSHdDMkJMSG4za0hsU19qT1l4ekxVUzhqem9NV0t6ZkRsczhtTERRd3pKMmpGWkgwV29pbW03TXU0d21POEloRlZtYVFyN2J2MWRwRjlFODJxbzFlbEFXVEVYZkFWMDV6V1dMTm5wODFSclNfaVVIOXpMYXc2SGN3VzBXQlU0Z1hoS0VUYnlxekFyT1E0TmE4cEhfdktYMWxkMWhqYw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 07:58:40 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "La AUF anunció la venta de entradas para el partido entre Uruguay y República Dominicana - ESPN Deportes",
       "fuente": "ESPN Deportes",
@@ -13,44 +93,12 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana detuvo a más de 2,000 migrantes haitianos en campos de cultivo durante operativos simultáneos - Infobae",
+      "titulo": "República Dominicana envía equipos para la fuerza internacional desplegada en Haití - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcW1memxzZEwwNmlNU3pYYXZOMUoxNk5PVzMzYzBnVE5pSjhfZXJkRUFmeDdNeU1EYURMNUNwSUdITG15bHF4TDZNZ0tGb1RkMnh0bDRDR0NOam1vanItQlZaalJlbEZNODZvUzhMaXdTMmhmY2NUbHBMelFpM0ppQ291TTc4ZzdlZ3h1NHZvQ3ZVVHBleEpRU2x1dktYZjhwNE1mYlBlUnFVQzdDTjdvQkNCc21QMkJCbGJnMEVieEVZNXBDRHR4dzBzeTBmWjNqR0M0NWl1ZDEya1JyVWh4VUlyRGItNTZIWUdTVE9UWjM4bV9feUplSkt0RW9STFnSAZoCQVVfeXFMTmE3RTl4TENzTlc3ckdHVDFPOGdWaVFLeWZXVnd5Rnk4SkJjT2MtaXlIQ2s4eld2d0RBVl9Hc3JfdlB1dWtIcXZ2R0haaWlNNXNLTFZGZ0tYOXZNT3hZVnNyc1UwOG9WZ09ac0RwdmkzOXhqNFBnQ1Z3dmhleFl1eE53b3ZnZzNZLWJ1NzBEa01MckJtWUZ5bXNYMXF2c3BCWFkxTXUtS1B6S2x1MElUTzRCbkhoZVpHZU04Q2xPU0lKcWJOWWdjdEJ6NkkyYmRiMDc5NWNCeDhuYXlieXJILVh3dThnU1d3dENOZ3A5a0lKbWpwbk5KTGNwQUszTGcwUzkzTm45UGxhcWJRMjdRck5vcFN6THpRYkhn?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVdpYXl1OS1UN0xxcTRPYXVzY1Nad2hzNmdROElvQ3dMN2YxbE92d3czLTNocVhmUnZkcGc5U2N5RlNBamh5dlhXcTRsTGNmbDlpTXg5M2tvdVZpZlpyVXlVTXloUTNoaFVUZlNiSGFvV2U1NzA2NG1CTTI1THpOOWo4YjNJcmhxaEw1em5mZDdtTm5WajVhQXBrbV9ORmJuenhLUVdoNl9ZS2NlS1F0TUpNMVgtTW5tRms5dlJwN01IY1J0YUVud0ZGc3JENkh0RGY0Q0tSVQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 15:30:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/V7QMJNUFCKX3ECZUPXH27YHGVE.jpg?auth=b56bb9698373c5dfef1aa50a6e5bf6736ea2ba046a77bc6b43d1a5556b4f5349&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
-      "fuente": "PGA Tour",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm9FaHFUUDhTSmtjRkdZbG1qam44QlJLYXdhaC1XblphSmRaay1QNWU1Y0RJM1R1Wkc5T1c5eTJyU0E0VHlyLUUxcTlhWHhtcVB0Rkp2aUloNHY3M25LVndDSDNhRDY4ZGUxVHFJMjdndjVCanQwdVljbkRFbk1GQTRySEVsMlNOcUgzSW1uZXJ4NDRWZTloeHg4M2ZhSHVoNDZVTUFXZ3hFSlA4SmpyVTdrVGVEZXhUa0Vsa1R2cw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 19 Oct 2026 02:31:13 GMT",
+      "fecha": "Sun, 01 Nov 2026 21:52:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
-      "fuente": "ProPublica",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana facilita las operaciones de la Fuerza de Supresión de Pandillas (GSF, por sus siglas en inglés) en Haití con respaldo logístico contra las pandillas que mantienen el control de varias zonas de la vecina nación. El papel dominicano es s - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Dbk1EN2FiZDNCQnRNeE00S3JSd0pWWXRya2RZTkRFM09qRlNQdXhOQVF3blhNdHJYQ2s4eXZDMF9DOTFLYlpEcjlUcDNRVW8wUnFPZUZ3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 16:36:39 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Del sargazo al suelo: una nueva oportunidad para la agricultura sostenible en República Dominicana - CAF -banco de desarrollo de América Latina",
-      "fuente": "CAF -banco de desarrollo de América Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1ZOT2xlYjlVNWFxOXcybGZscDJxTHZLRXo3SFREUnl0Nm9uemVtOWowcE52NVVvQVVQNHdMYm14aHZzaDRsa25OQklySTcycG5FT1VZdFdldnFfWHFVWUplTkVVRzNRNzFMdmtLOFdvTXpSakx6SUV2UTRIcVd6clU5UlQxVVJaaHVQSmFfdzJBN2xGclJtblJqNFVFbWJOWlZDNkdtSHFfWDBVNkJDYXl6Z1B1TWxPaFR5NFlrTHBaWmJH?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 29 Oct 2026 20:45:36 GMT",
-      "imagen": "https://www.caf.com/media/4689552/istock-1346744481.jpg?anchor=center&mode=crop&width=1200&height=630&format=webp&quality=75&rnd=134377628430000000"
     },
     {
       "titulo": "República Dominicana apoya operación militar salvadoreña en Haití - teleSUR",
@@ -61,67 +109,19 @@
       "imagen": ""
     },
     {
-      "titulo": "RD sirve de puente para enviar equipos de Bangladesh a Haití - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWN3Q0hYX0FUWnpjY3l3SXh5dlBMLWJBWHBaS2NjVlpfVXBxRGotZUtkd2ZmR20zWFh4Wl81bG9ZY2NqTm5nbkd5ZllOT3pXUkFRN29tTktJMVdxcGN6N2Ixd3NfUkFpQUFzMWtNdkk2anBfZGxkaXo0Q21SNVMxY0FJNmxWZHVWREozRWduQ2U3d2ZCWDVUc0NHQ3VKQ0ZKal9kREVBeVZwaFpvZjBVX3dQRzhQcnBKZVpoRlRJRGdFMVJy0gHKAUFVX3lxTE15TEdfNTgycFl1bWtfTE9ya2M1d0psbXZvM3VzaGxMRXNoSTg4VWVTbDNkMU5RbG80Rk1VemJXYTZhNHlicHJCWWljZVFvRjJZaDFad2syTGU4R05ldkdPYWtFNnNlaXZTOVZJd2NQc1pFR0FUUEpnWUsxSjRaLS1VcFdiNGtMcktuVHYzRnRiZW1lemdGcVh3NE5yakRVcGlNdDlXbnBWQ3dGVWpNaFdZWVJVNVpLdnp5dnNrTzdkaFEzdjJXNjlBdWc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 12:51:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Estos son los días feriados y fines de semana largos establecidos para el año 2027 - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEV5X3JFUVJKNVhEN2NHWVNTVHFRU2VIZGNqXzZINWZzVW1NN0JpRWtoS3NYMXhIRzlqUVpELTc0RkRkMm9FZmNlUnF3cW0wSVVXZ2JpRHJLbnB2RkNOLUZqek05YzdvaE9ZMmVkSHRRTkx5THB1ZWdVOENBV0RtY2V3enVqTzZQaU5TU3RyRDEySDRDVllIT1VrRkgwd0E3cWoyWUpwa9IBrAFBVV95cUxQUUNnZjNDWEM1R0FwQUgzUWdNTWcwaDRRcThOR1J1SEhhX3lONkpYamZoNTdXVksxY0ZhVXdLYkVteGdLeHZMdXRuMEM1ejA2RkdnU3JDWGpTYmFNSG5kZGtUWm9YaThEdG5UM09rUDZ6Y2JSU3pEZ0RfX3o3M2ZHNFdrLW9FcVZhSzFNOHRscXFvR3A0R0RsZjI4bUNwbXNJM2tPc3hsbXRXbThL?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 16:42:06 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Votación para ciudadanos estadounidenses desde la República Dominicana - U.S. Embassy in the Dominican Republic (.gov)",
-      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Prospecto cubano de 18 años busca cumplir su sueño de firmar con un equipo de Grandes Ligas - CiberCuba",
-      "fuente": "CiberCuba",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3hEbmdYaXNTc05JSVhVVlR0cnpmUHgxR1oxMEc4b2p4NW00N29ZV2QtSFJGVHVtVDhNalZqa0t0OFJiNmczbnRmb3FFeDYzdm5GQm5zazg5NkhTM212ZlFuQnBQSVhLamc3bzNPX3RXTjRJY1BQZ0c5ZWJpdTV2RmdibUZxLXRnS1JmYnlEZFNrS2QzcHFNYzhGSE1xeEt3XzVWdzZEYXpDMmNzU0RMazVwRjMyQy1VMWFSZGNueml2cHPSAcMBQVVfeXFMTjN4RG5nWGlzU3NOSUlYVVZUdHJ6ZlB4MUdaMTBHOG9qeDVtNDdvWVdkLUhSRlR1bVQ4TWpWamtLdDhSYjZnM250Zm9xRXg2M3ZuRkJuc2s4OTZIUzNtdmZRbkJwUElYS2pnN28zT190V040SWNQUGdHOWViaXU1dkZnYm1GcS10Z0tSZmJ5RGRTa0tkM3BxTWM4RkhNcXhLd181Vnc2RGF6QzJjc1NETGs1cEYzMkMtVTFhUmRjbnppdnBz?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 18:25:54 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Faranda impulsa el primer hotel de ‘Design’ que habrá en Dominicana - REPORTUR.com",
-      "fuente": "REPORTUR.com",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLW81WEJmelBjbWlwczRRSHRRMjBNNE42ZHdnTHFiQTdFSzNXSGY5Z2FVZ2tXWDQ4UFR2b0hPdFBzMnhWNWFDdXZBZ3RmT2t3SjJiTTFQRFNEUFhlXzNObHltLU1JUGRYclZLUDR0RF9jV0Eya2NyX3YyZ1dDVmpCVzNQN3I4TllmYVZETTEtdjJiZmF5b28xdU1UTk9ZRENZSW9IU1FGd3RQYmV1REdN?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 12:31:57 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La diáspora dominicana necesita organizarse (OPINION) - AlMomento.net",
+      "titulo": "Llegan a República Dominicana 56,330 turistas en 15 cruceros - AlMomento.net",
       "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naHhrcWkyaEpIalZmRE13UWZTemRfem1ZeHlRbUdPczU2eE9VNjd3QklFM2Q2X2oyRmhvZUI0cFkwNTAyaEVpZjJ0TEoxNFQtRmFoR3N5Z2FaSlZHY2hwVEw4Q3M0WW9oN28xbVJmeVVtX0hQS1BZMVdwZktTVUU?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1RKZWdUSFd0QkxvQVprMXQxVUVPVUJTOTQwbzBNUDFUQUdnemVPQ2FRZDhGWG1zMXY5LTBqOURiMHYyZkVxYmVUSERFalVZQ09IZXJVMjFlUm9GVG9jblZuU2xVdnVTZDI2ZzVYUkxVZ1J5OVN0VmF6cklJY1AxQ1hYVnpWV3JTQ0E?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 15:25:13 GMT",
+      "fecha": "Sun, 01 Nov 2026 23:34:19 GMT",
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana avanza en la elaboración del Plan Nacional de Calidad en Salud - Pan American Health Organization (PAHO)",
-      "fuente": "Pan American Health Organization (PAHO)",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXpsVjVJTVFPRXJuRWhxYTM3el9MWWhvbWtUZTNHbzhwTjV3LXdpZDN0YUQ4R2pYY3N2bXViS1lPQzBXM0FtMlBQdVdlYkhtZzgwMVJ1SDg4amp1aDVreXRsUjZMY0lUWEp3dzBUb3NnV0ZQTTR4SG9fN3cxdFFJcHRyN2Z1SkRSUTFaN0dFOGZLSzF2TjR5Tmh0ZTFWR0ZsNUNKbk8zS3cyalNTcHVMYQ?oc=5",
+      "titulo": "Licey y Escogido comparten liderato en liga dominicana de béisbol - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0NJZkhoMmlqSDd0UVRTajlja0U3T1hWbDMzMm51dnRCeGJTa29OdHdxd1pFcXRldmp1c25WbUkxZENCajgzMmZuVFlCVWhfeHhsaUh4eWg1cFRkaFRCVmx6RHdITTNsQmtQLWxJVHBBQk9sX1JxQUVGS01PLXZzRV9GS3lwMjJKTXptV0lBRUY1TTdad3J2WG8yaTdaSGFDQXRpUTF0bjFKQQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 29 Oct 2026 23:10:59 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Las exportaciones de oro dominicano a Suiza alcanzan USD 406 millones tras crecer cerca de 1,000% - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPamVVNkhTbS1QUm5pOXVRQmV1eTU4enBkajF4cERtZ2ZEU1k4d2pWazNub1RTczI1aWtCVENSdTltM0RiQjU3V2l3bXBMbUladXFYcWxwUzlGa1JtcFBpT1ZnRzM1OUhmTUFzVUdEMXJNVzZOSTAzZk9OR3RmTzBibHFvb1RnM25iaGpLODBCOTdRejAxWElyNlJqZTIzTEJzSkZVSXFjWUFqbkNxbThzUGE1cWtqb0NMM01Bb3ZFLS0yYWhJOHotcXVCV0R0UWpEMlRERjZFVkI1QU9SX2NwX0prMmtuOWPSAYICQVVfeXFMTS1yOTh3Q29Bb2hxcGNyYk9zeTdtaExrVjBnekU1NWNNMmxpb3VmbExYbklNd0h4akZ0UEd4VzMtSEFvVS1Jc2ZOalhBUzE2eE0yTlRQanVDbWY4Y0lvRGRNaTd4b1dhNS0zcXJ0T01xY0dnR0tfRHFGd3hTUFFjSnZEYXpvOE1aanVySlBuU0U1NF91SFhvV21RTzhKSzM0Y0NWYmxHTGRlNWFPUFpGcGQ4clhySVZ1aFpBZnktY0V4Rzk3eG5taHFFR0dLWFROb29CY1VpRnh2NDM1X1F2OGFRZk5WeW4zZUNoeXBxSFNJUTNObU1SUERpM3dSVXJlUDl3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 12:10:00 GMT",
+      "fecha": "Sun, 01 Nov 2026 12:42:00 GMT",
       "imagen": ""
     }
   ]
