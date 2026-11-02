@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T21:00:32.320590-04:00",
-  "hora": "21:00",
-  "fecha": "01/11/2026",
+  "updated": "2026-11-02T04:14:04.732305-04:00",
+  "hora": "04:14",
+  "fecha": "02/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "RD sirve de puente para enviar equipos de Bangladesh a Haití - Diario Libre",
+      "titulo": "RD sirve de puente para entregar los equipos destinados a la misión de Bangladesh en Haití - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWN3Q0hYX0FUWnpjY3l3SXh5dlBMLWJBWHBaS2NjVlpfVXBxRGotZUtkd2ZmR20zWFh4Wl81bG9ZY2NqTm5nbkd5ZllOT3pXUkFRN29tTktJMVdxcGN6N2Ixd3NfUkFpQUFzMWtNdkk2anBfZGxkaXo0Q21SNVMxY0FJNmxWZHVWREozRWduQ2U3d2ZCWDVUc0NHQ3VKQ0ZKal9kREVBeVZwaFpvZjBVX3dQRzhQcnBKZVpoRlRJRGdFMVJy0gHKAUFVX3lxTE15TEdfNTgycFl1bWtfTE9ya2M1d0psbXZvM3VzaGxMRXNoSTg4VWVTbDNkMU5RbG80Rk1VemJXYTZhNHlicHJCWWljZVFvRjJZaDFad2syTGU4R05ldkdPYWtFNnNlaXZTOVZJd2NQc1pFR0FUUEpnWUsxSjRaLS1VcFdiNGtMcktuVHYzRnRiZW1lemdGcVh3NE5yakRVcGlNdDlXbnBWQ3dGVWpNaFdZWVJVNVpLdnp5dnNrTzdkaFEzdjJXNjlBdWc?oc=5",
       "dominio": "news.google.com",
@@ -18,6 +18,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnZFZ0FYdjRVUUtoVjRvLTFacmhoUmVvZWN4VHRsa0t5VnIwNk1vRmI5U3ZUZ0R3Zml0cWtEQ1BEajkwd3V2aXVRenNnQk8tVWZTYXZmbWgzb2wzcWhoN19seVNaVnRyQVk1WlExNVB4LTJPUWJrdTNVU0RvNHR3SEdRQ1JndTlnOFY3QWJrQkFaRVduU3hXSEZzQ3V0RHNlMHJPMmlIdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 30 Oct 2026 17:30:53 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABNEAAABkBAMAAABayruYAAAAJFBMVEUAAADa2tr/////9/e6urpTU1O5ubn39/f///9ZWVlfX1/z8/O/OctmAAAACXRSTlMA//////////ZO3iNwAAALPElEQVR4AezdwY6bShMF4GP6krX9Bqgk9kiI/SzyAAir9lnlFfL6N26OWhXckDae9mClj/L7L1czMMbfbYDMOCgpKSkpwelyRmIEd6mEhTQpDabvu1C7vsf2ALM6cLlctquVtq2YDwC1jrfHEVDV8fagvln7p7XOlUKVi9SKWrncY5GQnN0DhLuZ1HZJa7WZPemU0GCc6hUMBtVue4BZHeD3v1caTn9KIyiPSimIvjw8SqtDVaQlvKrT2e91JEVUsEilOtGTNkkNUglWnFLX1oDrWSwGSOZ8V91CRczFDnBkWVEaKG0WBISZDPOTeeD2MIZK/Sz4YESUkbxdRhlkTXTrJ74d+aQ1bFRPSRvYjUuLmLOKmNjIch3/fQesGygrHW/SyO2WWzWmSyvSHjpVE1WJSWsIqwJk0agmSmsb39gnzbGKSaOXyJTGKmFSA6vvv/Nh3NQaDpyjPWaCp22mt0+ahkj+LlTzU4tu3Ujjrt4nrZoIq20qlT8brW/4k7S5sQGq73ZJO+M5aawjc5pHRmmYLxMozY/64llp8oAeeaQrMWkir5EGnSPLg8aZ6OaIrJ3n8WsX0lptPCy5ldOiYaT5xro0p9cEaa7nAENd99DOrEzIK0btxOrDSKMl0JeyCgugtr2DSWunmDR2Xy7tdF7c7MgmrfmLNDa7LWmOX9pllzbSDac0UBqrpTQOHOboeQBpIWJOjU3Oq8dItu+pNZRWLaWFBg+nnyBt6FhxIMIrVGxfFqGujcuDj/lkf6S0EeYC9E5aGDiUtAMcPUNkMZ8xl/Oj0qqJ0tomSFs2xDfkaWlOr1FpZzwrzU5qP3jn1px/qeroQUGVDyR2q/hs9X5auSI44T5nLheTJkppdnDpiNJCY1ta3wVQcB2lceBrpH3Dj29F2qdKO50vEWunl0qb6RDUcO0ojQOGYFya6++gnVlRGiubIO1CXgtq+IFPTZF2AeJvBBeT+Ffz8TlpvJnhZTleSTo+NwOB4Iq0QbvPl/btJz41Rdpanpemf5EWbmZQVheXZgei0m7Fp0v7+Ts/APteqI6savX/Y22XCa3NJVlH9qrP092DSROfv3qUOXdt/t8z0iyo3rjplgMJ0ugkemPjHCobnKK3PPiFnNOOL61Iq95cGq89rZ9aQ6l1MKNYhLqi9XKZX79if0EokqNrk9FZwtZj0EJks01pamYztFYaSz7qXmmue5U0f+0Zs0FpWqR9rbSpIqwGFWEpG0Fau1/a4Fn1r5rTskv7pV5aJeYwA4hKli4UjFXmh2LhGho8mujW1yNzlFE+R7QdpDWUNgGoOHmxQWnazP090nr/R/UV0sLfe2ryGVfcZB1Zkms+qLRKhGki0iTkC6VNglmaNKC0KTSCNAhnvf3SOnT5pW3pwlgnzWnLqwOY9ghKE2nDzuQ7laUL81KMtHlYDC9TtpNIY+xJsrTl1pmnD6I8OeNE1gAsGzZgpIGz3pa0fkvaFe7qpfX5pH18fPyj0sKX6SRipTHKiHyJtIrS0Fppk4ANwgvSpNmW5hOXdu078Cab5pP23/cZx9oZV6I0qI5RaVC9SVO+dwyd5OlCNXKHQ9QsTF5qy8nY0zRp0a2nUiPO1bY9O6O0RaO10hpsSHPb0oD80vzP3AKqutSVfD+NITS7JAnrQaWRFeulNA35ImmVzLAgbZBmGySnKdIwJEjDkH1Oe4U0+94JnWTqQlUNNARpd5napTob2QYU33qqNEbifUn+3ahbK0Ga25bm/JzGhTKep+VOTmlFWpMiDcOmtKEbtLs9aNZrz9dIY+z5fKYu1MTc5dDVTBKlliBtsfWUyNpXiG2nSpvENHiJqT1B9To/dIDjQFSa0+ugvV5d32f7G/Yi7d2lAVYaQ0zMFeAgB0jwThrglDYzSMMXSIOPZOnGpW1Tm5pK2qelIS2yeptXGOB5aZ0zNaXZAaqLSKPNIm21W6TRCakMpqY0/8QNlmNcWpfj9wheElEbydxFVBpE1qVhSS2FkOyTlrDsPmlGVxfQXPuO0swAh1gupdHm+0uT3F1EoGWXJjiANCLqezuJMYMZIEGWVhoHcvwW3uupSfYurLRtapPc0iBOTXywFtkpTZBJGvp+CCdmvJIEYwZIkKWRlu932I8vrUjL8KlWhuDwhtLSr+3zdxGDZqnxdi2LBlhSEwlF+qv6XGkQaWZyImmNHZ815HojLfETYFguoeG0+gkwx5ZWpO3Krk+14tVCzk+1ej01kVd0EYHmNf15a2NOw1FLTSBM6qtKjajgYNJ4upb3k/r+TWki7SRr0iYRlX9Kmh/su8yfPvqa8MglqiKpXeGBzXYlaQ2khntpLX9AyEuLsOFWU+XYrSdHcDxpbtAuDGT6ROV/SVollNZULdcd32oSHZ7OcevKvKc0WGmZPiX+ZRFVgaikd3lgW1JLWsOs7F6a/3yLBmvSBBAh5/2vKn/ySztyji8NVZAW1m1CaXNQpL2vNOFDWjcSEUldAxQxaSLSTg3WpBHYQ9IERdpqijQmLi09qkXaYY+eKqndeBLXAFU+RA6gTcKqd7yq40hzFlS3MRCX1uHoKdJqfG2c86AGb6Wbf1b7ejcAx4GINA68c8Jvhqd240lbw3p4hra66vSoLrZ+gAyDhqnLXZUzlB0gwXnAWWl2IH+KtPeOc/3vdCCoWxYDJEhfHVz4LTwzkJKSEmetDN1ygARvA47/7OfQud4OJKWkxFJxCQOh5pP3S0lJSUlJSYmq4sipVcdF/Y4pqcfbnwNHgXFRv2FKagWgOG74D97a+h1Tonw8ZgiLjxo6nxQteV1GzmzK8NlxYkyMz/lAydGmEEVJSe7Mc0dJrY8uPyaedO4PN5I96Zsr+yp9c6ppKwKjSIuurYAZk48wy4xJb7COO2jU3CIXKPsqcV8dMnXaEjuiO76DL9xLZV/Va9+T6oP/LSVN3yO3wMXzRLEnY9lXyUk8dOquw8R4vHNG1T3fmCa90LKv0vfV/+2dQW6jQBBFEascwyqpL9RSiZO0ejvL4QZDbmB8g/hy0zXwRUPZ0QiRDfwnJ5aesstTCdNNm7yAEEJaWXE7ztQQEnRFPM6Q04+orftuwLS64XaUacjpR5Q7KyQuRirMBt0QjzLNmSHyr7TNSVuFOJuPYRjGifsw/GFp+yCtqBHlnemH4XOcKdH9Ymm7IKIT8eYNShvB/X1p3cYY2RlNznSXKI20CgQmrk2PkWZ8U1remtrBqDddukJpRNxHvxDDaqj1w7hwn0pLKbl5lfOL0pIrzZkuX6A00sYqDwy5sBpq/edYMZWWsxWTC3VpaWsK6o12G5NgmhPD0uRlaQFmKu05Pp6FL5TW5ZxRydSMqbQ1BXXGulqbDNOcFtKqqMoM7q5FM6Eq7WGlGShNp5lmoBm0B4MQVwYzbW0STENOS1AJUTQKLsuso2ARiBRnprfKvsbCo7zdUVpeLrLiG5O6vDX22pguw5y0NIKurDIJqorSROyXvU+ljVaaUZeWXFfedMmX5kyXLlAaCXNkWpcWA0JAaV/PbWkp/09pzmjypek1SmNp0ZWmMEtpoytNfUU7zTVLY2nK0sjPlKa+NGFp5AdKc58INE4/LI0cWloUe6E0TDjxpT1YGtmLaEFEcD8NJkiA6S2xmRGlZYBmDjENOftWDtFCrEyU9WrUBFajsIqElaajTEOuVFpQZKDx3Qr7Mozwx4eYhpyXsJR2m4wsGbzeNcQ9t2QHLf7pKjD1SPM7IVka2UUruKshMMGEISyNHMe8mh6lMrhuc88RDCyN7Gba9xhvlYlaBJ/CI8fSBg0qt9pIEYvpkdrdRhpLI57dXw66Mh+/K3haAuEJMOQ88FQrsoO/etICpT2ul1QAAAAASUVORK5CYII="
+    },
+    {
+      "titulo": "¡Ya puedes organizar tu agenda! Estos serán los días feriados en RD para 2027 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEp4ZGlqbDlkU0t6czhabHJXYmRoRG96WTBHc2ZmcDlGMnRmdlNoZU1mVFpkcXZPT3psU0kta2xUZi1OTkxLbThQeG5Pem1ILWlGZlBYbUVHMElxbnVTbHp6NjVTbUhSQlR2blB3enQ5amxTeG9XWVdnTVNrWUk0eTZTYVlENlRoQlJUamNhTXRVbnUwMW8ySXJRSnhyOUdIemZzZGZ4SWtlbTJ2c0F4Y1Zwald2aVFCWHfSAb8BQVVfeXFMTlZ1emRsZEZpb1dza1J0Ymlnd2k0SjdKOExFSzJIcXNyNHkxb0ZZSWNjNXBQclowTUhzM1poSnZER0lpaFNXQW5ET2pQbmhIZzNydzgwQUNFZnpLX0hPa2pUZVNjdGhVYXY3VjVlY1FZZWc4enVZUk5pRnNLa0FjREZsRmszUVcyZG4yem9yanVYdlo0TnAybEVwaWkwWk8wSUhHZ252SXJfUHFIZ3ZONFFVRk1HWjVBekRCT2ZDNnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 01 Nov 2026 13:38:49 GMT",
       "imagen": ""
     },
     {
@@ -29,19 +37,19 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Republica-Dominicana-ingresa-a-la-Plataforma-de-Palermo-contra-el-crimen-organizado-transnacional-OG.jpg"
     },
     {
-      "titulo": "República Dominicana desfila al ritmo de la cultura africana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFIM3NhWkMxRmdBY0ZPbGJRMnA2S01nbGlpMkttSkxRaGp5V0dXNkVocTBvMl80UTRRUmdxc0F5YlJ0N3FNanB3QkdHYXZkS0x5bGFYZ2ZTRF96NVBLTGRSTVdRVnJjVUE5cjFGZUpwY3hLMF84eng3NFhrbHNDR2NvM1FFQ3I1eGMzdF9zWVY1WFd5dkZPTWQxbWVJZjjSAaQBQVVfeXFMTUZEcFhSSDU0VThsU1Q5Q1BXVE5oLVZhLXE1dGFydEFkVUhmS1JMbm1ucFYyWVBYTG94djY2SmxKT3EtMTYwS2MyTWJzMWVic2l5N1Z4SjZ6dlh3X1JfNXZtS1I5U3RTSFAxZFg3SDVjeHRHT0txQk85NGpIOVdKTmtVVVp1dFo2UlJhNFZUYkhWYzBWUnQ2RDlHMDEtXzE0ajcxUWY?oc=5",
+      "titulo": "General del Comando Sur describe República Dominicana como \"gran aliado\" de EEUU en lucha contra narcotráfico - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjF3T3pVVHZWdlI3OFkwX05ueVZHVS1la2lNc185XzI0RHF1Vmx6V2RmQndmOC1JNEE1STlPbnlzb19PWFlkck9US09pQlFKSzE0bXBSYUpQbFRUS2FmOTJHa3dDUFBOOHZ6YWRqNUNZcFhkVmpONlh0WGJ4M0d5V2Y2eXEtQWZ4VGFyc0pUcFBJTHVsOXlySVFTUEdhelU5cmdxdVRUQW8zZ2FGV3V6dmJFTzV2T0VOVGNSN211ZzFjV3ZBNlQzTmVyYTFoUzM4QnRyQlUxU2wxSDF40gHiAUFVX3lxTE1RbnQ0M0dtYk9qdFFjd1dUUUxWVFpnYlA5eFRlenVlOG9UcU9nOWUxZHN3RDY2NURLMkp4R3JiZXZ1WmpnRTl1V2E1R19fc1kwTHRyMWR6eVdERG1KeXNkY3l5TzYxalNfWU14MFdTNzRWakZZdElWTFpURWJHeW41bkc4V1BGWlRGQWFjM2hDYXhxQkludnZGQnZNRWRYczJpdUVuSWtyUllrak10UkFQSE85WXloNFpLWEVUT1N6MGNnQTNVV293Y2s3UjAwWFZ4T2pRdGhtcXJoTGx2dlNaSnc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 03:09:53 GMT",
-      "imagen": ""
+      "fecha": "Sat, 31 Oct 2026 01:56:03 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/10/30/6ae54a37f00f1.jpeg"
     },
     {
-      "titulo": "Excónsul de Haití en RD dice pandillas están inquietas por la presencia de fuerzas extranjeras - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVIzbWJ5R00xcXJpelFLdVY2Wlh4X2Rhak5VakhXdnJMQ3BRbkVxVS14UkRBOTc5N3JDOEYyZjJYdFNCVkV4S1RVZXBOSjRRSm5VTVVGZVB0bGEtQUcwUXBOWGdfV1ZMWERMeWpaZ0tjN0JqQTFhbXdGR3JWeG5pS25fR2FsQ2ZhUnFsQTg5ajA0RUduMkVBZVktVUF4VTdOM0pNNHhHSnI2eTRzNmJwX3c4c2ZHVlpxSXp4UkxsQnFxa2xVbVBnT2s0WdIB0AFBVV95cUxQaHY2Rl9NbUtPTUZaNXNaQjlLM0hjcFZTMXdFX2ppUFkyUGoyeHhzUF9jb0N5UmdnWHhMWDZxMkFHdXllM1lHR0JxZjJ3M3hqLWhYQkRCU3d4VGtpRG9VanNNYlVWcWw5X1pOU3RvVTVtTXlIQUluQ29EMjhiNGlpWHQ3MHp5T2l3a0w2M3NQMHVIcEhCTEtPRHcxbUVsV1N3RC11eTlqYWltYnFUeE1odDREemZvclFBNkhtcGhwak90V2ZpU0lWOGxIY3N3OFZC?oc=5",
+      "titulo": "República Dominicana se convierte en plataforma logística de la misión internacional contra las pandillas en Haití - El Dia.com.do",
+      "fuente": "El Dia.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORkh2c0hXbExvNWxVR3ZlanJ3eTg4aTl3aS1SSGFYZ1VqbjJDdnpnSnI5OWdhblRYaTktLVdlNkNQUVJySDBxaXlsemU1Mjg1UXJXVDdRSFpyVHBWWnZ0R3Zxd1dGUWc4Y1NWeTdjSDJ6dGhFRi1VTGlKbzVQWGI5Z19GMk1uTWg5RjNaMVlMS3k2UnZvTFJ4YnhxbmtJcVZyY0drZ2RyNF91YThKVWYxcHJ6aEdPaUJMYzFrZmszV3dyX01UNnVvbzBXSE9IcnpJTUE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 20:57:09 GMT",
+      "fecha": "Mon, 02 Nov 2026 00:00:00 GMT",
       "imagen": ""
     },
     {
@@ -50,14 +58,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkJtWllMeGJnZzBSTFJhbjB4V0c1SFJDblh1WExycXhZUkdYeGxjeWZmaHFoc1JZaHJNLWN0YmI0QnNBYkJIUWpZdUNzOEUwVjB6TjNSZ1pqbFdNV04wUWF5anVqT3FTX3ctWnRtZWJ4WGFGZHdXLTQzYUFTZmplWFM0TmhSLU0tcXpWa3BmVmhmSTItdWY5Y1NQekxtOTZnQ2lWcFdZZThvRFpi?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 01 Nov 2026 23:49:42 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "RD facilita envío a Haití de cargamento procedente de Bangladesh para combatir pandillas - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHo3cUlkNHVNZFZ1Y29XdkF5eDI3R2hPcUp5T1RWZHVzVmhuTEdZaEY4dUdGZHNiMmFqWkk5ejExcnY4X2gtWGtWNXdEYkRsUlpvVlV5amVGSFBYYThSZkx5NnFzSlpnRHNualVrOVBfOWhtS1lFY282SUUyUnlJZUQzVW91X3A1RFdjNDVxRkItd2FJRnV3RXNVNV9kQkNEY04ydGNLUmV1ekE2MWdPVEVkcVlGRXlkbDRXVnRmQ2ZwVmVM0gHKAUFVX3lxTE9lcFJMRTBiSkZjS21sSEpDN1Vld1Q2RTBHT2lmdkZfMWJuWlFNWU9JdmluSXNFMXNTLXctVUFGZ3A0OWJMV1Y0WFo1VzBSc0ZkelQyMWFnNWdYeFFtSzNQaVBsM1hkQTR5c1EyUkxlQlkxSEI5RVNVMGx6Mks3TFE4TEpZbXMxWjg1ME10MTl0ZmRiOW9YcE1HR2dNTGZLbzY5QzczQm5iMFdFZGc5c3Q0M0NwaS1jN1VySGlKeUpXN0VxeXN5clEzSVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 15:20:24 GMT",
       "imagen": ""
     },
     {
@@ -93,35 +93,35 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana envía equipos para la fuerza internacional desplegada en Haití - Infobae",
+      "titulo": "Bukele envía miles de soldados salvadoreños a Haití con apoyo de Estados Unidos, Colombia y República Dominicana - World Socialist Web Site",
+      "fuente": "World Socialist Web Site",
+      "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaUJfTmJNVHU3amx2cm93OFZwTG1KTk1TQUtCZERpRXU0X1NxZEU3a01waUZBenhyWWotR3M5Q25uWnBSeHBuVjV5SGFsREszRkN1aUN4WVZpakV6LXlOY2E3aE83UjBr?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 02 Nov 2026 05:33:29 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Excónsul haitiano dice que tropas salvadoreñas generan temor en las bandas criminales y cuentan con respaldo popular - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVdpYXl1OS1UN0xxcTRPYXVzY1Nad2hzNmdROElvQ3dMN2YxbE92d3czLTNocVhmUnZkcGc5U2N5RlNBamh5dlhXcTRsTGNmbDlpTXg5M2tvdVZpZlpyVXlVTXloUTNoaFVUZlNiSGFvV2U1NzA2NG1CTTI1THpOOWo4YjNJcmhxaEw1em5mZDdtTm5WajVhQXBrbV9ORmJuenhLUVdoNl9ZS2NlS1F0TUpNMVgtTW5tRms5dlJwN01IY1J0YUVud0ZGc3JENkh0RGY0Q0tSVQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSTFUWWpfUmwwblBHbWVwVlV4S3g1TFR2WVRzM0VkOUFlVXlqNF9VM0E2eFVtZlNiekd6TXFfd0lOdDc0V3pGTWpWdDVIeHJpZXU1eWk2cEVqLXVPOUNYR1B0TWwtRkE3ZU1ic1FvZEhTNjBwMlk0S3liZ3ZNc0QzU3ViU3NjUUJaeWRkdHFHRFE1TURHM3ZYWGhTRGU1eEstUDNEUnVvc3FaRE1PNF9Uektta1NtNFdpejBuRTRXd2QyMllmX1lDVWRFY2dyZWJuMGFiZmVEb0xCT2d6bkRmOW9DWUM3S1BTV1FteUllcmpwd3FaOXBlSXMtYWplYnR3Rlpj0gGeAkFVX3lxTE84a3dHQ2JydnNyNjVRVmxSQ2tXS3p3d0pCOVZTSzRkZG9RcmlYYWQwYUNhX0d6TVhTSWdNcjJLR1J4LW9VNGpLZXpwa2dfbW9SNmFTeVRDUlZzaGdrdU5UNUd0aHB6aWY0MjhkRGRvcmY4emx0SXdTSkthaGhPLWJfVC1qSDNoTHVoOHI1emNrQUhEbUlYalNFUWEzYUF6M2I0dW5OcDNXYWlXQnFNNnpDNFFNYmZ0SzJBeG40SGpiMEExNkxoOG1qZ0J5SUsyejc5ekdseDJINndLWl9XUTdRc0NJRzlyRFVrNktUTExqUm5XTTVTcGhtd2w5UG00bnhXdV9mOWFJV2d5ZF9SSGp2bUZaYlpGbDJnZ0wxT2c?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 21:52:00 GMT",
+      "fecha": "Mon, 02 Nov 2026 03:20:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana apoya operación militar salvadoreña en Haití - teleSUR",
-      "fuente": "teleSUR",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnU2MlBaOGFZajJ0UnNkT0M0MS1YYVJBcmVWcjlNV2ZBdjItblFrWi1TZGxSRFR3RXByN25uS21GMGNVTFlGSmNkVldKcFAzRXB1c0tudlREcEpRYzFnWUtYYWFOdF9CZzRsenZCOFV3Q19mMWdIc19ZanJfSV8zYUprQk84Qnd0R1pJc3RBY202eVY3U2tN?oc=5",
+      "titulo": "Miss República Dominicana descubre una conexión especial con Puerto Rico - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0RFMVBRSUk1TW9VdG80Ml9zek5qeWtmckQ1bFgwTVBTdmwtTkIzb2FIUVMyRzU0WnJVaXVMTlNEeE5jRzNSRElWdmR3NGprV1AxaFozTnJvdnZkSnhvUUUya25VZ0l0RUJ5bk1RWjBxNjVkNUowazBVT2NfZEZHTllLd3JRYW5lOXUyVTRrbVlWWkdUTDdDSFdoRHlnWG5qZWZHTFZfa3ZrTTdJejlPOE5uOUtXVTc2TVR4VHpabWtxVnlrU19sSDdaaDU?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 30 Oct 2026 11:38:03 GMT",
+      "fecha": "Mon, 02 Nov 2026 03:15:47 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Llegan a República Dominicana 56,330 turistas en 15 cruceros - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1RKZWdUSFd0QkxvQVprMXQxVUVPVUJTOTQwbzBNUDFUQUdnemVPQ2FRZDhGWG1zMXY5LTBqOURiMHYyZkVxYmVUSERFalVZQ09IZXJVMjFlUm9GVG9jblZuU2xVdnVTZDI2ZzVYUkxVZ1J5OVN0VmF6cklJY1AxQ1hYVnpWV3JTQ0E?oc=5",
+      "titulo": "Breeze conectará Tampa con Santo Domingo dos veces por semana - Periódico Digital Centroamericano y del Caribe",
+      "fuente": "Periódico Digital Centroamericano y del Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEhpWEtPUi10TmVRbnZPbmx3YmN3WlR2TEx1RzNsRTlnQThXbkhQRVVYRUNMLTZJVGxKUzJyTklYeTdXa0JkNzBmTFJnaHhjdUVUQTFTc0VQUGpGYm9GRjNkLXZaMGVsQU9vLTNnNENsRHZXQUh5Vk94ZVRnSnZlV29GbFN4aHlsYlZpUFRJMFg2UDM4UUFNSmIzd2YtWHR4V3JjdzFDUW5UZw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 23:34:19 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Licey y Escogido comparten liderato en liga dominicana de béisbol - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0NJZkhoMmlqSDd0UVRTajlja0U3T1hWbDMzMm51dnRCeGJTa29OdHdxd1pFcXRldmp1c25WbUkxZENCajgzMmZuVFlCVWhfeHhsaUh4eWg1cFRkaFRCVmx6RHdITTNsQmtQLWxJVHBBQk9sX1JxQUVGS01PLXZzRV9GS3lwMjJKTXptV0lBRUY1TTdad3J2WG8yaTdaSGFDQXRpUTF0bjFKQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 01 Nov 2026 12:42:00 GMT",
+      "fecha": "Mon, 02 Nov 2026 01:44:21 GMT",
       "imagen": ""
     }
   ]
