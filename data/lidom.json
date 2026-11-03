@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:03:06-04:00",
+ "updated": "2026-11-03T07:18:06-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -73,36 +73,6 @@
   }
  ],
  "juegos": [
-  {
-   "id": 851488,
-   "fecha": "2026-10-23",
-   "hora": "19:15",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Aguilas Cibaenas",
-   "visitante_id": 667,
-   "carreras_v": 5,
-   "local": "Leones del Escogido",
-   "local_id": 671,
-   "carreras_l": 9,
-   "estadio": "Estadio Quisqueya Juan Marichal",
-   "serie": "Regular Season"
-  },
-  {
-   "id": 851538,
-   "fecha": "2026-10-23",
-   "hora": "19:30",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Tigres del Licey",
-   "visitante_id": 672,
-   "carreras_v": 3,
-   "local": "Estrellas Orientales",
-   "local_id": 669,
-   "carreras_l": 8,
-   "estadio": "Estadio Tetelo Vargas",
-   "serie": "Regular Season"
-  },
   {
    "id": 851487,
    "fecha": "2026-10-24",
@@ -611,6 +581,51 @@
    "local_id": 672,
    "carreras_l": null,
    "estadio": "Estadio Quisqueya Juan Marichal",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851454,
+   "fecha": "2026-11-07",
+   "hora": "17:00",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Gigantes del Cibao",
+   "visitante_id": 670,
+   "carreras_v": null,
+   "local": "Tigres del Licey",
+   "local_id": 672,
+   "carreras_l": null,
+   "estadio": "Estadio Quisqueya Juan Marichal",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851563,
+   "fecha": "2026-11-07",
+   "hora": "18:00",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Toros del Este",
+   "visitante_id": 668,
+   "carreras_v": null,
+   "local": "Aguilas Cibaenas",
+   "local_id": 667,
+   "carreras_l": null,
+   "estadio": "Estadio Cibao",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851543,
+   "fecha": "2026-11-07",
+   "hora": "19:30",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Leones del Escogido",
+   "visitante_id": 671,
+   "carreras_v": null,
+   "local": "Estrellas Orientales",
+   "local_id": 669,
+   "carreras_l": null,
+   "estadio": "Estadio Tetelo Vargas",
    "serie": "Regular Season"
   }
  ],

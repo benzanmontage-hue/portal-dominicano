@@ -1,79 +1,79 @@
 {
-  "updated": "2026-11-02T23:02:53.650085-04:00",
-  "hora": "23:02",
-  "fecha": "02/11/2026",
+  "updated": "2026-11-03T07:17:52.086350-04:00",
+  "hora": "07:17",
+  "fecha": "03/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "warriors - suns",
+      "termino": "miles bridges",
+      "trafico": "100+",
+      "noticia": "Miles Bridges records 21/6/3/4/1 line vs. GSW",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-03/miles-bridges-records-21-6-3-4-1-line-vs-gsw",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU_Jy1lWpKWOmNkpqsP-tml7q6FTXZESNtwjXFm_30YUj3apLFrEI9ciZmMPU"
+    },
+    {
+      "termino": "charles bassey",
+      "trafico": "500+",
+      "noticia": "Charles Bassey throws down big flush vs. Phoenix Suns",
+      "enlace": "https://www.espn.com/video/clip/_/id/50364648/charles-bassey-throws-big-flush-vs-phoenix-suns",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0kaVe9YdxzUsdxqrRAzJA9oqualL8NyC22f0aNseVazzWaBIVO6j2Pxtk9rI"
+    },
+    {
+      "termino": "lily josefina rodriguez",
+      "trafico": "500+",
+      "noticia": "Fallece Lily Josefina Rodríguez González de Eloy, rectora de la sede de Utesa",
+      "enlace": "https://elnuevodiario.com.do/fallece-lily-josefina-rodriguez-gonzalez-de-eloy-rectora-de-la-sede-de-utesa/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1qqbbpKLae3l21oXSQDfyQpGEkAAgKjsZ8ROftbJsfM-iLvvoI3AyuUkb6w"
+    },
+    {
+      "termino": "ty jerome",
       "trafico": "200+",
-      "noticia": "Phoenix Suns vs Golden State Warriors LIVE, Score Updates in NBA Game",
-      "enlace": "https://www.vavel.com/en-us/nba/2026/11/02/1277771-phoenix-suns-vs-golden-state-warriors-live-score-nba.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPplnkh33crTrewYXxcJa5nDLaAdShucJSFG3SmsOqm0hdU3PaApEUVQztKvM"
+      "noticia": "New Orleans Pelicans vs. Memphis Grizzlies Live Score and Stats - November 2, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261102_NO@MEM/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLzsP8EhytsOT8ZFaHK52LHHWjAgQzMQ11xQ3B1FzDJgvOoJnYMPsckkEn08"
+    },
+    {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "LeBron James Took A Sip Of A Fan’s Wine Mid-Game, And Now The NBA May Have A Decision To Make",
+      "enlace": "https://sports.ndtv.com/us/nba/lebron-james-took-a-sip-of-a-fan-s-wine-mid-game-and-now-the-nba-may-have-a-decision-to-make-12275117",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDiqdwrQanKLKm2-3xvmjDCs8kJqKQklTEVesyEN4wqoOUwBllqQs7R0RPJps"
+    },
+    {
+      "termino": "lakers - heat",
+      "trafico": "1000+",
+      "noticia": "Giannis defends MVP candidate Doncic: “Some people are scared to say that”",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2030031/giannis-defends-mvp-candidate-doncic-some-people-are-scared-to-say-that/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSnjoqVdyojiBo-3jhJCE8JXViSl6gkDaEehgx4wl4P1aKCw27DluPn8cpak"
+    },
+    {
+      "termino": "nuggets - trail blazers",
+      "trafico": "200+",
+      "noticia": "Portland gets another win",
+      "enlace": "https://www.nytimes.com/athletic/live-blogs/nba-news-games-scores-stats-schedule-analysis-live-updates/HBD7r0ZK2u47/qgxrqJchfq1m/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpW_yJS8g1q232yBjtdC6ayvCIQnjJ3NaIAgHwKpxZkFDG-tLiVQIv_Kx94KU"
+    },
+    {
+      "termino": "warriors - suns",
+      "trafico": "2000+",
+      "noticia": "GSW injury report: Gui Santos, Al Horford and more ahead of game vs. Suns",
+      "enlace": "https://sports.yahoo.com/articles/gsw-injury-report-gui-santos-002006557.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfjOt0Gl7IKEz5hY8EU9nGR6fh4AU_ACeBezfEK8VisgODDhaLxPdJI8UUKGw"
+    },
+    {
+      "termino": "timberwolves - bucks",
+      "trafico": "100+",
+      "noticia": "Timberwolves 112, Bucks 100: Ball-ing and Bowling to the Rim",
+      "enlace": "https://www.canishoopus.com/timberwolves-scores-results/71444/minnesota-timberwolves-milwaukee-bucks-game-recap-lamelo-ball",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAXtxYmOAz79LLMJjyXEcKe4jnQ3uQhQd67UFhr9UpXnNgkjxhJLbYmCohoYY"
     },
     {
       "termino": "rockets - celtics",
-      "trafico": "100+",
-      "noticia": "Boston Celtics (5-1) at Houston Rockets (6-1) Game #7 11/2/26",
-      "enlace": "https://www.celticsblog.com/boston-celtics-game-previews/149141/boston-celtics-5-1-at-houston-rockets-6-1-game-7-11-2-26",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs78zEgyKZTll3lf4AfRLe-cRAauUnK0uQ5269UF9LTtg4Gqi0tkGVqAvPnzo"
-    },
-    {
-      "termino": "jaylin williams",
-      "trafico": "100+",
-      "noticia": "Thunder s Jared McCain: Shifting to bench Monday",
-      "enlace": "https://www.cbssports.com/fantasy/basketball/news/thunders-jared-mccain-shifting-to-bench-monday/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8"
-    },
-    {
-      "termino": "spurs - jazz",
-      "trafico": "100+",
-      "noticia": "Los Angeles Clippers vs. Golden State Warriors Live Score and Stats - November 1, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261101_LAC@GS/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrWvJLKl6OIDlB9KqD-Bldpdy4H9BcVGdR0LIAodURZFroHVV149qLfOro5SM"
-    },
-    {
-      "termino": "hoy",
       "trafico": "200+",
-      "noticia": "Raquel Peña escucha necesidades y propuestas de sectores sociales y productivos de Hermanas Mirabal",
-      "enlace": "https://hoy.com.do/el-pais/raquel-pena-escucha-necesidades-propuestas-sectores-sociales-productivos-hermanas-mirabal_1107347.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRICqDwL3hIl3HPKswBXPOv_cJzKzsJzo-DWvA9OP25zObB50LSvG5ujTK21Yc"
-    },
-    {
-      "termino": "lotería leidsa",
-      "trafico": "500+",
-      "noticia": "Resultados de Leidsa del sábado 31 de octubre de 2026 en República Dominicana",
-      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-sabado-31-de-octubre-de-2026-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMaQNhe_oN2lZZK3eVevE1s_EwrdFx9cmx7xMifiWBGztNgfhDguQrdjAZRs"
-    },
-    {
-      "termino": "knicks - nets",
-      "trafico": "200+",
-      "noticia": "Knicks eye 15th straight win over Nets to spark slow start",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-eye-15th-straight-win-over-nets-to-spark-slow-start/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8"
-    },
-    {
-      "termino": "76ers - bulls",
-      "trafico": "1000+",
-      "noticia": "Surging 76ers look to extend Bulls  four-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/surging-76ers-look-to-extend-bulls-four-game-skid/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMi-dEkRy0UmecxQztWM5OUrrnk3QTko6eG2OiiyPoVsnmylVJHS_w23ejvX8"
-    },
-    {
-      "termino": "bragantino - santos",
-      "trafico": "100+",
-      "noticia": "Verstappen e Hadjar, pilotos da Red Bull, estão em Bragantino x Santos?",
-      "enlace": "https://www.sportingnews.com/br/futebol/noticias/verstappen-e-hadjar-pilotos-red-bull-estao-bragantino-x-santos/e1de9a8817b3653298bf3a4e",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvIwxL69GT4zg52_Xou8X9_Q9YDh-4jiMcn1a8pri0vai34YF-ze95N9Gv5bs"
-    },
-    {
-      "termino": "cavaliers - thunder",
-      "trafico": "500+",
-      "noticia": "Cavaliers look to stay hot against shorthanded Thunder",
-      "enlace": "https://www.cbssports.com/nba/news/cavaliers-look-to-stay-hot-against-shorthanded-thunder/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLWmeErXG1cqf3EVfnb7vEFMcCEQh0BK7bPFmRfzdJoo4X2G8zDIvwQFAtesM"
+      "noticia": "Rockets beat Celtics behind Alperen Sengun, take top spot in West",
+      "enlace": "https://www.cbssports.com/nba/news/rockets-beat-celtics-behind-alperen-sengun-take-top-spot-in-west/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxL3hz2kSu4g6L3BH97DpiCSO_xOi0G8C4Zp1Y6Dj81LxIfBHQblz95wxOH28"
     }
   ]
 }

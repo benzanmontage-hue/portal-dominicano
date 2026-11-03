@@ -1,15 +1,39 @@
 {
-  "updated": "2026-11-02T23:03:03.004502-04:00",
-  "hora": "23:03",
-  "fecha": "02/11/2026",
+  "updated": "2026-11-03T07:18:02.809370-04:00",
+  "hora": "07:18",
+  "fecha": "03/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Exlanzadores dominicanos de los Guardianes de Cleveland, a juicio en NY por fraude - The Morning Call",
+      "fuente": "The Morning Call",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGNnWUdNeGV1QUVldDFnVGVCVDFObkxXcTIwVHFBb3UzUGpaaFBkejl5ZVV5WW1yb3J4cmxnQXQtdjFEcFVrVC1DWm05Mm4wYkEwckd5QjZlZU1ldWFneGNTTGZfZWY3LUpiR2daaEl2c2FKVTl0M1VnaW1JUC1wcEJUQjllZVIwZFZRajdRbGZuamZocnBGYmpOVEhpOVBYUGExUlpBd3BWNmxWZ1VldkhtUVZIQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 05:50:46 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "ICE detiene a hispana por registrarse para votar en el 2024 - Telemundo 62",
+      "fuente": "Telemundo 62",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkdjeWpBd3ZscTk1dURGU0VTMm1ncW9wbDN4QVFXWmJmT3BLZTFDeld3X1BIYWZsS053dDFUWGJHNU9RekVyaVlaVUVvYzJxYmRERjNNV1N6S2VKbk5NaUNtQkJFZG5odkdlQ1Zub3g2bVd3QUpYWXBaYnBYV2E1anVIejRoVDdhWWhjOFZkOGZnSzhFUFcyU0JlX3hZRzQ5UHFsbWd0WW1NcnppeHF2ZkRPT0ZRR21nQUdDbW5GMDHSAcgBQVVfeXFMTnJzM3BTSmxpcGlmTF9sTU9FT2dMRE5OWnBGcHUwcEt3VElqNmpJRmNTOEtnZ3Mwd2I4YnFxOUZGMFZpRjdQOEo0Uk1oaGJGQkU2NVV2b0RJTkhFZUJwUXV0cGdVWU1tLTV6ZEpYZlZFdUc2V01wNG0yNUtDdEdhb1V5eXloZ1JEQ0JYcGRyZHl6QmNEU1Y3UExOcllZR3Vja0RaWlJHc1VyOXZ6R0JWb3dMX0M5NHB6enNfNkc3RTBzRFdFR0RLU0I?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 02 Nov 2026 22:01:35 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Miss República Dominicana descubre una conexión especial con Puerto Rico - El Nuevo Día",
       "fuente": "El Nuevo Día",
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0RFMVBRSUk1TW9VdG80Ml9zek5qeWtmckQ1bFgwTVBTdmwtTkIzb2FIUVMyRzU0WnJVaXVMTlNEeE5jRzNSRElWdmR3NGprV1AxaFozTnJvdnZkSnhvUUUya25VZ0l0RUJ5bk1RWjBxNjVkNUowazBVT2NfZEZHTllLd3JRYW5lOXUyVTRrbVlWWkdUTDdDSFdoRHlnWG5qZWZHTFZfa3ZrTTdJejlPOE5uOUtXVTc2TVR4VHpabWtxVnlrU19sSDdaaDU?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 03 Nov 2026 00:47:15 GMT",
+      "fecha": "Tue, 03 Nov 2026 03:10:00 GMT",
+      "imagen": "https://www.elnuevodia.com/resizer/v2/O3UVXNFXKRHI3J2DOT7XFG4ZPU.jpg?auth=001a91947c2aa6ad4481a777a7c66f84be78fb9b427aa80bb05007c07c80dd4e&quality=75&width=1200&height=717&focal=1367%2C173"
+    },
+    {
+      "titulo": "Acciona Energía construirá tres sistemas de almacenamiento en baterías en República Dominicana - TradingView",
+      "fuente": "TradingView",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWmZ0SVB2SmMwN3BadVYzcHUzM3FiUnR3N01IaU1DMDIwRm56TnFfNDB0YU5UV01IN1BoMWQ4TEFHSXZmSlVINWhzb0tNVUFWSnl2bThZVVpjRkpHRk8yc2o5N2paVUNNVm9md1g4aWt5Qm8yMllZ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 10:19:30 GMT",
       "imagen": ""
     },
     {
@@ -37,11 +61,35 @@
       "imagen": ""
     },
     {
+      "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
+      "fuente": "PGA Tour",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm9FaHFUUDhTSmtjRkdZbG1qam44QlJLYXdhaC1XblphSmRaay1QNWU1Y0RJM1R1Wkc5T1c5eTJyU0E0VHlyLUUxcTlhWHhtcVB0Rkp2aUloNHY3M25LVndDSDNhRDY4ZGUxVHFJMjdndjVCanQwdVljbkRFbk1GQTRySEVsMlNOcUgzSW1uZXJ4NDRWZTloeHg4M2ZhSHVoNDZVTUFXZ3hFSlA4SmpyVTdrVGVEZXhUa0Vsa1R2cw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 19 Oct 2026 06:58:22 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Embajada de EE.UU. pide extremar precauciones en República Dominicana por robos y ataques sexuales tras encuentros en citas y bares - Cuba en Miami",
       "fuente": "Cuba en Miami",
       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbkJBSklIcWlIcHhhWUQ0amg4RldiTXNRVjRLMWlwTWR0UkVIMHBkSkptdUNzdmlnNlZkOEQxay1sVVFnSzcxMWJ2SkQ0dzFTUlNCVU9jb2VWTUdIblV5bnZLSE5xZEpyZHVaMWx2TzZjd0hGUDNGbF9LdUVRUk9ScTJYYnl1MEhPWEZ6SEplUFNnMllxVGRrOEdaeGJEdmJ2WnlzS3FnaXNjTGtaaVRUNDVXZng4NHlOaGxnbkdZNGxFVGtGV2VBLW05eF9SbTJqLUdQaExweG1YeFhFcldqSVNRRVhsTkFmd2N5SVhpWjk?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 21:56:15 GMT",
+      "fecha": "Mon, 02 Nov 2026 22:04:39 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana fija las reglas para incorporar 200 MW y 800 MWh de baterías a parques renovables existentes - Review Energy",
+      "fuente": "Review Energy",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVp0SWJFcUNfc2tkOWMzWWdsOUFDVjNEekpIQVNzbkdYRGx5RFN3Q0ZwbGR6eTYyeTFSMXhvcS1lenQ3V2YtWXQ1MnlRS0VIemxJNm1yY0ZpbUZ4eGJ1Z21hVkRvTjB1VXZqa3BPTzY1MmJlWGc2ZWRMblpCNDh1T2VhR1FxZFhVa0NJRGVSM2VMMVNvSFRQdEhfU2JwaGJXRXFCa0VMMFQ4c0RBOGtWU24zZHlmNFY3MmZld3N5a2RvcG1MeGswYnZEYzY1ZnZBS3lNZi1oNGRScFFCQWZQVDdSTFZRYWNJWVpVcFViQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 10:04:44 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana enfrenta un desafío agrícola: cambiar cultivos para no perder rentabilidad - AgroLatam",
+      "fuente": "AgroLatam",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTlJ2ajNqdDlDYU0xdktjQ0VrM1BkQjRicWJiYWtCMVpyOGdGYVhESDZsMXY3MDhJa2lSRi02b1VVOC11UXNxT1R2endSdHRvTjFlR21UeG9HLXFldmVNV1ZhcVRqa1ZjcnNnX19qMUJiT2Y1UEZPWXNhT0ZXc0lNTERSbjB5dWc5SjJia0pYZ3JlazYxT3lwSmhwRUtxQy1GaHVaT3prSktwblpyQVdJN1BLSEJEN2RHN2czMWFCQ01ObjdfSWoxN0locVhhd0JkVk94MnN3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 10:58:37 GMT",
       "imagen": ""
     },
     {
@@ -53,51 +101,19 @@
       "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1793643662-eeuu-emite-alerta-seguridad-turistas-republica-dominicana-deben-saber-cubanos-viajan-al.jpg"
     },
     {
-      "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
-      "fuente": "PGA Tour",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm9FaHFUUDhTSmtjRkdZbG1qam44QlJLYXdhaC1XblphSmRaay1QNWU1Y0RJM1R1Wkc5T1c5eTJyU0E0VHlyLUUxcTlhWHhtcVB0Rkp2aUloNHY3M25LVndDSDNhRDY4ZGUxVHFJMjdndjVCanQwdVljbkRFbk1GQTRySEVsMlNOcUgzSW1uZXJ4NDRWZTloeHg4M2ZhSHVoNDZVTUFXZ3hFSlA4SmpyVTdrVGVEZXhUa0Vsa1R2cw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 19 Oct 2026 02:31:13 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Exlanzadores dominicanos de los Guardianes de Cleveland, a juicio en NY por fraude - Independent en Español",
-      "fuente": "Independent en Español",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGRQVy1Xc3Y5SDRveTVYbS04YmxTTFkzaDhtU3dQWWtvMkFsY1JNRkVrbE5oWGEtTkpFOTY1bGRPN0ExTjlBNTJMTmotMkM5bUNNdU9DMEpVSGdTRjU0OWFIZThGUTV2VFdER21EZWhsaHVjb1dtcVg3NjNXQk14Q3NTNXpKWjcta1BUeVVBdTI5T0piak43anlob19iWXVnamFYNl93ODdUTFJwT3NQM1JrUnpBVmI4bWIzbHZCaXAyclZrb1AyNW5sOVhaTEo0UlVwWmFR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 16:19:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Cuántos frentes fríos llegarán a República Dominicana esta temporada?❄️ El analista meteorológico Jean Suriel informó que entre 20 y 30 sistemas frontales se acercarán al norte del Caribe, de los cuales entre ocho y 15 llegarían directamente al territorio - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENm9ZOFVjcm90LUlrTUctVkJleE5DWGJjS09PSGdOaXZnOWRua0NZRTc2ZzQyeXJQSzRhNjJRVUlJcWJBbFI2VF9OeUlHX2dSQ0ZxNnVR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 20:44:59 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Alerta de Seguridad: Embajada de los Estados Unidos en Santo Domingo, República Dominicana (30 de octubre de 2026) - U.S. Embassy in the Dominican Republic (.gov)",
       "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnZFZ0FYdjRVUUtoVjRvLTFacmhoUmVvZWN4VHRsa0t5VnIwNk1vRmI5U3ZUZ0R3Zml0cWtEQ1BEajkwd3V2aXVRenNnQk8tVWZTYXZmbWgzb2wzcWhoN19seVNaVnRyQVk1WlExNVB4LTJPUWJrdTNVU0RvNHR3SEdRQ1JndTlnOFY3QWJrQkFaRVduU3hXSEZzQ3V0RHNlMHJPMmlIdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 30 Oct 2026 17:30:53 GMT",
-      "imagen": "data:image/png;base64,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"
-    },
-    {
-      "titulo": "República Dominicana autoriza convocatoria para almacenamiento de energía en baterías - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlRBR1U2WlBhUUNjT1hRUENnbDYyeWI1a0k3aExRNWROZkJtb0lzTHlwU2hNZVZqTk1lSDNldU9VMUF0RXBvN3I3N05SQmVzc3JZbWhDR0JGMUN3THNMRjVOWF9fV1F0NlhLSjhKSGZsUGFWZktqcXN1bEFlNGQyRjhBSDNNclR2RVBxdEVMS19rbmY1V1VRYWNHU1J2NW5mXzhfcmEyRjFmSENSckgyMkdyRGk2dldKSWFGbzJzQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 11:31:15 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Precio del dólar en República Dominicana hoy, lunes 2 de noviembre de 2026: cuánto cuesta el USD a DOP, cotización de divisa, tasa de compra y venta - El Comercio Perú",
+      "titulo": "Precio del dólar en República Dominicana hoy, martes 3 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
       "fuente": "El Comercio Perú",
-      "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcUpUWXRNQmRWb1dlWEZXY0s3bjVjZG0zY0d6RkhqbUN3Y2YxUGZ3N05yWFA0U3F6MzJlNFMyQW1CaEdpVzNoV2tOM25iWGhhb09SLXZLMGhiQUlaNW13dV8ycnZzTjQ4eWtNbEVVWFhsbkFjRmdyS1VfYWkwUVYtdjJUVmtONlVYYWdONW1GN3FHN1NPZERvczFvY0lDOEFhRm5jaWRzRmc1TUxRc2s2cW5udVM1U1pkTTM1SW9OcW5SbEd2Z2NMQVdHb0Zfa2xPTGJvcDBkUU5Kb1h2MENXMl81QlZ5N0kzQUZ5UDRsdEZrdHdIV3BWdWtwRFZ6ZGdQOTRkVnNwZEh1eGJCNTY3ZDViYTZadkJMUHAyczhDLVNYejNuMVZZ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMjhEa0JlUks1aDFQN2djQlFyOTV0UTlINjVvSGktc3JNZlBnRWZYblF5bXUyRXg0U3dYQzdRZnBsSGpiUHVfcnVZZVFRZHUtZnRiaGtWR2pzc0dsaVdlRlUzR3JpWHM2RUtzUVdzTUZBWkNVT0VvLVZlMUV1SHpFWG4xQ0FURkxuX0lNZ21HMHhVOGV2N0U1TXBidHJSRGhfQkJZTVNzNXpuSjdYYU53c3ZlR0gzcDBzcF85elc2OVRjT3cwMkVXVzdPeHdWcEZROFpaWWcxU19uckxhd3A4eWR4ZkFHaEZxU25SYVBjN1lmRDYxOE1v?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 21:37:23 GMT",
+      "fecha": "Tue, 03 Nov 2026 10:50:00 GMT",
       "imagen": ""
     },
     {
@@ -106,22 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1ZOT2xlYjlVNWFxOXcybGZscDJxTHZLRXo3SFREUnl0Nm9uemVtOWowcE52NVVvQVVQNHdMYm14aHZzaDRsa25OQklySTcycG5FT1VZdFdldnFfWHFVWUplTkVVRzNRNzFMdmtLOFdvTXpSakx6SUV2UTRIcVd6clU5UlQxVVJaaHVQSmFfdzJBN2xGclJtblJqNFVFbWJOWlZDNkdtSHFfWDBVNkJDYXl6Z1B1TWxPaFR5NFlrTHBaWmJH?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 29 Oct 2026 20:45:36 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Bukele envía miles de soldados salvadoreños a Haití con apoyo de Estados Unidos, Colombia y República Dominicana - World Socialist Web Site",
-      "fuente": "World Socialist Web Site",
-      "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaUJfTmJNVHU3amx2cm93OFZwTG1KTk1TQUtCZERpRXU0X1NxZEU3a01waUZBenhyWWotR3M5Q25uWnBSeHBuVjV5SGFsREszRkN1aUN4WVZpakV6LXlOY2E3aE83UjBr?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 02 Nov 2026 05:33:29 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
-      "fuente": "ProPublica",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
       "imagen": ""
     }
   ]
