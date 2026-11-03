@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-02T16:52:35.733882-04:00",
+  "updated": "2026-11-02T23:02:52.054014-04:00",
   "fecha": "02/11/2026",
-  "hora": "16:52",
+  "hora": "23:02",
   "total_juegos": 53,
   "juegos": [
     {
@@ -43,35 +43,35 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "43",
-        "75",
-        "18"
+        "26",
+        "39",
+        "54"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
       "compania": "Loteria Real",
       "juego": "Chance Real",
       "numeros": [
-        "16",
-        "08",
-        "33",
-        "82",
-        "20"
+        "76",
+        "18",
+        "93",
+        "92",
+        "56"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695be"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "91",
-        "96",
-        "46"
+        "14",
+        "88",
+        "97"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -90,12 +90,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool Noche",
       "numeros": [
-        "45",
-        "60",
-        "36",
-        "13"
+        "25",
+        "98",
+        "70",
+        "36"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695cc"
     },
     {
@@ -150,9 +150,9 @@
       "compania": "Loteria Real",
       "juego": "Repartidera Real",
       "numeros": [
-        "24"
+        "28"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695c5"
     },
     {
@@ -189,11 +189,11 @@
       "compania": "Anguila",
       "juego": "Anguila 10:00 PM",
       "numeros": [
-        "73",
-        "55",
-        "67"
+        "56",
+        "21",
+        "23"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6a511b0a07d516b9c5107d05"
     },
     {
@@ -266,33 +266,33 @@
       "compania": "Anguila",
       "juego": "Anguila 5:00 PM",
       "numeros": [
-        "09",
-        "95",
-        "51"
+        "53",
+        "85",
+        "20"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6a5116f607d516b9c510302f"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 6:00 PM",
       "numeros": [
-        "74",
-        "33",
-        "54"
+        "24",
+        "49",
+        "61"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d617"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 7:00 PM",
       "numeros": [
-        "56",
-        "67",
-        "45"
+        "65",
+        "18",
+        "63"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6a51185b07d516b9c5104c69"
     },
     {
@@ -310,11 +310,11 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "00",
-        "09",
-        "77"
+        "78",
+        "18",
+        "97"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
     },
     {
@@ -332,11 +332,11 @@
       "compania": "Anguila",
       "juego": "Anguila 9:00 PM",
       "numeros": [
-        "04",
-        "99",
-        "72"
+        "75",
+        "73",
+        "04"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d61d"
     },
     {
@@ -367,62 +367,62 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 6:00 PM",
       "numeros": [
-        "01",
-        "33",
-        "82",
-        "90"
+        "93",
+        "15",
+        "27",
+        "21"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d629"
     },
     {
       "compania": "Anguila",
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
-        "92",
-        "82",
-        "86",
-        "65"
+        "71",
+        "50",
+        "08",
+        "17"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
     },
     {
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "97"
+        "99"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "68",
-        "87",
-        "86",
-        "91",
-        "63"
+        "51",
+        "30",
+        "36",
+        "42",
+        "31"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
       "compania": "Loteka",
       "juego": "MegaLotto",
       "numeros": [
-        "13",
-        "24",
+        "19",
         "21",
-        "31",
-        "33",
         "10",
+        "34",
+        "14",
+        "23",
         "06",
-        "08"
+        "12"
       ],
-      "fecha": "2026-10-29T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4e6"
     },
     {
@@ -440,11 +440,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "22",
-        "74",
-        "06"
+        "00",
+        "49",
+        "63"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
@@ -471,9 +471,9 @@
       "compania": "La Primera",
       "juego": "El Quinielón Noche",
       "numeros": [
-        "52"
+        "83"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5d8"
     },
     {
@@ -491,25 +491,25 @@
       "compania": "La Primera",
       "juego": "Loto 5",
       "numeros": [
-        "08",
-        "37",
-        "22",
-        "26",
-        "09",
-        "01"
+        "25",
+        "29",
+        "04",
+        "01",
+        "34",
+        "04"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5cc"
     },
     {
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "15",
-        "59",
-        "67"
+        "70",
+        "47",
+        "04"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c6"
     },
     {
@@ -527,11 +527,11 @@
       "compania": "La Suerte",
       "juego": "La Suerte 18:00",
       "numeros": [
-        "07",
-        "21",
-        "16"
+        "00",
+        "34",
+        "44"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d5e9"
     },
     {
@@ -554,73 +554,73 @@
       "compania": "Leidsa",
       "juego": "Loto Pool",
       "numeros": [
-        "20",
-        "16",
-        "13",
-        "21",
-        "27"
+        "25",
+        "04",
+        "10",
+        "31",
+        "02"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d45f"
     },
     {
       "compania": "Leidsa",
       "juego": "Pega 3 Más",
       "numeros": [
-        "23",
-        "26",
-        "34"
+        "21",
+        "14",
+        "22"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d471"
     },
     {
       "compania": "Leidsa",
       "juego": "Quiniela Leidsa",
       "numeros": [
-        "80",
-        "83",
-        "48"
+        "04",
+        "18",
+        "77"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d453"
     },
     {
       "compania": "Leidsa",
       "juego": "Super Kino TV",
       "numeros": [
+        "11",
         "04",
-        "52",
-        "09",
-        "47",
-        "77",
-        "72",
-        "03",
-        "19",
-        "10",
-        "46",
-        "65",
-        "60",
-        "73",
-        "70",
         "79",
-        "68",
-        "20",
-        "18",
+        "09",
+        "54",
+        "23",
+        "45",
+        "22",
+        "62",
+        "72",
+        "59",
+        "08",
         "71",
-        "11"
+        "36",
+        "01",
+        "16",
+        "83",
+        "47",
+        "42",
+        "32"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d459"
     },
     {
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "80",
-        "43"
+        "04",
+        "26"
       ],
-      "fecha": "2026-11-01T04:00:00.000Z",
+      "fecha": "2026-11-02T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -629,31 +629,31 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "43",
-        "75",
-        "18"
+        "26",
+        "39",
+        "54"
       ],
-      "fecha": "2026-11-01"
+      "fecha": "2026-11-02"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "91",
-        "96",
-        "46"
+        "14",
+        "88",
+        "97"
       ],
-      "fecha": "2026-11-01"
+      "fecha": "2026-11-02"
     },
     {
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "15",
-        "59",
-        "67"
+        "70",
+        "47",
+        "04"
       ],
-      "fecha": "2026-11-01"
+      "fecha": "2026-11-02"
     },
     {
       "compania": "La Suerte",
@@ -669,11 +669,11 @@
       "compania": "Leidsa",
       "juego": "Quiniela Leidsa",
       "numeros": [
-        "80",
-        "83",
-        "48"
+        "04",
+        "18",
+        "77"
       ],
-      "fecha": "2026-11-01"
+      "fecha": "2026-11-02"
     }
   ]
 }
