@@ -1,7 +1,128 @@
 {
-  "updated": "2026-11-03T20:11:53.876886-04:00",
-  "hora": "20:11",
-  "fecha": "03/11/2026",
-  "total": 0,
-  "noticias": []
+  "updated": "2026-11-04T02:57:15.097629-04:00",
+  "hora": "02:57",
+  "fecha": "04/11/2026",
+  "total": 15,
+  "noticias": [
+    {
+      "titulo": "El ministro de Exteriores dominicano reclama más celeridad ante la crisis de seguridad en Haití - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHhUYmNadEhwQ0hOS0p6LXh4ZWFVMkpGa2hsTnpWdV8xdHVLZ0J2ZEc1bXlYUEFXS3lpeVJlQmhBYXM3Z1pCVXRkejE4ZkU2NEVMOVJhbjhnbWhaREZSZjVfN0pTNmpPbHZnUUQtNVFPOUpjdFhNcjB3RHlQc3JUb19rYm8wYkx0ZzEyRmNaMDgxUkMwOFdLdGdBUi1SMEw3N1ozRURMY1E4RUdLeVNIVFpSaTUxN1ZzbWxXMFphUU1kOVUzRWpXVVZsWkNwRDRGRmlxbExn0gHbAUFVX3lxTE1wSFJqeUF0TW1ndGdZVzhoZ3lpeDFpV19KNldjSWc1UEM2dS1ObXJJQ25IWDBPSEw0am1BNWdYUnhQdGZ0ZkJPbHpTSHR5NFphTHc4c0pvaU5fVURsWGV1VGh1TzhYN2lGTTA1bHQzVVFHZE9DOF9WRXlHbmZJckR3amUzWXplWXY2N2Q3alFhS0J1bXV0Q053elhpZWxrQTAwTThmYUJUX1ZmV1JHTVhGNThjVUdqT0pkVzZQc3ZIY0JRVnRrajBmcGpXdFlUelgzNG9zTHJWOW1oQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 23:11:00 GMT",
+      "imagen": "https://media.diariolasamericas.com/p/3becc46120a25a1d49a2418c3839e29e/adjuntos/216/imagenes/100/286/0100286138/1200x675/smart/europapress_7887953_ministro_exteriores_republica_dominicana_victor_bisono_entrevista_europa.jpg"
+    },
+    {
+      "titulo": "Fitch Ratings eleva la calificación soberana de República Dominicana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1dsZFg4ZVVJOVhXdjU4eTNQd25vWjRYRmdWbHdKRTJjNjFmaGpxN1NwQ2QxdDduWHNsb3h3czVlOG5yNDZaYWRrTTJmSUNzdGk1SnRJcDctT0VqbUI1bXc2TF9CNVFSRzh2bUpVRmpKeHA4OWZmX3ZrVGotLXBYN3U3RUk1ZTVxd0R0bVhYYkxJN203SHI2dG5ObWp4dDZYUjc4SGF0cU03d0hEcDdXZDRBelFGODRwOEFnMURtdGZHaVXSAd4BQVVfeXFMTnVub2lUc2JtTUZLbXI4VnAyOFRIVGhZSGNDUkhaemtTaTltdy1JeFpZem1LQjlOeUZKMHNMckM3WHBld2k4a3VCcENYWUFxeTBSNVpXdWtVQUZORzc5TmNkbHJDdEU0d2JSaGdtYlMwYTlmME1SZ0thampKQmhEUkotb0FOa0J5SVI1V3Q2RExucGVyWE1DYjhtOUVna19FUzNqZV9sc3VaVjFyTWhxbC1OaUJxVUEzNmpiblhRWFBQRXEwZFNKUndGSlhrMnlELVdHUkl4Q2tDT3V3RkFR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 03:08:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La muerte de dos mujeres en menos de 48 horas, en hechos ocurridos al comenzar noviembre, vuelve a poner de manifiesto la persistencia de la violencia contra las mujeres en República Dominicana y las dificultades que enfrenta el sistema de prevención - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YYi14eU5XWjRKZkc5LVdrdGRGTEJOWHhwSHRoSGZtdFBDaHJqT0Zjd2xJSlZaaTFmTlNlR2dhS3pTTVItRUh1dXkzY0JHMVUyNHc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 19:50:02 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Savoie triunfa en República Dominicana y se suma a Los 10 - PGA Tour",
+      "fuente": "PGA Tour",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm9FaHFUUDhTSmtjRkdZbG1qam44QlJLYXdhaC1XblphSmRaay1QNWU1Y0RJM1R1Wkc5T1c5eTJyU0E0VHlyLUUxcTlhWHhtcVB0Rkp2aUloNHY3M25LVndDSDNhRDY4ZGUxVHFJMjdndjVCanQwdVljbkRFbk1GQTRySEVsMlNOcUgzSW1uZXJ4NDRWZTloeHg4M2ZhSHVoNDZVTUFXZ3hFSlA4SmpyVTdrVGVEZXhUa0Vsa1R2cw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 19 Oct 2026 06:58:22 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Miss República Dominicana descubre una conexión especial con Puerto Rico - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0RFMVBRSUk1TW9VdG80Ml9zek5qeWtmckQ1bFgwTVBTdmwtTkIzb2FIUVMyRzU0WnJVaXVMTlNEeE5jRzNSRElWdmR3NGprV1AxaFozTnJvdnZkSnhvUUUya25VZ0l0RUJ5bk1RWjBxNjVkNUowazBVT2NfZEZHTllLd3JRYW5lOXUyVTRrbVlWWkdUTDdDSFdoRHlnWG5qZWZHTFZfa3ZrTTdJejlPOE5uOUtXVTc2TVR4VHpabWtxVnlrU19sSDdaaDU?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 03:10:00 GMT",
+      "imagen": "https://www.elnuevodia.com/resizer/v2/O3UVXNFXKRHI3J2DOT7XFG4ZPU.jpg?auth=001a91947c2aa6ad4481a777a7c66f84be78fb9b427aa80bb05007c07c80dd4e&quality=75&width=1200&height=717&focal=1367%2C173"
+    },
+    {
+      "titulo": "Acciona Energía construirá tres sistemas de almacenamiento por 21,2 MW / 41,7 MWh en República Dominicana - pv magazine Latinoamérica",
+      "fuente": "pv magazine Latinoamérica",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONlBoUGQ5XzlWaE9tS2t4M1kwenJEZWVkTDNzNUhhQ0lEN1NlX0xVVkJxUF82UEx5Vm9uUUlxdlhoNEdTV0NyZTJFcUF4R3h4dmNwUFM3SHlISnNhOFlfbnA3X3NtSDEzUzI2WGY2ZUpyY3dMdGYtczRpSjZsdVM5Vm5ycTc1cTRwcUZyZjVRU29PVjMxM05nSXg0TWpYREpJb0VRbEFHNC1GaThmWFpMNUZXWUVXeUc2Nk9wTC1hVWE3b0g1VWdGb29vSDJISU5sbWNwc0N1bnlKcFRIbFFuXw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 14:13:31 GMT",
+      "imagen": "https://www.pv-magazine-latam.com/wp-content/uploads/2026/11/2425f4df-afdc-4afe-9c4d-a8ee7985ea87.png"
+    },
+    {
+      "titulo": "Alerta de Seguridad: Embajada de los Estados Unidos en Santo Domingo, República Dominicana (30 de octubre de 2026) - U.S. Embassy in the Dominican Republic (.gov)",
+      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnZFZ0FYdjRVUUtoVjRvLTFacmhoUmVvZWN4VHRsa0t5VnIwNk1vRmI5U3ZUZ0R3Zml0cWtEQ1BEajkwd3V2aXVRenNnQk8tVWZTYXZmbWgzb2wzcWhoN19seVNaVnRyQVk1WlExNVB4LTJPUWJrdTNVU0RvNHR3SEdRQ1JndTlnOFY3QWJrQkFaRVduU3hXSEZzQ3V0RHNlMHJPMmlIdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 30 Oct 2026 17:30:53 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana publica pliego de licitación por 200 MW y 800 MWh en baterías con adjudicación en febrero de 2027 - Energía Estratégica",
+      "fuente": "Energía Estratégica",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0lGS2tqNThxWXdjU1E3TThlZURISThjX2gzblFPREdmUDM4QVdESm1yOXhXUEx3R2lxUzg2NnVrQnNXelFIaFlwYWRqLU02cG5CQ2ZIb1Mya1JReVVjUlc3cnB2OWFVX2FqWkw1SERFS1NIT1U1bU1lbElCbDhKSXlZQ2oxaXIyZUNQVDE5OVpFVk9XSmJncC01OUlTemVCenh3c2owTF9qYlJROTFiSTl5Z2pYZVhLOHZ3UmZDMjZaNURsMUxZVGFjSTBVYTlWdGVwWm5ZTUI3ZldGRFNVQktjMmZMZlZwLVh1SllwNnhDYmtn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 02 Nov 2026 15:36:50 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acciona Energía construirá tres almacenamientos de baterías en República Dominicana que operarán en un año - El Periódico de la Energía",
+      "fuente": "El Periódico de la Energía",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY053cVJueHg2aFFYR0xNdjRNQ2pEc0htOWtOTzV4eFF0RFhGMl9ZalhHczZ1MmFSa2F5UkNwcUhXdy1xTGZrZGtFQU1wSXBQMjFpX2lfMXpDX1lDWDlLeEtBZ2V3MlJ4SHQwVHRETEs5bEljSTl2OTFRc0p0eGxDZUZpVV91QlVkc05ZY25sWEp3VFlVVHh3Y3Z6YWJTc2diX2k3VzRSSmhhUUdkblVwak03UzVzMFNUWklxZU1xT0ltY1dPemJzVzh1RlVQeXZ4azh5d0c1eU9uUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 16:52:45 GMT",
+      "imagen": "https://cdn.elperiodicodelaenergia.com/2026/11/6ae9bb62b17f5a144a4e62bb.jpg"
+    },
+    {
+      "titulo": "¿Viajas a República Dominicana? La advertencia de EEUU que debes conocer antes de salir - Periódico Cubano",
+      "fuente": "Periódico Cubano",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVm9qWkJXVGo2NllpS0NFeDY1TXVGTHNGY29lTVRhcHBZa3BPbFhwZkI0ZkVULXJvdFBUUWxKV1MtQVNfMEtibWRVNXkyYUdBWTBMQkx1YlJNUDNwdm0wOGtBbFJ5YUU4T3JiRDRFb1RvMHFnNElGTVZ1SWoxZk1KQVFMaThOY2hUdGRNd3U0cWJjMmN4MkhzMGxiVWFteWh1R19xek9halIteUVXVmtkVm5tem5CWXFUX1HSAcIBQVVfeXFMTTlKeFFiT3VrdVo4NnBaNk1kS05IQ3lIOWJMX0N6ODBsRlhTWk5ETnlNUE4zQUNaWDRXc0MxY2ZGeHFWa3ZwR0RJYWJvV29wZWxOWXgxejF1S2h3bHFiZWNMVWhfTEQ0MzJ2bmN6bHJiLTZYdVdfNk40QU9obzYtVDJUWDRxeTU5QXZQaDM4VFZib1VhMWtuZVhUQU9CWEl5UHFncEsxRXRHdWZtakFLcHpBenhHSG41X0tVMGc1VS1DcUE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 15:20:54 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Centroamérica y República Dominicana identifican avances y reafirman su compromiso con la Hoja de Ruta contra el Tráfico Ilícito de Armas - OAS - Organization of American States",
+      "fuente": "OAS - Organization of American States",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUE5OElvYkQ5VlI3a211c0ZZTVdhOWRtWjJjWk9PLU9BcFRjaEh4OHh2bE4ySXRERnRHNUtoMmczZGVULUdILXlhQUwwX1RPVjlzMy1UTUNScl9LbXZXYlo3dGk3Sy1qYVlnTDVVdWVmcUpQcUlVTHpZYkNPM1A0MjdkRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 02 Nov 2026 20:49:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio del dólar en República Dominicana hoy, martes 3 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMjhEa0JlUks1aDFQN2djQlFyOTV0UTlINjVvSGktc3JNZlBnRWZYblF5bXUyRXg0U3dYQzdRZnBsSGpiUHVfcnVZZVFRZHUtZnRiaGtWR2pzc0dsaVdlRlUzR3JpWHM2RUtzUVdzTUZBWkNVT0VvLVZlMUV1SHpFWG4xQ0FURkxuX0lNZ21HMHhVOGV2N0U1TXBidHJSRGhfQkJZTVNzNXpuSjdYYU53c3ZlR0gzcDBzcF85elc2OVRjT3cwMkVXVzdPeHdWcEZROFpaWWcxU19uckxhd3A4eWR4ZkFHaEZxU25SYVBjN1lmRDYxOE1v?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 22:33:47 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Del sargazo al suelo: una nueva oportunidad para la agricultura sostenible en República Dominicana - CAF -banco de desarrollo de América Latina",
+      "fuente": "CAF -banco de desarrollo de América Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1ZOT2xlYjlVNWFxOXcybGZscDJxTHZLRXo3SFREUnl0Nm9uemVtOWowcE52NVVvQVVQNHdMYm14aHZzaDRsa25OQklySTcycG5FT1VZdFdldnFfWHFVWUplTkVVRzNRNzFMdmtLOFdvTXpSakx6SUV2UTRIcVd6clU5UlQxVVJaaHVQSmFfdzJBN2xGclJtblJqNFVFbWJOWlZDNkdtSHFfWDBVNkJDYXl6Z1B1TWxPaFR5NFlrTHBaWmJH?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 29 Oct 2026 20:45:36 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acciona Energía construirá tres sistemas de almacenamiento en baterías en República Dominicana - TradingView",
+      "fuente": "TradingView",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWmZ0SVB2SmMwN3BadVYzcHUzM3FiUnR3N01IaU1DMDIwRm56TnFfNDB0YU5UV01IN1BoMWQ4TEFHSXZmSlVINWhzb0tNVUFWSnl2bThZVVpjRkpHRk8yc2o5N2paVUNNVm9md1g4aWt5Qm8yMllZ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 10:19:30 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La República Dominicana afronta un alza global de 23 % en los productos básicos este año - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNl9xMnd3Y24zSkxUZ29lZmNXNFpMdVRQaFdyYmxSYnNmOF9CTERsd2NyQ243cXlqV3F0Mk4yOWREZDRrMGF0NzJSN3R3QkVPeWphTkw0ck9zNUd4eC1zOFRBMHA3Y1N0d0RJSWVDazVTaXhCd2lFQ0dqUnFBbUVCSFNPelJZS3lja3BEQklwZXJQZGxfMVNSQ0FzTnRESVhRSF9qSWNPaFB6ZkVTNUczamRkdnZldHFSRTRIX0hQTTVIa3JpRVdfWmM1M0EzeDBYbVBFSWxIdVhIVWPSAfYBQVVfeXFMTzctOEtYRGtrVjJrMFd5SnprMUtURFNsNVpxTmVJQTBCWE83dDZuS191MjNidXdzRHo0NGxuZTR5WlhaWGZRVlVKUWxMdmQ5ZTNJc25PaF9LQXVIM1hvVVRTMlF0Q1QxaXY1Mmpkd3htV0hfbHlnZFF4Tm1hQXpmc2xualNzMklhUE9aYzFBQjNvUkJuU1cxNm9XMG9tVlVqVXBJdmUxQ3VDQ0ZHUC05ZWZxc1dXUzlCS3ZDaDRUWlBSWV84amF6TmJvdzJYMlN4Y1o0amV4TDloS1N2dGFpcWZ6Z3RZRUZtdXB2NExESklqaTNjbWdR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 17:55:00 GMT",
+      "imagen": ""
+    }
+  ]
 }
