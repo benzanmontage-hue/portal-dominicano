@@ -1,15 +1,111 @@
 {
-  "updated": "2026-11-04T20:31:42.363699-04:00",
-  "hora": "20:31",
-  "fecha": "04/11/2026",
+  "updated": "2026-11-05T03:21:10.625556-04:00",
+  "hora": "03:21",
+  "fecha": "05/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Pujols se entrevistará para ser mánager de los Astros de Houston, dice fuente de AP - Houston Chronicle",
-      "fuente": "Houston Chronicle",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGRpdDZNNzlmVURveEh6ZGJfWEwyeEs0M2pHY1U5bG4wRExtRUJoRkdUVFRPU0dPdFprMDdpcGhZWEhXQ0RiSlFvLWZBYlp0aFh3Wi1CVWFSMjE1NUFYQkZ5SUd1YVJGemRfaUdBR0owSUpuS1JDZU9qVlFrZi1BZl94dXJzWEJvMnRPWTZ0bF9Ra19mZkpSZkQ5dG5mb2VfMG13eGtEZHJ0Zw?oc=5",
+      "titulo": "\"La llamaba y la amenazaba\": Viajó desde EEUU para presuntamente asesinar a la madre de sus tres hijos en República Dominicana - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTjNPaVR1WWpEejc3NjQ0OHZ5bDlIc1IwQ0ZxVEF0bi1UVlhVb0xaaVlZeEJGLXJuNlRaNGFQUnluUDhNUXdjTzJnTUFJRjkza3d4bW52UURjSVhzOG0zcTNDZzVJTXgza21pa2VuUUs2bEJxTzdKUEt1YUsySE5TY0pDOTQ5NEl6b0FZOVdSRzZsMlBUdElFeFp2N2dJd2pVbXhEaTh2TzhkRVFHSzE4RTFORjVyX2RDSENsX3Q0eFNyYl9QbGdnazN4WjE4dXRCeXNTaGZqSG5MbVh5T3lMRDVhc2I2NlhSRjI5c1dUMkxlcjNfNVBNSWQxMmZtVFdVRFBNdGpTYw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 23:32:11 GMT",
+      "fecha": "Thu, 05 Nov 2026 02:08:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio del dólar hoy en RD miércoles 4 de noviembre - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFN1RHo4NjNoMkVVQ29aenpCZldoaDk3MlplU1M1a1NUakNIOXl3YUNyLVpfVnBYaEdjQmF5Qmw1VzhzN3d5SlZRWVhQQmxBVkhaRmh6VUhYUUZsalVSVkRVUHR1OXBuYzZnYXA4MDdOTHFINFgxeUpvYnhYcFhvOFJkS1ZwQWlVSEx6bXdR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 14:43:32 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Un pedacito de República Dominicana en Londres llama la atención de todos - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEJvRUQzRG9xbzE0dl9KYk1pRTFnaU5KX1drQmVGd3VZbjJwNmthaERjSHZhSmhqZFRVc1BUeDVxSWJ4WWpHWGFyVklPZ0VJLWNiMk5WOVpnNTdXM09OM0Jzb0FuaVhVZU9icGxRb3d2MWZCN3I4OWU3c2R3SFhXWWl1X0NGUE81c1BVbW0zb01yNDRDRW5Ka3E0bTRCbHJMVWoyZzVQTUVLZUxhVlNPSlpwNHBQQ3h0MURWbNIBwgFBVV95cUxNRFBYV0RJWktUY3E4STNQei1WWnJLYklwOXFEdURIZk5PaVVjbWJqU2lQc0hIMDdGRzN2UWVUSGkwSFJPM29ib2ZnNkRJd1J0eU5WX0IySEZFY3o1dzFRZjh6WWRlaE9fS0dTYzNhekNaMjZiSVJiR3o1SFExbmZ4OWU3Y3MtOUJlcUYwWktZVDBUNmtKZV9IQ0RwRG5vZkVScU5VUV95RkxzclVqckxWcHFQak1vRVN2cnlQVXdabjFJUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 12:33:53 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/04/6aeb17e8859ac.jpeg"
+    },
+    {
+      "titulo": "República Dominicana reunirá a jefes policiales de América Latina y el Caribe en cumbre de AMERIPOL - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGpWeVZWb1BYQXBaZUs1NWRBWkRtWm1LZzZZZERfLUUyTGwwb3BDMGU0Q0tPODVXQURmbEl0ZDNUUV90cGVibG9tZmtQVURaTXBkb3duQ0FjQnNlcjU3SVZBSzBWY0tYZGFBSWl3enZrUWI5S2FJbUNTb0pLWi16VE5UeTVyRW1SSDk0Y21KamUtSVIzT09ZaTN2RllUWm9aUGgtWDdSeWVja2tNY0JxQ3pPWHVVbmloTmdiQ1J0RTlWWUlsbXB5UE1QbktvbGt0SURkYnQ4c1YwQ1Y4M2fSAd4BQVVfeXFMUFhqVnlWVm9QWEFwWmVLNTVkQVpEbVptS2c2WWREXy1FMkxsMG9wQzBlNENLTzg1V0FEZmxJdGQzVFFfdHBlYmxvbWZrUFVEWk1wZG93bkNBY0JzZXI1N0lWQUswVmNLWGRhQUlpd3p2a1FiOUthSW1DU29KS1otelROVHk1ckVtUkg5NGNtSmplLUlSM09PWWkzdkZZVFpvWlBoLVg3UnllY2trTWNCcUN6T1h1VW5paE5nYkNSdEU5VllJbG1weVBNUG5Lb2xrdElEZGJ0OHNWMENWODNn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 22:45:30 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Con la Dra Controversia - Aumento de los divorcios en República Dominicana: principales conflictos familiares y patrimoniales durante el proceso de divorcio / Libro “No nací para rendirme - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPaUNkUXcwTUdkZjlMMGhyS01EamQ5Z29teTBERDlKQ2NpM3lYYWVkUDdwam5YQTd2OVk5NkVJRTd0WWhXbHlERnB6YmFCeUJDX3ZqU3otTDBqc2Q5eGtDREZwdE1JQ3RDb1cwS1NsREY1WWQ5elBiRjJXZFJadlJuVE5uYnh5T2sxbzY1ZGR2WDdfY0hwWldyVms0c3BTWkVMaUotS3lMX09NTjlQSkZmRlU3R0duMmV0OHZxVm5SSUZLNko1N21fbFVCeDNKaEVZalVXai0zb3Y3cjFtVkRqaFV2bGRDcmNZYTduUE9OUGFuVWQtVm1WaGlqX1RMeVlOT1hVMTEwbzR4WjRnSUEzMVNKcWV2LWxJTndoX1pkczEwa2tYbmhSYkpBNTJlWnhhUFR1aGQwV2JPZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 18:40:50 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana con nuevas representantes ante el Parlacen - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemdjcGlGUDhpYUdVUE9CVXdCTFotZ3FzdnVzNFBrTl80eDdzUHUzMmlWb0RaZjZZakNnbGRhakV0ZzVHYVdOejBURFd4eE9IMVBxUFNMdV9MRThzSWtVa29aVjh1YXNmdUQ3ajV5bWNRN2JWRng1OWNwWGhqLXlaVnNldE42Ymh3ekRRYWxzS3ZOZUpRaXFPSFBOeGhkU1nSAaQBQVVfeXFMTjR6UjV4SzdrOHNiQzktY0ppelE2RGZnV283QkdIN00zblRBSUpWM1I5cDc2RkswTWNhT0lRaWZiSEhOM1VOZExzZzhfU0kwd0RNSWlkRW4zZTMzNi1pNFZtX1lMRmNuV1ZRMHZKTm12eVZuUFVjTDlYb0J3dkQ2R0drXzFxVVM2QWJ4cmc1al83WWpPb01hVzk4dy1wMFFkUUFHYk4?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 03 Nov 2026 16:38:20 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/11/03/6aea0deeed509.jpeg"
+    },
+    {
+      "titulo": "VIDEO: República Dominicana avanza en su búsqueda de petróleo dentro de Guyana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjBRQ0FQM003cl9PNHRnRE15NmZHOHdLYVZuV1RlV0RnR2JDNVAtblBONW1hcXJ2Q0E1LVQ4cmMxUmwwM0lwYThnTzNCNTQ1SGNlUVZ3NzlKRk9mbU9JYWVqMmk2bnVpWmxZMEhsdHZ4SEhyTXltbkx5Q3pFcEY0Sk0zZXZtVGI0UWQ5dWY4dVdwQ094NFk0MFQ1cVpiNkFjZm9yNmlLdThXckdlRWdrdA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 17:48:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana prepara política nacional de sostenibilidad turística con apoyo de ONU Turismo - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYnRsS1YtLTRLSHRleE1PWEVVTUZjZ2QwRnNxMTNUMmt6MFpQcExwR3RlaXRzQloyWEZ4c2RHWWZod1llZ1Z6SWJFbUdEWk5IYm9pQlk0YW9GRnVJRHMyal9Gc0U3ODNCLXpjVk9OWm43SHJEcHB2dUtpUlNJUjZVTkx4RmY2NVl5dzdJeGIzbnRGWGN1ZGlUOFNJS051elJRU2g4NHRnUkxYY3FXX2NhU3E0ZUlsWVp2SFU1bzB1WWd1TU45eERhM3lOUmVrbWFXOTdHeE9MYnR2UdIB2gFBVV95cUxOYnRsS1YtLTRLSHRleE1PWEVVTUZjZ2QwRnNxMTNUMmt6MFpQcExwR3RlaXRzQloyWEZ4c2RHWWZod1llZ1Z6SWJFbUdEWk5IYm9pQlk0YW9GRnVJRHMyal9Gc0U3ODNCLXpjVk9OWm43SHJEcHB2dUtpUlNJUjZVTkx4RmY2NVl5dzdJeGIzbnRGWGN1ZGlUOFNJS051elJRU2g4NHRnUkxYY3FXX2NhU3E0ZUlsWVp2SFU1bzB1WWd1TU45eERhM3lOUmVrbWFXOTdHeE9MYnR2UQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 22:00:18 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, jueves 05 de noviembre de 2026? - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOTRBcFNFZmNlbXVURXRiWTdibHU0UkxndjczX1o1YktKekQzTVVpYWhTZks2Y01rVmp5ZGxueUNxTS13a2o2TnFoYWpOT0xQb182UEVPRnhrS1lIRTAzVTFabjNzVTdlU2VOckItTkFwNGhHNVRpVGZRVC1ZM1hkcFdJcFA4aHFmOGpYa1RPcE1ZZE9WTkZJNHNpVFJhLUg3SDFWNllxeFJNUTB1OU5NNTUwTy1lRHliaXk2Tzhzb3VIdkpMRkg4SkpWQUY0OWdLbi1sNHJiN2VlLTdjMWpjV1dkaWNuOGRZei1DemlPUTE4UGlv0gH0AUFVX3lxTFA5NEFwU0VmY2VtdVRFdGJZN2JsdTRSTGd2NzNfWjViS0p6RDNNVWlhaFNmSzZjTWtWanlkbG55Q3FNLXdrajZOcWhhak5PTFBvXzZQRU9GeGtLWUhFMDNVMVpuM3NVN2VTZU5yQi1OQXA0aEc1VGlUZlFULVkzWGRwV0lwUDhocWY4alhrVE9wTVlkT1ZORkk0c2lUUmEtSDdIMVY2WXF4Uk1RMHU5Tk01NTBPLWVEeWJpeTZPOHNvdUh2SkxGSDhKSlZBRjQ5Z0tuLWw0cmI3ZWUtN2MxamNXV2RpY244ZFl6LUN6aU9RMThQaW8?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 17:00:05 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Leonel afirma que en 2028 inicia la generación de relevo en la política dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2tobGYzZFh1azdLa2lxT1o5Vm9yU3pIdkZ6RnRQcmhZTDlfSnZrTzk2ZjJwS042NjBTd2pTWFNSVEU4eUFvZDlPSHE1MlhjTmVoUE5pN0pBeG05eUUwbjdHVkY5M0hVRFFFR3VMakZwcENkb3BPcHlCVmFkVHVzRk9maWVzZkdBN1lQcXUxVHh4SEYwYUx1SzRac0t3eFhCTFZiSjBQVVRIczZnakhoMVpsRnMtYzZ5RDZzSjFWalc0eWxVb2t4N09qa9IB0AFBVV95cUxNbHR5Y1JZdWJWMlNoVjVEdDdidjVvYlFxMU5DS2JkTEQzQVo3LXd2SktYaGNoMWV1UEFjSFFBeWpiUHpjYlB4QXNDdTFpcDdrd1JTb1pQYTAzMzg1VWFXQ3FrcEc4N1RvYmZBNm8zVWlnVnljdjhBMFJ4YnRSbUNLNzJZaWthU285XzJSVVQwbC04N2NhMjk0VHR5TVhsTXhlUFFWYjFOT2x1d0lCZlBFVm1mdEdvOURJdzd1S2dNS2UwTG01a2wtanVVdjVVZDk0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 00:16:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Emmanuel Clase y Luis Ortiz, llamados \"tramposos\" en juicio por fraude de apuestas - Los Angeles Times",
+      "fuente": "Los Angeles Times",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSUlpSnVMeUhWdEtadXJ5S3MzbmNnODVzRzZqdzdZT3BFX0l4b1dnaFVRNEM1VVVuNDhBa0toRVVmdGNsQkNueTB5Ui16Vl8zckZtTVVSME53ZGhwREM0Y2Fvcm5tRG1vVjVkWU9MbDEzVXlXcEJ1dVpiOXNWWXdQaC1LU0lucS1uamFtN1RUdFdzcmg1OUtoem5MWm1BYzdab3E1aHJLMUJSdTlMbk5iSzlQeEppX0NuUjFRMzJxaXZlVzd0dzBFcnp2MWUxaVdqOXlEN0xrWQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 04:17:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana afirma que la frontera con Haití permanece tranquila, pese a tensión por pandillas - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTJ1Nkw1VS1qckZmRDNJZHExQVRucWk5WjhNdHRndkFqZ1N3T0hCcnNPOUtEX19WU2V0dmMxeW1LSVNqMk1yZUMySzZKZWVwQTM4LTZxOVRDTGVKTFJEOEYyZHlfd1VvTkVrVTE0dENqaGRNN1VtRGZmcDBQVExBMzBNZ2NHLW0wbTkzcmxhT0lqcUFUTGNjVzlDVjI5SGZFZkxaQjI0UTVxSnZBbGZYTW4wSk9DTkQyYjJxMFlHbTJtVGdudWprOEJR0gHkAUFVX3lxTFBMWHk2RzhGT24zTnJsaExZVFo0d2w3bEQ2Z2pGUUVPbU10ejdDdUdwM3ZkRDU3Y3NlYTMxYk9XWUVCRFFIY2luX29HbFh6Q2IzQTVGeGNQZ1FnWUxqUVpFWGdJV0NtUDZscmVGdGRzS2lKb2tCS09QSi1aZVZyNWo5YzRDdkJfQXJDdUpCZ1BZcHNHdmlZdEs1UWpZZ3dqMkZBcnl6RVVkWUVXRTNDR0paaU5NVFV0YlUwdWV3cW5nRDFzaHdCak5DSml2WEs5amZRbHZTVmVUTWVZTHVOYjZtS1VXQw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 03:40:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Feminicidios dejan huérfanos a 110 menores en República Dominicana - teleSUR",
+      "fuente": "teleSUR",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wVFFraWk4cEcwUVZ5YVB0aVVwZnJnSlk0VWpnVGIySTlSamcxN01Oc0lvSUkzNzg1aGNXY2VFQ3hySVpXTHFMdndCQkdOZ3RyWElMM2FHWWxfSGdMem9vNjVNXy1ndWJmZ2xCaVJZdWpPVFVIb3lubFM3WVQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 01:05:58 GMT",
       "imagen": ""
     },
     {
@@ -21,107 +117,11 @@
       "imagen": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png"
     },
     {
-      "titulo": "La nueva Miss Mundo Joheirry Mola regresó la corona a República Dominicana tras 44 años - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSHJNbEtWSkVMNy1mNWtLWTZKUUVoMEJQMGZLTUdMWjJPQzh6bFlFY0hfTjZxTmZobFlITTd0SHE0aDhoOUNELUk0QmNwRnZremU2SGtTSzV6YXVtZnRUbkp5QVdQYnZXWTZBcUc2XzJfbW42NGVrYVBfVHlKWXVMN0RFZ01GV2Q3ekRlcEtyTldhQkhIQWRlYzFkTFFaYVdpZWxHVlFZR2N4SWRWZFV2Q3lKWWU2ZHNuRnNKdTNuU0l4T2pXeFpob3FESzVkd0ZIZm5vX09YZWtaZ0FhSW5JdXEybDJwZlE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 16:31:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Crece el interés turístico de Reino Unido por República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHQ0WXQwRUVObFQxYTdxUkVVdHVSMlVPa0tBajRiVXBQUDlwQ19LQkhoSWI1ZlJNeWJjSnEtdHphRW53MjdpYU9vb182bnFHVzNJRWNNc3VzZnptc2ZaemdFM28xWXRXektSUjRwVGI4NjBwWHNqazhmcGV2Y0V2cW95Z2xrdWpCT1pEbC1FaWFoa2wxYkh5ZU55QkJxLTlvMzNDZC13THhhS1lmSjJIekpFNndEMkppcWM1aEtvY0zSAdsBQVVfeXFMTmNNUFhleVplUFctbVJKZnBrR21FOGdUQjZLdGQ3OXFyM0hQNVhybmVOb1ktWkZVRG96R0daRHd0eVJrOUFQWG5LUG1aY3d4Zl8yVXdPdUpTblFIM2ROLXJXWXZKaDI0QkpiUkZaREZTNHNHUjY3SWVaejMwVHdOTGpXLUhKcjVMM0FNdTBEOXFhcmlKTXBhVGg2NzZzLUtqX292RVI3WUh4T1ZjNjg2RHZ0a053TXgzbnZxOHZhTGRBUjFPVkxOWFdQYW5SNVJwV3JybUlSTVNBelN3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 20:50:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Centroamérica y República Dominicana fortalecen su presencia en el mercado británico - Expreso - Diario de viajes y turismo",
       "fuente": "Expreso - Diario de viajes y turismo",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHZFeVNHRktLMFBJSy1oeUJJMEJ2MTMtZjAwVjFPVHlTTVpBX3RtZnpURDdZLVQ1R2tHbk5LbHEtQlhHLTVfVlZsSmZyLXQ0N1I1am5lUklVdFE3NjBPb3c1cW5QbHVrazhhcWF4SlQwUlgzUnN0WDZpODEtZ0FuRlgwVjFKbXljbGlXMWt5c1RZbGpuQUU4aFpkTVNIUi1LWU5pQnc4SWwtQktfX3ZicXYtWnFzb3Y4ZFZCa0FjREY?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 04 Nov 2026 20:02:55 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sin la amenaza de la violencia que azota a su país, en el Pequeño Haití, ubicado al sur del Distrito Nacional, en los alrededores del Mercado Modelo en el sector San Carlos, donde una comunidad de haitianos conviven con dominicanos en un comercio de fl - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeG94dXk1ZEY4MkJJaHB4cmZETGh1WnNSWC1JVEVOcUVfN1lSY2R3TktvX1FqUVRTNG1XY2s4NTdXMU9JZzNSUWM1S0xHZXJqckE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 13:42:02 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Organizaciones sociales en República Dominicana exigen liberación de Nicolás Maduro y Cilia Flores - teleSUR",
-      "fuente": "teleSUR",
-      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYVXk1d0JTclBfb2M1UnFqU3J1aDY2MlBfMnc4SXJIanh2ZzJsNmJ4a1NIbXRzZ3VEbU8zOElGU0pDbVg1UTZ3eXZZWWFGYmYweUFBYXR3N0dxMVljckc3VzMtcFBjZUJROVJYeGxiQVpDMHhWZXdGUA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 15:00:54 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana prepara una reforma de la Ley de Hidrocarburos y apunta a cambiar los márgenes del negocio - Surtidores LATAM",
-      "fuente": "Surtidores LATAM",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdEZ5Qm5fRzk0Tng1dHFJMW5Cemw3TVBzb1REMXpjQmhFREhXX3ZvbE1ldk4xMGk4NHhMUUdUNnp4UVlhUjRBMDloQ1E3cFBjZExuWmI3R3UtTE5seWxjWm52aFVYX0dKaG9qTkJEcS1PUkVKcThHV3ZVTFB3VDlLSXhmamloT2lJREtNWUtWUGNURXFhelF5Y0w1a0hKZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 12:37:47 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana.- Yanuna invertirá casi 900 millones de euros en un nuevo complejo de turismo de lujo en República Dominicana - Notimérica",
-      "fuente": "Notimérica",
-      "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU29MOVFGV3dMVmN3OXV5dEp1MUZMUm9jX1l0ekZUcnNzRlI3dDNzWnNuOWR4ZE5vbWRjNkk3eXVVV2drZFNWQi1WS0JfaWx1OXpObTZidkh6THJrdVJ3M3Y5cmJaNHAyeTBYRWJCYzZUVlhSYzFMVDZjczh4MnN1MkRjNk1RczJ2SzJXQ25QbU1vRTUzelJmem1KMjlfSHM3ZUVzYks0ZkdWbG9mMVdESTVwazY5RXd4b256c2RZYWFRd2FiUTlOTjNLbkNzTWJzaGlpRUpkRHV1ZTlqaVBpZ0V0S1d2blNVRTlMcThGVnNOblRpTk9VdTdLUzFjMktQVGV2Wg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 15:13:01 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Precio del dólar en República Dominicana hoy, miércoles 4 de noviembre: compra y venta, cuánto cuesta el USD a DOP - El Comercio Perú",
-      "fuente": "El Comercio Perú",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmRHY0t6RGU3QWhBaVVhZWRnMUkyTGRvSEcyTVVwNHJUemZtY2NKRE5xZDk3S1BORUdRNkpDR05FS1YzQ2kzY1RJU1dqQU4xVDgyWHEwVFRsalFyNDJSTXFzTmJoU1V3QllxOC1DamZCMm41V0xOa1E5Vl9kTjJZOFpINVFDYUdveUczbnM0ZjNrel9UTFBkeFBSZXlzVzdMNTNTZ3VKQkpNbzJ2TWtISzNXWHFNZVFTS080UUV5eV9kS3QzU0o3MS1hbFZJN0p3X2ZCVlVvbjF5YmlVaVJqVDVHRUlmSTdYX0R0Mzd4R2RaTlNLbWNxd3NiQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 22:13:35 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Policía de República Dominicana incorporó 200 agentes para reforzar investigaciones - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUJMRXNKYk4yZ2YwMGk2TG9SZUU5dnFRbFpJNnN1cFozMWtKSU1Uc29ra1MxejZoVThZQXA3Snp0R3RDUGpFT2YyMUl1SmZscWllVVJkd3dEV0NnRDUyWThndFRMZkUweFZXTWkxejZPUVQxZ19LM0oxR0VjT3AyMktrMGl3WlFkbjQ2LUY0WUFUbDdGN0ZjZzktM2didVp0anh4c1NFYUVlT3FMWUZqZ0ZmMmNyNGFjSkZ2UEh2R2tYYy1ObXR1Y2FyWl9BeVVweTFUWjBSQdIB8gFBVV95cUxQeGUtblJsUEREOFJOazFEWUItV3kxUTcyb1hrdDQ4QmtPNTNaNFdNZG5xU1FKcWdXd2UydDZ1Z2xRbE5DaVVXMS00VHlFSnBTT1pyR3N3VU9qNnVJS0tHMnNub2hNb2x2UW5ackdiTC1oUzlVaGUxMU9ZZ09RTXQ5R1pTaVZGNFkwcnJocFZrbjU5YmtDSHdzRERWd1lNb01uZDBKdFBZVzAxYU00SFVjSGFpWUJ5UnIzVDZpQXZGdnhnU0ZIR1BzU1pEdjVUYjJGVndWUFZUbVBTWS1xeDVxdzRyZzNUNHB1U3UtWU9wQmVfZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 18:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana: el presidente Luis Abinader participa en la inauguración de la Cumbre Iberoamericana celebrada en Madrid - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQa19aTk5YVlowVmxjVldkbmxQMExwQVNoWVVjN0FnTk1HWS1OcGtWcWNUWkp3Qk5faS0yU2RzYVU4OTVjWDV1V201cEpqU2JyQ3FOQVFoeXpaZF9YTnBZWDl6OWp2YzB6ZGxGM1VJLWdGc2J1RHVJd2Z6VTRXbE01MWc3ZzgtZmxIVVVNbXA0eXBHbDNHNm42VzNIb21vblkwT0YxWUgyaGo5anRqSFI5T2RDUUo2aF95WGZ5THFFQ0VIS1FtdzhXanNSZmtFMTFSR2s1SEVMS2JBV25HUWRzclJLSUlhcEc3NU50VUJqOHU1QmZPZER2WGg0Sm80YzR3a1g4Z3o5aUJjMVhpV0Nj?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 22:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alcalde de Dajabón ofrece declaraciones ante la prensa - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckpFa3YtenNzeE85TG96RS1lRnpDOE9YT1dRSDVBMXo0ZU82b3FFUG1aYzRVMGpUOWtYdmtBanlwUlEzeUVzM3RySmJBa1FhMVpIb3EzQWZ2cThqd2lRd2oxaGdtNzNMenMyY2pKSkoweXRyRGU4aHgtdnd2OHNBZXFoOFpqRS1fMmZKTFp3WHF1TDRCUXVuQjh2SG94YlY0NjBVV1JPeWdXdzZtSzBvS25ROGhCdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 23:43:37 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana regula el uso de inteligencia artificial en los servicios públicos - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRV9nbzc3cVphTWpvdW12ZzBTSXk2TE9ieWlYTDNzV1hPTXN6aWtBUm1LSGlHa2kwVXhuMDlMTnhfQVk2SmlvNktVM2NVWmtaN3dBMnJUT0NLQzhkTDhEbC0xZy1HRi01ZGlwRkV3Z3JORnVlMzVHSWMwU0ItQjZva2NkLWc5c3BzaGsyem9kNmZHMDNqUkozZTdkREhaVkM5dHhuUElBY2hvU3FCZ0JaZXlEd0dCWWV4cTZhTEpod0pmLWtxbzQ0VW5xel82UHVUZk1nNllIUXdnNUlN0gH3AUFVX3lxTE9YRlcxWXdKb0dNMWtMbUQxZFQ1SGtkaTRmWkpFcWhBZmFqV2lyUFBZLWRucmJhZUNtdTJyVEswRWpGYkNFeUZISDZyMDdhTzZNRHk0bHZEcDBHZHFmR2FZUWs3a0lZNzk4VGx6OGE5dDNFVkFaaUhGRFJTcVNTNWNUcm1vdzBUcVFCSzNMX0NiLW5rd1VNcmVNTF9lanZPeTVCTlIzaUY4eFoyaUNKV0hjSDBKYUZoODY0Zm1XLUQzOTBmbGVmTVpJekFNSEdGcUItTDlwVU14T1U4RXNKN19fQzFFdDA0MVV4YXF6QnFCMkVXdGxhdHc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 18:46:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gobierno dominicano subsidiará casi la mitad del costo de la semilla de frijol en San Juan - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUzBFVm9VZDdCMkFWN05oTkItaEg0S2VyQ0E4X0xGQjVKOUQwSEw1NjJlY3VxaEJsOEItbVN2M3JsR0l2bnpNTkFENmdUT0pIQmlXX1hrM0R6VHI3Tlg5MjIxTU1OTzl1WUNCMFplNFNBWjExUDRaenRHRnZmUG1ucEdZbUMza2RvcEV2aG9LMGxFSEpLaVdRV19pMmJwZmpYOXFBNHV1bDFFZjVaaDV4b0ZsNGhicjU2LXJ0X2RQWTk4OW1wdENyeEs5aUpydHZpaDdHQmI5T09mMmdIS0ZsY251Z9IB_gFBVV95cUxPSXNCMVdkTlUtSDhWQmNobTdLV3RNNHJTLTJRWkFVTFRZc3FmN1NRNmFtRkszaTNqU3l3ZEo4RlNYV2NCYlBCVVNBUlZGR003aVVZQUdtR3dZSGl0QmxhUW1GSW1QMnR4UTg2WFlXRTJlZmpwTG55NDBlcE1qalVMaUNrSzFac2NoM3l1Ul9lZUxvTm1GdlB2QXR2UVc0VS1Ub2VldkVjNXczTGt4UVowelhNZEZvMXZ0S0hZNXBZQXhfamtVUzVIdG1lbXNvUFB6aVhHSTlpdmRzalZxc3c5NkhQalV3YV8wTkNSY2x1ZXduZGotMEdMcTZyd1hDdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 05 Nov 2026 00:10:00 GMT",
       "imagen": ""
     }
   ]

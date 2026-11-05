@@ -1,79 +1,79 @@
 {
-  "updated": "2026-11-04T20:31:32.759335-04:00",
-  "hora": "20:31",
-  "fecha": "04/11/2026",
+  "updated": "2026-11-05T03:21:01.517422-04:00",
+  "hora": "03:21",
+  "fecha": "05/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "pistons - 76ers",
+      "termino": "spurs - mavericks",
+      "trafico": "200+",
+      "noticia": "NBA Roundup: Wemby scored 52, Doncic had 40, triple-double for Jokic and overtime win for Giannis",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2030924/nba-roundup-wemby-scored-52-doncic-had-40-triple-double-for-jokic-and-overtime-win-for-giannis/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlgzbs9v_708GHb4QVTFYiJ_og1xd8URjG2eBVkxC8dJydLpOANzHYSRZhY0"
+    },
+    {
+      "termino": "duncan robinson",
+      "trafico": "100+",
+      "noticia": "Duncan Robinson has 27 points, seven threes in loss",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-04/duncan-robinson-has-27-points-seven-threes-in-loss",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuIkz_2bypapewSX09SeuGAtWLNFMoc3nAl4IEee05Gs4e6qccqtj_m6CFD3s"
+    },
+    {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "LeBron James:  Too early to be talking Finals  after 76ers  blistering start",
+      "enlace": "https://www.espn.com/nba/story/_/id/50385564/lebron-says-too-early-talking-finals-8-1-start",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHqv8H42x2nxfKt6zNEoQrqjNRIx7bxoGQwJn1rfPa62Ux5O70fOwGCqmaF08"
+    },
+    {
+      "termino": "kings - lakers",
       "trafico": "500+",
-      "noticia": "Sixers, Pistons battle for top spot in the East",
-      "enlace": "https://www.cbssports.com/nba/news/sixers-pistons-battle-for-top-spot-in-the-east/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0HUO8iBtRp9_YhvKC9382eiXPNHy6Vcf3KvDqCjGlNACVxn27pByk2Ie9fI"
+      "noticia": "Luka Doncic drops 40, makes scoring history in Lakers  win over Kings",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-drops-40-makes-scoring-history-in-lakers-win-over-kings/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTkjjjySM2n38SveLGC2IKmdqEAVBAGlzAMwTupDVmSr1GhC2qKd7IDSeMBg"
     },
     {
-      "termino": "valle salvaje",
+      "termino": "juegos de hoy lidom",
       "trafico": "200+",
-      "noticia": "Valle Salvaje , avance del capítulo de hoy miércoles 4 de noviembre: Hernando amenaza a Rafael con quitarle el título de duque",
-      "enlace": "https://www.elperiodico.com/es/tele/yotele/20261104/valle-salvaje-avance-capitulo-hoy-miercoles-4-noviembre-hernando-amenaza-rafael-quitarle-titulo-duque-136074923",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2zfjKQfTuDz3e90PozgPWn6oKzKw0AiaEcJW5eSyGVPdZObSL3cJu5tubuBI"
+      "noticia": "Leones del Escogido encadenan ocho triunfos en la Liga Dominicana de Béisbol",
+      "enlace": "https://www.mlb.com/es/news/leones-del-escogido-encadenan-ocho-triunfos-en-la-liga-dominicana-de-beisbol",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutA9SPsIWJcl_4bRWWwA3HxHzeDeqEFP2OwkZsWLhn70l00f63D-40qgPZyI"
     },
     {
-      "termino": "zohran mamdani",
+      "termino": "petróleo",
+      "trafico": "100+",
+      "noticia": "Elecciones USA estremecen las bolsas y los precios del crudo, el WTI cae a US$91.2 y el Brent a US$98.51",
+      "enlace": "https://listindiario.com/economia/combustibles/20261104/elecciones-estremecen-bolsas-precios-crudo-wti-cae-us-91-2-brent-us-98-51_928838.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfzZk-H7i9SPmOIITbGkPN8ysyM1mHisN2ziQ5yPEQ7k-JJJD8jR9ntTCLIrc"
+    },
+    {
+      "termino": "rockets - timberwolves",
       "trafico": "200+",
-      "noticia": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
-      "enlace": "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB0PaI6WdJGo5rT8_n7PGnZrpYLWu8O73m8LVf6ADms7HQu83lwVtYWtg3VoI"
+      "noticia": "LaMelo Ball takes over with 12 points in the 4th to defeat Rockets",
+      "enlace": "https://www.nba.com/watch/video/lamelo-ball-takes-over-with-12-points-in-the-4th-to-defeat-rockets",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThFWipZ9K6xVQky2P9fdmRnsqqfFScswvWTeOPOBxoNJaxhbEgWE2D5Y959Bs"
     },
     {
-      "termino": "amenaza de bomba",
+      "termino": "thunder - cavaliers",
       "trafico": "200+",
-      "noticia": "En Europa varios vuelos resultaron afectados por amenazas de bombas",
-      "enlace": "https://listindiario.com/las-mundiales/20261103/europa-vuelos-resultaron-afectados-amenazas-bombas_928641.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJypr4yDDNiK42kQg1u_e2fUWeNhVWu24NJj4exp9dZiBp08oZZTQnyp9L2ho"
+      "noticia": "Cleveland Cavaliers vs. Oklahoma City Thunder Live Score and Stats - November 4, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261104_CLE@OKC/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-bUPM2BdLBd1RA_4t1oZGT-6z0urUoZRlvmysVrwg42aVMwDEcUGHm4dcic"
     },
     {
-      "termino": "como",
+      "termino": "celtics - bucks",
       "trafico": "200+",
-      "noticia": "Gobierno busca castigar a quienes evadan peajes electrónicos: multa costaría hasta cinco veces más",
-      "enlace": "https://listindiario.com/la-republica/congreso/20261104/gobierno-busca-castigar-quienes-evadan-peajes-electronicos-multa-costaria-cinco-veces-mas_928902.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM7xU6zkppvygA-5I-0rJumUG5J26llCAx-L9x6rfzksituQ0wK_OGAVthlE0"
+      "noticia": "Longtime Celtic gets first start of the season in Jayson Tatum’s absence",
+      "enlace": "https://sports.yahoo.com/articles/longtime-celtic-gets-first-start-001352021.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipz7R0uXd0QA2qz1wgOk7g3clGICO5mn20cmB6KXeF28sms31uI_5RUWOu_g"
     },
     {
-      "termino": "vigilancia",
-      "trafico": "1000+",
-      "noticia": "El Gobierno aprueba el Código de Ética de la Inteligencia Artificial para garantizar un Estado digital más justo y transparente",
-      "enlace": "https://www.presidencia.gob.do/noticias/el-gobierno-aprueba-el-codigo-de-etica-de-la-inteligencia-artificial-para-garantizar-un",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXouAgjAjxXn2SPyHeroUbNCbk7yrac67C4OXh67qKzc-tEcbUUYOHKQW1TmA"
-    },
-    {
-      "termino": "temblor",
-      "trafico": "200+",
-      "noticia": "Se registran temblor de magnitud de 4.5 y una réplica al norte de Miches",
-      "enlace": "https://listindiario.com/la-republica/20261104/registra-temblor-magnitud-4-5-replica-norte-miches_928839.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-Z11BoZ08jwPJItw0N0ICqdCupIqUQzzMWGdxDoZcFw--SCmbKjZQJMQdkw"
-    },
-    {
-      "termino": "jetblue airways",
+      "termino": "knicks - bulls",
       "trafico": "500+",
-      "noticia": "JetBlue hikes checked luggage fees for the second time this year",
-      "enlace": "https://www.washingtonpost.com/travel/2026/11/04/jetblue-hikes-checked-luggage-fees-second-time-this-year/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqEWuQtKMQ0u7lu1GG42YRzBQ5puZ2AHCs_y25V9r_z8jcTBxxyfBTS8jckpE"
-    },
-    {
-      "termino": "slavia praga - arsenal",
-      "trafico": "500+",
-      "noticia": "Goalscorer Gyokeres feeling good after Slavia win",
-      "enlace": "https://www.arsenal.com/news/goalscorer-gyokeres-feeling-good-after-slavia-win-aq4jd9e9KN2A",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5_-MzLOHGGDaa9YbYu6X-W4TRUIMxwMq8yNybreDWSCfnkNkxH_kmiupIjjA"
-    },
-    {
-      "termino": "rb leipzig - manchester city",
-      "trafico": "1000+",
-      "noticia": "Goal-machine Haaland haunts Leipzig and rescues Man City’s brittle defence",
-      "enlace": "https://www.telegraph.co.uk/football/2026/11/04/rb-leipzig-vs-man-city-live-score-updates-champions-league/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP8miHODmLWCMNOfOXz1dFrdiUwVlhXgYVKj_X50FScmv7K8qqzNG8mWxR-8"
+      "noticia": "Chicago Bulls vs. New York Knicks Live Score and Stats - November 4, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261104_CHI@NY/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbHLko199w0EHlJRAGC0Fw0BvLAZIP8CHywmWXW4TImOPP8LKnjOatqH3CX_s"
     }
   ]
 }
