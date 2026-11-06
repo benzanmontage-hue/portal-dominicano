@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-06T18:47:22.906193-04:00",
-  "hora": "18:47",
+  "updated": "2026-11-06T19:07:47.317337-04:00",
+  "hora": "19:07",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de sevilla fc contra alavés",
+      "trafico": "200+",
+      "noticia": "Confirmed Sevilla and Alavés line-ups for LALIGA matchweek 12",
+      "enlace": "https://sports.yahoo.com/articles/confirmed-sevilla-alav-line-ups-190100249.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRcu7LzDo6udk-uqQYXO59-RjvTfE147N6Kmn7fftXaYQ0BkYOKIaeA1AD72I"
+    },
     {
       "termino": "gonzalo moratorio",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
-      "noticia": "Taylor Fritz - Carlos Alcaraz: resumen, resultado y estadísticas de los cuartos de final del Masters 1000 de París",
-      "enlace": "https://www.marca.com/tenis/masters-1000-paris/taylor-harry-fritz-carlos-alcaraz/2026/11/06/04_0413_20261106_60-directo.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc9JikhEW08FBIaZIHuV8cEbQ9elflb3s0ZDlbKNaBN4OwB01AEcrWbPOdx9E"
+      "noticia": "Alcaraz salvó dos match points, remontó un partidazo ante Fritz y rompió su maldición en el Masters 1000 de París",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17484630/alcaraz-salvo-dos-match-points-remonto-un-partidazo-ante-fritz-y-rompio-su-maldicion-en-el-atp-masters-1000-de-paris-resultados",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQu4nbF_6GHkcVjCeUxgk-_bQfhWImydDyQ8J_k8y8ZOndjaKGuSfV8Q8yaE"
     },
     {
       "termino": "letizia ortiz",
@@ -38,7 +45,7 @@
       "trafico": "1000+",
       "noticia": "Sevilla - Alavés en directo | Última hora de LALIGA EA Sports en vivo hoy",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-alaves/2026/11/06/01_0101_20261106_179_173-directo.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi5H9ZskKiqywVb5hohpjqQBRecgdjePJxhXN_o4r7ezNz4CYFsPrcYgld5UI"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM9sgz0Ll1_V8KVjebBlh3FZ3Ri3bRqSQTOX5ItZS9L3n7n44CaUDeunBsiLY"
     },
     {
       "termino": "pandilla",
@@ -62,18 +69,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTddcBwTj38aP-K8MYZrTUtlbiKjv4HSxDjOvaKY3mkbvrFuKgJHcpVZATTiXU"
     },
     {
-      "termino": "resultado de la lotería",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "uber",
-      "trafico": "200+",
-      "noticia": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
-      "enlace": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG7T14u8_K0yg8CdjanCl-TTbq1wE6DuyYF6xSaTUMRk_w2YaKaNdU7E5rBr4"
+      "termino": "resultado",
+      "trafico": "100+",
+      "noticia": "5 razones que explican la derrota abrumadora del Partido Republicano en las elecciones de mitad de mandato en EE.UU.",
+      "enlace": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_96zHWqXPXSypChGi1dglABS4jUKkmVTOLgTwoadN0qRGVACx6739QVnnyPc"
     }
   ]
 }
