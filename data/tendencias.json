@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-06T18:06:37.563722-04:00",
-  "hora": "18:06",
+  "updated": "2026-11-06T18:26:57.328514-04:00",
+  "hora": "18:26",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "gonzalo moratorio",
+      "trafico": "100+",
+      "noticia": "Muere Gonzalo Moratorio, el científico que  blindó  a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
+      "enlace": "https://www.bbc.com/mundo/articles/c674ppz944jxo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZO2WIQ2gtVfJ1PRcNKQldS0gcFtSBhAk959kp9CG49a6V_St1PvAn3NSIe4"
+    },
+    {
+      "termino": "eddy herrera",
+      "trafico": "100+",
+      "noticia": "Eddy Herrera responde a rumores sobre El Torito tras viralidad de “Tú eres ajena”",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20261105/eddy-herrera-responde-rumores-sobre-torito-viralidad-ajena_929081.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XUvkNGjCCl-tZdNM13eSVuMOHZG2r5HsyTUQUxvm6V8tkJjf1kqhkmidfiI"
+    },
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
@@ -24,7 +38,7 @@
       "trafico": "500+",
       "noticia": "Sevilla - Alavés en directo | Última hora de LALIGA EA Sports en vivo hoy",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-alaves/2026/11/06/01_0101_20261106_179_173-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM9sgz0Ll1_V8KVjebBlh3FZ3Ri3bRqSQTOX5ItZS9L3n7n44CaUDeunBsiLY"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi5H9ZskKiqywVb5hohpjqQBRecgdjePJxhXN_o4r7ezNz4CYFsPrcYgld5UI"
     },
     {
       "termino": "pandilla",
@@ -43,16 +57,9 @@
     {
       "termino": "sam altman",
       "trafico": "100+",
-      "noticia": "Sam Altman is annoyed his DRAM comment was  taken out of context",
-      "enlace": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvgpIQ4kyE4XAH-uxg2fM72wMFwGJHlyI0Zoxpcd9V7yrscDV4NBxX4l1O7OY"
-    },
-    {
-      "termino": "resultado",
-      "trafico": "100+",
-      "noticia": "Acuerdos aéreos y marítimos, el resultado de la participación de Turismo en WTM 2026",
-      "enlace": "https://listindiario.com/la-republica/20261105/acuerdos-aereos-maritimos-resultado-participacion-turismo-wtm-2026_928963.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNh5bIqI0ID8YVhYA8sTA6fDlJr7yIHnecpT2ewwS6W7vEVCngUzeYX3KLi0Q"
+      "noticia": "According to OpenAI CEO Sam Altman,  It s Quite Terrible  for People to Have RAM in Their Own Computers",
+      "enlace": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyn5zkSamKiKcOEYsZ4xDCuKtUfD9GcCkFlTxRnswG9qSprRb2j_VC-ni85LY"
     },
     {
       "termino": "resultado de la lotería",
@@ -67,13 +74,6 @@
       "noticia": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
       "enlace": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG7T14u8_K0yg8CdjanCl-TTbq1wE6DuyYF6xSaTUMRk_w2YaKaNdU7E5rBr4"
-    },
-    {
-      "termino": "loterias",
-      "trafico": "200+",
-      "noticia": "Fenabanca asegura que no alquilará nuevos locales para bancas de lotería sin baños",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/fenabanca-no-alquilara-nuevos-locales-para-bancas-de-loteria-sin-banos/3713139",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaY2Rp335Iyz78aLFLKgccouwWHc8LEfI4NSZ4agp47JinGlFPV_h_BVsq_NQ"
     }
   ]
 }
