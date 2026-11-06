@@ -1,23 +1,44 @@
 {
-  "updated": "2026-11-05T14:57:03.689277-04:00",
-  "hora": "14:57",
+  "updated": "2026-11-05T20:32:19.723545-04:00",
+  "hora": "20:32",
   "fecha": "05/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "navidad",
+      "termino": "az - juventus",
       "trafico": "100+",
-      "noticia": "Buscan 660 trabajadores en Canarias para la campaña de Navidad: cómo apuntarse",
-      "enlace": "https://diariodeavisos.elespanol.com/2026/11/adecco-660-ofertas-empleo-canarias-navidad-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPJKdbf71DBeJzwCIOVMhekmpufg1exFzEhvTzez6-zdAzGF7iFwIr3Ta25Go"
+      "noticia": "Juve, l’Europa League ti fa bella: Koop e Kolo, 2-1 ad Alkmaar con sofferenza finale. Ottavi vicini",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/05-11-2026/az-alkmaar-juve-live-risultato-e-gol-in-diretta-europa-league.shtml",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbP1R8Z4JRehoOVvJiIGzD6eWohQa9chD6kSQ2MZWEjt2fz0XbGb5e7Lfe5PE"
+    },
+    {
+      "termino": "rector",
+      "trafico": "1000+",
+      "noticia": "Encuentran muerto al rector de la UNEV dentro de su vehículo en Santiago",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/05/muere-el-rector-de-la-unev-rafael-reyes-almonte/3711814",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbLVqnj8OPchQxLFs8mxBQMOvh93GFcDL3dS0Bz35j-jlO-JAaentOiYrmnKg"
+    },
+    {
+      "termino": "edesur",
+      "trafico": "1000+",
+      "noticia": "Cómo funcionaba el entramado de presuntos sobornos entre militares de Edesur y la empresa Senase; la PEPCA recibe informe de la Cámara de Cuentas",
+      "enlace": "https://acento.com.do/actualidad/como-funcionaba-el-entramado-de-presuntos-sobornos-entre-militares-de-edesur-y-la-empresa-senase-la-pepca-recibe-informe-de-la-camara-de-cuentas-9784613.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4_xlJtB0cNmQRVaylokHbx6iaOnbmxAFzzVWxtJVMphsnEcEMuYQRNV6CrZk"
+    },
+    {
+      "termino": "navidad",
+      "trafico": "500+",
+      "noticia": "Árbol de Navidad del Rockefeller de 2026 será cortado el jueves antes de comenzar viaje a NYC",
+      "enlace": "https://www.telemundo47.com/noticias/arbol-navidad-rockefeller-2026-west-edmeston-ny/2664096/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM29KohQUySI8jh6Q2adDY_OT9RG1gASJVIGwa5tdPPQWwrgSdsUMfi-wrqek"
     },
     {
       "termino": "paraguay",
-      "trafico": "200+",
-      "noticia": "Ueno Bank: 4 claves para entender la crisis en Paraguay por la que piden un juicio político al presidente Santiago Peña",
-      "enlace": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFXTvZnu5aljny32Yz5Vg01n481OckHxGzQqDSIoOBxxad_Icv2i_LVTTZJ5A"
+      "trafico": "1000+",
+      "noticia": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
+      "enlace": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGFKXZ58CQelW3v299UCJ3R1ANr90gDnA82y3HK6bJkBNBX5zSafovV0gQ1UA"
     },
     {
       "termino": "albert pujols",
@@ -42,7 +63,7 @@
     },
     {
       "termino": "vaguada",
-      "trafico": "100+",
+      "trafico": "2000+",
       "noticia": "La Vega, Santiago, Puerto Plata y otras provincias están en alerta verde por vaguada",
       "enlace": "https://listindiario.com/la-republica/20261105/vega-santiago-puerto-plata-provincias-alerta-verde_928988.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkyFeeqVith8MGd1RHaV05JXsserWoqttpj_72g7L_yPJ1ns_5KzwW6rYj54"
@@ -53,27 +74,6 @@
       "noticia": "Ministerio de Trabajo reitera feriado para el lunes 9 de noviembre",
       "enlace": "https://www.diariolibre.com/economia/empleo/2026/11/04/el-lunes-9-de-noviembre-no-se-trabaja-por-el-dia-de-la-constitucion/3710576",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXpC_HiL2IrdhF1mvOx5HGqQppyTEDIiIYNiU4HbwmTif4e468Nz6wkwq8X0"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "500+",
-      "noticia": "Leones del Escogido encadenan ocho triunfos en la Liga Dominicana de Béisbol",
-      "enlace": "https://www.mlb.com/es/news/leones-del-escogido-encadenan-ocho-triunfos-en-la-liga-dominicana-de-beisbol",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutA9SPsIWJcl_4bRWWwA3HxHzeDeqEFP2OwkZsWLhn70l00f63D-40qgPZyI"
-    },
-    {
-      "termino": "clippers - heat",
-      "trafico": "200+",
-      "noticia": "Heat 117-116 Clippers (Nov 4, 2026) Game Recap",
-      "enlace": "https://www.espn.com/nba/recap?gameId=401909935",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtZmRF9g-zOvjWsES4oLTh7TEiJAtLyQXOuIxBpBzAIX42U6WvlYBfDaBoj8"
-    },
-    {
-      "termino": "spurs - mavericks",
-      "trafico": "200+",
-      "noticia": "Wembanyama has career night with 52 points, 24 rebounds, 8 blocks in Spurs  win",
-      "enlace": "https://www.espn.com/nba/story/_/id/50385705/wembanyama-52-points-24-rebounds-8-blocks-spurs-mavs",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOERXo9VW6ajt3oPkOE8zSNVDgHCI_f-DMnnrivOVmAjeR4-71K14yOY5hSCA"
     }
   ]
 }
