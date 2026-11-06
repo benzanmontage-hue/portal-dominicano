@@ -1,10 +1,45 @@
 {
-  "updated": "2026-11-06T14:24:05.921378-04:00",
-  "hora": "14:24",
+  "updated": "2026-11-06T17:45:59.080879-04:00",
+  "hora": "17:45",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "carlos alcaraz",
+      "trafico": "100+",
+      "noticia": "Taylor Fritz - Carlos Alcaraz en directo | Última hora de los cuartos de final del Masters 1000 de París, en vivo",
+      "enlace": "https://www.marca.com/tenis/masters-1000-paris/taylor-harry-fritz-carlos-alcaraz/2026/11/06/04_0413_20261106_60-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc9JikhEW08FBIaZIHuV8cEbQ9elflb3s0ZDlbKNaBN4OwB01AEcrWbPOdx9E"
+    },
+    {
+      "termino": "letizia ortiz",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "sevilla - alavés",
+      "trafico": "500+",
+      "noticia": "Sevilla - Alavés en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-alaves/2026/11/06/01_0101_20261106_179_173-directo.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi5H9ZskKiqywVb5hohpjqQBRecgdjePJxhXN_o4r7ezNz4CYFsPrcYgld5UI"
+    },
+    {
+      "termino": "pandilla",
+      "trafico": "500+",
+      "noticia": "La ONU no confirma negociaciones anunciadas por el jefe de la banda 400 Mawozo en Haití",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/la-onu-no-confirma-negociaciones-anunciadas-por-la-banda-400-mawozo/3713138",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeLq9v6D174y5OrgMsjycYfaZO7cMo4kMgy9aHQSkBofEKbgblHsuJ3UcU_w"
+    },
+    {
+      "termino": "altice",
+      "trafico": "100+",
+      "noticia": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "enlace": "https://www.bbc.com/news/articles/c6rry8x9d9qko",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCedo9IPP3dowuAnGTgmCrXiXRiMGbFL3tH-2pmZPBnLmX9Vmi6wVgDTNDHw4"
+    },
     {
       "termino": "sam altman",
       "trafico": "100+",
@@ -15,9 +50,9 @@
     {
       "termino": "resultado",
       "trafico": "100+",
-      "noticia": "México asocia las redadas migratorias en EE. UU. con pérdida de voto latino de republicanos",
-      "enlace": "https://elnuevodiario.com.do/mexico-asocia-las-redadas-migratorias-en-ee-uu-con-perdida-de-voto-latino-de-republicanos/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxiplo6o6hQ0uHHtA--hw51icsBAfZ6Ryv-6lV5yob6UhKb1-dDTIfT5HEUwI"
+      "noticia": "Cree las redadas de migrantes influyeron en resultado EEUU",
+      "enlace": "https://almomento.net/cree-redadas-de-migrantes-influyeron-en-resultado-eeuu/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_mZ7QqU6ectPwEBkr1AAccXXIVma7zlFekHwvwCISIY-0Ye3U-ia1J1-3Oxg"
     },
     {
       "termino": "resultado de la lotería",
@@ -27,53 +62,18 @@
       "imagen": ""
     },
     {
-      "termino": "lotería real",
-      "trafico": "5000+",
-      "noticia": "Sorteo Extraordinario de la Cultura 2026: cuándo es, horario, premios y dónde ver por TV y online la Lotería Nacional",
-      "enlace": "https://www.elmundo.es/como/2026/11/05/6aec4e92e4d4d8590e8b4572.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsajPdmW0eNCH34xUOj8YbI7CyO5pZF2_d-Ah8EY3AR0A467vqTlquPNhXKUM"
-    },
-    {
       "termino": "uber",
-      "trafico": "100+",
-      "noticia": "Amazon adds Uber Eats to list of services for Amazon Prime members",
-      "enlace": "https://apnews.com/article/amazon-uber-eats-restaurant-delivery-6c2188eaa271d4bcbf0bcf4b1beabff4",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfaWh6azC6c43aoi65wc1U7YMvq1BagM_i5Zra6wB_TdqUkxX_OSiktFaGXE"
+      "trafico": "200+",
+      "noticia": "Amazon announces partnership with Uber Eats offering Prime members $0 delivery",
+      "enlace": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG7T14u8_K0yg8CdjanCl-TTbq1wE6DuyYF6xSaTUMRk_w2YaKaNdU7E5rBr4"
     },
     {
-      "termino": "numeros ganadores",
-      "trafico": "2000+",
-      "noticia": "¿Cuáles fueron los números ganadores de las loterías este lunes 3 de noviembre 2026?",
-      "enlace": "https://eldia.com.do/cuales-fueron-los-numeros-ganadores-de-las-loterias-este-lunes-3-de-noviembre-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjbFuqD8DHG87wK4QuySFbo4fa2wHGrZXPu3cFFcrwu0JEGNXG_34pRt99BEE"
-    },
-    {
-      "termino": "la real",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "nacional",
-      "trafico": "500+",
-      "noticia": "Consejo Nacional de Drogas y los rotarios acuerdan reforzar la prevención del consumo de sustancias y el uso de vapers",
-      "enlace": "https://presidencia.gob.do/noticias/consejo-nacional-de-drogas-y-los-rotarios-acuerdan-reforzar-la-prevencion-del-consumo-de",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHh71FE8BKnhcijYxMCC-TaYkvmOeDU_eH32D96HfruijEPPNsmSHERkoVsDA"
-    },
-    {
-      "termino": "lotería nacional",
-      "trafico": "20000+",
-      "noticia": "Resultados de la lotería de hoy jueves 05/11/26",
-      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loteria-hoy-jueves-05-11-26_1107856.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
-    },
-    {
-      "termino": "loteria",
-      "trafico": "5000+",
-      "noticia": "La conmovedora historia del trasplante y la corazonada de Edu: así es el anuncio de la Lotería de Navidad 2026",
-      "enlace": "https://as.com/tikitakas/virales/la-conmovedora-historia-de-edu-asi-es-el-anuncio-de-la-loteria-de-navidad-2026-f202611-n/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV7o1QP2bQNkwDS4lawLvK2mvx4esEvfuGZ67UYK3RA8W7rxxO7rUARlY2cxE"
+      "termino": "loterias",
+      "trafico": "200+",
+      "noticia": "Fenabanca asegura que no alquilará nuevos locales para bancas de lotería sin baños",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/fenabanca-no-alquilara-nuevos-locales-para-bancas-de-loteria-sin-banos/3713139",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaY2Rp335Iyz78aLFLKgccouwWHc8LEfI4NSZ4agp47JinGlFPV_h_BVsq_NQ"
     }
   ]
 }
