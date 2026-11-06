@@ -66,6 +66,8 @@ def faq_html(faqs):
 def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False, aviso=""):
     """ruta: '/resultados/2026-10-17/'. migas: [(nombre, ruta)], la última es esta página."""
     url = BASE + ruta
+    from comun import recortar
+    desc = recortar(desc)
     crumbs = "\n    ".join(
         f'<li aria-current="page">{esc(n)}</li>' if i == len(migas) - 1 else f'<li><a href="{h}">{esc(n)}</a></li>'
         for i, (n, h) in enumerate(migas))
@@ -73,7 +75,9 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
     secciones = " ".join(f'<a href="/{s}/">{esc(n)}</a>' for s, n in SECCIONES)
     from generate_juegos import JUEGOS  # import tardío (generate_juegos importa este módulo)
     juegos = " ".join(f'<a href="/{slug}/">{esc(nombre)}</a>' for slug, nombre, *_ in JUEGOS if f"/{slug}/" != ruta)
-    extras = ('<a href="/resultados/">Resultados por fecha</a> <a href="/horarios-loterias/">Horarios</a> '
+    from generate_otras import OTRAS  # import tardío
+    otras += " " + " ".join(f'<a href="/{sl}/">{esc(n)}</a>' for sl, n, *_ in OTRAS if f"/{sl}/" != ruta)
+    extras = ('<a href="/resultados-de-ayer/">Resultados de ayer</a> <a href="/resultados/">Resultados por fecha</a> <a href="/horarios-loterias/">Horarios</a> '
               '<a href="/feriados/">Días feriados</a>')
     return f"""<!DOCTYPE html>
 <html lang="es-DO">

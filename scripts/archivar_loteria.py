@@ -16,12 +16,12 @@ DIAS_GUARDAR = 450  # más de un año: las páginas por fecha no deben desaparec
 ARCHIVO = os.path.join(ROOT, "data", "archivo.json")
 
 
-def main():
-    res = cargar_json("resultados.json", {}) or {}
-    arch = cargar_json("archivo.json", {}) or {}
+def archivar(fuente, destino, dias):
+    res = cargar_json(fuente, {}) or {}
+    arch = cargar_json(destino, {}) or {}
     sorteos = arch.get("sorteos", {})  # "Compania|Juego" -> [{fecha, numeros}]
 
-    limite = (datetime.datetime.now(TZ_RD).date() - datetime.timedelta(days=DIAS_GUARDAR)).isoformat()
+    limite = (datetime.datetime.now(TZ_RD).date() - datetime.timedelta(days=dias)).isoformat()
     nuevos = 0
     for j in (res.get("juegos") or []) + (res.get("historial") or []):
         d = parse_fecha(j.get("fecha"))
@@ -48,9 +48,14 @@ def main():
 
     out = {"actualizado": datetime.datetime.now(TZ_RD).isoformat(timespec="seconds"),
            "sorteos": dict(sorted(sorteos.items()))}
-    with open(ARCHIVO, "w", encoding="utf-8") as f:
+    with open(os.path.join(ROOT, "data", destino), "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"archivo: {nuevos} sorteos nuevos, {len(sorteos)} juegos")
+    print(f"{destino}: {nuevos} sorteos nuevos, {len(sorteos)} juegos")
+
+
+def main():
+    archivar("resultados.json", "archivo.json", DIAS_GUARDAR)
+    archivar("resultados_otras.json", "archivo_otras.json", 120)  # Americanas, LoteDom, King…
 
 
 if __name__ == "__main__":

@@ -13,7 +13,7 @@ import re
 import json
 import os
 
-from comun import (ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha, fechas_con_pagina, minutos_juego, titulo,
+from comun import (recortar, ROOT, BASE, MESES, SECCIONES, esc, limpiar, cargar_json, parse_fecha, fechas_con_pagina, minutos_juego, titulo,
                    fecha_larga, actualizado_rd, hora_12, ordenar_juegos, balls_html)
 
 LOTERIAS = [
@@ -295,6 +295,8 @@ def render_pagina(l, resultados, archivo):
         if (j["compania"], limpiar(j["juego"])) in pag_juego else f"<li>{esc(limpiar(j['juego']))}</li>"
         for j in juegos)
     otras = " ".join(f'<a href="../{o["slug"]}/">{esc(o["nombre"])}</a>' for o in LOTERIAS if o["slug"] != l["slug"])
+    from generate_otras import OTRAS
+    otras += " " + " ".join(f'<a href="../{sl}/">{esc(n)}</a>' for sl, n, *_ in OTRAS)
     secciones = " ".join(f'<a href="../{s}/">{esc(n)}</a>' for s, n in SECCIONES)
 
     ld = {
@@ -340,10 +342,10 @@ def render_pagina(l, resultados, archivo):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(title)}</title>
-<meta name="description" content="{esc(l['desc'])}">
+<meta name="description" content="{esc(recortar(l['desc']))}">
 <link rel="canonical" href="{url}">
 <meta property="og:title" content="{esc(title)}">
-<meta property="og:description" content="{esc(l['desc'])}">
+<meta property="og:description" content="{esc(recortar(l['desc']))}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{url}">
 <meta property="og:site_name" content="Portal Dominicano">

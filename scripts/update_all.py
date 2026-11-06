@@ -31,6 +31,7 @@ GENERADORES = [
     "scripts/generate_archivo.py",
     "scripts/generate_landing.py",
     "scripts/generate_juegos.py",
+    "scripts/generate_otras.py",
     "scripts/generate_sections.py",
     "scripts/generate_info.py",
     "scripts/generate_lidom.py",

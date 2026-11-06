@@ -103,6 +103,8 @@ def main():
     titulo_sem = f"{ini.day} al {fin.day} de {MESES[fin.month - 1].capitalize()}" if ini.month == fin.month else \
         f"{ini.day} de {MESES[ini.month - 1].capitalize()} al {fin.day} de {MESES[fin.month - 1].capitalize()}"
     title = f"Precio de la Gasolina Hoy RD: Semana del {titulo_sem}"
+    if len(title) > 65:
+        title = f"Precio de la Gasolina Hoy en RD: {titulo_sem.split(' al ')[-1]}"
     desc = (f"Precios de los combustibles en República Dominicana del {sem_txt}: gasolina premium {rd(precios.get('premium', 0))}, "
             f"regular {rd(precios.get('regular', 0))}, gasoil y GLP. Cambios e historial semanal.")
     migas = [("Portal Dominicano", "/"), ("Combustibles", ruta)]

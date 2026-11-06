@@ -57,6 +57,8 @@ def main():
     paginas += [("resultados/", "0.8", "daily"), ("resultados-de-ayer/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly"),
                 ("lidom/", "0.8", "hourly"), ("combustibles/", "0.8", "weekly")]
     paginas += [(f"{slug}/", "0.7", "daily") for slug, *_ in JUEGOS]
+    from generate_otras import OTRAS
+    paginas += [(f"{slug}/", "0.8", "hourly") for slug, *_ in OTRAS]
     import glob
     paginas += [(p[len(ROOT) + 1:-len("index.html")], "0.7", "hourly")
                 for p in sorted(glob.glob(os.path.join(ROOT, "anguila", "*", "index.html")))]
