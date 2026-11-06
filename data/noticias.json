@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-06T17:46:06.722275-04:00",
+  "updated": "2026-11-06T17:46:26.845211-04:00",
   "hora": "17:46",
   "fecha": "06/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "VIDEO: República Dominicana avanza en su búsqueda de petróleo dentro de Guyana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjBRQ0FQM003cl9PNHRnRE15NmZHOHdLYVZuV1RlV0RnR2JDNVAtblBONW1hcXJ2Q0E1LVQ4cmMxUmwwM0lwYThnTzNCNTQ1SGNlUVZ3NzlKRk9mbU9JYWVqMmk2bnVpWmxZMEhsdHZ4SEhyTXltbkx5Q3pFcEY0Sk0zZXZtVGI0UWQ5dWY4dVdwQ094NFk0MFQ1cVpiNkFjZm9yNmlLdThXckdlRWdrdA?oc=5",
+      "titulo": "El costo del servicio eléctrico en el país: de RD$13 el kilovatio-hora hasta los RD$25 - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjRpRF84OFlhRWR5d25sNHlLZUF0NmszQTBxR1BqZmxMZ05vbGcyanNlOHhVVVVNOXVNMUJGZXFpbVQ1WTlvcXkxQlQ0S2xOb1QwWFJ0NFlNRjlvRzZzT2N3WjZUT1Q2U3cycFViLVlScmxfM3FDRDZYYVItMTk5Mk9ObldBVWhRZkhsQjF0TTZrM01MQ241LXR0UVJoSm9JNnZjVnBRSEpXUEpJNk9fZnZHRXZ0YmU0OENXYm1jUnozdkhka1Q40gHMAUFVX3lxTFAwMWpCZFRwTndnMFR3NDExYVBXekFVVVNNeTRaajdPMzJRN2J5YWZxR3dWdWpHaWU4SENoWVg4WmZ6T1Awc3psVXFlWEtGdE1LU3JCREFSdmYtVTV3TE1UZE5kMDJRd0J4Qm9DSWsyeXRhV0plLXZrMjhQNDlJOFpaU2dGbkZPeXJWblNmOXZuQ0s2amtjb2VkSkZyU1Ywb0E2dk1YdzBIU21YTjF2MDkxRXlfUjhubjJLSmZYVllZcU5zUklXanI2dFlJVQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 17:48:00 GMT",
+      "fecha": "Thu, 05 Nov 2026 21:42:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2022/01/06/whatsapp-image-2022-01-06-at-42920-pm-5046859e-focus-0-0-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Miss República Dominicana comparte su camino a Miss Universo - Yahoo en Español Vida y Estilo",
+      "fuente": "Yahoo en Español Vida y Estilo",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkRoTmZ6bGNCN2E4TUdDQTR6NGRhMXpFWTNhTHpxdU4xMzJ5Um54c3NPdjFJRENrLW1jeXBQa05WRzBURXRBYk5YQnEwOXQyY1d2T1dqN3RkM2NSRGlNeEF1NzNxUnlPYWx2ZUNDWEVlQTd1Z2dPQXE5Zl9xU2IwR1dOV3NNc0JPblV6OWlyNkxwNnZBQW5HY3Rsck4wdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 15:03:04 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/761b332bd9c56803c80fdd4974738e47f956da853ac29a7bab83c19a93b57eb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F5d9d354c49178109a75ccb0ae0364280.jpg"
+    },
+    {
+      "titulo": "Empresarios españoles destacan oportunidades de inversión en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmI0OVlYVmhoUVVsQ0RVeG9sNmZ4Y2ZjOXhJeUlRcWlXT2dTX2IxbnIwMlZRcEFQV041STRhZE5hc1lGN3lrcm80ODdNVDVpVVcyN2JIckMwZjV6SnlWRTVJY2pqMm5MZlo3RXF5LWZJdURyN2gtRUF3d1h0bHdLb3U4RDVnZlkzVU9BSjAzTGhhOGV0amNOT3RsUVItU2VVT0MzbHFwWlFzSUlTM1NST2ZMQ29kbmc4SThBUkM4OE41bHp4LWfSAcYBQVVfeXFMTkZiNDlZWFZoaFFVbENEVXhvbDZmeGNmYzl4SXlJUXFpV09nU19iMW5yMDJWUXBBUFdONUk0YWROYXNZRjd5a3JvNDg3TVQ1aVVXMjdiSHJDMGY1ekp5VkU1SWNqajJuTGZaN0VxeS1mSXVEcjdoLUVBd3dYdGx3S291OEQ1Z2ZZM1VPQUowM0xoYThldGpjTk90bFFSLVNlVU9DM2xxcFpRc0lJUzNTUk9mTENvZG5nOEk4QVJDODhONWx6eC1n?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 06 Nov 2026 16:00:43 GMT",
       "imagen": ""
     },
     {
@@ -21,12 +37,12 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/11/06/6aedc1c4a628a.webp"
     },
     {
-      "titulo": "Empresarios españoles destacan oportunidades de inversión en República Dominicana - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmI0OVlYVmhoUVVsQ0RVeG9sNmZ4Y2ZjOXhJeUlRcWlXT2dTX2IxbnIwMlZRcEFQV041STRhZE5hc1lGN3lrcm80ODdNVDVpVVcyN2JIckMwZjV6SnlWRTVJY2pqMm5MZlo3RXF5LWZJdURyN2gtRUF3d1h0bHdLb3U4RDVnZlkzVU9BSjAzTGhhOGV0amNOT3RsUVItU2VVT0MzbHFwWlFzSUlTM1NST2ZMQ29kbmc4SThBUkM4OE41bHp4LWfSAcYBQVVfeXFMTkZiNDlZWFZoaFFVbENEVXhvbDZmeGNmYzl4SXlJUXFpV09nU19iMW5yMDJWUXBBUFdONUk0YWROYXNZRjd5a3JvNDg3TVQ1aVVXMjdiSHJDMGY1ekp5VkU1SWNqajJuTGZaN0VxeS1mSXVEcjdoLUVBd3dYdGx3S291OEQ1Z2ZZM1VPQUowM0xoYThldGpjTk90bFFSLVNlVU9DM2xxcFpRc0lJUzNTUk9mTENvZG5nOEk4QVJDODhONWx6eC1n?oc=5",
+      "titulo": "Ha*Ash cantará en junio del 2027 en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGl4YmwtSDl4a3ZVSGZsMEZJVkhtODFsVGs3TjFTMFUtWV9sbVdzdm16UzJqVmJ2WF9oWjJISUYydGRmQlhYWWVpNkhlOGh5UVk2MDY1Y05PaVN3dmlQZ2U4UmsxX1gxdk1GWjlVQjJ6d3lTSHA4THZVd2FEdFJHSnZmcmZwLUJUQk5PT25mV0NiSlhzSHFHWmxFM3pYLXZFbUVNRXJSQzJoa0RZRGd0MWhSMjBrbzTSAbwBQVVfeXFMUEQ2T0dnRmlINjdmUFJxTFQ1UUhZUnFKTFNnREFXSHdnb0pIc2hDX2JUZVc4Y0JGMW95UkRHTEdwekRDM1FGdkE3NVNBV0hnaUthLVlaV2Y2UWxwdGUxeXdCcXNiYUo5aUtTOUhnU2hMUFd3Znp0Vmk0d3FqMU1KankwR04wT1c0SFV0bzZfbEkzS0MzOWQ3eTVRMU50U0FpX1p0WUx1QUxFZWo4NnYxdTZ4QUR4NnFTYkI5azE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 06 Nov 2026 16:00:43 GMT",
-      "imagen": ""
+      "fecha": "Thu, 05 Nov 2026 23:42:20 GMT",
+      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/11/05/6aed141e4f193.r_d.135-331-0.jpeg"
     },
     {
       "titulo": "Capellán: “Haití puede convertirse en gran oportunidad para República Dominicano” - El Nuevo Diario",
@@ -37,28 +53,12 @@
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/image_high-2.jpg-scaled.jpeg?resize=1200%2C1200&quality=100&ssl=1"
     },
     {
-      "titulo": "Un pedacito de República Dominicana en Londres llama la atención de todos - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEJvRUQzRG9xbzE0dl9KYk1pRTFnaU5KX1drQmVGd3VZbjJwNmthaERjSHZhSmhqZFRVc1BUeDVxSWJ4WWpHWGFyVklPZ0VJLWNiMk5WOVpnNTdXM09OM0Jzb0FuaVhVZU9icGxRb3d2MWZCN3I4OWU3c2R3SFhXWWl1X0NGUE81c1BVbW0zb01yNDRDRW5Ka3E0bTRCbHJMVWoyZzVQTUVLZUxhVlNPSlpwNHBQQ3h0MURWbNIBwgFBVV95cUxNRFBYV0RJWktUY3E4STNQei1WWnJLYklwOXFEdURIZk5PaVVjbWJqU2lQc0hIMDdGRzN2UWVUSGkwSFJPM29ib2ZnNkRJd1J0eU5WX0IySEZFY3o1dzFRZjh6WWRlaE9fS0dTYzNhekNaMjZiSVJiR3o1SFExbmZ4OWU3Y3MtOUJlcUYwWktZVDBUNmtKZV9IQ0RwRG5vZkVScU5VUV95RkxzclVqckxWcHFQak1vRVN2cnlQVXdabjFJUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 04 Nov 2026 12:33:53 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo este fin de semana? El pronóstico para este sábado 07 y domingo 08 - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPekpNZ3BjTURWcUJqZDBBVEZhQi03WTlNSEpldm1rWlBzUU5HV3llRGhSdmlIMnZldWJORjlHdTVCWGFaZkN0OVJLNjhoM3cwdXZINFZrb2FnaUlFWVJqcTlPNG5RNDg1UmF5LTRwZkdRRFg4U2dTSWhYTkVZNTdoZWJNbWhmOGRUcXJmNjZkdkRtb1l3Z1hXQ0hTWWNJVXJWNEgxYzVYRDJDUkR2R3FIUGl5TVZsdTgzSTVQNkh2V1cwb1BnSDdRVDhoNS0wUUZxaTExaDFnNXE0R1Q0bmVaUVNmX0JzSGZkM0dfejF5OHVvLUVzQ2J6ME5ycnpZSlltY2RmcmlR0gGGAkFVX3lxTE96Sk1ncGNNRFZxQmpkMEFURmFCLTdZOU1ISmV2bWtaUHNRTkdXeWVEaFJ2aUgydmV1Yk5GOUd1NUJYYVpmQ3Q5Uks2OGgzdzB1dkg0VmtvYWdpSUVZUmpxOU80blE0ODVSYXktNHBmR1FEWDhTZ1NJaFhORVk1N2hlYk1taGY4ZFRxcmY2NmR2RG1vWXdnWFdDSFNZY0lVclY0SDFjNVhEMkNSRHZHcUhQaXlNVmx1ODNJNVA2SHZXVzBvUGdIN1FUOGg1LTBRRnFpMTFoMWc1cTRHVDRuZVpRU2ZfQnNIZmQzR196MXk4dW8tRXNDYnowTnJyellKWW1jZGZyaVE?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 06 Nov 2026 19:00:05 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ha*Ash cantará en junio del 2027 en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGl4YmwtSDl4a3ZVSGZsMEZJVkhtODFsVGs3TjFTMFUtWV9sbVdzdm16UzJqVmJ2WF9oWjJISUYydGRmQlhYWWVpNkhlOGh5UVk2MDY1Y05PaVN3dmlQZ2U4UmsxX1gxdk1GWjlVQjJ6d3lTSHA4THZVd2FEdFJHSnZmcmZwLUJUQk5PT25mV0NiSlhzSHFHWmxFM3pYLXZFbUVNRXJSQzJoa0RZRGd0MWhSMjBrbzTSAbwBQVVfeXFMUEQ2T0dnRmlINjdmUFJxTFQ1UUhZUnFKTFNnREFXSHdnb0pIc2hDX2JUZVc4Y0JGMW95UkRHTEdwekRDM1FGdkE3NVNBV0hnaUthLVlaV2Y2UWxwdGUxeXdCcXNiYUo5aUtTOUhnU2hMUFd3Znp0Vmk0d3FqMU1KankwR04wT1c0SFV0bzZfbEkzS0MzOWQ3eTVRMU50U0FpX1p0WUx1QUxFZWo4NnYxdTZ4QUR4NnFTYkI5azE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 05 Nov 2026 23:42:20 GMT",
-      "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2026/11/05/6aed141e4f193.r_d.135-331-0.jpeg"
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
     },
     {
       "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 6 de noviembre de 2026 - Acento",
@@ -69,19 +69,19 @@
       "imagen": ""
     },
     {
+      "titulo": "VIDEO: República Dominicana avanza en su búsqueda de petróleo dentro de Guyana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjBRQ0FQM003cl9PNHRnRE15NmZHOHdLYVZuV1RlV0RnR2JDNVAtblBONW1hcXJ2Q0E1LVQ4cmMxUmwwM0lwYThnTzNCNTQ1SGNlUVZ3NzlKRk9mbU9JYWVqMmk2bnVpWmxZMEhsdHZ4SEhyTXltbkx5Q3pFcEY0Sk0zZXZtVGI0UWQ5dWY4dVdwQ094NFk0MFQ1cVpiNkFjZm9yNmlLdThXckdlRWdrdA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 04 Nov 2026 17:48:00 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/04/6aeb6f7db6bec.jpeg"
+    },
+    {
       "titulo": "¿Cuánto cuesta realmente mantener un hogar en República Dominicana? Los gastos que presionan el salario - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21FblZrODlwNE8teDZKSmE3TURUWlRXM0RhdHhvNU9WNWU0bzdFYkVTTHZ2RzdUX2J0VzZjMVV5VUZ0ZUdjeTMwblNmdHNaS0xoREZyYzBXcWlrNHZzSlNBSGg1VnZjOXY0aC02OU1JYmFuSEJWRm1seFFXNklrQjFDaGIxVGVCWGN1Q0pMbEo1WVp6VlloQzBUMzY1QUpreERRV3NtMkJWWUx1azZWYXFXTHdOQ1FZaFg0d0JFWkVJMkp0dTQ5UDRCZ1ZJMXZWcXlqSGx5NUMteXVNQ0HSAd4BQVVfeXFMUFdtRW5Wazg5cDRPLXg2SkphN01EVFpUVzNEYXR4bzVPVjVlNG83RWJFU0x2dkc3VF9idFc2YzFVeVVGdGVHY3kzMG5TZnRzWktMaERGcmMwV3FpazR2c0pTQUhoNVZ2Yzl2NGgtNjlNSWJhbkhCVkZtbHhRVzZJa0IxQ2hiMVRlQlhjdUNKTGxKNVlaelZZaEMwVDM2NUFKa3hEUVdzbTJCVllMdWs2VmFxV0x3TkNRWWhYNHdCRVpFSTJKdHU0OVA0QmdWSTF2VnF5akhseTVDLXl1TUNB?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 05 Nov 2026 15:00:12 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 06 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVW1UY2pRUDRhUWtVNmxYdW4zMWdEOHpTR2dGNDViTFlSd2tXTWRBOTVmTl8zc0RPMHFHaE9CYkRFRGhqbjdISDdXeEt6bm5EM21hcGY3TUdrSjRfSVB0eE1hRS1QTW95VThVM0NnZGlhSndYQWRMUThNalVRZXFlSXcxaFphOTNfODlPNE5TcllHOWxua09TX0FVb0JWODVPU0oydlNnMjMyc0ljU1kzYkljZ2U1NVFJR2RxZFNWaEtXdU9Ua0hBc2dlRVh4bHE5MXJGdzJGeDFSLVdMVFh6TUh30gHiAUFVX3lxTE9VbVRjalFQNGFRa1U2bFh1bjMxZ0Q4elNHZ0Y0NWJMWVJ3a1dNZEE5NWZOXzNzRE8wcUdoT0JiREVEaGpuN0hIN1d4S3pubkQzbWFwZjdNR2tKNF9JUHR4TWFFLVBNb3lVOFUzQ2dkaWFKd1hBZExROE1qVVFlcWVJdzFoWmE5M184OU80TlNyWUc5bG5rT1NfQVVvQlY4NU9TSjJ2U2cyMzJzSWNTWTNiSWNnZTU1UUlHZHFkU1ZoS1d1T1RrSEFzZ2VFWHhscTkxckZ3MkZ4MVItV0xUWHpNSHc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 06 Nov 2026 08:00:09 GMT",
       "imagen": ""
     },
     {
@@ -117,11 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Forlán confirma a Valverde para duelos de Uruguay ante Argentina y Dominicana - VS Sports",
-      "fuente": "VS Sports",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnJEM2lVZXBfWER1eVQzN1dtSWtVN19PdUhBc1c4YWlVWVR2OUJQWHNhY0dhWW1aRXE4SDZKekpqMjNydWJLR2JMcnF6cVBVQTMtTXdOSHl5cmhMUXRmNThsTzRHUUhKSkhNQktrMElWMU05STJiNDhBUmFPYWNwT2ptYTdJdUpQTUkwQzZzbnRGcnlGQTQtMWtDNWR4U0IySlRfQVBST3VmZERGSV9rdVZQd1M4alF5MVJNMmUzU0U?oc=5",
+      "titulo": "República Dominicana ordena la extradición a España de Jonathan Vera Pozo por tres presuntos delitos - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPem1ENXE0WUhwUktCZnNReGZpTzZTa2hoRHJ2QTAtejlNaWlCWXhnaHhIV29TeGZaQV9YcnNEalhXMlV6U29WcHZxQzhoZUtjM0pybmNkU2VySW40WjNubTRjMEgwVWZ5ZE1INTliTVA4N2hjaVJobjQxQllQTWN6VUxLZC1yVXQ0NEhxaGc0SWYzczE2Zjg5ZTRFbGJ0S21McWh2NTg1TGMxQ0UwckxRMlgtb3ctd0xKTDJIMXhPM1RPN0tPTkdXb2IwZXYwanJZVXFMdTZndS1aWTZLa0c4U29Bak1mWEwxZ3lHVTB30gGIAkFVX3lxTE55ZFJ0N0RZTkpPNTREY3VNTVV5QXliY0VYRlRnRkt2OF9jTkxEbkxyakNoenlLT3VxclBqeFVLaXoydkV1MGhpcHpWMVZ1QTI1SWZzM1ZLdms4V0VQWnhQSHhWMzZkbnE0MzZTQTU4dGVmcERQeVVNcGM0TTN2YzNiLUtBOVg3dEU1dER2bTdIZTdfcU5WQW5RSC1RZ2JmLWV4YlQ4Q092YlFINjNGSTVDYjloSVpLWUFLa2ZPYTFrTVl1VDk4VUppSkpBb2RkcU5IRzhJTmtmZjRRRUVmbE5QOFY2TnBCLUMybk9GdWNjOUE3eUpCNXl1dGdRbEV5SFFQVllPN0pkTQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 06 Nov 2026 17:02:19 GMT",
+      "fecha": "Fri, 06 Nov 2026 18:45:00 GMT",
       "imagen": ""
     }
   ]
