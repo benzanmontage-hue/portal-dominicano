@@ -8,7 +8,7 @@ Lee data/archivo.json.
 """
 import datetime
 
-from comun import (ORDEN_COMPANIAS, SLUG_COMPANIA, NOMBRE_COMPANIA, JUEGO_PRINCIPAL, MESES, esc,
+from comun import (ORDEN_COMPANIAS, SLUG_COMPANIA, NOMBRE_COMPANIA, JUEGO_PRINCIPAL, MESES, DIAS, esc, titulo,
                    cargar_json, fecha_larga, ordenar_juegos, sorteos_por_fecha, fechas_con_pagina,
                    TZ_RD)
 from generate_landing import render_cards
@@ -28,11 +28,11 @@ def principal(comp, juegos):
     return None
 
 
-def pagina_fecha(f, sorteos, anterior, siguiente, hoy):
+def pagina_fecha(f, sorteos, anterior, siguiente, hoy, ayer=False):
     d = d_iso(f)
     largo = fecha_larga(d)
     corto = f"{d.day} de {MESES[d.month - 1]} {d.year}"
-    ruta = f"/resultados/{f}/"
+    ruta = "/resultados-de-ayer/" if ayer else f"/resultados/{f}/"
     por_comp = {}
     for comp, juego, nums in sorteos:
         por_comp.setdefault(comp, []).append({"compania": comp, "juego": juego, "numeros": nums, "fecha": f})
@@ -80,14 +80,24 @@ def pagina_fecha(f, sorteos, anterior, siguiente, hoy):
   </div>
   <p class="nota">Verifica siempre tus números con la fuente oficial de cada lotería antes de cobrar un premio.</p>"""
 
-    title = f"Resultados de la Lotería del {d.day} de {MESES[d.month - 1].capitalize()} {d.year} — RD"
-    desc = (f"Números ganadores de la lotería dominicana del {largo}: Lotería Nacional, Leidsa, Loteka, "
-            f"Real, La Primera, La Suerte y Anguila. {total} sorteos.")
-    migas = [("Portal Dominicano", "/"), ("Resultados por fecha", "/resultados/"), (corto, ruta)]
+    dia_mes = f"{DIAS[d.weekday()].capitalize()} {d.day} de {MESES[d.month - 1].capitalize()}"
+    if ayer:
+        title = titulo(f"Lotería de Ayer {dia_mes}: Resultados RD", "Portal Dominicano")
+        h1 = f"Resultados de la lotería de ayer, {largo}"
+        desc = (f"Resultados de la lotería de ayer {largo}: Lotería Nacional, Leidsa, Loteka, Real, "
+                f"La Primera, La Suerte y Anguila. {total} sorteos con sus números ganadores.")
+        migas = [("Portal Dominicano", "/"), ("Resultados de ayer", ruta)]
+    else:
+        title = titulo(f"Lotería de Hoy {dia_mes} {d.year}: Resultados RD" if es_hoy
+                       else f"Resultados Lotería {dia_mes} {d.year} — RD")
+        h1 = f"Resultados de la lotería del {largo}"
+        desc = (f"Números ganadores de la lotería dominicana del {largo}: Lotería Nacional, Leidsa, Loteka, "
+                f"Real, La Primera, La Suerte y Anguila. {total} sorteos.")
+        migas = [("Portal Dominicano", "/"), ("Resultados por fecha", "/resultados/"), (corto, ruta)]
     from comun import BASE
-    ld = jsonld(BASE + ruta, f"Resultados de la lotería del {largo}", desc, migas,
+    ld = jsonld(BASE + ruta, h1, desc, migas,
                 extra=[faq_ld(BASE + ruta, faqs[:4])] if faqs else None)
-    html = pagina(ruta=ruta, title=title, desc=desc, h1=f"Resultados de la lotería del {largo}",
+    html = pagina(ruta=ruta, title=title, desc=desc, h1=h1,
                   sub=f"{total} sorteos de 7 loterías dominicanas", migas=migas, cuerpo=cuerpo, ld=ld, radio=True)
     escribir(ruta, html)
 
@@ -115,7 +125,7 @@ def pagina_indice(fechas, por_fecha, hoy):
         if p:
             resumen.append(f"<li><strong>{esc(NOMBRE_COMPANIA[comp])}</strong> ({esc(p['juego'])}): <span class=\"nw\">{esc(' - '.join(p['numeros']))}</span></li>")
 
-    cuerpo = f"""  <p class="intro">Busca los números ganadores de cualquier día. Cada página tiene todos los sorteos de las 7 loterías dominicanas de esa fecha.</p>
+    cuerpo = f"""  <p class="intro">Busca los números ganadores de cualquier día. Cada página tiene todos los sorteos de las 7 loterías dominicanas de esa fecha. ¿Buscas los de ayer? <a href="/resultados-de-ayer/">Resultados de la lotería de ayer ›</a></p>
   <h2 class="sect"><span class="bar"></span> Último día completo: {esc(fecha_larga(du))}</h2>
   <ul class="resumen-txt">{''.join(resumen)}</ul>
   <p class="nota"><a href="/resultados/{ultimo}/">Ver todos los sorteos del {esc(fecha_larga(du, con_anio=False))} ›</a></p>
@@ -141,7 +151,14 @@ def main():
         pagina_fecha(f, por_fecha[f], fechas[i - 1] if i else None,
                      fechas[i + 1] if i + 1 < len(fechas) else None, hoy)
     pagina_indice(fechas, por_fecha, hoy)
-    print(f"OK: {len(fechas)} páginas por fecha + índice /resultados/")
+    # /resultados-de-ayer/: el último día completo antes de hoy (búsqueda «lotería de ayer»).
+    previas = [f for f in fechas if d_iso(f) < hoy]
+    if previas:
+        f = previas[-1]
+        i = fechas.index(f)
+        pagina_fecha(f, por_fecha[f], fechas[i - 1] if i else None,
+                     fechas[i + 1] if i + 1 < len(fechas) else None, hoy, ayer=True)
+    print(f"OK: {len(fechas)} páginas por fecha + índice /resultados/ + /resultados-de-ayer/")
 
 
 if __name__ == "__main__":

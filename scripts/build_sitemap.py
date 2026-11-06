@@ -54,7 +54,7 @@ def main():
     urls = []
     from generate_juegos import JUEGOS
     paginas = list(PAGINAS)
-    paginas += [("resultados/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly"),
+    paginas += [("resultados/", "0.8", "daily"), ("resultados-de-ayer/", "0.8", "daily"), ("horarios-loterias/", "0.7", "monthly"), ("feriados/", "0.6", "monthly"),
                 ("lidom/", "0.8", "hourly"), ("combustibles/", "0.8", "weekly")]
     paginas += [(f"{slug}/", "0.7", "daily") for slug, *_ in JUEGOS]
     import glob
