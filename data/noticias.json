@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T17:46:26.845211-04:00",
-  "hora": "17:46",
+  "updated": "2026-11-06T17:57:50.704798-04:00",
+  "hora": "17:57",
   "fecha": "06/11/2026",
   "total": 15,
   "noticias": [
@@ -66,6 +66,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWENKTThCWE1NbzJMNEJIeVN4dTJZVjVVSEM4eGRFelRSVXNONndqN1RISnNDZEZDakN1aGp0bDNqZEVIQ2lYZUxKMXhuaHh0QURrUE1FSmtQX1pUT3BxalhaRUo5Nng2a1hESHJBZmFXWWlDdmp1RWRTVGQzeGVzU0VEY0dxV0NtUERwOGhFY0R6MGx3dWtXSlZXMjhwdjFGQ0JoLTZwSGttUVA2M1Vqdzc5MzNnaUx2YkhYZmphVmxnTTRYS2FXM0MzQ0MxQTY4Y1ptX0Jlb9IB1wFBVV95cUxNWENKTThCWE1NbzJMNEJIeVN4dTJZVjVVSEM4eGRFelRSVXNONndqN1RISnNDZEZDakN1aGp0bDNqZEVIQ2lYZUxKMXhuaHh0QURrUE1FSmtQX1pUT3BxalhaRUo5Nng2a1hESHJBZmFXWWlDdmp1RWRTVGQzeGVzU0VEY0dxV0NtUERwOGhFY0R6MGx3dWtXSlZXMjhwdjFGQ0JoLTZwSGttUVA2M1Vqdzc5MzNnaUx2YkhYZmphVmxnTTRYS2FXM0MzQ0MxQTY4Y1ptX0Jlbw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 06 Nov 2026 07:59:18 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/business-accounting-concept-grey-surface-flat-lay-man-considering-cash-dollars-OG.jpg"
+    },
+    {
+      "titulo": "¿Cuánto cuesta realmente mantener un hogar en República Dominicana? Los gastos que presionan el salario - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21FblZrODlwNE8teDZKSmE3TURUWlRXM0RhdHhvNU9WNWU0bzdFYkVTTHZ2RzdUX2J0VzZjMVV5VUZ0ZUdjeTMwblNmdHNaS0xoREZyYzBXcWlrNHZzSlNBSGg1VnZjOXY0aC02OU1JYmFuSEJWRm1seFFXNklrQjFDaGIxVGVCWGN1Q0pMbEo1WVp6VlloQzBUMzY1QUpreERRV3NtMkJWWUx1azZWYXFXTHdOQ1FZaFg0d0JFWkVJMkp0dTQ5UDRCZ1ZJMXZWcXlqSGx5NUMteXVNQ0HSAd4BQVVfeXFMUFdtRW5Wazg5cDRPLXg2SkphN01EVFpUVzNEYXR4bzVPVjVlNG83RWJFU0x2dkc3VF9idFc2YzFVeVVGdGVHY3kzMG5TZnRzWktMaERGcmMwV3FpazR2c0pTQUhoNVZ2Yzl2NGgtNjlNSWJhbkhCVkZtbHhRVzZJa0IxQ2hiMVRlQlhjdUNKTGxKNVlaelZZaEMwVDM2NUFKa3hEUVdzbTJCVllMdWs2VmFxV0x3TkNRWWhYNHdCRVpFSTJKdHU0OVA0QmdWSTF2VnF5akhseTVDLXl1TUNB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 05 Nov 2026 15:00:12 GMT",
       "imagen": ""
     },
     {
@@ -75,14 +83,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 04 Nov 2026 17:48:00 GMT",
       "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/04/6aeb6f7db6bec.jpeg"
-    },
-    {
-      "titulo": "¿Cuánto cuesta realmente mantener un hogar en República Dominicana? Los gastos que presionan el salario - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21FblZrODlwNE8teDZKSmE3TURUWlRXM0RhdHhvNU9WNWU0bzdFYkVTTHZ2RzdUX2J0VzZjMVV5VUZ0ZUdjeTMwblNmdHNaS0xoREZyYzBXcWlrNHZzSlNBSGg1VnZjOXY0aC02OU1JYmFuSEJWRm1seFFXNklrQjFDaGIxVGVCWGN1Q0pMbEo1WVp6VlloQzBUMzY1QUpreERRV3NtMkJWWUx1azZWYXFXTHdOQ1FZaFg0d0JFWkVJMkp0dTQ5UDRCZ1ZJMXZWcXlqSGx5NUMteXVNQ0HSAd4BQVVfeXFMUFdtRW5Wazg5cDRPLXg2SkphN01EVFpUVzNEYXR4bzVPVjVlNG83RWJFU0x2dkc3VF9idFc2YzFVeVVGdGVHY3kzMG5TZnRzWktMaERGcmMwV3FpazR2c0pTQUhoNVZ2Yzl2NGgtNjlNSWJhbkhCVkZtbHhRVzZJa0IxQ2hiMVRlQlhjdUNKTGxKNVlaelZZaEMwVDM2NUFKa3hEUVdzbTJCVllMdWs2VmFxV0x3TkNRWWhYNHdCRVpFSTJKdHU0OVA0QmdWSTF2VnF5akhseTVDLXl1TUNB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 05 Nov 2026 15:00:12 GMT",
-      "imagen": ""
     },
     {
       "titulo": "“Me arrepiento de corazón”: hispana dejó Nueva York por miedo a ICE y hoy lamenta volver a República Dominicana - Univision",

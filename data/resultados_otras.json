@@ -1,0 +1,831 @@
+{
+ "updated": "2026-11-06T17:57:45.635197-04:00",
+ "juegos": [
+  {
+   "compania": "Americanas",
+   "juego": "Cash 4 Life",
+   "numeros": [
+    "25",
+    "52",
+    "20",
+    "55",
+    "30"
+   ],
+   "fecha": "2026-02-21T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d521"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Florida Día",
+   "numeros": [
+    "02",
+    "03",
+    "83"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d515"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Florida Noche",
+   "numeros": [
+    "83",
+    "41",
+    "41"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d51b"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Georgia Día",
+   "numeros": [
+    "35",
+    "33",
+    "15"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6a8f03324967ae1920a80496"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Georgia Noche",
+   "numeros": [
+    "48",
+    "52",
+    "93"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a8f04514967ae1920a8206e"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Georgia Tarde",
+   "numeros": [
+    "36",
+    "99",
+    "14"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6aa0252292f89811b79109fd"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Mega Millions",
+   "numeros": [
+    "70",
+    "31",
+    "04",
+    "24",
+    "62",
+    "03"
+   ],
+   "fecha": "2026-11-03T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d4fd"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "New Jersey Día",
+   "numeros": [
+    "26",
+    "59",
+    "60"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6a8efea64967ae1920a7b8f4"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "New Jersey Noche",
+   "numeros": [
+    "41",
+    "24",
+    "09"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a8f008d4967ae1920a7f8e6"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "New York Noche",
+   "numeros": [
+    "15",
+    "86",
+    "58"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d50f"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "New York Tarde",
+   "numeros": [
+    "13",
+    "43",
+    "91"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d509"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "PowerBall",
+   "numeros": [
+    "15",
+    "56",
+    "34",
+    "53",
+    "41",
+    "21"
+   ],
+   "fecha": "2026-11-04T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d503"
+  },
+  {
+   "compania": "Americanas",
+   "juego": "Powerball Double Play",
+   "numeros": [
+    "65",
+    "58",
+    "23",
+    "06",
+    "03",
+    "15"
+   ],
+   "fecha": "2026-11-04T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d527"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Fantasy 5",
+   "numeros": [
+    "12",
+    "30",
+    "22",
+    "27",
+    "26"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d573"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Fantasy Día",
+   "numeros": [
+    "26",
+    "27",
+    "21",
+    "16",
+    "19"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d5b5"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Florida Lotto",
+   "numeros": [
+    "18",
+    "12",
+    "09",
+    "27",
+    "24",
+    "46"
+   ],
+   "fecha": "2026-11-04T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d567"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Florida Lotto Double Play",
+   "numeros": [
+    "07",
+    "10",
+    "21",
+    "49",
+    "47",
+    "32"
+   ],
+   "fecha": "2026-11-04T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d5af"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Jackpot Triple Play",
+   "numeros": [
+    "38",
+    "42",
+    "14",
+    "04",
+    "08",
+    "02"
+   ],
+   "fecha": "2026-11-03T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d5a9"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 2 Dia",
+   "numeros": [
+    "8",
+    "9",
+    "1"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d59d"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 2 Noche",
+   "numeros": [
+    "1",
+    "6",
+    "3"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d5a3"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 3 Dia",
+   "numeros": [
+    "4",
+    "0",
+    "2",
+    "1"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d591"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 3 Noche",
+   "numeros": [
+    "0",
+    "8",
+    "3",
+    "3"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d597"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 4 Dia",
+   "numeros": [
+    "0",
+    "3",
+    "8",
+    "3",
+    "1"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d585"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 4 Noche",
+   "numeros": [
+    "4",
+    "1",
+    "4",
+    "1",
+    "3"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d58b"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 5 Dia",
+   "numeros": [
+    "9",
+    "0",
+    "5",
+    "2",
+    "0",
+    "1"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d579"
+  },
+  {
+   "compania": "Florida",
+   "juego": "Pick 5 Noche",
+   "numeros": [
+    "3",
+    "8",
+    "6",
+    "8",
+    "4",
+    "3"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d57f"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 10:30 AM",
+   "numeros": [
+    "84",
+    "60",
+    "33"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6a44125c7f178816db95a378"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 11:30 AM",
+   "numeros": [
+    "02",
+    "36",
+    "25"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6a4414807f178816db95ac68"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 5:30 PM",
+   "numeros": [
+    "80",
+    "05",
+    "33"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a4414ae7f178816db95ac7e"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 6:30 PM",
+   "numeros": [
+    "46",
+    "82",
+    "41"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a4414d17f178816db95aca1"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 7:30 PM",
+   "numeros": [
+    "06",
+    "15",
+    "80"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a4414fc7f178816db95acb7"
+  },
+  {
+   "compania": "Haiti Bolet",
+   "juego": "Haiti Bolet 9:30 AM",
+   "numeros": [
+    "59",
+    "91",
+    "15"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6a4411b07f178816db959f3d"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "King Lottery Día",
+   "numeros": [
+    "89",
+    "88",
+    "75"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d66a"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "King Lottery Noche",
+   "numeros": [
+    "21",
+    "74",
+    "50"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d670"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Loto Pool Día",
+   "numeros": [
+    "94",
+    "69",
+    "84",
+    "56"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d646"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Loto Pool Noche",
+   "numeros": [
+    "25",
+    "64",
+    "45",
+    "83"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d64c"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Philipsburg Día",
+   "numeros": [
+    "6995",
+    "0580",
+    "2055"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d676"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Philipsburg Noche",
+   "numeros": [
+    "7753",
+    "0009",
+    "5205"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d67c"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Pick 3 Día",
+   "numeros": [
+    "3",
+    "8",
+    "9"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d652"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Pick 3 Noche",
+   "numeros": [
+    "5",
+    "2",
+    "1"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d658"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Pick 4 Día",
+   "numeros": [
+    "8",
+    "8",
+    "7",
+    "5"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d65e"
+  },
+  {
+   "compania": "King Lottery",
+   "juego": "Pick 4 Noche",
+   "numeros": [
+    "7",
+    "4",
+    "5",
+    "0"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d664"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "Agarra 4",
+   "numeros": [
+    "24",
+    "12",
+    "57",
+    "10"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d606"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "Agarra 4 Noche",
+   "numeros": [
+    "17",
+    "34",
+    "77",
+    "12"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6ace37b604c5226f7ad8c7b6"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "El Quemaito Mayor",
+   "numeros": [
+    "10"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d5fa"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "El Quemaito Noche",
+   "numeros": [
+    "12"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6ace36ef04c5226f7ad8c73d"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "LoteDom Noche",
+   "numeros": [
+    "17",
+    "34",
+    "77"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6accecb804c5226f7acd186b"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "Quiniela LoteDom",
+   "numeros": [
+    "24",
+    "12",
+    "57"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d5f4"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "Super Palé",
+   "numeros": [
+    "24",
+    "10"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d3ea7015c3b8a3d600"
+  },
+  {
+   "compania": "LoteDom",
+   "juego": "Super Palé Noche",
+   "numeros": [
+    "17",
+    "12"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6ace374b04c5226f7ad8c779"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Millionaire For Life",
+   "numeros": [
+    "07",
+    "16",
+    "19",
+    "27",
+    "47",
+    "2"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6a563f1dab686d300c956b67"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "New York Lotto",
+   "numeros": [
+    "44",
+    "05",
+    "52",
+    "59",
+    "57",
+    "35",
+    "49"
+   ],
+   "fecha": "2026-11-04T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d550"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Numbers Día",
+   "numeros": [
+    "6",
+    "1",
+    "3"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d53e"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Numbers Noche",
+   "numeros": [
+    "3",
+    "1",
+    "5"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d544"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Take 5 Día",
+   "numeros": [
+    "29",
+    "39",
+    "24",
+    "27",
+    "07"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d55c"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Take 5 Noche",
+   "numeros": [
+    "02",
+    "14",
+    "21",
+    "38",
+    "10"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d54a"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Win 4 Día",
+   "numeros": [
+    "4",
+    "3",
+    "9",
+    "1"
+   ],
+   "fecha": "2026-11-06T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d532"
+  },
+  {
+   "compania": "Nueva York",
+   "juego": "Win 4 Noche",
+   "numeros": [
+    "8",
+    "6",
+    "5",
+    "8"
+   ],
+   "fecha": "2026-11-05T04:00:00.000Z",
+   "game_id": "6966a6d2ea7015c3b8a3d538"
+  }
+ ],
+ "catalogo": {
+  "Americanas": [
+   "Cash 4 Life",
+   "Florida Día",
+   "Florida Noche",
+   "Georgia Día",
+   "Georgia Noche",
+   "Georgia Tarde",
+   "Mega Millions",
+   "New Jersey Día",
+   "New Jersey Noche",
+   "New York Noche",
+   "New York Tarde",
+   "PowerBall",
+   "Powerball Double Play"
+  ],
+  "Anguila": [
+   "Anguila 10:00 AM",
+   "Anguila 10:00 PM",
+   "Anguila 11:00 AM",
+   "Anguila 12:00 PM",
+   "Anguila 1:00 PM",
+   "Anguila 2:00 PM",
+   "Anguila 3:00 PM",
+   "Anguila 4:00 PM",
+   "Anguila 5:00 PM",
+   "Anguila 6:00 PM",
+   "Anguila 7:00 PM",
+   "Anguila 8:00  AM",
+   "Anguila 8:00 PM",
+   "Anguila 9:00 AM",
+   "Anguila 9:00 PM",
+   "La Cuarteta 10:00 AM",
+   "La Cuarteta 1:00 PM",
+   "La Cuarteta 6:00 PM",
+   "La Cuarteta 9:00 PM"
+  ],
+  "Florida": [
+   "Fantasy 5",
+   "Fantasy Día",
+   "Florida Lotto",
+   "Florida Lotto Double Play",
+   "Jackpot Triple Play",
+   "Pick 2 Dia",
+   "Pick 2 Noche",
+   "Pick 3 Dia",
+   "Pick 3 Noche",
+   "Pick 4 Dia",
+   "Pick 4 Noche",
+   "Pick 5 Dia",
+   "Pick 5 Noche"
+  ],
+  "Haiti Bolet": [
+   "Haiti Bolet 10:30 AM",
+   "Haiti Bolet 11:30 AM",
+   "Haiti Bolet 5:30 PM",
+   "Haiti Bolet 6:30 PM",
+   "Haiti Bolet 7:30 PM",
+   "Haiti Bolet 9:30 AM"
+  ],
+  "King Lottery": [
+   "King Lottery Día",
+   "King Lottery Noche",
+   "Loto Pool Día",
+   "Loto Pool Noche",
+   "Philipsburg Día",
+   "Philipsburg Noche",
+   "Pick 3 Día",
+   "Pick 3 Noche",
+   "Pick 4 Día",
+   "Pick 4 Noche"
+  ],
+  "La Primera": [
+   "El Quinielón Día",
+   "El Quinielón Noche",
+   "La Primera Día",
+   "Loto 5",
+   "Primera Noche"
+  ],
+  "La Suerte": [
+   "La Suerte 12:30",
+   "La Suerte 18:00"
+  ],
+  "Leidsa": [
+   "Loto - Super Loto Más",
+   "Loto Pool",
+   "Pega 3 Más",
+   "Quiniela Leidsa",
+   "Super Kino TV",
+   "Super Palé"
+  ],
+  "LoteDom": [
+   "Agarra 4",
+   "Agarra 4 Noche",
+   "El Quemaito Mayor",
+   "El Quemaito Noche",
+   "LoteDom Noche",
+   "Quiniela LoteDom",
+   "Super Palé",
+   "Super Palé Noche"
+  ],
+  "Loteka": [
+   "MC Repartidera",
+   "Mega Chances",
+   "MegaLotto",
+   "Quiniela Loteka Día",
+   "Quiniela Loteka Noche",
+   "Toca 3"
+  ],
+  "Loteria Real": [
+   "Chance Real",
+   "Lotería Real Noche",
+   "Loto Pool",
+   "Loto Pool Noche",
+   "Loto Real",
+   "Nueva Yol Real",
+   "Pega 4 Real",
+   "Quiniela Real",
+   "Repartidera Real",
+   "Super Palé",
+   "Tu Fecha Real"
+  ],
+  "Nacional": [
+   "Billetes Domingo",
+   "Gana Más",
+   "Juega + Pega +",
+   "Lotería Nacional"
+  ],
+  "Nueva York": [
+   "Millionaire For Life",
+   "New York Lotto",
+   "Numbers Día",
+   "Numbers Noche",
+   "Take 5 Día",
+   "Take 5 Noche",
+   "Win 4 Día",
+   "Win 4 Noche"
+  ]
+ }
+}
