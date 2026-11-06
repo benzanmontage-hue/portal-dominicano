@@ -63,14 +63,13 @@ def main():
     dr_date = now.strftime("%Y-%m-%d") + "T04:00:00.000Z"
     sessions = fetch_json(f"{API_BASE}/sessions?date={dr_date}")
 
-    juegos = []
+    juegos, otras = [], []
     for g in sessions:
         gid = g.get("game_id")
         info = GAME_MAP.get(gid)
         if not info:
             continue
-        if info["company"] not in KEEP_COMPANIES:
-            continue
+        destino = juegos if info["company"] in KEEP_COMPANIES else otras
         ls = g.get("lastSession") or {}
         score = ls.get("score")
         if not score:
@@ -87,7 +86,7 @@ def main():
         if not flat:
             continue
         date = ls.get("date", "")
-        juegos.append({
+        destino.append({
             "compania": info["company"],
             "juego": info["game"],
             "numeros": flat,
@@ -111,6 +110,13 @@ def main():
         "juegos": juegos,
         "historial": historial,
     }
+
+    # Las demás loterías que da la fuente (Americanas, LoteDom, King Lottery…), aparte.
+    with open(os.path.join(ROOT, "data", "resultados_otras.json"), "w", encoding="utf-8") as f:
+        json.dump({"updated": now.isoformat(), "juegos": sorted(otras, key=lambda j: (j["compania"], j["juego"])),
+                   "catalogo": {c: sorted({v["game"] for v in GAME_MAP.values() if v["company"] == c})
+                                for c in sorted({v["company"] for v in GAME_MAP.values()})}},
+                  f, ensure_ascii=False, indent=1)
 
     path = os.path.join(ROOT, "data", "resultados.json")
     with open(path, "w", encoding="utf-8") as f:
