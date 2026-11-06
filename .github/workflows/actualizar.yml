@@ -8,8 +8,9 @@ name: Actualizar datos
 
 on:
   schedule:
-    # Cada hora entre las 7 AM y la 1 AM hora RD (11–05 UTC); de madrugada no hay sorteos.
-    - cron: "37 0-5,11-23 * * *"
+    # Cada hora. Repo público: cada ejecución se queda ~5,5 h actualizando cada 20 min (de
+    # madrugada en RD salta las vueltas). Repo privado: una actualización corta por ejecución.
+    - cron: "37 * * * *"
   workflow_dispatch: {}   # botón "Run workflow" para arrancar un ciclo a mano
   push:
     branches: [main]
