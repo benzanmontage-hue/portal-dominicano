@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-06T22:31:18.580085-04:00",
-  "hora": "22:31",
+  "updated": "2026-11-06T22:51:38.354273-04:00",
+  "hora": "22:51",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "hawks - wizards",
+      "trafico": "100+",
+      "noticia": "Trae Young returns to Atlanta for first time as Wizards visit Hawks",
+      "enlace": "https://www.cbssports.com/nba/news/trae-young-returns-to-atlanta-for-first-time-as-wizards-visit-hawks/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
+    },
     {
       "termino": "grizzlies - thunder",
       "trafico": "100+",
@@ -15,16 +22,23 @@
     {
       "termino": "ncaab",
       "trafico": "100+",
-      "noticia": "Money Williams scores 35 points, Boston College men’s basketball beats UMass in the Commonwealth Classic",
-      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-umass-mens-basketball-score/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJxYZVduuOauTzxHfH6Z16yk9rpma1rP5uupc72u2dkNseqcmW1KztmsfPyoQ"
+      "noticia": "Boston College basketball was an opening act at TD Garden, but Friday offers a goal for Luke Murray’s rebuild",
+      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-basketball-luke-murray-td-garden/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrFWYlJJJlD-VoAP8EoQjf6hPBafE8Ysn0qtghbyKKFN67hjUGf6ooasDG8o"
     },
     {
       "termino": "cavaliers - 76ers",
       "trafico": "1000+",
-      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUN6O9X7JTD0_kdzA-ev-Ki5NQTbmglg__wBNjqr8WwETUYdJzss08GHqbYE"
+      "noticia": "LeBron James leads league-best 76ers into Cleveland for NBA Cup",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-leads-league-best-76ers-into-cleveland-for-nba-cup/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+    },
+    {
+      "termino": "hornets - celtics",
+      "trafico": "500+",
+      "noticia": "Boston Celtics vs Charlotte Hornets Nov 6, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/bos-vs-cha-0022600026/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-nWcBVCulv6tQnifMCi_Wd2D7MgHBbkQyzk9xEZHzXsIVWTB9t0zN4Et60Q"
     },
     {
       "termino": "bo naylor",
@@ -50,9 +64,9 @@
     {
       "termino": "heat latin music awards",
       "trafico": "200+",
-      "noticia": "Así se vivió la alfombra magenta de los Heat Latin Music Awards",
-      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-celebran-el-talento-latino/3712477",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy4DFXwqiT9UOTbURuScXyDQ-6aQOhMZA5OB_9HD-ECZoUANUS4xqvXKn7ZAc"
+      "noticia": "Industria musical: más mercados, nuevos negocios y el reto de conquistar audiencias",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-panel-sobre-presente-y-futuro-de-musica/3711747",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWjagB7g-bCaTuNgZtku9dZDWH8n_-NBJODrBEML7RIb7I3gLtJmyBN1URHk"
     },
     {
       "termino": "gonzalo moratorio",
@@ -60,20 +74,6 @@
       "noticia": "Muere Gonzalo Moratorio, el científico que  blindó  a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
       "enlace": "https://www.bbc.com/mundo/articles/c674ppz944jxo",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZO2WIQ2gtVfJ1PRcNKQldS0gcFtSBhAk959kp9CG49a6V_St1PvAn3NSIe4"
-    },
-    {
-      "termino": "eddy herrera",
-      "trafico": "200+",
-      "noticia": "Eddy Herrera responde a rumores sobre El Torito tras viralidad de “Tú eres ajena”",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261105/eddy-herrera-responde-rumores-sobre-torito-viralidad-ajena_929081.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XUvkNGjCCl-tZdNM13eSVuMOHZG2r5HsyTUQUxvm6V8tkJjf1kqhkmidfiI"
-    },
-    {
-      "termino": "carlos alcaraz",
-      "trafico": "100+",
-      "noticia": "Berrettini sufrió una lesión y Alcaraz avanzó a los cuartos de final del Masters 1000 de París sin jugar",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17478683/berrettini-sufrio-una-lesion-en-el-codo-alcaraz-avanzo-a-los-cuartos-de-final-del-masters-1000-de-paris-sin-jugar",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HTz_ywN4LvOQwVOgO3LrSL8z2WOxFzC2uVL5HfDxdmL-VHNwzcCleFzLiCw"
     }
   ]
 }
