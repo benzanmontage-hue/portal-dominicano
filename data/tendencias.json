@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-06T20:08:50.038139-04:00",
-  "hora": "20:08",
+  "updated": "2026-11-06T20:29:11.054258-04:00",
+  "hora": "20:29",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "hornets - celtics",
+      "trafico": "200+",
+      "noticia": "Celtics open four-game road trip against reeling Hornets",
+      "enlace": "https://www.cbssports.com/nba/news/celtics-open-four-game-road-trip-against-reeling-hornets/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+    },
     {
       "termino": "universidad de california",
       "trafico": "100+",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "gonzalo moratorio",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Muere Gonzalo Moratorio, el científico que  blindó  a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
       "enlace": "https://www.bbc.com/mundo/articles/c674ppz944jxo",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZO2WIQ2gtVfJ1PRcNKQldS0gcFtSBhAk959kp9CG49a6V_St1PvAn3NSIe4"
@@ -43,13 +50,13 @@
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
-      "noticia": "Alcaraz sobrevive a un apagón y sigue luchando por París",
-      "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/06/alcaraz-sobrevive-apagon-sigue-luchando-paris.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqQMZ-DVArEjLUA_0bQvDEzEwMtvn_K_wLnqTLogX0UfFn0uodEoJf4VA8HXc"
+      "noticia": "Berrettini sufrió una lesión y Alcaraz avanzó a los cuartos de final del Masters 1000 de París sin jugar",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17478683/berrettini-sufrio-una-lesion-en-el-codo-alcaraz-avanzo-a-los-cuartos-de-final-del-masters-1000-de-paris-sin-jugar",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HTz_ywN4LvOQwVOgO3LrSL8z2WOxFzC2uVL5HfDxdmL-VHNwzcCleFzLiCw"
     },
     {
       "termino": "letizia ortiz",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -64,16 +71,9 @@
     {
       "termino": "pandilla",
       "trafico": "500+",
-      "noticia": "Los 400 Mawozo vuelve a responder a Bukele y proponen diálogo para evitar una escalada militar en Haití",
-      "enlace": "https://eldia.com.do/los-400-mawozo-vuelve-a-responder-a-bukele-y-proponen-dialogo-para-evitar-una-escalada-militar-en-haiti/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgA1VmVvdILEjMugK-RMGWPa58cvNdV6K4n6pC-m3xrKkRsicao8UJCgPBF_8"
-    },
-    {
-      "termino": "altice",
-      "trafico": "100+",
-      "noticia": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-      "enlace": "https://www.bbc.com/news/articles/c6rry8x9d9qko",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCedo9IPP3dowuAnGTgmCrXiXRiMGbFL3tH-2pmZPBnLmX9Vmi6wVgDTNDHw4"
+      "noticia": "La ONU no confirma negociaciones anunciadas por el jefe de la banda 400 Mawozo en Haití",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/la-onu-no-confirma-negociaciones-anunciadas-por-la-banda-400-mawozo/3713138",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeLq9v6D174y5OrgMsjycYfaZO7cMo4kMgy9aHQSkBofEKbgblHsuJ3UcU_w"
     }
   ]
 }
