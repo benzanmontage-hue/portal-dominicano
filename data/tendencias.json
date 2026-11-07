@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-07T00:14:16.716603-04:00",
-  "hora": "00:14",
+  "updated": "2026-11-07T00:34:40.410529-04:00",
+  "hora": "00:34",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "kings - spurs",
+      "trafico": "100+",
+      "noticia": "Victor Wembanyama leads surging Spurs into NBA Cup clash with Kings",
+      "enlace": "https://www.cbssports.com/nba/news/victor-wembanyama-leads-surging-spurs-into-nba-cup-clash-with-kings/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
+    },
+    {
+      "termino": "lakers - trail blazers",
+      "trafico": "200+",
+      "noticia": "Red-hot Luka Doncic leads Lakers into rematch with Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/red-hot-luka-doncic-leads-lakers-into-rematch-with-trail-blazers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+    },
     {
       "termino": "alerta de inundaciones",
       "trafico": "2000+",
@@ -15,16 +29,16 @@
     {
       "termino": "mavericks - jazz",
       "trafico": "100+",
-      "noticia": "Jazz Mavericks Basketball",
-      "enlace": "https://www.itemonline.com/sports/national_sports/jazz-mavericks-basketball/image_59928db9-f9a8-5875-ae7d-9e90012e006d.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_mq0IYeLI1Brhf0Lu767LEGYxEvf8BDAVuOz70kM003op4MjiMLdUV2iDRA"
+      "noticia": "Cooper Flagg, Kyrie Irving lead Mavs  second-half surge past Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-kyrie-irving-lead-mavs-second-half-surge-past-jazz/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJH2Nz7rTpoYaJCCVjhwrZh5_b8GYgBWqLKyTmKy6CSKydmz0HbLx0cbl0GuM"
     },
     {
       "termino": "pelicans - timberwolves",
-      "trafico": "100+",
-      "noticia": "Wolves outlast Pelicans for third victory in a row, lose Joan Beringer to broken nose",
-      "enlace": "https://www.startribune.com/minnesota-timberwolves-new-orleans-pelicans-score-today-lamelo-ball-stats-anthony-edwards-injury/601908255",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtp0eNtEpM-U22G-6dD7mPaCgUcdrKuTCrbMuO2nZYWSkaT_eP--FidSQ31V8"
+      "trafico": "200+",
+      "noticia": "UConn vs. Michigan (Nov 6, 2026) Live Score",
+      "enlace": "https://www.espn.com/mens-college-basketball/game?gameId=401920685",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAqcpgPHyV66yVTOs-g6TvLqcW6Fe8G-CiaQ0O1SQF6zzY5DOzWTFvkv1tdSU"
     },
     {
       "termino": "hawks - wizards",
@@ -60,20 +74,6 @@
       "noticia": "Celtics crush Hornets 119-80 behind Jayson Tatum s 34 points",
       "enlace": "https://www.cbssports.com/nba/news/celtics-crush-hornets-119-80-behind-jayson-tatums-34-points/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
-    },
-    {
-      "termino": "bo naylor",
-      "trafico": "100+",
-      "noticia": "Ex-Guardians catcher Bo Naylor: Nothing unusual about Clase, Ortiz pitches",
-      "enlace": "https://www.espn.com/mlb/story/_/id/50394314/ex-guardian-bo-naylor-testifies-clase-ortiz-trial",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIPz2iRECXvyo_rde4q7V1_vxqOaSXT9a5lc-yr2SBzR4Grl6D-dhIwKfw7rQ"
-    },
-    {
-      "termino": "universidad de california",
-      "trafico": "200+",
-      "noticia": "El Gobierno de Trump demanda a la Universidad de California ( Penn State ) por su política de matrículas para residentes del estado dirigida a los migrantes indocumentados",
-      "enlace": "https://es-us.noticias.yahoo.com/gobierno-trump-demanda-universidad-california-075529952.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOtksnbdm3gcBaAr2b-9OY-O84UbEg9g0y_NKJqzyIFIpieTEYsDQ7fskq0VM"
     }
   ]
 }
