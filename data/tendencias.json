@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-07T15:16:30.240862-04:00",
-  "hora": "15:16",
+  "updated": "2026-11-07T15:36:47.364161-04:00",
+  "hora": "15:36",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "valencia c. f. - real madrid",
+      "trafico": "1000+",
+      "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
+      "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRok9yaO01--lJOpwXlK4VzeNxy-jNKyhWwZ_hAQ3vDJKNRCQfySDc9aOnNd60"
+    },
     {
       "termino": "allanamiento",
       "trafico": "200+",
       "noticia": "Dos allanamientos en el Alto Valle dejaron elementos secuestrados y una detención",
       "enlace": "https://rionegro.gov.ar/articulo/62717/dos-allanamientos-en-el-alto-valle-dejaron-elementos-secuestrados-y-una-detencion",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKEt2MrdiflzuyZp0tSsb4Uj3Dtxq8y83U2yqCtQWIwUB7FWRhISS2EMK83k"
+    },
+    {
+      "termino": "precios combustibles",
+      "trafico": "200+",
+      "noticia": "El Gobierno estudia nueva regla para fijar el precio de los combustibles",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/05/gobierno-estudia-nueva-regla-para-fijar-precios-de-los-combustibles/3711085",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpxWLOyoZJ7PxkGMeTBAjSyPbkziIaKD1Hy3Rwq6y42WVuHJVWqLwmI7lVSQw"
     },
     {
       "termino": "posiciones de mainz 05 contra bayern",
@@ -29,9 +43,9 @@
     {
       "termino": "real de hoy",
       "trafico": "1000+",
-      "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
-      "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRok9yaO01--lJOpwXlK4VzeNxy-jNKyhWwZ_hAQ3vDJKNRCQfySDc9aOnNd60"
+      "noticia": "DAZN",
+      "enlace": "https://www.dazn.com/es-ES/news/futbol/real-zaragoza-vs-huesca-primera-federacion-horario-donde-ver-hoy-por-tv-online-partido-primera-rfef-traves-dazn/1i2ubeplikw6m12c71y1ww41ur",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqBAD3fHEFCpQ_l0ThjdXJlzpcWs7jllPZWNU-fBGB5NUbfUo6gg9OPBFJHec"
     },
     {
       "termino": "la real",
@@ -48,32 +62,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWx8BZmJ0wQ-w2oaiXy6Pw0e7FLv4C7hR_7wKZlCQPFCRUT9yi1PXjKgQtsDI"
     },
     {
-      "termino": "primera de hoy",
-      "trafico": "200+",
-      "noticia": "Pronóstico de AEMET para Madrid hoy, sábado 7 de noviembre: ¿qué tiempo hará?",
-      "enlace": "https://www.elconfidencial.com/el-tiempo/2026-11-07/el-tiempo-en-madrid-sabado_4452032/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVW8KaBWjCG-XxCqhwjGqjxp0JnG6zKS94-erz3STdYKCEsZMwXx6ERl52jw"
-    },
-    {
       "termino": "arsenal - hull city",
       "trafico": "200+",
-      "noticia": "Licensable picture: Premier League - Arsenal v Hull City",
-      "enlace": "https://www.reutersconnect.com/item/premier-league-arsenal-v-hull-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjcxQTRRTzY%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmAqDA--bx32tJRQ-_ODDKk7PJfJNNE8lCLG74kLzMxA0V9Hf7QYu7_s7ghm8"
+      "noticia": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
+      "enlace": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQptkLtcTZzqPQfDLI8bayvGFBVFUOOGiGX-DojiyB5vicJH96ASzerdRF900Y"
     },
     {
       "termino": "primer ministro de haití",
       "trafico": "1000+",
-      "noticia": "El jefe de la banda Boston muere en un ataque con dron de las fuerzas haitianas",
-      "enlace": "https://www.infobae.com/el-salvador/2026/11/07/el-jefe-de-la-banda-boston-muere-en-un-ataque-con-dron-de-las-fuerzas-haitianas/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0shwiFxAVUmlqs5clE7JlQQ_vw7gLPWkdGHHh8AGJrbjb-Q964brSjKV6Gk"
-    },
-    {
-      "termino": "cayetana rivera y martínez de irujo",
-      "trafico": "500+",
-      "noticia": "Los Alba cierran filas con Tana Rivera y descalifican el  innecesario exhibicionismo fiestero  de Roca Rey",
-      "enlace": "https://www.eleconomista.es/informalia/famosos/noticias/14026312/11/26/los-alba-cierran-filas-con-tana-rivera-y-descalifican-el-innecesario-exhibicionismo-fiestero-de-roca-rey.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ75tbcuU7A7TlaGaYwaHRkWa6OUSFiLG_ltPeFW2vyVwfiNCp4fIuYJBfY8JI"
+      "noticia": "Muere jefe banda haitiana en ataque fuerzas de seguridad",
+      "enlace": "https://almomento.net/muere-jefe-banda-haitiana-en-ataque-fuerzas-de-seguridad/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwAKC_bJFdqU_ewX_lTnpv0sJSK_IXsbcvtJHSTqhYz-G5fyuyByq7Cx3y0-s"
     }
   ]
 }
