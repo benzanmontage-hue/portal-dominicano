@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T21:50:43-04:00",
+ "actualizado": "2026-11-06T22:11:03-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -536,6 +536,15 @@
   ],
   "LoteDom|Agarra 4 Noche": [
    {
+    "fecha": "2026-11-06",
+    "numeros": [
+     "26",
+     "80",
+     "85",
+     "51"
+    ]
+   },
+   {
     "fecha": "2026-11-05",
     "numeros": [
      "17",
@@ -555,6 +564,12 @@
   ],
   "LoteDom|El Quemaito Noche": [
    {
+    "fecha": "2026-11-06",
+    "numeros": [
+     "51"
+    ]
+   },
+   {
     "fecha": "2026-11-05",
     "numeros": [
      "12"
@@ -562,6 +577,14 @@
    }
   ],
   "LoteDom|LoteDom Noche": [
+   {
+    "fecha": "2026-11-06",
+    "numeros": [
+     "26",
+     "80",
+     "85"
+    ]
+   },
    {
     "fecha": "2026-11-05",
     "numeros": [
@@ -591,6 +614,13 @@
    }
   ],
   "LoteDom|Super Palé Noche": [
+   {
+    "fecha": "2026-11-06",
+    "numeros": [
+     "26",
+     "51"
+    ]
+   },
    {
     "fecha": "2026-11-05",
     "numeros": [
