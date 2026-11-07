@@ -1,15 +1,22 @@
 {
-  "updated": "2026-11-06T22:52:39.728221-04:00",
-  "hora": "22:52",
+  "updated": "2026-11-06T23:13:12.601017-04:00",
+  "hora": "23:13",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "pelicans - timberwolves",
+      "trafico": "100+",
+      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUN6O9X7JTD0_kdzA-ev-Ki5NQTbmglg__wBNjqr8WwETUYdJzss08GHqbYE"
+    },
+    {
       "termino": "hawks - wizards",
       "trafico": "100+",
-      "noticia": "Trae Young returns to Atlanta for first time as Wizards visit Hawks",
-      "enlace": "https://www.cbssports.com/nba/news/trae-young-returns-to-atlanta-for-first-time-as-wizards-visit-hawks/",
+      "noticia": "Hawks beat Wizards 139-132 in Trae Young s return",
+      "enlace": "https://www.cbssports.com/nba/news/hawks-beat-wizards-139-132-in-trae-youngs-return/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
     },
     {
@@ -36,9 +43,9 @@
     {
       "termino": "hornets - celtics",
       "trafico": "500+",
-      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUN6O9X7JTD0_kdzA-ev-Ki5NQTbmglg__wBNjqr8WwETUYdJzss08GHqbYE"
+      "noticia": "Celtics crush Hornets 119-80 behind Jayson Tatum s 34 points",
+      "enlace": "https://www.cbssports.com/nba/news/celtics-crush-hornets-119-80-behind-jayson-tatums-34-points/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
     },
     {
       "termino": "bo naylor",
@@ -67,13 +74,6 @@
       "noticia": "Industria musical: más mercados, nuevos negocios y el reto de conquistar audiencias",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-panel-sobre-presente-y-futuro-de-musica/3711747",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWjagB7g-bCaTuNgZtku9dZDWH8n_-NBJODrBEML7RIb7I3gLtJmyBN1URHk"
-    },
-    {
-      "termino": "gonzalo moratorio",
-      "trafico": "500+",
-      "noticia": "Muere Gonzalo Moratorio, el científico que  blindó  a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
-      "enlace": "https://www.bbc.com/mundo/articles/c674ppz944jxo",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZO2WIQ2gtVfJ1PRcNKQldS0gcFtSBhAk959kp9CG49a6V_St1PvAn3NSIe4"
     }
   ]
 }

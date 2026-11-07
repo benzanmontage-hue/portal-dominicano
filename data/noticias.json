@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T22:52:47.184091-04:00",
-  "hora": "22:52",
+  "updated": "2026-11-06T23:13:18.965019-04:00",
+  "hora": "23:13",
   "fecha": "06/11/2026",
   "total": 15,
   "noticias": [
@@ -66,7 +66,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMENmT2dsSkxVNVBRNU5JbHBKdHJ6cmJpaTBMa2pjY3VPT2lPVjV4SUNjMnkxWEE4dnJteURDb2xVOVlUem1NMjA5azdjWkFNMUZIUkZhbVN1SHF1MkE2RmE4bFpsSnNlSlJtWVl5dTlTZXhJY2dhY3JUeXFpUm85RkFmNndJS2RhbzZMNUoxUnppTkFGcllSMi1DV1J0QmJReUdnOW9mQ285TXFRMnN0MmtxY253ZlZXMjZKQUU5SWstOGVpWm04UmMzLTM0QdIBzgFBVV95cUxNMENmT2dsSkxVNVBRNU5JbHBKdHJ6cmJpaTBMa2pjY3VPT2lPVjV4SUNjMnkxWEE4dnJteURDb2xVOVlUem1NMjA5azdjWkFNMUZIUkZhbVN1SHF1MkE2RmE4bFpsSnNlSlJtWVl5dTlTZXhJY2dhY3JUeXFpUm85RkFmNndJS2RhbzZMNUoxUnppTkFGcllSMi1DV1J0QmJReUdnOW9mQ285TXFRMnN0MmtxY253ZlZXMjZKQUU5SWstOGVpWm04UmMzLTM0QQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 06 Nov 2026 22:00:41 GMT",
-      "imagen": ""
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Foro-patrocinado-por-Banco-BHD-y-Mapfre-en-la-Semana-Dominicana-en-Espana-2026-OG.jpg"
     },
     {
       "titulo": "De consumidores a creadores: la revolución 3D que le falta a la República Dominicana - El Nuevo Diario",
@@ -85,14 +85,6 @@
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Yoarem-Monegro.jpg?resize=1024%2C649&quality=100&ssl=1"
     },
     {
-      "titulo": "“Me arrepiento de corazón”: hispana dejó Nueva York por miedo a ICE y hoy lamenta volver a República Dominicana - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTJSX2IzbDg2VFd3UE5XZVcwbFpSRnE3SFpORHQ4dTBQZzNoOVpfay1aY1FCQjdQTTkyLTdWWVhNT0N0a05aSC03SVZPODFrMFdMejNJZGdZcWVIVWt5MC1LY0UzZ3d5S3RSLWc4R3k2OWZnZjVaN09aMU10dUg1NUc3MjR2ZzNGN1hPeDRHcjB3dzRxMVdCeEtGcTRmSlFkc0lUODgtaGNIeVhjUy1OV3BhTlgyX1pwVW10MktRSTVfSVRRY25STkFoZU5BRjQzMWpWZmFBZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 06 Nov 2026 20:54:49 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Los dominicanos tenemos que desaprender el racismo contra los haitianos - Daily Trojan",
       "fuente": "Daily Trojan",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa1puUjczQWw1ZjBVZk9FSjAzeE9XZzlVRTc1NHRyRFAzam1LVzZhUXRYbjMtQ2xnM3NuZTVxOW42dmxOdkR3UXg3V1p1WUtKMm1MbDJoUDZqVTcyOWJnUWltcnh3UXkyZXFST01WMkRMbzdxNDJnNFBNaldPRHEyTVMzLV9penljb2xPLXpDeHNwa0JNaU95am83TXJvMFU0XzFXWUJkdUJ2V1E?oc=5",
@@ -101,12 +93,20 @@
       "imagen": "https://dailytrojan.com/wp-content/uploads/2026/11/Image-11-6-26-at-3.39-AM-1030x771.png"
     },
     {
+      "titulo": "“Me arrepiento de corazón”: hispana dejó Nueva York por miedo a ICE y hoy lamenta volver a República Dominicana - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTJSX2IzbDg2VFd3UE5XZVcwbFpSRnE3SFpORHQ4dTBQZzNoOVpfay1aY1FCQjdQTTkyLTdWWVhNT0N0a05aSC03SVZPODFrMFdMejNJZGdZcWVIVWt5MC1LY0UzZ3d5S3RSLWc4R3k2OWZnZjVaN09aMU10dUg1NUc3MjR2ZzNGN1hPeDRHcjB3dzRxMVdCeEtGcTRmSlFkc0lUODgtaGNIeVhjUy1OV3BhTlgyX1pwVW10MktRSTVfSVRRY25STkFoZU5BRjQzMWpWZmFBZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 06 Nov 2026 20:54:49 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Por tanto, se prevé que el veredicto final de las urnas de Misispi se conozca entre 10 y el 13 de noviembre, fecha límite para que los condados envíen los resultados finales para que sean certificados. Además de estos dos escaños al Senado, medios como A - Instagram",
       "fuente": "Instagram",
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tSUhLYlpEdFFXSWN2aXhGdXJDXzlnV1NSQTJsc1pFeVIzclVoU1lfNU05WjFHaThfV0tKT19INWZhWmwzczd5MWw3MVNRakxHT0E?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 06 Nov 2026 20:43:30 GMT",
-      "imagen": ""
+      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/884852961_18639755671041593_4843758602323505135_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=sseW_XFkPw0Q7kNvwGCWg9G&_nc_oc=AdqUtYy7lNHOHhEFpd-bpNW-wrlBvPUmpLXKfk61HSu2ebxPzS7syiJJtfcNYXcAobA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=XSsMOf3ZeXCtc0pvJPa0FA&_nc_ss=7f689&oh=00_AQQPmUEIvm7uq1Hn21NgAG3r3S93AQKiCFLqGcu__c7dGQ&oe=6AF466B5"
     },
     {
       "titulo": "Boston, Lima, La Paz, Nueva York y República Dominicana primeras demarcaciones en constituir el CRE en la segunda vuelta - Crónicas de la Emigración",
