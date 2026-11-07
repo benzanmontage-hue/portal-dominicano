@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T07:31:38.948207-04:00",
-  "hora": "07:31",
+  "updated": "2026-11-07T07:52:04.168126-04:00",
+  "hora": "07:52",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -14,10 +14,10 @@
     },
     {
       "termino": "haití",
-      "trafico": "1000+",
-      "noticia": "Enfrentamientos de Policía haitiana con bandas armadas dejan al menos 20 pandilleros muertos",
-      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/11/01/20-pandilleros-muertos-en-haiti-en-enfrentamiento-con-policias/3707573",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFdhVhj70e0sVeUGd9UVPeNaWZgjHJPjYEN-6JED7hc3JvrhCragy2VQrTCE"
+      "trafico": "2000+",
+      "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
     },
     {
       "termino": "luka dončić",
@@ -55,13 +55,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSshpx4keWSGFZOgFWXTiIGzrdnNVPe6zvEy-34Ctqf93GwtgzsMpqskkz1C4M"
     },
     {
-      "termino": "pelicans - timberwolves",
-      "trafico": "200+",
-      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqsFFLrY_X9Lms2_Wz2pT-wrRmds2QNzpXI5Yv7XTYZfCx2jSVl_T0x5bgpV8"
-    },
-    {
       "termino": "hawks - wizards",
       "trafico": "100+",
       "noticia": "Washington Wizards vs. Atlanta Hawks Live Score and Stats - November 6, 2026 Gametracker",
@@ -74,6 +67,13 @@
       "noticia": "Ajay Mitchell News: Pours in season-high 35 points",
       "enlace": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-pours-in-season-high-35-points-537923",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hEy2D_PfOxzMTErN9gkiJvfQkvA90x-h_L4SR-2XMM32lpaMH2XleJOJF7Y"
+    },
+    {
+      "termino": "ncaab",
+      "trafico": "100+",
+      "noticia": "Boston College basketball was an opening act at TD Garden, but Friday offers a goal for Luke Murray’s rebuild",
+      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-basketball-luke-murray-td-garden/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrFWYlJJJlD-VoAP8EoQjf6hPBafE8Ysn0qtghbyKKFN67hjUGf6ooasDG8o"
     }
   ]
 }
