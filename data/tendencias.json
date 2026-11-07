@@ -1,20 +1,34 @@
 {
-  "updated": "2026-11-07T17:39:57.252188-04:00",
-  "hora": "17:39",
+  "updated": "2026-11-07T18:00:26.270054-04:00",
+  "hora": "18:00",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "boca juniors - defensa y justicia",
+      "trafico": "100+",
+      "noticia": "Boca vs. Defensa y Justicia, por el Torneo Clausura: seguilo EN VIVO",
+      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-defensa-y-justicia-fecha-16-id770563.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRldncvDgsKGt2JdR-CVAoNoLsdjuK5xz3yYuvMYOr38ORtv_Aska1cwNcGyaA"
+    },
+    {
+      "termino": "miss república dominicana",
+      "trafico": "100+",
+      "noticia": "Miss Universo dominicana y Magali Febles sufren accidente de tránsito en la Núñez de Cáceres",
+      "enlace": "https://www.diariolibre.com/revista/belleza/2026/11/07/magali-febles-y-melissa-nunez-sufren-accidente-de-transito/3713783",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV37ieI6QHKVV0K8uXWI9gjmk11xhA7BrXD7x0Xn1d_nw6vj-DAXU-Lfb7R1c"
+    },
+    {
       "termino": "inter miami - charlotte fc",
       "trafico": "200+",
-      "noticia": "Inter Miami vs Charlotte FC: Match Preview",
-      "enlace": "https://www.365scores.com/news/inter-miami-vs-charlotte-fc-preview",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqfaRI0hZ8C0H4Q3iwfMGvPKYv-EFdpiToMXYcdFAoA7lSBNK0nYXYWrCjqv8"
+      "noticia": "Inter Miami v Charlotte line-ups confirmed for Decision Day",
+      "enlace": "https://onefootball.com/en/news/inter-miami-v-charlotte-line-ups-confirmed-for-decision-day-43743015",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdUk5OrNJDKjDEj4_DhIVaUIEDw-aJFkJ63eSedaEqUY1pSMR5iDOIP32EeuQ"
     },
     {
       "termino": "roma - sassuolo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Serie A official line-ups: Roma vs. Sassuolo",
       "enlace": "https://football-italia.net/serie-a-official-line-ups-roma-v-sassuolo-wk11/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvI6arJNrS4AN5suyFb-NeI5LGelwt3Msrg871XgyhB-FHPy5GaAgxMpIhWA"
@@ -49,31 +63,17 @@
     },
     {
       "termino": "valencia c. f. - real madrid",
-      "trafico": "5000+",
+      "trafico": "10000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt1bNUtYH4J3gwvpyStpsPKDM560ViCNcfj7K2IOQHKpYZq4l8fOiCxydQkAs"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE279_Q81KuiZ8v0nggfgD81Mw-zcxNDXQDKKTaPfyGs0GnOl-d7NziEKPikI"
     },
     {
       "termino": "emmanuel clase",
       "trafico": "200+",
-      "noticia": "Testigo: Información privilegiada sobre Clase disminuyó tras caso Mizuhara",
-      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17488921/mlb-testigo-caso-mizuhara-disminucion-informacion-clase",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXrVTIUYVSpeko4PDsEWcp5v9b12FNV8qNCY9nERRsV9zClg_MFuyijb3w5l8"
-    },
-    {
-      "termino": "precios combustibles",
-      "trafico": "200+",
-      "noticia": "El Gobierno estudia nueva regla para fijar el precio de los combustibles",
-      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/05/gobierno-estudia-nueva-regla-para-fijar-precios-de-los-combustibles/3711085",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpxWLOyoZJ7PxkGMeTBAjSyPbkziIaKD1Hy3Rwq6y42WVuHJVWqLwmI7lVSQw"
-    },
-    {
-      "termino": "allanamiento",
-      "trafico": "200+",
-      "noticia": "Dos allanamientos en el Alto Valle dejaron elementos secuestrados y una detención",
-      "enlace": "https://rionegro.gov.ar/articulo/62717/roca-vendian-dioxido-de-cloro-hubo-allanamiento-sy-secuestraron-dos-armas",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKEt2MrdiflzuyZp0tSsb4Uj3Dtxq8y83U2yqCtQWIwUB7FWRhISS2EMK83k"
+      "noticia": "Clase se asustó por el caso Ohtani y detuvo el flujo de información a apostadores",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/06/clase-detuvo-el-flujo-de-informacion-a-apostadores-por-caso-ohtani/3713706",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrqKT5wdPxkqTlQO0iDN85PRUx4WdJs8Z4wVIY7_vWJ-pbTCixwy9HtWzvmPk"
     }
   ]
 }
