@@ -1,20 +1,48 @@
 {
-  "updated": "2026-11-07T13:35:00.212214-04:00",
-  "hora": "13:35",
+  "updated": "2026-11-07T13:55:20.082162-04:00",
+  "hora": "13:55",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "allanamiento",
+      "trafico": "100+",
+      "noticia": "Allanaron una vivienda y secuestraron armas de fuego en el marco de una causa por amenazas agravadas",
+      "enlace": "https://diarioelinformante.com.ar/allanaron-una-vivienda-y-secuestraron-armas-de-fuego-en-el-marco-de-una-causa-por-amenazas-agravadas/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaBXJBphBrUuKcH_EYVvkbzs6-Jv2mZuIwYUwFvt7BYuDK3L-ONthbfsJx-Zk"
+    },
+    {
+      "termino": "precios combustibles",
+      "trafico": "200+",
+      "noticia": "El Gobierno estudia nueva regla para fijar el precio de los combustibles",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/05/gobierno-estudia-nueva-regla-para-fijar-precios-de-los-combustibles/3711085",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpxWLOyoZJ7PxkGMeTBAjSyPbkziIaKD1Hy3Rwq6y42WVuHJVWqLwmI7lVSQw"
+    },
+    {
+      "termino": "posiciones de mainz 05 contra bayern",
+      "trafico": "200+",
+      "noticia": "Mainz 05 1-2 Bayern Munich: Harry Kane provides two assists as Bundesliga champions stay top",
+      "enlace": "https://www.bbc.com/sport/football/live/c6d09x7zknymt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1gtfCQUOrJ6MdSFNafq523Z31hmZW58YNPkK5apgz_ITiN1vrTmWRwsPx4IY"
+    },
+    {
       "termino": "nottingham forest - manchester city",
       "trafico": "200+",
       "noticia": "Premier League LIVE: Live text, radio   score updates from across the Premier League",
       "enlace": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr551lLIBGcO14qgaN3WUPyqsYgkNu6_OObjeaRhqJksxGCgaw3pNtIhm_3tQ"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUAWXeWwZI9SZBocWAAzMqI2mrKIBTQEElR1bePGu91_uJ9nD_3NZv7ONBog"
+    },
+    {
+      "termino": "real de hoy",
+      "trafico": "1000+",
+      "noticia": "¿A qué hora es el Real Sociedad - Rayo? Canal TV, horario y cómo ver LaLiga EA Sports en vivo",
+      "enlace": "https://as.com/futbol/primera/a-que-hora-es-el-real-sociedad-rayo-canal-tv-horario-y-como-ver-laliga-ea-sports-en-vivo-clone-f202611-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMP3a8uCSfCjjzr7yxiW65Uz61z93ecDDmFOA8cCAn09Gyd_v5v_Nz9p59Yes"
     },
     {
       "termino": "la real",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -46,34 +74,6 @@
       "noticia": "El jefe de la banda Boston muere en un ataque con dron de las fuerzas haitianas",
       "enlace": "https://www.infobae.com/el-salvador/2026/11/07/el-jefe-de-la-banda-boston-muere-en-un-ataque-con-dron-de-las-fuerzas-haitianas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0shwiFxAVUmlqs5clE7JlQQ_vw7gLPWkdGHHh8AGJrbjb-Q964brSjKV6Gk"
-    },
-    {
-      "termino": "mainz 05 - bayern",
-      "trafico": "500+",
-      "noticia": "Kimmich hat bei Neuer kein gutes Gefühl:  Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes",
-      "enlace": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDnIx3_usgNHW-dbPLEN1S6xPp3Mqn36n8s-5lWSh_FfuDm23COUeInIaVGRw"
-    },
-    {
-      "termino": "precio de los combustibles",
-      "trafico": "200+",
-      "noticia": "El Gobierno estudia nueva regla para fijar el precio de los combustibles",
-      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/05/gobierno-estudia-nueva-regla-para-fijar-precios-de-los-combustibles/3711085",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpxWLOyoZJ7PxkGMeTBAjSyPbkziIaKD1Hy3Rwq6y42WVuHJVWqLwmI7lVSQw"
-    },
-    {
-      "termino": "junta central electoral",
-      "trafico": "2000+",
-      "noticia": "JCE advierte sobre consecuencias de no renovar la cédula y llama a hacerlo antes de diciembre",
-      "enlace": "https://listindiario.com/la-republica/20261105/presidente-jce-destaca-papel-registro-civil-proteccion-identidad_929008.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ24gW7CL5u7ahj3CW69cNaL9sXXWcWUQffdDqzTMmXsJZvet_reZSOW_zKIh4"
-    },
-    {
-      "termino": "haití",
-      "trafico": "5000+",
-      "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
     }
   ]
 }
