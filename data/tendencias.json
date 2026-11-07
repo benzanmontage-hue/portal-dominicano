@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T23:53:54.599124-04:00",
-  "hora": "23:53",
-  "fecha": "06/11/2026",
+  "updated": "2026-11-07T00:14:16.716603-04:00",
+  "hora": "00:14",
+  "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
@@ -22,9 +22,9 @@
     {
       "termino": "pelicans - timberwolves",
       "trafico": "100+",
-      "noticia": "Boston Celtics vs Charlotte Hornets Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/bos-vs-cha-0022600026/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTFMcTRy_C9qT8VbMxGwP7pDI5eMxnUaVxiSDsSEWuGyQkMXQORP6YsKS6bo"
+      "noticia": "Wolves outlast Pelicans for third victory in a row, lose Joan Beringer to broken nose",
+      "enlace": "https://www.startribune.com/minnesota-timberwolves-new-orleans-pelicans-score-today-lamelo-ball-stats-anthony-edwards-injury/601908255",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtp0eNtEpM-U22G-6dD7mPaCgUcdrKuTCrbMuO2nZYWSkaT_eP--FidSQ31V8"
     },
     {
       "termino": "hawks - wizards",
@@ -50,9 +50,9 @@
     {
       "termino": "cavaliers - 76ers",
       "trafico": "1000+",
-      "noticia": "LeBron James leads league-best 76ers into Cleveland for NBA Cup",
-      "enlace": "https://www.cbssports.com/nba/news/lebron-james-leads-league-best-76ers-into-cleveland-for-nba-cup/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+      "noticia": "Cavaliers rout 76ers, hold LeBron James to 8 points in return",
+      "enlace": "https://www.cbssports.com/nba/news/cavaliers-rout-76ers-hold-lebron-james-to-8-points-in-return/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
     },
     {
       "termino": "hornets - celtics",
