@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-07T16:37:42.700842-04:00",
-  "hora": "16:37",
+  "updated": "2026-11-07T16:58:00.209772-04:00",
+  "hora": "16:58",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "roma - sassuolo",
+      "trafico": "100+",
+      "noticia": "Roma vs Sassuolo: Italian Serie A - watch",
+      "enlace": "https://www.bbc.com/sport/football/live/ck0e0jz1d907t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW69smDZ4qbI1gZRT3-rbXV2ZOgj5Ahq4CxPtnwQ4SRICYMJ4PLnTxtcCHdkw"
+    },
     {
       "termino": "valencia vs real madrid",
       "trafico": "200+",
       "noticia": "Valencia vs. Real Madrid: Preview, Predictions and Lineups",
       "enlace": "https://www.si.com/soccer/valencia-vs-real-madrid-preview-predictions-lineups-11-7-26",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3iY1RcUiK4YTCqr3USbrwBT-dtZw9CphgNUuRGEU_d4y_4A0sEgHy5Ig5wg"
+    },
+    {
+      "termino": "posiciones de nottingham forest contra manchester city",
+      "trafico": "2000+",
+      "noticia": "Nottingham Forest condemn Man City to 3rd straight Premier League loss",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4WiJkUJQX1Jz5wjjTiHkmQSTu6BUf2toE8psSVs9yok11GBvepy-KVkWZ0pU"
     },
     {
       "termino": "psg - troyes",
@@ -21,7 +35,7 @@
     },
     {
       "termino": "powerball",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "$50,000 Powerball Ticket Sold in Bethesda",
       "enlace": "https://mocoshow.com/2026/11/07/50000-powerball-ticket-sold-in-bethesda/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu7zJvadlZBHS2Xliqr660eyc2PFg87bEwFEwJ76uVwEOzGIW2wt47HXx280c"
@@ -31,7 +45,7 @@
       "trafico": "5000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqq-25Pr9QBvvCqK6B3IR_AuFnhrk8P5ps8hWR7_rea7oMPVKAIuuDK8F1R6Q"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVyLiw8zKW89tpnrRDvlIEMV447AcgSE7EqqO3ULFxbwKy9ePiFOjvajNqE54"
     },
     {
       "termino": "emmanuel clase",
@@ -60,20 +74,6 @@
       "noticia": "Mainz 05 1-2 Bayern Munich: Harry Kane provides two assists as Bundesliga champions stay top",
       "enlace": "https://www.bbc.com/sport/football/live/c6d09x7zknymt",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1gtfCQUOrJ6MdSFNafq523Z31hmZW58YNPkK5apgz_ITiN1vrTmWRwsPx4IY"
-    },
-    {
-      "termino": "nottingham forest - manchester city",
-      "trafico": "2000+",
-      "noticia": "Nottingham Forest condemn Man City to 3rd straight Premier League loss",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4WiJkUJQX1Jz5wjjTiHkmQSTu6BUf2toE8psSVs9yok11GBvepy-KVkWZ0pU"
-    },
-    {
-      "termino": "la real",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
     }
   ]
 }
