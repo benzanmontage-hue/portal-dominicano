@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T08:12:27.835838-04:00",
-  "hora": "08:12",
+  "updated": "2026-11-07T08:32:49.799939-04:00",
+  "hora": "08:32",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "precio de los combustibles",
+      "trafico": "100+",
+      "noticia": "Suben RD$4.00 al precio de la gasolina premium y el gasoil óptimo y el subsidio se eleva otra vez",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/06/gobierno-sube-rd400-a-dos-combustibles-y-congela-los-regulares/3713399",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQup9yC0c0zFrnjL8T4uxBL0vGMUhrA33Ajy3_CGWxOXOAzIRFgHhxOGyGkA6A"
+    },
     {
       "termino": "junta central electoral",
       "trafico": "500+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "luka dončić",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Luka Doncic erupts for 53 points as Lakers hold off Trail Blazers",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-erupts-for-53-points-as-lakers-hold-off-trail-blazers/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlsqxwuVpaWWkgySo3eXx3DbRlqj7Wh431waFTcqAbBog0FlNnqNjJy_fe8rI"
@@ -67,13 +74,6 @@
       "noticia": "Washington Wizards vs. Atlanta Hawks Live Score and Stats - November 6, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261106_WAS@ATL/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdFaQVhMKTa5Sutc7DUtpsbN2sxL9z-WjvYwbxuiXetvzjsID4Gru7s8DbYvk"
-    },
-    {
-      "termino": "grizzlies - thunder",
-      "trafico": "200+",
-      "noticia": "Ajay Mitchell News: Pours in season-high 35 points",
-      "enlace": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-pours-in-season-high-35-points-537923",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hEy2D_PfOxzMTErN9gkiJvfQkvA90x-h_L4SR-2XMM32lpaMH2XleJOJF7Y"
     }
   ]
 }
