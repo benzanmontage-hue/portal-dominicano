@@ -1,34 +1,41 @@
 {
-  "updated": "2026-11-07T18:20:55.221256-04:00",
-  "hora": "18:20",
+  "updated": "2026-11-07T18:41:14.997834-04:00",
+  "hora": "18:41",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "posiciones de valencia c. f. contra real madrid",
+      "trafico": "1000+",
+      "noticia": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
+      "enlace": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZve0Pg3E-5YmEEUD3R134WZNow1xbtEMceC7R0eI1XRWNiuGp1rpi1Yrd3I"
+    },
+    {
       "termino": "pacers - nuggets",
       "trafico": "200+",
-      "noticia": "Final Injury Report for Nuggets-Pacers: Will DeMar DeRozan, T.J. McConnell Play?",
-      "enlace": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pacers-180000090.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENjkDz1mAxWuVs0L_ZYDla5GTapLll0pvTTTVBcsJpJU64OMqmaC6LZN4ey0"
+      "noticia": "Nikola Jokic, Nuggets face Pacers in Mexico City",
+      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-face-pacers-in-mexico-city/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
       "termino": "boca juniors - defensa y justicia",
       "trafico": "100+",
-      "noticia": "Boca vs. Defensa y Justicia, por el Torneo Clausura: seguilo EN VIVO",
+      "noticia": "¡Boca lo ganó en la última y es Campeón de Liga!",
       "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-defensa-y-justicia-fecha-16-id770563.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRldncvDgsKGt2JdR-CVAoNoLsdjuK5xz3yYuvMYOr38ORtv_Aska1cwNcGyaA"
     },
     {
       "termino": "miss república dominicana",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Miss Universo dominicana y Magali Febles sufren accidente de tránsito en la Núñez de Cáceres",
       "enlace": "https://www.diariolibre.com/revista/belleza/2026/11/07/magali-febles-y-melissa-nunez-sufren-accidente-de-transito/3713783",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV37ieI6QHKVV0K8uXWI9gjmk11xhA7BrXD7x0Xn1d_nw6vj-DAXU-Lfb7R1c"
     },
     {
       "termino": "inter miami - charlotte fc",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "MATCH PREVIEW: Inter Miami CF Closes Out 2026 MLS Regular Season with Home Game Against Charlotte FC",
       "enlace": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-closes-out-2026-mls-regular-season-with-home-game-against-charlotte-fc",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1hU1omHOSVlSytk-X4AtQV-enQptaOTcc41jDMGL0_jQcxe4Oqt843eafYpc"
@@ -36,16 +43,9 @@
     {
       "termino": "roma - sassuolo",
       "trafico": "200+",
-      "noticia": "Serie A official line-ups: Roma vs. Sassuolo",
-      "enlace": "https://football-italia.net/serie-a-official-line-ups-roma-v-sassuolo-wk11/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvI6arJNrS4AN5suyFb-NeI5LGelwt3Msrg871XgyhB-FHPy5GaAgxMpIhWA"
-    },
-    {
-      "termino": "valencia vs real madrid",
-      "trafico": "500+",
-      "noticia": "Real Madrid threaten Valencia with a record not achieved in four decades",
-      "enlace": "https://www.goal.com/en/news/real-madrid-threaten-valencia-with-a-record-not-achieved-in-four-decades/blt30d4d51e6b8dbacb",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAAeviLw8hwzw-_J4Drc_pOhqUxxnwZfI2EdgwG2qTcvKtGcnjA2uz4p5BTuU"
+      "noticia": "Roma vs Sassuolo: Italian Serie A - watch",
+      "enlace": "https://www.bbc.com/sport/football/live/ck0e0jz1d907t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW69smDZ4qbI1gZRT3-rbXV2ZOgj5Ahq4CxPtnwQ4SRICYMJ4PLnTxtcCHdkw"
     },
     {
       "termino": "posiciones de nottingham forest contra manchester city",
@@ -57,9 +57,9 @@
     {
       "termino": "psg - troyes",
       "trafico": "1000+",
-      "noticia": "Un nom marocain inattendu sur la liste du PSG : Enrique prépare la surprise",
-      "enlace": "https://www.goal.com/fr/news/un-nom-marocain-inattendu-sur-la-liste-du-psg-enrique-prepare-la-surprise/blt118ac919ba66972c",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2h0VfR0sXx5Tqxhwkqv7gpwj6fesd-qiVRPqb0Enz8rMnV1zu3qNMtp5OXk"
+      "noticia": "PSG : Luis Enrique complimente Zinédine Zidane mais refuse de le conseiller",
+      "enlace": "https://www.footmercato.net/a1478111580319888306-psg-luis-enrique-complimente-zinedine-zidane-mais-refuse-de-le-conseiller",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-IIs-ZeERJx5H668I6ZfRJuD0uHddy30hubBDtx-pKZb_RkwCCxAFifS3zzs"
     },
     {
       "termino": "powerball",
@@ -73,7 +73,7 @@
       "trafico": "10000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOrNmiZbXD01gc79RlRVLSQEHm1MsYwQbHdOAbJX-68ElhA_ZWVTehxkS6KQ"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkj6rVGi6TeuyrvbFpsFJh1ac_irPGuZszHeADRZa0Ixmh0Bc0OBWgC0qGcCg"
     }
   ]
 }
