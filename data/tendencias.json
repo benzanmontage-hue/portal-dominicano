@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-06T22:10:58.683901-04:00",
-  "hora": "22:10",
+  "updated": "2026-11-06T22:31:18.580085-04:00",
+  "hora": "22:31",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "grizzlies - thunder",
+      "trafico": "100+",
+      "noticia": "Red-hot Shai Gilgeous-Alexander leads Thunder against Grizzlies",
+      "enlace": "https://www.cbssports.com/nba/news/red-hot-shai-gilgeous-alexander-leads-thunder-against-grizzlies/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+    },
     {
       "termino": "ncaab",
       "trafico": "100+",
@@ -15,16 +22,9 @@
     {
       "termino": "cavaliers - 76ers",
       "trafico": "1000+",
-      "noticia": "LeBron James leads league-best 76ers into Cleveland for NBA Cup",
-      "enlace": "https://www.cbssports.com/nba/news/lebron-james-leads-league-best-76ers-into-cleveland-for-nba-cup/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
-    },
-    {
-      "termino": "hornets - celtics",
-      "trafico": "200+",
-      "noticia": "Boston Celtics vs Charlotte Hornets Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/bos-vs-cha-0022600026/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-nWcBVCulv6tQnifMCi_Wd2D7MgHBbkQyzk9xEZHzXsIVWTB9t0zN4Et60Q"
+      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUN6O9X7JTD0_kdzA-ev-Ki5NQTbmglg__wBNjqr8WwETUYdJzss08GHqbYE"
     },
     {
       "termino": "bo naylor",
