@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-07T09:33:53.164156-04:00",
-  "hora": "09:33",
+  "updated": "2026-11-07T09:54:13.670865-04:00",
+  "hora": "09:54",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "precio de los combustibles",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Suben RD$4.00 al precio de la gasolina premium y el gasoil óptimo y el subsidio se eleva otra vez",
       "enlace": "https://www.diariolibre.com/economia/energia/2026/11/06/gobierno-sube-rd400-a-dos-combustibles-y-congela-los-regulares/3713399",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQup9yC0c0zFrnjL8T4uxBL0vGMUhrA33Ajy3_CGWxOXOAzIRFgHhxOGyGkA6A"
@@ -21,10 +21,10 @@
     },
     {
       "termino": "haití",
-      "trafico": "5000+",
-      "noticia": "Enfrentamientos de Policía haitiana con bandas armadas dejan al menos 20 pandilleros muertos",
-      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/11/01/20-pandilleros-muertos-en-haiti-en-enfrentamiento-con-policias/3707573",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFdhVhj70e0sVeUGd9UVPeNaWZgjHJPjYEN-6JED7hc3JvrhCragy2VQrTCE"
+      "trafico": "2000+",
+      "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
     },
     {
       "termino": "luka dončić",
@@ -57,16 +57,16 @@
     {
       "termino": "mavericks - jazz",
       "trafico": "100+",
-      "noticia": "Utah Jazz Fall in First NBA Cup Game to Dallas Mavericks: Key Takeaways",
-      "enlace": "https://www.nba.com/jazz/news/utah-jazz-fall-in-first-nba-cup-game-to-dallas-mavericks-key-takeaways",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSshpx4keWSGFZOgFWXTiIGzrdnNVPe6zvEy-34Ctqf93GwtgzsMpqskkz1C4M"
+      "noticia": "3 Overreactions as Mavericks Move to 2-0 in NBA Cup Play With Win Over Jazz",
+      "enlace": "https://www.si.com/nba/mavericks/onsi/3-overreactions-dallas-mavericks-move-2-0-nba-cup-play-win-over-utah-jazz-pj-washington-",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-xXkjqt6Hsh3RuYp7Vrk5AjJ-cLoXvMuDFtpHXiFjM0ocz0MNzWNZvzH--Lo"
     },
     {
       "termino": "pelicans - timberwolves",
       "trafico": "200+",
-      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqsFFLrY_X9Lms2_Wz2pT-wrRmds2QNzpXI5Yv7XTYZfCx2jSVl_T0x5bgpV8"
+      "noticia": "Licensable picture: NBA: Minnesota Timberwolves at New Orleans Pelicans",
+      "enlace": "https://www.reutersconnect.com/item/nba-minnesota-timberwolves-at-new-orleans-pelicans/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyOTMyMjc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaFzKA9MrX3qDOnz3WvCyzJfmTb5fvYSnFcN_sKA7bJ5fz-YwdnfpxUaWQ2dQ"
     },
     {
       "termino": "hawks - wizards",
