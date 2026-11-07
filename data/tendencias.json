@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-07T07:52:04.168126-04:00",
-  "hora": "07:52",
+  "updated": "2026-11-07T08:12:27.835838-04:00",
+  "hora": "08:12",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "junta central electoral",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "JCE advierte sobre consecuencias de no renovar la cédula y llama a hacerlo antes de diciembre",
       "enlace": "https://listindiario.com/la-republica/20261105/presidente-jce-destaca-papel-registro-civil-proteccion-identidad_929008.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ24gW7CL5u7ahj3CW69cNaL9sXXWcWUQffdDqzTMmXsJZvet_reZSOW_zKIh4"
@@ -36,9 +36,9 @@
     {
       "termino": "habichuelas con dulce",
       "trafico": "200+",
-      "noticia": "Solo falta la batata: Dasac desafía la austeridad con RD$630 MM en kits de habichuelas con dulce",
-      "enlace": "https://www.diariolibre.com/politica/general/2026/11/05/el-gobierno-gastara-rd630-millones-en-kits-de-habichuelas-con-dulce/3711808",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUx3Pc9-E0KzF5a9YvXhh-6oNNzQIy369RZOjs5jAIV9UZTpMOA-Kt8qWw7Fw"
+      "noticia": "Gobierno cancela la licitación de RD$630 millones para habichuelas con dulce",
+      "enlace": "https://listindiario.com/la-republica/gobierno/20261106/gobierno-cancela-licitacion-rd-630-millones-habichuelas-dulce_929166.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4TGDJlKfzUBQ2oPz2y6GlJqi6ELVRiifxVsMxlO4mjW9FbYQQU9Hk3wM-HPw"
     },
     {
       "termino": "alerta de inundaciones",
@@ -55,6 +55,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSshpx4keWSGFZOgFWXTiIGzrdnNVPe6zvEy-34Ctqf93GwtgzsMpqskkz1C4M"
     },
     {
+      "termino": "pelicans - timberwolves",
+      "trafico": "200+",
+      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqsFFLrY_X9Lms2_Wz2pT-wrRmds2QNzpXI5Yv7XTYZfCx2jSVl_T0x5bgpV8"
+    },
+    {
       "termino": "hawks - wizards",
       "trafico": "100+",
       "noticia": "Washington Wizards vs. Atlanta Hawks Live Score and Stats - November 6, 2026 Gametracker",
@@ -67,13 +74,6 @@
       "noticia": "Ajay Mitchell News: Pours in season-high 35 points",
       "enlace": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-pours-in-season-high-35-points-537923",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hEy2D_PfOxzMTErN9gkiJvfQkvA90x-h_L4SR-2XMM32lpaMH2XleJOJF7Y"
-    },
-    {
-      "termino": "ncaab",
-      "trafico": "100+",
-      "noticia": "Boston College basketball was an opening act at TD Garden, but Friday offers a goal for Luke Murray’s rebuild",
-      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-basketball-luke-murray-td-garden/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrFWYlJJJlD-VoAP8EoQjf6hPBafE8Ysn0qtghbyKKFN67hjUGf6ooasDG8o"
     }
   ]
 }
