@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-07T15:57:05.362463-04:00",
-  "hora": "15:57",
+  "updated": "2026-11-07T16:17:22.361763-04:00",
+  "hora": "16:17",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "psg - troyes",
+      "termino": "valencia vs real madrid",
       "trafico": "200+",
+      "noticia": "Valencia vs. Real Madrid: Preview, Predictions and Lineups",
+      "enlace": "https://www.si.com/soccer/valencia-vs-real-madrid-preview-predictions-lineups-11-7-26",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3iY1RcUiK4YTCqr3USbrwBT-dtZw9CphgNUuRGEU_d4y_4A0sEgHy5Ig5wg"
+    },
+    {
+      "termino": "psg - troyes",
+      "trafico": "500+",
       "noticia": "Un nom marocain inattendu sur la liste du PSG : Enrique prépare la surprise",
       "enlace": "https://www.goal.com/fr/news/un-nom-marocain-inattendu-sur-la-liste-du-psg-enrique-prepare-la-surprise/blt118ac919ba66972c",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2h0VfR0sXx5Tqxhwkqv7gpwj6fesd-qiVRPqb0Enz8rMnV1zu3qNMtp5OXk"
@@ -15,20 +22,20 @@
     {
       "termino": "powerball",
       "trafico": "100+",
-      "noticia": "$50,000 Powerball Ticket Sold in Bethesda",
-      "enlace": "https://mocoshow.com/2026/11/07/50000-powerball-ticket-sold-in-bethesda/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu7zJvadlZBHS2Xliqr660eyc2PFg87bEwFEwJ76uVwEOzGIW2wt47HXx280c"
+      "noticia": "Who is Edwin Castro? About $2.04 billion Powerball winner from California",
+      "enlace": "https://www.tcpalm.com/story/news/2026/11/06/edwin-castro-powerball-winner-california-wildfire-altadena/92622376007/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0dmrpprQmw79UabiahScZuj4B3T-93hIeYYPjfjFyANp68hVERTouk8OksSw"
     },
     {
       "termino": "valencia c. f. - real madrid",
       "trafico": "2000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjU2VNZwA7drkqI7d8abwLZnEfRTewQIikA57xNvtqt0ui7dTkE9WGeVsISEw"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgFgc6tHqO0BtmOci-Oh7_dVyDVYCyYopka0cfV82vIuicuklCgOW3eMyrARY"
     },
     {
       "termino": "emmanuel clase",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Clase se asustó por el caso Ohtani y detuvo el flujo de información a apostadores",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/06/clase-detuvo-el-flujo-de-informacion-a-apostadores-por-caso-ohtani/3713706",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrqKT5wdPxkqTlQO0iDN85PRUx4WdJs8Z4wVIY7_vWJ-pbTCixwy9HtWzvmPk"
@@ -57,16 +64,9 @@
     {
       "termino": "nottingham forest - manchester city",
       "trafico": "1000+",
-      "noticia": "Nottingham Forest 3-1 Manchester City: Liam Delap double helps Forest earn first home win",
-      "enlace": "https://www.bbc.com/sport/football/live/c5wyrmwlv8wvt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV4cuSTD9baM5CEX-pzlHpZZclMGFKmg3SC1xcoyiEaZbx07ApOr9kdN2wSpc"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "1000+",
-      "noticia": "DAZN",
-      "enlace": "https://www.dazn.com/es-ES/news/futbol/real-zaragoza-vs-huesca-primera-federacion-horario-donde-ver-hoy-por-tv-online-partido-primera-rfef-traves-dazn/1i2ubeplikw6m12c71y1ww41ur",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqBAD3fHEFCpQ_l0ThjdXJlzpcWs7jllPZWNU-fBGB5NUbfUo6gg9OPBFJHec"
+      "noticia": "Nottingham Forest condemn Man City to 3rd straight Premier League loss",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4WiJkUJQX1Jz5wjjTiHkmQSTu6BUf2toE8psSVs9yok11GBvepy-KVkWZ0pU"
     },
     {
       "termino": "la real",
