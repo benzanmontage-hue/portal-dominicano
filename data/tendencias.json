@@ -1,10 +1,31 @@
 {
-  "updated": "2026-11-07T13:14:38.430389-04:00",
-  "hora": "13:14",
+  "updated": "2026-11-07T13:35:00.212214-04:00",
+  "hora": "13:35",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nottingham forest - manchester city",
+      "trafico": "200+",
+      "noticia": "Premier League LIVE: Live text, radio   score updates from across the Premier League",
+      "enlace": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr551lLIBGcO14qgaN3WUPyqsYgkNu6_OObjeaRhqJksxGCgaw3pNtIhm_3tQ"
+    },
+    {
+      "termino": "la real",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "la suerte",
+      "trafico": "500+",
+      "noticia": "Tenemos mucha suerte : El rol de Joseba Arguiñano y Eva Pilar como padres de familias numerosas",
+      "enlace": "https://www.antena3.com/programas/joseba-arguinano/tenemos-mucha-suerte-rol-joseba-arguinano-eva-pilar-como-padres-familias-numerosas_202611076aef1d5c4196933d7ed4567c.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWx8BZmJ0wQ-w2oaiXy6Pw0e7FLv4C7hR_7wKZlCQPFCRUT9yi1PXjKgQtsDI"
+    },
     {
       "termino": "primera de hoy",
       "trafico": "200+",
@@ -21,7 +42,7 @@
     },
     {
       "termino": "primer ministro de haití",
-      "trafico": "2000+",
+      "trafico": "500+",
       "noticia": "El jefe de la banda Boston muere en un ataque con dron de las fuerzas haitianas",
       "enlace": "https://www.infobae.com/el-salvador/2026/11/07/el-jefe-de-la-banda-boston-muere-en-un-ataque-con-dron-de-las-fuerzas-haitianas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0shwiFxAVUmlqs5clE7JlQQ_vw7gLPWkdGHHh8AGJrbjb-Q964brSjKV6Gk"
@@ -29,9 +50,9 @@
     {
       "termino": "mainz 05 - bayern",
       "trafico": "500+",
-      "noticia": "FC Bayern, Noten: Harry Kane glänzt und gibt den Debatten neue Nahrung",
-      "enlace": "https://www.spox.com/fussball/news/harry-kane-glaenzt-und-gibt-den-debatten-dennoch-neue-nahrung-fc-bayern-muenchen-noten-und-einzelkritiken-zum-sieg-gegen-den-fsv-mainz-05/blt6547c9a95b684248",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfsc3Dbg1efWDBsJt4eVIumxkba-Nqb6Mxs4KeZWlFRG0rWBtcXFOMGAi6xGw"
+      "noticia": "Kimmich hat bei Neuer kein gutes Gefühl:  Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes",
+      "enlace": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDnIx3_usgNHW-dbPLEN1S6xPp3Mqn36n8s-5lWSh_FfuDm23COUeInIaVGRw"
     },
     {
       "termino": "precio de los combustibles",
@@ -49,31 +70,10 @@
     },
     {
       "termino": "haití",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
       "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
-    },
-    {
-      "termino": "luka dončić",
-      "trafico": "1000+",
-      "noticia": "Luka Doncic s 53-point explosion pushes scoring average past 40 as Lakers roll",
-      "enlace": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HOxM4L2uWtBuX8xIoiLlyrY8L-xjSJWt1BuoyWg7gFEDDZXAQLXKE2EWiKg"
-    },
-    {
-      "termino": "kings - spurs",
-      "trafico": "500+",
-      "noticia": "San Antonio Spurs vs. Sacramento Kings Live Score and Stats - November 6, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261106_SA@SAC/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsulKvgBHvO4dmY5iSRbKHIMnQyTasfp_mY5s386h1YYmr4kUU8aIzdgflrsQ"
-    },
-    {
-      "termino": "habichuelas con dulce",
-      "trafico": "500+",
-      "noticia": "Gobierno cancela la licitación de RD$630 millones para habichuelas con dulce",
-      "enlace": "https://listindiario.com/la-republica/gobierno/20261106/gobierno-cancela-licitacion-rd-630-millones-habichuelas-dulce_929166.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4TGDJlKfzUBQ2oPz2y6GlJqi6ELVRiifxVsMxlO4mjW9FbYQQU9Hk3wM-HPw"
     }
   ]
 }
