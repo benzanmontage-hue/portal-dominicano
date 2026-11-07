@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T17:19:33.392745-04:00",
-  "hora": "17:19",
+  "updated": "2026-11-07T17:39:57.252188-04:00",
+  "hora": "17:39",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "inter miami - charlotte fc",
+      "trafico": "200+",
+      "noticia": "Inter Miami vs Charlotte FC: Match Preview",
+      "enlace": "https://www.365scores.com/news/inter-miami-vs-charlotte-fc-preview",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqfaRI0hZ8C0H4Q3iwfMGvPKYv-EFdpiToMXYcdFAoA7lSBNK0nYXYWrCjqv8"
+    },
     {
       "termino": "roma - sassuolo",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "posiciones de nottingham forest contra manchester city",
       "trafico": "2000+",
-      "noticia": "Nottingham Forest condemn Man City to 3rd straight Premier League loss",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4WiJkUJQX1Jz5wjjTiHkmQSTu6BUf2toE8psSVs9yok11GBvepy-KVkWZ0pU"
+      "noticia": "Nottingham Forest 3-1 Man City: Enzo Maresca s dream start turns into nightmare",
+      "enlace": "https://www.bbc.com/sport/football/articles/cm93z0l03n8vo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSa1ONr-iPEa_FHxSWIjhfOqmEMF9J-cMuvfdbtHP4A3Ei9XJgxiP-sR-g0IrQ"
     },
     {
       "termino": "psg - troyes",
@@ -36,16 +43,16 @@
     {
       "termino": "powerball",
       "trafico": "200+",
-      "noticia": "$50,000 Powerball Ticket Sold in Bethesda",
-      "enlace": "https://mocoshow.com/2026/11/07/50000-powerball-ticket-sold-in-bethesda/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu7zJvadlZBHS2Xliqr660eyc2PFg87bEwFEwJ76uVwEOzGIW2wt47HXx280c"
+      "noticia": "Winning Powerball ticket sold in Troy",
+      "enlace": "https://www.news10.com/news/rensselaer-county/winning-powerball-ticket-sold-in-troy/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-sSMf4orBhiHKpkpMKfgTXAFoqtOiAdIf495JLFCBHMzb6MnsyG3yH1xkbE"
     },
     {
       "termino": "valencia c. f. - real madrid",
       "trafico": "5000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVyLiw8zKW89tpnrRDvlIEMV447AcgSE7EqqO3ULFxbwKy9ePiFOjvajNqE54"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt1bNUtYH4J3gwvpyStpsPKDM560ViCNcfj7K2IOQHKpYZq4l8fOiCxydQkAs"
     },
     {
       "termino": "emmanuel clase",
@@ -67,13 +74,6 @@
       "noticia": "Dos allanamientos en el Alto Valle dejaron elementos secuestrados y una detención",
       "enlace": "https://rionegro.gov.ar/articulo/62717/roca-vendian-dioxido-de-cloro-hubo-allanamiento-sy-secuestraron-dos-armas",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKEt2MrdiflzuyZp0tSsb4Uj3Dtxq8y83U2yqCtQWIwUB7FWRhISS2EMK83k"
-    },
-    {
-      "termino": "posiciones de mainz 05 contra bayern",
-      "trafico": "200+",
-      "noticia": "Mainz 05 1-2 Bayern Munich: Harry Kane provides two assists as Bundesliga champions stay top",
-      "enlace": "https://www.bbc.com/sport/football/live/c6d09x7zknymt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1gtfCQUOrJ6MdSFNafq523Z31hmZW58YNPkK5apgz_ITiN1vrTmWRwsPx4IY"
     }
   ]
 }
