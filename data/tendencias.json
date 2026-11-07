@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-06T20:49:36.365181-04:00",
-  "hora": "20:49",
+  "updated": "2026-11-06T21:09:55.684275-04:00",
+  "hora": "21:09",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "ncaab",
+      "trafico": "100+",
+      "noticia": "Money Williams scores 35 points, Boston College men’s basketball beats UMass in the Commonwealth Classic",
+      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-umass-mens-basketball-score/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJxYZVduuOauTzxHfH6Z16yk9rpma1rP5uupc72u2dkNseqcmW1KztmsfPyoQ"
+    },
+    {
       "termino": "cavaliers - 76ers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "LeBron James leads league-best 76ers into Cleveland for NBA Cup",
       "enlace": "https://www.cbssports.com/nba/news/lebron-james-leads-league-best-76ers-into-cleveland-for-nba-cup/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
@@ -15,13 +22,20 @@
     {
       "termino": "hornets - celtics",
       "trafico": "200+",
-      "noticia": "Celtics open four-game road trip against reeling Hornets",
-      "enlace": "https://www.cbssports.com/nba/news/celtics-open-four-game-road-trip-against-reeling-hornets/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+      "noticia": "Final Injury Report for Celtics-Hornets: Will Jayson Tatum, Kon Knueppel Play?",
+      "enlace": "https://www.aol.com/articles/final-injury-report-celtics-hornets-200000000.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfUN-cOVgxMNv69R1zh5EeMp4KU1nlMv_zee-h1xmfUtf_4BI35bZUhdMHBqk"
+    },
+    {
+      "termino": "bo naylor",
+      "trafico": "100+",
+      "noticia": "Ex-Guardians catcher Bo Naylor: Nothing unusual about Clase, Ortiz pitches",
+      "enlace": "https://www.espn.com/mlb/story/_/id/50394314/ex-guardian-bo-naylor-testifies-clase-ortiz-trial",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIPz2iRECXvyo_rde4q7V1_vxqOaSXT9a5lc-yr2SBzR4Grl6D-dhIwKfw7rQ"
     },
     {
       "termino": "universidad de california",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "ICE arresta a estudiante colombiana que solicitó asilo en Estados Unidos",
       "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/06/detencion-de-estudiante-colombiana-en-ice-durante-vuelo/3713105",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIa4_getH_uj8pgRjCfUlmGvdxUKGfntbEnoEhyLA0eLusLrzW7iPwzp-N8s"
@@ -35,7 +49,7 @@
     },
     {
       "termino": "heat latin music awards",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Industria musical: más mercados, nuevos negocios y el reto de conquistar audiencias",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-panel-sobre-presente-y-futuro-de-musica/3711747",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWjagB7g-bCaTuNgZtku9dZDWH8n_-NBJODrBEML7RIb7I3gLtJmyBN1URHk"
@@ -60,20 +74,6 @@
       "noticia": "Berrettini sufrió una lesión y Alcaraz avanzó a los cuartos de final del Masters 1000 de París sin jugar",
       "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17478683/berrettini-sufrio-una-lesion-en-el-codo-alcaraz-avanzo-a-los-cuartos-de-final-del-masters-1000-de-paris-sin-jugar",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HTz_ywN4LvOQwVOgO3LrSL8z2WOxFzC2uVL5HfDxdmL-VHNwzcCleFzLiCw"
-    },
-    {
-      "termino": "letizia ortiz",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "sevilla - alavés",
-      "trafico": "1000+",
-      "noticia": "¡EN VIVO! Sevilla recibe a Alavés, que busca cortar una racha negativa en LaLiga",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17468017/sevilla-vs-alaves-fecha-12-de-laliga-2026-2027-equipo-fecha-hora-y-tv-en-vivo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToqFOje1yY-xuwtpqK79p4xcVJnoAyc3wTHuBH14BGZSFpA8pnWml1cgTRB48"
     }
   ]
 }
