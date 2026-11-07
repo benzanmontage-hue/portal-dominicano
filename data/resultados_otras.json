@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:21:53.052155-04:00",
+ "updated": "2026-11-07T19:42:17.572756-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -360,11 +360,11 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 6:30 PM",
    "numeros": [
-    "42",
-    "28",
-    "56"
+    "29",
+    "94",
+    "02"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6a4414d17f178816db95aca1"
   },
   {
@@ -404,11 +404,11 @@
    "compania": "King Lottery",
    "juego": "King Lottery Noche",
    "numeros": [
-    "54",
-    "39",
-    "96"
+    "55",
+    "75",
+    "07"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d670"
   },
   {
@@ -427,12 +427,12 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Noche",
    "numeros": [
-    "53",
-    "91",
-    "23",
-    "25"
+    "89",
+    "62",
+    "41",
+    "26"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d64c"
   },
   {
@@ -450,11 +450,11 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Noche",
    "numeros": [
-    "9413",
-    "4269",
-    "7535"
+    "7787",
+    "3666",
+    "1640"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d67c"
   },
   {
@@ -472,11 +472,11 @@
    "compania": "King Lottery",
    "juego": "Pick 3 Noche",
    "numeros": [
-    "9",
+    "8",
     "5",
-    "4"
+    "5"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d658"
   },
   {
@@ -495,12 +495,12 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Noche",
    "numeros": [
-    "3",
-    "9",
-    "9",
-    "6"
+    "7",
+    "5",
+    "0",
+    "7"
    ],
-   "fecha": "2026-11-06T04:00:00.000Z",
+   "fecha": "2026-11-07T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d664"
   },
   {
