@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T18:00:26.270054-04:00",
-  "hora": "18:00",
+  "updated": "2026-11-07T18:20:55.221256-04:00",
+  "hora": "18:20",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pacers - nuggets",
+      "trafico": "200+",
+      "noticia": "Final Injury Report for Nuggets-Pacers: Will DeMar DeRozan, T.J. McConnell Play?",
+      "enlace": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pacers-180000090.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENjkDz1mAxWuVs0L_ZYDla5GTapLll0pvTTTVBcsJpJU64OMqmaC6LZN4ey0"
+    },
     {
       "termino": "boca juniors - defensa y justicia",
       "trafico": "100+",
@@ -21,10 +28,10 @@
     },
     {
       "termino": "inter miami - charlotte fc",
-      "trafico": "200+",
-      "noticia": "Inter Miami v Charlotte line-ups confirmed for Decision Day",
-      "enlace": "https://onefootball.com/en/news/inter-miami-v-charlotte-line-ups-confirmed-for-decision-day-43743015",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdUk5OrNJDKjDEj4_DhIVaUIEDw-aJFkJ63eSedaEqUY1pSMR5iDOIP32EeuQ"
+      "trafico": "500+",
+      "noticia": "MATCH PREVIEW: Inter Miami CF Closes Out 2026 MLS Regular Season with Home Game Against Charlotte FC",
+      "enlace": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-closes-out-2026-mls-regular-season-with-home-game-against-charlotte-fc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1hU1omHOSVlSytk-X4AtQV-enQptaOTcc41jDMGL0_jQcxe4Oqt843eafYpc"
     },
     {
       "termino": "roma - sassuolo",
@@ -36,9 +43,9 @@
     {
       "termino": "valencia vs real madrid",
       "trafico": "500+",
-      "noticia": "Valencia vs. Real Madrid: Preview, Predictions and Lineups",
-      "enlace": "https://www.si.com/soccer/valencia-vs-real-madrid-preview-predictions-lineups-11-7-26",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3iY1RcUiK4YTCqr3USbrwBT-dtZw9CphgNUuRGEU_d4y_4A0sEgHy5Ig5wg"
+      "noticia": "Real Madrid threaten Valencia with a record not achieved in four decades",
+      "enlace": "https://www.goal.com/en/news/real-madrid-threaten-valencia-with-a-record-not-achieved-in-four-decades/blt30d4d51e6b8dbacb",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAAeviLw8hwzw-_J4Drc_pOhqUxxnwZfI2EdgwG2qTcvKtGcnjA2uz4p5BTuU"
     },
     {
       "termino": "posiciones de nottingham forest contra manchester city",
@@ -66,14 +73,7 @@
       "trafico": "10000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE279_Q81KuiZ8v0nggfgD81Mw-zcxNDXQDKKTaPfyGs0GnOl-d7NziEKPikI"
-    },
-    {
-      "termino": "emmanuel clase",
-      "trafico": "200+",
-      "noticia": "Clase se asustó por el caso Ohtani y detuvo el flujo de información a apostadores",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/06/clase-detuvo-el-flujo-de-informacion-a-apostadores-por-caso-ohtani/3713706",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrqKT5wdPxkqTlQO0iDN85PRUx4WdJs8Z4wVIY7_vWJ-pbTCixwy9HtWzvmPk"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOrNmiZbXD01gc79RlRVLSQEHm1MsYwQbHdOAbJX-68ElhA_ZWVTehxkS6KQ"
     }
   ]
 }
