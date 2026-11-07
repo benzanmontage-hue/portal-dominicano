@@ -1,22 +1,43 @@
 {
-  "updated": "2026-11-07T15:36:47.364161-04:00",
-  "hora": "15:36",
+  "updated": "2026-11-07T15:57:05.362463-04:00",
+  "hora": "15:57",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "psg - troyes",
+      "trafico": "200+",
+      "noticia": "Un nom marocain inattendu sur la liste du PSG : Enrique prépare la surprise",
+      "enlace": "https://www.goal.com/fr/news/un-nom-marocain-inattendu-sur-la-liste-du-psg-enrique-prepare-la-surprise/blt118ac919ba66972c",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2h0VfR0sXx5Tqxhwkqv7gpwj6fesd-qiVRPqb0Enz8rMnV1zu3qNMtp5OXk"
+    },
+    {
+      "termino": "powerball",
+      "trafico": "100+",
+      "noticia": "$50,000 Powerball Ticket Sold in Bethesda",
+      "enlace": "https://mocoshow.com/2026/11/07/50000-powerball-ticket-sold-in-bethesda/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu7zJvadlZBHS2Xliqr660eyc2PFg87bEwFEwJ76uVwEOzGIW2wt47HXx280c"
+    },
+    {
       "termino": "valencia c. f. - real madrid",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
       "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRok9yaO01--lJOpwXlK4VzeNxy-jNKyhWwZ_hAQ3vDJKNRCQfySDc9aOnNd60"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjU2VNZwA7drkqI7d8abwLZnEfRTewQIikA57xNvtqt0ui7dTkE9WGeVsISEw"
+    },
+    {
+      "termino": "emmanuel clase",
+      "trafico": "100+",
+      "noticia": "Clase se asustó por el caso Ohtani y detuvo el flujo de información a apostadores",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/06/clase-detuvo-el-flujo-de-informacion-a-apostadores-por-caso-ohtani/3713706",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrqKT5wdPxkqTlQO0iDN85PRUx4WdJs8Z4wVIY7_vWJ-pbTCixwy9HtWzvmPk"
     },
     {
       "termino": "allanamiento",
       "trafico": "200+",
       "noticia": "Dos allanamientos en el Alto Valle dejaron elementos secuestrados y una detención",
-      "enlace": "https://rionegro.gov.ar/articulo/62717/dos-allanamientos-en-el-alto-valle-dejaron-elementos-secuestrados-y-una-detencion",
+      "enlace": "https://rionegro.gov.ar/articulo/62717/roca-vendian-dioxido-de-cloro-hubo-allanamiento-sy-secuestraron-dos-armas",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKEt2MrdiflzuyZp0tSsb4Uj3Dtxq8y83U2yqCtQWIwUB7FWRhISS2EMK83k"
     },
     {
@@ -36,9 +57,9 @@
     {
       "termino": "nottingham forest - manchester city",
       "trafico": "1000+",
-      "noticia": "Nottingham Forest vs Manchester City: Premier League preview, team news, stats   head-to-head",
+      "noticia": "Nottingham Forest 3-1 Manchester City: Liam Delap double helps Forest earn first home win",
       "enlace": "https://www.bbc.com/sport/football/live/c5wyrmwlv8wvt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMlsqun6rfBwIEsr1wYo007kK-mZATrBWCqB1nJAn6gFw21JdlgTE1FsGxiwI"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV4cuSTD9baM5CEX-pzlHpZZclMGFKmg3SC1xcoyiEaZbx07ApOr9kdN2wSpc"
     },
     {
       "termino": "real de hoy",
@@ -53,27 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "la suerte",
-      "trafico": "500+",
-      "noticia": "Tenemos mucha suerte : El rol de Joseba Arguiñano y Eva Pilar como padres de familias numerosas",
-      "enlace": "https://www.antena3.com/programas/joseba-arguinano/tenemos-mucha-suerte-rol-joseba-arguinano-eva-pilar-como-padres-familias-numerosas_202611076aef1d5c4196933d7ed4567c.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWx8BZmJ0wQ-w2oaiXy6Pw0e7FLv4C7hR_7wKZlCQPFCRUT9yi1PXjKgQtsDI"
-    },
-    {
-      "termino": "arsenal - hull city",
-      "trafico": "200+",
-      "noticia": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
-      "enlace": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQptkLtcTZzqPQfDLI8bayvGFBVFUOOGiGX-DojiyB5vicJH96ASzerdRF900Y"
-    },
-    {
-      "termino": "primer ministro de haití",
-      "trafico": "1000+",
-      "noticia": "Muere jefe banda haitiana en ataque fuerzas de seguridad",
-      "enlace": "https://almomento.net/muere-jefe-banda-haitiana-en-ataque-fuerzas-de-seguridad/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwAKC_bJFdqU_ewX_lTnpv0sJSK_IXsbcvtJHSTqhYz-G5fyuyByq7Cx3y0-s"
     }
   ]
 }
