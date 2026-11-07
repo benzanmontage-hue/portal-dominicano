@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-07T14:35:56.969565-04:00",
-  "hora": "14:35",
+  "updated": "2026-11-07T14:56:13.696627-04:00",
+  "hora": "14:56",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "allanamiento",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Dos allanamientos en el Alto Valle dejaron elementos secuestrados y una detención",
       "enlace": "https://rionegro.gov.ar/articulo/62717/dos-allanamientos-en-el-alto-valle-dejaron-elementos-secuestrados-y-una-detencion",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKEt2MrdiflzuyZp0tSsb4Uj3Dtxq8y83U2yqCtQWIwUB7FWRhISS2EMK83k"
-    },
-    {
-      "termino": "precios combustibles",
-      "trafico": "200+",
-      "noticia": "El Gobierno estudia nueva regla para fijar el precio de los combustibles",
-      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/05/gobierno-estudia-nueva-regla-para-fijar-precios-de-los-combustibles/3711085",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpxWLOyoZJ7PxkGMeTBAjSyPbkziIaKD1Hy3Rwq6y42WVuHJVWqLwmI7lVSQw"
     },
     {
       "termino": "posiciones de mainz 05 contra bayern",
@@ -31,7 +24,7 @@
       "trafico": "1000+",
       "noticia": "Premier League LIVE: Live text, radio   score updates from across the Premier League",
       "enlace": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxqkPTO5qcRyDbZuliaXKCm0YfK4DjpsPQvJBiQYcvMHICW3uRLx9rH5jEKBc"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJD0IGihvjjUu6_Dtqq7SoZ8yZ5kVELlJWO_3g-Dm5PgKJk7EpVsKlQoG4o3s"
     },
     {
       "termino": "real de hoy",
@@ -74,6 +67,13 @@
       "noticia": "El jefe de la banda Boston muere en un ataque con dron de las fuerzas haitianas",
       "enlace": "https://www.infobae.com/el-salvador/2026/11/07/el-jefe-de-la-banda-boston-muere-en-un-ataque-con-dron-de-las-fuerzas-haitianas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0shwiFxAVUmlqs5clE7JlQQ_vw7gLPWkdGHHh8AGJrbjb-Q964brSjKV6Gk"
+    },
+    {
+      "termino": "cayetana rivera y martínez de irujo",
+      "trafico": "500+",
+      "noticia": "Los Alba cierran filas con Tana Rivera y descalifican el  innecesario exhibicionismo fiestero  de Roca Rey",
+      "enlace": "https://www.eleconomista.es/informalia/famosos/noticias/14026312/11/26/los-alba-cierran-filas-con-tana-rivera-y-descalifican-el-innecesario-exhibicionismo-fiestero-de-roca-rey.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ75tbcuU7A7TlaGaYwaHRkWa6OUSFiLG_ltPeFW2vyVwfiNCp4fIuYJBfY8JI"
     }
   ]
 }
