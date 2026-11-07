@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-07T12:33:56.526681-04:00",
-  "hora": "12:33",
+  "updated": "2026-11-07T12:54:18.983728-04:00",
+  "hora": "12:54",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "primera de hoy",
+      "trafico": "200+",
+      "noticia": "Pronóstico de AEMET para Madrid hoy, sábado 7 de noviembre: ¿qué tiempo hará?",
+      "enlace": "https://www.elconfidencial.com/el-tiempo/2026-11-07/el-tiempo-en-madrid-sabado_4452032/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVW8KaBWjCG-XxCqhwjGqjxp0JnG6zKS94-erz3STdYKCEsZMwXx6ERl52jw"
+    },
+    {
       "termino": "arsenal - hull city",
-      "trafico": "100+",
-      "noticia": "Premier League LIVE: Live text, radio   score updates from across the Premier League",
-      "enlace": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxVj2YwxhGzCrDEOfMX5OdS_Elu1rxKWiy8KXGXZjTB-pyXWc8YhL6578aqaA"
+      "trafico": "200+",
+      "noticia": "Arsenal vs Hull City: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUWSQe6FtfN0Y7_V077HYX5gf-bBECBh3D5Va0XeGswKGqyKxGtqd5jWppcB4"
     },
     {
       "termino": "primer ministro de haití",
@@ -22,9 +29,9 @@
     {
       "termino": "mainz 05 - bayern",
       "trafico": "500+",
-      "noticia": "Liveticker | 1. FSV Mainz 05 - Bayern München 0:2 | 9. Spieltag | Bundesliga 2026/27",
-      "enlace": "https://www.kicker.de/mainz-gegen-bayern-2026-bundesliga-5226886/ticker",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Ld6Z_1Q52hoH_xLtUBy6edVOXXpSvZrX1M4DK40cO1qoS6yIJpCFeZySZj8"
+      "noticia": "FSV Mainz 05: Gegen den FC Bayern München droht ein Debakel",
+      "enlace": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-gegen-den-fc-bayern-muenchen-droht-ein-debakel-accg-201659357.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOUWep6YfPheCOSh3eV-GN1VP5WKC_8wNs8eakRYYyjyONHUoEDysZ5Xh13qI"
     },
     {
       "termino": "precio de los combustibles",
@@ -50,9 +57,9 @@
     {
       "termino": "luka dončić",
       "trafico": "200+",
-      "noticia": "“Apex Predator”: Udonis Haslem and Blake Griffin Can’t Stop Raving About Luka Doncic After 53-Point Explosion",
-      "enlace": "https://www.aol.com/articles/apex-predator-udonis-haslem-blake-120500000.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_2L3Uy4iEKL2OflkwzYBu9lWQOZy7nGcyx5h21SecRtcw9Y9g1d2bZOoEsM"
+      "noticia": "Luka Doncic s 53-point explosion pushes scoring average past 40 as Lakers roll",
+      "enlace": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HOxM4L2uWtBuX8xIoiLlyrY8L-xjSJWt1BuoyWg7gFEDDZXAQLXKE2EWiKg"
     },
     {
       "termino": "kings - spurs",
@@ -67,13 +74,6 @@
       "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
       "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqsFFLrY_X9Lms2_Wz2pT-wrRmds2QNzpXI5Yv7XTYZfCx2jSVl_T0x5bgpV8"
-    },
-    {
-      "termino": "habichuelas con dulce",
-      "trafico": "500+",
-      "noticia": "Gobierno cancela la licitación de RD$630 millones para habichuelas con dulce",
-      "enlace": "https://listindiario.com/la-republica/gobierno/20261106/gobierno-cancela-licitacion-rd-630-millones-habichuelas-dulce_929166.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4TGDJlKfzUBQ2oPz2y6GlJqi6ELVRiifxVsMxlO4mjW9FbYQQU9Hk3wM-HPw"
     }
   ]
 }
