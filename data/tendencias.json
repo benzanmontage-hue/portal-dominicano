@@ -1,27 +1,41 @@
 {
-  "updated": "2026-11-07T00:54:58.911668-04:00",
-  "hora": "00:54",
+  "updated": "2026-11-07T07:10:54.491499-04:00",
+  "hora": "07:10",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "kings - spurs",
-      "trafico": "100+",
-      "noticia": "Victor Wembanyama leads surging Spurs into NBA Cup clash with Kings",
-      "enlace": "https://www.cbssports.com/nba/news/victor-wembanyama-leads-surging-spurs-into-nba-cup-clash-with-kings/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
+      "termino": "junta central electoral",
+      "trafico": "200+",
+      "noticia": "JCE advierte sobre consecuencias de no renovar la cédula y llama a hacerlo antes de diciembre",
+      "enlace": "https://listindiario.com/la-republica/20261105/presidente-jce-destaca-papel-registro-civil-proteccion-identidad_929008.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ24gW7CL5u7ahj3CW69cNaL9sXXWcWUQffdDqzTMmXsJZvet_reZSOW_zKIh4"
     },
     {
-      "termino": "lakers - trail blazers",
+      "termino": "haití",
+      "trafico": "1000+",
+      "noticia": "Enfrentamientos de Policía haitiana con bandas armadas dejan al menos 20 pandilleros muertos",
+      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/11/01/20-pandilleros-muertos-en-haiti-en-enfrentamiento-con-policias/3707573",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFdhVhj70e0sVeUGd9UVPeNaWZgjHJPjYEN-6JED7hc3JvrhCragy2VQrTCE"
+    },
+    {
+      "termino": "luka dončić",
+      "trafico": "500+",
+      "noticia": "Luka Doncic erupts for 53 points as Lakers hold off Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-erupts-for-53-points-as-lakers-hold-off-trail-blazers/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlsqxwuVpaWWkgySo3eXx3DbRlqj7Wh431waFTcqAbBog0FlNnqNjJy_fe8rI"
+    },
+    {
+      "termino": "kings - spurs",
       "trafico": "200+",
-      "noticia": "Red-hot Luka Doncic leads Lakers into rematch with Trail Blazers",
-      "enlace": "https://www.cbssports.com/nba/news/red-hot-luka-doncic-leads-lakers-into-rematch-with-trail-blazers/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+      "noticia": "San Antonio Spurs vs. Sacramento Kings Live Score and Stats - November 6, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261106_SA@SAC/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsulKvgBHvO4dmY5iSRbKHIMnQyTasfp_mY5s386h1YYmr4kUU8aIzdgflrsQ"
     },
     {
       "termino": "habichuelas con dulce",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Solo falta la batata: Dasac desafía la austeridad con RD$630 MM en kits de habichuelas con dulce",
       "enlace": "https://www.diariolibre.com/politica/general/2026/11/05/el-gobierno-gastara-rd630-millones-en-kits-de-habichuelas-con-dulce/3711808",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUx3Pc9-E0KzF5a9YvXhh-6oNNzQIy369RZOjs5jAIV9UZTpMOA-Kt8qWw7Fw"
@@ -36,44 +50,30 @@
     {
       "termino": "mavericks - jazz",
       "trafico": "100+",
-      "noticia": "Cooper Flagg, Kyrie Irving lead Mavs  second-half surge past Jazz",
-      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-kyrie-irving-lead-mavs-second-half-surge-past-jazz/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJH2Nz7rTpoYaJCCVjhwrZh5_b8GYgBWqLKyTmKy6CSKydmz0HbLx0cbl0GuM"
+      "noticia": "Utah Jazz Fall in First NBA Cup Game to Dallas Mavericks: Key Takeaways",
+      "enlace": "https://www.nba.com/jazz/news/utah-jazz-fall-in-first-nba-cup-game-to-dallas-mavericks-key-takeaways",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSshpx4keWSGFZOgFWXTiIGzrdnNVPe6zvEy-34Ctqf93GwtgzsMpqskkz1C4M"
     },
     {
       "termino": "pelicans - timberwolves",
       "trafico": "200+",
-      "noticia": "Timberwolves stay unbeaten in NBA Cup with win over Pelicans",
-      "enlace": "https://www.cbssports.com/nba/news/timberwolves-stay-unbeaten-in-nba-cup-with-win-over-pelicans/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlsqxwuVpaWWkgySo3eXx3DbRlqj7Wh431waFTcqAbBog0FlNnqNjJy_fe8rI"
+      "noticia": "That s a quality win. Minnesota drops 38 points in the …",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/06/thats-a-quality-win-minnesota-drops-38-points-in-the/92655168007/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJeZQ85iA7qG7yw-Xp8nJPc5mmrB_jhaqftmC1l49s1-7eZgRZXOvoyDePnTw"
     },
     {
       "termino": "hawks - wizards",
       "trafico": "100+",
-      "noticia": "Hawks beat Wizards 139-132 in Trae Young s return",
-      "enlace": "https://www.cbssports.com/nba/news/hawks-beat-wizards-139-132-in-trae-youngs-return/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
+      "noticia": "Washington Wizards vs. Atlanta Hawks Live Score and Stats - November 6, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261106_WAS@ATL/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdFaQVhMKTa5Sutc7DUtpsbN2sxL9z-WjvYwbxuiXetvzjsID4Gru7s8DbYvk"
     },
     {
       "termino": "grizzlies - thunder",
       "trafico": "200+",
-      "noticia": "Ajay Mitchell: 35 points and 5 assists",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/06/ajay-mitchell-35-points-and-5-assists/92655170007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbmAz-cT9Xg_FvVnP2fTaKDupWu2b0r7A7cXDYJcg21iC8yRK8YNXlWluAJKQ"
-    },
-    {
-      "termino": "ncaab",
-      "trafico": "100+",
-      "noticia": "Boston College basketball was an opening act at TD Garden, but Friday offers a goal for Luke Murray’s rebuild",
-      "enlace": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-basketball-luke-murray-td-garden/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrFWYlJJJlD-VoAP8EoQjf6hPBafE8Ysn0qtghbyKKFN67hjUGf6ooasDG8o"
-    },
-    {
-      "termino": "cavaliers - 76ers",
-      "trafico": "1000+",
-      "noticia": "Cavaliers rout 76ers, hold LeBron James to 8 points in return",
-      "enlace": "https://www.cbssports.com/nba/news/cavaliers-rout-76ers-hold-lebron-james-to-8-points-in-return/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jchji8-l1z_Qlu8-mT9pGRAUaVPJQI_REa3fFctGG_BzOKVtM13szrhVL7Q"
+      "noticia": "Ajay Mitchell News: Pours in season-high 35 points",
+      "enlace": "https://www.rotowire.com/basketball/headlines/ajay-mitchell-news-pours-in-season-high-35-points-537923",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hEy2D_PfOxzMTErN9gkiJvfQkvA90x-h_L4SR-2XMM32lpaMH2XleJOJF7Y"
     }
   ]
 }
