@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-06T23:33:35.298289-04:00",
-  "hora": "23:33",
+  "updated": "2026-11-06T23:53:54.599124-04:00",
+  "hora": "23:53",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "alerta de inundaciones",
+      "trafico": "2000+",
+      "noticia": "China alerta de inundaciones en 2027 por El Niño extremo",
+      "enlace": "https://elnacional.com.do/mundo/china-alerta-inundaciones-2027-nino-extremo_585514.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnoLxAYhI1_gcI-zw6jGXT54cVDHcXuI4h3DM8p5ff0I59tnzHZgFFJ-9Gi0s"
+    },
+    {
+      "termino": "mavericks - jazz",
+      "trafico": "100+",
+      "noticia": "Jazz Mavericks Basketball",
+      "enlace": "https://www.itemonline.com/sports/national_sports/jazz-mavericks-basketball/image_59928db9-f9a8-5875-ae7d-9e90012e006d.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_mq0IYeLI1Brhf0Lu767LEGYxEvf8BDAVuOz70kM003op4MjiMLdUV2iDRA"
+    },
+    {
       "termino": "pelicans - timberwolves",
       "trafico": "100+",
-      "noticia": "Philadelphia 76ers vs Cleveland Cavaliers Nov 6, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/phi-vs-cle-0022600027/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUN6O9X7JTD0_kdzA-ev-Ki5NQTbmglg__wBNjqr8WwETUYdJzss08GHqbYE"
+      "noticia": "Boston Celtics vs Charlotte Hornets Nov 6, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/bos-vs-cha-0022600026/box-score",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTFMcTRy_C9qT8VbMxGwP7pDI5eMxnUaVxiSDsSEWuGyQkMXQORP6YsKS6bo"
     },
     {
       "termino": "hawks - wizards",
@@ -60,20 +74,6 @@
       "noticia": "El Gobierno de Trump demanda a la Universidad de California ( Penn State ) por su política de matrículas para residentes del estado dirigida a los migrantes indocumentados",
       "enlace": "https://es-us.noticias.yahoo.com/gobierno-trump-demanda-universidad-california-075529952.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOtksnbdm3gcBaAr2b-9OY-O84UbEg9g0y_NKJqzyIFIpieTEYsDQ7fskq0VM"
-    },
-    {
-      "termino": "posiciones de sevilla fc contra alavés",
-      "trafico": "200+",
-      "noticia": "Sevilla vs Alavés: Spanish La Liga stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/ckpdg3083w3lt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "heat latin music awards",
-      "trafico": "200+",
-      "noticia": "Industria musical: más mercados, nuevos negocios y el reto de conquistar audiencias",
-      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-panel-sobre-presente-y-futuro-de-musica/3711747",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWjagB7g-bCaTuNgZtku9dZDWH8n_-NBJODrBEML7RIb7I3gLtJmyBN1URHk"
     }
   ]
 }
