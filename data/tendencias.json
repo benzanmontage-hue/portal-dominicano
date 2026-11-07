@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-06T20:29:11.054258-04:00",
-  "hora": "20:29",
+  "updated": "2026-11-06T20:49:36.365181-04:00",
+  "hora": "20:49",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cavaliers - 76ers",
+      "trafico": "200+",
+      "noticia": "LeBron James leads league-best 76ers into Cleveland for NBA Cup",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-leads-league-best-76ers-into-cleveland-for-nba-cup/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNufvMw2fOUupIqAYggArgq0V2WOXkmTqCuMyb8TIriLaxFHfw3LUVHjsx8ZU"
+    },
     {
       "termino": "hornets - celtics",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "universidad de california",
       "trafico": "100+",
-      "noticia": "El Gobierno de Trump demanda a la Universidad de California ( Penn State ) por su política de matrículas para residentes del estado dirigida a los migrantes indocumentados",
-      "enlace": "https://es-us.noticias.yahoo.com/gobierno-trump-demanda-universidad-california-075529952.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxh4-XfOpLI4e8eaB6N3DS1wBrkrT_Xtkwpuz7PxKszEq_g6AW00vNjwlJOvY"
+      "noticia": "ICE arresta a estudiante colombiana que solicitó asilo en Estados Unidos",
+      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/06/detencion-de-estudiante-colombiana-en-ice-durante-vuelo/3713105",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIa4_getH_uj8pgRjCfUlmGvdxUKGfntbEnoEhyLA0eLusLrzW7iPwzp-N8s"
     },
     {
       "termino": "posiciones de sevilla fc contra alavés",
@@ -29,9 +36,9 @@
     {
       "termino": "heat latin music awards",
       "trafico": "100+",
-      "noticia": "Gian Marco se impone ante Jorge Drexler y Leonel García como ‘Compositor del año’ en los Premios HEAT 2026: “Agradezco a todos los que votaron por mi trabajo”",
-      "enlace": "https://larepublica.pe/espectaculos/2026/11/06/gian-marco-se-impone-ante-jorge-drexler-y-leonel-garcia-como-compositor-del-ano-en-los-premios-heat-2026-agradezco-a-todos-los-que-votaron-por-mi-trabajo-488706",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-sOOejjjNV7bwFMl5tp6fPtPwaXSjHGq_M0Ub7LvnhM5bO5593rZGrpl8vyU"
+      "noticia": "Industria musical: más mercados, nuevos negocios y el reto de conquistar audiencias",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-panel-sobre-presente-y-futuro-de-musica/3711747",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWjagB7g-bCaTuNgZtku9dZDWH8n_-NBJODrBEML7RIb7I3gLtJmyBN1URHk"
     },
     {
       "termino": "gonzalo moratorio",
@@ -64,16 +71,9 @@
     {
       "termino": "sevilla - alavés",
       "trafico": "1000+",
-      "noticia": "Sevilla - Alavés en directo | Última hora de LALIGA EA Sports en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/sevilla-alaves/2026/11/06/01_0101_20261106_179_173-directo.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi5H9ZskKiqywVb5hohpjqQBRecgdjePJxhXN_o4r7ezNz4CYFsPrcYgld5UI"
-    },
-    {
-      "termino": "pandilla",
-      "trafico": "500+",
-      "noticia": "La ONU no confirma negociaciones anunciadas por el jefe de la banda 400 Mawozo en Haití",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/la-onu-no-confirma-negociaciones-anunciadas-por-la-banda-400-mawozo/3713138",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeLq9v6D174y5OrgMsjycYfaZO7cMo4kMgy9aHQSkBofEKbgblHsuJ3UcU_w"
+      "noticia": "¡EN VIVO! Sevilla recibe a Alavés, que busca cortar una racha negativa en LaLiga",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17468017/sevilla-vs-alaves-fecha-12-de-laliga-2026-2027-equipo-fecha-hora-y-tv-en-vivo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToqFOje1yY-xuwtpqK79p4xcVJnoAyc3wTHuBH14BGZSFpA8pnWml1cgTRB48"
     }
   ]
 }
