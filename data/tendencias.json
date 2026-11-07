@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-06T19:48:28.113111-04:00",
-  "hora": "19:48",
+  "updated": "2026-11-06T20:08:50.038139-04:00",
+  "hora": "20:08",
   "fecha": "06/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "universidad de california",
+      "trafico": "100+",
+      "noticia": "El Gobierno de Trump demanda a la Universidad de California ( Penn State ) por su política de matrículas para residentes del estado dirigida a los migrantes indocumentados",
+      "enlace": "https://es-us.noticias.yahoo.com/gobierno-trump-demanda-universidad-california-075529952.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxh4-XfOpLI4e8eaB6N3DS1wBrkrT_Xtkwpuz7PxKszEq_g6AW00vNjwlJOvY"
+    },
     {
       "termino": "posiciones de sevilla fc contra alavés",
       "trafico": "200+",
       "noticia": "Sevilla vs Alavés: Spanish La Liga stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/ckpdg3083w3lt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "heat latin music awards",
+      "trafico": "100+",
+      "noticia": "Gian Marco se impone ante Jorge Drexler y Leonel García como ‘Compositor del año’ en los Premios HEAT 2026: “Agradezco a todos los que votaron por mi trabajo”",
+      "enlace": "https://larepublica.pe/espectaculos/2026/11/06/gian-marco-se-impone-ante-jorge-drexler-y-leonel-garcia-como-compositor-del-ano-en-los-premios-heat-2026-agradezco-a-todos-los-que-votaron-por-mi-trabajo-488706",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-sOOejjjNV7bwFMl5tp6fPtPwaXSjHGq_M0Ub7LvnhM5bO5593rZGrpl8vyU"
     },
     {
       "termino": "gonzalo moratorio",
@@ -29,9 +43,9 @@
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
-      "noticia": "Alcaraz salvó dos match points, remontó un partidazo ante Fritz y rompió su maldición en el Masters 1000 de París",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17484630/alcaraz-salvo-dos-match-points-remonto-un-partidazo-ante-fritz-y-rompio-su-maldicion-en-el-atp-masters-1000-de-paris-resultados",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQu4nbF_6GHkcVjCeUxgk-_bQfhWImydDyQ8J_k8y8ZOndjaKGuSfV8Q8yaE"
+      "noticia": "Alcaraz sobrevive a un apagón y sigue luchando por París",
+      "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/06/alcaraz-sobrevive-apagon-sigue-luchando-paris.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqQMZ-DVArEjLUA_0bQvDEzEwMtvn_K_wLnqTLogX0UfFn0uodEoJf4VA8HXc"
     },
     {
       "termino": "letizia ortiz",
@@ -50,9 +64,9 @@
     {
       "termino": "pandilla",
       "trafico": "500+",
-      "noticia": "La ONU no confirma negociaciones anunciadas por el jefe de la banda 400 Mawozo en Haití",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/la-onu-no-confirma-negociaciones-anunciadas-por-la-banda-400-mawozo/3713138",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeeLq9v6D174y5OrgMsjycYfaZO7cMo4kMgy9aHQSkBofEKbgblHsuJ3UcU_w"
+      "noticia": "Los 400 Mawozo vuelve a responder a Bukele y proponen diálogo para evitar una escalada militar en Haití",
+      "enlace": "https://eldia.com.do/los-400-mawozo-vuelve-a-responder-a-bukele-y-proponen-dialogo-para-evitar-una-escalada-militar-en-haiti/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgA1VmVvdILEjMugK-RMGWPa58cvNdV6K4n6pC-m3xrKkRsicao8UJCgPBF_8"
     },
     {
       "termino": "altice",
@@ -60,20 +74,6 @@
       "noticia": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
       "enlace": "https://www.bbc.com/news/articles/c6rry8x9d9qko",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCedo9IPP3dowuAnGTgmCrXiXRiMGbFL3tH-2pmZPBnLmX9Vmi6wVgDTNDHw4"
-    },
-    {
-      "termino": "sam altman",
-      "trafico": "100+",
-      "noticia": "Samsung executives meet OpenAI s Altman to discuss AI strategy",
-      "enlace": "https://www.koreaherald.com/article/10921312",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMHEjotizYQ5egGo1TyoKFRfyPIXfvFrP9hm43aAVFnoYeUdp-7Z2zngoQhU"
-    },
-    {
-      "termino": "resultado",
-      "trafico": "100+",
-      "noticia": "5 razones que explican la derrota abrumadora del Partido Republicano en las elecciones de mitad de mandato en EE.UU.",
-      "enlace": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_96zHWqXPXSypChGi1dglABS4jUKkmVTOLgTwoadN0qRGVACx6739QVnnyPc"
     }
   ]
 }
