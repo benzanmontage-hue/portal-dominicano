@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T11:09:36.780790-04:00",
-  "hora": "11:09",
+  "updated": "2026-11-08T11:29:54.443119-04:00",
+  "hora": "11:29",
   "fecha": "08/11/2026",
   "total": 15,
   "noticias": [
@@ -9,7 +9,7 @@
       "fuente": "Univision",
       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd09CYVBrbzFlaUFOTmc5b1J5UDFOQmtQNHhMMWMycnRuYXpuNHNBX21CZkh6UGhtZ05VSEtsRlJCYnVIdU5QQ1dqWVowWEZJaDRIOXhWVlQ4d1RHdENGYlh1bnZNc1FiQWpNcjVPbEJEUEtUNS1WWlZDMEstQTFtYm5yTUVhM2dnM0stU0N6bHJrX0E1RktoMS1CVDhJQQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 19:45:42 GMT",
+      "fecha": "Sat, 07 Nov 2026 19:46:14 GMT",
       "imagen": "https://www.univision.com/api/image/og/us/famosos/miss-universe-republica-dominicana-2026-accidente-melissa-nunez"
     },
     {
@@ -21,20 +21,20 @@
       "imagen": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1794027366/ewtn-news/es/Obispo-Jesus-Maria-CED-06112026_u76zsl.jpg"
     },
     {
-      "titulo": "Miss República Dominicana perdió el conocimiento tras accidente de tránsito - Primera Hora",
-      "fuente": "Primera Hora",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTlUxdHZnUDZXZUxvYklRdnVINEdwdlJWUExwd2pkZk05SGtqNjhzWFRiWTE1eU1QbGpTREoySWZKTERmUl9NOEQxX29QTzRySTd2dkVONDZoYXg0NWZ2czc0ZEVZWF9vMVkxc1pFVTI0N3AtLVZpM3hPcU5wNVJTdDRlQkFYWTdrMHFScVVTODFkNkVrTjhoSUNFUncwb3A5UVRxTl9QNzJHeDFuVWtRSjIxWW02a1owTWRyU3owMEU0cGlQd2tCblE2WC05aUxqOXAtUElUWkg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 17:02:38 GMT",
-      "imagen": "https://www.primerahora.com/resizer/v2/OP5QWCHM6JAWXN4LJTLF7M2TJY.jpg?auth=7b32c54f86c5379e8e46a08a8a7039a13de3d8e38d449e7428d37b491e8f640c&quality=75&width=1200&height=717&focal=277%2C171"
-    },
-    {
       "titulo": "Estados Unidos y República Dominicana refuerzan la prevención de la peste porcina africana ante temporada alta de viajes - U.S. Embassy in the Dominican Republic (.gov)",
       "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeVBseTQ1WTJwM0VEVmVNNnpac0IzUmhYSFZqeHRkQkRyeW9WV3VxbkxLa085WEp0MlVIMlZXMUNxNE14Vmt1QXU2RkctUlVKM1h3UU1WdllFaGRwcC0xbmFoanZfTnBvcjNOUVFFUHNkWUlIYm5fdXZHSXVCQkhxelljaWlsZ3hpTTRrVG9qbG05aUJ0U3U1ZkNyVlNhZnlabWN1bXk4cXZseUYzZ09VNGFzanVZUVA1WkoxVEd1MDc2WWRacFNWVzkwTjE5RElVck11WXlvUUJmZjV2X2Q4Q3RPZw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 06 Nov 2026 02:00:28 GMT",
       "imagen": "data:image/png;base64,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"
+    },
+    {
+      "titulo": "Miss República Dominicana perdió el conocimiento tras accidente de tránsito - Primera Hora",
+      "fuente": "Primera Hora",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTlUxdHZnUDZXZUxvYklRdnVINEdwdlJWUExwd2pkZk05SGtqNjhzWFRiWTE1eU1QbGpTREoySWZKTERmUl9NOEQxX29QTzRySTd2dkVONDZoYXg0NWZ2czc0ZEVZWF9vMVkxc1pFVTI0N3AtLVZpM3hPcU5wNVJTdDRlQkFYWTdrMHFScVVTODFkNkVrTjhoSUNFUncwb3A5UVRxTl9QNzJHeDFuVWtRSjIxWW02a1owTWRyU3owMEU0cGlQd2tCblE2WC05aUxqOXAtUElUWkg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 07 Nov 2026 17:02:38 GMT",
+      "imagen": "https://www.primerahora.com/resizer/v2/OP5QWCHM6JAWXN4LJTLF7M2TJY.jpg?auth=7b32c54f86c5379e8e46a08a8a7039a13de3d8e38d449e7428d37b491e8f640c&quality=75&width=1200&height=717&focal=277%2C171"
     },
     {
       "titulo": "República Dominicana: Extraditan hacia Países Bajos a alias “Bomba”, acusado de 22 delitos graves - Infobae",
@@ -85,12 +85,12 @@
       "imagen": "https://www.clarin.com/img/2016/12/30/SyLMzgESe_1256x620.jpg"
     },
     {
-      "titulo": "Miss República Dominicana sufre accidente vehicular antes de viajar a Puerto Rico para Miss Universo 2026 - Infobae",
+      "titulo": "Químicos explosivos y otras sustancias: ¿Qué encontraron en la casa de uno de los acusados que planeaba un ataque contra el presidente dominicano? - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV3JxVG1vVzRyamVSMFdKeTlaeXBMY0p4YzgtMDNBOEY1ZXFtZG8yM3dIYTdIWkl0Y2JnMExHd3huX1hfZVJqamR5cm1DcGVPc1JZemFDbmhvRHJ3cW1TMkJPdWNpVnd4b2FpVU1YWGE2U2hELW0yblc0MHN6b0N6LXRoc29nYlU4RWZkV0RnaTdDWkhsbW9fV01HbTVFb21PSlV3SGlSUW9rdWFKOU9WaXpDamtleUxrUDFLRFB1YjIyQ3BWQW5Zb0lkYWZOT0ZoVnA2OEtGa3JVczBzTHdzQkRPLUh0MHUyVTBZZmdhNTlRVl9W0gGPAkFVX3lxTE12djdrQlBYSlRDZi00enE3RFZvbURxNTB3dGI3c3VPaGd4aHE2YkNxcDg3NEQxbThNQ1VERUJJMnBPRzJBMWtWSE0zSkZNQzFJc0dXc1BBcjJEeGtlVUZIdG1ua1dpTERrM093clF5NG5yenNjY3ZjX253b2NoTW1aYXdiZy1XTE5od2lJTDh2TW1yYjhEWWpucDBURDMtdEp2bjdLUFM2Q0ptMlVXX1Y3WnlrNUREajVUZWp5X2lZQW45cGZUM2gtaTV5OWMxYUNZQmZHOXlQODZQQ3UzdzloSGNOUG5GYXpYeU45UHpaZEV6WV9HLUo5eU80YjN4dG1Xd3FSMnJvMlNSbVBCNm8?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTWcwRVRtaTNtUkR2c3dFYS1wQnptMGFQUEZ6c0ZuaDktejVvLXg5Z0NMbUdZbUtPUUJXbWRwbmV2RmJVT2lfQWlZZ0F3ajlqRlQ1VlprellfTU93TFc3M3VHRHRGWEJCSXhnR1lGd0RKdFFjZDMyNzBlYllhTU8wMGdqd09IcmIxaUVxVThQU05XcHdKTnpTNFhxVFJkeVo0OHpJa1p5WVF3dmZ3Vnl5TkpEbU1sSzB5VUJXMzlyTFd0MzdwYy1GeHFHaU5JTzVnV3RrUGJ0U2tpQ0RaMVg1Wmpmd3Y2Mlg0eGNYZmF6cGhuV0l4LXkyT1R0empyMHdRaE52UTVrZVJ5OEZUZFg1VnJ3OXdSM1JVRjRVLU5Vc25FMFphYVBR0gHCAkFVX3lxTE1YekhES3ZWN1F1d0MzblprOGJyWFFoLXNYOFRqOElJRXZfOHVqdjI0eDlzTWh4M3B3aWVIZzJfcUYtZkdVNFdWWklGb0JETDlXUEExd1IxUVlVRU5ubngyWU9vcWtReUZhOU1ON2lMcmVEeDVIOEgtbk52OUJIeXlrUlRiOHNhWDg0c1pLNTM1TnA0Q1FJS2lPdDI4d3Zwd0hqYjMtV3ZnV2NTQmpBanhObW1MMmQ2LVVSM0hWcWpaOUV5aDlMdy1mb0xnWnVRWXQwX2hYeThPQ25ZTlhHc2pJZmJUZ1VEa1NZbnlOZzc2MmRlZThkNjVJTGFkc1E3ZFFkV0YyMWh2LXFSR09kd0o2U3hRdmdEd1VkQVhvdnlzNzNDMEdPdW5DZGRfT2xacVFuQXdURDNGdVJzbnVXR2MzM2c?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 17:01:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/SHADZ4VMZNG6JKYZZ75I4XDAMU.png?auth=b0a8ef4a7e3b50d7c47c84937cfe5208dc63ea950546725debe506e26730d41b&smart=true&width=1200&height=630&quality=85"
+      "fecha": "Sun, 08 Nov 2026 15:20:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Ronald Day reacciona a los accidentes de Miss República Dominicana y Miss Bulgaria: “Seguimos pendientes” - El Nuevo Día",

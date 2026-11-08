@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T11:09:29.963582-04:00",
-  "hora": "11:09",
+  "updated": "2026-11-08T11:29:52.922926-04:00",
+  "hora": "11:29",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -21,10 +21,17 @@
     },
     {
       "termino": "elche c. f. - real betis",
-      "trafico": "1000+",
-      "noticia": "Anselmi sigue buscando al sustituto de Lemar para el Elche - Betis",
-      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/anselmi-sigue-buscando-sustituto-lemar-elche-betis-20261107190055-nts.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOTeHNmK_Ut4BieiZyAjwz8jgPhdf5LHgxnE3bFWN3MiHKY7angBPdVGFD8g"
+      "trafico": "2000+",
+      "noticia": "0-2. El Betis impone su pegada en Elche",
+      "enlace": "https://www.infobae.com/america/agencias/2026/11/08/0-2-el-betis-impone-su-pegada-en-elche/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+    },
+    {
+      "termino": "luka dončić",
+      "trafico": "200+",
+      "noticia": "Luka Doncic appreciates the comparisons to Lakers legend Kobe Bryant",
+      "enlace": "https://lakersnation.com/lakers-news-luka-doncic-honored-to-be-compared-to-kobe-bryant/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR68-HQUG2FNwU5khV2vQ8JPszRR_eQUcUODJHsZA3q-xU1vwcZMixh2ua01Dw"
     },
     {
       "termino": "habichuelas con dulce",
@@ -42,7 +49,7 @@
     },
     {
       "termino": "bandera blanca",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
       "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
@@ -57,9 +64,9 @@
     {
       "termino": "actor",
       "trafico": "1000+",
-      "noticia": "The Altruists  actor Julia Garner on surprising herself",
-      "enlace": "https://www.cbsnews.com/news/the-altruists-actor-julia-garner-on-surprising-herself/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKsd-8ZZTiDDoZW1MnfhZN49vmDeu7YEHrXqE-ox8_SlSSXx4DZkyJ2fyaM4"
+      "noticia": "This actor is starring in the biggest film of his career. He’s also fighting deportation",
+      "enlace": "https://www.cnn.com/2026/11/07/us/laith-nakli-your-mother-movie-immigration",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIZm0a2ERQ4nksX9sNKSGUkQKH-8tDPS8F33Jxr_jRBvClte6MrB8if-o5Ik"
     },
     {
       "termino": "tormenta",
@@ -67,13 +74,6 @@
       "noticia": "Inundaciones golpean Florida, Georgia y Tennessee",
       "enlace": "https://vix.com/es-es/detail/video-5008410",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQMco2MXvEZ4FvtxzNa8D_-1XmEb4aTPaD9eOO5l8bmAV56pp3_FhWzS7JqLM"
-    },
-    {
-      "termino": "franz wagner",
-      "trafico": "200+",
-      "noticia": "Franz Wagner News: Double-doubles in loss",
-      "enlace": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-double-doubles-in-loss-538078",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO2gIlbKeOST0hk5zgkyy1X151zujiTeB4V8AYFwSnt-Vfd5CebvbiQL7bgbk"
     }
   ]
 }
