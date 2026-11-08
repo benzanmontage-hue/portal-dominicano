@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T16:16:18.017319-04:00",
-  "hora": "16:16",
+  "updated": "2026-11-08T16:36:42.400892-04:00",
+  "hora": "16:36",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bulls - 76ers",
+      "trafico": "200+",
+      "noticia": "Sixers seek offensive rhythm against reeling Bulls",
+      "enlace": "https://www.cbssports.com/nba/news/sixers-seek-offensive-rhythm-against-reeling-bulls/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+    },
     {
       "termino": "villarreal - getafe",
       "trafico": "100+",
@@ -14,17 +21,17 @@
     },
     {
       "termino": "atlético madrid - barcelona",
-      "trafico": "2000+",
-      "noticia": "Atlético Madrid vs Barcelona: ¿Cómo están las apuestas?",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17481023/atletico-madrid-vs-barcelona-como-estan-las-apuestas",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm1zAsbAiUp7cmvjzlm67H-5-YCw-uyDcsmM0zm5f6O5s6i_c8lvcdOUUgNwE"
+      "trafico": "5000+",
+      "noticia": "Atlético - Barcelona, hoy en directo | Última hora de LaLiga EA Sports en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/atletico-barcelona/2026/11/08/01_0101_20261108_175_178-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ4iOYnByHErEn1i-vz2oprvmn39CplEvso4LCbKqMYyifUvyBiK0PvS91EM"
     },
     {
       "termino": "inter - como",
       "trafico": "500+",
-      "noticia": "Inter - Como, en directo: Serie A, hoy en vivo",
-      "enlace": "https://as.com/futbol/internacional/inter-como-en-directo-serie-a-hoy-en-vivo-f202611-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6kY2xfWP97gU2SJHAqzSNruk9_Rt7yfst4viw5ZEN8YT60PSeEuSgJTu9ggQ"
+      "noticia": "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/emocionante-minuto-silencio-inter-homenaje-171600478.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnRi6Vpuo1e6ZY1l8p091KepwGBsnek9PecHxkdONqeZKCbeWrLDq81i1Q8wU"
     },
     {
       "termino": "la suerte",
@@ -34,18 +41,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O5IoJUw8jYgRYq4HcB4bkgjFm4pTMKGvNesk6t2UGfzpvauLBHdFFXhjEhQ"
     },
     {
-      "termino": "barcelona - madrid",
-      "trafico": "100+",
-      "noticia": "AVE Barcelona-Madrid hoy: retrasos del 8 nov.",
-      "enlace": "https://www.lavanguardia.com/movilidad/directo/ave/barcelona-madrid/2026-11-08/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS04zQIUQN_vOTKVcEl-JV1Qv64Paxm5OXznXqEAtkfxB1F7BB_I3tboGquQeQ"
-    },
-    {
       "termino": "la primera",
       "trafico": "1000+",
-      "noticia": "Factores determinantes de la victoria de Lula",
-      "enlace": "https://almomento.net/factores-determinantes-de-la-victoria-de-lula/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh5YkgMJUJhp9D86zoAhFlNiN48Pz5Zz3MeLIRA-BIUg8gD1oI8iRY53CEtQw"
+      "noticia": "León XIV llega a Argentina, la primera visita de un papa en casi 40 años",
+      "enlace": "https://eldia.com.do/leon-xiv-llega-a-argentina-la-primera-visita-de-un-papa-en-casi-40-anos/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzfOaRNWtQwfT0t8dVxWKq_9nkexD3DYlSYQJygR8gIRA7zHJZ2gUWtx692Po"
     },
     {
       "termino": "primera de hoy",
@@ -71,9 +71,9 @@
     {
       "termino": "crystal palace - liverpool",
       "trafico": "500+",
-      "noticia": "Premier League - Crystal Palace v Liverpool",
-      "enlace": "https://www.reutersconnect.com/item/premier-league-crystal-palace-v-liverpool/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgxM0EySkQ",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVSZgU80gkkt0lPdnMY3Uh6Js5VhN3bSP1TsRbv64vbXhl9IN8WQQoOMgD1A"
+      "noticia": "Crystal Palace 1-3 Liverpool: Pierre Sage under pressure as Reds win at Selhurst Park",
+      "enlace": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd1LP3jFoqKNUsfuJnJcNq8oro_AfndEa9Z5wtUp5ZGYUZvVeVgJ5zDc08UEE"
     }
   ]
 }
