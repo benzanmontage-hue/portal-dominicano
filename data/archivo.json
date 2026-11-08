@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T12:51:12-04:00",
+ "actualizado": "2026-11-08T13:11:33-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -602,6 +602,14 @@
    }
   ],
   "Anguila|Anguila 1:00 PM": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "98",
+     "20",
+     "63"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -2371,6 +2379,15 @@
    }
   ],
   "Anguila|La Cuarteta 1:00 PM": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "66",
+     "99",
+     "97",
+     "84"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -6132,6 +6149,15 @@
   ],
   "Loteria Real|Loto Pool": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "25",
+     "34",
+     "30",
+     "57"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "29",
@@ -6539,6 +6565,14 @@
   ],
   "Loteria Real|Nueva Yol Real": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "95",
+     "48",
+     "98"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "26",
@@ -6695,6 +6729,14 @@
    }
   ],
   "Loteria Real|Quiniela Real": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "59",
+     "08",
+     "17"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -7079,6 +7121,12 @@
    }
   ],
   "Loteria Real|Tu Fecha Real": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "29"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [

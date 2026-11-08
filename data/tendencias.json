@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T12:51:07.590531-04:00",
-  "hora": "12:51",
+  "updated": "2026-11-08T13:11:25.325524-04:00",
+  "hora": "13:11",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "la suerte",
+      "trafico": "500+",
+      "noticia": "Horóscopo del 9 al 15 de noviembre: una Luna nueva intensa marcará a todos los signos",
+      "enlace": "https://www.clarin.com/astrologia/horoscopo-9-15-noviembre-luna-nueva-intensa-marcara-signos_0_1L5UXl6PKh.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCDEV70qOq7elaVreFuO6ANJb0YY0pKAwQ3xrzdvBVFBbXlN3S7BpjSgyM-FU"
+    },
     {
       "termino": "barcelona - madrid",
       "trafico": "100+",
@@ -29,30 +36,30 @@
     {
       "termino": "manchester united - aston villa",
       "trafico": "500+",
-      "noticia": "Manchester United v Aston Villa: Premier League – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwYPLI570G3I0_KY5y-KcYz7UNidYgJl3bhXkz3skO9-QBMGg3MD9OqnC7Acg"
+      "noticia": "Premier League: Villa lead at second-bottom Man Utd inside two minutes",
+      "enlace": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP2VkxQ7cNwqSJTAtpsMkqvm0SQ3Ptj50_ZJw9rnWKuctiu9c3sY7kARWsyWg"
     },
     {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Cisse, gol e pause, Ramos azzecca solo l assist. Pulisic ha il merito del raddoppio",
-      "enlace": "https://www.sportmediaset.mediaset.it/calcio/cisse-gol-e-pause-ramos-azzecca-solo-l-assist-pulisic-ha-il-merito-del-raddoppio_118751398-202602k.shtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHmCncnsBREhWubStzPPWo-8PGmMNXtddUcu53lBhmzG_1cwWOeQ71lIIf-aU"
+      "noticia": "Il Milan chiede invano un rosso, la panchina insorge e Massa ne espelle tre: fuori anche il medico!",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/08-11-2026/genoa-milan-caos-panchina-massa-espelle-tre-rossoneri.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSBvdr1NNYpZUvMQZonMF_mR70q3qaxr34Zwf4ko7IJEybloOGQGH6iTjrWfw"
     },
     {
       "termino": "crystal palace - liverpool",
       "trafico": "200+",
-      "noticia": "Crystal Palace vs Liverpool: Premier League preview, team news, stats   head-to-head",
+      "noticia": "Crystal Palace 1-3 Liverpool: Pierre Sage under pressure as Reds win at Selhurst Park",
       "enlace": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUb5VYLX7aI9pmcoxvKGgONZxymkqFkvImYxK1A6FfBIXnYzPGFc_GIruINto"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd1LP3jFoqKNUsfuJnJcNq8oro_AfndEa9Z5wtUp5ZGYUZvVeVgJ5zDc08UEE"
     },
     {
       "termino": "sunderland afc - chelsea",
       "trafico": "200+",
-      "noticia": "Sunderland stun Chelsea as Le Fée’s penalty breathes life into Black Cats",
-      "enlace": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw7LZb0yPz4R7UIlPzNsdKCtGNgBJUufwGHdPYquOmjcCfzaZiw2R_LxZfpLY"
+      "noticia": "Sunderland vs Chelsea: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJngPi7-gRaPdJUmTafoVWiZ2UYXr5hAnjUR1fXEeTuSAOpNzmxysvYRlqi0Y"
     },
     {
       "termino": "elche c. f. - real betis",
@@ -67,13 +74,6 @@
       "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
-    },
-    {
-      "termino": "habichuelas con dulce",
-      "trafico": "500+",
-      "noticia": "El problema no eran las habichuelas",
-      "enlace": "https://elnuevodiario.com.do/el-problema-no-eran-las-habichuelas/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0TZCnyOV0BM83TInpZZrmUUWY9DRxz3TSP1YM1oGqoSby0ZJaZHLH-MHjKhE"
     }
   ]
 }
