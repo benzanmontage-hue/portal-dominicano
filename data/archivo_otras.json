@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T13:11:33-04:00",
+ "actualizado": "2026-11-08T13:31:54-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -765,6 +765,14 @@
   ],
   "King Lottery|King Lottery Día": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "43",
+     "12",
+     "76"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "60",
@@ -808,6 +816,15 @@
    }
   ],
   "King Lottery|Loto Pool Día": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "09",
+     "75",
+     "72",
+     "84"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -858,6 +875,14 @@
   ],
   "King Lottery|Philipsburg Día": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "6321",
+     "5795",
+     "4139"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "4080",
@@ -902,6 +927,14 @@
   ],
   "King Lottery|Pick 3 Día": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "1",
+     "4",
+     "3"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "0",
@@ -945,6 +978,15 @@
    }
   ],
   "King Lottery|Pick 4 Día": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "1",
+     "2",
+     "7",
+     "6"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [

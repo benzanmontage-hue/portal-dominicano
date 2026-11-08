@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-08T13:11:25.325524-04:00",
-  "hora": "13:11",
+  "updated": "2026-11-08T13:31:49.811713-04:00",
+  "hora": "13:31",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "inter - como",
+      "trafico": "100+",
+      "noticia": "Con Nico Paz y Perrone, el Como sensación visita a un Inter sin Lautaro :: Olé - ole.com.ar",
+      "enlace": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-perrone-inter-lautaromartinez-italia-seriea_0_C6XIADNYSP.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLh8GtF--mypVlsuQ9Frtye-MTf9oq_ao0AK30b8Eloyg-g1FYeUjWVZxrH4I"
+    },
+    {
       "termino": "la suerte",
       "trafico": "500+",
-      "noticia": "Horóscopo del 9 al 15 de noviembre: una Luna nueva intensa marcará a todos los signos",
-      "enlace": "https://www.clarin.com/astrologia/horoscopo-9-15-noviembre-luna-nueva-intensa-marcara-signos_0_1L5UXl6PKh.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCDEV70qOq7elaVreFuO6ANJb0YY0pKAwQ3xrzdvBVFBbXlN3S7BpjSgyM-FU"
+      "noticia": "Nacho Correa, director de  La ruleta de la suerte , sobre las críticas a la música y la banda del programa:  Lleva miles de canciones, más de 6.000 versiones ha hecho seguro",
+      "enlace": "https://www.elperiodico.com/cuore/famosos/2026/11/08/nacho-correa-director-ruleta-suerte-136223906",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O5IoJUw8jYgRYq4HcB4bkgjFm4pTMKGvNesk6t2UGfzpvauLBHdFFXhjEhQ"
     },
     {
       "termino": "barcelona - madrid",
       "trafico": "100+",
-      "noticia": "Simeone respalda a Julián Álvarez antes de enfrentar al Barcelona",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17488300/julian-alvarez-atletico-vs-barcelona-laliga-simeone",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIn5ztTwMVmF2IZ_2ZbunjlHFbIWnf4A24_hpuYqq-Zkv4SGcFaZpSGHxR17c"
+      "noticia": "Los precios de la Alta Velocidad de Renfe se desploman por el temor tras la tragedia: ya hay billetes por a...",
+      "enlace": "https://okdiario.com/economia/precios-alta-velocidad-renfe-desploman-temor-tragedia-ya-hay-billetes-apenas-7-euros-20676051",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1X101jh-xjhc37FD6v9tI-v0eotcHACrcYKNG9RkY8d4hAFiwSYBR_N6ceK4"
     },
     {
       "termino": "la primera",
@@ -35,7 +42,7 @@
     },
     {
       "termino": "manchester united - aston villa",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Premier League: Villa lead at second-bottom Man Utd inside two minutes",
       "enlace": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP2VkxQ7cNwqSJTAtpsMkqvm0SQ3Ptj50_ZJw9rnWKuctiu9c3sY7kARWsyWg"
@@ -63,17 +70,10 @@
     },
     {
       "termino": "elche c. f. - real betis",
-      "trafico": "2000+",
+      "trafico": "500+",
       "noticia": "¡EN VIVO! Betis visita a Elche para seguir en la zona alta de LaLiga",
       "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17484654/elche-vs-betis-fecha-12-de-laliga-2026-2027-equipo-fecha-hora-y-tv-en-vivo",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjecXsyWyvrOOCBEZxegvDB3b0fNjEn4z8cVa18GZeJdK21TzSTgFDmIDaBDI"
-    },
-    {
-      "termino": "luka dončić",
-      "trafico": "200+",
-      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     }
   ]
 }
