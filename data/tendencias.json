@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-08T15:13:27.661908-04:00",
-  "hora": "15:13",
+  "updated": "2026-11-08T15:33:45.089380-04:00",
+  "hora": "15:33",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "atlético madrid - barcelona",
+      "trafico": "2000+",
+      "noticia": "Atlético Madrid vs Barcelona: ¿Cómo están las apuestas?",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17481023/atletico-madrid-vs-barcelona-como-estan-las-apuestas",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm1zAsbAiUp7cmvjzlm67H-5-YCw-uyDcsmM0zm5f6O5s6i_c8lvcdOUUgNwE"
+    },
+    {
       "termino": "inter - como",
       "trafico": "500+",
-      "noticia": "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/emocionante-minuto-silencio-inter-homenaje-171600478.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnRi6Vpuo1e6ZY1l8p091KepwGBsnek9PecHxkdONqeZKCbeWrLDq81i1Q8wU"
+      "noticia": "Serie A | El Inter de Milán supera al Como",
+      "enlace": "https://www.fichajes.com/a7510176768002351225-serie-a-el-inter-de-milan-supera-al-como",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt5BbaMcKd_GHL70l6iaWlmuqglIlKiwCUke_dNs-8y0MWcVoLKswwm6uhOtg"
     },
     {
       "termino": "la suerte",
@@ -36,9 +43,9 @@
     {
       "termino": "manchester united - aston villa",
       "trafico": "2000+",
-      "noticia": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-      "enlace": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDTzW_nCNJRcTHeffPzbObYPYgjObsGeFXL_JTkkPyEqpXDGe_xkp1GT9xavU"
+      "noticia": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+      "enlace": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROMqanXJ9nDTFg2JKjq0AUWrURLXg4o8lPKeKvPxKKtsS-0TiKQxcZfTa4VDI"
     },
     {
       "termino": "genoa - milan",
@@ -67,13 +74,6 @@
       "noticia": "El Betis ya gana por inercia",
       "enlace": "https://as.com/futbol/el-betis-ya-gana-por-inercia-f202611-n/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYhqnQWWAuymtU1geODkcEsoPfV-DO70cmgKzZB9nXVgKr9InEoqKQCWCry0"
-    },
-    {
-      "termino": "luka dončić",
-      "trafico": "200+",
-      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     }
   ]
 }
