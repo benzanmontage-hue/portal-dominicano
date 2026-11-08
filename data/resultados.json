@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T21:03:35.709694-04:00",
+  "updated": "2026-11-07T21:23:56.025366-04:00",
   "fecha": "07/11/2026",
-  "hora": "21:03",
+  "hora": "21:23",
   "total_juegos": 53,
   "juegos": [
     {
@@ -43,11 +43,11 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "11",
-        "29",
-        "82"
+        "47",
+        "75",
+        "97"
       ],
-      "fecha": "2026-11-06T04:00:00.000Z",
+      "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
@@ -380,7 +380,9 @@
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
         "76",
-        "11"
+        "11",
+        "97",
+        "76"
       ],
       "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
@@ -615,10 +617,10 @@
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "56",
-        "11"
+        "03",
+        "47"
       ],
-      "fecha": "2026-11-06T04:00:00.000Z",
+      "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -627,11 +629,11 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "11",
-        "29",
-        "82"
+        "47",
+        "75",
+        "97"
       ],
-      "fecha": "2026-11-06"
+      "fecha": "2026-11-07"
     },
     {
       "compania": "Loteria Real",
