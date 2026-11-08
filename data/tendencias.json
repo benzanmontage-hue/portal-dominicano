@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:32:51.384045-04:00",
-  "hora": "14:32",
+  "updated": "2026-11-08T14:53:10.857173-04:00",
+  "hora": "14:53",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,9 +22,9 @@
     {
       "termino": "barcelona - madrid",
       "trafico": "100+",
-      "noticia": "AVE Barcelona-Madrid hoy: retrasos del 8 nov.",
-      "enlace": "https://www.lavanguardia.com/movilidad/directo/ave/barcelona-madrid/2026-11-08/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS04zQIUQN_vOTKVcEl-JV1Qv64Paxm5OXznXqEAtkfxB1F7BB_I3tboGquQeQ"
+      "noticia": "Simeone respalda a Julián Álvarez antes de enfrentar al Barcelona",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17488300/julian-alvarez-atletico-vs-barcelona-laliga-simeone",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIn5ztTwMVmF2IZ_2ZbunjlHFbIWnf4A24_hpuYqq-Zkv4SGcFaZpSGHxR17c"
     },
     {
       "termino": "la primera",
@@ -42,17 +42,17 @@
     },
     {
       "termino": "manchester united - aston villa",
-      "trafico": "1000+",
-      "noticia": "Premier League: Villa 4-2 up as Man Utd look set to stay second bottom",
+      "trafico": "2000+",
+      "noticia": "Premier League: Man Utd score twice in stoppage time to draw with Villa but stay in drop zone",
       "enlace": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuRIqZTxd3a1tZh92Qpo5YxUEhoPWWssatWvet2HQcbxoKC-YUNrvpXmyY_Ww"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPd5Big8xPc7lV1zx1jxokNGjCSY_Fb5d4kQBUHFHqVUguSEzddnY_xTsoHSg"
     },
     {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Cori contro il Genoa e subito il ritorno a Milano. L’insolita trasferta di 200 ultrà del Milan",
-      "enlace": "https://www.ilsecoloxix.it/sport/news/insolita-trasferta-genoa-200-tifosi-milan-protesta-treno-principe-sn752ztk/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThEuZ5GwXHovWBDT5mscY-lvZSdoU1iP9kqmVz2tA9bI0bXdyi9FZEUt3Fn5w"
+      "noticia": "Amorim:  Bisogna pensare che perdere è la fine del mondo. Niente giorni liberi per chi gioca nel Milan",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/08-11-2026/amorim-dopo-genoa-milan-voglio-l-ansia-per-la-sconfitta.shtml",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBYRiwD3spPArSYf0j73AUQUlMhqZkK96OQEFT14mQ-ePddN4cXbbU5bLUYWs"
     },
     {
       "termino": "crystal palace - liverpool",
