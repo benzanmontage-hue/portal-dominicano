@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T07:50:50.665277-04:00",
-  "hora": "07:50",
+  "updated": "2026-11-08T08:11:11.434436-04:00",
+  "hora": "08:11",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "habichuelas con dulce",
       "trafico": "100+",
-      "noticia": "Gobierno cancela la licitación de RD$630 millones para habichuelas con dulce",
-      "enlace": "https://listindiario.com/la-republica/gobierno/20261106/gobierno-cancela-licitacion-rd-630-millones-habichuelas-dulce_929166.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4TGDJlKfzUBQ2oPz2y6GlJqi6ELVRiifxVsMxlO4mjW9FbYQQU9Hk3wM-HPw"
+      "noticia": "El problema no eran las habichuelas",
+      "enlace": "https://elnuevodiario.com.do/el-problema-no-eran-las-habichuelas/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAQzeuoYd-QSCF6sO8qD7iB6BKB4cLycOM4_bxqB-sypo1xFuOevBdeo1nDBU"
     },
     {
       "termino": "san diego padres",
@@ -35,24 +35,17 @@
     },
     {
       "termino": "actor",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "This actor is starring in the biggest film of his career. He’s also fighting deportation",
       "enlace": "https://www.cnn.com/2026/11/07/us/laith-nakli-your-mother-movie-immigration",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIZm0a2ERQ4nksX9sNKSGUkQKH-8tDPS8F33Jxr_jRBvClte6MrB8if-o5Ik"
     },
     {
       "termino": "tormenta",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Tormenta In-fa provoca lluvias récord y evacuaciones en el este de Japón",
       "enlace": "https://www.prensalibre.com/ahora/guatemala/sucesos/tormenta-in-fa-provoca-lluvias-record-y-evacuaciones-en-el-este-de-japon/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1wIQnEeUIWLoiP-L1Ry3KvqbzV35LxkOMZgbVgKADOob5kFdDQvtVWPi6S50"
-    },
-    {
-      "termino": "stephen curry",
-      "trafico": "1000+",
-      "noticia": "Stephen Curry:  I appreciate the longevity",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/08/stephen-curry-i-appreciate-the-longevity/92676001007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUN3owZoXXBbogAqugaGvHO7Xz8bLZgVorloNxBIC9sjotzi-QK1uKNUXcwd4"
     },
     {
       "termino": "franz wagner",
@@ -71,9 +64,16 @@
     {
       "termino": "charles porter",
       "trafico": "200+",
-      "noticia": "Actor who appeared on ‘House’ and ‘Bones’ dies at 47",
-      "enlace": "https://www.cleveland.com/entertainment/2026/11/beloved-tv-actor-dies-at-47.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQalpXkVUH0fNyOqWeX68_S8AnNw-uRvoMFLs8hU-k6j-TIYWafNns0q4ME2ok"
+      "noticia": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
+      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlXcBP_otjYdPf00wqyWgDPifq0arEckNnZxB_GlrdasK-uURanuvCkDlZC4"
+    },
+    {
+      "termino": "suns - rockets",
+      "trafico": "200+",
+      "noticia": "Rockets look to fix fourth-quarter collapses in visit to Suns",
+      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-fix-fourth-quarter-collapses-in-visit-to-suns/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     }
   ]
 }
