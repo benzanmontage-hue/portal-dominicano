@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T12:10:32.642523-04:00",
-  "hora": "12:10",
+  "updated": "2026-11-08T12:30:50.698244-04:00",
+  "hora": "12:30",
   "fecha": "08/11/2026",
   "total": 15,
   "noticias": [
@@ -45,6 +45,14 @@
       "imagen": "https://www.primerahora.com/resizer/v2/OP5QWCHM6JAWXN4LJTLF7M2TJY.jpg?auth=7b32c54f86c5379e8e46a08a8a7039a13de3d8e38d449e7428d37b491e8f640c&quality=75&width=1200&height=717&focal=277%2C171"
     },
     {
+      "titulo": "Evalúan cuándo será la llegada de Miss República Dominicana tras accidente de tránsito - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdkJvZ3huZzRERktfV2JWaFVLTTVYQ0pJVTQ4Rk5WNUs3cEpwQmVxUzdNZGp0TUlqVG5JMFBqNEQtbzVVeS00cVMyZzEtQWFfM3UwSWVBWEVEZjQ2ai1ETVN2WjdXa3FRNkpGdFFoRHBJZjlEeDNCbmw4ejZ6dVVaMDk1OFV0VzY4VGFpTnRyV0RHV1gyTnk0RTc2SDR2eVY2cTBpdHdtVVRIOFNERVp4c2V1cDVMMjhmTDBJQmwxX3ppdUZzbDdTZTc2T3huU3hBeXYtZDNzbEZOWi1OLS1Z?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 07 Nov 2026 13:51:15 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana: Extraditan hacia Países Bajos a alias “Bomba”, acusado de 22 delitos graves - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeGw2VVZKSGxTUm9RSGlQM1ZUNWpGUENPYkNGcnFnbG9GLXpOU05fb284bU8xVGhvU19rTzFXWnQwcG1IQUJqalVBcGN3dzlVd2ZXWlcxQnlPOTlxTzJCSWQ4VzM4R3Fqd2RsY1NVTWlvSG5CcENlaXJuMXlPOU0wbVRjcEdxZnNlR2R1dlIzQkl0dFZvZ2paMnd6XzAxUUt2NFJyNlFFMXZnZG5CUnNPSEk4VGNUNnpOS2ZQV2t2Z2JXUEhSaFk4Q2N2TGNOdUEwd1c4ZDFiZDl6aWFrUHJCemRXOXjSAf8BQVVfeXFMTjFzY1FSYWpkcVpLbmNfS01KcDZOY0xkYTY3eE4xZ0YtVkFMOFd0cXdhYmNvc3BRdHYtb3VCNlNRWnV1SmE5OGoxREdIdDh0WjJiS1hSMnRvMm5XZ0VHVjY1RzJtdVlHaGRCeEpiQWl0dTVxVGVLdzNERzlEN25DSWFYaHdSWm90VklLTlZlSW9vRFNWZ0RRaGpMbWg2dHY3bXVwZ29wNFNFZ3ZfTTJ1M1ptSmVuUEZVMjJ4bk1JdUlGSm9rUnRfUzFXdFFzUWpOd2lzWHhtNnJxZjVYdzBfNmJyZnRKR3UxN1J1T2pXam1scjB2YmtoNHBmcmJpMDBj?oc=5",
@@ -59,14 +67,6 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 08 Nov 2026 12:20:51 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Consternada Jennifer Barreto con los accidentes automovilísticos de las candidatas de República Dominicana y Bulgaria - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcU1HYXU4NDlnNXZjRnJqTXkzZktrb0t6X2FoS2xKTVNwTWlQNE85aHd0OUR2RUlrZjNfOHZ4WVRUbTNEUFJONXVKYlJPZzRqWDVSQ3ZtMEpObXZFVGxUUnlCZjJUdTJUQThkWVU5OThvNUxxZXIwcXVrXzFtdnpwbUswbkU5N3J6aWUxTnFxMnVVNTM4RnFWWjVtVFktanZyMUJJWlFpd3Rxc19oQUNXVTF3TkxjY2dhNjRiVlBQWTA5OXpRdnQ4b0Y2M2JQZldpRTB3ZHlTeHBneVpsdndSczEtQ29fa245Um5WRmZiV2YzM0dqWmFHcE1DZU0tTWJGcDdCdVhUZVA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 08 Nov 2026 14:36:00 GMT",
-      "imagen": "https://www.elnuevodia.com/resizer/v2/772Y7M25DZEITKQYRKVFDJFPQE.JPG?auth=ce49a08d949b549de5343f8d7a7c87934dc66bc304f202bd498d86523e16d9f8&quality=75&width=1200&height=717&smart=true"
     },
     {
       "titulo": "\"Íbamos a cumplir 11 años juntos\", habla esposo de estilista dominicana asesinada en Filadelfia - Univision",
@@ -85,28 +85,20 @@
       "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/888065788_18640063204041593_5559973279581390922_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bnimla_4cIEQ7kNvwG1jks6&_nc_oc=Adr2BFB3KO_1fDD-UxtvZ6MIa6ZSZQmlil5l3Rd-XMFeW2PPdZ9pet4DkaNpgFvaXhg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=J7AqUmeBpTUJCUbwU_TtnQ&_nc_ss=7c689&oh=00_AQQJFbcDFZKkhNeAX4-paQtiJrjVh7JMSdYO_ucdeSAdJA&oe=6AF5B40C"
     },
     {
+      "titulo": "Jennifer Barreto ansía recibir a Miss República Dominicana tras accidente de auto - Primera Hora",
+      "fuente": "Primera Hora",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSUtrUXZDWjJnQnhma2ptRXJNdW9vVkRuWlo2VUJ4cjc3TUMyT2JpenREcGd2VFR4OGx6SktKRkx0NHVfSHVyTVktTEhqb2hFanZXeU5Va3NrYUE2eEVlY3VsTlI3VTdkTTFSLU91Y2VRNVpteHF1eUtFcnd1dkFCY0loSUZSSUJDbGRpbVJXcnhpcExRUEhnb0g5TXZJaWJsVTVPOUNZSjBzWmV6TF9LWF9xRmpSLWltWGt1RDVKMDdBbHBCUW52LTdjSGJTRlNwR09IblJTaGRJVWxrRnRXOQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 08 Nov 2026 13:02:55 GMT",
+      "imagen": "https://www.primerahora.com/resizer/v2/OP5QWCHM6JAWXN4LJTLF7M2TJY.jpg?auth=7b32c54f86c5379e8e46a08a8a7039a13de3d8e38d449e7428d37b491e8f640c&quality=75&width=1200&height=717&focal=282%2C187"
+    },
+    {
       "titulo": "Químicos explosivos y otras sustancias: ¿Qué encontraron en la casa de uno de los acusados que planeaba un ataque contra el presidente dominicano? - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTWcwRVRtaTNtUkR2c3dFYS1wQnptMGFQUEZ6c0ZuaDktejVvLXg5Z0NMbUdZbUtPUUJXbWRwbmV2RmJVT2lfQWlZZ0F3ajlqRlQ1VlprellfTU93TFc3M3VHRHRGWEJCSXhnR1lGd0RKdFFjZDMyNzBlYllhTU8wMGdqd09IcmIxaUVxVThQU05XcHdKTnpTNFhxVFJkeVo0OHpJa1p5WVF3dmZ3Vnl5TkpEbU1sSzB5VUJXMzlyTFd0MzdwYy1GeHFHaU5JTzVnV3RrUGJ0U2tpQ0RaMVg1Wmpmd3Y2Mlg0eGNYZmF6cGhuV0l4LXkyT1R0empyMHdRaE52UTVrZVJ5OEZUZFg1VnJ3OXdSM1JVRjRVLU5Vc25FMFphYVBR0gHCAkFVX3lxTE1YekhES3ZWN1F1d0MzblprOGJyWFFoLXNYOFRqOElJRXZfOHVqdjI0eDlzTWh4M3B3aWVIZzJfcUYtZkdVNFdWWklGb0JETDlXUEExd1IxUVlVRU5ubngyWU9vcWtReUZhOU1ON2lMcmVEeDVIOEgtbk52OUJIeXlrUlRiOHNhWDg0c1pLNTM1TnA0Q1FJS2lPdDI4d3Zwd0hqYjMtV3ZnV2NTQmpBanhObW1MMmQ2LVVSM0hWcWpaOUV5aDlMdy1mb0xnWnVRWXQwX2hYeThPQ25ZTlhHc2pJZmJUZ1VEa1NZbnlOZzc2MmRlZThkNjVJTGFkc1E3ZFFkV0YyMWh2LXFSR09kd0o2U3hRdmdEd1VkQVhvdnlzNzNDMEdPdW5DZGRfT2xacVFuQXdURDNGdVJzbnVXR2MzM2c?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 08 Nov 2026 15:20:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Ronald Day reacciona a los accidentes de Miss República Dominicana y Miss Bulgaria: “Seguimos pendientes” - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHN2SUZlS0NEMU1hNnRKcTFXM1E3VnIwbGs0SjBJZGluZU53ZTZuTExlSmNJbXJyV0pYOEY0YmtDdndYRFVkUDNFOTloSW00SzVPWjFKN3dOaC11MlJkYV9PWVdhMGE4c3R0Y0xKaWFscTVhR1lrV2VXWS1sNjdMYnEtOG1wRHdydmYxOWtucmdlMmUySkMzc1NwVVdoYlVrcFdkRmVRV2NoSk9SQ0NqOG56UGZsNUxRTXYwN1hvZHQzcmg2T3NEUUNfZW1wbHNjNmhWakRKVGNrZFlkZ1pqTHo3Ni1XNU1WOVJhNGZLaFFVVHJq?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 20:58:00 GMT",
-      "imagen": "https://www.elnuevodia.com/resizer/v2/3GHM2W5SG5DQNFTME4ES5E4FPY.JPG?auth=c8424310a2916068486dd4618f3a6a634445ac995037c6e10aa7aebc5225f0f0&quality=75&width=1200&height=717&focal=2921%2C1209"
-    },
-    {
-      "titulo": "Cervecería Nacional Dominicana presenta la nueva cerveza no alcohólica de la familia Presidente, producida localmente con tecnología y talento 100% dominicano. Alineada a las tendencias globales de consumo responsable y moderación, Presidente Cer - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBweGh0dF9MX1hvamZ3WjFOUHFmSzc5dHg4TEZWTENheGQweHk3SEpQdkxPdWs4bloxVnFwVmVnRzNldHUxWGx0VUdfaWV5LVZDNFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 12:42:06 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/892790741_1137745588904366_2031495891303423870_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Gd6DLBJkYioQ7kNvwFn6LPO&_nc_oc=AdrEATARz3VN8J7LvBLdbh8frdIFDJJOxnjl6StIhvFlBXCKOZilMrY9K98oS1-ShmE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=a5bE7s5kym-aVROERAygXw&_nc_ss=7c689&oh=00_AQSZS7neHitYZf4U2qrCieV9l-bYTugyFkty0OHSYBGJYw&oe=6AF535E6"
     },
     {
       "titulo": "“Me arrepiento de corazón”: hispana dejó Nueva York por miedo a ICE y hoy lamenta volver a República Dominicana - Univision",
@@ -122,6 +114,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFRQQ2FfdnEzdmhtUDdsMGVYSVMwVUZNOEVYTEQ1V2JQaUhNVDBNeWhFYmdjNXVrbXhBS0JLVWdweGJsaGhySWtIZTNBSENneG5vZGVZeFNTTmRFMy1PaEN1eTdBM2NxUmVNZTNyazRsc0FKbTFLZWRUQktzeWxQR2NzZlZua2pVeUFqNElnSHlWWER5YlItRF95aVhwQ0FZczRmNmVfRDJTOHFmSml1NkJOZm9QLWpUc1Q4WW5HcGpsSHowMmFDWEh5REdPc3ludnh0Q0syTVhoLTVHMFdwTFMycUJaRjhrREpZM3JrV2VjZnVReGc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 07 Nov 2026 13:55:04 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "El dengue entra en zona de alarma en República Dominicana tras duplicar sus casos este año 2026 - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYl9aSnc5R3ZPa3VBbkU4Z0NPZmpXb1lGbE1VaDl4U2RfYnpXV0tuQ2xQd2gwemVncjc4WmpPbk5SZGxZZUhqV0NIUXZwT3huamtRemlQZVRWLWtzbnJMY3gtQWx3aXAzRks5aXY3dk1KaElqTnl4MndoMU1DU2NHMGJsVnpOVnozNWF4QmIydGRoMm51NDdzczA3OUpPVmYzcDRPTzExWGpzbGg5UGMzaHRkUTQ1eFJER1pBR3VzR1MwTEt3UkpWbV9TM29wajM3MDJVZXZTZ3I3SFh5amxHMmhSYzF2TFnSAYICQVVfeXFMTms3OUdpR0E4M0lQazVqSjRLaHk4SVZQQW9PNGFqUVFSamhwZFlrMlJkMnd6ZWo1Ql9IWVJLUmVCcDZqR0U0UzdaeFl1U2NJVG9XUmxZSmg1Ri12aVlxSzlJN0pJYXZ6aWJiV25fUG1Cb2YxY0xSQ1JERTdEM0RObmtLV3dtdDdnR2lrRVhSUHNiVDV4ZmVrakZLQm5WMl9wdkFPV2x0Qm1OS2VkVTFadGpaWDYwNEpDdUFMbDZTcFFfcTNoaEJ2MFpxUWl2dURmVV9jWWFXeG9VTGNUZmNJRUNBazBLUkpUSDl4MEpOa2E2SEdoVmZTZzE3TmpJZmlQMml3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 08 Nov 2026 03:22:00 GMT",
       "imagen": ""
     }
   ]

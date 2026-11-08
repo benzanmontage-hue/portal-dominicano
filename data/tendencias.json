@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-08T12:10:31.198983-04:00",
-  "hora": "12:10",
+  "updated": "2026-11-08T12:30:49.245242-04:00",
+  "hora": "12:30",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "manchester united - aston villa",
+      "trafico": "200+",
+      "noticia": "Carrick selects side to face Aston Villa",
+      "enlace": "https://www.manutd.com/en/news/michael-carrick-selects-man-united-side-to-face-aston-villa",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5mIcp3GfGDUxzPeJ5ShlDBGQyFKU1-tDBm1vx1CLAym-vDDr1HSEfQGN9va0"
+    },
+    {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Serie A: in campo Genoa-Milan 0-2 DIRETTA",
-      "enlace": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-in-campo-alle-15-genoa-milan-diretta-_cbaae15d-e302-4f11-9083-8a0c99394a64.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd6Tb7C1UO_3HnewG2b8rAOUNOtuSp9nA5sxXL6RoFgXmkdEbCQk4XIreHRY0"
+      "noticia": "Genoa-AC Milan 1-2, Serie A Enilive 2026/2027: match report",
+      "enlace": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-08/reazione-milan-2-1-a-genova",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx-7p60X7V3ayGVSIVGNA6cdDKJFfEcsht2L15L2WhnkTPdfHtBhif9T9cIEI"
     },
     {
       "termino": "crystal palace - liverpool",
@@ -22,9 +29,9 @@
     {
       "termino": "sunderland afc - chelsea",
       "trafico": "200+",
-      "noticia": "Chelsea XI vs Sunderland: Starting lineup and confirmed team news",
-      "enlace": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-sunderland-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1303742.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS65tFHRHJrjvg7neDCwhH0ToBGZfKQc8TcE_zFxYKoBFVsc26QYj2gmKk4ja4"
+      "noticia": "Chelsea fans’ preferred lineup against Sunderland: Depend on de Penders",
+      "enlace": "https://weaintgotnohistory.sbnation.com/premier-league/173839/chelsea-fans-preferred-lineup-against-sunderland-depend-on-de-penders",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0iiMm50q9nikK3IKSyLMwILV2CsSJ2e07_cAtLRjZuapn4csd3U9WfTaSmtQ"
     },
     {
       "termino": "elche c. f. - real betis",
@@ -36,9 +43,9 @@
     {
       "termino": "luka dončić",
       "trafico": "200+",
-      "noticia": "Is this the best version of Lakers star Luka Doncic we ve ever seen?",
-      "enlace": "https://www.stltoday.com/sports/professional/nba/article_80c4c6d2-1896-5e2d-9336-7d1c05c43917.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw10FbZOt2AlfV7A3oPRp8CcnLK37J4m2ZRecnfnaYXgXahR5SZwPce3RjgzY"
+      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
       "termino": "habichuelas con dulce",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "san diego padres",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Padres  Adrian Morejon to Dodgers? One MLB Insider Thinks So",
       "enlace": "https://sports.yahoo.com/articles/padres-adrian-morejon-dodgers-one-193002508.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRz6wFjC-zTkVahsvf9yiashMhuFyYnciAOJkFp6AFfu8d3yOWin-mq-V9c6pU"
@@ -67,13 +74,6 @@
       "noticia": "La ilusión de una vivienda propia que terminó en tragedia en menos de 24 horas",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/08/explosion-en-apartamento-por-gas-deja-a-familia-con-quemaduras/3714307",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjI9rSKgIIY-o_FZmtuvVZbaWj42ltZ9h11-JDiH5k5H_N3nwVtyB_vrEbOKU"
-    },
-    {
-      "termino": "actor",
-      "trafico": "1000+",
-      "noticia": "Judi Dench on an actor s life",
-      "enlace": "https://www.cbsnews.com/news/judi-dench-is-it-too-late-to-make-a-run-for-it/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4u3eV8gi-NXHIxEAph9OWOhDxxjbwrRQSiw7YFfCkaj1IKH98mptwYz2Vc0"
     }
   ]
 }
