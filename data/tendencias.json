@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-08T00:28:34.563321-04:00",
-  "hora": "00:28",
+  "updated": "2026-11-08T00:48:53.183895-04:00",
+  "hora": "00:48",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "estadísticas de jugadores de partidos de golden state warriors contra orlando magic",
-      "trafico": "500+",
-      "noticia": "Orlando Magic vs Golden State Warriors Nov 7, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/orl-vs-gsw-0022600193/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuiiTYSI_jfO-IJSElFeAhEfC9kh92o1STysuVtjzUuezPri3yTehHi38VPOM"
+      "trafico": "200+",
+      "noticia": "San Antonio Spurs vs Portland Trail Blazers Nov 7, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/sas-vs-por-0022600195/box-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnx_lpOyKCbUhwdxU7vXfheCqS9QcK28xQPh3yP6EWDmqLGLyi1HUR1DswcHQ"
     },
     {
       "termino": "franz wagner",
@@ -41,6 +41,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
+      "termino": "magic - warriors",
+      "trafico": "200+",
+      "noticia": "Warriors  Draymond Green in love with offseason addition who keeps matching feisty energy, this time with Bobby Portis",
+      "enlace": "https://clutchpoints.com/nba/golden-state-warriors/warriors-news-draymond-green-love-offseason-addition-energy-time-bobby-portis",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIFBi7ar7uH260uTo3JFghJiSjPZ3XRW5xsNCg8kSpSKZMSNwJd0biUe7SzU"
+    },
+    {
       "termino": "thunder - wizards",
       "trafico": "200+",
       "noticia": "Thunder hold Wizards to NBA season-low 75 points in 39-point rout",
@@ -66,13 +73,6 @@
       "trafico": "2000+",
       "noticia": "Surging Warriors look to extend win streak against slumping Magic",
       "enlace": "https://www.cbssports.com/nba/news/surging-warriors-look-to-extend-win-streak-against-slumping-magic/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
-    },
-    {
-      "termino": "cavaliers - knicks",
-      "trafico": "500+",
-      "noticia": "Jalen Brunson scores 31 as Knicks hold off Cavaliers in rematch",
-      "enlace": "https://www.cbssports.com/nba/news/jalen-brunson-scores-31-as-knicks-hold-off-cavaliers-in-rematch/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     }
   ]
