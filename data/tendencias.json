@@ -1,34 +1,55 @@
 {
-  "updated": "2026-11-08T00:48:53.183895-04:00",
-  "hora": "00:48",
+  "updated": "2026-11-08T07:09:53.106982-04:00",
+  "hora": "07:09",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "estadísticas de jugadores de partidos de golden state warriors contra orlando magic",
+      "termino": "diario libre",
       "trafico": "200+",
-      "noticia": "San Antonio Spurs vs Portland Trail Blazers Nov 7, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/sas-vs-por-0022600195/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnx_lpOyKCbUhwdxU7vXfheCqS9QcK28xQPh3yP6EWDmqLGLyi1HUR1DswcHQ"
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "actor",
+      "trafico": "200+",
+      "noticia": "This actor is starring in the biggest film of his career. He’s also fighting deportation",
+      "enlace": "https://www.cnn.com/2026/11/07/us/laith-nakli-your-mother-movie-immigration",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIZm0a2ERQ4nksX9sNKSGUkQKH-8tDPS8F33Jxr_jRBvClte6MrB8if-o5Ik"
+    },
+    {
+      "termino": "tormenta",
+      "trafico": "200+",
+      "noticia": "Tormenta In-fa provoca lluvias récord y evacuaciones en el este de Japón",
+      "enlace": "https://www.prensalibre.com/ahora/guatemala/sucesos/tormenta-in-fa-provoca-lluvias-record-y-evacuaciones-en-el-este-de-japon/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1wIQnEeUIWLoiP-L1Ry3KvqbzV35LxkOMZgbVgKADOob5kFdDQvtVWPi6S50"
+    },
+    {
+      "termino": "stephen curry",
+      "trafico": "1000+",
+      "noticia": "‘Bron Wasn’t Doing This at 38,’ ‘Absolutely Timeless’ — Hoops Fans in Awe of Stephen Curry’s 41-Point Heroics in Warriors’ OT Win vs. Magic",
+      "enlace": "https://twaslnews1.twaslnews.com/7298573/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjr563fQkCVKRjvTAmang-CK98NG5AviCCvLHlTqWenulvU9jZH3WXgso6YXM"
     },
     {
       "termino": "franz wagner",
       "trafico": "200+",
-      "noticia": "Wagner delivering mixed bag in Banchero s absence",
-      "enlace": "https://www.nbcsports.com/watch/nba/franz-wagner-delivering-mixed-bag-in-paolo-bancheros-absence",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwO3MJb8d8yN-y8aiHtzPmI4QHiStCN6hqPcx0BD52b1O9QOulKyVONwAeQBc"
+      "noticia": "Franz Wagner News: Double-doubles in loss",
+      "enlace": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-double-doubles-in-loss-538078",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO2gIlbKeOST0hk5zgkyy1X151zujiTeB4V8AYFwSnt-Vfd5CebvbiQL7bgbk"
     },
     {
       "termino": "trail blazers - spurs",
-      "trafico": "200+",
-      "noticia": "Victor Wembanyama, Spurs seek eighth straight win at Blazers",
-      "enlace": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-seek-eighth-straight-win-at-blazers/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+      "trafico": "500+",
+      "noticia": "NBA basketball: Portland loses at home to San Antonio, 15 points for Avdija",
+      "enlace": "https://www.ynetnews.com/article/ef7lpqnk6",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSabN9G7_0Edttb-IQ0d97cYhekhzvkKX5cXwtO9b2sBJkC3Ujm1N7xkbJDzBk"
     },
     {
       "termino": "charles porter",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Actor who appeared on ‘House’ and ‘Bones’ dies at 47",
       "enlace": "https://www.cleveland.com/entertainment/2026/11/beloved-tv-actor-dies-at-47.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQalpXkVUH0fNyOqWeX68_S8AnNw-uRvoMFLs8hU-k6j-TIYWafNns0q4ME2ok"
@@ -41,39 +62,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
-      "termino": "magic - warriors",
-      "trafico": "200+",
-      "noticia": "Warriors  Draymond Green in love with offseason addition who keeps matching feisty energy, this time with Bobby Portis",
-      "enlace": "https://clutchpoints.com/nba/golden-state-warriors/warriors-news-draymond-green-love-offseason-addition-energy-time-bobby-portis",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIFBi7ar7uH260uTo3JFghJiSjPZ3XRW5xsNCg8kSpSKZMSNwJd0biUe7SzU"
-    },
-    {
       "termino": "thunder - wizards",
       "trafico": "200+",
-      "noticia": "Thunder hold Wizards to NBA season-low 75 points in 39-point rout",
-      "enlace": "https://www.cbssports.com/nba/news/thunder-hold-wizards-to-nba-season-low-75-points-in-39-point-rout/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+      "noticia": "AJ Dybantsa scores 19 in blowout loss to Thunder",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-07/aj-dybantsa-scores-19-in-blowout-loss-to-thunder",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7pya_CNMdegQsF7ZNKN76ff71WMsxlRsPokX7OQFejnZJB5LRrBBatFDY71E"
     },
     {
       "termino": "hawks - nets",
       "trafico": "100+",
-      "noticia": "Jalen Johnson scores 30 in return as Hawks rally past Nets",
-      "enlace": "https://www.cbssports.com/nba/news/jalen-johnson-scores-30-in-return-as-hawks-rally-past-nets/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
-    },
-    {
-      "termino": "magali febles",
-      "trafico": "1000+",
-      "noticia": "Miss Universo dominicana y Magali Febles sufren accidente de tránsito en la Núñez de Cáceres",
-      "enlace": "https://www.diariolibre.com/revista/belleza/2026/11/07/magali-febles-y-melissa-nunez-sufren-accidente-de-transito/3713783",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV37ieI6QHKVV0K8uXWI9gjmk11xhA7BrXD7x0Xn1d_nw6vj-DAXU-Lfb7R1c"
-    },
-    {
-      "termino": "warriors - magic",
-      "trafico": "2000+",
-      "noticia": "Surging Warriors look to extend win streak against slumping Magic",
-      "enlace": "https://www.cbssports.com/nba/news/surging-warriors-look-to-extend-win-streak-against-slumping-magic/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+      "noticia": "Orlando Magic vs Golden State Warriors Nov 7, 2026 Play-by-Play",
+      "enlace": "https://www.nba.com/game/orl-vs-gsw-0022600193/play-by-play",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyrkT5mZVT1dujalqxi61QYge8he4zKVyif6UtfGBPPG98JekzFcSr_jfqwf8"
     }
   ]
 }
