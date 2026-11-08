@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:53:10.857173-04:00",
-  "hora": "14:53",
+  "updated": "2026-11-08T15:13:27.661908-04:00",
+  "hora": "15:13",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,13 +20,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O5IoJUw8jYgRYq4HcB4bkgjFm4pTMKGvNesk6t2UGfzpvauLBHdFFXhjEhQ"
     },
     {
-      "termino": "barcelona - madrid",
-      "trafico": "100+",
-      "noticia": "Simeone respalda a Julián Álvarez antes de enfrentar al Barcelona",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17488300/julian-alvarez-atletico-vs-barcelona-laliga-simeone",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIn5ztTwMVmF2IZ_2ZbunjlHFbIWnf4A24_hpuYqq-Zkv4SGcFaZpSGHxR17c"
-    },
-    {
       "termino": "la primera",
       "trafico": "1000+",
       "noticia": "Magistrada Sonia Espejo se convierte en la primera doctora en Negociación y Mediación de RD",
@@ -43,9 +36,9 @@
     {
       "termino": "manchester united - aston villa",
       "trafico": "2000+",
-      "noticia": "Premier League: Man Utd score twice in stoppage time to draw with Villa but stay in drop zone",
-      "enlace": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPd5Big8xPc7lV1zx1jxokNGjCSY_Fb5d4kQBUHFHqVUguSEzddnY_xTsoHSg"
+      "noticia": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+      "enlace": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDTzW_nCNJRcTHeffPzbObYPYgjObsGeFXL_JTkkPyEqpXDGe_xkp1GT9xavU"
     },
     {
       "termino": "genoa - milan",
@@ -64,9 +57,9 @@
     {
       "termino": "sunderland afc - chelsea",
       "trafico": "200+",
-      "noticia": "Sunderland vs Chelsea: Premier League preview, team news, stats   head-to-head",
+      "noticia": "Sunderland 1-0 Chelsea: Enzo le Fee penalty gives Regis le Bris  side victory",
       "enlace": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJngPi7-gRaPdJUmTafoVWiZ2UYXr5hAnjUR1fXEeTuSAOpNzmxysvYRlqi0Y"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9IBZKv0UuFi3YFw9bC5mHQJ8pGjJuP3Owy6gRI4zEeZ06diE8M8P30KItP0"
     },
     {
       "termino": "elche c. f. - real betis",
@@ -74,6 +67,13 @@
       "noticia": "El Betis ya gana por inercia",
       "enlace": "https://as.com/futbol/el-betis-ya-gana-por-inercia-f202611-n/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYhqnQWWAuymtU1geODkcEsoPfV-DO70cmgKzZB9nXVgKr9InEoqKQCWCry0"
+    },
+    {
+      "termino": "luka dončić",
+      "trafico": "200+",
+      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     }
   ]
 }
