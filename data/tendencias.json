@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T10:28:39.875093-04:00",
-  "hora": "10:28",
+  "updated": "2026-11-08T10:49:08.932214-04:00",
+  "hora": "10:49",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "sunderland afc - chelsea",
+      "trafico": "100+",
+      "noticia": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
+      "enlace": "https://rokerreport.sbnation.com/haway-the-podcast/158804/starting-xi-will-le-bris-stick-or-twist-for-crunch-clash-with-chelsea",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEljMA7c9Sa6fxd3fZFjWMvKHbSic8OIHYLf-8Z0LCvW4LHmFS73o-CUS1xc0"
+    },
     {
       "termino": "elche c. f. - real betis",
       "trafico": "1000+",
@@ -67,13 +74,6 @@
       "noticia": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
       "enlace": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlXcBP_otjYdPf00wqyWgDPifq0arEckNnZxB_GlrdasK-uURanuvCkDlZC4"
-    },
-    {
-      "termino": "trail blazers - spurs",
-      "trafico": "500+",
-      "noticia": "Spurs chase eighth straight win against 6-2 Trail Blazers — Trail Blazers Vs Spurs preview",
-      "enlace": "https://twaslnews1.twaslnews.com/7291590/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM_rXOnL0NNjhAclsJ9VW50b1wUxcw-vEBX0FDWqCaIo4WZ8q9MVh-fvXW--g"
     }
   ]
 }
