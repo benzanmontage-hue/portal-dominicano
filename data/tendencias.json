@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-08T15:55:52.293906-04:00",
-  "hora": "15:55",
+  "updated": "2026-11-08T16:16:18.017319-04:00",
+  "hora": "16:16",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "barcelona vs",
-      "trafico": "100+",
-      "noticia": "Atlético Madrid vs Barcelona, La Liga: TV   Streaming, Live Thread",
-      "enlace": "https://sports.yahoo.com/articles/atl-tico-madrid-vs-barcelona-170000501.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk3RSutF3HpTAXI5EebaAKi5tMgkWkwVt6yH4Q6Wwx0ga5k-okQeH3sG3Wne0"
-    },
     {
       "termino": "villarreal - getafe",
       "trafico": "100+",
@@ -41,11 +34,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O5IoJUw8jYgRYq4HcB4bkgjFm4pTMKGvNesk6t2UGfzpvauLBHdFFXhjEhQ"
     },
     {
+      "termino": "barcelona - madrid",
+      "trafico": "100+",
+      "noticia": "AVE Barcelona-Madrid hoy: retrasos del 8 nov.",
+      "enlace": "https://www.lavanguardia.com/movilidad/directo/ave/barcelona-madrid/2026-11-08/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS04zQIUQN_vOTKVcEl-JV1Qv64Paxm5OXznXqEAtkfxB1F7BB_I3tboGquQeQ"
+    },
+    {
       "termino": "la primera",
       "trafico": "1000+",
-      "noticia": "Magistrada Sonia Espejo se convierte en la primera doctora en Negociación y Mediación de RD",
-      "enlace": "https://elnuevodiario.com.do/magistrada-sonia-espejo-se-convierte-en-la-primera-doctora-en-negociacion-y-mediacion-de-rd/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ElVGyZRcDKRvxjs0_mpmxseXI_qKxXO2kFX6umnEGI99PS7-azhqbDtYak4"
+      "noticia": "Factores determinantes de la victoria de Lula",
+      "enlace": "https://almomento.net/factores-determinantes-de-la-victoria-de-lula/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh5YkgMJUJhp9D86zoAhFlNiN48Pz5Zz3MeLIRA-BIUg8gD1oI8iRY53CEtQw"
     },
     {
       "termino": "primera de hoy",
@@ -57,23 +57,23 @@
     {
       "termino": "manchester united - aston villa",
       "trafico": "2000+",
-      "noticia": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-      "enlace": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROMqanXJ9nDTFg2JKjq0AUWrURLXg4o8lPKeKvPxKKtsS-0TiKQxcZfTa4VDI"
+      "noticia": "Man United rescue 4-4 draw vs. Aston Villa but remain in relegation zone",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpZe0SWUVZkLbi_aaA9OehB9o9i4ES9nKxVsK_qTTRK4Jbg5btGl3ItJlsbAc"
     },
     {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Genoa-Milan, le pagelle: Vasquez, che errore. Gila di mestiere, Rabiot è ovunque",
-      "enlace": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/08/news/genoa_milan_pagelle_vasquez_gila_cisse-425708789/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOFP3bIGTLW51i5I0xzVNmQq1dQveCUBSVSnidoWWmg2xLCUzn6oE0ed5pDU"
+      "noticia": "Calcio: Amorim, orgoglioso dei miei giocatori, ottimo l approccio alla gara",
+      "enlace": "https://www.mattinopadova.it/italia/calcio-amorim-orgoglioso-dei-miei-giocatori-ottimo-lapproccio-alla-gara-q5hvyzu0",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ajP1cdp9-dD911orLKyncpvf44-CweXBu4KAopsJp38DbKiaQR3wo3VsD2A"
     },
     {
       "termino": "crystal palace - liverpool",
       "trafico": "500+",
-      "noticia": "Licensable picture: Premier League - Brighton   Hove Albion v Brentford",
-      "enlace": "https://www.reutersconnect.com/item/premier-league-brighton-hove-albion-v-brentford/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgxMU1TR0M",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVHDPuhC7gWnDoEvxUqHIaaYpoaSReGh1S394M5q3OpZV4IU4Xx7r93sVfNl8"
+      "noticia": "Premier League - Crystal Palace v Liverpool",
+      "enlace": "https://www.reutersconnect.com/item/premier-league-crystal-palace-v-liverpool/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgxM0EySkQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVSZgU80gkkt0lPdnMY3Uh6Js5VhN3bSP1TsRbv64vbXhl9IN8WQQoOMgD1A"
     }
   ]
 }
