@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T17:58:06-04:00",
+ "actualizado": "2026-11-08T18:18:30-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -1373,6 +1373,14 @@
   ],
   "Anguila|Anguila 6:00 PM": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "03",
+     "84",
+     "42"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "30",
@@ -2584,6 +2592,15 @@
    }
   ],
   "Anguila|La Cuarteta 6:00 PM": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "25",
+     "17",
+     "34",
+     "24"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -5009,6 +5026,13 @@
   ],
   "Leidsa|Super Palé": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "20",
+     "08"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "03",
@@ -7336,6 +7360,13 @@
   ],
   "Nacional|Billetes Domingo": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "140908",
+     "109073"
+    ]
+   },
+   {
     "fecha": "2026-10-25",
     "numeros": [
      "235043",
@@ -7707,6 +7738,13 @@
    }
   ],
   "Nacional|Lotería Nacional": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "08",
+     "73"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [

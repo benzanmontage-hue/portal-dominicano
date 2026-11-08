@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-08T17:57:58.220248-04:00",
+  "updated": "2026-11-08T18:18:19.550024-04:00",
   "fecha": "08/11/2026",
-  "hora": "17:57",
+  "hora": "18:18",
   "total_juegos": 53,
   "juegos": [
     {
       "compania": "Nacional",
       "juego": "Billetes Domingo",
       "numeros": [
-        "235043",
-        "351476",
-        "252933"
+        "140908",
+        "109073"
       ],
-      "fecha": "2026-10-25T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d488"
     },
     {
@@ -43,11 +42,10 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "47",
-        "75",
-        "97"
+        "08",
+        "73"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
@@ -277,11 +275,11 @@
       "compania": "Anguila",
       "juego": "Anguila 6:00 PM",
       "numeros": [
-        "30",
-        "00",
-        "49"
+        "03",
+        "84",
+        "42"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d617"
     },
     {
@@ -367,12 +365,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 6:00 PM",
       "numeros": [
-        "89",
-        "39",
-        "30",
-        "58"
+        "25",
+        "17",
+        "34",
+        "24"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d629"
     },
     {
@@ -617,10 +615,10 @@
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "03",
-        "47"
+        "20",
+        "08"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -629,11 +627,10 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "47",
-        "75",
-        "97"
+        "08",
+        "73"
       ],
-      "fecha": "2026-11-07"
+      "fecha": "2026-11-08"
     },
     {
       "compania": "Loteria Real",
