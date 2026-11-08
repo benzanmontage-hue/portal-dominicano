@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T11:50:14.204396-04:00",
-  "hora": "11:50",
+  "updated": "2026-11-08T12:10:31.198983-04:00",
+  "hora": "12:10",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "genoa - milan",
+      "trafico": "100+",
+      "noticia": "Serie A: in campo Genoa-Milan 0-2 DIRETTA",
+      "enlace": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-in-campo-alle-15-genoa-milan-diretta-_cbaae15d-e302-4f11-9083-8a0c99394a64.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd6Tb7C1UO_3HnewG2b8rAOUNOtuSp9nA5sxXL6RoFgXmkdEbCQk4XIreHRY0"
+    },
     {
       "termino": "crystal palace - liverpool",
       "trafico": "200+",
@@ -22,16 +29,16 @@
     {
       "termino": "elche c. f. - real betis",
       "trafico": "2000+",
-      "noticia": "Elche - Betis, en directo | Última hora de LALIGA EA Sports en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/elche-betis/2026/11/08/01_0101_20261108_954_185-directo.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZWgG_PAbkMW5Mm8NkHl5osdy_2LG_nD0Aqv_7J1XBaAdh4ClZ6FWNUFKTueA"
+      "noticia": "¡EN VIVO! Betis visita a Elche para seguir en la zona alta de LaLiga",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17484654/elche-vs-betis-fecha-12-de-laliga-2026-2027-equipo-fecha-hora-y-tv-en-vivo",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjecXsyWyvrOOCBEZxegvDB3b0fNjEn4z8cVa18GZeJdK21TzSTgFDmIDaBDI"
     },
     {
       "termino": "luka dončić",
       "trafico": "200+",
-      "noticia": "Luka Doncic appreciates the comparisons to Lakers legend Kobe Bryant",
-      "enlace": "https://lakersnation.com/lakers-news-luka-doncic-honored-to-be-compared-to-kobe-bryant/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR68-HQUG2FNwU5khV2vQ8JPszRR_eQUcUODJHsZA3q-xU1vwcZMixh2ua01Dw"
+      "noticia": "Is this the best version of Lakers star Luka Doncic we ve ever seen?",
+      "enlace": "https://www.stltoday.com/sports/professional/nba/article_80c4c6d2-1896-5e2d-9336-7d1c05c43917.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw10FbZOt2AlfV7A3oPRp8CcnLK37J4m2ZRecnfnaYXgXahR5SZwPce3RjgzY"
     },
     {
       "termino": "habichuelas con dulce",
@@ -67,13 +74,6 @@
       "noticia": "Judi Dench on an actor s life",
       "enlace": "https://www.cbsnews.com/news/judi-dench-is-it-too-late-to-make-a-run-for-it/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4u3eV8gi-NXHIxEAph9OWOhDxxjbwrRQSiw7YFfCkaj1IKH98mptwYz2Vc0"
-    },
-    {
-      "termino": "tormenta",
-      "trafico": "500+",
-      "noticia": "Inundaciones golpean Florida, Georgia y Tennessee",
-      "enlace": "https://vix.com/es-es/detail/video-5008410",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQMco2MXvEZ4FvtxzNa8D_-1XmEb4aTPaD9eOO5l8bmAV56pp3_FhWzS7JqLM"
     }
   ]
 }
