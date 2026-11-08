@@ -1,10 +1,38 @@
 {
-  "updated": "2026-11-08T18:38:44.651636-04:00",
-  "hora": "18:38",
+  "updated": "2026-11-08T18:59:04.038793-04:00",
+  "hora": "18:59",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pistons - lakers",
+      "trafico": "500+",
+      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+    },
+    {
+      "termino": "lotería nacional",
+      "trafico": "5000+",
+      "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 5 de noviembre, en directo",
+      "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-05/comprobar-loteria-nacional-jueves-resultados-directo_4459866/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
+    },
+    {
+      "termino": "números ganadores de hoy",
+      "trafico": "1000+",
+      "noticia": "Resultados del Powerball hoy, 4 de noviembre: números ganadores y premios del sorteo",
+      "enlace": "https://as.com/us/actualidad/resultados-del-powerball-hoy-4-de-noviembre-numeros-ganadores-y-premios-del-sorteo-f202611-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
+    },
+    {
+      "termino": "lotería de hoy",
+      "trafico": "500+",
+      "noticia": "Comprobar Lotería Nacional hoy, en directo: resultados, números, décimo ganador y premios del sorteo del sá...",
+      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-directo-comprobar-resultados-sorteo-extraordinario-sabado-20261107104644-di.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4FaZVStYuw7pWvgbn2tMHRFKNEs2FywmTA_QRIkb_5vImlAHxbc6DIHqXA"
+    },
     {
       "termino": "posiciones de atlético de madrid contra fc barcelona",
       "trafico": "1000+",
@@ -20,7 +48,7 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9qTdFEnOW5OUj_0iOvv10GWCddpc1Ij7CCbzaJWEy-ByQ7iuMsgkf8RaIT-w"
     },
     {
-      "termino": "atlético madrid vs. barcelona",
+      "termino": "barcelona vs atlético madrid",
       "trafico": "200+",
       "noticia": "Fuera dudas",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248077/fuera-dudas.html",
@@ -46,34 +74,6 @@
       "noticia": "Sixers seek offensive rhythm against reeling Bulls",
       "enlace": "https://www.cbssports.com/nba/news/sixers-seek-offensive-rhythm-against-reeling-bulls/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
-    },
-    {
-      "termino": "villarreal - getafe",
-      "trafico": "100+",
-      "noticia": "Villarreal v Getafe (08/11/2026)",
-      "enlace": "https://www.flashscore.com/match/football/getafe-dboeiWOt/villarreal-lUatW5jE/standings/live-standings/?mid=xts7rDX9",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38PTPqrckhIV10OCa1l6qogPhnjba9OmFywh33QY2ipG36p8B_w1n2ApVAus"
-    },
-    {
-      "termino": "atlético madrid - barcelona",
-      "trafico": "10000+",
-      "noticia": "El Barça ni  necesita  a Raphinha y Lamine",
-      "enlace": "https://www.marca.com/futbol/atletico/2026/11/08/barca-necesita-raphinha-lamine.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3tUj4Q3ueSpgN5-IlUm7MsU7Oe6GssGcyec4y0U9g4tMDaMKGDSxLLB198cE"
-    },
-    {
-      "termino": "inter - como",
-      "trafico": "500+",
-      "noticia": "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/emocionante-minuto-silencio-inter-homenaje-171600478.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnRi6Vpuo1e6ZY1l8p091KepwGBsnek9PecHxkdONqeZKCbeWrLDq81i1Q8wU"
-    },
-    {
-      "termino": "la suerte",
-      "trafico": "500+",
-      "noticia": "Nacho Correa, director de  La ruleta de la suerte , sobre las críticas a la música y la banda del programa:  Lleva miles de canciones, más de 6.000 versiones ha hecho seguro",
-      "enlace": "https://www.elperiodico.com/cuore/famosos/2026/11/08/nacho-correa-director-ruleta-suerte-136223906",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O5IoJUw8jYgRYq4HcB4bkgjFm4pTMKGvNesk6t2UGfzpvauLBHdFFXhjEhQ"
     }
   ]
 }
