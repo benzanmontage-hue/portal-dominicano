@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T19:42:25-04:00",
+ "actualizado": "2026-11-07T20:02:44-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -1730,6 +1730,14 @@
    }
   ],
   "Anguila|Anguila 8:00 PM": [
+   {
+    "fecha": "2026-11-07",
+    "numeros": [
+     "95",
+     "15",
+     "85"
+    ]
+   },
    {
     "fecha": "2026-11-06",
     "numeros": [
@@ -5605,6 +5613,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-11-07",
+    "numeros": [
+     "46",
+     "95",
+     "20",
+     "88",
+     "27"
+    ]
+   },
+   {
     "fecha": "2026-11-06",
     "numeros": [
      "54",
@@ -5776,6 +5794,14 @@
    }
   ],
   "Loteria Real|Lotería Real Noche": [
+   {
+    "fecha": "2026-11-07",
+    "numeros": [
+     "60",
+     "12",
+     "75"
+    ]
+   },
    {
     "fecha": "2026-11-06",
     "numeros": [
@@ -6078,6 +6104,15 @@
    }
   ],
   "Loteria Real|Loto Pool Noche": [
+   {
+    "fecha": "2026-11-07",
+    "numeros": [
+     "81",
+     "49",
+     "30",
+     "48"
+    ]
+   },
    {
     "fecha": "2026-11-06",
     "numeros": [
@@ -6615,6 +6650,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-11-07",
+    "numeros": [
+     "11"
+    ]
+   },
    {
     "fecha": "2026-11-06",
     "numeros": [

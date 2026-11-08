@@ -1,23 +1,44 @@
 {
-  "updated": "2026-11-07T19:42:20.448354-04:00",
-  "hora": "19:42",
+  "updated": "2026-11-07T20:02:38.859671-04:00",
+  "hora": "20:02",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "ufc",
+      "trafico": "100+",
+      "noticia": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
+      "enlace": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-BiLphEDyNGFDkMXdkbMk0wwjm5v5ZlVIIaobyRo6-JPVILKfV5M-BSdbDUM"
+    },
+    {
+      "termino": "posiciones de inter miami contra charlotte fc",
+      "trafico": "200+",
+      "noticia": "¿Cómo quedó Inter Miami - Charlotte? Cronología, goles y marcador del partido de Messi en MLS 2026",
+      "enlace": "https://as.com/us/futbol/inter-miami-charlotte-en-vivo-resultado-de-messi-hoy-y-goles-de-mls-2026-en-directo-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYddGwXcyI-XME7BoJyb4mgmSkGkfGts4ltzFcN-DlB6NXgvW3703iHC7Wp6U"
+    },
+    {
+      "termino": "juego de hoy lidom",
+      "trafico": "100+",
+      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
+      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
+    },
+    {
       "termino": "posiciones de valencia c. f. contra real madrid",
       "trafico": "2000+",
-      "noticia": "Valencia vs Real Madrid: Spanish La Liga stats   head-to-head",
+      "noticia": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
       "enlace": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpVQj-tIHJQ9JrxAW_Hs5SJP6G4WvGcj9vlPBVJtiwCtTE_iQlKOs2AfFG-Y"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZve0Pg3E-5YmEEUD3R134WZNow1xbtEMceC7R0eI1XRWNiuGp1rpi1Yrd3I"
     },
     {
       "termino": "pacers - nuggets",
       "trafico": "500+",
-      "noticia": "Final Injury Report for Nuggets-Pacers: Will DeMar DeRozan, T.J. McConnell Play?",
-      "enlace": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pacers-180000090.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENjkDz1mAxWuVs0L_ZYDla5GTapLll0pvTTTVBcsJpJU64OMqmaC6LZN4ey0"
+      "noticia": "Nikola Jokic, Nuggets face Pacers in Mexico City",
+      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-face-pacers-in-mexico-city/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
       "termino": "boca juniors - defensa y justicia",
@@ -53,27 +74,6 @@
       "noticia": "Nuggets vs. Pacers (Nov 7, 2026) Live Odds, Player Props, and more",
       "enlace": "https://www.espn.com/nba/odds/_/gameId/401909938",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3068eUQGos_cJSjML_WJrru7R-bbe5GMod5qHvHYVhXoHYzkP4c-HSi9Y1d8"
-    },
-    {
-      "termino": "psg - troyes",
-      "trafico": "1000+",
-      "noticia": "Une nuit digne de l ère du Barça : Enrique égale son meilleur record et vise l exploit de Blanc",
-      "enlace": "https://www.goal.com/fr/news/une-nuit-digne-de-l-ere-du-barca-enrique-egale-son-meilleur-record-et-vise-l-exploit-de-blanc/blt5b400e707499b241",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFpdM5uvrkqowgFpWwb_owiZ8B1Z-r8FmZ7_3wxz4IqJA4hSLzsAOrxr54kSw"
-    },
-    {
-      "termino": "powerball",
-      "trafico": "500+",
-      "noticia": "$847M Powerball winner may stay anonymous forever thanks to New Jersey exception",
-      "enlace": "https://nypost.com/2026/11/06/us-news/847m-powerball-winner-may-stay-anonymous-forever-thanks-to-rare-new-jersey-exception/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlypBOrClXnRGXOXCBuscimsb2ysfnvNzcalbpNkmfDIo7Fwc_qsWfrcFZ1X8"
-    },
-    {
-      "termino": "valencia c. f. - real madrid",
-      "trafico": "10000+",
-      "noticia": "Valencia 0-3 Real Madrid: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkj6rVGi6TeuyrvbFpsFJh1ac_irPGuZszHeADRZa0Ixmh0Bc0OBWgC0qGcCg"
     }
   ]
 }
