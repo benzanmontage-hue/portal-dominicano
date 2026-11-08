@@ -1,10 +1,31 @@
 {
-  "updated": "2026-11-08T07:30:25.963809-04:00",
-  "hora": "07:30",
+  "updated": "2026-11-08T07:50:50.665277-04:00",
+  "hora": "07:50",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "habichuelas con dulce",
+      "trafico": "100+",
+      "noticia": "Gobierno cancela la licitación de RD$630 millones para habichuelas con dulce",
+      "enlace": "https://listindiario.com/la-republica/gobierno/20261106/gobierno-cancela-licitacion-rd-630-millones-habichuelas-dulce_929166.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4TGDJlKfzUBQ2oPz2y6GlJqi6ELVRiifxVsMxlO4mjW9FbYQQU9Hk3wM-HPw"
+    },
+    {
+      "termino": "san diego padres",
+      "trafico": "100+",
+      "noticia": "Padres  Adrian Morejon to Dodgers? One MLB Insider Thinks So",
+      "enlace": "https://sports.yahoo.com/articles/padres-adrian-morejon-dodgers-one-193002508.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRz6wFjC-zTkVahsvf9yiashMhuFyYnciAOJkFp6AFfu8d3yOWin-mq-V9c6pU"
+    },
+    {
+      "termino": "bandera blanca",
+      "trafico": "100+",
+      "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
+    },
     {
       "termino": "diario libre",
       "trafico": "200+",
@@ -53,27 +74,6 @@
       "noticia": "Actor who appeared on ‘House’ and ‘Bones’ dies at 47",
       "enlace": "https://www.cleveland.com/entertainment/2026/11/beloved-tv-actor-dies-at-47.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQalpXkVUH0fNyOqWeX68_S8AnNw-uRvoMFLs8hU-k6j-TIYWafNns0q4ME2ok"
-    },
-    {
-      "termino": "suns - rockets",
-      "trafico": "200+",
-      "noticia": "Rockets look to fix fourth-quarter collapses in visit to Suns",
-      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-fix-fourth-quarter-collapses-in-visit-to-suns/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
-    },
-    {
-      "termino": "thunder - wizards",
-      "trafico": "200+",
-      "noticia": "Wizards Thunder Basketball",
-      "enlace": "https://www.couriernews.com/sports/wizards-thunder-basketball/image_41016790-fb9a-5337-ae25-1a2f251b82e2.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq2yMr5usvflFULRIjpDal6j2UYWDZSiLU6Fgx7_6p4les1Ey6C-zANu3bzdU"
-    },
-    {
-      "termino": "hawks - nets",
-      "trafico": "100+",
-      "noticia": "Orlando Magic vs Golden State Warriors Nov 7, 2026 Play-by-Play",
-      "enlace": "https://www.nba.com/game/orl-vs-gsw-0022600193/play-by-play",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyrkT5mZVT1dujalqxi61QYge8he4zKVyif6UtfGBPPG98JekzFcSr_jfqwf8"
     }
   ]
 }
