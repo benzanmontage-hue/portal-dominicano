@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T20:22:59.646012-04:00",
-  "hora": "20:22",
+  "updated": "2026-11-07T20:43:19.357766-04:00",
+  "hora": "20:43",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "miss universo 2026",
+      "trafico": "100+",
+      "noticia": "Tres candidatas desertan de Miss Universo 2026 a pocas semanas de la competencia",
+      "enlace": "https://listindiario.com/entretenimiento/20261107/tres-candidatas-desertan-miss-universo-2026-pocas-semanas-competencia_929232.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1QpyKLr48aUqYykEOPbF4WVBTcVhNf9-jJL5aycdD3xJgw9b5tyDmW6uEvBg"
+    },
     {
       "termino": "ufc",
       "trafico": "100+",
@@ -50,9 +57,9 @@
     {
       "termino": "boca juniors - defensa y justicia",
       "trafico": "200+",
-      "noticia": "Boca, campeón anual en un final agónico: reviví lo mejor",
-      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-defensa-y-justicia-fecha-16-id770563.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHB4TXjxeAe2-NHMg-k-e65ElfinuE2hF_8iIx9Fgr9Y5owzMFrm9o2XJooQ"
+      "noticia": "¿Qué pasa si Boca empata o pierde ante Defensa y Justicia? Escenarios de la tabla anual 2026",
+      "enlace": "https://www.365scores.com/es/news/que-pasa-si-boca-empata-o-pierde-defensa/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxM2ZpzjADl246GJZuAJza2PM0tIjNUMkjlkYE9XMfWvkA5eyUda_hbYVU-UM"
     },
     {
       "termino": "miss república dominicana",
@@ -64,16 +71,9 @@
     {
       "termino": "inter miami - charlotte fc",
       "trafico": "1000+",
-      "noticia": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC (MLS)",
-      "enlace": "https://onefootball.com/en/video/melhores-momentos-inter-miami-cf-3-x-3-charlotte-fc-mls-43743826",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3W5lugQC4FiTSd2bK_bbQpPOJbbdLe3wifDbBPx4fhXsJwyUb0hcFGYrVCtM"
-    },
-    {
-      "termino": "roma - sassuolo",
-      "trafico": "200+",
-      "noticia": "Roma vs Sassuolo: Italian Serie A - watch",
-      "enlace": "https://www.bbc.com/sport/football/live/ck0e0jz1d907t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW69smDZ4qbI1gZRT3-rbXV2ZOgj5Ahq4CxPtnwQ4SRICYMJ4PLnTxtcCHdkw"
+      "noticia": "Messi s Miami cling to second spot on dramatic final MLS day",
+      "enlace": "https://www.france24.com/en/live-news/20261107-messi-s-miami-cling-to-second-spot-on-dramatic-final-mls-day",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxTCSLTy4srPZQm8_TpscTdnnTerMtkBa_zaYreiTVim2eONuTbJEIVHLaBFE"
     }
   ]
 }
