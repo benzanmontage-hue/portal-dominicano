@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T15:33:45.089380-04:00",
-  "hora": "15:33",
+  "updated": "2026-11-08T15:35:07.273130-04:00",
+  "hora": "15:35",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "villarreal - getafe",
+      "trafico": "100+",
+      "noticia": "Villarreal v Getafe (08/11/2026)",
+      "enlace": "https://www.flashscore.com/match/football/getafe-dboeiWOt/villarreal-lUatW5jE/standings/live-standings/?mid=xts7rDX9",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38PTPqrckhIV10OCa1l6qogPhnjba9OmFywh33QY2ipG36p8B_w1n2ApVAus"
+    },
     {
       "termino": "atlético madrid - barcelona",
       "trafico": "2000+",
@@ -15,9 +22,9 @@
     {
       "termino": "inter - como",
       "trafico": "500+",
-      "noticia": "Serie A | El Inter de Milán supera al Como",
-      "enlace": "https://www.fichajes.com/a7510176768002351225-serie-a-el-inter-de-milan-supera-al-como",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt5BbaMcKd_GHL70l6iaWlmuqglIlKiwCUke_dNs-8y0MWcVoLKswwm6uhOtg"
+      "noticia": "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/emocionante-minuto-silencio-inter-homenaje-171600478.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnRi6Vpuo1e6ZY1l8p091KepwGBsnek9PecHxkdONqeZKCbeWrLDq81i1Q8wU"
     },
     {
       "termino": "la suerte",
@@ -36,9 +43,9 @@
     {
       "termino": "primera de hoy",
       "trafico": "200+",
-      "noticia": "Comunicado oficial | #CulturalPonferradina",
-      "enlace": "https://www.cydleonesa.com/noticias/comunicado-oficial-or-culturalponferradina",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvjCxEU1jzH8UQ_-60FNsHwy8HF7Bdn_1Qk5ufjnXNYkXzCMIQkzsLmecAl9A"
+      "noticia": "Primera RFEF hoy, en directo: resultados y partidos de la jornada 11, grupos 1 y 2, en vivo",
+      "enlace": "https://as.com/futbol/primera-rfef/primera-rfef-hoy-en-directo-resultados-y-partidos-de-la-jornada-11-grupos-1-y-2-en-vivo-f202611-d-2/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYDGeCZKMqWao_3r_H2lRKCgnhUlIRyMk2Gcpl0dI7isPiRzoa0sPcTePYnzE"
     },
     {
       "termino": "manchester united - aston villa",
@@ -57,9 +64,9 @@
     {
       "termino": "crystal palace - liverpool",
       "trafico": "500+",
-      "noticia": "Crystal Palace 1-3 Liverpool: Pierre Sage under pressure as Reds win at Selhurst Park",
-      "enlace": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd1LP3jFoqKNUsfuJnJcNq8oro_AfndEa9Z5wtUp5ZGYUZvVeVgJ5zDc08UEE"
+      "noticia": "Premier League - Crystal Palace v Liverpool",
+      "enlace": "https://www.reutersconnect.com/item/premier-league-crystal-palace-v-liverpool/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgwWkMxREI",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5HGzm7_d-uie8fFbcleLsbRjtw3PeSO8duq5UMFyZmXlGeP0XAQOCo3bW0P8"
     },
     {
       "termino": "sunderland afc - chelsea",
@@ -67,13 +74,6 @@
       "noticia": "Sunderland 1-0 Chelsea: Enzo le Fee penalty gives Regis le Bris  side victory",
       "enlace": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9IBZKv0UuFi3YFw9bC5mHQJ8pGjJuP3Owy6gRI4zEeZ06diE8M8P30KItP0"
-    },
-    {
-      "termino": "elche c. f. - real betis",
-      "trafico": "500+",
-      "noticia": "El Betis ya gana por inercia",
-      "enlace": "https://as.com/futbol/el-betis-ya-gana-por-inercia-f202611-n/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYhqnQWWAuymtU1geODkcEsoPfV-DO70cmgKzZB9nXVgKr9InEoqKQCWCry0"
     }
   ]
 }
