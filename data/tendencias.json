@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-07T21:23:58.891037-04:00",
-  "hora": "21:23",
+  "updated": "2026-11-07T21:44:25.673099-04:00",
+  "hora": "21:44",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "magali febles",
+      "trafico": "500+",
+      "noticia": "Miss Universo dominicana y Magali Febles sufren accidente de tránsito en la Núñez de Cáceres",
+      "enlace": "https://www.diariolibre.com/revista/belleza/2026/11/07/magali-febles-y-melissa-nunez-sufren-accidente-de-transito/3713783",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV37ieI6QHKVV0K8uXWI9gjmk11xhA7BrXD7x0Xn1d_nw6vj-DAXU-Lfb7R1c"
+    },
+    {
       "termino": "warriors - magic",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Surging Warriors look to extend win streak against slumping Magic",
       "enlace": "https://www.cbssports.com/nba/news/surging-warriors-look-to-extend-win-streak-against-slumping-magic/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
@@ -34,13 +41,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-BiLphEDyNGFDkMXdkbMk0wwjm5v5ZlVIIaobyRo6-JPVILKfV5M-BSdbDUM"
     },
     {
-      "termino": "posiciones de inter miami contra charlotte fc",
-      "trafico": "200+",
-      "noticia": "¿Cómo quedó Inter Miami - Charlotte? Cronología, goles y marcador del partido de Messi en MLS 2026",
-      "enlace": "https://as.com/us/futbol/inter-miami-charlotte-en-vivo-resultado-de-messi-hoy-y-goles-de-mls-2026-en-directo-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYddGwXcyI-XME7BoJyb4mgmSkGkfGts4ltzFcN-DlB6NXgvW3703iHC7Wp6U"
-    },
-    {
       "termino": "juego de hoy lidom",
       "trafico": "100+",
       "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
@@ -50,30 +50,30 @@
     {
       "termino": "sentencia",
       "trafico": "200+",
-      "noticia": "Ministerio Público recurrirá en casación sentencia que reduce condenas por caso Operación Gavilán",
-      "enlace": "https://n.com.do/2026/11/06/ministerio-publico-recurrira-en-casacion-sentencia-que-reduce-condenas-por-caso-operacion-gavilan/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVQxzjwttlr_Lsamc0rMTfGMr2RnKWDQkrSZ17yxCg6fD4Oyw6IZzHV2xBPU"
+      "noticia": "Caso Gavilán: tribunal reduce condenas a implicados en borrar fichas penales",
+      "enlace": "https://hoy.com.do/el-pais/caso-gavilan-tribunal-reduce-condenas-absuelve-implicados-borrar-fichas-penales_1107983.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS65Dt60WB8zjjVaAM43_eyPpZzXnOQWiQ0BkWQsziP9Zy6-lv1BO9j_s7RRsE"
     },
     {
       "termino": "posiciones de valencia c. f. contra real madrid",
       "trafico": "2000+",
-      "noticia": "Valencia vs Real Madrid: Spanish La Liga stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpVQj-tIHJQ9JrxAW_Hs5SJP6G4WvGcj9vlPBVJtiwCtTE_iQlKOs2AfFG-Y"
+      "noticia": "Mourinho on Real Madrid s latest win: Happy dressing room -- with horrible music",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8qya0aWMkJn6IamBTKCkYic0UHoKKQdOkGJXaIY0urZmIimuWcR_X6uNqNF4"
     },
     {
       "termino": "pacers - nuggets",
       "trafico": "500+",
-      "noticia": "Nikola Jokic, Nuggets face Pacers in Mexico City",
-      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-face-pacers-in-mexico-city/",
+      "noticia": "Nikola Jokic leads Nuggets past Pacers in Mexico City",
+      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-leads-nuggets-past-pacers-in-mexico-city/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
       "termino": "boca juniors - defensa y justicia",
       "trafico": "200+",
-      "noticia": "¿Qué pasa si Boca empata o pierde ante Defensa y Justicia? Escenarios de la tabla anual 2026",
-      "enlace": "https://www.365scores.com/es/news/que-pasa-si-boca-empata-o-pierde-defensa/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxM2ZpzjADl246GJZuAJza2PM0tIjNUMkjlkYE9XMfWvkA5eyUda_hbYVU-UM"
+      "noticia": "Boca, el nuevo Campeón de Liga: la final a la que clasificó el Xeneize para 2027",
+      "enlace": "https://www.mdzol.com/deportes/2026/11/7/boca-el-nuevo-campeon-de-liga-la-final-a-la-que-clasifico-el-xeneize-para-2027-1993868.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAXF6NSEIWfGbvbtvaFx790HeBXkb-cupZO9ybyGc8kROWgpicJbxomZjLXk"
     }
   ]
 }
