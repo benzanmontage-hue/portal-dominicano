@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T20:02:36.009821-04:00",
+  "updated": "2026-11-07T20:22:56.769468-04:00",
   "fecha": "07/11/2026",
-  "hora": "20:02",
+  "hora": "20:22",
   "total_juegos": 53,
   "juegos": [
     {
@@ -391,22 +391,22 @@
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "95"
+        "74"
       ],
-      "fecha": "2026-11-06T04:00:00.000Z",
+      "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "82",
-        "45",
-        "86",
-        "10",
-        "81"
+        "94",
+        "52",
+        "74",
+        "11",
+        "90"
       ],
-      "fecha": "2026-11-06T04:00:00.000Z",
+      "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -440,11 +440,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "12",
-        "70",
-        "22"
+        "68",
+        "59",
+        "78"
       ],
-      "fecha": "2026-11-06T04:00:00.000Z",
+      "fecha": "2026-11-07T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {

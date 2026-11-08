@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T20:02:38.859671-04:00",
-  "hora": "20:02",
+  "updated": "2026-11-07T20:22:59.646012-04:00",
+  "hora": "20:22",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -27,11 +27,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
     },
     {
+      "termino": "sentencia",
+      "trafico": "100+",
+      "noticia": "Caso Gavilán: tribunal reduce condenas a implicados en borrar fichas penales",
+      "enlace": "https://hoy.com.do/el-pais/caso-gavilan-tribunal-reduce-condenas-absuelve-implicados-borrar-fichas-penales_1107983.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS65Dt60WB8zjjVaAM43_eyPpZzXnOQWiQ0BkWQsziP9Zy6-lv1BO9j_s7RRsE"
+    },
+    {
       "termino": "posiciones de valencia c. f. contra real madrid",
       "trafico": "2000+",
-      "noticia": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
+      "noticia": "Valencia vs Real Madrid: Spanish La Liga stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZve0Pg3E-5YmEEUD3R134WZNow1xbtEMceC7R0eI1XRWNiuGp1rpi1Yrd3I"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpVQj-tIHJQ9JrxAW_Hs5SJP6G4WvGcj9vlPBVJtiwCtTE_iQlKOs2AfFG-Y"
     },
     {
       "termino": "pacers - nuggets",
@@ -43,9 +50,9 @@
     {
       "termino": "boca juniors - defensa y justicia",
       "trafico": "200+",
-      "noticia": "Boca vs. Defensa y Justicia, EN VIVO por el Torneo Clausura: el empate deja sin título al Xeneize",
-      "enlace": "https://www.ole.com.ar/futbol-primera/boca-vs-defensa-justicia-vivo-definicion-tabla-anual-torneo-clausura-dia-hora-ver-tv-online-formaciones_0_EfIz8EeA9U.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPt0V9PRQ8NPTO55lQ19t4gjXFgly4zRO1nw-J6cK7C33l24FIj8X1x726SxI"
+      "noticia": "Boca, campeón anual en un final agónico: reviví lo mejor",
+      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-defensa-y-justicia-fecha-16-id770563.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHB4TXjxeAe2-NHMg-k-e65ElfinuE2hF_8iIx9Fgr9Y5owzMFrm9o2XJooQ"
     },
     {
       "termino": "miss república dominicana",
@@ -57,9 +64,9 @@
     {
       "termino": "inter miami - charlotte fc",
       "trafico": "1000+",
-      "noticia": "MATCH PREVIEW: Inter Miami CF Closes Out 2026 MLS Regular Season with Home Game Against Charlotte FC",
-      "enlace": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-closes-out-2026-mls-regular-season-with-home-game-against-charlotte-fc",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1hU1omHOSVlSytk-X4AtQV-enQptaOTcc41jDMGL0_jQcxe4Oqt843eafYpc"
+      "noticia": "Melhores momentos: Inter Miami CF 3 x 3 Charlotte FC (MLS)",
+      "enlace": "https://onefootball.com/en/video/melhores-momentos-inter-miami-cf-3-x-3-charlotte-fc-mls-43743826",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3W5lugQC4FiTSd2bK_bbQpPOJbbdLe3wifDbBPx4fhXsJwyUb0hcFGYrVCtM"
     },
     {
       "termino": "roma - sassuolo",
@@ -67,13 +74,6 @@
       "noticia": "Roma vs Sassuolo: Italian Serie A - watch",
       "enlace": "https://www.bbc.com/sport/football/live/ck0e0jz1d907t",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW69smDZ4qbI1gZRT3-rbXV2ZOgj5Ahq4CxPtnwQ4SRICYMJ4PLnTxtcCHdkw"
-    },
-    {
-      "termino": "posiciones de nottingham forest contra manchester city",
-      "trafico": "200+",
-      "noticia": "Nuggets vs. Pacers (Nov 7, 2026) Live Odds, Player Props, and more",
-      "enlace": "https://www.espn.com/nba/odds/_/gameId/401909938",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3068eUQGos_cJSjML_WJrru7R-bbe5GMod5qHvHYVhXoHYzkP4c-HSi9Y1d8"
     }
   ]
 }
