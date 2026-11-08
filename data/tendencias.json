@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T21:44:25.673099-04:00",
-  "hora": "21:44",
+  "updated": "2026-11-07T22:04:44.964945-04:00",
+  "hora": "22:04",
   "fecha": "07/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "thunder - wizards",
+      "trafico": "100+",
+      "noticia": "Surging Thunder host Wizards seeking fourth straight win",
+      "enlace": "https://www.cbssports.com/nba/news/surging-thunder-host-wizards-seeking-fourth-straight-win/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+    },
     {
       "termino": "magali febles",
       "trafico": "500+",
@@ -14,14 +21,14 @@
     },
     {
       "termino": "warriors - magic",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Surging Warriors look to extend win streak against slumping Magic",
       "enlace": "https://www.cbssports.com/nba/news/surging-warriors-look-to-extend-win-streak-against-slumping-magic/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
       "termino": "cavaliers - knicks",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Knicks visit Cavaliers in Eastern Conference finals rematch",
       "enlace": "https://www.cbssports.com/nba/news/knicks-visit-cavaliers-in-eastern-conference-finals-rematch/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
@@ -41,6 +48,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-BiLphEDyNGFDkMXdkbMk0wwjm5v5ZlVIIaobyRo6-JPVILKfV5M-BSdbDUM"
     },
     {
+      "termino": "posiciones de inter miami contra charlotte fc",
+      "trafico": "200+",
+      "noticia": "¿Cómo quedó Inter Miami - Charlotte? Cronología, goles y marcador del partido de Messi en MLS 2026",
+      "enlace": "https://as.com/us/futbol/inter-miami-charlotte-en-vivo-resultado-de-messi-hoy-y-goles-de-mls-2026-en-directo-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYddGwXcyI-XME7BoJyb4mgmSkGkfGts4ltzFcN-DlB6NXgvW3703iHC7Wp6U"
+    },
+    {
       "termino": "juego de hoy lidom",
       "trafico": "100+",
       "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
@@ -57,23 +71,9 @@
     {
       "termino": "posiciones de valencia c. f. contra real madrid",
       "trafico": "2000+",
-      "noticia": "Mourinho on Real Madrid s latest win: Happy dressing room -- with horrible music",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8qya0aWMkJn6IamBTKCkYic0UHoKKQdOkGJXaIY0urZmIimuWcR_X6uNqNF4"
-    },
-    {
-      "termino": "pacers - nuggets",
-      "trafico": "500+",
-      "noticia": "Nikola Jokic leads Nuggets past Pacers in Mexico City",
-      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-leads-nuggets-past-pacers-in-mexico-city/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
-    },
-    {
-      "termino": "boca juniors - defensa y justicia",
-      "trafico": "200+",
-      "noticia": "Boca, el nuevo Campeón de Liga: la final a la que clasificó el Xeneize para 2027",
-      "enlace": "https://www.mdzol.com/deportes/2026/11/7/boca-el-nuevo-campeon-de-liga-la-final-a-la-que-clasifico-el-xeneize-para-2027-1993868.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAXF6NSEIWfGbvbtvaFx790HeBXkb-cupZO9ybyGc8kROWgpicJbxomZjLXk"
+      "noticia": "Valencia 0-3 Real Madrid (Nov 7, 2026) Game Analysis",
+      "enlace": "https://www.espn.com/soccer/report/_/gameId/401882808",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1hH7NRsE9FnQ26UdY6kZYCNfqjykI0AGCuFmI6mlhZHbtNpnJ_tzsoyD3Zk"
     }
   ]
 }
