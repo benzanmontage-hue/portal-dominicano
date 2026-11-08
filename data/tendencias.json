@@ -1,41 +1,48 @@
 {
-  "updated": "2026-11-08T08:11:11.434436-04:00",
-  "hora": "08:11",
+  "updated": "2026-11-08T10:28:39.875093-04:00",
+  "hora": "10:28",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "elche c. f. - real betis",
+      "trafico": "1000+",
+      "noticia": "Anselmi sigue buscando al sustituto de Lemar para el Elche - Betis",
+      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/anselmi-sigue-buscando-sustituto-lemar-elche-betis-20261107190055-nts.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOTeHNmK_Ut4BieiZyAjwz8jgPhdf5LHgxnE3bFWN3MiHKY7angBPdVGFD8g"
+    },
+    {
       "termino": "habichuelas con dulce",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "El problema no eran las habichuelas",
       "enlace": "https://elnuevodiario.com.do/el-problema-no-eran-las-habichuelas/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAQzeuoYd-QSCF6sO8qD7iB6BKB4cLycOM4_bxqB-sypo1xFuOevBdeo1nDBU"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0TZCnyOV0BM83TInpZZrmUUWY9DRxz3TSP1YM1oGqoSby0ZJaZHLH-MHjKhE"
     },
     {
       "termino": "san diego padres",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Padres  Adrian Morejon to Dodgers? One MLB Insider Thinks So",
       "enlace": "https://sports.yahoo.com/articles/padres-adrian-morejon-dodgers-one-193002508.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRz6wFjC-zTkVahsvf9yiashMhuFyYnciAOJkFp6AFfu8d3yOWin-mq-V9c6pU"
     },
     {
       "termino": "bandera blanca",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
       "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
     },
     {
       "termino": "diario libre",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "trafico": "1000+",
+      "noticia": "La ilusión de una vivienda propia que terminó en tragedia en menos de 24 horas",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/08/explosion-en-apartamento-por-gas-deja-a-familia-con-quemaduras/3714307",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjI9rSKgIIY-o_FZmtuvVZbaWj42ltZ9h11-JDiH5k5H_N3nwVtyB_vrEbOKU"
     },
     {
       "termino": "actor",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "This actor is starring in the biggest film of his career. He’s also fighting deportation",
       "enlace": "https://www.cnn.com/2026/11/07/us/laith-nakli-your-mother-movie-immigration",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIZm0a2ERQ4nksX9sNKSGUkQKH-8tDPS8F33Jxr_jRBvClte6MrB8if-o5Ik"
@@ -43,9 +50,9 @@
     {
       "termino": "tormenta",
       "trafico": "500+",
-      "noticia": "Tormenta In-fa provoca lluvias récord y evacuaciones en el este de Japón",
-      "enlace": "https://www.prensalibre.com/ahora/guatemala/sucesos/tormenta-in-fa-provoca-lluvias-record-y-evacuaciones-en-el-este-de-japon/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1wIQnEeUIWLoiP-L1Ry3KvqbzV35LxkOMZgbVgKADOob5kFdDQvtVWPi6S50"
+      "noticia": "Transmisión en vivo capta el momento en el que un tanque de propano explota durante las inundaciones en Georgia",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/05/eeuu/video/tanque-de-propano-explota-transmision-vivo-georgia-trax",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngi-M3_T_rClrr4LEmy2_FyXfZSIIEOGT-Kow4WwHCvT1DoqEOQHCU2EZ1tk"
     },
     {
       "termino": "franz wagner",
@@ -55,13 +62,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO2gIlbKeOST0hk5zgkyy1X151zujiTeB4V8AYFwSnt-Vfd5CebvbiQL7bgbk"
     },
     {
-      "termino": "trail blazers - spurs",
-      "trafico": "500+",
-      "noticia": "NBA basketball: Portland loses at home to San Antonio, 15 points for Avdija",
-      "enlace": "https://www.ynetnews.com/article/ef7lpqnk6",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSabN9G7_0Edttb-IQ0d97cYhekhzvkKX5cXwtO9b2sBJkC3Ujm1N7xkbJDzBk"
-    },
-    {
       "termino": "charles porter",
       "trafico": "200+",
       "noticia": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlXcBP_otjYdPf00wqyWgDPifq0arEckNnZxB_GlrdasK-uURanuvCkDlZC4"
     },
     {
-      "termino": "suns - rockets",
-      "trafico": "200+",
-      "noticia": "Rockets look to fix fourth-quarter collapses in visit to Suns",
-      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-fix-fourth-quarter-collapses-in-visit-to-suns/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+      "termino": "trail blazers - spurs",
+      "trafico": "500+",
+      "noticia": "Spurs chase eighth straight win against 6-2 Trail Blazers — Trail Blazers Vs Spurs preview",
+      "enlace": "https://twaslnews1.twaslnews.com/7291590/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM_rXOnL0NNjhAclsJ9VW50b1wUxcw-vEBX0FDWqCaIo4WZ8q9MVh-fvXW--g"
     }
   ]
 }
