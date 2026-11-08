@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-07T23:27:38.237585-04:00",
-  "hora": "23:27",
+  "updated": "2026-11-07T23:47:57.500714-04:00",
+  "hora": "23:47",
   "fecha": "07/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "\"Íbamos a cumplir 11 años juntos\", habla esposo de estilista dominicana asesinada en Filadelfia - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVlJ5VU96NmluTnBDcHNJX0N0eXphQ1E4STdMX296a2RFRlpyZ1l6c0xrdXRKMEd6U2tseEh0OW0ydjZxSnBsV3NUY25sRFpQRm1udGhXcFlTNnpMbk96aUd2MDIzRlRwbVRwUFFkN28wUjBHRUIwSTJCRmJCV2V6YktGaUsxY1pOQk1OUGRSSkNyUW5acVdybXdTWnFVSzhpbmlHMFBtY2c1X0w1cjFvQTUyMWxfVWh5THJvVng3TjBIZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 08 Nov 2026 01:21:31 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "Católicos dominicanos dan el último adiós al obispo Jesús María de Jesús Moya - EWTN News",
       "fuente": "EWTN News",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 07 Nov 2026 05:23:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Miss Universe República Dominicana 2026 sufre accidente: el auto en el que viajaba volcó - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd09CYVBrbzFlaUFOTmc5b1J5UDFOQmtQNHhMMWMycnRuYXpuNHNBX21CZkh6UGhtZ05VSEtsRlJCYnVIdU5QQ1dqWVowWEZJaDRIOXhWVlQ4d1RHdENGYlh1bnZNc1FiQWpNcjVPbEJEUEtUNS1WWlZDMEstQTFtYm5yTUVhM2dnM0stU0N6bHJrX0E1RktoMS1CVDhJQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 07 Nov 2026 19:46:14 GMT",
+      "imagen": "https://www.univision.com/api/image/og/us/famosos/miss-universe-republica-dominicana-2026-accidente-melissa-nunez"
     },
     {
       "titulo": "Miss República Dominicana perdió el conocimiento tras accidente de tránsito - Primera Hora",
@@ -93,14 +93,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Miss Universe República Dominicana 2026 sufre accidente: el auto en el que viajaba volcó - Univision",
-      "fuente": "Univision",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd09CYVBrbzFlaUFOTmc5b1J5UDFOQmtQNHhMMWMycnRuYXpuNHNBX21CZkh6UGhtZ05VSEtsRlJCYnVIdU5QQ1dqWVowWEZJaDRIOXhWVlQ4d1RHdENGYlh1bnZNc1FiQWpNcjVPbEJEUEtUNS1WWlZDMEstQTFtYm5yTUVhM2dnM0stU0N6bHJrX0E1RktoMS1CVDhJQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 07 Nov 2026 19:45:42 GMT",
-      "imagen": "https://www.univision.com/api/image/og/us/famosos/miss-universe-republica-dominicana-2026-accidente-melissa-nunez"
-    },
-    {
       "titulo": "Revelan detalles de salud de Miss República Dominicana y Magali Febles tras accidente de tránsito - Primera Hora",
       "fuente": "Primera Hora",
       "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRFRQQ2FfdnEzdmhtUDdsMGVYSVMwVUZNOEVYTEQ1V2JQaUhNVDBNeWhFYmdjNXVrbXhBS0JLVWdweGJsaGhySWtIZTNBSENneG5vZGVZeFNTTmRFMy1PaEN1eTdBM2NxUmVNZTNyazRsc0FKbTFLZWRUQktzeWxQR2NzZlZua2pVeUFqNElnSHlWWER5YlItRF95aVhwQ0FZczRmNmVfRDJTOHFmSml1NkJOZm9QLWpUc1Q4WW5HcGpsSHowMmFDWEh5REdPc3ludnh0Q0syTVhoLTVHMFdwTFMycUJaRjhrREpZM3JrV2VjZnVReGc?oc=5",
@@ -123,6 +115,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 07 Nov 2026 12:42:06 GMT",
       "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/892790741_1137745588904366_2031495891303423870_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Gd6DLBJkYioQ7kNvwFn6LPO&_nc_oc=AdrEATARz3VN8J7LvBLdbh8frdIFDJJOxnjl6StIhvFlBXCKOZilMrY9K98oS1-ShmE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=a5bE7s5kym-aVROERAygXw&_nc_ss=7c689&oh=00_AQSZS7neHitYZf4U2qrCieV9l-bYTugyFkty0OHSYBGJYw&oe=6AF535E6"
+    },
+    {
+      "titulo": "“Estamos vivas”: Magali Febles cuenta cómo ocurrió el accidente junto a Miss Universe República Dominicana - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNFA0ZkdoV1V4RUE2OHFRbFUxcjFPTUtNcV9UenZZLTVFclNFN3MwMVJyVWNPRXRPN1BCYk5CVzR6NkgwTkNKX2RtamZtNFBDdXoyN0xBXzZQM19LZEhSTUt0VEY4UU91bWwyLW81dHFCX2E0NFB6Rnh2UG81TmRUUGJyVDdPeS1XQVJhZHFoNWJpbWc1M05wWjd4dVBaNi1tMzRydXZuV0JnUUU4bnhiY2M0VDFXUVlKMHhEU2tNRll3di0xdFZYT1N6UkpYMjlUY1pRQ3R4WFNwRTRRZlZPTkdkakc3VmxuSDA4dmJIYmN1azZiTnlZTHV5Z3FLbUo3SGZoc2ZmU0o?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 07 Nov 2026 20:02:00 GMT",
+      "imagen": ""
     }
   ]
 }
