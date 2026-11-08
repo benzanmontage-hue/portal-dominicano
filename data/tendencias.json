@@ -1,37 +1,58 @@
 {
-  "updated": "2026-11-08T12:30:49.245242-04:00",
-  "hora": "12:30",
+  "updated": "2026-11-08T12:51:07.590531-04:00",
+  "hora": "12:51",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "manchester united - aston villa",
+      "termino": "barcelona - madrid",
+      "trafico": "100+",
+      "noticia": "Simeone respalda a Julián Álvarez antes de enfrentar al Barcelona",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17488300/julian-alvarez-atletico-vs-barcelona-laliga-simeone",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIn5ztTwMVmF2IZ_2ZbunjlHFbIWnf4A24_hpuYqq-Zkv4SGcFaZpSGHxR17c"
+    },
+    {
+      "termino": "la primera",
+      "trafico": "1000+",
+      "noticia": "Magistrada Sonia Espejo se convierte en la primera doctora en Negociación y Mediación de RD",
+      "enlace": "https://elnuevodiario.com.do/magistrada-sonia-espejo-se-convierte-en-la-primera-doctora-en-negociacion-y-mediacion-de-rd/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ElVGyZRcDKRvxjs0_mpmxseXI_qKxXO2kFX6umnEGI99PS7-azhqbDtYak4"
+    },
+    {
+      "termino": "primera de hoy",
       "trafico": "200+",
-      "noticia": "Carrick selects side to face Aston Villa",
-      "enlace": "https://www.manutd.com/en/news/michael-carrick-selects-man-united-side-to-face-aston-villa",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5mIcp3GfGDUxzPeJ5ShlDBGQyFKU1-tDBm1vx1CLAym-vDDr1HSEfQGN9va0"
+      "noticia": "Comunicado oficial | #CulturalPonferradina",
+      "enlace": "https://www.cydleonesa.com/noticias/comunicado-oficial-or-culturalponferradina",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvjCxEU1jzH8UQ_-60FNsHwy8HF7Bdn_1Qk5ufjnXNYkXzCMIQkzsLmecAl9A"
+    },
+    {
+      "termino": "manchester united - aston villa",
+      "trafico": "500+",
+      "noticia": "Manchester United v Aston Villa: Premier League – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwYPLI570G3I0_KY5y-KcYz7UNidYgJl3bhXkz3skO9-QBMGg3MD9OqnC7Acg"
     },
     {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Genoa-AC Milan 1-2, Serie A Enilive 2026/2027: match report",
-      "enlace": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-08/reazione-milan-2-1-a-genova",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx-7p60X7V3ayGVSIVGNA6cdDKJFfEcsht2L15L2WhnkTPdfHtBhif9T9cIEI"
+      "noticia": "Cisse, gol e pause, Ramos azzecca solo l assist. Pulisic ha il merito del raddoppio",
+      "enlace": "https://www.sportmediaset.mediaset.it/calcio/cisse-gol-e-pause-ramos-azzecca-solo-l-assist-pulisic-ha-il-merito-del-raddoppio_118751398-202602k.shtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHmCncnsBREhWubStzPPWo-8PGmMNXtddUcu53lBhmzG_1cwWOeQ71lIIf-aU"
     },
     {
       "termino": "crystal palace - liverpool",
       "trafico": "200+",
-      "noticia": "Team news: Confirmed Liverpool line-up v Crystal Palace",
-      "enlace": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-crystal-palace",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSksKYe_LweAQLhgPx6so3rQ42ZRLl2Xy_DQCrdmUC0WMHpXuMm3w-0gnDCk84"
+      "noticia": "Crystal Palace vs Liverpool: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUb5VYLX7aI9pmcoxvKGgONZxymkqFkvImYxK1A6FfBIXnYzPGFc_GIruINto"
     },
     {
       "termino": "sunderland afc - chelsea",
       "trafico": "200+",
-      "noticia": "Chelsea fans’ preferred lineup against Sunderland: Depend on de Penders",
-      "enlace": "https://weaintgotnohistory.sbnation.com/premier-league/173839/chelsea-fans-preferred-lineup-against-sunderland-depend-on-de-penders",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0iiMm50q9nikK3IKSyLMwILV2CsSJ2e07_cAtLRjZuapn4csd3U9WfTaSmtQ"
+      "noticia": "Sunderland stun Chelsea as Le Fée’s penalty breathes life into Black Cats",
+      "enlace": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw7LZb0yPz4R7UIlPzNsdKCtGNgBJUufwGHdPYquOmjcCfzaZiw2R_LxZfpLY"
     },
     {
       "termino": "elche c. f. - real betis",
@@ -53,27 +74,6 @@
       "noticia": "El problema no eran las habichuelas",
       "enlace": "https://elnuevodiario.com.do/el-problema-no-eran-las-habichuelas/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0TZCnyOV0BM83TInpZZrmUUWY9DRxz3TSP1YM1oGqoSby0ZJaZHLH-MHjKhE"
-    },
-    {
-      "termino": "san diego padres",
-      "trafico": "500+",
-      "noticia": "Padres  Adrian Morejon to Dodgers? One MLB Insider Thinks So",
-      "enlace": "https://sports.yahoo.com/articles/padres-adrian-morejon-dodgers-one-193002508.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRz6wFjC-zTkVahsvf9yiashMhuFyYnciAOJkFp6AFfu8d3yOWin-mq-V9c6pU"
-    },
-    {
-      "termino": "bandera blanca",
-      "trafico": "500+",
-      "noticia": "¿Puede la ONU negociar con las bandas de Haití? Precedentes que desafían la propuesta de 400 Mawozo",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/06/puede-la-onu-negociar-con-las-bandas-de-haiti/3713472",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "1000+",
-      "noticia": "La ilusión de una vivienda propia que terminó en tragedia en menos de 24 horas",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/08/explosion-en-apartamento-por-gas-deja-a-familia-con-quemaduras/3714307",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjI9rSKgIIY-o_FZmtuvVZbaWj42ltZ9h11-JDiH5k5H_N3nwVtyB_vrEbOKU"
     }
   ]
 }
