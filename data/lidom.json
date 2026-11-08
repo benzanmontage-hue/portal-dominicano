@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:19:36-04:00",
+ "updated": "2026-11-08T19:39:54-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -30,11 +30,11 @@
   {
    "id": 670,
    "equipo": "Gigantes",
-   "g": 8,
+   "g": 9,
    "p": 9,
-   "pct": ".471",
-   "dif": "-0.5",
-   "racha": "L1",
+   "pct": ".500",
+   "dif": "-1.0",
+   "racha": "W1",
    "pos": 3,
    "nombre": "Gigantes del Cibao"
   },
@@ -50,17 +50,6 @@
    "nombre": "Estrellas Orientales"
   },
   {
-   "id": 667,
-   "equipo": "Aguilas",
-   "g": 6,
-   "p": 10,
-   "pct": ".375",
-   "dif": "1.0",
-   "racha": "W2",
-   "pos": 5,
-   "nombre": "Aguilas Cibaenas"
-  },
-  {
    "id": 668,
    "equipo": "Toros",
    "g": 6,
@@ -68,8 +57,19 @@
    "pct": ".353",
    "dif": "1.5",
    "racha": "L1",
-   "pos": 6,
+   "pos": 5,
    "nombre": "Toros del Este"
+  },
+  {
+   "id": 667,
+   "equipo": "Aguilas",
+   "g": 6,
+   "p": 11,
+   "pct": ".353",
+   "dif": "1.5",
+   "racha": "L1",
+   "pos": 6,
+   "nombre": "Aguilas Cibaenas"
   }
  ],
  "juegos": [
@@ -452,14 +452,14 @@
    "id": 851497,
    "fecha": "2026-11-08",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "Delayed",
+   "estado": "Final",
+   "detalle": "Completed Early",
    "visitante": "Aguilas Cibaenas",
    "visitante_id": 667,
-   "carreras_v": null,
+   "carreras_v": 0,
    "local": "Gigantes del Cibao",
    "local_id": 670,
-   "carreras_l": null,
+   "carreras_l": 3,
    "estadio": "Estadio Julian Javier",
    "serie": "Regular Season"
   },

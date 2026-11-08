@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-08T19:19:27.470682-04:00",
-  "hora": "19:19",
+  "updated": "2026-11-08T19:39:51.219901-04:00",
+  "hora": "19:39",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "pistons - lakers",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
@@ -27,15 +27,22 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
     },
     {
+      "termino": "lotería de hoy",
+      "trafico": "1000+",
+      "noticia": "Lotería Nacional: comprobar resultados del Sorteo Extraordinario de la Cultura hoy, sábado 7 de noviembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-resultados-del-sorteo-extraordinario-de-la-cultura-hoy-sabado-7-de-noviembre-f202611-n/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-bkJuumEzZ1midRSw-5ZpbPM7vAyI6q-Rouwmr5i9FxRJ8xVewdMp6TrNzg"
+    },
+    {
       "termino": "posiciones de atlético de madrid contra fc barcelona",
       "trafico": "1000+",
-      "noticia": "Atletico Madrid 1-2 Barcelona: Fermin double sees leaders come from behind to beat Atletico",
-      "enlace": "https://www.bbc.com/sport/football/live/cm4g1jlw7vqlt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxAG41JBXTbQl2hhQYDLb0M-9CL_FTK2iL-EjMcvD98XWGWeFh7aMHpCfo7o"
+      "noticia": "Moreno: Barcelona showed they can win ugly vs. Atlético Madrid",
+      "enlace": "https://www.espn.com/video/clip/_/id/50426229/barcelona-showed-win-ugly-vs-atletico-madrid",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv9-H5I_XFFZ54HsZjf430A-yrLJklYnVBKpRW-pVrTat2uhCiE185lwKL8AY"
     },
     {
       "termino": "classement atlético madrid – fc barcelone",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "12e journée de Liga : Suivez Atlético de Madrid – FC Barcelone EN DIRECT",
       "enlace": "https://www.eurosport.fr/football/la-liga/2026-2027/live-atletico-de-madrid-fc-barcelone_mtc21891305/live-commentary.shtml",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9qTdFEnOW5OUj_0iOvv10GWCddpc1Ij7CCbzaJWEy-ByQ7iuMsgkf8RaIT-w"
@@ -57,23 +64,16 @@
     {
       "termino": "bulls - 76ers",
       "trafico": "2000+",
-      "noticia": "Sixers seek offensive rhythm against reeling Bulls",
-      "enlace": "https://www.cbssports.com/nba/news/sixers-seek-offensive-rhythm-against-reeling-bulls/",
+      "noticia": "Jaylen Brown, 76ers hold off Bulls for best start since 2000-01",
+      "enlace": "https://www.cbssports.com/nba/news/jaylen-brown-76ers-hold-off-bulls-for-best-start-since-2000-01/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
-      "termino": "villarreal - getafe",
-      "trafico": "100+",
-      "noticia": "Villarreal v Getafe (08/11/2026)",
-      "enlace": "https://www.flashscore.com/match/football/getafe-dboeiWOt/villarreal-lUatW5jE/standings/live-standings/?mid=xts7rDX9",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38PTPqrckhIV10OCa1l6qogPhnjba9OmFywh33QY2ipG36p8B_w1n2ApVAus"
-    },
-    {
-      "termino": "atlético madrid - barcelona",
-      "trafico": "10000+",
-      "noticia": "Atlético de Madrid 1-2 Barcelona: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/atletico-barcelona-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQ5IN8a3jfn35HQ5iHJgQrcSfE-eA7BpmmsYLIhZfXdc5rRYOt-Z3Vy_6OMU"
+      "termino": "barca",
+      "trafico": "200+",
+      "noticia": "Atletico, che botta! A Madrid passa il Barca, decide Fermìn. E Yamal dà spettacolo",
+      "enlace": "https://www.gazzetta.it/Calcio/Liga/08-11-2026/atletico-che-botta-a-madrid-passa-il-barca-decide-una-doppietta-di-fermin-e-yamal.shtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSziuQ-i00SXUja7cKnMpTQeRSHbaXJiw7l9jtNcHz7VohIaxOyPjzn_E0UiMI"
     }
   ]
 }
