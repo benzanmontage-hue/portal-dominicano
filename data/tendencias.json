@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-07T23:47:55.720351-04:00",
-  "hora": "23:47",
-  "fecha": "07/11/2026",
+  "updated": "2026-11-08T00:08:14.658310-04:00",
+  "hora": "00:08",
+  "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "franz wagner",
+      "trafico": "100+",
+      "noticia": "Wagner delivering mixed bag in Banchero s absence",
+      "enlace": "https://www.nbcsports.com/watch/nba/franz-wagner-delivering-mixed-bag-in-paolo-bancheros-absence",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwO3MJb8d8yN-y8aiHtzPmI4QHiStCN6hqPcx0BD52b1O9QOulKyVONwAeQBc"
+    },
     {
       "termino": "trail blazers - spurs",
       "trafico": "200+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "suns - rockets",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Rockets look to fix fourth-quarter collapses in visit to Suns",
       "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-fix-fourth-quarter-collapses-in-visit-to-suns/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
@@ -29,8 +36,15 @@
     {
       "termino": "thunder - wizards",
       "trafico": "200+",
-      "noticia": "Surging Thunder host Wizards seeking fourth straight win",
-      "enlace": "https://www.cbssports.com/nba/news/surging-thunder-host-wizards-seeking-fourth-straight-win/",
+      "noticia": "Thunder hold Wizards to NBA season-low 75 points in 39-point rout",
+      "enlace": "https://www.cbssports.com/nba/news/thunder-hold-wizards-to-nba-season-low-75-points-in-39-point-rout/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
+    },
+    {
+      "termino": "hawks - nets",
+      "trafico": "100+",
+      "noticia": "Jalen Johnson scores 30 in return as Hawks rally past Nets",
+      "enlace": "https://www.cbssports.com/nba/news/jalen-johnson-scores-30-in-return-as-hawks-rally-past-nets/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
@@ -50,8 +64,8 @@
     {
       "termino": "cavaliers - knicks",
       "trafico": "500+",
-      "noticia": "Knicks visit Cavaliers in Eastern Conference finals rematch",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-visit-cavaliers-in-eastern-conference-finals-rematch/",
+      "noticia": "Jalen Brunson scores 31 as Knicks hold off Cavaliers in rematch",
+      "enlace": "https://www.cbssports.com/nba/news/jalen-brunson-scores-31-as-knicks-hold-off-cavaliers-in-rematch/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCCv5waEbm0dMRWxPH9XRdajgSx2egpFFluC4GKmin6BjBTia0x2lbCt7MDJ4"
     },
     {
@@ -60,20 +74,6 @@
       "noticia": "Tres candidatas desertan de Miss Universo 2026 a pocas semanas de la competencia",
       "enlace": "https://listindiario.com/entretenimiento/20261107/tres-candidatas-desertan-miss-universo-2026-pocas-semanas-competencia_929232.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1QpyKLr48aUqYykEOPbF4WVBTcVhNf9-jJL5aycdD3xJgw9b5tyDmW6uEvBg"
-    },
-    {
-      "termino": "ufc",
-      "trafico": "500+",
-      "noticia": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
-      "enlace": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-BiLphEDyNGFDkMXdkbMk0wwjm5v5ZlVIIaobyRo6-JPVILKfV5M-BSdbDUM"
-    },
-    {
-      "termino": "posiciones de inter miami contra charlotte fc",
-      "trafico": "200+",
-      "noticia": "¿Cómo quedó Inter Miami - Charlotte? Cronología, goles y marcador del partido de Messi en MLS 2026",
-      "enlace": "https://as.com/us/futbol/inter-miami-charlotte-en-vivo-resultado-de-messi-hoy-y-goles-de-mls-2026-en-directo-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYddGwXcyI-XME7BoJyb4mgmSkGkfGts4ltzFcN-DlB6NXgvW3703iHC7Wp6U"
     }
   ]
 }
