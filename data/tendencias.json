@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-08T15:35:07.273130-04:00",
-  "hora": "15:35",
+  "updated": "2026-11-08T15:55:52.293906-04:00",
+  "hora": "15:55",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "barcelona vs",
+      "trafico": "100+",
+      "noticia": "Atlético Madrid vs Barcelona, La Liga: TV   Streaming, Live Thread",
+      "enlace": "https://sports.yahoo.com/articles/atl-tico-madrid-vs-barcelona-170000501.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk3RSutF3HpTAXI5EebaAKi5tMgkWkwVt6yH4Q6Wwx0ga5k-okQeH3sG3Wne0"
+    },
     {
       "termino": "villarreal - getafe",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "inter - como",
       "trafico": "500+",
-      "noticia": "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/emocionante-minuto-silencio-inter-homenaje-171600478.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnRi6Vpuo1e6ZY1l8p091KepwGBsnek9PecHxkdONqeZKCbeWrLDq81i1Q8wU"
+      "noticia": "Inter - Como, en directo: Serie A, hoy en vivo",
+      "enlace": "https://as.com/futbol/internacional/inter-como-en-directo-serie-a-hoy-en-vivo-f202611-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6kY2xfWP97gU2SJHAqzSNruk9_Rt7yfst4viw5ZEN8YT60PSeEuSgJTu9ggQ"
     },
     {
       "termino": "la suerte",
@@ -57,23 +64,16 @@
     {
       "termino": "genoa - milan",
       "trafico": "100+",
-      "noticia": "Amorim:  Bisogna pensare che perdere è la fine del mondo. Niente giorni liberi per chi gioca nel Milan",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/08-11-2026/amorim-dopo-genoa-milan-voglio-l-ansia-per-la-sconfitta.shtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBYRiwD3spPArSYf0j73AUQUlMhqZkK96OQEFT14mQ-ePddN4cXbbU5bLUYWs"
+      "noticia": "Genoa-Milan, le pagelle: Vasquez, che errore. Gila di mestiere, Rabiot è ovunque",
+      "enlace": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/08/news/genoa_milan_pagelle_vasquez_gila_cisse-425708789/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOFP3bIGTLW51i5I0xzVNmQq1dQveCUBSVSnidoWWmg2xLCUzn6oE0ed5pDU"
     },
     {
       "termino": "crystal palace - liverpool",
       "trafico": "500+",
-      "noticia": "Premier League - Crystal Palace v Liverpool",
-      "enlace": "https://www.reutersconnect.com/item/premier-league-crystal-palace-v-liverpool/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgwWkMxREI",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5HGzm7_d-uie8fFbcleLsbRjtw3PeSO8duq5UMFyZmXlGeP0XAQOCo3bW0P8"
-    },
-    {
-      "termino": "sunderland afc - chelsea",
-      "trafico": "200+",
-      "noticia": "Sunderland 1-0 Chelsea: Enzo le Fee penalty gives Regis le Bris  side victory",
-      "enlace": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9IBZKv0UuFi3YFw9bC5mHQJ8pGjJuP3Owy6gRI4zEeZ06diE8M8P30KItP0"
+      "noticia": "Licensable picture: Premier League - Brighton   Hove Albion v Brentford",
+      "enlace": "https://www.reutersconnect.com/item/premier-league-brighton-hove-albion-v-brentford/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjgxMU1TR0M",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVHDPuhC7gWnDoEvxUqHIaaYpoaSReGh1S394M5q3OpZV4IU4Xx7r93sVfNl8"
     }
   ]
 }
