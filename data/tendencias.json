@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-08T20:20:38.696992-04:00",
-  "hora": "20:20",
+  "updated": "2026-11-08T20:40:58.768598-04:00",
+  "hora": "20:40",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "timberwolves - jazz",
+      "trafico": "100+",
+      "noticia": "Jazz vs Timberwolves LIVE, Score Updates and Play-by-Play in NBA (20-16)",
+      "enlace": "https://www.vavel.com/en-us/nba/2026/11/08/1278572-jazz-vs-timberwolves-live-score-updates-play-by-play-nba.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZginazo3WeB96bq5JJP5IOsoJfI49TP82NBIMgPpLpxVxgoeZh4_IyzXBBkU"
+    },
+    {
+      "termino": "alan jones",
+      "trafico": "100+",
+      "noticia": "Alan Jones obituary",
+      "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
+    },
     {
       "termino": "lebron james",
       "trafico": "100+",
@@ -42,7 +56,7 @@
     },
     {
       "termino": "posiciones de atlético de madrid contra fc barcelona",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Barça pass their biggest test yet as Fermín López sinks Atlético Madrid",
       "enlace": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83R2cuMyemKAQe_oyKEJwcA6x619HoPnwKw83DdnYVKDbbzVGY4YgUfVV1EQ"
@@ -55,25 +69,11 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPhIASGpZ0cFphoaq04RsnPlPnqLEfv74kQ9scpwcnVkLx3pYeWpyu7lOSDbY"
     },
     {
-      "termino": "fiorentina - juventus",
+      "termino": "barca vs",
       "trafico": "200+",
-      "noticia": "Bremer e Vicario salvano la Juve, ma Spalletti non svolta. Fiorentina, pari e rimpianti",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/08-11-2026/fiorentina-juve-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQVFjetrA8QPXxdR5AXLfpVCxkqKhZplLaTa4yttglIS3xnLm9eFlMMKAtHg"
-    },
-    {
-      "termino": "bulls - 76ers",
-      "trafico": "2000+",
-      "noticia": "Los Angeles Lakers vs Detroit Pistons Nov 8, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-det-0022600197/box-score",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwX2Jir0gSuA90m7-8pBJ01rvge5cxUwlxf0V9Zi2jRA4wJPyi-pUExtEENLQ"
-    },
-    {
-      "termino": "villarreal - getafe",
-      "trafico": "100+",
-      "noticia": "Villarreal v Getafe (08/11/2026)",
-      "enlace": "https://www.flashscore.com/match/football/getafe-dboeiWOt/villarreal-lUatW5jE/standings/live-standings/?mid=xts7rDX9",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38PTPqrckhIV10OCa1l6qogPhnjba9OmFywh33QY2ipG36p8B_w1n2ApVAus"
+      "noticia": "Partidos de HOY, domingo 8 de noviembre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar",
+      "enlace": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-8-noviembre-horario-ver-futbol-vivo-tv-online-formaciones_0_EUZTTehISD.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGjxJmjL8VI5iYtBFkEml5l9odEo-eAQBao9DMTqCiw9suX9RSkVMxibdoU3w"
     }
   ]
 }
