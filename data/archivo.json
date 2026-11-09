@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T19:39:56-04:00",
+ "actualizado": "2026-11-08T20:00:21-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -5969,6 +5969,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "12",
+     "66",
+     "28",
+     "29",
+     "27"
+    ]
+   },
+   {
     "fecha": "2026-11-07",
     "numeros": [
      "46",
@@ -6469,6 +6479,15 @@
    }
   ],
   "Loteria Real|Loto Pool Noche": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "10",
+     "23",
+     "79",
+     "92"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
@@ -7031,6 +7050,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-11-08",
+    "numeros": [
+     "05"
+    ]
+   },
    {
     "fecha": "2026-11-07",
     "numeros": [
