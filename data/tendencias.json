@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-08T22:03:29.219537-04:00",
-  "hora": "22:03",
+  "updated": "2026-11-08T22:23:48.114309-04:00",
+  "hora": "22:23",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "apagón eléctrico",
+      "trafico": "100+",
+      "noticia": "Apagón: más de 15 comunidades y grandes empresas quedarán sin luz por mantenimiento red eléctrica",
+      "enlace": "https://elnacional.com.do/nacionales/apagon-mas-de-15-comunidades-y-grandes-empresas-quedaran-sin-luz-por-mantenimiento-red-electrica_585691.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtHqb7552mCXD0HJoojU1mR1zO8RCNKipwz7AqtK7WEULPYVDCjrUuxNbgVk"
+    },
     {
       "termino": "bucks - celtics",
       "trafico": "200+",
       "noticia": "Celtics vs. Bucks Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 8",
       "enlace": "https://www.si.com/betting/celtics-vs-bucks-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-8-2026",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUG7_MjORj3mwtQHFRRYYioZjRHEcZfCAwjlwzQP0NHag-9w3ljfP8XzIb0s0"
-    },
-    {
-      "termino": "daniss jenkins",
-      "trafico": "100+",
-      "noticia": "Pistons unable to overcome 26-point deficit in loss to Luka-less Lakers",
-      "enlace": "https://www.detroitnews.com/story/sports/nba/pistons/2026/11/08/pistons-unable-to-overcome-26-point-deficit-in-loss-to-luka-less-lakers/92682886007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1dh5UNelgUmJOZrWdanG_DAdyxNRHDDmnUwvbHRKY1faUACta_d7OcDZ_pbk"
     },
     {
       "termino": "licey vs escogido",
@@ -28,17 +28,17 @@
     },
     {
       "termino": "alan jones",
-      "trafico": "500+",
-      "noticia": "Alan Jones obituary",
+      "trafico": "1000+",
+      "noticia": "Alan Jones obituary | Formula One",
       "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
     },
     {
       "termino": "timberwolves - jazz",
       "trafico": "200+",
-      "noticia": "Live: Wolves look for fourth straight win without Anthony Edwards as they host Jazz",
-      "enlace": "https://www.startribune.com/minnesota-timberwolves-utah-jazz-score-today-live-lamelo-ball-stats-anthony-edwards-injury-update/601912402",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMB9O1Emmkxx6pFNsmFRwFlnZcyhxJjc2iVJ4pMMccC-FRrZ9vBs8njtjU_Bk"
+      "noticia": "How to Watch Jazz vs Wolves for Free: TV Channels, Live Stream Options",
+      "enlace": "https://sports.yahoo.com/articles/watch-jazz-vs-wolves-free-212628889.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS2uHE22JbUOB9AL-5_CdsIpUDYFVec6kWyewUtiwrp2gfTnwnP3AvIliN71Q"
     },
     {
       "termino": "lebron james",
@@ -50,9 +50,9 @@
     {
       "termino": "pistons - lakers",
       "trafico": "2000+",
-      "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+      "noticia": "Austin Reaves scores 43 as Lakers hold off Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/austin-reaves-scores-43-as-lakers-hold-off-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
     },
     {
       "termino": "lotería nacional",
@@ -70,10 +70,10 @@
     },
     {
       "termino": "lotería de hoy",
-      "trafico": "1000+",
-      "noticia": "Comprobar Lotería Nacional hoy, en directo: resultados, números, décimo ganador y premios del sorteo del sá...",
-      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-directo-comprobar-resultados-sorteo-extraordinario-sabado-20261107104644-di.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4FaZVStYuw7pWvgbn2tMHRFKNEs2FywmTA_QRIkb_5vImlAHxbc6DIHqXA"
+      "trafico": "500+",
+      "noticia": "Lotería Nacional en directo: comprobar los resultados del Sorteo Extraordinario de la Cultura de hoy, sábado 7 de noviembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-extraordinario-de-la-cultura-de-hoy-sabado-7-de-noviembre-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3DZt8_mE3TQ0kBZp7Ww5DbU0kWpI-uNJg4xzWbHQRZkllVmK7R-axYXUj-s"
     }
   ]
 }
