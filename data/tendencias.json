@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-09T11:47:10.811177-04:00",
-  "hora": "11:47",
+  "updated": "2026-11-09T12:07:35.907922-04:00",
+  "hora": "12:07",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "bravo",
+      "trafico": "100+",
+      "noticia": "The ‘expectations for Bravo talent’—and other RHONY contract revelations",
+      "enlace": "https://www.realityblurred.com/realitytv/2026/11/bravo-talent-agreement-rhony-contract/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJogy11L14A8lM5oJNj8EkE-tPUGzxv5k_3EpgvC60-_fo-cX6Jp-VyGJzyZg"
+    },
+    {
       "termino": "puente",
       "trafico": "100+",
-      "noticia": "El Concello de Lugo volverá a sacar a licitación la obra del puente romano tras quedar desierto el primer plazo",
-      "enlace": "https://www.elprogreso.es/articulo/lugo/concello-lugo-volvera-sacar-licitacion-obra-puente-romano-quedar-desierto-primer-plazo/202611091540292012882.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHh1DFz3ISAeU1u6fNepb_EPnunIE3pCGNYjwYhm_Ss2K39aDDb_I1bg3L8YA"
+      "noticia": "Apertura al tráfico del nuevo puente de Cordel de la Noguera sobre las vías del tren",
+      "enlace": "https://cadenaser.com/comunitat-valenciana/2026/11/09/apertura-al-trafico-del-nuevo-puente-de-cordel-de-la-noguera-sobre-las-vias-del-tren-radio-villena/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MnQ9YpOlrW0LQepBYH36OMzWmfv9b-vAZeRyFx6MLAVK2w9Gho-OgG1pRuY"
     },
     {
       "termino": "nvidia",
@@ -18,13 +25,6 @@
       "noticia": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
       "enlace": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5uXgSf4hqAI5ylOx3BG4f0oFZWxXenM6DWEJ39m7qzXYurL-Tuli21HWjEk"
-    },
-    {
-      "termino": "liga de béisbol profesional de la república dominicana",
-      "trafico": "200+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrJXDUuSmtre8_HXuBNm8sRIfxtw51lMy8eOxxtU9RmWgFXyQhPqXkYHTvijg"
     },
     {
       "termino": "pedro martínez",
@@ -57,9 +57,9 @@
     {
       "termino": "clippers - pelicans",
       "trafico": "100+",
-      "noticia": "Darius Garland leads Clippers past Pelicans to snap 7-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/darius-garland-leads-clippers-past-pelicans-to-snap-7-game-skid/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+      "noticia": "Zion Williamson News: Perfect from field in loss",
+      "enlace": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-perfect-from-field-in-loss-538237",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEYpXaplWunSnBYAU9yffi9hcE7LqvNoqNhSUg-I04FcQsudzTCU35M5hc5I"
     },
     {
       "termino": "elena rybakina",
