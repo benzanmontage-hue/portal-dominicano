@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-09T12:07:35.907922-04:00",
-  "hora": "12:07",
+  "updated": "2026-11-09T12:27:57.601664-04:00",
+  "hora": "12:27",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nvidia ceo jensen huang",
+      "trafico": "200+",
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
+    },
+    {
+      "termino": "russell brand",
+      "trafico": "100+",
+      "noticia": "Russell Brand sentenced to 10 years and six months for rape and sexual assault",
+      "enlace": "https://www.bbc.com/news/live/c670ppzjwxpnt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs84VN5dGD8oYFa9vQhm32RynJzPzQMxtGKz6Q1xqlUNZk4gMIdY3p0wUuVDs"
+    },
     {
       "termino": "bravo",
       "trafico": "100+",
@@ -20,11 +34,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MnQ9YpOlrW0LQepBYH36OMzWmfv9b-vAZeRyFx6MLAVK2w9Gho-OgG1pRuY"
     },
     {
-      "termino": "nvidia",
-      "trafico": "100+",
-      "noticia": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-      "enlace": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5uXgSf4hqAI5ylOx3BG4f0oFZWxXenM6DWEJ39m7qzXYurL-Tuli21HWjEk"
+      "termino": "liga de béisbol profesional de la república dominicana",
+      "trafico": "200+",
+      "noticia": "Gran jornada de Navarreto (5-5, HR) eleva a Cangrejeros vs. Gigantes en extras",
+      "enlace": "https://www.mlb.com/es/news/p-r-gran-jornada-de-navarreto-eleva-a-cangrejeros-vs-gigantes-en-extras",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT31AFXEGZRtk4U8MPgDI39ILMnXfgiNhjuUopxJpZnwZf-sh4kZU-QZ6Wx-PU"
     },
     {
       "termino": "pedro martínez",
@@ -36,9 +50,9 @@
     {
       "termino": "miss universo",
       "trafico": "500+",
-      "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
+      "noticia": "Melissa Núñez viaja a Puerto Rico tras recibir el alta médica para competir en Miss Universe 2026",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/09/melissa-nunez-viaja-a-puerto-rico-para-competir-en-miss-universe-2026/3715414",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnV1A2MVLspt2tTY5QrzLUeHM84ba5mxqbE8TmFCc8jF3Ju0aA_LM1yeW78Wo"
     },
     {
       "termino": "habichuelas con dulce",
@@ -56,24 +70,10 @@
     },
     {
       "termino": "clippers - pelicans",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Zion Williamson News: Perfect from field in loss",
       "enlace": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-perfect-from-field-in-loss-538237",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEYpXaplWunSnBYAU9yffi9hcE7LqvNoqNhSUg-I04FcQsudzTCU35M5hc5I"
-    },
-    {
-      "termino": "elena rybakina",
-      "trafico": "200+",
-      "noticia": "Elena Rybakina withdraws from 2026 WTA Finals at Indian Wells with viral illness",
-      "enlace": "https://www.wtatennis.com/news/4606105/elena-rybakina-medically-withdraws-from-2026-wta-finals-at-indian-wells",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIU0me4ZC1vzCwQN80BJRx-BgsTim9z5PwQ988qooSzyEGa48PB0NmJOJF03U"
-    },
-    {
-      "termino": "kings - heat",
-      "trafico": "200+",
-      "noticia": "More history for Acuff, but Kings fall to 1-9 on the season",
-      "enlace": "https://sactownsports.com/nba/sacramento-kings/acuff-heat",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1-Qyx-zf7mK1xyWiq8JZvcWIsSKTwb3ie9fj95GS6OSWLrKw-G_vVPollkyQ"
     }
   ]
 }
