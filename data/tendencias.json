@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-09T00:05:27.922986-04:00",
-  "hora": "00:05",
+  "updated": "2026-11-09T00:25:49.244399-04:00",
+  "hora": "00:25",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "kings - heat",
-      "trafico": "100+",
-      "noticia": "Miami Heat vs Sacramento Kings Nov 8, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/mia-vs-sac-0022600202/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDKTw5Zd2M_IVpM5TgL7ll7pR7hh_6HcAJsJr-2Oyccj5sZocoHztnnkV5jkI"
+      "trafico": "200+",
+      "noticia": "Heat visit 1-8 Kings as both teams search for answers",
+      "enlace": "https://www.cbssports.com/nba/news/heat-visit-1-8-kings-as-both-teams-search-for-answers/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
       "termino": "terremoto",
       "trafico": "2000+",
-      "noticia": "Terremoto moderado mag. 4.0 - Mar de la China Oriental, 81 km al sur de Koseda, Japón, Monday 9 Nov 2026 a las 11:12 (GMT +9)",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23619108/mag4quake-Nov-9-2026-Japan-Near-Amami-Oshima-Island.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-IRbuB1pUxMSL98ZJit_QMxs1GbOv5FgFrXy_7DonoLb-sjd7A9HXhdD9BrU"
+      "noticia": "Terremoto de magnitud 6.2 cerca de Lata (Luva Station, Temotu)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/noticias/404690/terremoto-de-magnitud-6-2-cerca-de-lata-luva-station-temotu.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0iPRBf2XMZPz3qbXs4OX4mjRDlGXml6hjpdF8hibn1wjJakaXR5gP-uh9PMM"
     },
     {
       "termino": "evacuación",
@@ -42,14 +42,14 @@
     },
     {
       "termino": "mavericks - nets",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Cooper Flagg leads Mavericks in 130-93 blowout win over Nets",
       "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-leads-mavericks-in-130-93-blowout-win-over-nets/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
     },
     {
       "termino": "apagón eléctrico",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Apagón: más de 15 comunidades y grandes empresas quedarán sin luz por mantenimiento red eléctrica",
       "enlace": "https://elnacional.com.do/nacionales/apagon-mas-de-15-comunidades-y-grandes-empresas-quedaran-sin-luz-por-mantenimiento-red-electrica_585691.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtHqb7552mCXD0HJoojU1mR1zO8RCNKipwz7AqtK7WEULPYVDCjrUuxNbgVk"
@@ -64,9 +64,9 @@
     {
       "termino": "licey vs escogido",
       "trafico": "100+",
-      "noticia": "Licey se impone al Escogido en un nuevo capítulo entre los Eternos Rivales",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/08/lidom-licey-se-impone-al-escogido-en-duelo-eternos-rivales/3715058",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZ3zf5kIZbpyFeH3A09P3RfXnLYFxiBTFBd67IM96ujgVONVg6Q3s3XGyAEM"
+      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
+      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
     },
     {
       "termino": "alan jones",
