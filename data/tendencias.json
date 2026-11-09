@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T12:48:28.973211-04:00",
-  "hora": "12:48",
+  "updated": "2026-11-09T13:08:53.531692-04:00",
+  "hora": "13:08",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -10,14 +10,7 @@
       "trafico": "200+",
       "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
       "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrJXDUuSmtre8_HXuBNm8sRIfxtw51lMy8eOxxtU9RmWgFXyQhPqXkYHTvijg"
-    },
-    {
-      "termino": "nvidia ceo jensen huang",
-      "trafico": "200+",
-      "noticia": "Statement From NVIDIA Board of Directors",
-      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     },
     {
       "termino": "russell brand",
@@ -36,9 +29,16 @@
     {
       "termino": "puente",
       "trafico": "100+",
-      "noticia": "Moderno puente sobre río Guazapa mejora condiciones de vida de más de 6 mil habitantes",
-      "enlace": "https://diariolahuella.com/moderno-puente-sobre-rio-guazapa-mejora-condiciones-de-vida-de-mas-de-6-mil-habitantes/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsOVRD7N0kVjMYuMPwBFPpqwnucbO5jrY77fBvllse3iF5bsomLYTMfsSE44k"
+      "noticia": "Suiza iba a renovar un puente sobre el río Aare. Los arqueólogos miraron debajo y encontraron otro que llevaba 1.700 años allí desde el Imperio romano",
+      "enlace": "https://es.gizmodo.com/descubren-puente-romano-de-1700-anos-bajo-el-rio-aare-en-suiza-2000251695",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBJYFxGthrE4QrWme-EImAZJR87uDAamD1qtEYx_q2ni3c4Re2SH5cizQlMxw"
+    },
+    {
+      "termino": "nvidia",
+      "trafico": "200+",
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
     },
     {
       "termino": "pedro martínez",
@@ -50,9 +50,9 @@
     {
       "termino": "miss universo",
       "trafico": "500+",
-      "noticia": "Melissa Núñez viaja a Puerto Rico tras recibir el alta médica para competir en Miss Universe 2026",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/09/melissa-nunez-viaja-a-puerto-rico-para-competir-en-miss-universe-2026/3715414",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnV1A2MVLspt2tTY5QrzLUeHM84ba5mxqbE8TmFCc8jF3Ju0aA_LM1yeW78Wo"
+      "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
     },
     {
       "termino": "habichuelas con dulce",
