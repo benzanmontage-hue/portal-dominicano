@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-08T20:41:57.267145-04:00",
-  "hora": "20:41",
+  "updated": "2026-11-08T21:02:26.095692-04:00",
+  "hora": "21:02",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "timberwolves - jazz",
-      "trafico": "100+",
-      "noticia": "Jazz vs Timberwolves LIVE, Score Updates and Play-by-Play in NBA (25-28)",
-      "enlace": "https://www.vavel.com/en-us/nba/2026/11/08/1278572-jazz-vs-timberwolves-live-score-updates-play-by-play-nba.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZginazo3WeB96bq5JJP5IOsoJfI49TP82NBIMgPpLpxVxgoeZh4_IyzXBBkU"
-    },
-    {
       "termino": "alan jones",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Alan Jones obituary",
       "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
+    },
+    {
+      "termino": "timberwolves - jazz",
+      "trafico": "200+",
+      "noticia": "Preview: Surviving a pack of Wolves",
+      "enlace": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1VNF4rClLwcHAujXiJeqZgHDWfanbn4ojF3rNomNEfYZ1gfaufYNrZ-fWVQ"
     },
     {
       "termino": "lebron james",
@@ -50,9 +50,9 @@
     {
       "termino": "lotería de hoy",
       "trafico": "1000+",
-      "noticia": "Lotería Nacional en directo: comprobar los resultados del Sorteo Extraordinario de la Cultura de hoy, sábado 7 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-extraordinario-de-la-cultura-de-hoy-sabado-7-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3DZt8_mE3TQ0kBZp7Ww5DbU0kWpI-uNJg4xzWbHQRZkllVmK7R-axYXUj-s"
+      "noticia": "Comprobar Lotería Nacional hoy, en directo: resultados, números, décimo ganador y premios del sorteo del sá...",
+      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-directo-comprobar-resultados-sorteo-extraordinario-sabado-20261107104644-di.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4FaZVStYuw7pWvgbn2tMHRFKNEs2FywmTA_QRIkb_5vImlAHxbc6DIHqXA"
     },
     {
       "termino": "posiciones de atlético de madrid contra fc barcelona",

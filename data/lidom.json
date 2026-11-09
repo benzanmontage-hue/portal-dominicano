@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-08T20:42:04-04:00",
+ "updated": "2026-11-08T21:02:34-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
  "fin_temporada": "2027-01-29",
  "tabla": [
   {
+   "id": 672,
+   "equipo": "Tigres",
+   "g": 12,
+   "p": 6,
+   "pct": ".667",
+   "dif": "-4.5",
+   "racha": "W2",
+   "pos": 1,
+   "nombre": "Tigres del Licey"
+  },
+  {
    "id": 671,
    "equipo": "Leones",
    "g": 12,
-   "p": 5,
-   "pct": ".706",
-   "dif": "-5.0",
-   "racha": "W1",
-   "pos": 1,
-   "nombre": "Leones del Escogido"
-  },
-  {
-   "id": 672,
-   "equipo": "Tigres",
-   "g": 11,
    "p": 6,
-   "pct": ".647",
-   "dif": "-4.0",
-   "racha": "W1",
+   "pct": ".667",
+   "dif": "-4.5",
+   "racha": "L1",
    "pos": 2,
-   "nombre": "Tigres del Licey"
+   "nombre": "Leones del Escogido"
   },
   {
    "id": 670,
@@ -467,14 +467,14 @@
    "id": 851475,
    "fecha": "2026-11-08",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Game Over",
    "visitante": "Tigres del Licey",
    "visitante_id": 672,
-   "carreras_v": null,
+   "carreras_v": 5,
    "local": "Leones del Escogido",
    "local_id": 671,
-   "carreras_l": null,
+   "carreras_l": 4,
    "estadio": "Estadio Quisqueya Juan Marichal",
    "serie": "Regular Season"
   },
