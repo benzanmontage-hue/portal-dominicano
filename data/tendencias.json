@@ -1,44 +1,72 @@
 {
-  "updated": "2026-11-09T00:46:09.103581-04:00",
-  "hora": "00:46",
+  "updated": "2026-11-09T08:02:19.751798-04:00",
+  "hora": "08:02",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "liga de béisbol profesional de la república dominicana",
+      "trafico": "100+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+    },
+    {
+      "termino": "pedro martínez",
+      "trafico": "100+",
+      "noticia": "¿Habrá temporada MLB 2027? Te explicamos la batalla laboral",
+      "enlace": "https://www.espn.com.gt/beisbol/nota/_/id/17494150/mlb-paro-patronal-tope-salarial-batalla-laboral-dudas",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf5fbSY-RTH2IHRyuQ6DJTIMjKVRSZEZ2jkIekziUzxryCjL4Etl2OzjTk0w"
+    },
+    {
+      "termino": "miss universo",
+      "trafico": "200+",
+      "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
+    },
+    {
+      "termino": "clippers - pelicans",
+      "trafico": "100+",
+      "noticia": "Darius Garland leads Clippers past Pelicans to snap 7-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/darius-garland-leads-clippers-past-pelicans-to-snap-7-game-skid/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
       "termino": "kings - heat",
       "trafico": "200+",
-      "noticia": "Miami Heat vs Sacramento Kings Nov 8, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/mia-vs-sac-0022600202/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDKTw5Zd2M_IVpM5TgL7ll7pR7hh_6HcAJsJr-2Oyccj5sZocoHztnnkV5jkI"
+      "noticia": "More history for Acuff, but Kings fall to 1-9 on the season",
+      "enlace": "https://sactownsports.com/nba/sacramento-kings/acuff-heat",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1-Qyx-zf7mK1xyWiq8JZvcWIsSKTwb3ie9fj95GS6OSWLrKw-G_vVPollkyQ"
     },
     {
       "termino": "elena rybakina",
       "trafico": "100+",
-      "noticia": "The Defending Champion Is Out on the Eve of the Finals",
-      "enlace": "https://www.tenniswatcher.com/en/news/tournament-director-muguruza-says-wta-finals-still-has-an-amazing-field-despite-elena-rybakinas-withdrawal",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9kDLtF5ORC1JSFqURnCgyFQ5aNiZ_rAORWWN5kLq3C_m0Foq8wdYAFzX_QnI"
+      "noticia": "Elena Rybakina withdraws from 2026 WTA Finals at Indian Wells with viral illness",
+      "enlace": "https://www.wtatennis.com/news/4606105/elena-rybakina-medically-withdraws-from-2026-wta-finals-at-indian-wells",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIU0me4ZC1vzCwQN80BJRx-BgsTim9z5PwQ988qooSzyEGa48PB0NmJOJF03U"
     },
     {
       "termino": "terremoto",
       "trafico": "2000+",
-      "noticia": "Terremoto de magnitud 6.2 cerca de Lata (Luva Station, Temotu)",
-      "enlace": "https://www.volcanodiscovery.com/es/sismos/noticias/404690/terremoto-de-magnitud-6-2-cerca-de-lata-luva-station-temotu.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0iPRBf2XMZPz3qbXs4OX4mjRDlGXml6hjpdF8hibn1wjJakaXR5gP-uh9PMM"
+      "noticia": "Terremoto leve mag. 3.6 - 10.8 km al noroeste de La Romana, La Romana, República Dominicana, Monday 9 Nov 2026 a las 07:29 (Hora Santo Domingo)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23621045/mag3quake-Nov-9-2026-Dominican-Republic-Region.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCr_LAZ_vjatAiioDGdD-wHfKxzCLL2qiK8aQ57estJ130ZATHS-GoDSYngcA"
     },
     {
       "termino": "evacuación",
-      "trafico": "100+",
-      "noticia": "Misa del Papa en Córdoba: habrá una Unidad Judicial Móvil para recibir denuncias en FAdeA",
-      "enlace": "https://www.altagracianoticias.com/denuncias-fadea-misa-papa-cordoba/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3QeVlh3vQz8sw7sa77_HgAswscjBuEwl3IEEtOxH3DMINtMjTASIWL-1HGA"
+      "trafico": "200+",
+      "noticia": "El río Paraná llegó a 4,95 metros y comenzaron a evacuar familias en Bajada Grande",
+      "enlace": "https://www.r2820.com/noticias/2026/11/08/120786-el-rio-parana-llego-a-4_95-metros-y-comenzaron-a-evacuar-familias-en-bajada-grande",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4SyCi--fprl-oqE9knqaqrokB9TQKpwH8C1e0gZeal4tAi9ZDqGu9V5l3w4Y"
     },
     {
       "termino": "jesus made",
       "trafico": "200+",
-      "noticia": "La actuación del prospecto Jesús Madé en Lidom llega a su fin este domingo",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/actuacion-prospecto-jesus-made-llega-domingo_929354.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzU3u-Qlm_Ei1G3HPE9m5O38fwmalhI8uuwLbuU79hK3mnCj8E53Qq3lXqCv0"
+      "noticia": "“Siempre he tenido este equipo en el corazón”: Jesús Madé se despide del Licey tras tremenda actuación",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/siempre-he-tenido-equipo-corazon-jesus-made-despide-licey-tremenda-actuacion_929398.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDIL-BljI6FPG5PaVfBS8tN8wJ0Xm8zOPnMb-_1bp-ZVNCYoENuXss1wUTLkU"
     },
     {
       "termino": "ziaire williams",
@@ -46,34 +74,6 @@
       "noticia": "Ziaire Williams Enjoying Being Austin Reaves’ Teammate",
       "enlace": "https://lakersnation.com/ziaire-williams-enjoying-being-austin-reaves-teammate/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA48i3rO5Ta4jO5fP4gQxozCmlf2ZPOWigU9KyX3SltU18KbSENKcTJaZ_z94"
-    },
-    {
-      "termino": "mavericks - nets",
-      "trafico": "200+",
-      "noticia": "Brooklyn Nets vs. Dallas Mavericks Live Score and Stats - November 8, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261108_BKN@DAL/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsUhU7NIGORuqPe_TBTblJAyhJkd2AQzdVBANRnuQ-0ggpKDRSc3MO_3Y9pDo"
-    },
-    {
-      "termino": "apagón eléctrico",
-      "trafico": "500+",
-      "noticia": "Apagón: más de 15 comunidades y grandes empresas quedarán sin luz por mantenimiento red eléctrica",
-      "enlace": "https://elnacional.com.do/nacionales/apagon-mas-de-15-comunidades-y-grandes-empresas-quedaran-sin-luz-por-mantenimiento-red-electrica_585691.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtHqb7552mCXD0HJoojU1mR1zO8RCNKipwz7AqtK7WEULPYVDCjrUuxNbgVk"
-    },
-    {
-      "termino": "bucks - celtics",
-      "trafico": "500+",
-      "noticia": "Paul George, Celtics rout Bucks as Milwaukee drops to 1-9",
-      "enlace": "https://www.cbssports.com/nba/news/paul-george-celtics-rout-bucks-as-milwaukee-drops-to-1-9/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
-    },
-    {
-      "termino": "licey vs escogido",
-      "trafico": "100+",
-      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
-      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
     }
   ]
 }
