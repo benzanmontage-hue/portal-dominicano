@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T20:00:12.877208-04:00",
+  "updated": "2026-11-08T20:20:35.656433-04:00",
   "fecha": "08/11/2026",
-  "hora": "20:00",
+  "hora": "20:20",
   "total_juegos": 53,
   "juegos": [
     {
@@ -67,11 +67,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "60",
-        "12",
-        "75"
+        "97",
+        "06",
+        "11"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -310,11 +310,11 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "95",
-        "15",
-        "85"
+        "63",
+        "24",
+        "63"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
     },
     {
@@ -391,22 +391,22 @@
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "74"
+        "49"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "94",
-        "52",
-        "74",
-        "11",
-        "90"
+        "32",
+        "77",
+        "07",
+        "93",
+        "81"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -440,11 +440,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "68",
-        "59",
+        "30",
+        "41",
         "78"
       ],
-      "fecha": "2026-11-07T04:00:00.000Z",
+      "fecha": "2026-11-08T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
@@ -639,11 +639,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "60",
-        "12",
-        "75"
+        "97",
+        "06",
+        "11"
       ],
-      "fecha": "2026-11-07"
+      "fecha": "2026-11-08"
     },
     {
       "compania": "La Primera",

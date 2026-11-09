@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-08T20:00:16.196686-04:00",
-  "hora": "20:00",
+  "updated": "2026-11-08T20:20:38.696992-04:00",
+  "hora": "20:20",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "Jaylen Brown, 76ers hold off Bulls for best start since 2000-01",
+      "enlace": "https://www.cbssports.com/nba/news/jaylen-brown-76ers-hold-off-bulls-for-best-start-since-2000-01/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+    },
+    {
       "termino": "pistons - lakers",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Luka Doncic, surging Lakers seek fifth straight win at Pistons",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-seek-fifth-straight-win-at-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
@@ -21,31 +28,31 @@
     },
     {
       "termino": "números ganadores de hoy",
-      "trafico": "500+",
-      "noticia": "Resultados Leidsa: Números ganadores 08 de noviembre 2026",
-      "enlace": "https://cdn.com.do/estilos-de-vida/resultados-leidsa-numeros-ganadores-08-de-noviembre-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyOWVsZhTlh6gsRvvBU3Da1emx_B3_Cs-djxr5FyJTT0df7y1Xb9Vl3D9LU9Q"
+      "trafico": "1000+",
+      "noticia": "Resultados del Powerball hoy, 4 de noviembre: números ganadores y premios del sorteo",
+      "enlace": "https://as.com/us/actualidad/resultados-del-powerball-hoy-4-de-noviembre-numeros-ganadores-y-premios-del-sorteo-f202611-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
     },
     {
       "termino": "lotería de hoy",
       "trafico": "1000+",
-      "noticia": "Lotería Nacional: comprobar resultados del Sorteo Extraordinario de la Cultura hoy, sábado 7 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-resultados-del-sorteo-extraordinario-de-la-cultura-hoy-sabado-7-de-noviembre-f202611-n/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-bkJuumEzZ1midRSw-5ZpbPM7vAyI6q-Rouwmr5i9FxRJ8xVewdMp6TrNzg"
+      "noticia": "Lotería Nacional en directo: comprobar los resultados del Sorteo Extraordinario de la Cultura de hoy, sábado 7 de noviembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-extraordinario-de-la-cultura-de-hoy-sabado-7-de-noviembre-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3DZt8_mE3TQ0kBZp7Ww5DbU0kWpI-uNJg4xzWbHQRZkllVmK7R-axYXUj-s"
     },
     {
       "termino": "posiciones de atlético de madrid contra fc barcelona",
       "trafico": "1000+",
-      "noticia": "Moreno: Barcelona showed they can win ugly vs. Atlético Madrid",
-      "enlace": "https://www.espn.com/video/clip/_/id/50426229/barcelona-showed-win-ugly-vs-atletico-madrid",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv9-H5I_XFFZ54HsZjf430A-yrLJklYnVBKpRW-pVrTat2uhCiE185lwKL8AY"
+      "noticia": "Barça pass their biggest test yet as Fermín López sinks Atlético Madrid",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83R2cuMyemKAQe_oyKEJwcA6x619HoPnwKw83DdnYVKDbbzVGY4YgUfVV1EQ"
     },
     {
       "termino": "classement atlético madrid – fc barcelone",
       "trafico": "500+",
-      "noticia": "12e journée de Liga : Suivez Atlético de Madrid – FC Barcelone EN DIRECT",
-      "enlace": "https://www.eurosport.fr/football/la-liga/2026-2027/live-atletico-de-madrid-fc-barcelone_mtc21891305/live-commentary.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9qTdFEnOW5OUj_0iOvv10GWCddpc1Ij7CCbzaJWEy-ByQ7iuMsgkf8RaIT-w"
+      "noticia": "Barça : la réaction du héros Fermin Lopez",
+      "enlace": "https://www.footmercato.net/a1889001013147041752-barca-la-reaction-du-heros-fermin-lopez",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPhIASGpZ0cFphoaq04RsnPlPnqLEfv74kQ9scpwcnVkLx3pYeWpyu7lOSDbY"
     },
     {
       "termino": "fiorentina - juventus",
@@ -57,16 +64,9 @@
     {
       "termino": "bulls - 76ers",
       "trafico": "2000+",
-      "noticia": "Jaylen Brown, 76ers hold off Bulls for best start since 2000-01",
-      "enlace": "https://www.cbssports.com/nba/news/jaylen-brown-76ers-hold-off-bulls-for-best-start-since-2000-01/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
-    },
-    {
-      "termino": "barca",
-      "trafico": "200+",
-      "noticia": "​Barca usata della settimana: Oceanis 361 - un bestseller collaudato",
-      "enlace": "https://www.yacht.de/it/mercato/consigli-per-gli-acquisti/barca-usata-della-settimana-oceanis-361-un-bestseller-collaudato/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr-yJl-czh8cLKsO8m3rxKL6wdx5aWt5vWjzuunAcyQXYFu8NSUOoD767Inio"
+      "noticia": "Los Angeles Lakers vs Detroit Pistons Nov 8, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/lal-vs-det-0022600197/box-score",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwX2Jir0gSuA90m7-8pBJ01rvge5cxUwlxf0V9Zi2jRA4wJPyi-pUExtEENLQ"
     },
     {
       "termino": "villarreal - getafe",
