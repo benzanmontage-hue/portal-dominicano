@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-08T21:22:48.616319-04:00",
-  "hora": "21:22",
+  "updated": "2026-11-08T21:43:10.963663-04:00",
+  "hora": "21:43",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bucks - celtics",
+      "trafico": "100+",
+      "noticia": "Celtics vs Bucks LIVE, Score Updates and Play-by-Play in NBA (0-0)",
+      "enlace": "https://www.vavel.com/en-us/nba/2026/11/08/1278516-celtics-vs-bucks-live-score-nba.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLDxgfcfq4Tyj8Vc1e5UZ2xXHSOfrjujMBOpt_BwMBJYo5-NDzZt6Z0svNfA"
+    },
+    {
+      "termino": "daniss jenkins",
+      "trafico": "100+",
+      "noticia": "Grizzlies Could Use Clever Trade Strategy to Add Another Young Core Piece",
+      "enlace": "https://roundtable.io/sports/nba/grizzlies/opinion/grizzlies-could-use-clever-trade-strategy-to-add-another-young-core-piece",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDrmNXQQPdFrhquFIqV71Dv2ZP4Uhi49VHPPlWIA-uZHh6gmPigkQ0JTBG-bc"
+    },
     {
       "termino": "licey vs escogido",
       "trafico": "100+",
@@ -22,16 +36,16 @@
     {
       "termino": "timberwolves - jazz",
       "trafico": "200+",
-      "noticia": "Preview: Surviving a pack of Wolves",
-      "enlace": "https://www.slcdunk.com/utah-jazz-game-coverage/70619/preview-surviving-a-pack-of-wolves",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1VNF4rClLwcHAujXiJeqZgHDWfanbn4ojF3rNomNEfYZ1gfaufYNrZ-fWVQ"
+      "noticia": "Live: Wolves look for fourth straight win without Anthony Edwards as they host Jazz",
+      "enlace": "https://www.startribune.com/minnesota-timberwolves-utah-jazz-score-today-live-lamelo-ball-stats-anthony-edwards-injury-update/601912402",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMB9O1Emmkxx6pFNsmFRwFlnZcyhxJjc2iVJ4pMMccC-FRrZ9vBs8njtjU_Bk"
     },
     {
       "termino": "lebron james",
       "trafico": "100+",
-      "noticia": "LeBron James makes a key adjustment to help Sixers bounce back against Bulls",
-      "enlace": "https://www.phillyvoice.com/sixers-vs-bulls-76ers-highlights-score-joel-embiid-lebron-james-jaylen-brown-tyrese-maxey-vj-edgecombe-nba-chi/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0Re1MXicfdPP7X_qUevtv90SyWfDE9GO-shDixFh7iMX2ABWgtlScjjbmak"
+      "noticia": "Man arrested on stalking charges at LeBron James  home in Los Angeles",
+      "enlace": "https://www.espn.com/nba/story/_/id/50410292/man-arrested-stalking-charges-lebron-james-home-la",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwcEvD8bhtPJurblx3u8IAwwDFwUxWuyaitb7aB4_NB5pvJs1eDzaaBvlybVI"
     },
     {
       "termino": "pistons - lakers",
@@ -49,7 +63,7 @@
     },
     {
       "termino": "números ganadores de hoy",
-      "trafico": "1000+",
+      "trafico": "500+",
       "noticia": "Resultados del Powerball hoy, 4 de noviembre: números ganadores y premios del sorteo",
       "enlace": "https://as.com/us/actualidad/resultados-del-powerball-hoy-4-de-noviembre-numeros-ganadores-y-premios-del-sorteo-f202611-n/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
@@ -60,20 +74,6 @@
       "noticia": "Comprobar Lotería Nacional hoy, en directo: resultados, números, décimo ganador y premios del sorteo del sá...",
       "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-directo-comprobar-resultados-sorteo-extraordinario-sabado-20261107104644-di.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl4FaZVStYuw7pWvgbn2tMHRFKNEs2FywmTA_QRIkb_5vImlAHxbc6DIHqXA"
-    },
-    {
-      "termino": "posiciones de atlético de madrid contra fc barcelona",
-      "trafico": "2000+",
-      "noticia": "Atlético 1-2 Barcelona (Nov 8, 2026) Game Analysis",
-      "enlace": "https://www.espn.com/soccer/report/_/gameId/401882816",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZbNTreKzKelCr5_PIgw30U4eC3p4Z2If6ymuEQxstTyHHjuHfOhAFZpbJhWw"
-    },
-    {
-      "termino": "classement atlético madrid – fc barcelone",
-      "trafico": "500+",
-      "noticia": "Atlético de Madrid-FC Barcelone : les compositions officielles",
-      "enlace": "https://www.footmercato.net/a445045872630581870-atletico-de-madrid-fc-barcelone-les-compositions-officielles",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEvL8inRQMwK1WICNc9soNvNWfKFQpaMdtenC-fcXzIwH68PjLyx82ew0k2uY"
     }
   ]
 }
