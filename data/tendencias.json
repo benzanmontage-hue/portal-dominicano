@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-08T23:45:10.420642-04:00",
-  "hora": "23:45",
-  "fecha": "08/11/2026",
+  "updated": "2026-11-09T00:05:27.922986-04:00",
+  "hora": "00:05",
+  "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "kings - heat",
       "trafico": "100+",
-      "noticia": "Los Angeles Lakers vs Detroit Pistons Nov 8, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-det-0022600197/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapyR6Fe_-gHeBdoeDf7h-auV3YGmotIsPoTyRKlu9hnzUzZ7gwTtRK2FRGuw"
+      "noticia": "Miami Heat vs Sacramento Kings Nov 8, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/mia-vs-sac-0022600202/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDKTw5Zd2M_IVpM5TgL7ll7pR7hh_6HcAJsJr-2Oyccj5sZocoHztnnkV5jkI"
     },
     {
       "termino": "terremoto",
@@ -43,9 +43,9 @@
     {
       "termino": "mavericks - nets",
       "trafico": "100+",
-      "noticia": "Mavericks look to extend dominance over Nets",
-      "enlace": "https://www.cbssports.com/nba/news/mavericks-look-to-extend-dominance-over-nets/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+      "noticia": "Cooper Flagg leads Mavericks in 130-93 blowout win over Nets",
+      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-leads-mavericks-in-130-93-blowout-win-over-nets/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
     },
     {
       "termino": "apagón eléctrico",
@@ -64,9 +64,9 @@
     {
       "termino": "licey vs escogido",
       "trafico": "100+",
-      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
-      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
+      "noticia": "Licey se impone al Escogido en un nuevo capítulo entre los Eternos Rivales",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/08/lidom-licey-se-impone-al-escogido-en-duelo-eternos-rivales/3715058",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZ3zf5kIZbpyFeH3A09P3RfXnLYFxiBTFBd67IM96ujgVONVg6Q3s3XGyAEM"
     },
     {
       "termino": "alan jones",
