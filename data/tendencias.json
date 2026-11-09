@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-09T10:45:56.106595-04:00",
-  "hora": "10:45",
+  "updated": "2026-11-09T11:06:20.314675-04:00",
+  "hora": "11:06",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nvidia",
+      "trafico": "100+",
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
+    },
+    {
+      "termino": "liga de béisbol profesional de la república dominicana",
+      "trafico": "200+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrJXDUuSmtre8_HXuBNm8sRIfxtw51lMy8eOxxtU9RmWgFXyQhPqXkYHTvijg"
+    },
     {
       "termino": "pedro martínez",
       "trafico": "200+",
@@ -15,9 +29,9 @@
     {
       "termino": "miss universo",
       "trafico": "200+",
-      "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
+      "noticia": "Melissa Núñez viaja a Puerto Rico tras recibir el alta médica para competir en Miss Universe 2026",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/09/melissa-nunez-viaja-a-puerto-rico-para-competir-en-miss-universe-2026/3715414",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnV1A2MVLspt2tTY5QrzLUeHM84ba5mxqbE8TmFCc8jF3Ju0aA_LM1yeW78Wo"
     },
     {
       "termino": "habichuelas con dulce",
@@ -28,7 +42,7 @@
     },
     {
       "termino": "que se celebra el 9 de noviembre",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Dedicación de la Basílica de Letrán, la venerable fiesta de la Catedral de Roma y Madre de todas las iglesias",
       "enlace": "https://perfil.com/sociedad/que-santo-se-recuerda-hoy-9-de-noviembre-a50-aTzuC7R2XRhN",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyEcDsTZFdwLJ8xl-fdT20gs9_AQHwm9Tshdk0X14TUQvc-s64atbgRetUog"
@@ -57,23 +71,9 @@
     {
       "termino": "terremoto",
       "trafico": "2000+",
-      "noticia": "“Hasta las últimas consecuencias”: Ocampo estudia acciones legales tras reporte de la primera dama",
-      "enlace": "https://caracol.com.co/2026/11/09/hasta-las-ultimas-consecuencias-ocampo-estudia-acciones-legales-tras-reporte-de-la-primera-dama/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl1T2VHpjnGV6AYhYKX3qZoNVNzDFWj-hURBSeIfVXcEyuawh-is-Wk6klGzw"
-    },
-    {
-      "termino": "evacuación",
-      "trafico": "500+",
-      "noticia": "La seguridad del papa León XIV en Argentina: cómo funciona la cápsula de policías que lo rodea",
-      "enlace": "https://www.infobae.com/sociedad/policiales/2026/11/09/la-seguridad-del-papa-leon-xiv-en-argentina-como-funciona-la-capsula-de-policias-que-lo-rodea/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQubiI40I43jMEq7MBl47X5WMCUv66yOghZunDTZhvrwvzv44YWcFTk6-pa8YA"
-    },
-    {
-      "termino": "jesus made",
-      "trafico": "500+",
-      "noticia": "“Siempre he tenido este equipo en el corazón”: Jesús Madé se despide del Licey tras tremenda actuación",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/siempre-he-tenido-equipo-corazon-jesus-made-despide-licey-tremenda-actuacion_929398.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDIL-BljI6FPG5PaVfBS8tN8wJ0Xm8zOPnMb-_1bp-ZVNCYoENuXss1wUTLkU"
+      "noticia": "Terremoto sismo temblor hoy: Epicentro, profundidad y último reporte del Servicio Geológico este domingo 8 de noviembre",
+      "enlace": "https://www.lafm.com.co/actualidad/terremoto-hoy-8-noviembre-sismo-temblor-epicentro-profundidad-ultimo-reporte-416528",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBlOnlDuenKdX7SMEwqeaYb2ttaRIofTgQ4x86PZuNfsc6foguCiaTdkzvbeo"
     }
   ]
 }

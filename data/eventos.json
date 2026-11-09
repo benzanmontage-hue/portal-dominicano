@@ -1,9 +1,15 @@
 {
-  "updated": "2026-11-09T10:45:59.992202-04:00",
-  "hora": "10:45",
+  "updated": "2026-11-09T11:06:24.708402-04:00",
+  "hora": "11:06",
   "fecha": "09/11/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” - La República",
+      "fuente": "La República",
+      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc0V6N0ZkZ21ic1pfQTFnbjdQVE5lMW95bjg4Q3NOSE14WTFlWHcxeFhaYmlKOE85Z2ZGNjBCMUJIaDE5b0VBbFZ5R0NleVFzMXo4dkFfdXAwNjduZ2tCbjN2ZnBjemU3ejBETUhiZUNYbVFiQW9PU25lMVRTY1VPdlNvM3YycUVwOUpMYlFXQWtKTkF3dEM0QVN6UWRjQUtlUGhIemUwYmpudlF0bjdaUWlJSm5pUksySjFyaTB0dWxaVUVYVnpQaUs4YUNEdEhabXM3NlZTZFFTaXZheWVGS2dvYjVUbEZzVXdnNUxCZm45TWZKZjlKVmlaTWJJS3ZsVGpDMU5OTUNBV0VyNGRMb3dxYWJRMEplSDFR0gGgAkFVX3lxTE5kbDV0WkY1X2RvUUtvVXo5dzQtUmNwM3I4VnpqODd6b3pQV1gwaGdaMENVVkNDWDlSS2l1eVpnVWRnby1zUDdLalVnVFBxaElzaGhHeDBMbTc3Tm5INmZEN2lnNlJyUF8tUVN1SmJaUjlWenBVcUp0RTNFcWpKR1hoQVgzN1hEMHNOREozTVB1OENHNlA0RzhsNnlLYU0zLTBmbENvb2VEUkI1Q2ZzWHZGakczUll0X00zYmZJUExGejlQVHdqLXU4UkhmNS1UUXEyb3hOcEpkT0llYWZVVUVJYjJTbnJTUlc5Rzl6WHVMcjZMMGp6bTdSajYzLXpzcG02WFBKdXI4c2dOUXExUVdOMDRkdVBrZFJlbnhPQ2FlRQ?oc=5",
+      "fecha": "Sun, 08 Nov 2026 22:04:22 GMT"
+    },
     {
       "titulo": "Romeo Santos aparece como invitado sorpresa en concierto de Bad Bunny en Dominicana - Billboard",
       "fuente": "Billboard",
@@ -69,12 +75,6 @@
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS05nYjhYX0l4b1JvcEs1eGl5QXdXZlowcFRhbmR6Y0lDS21od3lJWjZpdnhkU2tPd0MwbEFCTWRGeXppd1ZmSzVtTDI4TEtyeDFhcUVhZmc0eG9HYVlaV1E1YThad0VGWFM1cm5sa3gzVVRHNlBGNWhDY2RyakMwbHZFOGJlRm5Rdy1fekNVTTZrNnUzSUpPaVA5dTZIX09nYThERkExUTJDS3dkcUxiV09aTmRHRzk1a1Fwa2wtTGw5Sllk0gHKAUFVX3lxTE5KTzZBOVpFS3BBcXVVcEd3OFN6Ym45c3EzTTNpZ19EYUNzT2pCSHJMc1Vqdmx6S1RNN3hpWC12dnRUQVA4M0xFOGJqamszdEFvdDAyTlRtM2RMU3lsTGhKTXVsak5SNDBJQVFPZE5JNjlGc2dSb0RhdkxPR2NRRHpCbE5kNUNSeU9rS0pjaVNlaEtWU2JsRFF1ekFrQndrUjRCRl95Z25HOEk2a053NFAyV1BYVHYxTFBHb3Y0WVU3bXVzU2ZXc3FGdUE?oc=5",
       "fecha": "Fri, 17 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
-      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     }
   ]
 }
