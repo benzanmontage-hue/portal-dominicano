@@ -1,9 +1,15 @@
 {
-  "updated": "2026-11-09T13:08:57.467037-04:00",
-  "hora": "13:08",
+  "updated": "2026-11-09T18:39:42.759266-04:00",
+  "hora": "18:39",
   "fecha": "09/11/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "Marc Anthony anuncia su primera gira de conciertos por Estados Unidos en dos años - El Dia.com.do",
+      "fuente": "El Dia.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2tPdE9KNnRVMFI0eEFKOEYwdmFXaHpUc0xPWXFXSHhVZHBJVnVsLUdaeW9aWkFJeF9Pa0ZSSDBRdU90N3RBcTdhRFpaeHdPUHRvMUF0YVQ2MnlpbzRsRFhOWFQ5VkZUc2RPLXBma3gwRWQ2U19BakRCS2o0QWNSTVh6SG9PSm40YW9MYmRzYmxCZ1JEeUJEZFZ2TU1iYmQ4U05sRHBn?oc=5",
+      "fecha": "Mon, 09 Nov 2026 18:58:51 GMT"
+    },
     {
       "titulo": "Romeo Santos aparece como invitado sorpresa en concierto de Bad Bunny en Dominicana - Billboard",
       "fuente": "Billboard",
@@ -15,12 +21,6 @@
       "fuente": "La Crónica de Hoy",
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYmxEWG9LYlFVb2ZhY25xbVNPc0o3aUhKOFVlMkljTW5YV3lSdzNiSUdTVVRoSE9HSS1kbGg4ZTdEUFJoSW1jOFhLQTlpMHFfc3oxLXZ4dnFFRVBMQWZqZHc4MDU5Q0ZyYVZWQVFoMWFNOEs1ek9jVnNNejZ4dXFyREpUTHhkb0xWS3RFLUVseWNLQmNYRFp4bGxpcWRYNzN2eUdUS1RoN0RLUTdyQU4yOE9jQnp3SmNiT3JlWURyZU1SOWMtemNWdDM5dVVVdw?oc=5",
       "fecha": "Sat, 07 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "titulo": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” - La República",
-      "fuente": "La República",
-      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc0V6N0ZkZ21ic1pfQTFnbjdQVE5lMW95bjg4Q3NOSE14WTFlWHcxeFhaYmlKOE85Z2ZGNjBCMUJIaDE5b0VBbFZ5R0NleVFzMXo4dkFfdXAwNjduZ2tCbjN2ZnBjemU3ejBETUhiZUNYbVFiQW9PU25lMVRTY1VPdlNvM3YycUVwOUpMYlFXQWtKTkF3dEM0QVN6UWRjQUtlUGhIemUwYmpudlF0bjdaUWlJSm5pUksySjFyaTB0dWxaVUVYVnpQaUs4YUNEdEhabXM3NlZTZFFTaXZheWVGS2dvYjVUbEZzVXdnNUxCZm45TWZKZjlKVmlaTWJJS3ZsVGpDMU5OTUNBV0VyNGRMb3dxYWJRMEplSDFR0gGgAkFVX3lxTE5kbDV0WkY1X2RvUUtvVXo5dzQtUmNwM3I4VnpqODd6b3pQV1gwaGdaMENVVkNDWDlSS2l1eVpnVWRnby1zUDdLalVnVFBxaElzaGhHeDBMbTc3Tm5INmZEN2lnNlJyUF8tUVN1SmJaUjlWenBVcUp0RTNFcWpKR1hoQVgzN1hEMHNOREozTVB1OENHNlA0RzhsNnlLYU0zLTBmbENvb2VEUkI1Q2ZzWHZGakczUll0X00zYmZJUExGejlQVHdqLXU4UkhmNS1UUXEyb3hOcEpkT0llYWZVVUVJYjJTbnJTUlc5Rzl6WHVMcjZMMGp6bTdSajYzLXpzcG02WFBKdXI4c2dOUXExUVdOMDRkdVBrZFJlbnhPQ2FlRQ?oc=5",
-      "fecha": "Sun, 08 Nov 2026 22:04:22 GMT"
     },
     {
       "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
@@ -53,18 +53,6 @@
       "fecha": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Juan Luis Guerra recibe reconocimiento en República Dominicana antes de dos conciertos históricos - El Universo",
-      "fuente": "El Universo",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1p3VDV4eE5xSVoya1FkcElIR1ROdTU3NVV4eW9pRmNOYTlQejVwTjd5Ynd6bmxSN3E2U3ZJa3JkSUQxUDVldFFpaWtmS0stNlJ3VzlKNVB2d0dKVVBBVk95TXFRcUw4QW04ZFBKVU4taFV4LXI2NVYxdWVmYVUtTkMwTjAxbVlFN2FwS01QdXd3aGFYODA0ektXRWNocm5NZjFIQ1hVZE94YzJlX1Z6OXY3Zk1HZXhEbU4tam5xa3E4SER5N09wekYyRWFJZzhFd0J2VjM1YWRqUXhvbmFZN3RJZUdtUGPSAfsBQVVfeXFMTTVzcklmd0NJTzVZVm9lZ0JfR3BiYURCalItb19HZ3BBM0JUWEswWmdNWXlKak5hS1JwdjZSWmdHcWNDMmotenpwZ1U0LU5faG81WjVabzUtQWZTZGVTM0ZER0k3alNpRXVaU2M1NEtwVTFpUnJFUlRYMTFuajM5Y0M5NUR1NHJoMjMxSnZtYU1IZWwtNEZzLThiSWF2cEJLM0RWMWtUaF9aYUpjUkJ0ZzZXQ294ZkFpWTRUTU1PbTlfYlF1dUVyNTFZcFJhbkluQlRobTFjMVpsbWNWcnRnUDQ1M3NRY0pxdzdzSzd3VUJpVHNNdFJpc2ZpM0U?oc=5",
-      "fecha": "Fri, 20 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "titulo": "Ni la crisis frena la música: los conciertos siguen llenándose en República Dominicana - El Dia.com.do",
-      "fuente": "El Dia.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1Z6TG9XYVRQU3lFMTh2aTNldzJSbUNnVGdLYkRTX09mbkNFVm02SlZxWG83VkZXVjR0MEw1cGUyT3JwSlVsVEVmNkg4cW10Mk90OENwX0xobFYzcVdtYXJUMzM5T0s4YUVxMjg3WnV1Rk9zdFZBOWx0RXU1MVFuZGhsNjlIMTNfZU9obmxPSWxpOGkxaThFd1VZbFI2b3RFU0djczBlMlk3ek1yeXhhQ29UTk5WOWp6dEVzTTlrWkk?oc=5",
-      "fecha": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
       "titulo": "Chayanne en República Dominicana: conciertos, giras y su regreso en 2026 al Estadio Quisqueya - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlNYOVNVUk5nbGFnWDNrcDFNWW1iaE1yLVJtVUwzVWZpTkZVRXRPeHVGZjF0a2g0OFFodDk2UWpxNUhBbzBCbTN0MjZSdUM1cXVEZzNQMVBPaFRUdVpPcjIzTmtLa1Bxbl9fcFZwcVN5TFN4SkxERC11bFRmRWhGVXo3S3gwbFZuYmtBaDV2S0VVbm9RbTFLVWlydU92Nkc4YlRDX01CV3RLSFZHU3djUk9kMDl0UjZWLS1VWnFiR2YzUVdBWk1hWWtwQWo2RXVtM2hUTm1n0gHWAUFVX3lxTFBCU1g5U1VSTmdsYWdYM2twMU1ZbWJoTXItUm1VTDNVZmlORlVFdE94dUZmMXRraDQ4UWh0OTZRanE1SEFvMEJtM3QyNlJ1QzVxdURnM1AxUE9oVFR1Wk9yMjNOa0trUHFuX19wVnBxU3lMU3hKTERELXVsVGZFaEZVejdLeDBsVm5ia0FoNXZLRVVub1FtMUtVaXJ1T3Y2RzhiVENfTUJXdEtIVkdTd2NST2QwOXRSNlYtLVVacWJHZjNRV0FaTWFZa3BBajZFdW0zaFRObWc?oc=5",
@@ -75,6 +63,18 @@
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS05nYjhYX0l4b1JvcEs1eGl5QXdXZlowcFRhbmR6Y0lDS21od3lJWjZpdnhkU2tPd0MwbEFCTWRGeXppd1ZmSzVtTDI4TEtyeDFhcUVhZmc0eG9HYVlaV1E1YThad0VGWFM1cm5sa3gzVVRHNlBGNWhDY2RyakMwbHZFOGJlRm5Rdy1fekNVTTZrNnUzSUpPaVA5dTZIX09nYThERkExUTJDS3dkcUxiV09aTmRHRzk1a1Fwa2wtTGw5Sllk0gHKAUFVX3lxTE5KTzZBOVpFS3BBcXVVcEd3OFN6Ym45c3EzTTNpZ19EYUNzT2pCSHJMc1Vqdmx6S1RNN3hpWC12dnRUQVA4M0xFOGJqamszdEFvdDAyTlRtM2RMU3lsTGhKTXVsak5SNDBJQVFPZE5JNjlGc2dSb0RhdkxPR2NRRHpCbE5kNUNSeU9rS0pjaVNlaEtWU2JsRFF1ekFrQndrUjRCRl95Z25HOEk2a053NFAyV1BYVHYxTFBHb3Y0WVU3bXVzU2ZXc3FGdUE?oc=5",
       "fecha": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Juan Luis Guerra recibe reconocimiento en República Dominicana antes de dos conciertos históricos - El Universo",
+      "fuente": "El Universo",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1p3VDV4eE5xSVoya1FkcElIR1ROdTU3NVV4eW9pRmNOYTlQejVwTjd5Ynd6bmxSN3E2U3ZJa3JkSUQxUDVldFFpaWtmS0stNlJ3VzlKNVB2d0dKVVBBVk95TXFRcUw4QW04ZFBKVU4taFV4LXI2NVYxdWVmYVUtTkMwTjAxbVlFN2FwS01QdXd3aGFYODA0ektXRWNocm5NZjFIQ1hVZE94YzJlX1Z6OXY3Zk1HZXhEbU4tam5xa3E4SER5N09wekYyRWFJZzhFd0J2VjM1YWRqUXhvbmFZN3RJZUdtUGPSAfsBQVVfeXFMTTVzcklmd0NJTzVZVm9lZ0JfR3BiYURCalItb19HZ3BBM0JUWEswWmdNWXlKak5hS1JwdjZSWmdHcWNDMmotenpwZ1U0LU5faG81WjVabzUtQWZTZGVTM0ZER0k3alNpRXVaU2M1NEtwVTFpUnJFUlRYMTFuajM5Y0M5NUR1NHJoMjMxSnZtYU1IZWwtNEZzLThiSWF2cEJLM0RWMWtUaF9aYUpjUkJ0ZzZXQ294ZkFpWTRUTU1PbTlfYlF1dUVyNTFZcFJhbkluQlRobTFjMVpsbWNWcnRnUDQ1M3NRY0pxdzdzSzd3VUJpVHNNdFJpc2ZpM0U?oc=5",
+      "fecha": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
+      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     }
   ]
 }

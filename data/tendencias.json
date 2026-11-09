@@ -1,79 +1,79 @@
 {
-  "updated": "2026-11-09T13:08:53.531692-04:00",
-  "hora": "13:08",
+  "updated": "2026-11-09T18:39:29.649485-04:00",
+  "hora": "18:39",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "juego licey escogido",
+      "termino": "beisbol invernal",
+      "trafico": "100+",
+      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
+    },
+    {
+      "termino": "agresión",
+      "trafico": "500+",
+      "noticia": "Russell Brand fue sentenciado a 10 años y seis meses de prisión por violación y agresión sexual",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/09/entretenimiento/russell-brand-condena-violacion-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPNXy9U_h90_f1_M6oh4_GZCDM1VZPZ_aUJthu3BN47qg75h5NX4CzxrJzR6A"
+    },
+    {
+      "termino": "fábrica",
       "trafico": "200+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+      "noticia": "Diez muertos en Turquía en la explosión de una siderurgia metalúrgica",
+      "enlace": "https://elnuevodiario.com.do/diez-muertos-en-turquia-en-la-explosion-de-una-siderurgia/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajBOwWAOWeB13YyOXQzyGI5inQhg0dEiam4SacqUenvqvoHMTjKKzZUlnZHw"
     },
     {
-      "termino": "russell brand",
-      "trafico": "100+",
-      "noticia": "Russell Brand sentenced to 10 years and six months for rape and sexual assault",
-      "enlace": "https://www.bbc.com/news/live/c670ppzjwxpnt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs84VN5dGD8oYFa9vQhm32RynJzPzQMxtGKz6Q1xqlUNZk4gMIdY3p0wUuVDs"
-    },
-    {
-      "termino": "bravo",
-      "trafico": "100+",
-      "noticia": "The ‘expectations for Bravo talent’—and other RHONY contract revelations",
-      "enlace": "https://www.realityblurred.com/realitytv/2026/11/bravo-talent-agreement-rhony-contract/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJogy11L14A8lM5oJNj8EkE-tPUGzxv5k_3EpgvC60-_fo-cX6Jp-VyGJzyZg"
-    },
-    {
-      "termino": "puente",
-      "trafico": "100+",
-      "noticia": "Suiza iba a renovar un puente sobre el río Aare. Los arqueólogos miraron debajo y encontraron otro que llevaba 1.700 años allí desde el Imperio romano",
-      "enlace": "https://es.gizmodo.com/descubren-puente-romano-de-1700-anos-bajo-el-rio-aare-en-suiza-2000251695",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBJYFxGthrE4QrWme-EImAZJR87uDAamD1qtEYx_q2ni3c4Re2SH5cizQlMxw"
-    },
-    {
-      "termino": "nvidia",
-      "trafico": "200+",
+      "termino": "china",
+      "trafico": "1000+",
       "noticia": "Statement From NVIDIA Board of Directors",
       "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
     },
     {
-      "termino": "pedro martínez",
+      "termino": "asteroide",
       "trafico": "200+",
-      "noticia": "Pedro Martínez muestra malestar por conversaciones del acuerdo laboral",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/08/mlb-martinez-muestra-estar-molesto-por-conversaciones-del-cba/3714896",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwupuvg8AFJAFJzHrPUpRqGJAHmPy6QjXQbYzL-tcP97uLGDb5JYQy7UFfUo"
+      "noticia": "Estos son los asteroides peligrosos para la Tierra: la Nasa vigila estas rocas espaciales por riesgo de impacto",
+      "enlace": "https://www.eltiempo.com/vida/ciencia/estos-son-los-asteroides-peligrosos-para-la-tierra-la-nasa-vigila-estas-rocas-espaciales-por-riesgo-de-impacto-3599532",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCTEBAq316SCC7j02dzUs2sBuAh4xc92GtG_tTxKtxl5-EGEQwV2f_8-p-wcU"
     },
     {
-      "termino": "miss universo",
+      "termino": "lotería nacional de hoy",
       "trafico": "500+",
+      "noticia": "Lotería Nacional comprobar sorteo extraordinario de La Cultura del sábado 7 de noviembre",
+      "enlace": "https://elpais.com/sorteos/2026-11-07/loteria-nacional-sorteo-extraordinario-de-la-cultura-del-sabado-7-de-noviembre.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT32zBRUcpbGFOqJs7kaDvvBH6Sibr8D29OH4v-bN0rBKk42on7cKnn03-HWrs"
+    },
+    {
+      "termino": "la barquita",
+      "trafico": "200+",
+      "noticia": "¡Atención conductores! El puente de La Barquita continúa cerrado este lunes",
+      "enlace": "https://listindiario.com/la-republica/20261109/atencion-conductores-puente-barquita-continua-cerrado-lunes_929407.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Qua5kdRdg2Wln2sWLzfa0jY2pTil7bO98XLd_hyVGbiN_xSmNH2te7aPktA"
+    },
+    {
+      "termino": "real",
+      "trafico": "500+",
+      "noticia": "Parents want safer phones for kids — these companies are answering the call",
+      "enlace": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO7YDBO1sqqUQUDMg_6-DMrA-2WNKIBSR_LN4dcTkia3Ta2QXaPNpKUO41OSk"
+    },
+    {
+      "termino": "accidente melissa nuñez",
+      "trafico": "1000+",
       "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
     },
     {
-      "termino": "habichuelas con dulce",
-      "trafico": "100+",
-      "noticia": "Solo falta la batata: Dasac desafía la austeridad con RD$630 MM en kits de habichuelas con dulce",
-      "enlace": "https://www.diariolibre.com/politica/general/2026/11/05/el-gobierno-gastara-rd630-millones-en-kits-de-habichuelas-con-dulce/3711808",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUx3Pc9-E0KzF5a9YvXhh-6oNNzQIy369RZOjs5jAIV9UZTpMOA-Kt8qWw7Fw"
-    },
-    {
-      "termino": "que se celebra el 9 de noviembre",
+      "termino": "russell brand",
       "trafico": "500+",
-      "noticia": "Dedicación de la Basílica de Letrán, la venerable fiesta de la Catedral de Roma y Madre de todas las iglesias",
-      "enlace": "https://perfil.com/sociedad/que-santo-se-recuerda-hoy-9-de-noviembre-a50-aTzuC7R2XRhN",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyEcDsTZFdwLJ8xl-fdT20gs9_AQHwm9Tshdk0X14TUQvc-s64atbgRetUog"
-    },
-    {
-      "termino": "clippers - pelicans",
-      "trafico": "200+",
-      "noticia": "Zion Williamson News: Perfect from field in loss",
-      "enlace": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-perfect-from-field-in-loss-538237",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEYpXaplWunSnBYAU9yffi9hcE7LqvNoqNhSUg-I04FcQsudzTCU35M5hc5I"
+      "noticia": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+      "enlace": "https://www.bbc.com/news/articles/ckzd6dl18dmyo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQelPXvx9WVYUYRavXZ90Ngo8CIqO5_cQrZlVOhyDpWGNN00jB8w0SZ-E1XZ-Q"
     }
   ]
 }

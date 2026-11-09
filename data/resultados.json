@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T13:08:50.444644-04:00",
+  "updated": "2026-11-09T18:39:26.620502-04:00",
   "fecha": "09/11/2026",
-  "hora": "13:08",
+  "hora": "18:39",
   "total_juegos": 53,
   "juegos": [
     {
@@ -19,24 +19,24 @@
       "compania": "Nacional",
       "juego": "Gana Más",
       "numeros": [
-        "59",
-        "14",
-        "00"
+        "68",
+        "73",
+        "46"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d482"
     },
     {
       "compania": "Nacional",
       "juego": "Juega + Pega +",
       "numeros": [
-        "03",
-        "26",
-        "14",
-        "26",
-        "12"
+        "17",
+        "19",
+        "25",
+        "01",
+        "01"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d48e"
     },
     {
@@ -159,10 +159,10 @@
       "compania": "Loteria Real",
       "juego": "Super Palé",
       "numeros": [
-        "59",
-        "59"
+        "48",
+        "68"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4b4"
     },
     {
@@ -233,55 +233,55 @@
       "compania": "Anguila",
       "juego": "Anguila 2:00 PM",
       "numeros": [
-        "13",
-        "48",
-        "82"
+        "05",
+        "76",
+        "93"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a3e96e25036a431f5f40c87"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 3:00 PM",
       "numeros": [
-        "36",
-        "80",
-        "42"
+        "30",
+        "07",
+        "73"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a3e97a25036a431f5f41eef"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 4:00 PM",
       "numeros": [
-        "24",
-        "02",
-        "40"
+        "90",
+        "49",
+        "32"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a5116a607d516b9c5102db7"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 5:00 PM",
       "numeros": [
-        "13",
-        "67",
-        "13"
+        "97",
+        "80",
+        "37"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a5116f607d516b9c510302f"
     },
     {
       "compania": "Anguila",
       "juego": "Anguila 6:00 PM",
       "numeros": [
-        "03",
-        "84",
-        "42"
+        "27",
+        "13",
+        "15"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d617"
     },
     {
@@ -367,12 +367,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 6:00 PM",
       "numeros": [
-        "25",
-        "17",
-        "34",
-        "24"
+        "42",
+        "11",
+        "55",
+        "44"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d629"
     },
     {
@@ -429,11 +429,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Día",
       "numeros": [
-        "34",
-        "31",
-        "97"
+        "11",
+        "12",
+        "44"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6abd4faeacdb2c1c557c84c2"
     },
     {
@@ -527,11 +527,11 @@
       "compania": "La Suerte",
       "juego": "La Suerte 18:00",
       "numeros": [
-        "06",
-        "79",
-        "09"
+        "67",
+        "21",
+        "95"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d5e9"
     },
     {
