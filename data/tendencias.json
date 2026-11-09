@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-08T23:04:28.854349-04:00",
-  "hora": "23:04",
+  "updated": "2026-11-08T23:24:49.040853-04:00",
+  "hora": "23:24",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "kings - heat",
+      "trafico": "100+",
+      "noticia": "Kings  Domantas Sabonis: Out Sunday",
+      "enlace": "https://www.cbssports.com/fantasy/basketball/news/kings-domantas-sabonis-out-sunday/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+    },
+    {
+      "termino": "terremoto",
+      "trafico": "2000+",
+      "noticia": "Terremoto moderado mag. 4.0 - Mar de la China Oriental, 81 km al sur de Koseda, Japón, Monday 9 Nov 2026 a las 11:12 (GMT +9)",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23619108/mag4quake-Nov-9-2026-Japan-Near-Amami-Oshima-Island.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-IRbuB1pUxMSL98ZJit_QMxs1GbOv5FgFrXy_7DonoLb-sjd7A9HXhdD9BrU"
+    },
     {
       "termino": "evacuación",
       "trafico": "100+",
@@ -13,11 +27,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3QeVlh3vQz8sw7sa77_HgAswscjBuEwl3IEEtOxH3DMINtMjTASIWL-1HGA"
     },
     {
+      "termino": "jesus made",
+      "trafico": "100+",
+      "noticia": "La actuación del prospecto Jesús Madé en Lidom llega a su fin este domingo",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/actuacion-prospecto-jesus-made-llega-domingo_929354.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzU3u-Qlm_Ei1G3HPE9m5O38fwmalhI8uuwLbuU79hK3mnCj8E53Qq3lXqCv0"
+    },
+    {
       "termino": "ziaire williams",
       "trafico": "100+",
       "noticia": "Ziaire Williams Enjoying Being Austin Reaves’ Teammate",
       "enlace": "https://lakersnation.com/ziaire-williams-enjoying-being-austin-reaves-teammate/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA48i3rO5Ta4jO5fP4gQxozCmlf2ZPOWigU9KyX3SltU18KbSENKcTJaZ_z94"
+    },
+    {
+      "termino": "mavericks - nets",
+      "trafico": "100+",
+      "noticia": "Mavericks look to extend dominance over Nets",
+      "enlace": "https://www.cbssports.com/nba/news/mavericks-look-to-extend-dominance-over-nets/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
       "termino": "apagón eléctrico",
@@ -36,9 +64,9 @@
     {
       "termino": "licey vs escogido",
       "trafico": "100+",
-      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
-      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
+      "noticia": "EN VIVO: Tigres del Licey vs. Leones del Escogido",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-licey-vs-escogido-251322",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRtOxiIdzc-V2N5-94eT-nvHbKt5fz8D1WkFcj4_I1Sf4Q5x1HBN8_yqQoCqc"
     },
     {
       "termino": "alan jones",
@@ -46,34 +74,6 @@
       "noticia": "Alan Jones obituary | Formula One",
       "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
-    },
-    {
-      "termino": "timberwolves - jazz",
-      "trafico": "200+",
-      "noticia": "Live: Wolves, on a win streak, pulling away at home against one-win Jazz",
-      "enlace": "https://www.startribune.com/minnesota-timberwolves-utah-jazz-score-today-live-lamelo-ball-stats-anthony-edwards-injury-update/601912402",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqqMKGne3xAAKS9Ec-YNQyyymNc6mYinW2M3qEeAkv5hX3htEpX22wnsp6GeU"
-    },
-    {
-      "termino": "pistons - lakers",
-      "trafico": "2000+",
-      "noticia": "Austin Reaves scores 43 as Lakers hold off Pistons",
-      "enlace": "https://www.cbssports.com/nba/news/austin-reaves-scores-43-as-lakers-hold-off-pistons/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
-    },
-    {
-      "termino": "lotería nacional hoy",
-      "trafico": "1000+",
-      "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 5 de noviembre, en directo",
-      "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-05/comprobar-loteria-nacional-jueves-resultados-directo_4459866/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
-    },
-    {
-      "termino": "lotería nacional",
-      "trafico": "10000+",
-      "noticia": "Resultados Leidsa: Números ganadores 08 de noviembre 2026",
-      "enlace": "https://cdn.com.do/estilos-de-vida/resultados-leidsa-numeros-ganadores-08-de-noviembre-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyOWVsZhTlh6gsRvvBU3Da1emx_B3_Cs-djxr5FyJTT0df7y1Xb9Vl3D9LU9Q"
     }
   ]
 }
