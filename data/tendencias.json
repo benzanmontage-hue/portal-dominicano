@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T11:06:20.314675-04:00",
-  "hora": "11:06",
+  "updated": "2026-11-09T11:26:46.555456-04:00",
+  "hora": "11:26",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "puente",
+      "trafico": "100+",
+      "noticia": "Apertura al tráfico del nuevo puente de Cordel de la Noguera sobre las vías del tren",
+      "enlace": "https://cadenaser.com/comunitat-valenciana/2026/11/09/apertura-al-trafico-del-nuevo-puente-de-cordel-de-la-noguera-sobre-las-vias-del-tren-radio-villena/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MnQ9YpOlrW0LQepBYH36OMzWmfv9b-vAZeRyFx6MLAVK2w9Gho-OgG1pRuY"
+    },
     {
       "termino": "nvidia",
       "trafico": "100+",
@@ -29,9 +36,9 @@
     {
       "termino": "miss universo",
       "trafico": "200+",
-      "noticia": "Melissa Núñez viaja a Puerto Rico tras recibir el alta médica para competir en Miss Universe 2026",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/09/melissa-nunez-viaja-a-puerto-rico-para-competir-en-miss-universe-2026/3715414",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnV1A2MVLspt2tTY5QrzLUeHM84ba5mxqbE8TmFCc8jF3Ju0aA_LM1yeW78Wo"
+      "noticia": "Melissa Núñez y Magali Febles posponen su viaje a Puerto Rico tras accidente de tránsito",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/08/accidente-retrasa-melissa-nunez-y-magali-febles-a-miss-universe-2026/3714683",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnygDBWuHinkvVJP_jqu7AESKYb42kN36HCf2gji0DK-ZXx6eIY345G8TP9W0"
     },
     {
       "termino": "habichuelas con dulce",
@@ -67,13 +74,6 @@
       "noticia": "More history for Acuff, but Kings fall to 1-9 on the season",
       "enlace": "https://sactownsports.com/nba/sacramento-kings/acuff-heat",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1-Qyx-zf7mK1xyWiq8JZvcWIsSKTwb3ie9fj95GS6OSWLrKw-G_vVPollkyQ"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "2000+",
-      "noticia": "Terremoto sismo temblor hoy: Epicentro, profundidad y último reporte del Servicio Geológico este domingo 8 de noviembre",
-      "enlace": "https://www.lafm.com.co/actualidad/terremoto-hoy-8-noviembre-sismo-temblor-epicentro-profundidad-ultimo-reporte-416528",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBlOnlDuenKdX7SMEwqeaYb2ttaRIofTgQ4x86PZuNfsc6foguCiaTdkzvbeo"
     }
   ]
 }
