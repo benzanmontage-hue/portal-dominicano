@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T00:25:49.244399-04:00",
-  "hora": "00:25",
+  "updated": "2026-11-09T00:46:09.103581-04:00",
+  "hora": "00:46",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,16 @@
     {
       "termino": "kings - heat",
       "trafico": "200+",
-      "noticia": "Heat visit 1-8 Kings as both teams search for answers",
-      "enlace": "https://www.cbssports.com/nba/news/heat-visit-1-8-kings-as-both-teams-search-for-answers/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+      "noticia": "Miami Heat vs Sacramento Kings Nov 8, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/mia-vs-sac-0022600202/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDKTw5Zd2M_IVpM5TgL7ll7pR7hh_6HcAJsJr-2Oyccj5sZocoHztnnkV5jkI"
+    },
+    {
+      "termino": "elena rybakina",
+      "trafico": "100+",
+      "noticia": "The Defending Champion Is Out on the Eve of the Finals",
+      "enlace": "https://www.tenniswatcher.com/en/news/tournament-director-muguruza-says-wta-finals-still-has-an-amazing-field-despite-elena-rybakinas-withdrawal",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9kDLtF5ORC1JSFqURnCgyFQ5aNiZ_rAORWWN5kLq3C_m0Foq8wdYAFzX_QnI"
     },
     {
       "termino": "terremoto",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "jesus made",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "La actuación del prospecto Jesús Madé en Lidom llega a su fin este domingo",
       "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/actuacion-prospecto-jesus-made-llega-domingo_929354.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzU3u-Qlm_Ei1G3HPE9m5O38fwmalhI8uuwLbuU79hK3mnCj8E53Qq3lXqCv0"
@@ -43,9 +50,9 @@
     {
       "termino": "mavericks - nets",
       "trafico": "200+",
-      "noticia": "Cooper Flagg leads Mavericks in 130-93 blowout win over Nets",
-      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-leads-mavericks-in-130-93-blowout-win-over-nets/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFERzEU1Dqx4cKH65D4s-R8-UxxZsHAyg7OxFG6eGKrlkfQQeOsVwNqHAA6no"
+      "noticia": "Brooklyn Nets vs. Dallas Mavericks Live Score and Stats - November 8, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261108_BKN@DAL/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsUhU7NIGORuqPe_TBTblJAyhJkd2AQzdVBANRnuQ-0ggpKDRSc3MO_3Y9pDo"
     },
     {
       "termino": "apagón eléctrico",
@@ -67,13 +74,6 @@
       "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
       "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
-    },
-    {
-      "termino": "alan jones",
-      "trafico": "1000+",
-      "noticia": "Alan Jones obituary | Formula One",
-      "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
     }
   ]
 }
