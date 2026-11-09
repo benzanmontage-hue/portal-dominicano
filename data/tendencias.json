@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T08:43:27.353297-04:00",
-  "hora": "08:43",
+  "updated": "2026-11-09T09:03:53.700641-04:00",
+  "hora": "09:03",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "liga de béisbol profesional de la república dominicana",
+      "trafico": "200+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+    },
     {
       "termino": "pedro martínez",
       "trafico": "100+",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "que se celebra el 9 de noviembre",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Dedicación de la Basílica de Letrán, la venerable fiesta de la Catedral de Roma y Madre de todas las iglesias",
       "enlace": "https://perfil.com/sociedad/que-santo-se-recuerda-hoy-9-de-noviembre-a50-aTzuC7R2XRhN",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyEcDsTZFdwLJ8xl-fdT20gs9_AQHwm9Tshdk0X14TUQvc-s64atbgRetUog"
@@ -63,17 +70,10 @@
     },
     {
       "termino": "evacuación",
-      "trafico": "200+",
-      "noticia": "Qué se puede llevar a la misa del papa León XIV: elementos prohibidos y permitidos para el evento",
-      "enlace": "https://www.lanacion.com.ar/sociedad/que-se-puede-llevar-a-la-misa-del-papa-leon-xiv-elementos-prohibidos-y-permitidos-para-el-evento-nid09112026/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6dZ8zsEbT1IOvzOMpKVbZ73LU6U1p3ZaMN-TZOZalwnp9udkU7Q7J_0TPFXM"
-    },
-    {
-      "termino": "jesus made",
       "trafico": "500+",
-      "noticia": "“Siempre he tenido este equipo en el corazón”: Jesús Madé se despide del Licey tras tremenda actuación",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261108/siempre-he-tenido-equipo-corazon-jesus-made-despide-licey-tremenda-actuacion_929398.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDIL-BljI6FPG5PaVfBS8tN8wJ0Xm8zOPnMb-_1bp-ZVNCYoENuXss1wUTLkU"
+      "noticia": "El río superó el nivel de evacuación en Paraná y mide 5.05 metros",
+      "enlace": "https://www.elonce.com/parana/el-rio-supero-el-nivel-de-evacuacion-en-parana-y-mide-5-05-metros.htm",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScsi1aL0KWXipcaR5KhnISOIhmijo6iCV-JhrXg1K_BXMTuEJBi5qys9zEKgE"
     }
   ]
 }
