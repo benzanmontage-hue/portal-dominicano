@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-09T19:00:14.035299-04:00",
-  "hora": "19:00",
+  "updated": "2026-11-09T19:20:43.570910-04:00",
+  "hora": "19:20",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "república dominicana",
+      "termino": "locutor",
       "trafico": "100+",
+      "noticia": "Muere el locutor Alejandro Sánchez, conocido como El Feo Nuclear",
+      "enlace": "https://listindiario.com/entretenimiento/tv/20261109/muere-locutor-alejandro-sanchez-conocido-feo-nuclear_929433.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrT5G3QPHx-HxFqusPuUHWiCFanCCkuFCUbkmx24HwuI70BLV-OWllF1vUkpk"
+    },
+    {
+      "termino": "jeremy latcham",
+      "trafico": "100+",
+      "noticia": "James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces",
+      "enlace": "https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVffYzzUplJR4oBNKm_6OSo3RKj9yYre3VjoL0Jl-FtoMfqboYmdx7hCC-KqE"
+    },
+    {
+      "termino": "república dominicana",
+      "trafico": "200+",
       "noticia": "EE. UU. endurece su discurso sobre China y respalda clausura de fábrica de cartón clandestin en RD",
       "enlace": "https://eldia.com.do/ee-uu-endurece-su-discurso-sobre-china-y-respalda-clausura-de-fabrica-de-carton-clandestin-en-rd/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZjUOWBxy8PUVnD0UfnG6HNJmCXNk0EDDh6uDUqAzRVZDE3VmtHwuBlaDKicg"
@@ -60,20 +74,6 @@
       "noticia": "Lotería Nacional comprobar sorteo extraordinario de La Cultura del sábado 7 de noviembre",
       "enlace": "https://elpais.com/sorteos/2026-11-07/loteria-nacional-sorteo-extraordinario-de-la-cultura-del-sabado-7-de-noviembre.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT32zBRUcpbGFOqJs7kaDvvBH6Sibr8D29OH4v-bN0rBKk42on7cKnn03-HWrs"
-    },
-    {
-      "termino": "la barquita",
-      "trafico": "200+",
-      "noticia": "¡Atención conductores! El puente de La Barquita continúa cerrado este lunes",
-      "enlace": "https://listindiario.com/la-republica/20261109/atencion-conductores-puente-barquita-continua-cerrado-lunes_929407.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Qua5kdRdg2Wln2sWLzfa0jY2pTil7bO98XLd_hyVGbiN_xSmNH2te7aPktA"
-    },
-    {
-      "termino": "real",
-      "trafico": "500+",
-      "noticia": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over",
-      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygwmgjxNV-aY1Kr6yYO0Wq2k4KbZCV2soXH_S4S0qlRDSSkEuRkhAxLUbsnk"
     }
   ]
 }
