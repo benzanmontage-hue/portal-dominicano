@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T12:27:57.601664-04:00",
-  "hora": "12:27",
+  "updated": "2026-11-09T12:48:28.973211-04:00",
+  "hora": "12:48",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "juego licey escogido",
+      "trafico": "200+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrJXDUuSmtre8_HXuBNm8sRIfxtw51lMy8eOxxtU9RmWgFXyQhPqXkYHTvijg"
+    },
     {
       "termino": "nvidia ceo jensen huang",
       "trafico": "200+",
@@ -29,16 +36,9 @@
     {
       "termino": "puente",
       "trafico": "100+",
-      "noticia": "Apertura al tráfico del nuevo puente de Cordel de la Noguera sobre las vías del tren",
-      "enlace": "https://cadenaser.com/comunitat-valenciana/2026/11/09/apertura-al-trafico-del-nuevo-puente-de-cordel-de-la-noguera-sobre-las-vias-del-tren-radio-villena/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MnQ9YpOlrW0LQepBYH36OMzWmfv9b-vAZeRyFx6MLAVK2w9Gho-OgG1pRuY"
-    },
-    {
-      "termino": "liga de béisbol profesional de la república dominicana",
-      "trafico": "200+",
-      "noticia": "Gran jornada de Navarreto (5-5, HR) eleva a Cangrejeros vs. Gigantes en extras",
-      "enlace": "https://www.mlb.com/es/news/p-r-gran-jornada-de-navarreto-eleva-a-cangrejeros-vs-gigantes-en-extras",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT31AFXEGZRtk4U8MPgDI39ILMnXfgiNhjuUopxJpZnwZf-sh4kZU-QZ6Wx-PU"
+      "noticia": "Moderno puente sobre río Guazapa mejora condiciones de vida de más de 6 mil habitantes",
+      "enlace": "https://diariolahuella.com/moderno-puente-sobre-rio-guazapa-mejora-condiciones-de-vida-de-mas-de-6-mil-habitantes/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsOVRD7N0kVjMYuMPwBFPpqwnucbO5jrY77fBvllse3iF5bsomLYTMfsSE44k"
     },
     {
       "termino": "pedro martínez",
