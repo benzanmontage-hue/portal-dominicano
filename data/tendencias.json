@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-08T21:02:26.095692-04:00",
-  "hora": "21:02",
+  "updated": "2026-11-08T21:22:48.616319-04:00",
+  "hora": "21:22",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "licey vs escogido",
+      "trafico": "100+",
+      "noticia": "Con 3 HR Gigantes terminan con racha ganadora del Escogido",
+      "enlace": "https://www.mlb.com/es/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_XZ2AQ_8QtEHohVMfVbFBZBEmLgqNFCIiz7yoyDv2p6GcxC2z_BGy9xKiME4"
+    },
+    {
       "termino": "alan jones",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Alan Jones obituary",
       "enlace": "https://www.theguardian.com/sport/2026/nov/08/alan-jones-obituary",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEouO_XsYaLxWpVhm6IO7uePvqilawRRFnntcDvry1wXsAmvIcuo-WwGjoqUs"
@@ -57,23 +64,16 @@
     {
       "termino": "posiciones de atlético de madrid contra fc barcelona",
       "trafico": "2000+",
-      "noticia": "Barça pass their biggest test yet as Fermín López sinks Atlético Madrid",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50426411/barca-pass-their-biggest-test-yet-fermin-lopez-sinks-atletico-madrid",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83R2cuMyemKAQe_oyKEJwcA6x619HoPnwKw83DdnYVKDbbzVGY4YgUfVV1EQ"
+      "noticia": "Atlético 1-2 Barcelona (Nov 8, 2026) Game Analysis",
+      "enlace": "https://www.espn.com/soccer/report/_/gameId/401882816",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZbNTreKzKelCr5_PIgw30U4eC3p4Z2If6ymuEQxstTyHHjuHfOhAFZpbJhWw"
     },
     {
       "termino": "classement atlético madrid – fc barcelone",
       "trafico": "500+",
-      "noticia": "Barça : la réaction du héros Fermin Lopez",
-      "enlace": "https://www.footmercato.net/a1889001013147041752-barca-la-reaction-du-heros-fermin-lopez",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPhIASGpZ0cFphoaq04RsnPlPnqLEfv74kQ9scpwcnVkLx3pYeWpyu7lOSDbY"
-    },
-    {
-      "termino": "barca vs",
-      "trafico": "200+",
-      "noticia": "Partidos de HOY, domingo 8 de noviembre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar",
-      "enlace": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-8-noviembre-horario-ver-futbol-vivo-tv-online-formaciones_0_EUZTTehISD.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGjxJmjL8VI5iYtBFkEml5l9odEo-eAQBao9DMTqCiw9suX9RSkVMxibdoU3w"
+      "noticia": "Atlético de Madrid-FC Barcelone : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a445045872630581870-atletico-de-madrid-fc-barcelone-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEvL8inRQMwK1WICNc9soNvNWfKFQpaMdtenC-fcXzIwH68PjLyx82ew0k2uY"
     }
   ]
 }
