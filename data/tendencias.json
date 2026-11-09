@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T19:20:43.570910-04:00",
-  "hora": "19:20",
+  "updated": "2026-11-09T19:41:08.710345-04:00",
+  "hora": "19:41",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lidom hoy",
+      "trafico": "2000+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+    },
     {
       "termino": "locutor",
       "trafico": "100+",
@@ -18,13 +25,6 @@
       "noticia": "James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces",
       "enlace": "https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVffYzzUplJR4oBNKm_6OSo3RKj9yYre3VjoL0Jl-FtoMfqboYmdx7hCC-KqE"
-    },
-    {
-      "termino": "república dominicana",
-      "trafico": "200+",
-      "noticia": "EE. UU. endurece su discurso sobre China y respalda clausura de fábrica de cartón clandestin en RD",
-      "enlace": "https://eldia.com.do/ee-uu-endurece-su-discurso-sobre-china-y-respalda-clausura-de-fabrica-de-carton-clandestin-en-rd/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZjUOWBxy8PUVnD0UfnG6HNJmCXNk0EDDh6uDUqAzRVZDE3VmtHwuBlaDKicg"
     },
     {
       "termino": "petróleo",
@@ -49,10 +49,10 @@
     },
     {
       "termino": "fábrica",
-      "trafico": "200+",
-      "noticia": "Diez muertos en Turquía en la explosión de una siderurgia metalúrgica",
-      "enlace": "https://elnuevodiario.com.do/diez-muertos-en-turquia-en-la-explosion-de-una-siderurgia/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajBOwWAOWeB13YyOXQzyGI5inQhg0dEiam4SacqUenvqvoHMTjKKzZUlnZHw"
+      "trafico": "500+",
+      "noticia": "Alto funcionario de EE. UU. respalda ofensiva contra fábrica china en República Dominicana",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/09/estados-unidos-respalda-cierre-de-fabrica-china-en-rd/3715705",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhVc7j6vnITzNRIHzR3pxxMditb8mqdiTwLqR_RuRSNty4I9cBuPE9fWGY0U"
     },
     {
       "termino": "china",
@@ -64,9 +64,9 @@
     {
       "termino": "asteroide",
       "trafico": "200+",
-      "noticia": "Estos son los asteroides peligrosos para la Tierra: la Nasa vigila estas rocas espaciales por riesgo de impacto",
-      "enlace": "https://www.eltiempo.com/vida/ciencia/estos-son-los-asteroides-peligrosos-para-la-tierra-la-nasa-vigila-estas-rocas-espaciales-por-riesgo-de-impacto-3599532",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCTEBAq316SCC7j02dzUs2sBuAh4xc92GtG_tTxKtxl5-EGEQwV2f_8-p-wcU"
+      "noticia": "¿Puede un asteroide destruir la Tierra? Esto explica la NASA",
+      "enlace": "https://www.ntn24.com/noticias-ciencia-y-tecnologia/puede-un-asteroide-destruir-la-tierra-esto-explica-la-nasa-664828",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdkelMHOA7LbnpcYfC3wvNNyUnkt0RZ3_LbI6xeMLOMdBzjHjM1FA-WXIX08M"
     },
     {
       "termino": "lotería nacional de hoy",
