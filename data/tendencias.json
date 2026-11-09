@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-08T22:23:48.114309-04:00",
-  "hora": "22:23",
+  "updated": "2026-11-08T22:44:09.102019-04:00",
+  "hora": "22:44",
   "fecha": "08/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "apagón eléctrico",
+      "termino": "ziaire williams",
       "trafico": "100+",
+      "noticia": "Ziaire Williams Enjoying Being Austin Reaves’ Teammate",
+      "enlace": "https://lakersnation.com/ziaire-williams-enjoying-being-austin-reaves-teammate/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA48i3rO5Ta4jO5fP4gQxozCmlf2ZPOWigU9KyX3SltU18KbSENKcTJaZ_z94"
+    },
+    {
+      "termino": "apagón eléctrico",
+      "trafico": "200+",
       "noticia": "Apagón: más de 15 comunidades y grandes empresas quedarán sin luz por mantenimiento red eléctrica",
       "enlace": "https://elnacional.com.do/nacionales/apagon-mas-de-15-comunidades-y-grandes-empresas-quedaran-sin-luz-por-mantenimiento-red-electrica_585691.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREtHqb7552mCXD0HJoojU1mR1zO8RCNKipwz7AqtK7WEULPYVDCjrUuxNbgVk"
@@ -15,9 +22,16 @@
     {
       "termino": "bucks - celtics",
       "trafico": "200+",
-      "noticia": "Celtics vs. Bucks Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 8",
-      "enlace": "https://www.si.com/betting/celtics-vs-bucks-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-8-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUG7_MjORj3mwtQHFRRYYioZjRHEcZfCAwjlwzQP0NHag-9w3ljfP8XzIb0s0"
+      "noticia": "Celtics at Bucks preview: Milwaukee on a five-game losing streak entering Sunday’s prime-time showdown",
+      "enlace": "https://www.bostonglobe.com/2026/11/08/sports/celtics-bucks-preview-november-8-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRjlzXQgqdZIBFirwZd9_qqjchM6frPzhnHDXhBKO0jYlTAts0o0LOetBb_pw"
+    },
+    {
+      "termino": "daniss jenkins",
+      "trafico": "200+",
+      "noticia": "Daniss Jenkins drops career-high 31 points in loss",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-08/daniss-jenkins-drops-career-high-31-points-in-loss",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXj8iYM8juDYtUwEo1KrQqTLV8-zGbZY8Mmub4tmoLHBauVoDmb84aQFtgcc"
     },
     {
       "termino": "licey vs escogido",
@@ -36,9 +50,9 @@
     {
       "termino": "timberwolves - jazz",
       "trafico": "200+",
-      "noticia": "How to Watch Jazz vs Wolves for Free: TV Channels, Live Stream Options",
-      "enlace": "https://sports.yahoo.com/articles/watch-jazz-vs-wolves-free-212628889.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS2uHE22JbUOB9AL-5_CdsIpUDYFVec6kWyewUtiwrp2gfTnwnP3AvIliN71Q"
+      "noticia": "Live: Wolves, on a win streak, pulling away at home against one-win Jazz",
+      "enlace": "https://www.startribune.com/minnesota-timberwolves-utah-jazz-score-today-live-lamelo-ball-stats-anthony-edwards-injury-update/601912402",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqqMKGne3xAAKS9Ec-YNQyyymNc6mYinW2M3qEeAkv5hX3htEpX22wnsp6GeU"
     },
     {
       "termino": "lebron james",
@@ -60,20 +74,6 @@
       "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 5 de noviembre, en directo",
       "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-05/comprobar-loteria-nacional-jueves-resultados-directo_4459866/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
-    },
-    {
-      "termino": "números ganadores de hoy",
-      "trafico": "500+",
-      "noticia": "Resultados del Powerball hoy, 4 de noviembre: números ganadores y premios del sorteo",
-      "enlace": "https://as.com/us/actualidad/resultados-del-powerball-hoy-4-de-noviembre-numeros-ganadores-y-premios-del-sorteo-f202611-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA7TRT8jksInHMNrqgJ6PX1kkHmlOXSJhjcCCnChBSh5CFMMJN0A1cat4vwgI"
-    },
-    {
-      "termino": "lotería de hoy",
-      "trafico": "500+",
-      "noticia": "Lotería Nacional en directo: comprobar los resultados del Sorteo Extraordinario de la Cultura de hoy, sábado 7 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-extraordinario-de-la-cultura-de-hoy-sabado-7-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3DZt8_mE3TQ0kBZp7Ww5DbU0kWpI-uNJg4xzWbHQRZkllVmK7R-axYXUj-s"
     }
   ]
 }
