@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T21:23:02.183938-04:00",
-  "hora": "21:23",
+  "updated": "2026-11-09T21:43:23.197041-04:00",
+  "hora": "21:43",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,11 +20,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
-      "termino": "licey vs aguilas",
-      "trafico": "100+",
-      "noticia": "MLB Gameday: Aguilas 6, Tigres 8 Resultado Final (09/11/2026)",
-      "enlace": "https://www.mlb.com/es/gameday/aguilas-vs-tigres/2026/11/09/851453/final/wrap",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTajosaCVOKl8aZ6Nz5cEx1ZScGPWTospaECrF0iTBJ3zeTbDWHkXQqjQ95FkA"
+      "termino": "licey",
+      "trafico": "200+",
+      "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwtdcQGZBh3zNp0OorQhUZ9L-fEkj33ECLuw0l74pFAZavY69xhwjj6xp59wA"
     },
     {
       "termino": "hawks - lakers",
@@ -39,6 +39,13 @@
       "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
       "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+    },
+    {
+      "termino": "lidom",
+      "trafico": "1000+",
+      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
       "termino": "locutor",
@@ -60,13 +67,6 @@
       "noticia": "Los precios del petróleo caen ante la perspectiva de avances diplomáticos entre EE. UU. e Irán",
       "enlace": "https://www.diariolibre.com/mundo/resto-del-mundo/2026/11/09/precios-del-petroleo-mundial-caen-por-negociaciones-con-iran/3715457",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
-    },
-    {
-      "termino": "beisbol invernal",
-      "trafico": "200+",
-      "noticia": "LIDOM: Domínguez vence a Gil en duelo entre Yankees con futuro incierto",
-      "enlace": "https://www.espn.com.do/beisbol/beisbolinvernal/nota/_/id/17475939/lidom-aguilas-dominguez-vence-licey-gil-en-duelo-entre-yankees",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc20SQxMYaHVCL0lbpIdDBGU4-ui1kSIKeayhB8272qoy28vl4ZDF4YHPjngI"
     },
     {
       "termino": "agresión",
