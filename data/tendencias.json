@@ -1,22 +1,43 @@
 {
-  "updated": "2026-11-09T22:44:28.426551-04:00",
-  "hora": "22:44",
+  "updated": "2026-11-09T23:04:51.978866-04:00",
+  "hora": "23:04",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "warriors - pelicans",
+      "trafico": "200+",
+      "noticia": "Warriors chase historic eighth straight win vs. Pelicans",
+      "enlace": "https://www.cbssports.com/nba/news/warriors-chase-historic-eighth-straight-win-vs-pelicans/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
       "termino": "suns - spurs",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Spurs visit Suns looking to extend eight-game win streak",
       "enlace": "https://www.cbssports.com/nba/news/spurs-visit-suns-looking-to-extend-eight-game-win-streak/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
+      "termino": "juan soto",
+      "trafico": "100+",
+      "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTAyviMNDBzvt8g0r_zCyZrQm9nh6ChNlmkwEr2eeskzKk9IqKgKbpVRAb0w"
     },
     {
       "termino": "rockets - nuggets",
       "trafico": "100+",
       "noticia": "Rockets look to bounce back against shorthanded Nuggets",
       "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-bounce-back-against-shorthanded-nuggets/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
+      "termino": "pistons - wizards",
+      "trafico": "100+",
+      "noticia": "Pistons look to bounce back against slumping Wizards",
+      "enlace": "https://www.cbssports.com/nba/news/pistons-look-to-bounce-back-against-slumping-wizards/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
@@ -35,7 +56,7 @@
     },
     {
       "termino": "hawks - lakers",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
       "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
@@ -48,32 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     },
     {
-      "termino": "lidom",
-      "trafico": "1000+",
-      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
-    },
-    {
       "termino": "locutor",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Adiós a Alejandro Sánchez, el eterno “Feo nuclear”",
       "enlace": "https://listindiario.com/entretenimiento/tv/20261109/adios-alejandro-sanchez-eterno-feo-nuclear_929449.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfCqQr_rQ4rQDvn9i9qkFR7t46xYOK_Gbj3mLFX4QT6iqa-yZl9chXPrP3CM"
-    },
-    {
-      "termino": "jeremy latcham",
-      "trafico": "200+",
-      "noticia": "James Gunn, Peter Safran Fired at DC Studios; Jeremy Latcham Replaces",
-      "enlace": "https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVffYzzUplJR4oBNKm_6OSo3RKj9yYre3VjoL0Jl-FtoMfqboYmdx7hCC-KqE"
-    },
-    {
-      "termino": "petróleo",
-      "trafico": "200+",
-      "noticia": "Los precios del petróleo caen ante la perspectiva de avances diplomáticos entre EE. UU. e Irán",
-      "enlace": "https://www.diariolibre.com/mundo/resto-del-mundo/2026/11/09/precios-del-petroleo-mundial-caen-por-negociaciones-con-iran/3715457",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
     }
   ]
 }
