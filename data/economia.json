@@ -1,142 +1,34 @@
 {
-  "updated": "2026-11-10T18:20:41.765309-04:00",
+  "updated": "2026-11-10T18:41:06.883492-04:00",
   "fecha": "10/11/2026",
   "indicadores": [
     {
       "clave": "desempleo",
       "nombre": "Desempleo",
       "unidad": "%",
-      "ultimo": {
-        "año": "2025",
-        "valor": 5.1
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 5.1
-        },
-        {
-          "año": "2024",
-          "valor": 5.3
-        },
-        {
-          "año": "2023",
-          "valor": 5.6
-        },
-        {
-          "año": "2022",
-          "valor": 5.5
-        },
-        {
-          "año": "2021",
-          "valor": 7.7
-        },
-        {
-          "año": "2020",
-          "valor": 6.1
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "deuda_ext",
       "nombre": "Deuda externa (% del ING)",
       "unidad": "%",
-      "ultimo": {
-        "año": "2024",
-        "valor": 45.3
-      },
-      "historial": [
-        {
-          "año": "2024",
-          "valor": 45.3
-        },
-        {
-          "año": "2023",
-          "valor": 45.4
-        },
-        {
-          "año": "2022",
-          "valor": 44.2
-        },
-        {
-          "año": "2021",
-          "valor": 48.7
-        },
-        {
-          "año": "2020",
-          "valor": 54.3
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "pib_pc",
       "nombre": "PIB per cápita",
       "unidad": "USD",
-      "ultimo": {
-        "año": "2025",
-        "valor": 11059.0
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 11059.0
-        },
-        {
-          "año": "2024",
-          "valor": 10876.0
-        },
-        {
-          "año": "2023",
-          "valor": 10630.0
-        },
-        {
-          "año": "2022",
-          "valor": 10104.0
-        },
-        {
-          "año": "2021",
-          "valor": 8527.0
-        },
-        {
-          "año": "2020",
-          "valor": 7135.0
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "inflacion",
       "nombre": "Inflación anual",
       "unidad": "%",
-      "ultimo": {
-        "año": "2025",
-        "valor": 3.9
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 3.9
-        },
-        {
-          "año": "2024",
-          "valor": 3.3
-        },
-        {
-          "año": "2023",
-          "valor": 4.8
-        },
-        {
-          "año": "2022",
-          "valor": 8.8
-        },
-        {
-          "año": "2021",
-          "valor": 8.2
-        },
-        {
-          "año": "2020",
-          "valor": 3.8
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     }
   ]
 }
