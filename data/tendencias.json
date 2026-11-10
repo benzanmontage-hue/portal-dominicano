@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T22:03:46.367265-04:00",
-  "hora": "22:03",
+  "updated": "2026-11-09T22:24:07.850882-04:00",
+  "hora": "22:24",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,18 +20,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
     },
     {
-      "termino": "licey",
-      "trafico": "100+",
-      "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRftYaEXGu8UGebwSMAEtozHTNIUUwfTa3l3UbmfpuUw0taSENRsixQlpAP8kw"
-    },
-    {
       "termino": "hawks - lakers",
       "trafico": "1000+",
-      "noticia": "Los Angeles Lakers vs Atlanta Hawks Nov 9, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-atl-0022600203/box-score",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlJtx3Fdh0lb0SMmR8fWdCZuITAbw8p1JWGqTg6wHnBewBToTGCtzw1QUPJpo"
+      "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
+      "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
       "termino": "pelota invernal",
@@ -43,9 +36,9 @@
     {
       "termino": "lidom",
       "trafico": "1000+",
-      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
+      "noticia": "Nací para tener presión : Madé valora la gran experiencia durante breve acción con el Licey",
+      "enlace": "https://www.mlb.com/es/news/made-valora-la-gran-experiencia-durante-breve-accion-con-el-licey",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CpwkEPvecf2-1XY6c8260yYNYOZS_6pbvSlPxIDKC25YXihq9E_YNGGR6N8"
     },
     {
       "termino": "locutor",
@@ -67,6 +60,13 @@
       "noticia": "Los precios del petróleo caen ante la perspectiva de avances diplomáticos entre EE. UU. e Irán",
       "enlace": "https://www.diariolibre.com/mundo/resto-del-mundo/2026/11/09/precios-del-petroleo-mundial-caen-por-negociaciones-con-iran/3715457",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
+    },
+    {
+      "termino": "beisbol invernal",
+      "trafico": "200+",
+      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
       "termino": "agresión",
