@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T11:46:26.703136-04:00",
-  "hora": "11:46",
+  "updated": "2026-11-10T12:06:50.385307-04:00",
+  "hora": "12:06",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "tradingview",
       "trafico": "200+",
-      "noticia": "Wall St set for feeble open after October s hot inflation print",
-      "enlace": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R126:0-wall-st-set-for-feeble-open-after-october-s-hot-inflation-print/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY"
+      "noticia": "Stock market today: Dow, S P 500, Nasdaq slip after CPI data raises Fed rate-hike bets",
+      "enlace": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl3GeXPUjKTUyP4bx6soicbiRKoi-JByFNT4Y1E2bchxuPSrH8oR8YiMK2Qb0"
     },
     {
       "termino": "toukie smith",
@@ -28,17 +28,24 @@
     },
     {
       "termino": "jordan poole",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell yeah.’",
       "enlace": "https://www.sfchronicle.com/sports/warriors/article/ex-warrior-jordan-poole-says-welcome-return-22522562.php",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh-5s7EDpYh9rXF-BdwB8gzvlotuE8dj_PzZ3cJl1JbCjEUhOYTG6Zy10fSMo"
     },
     {
-      "termino": "warriors",
+      "termino": "james gunn",
       "trafico": "200+",
-      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
+      "noticia": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over",
+      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygwmgjxNV-aY1Kr6yYO0Wq2k4KbZCV2soXH_S4S0qlRDSSkEuRkhAxLUbsnk"
+    },
+    {
+      "termino": "warriors",
+      "trafico": "100+",
+      "noticia": "‘Nobody Wants Mr. Triple Single,’ ‘Going to Philly’ — NBA Fans Divided As Warriors Reportedly Plan To ‘Listen to Trade Offers’ for Draymond Green",
+      "enlace": "https://www.aol.com/articles/nobody-wants-mr-triple-single-094633000.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf-ucJC83Dmvg92WPsx0IOGvXpDqfHI3h1AA5Iafs2-8AP3U48mT_4kT5f4Ow"
     },
     {
       "termino": "mavericks - pacers",
@@ -67,13 +74,6 @@
       "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTAyviMNDBzvt8g0r_zCyZrQm9nh6ChNlmkwEr2eeskzKk9IqKgKbpVRAb0w"
-    },
-    {
-      "termino": "suns - spurs",
-      "trafico": "500+",
-      "noticia": "NBA Roundup: Wemby drops 40, Jokic falls to Sengun",
-      "enlace": "https://www.eurohoops.net/en/nba-news/2032903/victor-wembanyama-nikola-jokic-luka-doncic-nba-european-recap/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlgzbs9v_708GHb4QVTFYiJ_og1xd8URjG2eBVkxC8dJydLpOANzHYSRZhY0"
     }
   ]
 }
