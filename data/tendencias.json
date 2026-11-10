@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T17:39:43.179291-04:00",
-  "hora": "17:39",
+  "updated": "2026-11-10T18:00:13.502845-04:00",
+  "hora": "18:00",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "ucrania",
       "trafico": "200+",
-      "noticia": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
-      "enlace": "https://elpais.com/espana/2026-11-10/militantes-de-nucleo-nacional-recibieron-formacion-paramilitar-en-ucrania-con-fusiles.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIKICxkRgq3A-bi23ajLlNgjyUAWc6_cih0tnqn81EQyRPprVA4ZjiEexc1js"
+      "noticia": "La UE prorroga dos años su misión de asistencia militar a Ucrania",
+      "enlace": "https://www.larazon.es/internacional/prorroga-dos-anos-mision-asistencia-militar-ucrania_202611106af2c10603bbf30bb046a2c7.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSwKxMiF7A_ngqXPFwo2jBZRyfYFtrQUcK5cwEZLeDRu9nzzIk_BspgKuV6c"
     },
     {
       "termino": "amnistía internacional",
@@ -21,7 +21,7 @@
     },
     {
       "termino": "el chivo sin ley",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Muere Isidro Cabrera,  El Chivo sin Ley , figura de la bachata tradicional",
       "enlace": "https://elnacional.com.do/fama-y-vida/muere-isidro-cabrera-chivo-ley-figura-bachata-tradicional_585789.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vGB77Zv8e2MNULk5vpQLgF2MYjNExDTLkjAcyjtbOiFS8On7YtmP-HzKXz8"
@@ -36,9 +36,9 @@
     {
       "termino": "tradingview",
       "trafico": "200+",
-      "noticia": "Chip stocks  slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
-      "enlace": "https://finance.yahoo.com/markets/article/chip-stocks-slide-nears-5-trillion-as-nvidia-hits-most-extreme-selling-level-since-2019-191532559.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb6uma7yFOFLgm_tHlpobkgRddBpY7ctAYRAu-T8WCExpuC794hP-SqcSimCY"
+      "noticia": "With Its Giant I.P.O., Anthropic Ties Itself Closer to Nvidia",
+      "enlace": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJa-NitReXfLaUXcaOuED6pfo2hOuglWbeOk9ZwWLxEHTQxDTJk49fO8aqasU"
     },
     {
       "termino": "dgii",
@@ -62,18 +62,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCsoMxwE3s1Dp9pl_xRm79I-Lpo42viRwVp4hs0GtE8pbWDvfARpJxbxT5cA"
     },
     {
+      "termino": "golden state warriors",
+      "trafico": "200+",
+      "noticia": "Warriors backcourt depth takes hit losing Brandon Williams, Will Richard",
+      "enlace": "https://www.usatoday.com/story/sports/nba/warriors/2026/11/10/brandon-williams-will-richard-injury-updates-warriors/92685874007/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRglGUD5dbpt23pYICgZa7Ts6OGuKIAmf2LeLv-qX7oRZ6nre2oIuh-PiwoO9c"
+    },
+    {
       "termino": "jordan poole",
       "trafico": "100+",
       "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
       "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
-    },
-    {
-      "termino": "james gunn",
-      "trafico": "500+",
-      "noticia": "Inside James Gunn, Peter Safran’s DC Ouster: Exec Tensions and a Fateful David Ellison Visit",
-      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSssG47oAgbsg5Pspxfermo6NF7g0bLjQC56OSUCf5cPAM7orVcJuR1YEAvsm8"
     }
   ]
 }
