@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T16:58:46.176459-04:00",
-  "hora": "16:58",
+  "updated": "2026-11-10T17:19:20.666503-04:00",
+  "hora": "17:19",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
@@ -10,7 +10,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdExxX2dhZ3hJNVBSVC15N0pfYzg0UjFoUTZYbk8wMjVIR2tpY0VGaEZtQjl2YnhLeE9pM212NzRNWnZ6Qk03QUQ3d2NJSUpvMjN4RU40X2dCVG5LZUoxS2J2LS1UTUdYUzlCUHlGR1JlUGFMNDEwM2hRM0N1VzVPUTBTMDFXX1NIc0xadHkxanhvWU5YcDk4TU92aWh1S2ZteUJ4X1B0TV9MWkwxLVdvWGhLT2U3TVlEV3pQVmxxNkhZQmxFREVCQ3kzc3Y0MjZ6dkZjeDBYTmJkR1ZC?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 07:03:00 GMT",
-      "imagen": ""
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/183/826/49558150592-1080pnbcstations.jpg"
     },
     {
       "titulo": "Miss República Dominicana confiesa cómo enfrentó las críticas más duras - Telemundo",
@@ -53,6 +53,14 @@
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/11/18094932/Juan-Manuel-Morel-Perez-3.jpg?resize=1142%2C1200&quality=100&ssl=1"
     },
     {
+      "titulo": "Embajada china rechaza críticas de EEUU y defiende empresas en RD - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMml6d2dhUmxhR2xscXRRX2w2VW9nOVVDajh3YTF1dElla2lfeHZ2YVY0WTMzVWdmWTdveE01LW5jU2F3U0JkYW9nY3dBWkNDMjdrZW50RTN1c0hjOXlUZlpkdFZLM2pUVlJTUHd3RW5jTGszZDVRTTZuTllqWGhmSjZxUGxmWm5ZZWpfUnc1blkwTDgtd2xLd2dGdGZZWDlUemxkZVRYOGg3dnNC?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 15:11:25 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana enfrentará a Uruguay sin Junior Firpo el 17 de este mes - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUNGck9EOU1yMGZaSTVIMFB2R0hDc0RRSEt4Q2p0YzZ1MVJsY0plRVZzbkRKRUR2OVNUMWpkQlJzQjRfbVFrcnlyM3laQ3ZJeFhjeVJGY2N2bUZ2QjZ6RnVKdEt3Wkt6dFlqOUtWN0pGUzNhZVhoZVA0U1VXT2NueHJjMkFfQm80MzVGUEFXVzk2QkNrNUZtZU04UFNQUDc1ZmJ6ZkloY0MzQdIBrwFBVV95cUxONGtIU1RMZzNJZ3dUUGlzb2dhM2RWYTI2UEZMeGtfNWJNVHAxZnY0UWRZRWRDajZDWjFObDVRR3JnMDBWaXVKQWlQN1lnak5qSS00cm1ESWh3Y3JyTHFfM05RR3Z6eEtFOG5mTF9sT2R0b09rTUYyYllYOFQ1bzhYLW1tZlFUVHpCWWxKdzFQY0dHWTlPSjdqZEt6dlNSS0Jpckw2UVNrU2lBWllUN3RF?oc=5",
@@ -66,7 +74,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGV2a28yVVQtZ1EtRXpWLVIwbEw0enpYakx3QnhBamgyeTdmRHhxT0VPV045LTcyU0VmajJSbkVDTDZOcFpHampIc3lIUlFmT21lSWtuaEZYX0Q1TGN5NXA3R054VHJwMTN2OXY5eEpVNUJaU1hUYjQ5eDF6QVlFd1J5ajlSWGZKWWdLbC1CRjRySDhudWowMWhOdmExS0dvVGo0UUxtNTBxejlsQnRNZmZPa0M0Um1LTXBIdnV0V0p4OWJHR2xF?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 16:41:15 GMT",
-      "imagen": ""
+      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-10-123639.png?resize=482%2C288&quality=100&ssl=1"
     },
     {
       "titulo": "Cinco docentes representan a República Dominicana en la VI Cumbre Mundial por la Educación celebrada en México - Acento",
@@ -75,14 +83,6 @@
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 01:45:53 GMT",
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Docentes1-OG.jpg"
-    },
-    {
-      "titulo": "República Dominicana acogerá Reunión Interamericana de Autoridades Electorales - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2IwczFwRHBhNFprc3FxRmdVN21nQm9VWmliWXRJQy0tOGNCMW9TZ2RHY29JaFpRc2VKMWJRTUZQZUJWeG0xYjJwYUFwVFBPRHhhWUZIdGV2VlB6cjEzc1IyOTFsYUlzYWZKSmo4b1F0aWZLNW1Vc2YxT2Y3TFZCakxaaFI3T0ZMODFaNUdHYkZnOXpzMTlUU0ttY3ZETVpTU2Q2Yi1rOHNnT0Rnd0NOcDl4MWlEVmtERzlJMUdfTkZ0d9IBxwFBVV95cUxNWWhXUEZ3RmlKaEk1d0UyN3plZVpQdUUxVklGQVF3ZE1tNDJzTzlHQzRVMmllcG4zbkJ6aUpsV3J0b2ppWHlsSWN1ajVnSTFMRkhsVXpZVWpGdk9CMWVjY21wakVBQ0Q0U01hcGlhR29NTmFrRXJaRUhJa1hEdEg0b2szcHNVNGl1TTRIRUdsNjF5NTRDalMyZ1ctSHdEdzR5V0JySjJsTWxpb0lFYWVpYXRiRV9EeG95Q1FvbUFHZ2NqUGNFYi04?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 23:53:04 GMT",
-      "imagen": ""
     },
     {
       "titulo": "BESS de 36 MW energiza 70 kilómetros de red en República Dominicana y redefine las funciones del almacenamiento - Energía Estratégica",
@@ -101,14 +101,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Patricia Silé, oro del atletismo de República Dominicana en 200 metros en los Juegos Olímpicos de la Juventud 2026 - Olympic Channel",
-      "fuente": "Olympic Channel",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFZnQ1BrWks0ZXhyblE0UjZPRlVyOWYwZ2dnYmowTDMyT1hGVnl6MGZHR1gxWXptTEJKREV4MmZ2LW1FTVZNb1l6N1NVZWVvS0tvdXBoOEhqV2RWaEx3YkFpeFByelk3WXIzemJtc0NvZkZJTjhMOWhvbXlOcHVJekh0MVNmcXdKMWRTNEsyNlNRQmZoZmhTcU9fQTlpYUZsckRXS0J3SWVSMEY2cEprbUE2TUtRb21IYjlWZEZxdmNtZ0phdDFlOVp3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 20:13:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Licey empata con el Escogido en el liderato en República Dominicana - AP News",
       "fuente": "AP News",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHd3U3p2b0JKZmZwdkQ3c0R5VTVuTTFFdk1lMzMyRzZ3ak1QQkVHaE5JOGhDZXRsNVRqWTljbGM2UklJUnlocElMa25aa1BTcXFmZDlDUDZDS0U2ZS1lQzdHc1NyaEtXU3dCbXBhc1VSSXcwOGhnNmdBR3JDQWpjWWdwU3ozOWR5RFlPaWVxNFpUMWxDTWFuZ3BGWFhhWExXV1hvYnVkV3haR3hZVGdGSVlwV3lkeEND?oc=5",
@@ -122,6 +114,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObEFzVUdQdUprSUxNRjJyamVpclNtX3V6eTVPNGtSS2pZMUczSmJZWnZfVTM1NTdGcGltZ3d3TmlnZGtGeGRQSHNydndYaXZFTk9mRzNjemF2eklMLXBWNlVKcXN1d0NLdElyU1JYZTYzSDhQYWt3ZFlQTncweGl4M2MxdmVEeWhqVWpQT05XTFFKQTB2ZmltMzFMUk5iWFJkUTdlS1pGeHRaeW9zSGhWWnJKU3dKOG1JSDJ3OFRoZE5EcU9JUjFOMGpETE1GcURtWng5ancxMWlJWkhUVWU3Vnl0aHFkNWlKMi0yLXhyTHY4eE90Szg5blk5ZnVUTTJQeXYtckV30gGgAkFVX3lxTFBwYnFtcjJOQmRNNHhCLXowOFlVNUpNSWx5d21QaHIzM0hKRWFMN21yV3NSRlZVVU05WS1BSHRyLTh4M0lyLW1tMDZrWnZfYjRuQ0M1cy0wQ01TaGwyal8xT3BsdThVOWEycmt2UzFyUGVFNUFDZ3U1VmxGb2FwMUFxU2wxYk5GcFJtTFp6NktaaWVMYWNRb29sakNjdWFmUVRqc0hENDJVNnppMnJKd1k2Yl8yTks5NmVvY29LOXIzY280YlNkRHB3ck1HQkVCLTh0cDNza0ltUDk3dEZDTkNvd0dGNmd4NGt1elhzajFmV2NVMDY2TG0ydGtTRURBUWw0Y1ZuSEdPTms5bkgtNUUtV2NRa092c01KWVB2OW9BUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 19:25:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patricia Silé, oro del atletismo de República Dominicana en 200 metros en los Juegos Olímpicos de la Juventud 2026 - Olympics",
+      "fuente": "Olympics",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFZnQ1BrWks0ZXhyblE0UjZPRlVyOWYwZ2dnYmowTDMyT1hGVnl6MGZHR1gxWXptTEJKREV4MmZ2LW1FTVZNb1l6N1NVZWVvS0tvdXBoOEhqV2RWaEx3YkFpeFByelk3WXIzemJtc0NvZkZJTjhMOWhvbXlOcHVJekh0MVNmcXdKMWRTNEsyNlNRQmZoZmhTcU9fQTlpYUZsckRXS0J3SWVSMEY2cEprbUE2TUtRb21IYjlWZEZxdmNtZ0phdDFlOVp3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 20:13:00 GMT",
       "imagen": ""
     }
   ]
