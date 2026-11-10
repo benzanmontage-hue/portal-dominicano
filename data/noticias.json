@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T13:08:05.755348-04:00",
-  "hora": "13:08",
+  "updated": "2026-11-10T13:28:32.558377-04:00",
+  "hora": "13:28",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
@@ -13,20 +13,20 @@
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/71/1014/49537882477-1080pnbcstations.jpg"
     },
     {
-      "titulo": "Tras las pistas de los que no regresaron - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUk9EVC0tZWl4el9jVFAtNldCTWpYOVFXaGFkTmxLNzZDWU43elNLcDhqaGpiaXd6MHNENEFkWTBQOGtKNVhMdkN5OGNLbEtyR1d0eFZEa0VTOF80d1cwTFEwQTNPTjdwN1JYNWw5VktWZXdmWnI2ODFHSFZfQldzNlhoaFdRLV9oT1ZNVlRIZHNSNGJlVTFKc1dPVHNSSEhMZmdsZVQ5NVR4ZUNKMjlXSEVTdmlkR1p0NzBCVFdUMXhMcU4tRk9YSEU1TdIB0AFBVV95cUxPMXJZY2lvNXZUY3hDM3FVSHNiU3JyVHM2WlBJaGMzZ0U1UGRldVNvYlk0enF0NkRtVFlJM0c1TG82a25hQzkzYWE2OFdfNkFpaTFkMGxPSjVWMnhPbjEyY2hMNFd2VURzZ1JPYmhzWFREU3VYZDlSMFR5ci1xTWdrWmNSdWRsSnRpRjlsb1puaEhJZ0JRTFRmb1dUY0c2U3l2bDR4OXQ2NHJrbVhkdnkyd25GS3dBRW5jTFE5UE1Bdzg3YTV0cnZ0bmNCblREdlFH?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 04:01:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Miss República Dominicana llega a Puerto Rico, tras fuerte accidente - Telemundo",
       "fuente": "Telemundo",
       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZHBMaHRKVmdMVVZVT293SUU1b3R2YnQtVGFtZktXVWlkeENkTnZtUk5yMDluV3VvVkZlRlpQTlBqRlV4SnRPWXZVb2Z6LVR1VmQ0dGZoX01uZjh2emQ0bFZSeWVKbTNuTkJvOWhJVF9CTnVpUXJnX0tCd0t2WEZfdXNkRm4zWVZRa0NmcTJYT2k5UjhGajUxTGQ3NFBIcUJ0WUtXSHN3OGFXWHFpdGdOdFZPY3k2UzlPel82NUxlVXhqQzBfd0Ntc1NlSUhKWTVHTWFQOUo4cXoxbWxodGdPbG43VGw5Z0s4MlE?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 09 Nov 2026 08:04:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/56/375/49536379547-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Miss República Dominicana sufre un terrible accidente automovilístico - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzFUWGJaY2dKUjlVRmNCLThJa3ZhOUNFSnhWblZFSENJMG1qTGxwQnRualZRLVhNN1VIOXR4bjJCWHFMdHdDLVpNLUZSTzBlVkpCcXpyN0NyLURfX05zMjhxUWs1Z3lIRnVkVGw3aHg3RXlZMzY5YXJlbnJ4ZXRkNnFtbE0waTdLTDdPMmRCaUNSd0NWN2dYMG43S0k3SWFHenRWeU9zbndDdmhNUTB1U19QYWVCaE5ZRnNrRjV1SlhOaUpSZDB6Z05ZdDU0ajZhNkpWeHREM081UQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 08:30:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "China sobre felicitaciones de EEUU por cierre de fábrica: RD no necesita de fuerzas externas que pretenden dictar pautas - Listín Diario",
@@ -53,14 +53,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Miss República Dominicana sufre un terrible accidente automovilístico - Yahoo en Español Vida y Estilo",
-      "fuente": "Yahoo en Español Vida y Estilo",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmZaeEtoTUdKMzJkOF83cHRMZ2V0QmxZT0s3dlpHZ2tVcXlhWDhmdnRYMnJNYm9SZi1GeVUwLTYwZTJSNWtTMm9OYm5tZVpHM0JnOUM2NnlFeV9PMGwwSXF2S1lKUzlwSW1pc3ozTWJpaUJkYW1sOWpqcjFIVVkzbVdFb0RXSmlYYVQ2czRGNTZIRzVrOGVVSzRWQjU?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 14:38:44 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este martes 10 de noviembre de 2026 - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Z9IB1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Zw?oc=5",
@@ -69,11 +61,11 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana: Capital policial del mundo - El Nuevo Diario",
+      "titulo": "Alejandro Rodríguez representará a República Dominicana en Mister Manhunt International en Vietnam - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXRKemF3aVlnelM2UmNwTmFNV1JoQXVhd0R0Q2hsTkFkOW55d3I1enFBRUpVdk5ReHBRY2MwZ01WaVlmaUxHbGN6R3FJYVZkSGI1cUZPT2YtMmJQcXdnb09vRU5ncTZ3STJxZjdCV3o4aUpDZXRkcTVvaDdPM0xWTGsxWQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGV2a28yVVQtZ1EtRXpWLVIwbEw0enpYakx3QnhBamgyeTdmRHhxT0VPV045LTcyU0VmajJSbkVDTDZOcFpHampIc3lIUlFmT21lSWtuaEZYX0Q1TGN5NXA3R054VHJwMTN2OXY5eEpVNUJaU1hUYjQ5eDF6QVlFd1J5ajlSWGZKWWdLbC1CRjRySDhudWowMWhOdmExS0dvVGo0UUxtNTBxejlsQnRNZmZPa0M0Um1LTXBIdnV0V0p4OWJHR2xF?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 16:37:04 GMT",
+      "fecha": "Tue, 10 Nov 2026 16:41:15 GMT",
       "imagen": ""
     },
     {
@@ -101,6 +93,14 @@
       "imagen": ""
     },
     {
+      "titulo": "República Dominicana: Capital policial del mundo - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXRKemF3aVlnelM2UmNwTmFNV1JoQXVhd0R0Q2hsTkFkOW55d3I1enFBRUpVdk5ReHBRY2MwZ01WaVlmaUxHbGN6R3FJYVZkSGI1cUZPT2YtMmJQcXdnb09vRU5ncTZ3STJxZjdCV3o4aUpDZXRkcTVvaDdPM0xWTGsxWQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 16:37:04 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "BESS de 36 MW energiza 70 kilómetros de red en República Dominicana y redefine las funciones del almacenamiento - Energía Estratégica",
       "fuente": "Energía Estratégica",
       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYk5nemwwY01XS1RkRzJwaTBzSVRXYnNHOHVUQ0RSVk93YW0zREI3NUZEbjU3R2czOFdpT0l1Vmw4WFRqYTN6YldSVi14bU03U2JrTjNzYm1sbHFmaE80dnJXTXplWUcxd2VBUlJQalJ6UURMWmhhcll2eTc5cVJBQm9qekx0aFVHX29hbkR6aEpodVpZVjU4Vjl4Zzg4OFF6aGFMVjkxTS0xUWQ3RnVQLS03YlJkbXNra2lNai1LQWEwZHRDZG0wVVZpOG9qTm50VDBsZWxSeU5kQXF2cE55aFJoSjdGdFhveVVmVg?oc=5",
@@ -117,12 +117,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Miss República Dominicana confiesa cómo enfrentó las críticas más duras - Yahoo en Español Vida y Estilo",
-      "fuente": "Yahoo en Español Vida y Estilo",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1g3N1RBQzNZS1VKdURBdE9jTDZxSk1lRU9uMjlLQzZheWE5V2ZCQk4zZkpRZzdqX1pYTkNiVkdQQ0toYzMwLXNLano0MC1CQUo3TkFRRVZLMUdiY2NvcXQyb09KSHJlQVFIeFk3SVpuNmdjREJHaGtlaUNhUUZfV0VaUWdKRFg4TVl5RV95blZ4RlktUWRld09jSkFVeVNCSEdSd0dEdw?oc=5",
+      "titulo": "Licey empata con el Escogido en el liderato en República Dominicana - AP News",
+      "fuente": "AP News",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHd3U3p2b0JKZmZwdkQ3c0R5VTVuTTFFdk1lMzMyRzZ3ak1QQkVHaE5JOGhDZXRsNVRqWTljbGM2UklJUnlocElMa25aa1BTcXFmZDlDUDZDS0U2ZS1lQzdHc1NyaEtXU3dCbXBhc1VSSXcwOGhnNmdBR3JDQWpjWWdwU3ozOWR5RFlPaWVxNFpUMWxDTWFuZ3BGWFhhWExXV1hvYnVkV3haR3hZVGdGSVlwV3lkeEND?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 20:27:29 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/d45833925d55a264debc24b1b54628b11a8257f87c4a6fa5985f6573e5c59609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2Fbad5a2fcefd06148b58d1ad6b5e5f0b6.jpg"
+      "fecha": "Mon, 09 Nov 2026 04:49:00 GMT",
+      "imagen": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png"
     }
   ]
 }
