@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-10T14:09:16.546265-04:00",
-  "hora": "14:09",
+  "updated": "2026-11-10T14:29:39.421904-04:00",
+  "hora": "14:29",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "amnistía internacional",
+      "trafico": "100+",
+      "noticia": "El Departamento de Estado cuestiona la ofensiva de El Salvador en Haití, según Axios",
+      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/10/operaciones-de-nayib-bukele-en-haiti-generan-tensiones-con-eeuu/3716589",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
+    },
     {
       "termino": "el chivo sin ley",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Sandro Mamukelashvili draws JJ Redick praise after ‘best game as a Lakers’",
       "enlace": "https://sports.yahoo.com/articles/sandro-mamukelashvili-draws-lakers-hc-060155602.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLMyTMZmBQ0BaBscAkEZEv7UV9sHug4I2reEH4-cWU5vbP33G_4zyl76AM2OU"
-    },
-    {
-      "termino": "warriors - pelicans",
-      "trafico": "5000+",
-      "noticia": "Warriors blow out Pelicans by 51 points for 8th straight win",
-      "enlace": "https://www.espn.com/nba/story/_/id/50439821/warriors-beat-pelicans-51-points-8th-straight-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfErqk4dCwsZHeniyORuSN84JIu8m29TnTQ6OT3A1NhQO1FMXkWpbhHqWKzfc"
     }
   ]
 }
