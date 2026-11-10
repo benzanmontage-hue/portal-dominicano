@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T20:42:20.043230-04:00",
-  "hora": "20:42",
+  "updated": "2026-11-09T21:02:41.341491-04:00",
+  "hora": "21:02",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "hornets - cavaliers",
+      "trafico": "100+",
+      "noticia": "Cavaliers look to snap slump against reeling Hornets",
+      "enlace": "https://www.cbssports.com/nba/news/cavaliers-look-to-snap-slump-against-reeling-hornets/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+    },
     {
       "termino": "licey vs aguilas",
       "trafico": "500+",
@@ -20,15 +27,15 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
-      "termino": "lidom hoy",
-      "trafico": "5000+",
+      "termino": "pelota invernal",
+      "trafico": "2000+",
       "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
       "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     },
     {
       "termino": "locutor",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Muere el locutor Alejandro Sánchez, conocido como El Feo Nuclear",
       "enlace": "https://listindiario.com/entretenimiento/tv/20261109/muere-locutor-alejandro-sanchez-conocido-feo-nuclear_929433.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrT5G3QPHx-HxFqusPuUHWiCFanCCkuFCUbkmx24HwuI70BLV-OWllF1vUkpk"
@@ -63,17 +70,10 @@
     },
     {
       "termino": "china",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "A Message to Our Company",
       "enlace": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
-    },
-    {
-      "termino": "asteroide",
-      "trafico": "200+",
-      "noticia": "Estos son los asteroides peligrosos para la Tierra: la Nasa vigila estas rocas espaciales por riesgo de impacto",
-      "enlace": "https://www.eltiempo.com/vida/ciencia/estos-son-los-asteroides-peligrosos-para-la-tierra-la-nasa-vigila-estas-rocas-espaciales-por-riesgo-de-impacto-3599532",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCTEBAq316SCC7j02dzUs2sBuAh4xc92GtG_tTxKtxl5-EGEQwV2f_8-p-wcU"
     }
   ]
 }
