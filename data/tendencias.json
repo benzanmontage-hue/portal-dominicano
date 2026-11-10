@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T11:05:39.511804-04:00",
-  "hora": "11:05",
+  "updated": "2026-11-10T11:26:06.352082-04:00",
+  "hora": "11:26",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "tradingview",
       "trafico": "200+",
-      "noticia": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
-      "enlace": "https://www.globenewswire.com/news-release/2026/11/10/3399291/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92vbyr9wMmacPRw6DqLqM1kTn9bnAoy53GAnexxw8Heyoz0RU0ISUgbhHjVw"
+      "noticia": "FX Daily: Correlation Paralysis — Gold Waits for the Dollar to Make Its Move",
+      "enlace": "https://thedarksideoftheboom.substack.com/p/fx-daily-correlation-paralysis-gold",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_tWJNZpApoY3V3m9ZBnp811WAoOBe6tOmKdjDdFogLiydkyQzowxQGeGVio"
     },
     {
       "termino": "toukie smith",
@@ -32,13 +32,6 @@
       "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
       "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
-    },
-    {
-      "termino": "warriors",
-      "trafico": "200+",
-      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
     },
     {
       "termino": "mavericks - pacers",
@@ -71,9 +64,16 @@
     {
       "termino": "suns - spurs",
       "trafico": "500+",
-      "noticia": "Spurs visit Suns looking to extend eight-game win streak",
-      "enlace": "https://www.cbssports.com/nba/news/spurs-visit-suns-looking-to-extend-eight-game-win-streak/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
+    },
+    {
+      "termino": "rockets - nuggets",
+      "trafico": "200+",
+      "noticia": "Jamal Murray News: Drops 38 points in defeat",
+      "enlace": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-drops-38-points-in-defeat-538411",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41gCNbtZ-fRUOFqeAVF7Cn13i-GlPF_lhLvKhnCz71Qk_37P-b3oJmlnpf1s"
     }
   ]
 }
