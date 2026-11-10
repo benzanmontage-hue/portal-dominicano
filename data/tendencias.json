@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-09T21:02:41.341491-04:00",
-  "hora": "21:02",
+  "updated": "2026-11-09T21:23:02.183938-04:00",
+  "hora": "21:23",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "FIRST ALERT FORECAST: Enjoy Tuesday   Wednesday!",
+      "enlace": "https://www.wymt.com/2026/11/10/first-alert-forecast-enjoy-tuesday-wednesday/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9nMj_YlQmHNRyuDXsqJg3oVACDgwE8y1YkzUcBi02cU6Iv52DFc95vtPAIo"
+    },
     {
       "termino": "hornets - cavaliers",
       "trafico": "100+",
@@ -14,14 +21,14 @@
     },
     {
       "termino": "licey vs aguilas",
-      "trafico": "500+",
-      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
+      "trafico": "100+",
+      "noticia": "MLB Gameday: Aguilas 6, Tigres 8 Resultado Final (09/11/2026)",
+      "enlace": "https://www.mlb.com/es/gameday/aguilas-vs-tigres/2026/11/09/851453/final/wrap",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTajosaCVOKl8aZ6Nz5cEx1ZScGPWTospaECrF0iTBJ3zeTbDWHkXQqjQ95FkA"
     },
     {
       "termino": "hawks - lakers",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
       "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
@@ -36,9 +43,9 @@
     {
       "termino": "locutor",
       "trafico": "500+",
-      "noticia": "Muere el locutor Alejandro Sánchez, conocido como El Feo Nuclear",
-      "enlace": "https://listindiario.com/entretenimiento/tv/20261109/muere-locutor-alejandro-sanchez-conocido-feo-nuclear_929433.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrT5G3QPHx-HxFqusPuUHWiCFanCCkuFCUbkmx24HwuI70BLV-OWllF1vUkpk"
+      "noticia": "Adiós a Alejandro Sánchez, el eterno “Feo nuclear”",
+      "enlace": "https://listindiario.com/entretenimiento/tv/20261109/adios-alejandro-sanchez-eterno-feo-nuclear_929449.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfCqQr_rQ4rQDvn9i9qkFR7t46xYOK_Gbj3mLFX4QT6iqa-yZl9chXPrP3CM"
     },
     {
       "termino": "jeremy latcham",
@@ -55,25 +62,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
     },
     {
+      "termino": "beisbol invernal",
+      "trafico": "200+",
+      "noticia": "LIDOM: Domínguez vence a Gil en duelo entre Yankees con futuro incierto",
+      "enlace": "https://www.espn.com.do/beisbol/beisbolinvernal/nota/_/id/17475939/lidom-aguilas-dominguez-vence-licey-gil-en-duelo-entre-yankees",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRc20SQxMYaHVCL0lbpIdDBGU4-ui1kSIKeayhB8272qoy28vl4ZDF4YHPjngI"
+    },
+    {
       "termino": "agresión",
       "trafico": "2000+",
       "noticia": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
       "enlace": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkAJL8zGp83l4pfZgYzCtSa_8WtN-h3QwABOo9yvYtR16uydG8hKcYyNGbuc"
-    },
-    {
-      "termino": "fábrica",
-      "trafico": "1000+",
-      "noticia": "Alto funcionario de EE. UU. respalda ofensiva contra fábrica china en República Dominicana",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/09/estados-unidos-respalda-cierre-de-fabrica-china-en-rd/3715705",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhVc7j6vnITzNRIHzR3pxxMditb8mqdiTwLqR_RuRSNty4I9cBuPE9fWGY0U"
-    },
-    {
-      "termino": "china",
-      "trafico": "2000+",
-      "noticia": "A Message to Our Company",
-      "enlace": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
     }
   ]
 }
