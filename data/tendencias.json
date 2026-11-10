@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-10T17:19:14.624790-04:00",
-  "hora": "17:19",
+  "updated": "2026-11-10T17:39:43.179291-04:00",
+  "hora": "17:39",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "ucrania",
-      "trafico": "100+",
-      "noticia": "Rusia y Ucrania vuelven a negociar con mediación de EE. UU. tras más de cuatro años de guerra",
-      "enlace": "https://www.dw.com/es/negociaciones-en-abu-dabi-para-poner-fin-a-la-guerra-en-ucrania/a-79906447",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZVPZ-zlgCHxzaefNy0lAJCfwR0uW2rum4fy-V9oCT9wYEALkh8p-HS3gaNcc"
+      "trafico": "200+",
+      "noticia": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
+      "enlace": "https://elpais.com/espana/2026-11-10/militantes-de-nucleo-nacional-recibieron-formacion-paramilitar-en-ucrania-con-fusiles.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIKICxkRgq3A-bi23ajLlNgjyUAWc6_cih0tnqn81EQyRPprVA4ZjiEexc1js"
     },
     {
       "termino": "amnistía internacional",
-      "trafico": "200+",
-      "noticia": "Nayib Bukele difunde video que confirma la destrucción de casa de líder de 400 Mawozo en Haití",
-      "enlace": "https://www.diariolibre.com/mundo/general/2026/11/10/nayib-bukele-anuncia-destruccion-de-cuartel-general-de-400-mawozo/3716608",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPt8HDCHIw-QE1otQ3L6B_LIouK8Alq3JSHMEA0xG2Y9d7QjFONl_NBlUWSYs"
+      "trafico": "500+",
+      "noticia": "¿Ahora Washington quiere ponerle freno a la misión de Nayib Bukele en Haití?",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/el-departamento-de-estado-de-ee-uu-habria-cuestionado-a-nayib-bukele/3716777",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4KDS1o-pHxdpcXZPu3AHk29EytDXY-ceDw5R-dSrV-4Jy41Y0XkwanmtWeoY"
     },
     {
       "termino": "el chivo sin ley",
@@ -62,18 +62,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCsoMxwE3s1Dp9pl_xRm79I-Lpo42viRwVp4hs0GtE8pbWDvfARpJxbxT5cA"
     },
     {
-      "termino": "golden state warriors",
-      "trafico": "200+",
-      "noticia": "Golden State Warriors have a surprise player on All-Star watch, says Chris Mullin after Pelicans win",
-      "enlace": "https://www.hitc.com/golden-state-warriors-have-a-surprise-player-on-all-star-watch-says-chris-mullin-after-pelicans-win/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgJ1RnVv1hYprzS022f8sCvtWpWxec1pDNYARjUJU06JWHu6zZUskYECJ8438"
-    },
-    {
       "termino": "jordan poole",
       "trafico": "100+",
       "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
       "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
+    },
+    {
+      "termino": "james gunn",
+      "trafico": "500+",
+      "noticia": "Inside James Gunn, Peter Safran’s DC Ouster: Exec Tensions and a Fateful David Ellison Visit",
+      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSssG47oAgbsg5Pspxfermo6NF7g0bLjQC56OSUCf5cPAM7orVcJuR1YEAvsm8"
     }
   ]
 }
