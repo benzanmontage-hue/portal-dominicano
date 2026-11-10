@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T10:45:13.575690-04:00",
-  "hora": "10:45",
+  "updated": "2026-11-10T11:05:39.511804-04:00",
+  "hora": "11:05",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -29,9 +29,16 @@
     {
       "termino": "jordan poole",
       "trafico": "200+",
-      "noticia": "Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell yeah.’",
-      "enlace": "https://www.sfchronicle.com/sports/warriors/article/ex-warrior-jordan-poole-says-welcome-return-22522562.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh-5s7EDpYh9rXF-BdwB8gzvlotuE8dj_PzZ3cJl1JbCjEUhOYTG6Zy10fSMo"
+      "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
+      "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
+    },
+    {
+      "termino": "warriors",
+      "trafico": "200+",
+      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
     },
     {
       "termino": "mavericks - pacers",
@@ -67,13 +74,6 @@
       "noticia": "Spurs visit Suns looking to extend eight-game win streak",
       "enlace": "https://www.cbssports.com/nba/news/spurs-visit-suns-looking-to-extend-eight-game-win-streak/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
-    },
-    {
-      "termino": "rockets - nuggets",
-      "trafico": "200+",
-      "noticia": "Jamal Murray News: Drops 38 points in defeat",
-      "enlace": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-drops-38-points-in-defeat-538411",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41gCNbtZ-fRUOFqeAVF7Cn13i-GlPF_lhLvKhnCz71Qk_37P-b3oJmlnpf1s"
     }
   ]
 }
