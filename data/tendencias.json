@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-09T22:24:07.850882-04:00",
-  "hora": "22:24",
+  "updated": "2026-11-09T22:44:28.426551-04:00",
+  "hora": "22:44",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "suns - spurs",
+      "trafico": "100+",
+      "noticia": "Spurs visit Suns looking to extend eight-game win streak",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-visit-suns-looking-to-extend-eight-game-win-streak/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
+      "termino": "rockets - nuggets",
+      "trafico": "100+",
+      "noticia": "Rockets look to bounce back against shorthanded Nuggets",
+      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-bounce-back-against-shorthanded-nuggets/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
@@ -36,9 +50,9 @@
     {
       "termino": "lidom",
       "trafico": "1000+",
-      "noticia": "Nací para tener presión : Madé valora la gran experiencia durante breve acción con el Licey",
-      "enlace": "https://www.mlb.com/es/news/made-valora-la-gran-experiencia-durante-breve-accion-con-el-licey",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CpwkEPvecf2-1XY6c8260yYNYOZS_6pbvSlPxIDKC25YXihq9E_YNGGR6N8"
+      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
     },
     {
       "termino": "locutor",
@@ -60,20 +74,6 @@
       "noticia": "Los precios del petróleo caen ante la perspectiva de avances diplomáticos entre EE. UU. e Irán",
       "enlace": "https://www.diariolibre.com/mundo/resto-del-mundo/2026/11/09/precios-del-petroleo-mundial-caen-por-negociaciones-con-iran/3715457",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
-    },
-    {
-      "termino": "beisbol invernal",
-      "trafico": "200+",
-      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
-    },
-    {
-      "termino": "agresión",
-      "trafico": "2000+",
-      "noticia": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
-      "enlace": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkAJL8zGp83l4pfZgYzCtSa_8WtN-h3QwABOo9yvYtR16uydG8hKcYyNGbuc"
     }
   ]
 }
