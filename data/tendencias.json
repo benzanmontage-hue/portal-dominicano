@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-10T13:28:29.456897-04:00",
-  "hora": "13:28",
+  "updated": "2026-11-10T13:48:53.596192-04:00",
+  "hora": "13:48",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "el chivo sin ley",
+      "trafico": "100+",
+      "noticia": "Muere Isidro Cabrera,  El Chivo sin Ley , figura de la bachata tradicional",
+      "enlace": "https://elnacional.com.do/fama-y-vida/muere-isidro-cabrera-chivo-ley-figura-bachata-tradicional_585789.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vGB77Zv8e2MNULk5vpQLgF2MYjNExDTLkjAcyjtbOiFS8On7YtmP-HzKXz8"
+    },
+    {
+      "termino": "bomba",
+      "trafico": "100+",
+      "noticia": "Francia investiga si avisos de bomba en vuelos están relacionados con  potencias extranjeras",
+      "enlace": "https://listindiario.com/las-mundiales/20261107/francia-investiga-avisos-bomba-vuelos-relacionados-potencias-extranjeras_929233.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJpLYw1gQ4JRRWf6C0_MsS_qf9cjOpYufEx8GVzyvedsOnATfz04jHiwAOTk"
+    },
     {
       "termino": "tradingview",
       "trafico": "200+",
@@ -43,9 +57,9 @@
     {
       "termino": "mavericks - pacers",
       "trafico": "100+",
-      "noticia": "NBA roundup: Cooper Flagg becomes second teen with 40-10-5 game",
-      "enlace": "https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjGvavKQPF05kTqrQUJFuv_RAHK34tdjGrxVureE03gP92K1KMAqWwUXd7tU8"
+      "noticia": "Kyrie Irving News: Explodes for 35 points in win",
+      "enlace": "https://www.rotowire.com/basketball/headlines/kyrie-irving-news-explodes-for-35-points-in-win-538437",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8LBcVVFCUClGgsIAiIfD0aqI9Swbd6YJ5QYhCmu4x40lg02pqxcOnpQ1U09Q"
     },
     {
       "termino": "sandro mamukelashvili",
@@ -57,23 +71,9 @@
     {
       "termino": "warriors - pelicans",
       "trafico": "5000+",
-      "noticia": "Warriors blow out Pelicans by 51 points for 8th straight win",
-      "enlace": "https://www.espn.com/nba/story/_/id/50439821/warriors-beat-pelicans-51-points-8th-straight-win",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfErqk4dCwsZHeniyORuSN84JIu8m29TnTQ6OT3A1NhQO1FMXkWpbhHqWKzfc"
-    },
-    {
-      "termino": "juan soto",
-      "trafico": "1000+",
-      "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTAyviMNDBzvt8g0r_zCyZrQm9nh6ChNlmkwEr2eeskzKk9IqKgKbpVRAb0w"
-    },
-    {
-      "termino": "suns - spurs",
-      "trafico": "500+",
-      "noticia": "NBA Roundup: Wemby drops 40, Jokic falls to Sengun",
-      "enlace": "https://www.eurohoops.net/en/nba-news/2032903/victor-wembanyama-nikola-jokic-luka-doncic-nba-european-recap/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlgzbs9v_708GHb4QVTFYiJ_og1xd8URjG2eBVkxC8dJydLpOANzHYSRZhY0"
+      "noticia": "New Orleans Pelicans vs. Golden State Warriors Live Score and Stats - November 9, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261109_NO@GS/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQgn2GQwJci9qi2SxkiYYRjr955Y375dBsy-WyPMKhXcnkh5dQRdhkTuUiG4s"
     }
   ]
 }
