@@ -1,87 +1,15 @@
 {
-  "updated": "2026-11-10T19:03:15.161742-04:00",
-  "hora": "19:03",
+  "updated": "2026-11-10T19:23:39.569848-04:00",
+  "hora": "19:23",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Miss República Dominicana cuenta cómo está, tras accidente - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdExxX2dhZ3hJNVBSVC15N0pfYzg0UjFoUTZYbk8wMjVIR2tpY0VGaEZtQjl2YnhLeE9pM212NzRNWnZ6Qk03QUQ3d2NJSUpvMjN4RU40X2dCVG5LZUoxS2J2LS1UTUdYUzlCUHlGR1JlUGFMNDEwM2hRM0N1VzVPUTBTMDFXX1NIc0xadHkxanhvWU5YcDk4TU92aWh1S2ZteUJ4X1B0TV9MWkwxLVdvWGhLT2U3TVlEV3pQVmxxNkhZQmxFREVCQ3kzc3Y0MjZ6dkZjeDBYTmJkR1ZC?oc=5",
+      "titulo": "Presidente dominicano dice que apoya a Bukele y la presencia de tropas salvadoreñas en Haití - San Antonio Express-News",
+      "fuente": "San Antonio Express-News",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmZBX1VRY2l4emIwejR0dk14c09OU2JpMzFCSGp4YVpzRlpoLVkzbU9TWGZjVy1GTGNPbjVDcEpfaElvZmZ2U1E4bzRjSjZOb0dOZEZqSE0xM0VXSDB0QWp5RGlCNkd0R2psamdIS0xIbHZOQlhEMUo2WnhpX09JckdOQm5zeDJUa2JxLWt0TExadzlkNlQ2aV94clNLa0xvNVI5cHIwZFdDMUE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 07:03:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/183/826/49558150592-1080pnbcstations.jpg"
-    },
-    {
-      "titulo": "Miss República Dominicana confiesa cómo enfrentó las críticas más duras - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSml3TkJMamMycXNtZWxWcjlGdUJ3d01waTVqUG9sa1d5Z1B5ZFhPZG85UnZDY0VnTEVYLTdjQ0xCVGlVSG4tN0pBdXowOF9nOFJKWmZpdXZBbDRiN21FN0g2VmJoNzJDZXpvRW1qeE53VVdMNXBBSlByYXJCMGhjdmNCX0xzN082V0FZeU8wWlBKZERhUUJVRmNYY3pNR2Z6S0pLX1VaZ0xXVk9CQnVGeTVrUFBTelpRalhyVWJPdDlHWjVYdDd3Q2x0bE13bmRHYXZrWU5faFZEY01nWXplN0ZTZi02dTZKWFJWRFhZaw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 09:01:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Miss República Dominicana deslumbra a su llegada a Puerto Rico - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMm45V1JKQ1RWbzFZdmdfN1JwUmhLOFNvSnZRbVZOTVNUckp2S3lZUHo5SEVsWWhRRDlFQW5hZi1oWFBxMXdMa0dVcmVoTld3RVJYbHF0Znp3LWxUeDcxREwySURvZGV1U2xYeC1NTktVWGN1ZUIxTGV1YXNjT1hZNFlobEwzVkMteEtlUDRGVHlnN2dhNFRPdW0tdG1MS3ZIYWc4T1ZTOHZpZndYRndHaHdqNkdoejdtSlJEZy1FelczaWFLV1V4U0ZxQ3pYVWYzNExIamkwcw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 06:03:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/81/775/49539847831-1080pnbcstations.jpg"
-    },
-    {
-      "titulo": "Funcionario de EE. UU. felicita a República Dominicana por cierre de fábrica en Guerra - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHNseWFKYTlnNEI1X2k3UkxYbFdHS3UzTHZZdk5naEpIVW5Bd1k0Rnlzb2JRSldMb0Q5MlI4LTlHZS1vUE0za0p0R1JDZUozWXRSX1VyNm1JN1VNczJKcHpoUm80aUpRUnQ0MnZ1YlBnTW5vNUtKVFZzMGpFT3FueGZXcWMxQU5ZYlJpUnZhN1ctRHVVdGJ6Q0xrZUJQWUlfVGhIcl9kUmZuamt0QzI5WVY5WlFMU2xST3fSAb8BQVVfeXFMTy1SN216OFlMRUpIbEl5VDh4UTlnbGhsTWZwRGxEcF93TTBray1ZdUo1SjlmVmhUaEdMRDhHeGl2cG1SNmhFUnJ1OURzdG5kWjIyYVdQeG1QMTZkczM3QlM3akZuV1R4blRWdlgzdE5HY1ZEOW5WVWh0SkdSUE8yM04xMnBaNVdKYUQzMzd0b1RldWFueC1HMm02azQyMmtzWHgtd2MwT0xMV3MwbXRJRm8tR3RNeFNlY3VLbklPRDQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 21:20:44 GMT",
-      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/files/fp/uploads/2026/11/09/6af2382c7ae99.r_d.400-299-15000.jpeg"
-    },
-    {
-      "titulo": "Presidente dominicano dice que apoya a Bukele y la presencia de tropas salvadoreñas en Haití - Seattle Post-Intelligencer",
-      "fuente": "Seattle Post-Intelligencer",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzF4RHRGSGQyYThKOXJwdklWeE05QURRUW5RX05TeFY0Tk83VGhaVm13V003d0JDVFFEemdEaTBiX0tHeE9VX2gyVWx2RnQ2TXJCNzEtcERPNkFneHZCTFl5VV9jWEswb1FSemRST3RpbTNweXZoc1AydWh5SW5xb1NDVHZmNnlrYUJXRTZXZFBNb0NUY3EyX21n?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 22:55:58 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este martes 10 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Z9IB1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Zw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 07:59:20 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alejandro Rodríguez representará a República Dominicana en Mister Manhunt International en Vietnam - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGV2a28yVVQtZ1EtRXpWLVIwbEw0enpYakx3QnhBamgyeTdmRHhxT0VPV045LTcyU0VmajJSbkVDTDZOcFpHampIc3lIUlFmT21lSWtuaEZYX0Q1TGN5NXA3R054VHJwMTN2OXY5eEpVNUJaU1hUYjQ5eDF6QVlFd1J5ajlSWGZKWWdLbC1CRjRySDhudWowMWhOdmExS0dvVGo0UUxtNTBxejlsQnRNZmZPa0M0Um1LTXBIdnV0V0p4OWJHR2xF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 16:42:12 GMT",
-      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-10-123639.png?resize=482%2C288&quality=100&ssl=1"
-    },
-    {
-      "titulo": "Embajada china rechaza críticas de EEUU y defiende empresas en RD - El Caribe",
-      "fuente": "El Caribe",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMml6d2dhUmxhR2xscXRRX2w2VW9nOVVDajh3YTF1dElla2lfeHZ2YVY0WTMzVWdmWTdveE01LW5jU2F3U0JkYW9nY3dBWkNDMjdrZW50RTN1c0hjOXlUZlpkdFZLM2pUVlJTUHd3RW5jTGszZDVRTTZuTllqWGhmSjZxUGxmWm5ZZWpfUnc1blkwTDgtd2xLd2dGdGZZWDlUemxkZVRYOGg3dnNC?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 15:11:25 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Embajadora de EEUU en RD celebra medidas del Gobierno en contra de la competencia desigual - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnY2ZmpwSnh1am5jRWJ1S0tibFFnbzJxRlBGN00yYmZsRmktZnZVS2hlVkp5NzVoQVBROVJYMWJza3JMUXdrbTNsMGQ2UVVBUDZMUnRicnVTbFRacVVVOXl6TFBsNVMwcDA5bGh3NWdhXzVSUkhsMmg3NjUzbGtJc0J6YkNFVERSRXJpM3FMUzZhdUNNSTM4anIxMExEZ2JYUXNjU0VBRUI3c3l1NndIenVFenhQbEpMVVZyN01Td9IBxAFBVV95cUxOekZMUi0xT0NoSlA3X3pReGRkTU5Md1NQeHhoTzMtNnRnX1pzVGtWck9hajhBaUVFcjhqZ2h3VTUwLTFhMGhESzlUZ0gzbzhtSTcyTW9DYWtNMzJjbVRlSFRNYm43dzRHd2U2VFp3ejgtNmM0OFhnYzJEQi1XeU8zSWgxVjA5a1RQM3hxSGxPWjhtYzJ6V3hnbUlkOG1kNS1SOXc5LVR0UkNQWkJkbDhENGVFbDE5UDcwRm5kMGYzX1FsYTJD?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 21:00:14 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana enfrentará a Uruguay sin Junior Firpo el 17 de este mes - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUNGck9EOU1yMGZaSTVIMFB2R0hDc0RRSEt4Q2p0YzZ1MVJsY0plRVZzbkRKRUR2OVNUMWpkQlJzQjRfbVFrcnlyM3laQ3ZJeFhjeVJGY2N2bUZ2QjZ6RnVKdEt3Wkt6dFlqOUtWN0pGUzNhZVhoZVA0U1VXT2NueHJjMkFfQm80MzVGUEFXVzk2QkNrNUZtZU04UFNQUDc1ZmJ6ZkloY0MzQdIBrwFBVV95cUxONGtIU1RMZzNJZ3dUUGlzb2dhM2RWYTI2UEZMeGtfNWJNVHAxZnY0UWRZRWRDajZDWjFObDVRR3JnMDBWaXVKQWlQN1lnak5qSS00cm1ESWh3Y3JyTHFfM05RR3Z6eEtFOG5mTF9sT2R0b09rTUYyYllYOFQ1bzhYLW1tZlFUVHpCWWxKdzFQY0dHWTlPSjdqZEt6dlNSS0Jpckw2UVNrU2lBWllUN3RF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 20:39:57 GMT",
+      "fecha": "Tue, 10 Nov 2026 23:09:02 GMT",
       "imagen": ""
     },
     {
@@ -93,20 +21,36 @@
       "imagen": ""
     },
     {
+      "titulo": "Miss República Dominicana cuenta cómo está, tras accidente - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdExxX2dhZ3hJNVBSVC15N0pfYzg0UjFoUTZYbk8wMjVIR2tpY0VGaEZtQjl2YnhLeE9pM212NzRNWnZ6Qk03QUQ3d2NJSUpvMjN4RU40X2dCVG5LZUoxS2J2LS1UTUdYUzlCUHlGR1JlUGFMNDEwM2hRM0N1VzVPUTBTMDFXX1NIc0xadHkxanhvWU5YcDk4TU92aWh1S2ZteUJ4X1B0TV9MWkwxLVdvWGhLT2U3TVlEV3pQVmxxNkhZQmxFREVCQ3kzc3Y0MjZ6dkZjeDBYTmJkR1ZC?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 07:03:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/183/826/49558150592-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "El pres­i­dente do­minicano afirma su apoyo a Bukele y a las tropas salvadoreñas en Haití - Spectrum Noticias",
+      "fuente": "Spectrum Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaDlBVmtsS0lVdHFtNlVPdnpGQjA1eVpNbHZ3OTU3cHZCaW94SEluNkR1bmhZSzBjbGhUcFFwMGs2T2lRbW1mRmJ6dlBLLVAxWGhLQVQyWmVYR19KVXdQbDEyNTNJYndyQW9KVU9qQmQ5ZFlLZ2JWTVgyaVhYUExSaWFFQzZlazREbEtDak1fbWtZZ2F5VnI3MUFGMkF3WExkazdBNVlEQTM0eXotNlhzTFJFQjd1RmhZdlhlR0hjTkwtS085NWpRQnpnNll2TWZaUDJRRS1yNkxFdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 22:54:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "China rechaza \"manipulación política\" de EEUU tras el cierre de una fábrica en República Dominicana - China en las Américas",
+      "fuente": "China en las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTHNFYTU5Q2xUM1psWGFxY25LcDR6NFlWRV9aS0h4Q0h4VnlBOHBiaTNwQWkyei1hWGt4dl9aOHZNQVRpbnBJZzFvdHlnV3JmOXcxdXhwVzg2RWJXaHllZDF1eXBwQkVvTEZmLW8yeFNxbTROVHRhTEY0TUJrQUFJb2hQZy1CT1RWdVlrd3NSQ3RRMnNiVkNqMng3RlJ1bXRmQ3ZwN2pZczZuaHk4ck13X0hlNEYyUHQ3UzF0d0NSUkplS090LXIxT2JXa0pUMzBFMG1QNg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 22:59:31 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Cuándo juegan Uruguay vs. República Dominicana por la Fecha FIFA: equipo, fecha, hora y TV en vivo - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 08 Nov 2026 20:04:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "BESS de 36 MW energiza 70 kilómetros de red en República Dominicana y redefine las funciones del almacenamiento - Energía Estratégica",
-      "fuente": "Energía Estratégica",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYk5nemwwY01XS1RkRzJwaTBzSVRXYnNHOHVUQ0RSVk93YW0zREI3NUZEbjU3R2czOFdpT0l1Vmw4WFRqYTN6YldSVi14bU03U2JrTjNzYm1sbHFmaE80dnJXTXplWUcxd2VBUlJQalJ6UURMWmhhcll2eTc5cVJBQm9qekx0aFVHX29hbkR6aEpodVpZVjU4Vjl4Zzg4OFF6aGFMVjkxTS0xUWQ3RnVQLS03YlJkbXNra2lNai1LQWEwZHRDZG0wVVZpOG9qTm50VDBsZWxSeU5kQXF2cE55aFJoSjdGdFhveVVmVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 13:13:50 GMT",
-      "imagen": "https://res.cloudinary.com/dkdyuefrf/image/upload/v1793962608/notes/fylkxujqnlpecbpvths6.jpg"
     },
     {
       "titulo": "Licey empata con el Escogido en el liderato en República Dominicana - AP News",
@@ -117,11 +61,67 @@
       "imagen": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png"
     },
     {
+      "titulo": "BESS de 36 MW energiza 70 kilómetros de red en República Dominicana y redefine las funciones del almacenamiento - Energía Estratégica",
+      "fuente": "Energía Estratégica",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYk5nemwwY01XS1RkRzJwaTBzSVRXYnNHOHVUQ0RSVk93YW0zREI3NUZEbjU3R2czOFdpT0l1Vmw4WFRqYTN6YldSVi14bU03U2JrTjNzYm1sbHFmaE80dnJXTXplWUcxd2VBUlJQalJ6UURMWmhhcll2eTc5cVJBQm9qekx0aFVHX29hbkR6aEpodVpZVjU4Vjl4Zzg4OFF6aGFMVjkxTS0xUWQ3RnVQLS03YlJkbXNra2lNai1LQWEwZHRDZG0wVVZpOG9qTm50VDBsZWxSeU5kQXF2cE55aFJoSjdGdFhveVVmVg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 13:13:50 GMT",
+      "imagen": "https://res.cloudinary.com/dkdyuefrf/image/upload/v1793962608/notes/fylkxujqnlpecbpvths6.jpg"
+    },
+    {
+      "titulo": "“Hay que apoyar al ejército salvadoreño y la actitud del presidente Bukele”, afirma Luis Abinader ante la crisis haitiana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObEFzVUdQdUprSUxNRjJyamVpclNtX3V6eTVPNGtSS2pZMUczSmJZWnZfVTM1NTdGcGltZ3d3TmlnZGtGeGRQSHNydndYaXZFTk9mRzNjemF2eklMLXBWNlVKcXN1d0NLdElyU1JYZTYzSDhQYWt3ZFlQTncweGl4M2MxdmVEeWhqVWpQT05XTFFKQTB2ZmltMzFMUk5iWFJkUTdlS1pGeHRaeW9zSGhWWnJKU3dKOG1JSDJ3OFRoZE5EcU9JUjFOMGpETE1GcURtWng5ancxMWlJWkhUVWU3Vnl0aHFkNWlKMi0yLXhyTHY4eE90Szg5blk5ZnVUTTJQeXYtckV30gGgAkFVX3lxTFBwYnFtcjJOQmRNNHhCLXowOFlVNUpNSWx5d21QaHIzM0hKRWFMN21yV3NSRlZVVU05WS1BSHRyLTh4M0lyLW1tMDZrWnZfYjRuQ0M1cy0wQ01TaGwyal8xT3BsdThVOWEycmt2UzFyUGVFNUFDZ3U1VmxGb2FwMUFxU2wxYk5GcFJtTFp6NktaaWVMYWNRb29sakNjdWFmUVRqc0hENDJVNnppMnJKd1k2Yl8yTks5NmVvY29LOXIzY280YlNkRHB3ck1HQkVCLTh0cDNza0ltUDk3dEZDTkNvd0dGNmd4NGt1elhzajFmV2NVMDY2TG0ydGtTRURBUWw0Y1ZuSEdPTms5bkgtNUUtV2NRa092c01KWVB2OW9BUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 19:25:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Patricia Silé, oro del atletismo de República Dominicana en 200 metros en los Juegos Olímpicos de la Juventud 2026 - Olympics",
       "fuente": "Olympics",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFZnQ1BrWks0ZXhyblE0UjZPRlVyOWYwZ2dnYmowTDMyT1hGVnl6MGZHR1gxWXptTEJKREV4MmZ2LW1FTVZNb1l6N1NVZWVvS0tvdXBoOEhqV2RWaEx3YkFpeFByelk3WXIzemJtc0NvZkZJTjhMOWhvbXlOcHVJekh0MVNmcXdKMWRTNEsyNlNRQmZoZmhTcU9fQTlpYUZsckRXS0J3SWVSMEY2cEprbUE2TUtRb21IYjlWZEZxdmNtZ0phdDFlOVp3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 20:13:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Una de las mejores experiencias que ofrece el periodismo es la posibilidad de hablar directamente con la gente, escucharla y conocer su visión de los temas.⁣ ⁣ Por eso, en el marco de las coberturas especiales que hice para el periódico HOY de la 81.ª As - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vMUUzbHVITUZOcS1oYzNGNlk5SURndmw3NGV2bV8tVTlWYTFQTjV2anNJVTNtTllhZ0tKS3ZvYVpncWdweTkxeXpMTW1xNkVCcFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 14:06:55 GMT",
+      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/895570977_18641017216041593_8316852990826191761_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yjCqxQypmvIQ7kNvwFi8T7R&_nc_oc=Ado0FXlH-X-grIYDvEkojB1JYdK07KOHWi0bTwNK_ayGxVYLfVFj2WGiFAZChtj9ddM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4KgFIcqgMU4cel2VYvJFuw&_nc_ss=7b689&oh=00_AQTI7dqOcPU5CtEnG308qBMv2AEc1D1JztwMw63VAah4qw&oe=6AF9051F"
+    },
+    {
+      "titulo": "EEUU elogia a República Dominicana por el cierre de una empresa china que operaba ilegal - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjFKSkozY0lEQ1g5UFFva0ZfLWNXbnRUcDY3YmxvcURBenFQenBqSl9Ob3RQOEJ2d0xWc3NVRWFEbEtWbEUzRUkyUUJ6M1J4RW5yUXNMSUxTZk1YSHJzZy1ZdzRpYlFYTFhCNkFJd1dlYkFBeTEwU3BOZkd3dVlSbGwtRGZCQjF4Ymg1bkNDMlVJY3B1WktaTGJoWVFWRU42SGc5S2Ywc1hUV0NCdndZMmR4c1NWM2swejNQYlZUWi1kcFZBVEF2TEktMDVOTEJEeGs00gHYAUFVX3lxTE5wcHZZcGdJdTBNa1NXRjBFTEFMMmtzakQxN2VrRGc4dzJGQ01DUDE1YWZ2SFdOTFRRXy1CLVFBb01DX013dEZyNnlUVjdRV2lFaWNrV3VaX1R1SmFrYWtiZjMtdjNBNm9OQ2JDYU1RSE1JUWlqWVZNYWpxa2V2X0xhQUxkLWQyNDRZQjM3MkJRd1NKZXA5TnNlTWM0Z3pVVzFIdzZYN09qZmFZbXdBRnNpUl8tR1lOQUgtdURHczhDZ2lhbVNILXFUMEV0OFRSVWxvN3N2bjAyOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 00:17:00 GMT",
+      "imagen": "https://media.diariolasamericas.com/p/703954bd8cc695e2314fba1109e51bbb/adjuntos/216/imagenes/100/287/0100287029/1200x675/smart/juan-pablo-segura-1.jpg"
+    },
+    {
+      "titulo": "Miss República Dominicana confiesa cómo enfrentó las críticas más duras - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSml3TkJMamMycXNtZWxWcjlGdUJ3d01waTVqUG9sa1d5Z1B5ZFhPZG85UnZDY0VnTEVYLTdjQ0xCVGlVSG4tN0pBdXowOF9nOFJKWmZpdXZBbDRiN21FN0g2VmJoNzJDZXpvRW1qeE53VVdMNXBBSlByYXJCMGhjdmNCX0xzN082V0FZeU8wWlBKZERhUUJVRmNYY3pNR2Z6S0pLX1VaZ0xXVk9CQnVGeTVrUFBTelpRalhyVWJPdDlHWjVYdDd3Q2x0bE13bmRHYXZrWU5faFZEY01nWXplN0ZTZi02dTZKWFJWRFhZaw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 09:01:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana arranca la siembra mecanizada de frijoles para el ciclo 2026-2027 en San Juan - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQndDanZHSElOWENfcGhoV0J3SjFjUWRYZnBFYklvajQxUUczUzNtdU94ZmJueDRHM3dna0UyY2dJVmRBZUxVTGxIWHlLMFdMbV9vQ3gzcWlTako4VG9vZUwxbWRkQmZzNVUwSlJaRWQ0b255ZWtiSmJmQ3N3OFU3aXl6WVhnVjNjTUE5OGNTNVlsbEs3MkRMVE9ybE1FbURTV2taWGVjak1DcFo5emt0NW9QNTR6S0d1Y2FqNUdkMVZRQjRHQ3BOYVdWVjJvbkV0ZjhLQWFfbDV0QVNrcmxJUENad2lfTEstVkRF0gGGAkFVX3lxTFBFbEtTZGR3MFBKdEFCMWlhVkxxUThBbHpmM3p5b0pkVlpMNnhiWFVMcnFjdExUelhRZ0w3dkdaeVVzckFsNW5pSDMyNThwYTVqQXJqeDYtOUNZSUoxMl8wSzNpdlVCWGNsQy0wLTUxZ0RURlNpMUwzV1FLbHYyTmZqUlJEeEdCN1NNOUR6bkx0bjBOcG9vc3ZoN1pMNExrbUFnUnNhdXprZUxLNnFWcEdPTmZhQXVPRTQyODJ4RzRTQzBpNmducjYtdFk5OG1ub2xwN2VwQ2RXakxScjFWZER4ZEVucHUyWFA4dnUxdGhHTnBjaExzTmZfS0NhbWpuXy1oMWcyS1E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 21:48:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Patricia Siné, de República Dominicana, gana el oro en 200 metros | Dakar 2026 - olympics.com",
+      "fuente": "olympics.com",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yX0NNOFNJMGVNaWo3a0pld3c0MHBscUlCWll4SWdULXhOQkhyNC14N1lsendrMWUyb1JmU3k2WDFkSHE4ZmlQZ2Y5Ylk0WDJZeXE1bnFDbHRQNVA3aWlIUDlJa3ZUMXg2dFI4SEF1Z2JHRDM3NzRLZjQ0UWI5dw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 19:25:05 GMT",
       "imagen": ""
     }
   ]
