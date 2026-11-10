@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T13:48:58-04:00",
+ "actualizado": "2026-11-10T14:09:21-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -228,6 +228,14 @@
    }
   ],
   "Americanas|New Jersey Día": [
+   {
+    "fecha": "2026-11-10",
+    "numeros": [
+     "33",
+     "42",
+     "96"
+    ]
+   },
    {
     "fecha": "2026-11-09",
     "numeros": [
