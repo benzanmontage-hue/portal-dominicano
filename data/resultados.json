@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T19:41:05.627637-04:00",
+  "updated": "2026-11-09T20:01:25.882881-04:00",
   "fecha": "09/11/2026",
-  "hora": "19:41",
+  "hora": "20:01",
   "total_juegos": 53,
   "juegos": [
     {
@@ -54,24 +54,24 @@
       "compania": "Loteria Real",
       "juego": "Chance Real",
       "numeros": [
-        "12",
-        "66",
-        "28",
-        "29",
-        "27"
+        "72",
+        "75",
+        "64",
+        "86",
+        "54"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695be"
     },
     {
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "97",
-        "06",
-        "11"
+        "35",
+        "46",
+        "59"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -90,12 +90,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool Noche",
       "numeros": [
-        "10",
-        "23",
-        "79",
-        "92"
+        "05",
+        "07",
+        "21",
+        "56"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695cc"
     },
     {
@@ -150,9 +150,9 @@
       "compania": "Loteria Real",
       "juego": "Repartidera Real",
       "numeros": [
-        "05"
+        "56"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695c5"
     },
     {
@@ -310,11 +310,11 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "63",
-        "24",
-        "63"
+        "44",
+        "18",
+        "34"
       ],
-      "fecha": "2026-11-08T04:00:00.000Z",
+      "fecha": "2026-11-09T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
     },
     {
@@ -639,11 +639,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "97",
-        "06",
-        "11"
+        "35",
+        "46",
+        "59"
       ],
-      "fecha": "2026-11-08"
+      "fecha": "2026-11-09"
     },
     {
       "compania": "La Primera",

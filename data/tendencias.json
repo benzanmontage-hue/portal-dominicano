@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-09T19:41:08.710345-04:00",
-  "hora": "19:41",
+  "updated": "2026-11-09T20:01:29.327883-04:00",
+  "hora": "20:01",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "lidom hoy",
+      "termino": "pelota invernal",
       "trafico": "2000+",
       "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
       "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     },
     {
+      "termino": "hawks - lakers",
+      "trafico": "200+",
+      "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
+      "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
       "termino": "locutor",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Muere el locutor Alejandro Sánchez, conocido como El Feo Nuclear",
       "enlace": "https://listindiario.com/entretenimiento/tv/20261109/muere-locutor-alejandro-sanchez-conocido-feo-nuclear_929433.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrT5G3QPHx-HxFqusPuUHWiCFanCCkuFCUbkmx24HwuI70BLV-OWllF1vUkpk"
@@ -28,7 +35,7 @@
     },
     {
       "termino": "petróleo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Los precios del petróleo caen ante la perspectiva de avances diplomáticos entre EE. UU. e Irán",
       "enlace": "https://www.diariolibre.com/mundo/resto-del-mundo/2026/11/09/precios-del-petroleo-mundial-caen-por-negociaciones-con-iran/3715457",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
@@ -49,7 +56,7 @@
     },
     {
       "termino": "fábrica",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Alto funcionario de EE. UU. respalda ofensiva contra fábrica china en República Dominicana",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/09/estados-unidos-respalda-cierre-de-fabrica-china-en-rd/3715705",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhVc7j6vnITzNRIHzR3pxxMditb8mqdiTwLqR_RuRSNty4I9cBuPE9fWGY0U"
@@ -64,16 +71,9 @@
     {
       "termino": "asteroide",
       "trafico": "200+",
-      "noticia": "¿Puede un asteroide destruir la Tierra? Esto explica la NASA",
-      "enlace": "https://www.ntn24.com/noticias-ciencia-y-tecnologia/puede-un-asteroide-destruir-la-tierra-esto-explica-la-nasa-664828",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdkelMHOA7LbnpcYfC3wvNNyUnkt0RZ3_LbI6xeMLOMdBzjHjM1FA-WXIX08M"
-    },
-    {
-      "termino": "lotería nacional de hoy",
-      "trafico": "500+",
-      "noticia": "Lotería Nacional comprobar sorteo extraordinario de La Cultura del sábado 7 de noviembre",
-      "enlace": "https://elpais.com/sorteos/2026-11-07/loteria-nacional-sorteo-extraordinario-de-la-cultura-del-sabado-7-de-noviembre.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT32zBRUcpbGFOqJs7kaDvvBH6Sibr8D29OH4v-bN0rBKk42on7cKnn03-HWrs"
+      "noticia": "Estos son los asteroides peligrosos para la Tierra: la Nasa vigila estas rocas espaciales por riesgo de impacto",
+      "enlace": "https://www.eltiempo.com/vida/ciencia/estos-son-los-asteroides-peligrosos-para-la-tierra-la-nasa-vigila-estas-rocas-espaciales-por-riesgo-de-impacto-3599532",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCTEBAq316SCC7j02dzUs2sBuAh4xc92GtG_tTxKtxl5-EGEQwV2f_8-p-wcU"
     }
   ]
 }
