@@ -1,10 +1,21 @@
 {
- "updated": "2026-11-09T20:22:01-04:00",
+ "updated": "2026-11-09T20:42:24-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
  "fin_temporada": "2027-01-29",
  "tabla": [
+  {
+   "id": 672,
+   "equipo": "Tigres",
+   "g": 13,
+   "p": 6,
+   "pct": ".684",
+   "dif": "-5.0",
+   "racha": "W3",
+   "pos": 1,
+   "nombre": "Tigres del Licey"
+  },
   {
    "id": 671,
    "equipo": "Leones",
@@ -13,19 +24,8 @@
    "pct": ".684",
    "dif": "-5.0",
    "racha": "W1",
-   "pos": 1,
-   "nombre": "Leones del Escogido"
-  },
-  {
-   "id": 672,
-   "equipo": "Tigres",
-   "g": 12,
-   "p": 6,
-   "pct": ".667",
-   "dif": "-4.5",
-   "racha": "W2",
    "pos": 2,
-   "nombre": "Tigres del Licey"
+   "nombre": "Leones del Escogido"
   },
   {
    "id": 670,
@@ -64,10 +64,10 @@
    "id": 667,
    "equipo": "Aguilas",
    "g": 6,
-   "p": 11,
-   "pct": ".353",
-   "dif": "1.0",
-   "racha": "L1",
+   "p": 12,
+   "pct": ".333",
+   "dif": "1.5",
+   "racha": "L2",
    "pos": 6,
    "nombre": "Aguilas Cibaenas"
   }
@@ -453,7 +453,7 @@
    "fecha": "2026-11-09",
    "hora": "17:00",
    "estado": "Final",
-   "detalle": "Game Over",
+   "detalle": "Final",
    "visitante": "Leones del Escogido",
    "visitante_id": 671,
    "carreras_v": 5,
@@ -467,14 +467,14 @@
    "id": 851453,
    "fecha": "2026-11-09",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Game Over",
    "visitante": "Aguilas Cibaenas",
    "visitante_id": 667,
-   "carreras_v": null,
+   "carreras_v": 6,
    "local": "Tigres del Licey",
    "local_id": 672,
-   "carreras_l": null,
+   "carreras_l": 8,
    "estadio": "Estadio Quisqueya Juan Marichal",
    "serie": "Regular Season"
   },

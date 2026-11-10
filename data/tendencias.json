@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-09T20:21:56.558895-04:00",
-  "hora": "20:21",
+  "updated": "2026-11-09T20:42:20.043230-04:00",
+  "hora": "20:42",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "licey vs aguilas",
+      "trafico": "500+",
+      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
+    },
+    {
       "termino": "hawks - lakers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
       "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
-      "termino": "pelota invernal",
-      "trafico": "2000+",
+      "termino": "lidom hoy",
+      "trafico": "5000+",
       "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
       "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
@@ -41,15 +48,8 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1QOSqgCcxmmxVSLzOhBKqyb_hCsRfm57WWudKMc8cDkQImsWjVYxmqWyXRE"
     },
     {
-      "termino": "beisbol invernal",
-      "trafico": "200+",
-      "noticia": "EN VIVO: Águilas Cibaeñas vs. Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251336",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAVCW_vLBHfdhfEvOVicrvXTAW3oUO87PoBywquGLuqKqsA28Mre6aYOOgEn0"
-    },
-    {
       "termino": "agresión",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
       "enlace": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkAJL8zGp83l4pfZgYzCtSa_8WtN-h3QwABOo9yvYtR16uydG8hKcYyNGbuc"
@@ -64,8 +64,8 @@
     {
       "termino": "china",
       "trafico": "1000+",
-      "noticia": "Statement From NVIDIA Board of Directors",
-      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "noticia": "A Message to Our Company",
+      "enlace": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
     },
     {
