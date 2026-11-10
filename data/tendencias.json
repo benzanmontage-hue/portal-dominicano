@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-09T23:25:17.101015-04:00",
-  "hora": "23:25",
+  "updated": "2026-11-09T23:45:40.768685-04:00",
+  "hora": "23:45",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "warriors - pelicans",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Warriors chase historic eighth straight win vs. Pelicans",
       "enlace": "https://www.cbssports.com/nba/news/warriors-chase-historic-eighth-straight-win-vs-pelicans/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
@@ -21,7 +21,7 @@
     },
     {
       "termino": "juan soto",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTAyviMNDBzvt8g0r_zCyZrQm9nh6ChNlmkwEr2eeskzKk9IqKgKbpVRAb0w"
@@ -43,9 +43,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "FIRST ALERT FORECAST: Enjoy Tuesday   Wednesday!",
-      "enlace": "https://www.wymt.com/2026/11/10/first-alert-forecast-enjoy-tuesday-wednesday/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9nMj_YlQmHNRyuDXsqJg3oVACDgwE8y1YkzUcBi02cU6Iv52DFc95vtPAIo"
+      "noticia": "India vs New Zealand 3rd ODI, Preview: Gloomy Hamilton presents another batting grind",
+      "enlace": "https://www.cricbuzz.com/cricket-news/140841/india-vs-new-zealand-3rd-odi-preview-gloomy-hamilton-presents-another-batting-grind-cricbuzzcom",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3smOcNhzHAniQa0DLbcYSPMbpDmYeR12f35OebZeBdr7mx-5E8FYOhzcsuk"
     },
     {
       "termino": "hornets - cavaliers",
@@ -64,16 +64,16 @@
     {
       "termino": "pelota invernal",
       "trafico": "2000+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
-    },
-    {
-      "termino": "lidom",
-      "trafico": "1000+",
       "noticia": "Stephen Nogosek lanza 5 sólidas entradas ante Toros",
       "enlace": "https://www.mlb.com/es/video/stephen-nogosek-lanza-5-solidas-entradas-ante-toros",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRO7oRlx2pDWMvML8CpYV0V5MviDsko3AAH9nxyKaHpNKlkWRZzefCRyN9qGk"
+    },
+    {
+      "termino": "lidom hoy",
+      "trafico": "500+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     }
   ]
 }
