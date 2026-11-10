@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-09T23:04:51.978866-04:00",
-  "hora": "23:04",
+  "updated": "2026-11-09T23:25:17.101015-04:00",
+  "hora": "23:25",
   "fecha": "09/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "warriors - pelicans",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Warriors chase historic eighth straight win vs. Pelicans",
       "enlace": "https://www.cbssports.com/nba/news/warriors-chase-historic-eighth-straight-win-vs-pelicans/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
@@ -28,7 +28,7 @@
     },
     {
       "termino": "rockets - nuggets",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Rockets look to bounce back against shorthanded Nuggets",
       "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-bounce-back-against-shorthanded-nuggets/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
@@ -50,9 +50,9 @@
     {
       "termino": "hornets - cavaliers",
       "trafico": "200+",
-      "noticia": "Cavaliers look to snap slump against reeling Hornets",
-      "enlace": "https://www.cbssports.com/nba/news/cavaliers-look-to-snap-slump-against-reeling-hornets/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfi16RI5gV5xV14aOAdMfnijlFD7V7CN8wsSJOoBBH0pmX3d8zHxwMdrfW5jA"
+      "noticia": "Hornets snap six-game skid with 124-112 win over Cavaliers",
+      "enlace": "https://www.cbssports.com/nba/news/hornets-snap-six-game-skid-with-124-112-win-over-cavaliers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
       "termino": "hawks - lakers",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     },
     {
-      "termino": "locutor",
+      "termino": "lidom",
       "trafico": "1000+",
-      "noticia": "Adiós a Alejandro Sánchez, el eterno “Feo nuclear”",
-      "enlace": "https://listindiario.com/entretenimiento/tv/20261109/adios-alejandro-sanchez-eterno-feo-nuclear_929449.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVfCqQr_rQ4rQDvn9i9qkFR7t46xYOK_Gbj3mLFX4QT6iqa-yZl9chXPrP3CM"
+      "noticia": "Stephen Nogosek lanza 5 sólidas entradas ante Toros",
+      "enlace": "https://www.mlb.com/es/video/stephen-nogosek-lanza-5-solidas-entradas-ante-toros",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRO7oRlx2pDWMvML8CpYV0V5MviDsko3AAH9nxyKaHpNKlkWRZzefCRyN9qGk"
     }
   ]
 }
