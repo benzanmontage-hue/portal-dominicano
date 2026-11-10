@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-10T12:06:52.201418-04:00",
-  "hora": "12:06",
+  "updated": "2026-11-10T12:27:17.068293-04:00",
+  "hora": "12:27",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Miss República Dominicana confiesa cómo enfrentó las críticas más duras - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSml3TkJMamMycXNtZWxWcjlGdUJ3d01waTVqUG9sa1d5Z1B5ZFhPZG85UnZDY0VnTEVYLTdjQ0xCVGlVSG4tN0pBdXowOF9nOFJKWmZpdXZBbDRiN21FN0g2VmJoNzJDZXpvRW1qeE53VVdMNXBBSlByYXJCMGhjdmNCX0xzN082V0FZeU8wWlBKZERhUUJVRmNYY3pNR2Z6S0pLX1VaZ0xXVk9CQnVGeTVrUFBTelpRalhyVWJPdDlHWjVYdDd3Q2x0bE13bmRHYXZrWU5faFZEY01nWXplN0ZTZi02dTZKWFJWRFhZaw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 09:01:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/71/1014/49537882477-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Tras las pistas de los que no regresaron - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUk9EVC0tZWl4el9jVFAtNldCTWpYOVFXaGFkTmxLNzZDWU43elNLcDhqaGpiaXd6MHNENEFkWTBQOGtKNVhMdkN5OGNLbEtyR1d0eFZEa0VTOF80d1cwTFEwQTNPTjdwN1JYNWw5VktWZXdmWnI2ODFHSFZfQldzNlhoaFdRLV9oT1ZNVlRIZHNSNGJlVTFKc1dPVHNSSEhMZmdsZVQ5NVR4ZUNKMjlXSEVTdmlkR1p0NzBCVFdUMXhMcU4tRk9YSEU1TdIB0AFBVV95cUxPMXJZY2lvNXZUY3hDM3FVSHNiU3JyVHM2WlBJaGMzZ0U1UGRldVNvYlk0enF0NkRtVFlJM0c1TG82a25hQzkzYWE2OFdfNkFpaTFkMGxPSjVWMnhPbjEyY2hMNFd2VURzZ1JPYmhzWFREU3VYZDlSMFR5ci1xTWdrWmNSdWRsSnRpRjlsb1puaEhJZ0JRTFRmb1dUY0c2U3l2bDR4OXQ2NHJrbVhkdnkyd25GS3dBRW5jTFE5UE1Bdzg3YTV0cnZ0bmNCblREdlFH?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 04:01:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Miss República Dominicana llega a Puerto Rico, tras fuerte accidente - Telemundo",
       "fuente": "Telemundo",
@@ -11,6 +27,78 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 09 Nov 2026 08:04:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/56/375/49536379547-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "China sobre felicitaciones de EEUU por cierre de fábrica: RD no necesita de fuerzas externas que pretenden dictar pautas - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaTdjUm9Sb1FaRGx4ZXZBc1cxdmRXUEt3U2xZcmRjVzJYdXltdUxkemVSUEl4QnpoRlRnYkFpUDVjZVRQVjNzZ054RzdfV1NYTGs1RF9QOFJ1QmViV3FVck56NklKWnFmOXUtdVNNNzB0NGo4dkh3VmtnM3I4QlZRQzNoUFVtVEU4UVhRZXktZWM3clJ2RjRPaVRuWDF5XzRXS1g0WHZ6S19kaEQxWU4wWkktRk9oX0NUUWtQQkF3R0lJMUt0OXRuWlluUFlmZXNBTHNUMExzZjJYd3RldWR4eThPZlRMVDBlXzlXS0JPMNIB9AFBVV95cUxPQmFkYUJfXzU5YjVNOFlQb1JmRUNWYXFqc29mdGF6WmpPMEtVNE92SHdVT3BfNWdiajBQcmdtY1VjVWlnbEtrNExOWlM1NE42T0N5VGhxREVacjNkaHRsZENWVDdjbm83clo0aEZtUjBBc1BLMkZZaW5Lc0llOGlpRGlhcmRkWG9vamJJYWNwcjlYM3hJdEFCSEQ5cVpjZWdaVS1EM2RqNGl6dXB2SENCSjBiQ2JETi1yVkdtU1FKZVZsRnkxSjg4WXp5WGU0dFFmd29aZFhYcFNDTzlQaTFURFRrcDhJTUlCN1Y3VHpDRU9HbTVt?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 00:41:39 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "EEUU elogia a República Dominicana por cierre de empresa china que operaba ilegalmente - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0txVHV0VUZjdUg0b1dSVjlxcDB4MU9mT3FBZzFJMmxJWWNXMHZpZFJiSUlEU2w1OW00elRjUnlXYVMwWkVucFhuOXB5STRpT3J4QmhmNXhNRnVXdW52Z0YwS3dJRFhoOG1aYmlNNlJCSE9WMEMybk55Nk90MUJyanR4elpWMVh5VEJINVFmbUxacm1tQmNJQUh6ZDFYcXRvUHVWejlJQmNRdTcyNjk1ei16QTdRYzltOVRCekNwN2Y3ZkxnU1g1bDd30gHKAUFVX3lxTE9jS3FUdXRVRmN1SDRvV1JWOXFwMHgxT2ZPcUFnMUkybElZY1cwdmlkUmJJSURTbDU5bTR6VGNSeVdhUzBaRW5wWG45cHlJNGlPcnhCaGY1eE1GdVd1bnZnRjBLd0lEWGg4bVpiaU02UkJIT1YwQzJuTnk2T3QxQnJqdHh6WlYxWHlUQkg1UWZtTFpybW1CY0lBSHpkMVhxdG9QdVZ6OUlCY1F1NzI2OTV6LXpBN1FjOW05VEJ6Q3A3ZjdmTGdTWDVsN3c?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 20:45:49 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Funcionario de EE. UU. felicita a República Dominicana por cierre de fábrica en Guerra - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHNseWFKYTlnNEI1X2k3UkxYbFdHS3UzTHZZdk5naEpIVW5Bd1k0Rnlzb2JRSldMb0Q5MlI4LTlHZS1vUE0za0p0R1JDZUozWXRSX1VyNm1JN1VNczJKcHpoUm80aUpRUnQ0MnZ1YlBnTW5vNUtKVFZzMGpFT3FueGZXcWMxQU5ZYlJpUnZhN1ctRHVVdGJ6Q0xrZUJQWUlfVGhIcl9kUmZuamt0QzI5WVY5WlFMU2xST3fSAb8BQVVfeXFMTy1SN216OFlMRUpIbEl5VDh4UTlnbGhsTWZwRGxEcF93TTBray1ZdUo1SjlmVmhUaEdMRDhHeGl2cG1SNmhFUnJ1OURzdG5kWjIyYVdQeG1QMTZkczM3QlM3akZuV1R4blRWdlgzdE5HY1ZEOW5WVWh0SkdSUE8yM04xMnBaNVdKYUQzMzd0b1RldWFueC1HMm02azQyMmtzWHgtd2MwT0xMV3MwbXRJRm8tR3RNeFNlY3VLbklPRDQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 21:20:44 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Miss República Dominicana sufre un terrible accidente automovilístico - Yahoo en Español Vida y Estilo",
+      "fuente": "Yahoo en Español Vida y Estilo",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmZaeEtoTUdKMzJkOF83cHRMZ2V0QmxZT0s3dlpHZ2tVcXlhWDhmdnRYMnJNYm9SZi1GeVUwLTYwZTJSNWtTMm9OYm5tZVpHM0JnOUM2NnlFeV9PMGwwSXF2S1lKUzlwSW1pc3ozTWJpaUJkYW1sOWpqcjFIVVkzbVdFb0RXSmlYYVQ2czRGNTZIRzVrOGVVSzRWQjU?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 14:38:44 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este martes 10 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Z9IB1wFBVV95cUxQdXZWMmRndEtBdjBjNTNXSld1VlJ6UmJ4NmJncmludnozSlFoVjBmRTI4TFprc3ZwUFJCcXU0LWpjT3JfNzY3NzBTbDZIenJfTDlOZzdBZ0Y1UkctcnNFamxWQ09ZdnRjY2Y2WXQ3bEdRZXBleW5WSjdIQks2Yk84MHpXa3Z0WmNZb3d3d0xuMncxY0dsdVgwX3M2SDBybThmbzNyUURpc3NWREthcVVQZk1Ub1FtNnQzWFFTenhJN2R3dUVOb2Fja0JOWG9pTnl4SEY4bTR0Zw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 07:59:20 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "World Worship declara que República Dominicana le pertenece a Dios en la sexta edición de “Que El Mundo Adore”. - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1FlZE55amoyV1pzZ1RmT2ltRGFlREw0Q2J2NmV6c2lUQWk0ODBMXzB5SDR2SXJmanppQnpPTUFwQlo2eTF5UW1LaDhKMXpTMGh6SmJSUjlIQkdoWEF3cmF6OXotdTRQb1U4WWRwMHNuRTZYdXl6Vlc0amxEUWZGdkJCM0xXcFQ3NFpRalNZNGV5T0llSFFfNzI2MlFGOVRZT3h5S0hqbm0xbVlkQnc1MEF0ODBEV09weXZMSTFuWXZPRkFZSmtsNml5Z3Roa2hsQ3Nrcw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 16:13:15 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana enfrentará a Uruguay sin Junior Firpo el 17 de este mes - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUNGck9EOU1yMGZaSTVIMFB2R0hDc0RRSEt4Q2p0YzZ1MVJsY0plRVZzbkRKRUR2OVNUMWpkQlJzQjRfbVFrcnlyM3laQ3ZJeFhjeVJGY2N2bUZ2QjZ6RnVKdEt3Wkt6dFlqOUtWN0pGUzNhZVhoZVA0U1VXT2NueHJjMkFfQm80MzVGUEFXVzk2QkNrNUZtZU04UFNQUDc1ZmJ6ZkloY0MzQdIBrwFBVV95cUxONGtIU1RMZzNJZ3dUUGlzb2dhM2RWYTI2UEZMeGtfNWJNVHAxZnY0UWRZRWRDajZDWjFObDVRR3JnMDBWaXVKQWlQN1lnak5qSS00cm1ESWh3Y3JyTHFfM05RR3Z6eEtFOG5mTF9sT2R0b09rTUYyYllYOFQ1bzhYLW1tZlFUVHpCWWxKdzFQY0dHWTlPSjdqZEt6dlNSS0Jpckw2UVNrU2lBWllUN3RF?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 20:39:57 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cinco docentes representan a República Dominicana en la VI Cumbre Mundial por la Educación celebrada en México - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTGdfUmdFLUtrYWMtV3ZoeEdDS1k3N2Jfa1lDU0Q4TTFyZ3RKUjdvYUhfR0pCbnZRQzBDSkpsc2d0Wkd2eVJucDZzeDFXWTBlTURDdm9SOXpGdjV2VE5VNVFDd05fQXAyUm1EajdtVFc2LWRzeVBneWZFc0RWNUtJOWNZSXkxajdhNU1UNFRLaHNGVkE5elY3TUhjTURhdEZJd3loSWlXRndtMTJWT0ttX2FXb3JodlBUSWhhQXV4VGw3cDRnaG9zUW13MW1UXzRCVnRIVFRVUzRNa0ppS1JmVkd0Ni1XT3Y3c1HSAeoBQVVfeXFMT0xnX1JnRS1La2FjLVd2aHhHQ0tZNzdiX2tZQ1NEOE0xcmd0SlI3b2FIX0dKQm52UUMwQ0pKbHNndFpHdnlSbnA2c3gxV1kwZU1EQ3ZvUjl6RnY1dlROVTVRQ3dOX0FwMlJtRGo3bVRXNi1kc3lQZ3lmRXNEVjVLSTljWUl5MWo3YTVNVDRUS2hzRlZBOXpWN01IY01EYXRGSXd5aElpV0Z3bTEyVk9LbV9hV29yaHZQVEloYUF1eFRsN3A0Z2hvc1FtdzFtVF80QlZ0SFRUVVM0TWtKaUtSZlZHdDYtV092N3NR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 01:45:53 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Docentes1-OG.jpg"
+    },
+    {
+      "titulo": "República Dominicana acogerá Reunión Interamericana de Autoridades Electorales - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2IwczFwRHBhNFprc3FxRmdVN21nQm9VWmliWXRJQy0tOGNCMW9TZ2RHY29JaFpRc2VKMWJRTUZQZUJWeG0xYjJwYUFwVFBPRHhhWUZIdGV2VlB6cjEzc1IyOTFsYUlzYWZKSmo4b1F0aWZLNW1Vc2YxT2Y3TFZCakxaaFI3T0ZMODFaNUdHYkZnOXpzMTlUU0ttY3ZETVpTU2Q2Yi1rOHNnT0Rnd0NOcDl4MWlEVmtERzlJMUdfTkZ0d9IBxwFBVV95cUxNWWhXUEZ3RmlKaEk1d0UyN3plZVpQdUUxVklGQVF3ZE1tNDJzTzlHQzRVMmllcG4zbkJ6aUpsV3J0b2ppWHlsSWN1ajVnSTFMRkhsVXpZVWpGdk9CMWVjY21wakVBQ0Q0U01hcGlhR29NTmFrRXJaRUhJa1hEdEg0b2szcHNVNGl1TTRIRUdsNjF5NTRDalMyZ1ctSHdEdzR5V0JySjJsTWxpb0lFYWVpYXRiRV9EeG95Q1FvbUFHZ2NqUGNFYi04?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 23:53:04 GMT",
+      "imagen": ""
     },
     {
       "titulo": "BESS de 36 MW energiza 70 kilómetros de red en República Dominicana y redefine las funciones del almacenamiento - Energía Estratégica",
@@ -35,94 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 09 Nov 2026 20:27:29 GMT",
       "imagen": "https://s.yimg.com/lo/mysterio/api/d45833925d55a264debc24b1b54628b11a8257f87c4a6fa5985f6573e5c59609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2Fbad5a2fcefd06148b58d1ad6b5e5f0b6.jpg"
-    },
-    {
-      "titulo": "Licey empata con el Escogido en el liderato en República Dominicana - AP News",
-      "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHd3U3p2b0JKZmZwdkQ3c0R5VTVuTTFFdk1lMzMyRzZ3ak1QQkVHaE5JOGhDZXRsNVRqWTljbGM2UklJUnlocElMa25aa1BTcXFmZDlDUDZDS0U2ZS1lQzdHc1NyaEtXU3dCbXBhc1VSSXcwOGhnNmdBR3JDQWpjWWdwU3ozOWR5RFlPaWVxNFpUMWxDTWFuZ3BGWFhhWExXV1hvYnVkV3haR3hZVGdGSVlwV3lkeEND?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 04:49:00 GMT",
-      "imagen": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png"
-    },
-    {
-      "titulo": "EEUU elogia a República Dominicana por el cierre de una empresa china que operaba ilegal - Diario Las Américas",
-      "fuente": "Diario Las Américas",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjFKSkozY0lEQ1g5UFFva0ZfLWNXbnRUcDY3YmxvcURBenFQenBqSl9Ob3RQOEJ2d0xWc3NVRWFEbEtWbEUzRUkyUUJ6M1J4RW5yUXNMSUxTZk1YSHJzZy1ZdzRpYlFYTFhCNkFJd1dlYkFBeTEwU3BOZkd3dVlSbGwtRGZCQjF4Ymg1bkNDMlVJY3B1WktaTGJoWVFWRU42SGc5S2Ywc1hUV0NCdndZMmR4c1NWM2swejNQYlZUWi1kcFZBVEF2TEktMDVOTEJEeGs00gHYAUFVX3lxTE5wcHZZcGdJdTBNa1NXRjBFTEFMMmtzakQxN2VrRGc4dzJGQ01DUDE1YWZ2SFdOTFRRXy1CLVFBb01DX013dEZyNnlUVjdRV2lFaWNrV3VaX1R1SmFrYWtiZjMtdjNBNm9OQ2JDYU1RSE1JUWlqWVZNYWpxa2V2X0xhQUxkLWQyNDRZQjM3MkJRd1NKZXA5TnNlTWM0Z3pVVzFIdzZYN09qZmFZbXdBRnNpUl8tR1lOQUgtdURHczhDZ2lhbVNILXFUMEV0OFRSVWxvN3N2bjAyOA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 00:17:00 GMT",
-      "imagen": "https://media.diariolasamericas.com/p/703954bd8cc695e2314fba1109e51bbb/adjuntos/216/imagenes/100/287/0100287029/1200x675/smart/juan-pablo-segura-1.jpg"
-    },
-    {
-      "titulo": "Una de las mejores experiencias que ofrece el periodismo es la posibilidad de hablar directamente con la gente, escucharla y conocer su visión de los temas.⁣ ⁣ Por eso, en el marco de las coberturas especiales que hice para el periódico HOY de la 81.ª As - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vMUUzbHVITUZOcS1oYzNGNlk5SURndmw3NGV2bV8tVTlWYTFQTjV2anNJVTNtTllhZ0tKS3ZvYVpncWdweTkxeXpMTW1xNkVCcFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 14:06:55 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/895570977_18641017216041593_8316852990826191761_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yjCqxQypmvIQ7kNvwFi8T7R&_nc_oc=Ado0FXlH-X-grIYDvEkojB1JYdK07KOHWi0bTwNK_ayGxVYLfVFj2WGiFAZChtj9ddM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=4KgFIcqgMU4cel2VYvJFuw&_nc_ss=7b689&oh=00_AQTI7dqOcPU5CtEnG308qBMv2AEc1D1JztwMw63VAah4qw&oe=6AF9051F"
-    },
-    {
-      "titulo": "EEUU respalda clausura de fábrica china en República Dominicana - China en las Américas",
-      "fuente": "China en las Américas",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3VnbE5ZcXBKRjgxNlhyQmhyYXliRlpfZDRQY09reE4xWXFGWkZPWFh6Y0wzRDFleGtXMFJpd0VLZVdtUlZ4Z1J4c1V4Ump4dEI0REp4Q05nY2pnXzhmS2ZOZDFfVkdNNFlfY1V1YzRqbUY3bThmdEVIOU5GeUtTRWYyUmYxYVBpcy1QUzA3Yldlb2pRd0pfUzJjMTNLNzJqYmxEaE04Yw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 22:40:19 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Miss República Dominicana viaja a Puerto Rico tras un aparatoso accidente de auto que la dejó inconsciente - HOLA",
-      "fuente": "HOLA",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemc2dzdTVm5GRDM4QzV6aU1UQzVxMENpd0pKM0lhQ0NydXJCLWNjSzhaS0w5M1ZNYl9rV1YydDR5M1RRMldLXzhFS3o3MWZkUTRZbFZ6Vmk4a0NXUXA3MzlDeE1Bakx2bzhIamlEUVdheU9GT0pabzk1TkstVmw5M1FWWnBMelo5YXJSNWU5TVhPNi11dTBmSmhKci0tS1drWUE3VzhRX1lyY3pHSFhhWlhNQlpBd3hSZHhpa2tQdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 20:45:17 GMT",
-      "imagen": "https://www.hola.com/horizon/landscape/1200/86e83ecc91e3-mu.jpg"
-    },
-    {
-      "titulo": "Miss República Dominicana sufre un terrible accidente automovilístico - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzFUWGJaY2dKUjlVRmNCLThJa3ZhOUNFSnhWblZFSENJMG1qTGxwQnRualZRLVhNN1VIOXR4bjJCWHFMdHdDLVpNLUZSTzBlVkpCcXpyN0NyLURfX05zMjhxUWs1Z3lIRnVkVGw3aHg3RXlZMzY5YXJlbnJ4ZXRkNnFtbE0waTdLTDdPMmRCaUNSd0NWN2dYMG43S0k3SWFHenRWeU9zbndDdmhNUTB1U19QYWVCaE5ZRnNrRjV1SlhOaUpSZDB6Z05ZdDU0ajZhNkpWeHREM081UQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 08:30:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Miss República Dominicana sin el visto bueno para venir a Puerto Rico - Primera Hora",
-      "fuente": "Primera Hora",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGZHZ2FpQ2k3QzhtdVBWU0dMY0Nha2Joa2VLWldyVURYOTNza1FfcFd3cm5tNnFkSG9WU3JBMWpKSkpXOE1jU0p3QkRxYmxiQWRLVjI4dURKcXlXOGlxSXd5ZWc4MjNMWDBhZnVqRjBnYlk1ZnpmRHJMWlI1Q2xFWGlVWkJrLU9kZTdhSTdPMlVCb3NILWFTZ0pfdGE2VC1hVHJyVjE5SFByeDk5TmU3OW1NQ3M3bGwwanVzMndSYlNjaXhxaHNRSFJwQTFpOUZ4?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 08 Nov 2026 22:36:31 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La República Dominicana recibe delegaciones de 17 países para debatir sobre inteligencia artificial y derecho de autor - Presidencia de la República Dominicana",
-      "fuente": "Presidencia de la República Dominicana",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHBxNVRvdi1Qcl9CREVxZGdBa3F4eVNxUElhTE5MVXJmcUo2T2FzQk1vWVRyeXNCaHBTT0ZYdmR1bXBOQnhyaXA5TlZlaGpkSW8wZk1PYTNiTm1TVF85eS1rd2pTU25YWFE0VDZXSnY1OHRNTHZIN3NVVWJLbUFmUmhMNnRjc1F0YmRFczNGRER1Qi05RmF5ZkpVSFptLTRRZ1k5YXJBSDdXZE1EaV9XU0h6OEx3ZXFPZFd1ZXJPeXo2Zw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 14:43:47 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Tragedia en República Dominicana: una menor murió intoxicada por gas, mientras su madre y hermano quedaron afectados - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUmpPeU5wbXJrM3NVTTVQdkpZcDM3eUk4eV9XV3E4Z2MtMUpIZEFOY1JsdEMyS0tHUzd4X1BzSjNLNlVxQ2NvMXF3NC0yQVVEZzd4ZHNYNWEtOXFDTWVUTGZWTFR3RjN5Z1hrYmVDVUZla3V5a0dOYlBIUHFLUlJuZUdaaW1Rc1RrQmczV2RkVDdGUXJWRFBsOVNNMVFOWEwwcHpJSlJOSE1aR04tUjlOdE45a2xPZmhBOWRWMDhVNHVLS2hzRGt6WVFyR1VGWXFoSi1PZWU2amdjUFo3amZJd3dVd0s2TDlvbHA3SWxvR0djYlFmWmYwX25sckFTcGxC0gGbAkFVX3lxTE5FWEZpRVpqX0dCRDdmVmdVZERUNlNzd3hXUms0OXYzNEpNVnBuZVhtWE5oTXU0QjFXMXBwVVVYcHZVVkIzVUp3TV8tVUJySXZtZVBxVVFEVC1uaVZmeDZyRXBBNXVwNS1hNTBRWWlvWl8tUnZwUnlDVWp0b2ZTXzJsc1ZrTTFKSWlpM002OGlXNjBYY0pJc29SZnRsNFBfbEJnTlJJUFpkN3F4QUlHSWRPaTZHYTlaOGpiVFZzZzFnUFZtN1BVRjJSYV9HMTBwc1lfM2xYd2hsQjhwVlZSa2ZFQ3ctRkNxV09ZeTV5UHo1U1lobnJiOEQweHNjNFQ1U2Y0YTlRdnU1NVpmYV9yU2xyV3I5TjZoclFNb2c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 12:45:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Medallas de República Dominicana en los Juegos Olímpicos de la Juventud 2026: Resultados en vivo - Olympics",
-      "fuente": "Olympics",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0xrbU9WWG5YTW8yc0ZvNHU2YkZmblFoUW4tSUFZdHVqaURKSWMyY28xelhDSzVCMWdyOWJtd2gwUUtJNUw1TGRReU1BOG5Gd3hPQUUzSk5yWUZhMEtfQ0FiRGIyY2FBbDFNX3E1MkFfU3E5YXlBVFFmSDUwcUcwdldkM2pmZmFZc0VhX19jdmFCZ1EyNTNidkY1MEhBbFdBQkNWNzlzNVlsNU9D?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 08 Nov 2026 23:14:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¡El duelo del Caribe! Puerto Rico y República Dominicana se medirán con jugadores de Grandes Ligas en el Hiram Bithorn - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUlZIeS1nZnVKREFPNVA2NlRDRE5oWkFBYUNSWVJiYjFoNTdUN0JxWGFGVUFCWTBnb3FMZHd3X0ZKYlE5aVJURmRqTDRkM0x0Q1hRcGRpTzlEbFUxRFpUbTl0T2gxZ2V0Yml2aElrYkgwZU9USHU4MEFmWTBOLXo1ODdPQ0VHdWp4NjdBekNvNlplaU9wVGdNZkNqRHJOdHEtMWJPeFN4UmlnLW9pYUlNQ2ZVbWg4VjRNdi1VYm9EV1ZaRy0tRmFPOExhTzJnN3FpbzdnSzF6RDdXRkoyWG4zbmpiYk14TWtQY2ZrakFaUkdqYUVvdUhfWDl6QQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 16:21:00 GMT",
-      "imagen": ""
     }
   ]
 }
