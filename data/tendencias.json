@@ -1,10 +1,38 @@
 {
-  "updated": "2026-11-09T23:45:40.768685-04:00",
-  "hora": "23:45",
-  "fecha": "09/11/2026",
+  "updated": "2026-11-10T00:45:51.920190-04:00",
+  "hora": "00:45",
+  "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "james gunn",
+      "trafico": "200+",
+      "noticia": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over",
+      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygwmgjxNV-aY1Kr6yYO0Wq2k4KbZCV2soXH_S4S0qlRDSSkEuRkhAxLUbsnk"
+    },
+    {
+      "termino": "warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors guard Will Richard sidelined with torn ligament in thumb",
+      "enlace": "https://www.espn.com/nba/story/_/id/50429468/warriors-guard-richard-torn-ligament-thumb",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkdLDFCSMNWgFsQL_lLVL5P1stPWqfdJpnFUi67ud6MDCEUDRwKIm4lWsc-8s"
+    },
+    {
+      "termino": "mavericks - pacers",
+      "trafico": "100+",
+      "noticia": "Cooper Flagg scores 43, Kyrie Irving adds 35 as Mavericks top Pacers",
+      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-scores-43-kyrie-irving-adds-35-as-mavericks-top-pacers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
+    {
+      "termino": "sandro mamukelashvili",
+      "trafico": "100+",
+      "noticia": "Sandro Mamukelashvili scores 23 off the bench",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/sandro-mamukelashvili-scores-23-off-the-bench",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7PCQAfCOD5Fg0zRl98E3lJKDgtOaAoG6-ldS-e50pidmYedcM7NBuqTGI1vI"
+    },
     {
       "termino": "warriors - pelicans",
       "trafico": "1000+",
@@ -43,37 +71,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "India vs New Zealand 3rd ODI, Preview: Gloomy Hamilton presents another batting grind",
-      "enlace": "https://www.cricbuzz.com/cricket-news/140841/india-vs-new-zealand-3rd-odi-preview-gloomy-hamilton-presents-another-batting-grind-cricbuzzcom",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3smOcNhzHAniQa0DLbcYSPMbpDmYeR12f35OebZeBdr7mx-5E8FYOhzcsuk"
-    },
-    {
-      "termino": "hornets - cavaliers",
-      "trafico": "200+",
-      "noticia": "Hornets snap six-game skid with 124-112 win over Cavaliers",
-      "enlace": "https://www.cbssports.com/nba/news/hornets-snap-six-game-skid-with-124-112-win-over-cavaliers/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
-    },
-    {
-      "termino": "hawks - lakers",
-      "trafico": "2000+",
-      "noticia": "Lakers aim for sixth straight win in matchup with surging Hawks",
-      "enlace": "https://www.cbssports.com/nba/news/lakers-aim-for-sixth-straight-win-in-matchup-with-surging-hawks/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
-    },
-    {
-      "termino": "pelota invernal",
-      "trafico": "2000+",
-      "noticia": "Stephen Nogosek lanza 5 sólidas entradas ante Toros",
-      "enlace": "https://www.mlb.com/es/video/stephen-nogosek-lanza-5-solidas-entradas-ante-toros",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRO7oRlx2pDWMvML8CpYV0V5MviDsko3AAH9nxyKaHpNKlkWRZzefCRyN9qGk"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "500+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
+      "noticia": "Unchanged India bowl in rain-reduced 40-over contest",
+      "enlace": "https://www.cricinfo.com/story/unchanged-india-bowl-in-rain-reduced-40-over-contest-1562080",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr7FEl_1UWkddyG1RNw-_pBpXF7IwpAWZi7HOXwWBBHWka1fjWERlzcr06hwE"
     }
   ]
 }
