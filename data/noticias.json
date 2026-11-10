@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T18:00:15.591357-04:00",
-  "hora": "18:00",
+  "updated": "2026-11-10T18:20:41.498561-04:00",
+  "hora": "18:20",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
@@ -77,6 +77,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Dengue se duplica en República Dominicana: La Altagracia concentra el 80 % de los casos semanales - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUJEeWRscG9HNDRSdTE1M2w5Y19VWjlRT2NEQ3g2TzFaeXRDX2xPMVZkNFNVSDQxSW5WVzkyb3l3NmlBTmZDSmNobWJFZkdfUDBZOWY4S1pHNFZrVmdxcTdPRkZGVHhGOE5yZERzZUtGV2hwSWpPV1Rjd3JkYk5KaW1xd0t2MTdCUldwRFhQS3lLc3dKV3lzLV9fcG1KVjhtazlTd0N4a1lvdFVERWtPUnZfUmJsS0I4Zm82ZEdVZlMwSDZFMDRJSWtfOElnZHow0gHQAUFVX3lxTE9NQkR5ZGxwb0c0NFJ1MTUzbDljX1VaOVFPY0RDeDZPMVp5dENfbE8xVmQ0U1VINDFJblZXOTJveXc2aUFOZkNKY2htYkVmR19QMFk5ZjhLWkc0VmtWZ3FxN09GRkZUeEY4TnJkRHNlS0ZXaHBJak9XVGN3cmRiTkppbXF3S3YxN0JSV3BEWFBLeUtzd0pXeXMtX19wbUpWOG1rOVN3Q3hrWW90VURFa09Sdl9SYmxLQjhmbzZkR1VmUzBINkUwNElJa184SWdkejA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 21:00:35 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Cinco docentes representan a República Dominicana en la VI Cumbre Mundial por la Educación celebrada en México - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTGdfUmdFLUtrYWMtV3ZoeEdDS1k3N2Jfa1lDU0Q4TTFyZ3RKUjdvYUhfR0pCbnZRQzBDSkpsc2d0Wkd2eVJucDZzeDFXWTBlTURDdm9SOXpGdjV2VE5VNVFDd05fQXAyUm1EajdtVFc2LWRzeVBneWZFc0RWNUtJOWNZSXkxajdhNU1UNFRLaHNGVkE5elY3TUhjTURhdEZJd3loSWlXRndtMTJWT0ttX2FXb3JodlBUSWhhQXV4VGw3cDRnaG9zUW13MW1UXzRCVnRIVFRVUzRNa0ppS1JmVkd0Ni1XT3Y3c1HSAeoBQVVfeXFMT0xnX1JnRS1La2FjLVd2aHhHQ0tZNzdiX2tZQ1NEOE0xcmd0SlI3b2FIX0dKQm52UUMwQ0pKbHNndFpHdnlSbnA2c3gxV1kwZU1EQ3ZvUjl6RnY1dlROVTVRQ3dOX0FwMlJtRGo3bVRXNi1kc3lQZ3lmRXNEVjVLSTljWUl5MWo3YTVNVDRUS2hzRlZBOXpWN01IY01EYXRGSXd5aElpV0Z3bTEyVk9LbV9hV29yaHZQVEloYUF1eFRsN3A0Z2hvc1FtdzFtVF80QlZ0SFRUVVM0TWtKaUtSZlZHdDYtV092N3NR?oc=5",
@@ -91,14 +99,6 @@
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 16:37:04 GMT",
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/11/18094932/Juan-Manuel-Morel-Perez-3.jpg?resize=1142%2C1200&quality=100&ssl=1"
-    },
-    {
-      "titulo": "República Dominicana acogerá Reunión Interamericana de Autoridades Electorales - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2IwczFwRHBhNFprc3FxRmdVN21nQm9VWmliWXRJQy0tOGNCMW9TZ2RHY29JaFpRc2VKMWJRTUZQZUJWeG0xYjJwYUFwVFBPRHhhWUZIdGV2VlB6cjEzc1IyOTFsYUlzYWZKSmo4b1F0aWZLNW1Vc2YxT2Y3TFZCakxaaFI3T0ZMODFaNUdHYkZnOXpzMTlUU0ttY3ZETVpTU2Q2Yi1rOHNnT0Rnd0NOcDl4MWlEVmtERzlJMUdfTkZ0d9IBxwFBVV95cUxNWWhXUEZ3RmlKaEk1d0UyN3plZVpQdUUxVklGQVF3ZE1tNDJzTzlHQzRVMmllcG4zbkJ6aUpsV3J0b2ppWHlsSWN1ajVnSTFMRkhsVXpZVWpGdk9CMWVjY21wakVBQ0Q0U01hcGlhR29NTmFrRXJaRUhJa1hEdEg0b2szcHNVNGl1TTRIRUdsNjF5NTRDalMyZ1ctSHdEdzR5V0JySjJsTWxpb0lFYWVpYXRiRV9EeG95Q1FvbUFHZ2NqUGNFYi04?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 23:53:04 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Miss República Dominicana llega a Puerto Rico, tras fuerte accidente - Telemundo",
