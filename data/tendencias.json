@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T18:41:04.510538-04:00",
-  "hora": "18:41",
+  "updated": "2026-11-10T19:03:05.324126-04:00",
+  "hora": "19:03",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "ucrania",
       "trafico": "200+",
-      "noticia": "Rusia y Ucrania vuelven a negociar con mediación de EE. UU. tras más de cuatro años de guerra",
-      "enlace": "https://www.dw.com/es/negociaciones-en-abu-dabi-para-poner-fin-a-la-guerra-en-ucrania/a-79906447",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZVPZ-zlgCHxzaefNy0lAJCfwR0uW2rum4fy-V9oCT9wYEALkh8p-HS3gaNcc"
+      "noticia": "La UE prorroga dos años su misión de asistencia militar a Ucrania",
+      "enlace": "https://www.larazon.es/internacional/prorroga-dos-anos-mision-asistencia-militar-ucrania_202611106af2c10603bbf30bb046a2c7.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSwKxMiF7A_ngqXPFwo2jBZRyfYFtrQUcK5cwEZLeDRu9nzzIk_BspgKuV6c"
     },
     {
       "termino": "amnistía internacional",
@@ -28,7 +28,7 @@
     },
     {
       "termino": "bomba",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Al menos seis casos de falsas alarmas de bombas en aviones se han registrado en aeropuertos del país",
       "enlace": "https://listindiario.com/la-republica/ciudad/20261110/seis-casos-falsas-alarmas-bombas-aviones-han-registrado-aeropuertos-pais_929470.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Fps_DeaHgC7-7qV5hIEs1oicnJvD3tOXZL09WSe5nmSLO8BmEsE29WvSR5U"
@@ -55,6 +55,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsBEw7TXMSCtbVQutXELFg8WpKQlhU9OmjJm8b62BUQ8OlQ5EwuQpedetRQ6M"
     },
     {
+      "termino": "outlook",
+      "trafico": "500+",
+      "noticia": "Hims   Hers stock sinks after Q3 results, outlook disappoints",
+      "enlace": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-sinks-after-q3-results-outlook-disappoints-154547661.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9j6OvBvpYmnBr0ri-J_g7n6a6oGJTWzanBWIcV5Hxr3HMU2oFBaUcic-0lVI"
+    },
+    {
       "termino": "tigres del licey",
       "trafico": "2000+",
       "noticia": "Tigres se imponen en duelo de ofensivas ante Águilas en LIDOM",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "golden state warriors",
-      "trafico": "500+",
-      "noticia": "New Orleans Pelicans vs. Golden State Warriors Live Score and Stats - November 9, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261109_NO@GS/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQgn2GQwJci9qi2SxkiYYRjr955Y375dBsy-WyPMKhXcnkh5dQRdhkTuUiG4s"
-    },
-    {
-      "termino": "jordan poole",
-      "trafico": "100+",
-      "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
-      "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
+      "trafico": "200+",
+      "noticia": "NBA Round Up: Warriors Star Sent for MRI, Wemby Joins Shaq in Historic Feat, James Harden Under Scrutiny   More",
+      "enlace": "https://www.essentiallysports.com/nba-active-basketball-news-nba-round-up-golden-state-warriors-star-sent-for-mri-wemby-joins-shaq-in-historic-feat-james-harden-under-scrutiny-more/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8rPsCPt6RvFVkAltWJvCZzsf04PnLt3UQIfmtxv42vqUVONezB9hX9SSF-VA"
     }
   ]
 }
