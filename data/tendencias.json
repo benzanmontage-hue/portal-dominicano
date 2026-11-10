@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-10T10:24:40.206144-04:00",
-  "hora": "10:24",
+  "updated": "2026-11-10T10:45:13.575690-04:00",
+  "hora": "10:45",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "tradingview",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
       "enlace": "https://www.globenewswire.com/news-release/2026/11/10/3399291/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92vbyr9wMmacPRw6DqLqM1kTn9bnAoy53GAnexxw8Heyoz0RU0ISUgbhHjVw"
+    },
+    {
+      "termino": "toukie smith",
+      "trafico": "200+",
+      "noticia": "Toukie Smith, Top Runway Model and ‘227’ Actress, Dies at 74",
+      "enlace": "https://www.hollywoodreporter.com/tv/tv-news/toukie-smith-227-model-robert-de-niro-1236750848/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmni-Id6rlt4e3xIZP237XCYEFBbhJOBJYVYsBzRlJn1JHae6LLUtJjWsdKyM"
     },
     {
       "termino": "tigres del licey",
@@ -22,9 +29,9 @@
     {
       "termino": "jordan poole",
       "trafico": "200+",
-      "noticia": "Ex-Warriors guard expresses desire to return to former team",
-      "enlace": "https://basketnews.com/news-259172-jordan-poole-expresses-desire-to-return-to-former-team.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREgIIGn__NaOwC77In7ZQvTAxasWmXqg7AEU7blO6e-FiWdoGqDqFxaJvIOs0"
+      "noticia": "Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell yeah.’",
+      "enlace": "https://www.sfchronicle.com/sports/warriors/article/ex-warrior-jordan-poole-says-welcome-return-22522562.php",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh-5s7EDpYh9rXF-BdwB8gzvlotuE8dj_PzZ3cJl1JbCjEUhOYTG6Zy10fSMo"
     },
     {
       "termino": "mavericks - pacers",
@@ -57,9 +64,9 @@
     {
       "termino": "suns - spurs",
       "trafico": "500+",
-      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
+      "noticia": "Spurs visit Suns looking to extend eight-game win streak",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-visit-suns-looking-to-extend-eight-game-win-streak/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
     },
     {
       "termino": "rockets - nuggets",
@@ -67,13 +74,6 @@
       "noticia": "Jamal Murray News: Drops 38 points in defeat",
       "enlace": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-drops-38-points-in-defeat-538411",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41gCNbtZ-fRUOFqeAVF7Cn13i-GlPF_lhLvKhnCz71Qk_37P-b3oJmlnpf1s"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "500+",
-      "noticia": "India hold on to series lead after washout as New Zealand s winning streak ends",
-      "enlace": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-odi-1539439/match-report",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7EgRi5C0R__d29oK25qh-MUt_PUL57sqyoAJQdLwzCOWN6-NWDAB2X5YGPY"
     }
   ]
 }
