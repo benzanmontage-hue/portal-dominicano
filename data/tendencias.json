@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-10T09:43:26.514619-04:00",
-  "hora": "09:43",
+  "updated": "2026-11-10T10:04:11.977586-04:00",
+  "hora": "10:04",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tradingview",
+      "trafico": "100+",
+      "noticia": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
+      "enlace": "https://www.globenewswire.com/news-release/2026/11/10/3399291/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92vbyr9wMmacPRw6DqLqM1kTn9bnAoy53GAnexxw8Heyoz0RU0ISUgbhHjVw"
+    },
     {
       "termino": "tigres del licey",
       "trafico": "2000+",
@@ -15,9 +22,9 @@
     {
       "termino": "jordan poole",
       "trafico": "100+",
-      "noticia": "Jordan Poole has surprising take on a potential reunion with Warriors",
-      "enlace": "https://larrybrownsports.com/basketball/jordan-poole-has-surprising-take-on-his-potential-reunion-with-warriors/777843",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy58nmVg1wW5jtsVErrtyMxCi72UfwL-gyOrM7p4t2WA2niVGlU3RKq6K-0jQ"
+      "noticia": "Ex-Warriors guard expresses desire to return to former team",
+      "enlace": "https://basketnews.com/news-259172-jordan-poole-expresses-desire-to-return-to-former-team.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREgIIGn__NaOwC77In7ZQvTAxasWmXqg7AEU7blO6e-FiWdoGqDqFxaJvIOs0"
     },
     {
       "termino": "mavericks - pacers",
@@ -42,7 +49,7 @@
     },
     {
       "termino": "juan soto",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Juan Soto dice presente en el juego Licey-Águilas de este lunes y alborota el estadio",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/juan-soto-dice-presente-en-juego-licey-aguilas-de-este-lunes/3715979",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjTAyviMNDBzvt8g0r_zCyZrQm9nh6ChNlmkwEr2eeskzKk9IqKgKbpVRAb0w"
@@ -67,13 +74,6 @@
       "noticia": "India hold on to series lead after washout as New Zealand s winning streak ends",
       "enlace": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-odi-1539439/match-report",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7EgRi5C0R__d29oK25qh-MUt_PUL57sqyoAJQdLwzCOWN6-NWDAB2X5YGPY"
-    },
-    {
-      "termino": "hornets - cavaliers",
-      "trafico": "200+",
-      "noticia": "Grayson Allen News: Pours in 27 points, six triples in win",
-      "enlace": "https://www.rotowire.com/basketball/headlines/grayson-allen-news-pours-in-27-points-six-triples-in-win-538400",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2-euMZXCxjtcDqqASxNNlxc3ZpAJGpjQmwF3Rgj52-nQcYiAyzTxrBy3OiZk"
     }
   ]
 }
