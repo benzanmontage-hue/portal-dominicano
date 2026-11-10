@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-10T14:50:01.730577-04:00",
-  "hora": "14:50",
+  "updated": "2026-11-10T16:58:35.344832-04:00",
+  "hora": "16:58",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "amnistía internacional",
+      "termino": "ucrania",
       "trafico": "100+",
-      "noticia": "El Departamento de Estado cuestiona la ofensiva de El Salvador en Haití, según Axios",
-      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/10/operaciones-de-nayib-bukele-en-haiti-generan-tensiones-con-eeuu/3716589",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuwSSJRE109fpItq7-3CE1HloT5LUfrdb07lPL56Jziocqd65icSi4GI0IaaU"
+      "noticia": "Rusia y Ucrania vuelven a negociar con mediación de EE. UU. tras más de cuatro años de guerra",
+      "enlace": "https://www.dw.com/es/negociaciones-en-abu-dabi-para-poner-fin-a-la-guerra-en-ucrania/a-79906447",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZVPZ-zlgCHxzaefNy0lAJCfwR0uW2rum4fy-V9oCT9wYEALkh8p-HS3gaNcc"
+    },
+    {
+      "termino": "amnistía internacional",
+      "trafico": "200+",
+      "noticia": "Nayib Bukele difunde video que confirma la destrucción de casa de líder de 400 Mawozo en Haití",
+      "enlace": "https://www.diariolibre.com/mundo/general/2026/11/10/nayib-bukele-anuncia-destruccion-de-cuartel-general-de-400-mawozo/3716608",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPt8HDCHIw-QE1otQ3L6B_LIouK8Alq3JSHMEA0xG2Y9d7QjFONl_NBlUWSYs"
     },
     {
       "termino": "el chivo sin ley",
@@ -22,30 +29,44 @@
     {
       "termino": "bomba",
       "trafico": "100+",
-      "noticia": "Francia investiga si avisos de bomba en vuelos están relacionados con  potencias extranjeras",
-      "enlace": "https://listindiario.com/las-mundiales/20261107/francia-investiga-avisos-bomba-vuelos-relacionados-potencias-extranjeras_929233.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJpLYw1gQ4JRRWf6C0_MsS_qf9cjOpYufEx8GVzyvedsOnATfz04jHiwAOTk"
+      "noticia": "Al menos seis casos de falsas alarmas de bombas en aviones se han registrado en aeropuertos del país",
+      "enlace": "https://listindiario.com/la-republica/ciudad/20261110/seis-casos-falsas-alarmas-bombas-aviones-han-registrado-aeropuertos-pais_929470.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Fps_DeaHgC7-7qV5hIEs1oicnJvD3tOXZL09WSe5nmSLO8BmEsE29WvSR5U"
+    },
+    {
+      "termino": "tradingview",
+      "trafico": "200+",
+      "noticia": "Anthropic, Nvidia, CoreWeave, Take-Two, D-Wave, Securitize, and More That Explain Today’s Market",
+      "enlace": "https://www.barrons.com/articles/stock-movers-9ff7ace7",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE1Ers0m2bsMomKK4ThtsOwq15PJn1Wu92AutkL634pyMOTr-kL05Fr7j06P0"
+    },
+    {
+      "termino": "dgii",
+      "trafico": "1000+",
+      "noticia": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
+      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/10/amnistia-fiscal-eleva-ingresos-de-las-penalidades-en-un-1345-/3713421",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMnto8CscoP5t9cdA1YzmfIlJ_dkl6itO2C9QNpnWSsf2qWH_wTam68g7eE1Q"
     },
     {
       "termino": "toukie smith",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Toukie Smith, Model and Robert De Niro’s Former Partner, Dies at 74. What to Know About MS",
       "enlace": "https://www.today.com/health/news/toukie-smith-death-cause-multiple-sclerosis-rcna608520",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsBEw7TXMSCtbVQutXELFg8WpKQlhU9OmjJm8b62BUQ8OlQ5EwuQpedetRQ6M"
     },
     {
       "termino": "tigres del licey",
-      "trafico": "2000+",
-      "noticia": "Tigres se imponen en duelo de ofensivas ante Águilas en LIDOM",
-      "enlace": "https://www.mlb.com/es/news/tigres-se-imponen-en-duelo-de-ofensivas-ante-aguilas-en-lidom",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCsoMxwE3s1Dp9pl_xRm79I-Lpo42viRwVp4hs0GtE8pbWDvfARpJxbxT5cA"
+      "trafico": "1000+",
+      "noticia": "Jesús Madé termina con el Licey: Yo nací para dar presión, no para tenerla",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/09/made-termina-con-el-licey-yo-naci-para-dar-presion-no-para-tenerla/3716054",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4jg80WUAy61Ey39NFizB_MbTTfn8DgesMzWB4s3DIKzpxD46pAdj1WdT5izM"
     },
     {
       "termino": "golden state warriors",
-      "trafico": "500+",
-      "noticia": "New Orleans Pelicans vs Golden State Warriors Nov 9, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/nop-vs-gsw-0022600210/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwcwozresIZFcWRS0oZKrtAnf_0_ca0qABddCgWfkyASphzLowrmwIh3QvQx4"
+      "trafico": "200+",
+      "noticia": "Golden State Warriors have a surprise player on All-Star watch, says Chris Mullin after Pelicans win",
+      "enlace": "https://www.hitc.com/golden-state-warriors-have-a-surprise-player-on-all-star-watch-says-chris-mullin-after-pelicans-win/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgJ1RnVv1hYprzS022f8sCvtWpWxec1pDNYARjUJU06JWHu6zZUskYECJ8438"
     },
     {
       "termino": "jordan poole",
@@ -53,27 +74,6 @@
       "noticia": "Jordan Poole would welcome a Warriors return ‘home’. Would Draymond Green?",
       "enlace": "https://www.mercurynews.com/2026/11/09/jordan-poole-golden-state-warriors-draymond-green/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltuX0hTm28pmI2i_5ZaBn1QvGlZTaPJJb2I-VtmT5K-p5zj6x7jvgDqgCPTc"
-    },
-    {
-      "termino": "james gunn",
-      "trafico": "500+",
-      "noticia": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over",
-      "enlace": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSygwmgjxNV-aY1Kr6yYO0Wq2k4KbZCV2soXH_S4S0qlRDSSkEuRkhAxLUbsnk"
-    },
-    {
-      "termino": "mavericks - pacers",
-      "trafico": "100+",
-      "noticia": "Cooper Flagg Joins Kevin Durant, Makes NBA History With Rare Stat in Mavs  Win vs. Pacers",
-      "enlace": "https://bleacherreport.com/articles/25531592-cooper-flagg-joins-kevin-durant-makes-nba-history-rare-stat-mavs-win-vs-pacers",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0W68DRhjBf98kAIskJFQ2UlujzVx_gKjjO8_pd9fkz_7q7utZFiFtsPcvntU"
-    },
-    {
-      "termino": "sandro mamukelashvili",
-      "trafico": "100+",
-      "noticia": "Sandro Mamukelashvili draws JJ Redick praise after ‘best game as a Lakers’",
-      "enlace": "https://sports.yahoo.com/articles/sandro-mamukelashvili-draws-lakers-hc-060155602.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLMyTMZmBQ0BaBscAkEZEv7UV9sHug4I2reEH4-cWU5vbP33G_4zyl76AM2OU"
     }
   ]
 }
