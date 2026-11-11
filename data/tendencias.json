@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-11T11:37:03.206714-04:00",
-  "hora": "11:37",
+  "updated": "2026-11-11T11:56:03.745209-04:00",
+  "hora": "11:56",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "terremoto sismo temblor hoy epicentro",
+      "trafico": "100+",
+      "noticia": "Sismo muy débil mag. 1.5 - Western Turkey, Wednesday 11 Nov 2026 a las 08:46 (Hora Istanbul) - justo ahora",
+      "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23628698/mag1quake-Nov-11-2026-Western-Turkey.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrZc_jEZgjR0y8zy-KXbEy4pCwmNywg4PNzoxQDpdxG-qB3GLSH2vRyNykuZU"
+    },
     {
       "termino": "agustín ramírez",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "jensen huang",
       "trafico": "100+",
-      "noticia": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
-      "enlace": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2FJRCqW3btiMc8m298vf5c3tnchM8o8BIJtqpAsIOTQ1QTwi_RzSEumqzKrw"
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
     },
     {
       "termino": "pedro guerrero",
@@ -67,13 +74,6 @@
       "noticia": "Tasa del dólar en República Dominicana este 11 de noviembre: compra y venta",
       "enlace": "https://hoy.com.do/vivir/horoscopo/tasa-dolar-republica-dominicana-11-noviembre-compra-venta_1108310.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYFeBck8zf80cJgZeO_CM-XjG8r7MKgI61H21--z9L5JiXNg9RYuw-L_fPG0"
-    },
-    {
-      "termino": "trail blazers - thunder",
-      "trafico": "500+",
-      "noticia": "Damian Lillard, Trail Blazers seek back-to-back wins over Thunder",
-      "enlace": "https://www.cbssports.com/nba/news/damian-lillard-trail-blazers-seek-back-to-back-wins-over-thunder/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw4JMDZRjt14kdxzrzELRaPUVHyA_LPyMEZ6Z5z1-MPE4bV8sDE77o1Kd2XnA"
     }
   ]
 }
