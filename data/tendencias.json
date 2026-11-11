@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-11T00:30:45.202338-04:00",
-  "hora": "00:30",
+  "updated": "2026-11-11T00:51:08.419582-04:00",
+  "hora": "00:51",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "jazz - heat",
+      "trafico": "100+",
+      "noticia": "Giannis final injury status for Miami Heat vs. Utah Jazz revealed",
+      "enlace": "https://basketnews.com/news-259225-giannis-final-injury-status-for-miami-heat-vs-utah-jazz-revealed.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX6yMrmo7e7pFHT-8iqLxiiLudkrgwx2U2zVafqbXmADcXVtKMmjvmyvvvNsE"
+    },
+    {
       "termino": "76ers - celtics",
       "trafico": "2000+",
-      "noticia": "“Well, I had to talk to him a little bit this morning, …",
-      "enlace": "https://sports.yahoo.com/articles/well-had-talk-him-little-000956028.html",
+      "noticia": "Jaylen Brown was minus-27 tonight, matching the …",
+      "enlace": "https://sports.yahoo.com/articles/jaylen-brown-minus-27-tonight-033158119.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1KS2VpIzPjhKsIfELYXNenv7us2J2EH5Z_9rSeAlI86WD4c2zuJz3CWv9O4"
     },
     {
       "termino": "beisbol invernal",
       "trafico": "200+",
-      "noticia": "LIDOM hoy martes 10 de noviembre: a qué hora juegan y cómo queda la tabla tras la victoria del Licey",
-      "enlace": "https://revistamercado.do/empresas/sport-business/lidom-hoy-martes-10-noviembre/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThWCzLYSIrYw8edra6A3QOJoVe6-RMXlkKa0tJNyPVwtRwQ8LdZaMhSoUTNJk"
+      "noticia": "EN VIVO: Gigantes del Cibao vs. Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-gigantes-vs-licey-251367",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-bIwjTH3vwkL_epSdzNfZsi2wGpwfM1gZwXRo8gXig5bLIVBnwTdFo-Bn9fg"
     },
     {
       "termino": "knicks - bucks",
@@ -36,9 +43,9 @@
     {
       "termino": "amnistía internacional",
       "trafico": "500+",
-      "noticia": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
-      "enlace": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmXLa-8A9UbbY5L80941BahB1esfKSLxF8EBEMJudOTHjWq5YiuZRPgtvrWFo"
+      "noticia": "Rubio cuestiona ofensiva de Bukele contra las pandillas",
+      "enlace": "https://listindiario.com/las-mundiales/20261111/rubio-cuestiona-ofensiva-bukele-pandillas_929652.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI1qx8i6Doh9-rN9umNF4BKF067lr9S5s3KUsvd1CWLsw0ykGUzp0WMSh9q3I"
     },
     {
       "termino": "el chivo sin ley",
@@ -67,13 +74,6 @@
       "noticia": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
       "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/10/amnistia-fiscal-eleva-ingresos-de-las-penalidades-en-un-1345-/3713421",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMnto8CscoP5t9cdA1YzmfIlJ_dkl6itO2C9QNpnWSsf2qWH_wTam68g7eE1Q"
-    },
-    {
-      "termino": "toukie smith",
-      "trafico": "2000+",
-      "noticia": "Toukie Smith, Model and Robert De Niro’s Former Partner, Dies at 74. What to Know About MS",
-      "enlace": "https://www.today.com/health/news/toukie-smith-death-cause-multiple-sclerosis-rcna608520",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsBEw7TXMSCtbVQutXELFg8WpKQlhU9OmjJm8b62BUQ8OlQ5EwuQpedetRQ6M"
     }
   ]
 }
