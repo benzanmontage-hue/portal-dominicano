@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-11T19:09:30.505269-04:00",
-  "hora": "19:09",
+  "updated": "2026-11-11T19:29:50.268444-04:00",
+  "hora": "19:29",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "marileidy paulino",
+      "termino": "new york yankees",
       "trafico": "100+",
+      "noticia": "Chris Martin Retires",
+      "enlace": "https://www.mlbtraderumors.com/2026/11/chris-martin-retires.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2oXugsOiEs888E3p4z13Eo13BLFlYtSRI4jp4PmCeWaTuFZOhxhDVOFmsxds"
+    },
+    {
+      "termino": "marileidy paulino",
+      "trafico": "200+",
       "noticia": "Marileidy Paulino queda quinta y fuera de las finalistas a Atleta del Año de World Athletics",
       "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/11/11/marileidy-paulino-queda-fuera-de-las-finalistas-de-world-athletics/3717697",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBY7TjroVsHFxc33TJKVFzLkugEP51ikv1wa8R2_jkjr6C7u3kFNYnn-homPg"
@@ -67,13 +74,6 @@
       "noticia": "Fotos en la nieve que salen grises u oscuras: cómo aclararlas y recuperar el color",
       "enlace": "https://www.desdesoria.es/reportajes/fotos-nieve-que-salen-grises-u-oscuras-como-aclararlas-recuperar-color/20261111100434940788.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqDlAg_EAkx6-Hi0Cjgs47hx0q1-riJ3q1vgKzwzsDxDs73_hDzHmXcpAUy6E"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "¡Llegó Ronel Blanco! El derecho dice presente y entra al roster de los Gigantes del Cibao",
-      "enlace": "https://www.mlb.com/es/news/llego-ronel-blanco-el-derecho-dice-presente-y-entra-al-roster-de-los-gigantes-del-cibao",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTph9OAuzC570xEww8gS-G5iME_GzwCplY032_XJB-bv-TmWuUWYz6DKpI5vr4"
     }
   ]
 }

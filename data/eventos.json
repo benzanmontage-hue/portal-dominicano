@@ -1,9 +1,15 @@
 {
-  "updated": "2026-11-11T19:09:33.802286-04:00",
-  "hora": "19:09",
+  "updated": "2026-11-11T19:29:53.657947-04:00",
+  "hora": "19:29",
   "fecha": "11/11/2026",
   "total": 12,
   "eventos": [
+    {
+      "titulo": "El reguetonero puertorriqueño Don Omar anunció la postergación de sus conciertos en Ontario, Las Vegas y Salt Lake City debido a una recaída por una fuerte infección respiratoria. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️ - Facebook",
+      "fuente": "Facebook",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRjltdnpUVThvMHpXZE0tM1ZBbUROZENfa3hTU0JHQWpuZndHU25LcW5EWWtsVnU5RUl0T25BMEk1cko5ekcwYl9DNnRaMWtTOU5acVVpenNwYlJlRGwzOENJcTFoSmlRZjBDRkJCd1Bka1p1dF9nbGczVnVoX0xHR2FjdGF0MERTWk9oSTZDNTlySEREaFN6OERxNUNqNFZnaUd1Wk9IdHQtNEYxc1l2TDA2NWZjM3lUb0xEZUhDYmp4QTMzQ1lmLVR6OFBPR1lBa24tMjVfcFVJOWxQM1RGRDI3blFjcGlObmpucElzVWo0SEc3THc?oc=5",
+      "fecha": "Wed, 11 Nov 2026 23:18:12 GMT"
+    },
     {
       "titulo": "Todo listo para que Alejandro Sanz cante este sábado en Santo Domingo con su gira “¿Y ahora qué? - Diario Libre",
       "fuente": "Diario Libre",
@@ -29,16 +35,16 @@
       "fecha": "Wed, 11 Nov 2026 13:00:00 GMT"
     },
     {
-      "titulo": "Andrés Cepeda cierra en Australia su Tour \"Bogotá La Gira\", tras más de 60 conciertos - Zeta",
-      "fuente": "Zeta",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUk1rX2plbUZ1b08tWUpBdEwzWE9FU1p5Szg0SmNQdDBuYVRVR1RnYzV4NzVmOGNmOUJfcDMwYW41ODJwR080V0R6WlF1N0xzYzdKYy12Y1dJTmJlQjFLT0JIeHA1VnFVQURqbFE5N1BfX1hKVUt1VEoycEJNeV9mUE9kQk00YXA2NkhYSkI0ZDQ0d2FDOUFTbzhVcVlFRk42X1NfU0xSZzcyNnZRRmFyM1U3R0NFWk44T1FVTFlRanVmUWowQUlqeFZQUU9jNTUy?oc=5",
-      "fecha": "Tue, 10 Nov 2026 22:31:21 GMT"
-    },
-    {
       "titulo": "Marc Anthony anuncia su primera gira de conciertos por Estados Unidos en dos años - El Dia.com.do",
       "fuente": "El Dia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2tPdE9KNnRVMFI0eEFKOEYwdmFXaHpUc0xPWXFXSHhVZHBJVnVsLUdaeW9aWkFJeF9Pa0ZSSDBRdU90N3RBcTdhRFpaeHdPUHRvMUF0YVQ2MnlpbzRsRFhOWFQ5VkZUc2RPLXBma3gwRWQ2U19BakRCS2o0QWNSTVh6SG9PSm40YW9MYmRzYmxCZ1JEeUJEZFZ2TU1iYmQ4U05sRHBn?oc=5",
       "fecha": "Mon, 09 Nov 2026 18:58:51 GMT"
+    },
+    {
+      "titulo": "Andrés Cepeda cierra en Australia su Tour \"Bogotá La Gira\", tras más de 60 conciertos - Zeta",
+      "fuente": "Zeta",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUk1rX2plbUZ1b08tWUpBdEwzWE9FU1p5Szg0SmNQdDBuYVRVR1RnYzV4NzVmOGNmOUJfcDMwYW41ODJwR080V0R6WlF1N0xzYzdKYy12Y1dJTmJlQjFLT0JIeHA1VnFVQURqbFE5N1BfX1hKVUt1VEoycEJNeV9mUE9kQk00YXA2NkhYSkI0ZDQ0d2FDOUFTbzhVcVlFRk42X1NfU0xSZzcyNnZRRmFyM1U3R0NFWk44T1FVTFlRanVmUWowQUlqeFZQUU9jNTUy?oc=5",
+      "fecha": "Tue, 10 Nov 2026 22:31:21 GMT"
     },
     {
       "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
@@ -69,12 +75,6 @@
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVTVjRKeV9GNTlyQlFheXpzcUxhUUZBSm42eXhYUTZsWGRjTWU3ekE4SXdtQXVOV0FjdmlaVUFzanNkc3NWYVF6VlJ0RHROWWdVRExZMWY1ajZCZlNiaE5TTkxwaUZ0THUzb0wyZGR3LUZEYjNSMy1hMjYxWDRlWWpvYXgtclZrODdwa0NjbE94VnlsOEp1N0JyXzlMejZYUjVlbnN0WVdiX1hGMjFJOU1yQnpRWkFaamFLU1hZUGVZTXRidURJctIBzgFBVV95cUxNcmdTN1VlT0xfdHlHRXUwb21WN19Xa3dYOXVwY1Jpb3ZyUGtnOWZPLUVncVM1cE9xVkFUU2t6anhWVjBxN1ZCV25KZlM0RlNBR1E0aVBOb2xGVG5HVEJwNVNxNTRXTmdWTDh3Yi1YWS0wTUlHYUoySnN0RW40a0NjUUlLNW0zTnhHQUNYbkI0NmFzTE5ZQWtSX09oWV9TbkJwMVc3dTByTDhMUThia19KWXdYV3BZQXhBSlJLSG43b0hnWkdseGdZTkYxaUhQQQ?oc=5",
       "fecha": "Mon, 06 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJJX2FEZzF2ZXBOSFdhSWlsZVJjeVlDS2habnVXMXZKVG11ei1FcmdvaGIyaHpQTWkxWU9SNmwzODNXblVGbUVYTFd2aXRhSy1SMG10Y3AxMTdXOHhfMXEzc0I3ZnFvZXRPOUtFQUI4OFRfcWUxS3NEcF9HMVVyZEwtZ0tOdXF2bVFHdjlHZEJ4VkpyaUs0YkFXVTRzWFZBQmZfaVpfQUdSV09ONlRXYlpTZWs4a1dWTjVHQ3RuLWFyZTdTSEpB0gHMAUFVX3lxTE1GZDFiSEFtbHd6bjBROUhtd25lTGo2cTBLVEZScEhGUldkSmQwU3d5R1B5WENNUEhNanI5UU5MQ19VYTZuX0IyS3U4S25Td2M3Q2JmUVgxbnhZTVlORmhhdVlkSi1TS2d5YTdxbGZfNVhIcVRHUXVkRjJacFZhMllYdHJWTUVxVHlVUVExekhsYzIwdlRwM3R4NDN2LVJGMk1HUzZPRVRwUXpoU2hiUEF3dENJMFRKOXB4WFZhWG52NDM0WmsyaWsxSGdPeA?oc=5",
-      "fecha": "Wed, 07 Oct 2026 07:00:00 GMT"
     }
   ]
 }
