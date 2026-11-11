@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-10T21:05:28.117166-04:00",
-  "hora": "21:05",
+  "updated": "2026-11-10T21:25:50.632951-04:00",
+  "hora": "21:25",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "76ers - celtics",
-      "trafico": "200+",
-      "noticia": "Jayson Tatum, Jaylen Brown face off for first time as opponents",
-      "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-jaylen-brown-face-off-for-first-time-as-opponents/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQgn2GQwJci9qi2SxkiYYRjr955Y375dBsy-WyPMKhXcnkh5dQRdhkTuUiG4s"
+      "trafico": "500+",
+      "noticia": "Jaylen Brown says  nothing to talk about  with Tatum ahead of Celtics-76ers",
+      "enlace": "https://www.espn.com/nba/story/_/id/50427885/jaylen-brown-says-talk-tatum-ahead-76ers-celtics",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmmzmlK4UJ7xMem53N5wJTUh_nJRDsOInTemsuM7a4NDLoa3e5e07goy8OU8"
     },
     {
       "termino": "beisbol invernal",
@@ -21,7 +21,7 @@
     },
     {
       "termino": "knicks - bucks",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Knicks seek fourth straight win against reeling Bucks",
       "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fourth-straight-win-against-reeling-bucks/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQgn2GQwJci9qi2SxkiYYRjr955Y375dBsy-WyPMKhXcnkh5dQRdhkTuUiG4s"
@@ -29,9 +29,9 @@
     {
       "termino": "ucrania",
       "trafico": "500+",
-      "noticia": "La UE prorroga dos años su misión de asistencia militar a Ucrania",
-      "enlace": "https://www.larazon.es/internacional/prorroga-dos-anos-mision-asistencia-militar-ucrania_202611106af2c10603bbf30bb046a2c7.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSwKxMiF7A_ngqXPFwo2jBZRyfYFtrQUcK5cwEZLeDRu9nzzIk_BspgKuV6c"
+      "noticia": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia",
+      "enlace": "https://www.dw.com/es/zelenski-califica-de-constructiva-primera-ronda-de-conversaciones-con-rusia/a-79913519",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzV0Xrza2_oxcLwjOhCRxagRUgiq_sHACyeyKGAzXe-Uo05qxFqLrNNN4nSk"
     },
     {
       "termino": "amnistía internacional",
@@ -50,16 +50,16 @@
     {
       "termino": "bomba",
       "trafico": "500+",
-      "noticia": "Al menos seis casos de falsas alarmas de bombas en aviones se han registrado en aeropuertos del país",
-      "enlace": "https://listindiario.com/la-republica/ciudad/20261110/seis-casos-falsas-alarmas-bombas-aviones-han-registrado-aeropuertos-pais_929470.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Fps_DeaHgC7-7qV5hIEs1oicnJvD3tOXZL09WSe5nmSLO8BmEsE29WvSR5U"
+      "noticia": "Seis falsas alarmas de bomba en aviones en RD desde 2021: qué vuelos afectaron y qué pena arriesgan",
+      "enlace": "https://revistamercado.do/money-invest/daily-news/seis-falsas-alarmas-de-bomba-en-aviones-en-rd-desde-2021-que-vuelos-afectaron-y-que-pena-arriesgan/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShbPXu8mYTy2HIXd-FOcYClelcFIAuodVFC1BTY8oVuHTYK4cdCHx-E1RrThU"
     },
     {
       "termino": "tradingview",
       "trafico": "200+",
-      "noticia": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-      "enlace": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkd_9NE4HMfH_ey5Z9kvpxkAwzMZyyTP-8MajmXU-ghJd8LHfCm1pgSQX3zfo"
+      "noticia": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+      "enlace": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2FJRCqW3btiMc8m298vf5c3tnchM8o8BIJtqpAsIOTQ1QTwi_RzSEumqzKrw"
     },
     {
       "termino": "dgii",
