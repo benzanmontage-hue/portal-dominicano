@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-11T16:20:59.663638-04:00",
-  "hora": "16:20",
+  "updated": "2026-11-11T16:41:18.370867-04:00",
+  "hora": "16:41",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "frontera entre haití y la república dominicana",
+      "trafico": "200+",
+      "noticia": "Ejército dice que todo se encuentra normal en la frontera entre RD y Haití",
+      "enlace": "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk5YVnNEpBr4Z8g7HRPUztReIGiatvus5bZyG-tNWi26mKiM-QGUqGQpopqY"
+    },
     {
       "termino": "nvidia ceo jensen huang",
       "trafico": "500+",
@@ -43,9 +50,9 @@
     {
       "termino": "nieve",
       "trafico": "200+",
-      "noticia": "Fotos en la nieve que salen grises u oscuras: cómo aclararlas y recuperar el color",
-      "enlace": "https://www.desdesoria.es/reportajes/fotos-nieve-que-salen-grises-u-oscuras-como-aclararlas-recuperar-color/20261111100434940788.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqDlAg_EAkx6-Hi0Cjgs47hx0q1-riJ3q1vgKzwzsDxDs73_hDzHmXcpAUy6E"
+      "noticia": "Masella duplica la producción de nieve en la Tosa, estrena pisapistas y abre un Miniclub",
+      "enlace": "https://www.lugaresdenieve.com/noticia/masella-duplica-nieve-tosa-pisapistas-miniclub",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqtxMfY8asKvZEnVbYsCL2lzQznjhd02mlXwpU-yFc1Ut_a3gqnqLRmY3NFyw"
     },
     {
       "termino": "evangelio de hoy",
@@ -67,13 +74,6 @@
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
-    },
-    {
-      "termino": "dólar estadounidense",
-      "trafico": "200+",
-      "noticia": "Tasa del dólar en República Dominicana este 11 de noviembre: compra y venta",
-      "enlace": "https://hoy.com.do/vivir/horoscopo/tasa-dolar-republica-dominicana-11-noviembre-compra-venta_1108310.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYFeBck8zf80cJgZeO_CM-XjG8r7MKgI61H21--z9L5JiXNg9RYuw-L_fPG0"
     }
   ]
 }
