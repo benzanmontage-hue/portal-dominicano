@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T15:40:17.186188-04:00",
-  "hora": "15:40",
+  "updated": "2026-11-11T16:00:36.003878-04:00",
+  "hora": "16:00",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqDlAg_EAkx6-Hi0Cjgs47hx0q1-riJ3q1vgKzwzsDxDs73_hDzHmXcpAUy6E"
     },
     {
+      "termino": "resultados lidom",
+      "trafico": "100+",
+      "noticia": "Venable y Murphy: Premios al Manager del Año destacan dos historias de éxito",
+      "enlace": "https://www.mlb.com/es/news/ganadores-del-premio-manager-del-ano-de-mlb-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzR6wks-PWIOzVVaFz3oACQXZXTi23XSik1wQMWRK8xHkyf2z7-5ArjvR8P_8"
+    },
+    {
       "termino": "evangelio de hoy",
       "trafico": "100+",
       "noticia": "El Evangelio de hoy: Practicar el agradecimiento",
@@ -67,13 +74,6 @@
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
-    },
-    {
-      "termino": "dólar estadounidense",
-      "trafico": "200+",
-      "noticia": "Tasa del dólar en República Dominicana este 11 de noviembre: compra y venta",
-      "enlace": "https://hoy.com.do/vivir/horoscopo/tasa-dolar-republica-dominicana-11-noviembre-compra-venta_1108310.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYFeBck8zf80cJgZeO_CM-XjG8r7MKgI61H21--z9L5JiXNg9RYuw-L_fPG0"
     }
   ]
 }
