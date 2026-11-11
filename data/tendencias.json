@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-11T17:07:33.657224-04:00",
-  "hora": "17:07",
+  "updated": "2026-11-11T17:27:56.132788-04:00",
+  "hora": "17:27",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "frontera entre haití y la república dominicana",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Ejército dice que todo se encuentra normal en la frontera entre RD y Haití",
       "enlace": "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk5YVnNEpBr4Z8g7HRPUztReIGiatvus5bZyG-tNWi26mKiM-QGUqGQpopqY"
@@ -35,7 +35,7 @@
     },
     {
       "termino": "agustín ramírez",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Ramírez guía triunfo de Gigantes con HR en la 11ma",
       "enlace": "https://www.mlb.com/es/marlins/video/agustin-ramirez-conecta-hr-de-dos-carreras-en-la-11ma",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR83INWmpUIcmO_6KY63PfMhdO_PxpwpPd4j3LxZLv88KZuS81XyhjojKEgD88"
@@ -43,9 +43,9 @@
     {
       "termino": "inflación",
       "trafico": "500+",
-      "noticia": "El costo de la canasta básica promedio en el país pasó en octubre los RD$50,000",
-      "enlace": "https://www.diariolibre.com/economia/consumo/2026/11/11/costo-de-la-canasta-basica-promedio-en-rd-paso-en-octubre-de-rd50000/3717153",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHKrwSIx3FlWVLMXIwHoTOOjj5P2aFbR1gBCKDp7k99S9cbJ401nI0L1BvMxA"
+      "noticia": "Henri Hebrard: la inflación golpea más a los pobres y reduce el poder de compra",
+      "enlace": "https://eldia.com.do/henri-hebrard-la-inflacion-golpea-mas-a-los-pobres-y-reduce-el-poder-de-compra/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4RxnjZMru1q51Pw519HO3FmA5gPs1ffSMzZpjkFTQvs1ap747FP6wjSgfwzo"
     },
     {
       "termino": "pedro guerrero",
@@ -62,18 +62,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7FsfeX9IB2tvmJOSFQ0_PubvhH-t4zUmgU686hDvOZfhIDwc6wioJvJTkt0"
     },
     {
+      "termino": "resultados lidom",
+      "trafico": "100+",
+      "noticia": "¡Llegó Ronel Blanco! El derecho dice presente y entra al roster de los Gigantes del Cibao",
+      "enlace": "https://www.mlb.com/es/news/llego-ronel-blanco-el-derecho-dice-presente-y-entra-al-roster-de-los-gigantes-del-cibao",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTph9OAuzC570xEww8gS-G5iME_GzwCplY032_XJB-bv-TmWuUWYz6DKpI5vr4"
+    },
+    {
       "termino": "evangelio de hoy",
       "trafico": "100+",
       "noticia": "El Evangelio de hoy: Practicar el agradecimiento",
       "enlace": "https://oem.com.mx/elsoldezacatecas/local/el-evangelio-de-hoy-practicar-el-agradecimiento-33075906.html?app=true",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQajn1D_WfwNwHSG3_uwLd2oAGaMS-uErF8N75JeK1qAPk7jBihCrmyhfvcrWE"
-    },
-    {
-      "termino": "álex rodríguez",
-      "trafico": "100+",
-      "noticia": "Why Did the Rangers Pay $67 Million to Trade Alex Rodriguez In 2000?",
-      "enlace": "https://sports.yahoo.com/articles/why-did-rangers-pay-67-142243122.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPz47pGqWCGztAKiQ3Xkp4o766pSCsB4yGzE5JnhGgPwr553jpTGdCwg6wGGE"
     }
   ]
 }
