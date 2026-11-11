@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T07:18:44.568384-04:00",
-  "hora": "07:18",
+  "updated": "2026-11-11T07:39:28.595769-04:00",
+  "hora": "07:39",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,15 +20,22 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RCN4t8oa2wWcHUMCKfTaV4qYRU7aVx--TllJiN0oAHPxaEquuwP9OF0oLMw"
     },
     {
-      "termino": "william levy",
+      "termino": "álex rodríguez",
       "trafico": "100+",
+      "noticia": "Why Did the Rangers Pay $67 Million to Trade Alex Rodriguez In 2000?",
+      "enlace": "https://sports.yahoo.com/articles/why-did-rangers-pay-67-142243122.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPz47pGqWCGztAKiQ3Xkp4o766pSCsB4yGzE5JnhGgPwr553jpTGdCwg6wGGE"
+    },
+    {
+      "termino": "william levy",
+      "trafico": "200+",
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
     },
     {
       "termino": "dólar estadounidense",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Dólar en República Dominicana: tasas de compra y venta para este 10 de noviembre",
       "enlace": "https://hoy.com.do/economia/dolar-republica-dominicana-tasas-compra-venta-10-noviembre_1108184.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwa8rrllfdM53xv5ijPUU2OwzCw1p8ME7O8UKThDClyCo8_K4cNtRRULM9JMc"
@@ -50,9 +57,9 @@
     {
       "termino": "76ers - celtics",
       "trafico": "2000+",
-      "noticia": "Jaylen Brown says  nothing to talk about  with Tatum ahead of Celtics-76ers",
-      "enlace": "https://www.espn.com/nba/story/_/id/50427885/jaylen-brown-says-talk-tatum-ahead-76ers-celtics",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmmzmlK4UJ7xMem53N5wJTUh_nJRDsOInTemsuM7a4NDLoa3e5e07goy8OU8"
+      "noticia": "Jaylen Brown gives Jayson Tatum the cold shoulder. Tatum gets hot hand in Celtics  win over 76ers",
+      "enlace": "https://apnews.com/article/jaylen-brown-76ers-celtics-0f369727ef88a9463f09237c0ecaf5f7",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9Sj-imVRB0RTNSPUfiS1muMqA33PgE-LpxSD99iAVr-Z_tzgwRe1qHaZJ1Lg"
     },
     {
       "termino": "beisbol invernal",
@@ -67,13 +74,6 @@
       "noticia": "Game Recap: Knicks 117, Bucks 85 (Nov. 10)",
       "enlace": "https://www.nba.com/watch/video/game-recap-knicks-117-bucks-85-nov-10",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDNXLn1bQeldPpoZegRKtVC8EHdFewTKu6_yHa8RzAloCG0FZ6MMlrwmFL7A"
-    },
-    {
-      "termino": "ucrania",
-      "trafico": "500+",
-      "noticia": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia",
-      "enlace": "https://www.dw.com/es/zelenski-califica-de-constructiva-primera-ronda-de-conversaciones-con-rusia/a-79913519",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzV0Xrza2_oxcLwjOhCRxagRUgiq_sHACyeyKGAzXe-Uo05qxFqLrNNN4nSk"
     }
   ]
 }
