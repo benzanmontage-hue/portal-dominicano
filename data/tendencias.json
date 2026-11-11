@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T13:37:59.029439-04:00",
-  "hora": "13:37",
+  "updated": "2026-11-11T13:58:23.355717-04:00",
+  "hora": "13:58",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -43,16 +43,9 @@
     {
       "termino": "nieve",
       "trafico": "200+",
-      "noticia": "El estadio Ullevaal, en máxima alerta por el caos provocado por la nieve que amenaza el decisivo duelo de Noruega contra Gales en la Liga de Naciones",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/estadio-ullevaal-m%C3%A1xima-alerta-caos-165147057.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpihYUQLh6lubdATA-T4BxlzpSl9nmgk0p0EoKAUZs3WnslsurwRi4XHvGwng"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Venable y Murphy: Premios al Manager del Año destacan dos historias de éxito",
-      "enlace": "https://www.mlb.com/es/news/ganadores-del-premio-manager-del-ano-de-mlb-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzR6wks-PWIOzVVaFz3oACQXZXTi23XSik1wQMWRK8xHkyf2z7-5ArjvR8P_8"
+      "noticia": "Primeros indicios de nieve cerca de Nueva York: pronostican lluvias y descenso de temperaturas",
+      "enlace": "https://www.univision.com/noticias/primeros-indicios-de-nieve-cerca-de-nueva-york-pronostican-lluvias-y-descenso-de-temperaturas-video",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7FsfeX9IB2tvmJOSFQ0_PubvhH-t4zUmgU686hDvOZfhIDwc6wioJvJTkt0"
     },
     {
       "termino": "evangelio de hoy",
@@ -74,6 +67,13 @@
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
+    },
+    {
+      "termino": "dólar estadounidense",
+      "trafico": "200+",
+      "noticia": "Tasa del dólar en República Dominicana este 11 de noviembre: compra y venta",
+      "enlace": "https://hoy.com.do/vivir/horoscopo/tasa-dolar-republica-dominicana-11-noviembre-compra-venta_1108310.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYFeBck8zf80cJgZeO_CM-XjG8r7MKgI61H21--z9L5JiXNg9RYuw-L_fPG0"
     }
   ]
 }
