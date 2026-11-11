@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # para encadenar el siguiente ciclo (paso final)
 
 concurrency:
   group: actualizar-${{ github.event_name == 'push' && 'push' || 'ciclo' }}
@@ -73,3 +74,13 @@ jobs:
           done
           a=$(curl -sS -w ' HTTP %{http_code}' https://portaldominicana.net/api/avisos | head -c 160)
           echo "::notice title=Avisos::/api/avisos -> $a"
+
+      # Repo público: al terminar un ciclo largo, arrancar el siguiente enseguida para que no haya
+      # horas sin actualizar (GitHub arranca las programadas de forma irregular). La concurrencia
+      # «ciclo» garantiza que solo corre uno a la vez.
+      - name: Encadenar el siguiente ciclo
+        if: always() && github.event_name != 'push' && !github.event.repository.private
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/actions/workflows/actualizar.yml/dispatches" -f ref=main && echo "Siguiente ciclo en cola"
