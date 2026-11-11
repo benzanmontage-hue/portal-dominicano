@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-10T19:43:59.253730-04:00",
-  "hora": "19:43",
+  "updated": "2026-11-10T20:04:21.124626-04:00",
+  "hora": "20:04",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "ucrania",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "La UE prorroga dos años su misión de asistencia militar a Ucrania",
       "enlace": "https://www.larazon.es/internacional/prorroga-dos-anos-mision-asistencia-militar-ucrania_202611106af2c10603bbf30bb046a2c7.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSwKxMiF7A_ngqXPFwo2jBZRyfYFtrQUcK5cwEZLeDRu9nzzIk_BspgKuV6c"
@@ -57,16 +57,16 @@
     {
       "termino": "outlook",
       "trafico": "500+",
-      "noticia": "Hims   Hers stock sinks after Q3 results, outlook disappoints",
-      "enlace": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-sinks-after-q3-results-outlook-disappoints-154547661.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9j6OvBvpYmnBr0ri-J_g7n6a6oGJTWzanBWIcV5Hxr3HMU2oFBaUcic-0lVI"
+      "noticia": "Hims   Hers’ Climbing Costs Weigh on Outlook",
+      "enlace": "https://www.wsj.com/business/earnings/hims-hers-narrows-sales-outlook-2091854d",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1222K5ShkmXmmKfxE8KsBMnfOgEm8KcijUD5phPFMZgEPBtjf-WRoEZXtqP4"
     },
     {
       "termino": "tigres del licey",
-      "trafico": "2000+",
+      "trafico": "200+",
       "noticia": "EN VIVO: Gigantes del Cibao vs. Tigres del Licey",
       "enlace": "https://www.mlb.com/es/video/lidom-live-gigantes-vs-licey-251367",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-bIwjTH3vwkL_epSdzNfZsi2wGpwfM1gZwXRo8gXig5bLIVBnwTdFo-Bn9fg"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHkGytbgK3O3FmIN-oL9n0ot4RTE2dC3TiDRNuzDVxMrS1Zk9fzOGxZ4o59E"
     },
     {
       "termino": "golden state warriors",
