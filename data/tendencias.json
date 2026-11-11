@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T16:47:00.568372-04:00",
-  "hora": "16:47",
+  "updated": "2026-11-11T17:07:33.657224-04:00",
+  "hora": "17:07",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,7 +13,14 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk5YVnNEpBr4Z8g7HRPUztReIGiatvus5bZyG-tNWi26mKiM-QGUqGQpopqY"
     },
     {
-      "termino": "nvidia ceo jensen huang",
+      "termino": "fallece julio mariñez",
+      "trafico": "100+",
+      "noticia": "Fallece Julio Mariñez, histórico dirigente del PRD y exsecretario General de la Liga Municipal",
+      "enlace": "https://listindiario.com/la-republica/politica/20261110/fallece-julio-marinez-historico-dirigente-prd-exsecretario-general-liga-municipal_929640.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNuHJ6__w4-3X-Ab4PYXQnhyckttaR39FQMbhQS5iYHSiiKKao3x1kGq2HTvU"
+    },
+    {
+      "termino": "lori huang",
       "trafico": "500+",
       "noticia": "Alice Huang’s tangled web of connections",
       "enlace": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
@@ -67,13 +74,6 @@
       "noticia": "Why Did the Rangers Pay $67 Million to Trade Alex Rodriguez In 2000?",
       "enlace": "https://sports.yahoo.com/articles/why-did-rangers-pay-67-142243122.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPz47pGqWCGztAKiQ3Xkp4o766pSCsB4yGzE5JnhGgPwr553jpTGdCwg6wGGE"
-    },
-    {
-      "termino": "william levy",
-      "trafico": "1000+",
-      "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
-      "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
     }
   ]
 }
