@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-11T11:56:03.745209-04:00",
-  "hora": "11:56",
+  "updated": "2026-11-11T12:16:26.959441-04:00",
+  "hora": "12:16",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lori huang",
+      "trafico": "200+",
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
+    },
     {
       "termino": "terremoto sismo temblor hoy epicentro",
       "trafico": "100+",
@@ -27,13 +34,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS38Mgtkzri3rD2KpUc8MeUeAhifipAJbU_iTf2cnptAzOOgDaVnSfl2cviEO8"
     },
     {
-      "termino": "jensen huang",
-      "trafico": "100+",
-      "noticia": "Statement From NVIDIA Board of Directors",
-      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
-    },
-    {
       "termino": "pedro guerrero",
       "trafico": "200+",
       "noticia": "Dodgers hire Pedro Guerrero away from Marlins as hitting coach",
@@ -50,16 +50,16 @@
     {
       "termino": "evangelio de hoy",
       "trafico": "100+",
-      "noticia": "Lecturas de hoy. Miércoles 11 de noviembre de 2026",
-      "enlace": "https://www.elconfidencialdigital.com/articulo/evangelio-de-hoy/lecturas-hoy-miercoles-11-noviembre-2026/202611110419061501255.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RCN4t8oa2wWcHUMCKfTaV4qYRU7aVx--TllJiN0oAHPxaEquuwP9OF0oLMw"
+      "noticia": "El Evangelio de hoy: Practicar el agradecimiento",
+      "enlace": "https://oem.com.mx/elsoldezacatecas/local/el-evangelio-de-hoy-practicar-el-agradecimiento-33075906.html?app=true",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQajn1D_WfwNwHSG3_uwLd2oAGaMS-uErF8N75JeK1qAPk7jBihCrmyhfvcrWE"
     },
     {
       "termino": "álex rodríguez",
       "trafico": "100+",
-      "noticia": "Why Did the Rangers Pay $67 Million to Trade Alex Rodriguez In 2000?",
-      "enlace": "https://sports.yahoo.com/articles/why-did-rangers-pay-67-142243122.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPz47pGqWCGztAKiQ3Xkp4o766pSCsB4yGzE5JnhGgPwr553jpTGdCwg6wGGE"
+      "noticia": "A-Rod Invitational returning to North Texas in 2027",
+      "enlace": "https://www.wfaa.com/article/entertainment/events/a-rod-invitational-returning-to-north-texas-in-2027/287-66e7fb15-fb1c-4bae-9a76-4ed4e7bfa7dd",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm3VuA7kBRdK1miwEdrXvXmIJRyoy22gToYqFsMljpLXdq7rWAPZXmemao8ao"
     },
     {
       "termino": "william levy",
