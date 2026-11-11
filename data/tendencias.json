@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-10T21:46:12.464909-04:00",
-  "hora": "21:46",
+  "updated": "2026-11-10T22:06:35.277573-04:00",
+  "hora": "22:06",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "76ers - celtics",
-      "trafico": "500+",
-      "noticia": "Paul George sends strong warning to Jaylen Brown about Jayson Tatum ahead of showdown",
-      "enlace": "https://basketnews.com/news-259222-paul-george-sends-strong-warning-to-jaylen-brown-about-jayson-tatum-ahead-of-showdown.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS442B2VR0dBfKdPbKRXmOJu-0uh4l5-M6reZspb3Cd72ZvSg-FEh68ALqUXWQ"
+      "trafico": "1000+",
+      "noticia": "Jaylen Brown says  nothing to talk about  with Tatum ahead of Celtics-76ers",
+      "enlace": "https://www.espn.com/nba/story/_/id/50427885/jaylen-brown-says-talk-tatum-ahead-76ers-celtics",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7V7LGrLsaZ5wMJ0AwfUhT1xzEDFJj4kc7spfx8xXzbw99300_eYX4neUntAE"
     },
     {
       "termino": "beisbol invernal",
@@ -36,16 +36,9 @@
     {
       "termino": "amnistía internacional",
       "trafico": "500+",
-      "noticia": "¿Ahora Washington quiere ponerle freno a la misión de Nayib Bukele en Haití?",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/el-departamento-de-estado-de-ee-uu-habria-cuestionado-a-nayib-bukele/3716777",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4KDS1o-pHxdpcXZPu3AHk29EytDXY-ceDw5R-dSrV-4Jy41Y0XkwanmtWeoY"
-    },
-    {
-      "termino": "el chivo sin ley",
-      "trafico": "1000+",
-      "noticia": "Muere Isidro Cabrera,  El Chivo sin Ley , figura de la bachata tradicional",
-      "enlace": "https://elnacional.com.do/fama-y-vida/muere-isidro-cabrera-chivo-ley-figura-bachata-tradicional_585789.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vGB77Zv8e2MNULk5vpQLgF2MYjNExDTLkjAcyjtbOiFS8On7YtmP-HzKXz8"
+      "noticia": "Bukele: tropas salvadoreñas destruyeron  cuartel general  de una pandilla en Haití",
+      "enlace": "https://www.dw.com/es/bukele-tropas-salvadore%C3%B1as-destruyeron-cuartel-general-de-una-pandilla-en-hait%C3%AD/a-79913317",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCkzNlCDHrQl50HER4s3kZyJMSdBl46lGUZvhgcy9p8lALw--2ofyl_6gfVrE"
     },
     {
       "termino": "bomba",
@@ -53,6 +46,13 @@
       "noticia": "Seis falsas alarmas de bomba en aviones en RD desde 2021: qué vuelos afectaron y qué pena arriesgan",
       "enlace": "https://revistamercado.do/money-invest/daily-news/seis-falsas-alarmas-de-bomba-en-aviones-en-rd-desde-2021-que-vuelos-afectaron-y-que-pena-arriesgan/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShbPXu8mYTy2HIXd-FOcYClelcFIAuodVFC1BTY8oVuHTYK4cdCHx-E1RrThU"
+    },
+    {
+      "termino": "el chivo sin ley",
+      "trafico": "1000+",
+      "noticia": "Muere Isidro Cabrera,  El Chivo sin Ley , figura de la bachata tradicional",
+      "enlace": "https://elnacional.com.do/fama-y-vida/muere-isidro-cabrera-chivo-ley-figura-bachata-tradicional_585789.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vGB77Zv8e2MNULk5vpQLgF2MYjNExDTLkjAcyjtbOiFS8On7YtmP-HzKXz8"
     },
     {
       "termino": "tradingview",
