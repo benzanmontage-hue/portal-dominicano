@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T12:36:52.446633-04:00",
-  "hora": "12:36",
+  "updated": "2026-11-11T12:57:15.764591-04:00",
+  "hora": "12:57",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -14,21 +14,21 @@
     },
     {
       "termino": "terremoto sismo temblor hoy epicentro",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Sismo muy débil mag. 1.5 - Western Turkey, Wednesday 11 Nov 2026 a las 08:46 (Hora Istanbul) - justo ahora",
       "enlace": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23628698/mag1quake-Nov-11-2026-Western-Turkey.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrZc_jEZgjR0y8zy-KXbEy4pCwmNywg4PNzoxQDpdxG-qB3GLSH2vRyNykuZU"
     },
     {
       "termino": "agustín ramírez",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Ramírez guía triunfo de Gigantes con HR en la 11ma",
       "enlace": "https://www.mlb.com/es/video/agustin-ramirez-conecta-hr-de-dos-carreras-en-la-11ma",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZ5bKLLSou56MoTfkol5LwbA2xe9w1yz63q9u1N_aGuPTwIXZbqj-8OACTZY"
     },
     {
       "termino": "inflación",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Economista advierte que la inflación empobrece silenciosamente a la clase media",
       "enlace": "https://eldia.com.do/inflacion-empobrece-silenciosamente-a-la-clase-media/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS38Mgtkzri3rD2KpUc8MeUeAhifipAJbU_iTf2cnptAzOOgDaVnSfl2cviEO8"
@@ -43,9 +43,16 @@
     {
       "termino": "nieve",
       "trafico": "200+",
-      "noticia": "Primeros indicios de nieve cerca de Nueva York: pronostican lluvias y descenso de temperaturas",
-      "enlace": "https://www.univision.com/noticias/primeros-indicios-de-nieve-cerca-de-nueva-york-pronostican-lluvias-y-descenso-de-temperaturas-video",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7FsfeX9IB2tvmJOSFQ0_PubvhH-t4zUmgU686hDvOZfhIDwc6wioJvJTkt0"
+      "noticia": "Fotos en la nieve que salen grises u oscuras: cómo aclararlas y recuperar el color",
+      "enlace": "https://www.desdesoria.es/reportajes/fotos-nieve-que-salen-grises-u-oscuras-como-aclararlas-recuperar-color/20261111100434940788.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqDlAg_EAkx6-Hi0Cjgs47hx0q1-riJ3q1vgKzwzsDxDs73_hDzHmXcpAUy6E"
+    },
+    {
+      "termino": "resultados lidom",
+      "trafico": "100+",
+      "noticia": "Venable y Murphy: Premios al Manager del Año destacan dos historias de éxito",
+      "enlace": "https://www.mlb.com/es/news/ganadores-del-premio-manager-del-ano-de-mlb-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzR6wks-PWIOzVVaFz3oACQXZXTi23XSik1wQMWRK8xHkyf2z7-5ArjvR8P_8"
     },
     {
       "termino": "evangelio de hoy",
@@ -67,13 +74,6 @@
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
-    },
-    {
-      "termino": "dólar estadounidense",
-      "trafico": "200+",
-      "noticia": "Tasa del dólar en República Dominicana este 11 de noviembre: compra y venta",
-      "enlace": "https://hoy.com.do/vivir/horoscopo/tasa-dolar-republica-dominicana-11-noviembre-compra-venta_1108310.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYYFeBck8zf80cJgZeO_CM-XjG8r7MKgI61H21--z9L5JiXNg9RYuw-L_fPG0"
     }
   ]
 }

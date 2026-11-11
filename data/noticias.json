@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T12:36:54.113902-04:00",
-  "hora": "12:36",
+  "updated": "2026-11-11T12:57:17.357501-04:00",
+  "hora": "12:57",
   "fecha": "11/11/2026",
   "total": 15,
   "noticias": [
@@ -61,6 +61,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Complejo térmico en República Dominicana recibirá refuerzo de baterías - BNamericas",
+      "fuente": "BNamericas",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjJ5ekVoNm9RdEM5ci1BOG1BU0o1UzBISlI3UjhaeTJfWHFvUXNxQUxCYndNUU9ZcmpveXIteTFZZ0dsaU9MVkNUTy16U043NEpiT1BSSzV3Qk5SemJXTVVHNFJIWE5rNlhldFhCVkJuR2RQVkFuUDRRTG1pNi16STFSMVdhYlN0WW95d0VaT3pHUjlDQ3JiMXZIbEgyNFhhekItTzBHQXEyUjBrRWc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 11 Nov 2026 16:12:14 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Tragedia en República Dominicana: Madre e hijos en condición crítica tras brutal explosión en su nuevo apartamento - Univision",
       "fuente": "Univision",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTUt6cU8weTNZNk40V1hMNzloLTM3SEFUbnh1Wi1uUmhFaXh0VHl5Y1lEaFdGWlZWNGVKM0tHNjRkWlM1NWRIT3hsUTlnUnhEUDVtbkg4SjdqRGxhaHhWZkp5NjNHT1kwSUV4OWJ6RXd5UGFtcVo0bC1oU0xxc2tqdkY0T0ZNNHhBSk5Ma0ZWRDU1b0NnMDRmWTVwQzVhUC1LR3lYZGJEWkxWSnloX0pNdGstUWE1bTVrc25lSDZJRTJrYXg2a29qTG1mTjJDbmhCMFE4ZnFKT3FpT3ZGczRVcEdKdmc4dXVLa25tVXRROUdraTRTNE9heGJR?oc=5",
@@ -93,14 +101,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Ligas Invernales 2026-2027: Magallanes llega a nueve triunfos seguidos y Escogido toma la cima dominicana - seriedelCaribe.net",
-      "fuente": "seriedelCaribe.net",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1FsdnJZTEdSMUxiZEc4OVFOdzBOTmJIYi1TaTd5VmF3eHlVQmFnakt4bjhQZVd3UnF2a2NTRkc0aEdOcTRLaHRoU2p6c01XZEM5MDNvWUt2MDdkWl9UVDRVa2hGVHdjOElyR2ZpdnlpTDdRaDNDcTgxd2duVUFwYUVvTXc4U3FxVmU5dGYtOFZPazlLTEowdHRLWUZDeHNxNVhsYTFPS3FwOGRwbDk4VFBza0NhRU51bzZpNjRSSWN6NVpoTTB1cWpkb3RYR1RDQWE5eVc1bVdFem44?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 11:15:42 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana rediseña el mapa estratégico de Cementos Progreso - www.revistaeyn.com",
       "fuente": "www.revistaeyn.com",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTJ4Wk9zOWlQVm5qWXN1SFdTc1JKdlhjQTJFaWVrem8yeUhFeFpZNzdJLVJieHlDVjlGcVd1VWpfTXlWMVdyYnJCbXg1SXZpcDhaMzliQ21Bd19IcEo3V3FiOENtaFFmN3dkSDVDalc5bW9qNkRCVmd1ZlJVZmNNZGd4N0d4ajZ3c3BmZTZ5YkR3QWVwT3pNdHFYTERoNU1mbWo1OVhnUXdMQ3NENWNVQlNYTXFGWmExQURpb2pOOWRsV0FRamhj?oc=5",
@@ -117,11 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "81% de las operaciones financieras se realiza por canales digitales y de autoservicio en República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQkxFZHo1ZmVqNXlkRzJrcjBqWVYtOWFrb1NWWWhRSnNWdERhTlNHeUJXYkZXRXhyMnJTZnpyY3hvbTYtQnYwbVRqeHpNUU5NaVR3clVfWUtBb253cVVORXZ1MWlMT3hoaFhYSEdwdXRjdlNxMDhYS3p6bkhjOEd6em5NNU1lNkFldDVLajRUOGdYY2d1T3g3TEtncE1ZYi1lQnNKaXc5azFfVzZDQ2dZT3psYm56N1A4VkRScENHZUNvYWFBTUE0VjNJNm13cnRlNVZpaHlLZVRRZmEwczUwNXhYS3kwbm1ZdzUwemxfNjFHdGdHZ2s1TdIBkwJBVV95cUxNM1lUOEZTYUxIaHh3eGdYeGlLN19aSXpqVVd4eTJwVm5MVnA4NTFIWXMtaHhRN2ZuOEhaamxVc2FFRlZhTUl6bHZBMTc3T2JxaG9pb1NhWkZPcjVhS2w1WnFWNGRHSjIyVkN5UHhzam1lUzJ1dl9YNVpBaXg4NmdsRXFwd3h2OUpiRGpYNkdEWTktenRIdmhhNGU5Y0lNZkJ5OHhYRGg1cEVmR2RlTjJuTkJXWnF3UmZxUTBkaEdvTE0wUWJQY0lON2c4YlpKRlBCWFREZlBXQS1ibTU2VzVfMmxoZGR4UC10b3Zha0VmTHpZd1NZUW5hM3k0QjNMak9DRURZX05PaHQ5OVA1RkpsS182NA?oc=5",
+      "titulo": "Ligas Invernales 2026-2027: Magallanes llega a nueve triunfos seguidos y Escogido toma la cima dominicana - seriedelCaribe.net",
+      "fuente": "seriedelCaribe.net",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1FsdnJZTEdSMUxiZEc4OVFOdzBOTmJIYi1TaTd5VmF3eHlVQmFnakt4bjhQZVd3UnF2a2NTRkc0aEdOcTRLaHRoU2p6c01XZEM5MDNvWUt2MDdkWl9UVDRVa2hGVHdjOElyR2ZpdnlpTDdRaDNDcTgxd2duVUFwYUVvTXc4U3FxVmU5dGYtOFZPazlLTEowdHRLWUZDeHNxNVhsYTFPS3FwOGRwbDk4VFBza0NhRU51bzZpNjRSSWN6NVpoTTB1cWpkb3RYR1RDQWE5eVc1bVdFem44?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 13:42:00 GMT",
+      "fecha": "Wed, 11 Nov 2026 11:15:42 GMT",
       "imagen": ""
     }
   ]
