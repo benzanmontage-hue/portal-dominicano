@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-10T20:04:21.124626-04:00",
-  "hora": "20:04",
+  "updated": "2026-11-10T20:24:43.598739-04:00",
+  "hora": "20:24",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "knicks - bucks",
+      "trafico": "200+",
+      "noticia": "Knicks seek fourth straight win against reeling Bucks",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fourth-straight-win-against-reeling-bucks/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQgn2GQwJci9qi2SxkiYYRjr955Y375dBsy-WyPMKhXcnkh5dQRdhkTuUiG4s"
+    },
     {
       "termino": "ucrania",
       "trafico": "500+",
@@ -57,23 +64,16 @@
     {
       "termino": "outlook",
       "trafico": "500+",
-      "noticia": "Hims   Hers’ Climbing Costs Weigh on Outlook",
-      "enlace": "https://www.wsj.com/business/earnings/hims-hers-narrows-sales-outlook-2091854d",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1222K5ShkmXmmKfxE8KsBMnfOgEm8KcijUD5phPFMZgEPBtjf-WRoEZXtqP4"
+      "noticia": "Hims   Hers stock sinks after Q3 results, outlook disappoints",
+      "enlace": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-sinks-after-q3-results-outlook-disappoints-154547661.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9j6OvBvpYmnBr0ri-J_g7n6a6oGJTWzanBWIcV5Hxr3HMU2oFBaUcic-0lVI"
     },
     {
       "termino": "tigres del licey",
       "trafico": "200+",
       "noticia": "EN VIVO: Gigantes del Cibao vs. Tigres del Licey",
       "enlace": "https://www.mlb.com/es/video/lidom-live-gigantes-vs-licey-251367",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHkGytbgK3O3FmIN-oL9n0ot4RTE2dC3TiDRNuzDVxMrS1Zk9fzOGxZ4o59E"
-    },
-    {
-      "termino": "golden state warriors",
-      "trafico": "200+",
-      "noticia": "Warriors lose guard Brandon Williams to mild hamstring strain",
-      "enlace": "https://www.espn.com/nba/story/_/id/50446131/sources-warriors-lose-brandon-williams-hamstring-strain",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIOS35B8ny1oAoZ52Hn1ZRg_MLswdoUnLDJjnOJwt22WLLwWWZvEB3Jzx1x7Y"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-bIwjTH3vwkL_epSdzNfZsi2wGpwfM1gZwXRo8gXig5bLIVBnwTdFo-Bn9fg"
     }
   ]
 }
