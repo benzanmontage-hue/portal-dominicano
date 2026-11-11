@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-10T22:48:42.983035-04:00",
-  "hora": "22:48",
+  "updated": "2026-11-10T23:09:06.212861-04:00",
+  "hora": "23:09",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "paul george",
+      "trafico": "100+",
+      "noticia": "How Paul George is fittingly in perfectly (very) early in his Celtics tenure",
+      "enlace": "https://www.cbssports.com/nba/news/paul-george-fittingly-in-perfectly-celtics/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0"
+    },
     {
       "termino": "76ers - celtics",
       "trafico": "1000+",
@@ -67,13 +74,6 @@
       "noticia": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
       "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/10/amnistia-fiscal-eleva-ingresos-de-las-penalidades-en-un-1345-/3713421",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMnto8CscoP5t9cdA1YzmfIlJ_dkl6itO2C9QNpnWSsf2qWH_wTam68g7eE1Q"
-    },
-    {
-      "termino": "toukie smith",
-      "trafico": "2000+",
-      "noticia": "Toukie Smith, ‘227’ actor and Robert De Niro’s former partner, dies at 74",
-      "enlace": "https://www.nbcnews.com/pop-culture/pop-culture-news/toukie-smith-227-actor-robert-de-niros-former-partner-dies-74-rcna608583",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEU5pefPnaIlZn7KQBt3eZivwyKY3vec9iqALcE0kHNC9ZjZsD-rxYXPv4W0"
     }
   ]
 }
