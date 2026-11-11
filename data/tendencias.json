@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-11T18:08:33.336200-04:00",
-  "hora": "18:08",
+  "updated": "2026-11-11T18:28:52.900243-04:00",
+  "hora": "18:28",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "marileidy paulino",
+      "trafico": "100+",
+      "noticia": "Marileidy Paulino queda quinta y fuera de las finalistas a Atleta del Año de World Athletics",
+      "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/11/11/marileidy-paulino-queda-fuera-de-las-finalistas-de-world-athletics/3717697",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBY7TjroVsHFxc33TJKVFzLkugEP51ikv1wa8R2_jkjr6C7u3kFNYnn-homPg"
+    },
+    {
       "termino": "frontera entre haití y la república dominicana",
       "trafico": "500+",
       "noticia": "Ejército dice que todo se encuentra normal en la frontera entre RD y Haití",
       "enlace": "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk5YVnNEpBr4Z8g7HRPUztReIGiatvus5bZyG-tNWi26mKiM-QGUqGQpopqY"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTukFVAUWZ129sUtZPQparT5AclRSti6VbTKiDSmOT_9624RQjMSXb_KwHabxY"
     },
     {
       "termino": "fallece julio mariñez",
@@ -67,13 +74,6 @@
       "noticia": "¡Llegó Ronel Blanco! El derecho dice presente y entra al roster de los Gigantes del Cibao",
       "enlace": "https://www.mlb.com/es/news/llego-ronel-blanco-el-derecho-dice-presente-y-entra-al-roster-de-los-gigantes-del-cibao",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTph9OAuzC570xEww8gS-G5iME_GzwCplY032_XJB-bv-TmWuUWYz6DKpI5vr4"
-    },
-    {
-      "termino": "evangelio de hoy",
-      "trafico": "100+",
-      "noticia": "El Evangelio de hoy: Practicar el agradecimiento",
-      "enlace": "https://oem.com.mx/elsoldezacatecas/local/el-evangelio-de-hoy-practicar-el-agradecimiento-33075906.html?app=true",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQajn1D_WfwNwHSG3_uwLd2oAGaMS-uErF8N75JeK1qAPk7jBihCrmyhfvcrWE"
     }
   ]
 }
