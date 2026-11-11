@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T22:07:41.490108-04:00",
-  "hora": "22:07",
+  "updated": "2026-11-10T22:28:18.178792-04:00",
+  "hora": "22:28",
   "fecha": "10/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "76ers - celtics",
       "trafico": "1000+",
-      "noticia": "Jaylen Brown says  nothing to talk about  with Tatum ahead of Celtics-76ers",
-      "enlace": "https://www.espn.com/nba/story/_/id/50427885/jaylen-brown-says-talk-tatum-ahead-76ers-celtics",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7V7LGrLsaZ5wMJ0AwfUhT1xzEDFJj4kc7spfx8xXzbw99300_eYX4neUntAE"
+      "noticia": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled - The Athletic",
+      "enlace": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2hedkiNpD_LpTWYmvtbvgE-IMhWWiN0LVxfY1zs6ZKE_Uq369flaZFO9Mzyw"
     },
     {
       "termino": "beisbol invernal",
@@ -36,16 +36,9 @@
     {
       "termino": "amnistía internacional",
       "trafico": "500+",
-      "noticia": "Bukele: tropas salvadoreñas destruyeron  cuartel general  de una pandilla en Haití",
-      "enlace": "https://www.dw.com/es/bukele-tropas-salvadore%C3%B1as-destruyeron-cuartel-general-de-una-pandilla-en-hait%C3%AD/a-79913317",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCkzNlCDHrQl50HER4s3kZyJMSdBl46lGUZvhgcy9p8lALw--2ofyl_6gfVrE"
-    },
-    {
-      "termino": "bomba",
-      "trafico": "500+",
-      "noticia": "Seis falsas alarmas de bomba en aviones en RD desde 2021: qué vuelos afectaron y qué pena arriesgan",
-      "enlace": "https://revistamercado.do/money-invest/daily-news/seis-falsas-alarmas-de-bomba-en-aviones-en-rd-desde-2021-que-vuelos-afectaron-y-que-pena-arriesgan/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShbPXu8mYTy2HIXd-FOcYClelcFIAuodVFC1BTY8oVuHTYK4cdCHx-E1RrThU"
+      "noticia": "¿Ahora Washington quiere ponerle freno a la misión de Nayib Bukele en Haití?",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/el-departamento-de-estado-de-ee-uu-habria-cuestionado-a-nayib-bukele/3716777",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4KDS1o-pHxdpcXZPu3AHk29EytDXY-ceDw5R-dSrV-4Jy41Y0XkwanmtWeoY"
     },
     {
       "termino": "el chivo sin ley",
@@ -55,11 +48,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vGB77Zv8e2MNULk5vpQLgF2MYjNExDTLkjAcyjtbOiFS8On7YtmP-HzKXz8"
     },
     {
+      "termino": "bomba",
+      "trafico": "500+",
+      "noticia": "Seis falsas alarmas de bomba en aviones en RD desde 2021: qué vuelos afectaron y qué pena arriesgan",
+      "enlace": "https://revistamercado.do/money-invest/daily-news/seis-falsas-alarmas-de-bomba-en-aviones-en-rd-desde-2021-que-vuelos-afectaron-y-que-pena-arriesgan/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShbPXu8mYTy2HIXd-FOcYClelcFIAuodVFC1BTY8oVuHTYK4cdCHx-E1RrThU"
+    },
+    {
       "termino": "tradingview",
       "trafico": "200+",
-      "noticia": "Chip stocks  slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
-      "enlace": "https://finance.yahoo.com/markets/article/chip-stocks-slide-nears-5-trillion-as-nvidia-hits-most-extreme-selling-level-since-2019-191532559.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqjANZNjf4EL3Rrf3cR_Rd9vzFPweSKd5sYOmhUajaZTBFOvMG9ELn-sC0F-k"
+      "noticia": "Nvidia stocks fall for second straight day after CEO s affair with alleged Chinese spy",
+      "enlace": "https://www.cbsnews.com/video/nvidia-stocks-fall-for-second-straight-day-after-ceos-affair-with-alleged-chinese-spy/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrcfAofNtb1u7F-RCbS35stCAlGd8ZHxK4ge6EnW07nln-xuVlQKHy0Z-86c"
     },
     {
       "termino": "dgii",
@@ -71,9 +71,9 @@
     {
       "termino": "toukie smith",
       "trafico": "2000+",
-      "noticia": "Toukie Smith, Model and Robert De Niro’s Former Partner, Dies at 74. What to Know About MS",
-      "enlace": "https://www.today.com/health/news/toukie-smith-death-cause-multiple-sclerosis-rcna608520",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsBEw7TXMSCtbVQutXELFg8WpKQlhU9OmjJm8b62BUQ8OlQ5EwuQpedetRQ6M"
+      "noticia": "Toukie Smith, ‘227’ actor and Robert De Niro’s former partner, dies at 74",
+      "enlace": "https://www.nbcnews.com/pop-culture/pop-culture-news/toukie-smith-227-actor-robert-de-niros-former-partner-dies-74-rcna608583",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEU5pefPnaIlZn7KQBt3eZivwyKY3vec9iqALcE0kHNC9ZjZsD-rxYXPv4W0"
     }
   ]
 }
