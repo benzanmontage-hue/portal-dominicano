@@ -45,6 +45,12 @@ DIAS_VIGENTE = 21     # juegos sin sorteo en este tiempo no se muestran (la fuen
 DIAS_HISTORIAL = 14
 
 
+def momento(nombre):
+    """Orden dentro del día para sorteos sin hora en el nombre: Día < Tarde < Noche."""
+    n = limpiar(nombre).lower()
+    return 3 if "noche" in n else 2 if "tarde" in n else 1 if ("día" in n or "dia" in n or "mayor" in n) else 0
+
+
 def ancla(nombre):
     t = limpiar(nombre).lower()
     for a, b in zip("áéíóúñ", "aeioun"):
@@ -124,7 +130,7 @@ def main():
         ruta = f"/{slug}/"
         prin = [j for j, p in juegos if p] or [j for j, _ in juegos]
         # el sorteo más reciente de los principales (para título y descripción)
-        p0 = max(prin, key=lambda j: (parse_fecha(j.get("fecha")), minutos_juego(limpiar(j["juego"])) or 0,
+        p0 = max(prin, key=lambda j: (parse_fecha(j.get("fecha")), minutos_juego(limpiar(j["juego"])) or momento(j["juego"]),
                                       -prin.index(j)))
         nums0 = "-".join(p0["numeros"])
         otras = " ".join(f'<a href="/{s}/">{esc(n)}</a>' for s, n, *_ in OTRAS if s != slug)
