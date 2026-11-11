@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T15:20:01-04:00",
+ "actualizado": "2026-11-11T15:40:22-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -437,6 +437,14 @@
    }
   ],
   "Americanas|New York Tarde": [
+   {
+    "fecha": "2026-11-11",
+    "numeros": [
+     "67",
+     "95",
+     "39"
+    ]
+   },
    {
     "fecha": "2026-11-10",
     "numeros": [
@@ -2470,6 +2478,14 @@
   ],
   "Nueva York|Numbers Día": [
    {
+    "fecha": "2026-11-11",
+    "numeros": [
+     "3",
+     "6",
+     "7"
+    ]
+   },
+   {
     "fecha": "2026-11-10",
     "numeros": [
      "2",
@@ -2561,6 +2577,16 @@
    }
   ],
   "Nueva York|Take 5 Día": [
+   {
+    "fecha": "2026-11-11",
+    "numeros": [
+     "35",
+     "30",
+     "36",
+     "20",
+     "38"
+    ]
+   },
    {
     "fecha": "2026-11-10",
     "numeros": [
@@ -2675,6 +2701,15 @@
    }
   ],
   "Nueva York|Win 4 Día": [
+   {
+    "fecha": "2026-11-11",
+    "numeros": [
+     "9",
+     "5",
+     "3",
+     "9"
+    ]
+   },
    {
     "fecha": "2026-11-10",
     "numeros": [
