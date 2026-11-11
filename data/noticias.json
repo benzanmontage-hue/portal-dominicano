@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T22:28:23.666721-04:00",
-  "hora": "22:28",
+  "updated": "2026-11-10T22:48:48.568117-04:00",
+  "hora": "22:48",
   "fecha": "10/11/2026",
   "total": 15,
   "noticias": [
@@ -10,7 +10,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYnFVMS1CMUUxaU9oNXFDcDR1aWF1OHlUNjdBNXN0M2pqNjRualJ1ckNKb3FvV1NMRzJvX3cwN2x0dno2NTVRZllBeW1mRURwMTdDbnVqaHBfY2NIb0cwbk9QUUtlSUJjWVpuTE51UmxzS184Ykt2S1M1UGNDX25UOUpFamhJMFJCal9JQjMzeDNsdTNvaDZ4U1pzcTl3aTMzQlR4eDd3T3M5eE5XY1NfS0hob3VscklSdmljbllDaUZVT0U5UV9ieWMtUXAtX0l2Tmc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 22:50:32 GMT",
-      "imagen": ""
+      "imagen": "https://www.local10.com/resizer/v2/MSKDM5DZ74DERIUCV2J2WVW6QQ.jpg?auth=e569b7a0245244acee6cafd5c84cee5195e9820e512d93e95b493ab4b18a29e0&width=700"
     },
     {
       "titulo": "República Dominicana respalda ofensiva salvadoreña contra las pandillas en Hai - Diario Las Américas",
@@ -77,14 +77,6 @@
       "imagen": "https://res.cloudinary.com/dkdyuefrf/image/upload/v1793962608/notes/fylkxujqnlpecbpvths6.jpg"
     },
     {
-      "titulo": "Licey empata con el Escogido en el liderato en República Dominicana - AP News",
-      "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHd3U3p2b0JKZmZwdkQ3c0R5VTVuTTFFdk1lMzMyRzZ3ak1QQkVHaE5JOGhDZXRsNVRqWTljbGM2UklJUnlocElMa25aa1BTcXFmZDlDUDZDS0U2ZS1lQzdHc1NyaEtXU3dCbXBhc1VSSXcwOGhnNmdBR3JDQWpjWWdwU3ozOWR5RFlPaWVxNFpUMWxDTWFuZ3BGWFhhWExXV1hvYnVkV3haR3hZVGdGSVlwV3lkeEND?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 04:49:00 GMT",
-      "imagen": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png"
-    },
-    {
       "titulo": "Patricia Siné, oro del atletismo de República Dominicana en 200 metros en los Juegos Olímpicos de la Juventud 2026 - Olympics",
       "fuente": "Olympics",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFZnQ1BrWks0ZXhyblE0UjZPRlVyOWYwZ2dnYmowTDMyT1hGVnl6MGZHR1gxWXptTEJKREV4MmZ2LW1FTVZNb1l6N1NVZWVvS0tvdXBoOEhqV2RWaEx3YkFpeFByelk3WXIzemJtc0NvZkZJTjhMOWhvbXlOcHVJekh0MVNmcXdKMWRTNEsyNlNRQmZoZmhTcU9fQTlpYUZsckRXS0J3SWVSMEY2cEprbUE2TUtRb21IYjlWZEZxdmNtZ0phdDFlOVp3?oc=5",
@@ -123,6 +115,14 @@
       "dominio": "news.google.com",
       "fecha": "Tue, 10 Nov 2026 19:25:05 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "EEUU elogia a República Dominicana por el cierre de una empresa china que operaba ilegal - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjFKSkozY0lEQ1g5UFFva0ZfLWNXbnRUcDY3YmxvcURBenFQenBqSl9Ob3RQOEJ2d0xWc3NVRWFEbEtWbEUzRUkyUUJ6M1J4RW5yUXNMSUxTZk1YSHJzZy1ZdzRpYlFYTFhCNkFJd1dlYkFBeTEwU3BOZkd3dVlSbGwtRGZCQjF4Ymg1bkNDMlVJY3B1WktaTGJoWVFWRU42SGc5S2Ywc1hUV0NCdndZMmR4c1NWM2swejNQYlZUWi1kcFZBVEF2TEktMDVOTEJEeGs00gHYAUFVX3lxTE5wcHZZcGdJdTBNa1NXRjBFTEFMMmtzakQxN2VrRGc4dzJGQ01DUDE1YWZ2SFdOTFRRXy1CLVFBb01DX013dEZyNnlUVjdRV2lFaWNrV3VaX1R1SmFrYWtiZjMtdjNBNm9OQ2JDYU1RSE1JUWlqWVZNYWpxa2V2X0xhQUxkLWQyNDRZQjM3MkJRd1NKZXA5TnNlTWM0Z3pVVzFIdzZYN09qZmFZbXdBRnNpUl8tR1lOQUgtdURHczhDZ2lhbVNILXFUMEV0OFRSVWxvN3N2bjAyOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 00:17:00 GMT",
+      "imagen": "https://media.diariolasamericas.com/p/703954bd8cc695e2314fba1109e51bbb/adjuntos/216/imagenes/100/287/0100287029/1200x675/smart/juan-pablo-segura-1.jpg"
     }
   ]
 }
