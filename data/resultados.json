@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T14:39:06.878411-04:00",
+  "updated": "2026-11-11T14:59:30.399391-04:00",
   "fecha": "11/11/2026",
-  "hora": "14:39",
+  "hora": "14:59",
   "total_juegos": 53,
   "juegos": [
     {
@@ -19,18 +19,22 @@
       "compania": "Nacional",
       "juego": "Gana Más",
       "numeros": [
-        "86",
-        "91",
-        "27"
+        "57",
+        "89",
+        "15"
       ],
-      "fecha": "2026-11-10T04:00:00.000Z",
+      "fecha": "2026-11-11T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d482"
     },
     {
       "compania": "Nacional",
       "juego": "Juega + Pega +",
       "numeros": [
-        "20"
+        "20",
+        "16",
+        "24",
+        "05",
+        "04"
       ],
       "fecha": "2026-11-11T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d48e"
@@ -155,10 +159,10 @@
       "compania": "Loteria Real",
       "juego": "Super Palé",
       "numeros": [
-        "68",
-        "86"
+        "16",
+        "57"
       ],
-      "fecha": "2026-11-10T04:00:00.000Z",
+      "fecha": "2026-11-11T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4b4"
     },
     {
