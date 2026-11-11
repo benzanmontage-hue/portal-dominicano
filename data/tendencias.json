@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-11T07:59:50.017313-04:00",
-  "hora": "07:59",
+  "updated": "2026-11-11T08:20:18.509018-04:00",
+  "hora": "08:20",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "pedro guerrero",
+      "termino": "jensen huang",
       "trafico": "100+",
+      "noticia": "Statement From NVIDIA Board of Directors",
+      "enlace": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjCZHNG_dz8zbGDFGEGKs9xpu7wXxXPIT8CfNOdPbPkHVJx6XLsDgjnbLWNdQ"
+    },
+    {
+      "termino": "pedro guerrero",
+      "trafico": "200+",
       "noticia": "Dodgers hire Pedro Guerrero away from Marlins as hitting coach",
       "enlace": "https://www.espn.com/mlb/story/_/id/50446625/dodgers-hire-pedro-guerrero-away-marlins-hitting-coach",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnhjh3OKVwbcpBSjITO3AI6EARulqBcx7QWB1YZx-Rfn_wbQSdPX7Etf0LUhw"
@@ -67,13 +74,6 @@
       "noticia": "Nací para tener presión : Madé valora la gran experiencia durante breve acción con el Licey",
       "enlace": "https://www.mlb.com/es/news/made-valora-la-gran-experiencia-durante-breve-accion-con-el-licey",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CpwkEPvecf2-1XY6c8260yYNYOZS_6pbvSlPxIDKC25YXihq9E_YNGGR6N8"
-    },
-    {
-      "termino": "knicks - bucks",
-      "trafico": "1000+",
-      "noticia": "Without Tyler Herro against New York, Bucks need someone to step up",
-      "enlace": "https://sports.yahoo.com/articles/without-tyler-herro-against-york-235202383.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLE9BDegaNDVhN4DQ81nPsjOXa37sKIBKZS8ZxuQRAhDaTRdRHbV5MGIVmeM"
     }
   ]
 }
