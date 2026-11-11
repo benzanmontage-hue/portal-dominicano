@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T14:59:37.941144-04:00",
-  "hora": "14:59",
+  "updated": "2026-11-11T15:20:00.456583-04:00",
+  "hora": "15:20",
   "fecha": "11/11/2026",
   "total": 12,
   "eventos": [
@@ -59,12 +59,6 @@
       "fecha": "Thu, 30 Jul 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Festival Internacional de Piano En Blanco y Negro 2026 - CENART – Centro Nacional de las Artes",
-      "fuente": "CENART – Centro Nacional de las Artes",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ28zS0VvQk8tbUYwbGVZcUI0Y2h4QUY4cnZESFExMDdrbHBQdUZKekRmTzVLYnlQVVdoZF8ycFh1LTkySThOYTdReTJVdVJUY2x4SlNYUFRsb184ZE43d01zZ1NISDlHWUwzdnNaS1A3NGtRS0ZFeUJkeEQ4LVpOS2E2Yw?oc=5",
-      "fecha": "Wed, 16 Sep 2026 15:51:44 GMT"
-    },
-    {
       "titulo": "Cancelan concierto de Myriam Hernández en República Dominicana - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS05nYjhYX0l4b1JvcEs1eGl5QXdXZlowcFRhbmR6Y0lDS21od3lJWjZpdnhkU2tPd0MwbEFCTWRGeXppd1ZmSzVtTDI4TEtyeDFhcUVhZmc0eG9HYVlaV1E1YThad0VGWFM1cm5sa3gzVVRHNlBGNWhDY2RyakMwbHZFOGJlRm5Rdy1fekNVTTZrNnUzSUpPaVA5dTZIX09nYThERkExUTJDS3dkcUxiV09aTmRHRzk1a1Fwa2wtTGw5Sllk0gHKAUFVX3lxTE5KTzZBOVpFS3BBcXVVcEd3OFN6Ym45c3EzTTNpZ19EYUNzT2pCSHJMc1Vqdmx6S1RNN3hpWC12dnRUQVA4M0xFOGJqamszdEFvdDAyTlRtM2RMU3lsTGhKTXVsak5SNDBJQVFPZE5JNjlGc2dSb0RhdkxPR2NRRHpCbE5kNUNSeU9rS0pjaVNlaEtWU2JsRFF1ekFrQndrUjRCRl95Z25HOEk2a053NFAyV1BYVHYxTFBHb3Y0WVU3bXVzU2ZXc3FGdUE?oc=5",
@@ -75,6 +69,12 @@
       "fuente": "Listín Diario",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVTVjRKeV9GNTlyQlFheXpzcUxhUUZBSm42eXhYUTZsWGRjTWU3ekE4SXdtQXVOV0FjdmlaVUFzanNkc3NWYVF6VlJ0RHROWWdVRExZMWY1ajZCZlNiaE5TTkxwaUZ0THUzb0wyZGR3LUZEYjNSMy1hMjYxWDRlWWpvYXgtclZrODdwa0NjbE94VnlsOEp1N0JyXzlMejZYUjVlbnN0WVdiX1hGMjFJOU1yQnpRWkFaamFLU1hZUGVZTXRidURJctIBzgFBVV95cUxNcmdTN1VlT0xfdHlHRXUwb21WN19Xa3dYOXVwY1Jpb3ZyUGtnOWZPLUVncVM1cE9xVkFUU2t6anhWVjBxN1ZCV25KZlM0RlNBR1E0aVBOb2xGVG5HVEJwNVNxNTRXTmdWTDh3Yi1YWS0wTUlHYUoySnN0RW40a0NjUUlLNW0zTnhHQUNYbkI0NmFzTE5ZQWtSX09oWV9TbkJwMVc3dTByTDhMUThia19KWXdYV3BZQXhBSlJLSG43b0hnWkdseGdZTkYxaUhQQQ?oc=5",
       "fecha": "Mon, 06 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJJX2FEZzF2ZXBOSFdhSWlsZVJjeVlDS2habnVXMXZKVG11ei1FcmdvaGIyaHpQTWkxWU9SNmwzODNXblVGbUVYTFd2aXRhSy1SMG10Y3AxMTdXOHhfMXEzc0I3ZnFvZXRPOUtFQUI4OFRfcWUxS3NEcF9HMVVyZEwtZ0tOdXF2bVFHdjlHZEJ4VkpyaUs0YkFXVTRzWFZBQmZfaVpfQUdSV09ONlRXYlpTZWs4a1dWTjVHQ3RuLWFyZTdTSEpB0gHMAUFVX3lxTE1GZDFiSEFtbHd6bjBROUhtd25lTGo2cTBLVEZScEhGUldkSmQwU3d5R1B5WENNUEhNanI5UU5MQ19VYTZuX0IyS3U4S25Td2M3Q2JmUVgxbnhZTVlORmhhdVlkSi1TS2d5YTdxbGZfNVhIcVRHUXVkRjJacFZhMllYdHJWTUVxVHlVUVExekhsYzIwdlRwM3R4NDN2LVJGMk1HUzZPRVRwUXpoU2hiUEF3dENJMFRKOXB4WFZhWG52NDM0WmsyaWsxSGdPeA?oc=5",
+      "fecha": "Wed, 07 Oct 2026 07:00:00 GMT"
     }
   ]
 }
