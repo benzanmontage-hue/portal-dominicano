@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T09:23:56.005538-04:00",
-  "hora": "09:23",
+  "updated": "2026-11-12T09:44:20.839649-04:00",
+  "hora": "09:44",
   "fecha": "12/11/2026",
   "total": 12,
   "eventos": [
@@ -47,12 +47,6 @@
       "fecha": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "titulo": "Los mejores conciertos para disfrutar este fin de semana en República Dominicana: fechas y escenarios - Revista Mercado",
-      "fuente": "Revista Mercado",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1RPbHFnQzdwWmo1MFdsWU1zNkJtQ1habjk4MzJPaTY1bERLbDVQekdCZlZDV3FoTzB4RTdGV0h2aG5leWRZLWp2WmpTalpfUXdKTGhsQ1NHellfN1hoYTVmbEVpdTNsaXNkQXZSWDNXSWVaWHpLdk5LX1RDajV4LVl3aFgxelVFZ3ZnVEp2UXY3MkcwNEFyNmNPZXAyMXFhSVJVZkZlbnZoZVo4VkhUUlR2QmEzeUhCZ1NLNDFMc19ob2FWT2tsNEJQWmdhZ04wWnRGTEZCbw?oc=5",
-      "fecha": "Thu, 30 Jul 2026 07:00:00 GMT"
-    },
-    {
       "titulo": "Don Omar cancela conciertos por problemas de salud tras recaída respiratoria - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjJTWV9jOU5oRExMY0F2SVpGX080RnZNMG1rcGhjaWY1bVk4M25IRThxcm9VT1ZIUk8yRkVUQlltTUNMLWdJZEVRRURtSTR1X0g1a3dpdWVtWkpscU5GcXYzdUdxbEdtdFF1MEk1eHI2Nkp1VWJsaXV6MFJOUXFFc0lLa2xudTZfZUpLajdlczRPbGZQLWFWV1F1VW43U25kMHRkMWwxSXI2THBkRTJCUWFnd3lJNTDSAbwBQVVfeXFMUGZMdXdxNUp4T1RCc3hwRG9WTmJ0QjVoajVuRWt1M1h1Q1hYaXdYa3hFOVFiT2VwVlQ1ejlBa3FCbkFIWGM5T1pMYkxoMlpDenh0X2xyQ3YtYThUQU1ZNTNabzZPV0tSM0dhRXFVN1Bob3FrXzV5c0VNblJXY29JTEl2X2t6dEFPOXRmNzFmRGxhRXdGOWVRblQ0LTBuWkhsajNBZkRldjFpbUk3LTE4a01KZzB6SG9iUVk0NlM?oc=5",
@@ -69,6 +63,12 @@
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlNYOVNVUk5nbGFnWDNrcDFNWW1iaE1yLVJtVUwzVWZpTkZVRXRPeHVGZjF0a2g0OFFodDk2UWpxNUhBbzBCbTN0MjZSdUM1cXVEZzNQMVBPaFRUdVpPcjIzTmtLa1Bxbl9fcFZwcVN5TFN4SkxERC11bFRmRWhGVXo3S3gwbFZuYmtBaDV2S0VVbm9RbTFLVWlydU92Nkc4YlRDX01CV3RLSFZHU3djUk9kMDl0UjZWLS1VWnFiR2YzUVdBWk1hWWtwQWo2RXVtM2hUTm1n0gHWAUFVX3lxTFBCU1g5U1VSTmdsYWdYM2twMU1ZbWJoTXItUm1VTDNVZmlORlVFdE94dUZmMXRraDQ4UWh0OTZRanE1SEFvMEJtM3QyNlJ1QzVxdURnM1AxUE9oVFR1Wk9yMjNOa0trUHFuX19wVnBxU3lMU3hKTERELXVsVGZFaEZVejdLeDBsVm5ia0FoNXZLRVVub1FtMUtVaXJ1T3Y2RzhiVENfTUJXdEtIVkdTd2NST2QwOXRSNlYtLVVacWJHZjNRV0FaTWFZa3BBajZFdW0zaFRObWc?oc=5",
       "fecha": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Juan Luis Guerra recibe reconocimiento en República Dominicana antes de dos conciertos históricos - El Universo",
+      "fuente": "El Universo",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1p3VDV4eE5xSVoya1FkcElIR1ROdTU3NVV4eW9pRmNOYTlQejVwTjd5Ynd6bmxSN3E2U3ZJa3JkSUQxUDVldFFpaWtmS0stNlJ3VzlKNVB2d0dKVVBBVk95TXFRcUw4QW04ZFBKVU4taFV4LXI2NVYxdWVmYVUtTkMwTjAxbVlFN2FwS01QdXd3aGFYODA0ektXRWNocm5NZjFIQ1hVZE94YzJlX1Z6OXY3Zk1HZXhEbU4tam5xa3E4SER5N09wekYyRWFJZzhFd0J2VjM1YWRqUXhvbmFZN3RJZUdtUGPSAfsBQVVfeXFMTTVzcklmd0NJTzVZVm9lZ0JfR3BiYURCalItb19HZ3BBM0JUWEswWmdNWXlKak5hS1JwdjZSWmdHcWNDMmotenpwZ1U0LU5faG81WjVabzUtQWZTZGVTM0ZER0k3alNpRXVaU2M1NEtwVTFpUnJFUlRYMTFuajM5Y0M5NUR1NHJoMjMxSnZtYU1IZWwtNEZzLThiSWF2cEJLM0RWMWtUaF9aYUpjUkJ0ZzZXQ294ZkFpWTRUTU1PbTlfYlF1dUVyNTFZcFJhbkluQlRobTFjMVpsbWNWcnRnUDQ1M3NRY0pxdzdzSzd3VUJpVHNNdFJpc2ZpM0U?oc=5",
+      "fecha": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
       "titulo": "Soy Luna regresa a República Dominicana con un concierto en octubre - Listín Diario",
