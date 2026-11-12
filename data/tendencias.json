@@ -1,34 +1,48 @@
 {
-  "updated": "2026-11-12T16:54:39.609560-04:00",
-  "hora": "16:54",
+  "updated": "2026-11-12T17:15:01.393856-04:00",
+  "hora": "17:15",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "czechia vs spain",
+      "trafico": "100+",
+      "noticia": "Licensable picture: UEFA Nations League - Group A3 - Czech Republic v Spain",
+      "enlace": "https://www.reutersconnect.com/item/uefa-nations-league-group-a3-czech-republic-v-spain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkMxTEdYNVY",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjnf7lnBy-ODDtopOBLpSv2qZJJ0_Q6s-0qSfI_Fxl7gtXcNY91ueR1PkneHc"
+    },
+    {
       "termino": "banco popular",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "La IA gana terreno en el sector financiero nacional, 79% de los bancos múltiples ya la utiliza",
       "enlace": "https://listindiario.com/economia/20261111/ia-gana-terreno-sector-financiero-nacional-79-bancos-multiples-utiliza_929643.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjOKxZVwIGYvFcHDgtV31mLKzTMcY0r5yK0_fTIycEKBK10r7I52OrSNrNXNw"
     },
     {
+      "termino": "liga de naciones",
+      "trafico": "100+",
+      "noticia": "República Checa - España en directo: ¡El VAR anula el gol de Yeremy! | Última hora de UEFA Nations League en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/uefa-nations-league/republica-checa-espana/2026/11/12/01_0195_20261112_367_118-directo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ01lHc5C9pjXOL1Eu6nK8IVHEHmP294BbERzzvKDUdyTaJ-R6CkBXlpIb9tyc"
+    },
+    {
       "termino": "nations league",
       "trafico": "100+",
-      "noticia": "England vs Croatia LIVE! Nations League Group A3 commentary, updates, score, line-ups",
-      "enlace": "https://www.skysports.com/football/live-blog/13611565/england-vs-croatia-live-nations-league-group-a3-commentary-updates-score-line-ups",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy6uST84SwRn850eFqWOLsiDvVvURDgqltMR7qYrdH6UgRxFRQt8svHcQ88Ec"
+      "noticia": "Turkiye 1-2 Belgium: Comeback win keeps quarter-final hopes alive",
+      "enlace": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/turkiye-1-2-belgium-comeback-win-keeps-quarter-final-hopes-alive-2026-11-12",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWjuoDz46AMwTMYUrIAa_JjqfEvaAt0g2KOxunftqZ8w6SOVjh_3Fy3piZAE"
     },
     {
       "termino": "italie – france",
       "trafico": "200+",
-      "noticia": "Ligue des Nations : les Bleus de Zidane visent la qualification !",
-      "enlace": "https://onefootball.com/fr/news/ligue-des-nations-les-bleus-de-zidane-visent-la-qualification-43768346",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREKMb09uQW6YcuaNUZow_GCynBv0VsJNr13yJkPh2f3jNxIFg5DqzUX0W66CA"
+      "noticia": "DIRECT. Italie-France : Sebastiano Esposito rate son pénalty, les Bleus proches de la correctionnelle ! Suivez le match de Ligue des nations avec nous",
+      "enlace": "https://www.franceinfo.fr/sports/directs/direct-italie-france-qualification-en-vue-pour-les-quarts-de-ligue-des-nations-suivez-et-commentez-le-match-avec-nous_8276066.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVyKSRbwqjN1KGQ-w37RNwS7Pkc0sgfSvqnxA6LILXPneRIRcpB2QZ-hyNczA"
     },
     {
       "termino": "inglaterra - croacia",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "¿Qué necesita Inglaterra para clasificar a los cuartos de final de la UEFA Nations League?",
       "enlace": "https://www.365scores.com/es/news/que-necesita-inglaterra-para-clasificar/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGHSJ1eWGLVvSjZYAx4_kxdphw3bEVx7P82psDKjiOh2TYwm_DZsihn52uR4"
@@ -42,10 +56,10 @@
     },
     {
       "termino": "chequia - españa",
-      "trafico": "1000+",
-      "noticia": "República Checa - España en directo: ¡gol de Álex Baena! | Última hora de UEFA Nations League en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/uefa-nations-league/republica-checa-espana/2026/11/12/01_0195_20261112_367_118-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ01lHc5C9pjXOL1Eu6nK8IVHEHmP294BbERzzvKDUdyTaJ-R6CkBXlpIb9tyc"
+      "trafico": "2000+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
     },
     {
       "termino": "secretaría de educación pública",
@@ -60,20 +74,6 @@
       "noticia": "Team news: One change at Camp Nou",
       "enlace": "https://www.arsenal.com/news/team-news-one-change-at-camp-nou-aqkEx2o6aPUk",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-p0FF5KmW5P4d6GDYfdMzGMYdmOt7xXlMSvtx4XKyByMPFS7XbhGVCYRcZEg"
-    },
-    {
-      "termino": "turquie – belgique",
-      "trafico": "100+",
-      "noticia": "Ligue des Nations : malgré Güler, la Turquie chute contre la Belgique et descend en Ligue B",
-      "enlace": "https://www.footmercato.net/a84088990450180022-ligue-des-nations-malgre-guler-la-turquie-chute-contre-la-belgique-et-descend-en-ligue-b",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQegEkMGRW-fNPpr_2h1h_eLI5RiqtV5Q2OPC3ZIZLqjPl5L0F-HKgIMYwjzQ"
-    },
-    {
-      "termino": "outlook",
-      "trafico": "5000+",
-      "noticia": "Microsoft 365 hit by multi-region connectivity issues amid elevated infrastructure load",
-      "enlace": "https://www.foxbusiness.com/technology/microsoft-365-hit-multi-region-connectivity-issues-amid-elevated-infrastructure-load",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyd-IbQVTpXRzqPMUp2XqLHGSa8l9ZRxV75V6cduMbb6FMKkEbXpXv6k3YIgs"
     }
   ]
 }
