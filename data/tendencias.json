@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T11:46:58.504351-04:00",
-  "hora": "11:46",
+  "updated": "2026-11-12T12:07:24.474146-04:00",
+  "hora": "12:07",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,18 +13,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaW4DV2QaWDX8i-x3Gl9jL-0FOpqvmbncfgQDSpc3FqQnq7yRNVCGA6toLB58"
     },
     {
-      "termino": "nvidia stock",
+      "termino": "nvidia",
       "trafico": "1000+",
-      "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+      "noticia": "NVIDIA Announces CEO Transition",
+      "enlace": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
     },
     {
       "termino": "nayib bukele",
       "trafico": "100+",
-      "noticia": "Quién es Wilson  Lanmò San Jou  Joseph, el poderoso líder pandillero de Haití cuya casa Bukele dice haber destruido",
-      "enlace": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4KAjJQw28C3KMyAxOatG7fJBrYRyvSTFvdquAXwxi5bH_LVuOgwLebUXKbWU"
+      "noticia": "Bukele se arriesga con ofensivo en Haití",
+      "enlace": "https://listindiario.com/las-mundiales/20261112/bukele-arriesga-ofensivo-haiti_929780.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO66SYJJ_SnWaBUgnvYNYB3CU4Z0MeBGROI8w8yDuL2i2q6bh6wbJ1d9KWRlc"
     },
     {
       "termino": "elizabeth gutiérrez",
@@ -36,16 +36,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "What 165 days of record ocean temperatures will mean for extreme winter weather",
-      "enlace": "https://www.washingtonpost.com/weather/2026/11/12/what-165-days-record-ocean-temperatures-will-mean-extreme-winter-weather/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUkr6WRaVx-jnwoiC0dRPt3rfZvpGj0cpXH2TSRrd_M-3N2ZOZEmgoQjiIXG4"
-    },
-    {
-      "termino": "deuda",
-      "trafico": "100+",
-      "noticia": "Camioneros paralizan labores durante 12 horas en reclamo del pago de una deuda de RD$30 millones",
-      "enlace": "https://elnacional.com.do/nacionales/ciudades/camioneros-paralizan-labores-12-horas-reclamo-deuda-rd-30-millones_585933.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZrLgFDi2Ch3Q_sbEnGo9LFF8jO8o2O8R3_BcSG77gcnd56aBRslB3VwYfq7c"
+      "noticia": "Nor’easter ahead: Here’s who has the best chance of accumulating snow",
+      "enlace": "https://weather.com/2026/11/11/forecast/regional/noreaster-first-snow-frost-freeze",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMy9uLSr89MhzOJ122OHTxXsuw0FTzb6mHjtpXVQ-PsbwCAcqsRf-khrtEi4s"
     },
     {
       "termino": "vaguada",
@@ -74,6 +67,13 @@
       "noticia": "Thunder’s Mark Daigneault sounds off on factor that led to second straight loss to Blazers",
       "enlace": "https://sports.yahoo.com/articles/thunder-mark-daigneault-sounds-off-072853825.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWiuT-_tg2LkPMOd-STAg-JSfcJp0yFSqOiu7SjZHaX4PZBBqRKn8XpuFj7g"
+    },
+    {
+      "termino": "sandro mamukelashvili",
+      "trafico": "100+",
+      "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
+      "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
     }
   ]
 }
