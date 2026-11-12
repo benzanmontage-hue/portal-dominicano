@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-12T08:43:05.573734-04:00",
-  "hora": "08:43",
+  "updated": "2026-11-12T09:03:31.007714-04:00",
+  "hora": "09:03",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lori huang",
+      "trafico": "500+",
+      "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+    },
+    {
       "termino": "elizabeth gutiérrez",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "William Levy y Elizabeth Gutiérrez orgullosos de su hijo",
       "enlace": "https://peopleenespanol.com/mensajes-william-levy-elizabeth-gutierrez-primogenito-gran-noticia-futuro-12246512",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrQo7ILVMgAte-PAsSrfeuG96TLlSz6GG5iemi85McdzpW0dfXBvpuall9C7Q"
@@ -15,9 +22,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Catch the latest headlines on Tuesday’s edition of ‘A.M. Extra’",
-      "enlace": "https://www.wibw.com/2026/11/10/catch-latest-headlines-tuesdays-edition-am-extra/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RybNlPX6C9EWxtwmJ_WF_vvVkiPcb3Q9RJdmovBYPGuTcjrKyCcOWa_qAiI"
+      "noticia": "Hamilton ODI abandoned due to rain",
+      "enlace": "https://www.cricbuzz.com/cricket-news/140854/hamilton-odi-abandoned-due-to-rain-cricbuzzcom",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv2JA2OiHlq1ugYqjWRULNe-EO6wmM_USKRTH2H6A8zmeOXVWT9I1VSfr0PhQ"
     },
     {
       "termino": "deuda",
@@ -34,11 +41,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
     },
     {
+      "termino": "rockets vs. warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
+    },
+    {
+      "termino": "estadísticas de jugadores de partidos de houston rockets contra golden state warriors",
+      "trafico": "100+",
+      "noticia": "Cleveland Cavaliers vs. New York Knicks Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_CLE@NY/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgKEz7T8oy9G2eMiQEdMYg84Ne3wt6HBcjamSJ_6hD37GjdSygj3HEHCSf_CU"
+    },
+    {
       "termino": "melvin lopez",
       "trafico": "500+",
       "noticia": "Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez",
       "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/12/fallece-el-dirigente-de-baloncesto-melvyn-lopez/3718228",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdZgCkYU_PBxX_mAinD_DtF71ZEL2QtJOtsXJKpmVh0gIR96CzlCxNfrtFVn4"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRctrUY0njdGl6shEtoQNXJ-Pni4WxQ2uf_aZ5XXYRTV2s9yMBIf6q8Msf8ZPM"
     },
     {
       "termino": "trail blazers - thunder",
@@ -53,27 +74,6 @@
       "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
       "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
-    },
-    {
-      "termino": "tabla de posiciones",
-      "trafico": "200+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
-    },
-    {
-      "termino": "rockets - warriors",
-      "trafico": "5000+",
-      "noticia": "Stephen Curry hurts abdomen, heads for MRI with Warriors  concern level  high",
-      "enlace": "https://www.espn.com/nba/story/_/id/50458218/curry-exits-vs-rockets-ruled-abdominal-soreness",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4L0iwY6ErSiPcLr-SU4PDd_FVQoQSo-TNxuhCSLd5ti4yGPjX34Uzv6K_2lw"
-    },
-    {
-      "termino": "bulls - spurs",
-      "trafico": "500+",
-      "noticia": "San Antonio Spurs vs. Chicago Bulls Live Score and Stats - November 11, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_SA@CHI/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIII6dr_1fy7FVAl2y8pmbKCx0TsNWlQn0KYvDc3Y63GRWt_5a8THYHEDK2oE"
     }
   ]
 }
