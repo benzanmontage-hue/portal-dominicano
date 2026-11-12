@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-12T14:31:57.907837-04:00",
-  "hora": "14:31",
+  "updated": "2026-11-12T14:52:19.212988-04:00",
+  "hora": "14:52",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "real",
-      "trafico": "500+",
-      "noticia": "From Ballon d Or hopes to Real Madrid bench: Should Liverpool re-sign Trent Alexander-Arnold?",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8no0ungqUPOQp1IVaoT9LOXDaA6SuqHI1vcOpk-nxJYzEayXneh4rd7I5xk"
+      "termino": "microsoft",
+      "trafico": "100+",
+      "noticia": "Thousands of users reporting issues with Microsoft Outlook, 365",
+      "enlace": "https://www.usatoday.com/story/tech/2026/11/12/microsoft-down-outlook-365-outage-reports/92744582007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYPJEzSZn02WamSQLgRyUSvj_OWyIuM75jTNEc8CRbi_7c7ljGfYhrkxRoX5s"
+    },
+    {
+      "termino": "barcelona - arsenal",
+      "trafico": "100+",
+      "noticia": "Team news: One change at Camp Nou",
+      "enlace": "https://www.arsenal.com/news/team-news-one-change-at-camp-nou-aqkEx2o6aPUk",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-p0FF5KmW5P4d6GDYfdMzGMYdmOt7xXlMSvtx4XKyByMPFS7XbhGVCYRcZEg"
+    },
+    {
+      "termino": "turquie – belgique",
+      "trafico": "100+",
+      "noticia": "Pronostic Turquie - Belgique – Ligue des nations (12/11)",
+      "enlace": "https://onefootball.com/fr/paris-sportif/pronostics/turquie-vs-belgique-12-11-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoR5MZr-tkbi_DKC8rHfKyXc36o1_TRSLjCyk224Gl2RKm_otY73VaEm30kc"
     },
     {
       "termino": "melvyn lópez",
@@ -20,11 +34,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnU_xGG44buXLltWo4ZJk2tBEpaigf-BY3sSFJFusGtaL3TVhaQXtghcG7Y6E"
     },
     {
+      "termino": "real",
+      "trafico": "500+",
+      "noticia": "From Ballon d Or hopes to Real Madrid bench: Should Liverpool re-sign Trent Alexander-Arnold?",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8no0ungqUPOQp1IVaoT9LOXDaA6SuqHI1vcOpk-nxJYzEayXneh4rd7I5xk"
+    },
+    {
       "termino": "turquía - bélgica",
       "trafico": "500+",
-      "noticia": "¿Por qué no ataja Thibaut Courtois hoy en Bélgica vs Turquía por la UEFA Nations League?",
-      "enlace": "https://www.365scores.com/es/news/por-que-no-ataja-courtois-vs-turquia/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZwVzQzMpFx7tP8wE9j2SCKb6JfPUiAoYHCj9ZdtYp4UuS_QvirLO6aGiKN9c"
+      "noticia": "En vídeo: desde el centro del campo, ¡un gol milagroso de Güler en la portería de Bélgica!",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/v%C3%ADdeo-centro-campo-gol-milagroso-180729856.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR3GuUsHPiqGExuzUOvX1STImfcyfF8u2HB7K7-zik_UXAvK7CguO-VP056xI"
     },
     {
       "termino": "ministro de educación",
@@ -53,27 +74,6 @@
       "noticia": "¿Madre e hija o hermanas? ¡Elizabeth Gutiérrez y Kailey Levy deslumbran en la alfombra roja!",
       "enlace": "https://peopleenespanol.com/elizabeth-gutierrez-kailey-levy-deslumbran-alfombra-roja-12250356",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc8QsuM0q4HCQD_1bfgsynu9K7pf8J3CqZ9rzhjqwhSzRclQ1qB35TMMlJvrw"
-    },
-    {
-      "termino": "weather",
-      "trafico": "500+",
-      "noticia": "Storms could turn severe ahead of blast of cold air",
-      "enlace": "https://www.nbcphiladelphia.com/video/weather/video-weather/storms-could-turn-severe-ahead-of-blast-of-cold-air/4496260/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFg3-d_xDBVp-pqjXcnKUDA5aPOcUsWS8d4MDdxVrnbitovAaxt82GUdydq40"
-    },
-    {
-      "termino": "vaguada",
-      "trafico": "200+",
-      "noticia": "¿Lloverá en tu provincia? Indomet revela las zonas que serán afectadas este jueves",
-      "enlace": "https://elnacional.com.do/nacionales/llovera-provincia-indomet-revela-zonas-seran-afectadas-jueves_585997.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
-    },
-    {
-      "termino": "rockets vs. warriors",
-      "trafico": "100+",
-      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
     }
   ]
 }
