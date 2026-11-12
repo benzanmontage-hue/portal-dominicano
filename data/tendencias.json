@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-12T07:19:44.836940-04:00",
-  "hora": "07:19",
+  "updated": "2026-11-12T07:40:25.835411-04:00",
+  "hora": "07:40",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "deuda",
+      "trafico": "100+",
+      "noticia": "Camioneros paralizan labores durante 12 horas en reclamo del pago de una deuda de RD$30 millones",
+      "enlace": "https://elnacional.com.do/nacionales/ciudades/camioneros-paralizan-labores-12-horas-reclamo-deuda-rd-30-millones_585933.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZrLgFDi2Ch3Q_sbEnGo9LFF8jO8o2O8R3_BcSG77gcnd56aBRslB3VwYfq7c"
+    },
     {
       "termino": "vaguada",
       "trafico": "200+",
@@ -43,9 +50,9 @@
     {
       "termino": "rockets - warriors",
       "trafico": "5000+",
-      "noticia": "Golden State Warriors vs. Houston Rockets Live Score and Stats - November 11, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_GS@HOU/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTOcffCvt0iSr2JPsLIVmNIFteTdx2y-8kBBItrSncPkYlNJT_iUQeMTqp2K8"
+      "noticia": "Stephen Curry exits with injury, following viral defense of wife Ayesha",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2033869/stephen-curry-injury-update-wife-incident-golden-state-warriors-nba/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF4WWHUm_1FaSorObd702rahlG9JbRKtGLtWshEThJYt3GxOHiPAPiukgcY-w"
     },
     {
       "termino": "bulls - spurs",
@@ -67,13 +74,6 @@
       "noticia": "Los Angeles Lakers vs. Milwaukee Bucks Live Score and Stats - November 11, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_LAL@MIL/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRK9ZwyT4xQxhEZA2bYfpDD4FRboEhwBB-2je0neSH7ToO57i5EKURzEyj5L8"
-    },
-    {
-      "termino": "one mall",
-      "trafico": "200+",
-      "noticia": "Obras Públicas destruye comercio chino que siguió construcción pese a advertencias",
-      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/11/destruyen-plaza-one-mall-por-construccion-ilegal-segun-obras-publicas/3717854",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm_40DuVouWRrEOCO1vYecmzNGhiM_dOwzooTbmQhYVtFslhmf2zWV6Lwjq_Q"
     }
   ]
 }
