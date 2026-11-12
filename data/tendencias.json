@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-12T14:52:19.212988-04:00",
-  "hora": "14:52",
+  "updated": "2026-11-12T15:12:44.608653-04:00",
+  "hora": "15:12",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "microsoft",
-      "trafico": "100+",
-      "noticia": "Thousands of users reporting issues with Microsoft Outlook, 365",
-      "enlace": "https://www.usatoday.com/story/tech/2026/11/12/microsoft-down-outlook-365-outage-reports/92744582007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYPJEzSZn02WamSQLgRyUSvj_OWyIuM75jTNEc8CRbi_7c7ljGfYhrkxRoX5s"
+      "termino": "chequia - españa",
+      "trafico": "200+",
+      "noticia": "España: Alineaciones vs Chequia y qué debes saber",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17502092/espana-alineaciones-vs-chequia-uefa-nations-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZb8xIGxycN93bahuCBux8OZP-xKAsuNKcTaOHoMLJUz_WTTGmz1vHCeVuF0"
     },
     {
       "termino": "barcelona - arsenal",
@@ -27,11 +27,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoR5MZr-tkbi_DKC8rHfKyXc36o1_TRSLjCyk224Gl2RKm_otY73VaEm30kc"
     },
     {
+      "termino": "outlook",
+      "trafico": "2000+",
+      "noticia": "Is Microsoft Outlook down? Thousands report issues with platform",
+      "enlace": "https://www.abc10.com/article/news/nation-world/is-microsoft-outlook-down-issues-reported-thursday/507-c4b3db9a-24e9-4c76-a414-28aa084c18f8",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHWRq4MglG9UtQRxq5Fyvj00bEtsM2Ll7W7Z6CVL0kEitlBdyKsVZvrkSGieU"
+    },
+    {
       "termino": "melvyn lópez",
       "trafico": "500+",
-      "noticia": "Fallece Melvyn López, uno de los entrenadores más laureados del baloncesto dominicano",
-      "enlace": "https://acento.com.do/deportes/fallece-melvyn-lopez-uno-de-los-entrenadores-mas-laureados-del-baloncesto-dominicano-9788411.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnU_xGG44buXLltWo4ZJk2tBEpaigf-BY3sSFJFusGtaL3TVhaQXtghcG7Y6E"
+      "noticia": "Melvyn López será velado este jueves y sepultado el viernes en el Cementerio Cristo Redentor",
+      "enlace": "https://elnuevodiario.com.do/melvyn-lopez-sera-velado-este-jueves-y-sepultado-el-viernes-en-el-cementerio-cristo-redentor/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-oe7adaAQzx_Vqgh93qAPGkQbnzKnmM2vYoiTTOUZ7J97h1RVVms8P-zrK0"
     },
     {
       "termino": "real",
@@ -67,13 +74,6 @@
       "noticia": "Bukele se arriesga con ofensivo en Haití",
       "enlace": "https://listindiario.com/las-mundiales/20261112/bukele-arriesga-ofensivo-haiti_929780.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO66SYJJ_SnWaBUgnvYNYB3CU4Z0MeBGROI8w8yDuL2i2q6bh6wbJ1d9KWRlc"
-    },
-    {
-      "termino": "elizabeth gutiérrez",
-      "trafico": "1000+",
-      "noticia": "¿Madre e hija o hermanas? ¡Elizabeth Gutiérrez y Kailey Levy deslumbran en la alfombra roja!",
-      "enlace": "https://peopleenespanol.com/elizabeth-gutierrez-kailey-levy-deslumbran-alfombra-roja-12250356",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc8QsuM0q4HCQD_1bfgsynu9K7pf8J3CqZ9rzhjqwhSzRclQ1qB35TMMlJvrw"
     }
   ]
 }
