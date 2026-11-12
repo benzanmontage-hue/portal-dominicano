@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T17:35:29.005246-04:00",
-  "hora": "17:35",
+  "updated": "2026-11-12T17:55:52.202372-04:00",
+  "hora": "17:55",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -9,8 +9,15 @@
       "termino": "italy vs france",
       "trafico": "100+",
       "noticia": "Licensable picture: Italy v France - UEFA Nations League 2026/27 Group A1 MD5",
-      "enlace": "https://www.reutersconnect.com/item/italy-v-france-uefa-nations-league-202627-group-a1-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMERLUlkzWg",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdIvkRz6g-7biaR-6BrdZZR7GYv7O1f3Ha251gL8WjL5h52oqvaBw2_FSTueY"
+      "enlace": "https://www.reutersconnect.com/item/italy-v-france-uefa-nations-league-202627-group-a1-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMERLUlA1Mg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIl4ZlMGUA9PKD7u8VUsATfyfVzBCO2bTvnXVFnc02DgbYraBxpR7zhyKD_y8"
+    },
+    {
+      "termino": "angleterre – croatie",
+      "trafico": "100+",
+      "noticia": "Angleterre-Croatie : Rogers débloque une première période longtemps fermée (1-0)",
+      "enlace": "https://africafootunited.com/angleterre-croatie-rogers-debloque-une-premiere-periode-longtemps-fermee-1-0/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmfkvsgapfWnWWXV7lA4TgF_Y-bgb6nEygiD4maQMUTow1smegDckZ7WJ0l0"
     },
     {
       "termino": "czechia vs spain",
@@ -28,31 +35,31 @@
     },
     {
       "termino": "liga de naciones",
-      "trafico": "100+",
-      "noticia": "República Checa - España en directo: ¡El VAR anula el gol de Yeremy! | Última hora de UEFA Nations League en vivo hoy",
+      "trafico": "200+",
+      "noticia": "República Checa - España en directo: ¡gol de Marc Pubill! | Última hora de UEFA Nations League en vivo hoy",
       "enlace": "https://www.marca.com/futbol/uefa-nations-league/republica-checa-espana/2026/11/12/01_0195_20261112_367_118-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ01lHc5C9pjXOL1Eu6nK8IVHEHmP294BbERzzvKDUdyTaJ-R6CkBXlpIb9tyc"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcrkaxx9aIP8UH6lBh8z1hjaUqxsmcVPNa0G_0l3gim-1at0ZU6158gX_AD2M"
     },
     {
       "termino": "nations league",
       "trafico": "200+",
-      "noticia": "Turkiye 1-2 Belgium: Comeback win keeps quarter-final hopes alive",
-      "enlace": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/turkiye-1-2-belgium-comeback-win-keeps-quarter-final-hopes-alive-2026-11-12",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWjuoDz46AMwTMYUrIAa_JjqfEvaAt0g2KOxunftqZ8w6SOVjh_3Fy3piZAE"
+      "noticia": "Turkey vs Belgium live: TV, live stream   kick-off time | UEFA Nations League",
+      "enlace": "https://www.goal.com/en/news/watch-turkey-vs-belgium-live-today-who-is-showing-or-broadcasting-the-match-on-tv-and-via-live-stream/bltee099603e635e6fc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSk53f6vIYpcNnWj2FDLKdzK03RpmUp0ycQzeLAcEc6YsyBmsoZKMMuOtwWr8"
     },
     {
       "termino": "italie – france",
-      "trafico": "200+",
-      "noticia": "DIRECT. Italie-France : sur un pénalty de Pio Esposito, la Squadra Azzurra fait le break ! Suivez le match de Ligue des nations avec nous",
-      "enlace": "https://www.franceinfo.fr/sports/directs/direct-italie-france-qualification-en-vue-pour-les-quarts-de-ligue-des-nations-suivez-et-commentez-le-match-avec-nous_8276066.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlTeNnqDgeNL9vs90S1C5EMAk_Q3qMoIujfygDcqCxaGtMdT1fa7NweySxX0"
+      "trafico": "500+",
+      "noticia": "Italie - France : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match gratuitement",
+      "enlace": "https://www.dazn.com/fr-FR/news/football/italie-france-direct-video-streaming-chaine-tv-a-quelle-heure-et-comment-regarder-le-match-gratuitement/1n7650kkcs9m61nmo46m94io91",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPqWZm_CcsVl1xL6I1Fa_zWQyWaUz4Sey6yxDYP2FHwE96nM0XudrhFI8uCFE"
     },
     {
       "termino": "inglaterra - croacia",
       "trafico": "1000+",
-      "noticia": "¿A qué hora es el partido Inglaterra vs Croacia y cómo verlo en TV y streaming online?",
-      "enlace": "https://www.si.com/es-us/a-que-hora-es-el-partido-inglaterra-vs-croacia-y-como-verlo-en-tv-y-streaming-online-12-11-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsPH65E632AH0LRRSb8nEh-FDdaDztKlB4o7JzZGETqJUcV4FJGYz-Hn1Ylw"
+      "noticia": "¿Qué necesita Inglaterra para clasificar a los cuartos de final de la UEFA Nations League?",
+      "enlace": "https://www.365scores.com/es/news/que-necesita-inglaterra-para-clasificar/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGHSJ1eWGLVvSjZYAx4_kxdphw3bEVx7P82psDKjiOh2TYwm_DZsihn52uR4"
     },
     {
       "termino": "italia - francia",
@@ -67,13 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "secretaría de educación pública",
-      "trafico": "500+",
-      "noticia": "Megapuente de noviembre 2026: ¿Qué días no se trabaja ni hay clases por el aniversario de la Revolución Mexicana?",
-      "enlace": "https://www.marca.com/mx/actualidad/sociedad/2026/11/12/megapuente-noviembre-2026-dias-trabaja-hay-clases-aniversario-revolucion-mexicana.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1Q0dezhHwG3BvG3GQx3jF2_4NNy5NVf89ECIXAEnUWUPw1Gsb090kkBD5rQc"
     }
   ]
 }
