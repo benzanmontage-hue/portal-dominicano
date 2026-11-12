@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-11T21:53:15.443373-04:00",
-  "hora": "21:53",
+  "updated": "2026-11-11T22:15:31.121703-04:00",
+  "hora": "22:15",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "rockets - warriors",
+      "trafico": "200+",
+      "noticia": "Stephen Curry and Kevin Durant continue to impact the game before their 41st matchup",
+      "enlace": "https://www.nba.com/news/stephen-curry-kevin-durant-41st-matchup",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUcmdqtFA6JC7O6_TKNYc3FgnDRamj1bG-NqLyns8RUhpvY3xUB53w4wA96_Y"
+    },
     {
       "termino": "bulls - spurs",
       "trafico": "200+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "bucks - lakers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Luka Doncic, Lakers look to extend six-game streak against Bucks",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-look-to-extend-six-game-streak-against-bucks/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
@@ -36,9 +43,9 @@
     {
       "termino": "raptors - celtics",
       "trafico": "200+",
-      "noticia": "11/11 Game Preview: Celtics at Raptors",
-      "enlace": "https://www.nba.com/celtics/news/gamepreview-20261111-bostor",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4g5CfwdwMSv5kAodeRW-nWBy8O4eUMeFmsy3YWiCtyzZJAoqKd9C5txFyp3g"
+      "noticia": "THE SHOOTAROUND with Derek Cornelius and WatsWitAndy | Raptors vs Celtics Nov 11",
+      "enlace": "https://bvmsports.com/2026/11/11/the-shootaround-with-derek-cornelius-and-watswitandy-raptors-vs-celtics-nov-11/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa3qOc5na5cHzVRdSgwqxYky7ganqETsnrNmDjQjnUDiC1wnviuZ-S5Jo-TLk"
     },
     {
       "termino": "knicks - cavaliers",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "marileidy paulino",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Marileidy Paulino queda quinta y fuera de las finalistas a Atleta del Año de World Athletics",
       "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/11/11/marileidy-paulino-queda-fuera-de-las-finalistas-de-world-athletics/3717697",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBY7TjroVsHFxc33TJKVFzLkugEP51ikv1wa8R2_jkjr6C7u3kFNYnn-homPg"
-    },
-    {
-      "termino": "frontera entre haití y la república dominicana",
-      "trafico": "2000+",
-      "noticia": "Ejército dice que todo se encuentra normal en la frontera entre RD y Haití",
-      "enlace": "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTukFVAUWZ129sUtZPQparT5AclRSti6VbTKiDSmOT_9624RQjMSXb_KwHabxY"
     }
   ]
 }
