@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-12T15:33:06.750376-04:00",
-  "hora": "15:33",
+  "updated": "2026-11-12T15:53:31.192522-04:00",
+  "hora": "15:53",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "italia - francia",
+      "termino": "inglaterra - croacia",
       "trafico": "200+",
+      "noticia": "¿Qué necesita Inglaterra para clasificar a los cuartos de final de la UEFA Nations League?",
+      "enlace": "https://www.365scores.com/es/news/que-necesita-inglaterra-para-clasificar/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGHSJ1eWGLVvSjZYAx4_kxdphw3bEVx7P82psDKjiOh2TYwm_DZsihn52uR4"
+    },
+    {
+      "termino": "italia - francia",
+      "trafico": "500+",
       "noticia": "La selección de Italia recibe a Francia sin Mbappé por la Liga de Naciones este jueves; ¿a qué hora y dónde ver el partido? | El Colombiano",
       "enlace": "https://www.elcolombiano.com/deportes/futbol/partidos-liga-de-naciones-italia-francia-espana-chequia-inglaterra-croacia-hora-y-donde-verlos-IK43494873",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPDEs9LolscBIcUz5njvKLKwnjGau42hXN62GK9omoZDpmjDksVgc2S2_hzXk"
@@ -21,7 +28,7 @@
     },
     {
       "termino": "barcelona - arsenal",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Team news: One change at Camp Nou",
       "enlace": "https://www.arsenal.com/news/team-news-one-change-at-camp-nou-aqkEx2o6aPUk",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-p0FF5KmW5P4d6GDYfdMzGMYdmOt7xXlMSvtx4XKyByMPFS7XbhGVCYRcZEg"
@@ -36,16 +43,16 @@
     {
       "termino": "outlook",
       "trafico": "2000+",
-      "noticia": "Outlook Outage: Microsoft’s Email Service Goes Down Nationwide",
-      "enlace": "https://variety.com/2026/digital/news/outlook-outage-microsoft-email-down-1236946411/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDU6ywZaSWd4Wh4PoyWquGKFtaXmpwmkma_Yg9KwMSZ-X1NCg_D4wS_0eHO9U"
+      "noticia": "Is Microsoft Outlook down? Company investigates error reports from users",
+      "enlace": "https://www.nbcchicago.com/news/local/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4015769/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3yXDNVH4b5CTc02rHVJAJ_BmVUvi8_eZjtVoQe55Gb9cdUUg1NMFQv6xm8c"
     },
     {
       "termino": "melvyn lópez",
       "trafico": "500+",
-      "noticia": "Fedombal declara dos días de duelo por el fallecimiento de Melvin López",
-      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261112/fedombal-declara-dos-dias-duelo-fallecimiento-melvin-lopez_929858.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHkK4iP1USYsPemQpUxABdqgAZG7ARCM2mZRd-fp9HaFdz0y_68p3cXydfRtg"
+      "noticia": "Club Mauricio Báez resalta grandes valores y entrega de Melvyn López a favor de la juventud y la niñez",
+      "enlace": "https://elnacional.com.do/deportes/club-mauricio-baez-resalta-grandes-valores-entrega-melvyn-lopez-favor-juventud-ninez_586038.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjEZ0dstDvjDQr132z0sDsU_usx45psme1QXKvd2IgQlOh3aHb53bY3G1RHI"
     },
     {
       "termino": "real",
@@ -67,13 +74,6 @@
       "noticia": "Ministro de Educación destaca importancia de preparar a la juventud para el empleo",
       "enlace": "https://elnacional.com.do/nacionales/ministro-educacion-destaca-importancia-preparar-juventud-empleo_586010.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaW4DV2QaWDX8i-x3Gl9jL-0FOpqvmbncfgQDSpc3FqQnq7yRNVCGA6toLB58"
-    },
-    {
-      "termino": "nvidia",
-      "trafico": "2000+",
-      "noticia": "NVIDIA Announces CEO Transition",
-      "enlace": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
     }
   ]
 }
