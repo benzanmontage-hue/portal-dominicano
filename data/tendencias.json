@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T14:11:34.150671-04:00",
-  "hora": "14:11",
+  "updated": "2026-11-12T14:31:57.907837-04:00",
+  "hora": "14:31",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "real",
       "trafico": "500+",
-      "noticia": "Donanemab Shows Manageable Safety Profile in Real-World Multicenter Chinese Alzheimer’s Cohort",
-      "enlace": "https://bioengineer.org/donanemab-shows-manageable-safety-profile-in-real-world-multicenter-chinese-alzheimers-cohort/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgXJ5gdC3iirHOVKY5y7J9wz88E2LPWsAae-EDqLDHn4HtYtQGmIpUm0kWrzs"
+      "noticia": "From Ballon d Or hopes to Real Madrid bench: Should Liverpool re-sign Trent Alexander-Arnold?",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8no0ungqUPOQp1IVaoT9LOXDaA6SuqHI1vcOpk-nxJYzEayXneh4rd7I5xk"
     },
     {
       "termino": "melvyn lópez",
@@ -28,7 +28,7 @@
     },
     {
       "termino": "ministro de educación",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Ministro de Educación destaca importancia de preparar a la juventud para el empleo",
       "enlace": "https://elnacional.com.do/nacionales/ministro-educacion-destaca-importancia-preparar-juventud-empleo_586010.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaW4DV2QaWDX8i-x3Gl9jL-0FOpqvmbncfgQDSpc3FqQnq7yRNVCGA6toLB58"
@@ -39,13 +39,6 @@
       "noticia": "NVIDIA Announces CEO Transition",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
-    },
-    {
-      "termino": "el apagón mundial",
-      "trafico": "500+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
     },
     {
       "termino": "nayib bukele",
@@ -64,9 +57,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Thanksgiving outlook: Rain, storms and possible snow could disrupt holiday travel plans for millions",
-      "enlace": "https://www.foxweather.com/weather-news/thanksgiving-week-weather-outlook-rain-storms-snow",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYusJ59UfPRpPuK7bSdPYh3W4hdDKMV-qsbWU-LGqEy9mFDlefXMIVTpAhz0"
+      "noticia": "Storms could turn severe ahead of blast of cold air",
+      "enlace": "https://www.nbcphiladelphia.com/video/weather/video-weather/storms-could-turn-severe-ahead-of-blast-of-cold-air/4496260/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFg3-d_xDBVp-pqjXcnKUDA5aPOcUsWS8d4MDdxVrnbitovAaxt82GUdydq40"
     },
     {
       "termino": "vaguada",
@@ -74,6 +67,13 @@
       "noticia": "¿Lloverá en tu provincia? Indomet revela las zonas que serán afectadas este jueves",
       "enlace": "https://elnacional.com.do/nacionales/llovera-provincia-indomet-revela-zonas-seran-afectadas-jueves_585997.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
+    },
+    {
+      "termino": "rockets vs. warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
     }
   ]
 }
