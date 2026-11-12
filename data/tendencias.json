@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-12T13:51:06.089855-04:00",
-  "hora": "13:51",
+  "updated": "2026-11-12T14:11:34.150671-04:00",
+  "hora": "14:11",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "real",
+      "trafico": "500+",
+      "noticia": "Donanemab Shows Manageable Safety Profile in Real-World Multicenter Chinese Alzheimer’s Cohort",
+      "enlace": "https://bioengineer.org/donanemab-shows-manageable-safety-profile-in-real-world-multicenter-chinese-alzheimers-cohort/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgXJ5gdC3iirHOVKY5y7J9wz88E2LPWsAae-EDqLDHn4HtYtQGmIpUm0kWrzs"
+    },
     {
       "termino": "melvyn lópez",
       "trafico": "500+",
@@ -14,10 +21,10 @@
     },
     {
       "termino": "turquía - bélgica",
-      "trafico": "200+",
-      "noticia": "Pronóstico Turquía - Bélgica - Nations League",
-      "enlace": "https://www.sportytrader.es/pronosticos/turquia-belgica-386158/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvft1nIthxor8u96QFBNVlfcbXw90B5F_C-XHt0u2LJWbQTxsvZoNAUkvAdXc"
+      "trafico": "500+",
+      "noticia": "¿Por qué no ataja Thibaut Courtois hoy en Bélgica vs Turquía por la UEFA Nations League?",
+      "enlace": "https://www.365scores.com/es/news/por-que-no-ataja-courtois-vs-turquia/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZwVzQzMpFx7tP8wE9j2SCKb6JfPUiAoYHCj9ZdtYp4UuS_QvirLO6aGiKN9c"
     },
     {
       "termino": "ministro de educación",
@@ -57,9 +64,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Week 10 Tracker: Latest news, notes   roster moves",
-      "enlace": "https://www.giants.com/news/week-10-tracker-latest-news-notes-roster-moves-washington-commanders",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi_MlJhmUDdlMejjEsZDErR6hxgMC0lIZviby4eGc4ScPMEnQj5mN2uFHLwxQ"
+      "noticia": "Thanksgiving outlook: Rain, storms and possible snow could disrupt holiday travel plans for millions",
+      "enlace": "https://www.foxweather.com/weather-news/thanksgiving-week-weather-outlook-rain-storms-snow",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYusJ59UfPRpPuK7bSdPYh3W4hdDKMV-qsbWU-LGqEy9mFDlefXMIVTpAhz0"
     },
     {
       "termino": "vaguada",
@@ -67,13 +74,6 @@
       "noticia": "¿Lloverá en tu provincia? Indomet revela las zonas que serán afectadas este jueves",
       "enlace": "https://elnacional.com.do/nacionales/llovera-provincia-indomet-revela-zonas-seran-afectadas-jueves_585997.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
-    },
-    {
-      "termino": "rockets vs. warriors",
-      "trafico": "100+",
-      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
     }
   ]
 }
