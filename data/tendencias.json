@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-12T00:17:51.230467-04:00",
-  "hora": "00:17",
+  "updated": "2026-11-12T00:38:20.380799-04:00",
+  "hora": "00:38",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "melvin lopez",
+      "trafico": "200+",
+      "noticia": "Fallece Melvín López, el dirigente de baloncesto más ganador de RD",
+      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261111/fallece-melvin-lopez-dirigente-baloncesto-mas-ganador-rd_929815.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWL_o1IZzPg8Af9KhYDth-vrA4h7V-7dgrY7SlYlEX-wlf3w7ZwhcFjGAR1Oo"
+    },
+    {
+      "termino": "sandro mamukelashvili",
+      "trafico": "100+",
+      "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
+      "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
+    },
     {
       "termino": "trail blazers - thunder",
       "trafico": "500+",
@@ -22,9 +36,9 @@
     {
       "termino": "rockets - warriors",
       "trafico": "2000+",
-      "noticia": "Warriors vs. Rockets injury report: Will Richard upgraded to probable",
-      "enlace": "https://www.goldenstateofmind.com/warriors-injury-report/24480999/warriors-rockets-injury-report-will-richard-brandon-williams",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtxJYNg_oTwgf8BNymQg8U6CzD31C-3IKP_ntrD59I_AMd2knedH-38EmYfw"
+      "noticia": "Polymarket promo code CBSSPORTS: Get $25 bonus for Raptors-Celtics, Spurs-Bulls, NBA predictions",
+      "enlace": "https://www.cbssports.com/nba/news/polymarket-promo-code-cbssports-get-25-bonus-raptors-celtics-spurs-bulls-nba-predictions/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc1N3pgRbYNrAxfLu_5nWNnQ17Nx5Il6KQaAs6Fd1CL3L19uUvkkZZtbUzlpg"
     },
     {
       "termino": "bulls - spurs",
@@ -60,20 +74,6 @@
       "noticia": "Celtics rally from 22 down to top Raptors for fifth straight win",
       "enlace": "https://www.cbssports.com/nba/news/celtics-rally-from-22-down-to-top-raptors-for-fifth-straight-win/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
-    },
-    {
-      "termino": "knicks - cavaliers",
-      "trafico": "500+",
-      "noticia": "Knicks seek fifth straight win as struggling Cavaliers visit",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fifth-straight-win-as-struggling-cavaliers-visit/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
-    },
-    {
-      "termino": "new york yankees",
-      "trafico": "100+",
-      "noticia": "Pair of flamethrowers are unanimous Cy Young winners for just 3rd time in history",
-      "enlace": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlssNNalrgECgbq1wtRsVUew0Ju2PJuMOm2_TKoDdlNSx1PYGmJxJUZTWVpPc"
     }
   ]
 }
