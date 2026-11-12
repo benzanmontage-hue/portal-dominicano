@@ -1,16 +1,37 @@
 {
-  "updated": "2026-11-12T00:58:42.466233-04:00",
-  "hora": "00:58",
+  "updated": "2026-11-12T07:19:44.836940-04:00",
+  "hora": "07:19",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "vaguada",
+      "trafico": "200+",
+      "noticia": "Arrastre de la nubosidad traerá lluvias el jueves en al menos 18 provincias",
+      "enlace": "https://elnacional.com.do/nacionales/arrastre-de-la-nubosidad-traera-lluvias-el-jueves-en-al-menos-18-provincias_585902.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm4nlfd6n_8oqMLv86fb37-OMszEqNgoh7O3g9WV-jJ8h3XhWSyGd7aostT6E"
+    },
+    {
+      "termino": "rockets vs. warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
+    },
+    {
       "termino": "melvin lopez",
       "trafico": "200+",
-      "noticia": "Fallece Melvín López, el dirigente de baloncesto más ganador de RD",
-      "enlace": "https://listindiario.com/el-deporte/baloncesto/20261111/fallece-melvin-lopez-dirigente-baloncesto-mas-ganador-rd_929815.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWL_o1IZzPg8Af9KhYDth-vrA4h7V-7dgrY7SlYlEX-wlf3w7ZwhcFjGAR1Oo"
+      "noticia": "Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez",
+      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/12/fallece-el-dirigente-de-baloncesto-melvyn-lopez/3718228",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdZgCkYU_PBxX_mAinD_DtF71ZEL2QtJOtsXJKpmVh0gIR96CzlCxNfrtFVn4"
+    },
+    {
+      "termino": "trail blazers - thunder",
+      "trafico": "200+",
+      "noticia": "OKC Thunder Make Interesting Starting Lineup Decision vs. Portland",
+      "enlace": "https://sports.yahoo.com/articles/okc-thunder-interesting-starting-lineup-024735861.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlSXJXfbcuF_kYljbY9ety4WvK3Ck0ws1by56XZCVNbxeF9N5_u1Nda_8e24M"
     },
     {
       "termino": "sandro mamukelashvili",
@@ -20,32 +41,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
     },
     {
-      "termino": "trail blazers - thunder",
-      "trafico": "500+",
-      "noticia": "Damian Lillard, Trail Blazers seek back-to-back wins over Thunder",
-      "enlace": "https://www.cbssports.com/nba/news/damian-lillard-trail-blazers-seek-back-to-back-wins-over-thunder/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw4JMDZRjt14kdxzrzELRaPUVHyA_LPyMEZ6Z5z1-MPE4bV8sDE77o1Kd2XnA"
-    },
-    {
-      "termino": "stephen curry",
-      "trafico": "500+",
-      "noticia": "Stephen Curry injury: Warriors superstar exits early vs. Rockets with abdominal issue",
-      "enlace": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb7pAXfuaszrD0QPbImejHqPhEJMVsPwCh7wGTKNX14hdaQ14ZYR-jHFZXdug"
-    },
-    {
       "termino": "rockets - warriors",
-      "trafico": "2000+",
-      "noticia": "Warriors vs. Rockets injury report: Will Richard upgraded to probable",
-      "enlace": "https://www.goldenstateofmind.com/warriors-injury-report/24480999/warriors-rockets-injury-report-will-richard-brandon-williams",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtxJYNg_oTwgf8BNymQg8U6CzD31C-3IKP_ntrD59I_AMd2knedH-38EmYfw"
+      "trafico": "5000+",
+      "noticia": "Golden State Warriors vs. Houston Rockets Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_GS@HOU/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTOcffCvt0iSr2JPsLIVmNIFteTdx2y-8kBBItrSncPkYlNJT_iUQeMTqp2K8"
     },
     {
       "termino": "bulls - spurs",
       "trafico": "500+",
-      "noticia": "Spurs erase 22-point deficit to beat Bulls for 10th straight win",
-      "enlace": "https://www.cbssports.com/nba/news/spurs-erase-22-point-deficit-to-beat-bulls-for-10th-straight-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
+      "noticia": "San Antonio Spurs vs. Chicago Bulls Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_SA@CHI/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIII6dr_1fy7FVAl2y8pmbKCx0TsNWlQn0KYvDc3Y63GRWt_5a8THYHEDK2oE"
     },
     {
       "termino": "elisa ramírez",
@@ -57,23 +64,16 @@
     {
       "termino": "bucks - lakers",
       "trafico": "1000+",
-      "noticia": "Luka Doncic leads Lakers past Bucks for seventh straight win",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-leads-lakers-past-bucks-for-seventh-straight-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
+      "noticia": "Los Angeles Lakers vs. Milwaukee Bucks Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261111_LAL@MIL/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRK9ZwyT4xQxhEZA2bYfpDD4FRboEhwBB-2je0neSH7ToO57i5EKURzEyj5L8"
     },
     {
       "termino": "one mall",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Obras Públicas destruye comercio chino que siguió construcción pese a advertencias",
       "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/11/destruyen-plaza-one-mall-por-construccion-ilegal-segun-obras-publicas/3717854",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm_40DuVouWRrEOCO1vYecmzNGhiM_dOwzooTbmQhYVtFslhmf2zWV6Lwjq_Q"
-    },
-    {
-      "termino": "raptors - celtics",
-      "trafico": "500+",
-      "noticia": "Celtics rally from 22 down to top Raptors for fifth straight win",
-      "enlace": "https://www.cbssports.com/nba/news/celtics-rally-from-22-down-to-top-raptors-for-fifth-straight-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
     }
   ]
 }
