@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-11T20:51:17.624322-04:00",
-  "hora": "20:51",
+  "updated": "2026-11-11T21:11:33.710217-04:00",
+  "hora": "21:11",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "bucks - lakers",
+      "trafico": "200+",
+      "noticia": "Luka Doncic, Lakers look to extend six-game streak against Bucks",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-look-to-extend-six-game-streak-against-bucks/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
+    },
+    {
       "termino": "raptors - celtics",
       "trafico": "200+",
-      "noticia": "Celtics at Raptors preview: Boston looks to avoid letdown at Toronto",
-      "enlace": "https://www.bostonglobe.com/2026/11/11/sports/celtics-76ers-preview-november-11-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5qvQVGi2y_4iKSDsadGOudFhjPxSOC1ZDc2-JXnmZ4Y7T-IS78OAnG_PInhs"
+      "noticia": "Raptors Get Concerning Collin Murray-Boyles Update After Career Night",
+      "enlace": "https://heavy.com/sports/nba/toronto-raptors/raptors-collin-murray-boyles-injury-update/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJWyNUbruybtUKsAvTfWeqDPtGKxlHGkf0tnD0OqJLLgY8NfYMIWBdwtCVNo"
     },
     {
       "termino": "knicks - cavaliers",
@@ -22,9 +29,9 @@
     {
       "termino": "new york yankees",
       "trafico": "100+",
-      "noticia": "Here s the case for each Cy Young Award finalist (MLB Network, 7 p.m. ET)",
-      "enlace": "https://www.mlb.com/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMaNBUzQe8S1F5gRweV9KfIQcHXoXsC1Je5oQRMgmDxZwWhrnTlNvQ3Z6JF3Q"
+      "noticia": "This year s Cy Young Award winners are ... (LIVE on MLB Network, MLB+)",
+      "enlace": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzIjqBUUtGiFhrz8_RH-gt9xdWhjzQInK7xyaq0SxreGuVOT3Zv85QEyQCtkU"
     },
     {
       "termino": "seguridad",
@@ -67,13 +74,6 @@
       "noticia": "Fuerte sismo hoy 10 de noviembre en Estados Unidos: epicentro, magnitud y hora",
       "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-10-noviembre-ee-uu-magnitud-epicentro/18681",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOvALpW7-LckFOAvwBcBNC_AtJACeaiKWBH6yUJhiyghs0ghvNmH0y5Wpo9to"
-    },
-    {
-      "termino": "agustín ramírez",
-      "trafico": "1000+",
-      "noticia": "Ramírez guía triunfo de Gigantes con HR en la 11ma",
-      "enlace": "https://www.mlb.com/es/video/agustin-ramirez-conecta-hr-de-dos-carreras-en-la-11ma",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZ5bKLLSou56MoTfkol5LwbA2xe9w1yz63q9u1N_aGuPTwIXZbqj-8OACTZY"
     }
   ]
 }
