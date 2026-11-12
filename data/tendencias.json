@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-12T13:30:28.599523-04:00",
-  "hora": "13:30",
+  "updated": "2026-11-12T13:51:06.089855-04:00",
+  "hora": "13:51",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "melvyn lópez",
+      "trafico": "500+",
+      "noticia": "Fallece Melvyn López, uno de los entrenadores más laureados del baloncesto dominicano",
+      "enlace": "https://acento.com.do/deportes/fallece-melvyn-lopez-uno-de-los-entrenadores-mas-laureados-del-baloncesto-dominicano-9788411.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnU_xGG44buXLltWo4ZJk2tBEpaigf-BY3sSFJFusGtaL3TVhaQXtghcG7Y6E"
+    },
+    {
       "termino": "turquía - bélgica",
       "trafico": "200+",
-      "noticia": "¿Por qué no ataja Thibaut Courtois hoy en Bélgica vs Turquía por la UEFA Nations League?",
-      "enlace": "https://www.365scores.com/es/news/por-que-no-ataja-courtois-vs-turquia/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZwVzQzMpFx7tP8wE9j2SCKb6JfPUiAoYHCj9ZdtYp4UuS_QvirLO6aGiKN9c"
+      "noticia": "Pronóstico Turquía - Bélgica - Nations League",
+      "enlace": "https://www.sportytrader.es/pronosticos/turquia-belgica-386158/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvft1nIthxor8u96QFBNVlfcbXw90B5F_C-XHt0u2LJWbQTxsvZoNAUkvAdXc"
     },
     {
       "termino": "ministro de educación",
@@ -50,9 +57,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "ODOT prepares snowplows for winter in northwest Ohio",
-      "enlace": "https://www.hometownstations.com/2026/11/09/odot-prepares-snowplows-winter-northwest-ohio/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdBG4c0Rw5BJ8gRN-75ODOpKBmZ0rPFLMWp-LSDBPajxeLJKwWGGeDJTlSHOI"
+      "noticia": "Week 10 Tracker: Latest news, notes   roster moves",
+      "enlace": "https://www.giants.com/news/week-10-tracker-latest-news-notes-roster-moves-washington-commanders",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi_MlJhmUDdlMejjEsZDErR6hxgMC0lIZviby4eGc4ScPMEnQj5mN2uFHLwxQ"
     },
     {
       "termino": "vaguada",
@@ -67,13 +74,6 @@
       "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
       "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
-    },
-    {
-      "termino": "melvin lopez",
-      "trafico": "500+",
-      "noticia": "Fallece Melvyn López, uno de los entrenadores más laureados del baloncesto dominicano",
-      "enlace": "https://acento.com.do/deportes/fallece-melvyn-lopez-uno-de-los-entrenadores-mas-laureados-del-baloncesto-dominicano-9788411.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnU_xGG44buXLltWo4ZJk2tBEpaigf-BY3sSFJFusGtaL3TVhaQXtghcG7Y6E"
     }
   ]
 }
