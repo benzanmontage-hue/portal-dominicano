@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T09:44:17.145337-04:00",
-  "hora": "09:44",
+  "updated": "2026-11-12T10:04:46.970361-04:00",
+  "hora": "10:04",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,9 +22,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Potential for nor easter increasing, could bring first snow to millions as cold air sweeps across the East",
-      "enlace": "https://www.foxweather.com/weather-news/late-week-snow-northeast-cold-temperatures-us-november-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRXSFL6HdXgcDpIQWpT6T3Bg5-8XEwILZOj-S_ij3akbbWe_ekJ9Z9lBpuszo"
+      "noticia": "First Alert: Tracking isolated showers, storms   big cooldown",
+      "enlace": "https://www.kfvs12.com/2026/11/11/first-alert-tracking-isolated-showers-storms-big-cooldown/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkLBU8OA2vq4CQN7GW3vTwX2lCsZFO7jMbRzmyUhkUMQG7CPVMH7lHY3awImg"
     },
     {
       "termino": "deuda",
@@ -48,13 +48,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
     },
     {
-      "termino": "estadísticas de jugadores de partidos de houston rockets contra golden state warriors",
-      "trafico": "100+",
-      "noticia": "Golden State Warriors vs. Houston Rockets Live Score and Stats - November 11, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_GS@HOU/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrWvJLKl6OIDlB9KqD-Bldpdy4H9BcVGdR0LIAodURZFroHVV149qLfOro5SM"
-    },
-    {
       "termino": "melvin lopez",
       "trafico": "500+",
       "noticia": "Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez",
@@ -74,6 +67,13 @@
       "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
       "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
+    },
+    {
+      "termino": "tabla de posiciones",
+      "trafico": "200+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     }
   ]
 }
