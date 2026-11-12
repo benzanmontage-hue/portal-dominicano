@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T09:03:31.007714-04:00",
-  "hora": "09:03",
+  "updated": "2026-11-12T09:23:52.449318-04:00",
+  "hora": "09:23",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -41,18 +41,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
     },
     {
-      "termino": "rockets vs. warriors",
-      "trafico": "100+",
-      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
-    },
-    {
       "termino": "estadísticas de jugadores de partidos de houston rockets contra golden state warriors",
       "trafico": "100+",
-      "noticia": "Cleveland Cavaliers vs. New York Knicks Live Score and Stats - November 11, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_CLE@NY/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgKEz7T8oy9G2eMiQEdMYg84Ne3wt6HBcjamSJ_6hD37GjdSygj3HEHCSf_CU"
+      "noticia": "Golden State Warriors vs. Houston Rockets Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_GS@HOU/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrWvJLKl6OIDlB9KqD-Bldpdy4H9BcVGdR0LIAodURZFroHVV149qLfOro5SM"
     },
     {
       "termino": "melvin lopez",
@@ -74,6 +67,13 @@
       "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
       "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
+    },
+    {
+      "termino": "tabla de posiciones",
+      "trafico": "200+",
+      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
+      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     }
   ]
 }
