@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-12T18:59:04.062372-04:00",
-  "hora": "18:59",
+  "updated": "2026-11-12T19:19:25.664421-04:00",
+  "hora": "19:19",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "classement équipe d italie de football – équipe de france de football",
+      "trafico": "500+",
+      "noticia": "Italie 3-1 France, Ligue des nations A : Les Bleus de Zidane tombent en Italie",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/italie-france-live/688712",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnb6_f3Y5TFDLAoAd70hsEyUVy0jHYH74dqPbVz20xWlqw8fT40EYpkoBwcfY"
+    },
+    {
+      "termino": "venezuela",
+      "trafico": "100+",
+      "noticia": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It",
+      "enlace": "https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3RCX2Igamqkm0T9ooo3z7zjrHuELGEKenqo9-MlPva6vnUb42BPY6KE0V2QQ"
+    },
     {
       "termino": "condena",
       "trafico": "100+",
@@ -15,9 +29,9 @@
     {
       "termino": "italy vs france",
       "trafico": "100+",
-      "noticia": "Licensable picture: Soccer 2026: Nations League: Italy 3:1 France",
-      "enlace": "https://www.reutersconnect.com/item/soccer-2026-nations-league-italy-31-france/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYOFRYVlI",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqQ4wJ_iHum8QM5zmB1cO1xe-M9MJmJU_E-vblLO46RFJ8Flcq8dKOk97tl0Y"
+      "noticia": "How Italy players responded when fans booed France’s anthem",
+      "enlace": "https://football-italia.net/italy-players-respond-fans-booed-france-anthem/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyGXlQ0o07xfCH1vq7xLN6peNm0gLDqCEGhuOMPJzkr8FSKZuAhqNL9EjP_MQ"
     },
     {
       "termino": "angleterre – croatie",
@@ -25,6 +39,13 @@
       "noticia": "Devenu le joueur le plus capé de l’histoire de l’Angleterre, Harry Kane a présenté son Ballon d’Or à Wembley",
       "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-angleterre-devenu-le-joueur-le-plus-cape-de-l-histoire-de-l-angleterre-harry-kane-a-presente-son-ballon-d-or-a-wembley/20245411",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvgSwA8bEHWaAFgmrNoE0dx6P_uF0BuJlTiFsxRxfDXZgIUgFpHNW3E96lOaI"
+    },
+    {
+      "termino": "czechia vs spain",
+      "trafico": "200+",
+      "noticia": "Czech Republic vs Spain: UEFA Nations League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "banco popular",
@@ -35,45 +56,24 @@
     },
     {
       "termino": "nations league",
-      "trafico": "500+",
-      "noticia": "Licensable picture: UEFA Nations League - Group A3 - Czech Republic v Spain",
-      "enlace": "https://www.reutersconnect.com/item/uefa-nations-league-group-a3-czech-republic-v-spain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkMxSzIwM1M",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0ONgZZNrcIwsMl7gWVKTgcxink9UPNMoizWYgJF_2lTP4ubIyv7uKaQbZFVM"
-    },
-    {
-      "termino": "italie – france",
-      "trafico": "500+",
-      "noticia": "Italie 3-1 France, Ligue des nations A : Les Bleus de Zidane tombent en Italie",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/italie-france-live/688712",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnb6_f3Y5TFDLAoAd70hsEyUVy0jHYH74dqPbVz20xWlqw8fT40EYpkoBwcfY"
+      "trafico": "200+",
+      "noticia": "Donnarumma’s horror show sparks dismay – and fuels a heated debate",
+      "enlace": "https://www.goal.com/en/news/as-if-he-were-the-twelfth-man-for-the-french-gianluigi-donnarumma-s-horror-display-sparks-dismay-and-fuels-an-explosive-debate/blt5398faea4417c1ff",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYJbqt3SEDJrmQBjzogvdFkFSaUYNS-czr41seOVg94IfYJUslbQuZbUucuPQ"
     },
     {
       "termino": "inglaterra - croacia",
       "trafico": "1000+",
-      "noticia": "Inglaterra 2-1 Croacia: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/internacional/inglaterra-croacia-en-directo-uefa-natios-league-en-vivo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3wUxbOySXEQ_Z-hYro_SpvkYT_nMiT4z5s0BwSFFu1PnWA6ne2gZ7F8xRMyk"
+      "noticia": "Kane amplía récord con Inglaterra, España perfecta e Italia vence a Francia en Liga de Naciones",
+      "enlace": "https://www.seattlepi.com/sports/kane-ampl-a-record-con-inglaterra-espa-a-a22528083",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvm23TJfdVuGjWWAl99H3u9fTIULVOI6qqAg96LwXvRC-jgu4Iw6vo-yUG6FU"
     },
     {
       "termino": "italia - francia",
       "trafico": "2000+",
-      "noticia": "Italia golea a una Francia sin Mbappe en Milán tras comenzar perdiendo",
-      "enlace": "https://acento.com.do/deportes/italia-golea-a-francia-en-milan-tras-ir-perdiendo-9788821.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShGX6MzpjIHCzCBWXDt9bPDXx2qylfscrv-oC4UMybbZuUPCd5x8_Uu7bhBW0"
-    },
-    {
-      "termino": "chequia - españa",
-      "trafico": "2000+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "secretaría de educación pública",
-      "trafico": "1000+",
-      "noticia": "Megapuente de noviembre 2026: ¿Qué días no se trabaja ni hay clases por el aniversario de la Revolución Mexicana?",
-      "enlace": "https://www.marca.com/mx/actualidad/sociedad/2026/11/12/megapuente-noviembre-2026-dias-trabaja-hay-clases-aniversario-revolucion-mexicana.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Cm0fhuWztT_01r-MzMQV5Fk6L4bXdD3fD3LMPfL0TYRu1MDu9e0ls0PqU1M"
+      "noticia": "¡Italia grita Pio, Pio!",
+      "enlace": "https://www.marca.com/futbol/nations-league/cronica/2026/11/12/italia-grita-pio-pio.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT1VfQ6RVYB9wr6GdpOvUQVF3MOaPl2wsZVGYsk67bA0mXKMQJpEp6sfCjWo8"
     }
   ]
 }
