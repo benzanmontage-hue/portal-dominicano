@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-12T16:34:15.140154-04:00",
-  "hora": "16:34",
+  "updated": "2026-11-12T16:54:39.609560-04:00",
+  "hora": "16:54",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "banco popular",
+      "trafico": "200+",
+      "noticia": "La IA gana terreno en el sector financiero nacional, 79% de los bancos múltiples ya la utiliza",
+      "enlace": "https://listindiario.com/economia/20261111/ia-gana-terreno-sector-financiero-nacional-79-bancos-multiples-utiliza_929643.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjOKxZVwIGYvFcHDgtV31mLKzTMcY0r5yK0_fTIycEKBK10r7I52OrSNrNXNw"
+    },
+    {
       "termino": "nations league",
       "trafico": "100+",
-      "noticia": "Licensable picture: UEFA Nations League - Group A1 - Italy v France",
-      "enlace": "https://www.reutersconnect.com/item/uefa-nations-league-group-a1-italy-v-france/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkMxSkRPMjY",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrWHwGlwnNigrK0SI6rmuL5xawSJFMSmu3XsADd2MMe32KWLAo_Z1hEHVsqEY"
+      "noticia": "England vs Croatia LIVE! Nations League Group A3 commentary, updates, score, line-ups",
+      "enlace": "https://www.skysports.com/football/live-blog/13611565/england-vs-croatia-live-nations-league-group-a3-commentary-updates-score-line-ups",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy6uST84SwRn850eFqWOLsiDvVvURDgqltMR7qYrdH6UgRxFRQt8svHcQ88Ec"
     },
     {
       "termino": "italie – france",
@@ -29,16 +36,23 @@
     {
       "termino": "italia - francia",
       "trafico": "1000+",
-      "noticia": "La selección de Italia recibe a Francia sin Mbappé por la Liga de Naciones este jueves; ¿a qué hora y dónde ver el partido? | El Colombiano",
-      "enlace": "https://www.elcolombiano.com/deportes/futbol/partidos-liga-de-naciones-italia-francia-espana-chequia-inglaterra-croacia-hora-y-donde-verlos-IK43494873",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPDEs9LolscBIcUz5njvKLKwnjGau42hXN62GK9omoZDpmjDksVgc2S2_hzXk"
+      "noticia": "¿A qué hora es el partido Italia vs Francia y cómo verlo en TV y streaming online?",
+      "enlace": "https://www.si.com/es-us/a-que-hora-es-el-partido-italia-vs-francia-y-como-verlo-en-tv-y-streaming-online-12-11-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9Vf0BDID15jWSNh2HnS_IhgtjItOIk7kgLgqgFxtE2iQzq44KGEjctBixzU"
     },
     {
       "termino": "chequia - españa",
       "trafico": "1000+",
-      "noticia": "República Checa - España en directo | Última hora de UEFA Nations League en vivo hoy",
+      "noticia": "República Checa - España en directo: ¡gol de Álex Baena! | Última hora de UEFA Nations League en vivo hoy",
       "enlace": "https://www.marca.com/futbol/uefa-nations-league/republica-checa-espana/2026/11/12/01_0195_20261112_367_118-directo.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ01lHc5C9pjXOL1Eu6nK8IVHEHmP294BbERzzvKDUdyTaJ-R6CkBXlpIb9tyc"
+    },
+    {
+      "termino": "secretaría de educación pública",
+      "trafico": "500+",
+      "noticia": "Megapuente de noviembre 2026: ¿Qué días no se trabaja ni hay clases por el aniversario de la Revolución Mexicana?",
+      "enlace": "https://www.marca.com/mx/actualidad/sociedad/2026/11/12/megapuente-noviembre-2026-dias-trabaja-hay-clases-aniversario-revolucion-mexicana.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Cm0fhuWztT_01r-MzMQV5Fk6L4bXdD3fD3LMPfL0TYRu1MDu9e0ls0PqU1M"
     },
     {
       "termino": "barcelona - arsenal",
@@ -50,9 +64,9 @@
     {
       "termino": "turquie – belgique",
       "trafico": "100+",
-      "noticia": "Le nouveau coach de la Turquie très ambitieux :  Accomplir de grandes choses... et battre la Belgique",
-      "enlace": "https://www.rtbf.be/article/le-nouveau-coach-de-la-turquie-voit-grand-accomplir-de-grandes-choses-et-battre-la-belgique-11814218",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZf6swafnFlQ0U1p0q9FAGZZ1YBxqi2_QXiYR7uvhq4H_5w_GaZm5D6a6QVg"
+      "noticia": "Ligue des Nations : malgré Güler, la Turquie chute contre la Belgique et descend en Ligue B",
+      "enlace": "https://www.footmercato.net/a84088990450180022-ligue-des-nations-malgre-guler-la-turquie-chute-contre-la-belgique-et-descend-en-ligue-b",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQegEkMGRW-fNPpr_2h1h_eLI5RiqtV5Q2OPC3ZIZLqjPl5L0F-HKgIMYwjzQ"
     },
     {
       "termino": "outlook",
@@ -60,20 +74,6 @@
       "noticia": "Microsoft 365 hit by multi-region connectivity issues amid elevated infrastructure load",
       "enlace": "https://www.foxbusiness.com/technology/microsoft-365-hit-multi-region-connectivity-issues-amid-elevated-infrastructure-load",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyd-IbQVTpXRzqPMUp2XqLHGSa8l9ZRxV75V6cduMbb6FMKkEbXpXv6k3YIgs"
-    },
-    {
-      "termino": "melvyn lópez",
-      "trafico": "500+",
-      "noticia": "Club Mauricio Báez resalta grandes valores y entrega de Melvyn López a favor de la juventud y la niñez",
-      "enlace": "https://elnacional.com.do/deportes/club-mauricio-baez-resalta-grandes-valores-entrega-melvyn-lopez-favor-juventud-ninez_586038.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjEZ0dstDvjDQr132z0sDsU_usx45psme1QXKvd2IgQlOh3aHb53bY3G1RHI"
-    },
-    {
-      "termino": "real",
-      "trafico": "500+",
-      "noticia": "DFW Texas Hardcore Band NYGMA Just Dropped Their Album  Ballad Of A Real RockNRolla  And It s Brutal",
-      "enlace": "https://www.musicscenemedia.com/dfw-texas-hardcore-band-nygma-just-dropped-their-album-ballad-of-a-real-rocknrolla-and-its-brutal/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdyXBIDnaBlrNpnDxnbzSyu3KZl9BSoBBR5ZtrGJ4JSpV78oY61LoEzojvwE"
     }
   ]
 }
