@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-12T12:27:48.714139-04:00",
-  "hora": "12:27",
+  "updated": "2026-11-12T12:48:11.886293-04:00",
+  "hora": "12:48",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "ministro de educación",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Ministro de Educación destaca importancia de preparar a la juventud para el empleo",
       "enlace": "https://elnacional.com.do/nacionales/ministro-educacion-destaca-importancia-preparar-juventud-empleo_586010.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaW4DV2QaWDX8i-x3Gl9jL-0FOpqvmbncfgQDSpc3FqQnq7yRNVCGA6toLB58"
     },
     {
       "termino": "nvidia",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
       "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+    },
+    {
+      "termino": "el apagón mundial",
+      "trafico": "500+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
     },
     {
       "termino": "nayib bukele",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "elizabeth gutiérrez",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "¿Madre e hija o hermanas? ¡Elizabeth Gutiérrez y Kailey Levy deslumbran en la alfombra roja!",
       "enlace": "https://peopleenespanol.com/elizabeth-gutierrez-kailey-levy-deslumbran-alfombra-roja-12250356",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc8QsuM0q4HCQD_1bfgsynu9K7pf8J3CqZ9rzhjqwhSzRclQ1qB35TMMlJvrw"
@@ -36,9 +43,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "UKHSA issues first cold-health alert of winter 2026/27",
-      "enlace": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGmW7v-ZsgqcOPsNoPtWbG5645Cj2flRcsOxUs4KMt75wjLNLkisQEhJb5VI"
+      "noticia": "Nor’easter ahead: Here’s who has the best chance of accumulating snow",
+      "enlace": "https://weather.com/2026/11/11/forecast/regional/noreaster-first-snow-frost-freeze",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMy9uLSr89MhzOJ122OHTxXsuw0FTzb6mHjtpXVQ-PsbwCAcqsRf-khrtEi4s"
     },
     {
       "termino": "vaguada",
@@ -64,16 +71,9 @@
     {
       "termino": "trail blazers - thunder",
       "trafico": "200+",
-      "noticia": "Thunder’s Mark Daigneault sounds off on factor that led to second straight loss to Blazers",
-      "enlace": "https://sports.yahoo.com/articles/thunder-mark-daigneault-sounds-off-072853825.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWiuT-_tg2LkPMOd-STAg-JSfcJp0yFSqOiu7SjZHaX4PZBBqRKn8XpuFj7g"
-    },
-    {
-      "termino": "sandro mamukelashvili",
-      "trafico": "100+",
-      "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
-      "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
+      "noticia": "OKC Thunder’s Back-To-Back Portland Losses Deserve Concern, Not Panic",
+      "enlace": "https://sports.yahoo.com/articles/okc-thunder-back-back-portland-065356939.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRevvQ0ytXjE4TN4qpzF2CokMD5ilUf0nIRf6OKtnFWoTruPOmsoAgj_9QTVL8"
     }
   ]
 }
