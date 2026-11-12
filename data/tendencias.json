@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-11T20:10:35.967628-04:00",
-  "hora": "20:10",
+  "updated": "2026-11-11T20:30:56.758353-04:00",
+  "hora": "20:30",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "raptors - celtics",
+      "trafico": "200+",
+      "noticia": "Celtics at Raptors preview: Boston looks to avoid letdown at Toronto",
+      "enlace": "https://www.bostonglobe.com/2026/11/11/sports/celtics-76ers-preview-november-11-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5qvQVGi2y_4iKSDsadGOudFhjPxSOC1ZDc2-JXnmZ4Y7T-IS78OAnG_PInhs"
+    },
+    {
+      "termino": "knicks - cavaliers",
+      "trafico": "200+",
+      "noticia": "Knicks seek fifth straight win as struggling Cavaliers visit",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fifth-straight-win-as-struggling-cavaliers-visit/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
+    },
+    {
       "termino": "new york yankees",
       "trafico": "100+",
-      "noticia": "Chris Martin Retires",
-      "enlace": "https://www.mlbtraderumors.com/2026/11/chris-martin-retires.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2oXugsOiEs888E3p4z13Eo13BLFlYtSRI4jp4PmCeWaTuFZOhxhDVOFmsxds"
+      "noticia": "Here s the case for each Cy Young Award finalist (MLB Network, 7 p.m. ET)",
+      "enlace": "https://www.mlb.com/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMaNBUzQe8S1F5gRweV9KfIQcHXoXsC1Je5oQRMgmDxZwWhrnTlNvQ3Z6JF3Q"
     },
     {
       "termino": "seguridad",
@@ -21,7 +35,7 @@
     },
     {
       "termino": "marileidy paulino",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Marileidy Paulino queda quinta y fuera de las finalistas a Atleta del Año de World Athletics",
       "enlace": "https://www.diariolibre.com/deportes/olimpismo/2026/11/11/marileidy-paulino-queda-fuera-de-las-finalistas-de-world-athletics/3717697",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBY7TjroVsHFxc33TJKVFzLkugEP51ikv1wa8R2_jkjr6C7u3kFNYnn-homPg"
@@ -60,20 +74,6 @@
       "noticia": "Ramírez guía triunfo de Gigantes con HR en la 11ma",
       "enlace": "https://www.mlb.com/es/video/agustin-ramirez-conecta-hr-de-dos-carreras-en-la-11ma",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZ5bKLLSou56MoTfkol5LwbA2xe9w1yz63q9u1N_aGuPTwIXZbqj-8OACTZY"
-    },
-    {
-      "termino": "inflación",
-      "trafico": "500+",
-      "noticia": "El costo de la canasta básica promedio en el país pasó en octubre los RD$50,000",
-      "enlace": "https://www.diariolibre.com/economia/consumo/2026/11/11/costo-de-la-canasta-basica-promedio-en-rd-paso-en-octubre-de-rd50000/3717153",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHKrwSIx3FlWVLMXIwHoTOOjj5P2aFbR1gBCKDp7k99S9cbJ401nI0L1BvMxA"
-    },
-    {
-      "termino": "pedro guerrero",
-      "trafico": "500+",
-      "noticia": "Dodgers contratan a Guerrero proveniente de los Marlins como coach de bateo",
-      "enlace": "https://www.mlb.com/es/news/dodgers-contratan-a-guerrero-proveniente-de-los-marlins-como-coach-de-bateo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZBbs9WGTfr6L3xAazlmwXJohsaH3LsZsL1hNcJEj6sDnVRErnRtWhMlWadXw"
     }
   ]
 }

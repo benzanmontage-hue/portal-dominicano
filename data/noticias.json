@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-11T20:10:37.647796-04:00",
-  "hora": "20:10",
+  "updated": "2026-11-11T20:30:58.447456-04:00",
+  "hora": "20:30",
   "fecha": "11/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Artistas de Cuba y República Dominicana revelan los grandes sacrificios detrás del éxito en escenarios internacionales - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQWlEdl9XZVBZN3ZqV0RZT2JuellUd0VDMWpNaVJqYlczUDZQQmwta1doSkg3ODVUNVhxS3FPWmZaNC1ibkJMNlRnU3JNQ05hOXk5S3FDano4VTRHcUs3UVhfUTJFd245NGQtY0gwc1B6VUVWYndpTHZuZnJ4NjNpZVZ3Y2JUU2hsOFBCSUczdHk0UXh3WDk2Y21wS0ZiQzdyN2lrZ0U5TGRiampQeTRIemhBS21IX3VGTVdBSnJNaU15bFFNU3JzeEJNVzAwaXNtc1FhNXoxaWVLbUNnUWVBWXJKOXdUTG5nSjJ0U05TQXc5UThhbHBQeGVFRXJNZFVQR1RCRWpDYw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 11 Nov 2026 23:43:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Miss República Dominicana cuenta cómo está, tras accidente - Telemundo",
       "fuente": "Telemundo",
@@ -21,19 +29,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Hallazgo de impresora 3D para producción de armas fantasma plantea nuevo reto para las autoridades - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2N3cHN2dUlWdUhpelZpRjlpTUhHNTg4Snc2MGxqQW1LRnlDdjdEaDlYbTZQRU1lQUw2M0FRcUZLbGRtOFNuaG5UZFYtQWIzSHEwMk1MMFFGcThFX0N3UU5tLU1NNEJ2cVpielZMbVBMbXZ5VEpONmFZUy1mamswZm5MYi0zYl9rWk12VXZvMDFOd3ZSWGNQckdPOUJpS2FFYm0zMmkxT1I3ZGkwT3lwRkV0TDN4ODFkbk42UGltTlJ3RXJlSXNhY3MwMWlYZjjSAdQBQVVfeXFMTTJVbk1qcGVjM3R2Nm1wWl9xUk5UOFIzdHNfWXl2SkU1TW52dkpoTTM5V3BFYjdMQm1QOFZzcTA3YlZLUF81Q2hheXRYOTdCelQ2bU12SG9vVzdmNGhNNzBpOVNYYmQ2Wk5tS2FOa083SS1wa1E3QW9pZFdROVB6eFQ5QVIzMTNTZENGZzlzZDRkaDRvbHBHTnI3WFZjSG1jWlBYVmM3WlQ2eHNtdkdtQzlMZHpDeG9wbldBV3dPWlFtbHpTRG1TTDV1X3owRi13ZmpxemU?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 20:43:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Presidente dominicano dice que apoya a Bukele y la presencia de tropas salvadoreñas en Haití - Hartford Courant",
       "fuente": "Hartford Courant",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmxyZzNMal90N3RlV1NZdTZwdjRhR0xua1QtWDNQTlJqVVRkd0wtZmRDcGFjNEdwcmYxdWFwd2l2TlBmWGh5N3E0c3FxeTYtWXBaUDd1M01aQnF2N2pOWUxxR1BnaC1RZVc0ZDVQYmtaeVJROUh5eU5id3lKdUhiaHRFNVdnSHdGVHpjQ1JtcDlzbW52UnhrN0dMY0VybWRtM29wM1FWMHlHOWVzSTlNdjVmX21Ec3JubGplWnhvc1JmdzY5?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 11 Nov 2026 05:57:26 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Hallazgo de impresora 3D para producción de armas fantasma plantea nuevo reto para las autoridades - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2N3cHN2dUlWdUhpelZpRjlpTUhHNTg4Snc2MGxqQW1LRnlDdjdEaDlYbTZQRU1lQUw2M0FRcUZLbGRtOFNuaG5UZFYtQWIzSHEwMk1MMFFGcThFX0N3UU5tLU1NNEJ2cVpielZMbVBMbXZ5VEpONmFZUy1mamswZm5MYi0zYl9rWk12VXZvMDFOd3ZSWGNQckdPOUJpS2FFYm0zMmkxT1I3ZGkwT3lwRkV0TDN4ODFkbk42UGltTlJ3RXJlSXNhY3MwMWlYZjjSAdQBQVVfeXFMTTJVbk1qcGVjM3R2Nm1wWl9xUk5UOFIzdHNfWXl2SkU1TW52dkpoTTM5V3BFYjdMQm1QOFZzcTA3YlZLUF81Q2hheXRYOTdCelQ2bU12SG9vVzdmNGhNNzBpOVNYYmQ2Wk5tS2FOa083SS1wa1E3QW9pZFdROVB6eFQ5QVIzMTNTZENGZzlzZDRkaDRvbHBHTnI3WFZjSG1jWlBYVmM3WlQ2eHNtdkdtQzlMZHpDeG9wbldBV3dPWlFtbHpTRG1TTDV1X3owRi13ZmpxemU?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 10 Nov 2026 20:43:00 GMT",
       "imagen": ""
     },
     {
@@ -69,19 +77,11 @@
       "imagen": ""
     },
     {
-      "titulo": "TIMM celebra diez años de operaciones en República Dominicana - El Nuevo Diario",
+      "titulo": "República Dominicana: De destino turístico a plataforma de conexión regional - El Nuevo Diario",
       "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzJDV0x3dlZlWjdBU21IZVJhTEIxSlNxXzFIQ2Nwc1cxRW5uZTFwOEx1UGNpVldGWU44cER1MkV0WjVEbnRqc2k5NWdWQlRpOU1IV295dTlHeUh0LV90anB6OEtkRFRXc2ZLWFRUZzMycUxDV05qQXFzcENMb2RQQ1phVEt4cHpNbUdzTzJDSWpQLTZDZ2c?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb1JROHhXcENNeS1ob3hQVVN4akRoSFNDbnV1RjJseHo5b1hndVRrWE1Va3h0S1B2dnJqSXB6anZVMU5NQzR5MThiYWMwQ3lsN0FMaGJRN0RDbFRweExiaHNwZkhKZFZ4NWEzVzc5M0JHNWZjaU00WXpJLVpoXzFKdEZsdWFFYUZXTnN5YlpyOXVWdTJhUFJVSEQwMHF5Nkg0UE1OUVBDQ3Q?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 12:38:45 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una velada navideña celebra los vínculos culturales entre España y República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkQwMkkwbTFtT1BQYVdNc1JIZnpweEF6NnZfVWEtc3VOaE5ubkJvUWxkZ3VhZUNiaENKaXVxUHE5emhkTE55VEV4TlJUT2RRb3ExMTBZMXQyM2RnMGNXdGhiaVJ1aWtlVjg5TXpvbm9TbWVaNm9XOXM5RUhVUG1RU1pmYll0VnJwemgzRmw2MmNxYjA3b1JmMlVyc1VJMmY0MktqMFlMd29vVDdCVmxKYUJDc3rSAboBQVVfeXFMTUEyMWViMklyOEVlc0lZaktYNDBNUVIyVjYxOW9MM2pMUGdEMUluWkc2YXNtelZHZ1lKQW1NMnlyLV9vWklpQkQ0dUtYMnZEUHFZN1hHVVIzOXNMcnVCRUxxdUM5b182bGtMTGVWS1o4YmtfakdtMWE4UldjcDhKNVVrWG1TQm00TkF6NkJKNlROZ1MzSmdnbzFHakExcm5jYnRuOUZCdDRsU2EzaUFpVks0aG9pdEt1RDFn?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 21:25:29 GMT",
+      "fecha": "Wed, 11 Nov 2026 19:33:51 GMT",
       "imagen": ""
     },
     {
