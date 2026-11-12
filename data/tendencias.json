@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-12T12:48:11.886293-04:00",
-  "hora": "12:48",
+  "updated": "2026-11-12T13:08:35.734000-04:00",
+  "hora": "13:08",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "turquía - bélgica",
+      "trafico": "200+",
+      "noticia": "¿Por qué no ataja Thibaut Courtois hoy en Bélgica vs Turquía por la UEFA Nations League?",
+      "enlace": "https://www.365scores.com/es/news/por-que-no-ataja-courtois-vs-turquia/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZwVzQzMpFx7tP8wE9j2SCKb6JfPUiAoYHCj9ZdtYp4UuS_QvirLO6aGiKN9c"
+    },
     {
       "termino": "ministro de educación",
       "trafico": "500+",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "nayib bukele",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Bukele se arriesga con ofensivo en Haití",
       "enlace": "https://listindiario.com/las-mundiales/20261112/bukele-arriesga-ofensivo-haiti_929780.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO66SYJJ_SnWaBUgnvYNYB3CU4Z0MeBGROI8w8yDuL2i2q6bh6wbJ1d9KWRlc"
@@ -43,9 +50,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Nor’easter ahead: Here’s who has the best chance of accumulating snow",
-      "enlace": "https://weather.com/2026/11/11/forecast/regional/noreaster-first-snow-frost-freeze",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMy9uLSr89MhzOJ122OHTxXsuw0FTzb6mHjtpXVQ-PsbwCAcqsRf-khrtEi4s"
+      "noticia": "Showdown Breakdown: Commanders at Giants",
+      "enlace": "https://establishtherun.com/showdown-breakdown-commanders-at-giants/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnKXt6qo5SJGdHuyPpNATzf5CAnB465yeHXYfAGm18pUu2gz1hZIMQU1mRGuc"
     },
     {
       "termino": "vaguada",
@@ -67,13 +74,6 @@
       "noticia": "Fallece Melvyn López, uno de los entrenadores más laureados del baloncesto dominicano",
       "enlace": "https://acento.com.do/deportes/fallece-melvyn-lopez-uno-de-los-entrenadores-mas-laureados-del-baloncesto-dominicano-9788411.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnU_xGG44buXLltWo4ZJk2tBEpaigf-BY3sSFJFusGtaL3TVhaQXtghcG7Y6E"
-    },
-    {
-      "termino": "trail blazers - thunder",
-      "trafico": "200+",
-      "noticia": "OKC Thunder’s Back-To-Back Portland Losses Deserve Concern, Not Panic",
-      "enlace": "https://sports.yahoo.com/articles/okc-thunder-back-back-portland-065356939.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRevvQ0ytXjE4TN4qpzF2CokMD5ilUf0nIRf6OKtnFWoTruPOmsoAgj_9QTVL8"
     }
   ]
 }
