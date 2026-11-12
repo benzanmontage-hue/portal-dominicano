@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-12T11:26:32.821896-04:00",
-  "hora": "11:26",
+  "updated": "2026-11-12T11:46:58.504351-04:00",
+  "hora": "11:46",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nvidia",
+      "termino": "ministro de educación",
+      "trafico": "200+",
+      "noticia": "Ministro de Educación destaca importancia de preparar a la juventud para el empleo",
+      "enlace": "https://elnacional.com.do/nacionales/ministro-educacion-destaca-importancia-preparar-juventud-empleo_586010.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaW4DV2QaWDX8i-x3Gl9jL-0FOpqvmbncfgQDSpc3FqQnq7yRNVCGA6toLB58"
+    },
+    {
+      "termino": "nvidia stock",
       "trafico": "1000+",
       "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
       "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
@@ -29,9 +36,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "When will it feel like fall? A parade of Colorado storms may arrive next week",
-      "enlace": "https://www.9news.com/article/weather/local-weather/parade-of-colorado-storms-next-week-colorado-snow-forecast/73-51508762-740e-41cf-ba40-bd9968fe3208",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjyyHh5BzcrwZ4Io1C1iDgaSD9lqPOJz9ixIzdZvV1dhguPMj_DsWhuQejK74"
+      "noticia": "What 165 days of record ocean temperatures will mean for extreme winter weather",
+      "enlace": "https://www.washingtonpost.com/weather/2026/11/12/what-165-days-record-ocean-temperatures-will-mean-extreme-winter-weather/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUkr6WRaVx-jnwoiC0dRPt3rfZvpGj0cpXH2TSRrd_M-3N2ZOZEmgoQjiIXG4"
     },
     {
       "termino": "deuda",
@@ -48,11 +55,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM3WMMuz-xx_pLWYim5zFa3jJ6GHEJhQ2O8FAWrPN9R-QMfic2gDqCTWjpQ5g"
     },
     {
+      "termino": "rockets vs. warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/gsw-vs-hou-0022600225/box-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
+    },
+    {
       "termino": "melvin lopez",
       "trafico": "500+",
       "noticia": "Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez",
       "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/12/fallece-el-dirigente-de-baloncesto-melvyn-lopez/3718228",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRctrUY0njdGl6shEtoQNXJ-Pni4WxQ2uf_aZ5XXYRTV2s9yMBIf6q8Msf8ZPM"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdZgCkYU_PBxX_mAinD_DtF71ZEL2QtJOtsXJKpmVh0gIR96CzlCxNfrtFVn4"
     },
     {
       "termino": "trail blazers - thunder",
@@ -60,20 +74,6 @@
       "noticia": "Thunder’s Mark Daigneault sounds off on factor that led to second straight loss to Blazers",
       "enlace": "https://sports.yahoo.com/articles/thunder-mark-daigneault-sounds-off-072853825.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWiuT-_tg2LkPMOd-STAg-JSfcJp0yFSqOiu7SjZHaX4PZBBqRKn8XpuFj7g"
-    },
-    {
-      "termino": "sandro mamukelashvili",
-      "trafico": "100+",
-      "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
-      "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
-    },
-    {
-      "termino": "tabla de posiciones",
-      "trafico": "200+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     }
   ]
 }
