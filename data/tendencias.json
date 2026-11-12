@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T19:50:11.500294-04:00",
-  "hora": "19:50",
+  "updated": "2026-11-11T20:10:35.967628-04:00",
+  "hora": "20:10",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Chris Martin Retires",
       "enlace": "https://www.mlbtraderumors.com/2026/11/chris-martin-retires.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2oXugsOiEs888E3p4z13Eo13BLFlYtSRI4jp4PmCeWaTuFZOhxhDVOFmsxds"
+    },
+    {
+      "termino": "seguridad",
+      "trafico": "100+",
+      "noticia": "Hallazgo de impresora 3D para producción de armas fantasma plantea nuevo reto para las autoridades",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/policia-nacional-desmantela-red-de-armas-3d-en-republica-dominicana/3716864",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3j-iLBn9i8LT5m4p6Nhwx3wG2i4TFDAOoEuLe4auzQfjgoBtlB-REK6amsvg"
     },
     {
       "termino": "marileidy paulino",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "fallece julio mariñez",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Fallece Julio Mariñez, histórico dirigente del PRD y exsecretario General de la Liga Municipal",
       "enlace": "https://listindiario.com/la-republica/politica/20261110/fallece-julio-marinez-historico-dirigente-prd-exsecretario-general-liga-municipal_929640.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNuHJ6__w4-3X-Ab4PYXQnhyckttaR39FQMbhQS5iYHSiiKKao3x1kGq2HTvU"
@@ -67,13 +74,6 @@
       "noticia": "Dodgers contratan a Guerrero proveniente de los Marlins como coach de bateo",
       "enlace": "https://www.mlb.com/es/news/dodgers-contratan-a-guerrero-proveniente-de-los-marlins-como-coach-de-bateo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZBbs9WGTfr6L3xAazlmwXJohsaH3LsZsL1hNcJEj6sDnVRErnRtWhMlWadXw"
-    },
-    {
-      "termino": "nieve",
-      "trafico": "200+",
-      "noticia": "Fotos en la nieve que salen grises u oscuras: cómo aclararlas y recuperar el color",
-      "enlace": "https://www.desdesoria.es/reportajes/fotos-nieve-que-salen-grises-u-oscuras-como-aclararlas-recuperar-color/20261111100434940788.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqDlAg_EAkx6-Hi0Cjgs47hx0q1-riJ3q1vgKzwzsDxDs73_hDzHmXcpAUy6E"
     }
   ]
 }
