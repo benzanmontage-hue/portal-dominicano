@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T10:04:46.970361-04:00",
-  "hora": "10:04",
+  "updated": "2026-11-12T10:25:13.059722-04:00",
+  "hora": "10:25",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,9 +22,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "First Alert: Tracking isolated showers, storms   big cooldown",
-      "enlace": "https://www.kfvs12.com/2026/11/11/first-alert-tracking-isolated-showers-storms-big-cooldown/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkLBU8OA2vq4CQN7GW3vTwX2lCsZFO7jMbRzmyUhkUMQG7CPVMH7lHY3awImg"
+      "noticia": "True November temps arrive in Twin Cities Thursday",
+      "enlace": "https://www.cbsnews.com/minnesota/news/minnesota-weather-november-12-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCoZu_UQ2DICwNOrYv8Fp7rhyyViAxTdkqOasNtwd4OZKWXm4s_MBfC5ym7OE"
     },
     {
       "termino": "deuda",
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTluhFhFCxH8-zR3bBbS8pglnAA0geo2J2RbAyvGvYy_EJ33EJptIKpPYN1YqQ"
     },
     {
+      "termino": "estadísticas de jugadores de partidos de houston rockets contra golden state warriors",
+      "trafico": "100+",
+      "noticia": "Golden State Warriors vs. Houston Rockets Live Score and Stats - November 11, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261111_GS@HOU/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrWvJLKl6OIDlB9KqD-Bldpdy4H9BcVGdR0LIAodURZFroHVV149qLfOro5SM"
+    },
+    {
       "termino": "melvin lopez",
       "trafico": "500+",
       "noticia": "Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez",
@@ -57,9 +64,9 @@
     {
       "termino": "trail blazers - thunder",
       "trafico": "200+",
-      "noticia": "OKC Thunder Make Interesting Starting Lineup Decision vs. Portland",
-      "enlace": "https://sports.yahoo.com/articles/okc-thunder-interesting-starting-lineup-024735861.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlSXJXfbcuF_kYljbY9ety4WvK3Ck0ws1by56XZCVNbxeF9N5_u1Nda_8e24M"
+      "noticia": "Game Recap: Trail Blazers 118, Thunder 108 (Nov. 11)",
+      "enlace": "https://www.nba.com/watch/video/game-recap-trail-blazers-118-thunder-108-nov-11",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWUZQpoB-uhrDQBRqparTilC1hzOL8VLZyC74aYy5unuJMYtvF0lPC3M3N6Bw"
     },
     {
       "termino": "sandro mamukelashvili",
@@ -67,13 +74,6 @@
       "noticia": "Sandro Mamukelashvili is showing exactly why Lakers signed him over Rui Hachimura",
       "enlace": "https://lakeshowlife.com/los-angeles-lakers-sandro-mamukelashvili-showing-exactly-why-signed-over-rui-hachimura",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE4s3H7BBdW49f0BLZr2tcRLUAVHD6d-WIQzTlsGeqxEugrUkd3FUEaH4aV1c"
-    },
-    {
-      "termino": "tabla de posiciones",
-      "trafico": "200+",
-      "noticia": "Tigres logran imponerse a Leones para compartir el liderato",
-      "enlace": "https://www.mlb.com/es/news/r-d-tigres-logran-imponerse-a-leones-para-compartir-el-liderato",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzOTc0r3lw48ITH-mCT3ULPTT9bZ3iQb6gX_zwam6H83zzcJ9j9kAmGUaZDbM"
     }
   ]
 }
