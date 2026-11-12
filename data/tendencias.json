@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-11T21:11:33.710217-04:00",
-  "hora": "21:11",
+  "updated": "2026-11-11T21:31:53.189192-04:00",
+  "hora": "21:31",
   "fecha": "11/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "elisa ramírez",
+      "trafico": "100+",
+      "noticia": "Muere Elisa Ramírez a los 82 años, la actriz que convirtió el teatro en televisión",
+      "enlace": "https://elpais.com/cultura/2026-11-11/muere-elisa-ramirez-a-los-82-anos-la-actriz-que-convirtio-el-teatro-en-television.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0gIRIAsH9K5IJE7h1XFbk9OWfYf9Zpk9yR4J6GyykEmVqLRaFK_K_Tu1rV0I"
+    },
     {
       "termino": "bucks - lakers",
       "trafico": "200+",
@@ -15,13 +22,13 @@
     {
       "termino": "raptors - celtics",
       "trafico": "200+",
-      "noticia": "Raptors Get Concerning Collin Murray-Boyles Update After Career Night",
-      "enlace": "https://heavy.com/sports/nba/toronto-raptors/raptors-collin-murray-boyles-injury-update/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJWyNUbruybtUKsAvTfWeqDPtGKxlHGkf0tnD0OqJLLgY8NfYMIWBdwtCVNo"
+      "noticia": "THE SHOOTAROUND with Derek Cornelius and WatsWitAndy | Raptors vs Celtics Nov 11",
+      "enlace": "https://bvmsports.com/2026/11/11/the-shootaround-with-derek-cornelius-and-watswitandy-raptors-vs-celtics-nov-11/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa3qOc5na5cHzVRdSgwqxYky7ganqETsnrNmDjQjnUDiC1wnviuZ-S5Jo-TLk"
     },
     {
       "termino": "knicks - cavaliers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Knicks seek fifth straight win as struggling Cavaliers visit",
       "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fifth-straight-win-as-struggling-cavaliers-visit/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjUn2tzksFoAjMliM0oD2Fw8OIhCrJ5FjXLsPL7Xw4bTxuEzsVeM_pwI-rJb8"
@@ -29,9 +36,9 @@
     {
       "termino": "new york yankees",
       "trafico": "100+",
-      "noticia": "This year s Cy Young Award winners are ... (LIVE on MLB Network, MLB+)",
+      "noticia": "Pair of flamethrowers are unanimous Cy Young winners for just 3rd time in history",
       "enlace": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzIjqBUUtGiFhrz8_RH-gt9xdWhjzQInK7xyaq0SxreGuVOT3Zv85QEyQCtkU"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlssNNalrgECgbq1wtRsVUew0Ju2PJuMOm2_TKoDdlNSx1PYGmJxJUZTWVpPc"
     },
     {
       "termino": "seguridad",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "frontera entre haití y la república dominicana",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Ejército dice que todo se encuentra normal en la frontera entre RD y Haití",
       "enlace": "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTukFVAUWZ129sUtZPQparT5AclRSti6VbTKiDSmOT_9624RQjMSXb_KwHabxY"
@@ -67,13 +74,6 @@
       "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
       "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDKCVVyUCCYyYSrjxTpqYVH7wwROEBvAlv_q8WRccDV6Hk3TUr6fineIAx8Bs"
-    },
-    {
-      "termino": "terremoto sismo temblor hoy epicentro",
-      "trafico": "200+",
-      "noticia": "Fuerte sismo hoy 10 de noviembre en Estados Unidos: epicentro, magnitud y hora",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-10-noviembre-ee-uu-magnitud-epicentro/18681",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOvALpW7-LckFOAvwBcBNC_AtJACeaiKWBH6yUJhiyghs0ghvNmH0y5Wpo9to"
     }
   ]
 }
