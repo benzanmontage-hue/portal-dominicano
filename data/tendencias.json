@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T10:56:21.420644-04:00",
-  "hora": "10:56",
+  "updated": "2026-11-13T11:16:42.139516-04:00",
+  "hora": "11:16",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -27,18 +27,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0TX8GJ-1xr49kJrosAHbTS6UUi3Ar_Bxf9qjhMszCOt2kq0xKNyzyAMmNHnk"
     },
     {
-      "termino": "aeropuerto de punta cana",
-      "trafico": "1000+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
-    },
-    {
       "termino": "alerta",
       "trafico": "100+",
       "noticia": "Ocurrirán aguaceros; en alerta dos provincias",
       "enlace": "https://hoy.com.do/el-pais/ocurriran-aguaceros-alerta-dos-provincias_1108544.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAnv-lxL5u9tsDL3rLswcS32NzP9SngcJvWfDvYirDZD22dHLuXX6EVBwi_Oc"
+    },
+    {
+      "termino": "supuesto apagon mundial",
+      "trafico": "100+",
+      "noticia": "¿Habrá un apagón mundial el 17 de noviembre? Origen del rumor y qué ocurrirá realmente",
+      "enlace": "https://acento.com.do/actualidad/habra-un-apagon-mundial-el-17-de-noviembre-origen-del-rumor-y-que-ocurrira-realmente-9788691.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvTm7evE8pFWKvhD2M37RRvsV7MCUa41t5kDD4HxL6KMLGcyJc-BbM8N9BXto"
     },
     {
       "termino": "kick",
@@ -50,9 +50,9 @@
     {
       "termino": "aterrizaje",
       "trafico": "500+",
-      "noticia": "Fuga de agua en pleno vuelo provoca aterrizaje de emergencia en Chicago",
-      "enlace": "https://www.telemundochicago.com/video/noticias/local/fuga-de-agua-en-pleno-vuelo-provoca-aterrizaje-de-emergencia-en-chicago/2668544/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr0BUTgUjrZQXFW05TvIJJagrjYTAxbqW25AtpdWkSc9cnluHTdgOQD5tG4Q4"
+      "noticia": "Sin pista de aterrizaje y sin problema: este avión solo necesita 46 metros para despegar y aterrizar",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/avion-ultra-short-revoluciona-viajes-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIy8wfGrSVrMtlgeT6ei6dUZAPGxiInN1exs2u-XRyjH8FpxLaz9vM8EcLRIA"
     },
     {
       "termino": "suns - hornets",
