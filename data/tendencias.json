@@ -1,30 +1,51 @@
 {
-  "updated": "2026-11-13T17:46:18.268093-04:00",
-  "hora": "17:46",
+  "updated": "2026-11-13T18:06:43.262314-04:00",
+  "hora": "18:06",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "marruecos - níger",
+      "trafico": "100+",
+      "noticia": "Live: Marruecos vs. Níger | Eliminatorias AFCON 2027",
+      "enlace": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles/live-marruecos-vs-n%C3%ADger-eliminatorias-afcon-2027-2026-11-13",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIM_2RJoew7P_gADnFa8wttyIYiqQ38shROIhZsmzwV9ztqoNi0b6s9kZ9VWU"
+    },
+    {
       "termino": "faa",
-      "trafico": "200+",
-      "noticia": "FAA issues ground stop for all flights due to ‘extraordinary circumstances’",
-      "enlace": "https://www.cnn.com/2026/11/13/us/video/faa-ground-stop-extraordinary-circumstances-digvid",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0JuU8H1F0mns-B66OuniIv7rKwwHCCm71HN4jCwS1ZQYLl5_DLPlYiYwxBSg"
+      "trafico": "500+",
+      "noticia": "Live updates: FAA issues nationwide ground stop for all flights",
+      "enlace": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB49WjAZdyoUecM1CcrwFV4w7hfO5fi1vszkI4n98s-GPPoQmNRQlPeUOargo"
     },
     {
       "termino": "multa",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "STF mantém multa de Mato Grosso a transportadora calculada sobre valor da carga",
       "enlace": "https://www.fatosdematogrosso.com.br/juridico/stf-mantem-multa-de-mato-grosso-a-transportadora-calculada-sobre-valor-da-carga/18841",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8BZFuVMn9bQ3szX5PKqudIt2AAxiszXRfcHEPbhD6OVYBSGWaO8EBWC7iAM"
     },
     {
+      "termino": "irán",
+      "trafico": "100+",
+      "noticia": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/mundo/iran-ataca-instalacion-militar-de-ee-uu-golfo-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgQ5txndldF4IjnP7V3n7TQgxadrTg6O4EiSB6DyGFlv_RGTZJLlUNQG44ncY"
+    },
+    {
+      "termino": "el seibo",
+      "trafico": "20000+",
+      "noticia": "Temblor sorprende a los dominicanos este viernes",
+      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/13/temblor-sorprende-a-los-dominicanos/3719937",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4wi50SAF_cUtRGe4JphP6IyVqzj5lhJBNjyb9otaptxBYhILOuTJ5DXji7dA"
+    },
+    {
       "termino": "estadio",
       "trafico": "200+",
-      "noticia": "Amnistía insta a Haití y El Salvador a garantizar respeto a DD.HH. en lucha contra bandas",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/11/amnistia-internacional-exige-respeto-a-derechos-humanos-en-haiti/3718061",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4dt0kAof6nRTavuJhyggSeqGX5O0uszfiE4fC2IKr8bfgWxNNx7RFqn0sG2Q"
+      "noticia": "¿Qué significa «Ratioed», la palabra con la que Bukele respondió a Amnistía Internacional?",
+      "enlace": "https://elnacional.com.do/mundo/significa-ratioed-palabra-bukele-respondio-amnistia-internacional_586026.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5eBYTSYHcXUJhrjWsnwvjqM35JlmLE0LtNNjH-9wjYuQkVA9zwnJPKs63k70"
     },
     {
       "termino": "serbia - alemania",
@@ -53,27 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "nueva york",
-      "trafico": "200+",
-      "noticia": "Video muestra el momento en que se derrumbó el edificio en Brooklyn",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/video/derrumbe-video-edificio-brooklyn",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0ieUVU358470F5rxtx6ynTAapcqeI0FuuTEY1sk8E5gRKqTuXT-tlTQXhGs"
-    },
-    {
-      "termino": "temblor de tierra hoy",
-      "trafico": "20000+",
-      "noticia": "Temblor sorprende a los dominicanos este viernes",
-      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/13/temblor-sorprende-a-los-dominicanos/3719937",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4wi50SAF_cUtRGe4JphP6IyVqzj5lhJBNjyb9otaptxBYhILOuTJ5DXji7dA"
-    },
-    {
-      "termino": "karen yapoort",
-      "trafico": "1000+",
-      "noticia": "Protagonista de su propio juego",
-      "enlace": "https://www.telemundo.com/shows/la-mesa-caliente/temporada-2026/capitulo-226/tve/protagonista-de-su-propio-juego-tmvo13244291",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuaH1QPrfL3peekLs4usUn-L6hLVatEkCUaukDZl1cmr-JlyaJ2F38ZPhWZQY"
     }
   ]
 }
