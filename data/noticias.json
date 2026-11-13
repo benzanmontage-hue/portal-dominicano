@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T15:03:04.210561-04:00",
-  "hora": "15:03",
+  "updated": "2026-11-13T15:23:27.159753-04:00",
+  "hora": "15:23",
   "fecha": "13/11/2026",
   "total": 15,
   "noticias": [
@@ -41,7 +41,7 @@
       "fuente": "Caribbean News Digital",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEFIck50Vl9BSWN3S3BqR0NUZlJVU3UtX2NkUUxzZEpHU2VFby04MHE4WThPSW1pQkhjcWhUU1NQWHVWT19rSGliSzdPWFpuMm9HR21VdUlNTGlvVkpWVExDZ1lKUVdCbXBSMERWa0pXcl9tUWtwcG54RjBrRWZUNHVldnlzbGNrLTROVGM1aW9ucUFuajVmRHNoenB4bC1kbXl1U3N0ek42OTZGMDdhd0hFeHQ5SnNkQnhNanVWWHBBV1pHNk9KR2FwRQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 13:16:10 GMT",
+      "fecha": "Fri, 13 Nov 2026 13:24:04 GMT",
       "imagen": "https://static.caribbeannewsdigital.com/cdn/ff/lSBF0AFSGebNE59MJcnNOxR8pbModZjXVjHN5lcelko/1794575664/public/2026-11/campa%C3%B1a.jpg"
     },
     {
@@ -93,12 +93,20 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana sustituye a Estados Unidos en el Mundial Sub-17 - Sopitas.com",
-      "fuente": "Sopitas.com",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRfNFllOG1tRUZuR0NTcUU3bUhOakw2dnlybnRJY25IRGpvejFCVHBKcUs1ZGxTaXNseXQ4QVl0NXAxRWwwMU1aSzFsekJxend0dHBSN2xtMnBacWZEY3htNGZaRXR1cTlQOFVNSF9YbGtZNEhPYXJKNjRSSEhpUHgwLUtDaWxrSHhuT3dTaWxWU192aFI0OQ?oc=5",
+      "titulo": "República Dominicana va al Mundial Sub 17 - PSN Noticias",
+      "fuente": "PSN Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wYzFfZDVmampvMFc4d3dqN1VEcnBwbHNFUVd3RVEtR252dklLRFFpeUlYaDByUHJLYnV6c3VzY1ZtNlVLaF83QVlPNm9Ha3NHWURweDA5dWtaVnpNbmZtclA1Zno?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 23:04:46 GMT",
-      "imagen": "https://www.sopitas.com/wp-content/uploads/2026/11/republica-dominicana-sustituye-estados-unidos-mundial-sub-17.webp"
+      "fecha": "Fri, 13 Nov 2026 17:05:24 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¡SIN REPORTES DE DAÑOS! Sismo de magnitud 4,7 sacude varias zonas de República Dominicana - Howl.Link",
+      "fuente": "Howl.Link",
+      "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9FazRDZW9Hb2lxd2g0cHNVdGZjbllDY2ZZUXVVZHh2NHNSWXp5dTJ1a1I0YXFIcFVEbGY0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 18:41:18 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana: 99 hospitales públicos digitalizan sus trámites y pagos para agilizar su gestión - Infobae",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNzVTR0Zfeml6YUtzc1ZqajhoOVhPWjZaRFQtZFBsTTRzOW9YUGtlWGZSSnIyYlBCcUFCS1FRVVJ6YVZqYjRNa05fcGx2N0VWc2NWc3dIWHAwc08yVjVoYW9SUWp0WWlzS3Z4RFNkSHd3WVBXempfeHExMlFxcFVLTjhjOUJyR2x5T1NRWS03TjJjUHRiMkNHSHVRS1ZVeTBrN3NXRER0UzZYeGtTSnhKUXN6cTdId0FBbjRGNU4xbkNzU0hyV2x3WVFJMFhaWXF0TmFvX2VnTnl0R1VQZHlVb0hhS0I2NVBSQl9RaElGT2Y0SUJ4M2t4MkZnWGZQNVB2azdaNtIBnwJBVV95cUxPUzVkQ2c3eTdDSmZ1Qnlra0F3cExfMnpUUGpCRU1kekdMLWVoTFJLdWdMN0I3amRxcG5zQmxhbGM4X3pnM0pab0FrZXllSnRWYnNzdkQyUTNvWnlEUUxLbzZTemdrMjBjVm84VmhGVFZwQ2UxRXRtalRpSzRjZU1CTzFhRXdwQmpzdHNwUWhkQmZxVy1vLS1ycEhhYk5qczlLWVkwLVhkYTkzYnB4ZG5sWWd6elBPdUQxY29NVEZYVnFJMFZOazIxSjRpQXFBNldPT1l6bTc5dzNrNWFzaFVKVi01V2p0WExqelEycHRoamYxUG1ndDV3bzNhb2NBNTJtRTlmaUs3MjVUTV9QcWZ4MVBlZWpCT0VRN3VtWER2aw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 11:04:36 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La frontera de 391 kilómetros que República Dominicana vigila con drones, artillería y una verja que aún no termina de construirse - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRTVyVFdZazdBOElsT2s3Wk55TWdQM3hiSHo0TXNERU9Ca1VQdVE0UTc3b3ZxOTZGNjZEVXpnMDAwOWdmT2Jtb0NRSFpfY0JHeWpHamZ2TGZVZmxEM1diaDVnRTY1UEhXOGZKT2Z6c2tEeVl5c1hudkcxU1NxZXBSblktckpIdmZpbUFLV3hvb0g2cmw1V2ZkM0h6X2dFd3YzYmRJd21sQ3VUVFd2cklHT1lpTEpkbktOMnZIbTBPejZRY2xIeExySnZOelotcEZtcXU3VTJ5TFctU3ZLakhneXZLekpuTkdEU0VQMzlwY0otODUtcEpfMnJid1FUMUJEdVd0ZUZ0NmowR01lTy1nV1ktNXU?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 17:47:00 GMT",
       "imagen": ""
     }
   ]
