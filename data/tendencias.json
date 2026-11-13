@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T08:11:45.034407-04:00",
-  "hora": "08:11",
+  "updated": "2026-11-13T08:32:10.204196-04:00",
+  "hora": "08:32",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Stearns: Mets  not looking to add  new 2B, optimistic Semien can bounce back",
       "enlace": "https://www.mlb.com/news/mets-looking-for-improvement-from-marcus-semien-and-second-basemen",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq7vRXwVCeLFtpoHh4qMWvdfM09E-RTbOp87P4Wx0LyUJsdw3Z1YbgOoJSmM"
+    },
+    {
+      "termino": "aeropuerto de punta cana",
+      "trafico": "200+",
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
     },
     {
       "termino": "alerta",
@@ -57,23 +64,16 @@
     {
       "termino": "vuelo",
       "trafico": "1000+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+      "noticia": "A 25 años del vuelo 587, República Dominicana sigue en deuda con sus víctimas",
+      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/12/accidente-vuelo-587-y-su-impacto-en-republica-dominicana/3717833",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2wBfpNqygqJlu9cIhBWw3AtYtSHkyXtbLP8RzqTsOZCp7SA2pnrRioaKR0hU"
     },
     {
       "termino": "wizards - pistons",
       "trafico": "500+",
-      "noticia": "Cade Cunningham scores career-high 52, makes NBA history",
-      "enlace": "https://www.nba.com/watch/video/cade-cunningham-scores-career-high-52-makes-nba-history?plsrc=nba collection=top-trending-videos",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmB0Xohrbiiwd7uPKJ0xmIJSKtOfVtvbhJOg6mHHp49rnLwrvy8XnAp85zVg0"
-    },
-    {
-      "termino": "techy fatule",
-      "trafico": "200+",
-      "noticia": "Tres dominicanos conquistan su primer Latin Grammy",
-      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/12/los-dominicanos-triunfan-en-el-latin-grammy/3719404",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUTErvAtyJEHN-Aa-1M937ggPqv2Snc-ZB9D4O7kPGZgoYTS6OowlKNf1j904"
+      "noticia": "Wizards’ AJ Dybantsa left bloodied in scary sight after wild collision vs. Pistons",
+      "enlace": "https://sports.yahoo.com/articles/wizards-aj-dybantsa-left-bloodied-042234983.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWMFckE1QEGd2EEt-f1qBGCV2VqqP_0EwcDqg1KO62-xi6gaOYIoMi_NaYniE"
     }
   ]
 }
