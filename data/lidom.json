@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:25:23-04:00",
+ "updated": "2026-11-12T22:45:44-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -50,26 +50,26 @@
    "nombre": "Estrellas Orientales"
   },
   {
-   "id": 668,
-   "equipo": "Toros",
+   "id": 667,
+   "equipo": "Aguilas",
    "g": 8,
    "p": 12,
    "pct": ".400",
    "dif": "1.0",
-   "racha": "W1",
+   "racha": "W2",
    "pos": 5,
-   "nombre": "Toros del Este"
+   "nombre": "Aguilas Cibaenas"
   },
   {
-   "id": 667,
-   "equipo": "Aguilas",
-   "g": 7,
-   "p": 12,
-   "pct": ".368",
+   "id": 668,
+   "equipo": "Toros",
+   "g": 8,
+   "p": 13,
+   "pct": ".381",
    "dif": "1.5",
-   "racha": "W1",
+   "racha": "L1",
    "pos": 6,
-   "nombre": "Aguilas Cibaenas"
+   "nombre": "Toros del Este"
   }
  ],
  "juegos": [
@@ -437,14 +437,14 @@
    "id": 851562,
    "fecha": "2026-11-12",
    "hora": "19:30",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Toros del Este",
    "visitante_id": 668,
-   "carreras_v": null,
+   "carreras_v": 4,
    "local": "Aguilas Cibaenas",
    "local_id": 667,
-   "carreras_l": null,
+   "carreras_l": 7,
    "estadio": "Estadio Cibao",
    "serie": "Regular Season"
   },
