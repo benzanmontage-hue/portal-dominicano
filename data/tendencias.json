@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13T15:23:23.873995-04:00",
-  "hora": "15:23",
+  "updated": "2026-11-13T15:43:50.904464-04:00",
+  "hora": "15:43",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "sanción",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Investigan otras denuncias de agresión a menores contra hombre detenido por video con bebé",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/13/se-suman-denuncias-de-agresion-contra-hombre-detenido-por-video/3719892",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBoajD6kZ3iwedYitnJ4VunD8GQVOpg39sRpndKpLc6ekOAeeVOTKHtcG7zbg"
@@ -36,16 +36,9 @@
     {
       "termino": "temblor de tierra hoy",
       "trafico": "10000+",
-      "noticia": "Se registra temblor de 4.7 al sur de la provincia El Seibo",
-      "enlace": "https://listindiario.com/la-republica/20261113/registra-temblor-4-7-sur-provincia-seibo_929992.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1JIGpiVPudnsWoUBmuSmgqrMzBfKpcR9xdKwzldIwJxtm5AM8AhWA2PzQjdA"
-    },
-    {
-      "termino": "temblor hoy",
-      "trafico": "2000+",
-      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
+      "noticia": "Temblor sorprende a los dominicanos este viernes",
+      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/13/temblor-sorprende-a-los-dominicanos/3719937",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4wi50SAF_cUtRGe4JphP6IyVqzj5lhJBNjyb9otaptxBYhILOuTJ5DXji7dA"
     },
     {
       "termino": "karen yapoort",
@@ -53,6 +46,13 @@
       "noticia": "Karen Yapoort explica a qué se refería Edwin Encarnación al decir que ella “volvió a sus raíces”",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261112/karen-yapoort-explica-que-referia-edwin-encarnacion-decir-volvio-raices_929924.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6PoNzPd_L9tlZLFMf1ZDi4ioUIytS8EFaowI3y2QQ4zgIZLO448PJiqfJ2g"
+    },
+    {
+      "termino": "temblor hoy",
+      "trafico": "2000+",
+      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
     },
     {
       "termino": "earthquake",
