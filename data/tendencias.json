@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-12T20:20:58.368102-04:00",
-  "hora": "20:20",
+  "updated": "2026-11-12T20:41:22.964436-04:00",
+  "hora": "20:41",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "república dominicana",
+      "trafico": "100+",
+      "noticia": "SpaceX destaca que Starlink tiene 50,000 clientes en República Dominicana",
+      "enlace": "https://z101digital.com/spacex-destaca-que-starlink-tiene-50000-clientes-en-republica-dominicana/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tn8xWKQCpVH-v09_lUY_xOyIQ4LIF1vIQJDB4R7jiuy6PdPQzhEM-MvCREk"
+    },
+    {
       "termino": "76ers - raptors",
       "trafico": "200+",
-      "noticia": "Short-handed 76ers look to bounce back against Raptors",
-      "enlace": "https://www.cbssports.com/nba/news/short-handed-76ers-look-to-bounce-back-against-raptors/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1rdeecXJr704z0j7qIsE_XEdUlTjsDSpfoqYxk7a-A8Qderfh_nXuCTfZ2EA"
+      "noticia": "LeBron ruled out vs. Raptors",
+      "enlace": "https://www.nba.com/news/lebron-james-ruled-out-vs-raptors",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMfswuR-npwBRU5_M7NQAuqQEVMPyJdqeC8dF5_cUiHSy-cfL14Ev0dvcnZBU"
     },
     {
       "termino": "techy fatule",
@@ -22,9 +29,9 @@
     {
       "termino": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia",
       "trafico": "100+",
-      "noticia": "England record-breaker Kane inspired by Modric as he chases  biggest dream",
-      "enlace": "https://www.espn.com/soccer/story/_/id/50465261/harry-kane-luka-modric-england-croatia-record-euro-2028",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS93llL_LvC-q6jkqdx7DHjbwLSO8E_ktjWQHbCbzdTeADn9CvFLUeym0G5DDo"
+      "noticia": "England 2-1 Croatia: Record-breaker Kane scores winner as Three Lions qualify for Nations League quarters",
+      "enlace": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlaCI-zYPVIcoJZ8jXAsraqET6d3lw-akwwpIJmE7YVioPJIWub6KW7xgskzA"
     },
     {
       "termino": "latin grammys 2026",
@@ -43,23 +50,23 @@
     {
       "termino": "condena",
       "trafico": "200+",
-      "noticia": "Una estafadora del amor engaña a un anciano para comprar una vivienda en Dénia y le saca casi 400.000 euros",
-      "enlace": "https://www.informacion.es/marina-alta/2026/11/12/estafadora-amor-engana-anciano-comprar-136364108.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQe6H8iu1WmXajBltTlspdIr1lVzAhBgHC0Rw_yiKoZKydTEXi3LMLsI09D0"
-    },
-    {
-      "termino": "italy vs france",
-      "trafico": "100+",
-      "noticia": "Italy 3-1 France: Italy come from behind to beat Zidane s France",
-      "enlace": "https://www.bbc.com/sport/football/live/c3rrygq0z2y2t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrvHCEYkJh-Zgo2SR3R8IKGiBCOeH9QWGsZBinNR_nPP4h56cNAvzbll2dYbo"
+      "noticia": "Condenan a dos años de prisión a hombre que amenazó de muerte a Marco Rubio y Kristi Noem",
+      "enlace": "https://elnuevodiario.com.do/condenan-a-dos-anos-de-prision-a-hombre-que-amenazo-de-muerte-a-marco-rubio-y-kristi-noem/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYO5_IMoImYMKpTRy2DD0fkMiNtK4uw5PUoIDNF4CLT2S05j-aW4om9z56p8"
     },
     {
       "termino": "angleterre – croatie",
       "trafico": "100+",
-      "noticia": "Ligue des Nations - Ferran Torres et Fabian Ruiz titulaires, l Espagne s impose solidement en Tchéquie",
-      "enlace": "https://madeinparisiens.ouest-france.fr/infos/article-ligue-des-nations-ferran-torres-et-fabian-ruiz-titulaires-l-espagne-s-impose-solidement-en-tchequie-545556.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw8qZ40Jt8hxxSZ-eYeaCZDvTOqtZdWZbueo0ZeDhxaoWT4gDQH8iv40SVTKE"
+      "noticia": "Devenu le joueur le plus capé de l’histoire de l’Angleterre, Harry Kane a présenté son Ballon d’Or à Wembley",
+      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-angleterre-devenu-le-joueur-le-plus-cape-de-l-histoire-de-l-angleterre-harry-kane-a-presente-son-ballon-d-or-a-wembley/20245411",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvgSwA8bEHWaAFgmrNoE0dx6P_uF0BuJlTiFsxRxfDXZgIUgFpHNW3E96lOaI"
+    },
+    {
+      "termino": "czechia vs spain",
+      "trafico": "200+",
+      "noticia": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
+      "enlace": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLI9EMoi5jvHN3KOFjqYp0RvloBbB4ypHSontJfaK_eVvrOTwz0EEkCg7v2ls"
     },
     {
       "termino": "banco popular",
@@ -67,13 +74,6 @@
       "noticia": "La IA gana terreno en el sector financiero nacional, 79% de los bancos múltiples ya la utiliza",
       "enlace": "https://listindiario.com/economia/20261111/ia-gana-terreno-sector-financiero-nacional-79-bancos-multiples-utiliza_929643.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjOKxZVwIGYvFcHDgtV31mLKzTMcY0r5yK0_fTIycEKBK10r7I52OrSNrNXNw"
-    },
-    {
-      "termino": "liga de naciones",
-      "trafico": "200+",
-      "noticia": "República Checa 0-2 España: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/seleccion/republica-checa-espana-en-directo-liga-de-las-naciones-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-S-9gU8bPc0ExxBQ3Up-qjNWraoO5yMYBVLN4K7HMAGcYOkm0gvq2TXAYwFE"
     }
   ]
 }
