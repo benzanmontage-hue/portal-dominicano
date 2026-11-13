@@ -1,89 +1,9 @@
 {
-  "updated": "2026-11-12T21:02:00.363237-04:00",
-  "hora": "21:02",
+  "updated": "2026-11-12T21:22:26.455793-04:00",
+  "hora": "21:22",
   "fecha": "12/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "A 25 años del vuelo 587, República Dominicana sigue en deuda con sus víctimas - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVW1BQWJ1d1R0MEZEU09TR2p5SzNNdEJBV2N5azZubmlpeFVYMV95M0NtQldKdXl6QXFUeWJ0cHoxdnpLNDh1dE1wXy1VLWM3eS0yTVZ3bU83anpIcjJqQWwyWXAyclFwRWFob1NPR2x3a21TOXltMkV3dGxLOTVUNjhkRHFBZ1ZoNVd6YUZJbW9JQkY1QWJWYnRzREoxSWhOZHd5UE14SHpBWHNjZ1FlYUdiY3o5V3JzVXfSAb8BQVVfeXFMT2NCRUJZSzJFS1FaOXVzMTBvdC0yMHhETnRZRjliRnduTUhBQUh5LXFkUHU0V3NCeGFuUGhvclhhT0tlNTB1d3U0cE9iZnhXNmpwcVZfOG15cTBtclFHamhPZXpxLUtmOUNnWHRDTlZ6V0hTaDJtdHBZd2VsU3pUYmhmUFVlSHB3Umt1RllTWldIQWhmb0YtaUVLNDVIajg2TW43Zkc3NS03c1JsMm04azM0dGhfdkpsWWpDSUJWQUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 04:01:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/11/11/accidente-vuelo-587-y-su-impacto-en-republica-dominicana-bb108d43-focus-0-0-1200-675.jpg"
-    },
-    {
-      "titulo": "República Dominicana vs. Puerto Rico en el Hiram Bithorn en diciembre - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGNVOVpyMjQwbVB1azR2bTVjQ0oxNG45TDdvXy1Xc0JBUmZhR1Z3bS05bnJYVWtxYk5PUEFHUDlINkVJeHd1Z0JPcXVMQUpvdlh0WTRCQTYxWUt1MGk5eXVDMkFqM29xTUJnb1FTWUdZYnlhSF83aXlZUERWOGtWUWtzck02N3hSb1pETVpkcm41aWlYRHh4cHJFRV9hYmw4TU5paGF0bW5MTkhhN2RlZWFaTVliYzZ2VjB3LVZVVF8?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 09 Nov 2026 20:14:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "titulo": "Morel Diplán asume como ordinario militar de la República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEtia1V4SS1SQlI2T0stak1rRFluOVlxMDY5YWV0OVFyb3h1bDZZaWtLcFZ3R3hRNFVhc3BRem1pNHhMSFBfMTJRY2ZBWnhjQU5jY2VuWExsM2lIMWFacS1wNjdZelFhUlFHNkdFWkxPVmVBMm1JUnhlLTJ0WWQ5UnIxMGhVR1ZkaW00ekRKZHZuUjJ6M3dLNVZLVVFHUzlfR2tiNWthTVotUXBZWWNZS2F0VFhnNDDSAbwBQVVfeXFMUFRDODBGbGo2U2s2VG5iX2hxY25jMUkyMU9aMFV2WGRUVkhvcjNQTVowRmtUcjN6UDczZkdWU2pHSVFCclAyYm9ZbnYwSUJFd19kYUFnaFlvUFZtUGg1d2FINXM3NGZyRjBhckg0eVBjc1lrWFBhdDFBaFRFbjk2MGlKcGYtcjRHSlA2alVxQ0s3TU1SVGFuZE9UYzFDWEpTX0pSNTF4cTByazNCa00yVnptMnB5ajU5NmZWNVM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 17:51:55 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/11/6af49f518943b.jpeg"
-    },
-    {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 14 y domingo 15 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNUdrVWlJWTkxV1R5MWx3d1B5ODRGQVdxajNLNDhYd04zNTdMeFkyNDNDbDc5TEpnVWd3X3YtSmRQN00xdmhJREhMdjZ1VU9sSFpyNU8xMHQ1UzJCT2VzZU9mTDVOSTVvTm0wUHZZdTJwMFotYjk5T3RMNmpIME9KZW9IS1pfdkRUaFV4bXJaVUpnMXBTWE1qUDJhWEdxckJ2bUI4VXlaaFZTajZ4YTVqYWRqUnpUa21TODBndFdXckZEMENwWDdNSl9ISm5PWU9OMWpSSXZZal9oR2JqQ1E1WjZTcEJFWERZOW5OWnVRTV9jLVF0VThFaHI1WDN2ODdUeDJv0gGDAkFVX3lxTFA1R2tVaUlZOTFXVHkxbHd3UHk4NEZBV3FqM0s0OFh3TjM1N0x4WTI0M0NsNzlMSmdVZ3dfdi1KZFA3TTF2aElESEx2NnVVT2xIWnI1TzEwdDVTMkJPZXNlT2ZMNU5JNW9ObTBQdll1MnAwWi1iOTlPdEw2akgwT0plb0hLWl92RFRoVXhtclpVSmcxcFNYTWpQMmFYR3FyQnZtQjhVeVpoVlNqNnhhNWphZGpSelRrbVM4MGd0V1dyRkQwQ3BYN01KX0hKbk9ZT04xalJJdllqX2hHYmpDUTVaNlNwQkVYRFk5bk5adVFNX2MtUXRVOEVocjVYM3Y4N1R4Mm8?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 19:00:05 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
-    },
-    {
-      "titulo": "Negocios chinos en República Dominicana: La otra cara de la expansión comercial, ¿en qué condiciones trabajan sus empleados? - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXRVQ3ZHZmNsaDlQRkxySThpTVB6U1BJNTZkTTlyQXRoRDhhcmh6WVkyN0U5XzlHOU9PSXhveVU2aTdZVnJVcGxUUlRfWkVMel9wMlFhZGJ3OEVVWU1uOVFQTmtqMW4tcnVQS2JDeVBURURWem91VER5ZkJlTFNfNXo4Z1JNeUQ4S0xGVlZfVm4zY1RaWDlPUE1wZ29tbDExdGViSk81Z0xRZ3NQUG9TdHpHZm5lVVlDTHh3Nkh3b25ubVRrWlFCY2Zna201X3NPUTlISGMxUEtFWDdKQno5ZmtUVDc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 14:19:38 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Morel Diplán asume como ordinario militar de República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamtaSlZVeTQyYVU3UXluTzd3RU94MGk1Ykt2U3pCS2szdFRpMXR1VjY2WTctc2J2TUpGajBWQVNjU1FWMW1PVDFBVWxlNndxRzRJa3BsTmJiSU5fTjVlcF9reTVSb0JNcVdEUW5kenF5Tmx0d3g2UXRwbV9PY01jNTF3a2hxby1kc19qZVF3VEZRaklxTlJQbGRURU55QlFneE90VEEzeFcyZ9IBrwFBVV95cUxOUDM4YjE2ZHRtT2ZyX1VncFNfQXc5ZzRfNWZtODNTMnJkOVc4a09ySm94RXJacktsM2RLVV9iUThHNm1EWHpSOVgxTUl2NXlTUmUyNGFSX3dkOU1jUjlYaEhlcnhFSl9wamd5a3pMMDZTbWpQdVVEaVZoWEtXaEV6a2dvXzZCLVVZZDZpQlVIRTdCV3pGZnQwSFpMd2ZyNFhrVmJvMDFKcHNLT2otWHRv?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 11 Nov 2026 19:52:47 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Qué pasó con las 2,000 obras que quedaron inconclusas en República Dominicana? - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0MxeW1FLU0yM3YzWlpTLWtyUjIydjNhMGdzSUxvbnFXd0pNdGZCcm9iYy1OcXB2ZFBtanA0TkdUM1Q4ZDljenhYeUh3a1FGRDZYbHVEQnpPSkdhaFJYeHhfRGt0NVdXWGt1OGhKaHVYXzlYb2sySHNDaE0ycXJlcXg4eU1EaUNqZExLT3pfbGk1TkxHVnpCZ1F0OUNfbVhsQ2U0YWVORzFVeHhwcjB3TTY0T1FlVUFSb0dlLWFZWdIBvwFBVV95cUxQQ0MxeW1FLU0yM3YzWlpTLWtyUjIydjNhMGdzSUxvbnFXd0pNdGZCcm9iYy1OcXB2ZFBtanA0TkdUM1Q4ZDljenhYeUh3a1FGRDZYbHVEQnpPSkdhaFJYeHhfRGt0NVdXWGt1OGhKaHVYXzlYb2sySHNDaE0ycXJlcXg4eU1EaUNqZExLT3pfbGk1TkxHVnpCZ1F0OUNfbVhsQ2U0YWVORzFVeHhwcjB3TTY0T1FlVUFSb0dlLWFZWQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 14:00:36 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "TIMM celebra diez años de operaciones en República Dominicana - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDZ5eWFjQ1FURVFzTGdwSURaeXZ6d0R2dnBKZEdnYVh5QmZwMVhfVDZpUkpxWFBFLUZibm9JcFJPZWE4cUpQdVZtTEthQmlTUktSelhCR3JHa212RG5mdmJ6NWJPQ3dJV09lMTgxVDdBNXJxOUlERVNSVTJ4RnBBcXJ0LWc5VXV3WjJkVFdER0FWREdXY3E1VjM2cmh6TjZuTm9wVU00c0jSAagBQVVfeXFMTmg2eXlhY0NRVEVRc0xncElEWnl2endEdnZwSmRHZ2FYeUJmcDFYX1Q2aVJKcVhQRS1GYm5vSXBST2VhOHFKUHVWbUxLYUJpU1JLUnpYQkdyR2ttdkRuZnZiejViT0N3SVdPZTE4MVQ3QTVycTlJREVTUlUyeEZwQXFydC1nOVV1d1oyZFRXREdBVkRHV2NxNVYzNnJoek42bk5vcFVNNHNI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 03:00:01 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este jueves 12 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSC1Kb1FpZmk0TlNCaFh2NzZ2eXYxWjNXakFWclVtX1V6cFcxbXFuN2lOc1ladGNITEtsdm9MbHNRdFNlMkRFNHVBU3pFd2x0TTNmY3BuN05WNGRoMkNfSkl6Y2FEWDBVYnFucHpTcHpNYXplMG14ZkJyenFIeE45Z1h3aUZ0YnJVNDJjQkN0ME0tQ1dzdEZidDczMHB6OW1qV0Qtc01jYXRvY21YaXNfRG5lYmxIVXR0NV80UG1ieHMxdjc5NVRGUDNCRk41VmVkWEFqSWJuZ9IB1wFBVV95cUxQSC1Kb1FpZmk0TlNCaFh2NzZ2eXYxWjNXakFWclVtX1V6cFcxbXFuN2lOc1ladGNITEtsdm9MbHNRdFNlMkRFNHVBU3pFd2x0TTNmY3BuN05WNGRoMkNfSkl6Y2FEWDBVYnFucHpTcHpNYXplMG14ZkJyenFIeE45Z1h3aUZ0YnJVNDJjQkN0ME0tQ1dzdEZidDczMHB6OW1qV0Qtc01jYXRvY21YaXNfRG5lYmxIVXR0NV80UG1ieHMxdjc5NVRGUDNCRk41VmVkWEFqSWJuZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 07:59:17 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana logra ocho medallas en el boliche juvenil - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXhBNlFTbGlBNzJJQzBCQWJyNlJNWXRuNzNyX0dRZzdyd0s4ZjZOOEhJb25ZbjZEMVBpc3dWN3ZKa0xZRmRBRkc1cW9UV2FzU0xJMDJEU0ZEVTRvd2N3ZXVnWFhVbXZ6ODluZnBfUXBHdGp6Y3hXMm1IUEVINks2enVRaUFET1JyVGZjaUR4djAzNmVUZC1PeUVjSzVtMGd3R0VQOUltUVJ1M2J0MC1vV2N6S0hhdTJqM1NRelhJdU_SAcYBQVVfeXFMTjViWHJwY1JCbWY0bmZfQ0dXSkEycUJSVzBzNTU2VkpKOFFma2gtNnFoUndER1VXa2VQMmN4a195RU1BM3NKb1dfdVFtVjhDa29iQjROSzBxVWdFZkFWYUJGNzNodnR0NF9JWUV5Q1l3UjhoMjhjMFM2Z1RTazhUNTZsdEJrT0hEaXJoUTJ1RU5Lak9MQUo4NkpqWC05MUJkOWY3dkRnblZ3SlM4LVltdE53S2VVbGN5WXZBNHZnSEx5QmNfT2FR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 02:21:43 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
       "fuente": "ESPN Deportes",
@@ -101,14 +21,6 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana ocupará el lugar de Estados Unidos en el Mundial Sub-17 - El Gráfico",
-      "fuente": "El Gráfico",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0hCdW56d3o3NHk0VnptNjFKZE1fel8yQUgwX3JYOFJRZkppc3BGdkNLQ2VtbkhMYl9sc085VHR0WDB6eDhJMlJyNnZqY0V6S3NKU2I2R1BhbnNrUDl4WkdFZEdXYkNKZkJDTWR3VHh4M0dwd1IyY3pPOEtlbDNyb2RRek9TMDlZV1NPNjBBZXNjbHV2bnlIMFJfekdpeTFyUC1zMXZEdGtqdjNwa3NHa1ZxTlpic2hEMWlrTzZCcnYtUXpOQlVj?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 00:12:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana sustituye a Estados Unidos en el Mundial Sub-17 - Sopitas.com",
       "fuente": "Sopitas.com",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRfNFllOG1tRUZuR0NTcUU3bUhOakw2dnlybnRJY25IRGpvejFCVHBKcUs1ZGxTaXNseXQ4QVl0NXAxRWwwMU1aSzFsekJxend0dHBSN2xtMnBacWZEY3htNGZaRXR1cTlQOFVNSF9YbGtZNEhPYXJKNjRSSEhpUHgwLUtDaWxrSHhuT3dTaWxWU192aFI0OQ?oc=5",
@@ -122,6 +34,94 @@
       "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQWlEdl9XZVBZN3ZqV0RZT2JuellUd0VDMWpNaVJqYlczUDZQQmwta1doSkg3ODVUNVhxS3FPWmZaNC1ibkJMNlRnU3JNQ05hOXk5S3FDano4VTRHcUs3UVhfUTJFd245NGQtY0gwc1B6VUVWYndpTHZuZnJ4NjNpZVZ3Y2JUU2hsOFBCSUczdHk0UXh3WDk2Y21wS0ZiQzdyN2lrZ0U5TGRiampQeTRIemhBS21IX3VGTVdBSnJNaU15bFFNU3JzeEJNVzAwaXNtc1FhNXoxaWVLbUNnUWVBWXJKOXdUTG5nSjJ0U05TQXc5UThhbHBQeGVFRXJNZFVQR1RCRWpDYw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 11 Nov 2026 23:43:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana jugará su primer Mundial Sub-17 de la FIFA tras retiro de Estados Unidos - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTFOX0NGa3Z3dUUteFVjLWVJNTB3Vk53Q0pJanVWM3JSZnZqOEhkMkJ5Ykh2Wl9FRWZNQ2pkV25UbVhXQ2pBeXUtRHFYWk90VmxhN1NoNjVzRkpMMHU0WE1qbndxcWhOY0hIdE51c0hZck9haS00S0pqWHpqU3ByWXNSbEZldndfRHpEV1FwRmg0aFM5c2FxNG9CNlpqdHh6OUUxR2l5Y1FJVm1hYnI1cVpjbk9Jb3dWaGFPZDV4MDJRcTNRNGNzOXlRNjdVcU5kMEN3OFpVM1NsT3BRbEZWNHpya0LSAf8BQVVfeXFMT2dyUEpIb241bncya3UwU0cxRjRTWjVBLTNrNnlBWm4xb25laEFhWDQ4M25ISWJ5MmNiNFhwaXcyMDJEOWRGdkwtUmdjMkxVbDBrUjNTSHZJaEJBM1ZsRmpiN3k5NndIdTQySDJ1Mlo4S1A5TnIyUHlWZWZBTVpycC1iaFV5QVk5b19Yd0N5Y3gybmpZX1JLcTF5NEhSMjRubkNtTGRUeTF0OUFXYTk1dEM5TmJscTFGU211cmE3Ni1ValFiQnNWajYwMmVJX0hQX3RGQ09FUkh1WDNrV3FGMFFzLWVNUTFoVjNSOVROZXRUUHp1MVo5dG9TLUFHR0lZ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 00:33:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Mañana viernes inicia la venta de boletos para el Duelo del Caribe entre República Dominicana y Puerto Rico - Howl.Link",
+      "fuente": "Howl.Link",
+      "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9va1QwOEtKS2hDeVdiNnJlZHNCU2djRng5N3JMa2std1o4bUdjTHJWTWRod0lvYzdtMlVV?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 22:03:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Curtailment obliga a Grupo Pais a refinanciar su cartera renovable en Dominicana mientras invierte USD 40 millones en baterías - Energía Estratégica",
+      "fuente": "Energía Estratégica",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZkE2R2hEZWtRcEpKNXdNQ2FYRG15Z09UVEhHR3VOUmg5ejFPczM2VWNwajJQTzF2YmdMTEhzYlEyNV9EU0VFMU5IeGVNMG1oX21zXzJ6OWlwWVgyVmZITnR3b1hmd1N0Z1JTOGU2OGpRNFFua3NXNUhMd2hPeHhYNTUyRXBDNjNpd0pLUl9BZUFzU1Z3Qzh2R3NNRDZJaHo1MUM2aWhYQktxNHRzMF9tVWgxdFFDV1gtRUdUaVdyUVRtNUp0Q0YyTFZMalQtS0NkV0ZTeFp0UjVTcTliZjJXbUxOUURmcjZCNmpVMjhZNkdEV2xoQWdaUC1LOTVlQlJVSHZV?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 13:03:39 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Más allá de las playas: República Dominicana y el debate global sobre minería submarina - Global Voices en Español",
+      "fuente": "Global Voices en Español",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjdfMUR2TnhmUW85NTlHV1FXVTFZc0VfbWp1U0hVb2x4b0d1M2owR1VUUGUxZ0JqUnkxc08zSjQxZ0VoMTZMeVMtalNLUVFDOGx5ZjZsaGFvUTJJanFZejFLNlZtTTZ1amFQUFhDZTBydTJWQlFPVFNUZjJoSVVacGtaMUdkbnpMcHRKaVhiTDdMT3BVWTQ5Tm01aHdFeTQ1aXJERXk5dG96YkhuR3VEbmx5dE1wU0hKSnAyWXJycVBnTnV6?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 11 Nov 2026 19:10:37 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana vs. Puerto Rico en el Hiram Bithorn en diciembre - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGNVOVpyMjQwbVB1azR2bTVjQ0oxNG45TDdvXy1Xc0JBUmZhR1Z3bS05bnJYVWtxYk5PUEFHUDlINkVJeHd1Z0JPcXVMQUpvdlh0WTRCQTYxWUt1MGk5eXVDMkFqM29xTUJnb1FTWUdZYnlhSF83aXlZUERWOGtWUWtzck02N3hSb1pETVpkcm41aWlYRHh4cHJFRV9hYmw4TU5paGF0bW5MTkhhN2RlZWFaTVliYzZ2VjB3LVZVVF8?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 09 Nov 2026 20:14:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "titulo": "República Dominicana fortalece su agenda de cuidados como política de Estado y eje del desarrollo nacional - Presidencia de la República Dominicana",
+      "fuente": "Presidencia de la República Dominicana",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmZPS3NXZW1NclVNTzV3MjdiUXhHcF9KTzJ0bFFRN05XdGFkTFZqaGtxZThlZ0tLVXE0VkxpR0pIWEdQM2Yzb3F0WnJweXVIQTZIUWtqNjRDc2l3YkZWYm9mdFBjMGtPdUpRQzdfRXJiWldmYnB6MGdmT3d5NHIwNTZwV3A0bWJHekYyZlJZQjZLd09NNjAwdUNTa0xUcXNmcnNIRWZ3Y0ZlTG9yMGo3Ym4xd2x0SXJPemNPUXJiUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 18:05:19 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La República Dominicana jugará el Mundial Sub-17 en lugar de Estados Unidos - MARCA",
+      "fuente": "MARCA",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDJHMU1kNHBBTjNLLUhqWEF3MTg1ZTZvQzh2bGRfOFdjd05ESkVVdzdjanBvc3VoQkRIYTczWWFreGVtb09FWWppcUtYenV3dnR1U05tRC1VMTVNS2VpSnVKYloyVktTcTJ6ekRMd05tZEl6VWl3VkJodDB2ellLLU1iendJU1RvUXp0ODRrSHY5M2dWbkNHNVdENlQ3WUFnOEM3b25Ock5VUThTQ2EyaU9Rb0JvTGh4aUVMWmo0N03SAcABQVVfeXFMTk5Ib2pIVTdpVk5rLTB4ZGlWdlRqTEZzUThkRUJrN1cwaVpmRFN4Y1ZPLXdjLVhSOEVKZUZjbnJ2WG5OSVgzRV9aY1l3Xy1PTVZCS0dlTU54ZWZsWG52cWRLWU1XaDVPYkc0NG5hcTZTQWl4NFNDa2szSTFPa2JobFlycTM4cE1aY0lkYVBHbTlGM2ZSc1Zkb1MzR1dYUU1ubW9TSkpiWUIzanBiMjhTYzRHY0d4anVKcjZvX1BST0hW?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 20:19:05 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La modelo dominicana Melissa Núñez brilló durante la bienvenida oficial del Miss Universo 2026, celebrada en Aguadilla, Puerto Rico, donde continúa su participación en las actividades de la competencia. A través de sus redes sociales, Miss Universo Rep - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91VWw1THBBVGoteE44SkNrcWRCa2JDWEZKTE9YY2lhS1dfYzRKMGU0Ujc0X0R3ZWlhNFdHSk1NS04yQ0F0RXpQSnctRVdwTlhBd01PTFBR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 21:23:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Murió Melvyn López, histórico entrenador del baloncesto dominicano - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGZ1dTJFbTNKcEFSNFJWVlowTmtPaUZ6bWRXMmk0enNlWTJaZ2JUSlFoSng3aktDdXFoUnZuOS1abjA4T3hkUXJnNXBtS3Y2cFZVQVFlVEpVaHRiNG90Sko5cVdaM3FvRXdvM2dfaklUNXJHNmQtOE5UZGYyRHlvN2NMcDF6N0d3OGNlS1BsZ3FqTktMZFIxZEN6SmRWTmpMeDNXQ0swZEVjOUxtZ1RlMzhCdUZfRFVka1dUNGRmc9IB2gFBVV95cUxQNFRsT3hTWnA0NzN0aXpTS1ZfeHlmYjl2MG9HdmVzVzIxU2JFSl9uaWhUVGpLMDE2T0ZKQktQZWdIaVczQ2xqWV84NC02cHBpbmduRHRMMmNoVm16SDREQ0RqUjlzbVdncDN5Q0lZTWZNV1FGTm5VY2dFZDVpUEpBTXRqdlFSREw2ZlVfSm1vSE1OU04zYlFaQm03VXByTjRhQ3RUYm1kVzBsYktVNUllNUsyZzdfZG9pTTU0RUpVYy1iU0V5VnZ6ZmRBM2Q3Q1k5RkN0M2E5QXcxZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 18:15:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Las fronteras de República Dominicana, de frente y ajenas a la crisis de Haití - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVkwelV2ZkFPMmF2Qk56Wmp4NVoyQ2E5NU9XbmloWVk3VzR0TlQ2c3NJMFpGNjdtd1pLSHgzeXo0QVpQOHBPODRnU2tKYkdFRGNTSWktUWNDb2xQbVNXSF9peV9WdFRfbG1QeXZVUzRNUFhhaVU1d05lUmJxbmM5RW92a2pSclVQR2ZRZjdGX0RFb1ptMFgzV2xRejV6dDllck5yLWltRVhFYzZHQV9Nb0hIdzJUY2w2aDhBWV9lRzFMU2ZWVFdQSGJn0gHkAUFVX3lxTE91T18tSzlhRlRsZ0pDU2t2dktlNFVYM3VXeEVEWWJXSVpRdnpxSmQtXzlNRWlpZHptUTNWaUp3V3gtQmw4bU9oeDduWEJnVm1YNy1nN0dlZ2lZZ1IxbHRLcWNZUVdsODdtZHAxSm9fNDhURGpsZFRjWU92bkhSTm5sVkZkbUpYZHhnRU80UWlPUnlSbDVyeWNxMlNzVjBoTUF5S1VIeGFUdnowQzVDZ0NzSERzTXpxNWI5SG5VdkJ1LW82c3pZc09kUjVPXzVHUXZYSFBGOW1vUGpmeTFfZUNsZElCTg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 12 Nov 2026 22:47:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Julia Muñoz Alegre, diplomática y política de República Dominicana, fue seleccionada para participar en la 13.ª edición del Programa de Innovación y Liderazgo en el Gobierno (Innovation and Leadership in Government – ILG 2026), desarrollado por George - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15VW9DUzBrV01BamJHOHR2NnFPTEZoSHVwUHBBeVkxX3BVQWJ3UzhJc3JCNldQTG5GSm5zMHY0cnZ3bE5fTFNoeVpsLVJHMDRqUXc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 11 Nov 2026 17:50:07 GMT",
       "imagen": ""
     }
   ]
