@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-12T20:41:22.964436-04:00",
-  "hora": "20:41",
+  "updated": "2026-11-12T21:01:58.916669-04:00",
+  "hora": "21:01",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "vuelo",
+      "trafico": "200+",
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+    },
+    {
+      "termino": "wizards - pistons",
+      "trafico": "200+",
+      "noticia": "Pistons bring stingy road defense to rematch with reeling Wizards",
+      "enlace": "https://www.cbssports.com/nba/news/pistons-bring-stingy-road-defense-to-rematch-with-reeling-wizards/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTOcffCvt0iSr2JPsLIVmNIFteTdx2y-8kBBItrSncPkYlNJT_iUQeMTqp2K8"
+    },
+    {
       "termino": "república dominicana",
       "trafico": "100+",
-      "noticia": "SpaceX destaca que Starlink tiene 50,000 clientes en República Dominicana",
-      "enlace": "https://z101digital.com/spacex-destaca-que-starlink-tiene-50000-clientes-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tn8xWKQCpVH-v09_lUY_xOyIQ4LIF1vIQJDB4R7jiuy6PdPQzhEM-MvCREk"
+      "noticia": "Estados Unidos se retira del Mundial Sub-17 en Qatar por motivos de seguridad",
+      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17506045/estados-unidos-usa-mundial-sub-17-qatar-renuncia",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvns9vbRzZB_bngfZIc4zFAaCEEe5_cTsqZPM8AMsyWd-YEhtKe5uVku7h3JA"
     },
     {
       "termino": "76ers - raptors",
@@ -29,9 +43,9 @@
     {
       "termino": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia",
       "trafico": "100+",
-      "noticia": "England 2-1 Croatia: Record-breaker Kane scores winner as Three Lions qualify for Nations League quarters",
-      "enlace": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlaCI-zYPVIcoJZ8jXAsraqET6d3lw-akwwpIJmE7YVioPJIWub6KW7xgskzA"
+      "noticia": "England record-breaker Kane inspired by Modric as he chases  biggest dream",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50465261/harry-kane-luka-modric-england-croatia-record-euro-2028",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCuwHu8ZJROhfXX0uBFbQO6AGlbo-kEY7IKVtQ-QfFOykJxvNnT0RM6okz41A"
     },
     {
       "termino": "latin grammys 2026",
@@ -55,25 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYO5_IMoImYMKpTRy2DD0fkMiNtK4uw5PUoIDNF4CLT2S05j-aW4om9z56p8"
     },
     {
-      "termino": "angleterre – croatie",
+      "termino": "italy vs france",
       "trafico": "100+",
-      "noticia": "Devenu le joueur le plus capé de l’histoire de l’Angleterre, Harry Kane a présenté son Ballon d’Or à Wembley",
-      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-angleterre-devenu-le-joueur-le-plus-cape-de-l-histoire-de-l-angleterre-harry-kane-a-presente-son-ballon-d-or-a-wembley/20245411",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvgSwA8bEHWaAFgmrNoE0dx6P_uF0BuJlTiFsxRxfDXZgIUgFpHNW3E96lOaI"
-    },
-    {
-      "termino": "czechia vs spain",
-      "trafico": "200+",
-      "noticia": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
-      "enlace": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLI9EMoi5jvHN3KOFjqYp0RvloBbB4ypHSontJfaK_eVvrOTwz0EEkCg7v2ls"
-    },
-    {
-      "termino": "banco popular",
-      "trafico": "500+",
-      "noticia": "La IA gana terreno en el sector financiero nacional, 79% de los bancos múltiples ya la utiliza",
-      "enlace": "https://listindiario.com/economia/20261111/ia-gana-terreno-sector-financiero-nacional-79-bancos-multiples-utiliza_929643.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjOKxZVwIGYvFcHDgtV31mLKzTMcY0r5yK0_fTIycEKBK10r7I52OrSNrNXNw"
+      "noticia": "Licensable picture: Italy v France, Nations League, Football",
+      "enlace": "https://www.reutersconnect.com/item/italy-v-france-nations-league-football/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZQUoyRDY",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQonWixNJIWTeNVXNCTvihd1QcjYWSbLHOYmu9vyay_rHjHM1hjYDuzPbkyqw"
     }
   ]
 }
