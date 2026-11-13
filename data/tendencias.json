@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-13T19:28:15.853389-04:00",
-  "hora": "19:28",
+  "updated": "2026-11-13T19:48:46.953042-04:00",
+  "hora": "19:48",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "estados unidos",
-      "trafico": "1000+",
-      "noticia": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país  por circunstancias extraordinarias",
-      "enlace": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSelDKGqybJSXAMinX83T-w67cyr6dsnisIqpyl4JUriZNT4w0EqPxix2hzwwM"
-    },
-    {
-      "termino": "argentine – uruguay",
-      "trafico": "500+",
-      "noticia": "Pope Leo XIV moved to tears by testimonies of faith and hope during Argentina visit",
-      "enlace": "https://www.osvnews.com/pope-leo-xiv-moved-to-tears-by-testimonies-of-faith-and-hope-during-argentina-visit/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs8NIspYByNW2-P9tZH2HXuO52jNvidmTuRJrwsSuaB5q7UtLgbwjA7V-JrTE"
+      "termino": "frontera",
+      "trafico": "100+",
+      "noticia": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana",
+      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/13/el-comercio-minorista-resiste-a-la-crisis-de-haiti-en-la-frontera/3719851",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
     },
     {
       "termino": "argentina - uruguay",
@@ -43,7 +36,7 @@
     {
       "termino": "faa",
       "trafico": "1000+",
-      "noticia": "Live updates: FAA issues nationwide ground stop for all flights",
+      "noticia": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
       "enlace": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLmMo1cNfAW0b79RqIQs_qfVFL3F2qTKmFXvcESdjYVoOWzLyeKw8TpeyFE1E"
     },
@@ -74,6 +67,13 @@
       "noticia": "Amnistía insta a Haití y El Salvador a garantizar respeto a DD.HH. en lucha contra bandas",
       "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/11/amnistia-internacional-exige-respeto-a-derechos-humanos-en-haiti/3718061",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4dt0kAof6nRTavuJhyggSeqGX5O0uszfiE4fC2IKr8bfgWxNNx7RFqn0sG2Q"
+    },
+    {
+      "termino": "serbia - alemania",
+      "trafico": "500+",
+      "noticia": "La destreza táctica de Jurgen Klopp propició una cómoda victoria de Alemania en la Liga de Naciones.",
+      "enlace": "https://www.vietnam.vn/es/jurgen-klopp-cao-tay-duc-thang-de-o-nations-league",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVSZj1dcQA0kVq4EcgjiQXDzfeuaEs-XtJfTd080x5DCFrCdrmrVXypetRpwQ"
     }
   ]
 }
