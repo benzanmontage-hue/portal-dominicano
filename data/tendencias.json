@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T08:52:31.140344-04:00",
-  "hora": "08:52",
+  "updated": "2026-11-13T09:12:52.465869-04:00",
+  "hora": "09:12",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "junior caminero",
       "trafico": "100+",
-      "noticia": "Yordan gana unánimemente el 1er Premio Jugador Más Valioso de su carrera",
-      "enlace": "https://www.mlb.com/es/news/yordan-alvarez-gana-jmv-liga-americana-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxkvPwsgOPDJEIOhCquyk4V2zP1dXPaal7y6pltNb54did3D4jWqh4PnAmDyU"
+      "noticia": "Agente de Junior Caminero revela que Adidas le pagó más que los Rays en 2026",
+      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/12/agente-de-junior-caminero-revela-que-adidas-le-pago-mas-que-los-rays/3719327",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKcNsap726JhUpuG-pAAgmablKm6yH7_kmIgWAHJUmjlFGhJdBhtQuGdr40aY"
     },
     {
       "termino": "clima de hoy",
@@ -27,6 +27,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0TX8GJ-1xr49kJrosAHbTS6UUi3Ar_Bxf9qjhMszCOt2kq0xKNyzyAMmNHnk"
     },
     {
+      "termino": "aeropuerto de punta cana",
+      "trafico": "200+",
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+    },
+    {
       "termino": "alerta",
       "trafico": "100+",
       "noticia": "Ocurrirán aguaceros; en alerta dos provincias",
@@ -36,9 +43,9 @@
     {
       "termino": "kick",
       "trafico": "100+",
-      "noticia": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-      "enlace": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LxfvV6Aku-36afdXY9rQxna6G84QWx23KuKcNJfdDck3pXJ7k28SGwLdjE"
+      "noticia": "GTA VI Betting Odds At Stake: Kick Streamer Race, Ending And Metacritic Markets",
+      "enlace": "https://rg.org/en-ca/news/gambling-industry/stake-gta-vi-markets-alternative-ending-kick-streamer-race",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKb6M6fP0Bg_Hoa9r231pNHoPTGy2iqjecGn4XYqsMWX69hCJeeMA1Du0lh40"
     },
     {
       "termino": "aterrizaje",
@@ -67,13 +74,6 @@
       "noticia": "Curazao y Panamá empatan en el inicio de los Cuartos de Final de la Liga de Naciones",
       "enlace": "https://es.concacaf.com/competitions/nations-league/news/curazao-y-panama-empatan-en-el-inicio-de-los-cuartos-de-final-de-la-liga-de-naciones",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM74zPuC3pgtpx22bn6HYc7ZB070gwWB1k5rVw7rNNh-5nO-UqHqsWKDWrspQ"
-    },
-    {
-      "termino": "vuelo",
-      "trafico": "1000+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
     }
   ]
 }
