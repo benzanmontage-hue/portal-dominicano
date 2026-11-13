@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-12T21:22:24.498858-04:00",
-  "hora": "21:22",
+  "updated": "2026-11-12T21:42:46.698921-04:00",
+  "hora": "21:42",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "timberwolves - mavericks",
+      "trafico": "200+",
+      "noticia": "Hot Timberwolves host Cooper Flagg, surging Mavericks",
+      "enlace": "https://www.cbssports.com/nba/news/hot-timberwolves-host-cooper-flagg-surging-mavericks/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTOcffCvt0iSr2JPsLIVmNIFteTdx2y-8kBBItrSncPkYlNJT_iUQeMTqp2K8"
+    },
+    {
+      "termino": "curazao - panamá",
+      "trafico": "100+",
+      "noticia": "Curazao vs Panamá en vivo: resultado y goles del juego de hoy de la Concacaf Nations League 2026",
+      "enlace": "https://www.clarosports.com/futbol/concacaf-nations-league/curazao-vs-panama-en-vivo-la-concacaf-nations-league-marcador-y-resultado-del-partido-de-cuartos-de-final/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV_r7EGTIui0TSn79FZNFc5LY1lTU3hIqsj9se0OtCBVNlI1Wa9QU86jRunDo"
+    },
+    {
       "termino": "vuelo",
       "trafico": "500+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+      "noticia": "Vuelo presenta incidencia al aterrizar y aeropuerto de Punta Cana es cerrado temporalmente",
+      "enlace": "https://listindiario.com/la-republica/20261112/avion-incidencia-aterrizar-aeropuerto-punta-cana-cerrado-temporalmente_929923.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJypr4yDDNiK42kQg1u_e2fUWeNhVWu24NJj4exp9dZiBp08oZZTQnyp9L2ho"
     },
     {
       "termino": "wizards - pistons",
@@ -29,9 +43,9 @@
     {
       "termino": "76ers - raptors",
       "trafico": "500+",
-      "noticia": "LeBron ruled out vs. Raptors",
-      "enlace": "https://www.nba.com/news/lebron-james-ruled-out-vs-raptors",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMfswuR-npwBRU5_M7NQAuqQEVMPyJdqeC8dF5_cUiHSy-cfL14Ev0dvcnZBU"
+      "noticia": "Joel Embiid News: Available Thursday",
+      "enlace": "https://www.rotowire.com/basketball/headlines/joel-embiid-news-available-thursday-538840",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRqvhDxXKxZeyDe3ULFhWws4066EMV9AG-n2jwZ4-gcfknPLnFi3q2P3Q2Zq0"
     },
     {
       "termino": "techy fatule",
@@ -50,9 +64,9 @@
     {
       "termino": "latin grammys 2026",
       "trafico": "200+",
-      "noticia": "Todos los ganadores de los premios Latin Grammy 2026 por categorías",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/12/entretenimiento/ganadores-premios-latin-grammy-2026-orix",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCGzGAyLuddbuZMBOf6k7_IDcMYwNxbjXrA_EuIzHBkZeoEFhZjzchDm7ZGqE"
+      "noticia": "Latin GRAMMY 2026 hoy EN VIVO: Mon Laferte roba miradas con su look en la alfombra roja",
+      "enlace": "https://www.univision.com/shows/latin-grammy/latin-grammy-hoy-en-vivo-ganadores-nominados-actuaciones-ceremonia-las-vegas",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxRniRMHdLtQRfiRFD8oaQpg4esWo_Z1g9pYo6dA9f0E9jH8RH0c4iklm0PY"
     },
     {
       "termino": "venezuela",
@@ -60,20 +74,6 @@
       "noticia": "Sindicato critica multas a periodistas establecidas en reforma a ley de odio en Venezuela",
       "enlace": "https://elnuevodiario.com.do/sindicato-critica-multas-a-periodistas-establecidas-en-reforma-a-ley-de-odio-en-venezuela/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfP5KWdRpSa_0Iuiiy-fUljsjoN5-v5QjGzKodcR4KCr1uAE56c_o8CYwPfAM"
-    },
-    {
-      "termino": "condena",
-      "trafico": "200+",
-      "noticia": "Condenan a dos años de prisión a hombre que amenazó de muerte a Marco Rubio y Kristi Noem",
-      "enlace": "https://elnuevodiario.com.do/condenan-a-dos-anos-de-prision-a-hombre-que-amenazo-de-muerte-a-marco-rubio-y-kristi-noem/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYO5_IMoImYMKpTRy2DD0fkMiNtK4uw5PUoIDNF4CLT2S05j-aW4om9z56p8"
-    },
-    {
-      "termino": "angleterre – croatie",
-      "trafico": "100+",
-      "noticia": "Devenu le joueur le plus capé de l’histoire de l’Angleterre, Harry Kane a présenté son Ballon d’Or à Wembley",
-      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-angleterre-devenu-le-joueur-le-plus-cape-de-l-histoire-de-l-angleterre-harry-kane-a-presente-son-ballon-d-or-a-wembley/20245411",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvgSwA8bEHWaAFgmrNoE0dx6P_uF0BuJlTiFsxRxfDXZgIUgFpHNW3E96lOaI"
     }
   ]
 }
