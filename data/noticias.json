@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T09:55:15.914697-04:00",
-  "hora": "09:55",
+  "updated": "2026-11-13T10:15:37.694896-04:00",
+  "hora": "10:15",
   "fecha": "13/11/2026",
   "total": 15,
   "noticias": [
@@ -19,6 +19,14 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 12:18:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/JMGUESUPJZGIFOVEPTGVX35GMI.jpg?auth=b7267c4261bbdc0ca5000b657e5a8c872470f38e3b48f88466885e9dfe90876d&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "República Dominicana | Posiciona su agenda digital en la Conferencia de Plenipotenciarios de la UIT en Catar - DPL News",
+      "fuente": "DPL News",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1U5UXlQOFhRNTdhN1ZraWREeHFoRWl4dHBTd1QxWUdhWWxabGZsRENsZ3lLcHlhblRSaE5jdlN6d0NlM3ZERnJMb216NnJKdERHRF9IQVQ2Nk1zYWxjUXNIMGktelhOUjVpM3Z0dkptYlFDbXo5SE5naXU5YWRvNnZUTDJuWFowRmJUN0IzX0VxNU5tdkZvVGU1dGpXR1BPbndEVjlkcWdNZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 13:52:13 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana ocupará el lugar de Estados Unidos en el Mundial Sub-17 de Qatar 2026 - Diario AS",
@@ -42,7 +50,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEFIck50Vl9BSWN3S3BqR0NUZlJVU3UtX2NkUUxzZEpHU2VFby04MHE4WThPSW1pQkhjcWhUU1NQWHVWT19rSGliSzdPWFpuMm9HR21VdUlNTGlvVkpWVExDZ1lKUVdCbXBSMERWa0pXcl9tUWtwcG54RjBrRWZUNHVldnlzbGNrLTROVGM1aW9ucUFuajVmRHNoenB4bC1kbXl1U3N0ek42OTZGMDdhd0hFeHQ5SnNkQnhNanVWWHBBV1pHNk9KR2FwRQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 13:16:10 GMT",
-      "imagen": ""
+      "imagen": "https://static.caribbeannewsdigital.com/cdn/ff/lSBF0AFSGebNE59MJcnNOxR8pbModZjXVjHN5lcelko/1794575664/public/2026-11/campa%C3%B1a.jpg"
     },
     {
       "titulo": "República Dominicana sustituye a Estados Unidos en el Mundial Sub-17 - Sopitas.com",
@@ -109,19 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "La multinacional SpaceX destaca presencia de 50,000 clientes con antenas Starlink en República Dominicana - Presidencia de la República Dominicana",
-      "fuente": "Presidencia de la República Dominicana",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSm94blJjZWltcVpuMGdJaWFSUU0wM0MzNUlMS1NHVzdrTlRMUFMzdGZySTBIQk0xbWd6c3NjQW92bGpXOTF4UDZLcEVacm5VSjZiZk93ZXFTNV9vb3FnZVRLQmdYWXBDY0xxY01SLWpCUWo2Zk9VTGtVREhqSV9BdUcxeTRKUDNHUlJXbF9NQmlGN2g2aWRMQWVzU2xLMlc2elVod2FhU0sxVkRmMTZyallHMUJQb3hXNl84aldxaTg?oc=5",
+      "titulo": "República Dominicana jugará su primer Mundial Sub-17 de la FIFA tras retiro de Estados Unidos - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTFOX0NGa3Z3dUUteFVjLWVJNTB3Vk53Q0pJanVWM3JSZnZqOEhkMkJ5Ykh2Wl9FRWZNQ2pkV25UbVhXQ2pBeXUtRHFYWk90VmxhN1NoNjVzRkpMMHU0WE1qbndxcWhOY0hIdE51c0hZck9haS00S0pqWHpqU3ByWXNSbEZldndfRHpEV1FwRmg0aFM5c2FxNG9CNlpqdHh6OUUxR2l5Y1FJVm1hYnI1cVpjbk9Jb3dWaGFPZDV4MDJRcTNRNGNzOXlRNjdVcU5kMEN3OFpVM1NsT3BRbEZWNHpya0LSAf8BQVVfeXFMT2dyUEpIb241bncya3UwU0cxRjRTWjVBLTNrNnlBWm4xb25laEFhWDQ4M25ISWJ5MmNiNFhwaXcyMDJEOWRGdkwtUmdjMkxVbDBrUjNTSHZJaEJBM1ZsRmpiN3k5NndIdTQySDJ1Mlo4S1A5TnIyUHlWZWZBTVpycC1iaFV5QVk5b19Yd0N5Y3gybmpZX1JLcTF5NEhSMjRubkNtTGRUeTF0OUFXYTk1dEM5TmJscTFGU211cmE3Ni1ValFiQnNWajYwMmVJX0hQX3RGQ09FUkh1WDNrV3FGMFFzLWVNUTFoVjNSOVROZXRUUHp1MVo5dG9TLUFHR0lZ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 23:03:14 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Patricia Siné, oro del atletismo de República Dominicana en 200 metros en los Juegos Olímpicos de la Juventud 2026 - Olympics",
-      "fuente": "Olympics",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFZnQ1BrWks0ZXhyblE0UjZPRlVyOWYwZ2dnYmowTDMyT1hGVnl6MGZHR1gxWXptTEJKREV4MmZ2LW1FTVZNb1l6N1NVZWVvS0tvdXBoOEhqV2RWaEx3YkFpeFByelk3WXIzemJtc0NvZkZJTjhMOWhvbXlOcHVJekh0MVNmcXdKMWRTNEsyNlNRQmZoZmhTcU9fQTlpYUZsckRXS0J3SWVSMEY2cEprbUE2TUtRb21IYjlWZEZxdmNtZ0phdDFlOVp3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 10 Nov 2026 20:13:00 GMT",
+      "fecha": "Fri, 13 Nov 2026 00:33:00 GMT",
       "imagen": ""
     }
   ]
