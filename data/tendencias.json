@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-13T07:30:51.062675-04:00",
-  "hora": "07:30",
+  "updated": "2026-11-13T07:51:21.203827-04:00",
+  "hora": "07:51",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "clima de hoy",
+      "trafico": "200+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 13 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-viernes-13-de-noviembre-de-2026-9789036.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
+    },
     {
       "termino": "juan soto",
       "trafico": "100+",
@@ -64,16 +71,9 @@
     {
       "termino": "wizards - pistons",
       "trafico": "500+",
-      "noticia": "Cade Cunningham drops 52 to lift Pistons past Wizards in 2OT",
-      "enlace": "https://www.cbssports.com/nba/news/cade-cunningham-drops-52-to-lift-pistons-past-wizards-in-2ot/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSstJG1Lepop7i29ua5Ua1QbSqAJNp5M-QeTFMrmeETRdWq472FQNuZR0q_Swg"
-    },
-    {
-      "termino": "76ers - raptors",
-      "trafico": "1000+",
-      "noticia": "Toronto Raptors vs. Philadelphia 76ers Live Score and Stats - November 12, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261112_TOR@PHI/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSstJG1Lepop7i29ua5Ua1QbSqAJNp5M-QeTFMrmeETRdWq472FQNuZR0q_Swg"
+      "noticia": "Cade Cunningham scores career-high 52, makes NBA history",
+      "enlace": "https://www.nba.com/watch/video/cade-cunningham-scores-career-high-52-makes-nba-history?plsrc=nba collection=top-trending-videos",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmB0Xohrbiiwd7uPKJ0xmIJSKtOfVtvbhJOg6mHHp49rnLwrvy8XnAp85zVg0"
     }
   ]
 }
