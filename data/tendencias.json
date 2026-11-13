@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T23:06:01.005427-04:00",
-  "hora": "23:06",
+  "updated": "2026-11-12T23:26:20.877265-04:00",
+  "hora": "23:26",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "timberwolves - mavericks",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Hot Timberwolves host Cooper Flagg, surging Mavericks",
       "enlace": "https://www.cbssports.com/nba/news/hot-timberwolves-host-cooper-flagg-surging-mavericks/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTOcffCvt0iSr2JPsLIVmNIFteTdx2y-8kBBItrSncPkYlNJT_iUQeMTqp2K8"
@@ -36,16 +36,16 @@
     {
       "termino": "república dominicana",
       "trafico": "100+",
-      "noticia": "SpaceX destaca presencia de 50,000 clientes con antenas Starlink en República Dominicana",
-      "enlace": "https://z101digital.com/spacex-destaca-que-starlink-tiene-50000-clientes-en-republica-dominicana/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tn8xWKQCpVH-v09_lUY_xOyIQ4LIF1vIQJDB4R7jiuy6PdPQzhEM-MvCREk"
+      "noticia": "Estados Unidos se retira del Mundial Sub-17 en Qatar por motivos de seguridad",
+      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17506045/estados-unidos-usa-mundial-sub-17-qatar-renuncia",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvns9vbRzZB_bngfZIc4zFAaCEEe5_cTsqZPM8AMsyWd-YEhtKe5uVku7h3JA"
     },
     {
       "termino": "76ers - raptors",
       "trafico": "1000+",
-      "noticia": "Maxey Leads 76ers Past Raptors, Box Score Stats, Highlights for Embiid, Top Players with LeBron Out",
-      "enlace": "https://bleacherreport.com/articles/25532797-maxey-leads-76ers-past-raptors-box-score-stats-highlights-embiid-top-players-lebron-out",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2Uuzfp14JBUTMKuTcX3TQbJ0yLlZI_DbkAjnstMURg4OEJx3Fx9bP4J135mc"
+      "noticia": "Tyrese Maxey scores 27 as 76ers rally past Raptors 123-112",
+      "enlace": "https://www.cbssports.com/nba/news/tyrese-maxey-scores-27-as-76ers-rally-past-raptors-123-112/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1rdeecXJr704z0j7qIsE_XEdUlTjsDSpfoqYxk7a-A8Qderfh_nXuCTfZ2EA"
     },
     {
       "termino": "techy fatule",
@@ -71,9 +71,9 @@
     {
       "termino": "venezuela",
       "trafico": "100+",
-      "noticia": "Sindicato critica multas a periodistas establecidas en reforma a ley de odio en Venezuela",
-      "enlace": "https://elnuevodiario.com.do/sindicato-critica-multas-a-periodistas-establecidas-en-reforma-a-ley-de-odio-en-venezuela/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfP5KWdRpSa_0Iuiiy-fUljsjoN5-v5QjGzKodcR4KCr1uAE56c_o8CYwPfAM"
+      "noticia": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It",
+      "enlace": "https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3RCX2Igamqkm0T9ooo3z7zjrHuELGEKenqo9-MlPva6vnUb42BPY6KE0V2QQ"
     }
   ]
 }
