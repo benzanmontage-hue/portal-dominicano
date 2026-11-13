@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-13T08:32:10.204196-04:00",
-  "hora": "08:32",
+  "updated": "2026-11-13T08:52:31.140344-04:00",
+  "hora": "08:52",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "juan soto",
+      "termino": "junior caminero",
       "trafico": "100+",
-      "noticia": "Stearns: Mets  not looking to add  new 2B, optimistic Semien can bounce back",
-      "enlace": "https://www.mlb.com/news/mets-looking-for-improvement-from-marcus-semien-and-second-basemen",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq7vRXwVCeLFtpoHh4qMWvdfM09E-RTbOp87P4Wx0LyUJsdw3Z1YbgOoJSmM"
+      "noticia": "Yordan gana unánimemente el 1er Premio Jugador Más Valioso de su carrera",
+      "enlace": "https://www.mlb.com/es/news/yordan-alvarez-gana-jmv-liga-americana-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxkvPwsgOPDJEIOhCquyk4V2zP1dXPaal7y6pltNb54did3D4jWqh4PnAmDyU"
     },
     {
-      "termino": "aeropuerto de punta cana",
+      "termino": "clima de hoy",
+      "trafico": "100+",
+      "noticia": "¿Cuándo y cómo llegará el esperado alivio a San Juan?",
+      "enlace": "https://delsurdiario.com/provinciales/cuando-y-como-llegara-el-esperado-alivio-a-san-juan",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzb8DE8iD5cn7dtkQCObYJ_6oOqLV8kzkS-1V7yz5eAAEFhMYszcAKJhYHo_w"
+    },
+    {
+      "termino": "juan soto",
       "trafico": "200+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+      "noticia": "«Aunque Juan es liceísta, aquí lo recibimos»: Abinader comparte encuentro con Juan Soto",
+      "enlace": "https://n.com.do/2026/11/12/aunque-juan-es-liceista-aqui-lo-recibimos-abinader-comparte-encuentro-con-juan-soto/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0TX8GJ-1xr49kJrosAHbTS6UUi3Ar_Bxf9qjhMszCOt2kq0xKNyzyAMmNHnk"
     },
     {
       "termino": "alerta",
@@ -36,9 +43,9 @@
     {
       "termino": "aterrizaje",
       "trafico": "200+",
-      "noticia": "Fuga de agua en pleno vuelo provoca aterrizaje de emergencia en Chicago",
-      "enlace": "https://www.telemundochicago.com/video/noticias/local/fuga-de-agua-en-pleno-vuelo-provoca-aterrizaje-de-emergencia-en-chicago/2668544/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr0BUTgUjrZQXFW05TvIJJagrjYTAxbqW25AtpdWkSc9cnluHTdgOQD5tG4Q4"
+      "noticia": "Sin pista de aterrizaje y sin problema: este avión solo necesita 46 metros para despegar y aterrizar",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/avion-ultra-short-revoluciona-viajes-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIy8wfGrSVrMtlgeT6ei6dUZAPGxiInN1exs2u-XRyjH8FpxLaz9vM8EcLRIA"
     },
     {
       "termino": "suns - hornets",
@@ -64,16 +71,9 @@
     {
       "termino": "vuelo",
       "trafico": "1000+",
-      "noticia": "A 25 años del vuelo 587, República Dominicana sigue en deuda con sus víctimas",
-      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/12/accidente-vuelo-587-y-su-impacto-en-republica-dominicana/3717833",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2wBfpNqygqJlu9cIhBWw3AtYtSHkyXtbLP8RzqTsOZCp7SA2pnrRioaKR0hU"
-    },
-    {
-      "termino": "wizards - pistons",
-      "trafico": "500+",
-      "noticia": "Wizards’ AJ Dybantsa left bloodied in scary sight after wild collision vs. Pistons",
-      "enlace": "https://sports.yahoo.com/articles/wizards-aj-dybantsa-left-bloodied-042234983.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWMFckE1QEGd2EEt-f1qBGCV2VqqP_0EwcDqg1KO62-xi6gaOYIoMi_NaYniE"
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
     }
   ]
 }
