@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-13T07:51:21.203827-04:00",
-  "hora": "07:51",
+  "updated": "2026-11-13T08:11:45.034407-04:00",
+  "hora": "08:11",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "clima de hoy",
-      "trafico": "200+",
-      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 13 de noviembre de 2026",
-      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-viernes-13-de-noviembre-de-2026-9789036.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
-    },
     {
       "termino": "juan soto",
       "trafico": "100+",
@@ -64,9 +57,9 @@
     {
       "termino": "vuelo",
       "trafico": "1000+",
-      "noticia": "Vuelo presenta incidencia al aterrizar y aeropuerto de Punta Cana es cerrado temporalmente",
-      "enlace": "https://listindiario.com/la-republica/20261112/avion-incidencia-aterrizar-aeropuerto-punta-cana-cerrado-temporalmente_929923.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJypr4yDDNiK42kQg1u_e2fUWeNhVWu24NJj4exp9dZiBp08oZZTQnyp9L2ho"
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
     },
     {
       "termino": "wizards - pistons",
@@ -74,6 +67,13 @@
       "noticia": "Cade Cunningham scores career-high 52, makes NBA history",
       "enlace": "https://www.nba.com/watch/video/cade-cunningham-scores-career-high-52-makes-nba-history?plsrc=nba collection=top-trending-videos",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmB0Xohrbiiwd7uPKJ0xmIJSKtOfVtvbhJOg6mHHp49rnLwrvy8XnAp85zVg0"
+    },
+    {
+      "termino": "techy fatule",
+      "trafico": "200+",
+      "noticia": "Tres dominicanos conquistan su primer Latin Grammy",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/12/los-dominicanos-triunfan-en-el-latin-grammy/3719404",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUTErvAtyJEHN-Aa-1M937ggPqv2Snc-ZB9D4O7kPGZgoYTS6OowlKNf1j904"
     }
   ]
 }
