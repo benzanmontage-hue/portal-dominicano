@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-13T17:25:54.403385-04:00",
-  "hora": "17:25",
+  "updated": "2026-11-13T17:46:18.268093-04:00",
+  "hora": "17:46",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "faa",
+      "trafico": "200+",
+      "noticia": "FAA issues ground stop for all flights due to ‘extraordinary circumstances’",
+      "enlace": "https://www.cnn.com/2026/11/13/us/video/faa-ground-stop-extraordinary-circumstances-digvid",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0JuU8H1F0mns-B66OuniIv7rKwwHCCm71HN4jCwS1ZQYLl5_DLPlYiYwxBSg"
+    },
+    {
+      "termino": "multa",
+      "trafico": "100+",
+      "noticia": "STF mantém multa de Mato Grosso a transportadora calculada sobre valor da carga",
+      "enlace": "https://www.fatosdematogrosso.com.br/juridico/stf-mantem-multa-de-mato-grosso-a-transportadora-calculada-sobre-valor-da-carga/18841",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8BZFuVMn9bQ3szX5PKqudIt2AAxiszXRfcHEPbhD6OVYBSGWaO8EBWC7iAM"
+    },
     {
       "termino": "estadio",
       "trafico": "200+",
@@ -15,9 +29,9 @@
     {
       "termino": "serbia - alemania",
       "trafico": "500+",
-      "noticia": "🚀 ¡Gracias a un bajo vientre serbio! Los de Klopp salen como un cohete",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/gracias-vientre-serbio-klopp-salen-195800842.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYyvqcUtna965msf87NeE8imAXrePkg33WdOGZ05imjvJ1jvu6trqQHK7kOoE"
+      "noticia": "📸 Brajan Gruda, del Leipzig, debuta con Alemania con un gol de ensueño 🇩🇪",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/brajan-gruda-leipzig-debuta-alemania-210900432.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGo4ZVnIzQ-iuXQXknInynnKuWDYIUuoYtce4e6J_e53JlEnVEMBHtMzf2mRw"
     },
     {
       "termino": "sanción",
@@ -60,20 +74,6 @@
       "noticia": "Protagonista de su propio juego",
       "enlace": "https://www.telemundo.com/shows/la-mesa-caliente/temporada-2026/capitulo-226/tve/protagonista-de-su-propio-juego-tmvo13244291",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuaH1QPrfL3peekLs4usUn-L6hLVatEkCUaukDZl1cmr-JlyaJ2F38ZPhWZQY"
-    },
-    {
-      "termino": "temblor hoy",
-      "trafico": "2000+",
-      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
-    },
-    {
-      "termino": "earthquake",
-      "trafico": "500+",
-      "noticia": "Floods and quakes expose Israel’s unfinished preparedness",
-      "enlace": "https://www.jpost.com/opinion/article-914764",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX0AEjBUTzvmyA5-fwjKgNA9KQi9WnOdbTUhlSSUsr9E0Rl1fLj2QAsYKBUMU"
     }
   ]
 }
