@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-12T19:39:49.287964-04:00",
-  "hora": "19:39",
+  "updated": "2026-11-12T20:00:19.582942-04:00",
+  "hora": "20:00",
   "fecha": "12/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia",
+      "trafico": "100+",
+      "noticia": "England vs Croatia player ratings: Harry Kane scores winner as Lewis Hall impresses",
+      "enlace": "https://www.bbc.com/sport/football/articles/c64gnd7vd912o",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlGqADK8U6hRIM8ycAn4rC0TK2JvWg1GJ3hXnq404HnxDxEuW-syd8sgIcapc"
+    },
     {
       "termino": "classement équipe d italie de football – équipe de france de football",
       "trafico": "500+",
@@ -29,9 +36,9 @@
     {
       "termino": "condena",
       "trafico": "200+",
-      "noticia": "Auge y caída de Russell Brand, el símbolo de la ‘cultura de los machotes’ del Reino Unido",
-      "enlace": "https://elpais.com/sociedad/2026-11-12/auge-y-caida-de-russell-brand-el-simbolo-de-la-cultura-de-los-machotes-del-reino-unido.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQESRqKwTI1X3efFVhAeixmVXO5ofiMJdCpQuP_dXQy4wbIS2fX0AJbEUcL5f8"
+      "noticia": "La Corte de la Nación le puso punto final a la carrera criminal dos miembros del clan Caro",
+      "enlace": "https://tendenciadenoticias.com.ar/tendencias/la-corte-de-la-nacion-le-puso-punto-final-a-la-carrera-criminal-dos-miembros-del-clan-caro",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpl2OxXqHzTHVav38Q0-c4QepNB6VP1JI3A0j8-X3xHBCYMppaCk7rZ9kllR4"
     },
     {
       "termino": "italy vs france",
@@ -43,9 +50,9 @@
     {
       "termino": "angleterre – croatie",
       "trafico": "100+",
-      "noticia": "Devenu le joueur le plus capé de l’histoire de l’Angleterre, Harry Kane a présenté son Ballon d’Or à Wembley",
-      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-angleterre-devenu-le-joueur-le-plus-cape-de-l-histoire-de-l-angleterre-harry-kane-a-presente-son-ballon-d-or-a-wembley/20245411",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvgSwA8bEHWaAFgmrNoE0dx6P_uF0BuJlTiFsxRxfDXZgIUgFpHNW3E96lOaI"
+      "noticia": "Ligue des Nations - Ferran Torres et Fabian Ruiz titulaires, l Espagne s impose solidement en Tchéquie",
+      "enlace": "https://madeinparisiens.ouest-france.fr/infos/article-ligue-des-nations-ferran-torres-et-fabian-ruiz-titulaires-l-espagne-s-impose-solidement-en-tchequie-545556.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw8qZ40Jt8hxxSZ-eYeaCZDvTOqtZdWZbueo0ZeDhxaoWT4gDQH8iv40SVTKE"
     },
     {
       "termino": "czechia vs spain",
@@ -64,16 +71,9 @@
     {
       "termino": "nations league",
       "trafico": "200+",
-      "noticia": "England 2-1 Croatia: Record-breaker Kane scores winner as Three Lions qualify for Nations League quarters",
-      "enlace": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlaCI-zYPVIcoJZ8jXAsraqET6d3lw-akwwpIJmE7YVioPJIWub6KW7xgskzA"
-    },
-    {
-      "termino": "inglaterra - croacia",
-      "trafico": "1000+",
-      "noticia": "Kane amplía récord con Inglaterra, España perfecta e Italia vence a Francia en Liga de Naciones",
-      "enlace": "https://www.seattlepi.com/sports/kane-ampl-a-record-con-inglaterra-espa-a-a22528083",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvm23TJfdVuGjWWAl99H3u9fTIULVOI6qqAg96LwXvRC-jgu4Iw6vo-yUG6FU"
+      "noticia": "Donnarumma’s horror show sparks dismay – and fuels a heated debate",
+      "enlace": "https://www.goal.com/en/news/as-if-he-were-the-twelfth-man-for-the-french-gianluigi-donnarumma-s-horror-display-sparks-dismay-and-fuels-an-explosive-debate/blt5398faea4417c1ff",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYJbqt3SEDJrmQBjzogvdFkFSaUYNS-czr41seOVg94IfYJUslbQuZbUucuPQ"
     }
   ]
 }
