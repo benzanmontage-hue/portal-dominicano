@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-13T16:04:16.096036-04:00",
-  "hora": "16:04",
+  "updated": "2026-11-13T16:24:40.914793-04:00",
+  "hora": "16:24",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "estadio",
+      "trafico": "100+",
+      "noticia": "Amnistía insta a Haití y El Salvador a garantizar respeto a DD.HH. en lucha contra bandas",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/11/amnistia-internacional-exige-respeto-a-derechos-humanos-en-haiti/3718061",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4dt0kAof6nRTavuJhyggSeqGX5O0uszfiE4fC2IKr8bfgWxNNx7RFqn0sG2Q"
+    },
+    {
       "termino": "serbia - alemania",
       "trafico": "200+",
-      "noticia": "Klopp, antes de Serbia: «Ahora las cartas se reparten de nuevo»",
-      "enlace": "https://onefootball.com/es/noticias/klopp-antes-de-serbia-ahora-las-cartas-se-reparten-de-nuevo-43770334",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdghuzxHYrVIBXdxZ_yh0dFbLMLit5pMxo4iL42RTqfMcVB3jSzI8KoR1Q95o"
+      "noticia": "🚀 ¡Gracias a un bajo vientre serbio! Los de Klopp salen como un cohete",
+      "enlace": "https://onefootball.com/es/noticias/gracias-a-un-bajo-vientre-serbio-los-de-klopp-salen-como-un-cohete-43773448",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFXYjEeZ-fyX90rDhNAY_4HV4M7aaWgUTajBe04Mu7c9UNVobnpPLf5RazJvo"
     },
     {
       "termino": "sanción",
@@ -67,13 +74,6 @@
       "noticia": "Research modeling a major earthquake in SoCal is being updated. Why?",
       "enlace": "https://www.usatoday.com/story/news/state/california/2026/11/13/research-earthquake-in-california-lucy-jones/92730322007/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkxj4t_FBBPZBF38ew0yS8PyktuP0eURLFuFLk0QjXfRH3euqsUvjWlzdvKN4"
-    },
-    {
-      "termino": "esmil rogers",
-      "trafico": "200+",
-      "noticia": "Estrellas dejan libre a Esmil Rogers",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261112/estrellas-dejan-libre-esmil-rogers_929936.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbYdCHugkJFbrOPmJkUPm0cmYFNkDNyiWiTHu4-IJjudcj9_ubHSYC8S9F4dk"
     }
   ]
 }
