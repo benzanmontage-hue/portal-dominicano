@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-13T14:42:25.672789-04:00",
-  "hora": "14:42",
+  "updated": "2026-11-13T15:02:59.248982-04:00",
+  "hora": "15:02",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "sanción",
+      "trafico": "200+",
+      "noticia": "Investigan otras denuncias de agresión a menores contra hombre detenido por video con bebé",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/13/se-suman-denuncias-de-agresion-contra-hombre-detenido-por-video/3719892",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBoajD6kZ3iwedYitnJ4VunD8GQVOpg39sRpndKpLc6ekOAeeVOTKHtcG7zbg"
+    },
     {
       "termino": "jake bauers",
       "trafico": "200+",
       "noticia": "Postseason breakout star Bauers agrees to 4-year deal with Red Sox (source)",
       "enlace": "https://www.mlb.com/news/jake-bauers-4-year-contract-with-red-sox",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShnLDsxA6gYDeYFTBAtrFEKqoUxWZInq0QbDY4QSjdfzjqBS3W4Is8GaYC9fk"
-    },
-    {
-      "termino": "sanción",
-      "trafico": "100+",
-      "noticia": "Investigan otras denuncias de agresión a menores contra hombre detenido por video con bebé",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/13/se-suman-denuncias-de-agresion-contra-hombre-detenido-por-video/3719892",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBoajD6kZ3iwedYitnJ4VunD8GQVOpg39sRpndKpLc6ekOAeeVOTKHtcG7zbg"
     },
     {
       "termino": "tembló la tierra hoy",
@@ -41,18 +41,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1JIGpiVPudnsWoUBmuSmgqrMzBfKpcR9xdKwzldIwJxtm5AM8AhWA2PzQjdA"
     },
     {
-      "termino": "temblor hoy",
-      "trafico": "1000+",
-      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
-    },
-    {
       "termino": "karen yapoort",
       "trafico": "200+",
       "noticia": "Karen Yapoort explica a qué se refería Edwin Encarnación al decir que ella “volvió a sus raíces”",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261112/karen-yapoort-explica-que-referia-edwin-encarnacion-decir-volvio-raices_929924.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6PoNzPd_L9tlZLFMf1ZDi4ioUIytS8EFaowI3y2QQ4zgIZLO448PJiqfJ2g"
+    },
+    {
+      "termino": "temblor hoy",
+      "trafico": "1000+",
+      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
     },
     {
       "termino": "earthquake",
