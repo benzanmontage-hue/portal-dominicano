@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T09:12:52.465869-04:00",
-  "hora": "09:12",
+  "updated": "2026-11-13T09:33:14.182320-04:00",
+  "hora": "09:33",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,16 +8,9 @@
     {
       "termino": "junior caminero",
       "trafico": "100+",
-      "noticia": "Agente de Junior Caminero revela que Adidas le pagó más que los Rays en 2026",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/12/agente-de-junior-caminero-revela-que-adidas-le-pago-mas-que-los-rays/3719327",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKcNsap726JhUpuG-pAAgmablKm6yH7_kmIgWAHJUmjlFGhJdBhtQuGdr40aY"
-    },
-    {
-      "termino": "clima de hoy",
-      "trafico": "100+",
-      "noticia": "¿Cuándo y cómo llegará el esperado alivio a San Juan?",
-      "enlace": "https://delsurdiario.com/provinciales/cuando-y-como-llegara-el-esperado-alivio-a-san-juan",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzb8DE8iD5cn7dtkQCObYJ_6oOqLV8kzkS-1V7yz5eAAEFhMYszcAKJhYHo_w"
+      "noticia": "Dos JMV unánimes abren paso a una nueva generación de estrellas",
+      "enlace": "https://www.mlb.com/es/news/ganadores-del-premio-al-jugador-mas-valioso-de-mlb-del-2026",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv9HDf-YweIhhqPJnUVeg1vEDROtVePPbmJptwhLF5NYJ8kU1phGvFKNRhKm8"
     },
     {
       "termino": "juan soto",
@@ -25,13 +18,6 @@
       "noticia": "«Aunque Juan es liceísta, aquí lo recibimos»: Abinader comparte encuentro con Juan Soto",
       "enlace": "https://n.com.do/2026/11/12/aunque-juan-es-liceista-aqui-lo-recibimos-abinader-comparte-encuentro-con-juan-soto/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0TX8GJ-1xr49kJrosAHbTS6UUi3Ar_Bxf9qjhMszCOt2kq0xKNyzyAMmNHnk"
-    },
-    {
-      "termino": "aeropuerto de punta cana",
-      "trafico": "200+",
-      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
-      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
     },
     {
       "termino": "alerta",
@@ -57,9 +43,9 @@
     {
       "termino": "suns - hornets",
       "trafico": "200+",
-      "noticia": "Hornets’ Comeback Attempt Foiled In 4th Quarter By Phoenix",
-      "enlace": "https://hornets.com/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXaKzH8UnwGmXe4WNxxEiKnRUjzlF2iANWR1ze6Zb7BHx7_MOkoEEbKBvWths"
+      "noticia": "Devin Booker passed Rick Barry (18,395) and Tracy …",
+      "enlace": "https://sports.yahoo.com/articles/devin-booker-passed-rick-barry-084547110.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr34qqEbAnpF52caXWDE1xfmdyZthteGmFE83lDB7BCN4mzoLDGroCSHJFKzY"
     },
     {
       "termino": "timberwolves - mavericks",
@@ -74,6 +60,20 @@
       "noticia": "Curazao y Panamá empatan en el inicio de los Cuartos de Final de la Liga de Naciones",
       "enlace": "https://es.concacaf.com/competitions/nations-league/news/curazao-y-panama-empatan-en-el-inicio-de-los-cuartos-de-final-de-la-liga-de-naciones",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM74zPuC3pgtpx22bn6HYc7ZB070gwWB1k5rVw7rNNh-5nO-UqHqsWKDWrspQ"
+    },
+    {
+      "termino": "vuelo",
+      "trafico": "1000+",
+      "noticia": "Vuelos hacia Aeropuerto de Punta Cana son desviados hacia el AILA por incidente en avión",
+      "enlace": "https://listindiario.com/la-republica/20261112/vuelos-aeropuerto-punta-cana-son-desviados-aila-incendio-avion_929930.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbQvVDnpEbE1AXj7lmQAov60Fq3vaFJhbNAuSGs2ED9kGPeiTXdXL152bLvso"
+    },
+    {
+      "termino": "wizards - pistons",
+      "trafico": "500+",
+      "noticia": "Cade Cunningham drops 52 to lift Pistons past Wizards in 2OT",
+      "enlace": "https://www.cbssports.com/nba/news/cade-cunningham-drops-52-to-lift-pistons-past-wizards-in-2ot/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSstJG1Lepop7i29ua5Ua1QbSqAJNp5M-QeTFMrmeETRdWq472FQNuZR0q_Swg"
     }
   ]
 }
