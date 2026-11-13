@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T12:17:55.958052-04:00",
-  "hora": "12:17",
+  "updated": "2026-11-13T12:38:19.735966-04:00",
+  "hora": "12:38",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Estrellas dejan libre a Esmil Rogers",
       "enlace": "https://listindiario.com/el-deporte/beisbol/20261112/estrellas-dejan-libre-esmil-rogers_929936.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbYdCHugkJFbrOPmJkUPm0cmYFNkDNyiWiTHu4-IJjudcj9_ubHSYC8S9F4dk"
+    },
+    {
+      "termino": "evaluación docente",
+      "trafico": "200+",
+      "noticia": "Amigos que Suman celebra su IX aniversario con conferencia magistral de Luis Miguel De Camps",
+      "enlace": "https://elnuevodiario.com.do/amigos-que-suman-celebra-su-ix-aniversario-con-conferencia-magistral-de-luis-miguel-de-camps/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnvQjZZy0jlBE6cUVJlE5YsIUDx3rmD1Idgv4vVhqLZboyRBFMcaNw49S3FvE"
     },
     {
       "termino": "junior caminero",
@@ -56,10 +63,10 @@
     },
     {
       "termino": "aterrizaje",
-      "trafico": "500+",
-      "noticia": "Sin pista de aterrizaje y sin problema: este avión solo necesita 46 metros para despegar y aterrizar",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/avion-ultra-short-revoluciona-viajes-trax",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIy8wfGrSVrMtlgeT6ei6dUZAPGxiInN1exs2u-XRyjH8FpxLaz9vM8EcLRIA"
+      "trafico": "1000+",
+      "noticia": "Fuga de agua en pleno vuelo provoca aterrizaje de emergencia en Chicago",
+      "enlace": "https://www.telemundochicago.com/video/noticias/local/fuga-de-agua-en-pleno-vuelo-provoca-aterrizaje-de-emergencia-en-chicago/2668544/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr0BUTgUjrZQXFW05TvIJJagrjYTAxbqW25AtpdWkSc9cnluHTdgOQD5tG4Q4"
     },
     {
       "termino": "suns - hornets",
@@ -67,13 +74,6 @@
       "noticia": "Devin Booker passed Rick Barry (18,395) and Tracy …",
       "enlace": "https://sports.yahoo.com/articles/devin-booker-passed-rick-barry-084547110.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr34qqEbAnpF52caXWDE1xfmdyZthteGmFE83lDB7BCN4mzoLDGroCSHJFKzY"
-    },
-    {
-      "termino": "timberwolves - mavericks",
-      "trafico": "500+",
-      "noticia": "Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - November 12, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261112_DAL@MIN/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPmQY9kgr1DzFlgyvHq1bqh4PspcM6-80do5YgJPqQuqGpMzE36vLeVUqVixA"
     }
   ]
 }
