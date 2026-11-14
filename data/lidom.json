@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:32:34-04:00",
+ "updated": "2026-11-14T15:52:55-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -452,8 +452,8 @@
    "id": 851473,
    "fecha": "2026-11-14",
    "hora": "16:00",
-   "estado": "Preview",
-   "detalle": "Pre-Game",
+   "estado": "Live",
+   "detalle": "Warmup",
    "visitante": "Estrellas Orientales",
    "visitante_id": 669,
    "carreras_v": null,
