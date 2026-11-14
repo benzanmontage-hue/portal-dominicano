@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-14T12:49:09.335172-04:00",
+  "updated": "2026-11-14T13:09:41.535697-04:00",
   "fecha": "14/11/2026",
-  "hora": "12:49",
+  "hora": "13:09",
   "total_juegos": 53,
   "juegos": [
     {
@@ -78,12 +78,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool",
       "numeros": [
-        "99",
-        "57",
-        "32",
-        "73"
+        "03",
+        "92",
+        "61",
+        "81"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4c6"
     },
     {
@@ -116,11 +116,11 @@
       "compania": "Loteria Real",
       "juego": "Nueva Yol Real",
       "numeros": [
-        "49",
-        "30",
-        "38"
+        "96",
+        "02",
+        "48"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4cc"
     },
     {
@@ -139,11 +139,11 @@
       "compania": "Loteria Real",
       "juego": "Quiniela Real",
       "numeros": [
-        "88",
-        "29",
-        "11"
+        "67",
+        "33",
+        "84"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ae"
     },
     {
@@ -169,9 +169,9 @@
       "compania": "Loteria Real",
       "juego": "Tu Fecha Real",
       "numeros": [
-        "30"
+        "02"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ba"
     },
     {
@@ -222,11 +222,11 @@
       "compania": "Anguila",
       "juego": "Anguila 1:00 PM",
       "numeros": [
-        "23",
-        "72",
-        "60"
+        "92",
+        "60",
+        "90"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d611"
     },
     {
@@ -355,12 +355,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 1:00 PM",
       "numeros": [
-        "72",
-        "42",
-        "74",
-        "34"
+        "26",
+        "88",
+        "93",
+        "57"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d623"
     },
     {
