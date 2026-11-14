@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-14T08:42:34.677802-04:00",
-  "hora": "08:42",
+  "updated": "2026-11-14T09:02:54.312143-04:00",
+  "hora": "09:02",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "espacio aéreo",
-      "trafico": "1000+",
-      "noticia": "Última hora de suspensión nacional de todos los vuelos en EE.UU.: noticias, retrasos y más",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnpCDzUcpycgAL7JbM-BgFLGCQaz4BWBe88_ZzviY-UblB42V1EFCgefHvS8Y"
-    },
     {
       "termino": "lotería",
       "trafico": "200+",
@@ -29,23 +22,30 @@
     {
       "termino": "japon – brésil",
       "trafico": "1000+",
-      "noticia": "Brésil-Japon : Vinicius Junior relance la Seleção, 1-2",
-      "enlace": "https://africafootunited.com/bresil-japon-vinicius-junior-relance-la-selecao-1-2/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgAk3b63hrok72OW9JN069MjbF0ccLorXKfkMP9uV551rR1MY2wPyhf1MWxQ"
+      "noticia": "Brésil-Japon : Vinicius Junior s’offre un doublé et ramène la Seleção à 2-2",
+      "enlace": "https://africafootunited.com/bresil-japon-vinicius-junior-soffre-un-double-et-ramene-la-selecao-a-2-2/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3g4zsd45vZVHhS3J5WspyhoILtA6ikERzz6_LXdO6yM2zxYd9K6uHsSd1QFU"
     },
     {
       "termino": "frente frío",
       "trafico": "200+",
-      "noticia": "Aguanieve, lluvias y frío: así estará el clima este sábado 14 de noviembre",
-      "enlace": "https://www.unotv.com/clima/pronostico-clima-mexico-14-noviembre/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYxyNisVrbJtqSzjYnnwrvh-J1VjfgpyyhlLGf56FI0QbyAxAoRFFk6_Oe-J4"
+      "noticia": "Frente frío número 5 entre el sábado 14 y domingo 15: Se esperan lluvias fuertes en varios estados",
+      "enlace": "https://www.meteored.mx/noticias/prediccion/frente-frio-numero-5-entre-el-sabado-14-y-domingo-15-se-esperan-lluvias-fuertes-en-varios-estados.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVPTDtLw_zwnH9epRylV9TC0LbRoTbtrLOQV9H8J90R1FSrJkvaeWrdOsj6kI"
     },
     {
       "termino": "japón - brasil",
       "trafico": "2000+",
-      "noticia": "Japón vs Brasil EN VIVO: A qué hora y dónde ver el partido amistoso internacional 2026",
-      "enlace": "https://www.milenio.com/deportes/futbol-internacional/japon-vs-brasil-en-vivo-partido-amistoso-internacional-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdfp1FWpAReJLWmGOroZE50T6MaJ6FGVITQiKczgCvjBZPoXl0qZF2XIHKfOw"
+      "noticia": "Japón 3- Brasil 2: resumen, resultado y goles del partido",
+      "enlace": "https://as.com/futbol/internacional/japon-brasil-en-vivo-amistoso-internacional-en-directo-hoy-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH20gDuw9nAVAOA-H7LJmkmles_ntlycs-jBvGEHv2v7hXywMQxZoqsY65OsE"
+    },
+    {
+      "termino": "clima santo domingo",
+      "trafico": "100+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 13 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-viernes-13-de-noviembre-de-2026-9789036.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
     },
     {
       "termino": "clippers - thunder",
