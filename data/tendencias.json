@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T13:50:30.944858-04:00",
-  "hora": "13:50",
+  "updated": "2026-11-14T14:10:54.443856-04:00",
+  "hora": "14:10",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "la real",
+      "trafico": "200+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
     {
       "termino": "resultados de loteria",
       "trafico": "200+",
@@ -43,9 +50,9 @@
     {
       "termino": "brasil vs",
       "trafico": "500+",
-      "noticia": "Licensable picture: Mizuho Blue Challenge - Japan v Brazil",
-      "enlace": "https://www.reutersconnect.com/item/mizuho-blue-challenge-japan-v-brazil/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUwVFRPV1c",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTxVlkwXJFocp2Kbm9RGoNQsI7iXeg6YltbiNSRVAYAgq_YhTIAsKQSRMddg"
+      "noticia": "Ancelotti and Raphinha sent off as Japan beat Brazil",
+      "enlace": "https://capitalfm.africa/ancelotti-and-raphinha-sent-off-as-japan-beat-brazil/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ZdUEYFYx1jBIm2EDPbWIAfXIm2_aIAPW9sJNC16QdkPWaY0jqzcns5WSkWw"
     },
     {
       "termino": "japon – brésil",
@@ -67,13 +74,6 @@
       "noticia": "Raphinha pide perdón por su expulsión y arremete contra árbitro",
       "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17515090/brasil-japon-raphinha-perdon-expulsion-arremete-arbitro",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa90SqpIuOtvjw08mewkfk3CEPzBJ7_rKgCwjqLQsCfGyqWUzr1LNF0VBr3z8"
-    },
-    {
-      "termino": "rosalía",
-      "trafico": "100+",
-      "noticia": "Latin Grammy Awards: The fashion, moments, winners and performances",
-      "enlace": "https://www.reuters.com/pictures/latin-grammy-awards-fashion-moments-winners-performances-2026-11-13/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjLM_tK1fh1H7jlZYmyxd5o8LiPxwGOVCrWfEZoTvxWl273WTkYtDgoNLdySo"
     }
   ]
 }
