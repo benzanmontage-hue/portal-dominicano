@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-14T11:06:52.140382-04:00",
-  "hora": "11:06",
+  "updated": "2026-11-14T11:27:28.530251-04:00",
+  "hora": "11:27",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "espacio aéreo",
-      "trafico": "1000+",
-      "noticia": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
-      "enlace": "https://www.bbc.com/mundo/articles/c5n4e274kdlro",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlEuUDeDulpe8PjMFiYvrFuKoNPeWrmOgCWwTSgENTK0MMrbLDo996upXHDE"
-    },
-    {
       "termino": "lotería",
       "trafico": "500+",
       "noticia": "Lotería Nacional: comprobar los resultados del sorteo de hoy, sábado 14 de noviembre",
       "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-hoy-en-directo-comprobar-los-resultados-del-sorteo-del-sabado-14-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAwcbZEnR4ePTJ6Y0kDtRFP9oB27YMhs1BxvUEHmsoqoN493tH-Zyi12c0cxE"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZcmYyP9XfiZE6WSPOWcU5pMc8GDbnUDNeqSg1n6MLaUCpk3bpZisBie1xOI8"
     },
     {
       "termino": "brasil vs",
@@ -36,9 +29,9 @@
     {
       "termino": "frente frío",
       "trafico": "200+",
-      "noticia": "Así afectará el desplazamiento del frente frío número 5 a los municipios de Tamaulipas",
-      "enlace": "https://voxpopulinoticias.com.mx/2026/11/asi-afectara-el-desplazamiento-del-frente-frio-numero-5-a-los-municipios-de-tamaulipas/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgnGjj0s0MrWeKUUDRFj2u4LJVYF8MmhIQC6XQdMq_IUpPd_vlHOfbPq6K2Pc"
+      "noticia": "¿Qué estados tendrán bajas temperaturas y lluvias durante este sábado de Buen Fin?",
+      "enlace": "https://voxpopulinoticias.com.mx/2026/11/clima-del-sabado-14-de-noviembre-habra-lluvias-y-frio/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiPPIYzrxIYDQVp5NIEnLaDav8TClfQ_p9mKyAR5Ykt2U8sXCEE1yWiqkERyI"
     },
     {
       "termino": "japón - brasil",
@@ -50,9 +43,9 @@
     {
       "termino": "clima santo domingo",
       "trafico": "100+",
-      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 13 de noviembre de 2026",
-      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-viernes-13-de-noviembre-de-2026-9789036.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, sábado 14 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-sabado-14-de-noviembre-de-2026-9789833.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
       "termino": "clippers - thunder",
@@ -74,6 +67,13 @@
       "noticia": "Luis Fernando Tena y Guatemala, muy cerca de quedarse sin Final Four",
       "enlace": "https://www.si.com/mx/internacional/luis-fernando-tena-y-guatemala-muy-cerca-de-quedarse-sin-final-four",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaWL4h03gq41A37EWfPAUT-6rThfzcCViig61VBbi2o3Syz7yiZLRx_6_O8w"
+    },
+    {
+      "termino": "rockets - jazz",
+      "trafico": "200+",
+      "noticia": "Why did Darryn Peterson ask out twice in the fourth quarter against Rockets?",
+      "enlace": "https://sports.ksl.com/nba/utah-jazz/why-did-darryn-peterson-ask-out-twice-in-the-fourth-quarter-against-rockets/578960",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG9_4q4aPBpVZpyvccn4M3KBc1_-Ihu0xkaAK6m5yInapgo5lZHuKwyuHh0CA"
     }
   ]
 }

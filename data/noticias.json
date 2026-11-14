@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T11:06:59.422749-04:00",
-  "hora": "11:06",
+  "updated": "2026-11-14T11:27:34.810796-04:00",
+  "hora": "11:27",
   "fecha": "14/11/2026",
   "total": 15,
   "noticias": [
@@ -85,11 +85,27 @@
       "imagen": ""
     },
     {
+      "titulo": "Ocupan más de 3,6 kilogramos de drogas en operativos en Dominicana - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0kyc0ZyVFBxdENjVHVEOGJpWE9HZFFNb3JKV2pqanpkb191NFkwTGk1Nl9nSzJzLTRoZjBaMW92VE9JQWZRU3g5QWVlblhZN21TMVlGTjFJV3hYREVXZXZZci1BbloyNm5LSzZTZUhOUE10c0Y5V1VqblprdEM3R2V6bGN2SWl3dDM0OVcxQVVkbFQxb3R6NklhOHg1MW1jSUZuN29zWVNiUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 14:52:00 GMT",
+      "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/11/DNCD-1.jpg"
+    },
+    {
       "titulo": "República Dominicana ocupará el lugar de Estados Unidos en el Mundial Sub-17 - El Gráfico",
       "fuente": "El Gráfico",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0hCdW56d3o3NHk0VnptNjFKZE1fel8yQUgwX3JYOFJRZkppc3BGdkNLQ2VtbkhMYl9sc085VHR0WDB6eDhJMlJyNnZqY0V6S3NKU2I2R1BhbnNrUDl4WkdFZEdXYkNKZkJDTWR3VHh4M0dwd1IyY3pPOEtlbDNyb2RRek9TMDlZV1NPNjBBZXNjbHV2bnlIMFJfekdpeTFyUC1zMXZEdGtqdjNwa3NHa1ZxTlpic2hEMWlrTzZCcnYtUXpOQlVj?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 00:12:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Tres israelíes han sido detenidos en los últimos días tratando de llevar drogas a Frankfurt - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG1SeVhLV1pSVlpDN2NhZjlnRkN3aF9MaVhKQ2xraXc1Rkw4SVdRbkxYSU1EQlVZYnZPUTVOaGlDVm41Y2QtSFBFT21PUC11WERSUkk0NUFzTDhreE1fbmdpOWhmbW5WUXQ3ckJBMXYyWVZXNExzWk5JVVRucG1DR3VMbHJiR2N3dlJQaHpla1lQdElFTGdRVnlCaWltZ3QyZEYyOVdKcDRkR1hrcVhfTW1yR3k2WllERU0yRGNuU05xUVMyZ3g40gHMAUFVX3lxTE85Yl9Ga3ZmTjdLMmd6dUdYR0ZELVg3Sl9ncHMxV19PZVNSczBQeGljTi0tVWZ1NE1mS3RHRnJFZkxOYjFmaVhoSGFLZnZITVBEa1hUNVZxQnE4eHZVZVVHb0dycDBHN0pQMUduSjg0MmxMOXhRN2lvOVc5ZFdqTHliM3A4VkN3cTduaGx0UzF2VVJxdzUzY3ZnenBZVGlXbWRpS3pNRVVMclRXZldfTjdLWnFmVGdRQW5SQURLMzJKMVVMdU4zVkl2NmRvZg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 14:33:00 GMT",
       "imagen": ""
     },
     {
@@ -101,27 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dos Espacios busca nuevos clientes en Miami y la República Dominicana - La Voz de Galicia",
-      "fuente": "La Voz de Galicia",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHc1UHRoYndTZWpUaWZxcUhVNW9NeUo3MFBSUE1jSUFnTTg3RWVXSXE5ZENDVnVIczZYNklUcm9vV25pZFh1R0FVRWxuTWJyUk9pWmJUU2xtSTBvRDZnMjFWZDdsSVFSZTZlYS02ZmhMMWZ0UHJWeXN2TzB2b1FabmRoVG1kWmUzR0xPZmZZZG5XY0lFT3RwSndreVlMSlhYNU5wTGNLeGdnZWtlekd1dll1cFFLeW9kcnhKX21oMUxIZElRYnVwTDBja3Fwek9yVmF1ZWxRbEzSAfQBQVVfeXFMTmJUU0pzY011czVEMWx3Z1ZEQjJMWjY5d24zWERlRWd3STJXQUIwNzF0ZlRvUzN1ZUdHdXhHLTB3dzQtY3RNVkg5SndRS2RjTDVwSF9KT1h0VEhMdVkxSVpodEhxWWFzcWpBQVlZeEh4MnNGc0xYbUJjZkFiMU9tUVJKZ1ZEUzQ0bGpjZGpNY3BFVXRuSFhhYWQwRnRDMzNUNll3WmI0M1BsRE9Md3VkMzVHLTJtV0c2anRPQ3AwRFNfMl9EaS1keHJpcXdQZlNMVGFUMkNtWFFQRGFGc3VYZUVtSURaZ2x1cEZIT2ZfaW56Y1U2Tw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 14 Nov 2026 08:56:27 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana sustituye a Estados Unidos en el Mundial Sub-17 - Sopitas.com",
       "fuente": "Sopitas.com",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRfNFllOG1tRUZuR0NTcUU3bUhOakw2dnlybnRJY25IRGpvejFCVHBKcUs1ZGxTaXNseXQ4QVl0NXAxRWwwMU1aSzFsekJxend0dHBSN2xtMnBacWZEY3htNGZaRXR1cTlQOFVNSF9YbGtZNEhPYXJKNjRSSEhpUHgwLUtDaWxrSHhuT3dTaWxWU192aFI0OQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 12 Nov 2026 23:04:46 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Centro Nacional de Sismología elevó a 5.3 la magnitud del sismo sentido en República Dominicana este viernes - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTWJreHIyQ29TRFAzUkd4eEp1ZUVIY3MyZDhKcXBLWWppeFduZm9Ba2F2bTY2d3NGVHdGRWF0Y3dKZTNIU1FyUDVYUzF5eG95TlktejMzVE5aVWFrdXJfQUZoMTJhVEZWMWJLeElvV2JiY1lxTXJUU3lkSWU5d0lfcVF2UUYxaVQxT3N0MGpNSll4ckI2LVVyS1o5SnVXeGxTc1NjbkpmQXlLRlB0bXRQZTBRMEdSWEdURkZtX1piWWJUc3JLYTdhcnZudEVUM054VXRBZS00NmM2RUhSMmFYeE9pT2xaMVFTemZBQVdoTVJCZzFuZE5sYWkwY9IBlgJBVV95cUxPV0pMSDdQZlQtWHdSQ3BPM1doUUMzNzlfLTYzLXdZSV95dFg2RHI3MVJqM3VMVmNoTDlPdFZmb1BWZXR5S2lxSUtIWEZYX3NiZjR6d0l5WVE4ZTN6RXU5RFNfYWFWZGJkYUZzVkZaNE5JNVFPOWk2eGxUdXpqVktYV2R2eE4wdFBOejctZW1DcGpfa1QwSDJHQXVSOUdDQzBHc25STkFSWnBTN2IxcVFYX3ZPeDlMXzBmUUo0NTRMQXVfQ0RYTTR1dEYwTmRoY3FjZFRQRUJTYnZCNnZLd3ZsRXBPLU82bEhIWDFTLVVlb2pLSEg0YTU1aHVWWXppcWJNY21GdHpqMldyYTVXRGQtR01JNEJ1UQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 18:50:00 GMT",
       "imagen": ""
     }
   ]
