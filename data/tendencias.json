@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-14T14:51:45.315369-04:00",
-  "hora": "14:51",
+  "updated": "2026-11-14T15:12:07.695272-04:00",
+  "hora": "15:12",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "portugal - dinamarca",
+      "trafico": "200+",
+      "noticia": "Veja os principais jogos da Nations League no final de semana",
+      "enlace": "https://tmc.com.br/esporte/veja-os-principais-jogos-da-nations-league-no-final-de-semana/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu94-mhI_5o8xWjGDC4rpXAcZzety5Kk-P0uQYr5uC1WQgIYYTqHXpS2c2QQY"
+    },
+    {
+      "termino": "vuelos cancelados estados unidos",
+      "trafico": "2000+",
+      "noticia": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
+      "enlace": "https://www.bbc.com/mundo/articles/c5n4e274kdlro",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlEuUDeDulpe8PjMFiYvrFuKoNPeWrmOgCWwTSgENTK0MMrbLDo996upXHDE"
+    },
     {
       "termino": "la real",
       "trafico": "200+",
@@ -21,7 +35,7 @@
     },
     {
       "termino": "noruega - gales",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Fuertes nevadas amenazan el estadio Ullevaal antes de Norway Vs Wales del sábado",
       "enlace": "https://twaslnews1.twaslnews.com/7687071/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBS4lkmcA8hga6Zeau84TCY7DalxliboHPcWDGq7n1JApWtp_Gha7pvqcIr8g"
@@ -60,20 +74,6 @@
       "noticia": "Brésil : Raphinha ne retournera pas à Barcelone",
       "enlace": "https://www.footmercato.net/a2231792750739236579-bresil-raphinha-ne-retournera-pas-a-barcelone",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVdPKUh5nLoPDQD5RYynGdOYOF9bCqBBRA9hzbj8ucWUHi3QX-cxAro3w-GJI"
-    },
-    {
-      "termino": "frente frío",
-      "trafico": "200+",
-      "noticia": "Frente frío 5 y lluvias en México: estos serán los estados más afectados el sábado 14 de noviembre",
-      "enlace": "https://es-us.noticias.yahoo.com/frente-fr%C3%ADo-5-lluvias-m%C3%A9xico-122447786.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvNyhDf6rOCMwtha3q7yi9-LuWqscB4uqF3EyikEO7Pnp-vde0bxIoce_HAgw"
-    },
-    {
-      "termino": "japón - brasil",
-      "trafico": "2000+",
-      "noticia": "Raphinha pide perdón por su expulsión y arremete contra árbitro",
-      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17515090/brasil-japon-raphinha-perdon-expulsion-arremete-arbitro",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa90SqpIuOtvjw08mewkfk3CEPzBJ7_rKgCwjqLQsCfGyqWUzr1LNF0VBr3z8"
     }
   ]
 }
