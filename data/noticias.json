@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T18:37:19.169153-04:00",
-  "hora": "18:37",
+  "updated": "2026-11-14T18:57:41.209630-04:00",
+  "hora": "18:57",
   "fecha": "14/11/2026",
   "total": 15,
   "noticias": [
@@ -53,14 +53,6 @@
       "imagen": "https://img.asmedia.epimg.net/resizer/v2/5ZPP52ACZBDKTPNAL7LP5TTIWA.jpg?auth=d6f201b97659b5995898deb00f39098e5774365e5a79a444887b8ddd3e0fc415&width=1472&height=828&focal=1038%2C435"
     },
     {
-      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana. Fondos de pensiones buscan facilitar financiamiento para la compra de viviendas - Pension Policy International",
       "fuente": "Pension Policy International",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSnRFLUVocG9BMXBveVZTX1YzZTd2MklVN210U2ZVYTMzS2xVQW9NUEU3WnEwdTlYb0NGa1B2N0YtQUh5RDREUHdNUlo5YWJsWEU0aFV3dlo5QzZ5WnZUbDg2cG45d3VmVWJ6OVoyckIzZU9ONTdMOVlFSzZaTWgyeExWRHlfdHY2ZGVocktEc1NvMGN3R3lDTXF6WXpaazJSX2xSUE1UY24yWmRxRGVYZHhXT1FnUnZ6N3FIQWRHMzJHbHlvZ21aaDdGSGFGYlZiTG9OZkhnMExjQUwt?oc=5",
@@ -77,6 +69,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Se elevan a 25 los vuelos cancelados entre República Dominicana, EE.UU. y Puerto Rico - El Dia.com.do",
       "fuente": "El Dia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWY1X0FySnlGUDhTYWM0UDNvVnVnc3JHVk9qbGFPb09HN0FhTmhHMGhSWW85djkxaW9vVTBibHExcWI5a3cyVTFrY2c0LVhRRldFck4zY2p2ZUYtbHFpUlB3YkFUeVFsbU53WDBobS15UkFXcl9nY3pFTVhLbWM3aUFZdEgwcHRPQjdwam9QMm1QQ3ZCaW0zLWhSX1B0bXl3dGxlelMzb1E?oc=5",
@@ -85,27 +85,19 @@
       "imagen": "https://eldia.com.do/wp-content/uploads/2025/12/dominicanos-ausentes-diaspora-aila-1200x675.webp"
     },
     {
-      "titulo": "Tres israelíes han sido detenidos en los últimos días tratando de llevar drogas a Frankfurt - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG1SeVhLV1pSVlpDN2NhZjlnRkN3aF9MaVhKQ2xraXc1Rkw4SVdRbkxYSU1EQlVZYnZPUTVOaGlDVm41Y2QtSFBFT21PUC11WERSUkk0NUFzTDhreE1fbmdpOWhmbW5WUXQ3ckJBMXYyWVZXNExzWk5JVVRucG1DR3VMbHJiR2N3dlJQaHpla1lQdElFTGdRVnlCaWltZ3QyZEYyOVdKcDRkR1hrcVhfTW1yR3k2WllERU0yRGNuU05xUVMyZ3g40gHMAUFVX3lxTE85Yl9Ga3ZmTjdLMmd6dUdYR0ZELVg3Sl9ncHMxV19PZVNSczBQeGljTi0tVWZ1NE1mS3RHRnJFZkxOYjFmaVhoSGFLZnZITVBEa1hUNVZxQnE4eHZVZVVHb0dycDBHN0pQMUduSjg0MmxMOXhRN2lvOVc5ZFdqTHliM3A4VkN3cTduaGx0UzF2VVJxdzUzY3ZnenBZVGlXbWRpS3pNRVVMclRXZldfTjdLWnFmVGdRQW5SQURLMzJKMVVMdU4zVkl2NmRvZg?oc=5",
+      "titulo": "República Dominicana sustituye a Estados Unidos en el Mundial Sub-17 - Sopitas.com",
+      "fuente": "Sopitas.com",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRfNFllOG1tRUZuR0NTcUU3bUhOakw2dnlybnRJY25IRGpvejFCVHBKcUs1ZGxTaXNseXQ4QVl0NXAxRWwwMU1aSzFsekJxend0dHBSN2xtMnBacWZEY3htNGZaRXR1cTlQOFVNSF9YbGtZNEhPYXJKNjRSSEhpUHgwLUtDaWxrSHhuT3dTaWxWU192aFI0OQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 14 Nov 2026 14:33:00 GMT",
+      "fecha": "Thu, 12 Nov 2026 23:04:46 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Dos casos de violencia sexual infantil en una misma semana sacuden la República Dominicana - Acento",
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16 - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0I4M21sSmRNOEpFSjh5eWRHN3V1NHU5cW1wSVhWdDIwNFhKMnQ3dFRwd29EVHREaERqc0tjLUZyVkVZb1VJc01pTE8tRFo3QkxVbjRjQ3hTSGxPR01PSG9oMnhsVnVsUHJMX1hpSV9SeXRkMHRySG9GcEEtXzdCUmk4bDBKY3lqNUxuNlJPLUxrQXhUcmkxb1MwZHFJUFNFZGlDNmtfUld3emxITmJnOF9ZN21WNU5xeGxmOGdnVFBmX04yanpSVEFtY2swaVNvY1HSAdIBQVVfeXFMTjdCODNtbEpkTThKRUo4eXlkRzd1dTR1OXFtcElYVnQyMDRYSjJ0N3RUcHdvRFR0RGhEanNLYy1GclZFWW9VSXNNaUxPLURaN0JMVW40Y0N4U0hsT0dNT0hvaDJ4bFZ1bFByTF9YaUlfUnl0ZDB0ckhvRnBBLV83QlJpOGwwSmN5ajVMbjZSTy1Ma0F4VHJpMW9TMGRxSVBTRWRpQzZrX1JXd3psSE5iZzhfWTdtVjVOcXhsZjhnZ1RQZl9OMmp6UlRBbWNrMGlTb2NR?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdnRENjJrU1R4MldEYlN2VDQ1Z1FYWHpNcHNZSVdDNmp3Yy1vai1zUms0U0lyM1ZQeEVvd3dDbkc2WVBxRndOYnI4V09yNkROOGtXWmFJMHZSdG9HSjcteF9BQ1FVdkVZNUg1dWVZRFVPaDRudHpVRndqcWlrN0hQbkR1S1dKY3BvNEFBQjEtel9reTA2cW04bWJ0Z1hwTGhxYmtGWUdLTmNjY2VQdE5rOW01UmlYYUhVWjFXTURJbFFrY0I3c0NMbXBpQi0wbkctc1F1dG91WkdId05HdWxhSGU0UFh1YjBWWDJaT08tZHRpLTJFa3fSAfYBQVVfeXFMTXZ0RDYya1NUeDJXRGJTdlQ0NWdRWFh6TXBzWUlXQzZqd2Mtb2otc1JrNFNJcjNWUHhFb3d3Q25HNllQcUZ3TmJyOFdPcjZETjhrV1phSTB2UnRvR0o3LXhfQUNRVXZFWTVINXVlWURVT2g0bnR6VUZ3anFpazdIUG5EdUtXSmNwbzRBQUIxLXpfa3kwNnFtOG1idGdYcExocWJrRllHS05jY2NlUHROazltNVJpWGFIVVoxV01ESWxRa2NCN3NDTG1waUItMG5HLXNRdXRvdVpHSHdOR3VsYUhlNFBYdWIwVlgyWk9PLWR0aS0yRWt3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 14 Nov 2026 19:00:38 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Votación para ciudadanos estadounidenses desde la República Dominicana - U.S. Embassy in the Dominican Republic (.gov)",
-      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "fecha": "Sat, 14 Nov 2026 19:00:05 GMT",
       "imagen": ""
     },
     {
@@ -122,6 +114,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQVNXTEU0bWtrT0s3eEk5dW5TNW1EdHRleUFkaVZ4SWNMS0N1YUUzVHJhYmJyV1JHOWZ6M3V1cjdfbG96bnN1WlZkLVlNMWUxMmI2M3p0eEhxbVQzcVd0djEzWXFKX1R6VkxHX2hqaWhPU1dWT3dIZzZaZVl2NmptX2pjLWZEQnpNYVh6aFhCaFRLbDAxOGFaYVN0dEJpS1lPbE5kUnNWVDBpR21uY2cyV0hDWlBGS2pia01XSk9sbDBTejVXTE5IdEJWcFNRWXVuQ3RXZDNMUWVJWHh1WU5ZY1lya3BSMmd1b2JISW5od1ZVMmcweFo1M1ZYQdIBlgJBVV95cUxNLVhGZDhWUDZoaG9MYXM4UGNQTWlZTXVPLWx4RHZVdDkzOThKV3JrUmMtc056Q19OaG9NRFQtaW1Db2N0OTRpdFhzQWVEU2FSdnlOSUpxTWpSY2JSOHhsX3dtUlE3ak95cDlVVDU5LXJzNmJ4MHY5U1ByS00teW1zWGdvM3hENU1rM3FkT1ZVcWV6RkliV0lkMGdpSWR5ZHVtd2lBX3RlMzcyUzluZTZPS1dta2Myb1g0ZC15R0FCZW5kTjJBSnZJSDdCYjhOdlhxTVAtd0Jua2hEMHY3Yi1RakU5T1M0RGF2Q0VFdkRyZnRYUkhjVlY1NWRnQWlxRGhheUotR0JjVDliNm1ZZnBaYnprd3hldw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 14 Nov 2026 19:33:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Punta Cana recibe por tercer año consecutivo el premio al mejor destino latinoamericano para reuniones - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNmJnR01ZTExlUC11OHoxZU9yOXdtZ0hLNXpYcWVkQVRkV082YlBCYlpjS0NnX09xT1Ixd2pNTnFWY05GcmRacG5uOTA1N3o4aGZKVExmNjk0WFNBQVRvdnpXMkZXaWRMaFlPMXJIdE9EMkl3YmZiRnlMOWtaUlRCMjVmMW51ejZjSkhhd2w1aFA2cW1rWUVQbTRRWTNEbGdPdWpRMmhuYlhTMU5hUEFjbGtBb21IWUF2WFBiTkhiT0lRN3dNVkRVbEJSbkJ6YjNXVUtsYUxTdmZUUFNUbjE5R2pVM3NwTmZyS1cyc1JCTVHSAYsCQVVfeXFMTk5CVXZoUDg4TWFEN2g5M3dHc1YzZ2RJTVgyOE1jTHZrdldNaEMxQjQtMks0d21oT18tbzFiaXhpMV9jbGNoenNjZDZVRTZQN3A3SF8wNzNfeGdkbWh1aG0yaE1uSHo4eGhSMGRrZTJXakduTEtGYkxBd0lFZnJ1ME0yR2N5OEZMVDdrVXBuWnpHaVI4d2d4RWdhaWdxUVF4czdOSTQ0VXRXeFJXSm5yQnlxNEVEN2VkMERCdlhNcENRdlZ4NXNaaDdnXzFQdlVTZHItUjg1dlZZTkpiX1dfRXVEV0RHdmdhRXVQVE9VcEd5V3NsSko0SmhIM3lVRGRYUzd4NmUwYXZ3OE5n?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 18:47:00 GMT",
       "imagen": ""
     }
   ]
