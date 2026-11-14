@@ -1,23 +1,44 @@
 {
-  "updated": "2026-11-14T15:52:51.116081-04:00",
-  "hora": "15:52",
+  "updated": "2026-11-14T16:13:13.862344-04:00",
+  "hora": "16:13",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "wilfrido vargas",
+      "trafico": "100+",
+      "noticia": "Condenan a Wilfrido Vargas a pagar RD$14 millones a músico por coautoría de “El baile del perrito”",
+      "enlace": "https://listindiario.com/entretenimiento/musica/20261114/condenan-wilfrido-vargas-pagar-rd-14-millones-musico-coautoria-baile-perrito_930085.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRpRvMnV6IBO5uJROjJUT6QirOOAvuO8sAnd9d2HKrMu1O9AJUMTQtwI0m604"
+    },
+    {
+      "termino": "luis abinader",
+      "trafico": "100+",
+      "noticia": "Gobierno anuncia construcción de hospital materno infantil en La Vega y otros nuevos proyectos",
+      "enlace": "https://listindiario.com/la-republica/20261113/gobierno-anuncia-construccion-hospital-materno-infatil-vega-otros-nuevos-proyectos_930005.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h922IP10qwajfc0-s1cpyxZqZ2WlFDV8jSOOdRAzuzO29vN7yg76vXQRTWE"
+    },
+    {
+      "termino": "haiti vs",
+      "trafico": "200+",
+      "noticia": "Haiti vs. USA, Jamaica vs. Mexico headline Nations League Quarterfinals doubleheader",
+      "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-vs-usa-jamaica-vs-mexico-headline-nations-league-quarterfinals-doubleheader",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
+    },
+    {
       "termino": "muerte",
       "trafico": "200+",
-      "noticia": "Pastor pide al próximo gobernador de Florida pausar las ejecuciones por seis meses",
-      "enlace": "https://es-us.noticias.yahoo.com/pastor-pide-gobernador-florida-pausar-182004951.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStQhM-C86CPSAhVp5Em6H1UAAqVXG-FAzBHiqHjpZnkTxbJzryu4TfZxVBe5A"
+      "noticia": "El apoyo a la pena de muerte en EE.UU. cae al 49%, su nivel más bajo desde 1971, según Gallup",
+      "enlace": "https://www.ewtnnews.com/es/mundo/america/apoyo-pena-muerte-cae-gallup",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWRZczrphzc7RlFL2ri9rBMnecqZllNQplljs9mWhWVpSntoxD_6nlAaXd8xQ"
     },
     {
       "termino": "portugal - dinamarca",
-      "trafico": "500+",
-      "noticia": "Portugal vs Denmark: UEFA Nations League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cmgj9jnvxx2qt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+      "trafico": "1000+",
+      "noticia": "UEFA Nations League Matchday 5 preview: Portugal host Denmark, Norway welcome Wales in League A action",
+      "enlace": "https://www.uefa.com/uefanationsleague/news/02ab-220793bfb8a3-00d5842942af-1000--uefa-nations-league-matchday-5-preview-portugal-host-denmark/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLStDjDKRBb237gA2rwmEapxhGzV5RSU-mV6o4TklERtAI6BlfuFo-rgUH7A"
     },
     {
       "termino": "la real",
@@ -53,27 +74,6 @@
       "noticia": "Techy habla sobre su álbum “Chula”",
       "enlace": "https://listindiario.com/videos/20261113/techy-habla-sobre-album-chula_929978.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVfD4RdW-nQ2PQsPWYLsGSQU7-_Go_R_3v1dtgspOLYTWB3I8itINvx2k40uU"
-    },
-    {
-      "termino": "lotería",
-      "trafico": "500+",
-      "noticia": "¡Yo tenía mucho tiempo jugando! : Chofer se saca RD$43 millones en la lotería",
-      "enlace": "https://elnacional.com.do/nacionales/tenia-jugando-chofer-saca-rd-43-millones-loteria_586135.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG4KDqaXvGxIFoM-9miOX_G5Wy3tapcLoiU1lil88JJSmNpTMAgoXmC5Mx868"
-    },
-    {
-      "termino": "brasil vs",
-      "trafico": "500+",
-      "noticia": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-      "enlace": "https://capitalfm.africa/ancelotti-and-raphinha-sent-off-as-japan-beat-brazil/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ZdUEYFYx1jBIm2EDPbWIAfXIm2_aIAPW9sJNC16QdkPWaY0jqzcns5WSkWw"
-    },
-    {
-      "termino": "japon – brésil",
-      "trafico": "1000+",
-      "noticia": "Raphinha et Ancelotti expulsés: le Brésil perd ses nerfs face au Japon malgré un doublé de Vinicius",
-      "enlace": "https://rmcsport.bfmtv.com/football/equipe-bresil/raphinha-et-ancelotti-expulses-le-bresil-perd-ses-nerfs-face-au-japon-malgre-un-double-de-vinicius_AV-202611140249.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEk53ZyCzpWidg2vesPEA5mwn9jFKGhTVMQj91Qo0xSHgiO2-cR20QAKqj2H0"
     }
   ]
 }
