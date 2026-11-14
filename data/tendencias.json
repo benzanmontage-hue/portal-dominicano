@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-13T21:52:55.937107-04:00",
-  "hora": "21:52",
+  "updated": "2026-11-13T22:13:19.811844-04:00",
+  "hora": "22:13",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "spurs - warriors",
+      "trafico": "200+",
+      "noticia": "Spurs seek 11th straight win as Warriors visit without Stephen Curry",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-seek-11th-straight-win-as-warriors-visit-without-stephen-curry/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+    },
+    {
       "termino": "heat - cavaliers",
       "trafico": "200+",
-      "noticia": "3 Options for Cavs to Replace Evan Mobley withAgainst Heat",
-      "enlace": "https://sports.yahoo.com/articles/3-options-cavs-replace-evan-180006228.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPQlXRyjwqZBYpAAHrvf9htxyErx_J5QX0VWrpwbBMg3JxrcRbRtQQq1OvfPA"
+      "noticia": "“It’s a sprain, so he’s definitely sore and all that,” …",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/its-a-sprain-so-hes-definitely-sore-and-all-that/92770714007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOMCOCX4_x93reReMNhFqr-kXIb6KM8MpvCCJVyelpokuF3r9_K_zkqTI1vg0"
     },
     {
       "termino": "nvidia jensen huang",
@@ -29,9 +36,9 @@
     {
       "termino": "magic - bucks",
       "trafico": "100+",
-      "noticia": "Magic eye first home win as reeling Bucks visit",
-      "enlace": "https://www.cbssports.com/nba/news/magic-eye-first-home-win-as-reeling-bucks-visit/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+      "noticia": "The Milwaukee Bucks are off to a 1-11 Start",
+      "enlace": "https://milwaukeecourier.com/news/2026/11/12/the-milwaukee-bucks-are-off-to-a-1-11-start",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Wdv3psz8Iw8Ta9FQkWU39V1UM2nRJ8V3XpPljOqDRixMmvifHZP3rxfPrGc"
     },
     {
       "termino": "pacers - knicks",
@@ -50,9 +57,9 @@
     {
       "termino": "frontera",
       "trafico": "200+",
-      "noticia": "El Supremo examinará el veto de Trump a la petición de asilo en la frontera con México",
-      "enlace": "https://elnuevodiario.com.do/el-supremo-examinara-el-veto-de-trump-a-la-peticion-de-asilo-en-la-frontera-con-mexico/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSokgH4SyFnj0YeCXwvI0XMYTzO07AnO3swKyomiQrRErIRzQU5Bmk1VLnnZAQ"
+      "noticia": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana",
+      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/13/el-comercio-minorista-resiste-a-la-crisis-de-haiti-en-la-frontera/3719851",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
     },
     {
       "termino": "argentina - uruguay",
@@ -67,13 +74,6 @@
       "noticia": "Última hora de suspensión nacional de todos los vuelos en EE.UU.: noticias, retrasos y más",
       "enlace": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtvkhCoen3MyTRVxPzGApS0rhzsDFSoQ4Do1_aSzRoG1cknMGHZOp06B-ozeU"
-    },
-    {
-      "termino": "marruecos - níger",
-      "trafico": "100+",
-      "noticia": "Abde, titular en la goleada de Marruecos ante Níger (5-1)",
-      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/abde-titular-goleada-marruecos-ante-niger-20261113234736-nts.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRke7RNxYDc-d8CbOQdJHeizDEsOsrr9KyN0OAPbCPLyzuQL5xEvHZb252nZEI"
     }
   ]
 }
