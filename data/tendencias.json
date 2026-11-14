@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-13T23:36:23.887802-04:00",
-  "hora": "23:36",
+  "updated": "2026-11-13T23:56:45.558716-04:00",
+  "hora": "23:56",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lj cryer",
+      "trafico": "200+",
+      "noticia": "How LJ Cryer plans to step in for injured Brandon Williams off Warriors  bench",
+      "enlace": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/lj-cryer-step-up-brandon-williams-injury/1979212/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQtEKzMz36vrjm61oGk2E9lwR8wjsc8l3o9s4l0J2YlAvTh_cOyXi3ETemZ8"
+    },
     {
       "termino": "guatemala - canadá",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Pacers hold off late Knicks rally for 106-104 NBA Cup win",
       "enlace": "https://www.cbssports.com/nba/news/pacers-hold-off-late-knicks-rally-for-106-104-nba-cup-win/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
-    },
-    {
-      "termino": "colombia - chile",
-      "trafico": "500+",
-      "noticia": "Colombia vs Chile: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c5kglgd24k70t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     }
   ]
 }
