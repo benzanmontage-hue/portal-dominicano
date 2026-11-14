@@ -1,37 +1,51 @@
 {
-  "updated": "2026-11-14T12:28:47.193099-04:00",
-  "hora": "12:28",
+  "updated": "2026-11-14T12:49:12.104873-04:00",
+  "hora": "12:49",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "noruega - gales",
+      "trafico": "200+",
+      "noticia": "Fuertes nevadas amenazan el estadio Ullevaal antes de Norway Vs Wales del sábado",
+      "enlace": "https://twaslnews1.twaslnews.com/7687071/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBS4lkmcA8hga6Zeau84TCY7DalxliboHPcWDGq7n1JApWtp_Gha7pvqcIr8g"
+    },
+    {
+      "termino": "meteorología",
+      "trafico": "100+",
+      "noticia": "Pronostican sistema frontal provocará aguaceros este sábado principalmente en la tarde",
+      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/14/pronostican-sistema-frontal-provocara-aguaceros-este-sabado/3720519",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0_ZMXwQkLqDdk05sbsqFjJNZ7ehHifyAcB1S672Pk4q9666zUIEe1Obtr63I"
+    },
+    {
       "termino": "techy fatule latin grammy",
       "trafico": "100+",
-      "noticia": "Techy habla sobre su álbum “Chula”",
-      "enlace": "https://listindiario.com/videos/20261113/techy-habla-sobre-album-chula_929978.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVfD4RdW-nQ2PQsPWYLsGSQU7-_Go_R_3v1dtgspOLYTWB3I8itINvx2k40uU"
+      "noticia": "J Noa gana su primer Latin Grammy por Antisistema en Las Vegas",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/12/latin-grammy-a-j-noa-por-mejor-cancion-de-raphip-hop/3719180",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL6YU9U6HRrRbOAMpeNPmWVFYfCNYL4Qg2TP9puPQ3WqItL0TLnitJ964kg0Y"
     },
     {
       "termino": "lotería",
       "trafico": "500+",
-      "noticia": "Lotería Nacional: comprobar los resultados del sorteo de hoy, sábado 14 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-hoy-en-directo-comprobar-los-resultados-del-sorteo-del-sabado-14-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZcmYyP9XfiZE6WSPOWcU5pMc8GDbnUDNeqSg1n6MLaUCpk3bpZisBie1xOI8"
+      "noticia": "¡Yo tenía mucho tiempo jugando! : Chofer se saca RD$43 millones en la lotería",
+      "enlace": "https://elnacional.com.do/nacionales/tenia-jugando-chofer-saca-rd-43-millones-loteria_586135.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG4KDqaXvGxIFoM-9miOX_G5Wy3tapcLoiU1lil88JJSmNpTMAgoXmC5Mx868"
     },
     {
       "termino": "brasil vs",
       "trafico": "500+",
-      "noticia": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-      "enlace": "https://capitalfm.africa/ancelotti-and-raphinha-sent-off-as-japan-beat-brazil/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ZdUEYFYx1jBIm2EDPbWIAfXIm2_aIAPW9sJNC16QdkPWaY0jqzcns5WSkWw"
+      "noticia": "Licensable picture: Mizuho Blue Challenge - Japan v Brazil",
+      "enlace": "https://www.reutersconnect.com/item/mizuho-blue-challenge-japan-v-brazil/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUwVFRPV1c",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTxVlkwXJFocp2Kbm9RGoNQsI7iXeg6YltbiNSRVAYAgq_YhTIAsKQSRMddg"
     },
     {
       "termino": "japon – brésil",
       "trafico": "1000+",
-      "noticia": "Raphinha et Ancelotti expulsés: le Brésil perd ses nerfs face au Japon malgré un doublé de Vinicius",
-      "enlace": "https://rmcsport.bfmtv.com/football/equipe-bresil/raphinha-et-ancelotti-expulses-le-bresil-perd-ses-nerfs-face-au-japon-malgre-un-double-de-vinicius_AV-202611140249.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEk53ZyCzpWidg2vesPEA5mwn9jFKGhTVMQj91Qo0xSHgiO2-cR20QAKqj2H0"
+      "noticia": "Keito Nakamura (OL) buteur contre le Brésil, le Japon prend sa revanche",
+      "enlace": "https://www.lyonfoot.com/article/14842/keito-nakamura-ol-decisif-contre-le-bresil-le-japon-prend-sa-revanche",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1EoUTGT1K3c4dCNeARllZZUyo9AYLT3pLLIr3JgMaCybyU7C2vDqRAtPxnjY"
     },
     {
       "termino": "frente frío",
@@ -43,9 +57,16 @@
     {
       "termino": "japón - brasil",
       "trafico": "2000+",
-      "noticia": "Tremendo enfado de Ancelotti y Raphinha, que acabaron expulsados",
-      "enlace": "https://www.marca.com/futbol/2026/11/14/tremendo-enfado-ancelotti-raphinha-acabaron-expulsados.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQLaWTONqO6MEl3HTgZSg3c1yB5NJRRpNx2ag94ipIrF-49xnw6wDx2PaW840"
+      "noticia": "Raphinha pide perdón por su expulsión y arremete contra árbitro",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17515090/brasil-japon-raphinha-perdon-expulsion-arremete-arbitro",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa90SqpIuOtvjw08mewkfk3CEPzBJ7_rKgCwjqLQsCfGyqWUzr1LNF0VBr3z8"
+    },
+    {
+      "termino": "rosalía",
+      "trafico": "100+",
+      "noticia": "Latin Grammy Awards: The fashion, moments, winners and performances",
+      "enlace": "https://www.reuters.com/pictures/latin-grammy-awards-fashion-moments-winners-performances-2026-11-13/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjLM_tK1fh1H7jlZYmyxd5o8LiPxwGOVCrWfEZoTvxWl273WTkYtDgoNLdySo"
     },
     {
       "termino": "clima santo domingo",
@@ -53,27 +74,6 @@
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, sábado 14 de noviembre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-sabado-14-de-noviembre-de-2026-9789377.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "clippers - thunder",
-      "trafico": "200+",
-      "noticia": "Shai Gilgeous-Alexander News: Powers team in narrow loss",
-      "enlace": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-powers-team-in-narrow-loss-539033",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Q3fesIvo4kBSgCx0CiiRTaEWZHJHcwU1wRGp2IeALxS7W_0ADUfcTaojtXw"
-    },
-    {
-      "termino": "lj cryer",
-      "trafico": "1000+",
-      "noticia": "LJ Cryer highlights: Watch Warriors guard score 20 points in loss vs. Spurs",
-      "enlace": "https://www.nbcsportsbayarea.com/video/nba/golden-state-warriors/lj-cryer-highlights-watch/1979956/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThfvfy3IhaCnEn21ePwzwYbhLjxcVGJZo-cHFTn7J6pkGck5erD0vgYpyxYBY"
-    },
-    {
-      "termino": "guatemala - canadá",
-      "trafico": "100+",
-      "noticia": "1-3. Canadá vence a Guatemala y se acerca a las semifinales de la Concacaf",
-      "enlace": "https://holanews.com/1-3-canada-vence-a-guatemala-y-se-acerca-a-las-semifinales-de-la-concacaf/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm61O7UAb2Sbzg8SX1kl80u_7Aqu7Ot6AHY8uupNlsfZc2v-y81XHPfVJxt50"
     }
   ]
 }
