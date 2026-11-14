@@ -1,23 +1,95 @@
 {
-  "updated": "2026-11-13T23:56:47.008958-04:00",
-  "hora": "23:56",
-  "fecha": "13/11/2026",
+  "updated": "2026-11-14T00:17:15.833221-04:00",
+  "hora": "00:17",
+  "fecha": "14/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Magali Febles comparte nuevos detalles del accidente que sufrió con Miss República Dominicana - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcHR2VlhZQldjWk5laE1lbkRMakpGNGplbWVoOWxsSWRJdDRMSlUxVS1RX3BPYlZmODN4UTVVNXpVcDRab0RwWDJUV3FPcm9mUWtjZFZhMlphNXc5U1Y4Q0hQZGpjU2hsRmQ5dVVzNXNSV0owOGh4dlM1bmREUVo3eWxsVUhmSGtKQkIyY2c1SFBwdEVua2poQl9oNU45WFdZOTlPekhQam43WmlWYk9pZFZHOURoYnNzYV92VlM4RC1mMVpaVmt4b2xMcHFGVGY3NXdSNzV1R2lpU19tQmw5d2hLRjFxT2x5UUF3N1lXYzNpcUdua2phSFY0bWs?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 06:46:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/552/470/49614557139-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Aumentan las cancelaciones de vuelos entre RD y EE. UU. por restricciones de la FAA - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmJWZ1R6SjVBeXVkMW1OcDVVM2hFUlJUVFRrNlF6SzdNalJUbU9HYS1yNEdObUc2a1VxdXV4SlJJV3VCb05kOE9lUHNCbWZaZlZ5WUt2OThjRTN6cXVJT0NzMDM2bXNRTmZ0WVE4M0w1Vm10Mnp5bFVlMmU3RmY5VUYweURKd0VLbGxDX3k0U0UwLU96YVZXaU1QUXljXzY0bEZMangyRUlSTTJ0T1HSAbMBQVVfeXFMT0lZZHZVejVueTh1aUwtYkdEWVM2ZkhCVW1QcnpwQ0JWR0dESElvTFBpMDliZnZvUEFTbGxwV2Z5dW16RkZtTmZ3WTJrYVlScWZMaW1sem1kejlNVV9xanVfTWJJOWRsMzRKOG5BVS00d1UwQnZHbFhKOF96UmVvUm9XaURVZm9IWlh0WnFObVVLYlBfN29zTVZQODBhYkVGSm1GYUhsTGhSQjE1a1lFdTNEbVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 01:08:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Temblor sorprende a los dominicanos este viernes - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHlzS2NmTHhlMUF1SmJOOHc4TENxSDAyU0o5Q3p4NHNDdE02V2RsMVZicEtvemVuOTBzd3Q5aGd6b0hlWUJzMUlzaW5MLTBHRVctemU3MWZteWhmN1RURl83NHZTSzV0YWNGek9RRENOTm1fa0FGdTBSSU5qWWtTQm1JaVJ6WkV2QU9yRUIzakhKTk5BTU5PdUoxWlZuZFRCYVBpRVRuTdIBrAFBVV95cUxOZHI1STFVbVhhS21Hd0ZQU3hyM2VBak1yQUlhVzFjZWkyQmtlZERkeGVIcFZ6MDZJZjBJLTZrbE0xWEZsZFEwSGQ4dWhSYkN2SDZReHB1aEplUXRRTFdMdi1fNGoxQ2lwclpnVG9hZFBfb09jUmZfejRPTl9EZUVYcjFlVENnOGxvZlh2T3RFTkhQSUVPRk1RemNnVDlUdFNORFFyNE15SWtvdE91?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 16:41:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Cómo invertir en la bolsa de valores en República Dominicana? Experto explica requisitos, ganancias y riesgos - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQdIB5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 08:00:49 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reconocen trayectoria de Pepín Corripio en la décima Feria Emprendedores República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVll4YnEzOUJsYVVRV0g3R0h5V1B5N2RPa2NmbFVaYXFfNnhfbmdtVGNVTEZlaXh6TUJmRlpJeHpIX3NETDA4aHBlLWxrSkpRZEJWWVVBMENtVXNoeERYeGNIeG1Ea1RmMmJsMkdIbUVPb2xWaDlQYVVUSDloYkZIRzJ1bE1YQ0ZUZUJfWWRRRjRKeExRbnVmZ242SzF4UjhBc2VRRzRPRXVDSmJqSi1PaHpZdWJmWGlZQ1IwWWJSMDNUQ3RhcWhmRzJRQdIB0AFBVV95cUxPYkVWZnk3a0Z1eEFfUXk5QmxXd2JjbXZUX3FQckdvV0VkUnZ0OVFfQ2VzQU04YmdyaVV1ZHotZEtXTlh5Q0RPajNHOE9HeTNFX3dDQ2lzY3d3bXNZNTBDVks2VXRyakpVdFdpVmFVY1hsU2phOEJtSFRkaDhKUDRBdE9USEVnb09sRXROcEdjSHctNlBfcW9YN1dUN2VwWldmZmxLT1JRbWMwQUxaWHpmMmRiQjBocmxvLTNndy1DS19KcnVMb0hUWnp6MUFoOGhk?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 13:59:27 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Soy Kleiii conectó culturas en República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWS1CUGlueVdUSmhwQWIzUTA0WnJJbEtUQXlYQkNjYUJ6M0gxRnJkVklLVEsxS2M1ZEJ4dlp4ODZDY2twMG93SEJ0WFBNMENYX050Skx5Mlo4SmlERjVGclVBVG1DWGdzNFZ0YW5GTUQ1ME5aVWJQNGFCMk1kNEVMV3NnRlg3bHlQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 16:29:37 GMT",
+      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-9.26.07-AM.jpeg?resize=1200%2C1197&quality=100&ssl=1"
+    },
+    {
+      "titulo": "Precio del dólar hoy en RD viernes 13 de noviembre - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNMeUlUaHltTG9TaU1tcmJkMXlrdHUtaFJRZzlMeEVGdGQ2cXlxQkNQcDVwWXJCQkM0dXktYlNMQlFsSm9vWTNiM2dLa195T3hIbi01dGJ4WlQ4RG9RWERFZTFxQlBSZGNCUkh0QzFndG4yYlFiYjVaMF9aaEoxaHJtTWtnWFJtQjM3Q2h3UQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 13:33:31 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "RD revela a sus 21 convocados para el Mundial Sub-17 de Catar - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTdzd2lGSmotZjlOQ3FzU3l1M2o2SWoxdnQxamt6MUM3OWI0LVBDWDlUVG9DU1BlcVZhY2xfcE5wTC1KTHJwZFQ1QkNITUpCYmNtTGc0U3dob1VGX1lIRGdsVWxlVUpsbmlFZXZWNXYzaUppV1l6VUJzVGhWZWp3ZkFncHktN2tJaGRPeF9VdHVPb20xQk9SR19YUVhUV1JlUkhoaE4wT0FmWGJa0gGyAUFVX3lxTFBJMG5qYjlQd0lLU29xT2tSd2VvWFhKWkZvbEVFTjduVkNDbzdOVk5wLUwyWjBXSFNQNGFhTnJBZTIxSXVQRl94el9TZURSTmpSb0VIVGoyYk82S1BlR0EtZXc4a2I0Nzc0SDJxVlg4bnozbXEzRFk4b0FrUEM0RWd0UnZabDcxTEpoSGY3WlF4N2I3Qy1vVEwxWWhrMXdnS056MEVtQmVmSTNVaF9rZFJRU0E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 02:49:51 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYk45SjlQQlBFSktzNVExUDNXREVsQzRITlhxaWpyaEZ4Q0V4NlRkSk01N2llY2hJcnQ3bnFmZUxCdkFaS0tTbXVNY1VzNVpGX285andzUE5vNERGUVlnZk8xVHZVa3EzTHdJdVhfcmdJLUx3dDNiSlNuVU1qV1oyTER0bUFiaUYwZlZTZ29jQXBTaW9oQ0hhWUV5X3F3R1NOYUtJM3VSZmJkZ3duUDM1MFgtLXBhVXZVZWfSAb8BQVVfeXFMTmZJUjF0cEZvNy1NdU1Wa0lkT0lVcmFuMW84UzhPWVdrUERDRkpnc25jTmo2NWhkdk9GeW1YVkY4OVNnSFBSQ2std3NKVU92bVIyZExSVHU2TDFubW55TjRtang1MTU0OXRhY3ZFZWZyeHVHQVFSNHcxbUY1bm1YczdsN0phYW9OZVhjTnktWTBka3BFdjlwRDU4T3BJYTdZa2pOZFNSMnJqRW02RVk2UV9ha1NVdXI0bWMxQWRuMk0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 14:58:03 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rosalía y Javier Bardem protagonizarán «Wet», una película que se filmará en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1Z4bTl2UFdxMVpqR3BqcEQ0akY3WG00eEJBSE5uTUo5SGNqX3JYTHdIcjdsNV9vOHhOZjZyRUUyb2pQVEVFQklPWjNNSXFnZ1o5VEdSeEtERDRuVzNGYVVxVHp5WVZaQlJDeXlsVVQ3dzJwV0NMb2ZzNjVhWnNOUzVZTGlMQ25rd215RjRBNG50SEdGR21Vb1IxZTdKcExSazFPaGxwX2xqcHo2d1FEdnF3ejU5SG5qSk94NFUtNFdQY2kzdEx1WWZ1OXNIZm_SAc8BQVVfeXFMTlNWeG05dlBXcTFaakdwanBENGpGN1htNHhCQUhObk1KOUhjal9yWEx3SHI3bDVfbzh4TmY2ckVFMm9qUFRFRUJJT1ozTUlxZ2daOVRHUnhLREQ0blczRmFVcVR6eVlWWkJSQ3l5bFVUN3cycFdDTG9mczY1YVpzTlM1WUxpTENua3dteUY0QTRudEhHRkdtVW9SMWU3SnBMUmsxT2hscF9sanB6NndRRHZxd3o1OUhuakpPeDRVLTRXUGNpM3RMdVlmdTlzSGZv?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 13:00:56 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "La falla en el control aéreo de Estados Unidos afecta vuelos desde República Dominicana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2V5cUJ0Y3VyTEE1aHRRT0xEbVMzQ2w4SGpRQ1lSNHNESVZFNE5qcTFGd1NySHRpSW1USm1YbHc0ekY5TGFWdG01WVRhX19kOXUxdkwzTVc2TkgwbkVTYzNWR3ZzQ2NWMzJMdlhRMUZYQ254QW5nUUsxLWdqczhKakZUdmJmeGxMMFg2OFVmTWd3STV6VXIzcmZpb3lSNHlhV19PZEZHR0lydktkdUdtR1NOSzdVNWpRTEFrMXE1TG9NcHRhV19JYXF3OVp0bU0wdzViZzRUd3dnb0xL0gH3AUFVX3lxTE44aHVZOGctNHl5cFdGLWRqZlJRem5kdlpjQmlIem5QOWhJeGg2WWhudHluS1J4VHQxZ19aWTVXX2dfUTNmQjBXN29WdGlYVk9oV0pfZGtVemdibFp3TVBDU2FyQzBZMUVOSHl3Wk02d0I4UmkxV2xBOHpvNlhYbERUR0FZemRaUTB2dE01M29GQU9TRUhMNHR0N01UU2tRN2VqTG52ZVd2UEM5aV85NWFXSksxREljN2tpNDJYNS1KN3dPOGtqdkg1U2VrRjUtaU5keWhIb1BpVTdhX21pZURxam1PNEZMVHd0a0g5MUlKaUlSa3NzaW8?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 23:53:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "#internationalnews | 🇺🇸✈️Sin embargo aclara que la medida de las autoridades estadounidenses, \"solo afecta vuelos desde y hacia Estados Unidos. Los demás vuelos a Europa y Latinomerica continuan sin alteraciones\". #estadosunidos🇺🇸 #suspensiond - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaXhiMDVQQUJCalFSM2hST3Bpa1dpMDBVdVZxV2dmenRTTHJ3a0lRc2lwVjFKN05seVFBSHlYV0hnRl9qS3RKMEJVRjFEWlYtQnc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 23:40:34 GMT",
       "imagen": ""
     },
     {
@@ -29,12 +101,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Magali Febles comparte nuevos detalles del accidente que sufrió con Miss República Dominicana - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0g5YVdTYVBFQVo3SndNT2hRY05YZFJsWmQyMjl2SktKRWxscEF2Zl8zRWk1NzBNRmhsTGxtOTlYSHFfdGdSeDlBd2stTWQ2X0RuOEJTRjZBN3FpUUpVZWlRWU52TDdVbFg5NFBad1RkbVhSS3d6dmNiMElJNE1XS2NRRTlid2g4Qk12ZUkzUldmNmgtUExWUjNVbVB1Umc3Tl9kbThYQkNGcU9aa3FIa1JPYVFDLXNmRmJKcnBldWcxWGR1bFdjN0dKRG1rUGNQRDlKTUlNQ3ltZFl6WXd4bXJRLTdrU2hJRXlKbVkzSjJCUno4SWFyd09R?oc=5",
+      "titulo": "#internationalnews | 🇺🇸✈️Sin embargo aclara que la medida de las autoridades estadounidenses, \"solo afecta vuelos desde y hacia Estados Unidos. Los demás vuelos a Europa y Latinomerica continuan sin alteraciones\". #estadosunidos🇺🇸 #suspensiond - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uaXhiMDVQQUJCalFSM2hST3Bpa1dpMDBVdVZxV2dmenRTTHJ3a0lRc2lwVjFKN05seVFBSHlYV0hnRl9qS3RKMEJVRjFEWlYtQnc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 06:46:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/553/447/49615309220-1080pnbcstations.jpg"
+      "fecha": "Fri, 13 Nov 2026 23:40:34 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Arrestan a hombre en República Dominicana por publicar video de contenido sexual junto a una bebé - El Nuevo Día",
@@ -50,78 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkVzUUpFMmlVUkltcnVTaUhjNUpJaGFNUUJNVHVHZHlBTkZQSWl1N2NxNzdkUE1jcTJNc0F5dloxVW9XczR3TjR4ekxtODkwcWNsWWRtQjd4MVdzN0Q0ZkQ4WGVEbXVGeEtVaEtlSi1BdEpLaGtFOUFTSUxwX1RMeGwwcEF6QTVsMkFHbWk2MXY5SHZGSk1EUjBheHljbEdMTFZvdG9tTDRlU0tSaGZoSk1sTGhKTi1obTVCYllHN2R0N0nSAcMBQVVfeXFMUGZFc1FKRTJpVVJJbXJ1U2lIYzVKSWhhTVFCTVR1R2R5QU5GUElpdTdjcTc3ZFBNY3EyTXNBeXZaMVVvV3M0d040eHpMbTg5MHFjbFlkbUI3eDFXczdENGZEOFhlRG11RnhLVWhLZUotQXRKS2hrRTlBU0lMcF9UTHhsMHBBekE1bDJBR21pNjF2OUh2RkpNRFIwYXh5Y2xHTExWb3RvbUw0ZVNLUmhmaEpNbExoSk4taG01QmJZRzdkdDdJ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 14 Nov 2026 00:45:18 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana | Posiciona su agenda digital en la Conferencia de Plenipotenciarios de la UIT en Catar - DPL News",
-      "fuente": "DPL News",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1U5UXlQOFhRNTdhN1ZraWREeHFoRWl4dHBTd1QxWUdhWWxabGZsRENsZ3lLcHlhblRSaE5jdlN6d0NlM3ZERnJMb216NnJKdERHRF9IQVQ2Nk1zYWxjUXNIMGktelhOUjVpM3Z0dkptYlFDbXo5SE5naXU5YWRvNnZUTDJuWFowRmJUN0IzX0VxNU5tdkZvVGU1dGpXR1BPbndEVjlkcWdNZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 13:52:13 GMT",
-      "imagen": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsIndotelDominicanaUITCatar_rp13112026.jpg"
-    },
-    {
-      "titulo": "República Dominicana y Puerto Rico lanzan campaña conjunta para impulsar el turismo multidestino - Caribbean News Digital",
-      "fuente": "Caribbean News Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEFIck50Vl9BSWN3S3BqR0NUZlJVU3UtX2NkUUxzZEpHU2VFby04MHE4WThPSW1pQkhjcWhUU1NQWHVWT19rSGliSzdPWFpuMm9HR21VdUlNTGlvVkpWVExDZ1lKUVdCbXBSMERWa0pXcl9tUWtwcG54RjBrRWZUNHVldnlzbGNrLTROVGM1aW9ucUFuajVmRHNoenB4bC1kbXl1U3N0ek42OTZGMDdhd0hFeHQ5SnNkQnhNanVWWHBBV1pHNk9KR2FwRQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 13:24:04 GMT",
-      "imagen": "https://static.caribbeannewsdigital.com/cdn/ff/lSBF0AFSGebNE59MJcnNOxR8pbModZjXVjHN5lcelko/1794575664/public/2026-11/campa%C3%B1a.jpg"
-    },
-    {
-      "titulo": "República Dominicana termina en el puesto 36 en IV Juegos Olímpicos de la Juventud Dakar 2026 - Comité Olímpico Dominicano",
-      "fuente": "Comité Olímpico Dominicano",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY25xd0x2OEgyT3daTFpRMW5xSkQ1OXB3N1Frb2xaX052ZmNkSGx1bVpmNHROLVJiYk5UMWMxald4T2dPZ181RVFRcVA5eXR0NDhwY3dqMmJMSVBqSlk2VkpuYVhMSVMtWU8wMW9LQjZfR1NFeUFrakJMVDkxZDdfdjkydEliTm1MU0l2YTVmbnhBOUpHZ281RmREdUt6RXlXZFQwNEhHOUJBQWdtUzBQQjBhVVpBVzJsSXFORkN4aFI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 21:08:44 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Suspensión de vuelos en EE. UU.: lo que se sabe hasta ahora - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXhmVXFjUG9ZUW5kcXdZXzBHeHdXaC1nSlVkS192WHRsMTZHUWVyT3ZnNmdyX2pQZ2JLUi15WndDYWRldUwwR3Z2YV8tRm0taVJjWEI4LWVQcDJHYTF5TUtnNGhtb3pnVG40SVhFNXBjMWxRZzNCTFk4NE1nOVEwME1PbDByRzI2TVMyZVlXSG5FaE9tUzVOMkkxYjNGRUVuY3VzMlFkcGpDbWJRMHpMZEZB0gG3AUFVX3lxTE14WThtcEl5bzhNeVE1N1NQa2Y5STBLbHprSmRMdTFLeVc1YVJ1OURacEhLYi1xRWEwQWlrTll5NEtvUDYzcVAyQ0hvaU1VbWtIVmQyZTdXdmVKRXUycVN2MTFBRDg5TTVmSzBoNmtsakFEaWl4dmU2Q05RVUpKeGpLSWpVMzR1V2Z0YXV3RHRKUGF3YTI1YUU4R2pWbTNJSjIxYm9BVVFBblVFR0lNbEJPdjZKZDNNTQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 23:44:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana ocupará el lugar de Estados Unidos en el Mundial Sub-17 de Qatar 2026 - Diario AS",
-      "fuente": "Diario AS",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVpfNnVIRlRUTmhVQmtsVEo3TXVoUVFsMVlvbWM4Q3FhV1dhUlVVMTA2b2dGakRUWHJaR0p4RUFyR3ZTUWQzSmFKTEJ3SE96SElDelZNTnk1U29MNzBYOERQamptYmdoX1RrOFk4bVZqUmVEc1BzS0pwWnZlWnpXX2M1cTdvZVBZdS1QSldabkFXaGFhRFJTaXIxNlotRk92SEdYa0x5YkdhemRhS0k3RW1jckpGcGxTZ3FCR0JnNml5U2Y10gHYAUFVX3lxTE1uckRnSlI2SG1DWnpta0FuZk9vSGJIQVRBdUFiTUxrbGNPbTJVRzBkRkQ5MElkU1RhVzRvWDF5YkMzNHQzelRVSm1DZ2l2VmM2dHo1eV9SUFFIbzh6S2ljTVJzZE55ckhMdl9DbW5xQ1UzMy1NUWZwb094OWxha3lMQUU3WWp0VU45Slc1THUzZHVqWm5vUGhrQnZ0OVh2R1V2RmpSQ1hnM0h6dGFsSm4yWXp3cy12LWc1QWp0RmJhSEZSU0w2czlWUGpPb1U4SGpYTm5sbEQwYw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 12 Nov 2026 21:15:23 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Samsung DAI 11/11 agota los productos en promoción en República Dominicana - samsung.com",
-      "fuente": "samsung.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmhGZC1Wa1I3SThBRDdxaVdnNjRqaUtsZnFaaHhsQ1Y2ZDZ0MGhndEt3WmV2VEJxSzVqQk0zMm4tT2lnOHVRYjhfNHEwVzJGT0tyekVCdDNSamd2N1pNTjJhc0t4eFRxUEh2aFdZV2RlcVFENExyaDVUaGhaeUdLQnYwTHhsNi1LdTRGLWRoMzd3dWpuOXBfVjN3ZmxnNzBwcllhR2drYzU?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 14:39:18 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Un temblor de tierra de magnitud preliminar 5.3 se registró a las 12:35 de la tarde de este viernes al sur de El Seibo, según informó el Centro Nacional de Sismología de la Universidad Autónoma de Santo Domingo (UASD). El organismo indicó que el movimi - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tWlg3cDhiTmdORVRsMlhpbzNfaWxZQUNEUm5tZFNEeFo5VDlqcTAzMXAzdFN0c09HdTNmaG1kQWx6cjlZZ1BIeDBWZ2hxeEdUQVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 16:46:29 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/907817326_1144469974898594_6316192084821716144_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RMjDq37rgC0Q7kNvwFeWSH5&_nc_oc=AdqD7TmMOY14flTwRSx4tcP8evNQTqlnN_n5O7uhtItGBVSR9NMPtn2uDsajsuWx5OY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hFxgxO9hxbNtg_PIxV2p_A&_nc_ss=7b689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQQs_GHvwzw1VPxFKkP4qHkDh62HJlifhx44PXM3BX3tg&oe=6AFD2F13"
-    },
-    {
-      "titulo": "Lo que encontró EFE en la frontera entre Haití y República Dominicana mientras las pandillas dominan el 70% de Puerto Príncipe - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNGxBUlpZUjUtd0lkYTV6b3RjcGlpdnBDZHg2WEx3dlUwNTJFb0JOQkJBeUV4cjZFcnlkc1A2TXdOVVdLSzlYSk9iaE8wM2VrTEdXa0p5TURmZ0NkUnByWXFGV2Q0RXhJT0lUQl9RSDhpSmtRTHVCcEN3YXJFZHl6dFRtcEVVVUZ2empXb1R6WE5DVFRqUWpOMDY2SWZUVEZUTVdDaFIwdmEzdTJtWE5KaHA5dktra0lXZFhlRkp2S3JxNGdqZEdjTkZDdkJWSVEydGlURkd3X3J1MlVZdm1kTUtaWmJvc2VzVWFQZ1lRTGJRbm02a0pESHRvSExKOG8weHJ3aU5LaGtNcUpaeVZz0gGqAkFVX3lxTE1rNnpYSGlVckk1M0FOcDAwbFRhT0ttT19oU3VRanpKZm1EeHRzakZxT3BxcGltUVRLYWlaSFVXM0g2VXlYUTl6M1dJN2owM3ZYY2E2SmZiNjBraGN4Q1dpQWlfZTBrMVlJcTA1Y0t3a1l4a1dXdW1Sa0tCS0tHOTBobno5c0QyV1kxcWV4ODFwUllaY1VyTWdzbEdfamFSQ1ZhTDl3MGFWVzJJY3RFd2pNbEdwNlh4YmxpQkNDblJ3MFAxYjFJWENRbjVIdUhueWFaSVplWG4zNEt1SW5WU1pva1ZPOU1Sc1BaQ2pMVnZQcDVpSjFNNlU1bFE1cFN0SUxscVBsd0NRWThGLUxqamdoUDA5d0g5Wk5XNGRYbFNzUVhjN1JUSkhMcmc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 15:30:00 GMT",
       "imagen": ""
     }
   ]
