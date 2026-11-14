@@ -1,20 +1,34 @@
 {
-  "updated": "2026-11-14T07:21:02.068320-04:00",
-  "hora": "07:21",
+  "updated": "2026-11-14T07:41:24.434321-04:00",
+  "hora": "07:41",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lotería",
+      "trafico": "200+",
+      "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 12 de noviembre, en directo",
+      "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-12/comprobar-loteria-nacional-jueves-resultados-directo_4463180/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
+    },
+    {
+      "termino": "brasil vs",
+      "trafico": "100+",
+      "noticia": "Japan vs Brazil: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+    },
+    {
       "termino": "japon – brésil",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Carlo Ancelotti répond à Mourinho",
       "enlace": "https://real-france.fr/carlo-ancelotti-repond-a-mourinho/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT50mSusM4bSu4QNFshJGGfYYNJCqCbejvTXaYZpqWBcczQoTbOuM03gcwMW3g"
     },
     {
       "termino": "frente frío",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Frente frío número 5 entre el sábado 14 y domingo 15: Se esperan lluvias fuertes en varios estados",
       "enlace": "https://www.meteored.mx/noticias/prediccion/frente-frio-numero-5-entre-el-sabado-14-y-domingo-15-se-esperan-lluvias-fuertes-en-varios-estados.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVPTDtLw_zwnH9epRylV9TC0LbRoTbtrLOQV9H8J90R1FSrJkvaeWrdOsj6kI"
@@ -22,16 +36,16 @@
     {
       "termino": "japón - brasil",
       "trafico": "1000+",
-      "noticia": "Japón - Brasil, en vivo: Amistoso internacional en directo, hoy",
-      "enlace": "https://as.com/futbol/internacional/japon-brasil-en-vivo-amistoso-internacional-en-directo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHpsTTJU0hFRztefreeXcxOmlRbb__p1sNFwo2ciUdO3pUiFbkOhUS0hHvScA"
+      "noticia": "Japón vs Brasil EN VIVO: A qué hora y dónde ver el partido amistoso internacional 2026",
+      "enlace": "https://www.milenio.com/deportes/futbol-internacional/japon-vs-brasil-en-vivo-partido-amistoso-internacional-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdfp1FWpAReJLWmGOroZE50T6MaJ6FGVITQiKczgCvjBZPoXl0qZF2XIHKfOw"
     },
     {
       "termino": "clippers - thunder",
       "trafico": "200+",
-      "noticia": "Clippers score final seven points to edge Thunder 113-112",
-      "enlace": "https://www.cbssports.com/nba/news/clippers-score-final-seven-points-to-edge-thunder-113-112/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "Oklahoma City Thunder vs. Los Angeles Clippers Live Score and Stats - November 13, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_OKC@LAC/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZ4y-775aTRTRKmmfs_7-wk3KyNrHTPWC_TXb2OnfdtkQaleqIit-jBm_68I"
     },
     {
       "termino": "guatemala - canadá",
@@ -60,20 +74,6 @@
       "noticia": "Golden State Warriors vs. San Antonio Spurs Live Score and Stats - November 13, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_GS@SA/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSArsCSKV1BDOaBD9awL4_bWOxdi6EhJkMyVGF8V5XOjLJLFSq9GGsUCNT7rXo"
-    },
-    {
-      "termino": "heat - cavaliers",
-      "trafico": "500+",
-      "noticia": "Cleveland Cavaliers vs. Miami Heat Live Score and Stats - November 13, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_CLE@MIA/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUh_o9eDG7z71Zfzrw4Va0nEmYPlGyw4eiTE6zHJtQrALd6GjXC10OStSuE7w"
-    },
-    {
-      "termino": "resultados de loteria",
-      "trafico": "200+",
-      "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 12 de noviembre, en directo",
-      "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-12/comprobar-loteria-nacional-jueves-resultados-directo_4463180/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
     }
   ]
 }
