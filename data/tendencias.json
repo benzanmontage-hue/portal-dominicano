@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T13:09:44.433094-04:00",
-  "hora": "13:09",
+  "updated": "2026-11-14T13:30:05.451212-04:00",
+  "hora": "13:30",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "resultados de loteria",
+      "trafico": "200+",
+      "noticia": "Resultados de las loterías del 12/11/2026: números ganadores de Leidsa, Loteka y otras bancas",
+      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-12-11-2026-numeros-ganadores-leidsa-loteka-bancas_1108584.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+    },
     {
       "termino": "noruega - gales",
       "trafico": "200+",
@@ -57,9 +64,9 @@
     {
       "termino": "japón - brasil",
       "trafico": "2000+",
-      "noticia": "VIDEO: resumen de Japón vs. Brasil en un amistoso internacional",
-      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17514337/video-resumen-japon-brasil-amistoso-internacional",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstWx1n0LQg9AJWrV489ivisWaNJacHQ4SBDxCX2aqGJJATGtorIAokBxKXD0"
+      "noticia": "Raphinha pide perdón por su expulsión y arremete contra árbitro",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17515090/brasil-japon-raphinha-perdon-expulsion-arremete-arbitro",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa90SqpIuOtvjw08mewkfk3CEPzBJ7_rKgCwjqLQsCfGyqWUzr1LNF0VBr3z8"
     },
     {
       "termino": "rosalía",
@@ -67,13 +74,6 @@
       "noticia": "Latin Grammy Awards: The fashion, moments, winners and performances",
       "enlace": "https://www.reuters.com/pictures/latin-grammy-awards-fashion-moments-winners-performances-2026-11-13/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjLM_tK1fh1H7jlZYmyxd5o8LiPxwGOVCrWfEZoTvxWl273WTkYtDgoNLdySo"
-    },
-    {
-      "termino": "clima santo domingo",
-      "trafico": "100+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, sábado 14 de noviembre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-sabado-14-de-noviembre-de-2026-9789377.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     }
   ]
 }
