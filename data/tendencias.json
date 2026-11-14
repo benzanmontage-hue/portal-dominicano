@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T12:08:21.127767-04:00",
-  "hora": "12:08",
+  "updated": "2026-11-14T12:28:47.193099-04:00",
+  "hora": "12:28",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "techy fatule latin grammy",
+      "trafico": "100+",
+      "noticia": "Techy habla sobre su álbum “Chula”",
+      "enlace": "https://listindiario.com/videos/20261113/techy-habla-sobre-album-chula_929978.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVfD4RdW-nQ2PQsPWYLsGSQU7-_Go_R_3v1dtgspOLYTWB3I8itINvx2k40uU"
+    },
     {
       "termino": "lotería",
       "trafico": "500+",
@@ -29,16 +36,16 @@
     {
       "termino": "frente frío",
       "trafico": "200+",
-      "noticia": "¿Qué estados tendrán bajas temperaturas y lluvias durante este sábado de Buen Fin?",
-      "enlace": "https://voxpopulinoticias.com.mx/2026/11/clima-del-sabado-14-de-noviembre-habra-lluvias-y-frio/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiPPIYzrxIYDQVp5NIEnLaDav8TClfQ_p9mKyAR5Ykt2U8sXCEE1yWiqkERyI"
+      "noticia": "Frente frío 5 y lluvias en México: estos serán los estados más afectados el sábado 14 de noviembre",
+      "enlace": "https://es-us.noticias.yahoo.com/frente-fr%C3%ADo-5-lluvias-m%C3%A9xico-122447786.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvNyhDf6rOCMwtha3q7yi9-LuWqscB4uqF3EyikEO7Pnp-vde0bxIoce_HAgw"
     },
     {
       "termino": "japón - brasil",
       "trafico": "2000+",
-      "noticia": "VIDEO: resumen de Japón vs. Brasil en un amistoso internacional",
-      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17514337/video-resumen-japon-brasil-amistoso-internacional",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstWx1n0LQg9AJWrV489ivisWaNJacHQ4SBDxCX2aqGJJATGtorIAokBxKXD0"
+      "noticia": "Tremendo enfado de Ancelotti y Raphinha, que acabaron expulsados",
+      "enlace": "https://www.marca.com/futbol/2026/11/14/tremendo-enfado-ancelotti-raphinha-acabaron-expulsados.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQLaWTONqO6MEl3HTgZSg3c1yB5NJRRpNx2ag94ipIrF-49xnw6wDx2PaW840"
     },
     {
       "termino": "clima santo domingo",
@@ -50,9 +57,9 @@
     {
       "termino": "clippers - thunder",
       "trafico": "200+",
-      "noticia": "NBA: Oklahoma City Thunder at Los Angeles Clippers",
-      "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-los-angeles-clippers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTIzNTY%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9I64oCKehe0TBbRz_zGjyyEChJDNSDZs_inDhOWlGYNwBMaBnXP-qpY8g0s"
+      "noticia": "Shai Gilgeous-Alexander News: Powers team in narrow loss",
+      "enlace": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-powers-team-in-narrow-loss-539033",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Q3fesIvo4kBSgCx0CiiRTaEWZHJHcwU1wRGp2IeALxS7W_0ADUfcTaojtXw"
     },
     {
       "termino": "lj cryer",
@@ -67,13 +74,6 @@
       "noticia": "1-3. Canadá vence a Guatemala y se acerca a las semifinales de la Concacaf",
       "enlace": "https://holanews.com/1-3-canada-vence-a-guatemala-y-se-acerca-a-las-semifinales-de-la-concacaf/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm61O7UAb2Sbzg8SX1kl80u_7Aqu7Ot6AHY8uupNlsfZc2v-y81XHPfVJxt50"
-    },
-    {
-      "termino": "rockets - jazz",
-      "trafico": "200+",
-      "noticia": "Why did Darryn Peterson ask out twice in the fourth quarter against Rockets?",
-      "enlace": "https://sports.ksl.com/nba/utah-jazz/why-did-darryn-peterson-ask-out-twice-in-the-fourth-quarter-against-rockets/578960",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG9_4q4aPBpVZpyvccn4M3KBc1_-Ihu0xkaAK6m5yInapgo5lZHuKwyuHh0CA"
     }
   ]
 }
