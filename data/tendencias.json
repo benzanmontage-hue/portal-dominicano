@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-14T17:15:44.078684-04:00",
-  "hora": "17:15",
+  "updated": "2026-11-14T17:36:10.616593-04:00",
+  "hora": "17:36",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "haití - estados unidos",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Haití vs. Estados Unidos y Jamaica vs. México encabezan doble jornada de Cuartos de Final de la Liga de Naciones",
       "enlace": "https://es.concacaf.com/competitions/nations-league/news/haiti-vs-estados-unidos-y-jamaica-vs-mexico-encabezan-doble-jornada-de-cuartos-de-final-de-la-liga-de-naciones",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
@@ -20,11 +20,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPeE_eK5asEFwTTz6w01fkHKe3LyCNNnDQJzbGySivB6HoXbd0blVw7a3ACE"
     },
     {
+      "termino": "volodímir zelenski",
+      "trafico": "100+",
+      "noticia": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
+      "enlace": "https://acento.com.do/bbc-news-mundo/zelensky-asegura-que-ee-uu-propuso-a-ucrania-ceder-el-donbas-a-rusia-a-cambio-de-ingresar-en-la-otan-9789909.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESsLJigrlHDUUkjqqQgks63-k4jAHjtXnbuVsqc2xeg-HtbQIVCjAH4OY6UA"
+    },
+    {
       "termino": "portugal – danemark",
       "trafico": "200+",
-      "noticia": "Portugal affronte Denmark en UEFA Nations League : enjeux et analyses",
-      "enlace": "https://rdcsport.cd/news/portugal-denmark-uefa-nations-league-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C9oKJuoGZBsRNBFjrB3_p_79rzO6kYKHxqC6obxXWwCUDqR2y-OOxwEZA6k"
+      "noticia": "Portugal vs Danemark à Braga : forme, compos, statistiques, cotes",
+      "enlace": "https://www.sofascore.com/fr/news/portugal-vs-danemark-a-braga-forme-compositions-probables-chiffres-cles-et-cotes",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GWsvo_2fwPnnarbEt78qsdvL-mV1tJQcbOnrHSj6lyKLCOxcLX0NzPNqVN4"
+    },
+    {
+      "termino": "haiti vs usa",
+      "trafico": "1000+",
+      "noticia": "Starting XI   Lineup Notes: USMNT vs. Haiti | Concacaf Nations League Quarterfinals",
+      "enlace": "https://www.ussoccer.com/stories/2026/11/usmnt/starting-xi-lineup-notes-vs-haiti-miami-florida-nations-league-1",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtmdQERj0trW6npog_fXesSbeqwMTPqkwqYUyDFMo4tG_L-ZvZe3URTvyXEcw"
     },
     {
       "termino": "luis abinader",
@@ -41,25 +55,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRpRvMnV6IBO5uJROjJUT6QirOOAvuO8sAnd9d2HKrMu1O9AJUMTQtwI0m604"
     },
     {
-      "termino": "haiti vs",
-      "trafico": "500+",
-      "noticia": "Haiti vs. USA, Jamaica vs. Mexico headline Nations League Quarterfinals doubleheader",
-      "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-vs-usa-jamaica-vs-mexico-headline-nations-league-quarterfinals-doubleheader",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
-    },
-    {
       "termino": "muerte",
       "trafico": "500+",
-      "noticia": "DT explica cómo es la vida en Tenerife sin Jesús de Miguel",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17515337/tecnico-tenerife-explica-como-la-vida-sin-jesus-de-miguel",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqQ3BtrQgmT9tZHsttranDQ7bVPvucW3aLoR92e0H3_9zFuzJKeKgmtrwi2HE"
+      "noticia": "El apoyo a la pena de muerte en EE.UU. cae al 49%, su nivel más bajo desde 1971, según Gallup",
+      "enlace": "https://www.ewtnnews.com/es/mundo/america/apoyo-pena-muerte-cae-gallup",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWRZczrphzc7RlFL2ri9rBMnecqZllNQplljs9mWhWVpSntoxD_6nlAaXd8xQ"
     },
     {
       "termino": "portugal - dinamarca",
       "trafico": "2000+",
       "noticia": "Portugal vs Denmark LIVE: UEFA Nations League",
       "enlace": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwa8_Gfm3Thcu4GLQtmBa0PGGq5dq_3DSgOsrciD56w2zoW68uohG3SrE2cTs"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRexsrKLz1D6-ejpvRGnxnzZb21zbyw5zRh2IZ7fexAMhaR7NgzLBwQsJ0V08o"
     },
     {
       "termino": "la real",
@@ -67,13 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "resultados de loteria",
-      "trafico": "200+",
-      "noticia": "Resultados de las loterías del 12/11/2026: números ganadores de Leidsa, Loteka y otras bancas",
-      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-12-11-2026-numeros-ganadores-leidsa-loteka-bancas_1108584.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
     }
   ]
 }
