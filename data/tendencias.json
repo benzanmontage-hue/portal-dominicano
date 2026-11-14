@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-13T20:31:03.906480-04:00",
-  "hora": "20:31",
+  "updated": "2026-11-13T20:51:23.421486-04:00",
+  "hora": "20:51",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "magic - bucks",
+      "trafico": "100+",
+      "noticia": "Magic eye first home win as reeling Bucks visit",
+      "enlace": "https://www.cbssports.com/nba/news/magic-eye-first-home-win-as-reeling-bucks-visit/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+    },
     {
       "termino": "pacers - knicks",
       "trafico": "200+",
@@ -21,14 +28,14 @@
     },
     {
       "termino": "frontera",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana",
       "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/13/el-comercio-minorista-resiste-a-la-crisis-de-haiti-en-la-frontera/3719851",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
     },
     {
       "termino": "argentina - uruguay",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Licensable picture: International Friendly - Argentina v Uruguay",
       "enlace": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E8pVqKJwK_2jLQXwsc7I8FKo2qV6g_iIsoqYZyp8zyDjITTemijXpD7s_Ls"
@@ -42,38 +49,31 @@
     },
     {
       "termino": "república dominicana",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "noticia": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país  por circunstancias extraordinarias",
       "enlace": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSelDKGqybJSXAMinX83T-w67cyr6dsnisIqpyl4JUriZNT4w0EqPxix2hzwwM"
     },
     {
+      "termino": "cnn",
+      "trafico": "200+",
+      "noticia": "The Odds: Young Midterm Voters",
+      "enlace": "https://www.cnn.com/2026/11/12/politics/video/the-odds-young-midterm-voters",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N3EttMYkkbZU6Ey9PagOLIONdJuxA2aXbhyMFhgkXP9CWNao3B09ylTLRa8"
+    },
+    {
       "termino": "marruecos - níger",
       "trafico": "100+",
-      "noticia": "Marruecos vs Níger | Resumen y Goles | AFCON 2027 Qualifiers",
-      "enlace": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles-video/marruecos-vs-n%C3%ADger-resumen-y-goles-afcon-2027-qualifiers-2026-11-13",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShoPw9cAjLCLe-UhW1ZZp564AeMnWQVoPpQRLHKYoEE-WdBYUA2p-x9zFfpTE"
+      "noticia": "Hakimi hace historia: triplete con PSG y doblete con Marruecos en 14 días",
+      "enlace": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles/hakimi-hace-historia-triplete-con-psg-y-doblete-con-marruecos-en-14-d%C3%ADas-2026-11-13",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQeX3vJl3lbOSeVATRl2MT20riJ4X1E5LJHvIqvKkMzyGqCn9yjzHVmYQcgm4"
     },
     {
       "termino": "faa",
       "trafico": "1000+",
-      "noticia": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-      "enlace": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXG745OTktfqSC0z0w-WELxCesX8sHhkM-_QbHY8fjujiiWt9qRO2l39PMS0"
-    },
-    {
-      "termino": "multa",
-      "trafico": "500+",
-      "noticia": "Veja como regularizar tarifas do Siga Fácil e pedir a devolução de multas",
-      "enlace": "https://www.agenciasp.sp.gov.br/transporte-e-transito/veja-como-regularizar-tarifas-do-siga-facil-e-pedir-a-devolucao-de-multas/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3XyEUxv_drN7VIvHBSMxwfw1B9zvJ_MSAB8GazytDI91WDibIC_4yAsN7cZs"
-    },
-    {
-      "termino": "irán",
-      "trafico": "200+",
-      "noticia": "Trump pide a Vance que deje de centrarse en Irán: “No necesitamos un acuerdo”",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/trump-pide-vance-dejar-acuerdo-iran-trax",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTQMlbk7KhgizWqOBaxocG-ljDo3Nnxd_8KvIjUn_fY1T65cnyQu4wQh-Ov98"
+      "noticia": "FAA ground stop disrupting air travel for college football teams",
+      "enlace": "https://www.espn.com/college-football/story/_/id/50475169/faa-ground-stop-disrupting-travel-college-football-teams",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd-HszGncLWCWr_rN9CHtldsn7TPbm0wEjxmmNa8zA51unSv2wnM0X6fCc8Wo"
     }
   ]
 }
