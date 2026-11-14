@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-13T22:35:23.104761-04:00",
-  "hora": "22:35",
+  "updated": "2026-11-13T22:55:42.105120-04:00",
+  "hora": "22:55",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "rockets - jazz",
+      "trafico": "100+",
+      "noticia": "Preview: Jazz looking to take liftoff in NBA Cup Game",
+      "enlace": "https://www.slcdunk.com/utah-jazz-game-coverage/70717/preview-jazz-looking-to-take-liftoff-in-nba-cup-game",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgNHzHO-i5LY7Tfj1l9cbP7bVtzAMVeme_h7Hb9vs-8Ie7kH5y_mvCrcd5VK0"
+    },
+    {
+      "termino": "juegos de hoy lidom",
+      "trafico": "100+",
+      "noticia": "“Tenemos trabajo por hacer”: Cashman repasa la extensa lista de tareas de Yankees",
+      "enlace": "https://www.mlb.com/es/news/yankees-evaluan-multiples-mejoras-para-el-roster-tras-las-reuniones-de-gg",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEH2-DhZyNFLWFTnTvcrOViUGl7dixni_DO6-YzkVRuGPf6YwCA1J8pPIqjsk"
+    },
     {
       "termino": "spurs - warriors",
       "trafico": "500+",
@@ -15,9 +29,9 @@
     {
       "termino": "heat - cavaliers",
       "trafico": "200+",
-      "noticia": "“It’s a sprain, so he’s definitely sore and all that,” …",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/its-a-sprain-so-hes-definitely-sore-and-all-that/92770714007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOMCOCX4_x93reReMNhFqr-kXIb6KM8MpvCCJVyelpokuF3r9_K_zkqTI1vg0"
+      "noticia": "Heat vs. Cavaliers: Miami Seeks Third Straight Win at Home",
+      "enlace": "https://bvmsports.com/2026/11/13/heat-vs-cavaliers-miami-seeks-third-straight-win-at-home/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzmd8WH9n0ajRyS1NMzgamSXs3mDioyUNYFQK3hRaBaWrEOVD4xRaqjHUPI4c"
     },
     {
       "termino": "nvidia jensen huang",
@@ -60,20 +74,6 @@
       "noticia": "El Supremo examinará el veto de Trump a la petición de asilo en la frontera con México",
       "enlace": "https://elnuevodiario.com.do/el-supremo-examinara-el-veto-de-trump-a-la-peticion-de-asilo-en-la-frontera-con-mexico/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycPbpwAwKzJck7GHsXXthwy8CDv8sbYJMaYWqxTR10Pew16BJuJutugeAoRI"
-    },
-    {
-      "termino": "argentina vs uruguay",
-      "trafico": "2000+",
-      "noticia": "Licensable picture: International Friendly - Argentina v Uruguay",
-      "enlace": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUwM1dUVkY",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxagPNsYWicXCElxQIQYD3B597LmzL2VJZ7DoHWVtM3euF12GDTYhNQo5jB0E"
-    },
-    {
-      "termino": "argentina - uruguay",
-      "trafico": "5000+",
-      "noticia": "Diego Forlán:  Recien llegamos y hay muchas cosas para trabajar, pero este tipo de partidos nos hacen mejorar",
-      "enlace": "https://www.elpais.com.uy/ovacion/futbol/diego-forlan-recien-llegamos-y-hay-muchas-cosas-para-trabajar-pero-este-tipo-de-partidos-nos-hacen-mejorar",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgRdhb9uh98SLD5JhBcoT7tXh55v23pixgcuRIgXuZmxblJcjOEbM4ZAhYGkA"
     }
   ]
 }
