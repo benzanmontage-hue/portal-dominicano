@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T16:34:53.220640-04:00",
-  "hora": "16:34",
+  "updated": "2026-11-14T16:55:21.104611-04:00",
+  "hora": "16:55",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "apagón mundial 17 de noviembre",
+      "trafico": "500+",
+      "noticia": "¿Qué pasará el 17 de noviembre? La verdad detrás de la alerta viral sobre un apagón mundial",
+      "enlace": "https://elnuevodiario.com.do/que-pasara-el-17-de-noviembre-la-verdad-detras-de-la-alerta-viral-sobre-un-apagon-mundial/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPeE_eK5asEFwTTz6w01fkHKe3LyCNNnDQJzbGySivB6HoXbd0blVw7a3ACE"
+    },
     {
       "termino": "portugal – danemark",
       "trafico": "100+",
@@ -14,10 +21,10 @@
     },
     {
       "termino": "luis abinader",
-      "trafico": "100+",
-      "noticia": "Gobierno anuncia construcción de hospital materno infantil en La Vega y otros nuevos proyectos",
-      "enlace": "https://listindiario.com/la-republica/20261113/gobierno-anuncia-construccion-hospital-materno-infatil-vega-otros-nuevos-proyectos_930005.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h922IP10qwajfc0-s1cpyxZqZ2WlFDV8jSOOdRAzuzO29vN7yg76vXQRTWE"
+      "trafico": "200+",
+      "noticia": "Hombre que habría amenazado a Luis Abinader deberá pagar un millón: conozca qué decidió la justicia",
+      "enlace": "https://hoy.com.do/el-pais/hombre-habria-amenazado-luis-abinader-debera-pagar-millon-conozca-medida-coercion_1108698.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToC6h_mXwuYnMgqMhhEpDo1vz8YToXIP2bgHiviolM3eTKpPKVKjT_vkJQTBk"
     },
     {
       "termino": "wilfrido vargas",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "haiti vs",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Haiti vs. USA, Jamaica vs. Mexico headline Nations League Quarterfinals doubleheader",
       "enlace": "https://www.concacaf.com/competitions/nations-league/news/haiti-vs-usa-jamaica-vs-mexico-headline-nations-league-quarterfinals-doubleheader",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
@@ -36,9 +43,9 @@
     {
       "termino": "muerte",
       "trafico": "500+",
-      "noticia": "El apoyo a la pena de muerte en EE.UU. cae al 49%, su nivel más bajo desde 1971, según Gallup",
-      "enlace": "https://www.ewtnnews.com/es/mundo/america/apoyo-pena-muerte-cae-gallup",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWRZczrphzc7RlFL2ri9rBMnecqZllNQplljs9mWhWVpSntoxD_6nlAaXd8xQ"
+      "noticia": "DT explica cómo es la vida en Tenerife sin Jesús de Miguel",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17515337/tecnico-tenerife-explica-como-la-vida-sin-jesus-de-miguel",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqQ3BtrQgmT9tZHsttranDQ7bVPvucW3aLoR92e0H3_9zFuzJKeKgmtrwi2HE"
     },
     {
       "termino": "portugal - dinamarca",
@@ -67,13 +74,6 @@
       "noticia": "Haaland marcó ante Gales y se afianza como el máximo goleador histórico de la Nations League",
       "enlace": "https://es-us.noticias.yahoo.com/deportes/haaland-marc%C3%B3-gales-afianza-m%C3%A1ximo-185300000.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxqZphjd1lrWmFTkkBxeqgAM40P6yRByMCWyEIyOQmsBmE6XNLkd1kSQpj1YM"
-    },
-    {
-      "termino": "meteorología",
-      "trafico": "500+",
-      "noticia": "Aguaceros esta tarde en 15 provincias por la incidencia de un sistema frontal",
-      "enlace": "https://elnacional.com.do/nacionales/aguaceros-tarde-15-provincias-incidencia-sistema-frontal_586189.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJzhr1neb1fUyHV90-ASt6Ub2Df7WGC_N1GMEUfYD6_LLJkyw_gHEdsZdoGsQ"
     }
   ]
 }
