@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T00:17:14.236612-04:00",
-  "hora": "00:17",
+  "updated": "2026-11-14T00:37:38.120548-04:00",
+  "hora": "00:37",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "stephon castle",
+      "trafico": "100+",
+      "noticia": "In third season, Spurs  Stephon Castle receives high marks for  maturity",
+      "enlace": "https://www.expressnews.com/sports/spurs/article/in-third-season-spurs-stephon-castle-gets-high-22528158.php",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxLF6VzI0pn_bwMaazCiXnRFcsH-htefh5zQTaKe_EXnAjIX7zCudczn1imkw"
+    },
     {
       "termino": "lj cryer",
       "trafico": "200+",
@@ -36,23 +43,23 @@
     {
       "termino": "spurs - warriors",
       "trafico": "2000+",
-      "noticia": "‍‍‍~!!【OffiCial+NBA】 San Antonio Spurs vs Golden State Warriors 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
-      "enlace": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html? xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbWF4YnR2Yy5naXRodWIuaW8vYmF0dWwvdmlkZW8venplcnpzczEueG1sIi8+PC9rcnBhbm8+ id=video-san-antonio-spurs-v-golden-state-warriors-liv-on-nba-ustv-en_06",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvDJzJ5f4Jqk5GZqi0Nr7_bKgYzdHlow2TFm3p6d-p70nEU5LP1FKCeDw6PE8"
+      "noticia": "Warriors vs Spurs NBA Cup: Here s how to watch",
+      "enlace": "https://www.sfgate.com/shopping/article/warriors-vs-spurs-nba-cup-how-to-watch-22526822.php",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRSOfT50t11EmUSv64c9CdFKkyeRlzTJAi0xm4Lf687PGMptZ8OYXZ1CGdPk"
     },
     {
       "termino": "heat - cavaliers",
       "trafico": "200+",
-      "noticia": "Heat vs. Cavaliers: Miami Seeks Third Straight Win at Home",
-      "enlace": "https://bvmsports.com/2026/11/13/heat-vs-cavaliers-miami-seeks-third-straight-win-at-home/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzmd8WH9n0ajRyS1NMzgamSXs3mDioyUNYFQK3hRaBaWrEOVD4xRaqjHUPI4c"
+      "noticia": "Bam Adebayo, Giannis Antetokounmpo power Heat past Cavaliers",
+      "enlace": "https://www.cbssports.com/nba/news/bam-adebayo-giannis-antetokounmpo-power-heat-past-cavaliers/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
     },
     {
       "termino": "nvidia jensen huang",
       "trafico": "200+",
       "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
       "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk18RsFLILPEs3dWXeWo2RfXwHej-CvZ5nXgvCjAEu2PYydJeukMa8M9ul2bE"
     },
     {
       "termino": "apagón eléctrico",
@@ -66,13 +73,6 @@
       "trafico": "100+",
       "noticia": "Franz Wagner scores 35 as Magic hand Bucks ninth straight loss",
       "enlace": "https://www.cbssports.com/nba/news/franz-wagner-scores-35-as-magic-hand-bucks-ninth-straight-loss/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
-    },
-    {
-      "termino": "pacers - knicks",
-      "trafico": "500+",
-      "noticia": "Pacers hold off late Knicks rally for 106-104 NBA Cup win",
-      "enlace": "https://www.cbssports.com/nba/news/pacers-hold-off-late-knicks-rally-for-106-104-nba-cup-win/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
     }
   ]
