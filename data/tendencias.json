@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-13T23:16:01.001367-04:00",
-  "hora": "23:16",
+  "updated": "2026-11-13T23:36:23.887802-04:00",
+  "hora": "23:36",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "guatemala - canadá",
+      "trafico": "100+",
+      "noticia": "Malas noticias: Alphonso Davies no puede continuar y sale lesionado al minuto cinco",
+      "enlace": "https://www.tudn.com/futbol/malas-noticias-alphonso-davies-no-puede-continuar-y-sale-lesionado-al-minuto-cinco-video",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-4aH_ofVZlefMY2LPJ2tiKeQbQ3_yyRVoHySGQ6Fz4oiQdkc6lBqfVP0INRA"
+    },
     {
       "termino": "rockets - jazz",
       "trafico": "100+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "spurs - warriors",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Spurs seek 11th straight win as Warriors visit without Stephen Curry",
       "enlace": "https://www.cbssports.com/nba/news/spurs-seek-11th-straight-win-as-warriors-visit-without-stephen-curry/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
@@ -50,16 +57,16 @@
     {
       "termino": "magic - bucks",
       "trafico": "100+",
-      "noticia": "Magic eye first home win as reeling Bucks visit",
-      "enlace": "https://www.cbssports.com/nba/news/magic-eye-first-home-win-as-reeling-bucks-visit/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+      "noticia": "Franz Wagner scores 35 as Magic hand Bucks ninth straight loss",
+      "enlace": "https://www.cbssports.com/nba/news/franz-wagner-scores-35-as-magic-hand-bucks-ninth-straight-loss/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
     },
     {
       "termino": "pacers - knicks",
       "trafico": "500+",
-      "noticia": "Knicks visit Pacers with both chasing first NBA Cup win",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-visit-pacers-with-both-chasing-first-nba-cup-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+      "noticia": "Pacers hold off late Knicks rally for 106-104 NBA Cup win",
+      "enlace": "https://www.cbssports.com/nba/news/pacers-hold-off-late-knicks-rally-for-106-104-nba-cup-win/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
     },
     {
       "termino": "colombia - chile",
@@ -67,13 +74,6 @@
       "noticia": "Colombia vs Chile: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/c5kglgd24k70t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "frontera",
-      "trafico": "500+",
-      "noticia": "El Supremo examinará el veto de Trump a la petición de asilo en la frontera con México",
-      "enlace": "https://elnuevodiario.com.do/el-supremo-examinara-el-veto-de-trump-a-la-peticion-de-asilo-en-la-frontera-con-mexico/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycPbpwAwKzJck7GHsXXthwy8CDv8sbYJMaYWqxTR10Pew16BJuJutugeAoRI"
     }
   ]
 }

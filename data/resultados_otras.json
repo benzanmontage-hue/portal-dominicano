@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:15:58.001916-04:00",
+ "updated": "2026-11-13T23:36:20.847319-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -109,11 +109,11 @@
    "compania": "Americanas",
    "juego": "New York Noche",
    "numeros": [
-    "56",
-    "24",
-    "79"
+    "51",
+    "34",
+    "49"
    ],
-   "fecha": "2026-11-12T04:00:00.000Z",
+   "fecha": "2026-11-13T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d50f"
   },
   {
@@ -631,11 +631,11 @@
    "compania": "Nueva York",
    "juego": "Numbers Noche",
    "numeros": [
+    "8",
     "5",
-    "5",
-    "6"
+    "1"
    ],
-   "fecha": "2026-11-12T04:00:00.000Z",
+   "fecha": "2026-11-13T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d544"
   },
   {
@@ -655,13 +655,13 @@
    "compania": "Nueva York",
    "juego": "Take 5 Noche",
    "numeros": [
-    "33",
-    "09",
-    "21",
-    "13",
-    "14"
+    "31",
+    "37",
+    "39",
+    "25",
+    "15"
    ],
-   "fecha": "2026-11-12T04:00:00.000Z",
+   "fecha": "2026-11-13T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d54a"
   },
   {
@@ -680,12 +680,12 @@
    "compania": "Nueva York",
    "juego": "Win 4 Noche",
    "numeros": [
-    "2",
+    "3",
     "4",
-    "7",
+    "4",
     "9"
    ],
-   "fecha": "2026-11-12T04:00:00.000Z",
+   "fecha": "2026-11-13T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d538"
   }
  ],
