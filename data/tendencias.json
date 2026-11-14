@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-13T20:10:27.414350-04:00",
-  "hora": "20:10",
+  "updated": "2026-11-13T20:31:03.906480-04:00",
+  "hora": "20:31",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pacers - knicks",
+      "trafico": "200+",
+      "noticia": "Knicks visit Pacers with both chasing first NBA Cup win",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-visit-pacers-with-both-chasing-first-nba-cup-win/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+    },
     {
       "termino": "colombia - chile",
       "trafico": "200+",
@@ -18,13 +25,6 @@
       "noticia": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana",
       "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/13/el-comercio-minorista-resiste-a-la-crisis-de-haiti-en-la-frontera/3719851",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
-    },
-    {
-      "termino": "terremoto sismo temblor hoy epicentro",
-      "trafico": "2000+",
-      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
     },
     {
       "termino": "argentina - uruguay",
@@ -57,9 +57,9 @@
     {
       "termino": "faa",
       "trafico": "1000+",
-      "noticia": "Live updates: FAA issues nationwide ground stop for all flights",
-      "enlace": "https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLmMo1cNfAW0b79RqIQs_qfVFL3F2qTKmFXvcESdjYVoOWzLyeKw8TpeyFE1E"
+      "noticia": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
+      "enlace": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXG745OTktfqSC0z0w-WELxCesX8sHhkM-_QbHY8fjujiiWt9qRO2l39PMS0"
     },
     {
       "termino": "multa",
@@ -71,9 +71,9 @@
     {
       "termino": "irán",
       "trafico": "200+",
-      "noticia": "Trump retira a Vance de las conversaciones con Irán para acabar la guerra",
-      "enlace": "https://elpais.com/internacional/2026-11-12/trump-retira-a-vance-de-las-conversaciones-con-iran-para-acabar-la-guerra.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKABBx7_eN7uxMwwlAm5T_pMOhJ0g7NfLJMYKcFqODG4SB56mX27XIFb_uSe0"
+      "noticia": "Trump pide a Vance que deje de centrarse en Irán: “No necesitamos un acuerdo”",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/12/eeuu/trump-pide-vance-dejar-acuerdo-iran-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTQMlbk7KhgizWqOBaxocG-ljDo3Nnxd_8KvIjUn_fY1T65cnyQu4wQh-Ov98"
     }
   ]
 }
