@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-14T15:12:07.695272-04:00",
-  "hora": "15:12",
+  "updated": "2026-11-14T15:32:29.609139-04:00",
+  "hora": "15:32",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "portugal - dinamarca",
+      "termino": "muerte",
       "trafico": "200+",
+      "noticia": "El apoyo a la pena de muerte en EE.UU. cae al 49%, su nivel más bajo desde 1971, según Gallup",
+      "enlace": "https://www.ewtnnews.com/es/mundo/america/apoyo-pena-muerte-cae-gallup",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWRZczrphzc7RlFL2ri9rBMnecqZllNQplljs9mWhWVpSntoxD_6nlAaXd8xQ"
+    },
+    {
+      "termino": "portugal - dinamarca",
+      "trafico": "500+",
       "noticia": "Veja os principais jogos da Nations League no final de semana",
       "enlace": "https://tmc.com.br/esporte/veja-os-principais-jogos-da-nations-league-no-final-de-semana/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu94-mhI_5o8xWjGDC4rpXAcZzety5Kk-P0uQYr5uC1WQgIYYTqHXpS2c2QQY"
-    },
-    {
-      "termino": "vuelos cancelados estados unidos",
-      "trafico": "2000+",
-      "noticia": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
-      "enlace": "https://www.bbc.com/mundo/articles/c5n4e274kdlro",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlEuUDeDulpe8PjMFiYvrFuKoNPeWrmOgCWwTSgENTK0MMrbLDo996upXHDE"
     },
     {
       "termino": "la real",
@@ -36,23 +36,23 @@
     {
       "termino": "noruega - gales",
       "trafico": "1000+",
-      "noticia": "Fuertes nevadas amenazan el estadio Ullevaal antes de Norway Vs Wales del sábado",
-      "enlace": "https://twaslnews1.twaslnews.com/7687071/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBS4lkmcA8hga6Zeau84TCY7DalxliboHPcWDGq7n1JApWtp_Gha7pvqcIr8g"
+      "noticia": "¡Con asistencia de Haaland! Schjelderup marca el segundo y Noruega se encamina a la goleada",
+      "enlace": "https://www.tudn.com/Xkx9G106ICfR",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKnlk-ExWqdZcBsX_zGECeMwJCgq64HjoirfhKf5BRKDtLxZbx8HUVlkinaTg"
     },
     {
       "termino": "meteorología",
       "trafico": "200+",
-      "noticia": "Pronostican sistema frontal provocará aguaceros este sábado principalmente en la tarde",
-      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/14/pronostican-sistema-frontal-provocara-aguaceros-este-sabado/3720519",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0_ZMXwQkLqDdk05sbsqFjJNZ7ehHifyAcB1S672Pk4q9666zUIEe1Obtr63I"
+      "noticia": "Aguaceros esta tarde en 15 provincias por la incidencia de un sistema frontal",
+      "enlace": "https://elnacional.com.do/nacionales/aguaceros-tarde-15-provincias-incidencia-sistema-frontal_586189.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJzhr1neb1fUyHV90-ASt6Ub2Df7WGC_N1GMEUfYD6_LLJkyw_gHEdsZdoGsQ"
     },
     {
       "termino": "techy fatule latin grammy",
       "trafico": "100+",
-      "noticia": "Techy habla sobre su álbum “Chula”",
-      "enlace": "https://listindiario.com/videos/20261113/techy-habla-sobre-album-chula_929978.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVfD4RdW-nQ2PQsPWYLsGSQU7-_Go_R_3v1dtgspOLYTWB3I8itINvx2k40uU"
+      "noticia": "Tres dominicanos conquistan los Latin Grammy con triunfos en merengue, salsa y rap",
+      "enlace": "https://www.infobae.com/republica-dominicana/2026/11/13/tres-dominicanos-conquistan-los-latin-grammy-con-triunfos-en-merengue-salsa-y-rap/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4arL883IrgN9fqPOjlRHdsmuA34bsp0nnrMK7Q_QNIuq3Xeu116RbW6wnkB4"
     },
     {
       "termino": "lotería",
