@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-14T17:36:10.616593-04:00",
-  "hora": "17:36",
+  "updated": "2026-11-14T17:56:35.170484-04:00",
+  "hora": "17:56",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "liga de naciones",
+      "trafico": "100+",
+      "noticia": "Finlandia contra San Marino, en directo hoy: ¿quién televisa el partido y dónde verlo en streaming?",
+      "enlace": "https://www.goal.com/es-mx/noticias/finlandia-contra-san-marino-en-directo-hoy-quien-televisa-el-partido-y-donde-verlo-en-streaming/blt28eae9425470b6b0",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHn2buRsgL3X0KTmF5jupVcAnh6XngoCKhdELe-YCjeQK_kCtXlgubn4Bzec0"
+    },
+    {
       "termino": "haití - estados unidos",
-      "trafico": "1000+",
-      "noticia": "Haití vs. Estados Unidos y Jamaica vs. México encabezan doble jornada de Cuartos de Final de la Liga de Naciones",
-      "enlace": "https://es.concacaf.com/competitions/nations-league/news/haiti-vs-estados-unidos-y-jamaica-vs-mexico-encabezan-doble-jornada-de-cuartos-de-final-de-la-liga-de-naciones",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
+      "trafico": "2000+",
+      "noticia": "Haití vs Estados Unidos en vivo: goles y resultados del partido de la Concacaf Nations League 2026, hoy 14 de noviembre",
+      "enlace": "https://www.clarosports.com/futbol/concacaf-nations-league/haiti-vs-estados-unidos-en-vivo-goles-y-resultados-del-partido-de-la-concacaf-nations-league-2026-hoy-14-de-noviembre/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJBWq9hUXozh1kvqHeQW7fpl3brjrgYAO6MhFgBfuu4zq4ko5ScutXbB4fgs"
     },
     {
       "termino": "apagón mundial 17 de noviembre",
@@ -29,9 +36,9 @@
     {
       "termino": "portugal – danemark",
       "trafico": "200+",
-      "noticia": "Portugal vs Danemark à Braga : forme, compos, statistiques, cotes",
-      "enlace": "https://www.sofascore.com/fr/news/portugal-vs-danemark-a-braga-forme-compositions-probables-chiffres-cles-et-cotes",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GWsvo_2fwPnnarbEt78qsdvL-mV1tJQcbOnrHSj6lyKLCOxcLX0NzPNqVN4"
+      "noticia": "Portugal vs Denmark : Prévisions de Compositions et Nouvelles d’Équipe",
+      "enlace": "https://rdcsport.cd/news/portugal-denmark-previsions-compositions-nouvelles-equipe",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQtve0kWPSt3DkBMVlY2PVha0oRuk_-oUcUBMi5NbEm7mlSLdKBCTygSpnXp4"
     },
     {
       "termino": "haiti vs usa",
@@ -41,13 +48,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtmdQERj0trW6npog_fXesSbeqwMTPqkwqYUyDFMo4tG_L-ZvZe3URTvyXEcw"
     },
     {
-      "termino": "luis abinader",
-      "trafico": "200+",
-      "noticia": "Hombre que habría amenazado a Luis Abinader deberá pagar un millón: conozca qué decidió la justicia",
-      "enlace": "https://hoy.com.do/el-pais/hombre-habria-amenazado-luis-abinader-debera-pagar-millon-conozca-medida-coercion_1108698.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToC6h_mXwuYnMgqMhhEpDo1vz8YToXIP2bgHiviolM3eTKpPKVKjT_vkJQTBk"
-    },
-    {
       "termino": "wilfrido vargas",
       "trafico": "200+",
       "noticia": "Condenan a Wilfrido Vargas a pagar RD$14 millones a músico por coautoría de “El baile del perrito”",
@@ -55,25 +55,25 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRpRvMnV6IBO5uJROjJUT6QirOOAvuO8sAnd9d2HKrMu1O9AJUMTQtwI0m604"
     },
     {
+      "termino": "luis abinader",
+      "trafico": "200+",
+      "noticia": "Hombre que habría amenazado a Luis Abinader deberá pagar un millón: conozca qué decidió la justicia",
+      "enlace": "https://hoy.com.do/el-pais/hombre-habria-amenazado-luis-abinader-debera-pagar-millon-conozca-medida-coercion_1108698.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToC6h_mXwuYnMgqMhhEpDo1vz8YToXIP2bgHiviolM3eTKpPKVKjT_vkJQTBk"
+    },
+    {
       "termino": "muerte",
       "trafico": "500+",
-      "noticia": "El apoyo a la pena de muerte en EE.UU. cae al 49%, su nivel más bajo desde 1971, según Gallup",
-      "enlace": "https://www.ewtnnews.com/es/mundo/america/apoyo-pena-muerte-cae-gallup",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWRZczrphzc7RlFL2ri9rBMnecqZllNQplljs9mWhWVpSntoxD_6nlAaXd8xQ"
+      "noticia": "DT explica cómo es la vida en Tenerife sin Jesús de Miguel",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17515337/tecnico-tenerife-explica-como-la-vida-sin-jesus-de-miguel",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqQ3BtrQgmT9tZHsttranDQ7bVPvucW3aLoR92e0H3_9zFuzJKeKgmtrwi2HE"
     },
     {
       "termino": "portugal - dinamarca",
       "trafico": "2000+",
-      "noticia": "Portugal vs Denmark LIVE: UEFA Nations League",
-      "enlace": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRexsrKLz1D6-ejpvRGnxnzZb21zbyw5zRh2IZ7fexAMhaR7NgzLBwQsJ0V08o"
-    },
-    {
-      "termino": "la real",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
+      "noticia": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
+      "enlace": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTkpDQko",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTms0iFXtn1qOFFwlNLMHwRp7EiQfVUiZS66eiJ9GIILLvAZjS2s7fhfHkQYnc"
     }
   ]
 }
