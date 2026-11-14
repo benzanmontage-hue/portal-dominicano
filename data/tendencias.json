@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-14T00:37:38.120548-04:00",
-  "hora": "00:37",
+  "updated": "2026-11-14T00:57:59.754534-04:00",
+  "hora": "00:57",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "clippers - thunder",
+      "trafico": "100+",
+      "noticia": "Shorthanded Thunder visit struggling Clippers in NBA Cup",
+      "enlace": "https://www.cbssports.com/nba/news/shorthanded-thunder-visit-struggling-clippers-in-nba-cup/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+    },
+    {
       "termino": "stephon castle",
       "trafico": "100+",
-      "noticia": "In third season, Spurs  Stephon Castle receives high marks for  maturity",
-      "enlace": "https://www.expressnews.com/sports/spurs/article/in-third-season-spurs-stephon-castle-gets-high-22528158.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxLF6VzI0pn_bwMaazCiXnRFcsH-htefh5zQTaKe_EXnAjIX7zCudczn1imkw"
+      "noticia": "Wemby s shades, Castle s camo and Harper s new look steal the show ahead NBA Cup",
+      "enlace": "https://www.expressnews.com/news/article/spurs-fashion-wembanyama-castle-outfits-22530056.php",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2XQeDoMK2SFFhlAYBuZ0-WGj7XuN8DgLNo9YOFLcdOCFA2OK3RjdJih0ft30"
     },
     {
       "termino": "lj cryer",
@@ -22,13 +29,13 @@
     {
       "termino": "guatemala - canadá",
       "trafico": "100+",
-      "noticia": "Malas noticias: Alphonso Davies no puede continuar y sale lesionado al minuto cinco",
-      "enlace": "https://www.tudn.com/futbol/malas-noticias-alphonso-davies-no-puede-continuar-y-sale-lesionado-al-minuto-cinco-video",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-4aH_ofVZlefMY2LPJ2tiKeQbQ3_yyRVoHySGQ6Fz4oiQdkc6lBqfVP0INRA"
+      "noticia": "Jesús López gana el puesto y sale como titular ante Canadá",
+      "enlace": "https://espndeportes.espn.com/futbol/guatemala/nota/_/id/17510479/alineacion-guatemala-canada-cuartos-de-final-liga-de-naciones",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW1NfYC_nZdW4Fkzu3QjTpw6ONmBihZlMdejHmF6-fSpqp82Y_odQdQLuiwm4"
     },
     {
       "termino": "rockets - jazz",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Preview: Jazz looking to take liftoff in NBA Cup Game",
       "enlace": "https://www.slcdunk.com/utah-jazz-game-coverage/70717/preview-jazz-looking-to-take-liftoff-in-nba-cup-game",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgNHzHO-i5LY7Tfj1l9cbP7bVtzAMVeme_h7Hb9vs-8Ie7kH5y_mvCrcd5VK0"
@@ -43,9 +50,9 @@
     {
       "termino": "spurs - warriors",
       "trafico": "2000+",
-      "noticia": "Warriors vs Spurs NBA Cup: Here s how to watch",
-      "enlace": "https://www.sfgate.com/shopping/article/warriors-vs-spurs-nba-cup-how-to-watch-22526822.php",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRSOfT50t11EmUSv64c9CdFKkyeRlzTJAi0xm4Lf687PGMptZ8OYXZ1CGdPk"
+      "noticia": "NBA Best Bets for Warriors vs Spurs, Blazers vs Kings, More (Friday, Nov. 13)",
+      "enlace": "https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-knicks-magic-vs-bucks-more-friday-november-13",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQFnAJztDyIt14y-K8M6El9pdzyXx-EAm0ZEnTDehAVfSAF3Mp_yRvSIrUPw"
     },
     {
       "termino": "heat - cavaliers",
@@ -55,25 +62,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
     },
     {
+      "termino": "resultados de loteria",
+      "trafico": "200+",
+      "noticia": "Resultados de las loterías del 12/11/2026: números ganadores de Leidsa, Loteka y otras bancas",
+      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-12-11-2026-numeros-ganadores-leidsa-loteka-bancas_1108584.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
+    },
+    {
       "termino": "nvidia jensen huang",
       "trafico": "200+",
       "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
       "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk18RsFLILPEs3dWXeWo2RfXwHej-CvZ5nXgvCjAEu2PYydJeukMa8M9ul2bE"
-    },
-    {
-      "termino": "apagón eléctrico",
-      "trafico": "1000+",
-      "noticia": "¿Qué pasará el 17 de noviembre? La verdad detrás de la alerta viral sobre un apagón mundial",
-      "enlace": "https://elnuevodiario.com.do/que-pasara-el-17-de-noviembre-la-verdad-detras-de-la-alerta-viral-sobre-un-apagon-mundial/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPeE_eK5asEFwTTz6w01fkHKe3LyCNNnDQJzbGySivB6HoXbd0blVw7a3ACE"
-    },
-    {
-      "termino": "magic - bucks",
-      "trafico": "100+",
-      "noticia": "Franz Wagner scores 35 as Magic hand Bucks ninth straight loss",
-      "enlace": "https://www.cbssports.com/nba/news/franz-wagner-scores-35-as-magic-hand-bucks-ninth-straight-loss/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSdGfoAjCYc6atjYLwvCQ2LC82jKVPASWXaBkF00Y_9CG7PnaDP1fILVN78h4"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
     }
   ]
 }
