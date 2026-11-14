@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T10:04:28.231316-04:00",
-  "hora": "10:04",
+  "updated": "2026-11-14T10:24:51.229923-04:00",
+  "hora": "10:24",
   "fecha": "14/11/2026",
   "total": 15,
   "noticias": [
@@ -21,12 +21,28 @@
       "imagen": "https://www.infobae.com/resizer/v2/75MEY36IY5EUTBXFOMDKK4QCZY.JPG?auth=a02af56c2176452ac1d55880c9a17f6cd87bd6b64d92a939695e2bd3f9fdbc09&smart=true&width=1200&height=630&quality=85"
     },
     {
+      "titulo": "Trump pide incentivos fiscales para recuperar rodajes de Hollywood Ensegundos República Dominicana - Howl.Link",
+      "fuente": "Howl.Link",
+      "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1JenpUMU5ob2trMklzUUFYRThSX1MyQkpQLTNSU3J2NzIzNjFmWUpkNjVnN2dJcEFYRGdF?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 12:32:56 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Magali Febles comparte nuevos detalles del accidente que sufrió con Miss República Dominicana - Telemundo",
       "fuente": "Telemundo",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0g5YVdTYVBFQVo3SndNT2hRY05YZFJsWmQyMjl2SktKRWxscEF2Zl8zRWk1NzBNRmhsTGxtOTlYSHFfdGdSeDlBd2stTWQ2X0RuOEJTRjZBN3FpUUpVZWlRWU52TDdVbFg5NFBad1RkbVhSS3d6dmNiMElJNE1XS2NRRTlid2g4Qk12ZUkzUldmNmgtUExWUjNVbVB1Umc3Tl9kbThYQkNGcU9aa3FIa1JPYVFDLXNmRmJKcnBldWcxWGR1bFdjN0dKRG1rUGNQRDlKTUlNQ3ltZFl6WXd4bXJRLTdrU2hJRXlKbVkzSjJCUno4SWFyd09R?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 06:46:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/553/447/49615309220-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Eduardo Yáñez denuncia intento de extorsión desde República Dominicana: le exigen $10,000 - Primera Hora",
+      "fuente": "Primera Hora",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN05PUjIzeHF4NmZlRmVGMHlYWXIwdFZZc0ZzTkZGcGtZVXlvS1MyQVl6Tk1YUVZLNWJUM3dSV1Z3VzZhc3AzcU1Tc3ktWmJaUkF2b195bVFXSUtoWDA1S1N0cURIT1VUUWhCem9fV2pZYTdGOWl2cU5JQVp1VWpIQk1rbHdaaXZCRVd3T1FVLWZpeWpHV2RNRk1QQURJOWlJNWh2MXQ5OFNjWnRYWUVseGg2alY0cTFaVUZOZFZzTVVMWm82VUg1UDNfVDRULS1rcWw2bkNfYnc3MDRXZlNveA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 14:19:39 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Arrestan a hombre en República Dominicana por publicar video de contenido sexual junto a una bebé - El Nuevo Día",
@@ -59,14 +75,6 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 14 Nov 2026 00:09:00 GMT",
       "imagen": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/9/67/96789e5e-6d27-473e-9151-26c1edc8cd5a/6af7aa6a4b114.image.png?crop=1685%2C885%2C0%2C172&resize=1200%2C630&order=crop%2Cresize"
-    },
-    {
-      "titulo": "Aumentan las cancelaciones de vuelos entre RD y EE. UU. por restricciones de la FAA - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmJWZ1R6SjVBeXVkMW1OcDVVM2hFUlJUVFRrNlF6SzdNalJUbU9HYS1yNEdObUc2a1VxdXV4SlJJV3VCb05kOE9lUHNCbWZaZlZ5WUt2OThjRTN6cXVJT0NzMDM2bXNRTmZ0WVE4M0w1Vm10Mnp5bFVlMmU3RmY5VUYweURKd0VLbGxDX3k0U0UwLU96YVZXaU1QUXljXzY0bEZMangyRUlSTTJ0T1HSAbMBQVVfeXFMT0lZZHZVejVueTh1aUwtYkdEWVM2ZkhCVW1QcnpwQ0JWR0dESElvTFBpMDliZnZvUEFTbGxwV2Z5dW16RkZtTmZ3WTJrYVlScWZMaW1sem1kejlNVV9xanVfTWJJOWRsMzRKOG5BVS00d1UwQnZHbFhKOF96UmVvUm9XaURVZm9IWlh0WnFObVVLYlBfN29zTVZQODBhYkVGSm1GYUhsTGhSQjE1a1lFdTNEbVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 14 Nov 2026 01:08:00 GMT",
-      "imagen": ""
     },
     {
       "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este sábado 14 de noviembre de 2026 - Acento",
@@ -106,14 +114,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRfNFllOG1tRUZuR0NTcUU3bUhOakw2dnlybnRJY25IRGpvejFCVHBKcUs1ZGxTaXNseXQ4QVl0NXAxRWwwMU1aSzFsekJxend0dHBSN2xtMnBacWZEY3htNGZaRXR1cTlQOFVNSF9YbGtZNEhPYXJKNjRSSEhpUHgwLUtDaWxrSHhuT3dTaWxWU192aFI0OQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 12 Nov 2026 23:04:46 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana termina en el puesto 36 en IV Juegos Olímpicos de la Juventud Dakar 2026 - Comité Olímpico Dominicano",
-      "fuente": "Comité Olímpico Dominicano",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY25xd0x2OEgyT3daTFpRMW5xSkQ1OXB3N1Frb2xaX052ZmNkSGx1bVpmNHROLVJiYk5UMWMxald4T2dPZ181RVFRcVA5eXR0NDhwY3dqMmJMSVBqSlk2VkpuYVhMSVMtWU8wMW9LQjZfR1NFeUFrakJMVDkxZDdfdjkydEliTm1MU0l2YTVmbnhBOUpHZ281RmREdUt6RXlXZFQwNEhHOUJBQWdtUzBQQjBhVVpBVzJsSXFORkN4aFI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 21:08:44 GMT",
       "imagen": ""
     },
     {
