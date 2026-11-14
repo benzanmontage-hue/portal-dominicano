@@ -1,51 +1,58 @@
 {
-  "updated": "2026-11-14T08:22:11.592768-04:00",
-  "hora": "08:22",
+  "updated": "2026-11-14T08:42:34.677802-04:00",
+  "hora": "08:42",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "espacio aéreo",
+      "trafico": "1000+",
+      "noticia": "Última hora de suspensión nacional de todos los vuelos en EE.UU.: noticias, retrasos y más",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnpCDzUcpycgAL7JbM-BgFLGCQaz4BWBe88_ZzviY-UblB42V1EFCgefHvS8Y"
+    },
+    {
       "termino": "lotería",
       "trafico": "200+",
-      "noticia": "Lotería Nacional hoy: comprobar resultados del sorteo del jueves 12 de noviembre, en directo",
-      "enlace": "https://www.elconfidencial.com/sorteos-y-loterias/2026-11-12/comprobar-loteria-nacional-jueves-resultados-directo_4463180/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0ygAX_4Z0krx42ZAx_ViMZSuY5yq6Sl2jtKv2mK6W4nPriszmOiwS5Ayq7Q"
+      "noticia": "Lotería Nacional hoy en directo: comprobar los resultados del sorteo del sábado 14 de noviembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-hoy-en-directo-comprobar-los-resultados-del-sorteo-del-sabado-14-de-noviembre-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAwcbZEnR4ePTJ6Y0kDtRFP9oB27YMhs1BxvUEHmsoqoN493tH-Zyi12c0cxE"
     },
     {
       "termino": "brasil vs",
       "trafico": "200+",
-      "noticia": "Japan vs Brazil: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+      "noticia": "Japan v Brazil LIVE: Latest score and goal updates in Singapore friendly",
+      "enlace": "https://www.independent.co.uk/sport/football/japan-vs-brazil-live-score-result-friendly-b3084644.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhh4KGI1pnDIW5DFc5aL5OxxbodwXBxS2HnPr1irtAhi3xlBFNzvHn3Y5FzA"
     },
     {
       "termino": "japon – brésil",
       "trafico": "1000+",
-      "noticia": "Carlo Ancelotti répond à Mourinho",
-      "enlace": "https://real-france.fr/carlo-ancelotti-repond-a-mourinho/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT50mSusM4bSu4QNFshJGGfYYNJCqCbejvTXaYZpqWBcczQoTbOuM03gcwMW3g"
+      "noticia": "Brésil-Japon : Vinicius Junior relance la Seleção, 1-2",
+      "enlace": "https://africafootunited.com/bresil-japon-vinicius-junior-relance-la-selecao-1-2/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgAk3b63hrok72OW9JN069MjbF0ccLorXKfkMP9uV551rR1MY2wPyhf1MWxQ"
     },
     {
       "termino": "frente frío",
       "trafico": "200+",
-      "noticia": "Frente frío número 5 entre el sábado 14 y domingo 15: Se esperan lluvias fuertes en varios estados",
-      "enlace": "https://www.meteored.mx/noticias/prediccion/frente-frio-numero-5-entre-el-sabado-14-y-domingo-15-se-esperan-lluvias-fuertes-en-varios-estados.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVPTDtLw_zwnH9epRylV9TC0LbRoTbtrLOQV9H8J90R1FSrJkvaeWrdOsj6kI"
+      "noticia": "Aguanieve, lluvias y frío: así estará el clima este sábado 14 de noviembre",
+      "enlace": "https://www.unotv.com/clima/pronostico-clima-mexico-14-noviembre/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYxyNisVrbJtqSzjYnnwrvh-J1VjfgpyyhlLGf56FI0QbyAxAoRFFk6_Oe-J4"
     },
     {
       "termino": "japón - brasil",
       "trafico": "2000+",
-      "noticia": "Japón - Brasil, en vivo: Amistoso internacional en directo, hoy",
-      "enlace": "https://as.com/futbol/internacional/japon-brasil-en-vivo-amistoso-internacional-en-directo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHpsTTJU0hFRztefreeXcxOmlRbb__p1sNFwo2ciUdO3pUiFbkOhUS0hHvScA"
+      "noticia": "Japón vs Brasil EN VIVO: A qué hora y dónde ver el partido amistoso internacional 2026",
+      "enlace": "https://www.milenio.com/deportes/futbol-internacional/japon-vs-brasil-en-vivo-partido-amistoso-internacional-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdfp1FWpAReJLWmGOroZE50T6MaJ6FGVITQiKczgCvjBZPoXl0qZF2XIHKfOw"
     },
     {
       "termino": "clippers - thunder",
       "trafico": "200+",
-      "noticia": "Shai Gilgeous-Alexander News: Powers team in narrow loss",
-      "enlace": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-powers-team-in-narrow-loss-539033",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Q3fesIvo4kBSgCx0CiiRTaEWZHJHcwU1wRGp2IeALxS7W_0ADUfcTaojtXw"
+      "noticia": "Oklahoma City Thunder vs. Los Angeles Clippers Live Score and Stats - November 13, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_OKC@LAC/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZ4y-775aTRTRKmmfs_7-wk3KyNrHTPWC_TXb2OnfdtkQaleqIit-jBm_68I"
     },
     {
       "termino": "guatemala - canadá",
@@ -57,9 +64,9 @@
     {
       "termino": "rockets - jazz",
       "trafico": "200+",
-      "noticia": "Licensable video: Toyota Center prepares to host Rockets vs Jazz NBA matchup in Houston",
-      "enlace": "https://www.reutersconnect.com/item/toyota-center-prepares-to-host-rockets-vs-jazz-nba-matchup-in-houston/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxOTg3MDczMDAx",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78vyI421Ui_a0uicOdkKharv74qDah4Y0hj5xwvcQ5xKIF2tT3J_Q8BW1qd0"
+      "noticia": "Utah Jazz vs. Houston Rockets Live Score and Stats - November 13, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_UTA@HOU/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
     },
     {
       "termino": "juegos de hoy lidom",
@@ -67,13 +74,6 @@
       "noticia": "Águilas vencen a Toros con ofensiva temprana y sólida labor de File",
       "enlace": "https://www.mlb.com/es/news/aguilas-vencen-a-toros-con-ofensiva-temprana-y-solida-labor-de-file",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR45YOg8y2G59E1wITC3HuT8EWYyYJDzt2LXI16Atd27KUoYRTVkE1efDuW8k"
-    },
-    {
-      "termino": "spurs - warriors",
-      "trafico": "5000+",
-      "noticia": "Golden State Warriors vs. San Antonio Spurs Live Score and Stats - November 13, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_GS@SA/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSArsCSKV1BDOaBD9awL4_bWOxdi6EhJkMyVGF8V5XOjLJLFSq9GGsUCNT7rXo"
     }
   ]
 }
