@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-13T20:51:23.421486-04:00",
-  "hora": "20:51",
+  "updated": "2026-11-13T21:11:45.102347-04:00",
+  "hora": "21:11",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "apagón eléctrico",
+      "trafico": "1000+",
+      "noticia": "¿Qué pasará el 17 de noviembre? La verdad detrás de la alerta viral sobre un apagón mundial",
+      "enlace": "https://elnuevodiario.com.do/que-pasara-el-17-de-noviembre-la-verdad-detras-de-la-alerta-viral-sobre-un-apagon-mundial/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPeE_eK5asEFwTTz6w01fkHKe3LyCNNnDQJzbGySivB6HoXbd0blVw7a3ACE"
+    },
+    {
       "termino": "magic - bucks",
       "trafico": "100+",
-      "noticia": "Magic eye first home win as reeling Bucks visit",
-      "enlace": "https://www.cbssports.com/nba/news/magic-eye-first-home-win-as-reeling-bucks-visit/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBCbEF2dC_8yEL4h9UyIwYU6gaAaLTGwh21iCEJXSWgfj31UYXO3deQHqhFo"
+      "noticia": "Milwaukee Bucks vs. Orlando Magic Live Score and Stats - November 13, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/NBA_20261113_MIL@ORL/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiWxyFOZBD6qWwV24PVBvxe_zgbf6CbTqrnt1zaPxPim0BEFQ89xhURij43vM"
     },
     {
       "termino": "pacers - knicks",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "colombia - chile",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Colombia vs Chile: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/c5kglgd24k70t",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFz1ACptP4r25oBlSXp90TvBOCIJtwv1Qv93a4RBuF94k__pGkuNIFw4gD_N4"
@@ -34,29 +41,29 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
     },
     {
-      "termino": "argentina - uruguay",
-      "trafico": "5000+",
+      "termino": "argentine – uruguay",
+      "trafico": "2000+",
       "noticia": "Licensable picture: International Friendly - Argentina v Uruguay",
       "enlace": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E8pVqKJwK_2jLQXwsc7I8FKo2qV6g_iIsoqYZyp8zyDjITTemijXpD7s_Ls"
     },
     {
-      "termino": "argentina vs",
-      "trafico": "200+",
-      "noticia": "Barcelona send scouts to watch two players in Argentina vs Uruguay clash",
-      "enlace": "https://sports.yahoo.com/articles/barcelona-send-scouts-watch-two-223500935.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaiX5uTVlqDFjLcGB6HRsfiqBPZvJa4PscNUIBtjbLmUUHvmJHverEjikHj1Y"
+      "termino": "argentina - uruguay",
+      "trafico": "2000+",
+      "noticia": "¡EN VIVO! Argentina enfrenta a Uruguay en La Bombonera en el arranque de la era post-Messi",
+      "enlace": "https://espndeportes.espn.com/futbol/nota/_/id/17498972/argentina-vs-uruguay-amistoso-fecha-fecha-equipo-fecha-hora-y-tv-en-vivo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB2jpSOW37fTHwa9xTJD9pzXsnEKK-pkz0_A9LZHOKmEaB8yTUB37ULjDtda0"
     },
     {
       "termino": "república dominicana",
       "trafico": "1000+",
-      "noticia": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país  por circunstancias extraordinarias",
-      "enlace": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSelDKGqybJSXAMinX83T-w67cyr6dsnisIqpyl4JUriZNT4w0EqPxix2hzwwM"
+      "noticia": "Última hora de suspensión nacional de todos los vuelos en EE.UU.: noticias, retrasos y más",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtvkhCoen3MyTRVxPzGApS0rhzsDFSoQ4Do1_aSzRoG1cknMGHZOp06B-ozeU"
     },
     {
       "termino": "cnn",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "The Odds: Young Midterm Voters",
       "enlace": "https://www.cnn.com/2026/11/12/politics/video/the-odds-young-midterm-voters",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N3EttMYkkbZU6Ey9PagOLIONdJuxA2aXbhyMFhgkXP9CWNao3B09ylTLRa8"
@@ -64,16 +71,9 @@
     {
       "termino": "marruecos - níger",
       "trafico": "100+",
-      "noticia": "Hakimi hace historia: triplete con PSG y doblete con Marruecos en 14 días",
-      "enlace": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles/hakimi-hace-historia-triplete-con-psg-y-doblete-con-marruecos-en-14-d%C3%ADas-2026-11-13",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQeX3vJl3lbOSeVATRl2MT20riJ4X1E5LJHvIqvKkMzyGqCn9yjzHVmYQcgm4"
-    },
-    {
-      "termino": "faa",
-      "trafico": "1000+",
-      "noticia": "FAA ground stop disrupting air travel for college football teams",
-      "enlace": "https://www.espn.com/college-football/story/_/id/50475169/faa-ground-stop-disrupting-travel-college-football-teams",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd-HszGncLWCWr_rN9CHtldsn7TPbm0wEjxmmNa8zA51unSv2wnM0X6fCc8Wo"
+      "noticia": "Con números: Hakimi, el rey de las asistencias en el siglo XXI y una racha sin precedentes para Marruecos",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/n%C3%BAmeros-hakimi-rey-asistencias-siglo-000052359.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpKhTboTjQpq8IDubBNG5pXEB6nK-V_t9H-h0Mi4lua0RRdY_xgNhIXN-x05U"
     }
   ]
 }
