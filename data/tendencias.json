@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T09:02:54.312143-04:00",
-  "hora": "09:02",
+  "updated": "2026-11-14T09:23:17.523627-04:00",
+  "hora": "09:23",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "espacio aéreo",
+      "trafico": "1000+",
+      "noticia": "Qué se sabe sobre la suspensión de vuelos en EE. UU. más grande desde el 11S",
+      "enlace": "https://www.bbc.com/mundo/articles/c5n4e274kdlro",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlEuUDeDulpe8PjMFiYvrFuKoNPeWrmOgCWwTSgENTK0MMrbLDo996upXHDE"
+    },
     {
       "termino": "lotería",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "brasil vs",
       "trafico": "200+",
-      "noticia": "Japan v Brazil LIVE: Latest score and goal updates in Singapore friendly",
-      "enlace": "https://www.independent.co.uk/sport/football/japan-vs-brazil-live-score-result-friendly-b3084644.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhh4KGI1pnDIW5DFc5aL5OxxbodwXBxS2HnPr1irtAhi3xlBFNzvHn3Y5FzA"
+      "noticia": "Licensable picture: Mizuho Blue Challenge - Japan v Brazil",
+      "enlace": "https://www.reutersconnect.com/item/mizuho-blue-challenge-japan-v-brazil/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUwUjQ4V0I",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhhyZsVCVQfaJkZZVojeWXq11r0wB7uDJiZZf7UhjGcmy-nskqLGnlvOt1qds"
     },
     {
       "termino": "japon – brésil",
@@ -57,9 +64,9 @@
     {
       "termino": "guatemala - canadá",
       "trafico": "100+",
-      "noticia": "Luis Fernando Tena y Guatemala, muy cerca de quedarse sin Final Four",
-      "enlace": "https://www.si.com/mx/internacional/luis-fernando-tena-y-guatemala-muy-cerca-de-quedarse-sin-final-four",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaWL4h03gq41A37EWfPAUT-6rThfzcCViig61VBbi2o3Syz7yiZLRx_6_O8w"
+      "noticia": "Canadá venció a Guatemala en la ida de los Cuartos de Final de la Liga de Naciones",
+      "enlace": "https://es.concacaf.com/competitions/nations-league/news/canada-vencio-a-guatemala-en-la-ida-de-los-cuartos-de-final-de-la-liga-de-naciones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQhWSnMnbjWZrBJ6jiBMZg5kOqyZ97z41Uzz7moav4tzjasA4If13_GojpRx4"
     },
     {
       "termino": "rockets - jazz",
@@ -67,13 +74,6 @@
       "noticia": "Utah Jazz vs. Houston Rockets Live Score and Stats - November 13, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261113_UTA@HOU/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
-    },
-    {
-      "termino": "juegos de hoy lidom",
-      "trafico": "100+",
-      "noticia": "Águilas vencen a Toros con ofensiva temprana y sólida labor de File",
-      "enlace": "https://www.mlb.com/es/news/aguilas-vencen-a-toros-con-ofensiva-temprana-y-solida-labor-de-file",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR45YOg8y2G59E1wITC3HuT8EWYyYJDzt2LXI16Atd27KUoYRTVkE1efDuW8k"
     }
   ]
 }
