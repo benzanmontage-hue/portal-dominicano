@@ -1,30 +1,37 @@
 {
-  "updated": "2026-11-14T19:38:21.290185-04:00",
-  "hora": "19:38",
+  "updated": "2026-11-14T19:58:42.173498-04:00",
+  "hora": "19:58",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "justicia",
+      "trafico": "100+",
+      "noticia": "Juan Manuel Santos llama a defender la justicia, la libertad de prensa y los derechos humanos",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/12/juan-manuel-santos-llama-a-defender-la-justicia-y-libertad-de-prensa/3719362",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-1IQLa1VCfSjvpbDLadnzqh4Vk2u5JHIHYN6M9Hds5nwxZtIEXAGpYNroKf4"
+    },
+    {
       "termino": "liga de naciones concacaf",
       "trafico": "100+",
       "noticia": "Rafa Márquez deja atrás los ensayos: comienza la verdadera prueba del nuevo México",
       "enlace": "https://www.si.com/mx/futbol/rafa-marquez-deja-atras-los-ensayos-comienza-la-verdadera-prueba-del-nuevo-mexico",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3JEeHScmrFP4M46wdtpjdjagk-M1EMVP9zZOHv_FAoID9op69uNwMEZMqhe4"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQWil6oRXZpndg_uggV5snJpTt9-N7qEb2TUZo-VIcWwL0fNyp53KbmgZ6q0"
     },
     {
       "termino": "ufc",
       "trafico": "100+",
-      "noticia": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
-      "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE"
+      "noticia": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+      "enlace": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY"
     },
     {
       "termino": "banfield - boca juniors",
       "trafico": "200+",
-      "noticia": "Banfield vs. Boca, por la Copa Argentina: seguilo EN VIVO",
+      "noticia": "Boca goleó a Banfield y jugará la final de la Copa Argentina: reviví lo mejor",
       "enlace": "https://www.tycsports.com/copa-argentina/argentina-copa-argentina-2026-banfield-vs-boca-juniors-semifinal-1-id771386.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq41sXgU4qfBAPKwWeDEqJf9pboIPh6NR1mWCYdJR47x6Ozuv4YK26CP7mLMA"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYrxQERbBn4tM-nVtHY_vyE2l06TpZfH22k8YVuzEs0KNOgIzIB6NcXfTRAfk"
     },
     {
       "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
@@ -36,9 +43,9 @@
     {
       "termino": "haití - estados unidos",
       "trafico": "5000+",
-      "noticia": "LIVE BLOG: Haití vs Estados Unidos | CONCACAF Nations League",
-      "enlace": "https://www.beinsports.com/es-us/football/articles/live-blog-hait%C3%AD-vs-estados-unidos-concacaf-nations-league-2026-11-14",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTy5Ci4EH2BlaaQ9dJt0sNuGBtt28ASr1qOTJaZpNrNOohWuLrZ6OWuu5DB-y8"
+      "noticia": "Haití vs Estados Unidos en vivo: goles y resultados del partido de la Concacaf Nations League 2026, hoy 14 de noviembre",
+      "enlace": "https://www.clarosports.com/futbol/concacaf-nations-league/haiti-vs-estados-unidos-en-vivo-goles-y-resultados-del-partido-de-la-concacaf-nations-league-2026-hoy-14-de-noviembre/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJBWq9hUXozh1kvqHeQW7fpl3brjrgYAO6MhFgBfuu4zq4ko5ScutXbB4fgs"
     },
     {
       "termino": "apagón mundial 17 de noviembre",
@@ -57,9 +64,9 @@
     {
       "termino": "portugal – danemark",
       "trafico": "200+",
-      "noticia": "Ligue des nations : pour sa première sans Cristiano Ronaldo, le Portugal humilié à domicile par le Danemark",
-      "enlace": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-pour-sa-premiere-sans-cristiano-ronaldo-le-portugal-humilie-a-domicile-par-le-danemark-20261114",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdHe2o_2Dbv3aY1mB9_vc1DyHHvZLmoaD5tLGKqdGIfOUAfuxnyA3Eu6s0txk"
+      "noticia": "Portugal-Danemark : sur quelle chaîne TV regarder le match en direct ?",
+      "enlace": "https://africafootunited.com/portugal-danemark-sur-quelle-chaine-tv-regarder-le-match-en-direct/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPt4GNu8YPImztJtz3AG6XKN4oL3Wq1LEe3t2Z6K5POtsWFmTg8_ve6vtrekE"
     },
     {
       "termino": "haiti vs usa",
@@ -67,13 +74,6 @@
       "noticia": "Recap: USMNT open Mauricio Pochettino farewell tour by rocking Haiti",
       "enlace": "https://www.espn.com/soccer/story/_/id/50435228/pochettino-farewell-usmnt-haiti-live-updates",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTvn4ZEURsGhvrfJGHhEEFl8DZxGXqKHZ47OIN_9qiafvtPT--sZWVzdNS4w"
-    },
-    {
-      "termino": "wilfrido vargas",
-      "trafico": "1000+",
-      "noticia": "Condenan a Wilfrido Vargas a pagar RD$14 millones a músico por coautoría de “El baile del perrito”",
-      "enlace": "https://listindiario.com/entretenimiento/musica/20261114/condenan-wilfrido-vargas-pagar-rd-14-millones-musico-coautoria-baile-perrito_930085.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRpRvMnV6IBO5uJROjJUT6QirOOAvuO8sAnd9d2HKrMu1O9AJUMTQtwI0m604"
     }
   ]
 }
