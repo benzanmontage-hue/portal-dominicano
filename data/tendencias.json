@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-13T19:49:53.068851-04:00",
-  "hora": "19:49",
+  "updated": "2026-11-13T20:10:27.414350-04:00",
+  "hora": "20:10",
   "fecha": "13/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "colombia - chile",
+      "trafico": "200+",
+      "noticia": "Colombia vs Chile: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c5kglgd24k70t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFz1ACptP4r25oBlSXp90TvBOCIJtwv1Qv93a4RBuF94k__pGkuNIFw4gD_N4"
+    },
     {
       "termino": "frontera",
       "trafico": "100+",
       "noticia": "El comercio minorista resiste a la crisis de Haití en la frontera con República Dominicana",
       "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/13/el-comercio-minorista-resiste-a-la-crisis-de-haiti-en-la-frontera/3719851",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNgPKYLw9huucUp9Xr-jwOsnY75IArisYY6VsSXgQU04r9q5S110s6douMKRA"
+    },
+    {
+      "termino": "terremoto sismo temblor hoy epicentro",
+      "trafico": "2000+",
+      "noticia": "Fuerte temblor hoy 13 de noviembre en China: magnitud y epicentro",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-13-noviembre-china-magnitud-epicentro/18904",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKA5Mp3KqP6QOaZItO0GoAwbBtWh668jTcgqcAa4Ux6p6dQ50CTH0tnN20YHw"
     },
     {
       "termino": "argentina - uruguay",
@@ -21,31 +35,38 @@
     },
     {
       "termino": "argentina vs",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Barcelona send scouts to watch two players in Argentina vs Uruguay clash",
       "enlace": "https://sports.yahoo.com/articles/barcelona-send-scouts-watch-two-223500935.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaiX5uTVlqDFjLcGB6HRsfiqBPZvJa4PscNUIBtjbLmUUHvmJHverEjikHj1Y"
     },
     {
+      "termino": "república dominicana",
+      "trafico": "2000+",
+      "noticia": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país  por circunstancias extraordinarias",
+      "enlace": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSelDKGqybJSXAMinX83T-w67cyr6dsnisIqpyl4JUriZNT4w0EqPxix2hzwwM"
+    },
+    {
       "termino": "marruecos - níger",
       "trafico": "100+",
-      "noticia": "Marruecos vs Niger EN VIVO: resultado y minuto a minuto",
-      "enlace": "https://www.365scores.com/es/news/marruecos-vs-niger-en-directo/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0vO3XDXNlZ4BORVl1uZuuZ4vtdseeE7NY9t6RilDeCoNy3nl1CTQ-S_J7wY"
+      "noticia": "Marruecos vs Níger | Resumen y Goles | AFCON 2027 Qualifiers",
+      "enlace": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles-video/marruecos-vs-n%C3%ADger-resumen-y-goles-afcon-2027-qualifiers-2026-11-13",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShoPw9cAjLCLe-UhW1ZZp564AeMnWQVoPpQRLHKYoEE-WdBYUA2p-x9zFfpTE"
     },
     {
       "termino": "faa",
       "trafico": "1000+",
-      "noticia": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-      "enlace": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "noticia": "Live updates: FAA issues nationwide ground stop for all flights",
+      "enlace": "https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLmMo1cNfAW0b79RqIQs_qfVFL3F2qTKmFXvcESdjYVoOWzLyeKw8TpeyFE1E"
     },
     {
       "termino": "multa",
       "trafico": "500+",
-      "noticia": "Matheus e Kauan descumprem decisão e podem pagar multa de R$ 2 milhões",
-      "enlace": "https://www.metropoles.com/colunas/fabia-oliveira/matheus-e-kauan-descumprem-decisao-e-podem-pagar-multa-de-r-2-milhoes",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRowWdRE5MKdbR2j1VqiJGlghM_zwquKj0On30rXtxL3P_owqpoV0sU4-P9tyg"
+      "noticia": "Veja como regularizar tarifas do Siga Fácil e pedir a devolução de multas",
+      "enlace": "https://www.agenciasp.sp.gov.br/transporte-e-transito/veja-como-regularizar-tarifas-do-siga-facil-e-pedir-a-devolucao-de-multas/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3XyEUxv_drN7VIvHBSMxwfw1B9zvJ_MSAB8GazytDI91WDibIC_4yAsN7cZs"
     },
     {
       "termino": "irán",
@@ -53,27 +74,6 @@
       "noticia": "Trump retira a Vance de las conversaciones con Irán para acabar la guerra",
       "enlace": "https://elpais.com/internacional/2026-11-12/trump-retira-a-vance-de-las-conversaciones-con-iran-para-acabar-la-guerra.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKABBx7_eN7uxMwwlAm5T_pMOhJ0g7NfLJMYKcFqODG4SB56mX27XIFb_uSe0"
-    },
-    {
-      "termino": "el seibo",
-      "trafico": "20000+",
-      "noticia": "Defensa Civil no reporta daños tras sismo de magnitud 4.7 al sur de El Seibo",
-      "enlace": "https://www.diariolibre.com/planeta/medioambiente/2026/11/13/autoridades-no-reportan-danos-tras-temblor-al-sur-de-el-seibo/3720157",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyUs1zQuRFgCH4qx08sHdivDD3PdxXZyC0wMXvbqIkWO9YWijWY8Ub0A6wvWc"
-    },
-    {
-      "termino": "estadio",
-      "trafico": "500+",
-      "noticia": "Amnistía insta a Haití y El Salvador a garantizar respeto a DD.HH. en lucha contra bandas",
-      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/11/amnistia-internacional-exige-respeto-a-derechos-humanos-en-haiti/3718061",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4dt0kAof6nRTavuJhyggSeqGX5O0uszfiE4fC2IKr8bfgWxNNx7RFqn0sG2Q"
-    },
-    {
-      "termino": "serbia - alemania",
-      "trafico": "500+",
-      "noticia": "La destreza táctica de Jurgen Klopp propició una cómoda victoria de Alemania en la Liga de Naciones.",
-      "enlace": "https://www.vietnam.vn/es/jurgen-klopp-cao-tay-duc-thang-de-o-nations-league",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVSZj1dcQA0kVq4EcgjiQXDzfeuaEs-XtJfTd080x5DCFrCdrmrVXypetRpwQ"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T19:50:05-04:00",
+ "actualizado": "2026-11-13T20:10:40-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -2306,6 +2306,14 @@
    }
   ],
   "Anguila|Anguila 8:00 PM": [
+   {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "50",
+     "37",
+     "46"
+    ]
+   },
    {
     "fecha": "2026-11-12",
     "numeros": [
@@ -6502,6 +6510,12 @@
   ],
   "Loteka|MC Repartidera": [
    {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "51"
+    ]
+   },
+   {
     "fecha": "2026-11-12",
     "numeros": [
      "70"
@@ -6641,6 +6655,16 @@
    }
   ],
   "Loteka|Mega Chances": [
+   {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "67",
+     "25",
+     "53",
+     "89",
+     "78"
+    ]
+   },
    {
     "fecha": "2026-11-12",
     "numeros": [
@@ -7187,6 +7211,14 @@
   ],
   "Loteka|Quiniela Loteka Noche": [
    {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "72",
+     "71",
+     "75"
+    ]
+   },
+   {
     "fecha": "2026-11-12",
     "numeros": [
      "53",
@@ -7463,6 +7495,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "75",
+     "15",
+     "44",
+     "93",
+     "29"
+    ]
+   },
+   {
     "fecha": "2026-11-12",
     "numeros": [
      "70",
@@ -7694,6 +7736,14 @@
    }
   ],
   "Loteria Real|Lotería Real Noche": [
+   {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "56",
+     "92",
+     "59"
+    ]
+   },
    {
     "fecha": "2026-11-12",
     "numeros": [
@@ -8099,6 +8149,15 @@
   ],
   "Loteria Real|Loto Pool Noche": [
    {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "56",
+     "00",
+     "87",
+     "24"
+    ]
+   },
+   {
     "fecha": "2026-11-12",
     "numeros": [
      "88",
@@ -8307,6 +8366,17 @@
    }
   ],
   "Loteria Real|Loto Real": [
+   {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "29",
+     "19",
+     "06",
+     "03",
+     "01",
+     "35"
+    ]
+   },
    {
     "fecha": "2026-11-10",
     "numeros": [
@@ -8796,6 +8866,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-11-13",
+    "numeros": [
+     "90"
+    ]
+   },
    {
     "fecha": "2026-11-12",
     "numeros": [
