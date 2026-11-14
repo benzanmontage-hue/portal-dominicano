@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T16:55:21.104611-04:00",
-  "hora": "16:55",
+  "updated": "2026-11-14T17:15:44.078684-04:00",
+  "hora": "17:15",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "haití - estados unidos",
+      "trafico": "500+",
+      "noticia": "Haití vs. Estados Unidos y Jamaica vs. México encabezan doble jornada de Cuartos de Final de la Liga de Naciones",
+      "enlace": "https://es.concacaf.com/competitions/nations-league/news/haiti-vs-estados-unidos-y-jamaica-vs-mexico-encabezan-doble-jornada-de-cuartos-de-final-de-la-liga-de-naciones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKUmjWVj5DmITylYvP1z20jAHtdwhuKQ1_d-G0t-_tsy1DhyzLfk_T9WmyZ2I"
+    },
     {
       "termino": "apagón mundial 17 de noviembre",
       "trafico": "500+",
@@ -14,10 +21,10 @@
     },
     {
       "termino": "portugal – danemark",
-      "trafico": "100+",
-      "noticia": "Portugal vs Denmark : Prévisions de Compositions et Nouvelles d’Équipe",
-      "enlace": "https://rdcsport.cd/news/portugal-denmark-previsions-compositions-nouvelles-equipe",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQtve0kWPSt3DkBMVlY2PVha0oRuk_-oUcUBMi5NbEm7mlSLdKBCTygSpnXp4"
+      "trafico": "200+",
+      "noticia": "Portugal affronte Denmark en UEFA Nations League : enjeux et analyses",
+      "enlace": "https://rdcsport.cd/news/portugal-denmark-uefa-nations-league-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C9oKJuoGZBsRNBFjrB3_p_79rzO6kYKHxqC6obxXWwCUDqR2y-OOxwEZA6k"
     },
     {
       "termino": "luis abinader",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "wilfrido vargas",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Condenan a Wilfrido Vargas a pagar RD$14 millones a músico por coautoría de “El baile del perrito”",
       "enlace": "https://listindiario.com/entretenimiento/musica/20261114/condenan-wilfrido-vargas-pagar-rd-14-millones-musico-coautoria-baile-perrito_930085.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRpRvMnV6IBO5uJROjJUT6QirOOAvuO8sAnd9d2HKrMu1O9AJUMTQtwI0m604"
@@ -49,10 +56,10 @@
     },
     {
       "termino": "portugal - dinamarca",
-      "trafico": "1000+",
-      "noticia": "UEFA Nations League Matchday 5 preview: Portugal host Denmark, Norway welcome Wales in League A action",
-      "enlace": "https://www.uefa.com/uefanationsleague/news/02ab-220793bfb8a3-00d5842942af-1000--uefa-nations-league-matchday-5-preview-portugal-host-denmark/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLStDjDKRBb237gA2rwmEapxhGzV5RSU-mV6o4TklERtAI6BlfuFo-rgUH7A"
+      "trafico": "2000+",
+      "noticia": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "enlace": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwa8_Gfm3Thcu4GLQtmBa0PGGq5dq_3DSgOsrciD56w2zoW68uohG3SrE2cTs"
     },
     {
       "termino": "la real",
@@ -67,13 +74,6 @@
       "noticia": "Resultados de las loterías del 12/11/2026: números ganadores de Leidsa, Loteka y otras bancas",
       "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-12-11-2026-numeros-ganadores-leidsa-loteka-bancas_1108584.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGKdyoEZVWukpFyJemFIF1HZqvQtZQYUOh0o9yeKMsztPvZny873KNKxHlt0"
-    },
-    {
-      "termino": "noruega - gales",
-      "trafico": "1000+",
-      "noticia": "Haaland marcó ante Gales y se afianza como el máximo goleador histórico de la Nations League",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/haaland-marc%C3%B3-gales-afianza-m%C3%A1ximo-185300000.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxqZphjd1lrWmFTkkBxeqgAM40P6yRByMCWyEIyOQmsBmE6XNLkd1kSQpj1YM"
     }
   ]
 }
