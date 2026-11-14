@@ -1,0 +1,25 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Portal Dominicano",
+    "documentationUrl": "https://portaldominicana.net/",
+    "logoUrl": "https://portaldominicana.net/img/icon-512.png"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:portaldominicano:web:site",
+      "displayName": "Portal Dominicano — Resultados de lotería y datos de RD",
+      "type": "application/agent-card+json",
+      "url": "https://portaldominicana.net/",
+      "description": "Resultados de las 7 loterías dominicanas (Nacional, Anguila, Real, Loteka, La Primera, La Suerte, Leidsa), Anguila por hora, archivo por fecha, tabla de sueños (charada), precio del dólar, combustibles, Lidom y días feriados. Se actualiza cada 20 minutos.",
+      "tags": ["lotería", "república dominicana", "resultados", "quiniela", "dólar", "lidom", "sueños"],
+      "representativeQueries": [
+        "resultados de la lotería de hoy república dominicana",
+        "lotería nacional de hoy",
+        "precio del dólar hoy república dominicana"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-14T00:00:00Z"
+    }
+  ]
+}

@@ -102,6 +102,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
 <link rel="icon" type="image/png" href="/img/icon-192.png">
 <link rel="manifest" href="/manifest.json">
 <link rel="alternate" type="application/rss+xml" title="Resultados de lotería — Portal Dominicano" href="https://portaldominicana.net/feed.xml">
+<link rel="ai-catalog" href="/ai-catalog.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&display=swap"></noscript>
