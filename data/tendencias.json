@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T18:46:24.962329-04:00",
-  "hora": "18:46",
+  "updated": "2026-11-15T19:06:44.362536-04:00",
+  "hora": "19:06",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "classement équipe d espagne de football – équipe d angleterre de football",
+      "trafico": "200+",
+      "noticia": "Belgique 4-1 Italie, Ligue des nations A : match terminé",
+      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/belgique-italie-live/688713",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPK-Vmmixpa0Th5fY892BwhTmVA8bRDDFoSHgFm6I8f7kIT_A6cWPp90bM41M"
+    },
     {
       "termino": "lamine yamal",
       "trafico": "100+",
@@ -64,16 +71,9 @@
     {
       "termino": "croacia - chequia",
       "trafico": "200+",
-      "noticia": "Croacia 2-1 Chequia: Perišić marca temprano y Majer decide sobre el final",
-      "enlace": "https://www.sofascore.com/es/news/croacia-2-1-chequia-perisic-marca-temprano-y-majer-decide-sobre-el-final",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSijn5wF3Hk3YqCrD6h91GtZqm01uL6fdDYEnBufmqny8z7CG9Pa_yoAX5CtOs"
-    },
-    {
-      "termino": "spain vs england",
-      "trafico": "1000+",
-      "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
-      "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTim1LjMsG7YtRuQU1CW-Pxe4KFBETnzibePTyryvKsz5HzaSMJXVJeWAMPINo"
+      "noticia": "Modric lideró al equipo que no evitó la promoción",
+      "enlace": "https://fdpradio.com/modric-lidero-al-equipo-que-no-evito-la-promocion/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQupphq8SDLASijRRQAMMnrgj6EQ63V51gaYbTyGrOCcxQCybWc7Ohm-YpAoo"
     }
   ]
 }
