@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T13:59:40.258300-04:00",
-  "hora": "13:59",
+  "updated": "2026-11-15T14:20:00.123375-04:00",
+  "hora": "14:20",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,20 @@
       "noticia": "Pacers seek third straight win against East-leading 76ers",
       "enlace": "https://www.cbssports.com/nba/news/pacers-seek-third-straight-win-against-east-leading-76ers/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
+    {
+      "termino": "deportación",
+      "trafico": "100+",
+      "noticia": "Sin dinero ni comida: así regresan haitianos deportados a su país",
+      "enlace": "https://elnacional.com.do/nacionales/dinero-comida-asi-regresan-haitianos-deportados-pais_586207.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY17phK27ZLrmhh9PZwBqjNrwEfFB9_fbCp5Ro5tsdk4U-t6LcNs-obxYzUTA"
+    },
+    {
+      "termino": "viettel dominicana",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
     },
     {
       "termino": "primera",
@@ -35,14 +49,14 @@
     },
     {
       "termino": "2026",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Trump sank the GOP in 2026. He could do it again in 2028",
       "enlace": "https://www.cnn.com/2026/11/15/politics/trump-republicans-2028-presidential-election",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGxH9Cc8VJH892BPNWazv4L5dtsoj7VY_euIdfct8huDrMKR526vuipSvOLPs"
     },
     {
       "termino": "clima de hoy",
-      "trafico": "1000+",
+      "trafico": "200+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
@@ -60,20 +74,6 @@
       "noticia": "Fans cheer as popular online platform for spinoff stories nears full return after security incident",
       "enlace": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTORac7mzRIdqBsBN3obZd7vQcpyZok-CzY-F7eCNjI_NDGkJFmoq1Zutt70Kk"
-    },
-    {
-      "termino": "tigres del licey",
-      "trafico": "100+",
-      "noticia": "Licey remolca 4 carreras en la 7ma",
-      "enlace": "https://www.mlb.com/es/video/licey-remolca-4-carreras-en-la-7ma",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0vrcYrmiIq9lkBW_wdlf7zD5Qy7lE4XqaubiRM_JtRTxEngsq9gcmDkYvWPs"
-    },
-    {
-      "termino": "jensen huang",
-      "trafico": "100+",
-      "noticia": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-      "enlace": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5uXgSf4hqAI5ylOx3BG4f0oFZWxXenM6DWEJ39m7qzXYurL-Tuli21HWjEk"
     }
   ]
 }
