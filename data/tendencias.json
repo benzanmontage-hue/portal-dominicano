@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T22:23:10.333161-04:00",
-  "hora": "22:23",
+  "updated": "2026-11-14T22:44:37.372371-04:00",
+  "hora": "22:44",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "heat - pistons",
+      "trafico": "100+",
+      "noticia": "Heat test win streak against Cade Cunningham and surging Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/heat-test-win-streak-against-cade-cunningham-and-surging-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+    },
     {
       "termino": "miguel andújar",
       "trafico": "100+",
@@ -15,16 +22,16 @@
     {
       "termino": "jamaica - méxico",
       "trafico": "500+",
-      "noticia": "Mexico vs Jamaica LIVE updates: El Tri and Reggae Boyz battle in Concacaf clash",
+      "noticia": "Mexico vs Jamaica LIVE: Reggae Boyz stunning El Tri in Concacaf clash",
       "enlace": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYzKW3DhHufhDUy4Mkm0wAyV2lOwPufqDhFYqOI1MB22THzBI3te5WKJFF4NU"
     },
     {
       "termino": "cavaliers - mavericks",
       "trafico": "200+",
-      "noticia": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
-      "enlace": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14"
+      "noticia": "Cavaliers host rested Mavericks after travel scramble",
+      "enlace": "https://www.cbssports.com/nba/news/cavaliers-host-rested-mavericks-after-travel-scramble/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
     },
     {
       "termino": "weather tomorrow",
@@ -67,13 +74,6 @@
       "noticia": "De Soto a Sánchez: 10 candidatos a su primer JMV o Cy Young en el 2027",
       "enlace": "https://www.mlb.com/es/news/favoritos-para-conquistar-primer-jmv-o-cy-young-en-2027",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb_8SnUXiSKqvwwLzoFpsKPd96rdXJkxLH_fbnriplmmI4YxW9Ld7dYGIqiao"
-    },
-    {
-      "termino": "banfield - boca juniors",
-      "trafico": "200+",
-      "noticia": "Boca goleó a Banfield y jugará la final de la Copa Argentina: reviví lo mejor",
-      "enlace": "https://www.tycsports.com/copa-argentina/argentina-copa-argentina-2026-banfield-vs-boca-juniors-semifinal-1-id771386.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS74XsJn4SFVomzL571xSXISWdOSffodoRdKClMToYYQKI3Z9kveioAAtiVRDg"
     }
   ]
 }
