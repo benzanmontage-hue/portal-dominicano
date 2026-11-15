@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-15T16:02:01.192524-04:00",
-  "hora": "16:02",
+  "updated": "2026-11-15T16:22:24.790717-04:00",
+  "hora": "16:22",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bélgica - italia",
+      "trafico": "200+",
+      "noticia": "Bélgica - Italia en directo | Última hora de UEFA Nations League en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/uefa-nations-league/belgica-italia/2026/11/15/01_0195_20261115_360_119-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz44esiWK9gSzKuW4l1Mec_De9EvxjtM49dFidDawX8TRxzVTEQDkaNXv3ysQ"
+    },
+    {
+      "termino": "croacia - chequia",
+      "trafico": "100+",
+      "noticia": "Previa Croacia vs Chequia: cuotas, estado de forma y jugadores a seguir",
+      "enlace": "https://www.sofascore.com/es/news/previa-croacia-vs-chequia-cuotas-estado-de-forma-y-jugadores-a-seguir",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJtQnYVa39GzY05CIZXJb-3mrzxsM5T7CxCPfAN74MijDvpTjm6GckkkMyQmg"
+    },
     {
       "termino": "spain vs england",
       "trafico": "200+",
@@ -29,9 +43,9 @@
     {
       "termino": "españa - inglaterra",
       "trafico": "1000+",
-      "noticia": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-      "enlace": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgSQV4amtiDNpZYvTT3dy_LjGMd5dwlb-HsLHeo_v-QQrCbgTa5ztZvQ5TGP4"
+      "noticia": "Spain v England: Nations League – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY9FDONjLTvFddUc8WVmBTt8w3y2N8-QwJX3zK0bCBJwazNE7ofHMcKaZd6JU"
     },
     {
       "termino": "deportivo - barcelona",
@@ -60,20 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "primera",
-      "trafico": "200+",
-      "noticia": "Santo Domingo se deja conquistar por el ritmo de Kapo y su  Afro Rosa Tour",
-      "enlace": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/kapo-conquista-santo-domingo-afro-rosa-tour-produccion-dejo-aspectos-mejorar_586270.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOys_oWFLW2HEg30ywpJQw1Abk9YeoY1laUgYWlRD2ZZNlPThLJFPLpynfbCE"
-    },
-    {
-      "termino": "aeropuerto internacional de miami",
-      "trafico": "200+",
-      "noticia": "Dos aviones colisionan sobre la pista en el aeropuerto internacional de Miami",
-      "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/15/colision-de-aviones-en-miami-causa-heridos-leves/3720999",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjgol4NcDqlruhOahtCH4pT-JTWbf_cF431zqlK3LzS5yNVATLRXc7Veh49ZY"
     }
   ]
 }
