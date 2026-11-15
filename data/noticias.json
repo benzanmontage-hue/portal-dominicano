@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T11:14:47.986906-04:00",
-  "hora": "11:14",
+  "updated": "2026-11-15T11:35:08.449413-04:00",
+  "hora": "11:35",
   "fecha": "15/11/2026",
   "total": 15,
   "noticias": [
@@ -19,14 +19,6 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 23:53:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/75MEY36IY5EUTBXFOMDKK4QCZY.JPG?auth=a02af56c2176452ac1d55880c9a17f6cd87bd6b64d92a939695e2bd3f9fdbc09&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "Las fronteras de República Dominicana, de frente y ajenas a la crisis de Haití - EFE - Agencia de noticias",
-      "fuente": "EFE - Agencia de noticias",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVdlNzJZTXlzRnpuUUM1dzAteW8yOGltb3M2ekl0dmpveWlHSVdRMGp1U2JoeE1WZzJCUWhRZzBvQVpsNlhiN0ZGd0RtV29mbmxKSjhDOEN0VHFtVHVHMGhKc190ZXZrYkpTcy02UlpkdXVueFkxcHR5N3JpT2dITGFZaThLQzRTUm9aT3F4OEdjYnBvdWtvUGs3WXJvNDc2aHgxclc5RW9GOVlLSmc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 13:02:38 GMT",
-      "imagen": ""
     },
     {
       "titulo": "El actor mexicano Eduardo Yáñez denunció un presunto intento de extorsión en el que fue contactado desde un número telefónico con código de República Dominicana, desde donde le exigieron 10,000 dólares para no divulgar unas supuestas imágenes s - Instagram",
@@ -69,6 +61,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana. Fondos de pensiones buscan facilitar financiamiento para la compra de viviendas - Pension Policy International",
       "fuente": "Pension Policy International",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSnRFLUVocG9BMXBveVZTX1YzZTd2MklVN210U2ZVYTMzS2xVQW9NUEU3WnEwdTlYb0NGa1B2N0YtQUh5RDREUHdNUlo5YWJsWEU0aFV3dlo5QzZ5WnZUbDg2cG45d3VmVWJ6OVoyckIzZU9ONTdMOVlFSzZaTWgyeExWRHlfdHY2ZGVocktEc1NvMGN3R3lDTXF6WXpaazJSX2xSUE1UY24yWmRxRGVYZHhXT1FnUnZ6N3FIQWRHMzJHbHlvZ21aaDdGSGFGYlZiTG9OZkhnMExjQUwt?oc=5",
@@ -77,11 +77,11 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
+      "titulo": "Dólar en República Dominicana: tasas de compra y venta para este 15 de noviembre de 2026 - Hoy Digital",
+      "fuente": "Hoy Digital",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzNrT1R4dkZMcGpPRDVaVFNJRk9RZ092aDBfek56MU5Wbk5fbHZWT3BqOWZ1NFFwNmxIa1RVZ0dSQWVQYnBRSVB6N1ZPUEtEalRDNEJQLXdjTzBCbk1XRTlfbHI5TGNrak5WeXU1WUxwUnE0NlNlbkEyX3Fxc1JfTjZwSU9iMXBrR0pEV3RvZVZTenYxQ0ZodWpoQ1kzUFpUQUhzVEoyONIBrAFBVV95cUxQQlp3QmhDVFdiWUQ1YzFvdTk1OElwSlJ2U1VYdTdRMmhYZVdicTI1dllIcmJVazRXaW9PRGhSTG95ZkJWWmFCRl9yRllCR3hmbjRNQUlKNkV3U2lYbUZka1hlaFhIWWdEam9NeWtuWWdjUGhLb2ZxZDVZbUN2bnhDWTA5dEN1U01xcFlwcHlqTWVHRWt4OUVWQ1lWXzR6SlgyeHRuMjlxbDVzLWxW?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
+      "fecha": "Sun, 15 Nov 2026 13:12:44 GMT",
       "imagen": ""
     },
     {
@@ -93,11 +93,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dólar en República Dominicana: tasas de compra y venta para este 15 de noviembre de 2026 - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzNrT1R4dkZMcGpPRDVaVFNJRk9RZ092aDBfek56MU5Wbk5fbHZWT3BqOWZ1NFFwNmxIa1RVZ0dSQWVQYnBRSVB6N1ZPUEtEalRDNEJQLXdjTzBCbk1XRTlfbHI5TGNrak5WeXU1WUxwUnE0NlNlbkEyX3Fxc1JfTjZwSU9iMXBrR0pEV3RvZVZTenYxQ0ZodWpoQ1kzUFpUQUhzVEoyONIBrAFBVV95cUxQQlp3QmhDVFdiWUQ1YzFvdTk1OElwSlJ2U1VYdTdRMmhYZVdicTI1dllIcmJVazRXaW9PRGhSTG95ZkJWWmFCRl9yRllCR3hmbjRNQUlKNkV3U2lYbUZka1hlaFhIWWdEam9NeWtuWWdjUGhLb2ZxZDVZbUN2bnhDWTA5dEN1U01xcFlwcHlqTWVHRWt4OUVWQ1lWXzR6SlgyeHRuMjlxbDVzLWxW?oc=5",
+      "titulo": "Votación para ciudadanos estadounidenses desde la República Dominicana - U.S. Embassy in the Dominican Republic (.gov)",
+      "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG5OWWRSTGJGbHFLWjVnNUQtOXA4QUpJRlFteXBpbWRnOFVQZU50dEhVcGU2Yk02NnppbjNFWHFvNFQ3aTM2UDBrLVdqNll2cmhjT243bjh1N3JkYlB0eFdGZVRJd2dRdnNfNTkyWTU1OVZRWG9RV2dONHd0SlIxZ3Z4ODFyOG9GSFFVTl82T29qZDVtb3pIVGZTNWVUTmhHc2t3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 13:12:44 GMT",
+      "fecha": "Mon, 19 Oct 2026 07:00:00 GMT",
       "imagen": ""
     },
     {
