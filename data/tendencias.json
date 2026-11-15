@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T19:06:44.362536-04:00",
-  "hora": "19:06",
+  "updated": "2026-11-15T19:27:03.897312-04:00",
+  "hora": "19:27",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "raptors - knicks",
+      "trafico": "100+",
+      "noticia": "Knicks visit Raptors for reunion with RJ Barrett, Immanuel Quickley",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-visit-raptors-for-reunion-with-rj-barrett-immanuel-quickley/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
     {
       "termino": "classement équipe d espagne de football – équipe d angleterre de football",
       "trafico": "200+",
@@ -62,15 +69,8 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ1_G4-MZJutYx3vD4nxWz1sdcHK0CjcJaWVw62n6nfQnnf0eYAlMRhWMXUmg"
     },
     {
-      "termino": "bélgica - italia",
-      "trafico": "500+",
-      "noticia": "Bélgica 4-1 Italia: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLjF_njDmJgkbqmLkPwwtVqFb3-uzylhn2-QbAD9lJPgyE6RMWSdVoxE12gBA"
-    },
-    {
       "termino": "croacia - chequia",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Modric lideró al equipo que no evitó la promoción",
       "enlace": "https://fdpradio.com/modric-lidero-al-equipo-que-no-evito-la-promocion/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQupphq8SDLASijRRQAMMnrgj6EQ63V51gaYbTyGrOCcxQCybWc7Ohm-YpAoo"
