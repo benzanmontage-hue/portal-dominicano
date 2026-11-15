@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-14T20:39:29.103409-04:00",
-  "hora": "20:39",
+  "updated": "2026-11-14T20:59:51.535146-04:00",
+  "hora": "20:59",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cavaliers - mavericks",
+      "trafico": "200+",
+      "noticia": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
+      "enlace": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14"
+    },
+    {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "Cyclone Disturbances Raise Rain, Sea Warnings in Sumatra",
+      "enlace": "https://journalarta.com/en/2026/11/15/cyclone-disturbances-rain-sea-warnings-sumatra/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsJPob7ZhQRNvtbdRkvx2dkkp6yM9aK8gmexsxO71EvT19q90TiRHBkD5qfc"
+    },
     {
       "termino": "pelicans - nuggets",
       "trafico": "200+",
@@ -29,9 +43,9 @@
     {
       "termino": "liga de naciones concacaf",
       "trafico": "200+",
-      "noticia": "Selección Mexicana: ¡Poder ofensivo ante Jamaica con Mora,  Piojo , Quiñones y Gimenez",
-      "enlace": "https://www.si.com/mx/internacional/seleccion-mexicana-poder-ofensivo-ante-jamaica-con-mora-piojo-quinones-y-gimenez",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7kCK0ganQ-KBahRxZm3ks_CPugIELuw9gRD9cPb5s0jFF4nhqj744haQz7s"
+      "noticia": "EN VIVO | Jamaica vs. México - Concacaf Nations League",
+      "enlace": "https://www.tudn.com/futbol/concacaf-nations-league/jamaica-vs-mexico-en-vivo-cuartos-final-ida-concacaf-nations-league-minuto-a-minuto-partido",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbncLraRP9SS38kZiTh5bpFP5JDRohuAT-xNXQXPJcuYiA14psaLGgmzqxo5g"
     },
     {
       "termino": "banfield - boca juniors",
@@ -60,20 +74,6 @@
       "noticia": "EEUU vapulea 6-0 a Haití en cuartos de Liga de Naciones, su mayor goleada con Pochettino",
       "enlace": "https://www.diariolibre.com/deportes/futbol/2026/11/14/eeuu-vapulea-a-haiti-en-cuartos-de-liga-de-naciones/3720888",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLaofZKU53_Ahu-iASEHJ2z_8RCq7WY-oea3NQznlwqozp8hRfpJcW-0rSaM"
-    },
-    {
-      "termino": "apagón mundial 17 de noviembre",
-      "trafico": "500+",
-      "noticia": "¿Se irán la luz e Internet durante tres días? Esto se sabe del supuesto apagón mundial",
-      "enlace": "https://www.univision.com/local/san-antonio-kwex/apagon-mundial-de-72-horas-la-verdad-detras-del-rumor-que-circula-en-redes-sociales",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_ze_D6ydZHVBQidSV42r_n23NE_ZKYzChK0uiqS5fOGZD60yjFoPPdnxPT0"
-    },
-    {
-      "termino": "volodímir zelenski",
-      "trafico": "100+",
-      "noticia": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
-      "enlace": "https://acento.com.do/bbc-news-mundo/zelensky-asegura-que-ee-uu-propuso-a-ucrania-ceder-el-donbas-a-rusia-a-cambio-de-ingresar-en-la-otan-9789909.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESsLJigrlHDUUkjqqQgks63-k4jAHjtXnbuVsqc2xeg-HtbQIVCjAH4OY6UA"
     }
   ]
 }
