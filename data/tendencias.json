@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T20:59:51.535146-04:00",
-  "hora": "20:59",
+  "updated": "2026-11-14T21:20:18.436140-04:00",
+  "hora": "21:20",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "jamaica - méxico",
+      "trafico": "200+",
+      "noticia": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+      "enlace": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig"
+    },
     {
       "termino": "cavaliers - mavericks",
       "trafico": "200+",
@@ -36,16 +43,9 @@
     {
       "termino": "ufc",
       "trafico": "200+",
-      "noticia": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
-      "enlace": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY"
-    },
-    {
-      "termino": "liga de naciones concacaf",
-      "trafico": "200+",
-      "noticia": "EN VIVO | Jamaica vs. México - Concacaf Nations League",
-      "enlace": "https://www.tudn.com/futbol/concacaf-nations-league/jamaica-vs-mexico-en-vivo-cuartos-final-ida-concacaf-nations-league-minuto-a-minuto-partido",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbncLraRP9SS38kZiTh5bpFP5JDRohuAT-xNXQXPJcuYiA14psaLGgmzqxo5g"
+      "noticia": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+      "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE"
     },
     {
       "termino": "banfield - boca juniors",

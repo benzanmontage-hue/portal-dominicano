@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-14T20:59:48.170294-04:00",
+  "updated": "2026-11-14T21:20:15.347220-04:00",
   "fecha": "14/11/2026",
-  "hora": "20:59",
+  "hora": "21:20",
   "total_juegos": 53,
   "juegos": [
     {
@@ -43,11 +43,11 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "39",
-        "87",
-        "26"
+        "86",
+        "38",
+        "37"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d47c"
     },
     {
@@ -333,7 +333,8 @@
       "juego": "Anguila 9:00 PM",
       "numeros": [
         "12",
-        "24"
+        "24",
+        "15"
       ],
       "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d61d"
@@ -378,12 +379,12 @@
       "compania": "Anguila",
       "juego": "La Cuarteta 9:00 PM",
       "numeros": [
-        "95",
-        "35",
-        "74",
-        "78"
+        "85",
+        "01",
+        "98",
+        "30"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d3ea7015c3b8a3d62f"
     },
     {
@@ -537,16 +538,16 @@
       "compania": "Leidsa",
       "juego": "Loto - Super Loto Más",
       "numeros": [
+        "39",
+        "20",
+        "10",
+        "27",
         "24",
-        "07",
-        "03",
-        "34",
-        "06",
-        "19",
-        "09",
-        "09"
+        "37",
+        "11",
+        "04"
       ],
-      "fecha": "2026-11-11T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d44d"
     },
     {
@@ -616,10 +617,10 @@
       "compania": "Leidsa",
       "juego": "Super Palé",
       "numeros": [
-        "27",
-        "39"
+        "53",
+        "86"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d1ea7015c3b8a3d465"
     }
   ],
@@ -628,17 +629,9 @@
       "compania": "Nacional",
       "juego": "Lotería Nacional",
       "numeros": [
-        "39",
-        "87",
-        "26"
-      ],
-      "fecha": "2026-11-13"
-    },
-    {
-      "compania": "Nacional",
-      "juego": "Lotería Nacional",
-      "numeros": [
-        "86"
+        "86",
+        "38",
+        "37"
       ],
       "fecha": "2026-11-14"
     },
