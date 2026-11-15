@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-15T08:31:41.182002-04:00",
-  "hora": "08:31",
+  "updated": "2026-11-15T08:52:02.224767-04:00",
+  "hora": "08:52",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "clima santo domingo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
+    },
+    {
+      "termino": "tigres del licey",
+      "trafico": "100+",
+      "noticia": "Licey remolca 4 carreras en la 7ma",
+      "enlace": "https://www.mlb.com/es/video/licey-remolca-4-carreras-en-la-7ma",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0vrcYrmiIq9lkBW_wdlf7zD5Qy7lE4XqaubiRM_JtRTxEngsq9gcmDkYvWPs"
     },
     {
       "termino": "jensen huang",
@@ -67,13 +74,6 @@
       "noticia": "Proctor s career night lifts Cavs past shorthanded challenge",
       "enlace": "https://www.cleveland.com/cavs/2026/11/tyrese-proctors-confidence-didnt-happen-overnight-how-a-year-with-the-cavs-unlocked-his-best-self.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOduiPTzydm8ZK3XLDY9ty12GGbHy0mSzOozYSSZrOKNhDtmEzJsUMJe8p4Qk"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "500+",
-      "noticia": "Odisha on alert for emerging weather system; DoWR reviews flood preparedness and reservoir operations",
-      "enlace": "https://odisharay.com/?p=7134",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7kAw3dsBAFWcIDT0PmO1KBuFXIvc2jdtfpx7qaD00a7Xkvvc6LkkSGSN7R4"
     }
   ]
 }
