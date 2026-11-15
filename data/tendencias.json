@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T08:52:02.224767-04:00",
-  "hora": "08:52",
+  "updated": "2026-11-15T09:12:23.931707-04:00",
+  "hora": "09:12",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "wetter",
+      "trafico": "100+",
+      "noticia": "Warnung vor Glätte und gefrierendem Regen– dann schlägt das Wetter in NRW um",
+      "enlace": "https://www.wa.de/nordrhein-westfalen/warnung-vor-glaette-und-gefrierendem-regen-dann-schlaegt-das-wetter-in-nrw-um-zr-94590371.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzn0edMm84OJvVT1mJ5Tw3YhZ9Jo81vtDhbl7dUsKgmmwfRgB9sM6OfWHZ550"
+    },
     {
       "termino": "clima santo domingo",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
       "enlace": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOlnN83YIKXwfkr20A8ImPeCCLklENEARtv98_x0Dhdky_78v5weQ3NQmP0A"
-    },
-    {
-      "termino": "cavaliers - mavericks",
-      "trafico": "500+",
-      "noticia": "Proctor s career night lifts Cavs past shorthanded challenge",
-      "enlace": "https://www.cleveland.com/cavs/2026/11/tyrese-proctors-confidence-didnt-happen-overnight-how-a-year-with-the-cavs-unlocked-his-best-self.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOduiPTzydm8ZK3XLDY9ty12GGbHy0mSzOozYSSZrOKNhDtmEzJsUMJe8p4Qk"
     }
   ]
 }
