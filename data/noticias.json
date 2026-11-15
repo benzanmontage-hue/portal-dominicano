@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T15:00:57.631331-04:00",
-  "hora": "15:00",
+  "updated": "2026-11-15T15:21:21.651410-04:00",
+  "hora": "15:21",
   "fecha": "15/11/2026",
   "total": 15,
   "noticias": [
@@ -37,6 +37,14 @@
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/11/Frontera_Republica_Dominicana.webp?fit=900%2C600&ssl=1"
     },
     {
+      "titulo": "Soy Kleiii, un encuentro entre culturas en República Dominicana - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1VONXZDUmwzRy1pUkpER1JkY2dnRlpfS2ZselV6c3hxeHVjNnB0eHBpT1FXTVVES3VxUmk0TkNXakRzTlVTLUdaM21STDZ5eTNDWmFwWXVJUmh3U0V4M0V2eThzVjFMRU93MWtTQzBzMDBiZlJtbEVBOFdINm4zLWJGQlVJRXp5eFNNRWRSTjdPZk51T0d0LUtiTHZ0dmdHcFdBdk9LT2lMS21CdHhF0gG0AUFVX3lxTE9lanE3U3ZrYmtOdldVWk10Qnd6WWpHbDNxb29WRDY4eHdhMTFKMFJ1NmNWWUQ3ZUhKdk9UZl9BUm81bzBocmtlaDJmVmVHQWNjczJ3WFBCUzh0R25XVWhzTjZ1cTNjLXkwb0FsaUo5Y0stMnRUOGFhVDd0N2ltd3lKSkZKYlhmemVzdmdhOTNXYmw0QW5PN2pYdmtmb1VrRXhCM0FVbi1oQUdRMzFHNzdsbmZyOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 18:28:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Uruguay - República Dominicana | Pronóstico y cuotas 17.11.2026 - Diario AS",
       "fuente": "Diario AS",
       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGZKTnExSTVSVUVGUDhpcDRETnJxOENkR1ktWkpfUjdFa1U1clhKOVNyQ05pbnp3aERyNXFaQlNFcVhqMnJ6QWI2TXMwN1BKdGNiSXZkaGtodWhzYWxaZFhxQUxfcjIyQktVMzI4T29QVmR5M0k4em8xUE9FLTRNWjBMYUlpaHd1WWdrd0g5Um5WZmlO?oc=5",
@@ -61,14 +69,6 @@
       "imagen": ""
     },
     {
-      "titulo": "🇩🇴 República Dominicana fuera de la Serie Hípica del Caribe 2026 - 10 Furlongs",
-      "fuente": "10 Furlongs",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWxZUUcwVzAxcDhOanVfVE4waVZJM293VEpqQ3ZQMFhyRS1ucVZPWER4Mnlsck9fbkNNdC0waFZUNjQzbkVmQ0hEOG8zVk5fYnJUbHFxcEVnbUQtSnNZcV9BZFRQbHNvSU1SbXo0eEZsUGtldGIyb3R4SlJJZExFNDlqT1dfYzNpY2VsNm0zcXp6elNlSEFsekJrTmVrOFI3ZE1wbWljVHo3cEkzVW1KWEhDaGlmLWRkZC1PaDNJcmo?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 14 Nov 2026 20:37:50 GMT",
-      "imagen": "https://secure.gravatar.com/avatar/2299b4366cc215039ed161a5bd56196fcbe128656da1df46a7784f2ed49bfa08?s=512&d=identicon&r=g"
-    },
-    {
       "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
@@ -77,19 +77,19 @@
       "imagen": ""
     },
     {
+      "titulo": "🇩🇴 República Dominicana fuera de la Serie Hípica del Caribe 2026 - 10 Furlongs",
+      "fuente": "10 Furlongs",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWxZUUcwVzAxcDhOanVfVE4waVZJM293VEpqQ3ZQMFhyRS1ucVZPWER4Mnlsck9fbkNNdC0waFZUNjQzbkVmQ0hEOG8zVk5fYnJUbHFxcEVnbUQtSnNZcV9BZFRQbHNvSU1SbXo0eEZsUGtldGIyb3R4SlJJZExFNDlqT1dfYzNpY2VsNm0zcXp6elNlSEFsekJrTmVrOFI3ZE1wbWljVHo3cEkzVW1KWEhDaGlmLWRkZC1PaDNJcmo?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 14 Nov 2026 20:37:50 GMT",
+      "imagen": "https://secure.gravatar.com/avatar/2299b4366cc215039ed161a5bd56196fcbe128656da1df46a7784f2ed49bfa08?s=512&d=identicon&r=g"
+    },
+    {
       "titulo": "Arrestan a hombre en República Dominicana por publicar video de contenido sexual junto a una bebé - El Nuevo Día",
       "fuente": "El Nuevo Día",
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1FMUmZ4MWNfclBsYTJwM3F5ei1iX3BRd2JCZlRTM09rOUV4TUtrZ2N3eEN1U2dqalVsMHJHeC1Mb0NmR05SZ1lLTlY5Y3RGM0dJSkxFVjIwMEhSQktUU3JJY1BpWXZGckduMEt4Yk9ycjcyTHdjQXpPa1MzVWlyRU41bHBOVUlqS3BIMm9pc0d0T1p2MUdJbVMya3BDQkg0M2hyMmp2eTJ1SThYU1IzRklMRVdEa2ZZdFdOVG1MN3hXWkRUcWdhTlhZcjJVUTc4Y241NlFabGhCeWxBYVhF?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 13 Nov 2026 19:56:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 15 de noviembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzJJUUhsTkNkenA1RkdTbDZPX2FBZUZCZWR5WVFuSXVOWHAteDJwdWZKM1dDVHo1SHlnSlRHQjRTSWZsODNNZXlDMWZ5Yy10WHNmMkZzQVBya3YwQUFiT0p0bURfblpfcDZ5WjVLcEstZTFGcEcxOG1DMU5MTXFoOTdOLW54UzV2N3VMQzA5MC1rOHBwTmdtdjVTaG5ySkR2dzJMaTRqMk95OGx4RFVFZVF3ZDdBSVcxMDhPOHZwY2hyOUtMU0EzX1hYd1NlVG9lNzFrUjgwXzVHNVFaeUlkZVhON2NKR3fSAewBQVVfeXFMTkZsa0tnYVY0SDNkSzJ6alRpNi05U256RFJjZjYwd25yM1VGYWZmYkl3eXdhZGhKT01wa05YeTV6SFZyUC1DaE9jUS1nZ1Nub2x5YVBqSGNTY05DTm5oa2tESGcyWG1TZko0aEdTaDJwREI0RDBneV8yMldfRXlORi1fbi1nSk9UWnFUTXk4ZzNDSDhxWXBabFBia1lfRVM4OGhvclV5VVlnNVhWOEFhMDZsTzNFNThjb1FWTkNvU256WlpGVGFoTVBjaGREOEN2M0Fab1JXN3RvTk5ONG13bkJGYkw3Q013Tzdsd1Y?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 10:45:06 GMT",
       "imagen": ""
     },
     {
@@ -101,11 +101,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Kapo desata la euforia en el Óvalo de la Feria Ganadera - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0s5T2JCTVREcGs2bkpLSzc1dTgtRHpJNGxEaV9VazM4U3pMQjNsQjRoa1JLd2tLek9BMUZtbEcxUE94YVVuYXcwNW9YUWp4XzB2em9VRUgtZTM2ZFh4ZEhNMFIwcVNEaUxTQjdPNGhJTjBBX2lwUDZUOUI2MXp1aU5jc2w1RmVGa1hqcFV2MlRxRXFzdXBhMnRhemFSZ3NoZkF3RUFHOFlSb2o5TlMybGdiMjBaYjBNTVRMeWFOWkpiZWtjd3fSAcsBQVVfeXFMT0gtanFvTkRYVlBSZjJqTUxoZVRvaEI5emlCOWZwNmhqcnU3SVZlZnktLTB6VjhRRHE2TkhlTkpTdkt2VVFoSHVtRWxtZVVpc0JsRFduX0xKamZuRXAwZlFpdngwNUdiS3BJeFljMnhTcFBGS2p4a3B6RTJtMVFwWTJpTkJwdE41eTBLcWNSSFpMZHRMX1BqMHpxSVRKYVc0RVFRbXJmbmtSZDUxZ0V2X1llU1ZDck11X1dSOFFIeWJURGI1VDAxaDRWa1E?oc=5",
+      "titulo": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 15 de noviembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzJJUUhsTkNkenA1RkdTbDZPX2FBZUZCZWR5WVFuSXVOWHAteDJwdWZKM1dDVHo1SHlnSlRHQjRTSWZsODNNZXlDMWZ5Yy10WHNmMkZzQVBya3YwQUFiT0p0bURfblpfcDZ5WjVLcEstZTFGcEcxOG1DMU5MTXFoOTdOLW54UzV2N3VMQzA5MC1rOHBwTmdtdjVTaG5ySkR2dzJMaTRqMk95OGx4RFVFZVF3ZDdBSVcxMDhPOHZwY2hyOUtMU0EzX1hYd1NlVG9lNzFrUjgwXzVHNVFaeUlkZVhON2NKR3fSAewBQVVfeXFMTkZsa0tnYVY0SDNkSzJ6alRpNi05U256RFJjZjYwd25yM1VGYWZmYkl3eXdhZGhKT01wa05YeTV6SFZyUC1DaE9jUS1nZ1Nub2x5YVBqSGNTY05DTm5oa2tESGcyWG1TZko0aEdTaDJwREI0RDBneV8yMldfRXlORi1fbi1nSk9UWnFUTXk4ZzNDSDhxWXBabFBia1lfRVM4OGhvclV5VVlnNVhWOEFhMDZsTzNFNThjb1FWTkNvU256WlpGVGFoTVBjaGREOEN2M0Fab1JXN3RvTk5ONG13bkJGYkw3Q013Tzdsd1Y?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 12:07:00 GMT",
+      "fecha": "Sun, 15 Nov 2026 10:45:06 GMT",
       "imagen": ""
     },
     {

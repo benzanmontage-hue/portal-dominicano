@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-15T15:00:55.777724-04:00",
-  "hora": "15:00",
+  "updated": "2026-11-15T15:21:20.230697-04:00",
+  "hora": "15:21",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "francia - turquía",
+      "trafico": "200+",
+      "noticia": "Zidane afronta su primera  final :  No pienso en el fracaso",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/11/15/zidane-afronta-primera-final-pienso-fracaso.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlWJaEe08N5QIofsx7olN7ZHPU8oLcw_cnxySyiWWf5OAPRoFshHxT190wyAQ"
+    },
+    {
+      "termino": "españa - inglaterra",
+      "trafico": "500+",
+      "noticia": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+      "enlace": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgSQV4amtiDNpZYvTT3dy_LjGMd5dwlb-HsLHeo_v-QQrCbgTa5ztZvQ5TGP4"
+    },
     {
       "termino": "deportivo - barcelona",
       "trafico": "100+",
@@ -28,7 +42,7 @@
     },
     {
       "termino": "viettel dominicana",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -50,30 +64,16 @@
     {
       "termino": "irán",
       "trafico": "100+",
-      "noticia": "Dos petroleros sufren explosiones por minas en Ormuz y uno se hunde, según Irán",
-      "enlace": "https://elnuevodiario.com.do/dos-petroleros-sufren-explosiones-por-minas-en-ormuz-y-uno-se-hunde-segun-iran/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVt7I2Mu8wEdmE2Ge5oCWVWYWMI9HCmhlOjl6Rlz5CNSrZ5Ekm-oMr_vtyjz4"
+      "noticia": "Irán denuncia que EE.UU. amenaza con matar de hambre a los iraníes mediante el bloqueo",
+      "enlace": "https://elnuevodiario.com.do/iran-denuncia-que-ee-uu-amenaza-con-matar-de-hambre-a-los-iranies-mediante-el-bloqueo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSynmjI68Mp5pXcM9AgDepXiRs4r0TWjYbAfCVwNXnV5tIKopF35bvm20VoLwg"
     },
     {
       "termino": "2026",
       "trafico": "1000+",
-      "noticia": "Capitol Journal – November 13, 2026",
-      "enlace": "https://aldailynews.com/capitol-journal-november-13-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57p0lkQ-mIQpmzedFLuzRaS_Gky12EL4Kq5I8uZsfIkIzmJUSYWCXwCrmRiQ"
-    },
-    {
-      "termino": "clima de hoy",
-      "trafico": "1000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, lunes 16 de noviembre de 2026?",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-lunes-16-de-noviembre-de-2026-9790431.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "wetter",
-      "trafico": "100+",
-      "noticia": "Wetterwoche im Schnellcheck: Sturmgefahr wühlt den Herbst in der neuen Woche kräftig auf",
-      "enlace": "https://www.n-tv.de/panorama/Sturmgefahr-wuehlt-den-Herbst-in-der-neuen-Woche-kraeftig-auf-id31535881.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlFOg40OmBlH50xB3jg_ZuECuS77RK9hzZUdLJW72r8oUGTe6GFXWj3DTgbHo"
+      "noticia": "Geno Smith dials launch codes for a deep incompletion in Buffalo Bills cornerback Christian Benford’s coverage area",
+      "enlace": "https://www.nfl.com/videos/geno-smith-dials-launch-codes-for-a-deep-incompletion-in-benford-s-coverage-area",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAa4I6sWAAV9mujWf2m0auayjjQl0GmgLUdSwMXGdr3jfVufM11T1xVzXDKic"
     }
   ]
 }
