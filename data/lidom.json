@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:46:14-04:00",
+ "updated": "2026-11-15T00:06:36-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -73,51 +73,6 @@
   }
  ],
  "juegos": [
-  {
-   "id": 851476,
-   "fecha": "2026-11-04",
-   "hora": "19:15",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Gigantes del Cibao",
-   "visitante_id": 670,
-   "carreras_v": 1,
-   "local": "Leones del Escogido",
-   "local_id": 671,
-   "carreras_l": 5,
-   "estadio": "Estadio Quisqueya Juan Marichal",
-   "serie": "Regular Season"
-  },
-  {
-   "id": 851564,
-   "fecha": "2026-11-04",
-   "hora": "19:30",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Estrellas Orientales",
-   "visitante_id": 669,
-   "carreras_v": 12,
-   "local": "Aguilas Cibaenas",
-   "local_id": 667,
-   "carreras_l": 7,
-   "estadio": "Estadio Cibao",
-   "serie": "Regular Season"
-  },
-  {
-   "id": 851436,
-   "fecha": "2026-11-04",
-   "hora": "19:30",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Tigres del Licey",
-   "visitante_id": 672,
-   "carreras_v": 9,
-   "local": "Toros del Este",
-   "local_id": 668,
-   "carreras_l": 5,
-   "estadio": "Estadio Francisco Micheli",
-   "serie": "Regular Season"
-  },
   {
    "id": 851504,
    "fecha": "2026-11-06",
