@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-15T19:27:03.897312-04:00",
-  "hora": "19:27",
+  "updated": "2026-11-15T19:47:36.225795-04:00",
+  "hora": "19:47",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "celtics - mavericks",
+      "trafico": "200+",
+      "noticia": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston’s five-game winning streak",
+      "enlace": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-preview-for-november-15-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK_tJGWdA74Az_FY1JT-XYnwolM8IDcPXR4p2WQpmNVrSVvAR3WEEQik6y3ow"
+    },
+    {
       "termino": "raptors - knicks",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Knicks visit Raptors for reunion with RJ Barrett, Immanuel Quickley",
       "enlace": "https://www.cbssports.com/nba/news/knicks-visit-raptors-for-reunion-with-rj-barrett-immanuel-quickley/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
@@ -42,7 +49,7 @@
     },
     {
       "termino": "suns - lakers",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Luka Doncic, surging Lakers visit Suns without Austin Reaves",
       "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-visit-suns-without-austin-reaves/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
@@ -67,13 +74,6 @@
       "noticia": "76ers Unveil Never-Before-Used Starting Five With Joel Embiid Out",
       "enlace": "https://sports.yahoo.com/articles/76ers-unveil-never-used-starting-203821675.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ1_G4-MZJutYx3vD4nxWz1sdcHK0CjcJaWVw62n6nfQnnf0eYAlMRhWMXUmg"
-    },
-    {
-      "termino": "croacia - chequia",
-      "trafico": "500+",
-      "noticia": "Modric lideró al equipo que no evitó la promoción",
-      "enlace": "https://fdpradio.com/modric-lidero-al-equipo-que-no-evito-la-promocion/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQupphq8SDLASijRRQAMMnrgj6EQ63V51gaYbTyGrOCcxQCybWc7Ohm-YpAoo"
     }
   ]
 }
