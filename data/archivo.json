@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T17:45:11-04:00",
+ "actualizado": "2026-11-15T18:05:47-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -1877,6 +1877,14 @@
   ],
   "Anguila|Anguila 6:00 PM": [
    {
+    "fecha": "2026-11-15",
+    "numeros": [
+     "30",
+     "37",
+     "00"
+    ]
+   },
+   {
     "fecha": "2026-11-14",
     "numeros": [
      "40",
@@ -3550,6 +3558,14 @@
    }
   ],
   "Anguila|La Cuarteta 6:00 PM": [
+   {
+    "fecha": "2026-11-15",
+    "numeros": [
+     "98",
+     "54",
+     "24"
+    ]
+   },
    {
     "fecha": "2026-11-14",
     "numeros": [
