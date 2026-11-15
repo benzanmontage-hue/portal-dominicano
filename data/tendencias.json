@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T11:55:28.900128-04:00",
-  "hora": "11:55",
+  "updated": "2026-11-15T12:15:52.267999-04:00",
+  "hora": "12:15",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "aeropuerto internacional de miami",
+      "trafico": "100+",
+      "noticia": "Reportan colisión entre aviones de UPS y Copa Airlines en el Aeropuerto Internacional de Miami",
+      "enlace": "https://www.univision.com/noticias/sucesos/reportan-colision-entre-aviones-de-ups-y-copa-airlines-en-el-aeropuerto-internacional-de-miami",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtxpkNFQi4_iaXJXUUNQI1czpV8tFCqdpyINDlkKWVSU9rB2iRwdibeTlziVM"
+    },
     {
       "termino": "2026",
       "trafico": "500+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "clima de hoy",
-      "trafico": "200+",
+      "trafico": "1000+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
@@ -67,13 +74,6 @@
       "noticia": "Majo Aguilar felicita a Camila Fernández tras imponerse a Pepe Aguilar y Nodal en los Grammy",
       "enlace": "https://www.infobae.com/mexico/2026/11/15/majo-aguilar-felicita-a-camila-fernandez-tras-imponerse-a-pepe-aguilar-y-nodal-en-los-grammy/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRdX-maByZtFkRlbWOzbk-o8GVp2AjBXtxLm50BWT6QLPZ5JbFqDA4Q_KBDOU"
-    },
-    {
-      "termino": "heat - pistons",
-      "trafico": "500+",
-      "noticia": "Detroit Pistons vs. Miami Heat Live Score and Stats - November 14, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261114_DET@MIA/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPEZCD7YBmCaycrFZkRgtwGvAaYCAvqJVJWtN5LRl48uDRJpNHuVznZRsgIBc"
     }
   ]
 }
