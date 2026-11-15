@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-14T20:19:07.167575-04:00",
-  "hora": "20:19",
+  "updated": "2026-11-14T20:39:29.103409-04:00",
+  "hora": "20:39",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pelicans - nuggets",
+      "trafico": "200+",
+      "noticia": "Nuggets seek ninth straight win over reeling Pelicans",
+      "enlace": "https://www.cbssports.com/nba/news/nuggets-seek-ninth-straight-win-over-reeling-pelicans/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+    },
     {
       "termino": "justicia",
       "trafico": "200+",
@@ -13,18 +20,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-1IQLa1VCfSjvpbDLadnzqh4Vk2u5JHIHYN6M9Hds5nwxZtIEXAGpYNroKf4"
     },
     {
-      "termino": "liga de naciones concacaf",
-      "trafico": "200+",
-      "noticia": "Alineación de México y los CINCO descartados vs Jamaica",
-      "enlace": "https://www.365scores.com/es/news/seleccion-mexicana-alineacion-descartados-jamaica/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5AgT4aq7YDIQw0A82kJ6kNPP_XzFGGAxEq4LIBqqxgDAlwzc6eDQ2b13S4L4"
-    },
-    {
       "termino": "ufc",
       "trafico": "200+",
       "noticia": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
       "enlace": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY"
+    },
+    {
+      "termino": "liga de naciones concacaf",
+      "trafico": "200+",
+      "noticia": "Selección Mexicana: ¡Poder ofensivo ante Jamaica con Mora,  Piojo , Quiñones y Gimenez",
+      "enlace": "https://www.si.com/mx/internacional/seleccion-mexicana-poder-ofensivo-ante-jamaica-con-mora-piojo-quinones-y-gimenez",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7kCK0ganQ-KBahRxZm3ks_CPugIELuw9gRD9cPb5s0jFF4nhqj744haQz7s"
     },
     {
       "termino": "banfield - boca juniors",
@@ -43,16 +50,16 @@
     {
       "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
       "trafico": "500+",
-      "noticia": "Cristiano no merecía esto",
-      "enlace": "https://as.com/futbol/internacional/cristiano-no-merecia-esto-f202611-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeDXmXHY9xoBbNl5lMJ_Afmm3Zp4ab_R-9jdkTa5-Ic2Qs8WZPK20OebqOVPU"
+      "noticia": "Portugal 1-4 Dinamarca: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/internacional/portugal-dinamarca-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1I--iTs7FduASs2XksPz1j0kxOvmj8_o-b-Uj9uZc9Uk0xp1pF4R6MnOsF5o"
     },
     {
       "termino": "haití - estados unidos",
       "trafico": "5000+",
-      "noticia": "LIVE BLOG: Haití vs Estados Unidos | CONCACAF Nations League",
-      "enlace": "https://www.beinsports.com/es-us/football/articles/live-blog-hait%C3%AD-vs-estados-unidos-concacaf-nations-league-2026-11-14",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS_ku81C6ZFkShPHFIIXiikFDy8kKZrmH77Pgk3H6QnGxKH1dr_zTV-3cF9Yg"
+      "noticia": "EEUU vapulea 6-0 a Haití en cuartos de Liga de Naciones, su mayor goleada con Pochettino",
+      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/11/14/eeuu-vapulea-a-haiti-en-cuartos-de-liga-de-naciones/3720888",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLaofZKU53_Ahu-iASEHJ2z_8RCq7WY-oea3NQznlwqozp8hRfpJcW-0rSaM"
     },
     {
       "termino": "apagón mundial 17 de noviembre",
@@ -67,13 +74,6 @@
       "noticia": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
       "enlace": "https://acento.com.do/bbc-news-mundo/zelensky-asegura-que-ee-uu-propuso-a-ucrania-ceder-el-donbas-a-rusia-a-cambio-de-ingresar-en-la-otan-9789909.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESsLJigrlHDUUkjqqQgks63-k4jAHjtXnbuVsqc2xeg-HtbQIVCjAH4OY6UA"
-    },
-    {
-      "termino": "portugal – danemark",
-      "trafico": "200+",
-      "noticia": "Portugal : l’hommage XXL pour Cristiano Ronaldo",
-      "enlace": "https://www.footmercato.net/a7880225958401792750-portugal-lhommage-xxl-pour-cristiano-ronaldo",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmY-XotjLG5sznEIfCKSXMvElkIOYPA-IpI1Yj3Knn0AoqvnGW05B4uTd8b4k"
     }
   ]
 }
