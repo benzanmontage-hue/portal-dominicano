@@ -1,21 +1,35 @@
 {
-  "updated": "2026-11-15T16:42:47.002632-04:00",
-  "hora": "16:42",
+  "updated": "2026-11-15T17:03:09.148809-04:00",
+  "hora": "17:03",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "suns - lakers",
+      "trafico": "200+",
+      "noticia": "Luka Doncic, surging Lakers visit Suns without Austin Reaves",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-visit-suns-without-austin-reaves/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
+    {
+      "termino": "leidsa",
+      "trafico": "500+",
+      "noticia": "Resultados de las loterías del sábado 15/11/2026: ¿El premio es tuyo?",
+      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-sabado-15-11-2026-premio_1108736.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
+    {
       "termino": "jabari walker",
       "trafico": "100+",
-      "noticia": "Adou Thiero (ankle) available Sunday",
-      "enlace": "https://www.fantasypros.com/nba/news/620266/adou-thiero-ankle-available-sunday.php",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnTK0lds9Z-veo98mz9kC-w5itflteuEImYeVSQrlwWRPdmZ9A9M5Ha7yhwU"
+      "noticia": "De Aaron Fox (hip) listed questionable Sunday",
+      "enlace": "https://www.fantasypros.com/nba/news/620270/deaaron-fox-hip-listed-questionable-sunday.php",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ2U7FlnuBC9LEzKy_3Zos_r8OKZrVwkNY9VDgmfBFCcIuBAVSX_3gEmmtb1s"
     },
     {
       "termino": "france – turquie",
       "trafico": "100+",
-      "noticia": "DIRECT. France - Turquie, Ligue des nations A : Mi-temps",
+      "noticia": "DIRECT. France - Turquie, Ligue des nations A : Güler égalise !",
       "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-turquie-live/688714",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStt_iDAakASjyEykCGsZsF3uRm9JIw7oO_BHUsA5Qp2n_PnvF88NxjyLUT03Q"
     },
@@ -36,13 +50,13 @@
     {
       "termino": "nations league",
       "trafico": "100+",
-      "noticia": "Netherlands train ahead of huge visit to rivals Germany in Nations League",
-      "enlace": "https://www.thechronicle.com.au/sport/netherlands-train-ahead-of-huge-visit-to-rivals-germany-in-nations-league/video/ecab76e1c12bed881a271e71430772c8",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_RSIbPquBKwxLX6-QW1ktfKuQt7olFMt7OuyV74bliDHuHmnVcZQelE6_Hw"
+      "noticia": "France predicted XI v Turkiye: Kylian Mbappé to return",
+      "enlace": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-turkiye-kylian-mbappe-to-return/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSkJA40t8aqIMPU0uDcd7Wbk6A2r6uR2mmtFas_0AJ3hmwcHq6T05i9o_toSI"
     },
     {
       "termino": "spain vs england",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
       "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS82ja2qUVdDUv2b2ITTS7UKVFbYQRiaUIAGtPpnL5W4Gw4SeVwh7yJsFYNZw"
@@ -50,30 +64,16 @@
     {
       "termino": "espagne – angleterre",
       "trafico": "200+",
-      "noticia": "Ligue des nations, Journée 6, l’avant-match, l’Espagne reçoit l’Angleterre, l’Italie se déplace en Belgique",
-      "enlace": "https://fr.uefa.com/uefanationsleague/news/02ab-2213cb407716-d5be4da798f2-1000--ligue-des-nations-journee-6-l-avant-match-l-espagne-recoit/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGx43SrNhan7xdzdw_ezzwTDkEDwhjPxPZXsLEF1aduWA-RXAZSrIG1v1nmg"
+      "noticia": "DIRECT. Espagne-Angleterre: le Ballon d Or Harry Kane guide l Angleterre sur penalty",
+      "enlace": "https://rmcsport.bfmtv.com/football/ligue-des-nations/direct-espagne-angleterre-suivez-le-choc-de-la-6e-journee-de-la-ligue-des-nations_LS-202611150260.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUJ07_n1tdnWSY8SBdyU_33NwTvIfYMyhMSsVka49RqjGiEZ5Xy4iD76a1Kyw"
     },
     {
       "termino": "francia - turquía",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
       "enlace": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcE_rd_qv23rN2kwNGGZLqvMl9elV8Yhg6HNeRPKltb-lqRF8jBLbrPKyTns"
-    },
-    {
-      "termino": "españa - inglaterra",
-      "trafico": "2000+",
-      "noticia": "España - Inglaterra, en directo: última hora de la Selección en la Nations League, hoy en vivo",
-      "enlace": "https://as.com/futbol/seleccion/espana-inglaterra-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF8E5DNI7RA2jfWfMUX-SXuLAWiW3koiX8tKA5KU-rfKW4PVDwCD-dv2bHgqw"
-    },
-    {
-      "termino": "deportivo - barcelona",
-      "trafico": "100+",
-      "noticia": "Deportivo - Barcelona, en directo hoy: partido de la Liga F, en vivo",
-      "enlace": "https://www.sport.es/es/noticias/barca/futbol-femenino/deportivo-barcelona-directo-hoy-partido-136469363",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn6jxxbWunUybbYvBXjb3GBen9i4K9TLDh3U_bfo97J8Ly8-cGqWYCPkeBH7c"
     }
   ]
 }
