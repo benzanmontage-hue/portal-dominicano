@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T07:30:08.848343-04:00",
-  "hora": "07:30",
+  "updated": "2026-11-15T07:50:51.050194-04:00",
+  "hora": "07:50",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "clima santo domingo",
+      "trafico": "100+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
+    },
     {
       "termino": "weather",
       "trafico": "200+",
@@ -13,8 +20,15 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIIBoSR_fdyaBQbCxwxOHzXrsBXk-6vm1Ny5dbcrBnJmAOWNvIbGmuDXOlgJU"
     },
     {
+      "termino": "jensen huang",
+      "trafico": "100+",
+      "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+    },
+    {
       "termino": "supuesto apagon mundial",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Apagón mundial el 17 de noviembre: es un rumor, lo que sí ocurrirá es una prueba nacional de alertas",
       "enlace": "https://www.telemundoatlanta.com/2026/11/14/apagn-mundial-el-17-de-noviembre-es-un-rumor-lo-que-s-ocurrir-es-una-prueba-nacional-de-alertas/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWgjUeWhoU6AG8DotsBUexzSk8ajKIo4JxquGYIHRjLXFThhkBDoNox95g2fs"
@@ -28,7 +42,7 @@
     },
     {
       "termino": "heat - pistons",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Detroit Pistons vs. Miami Heat Live Score and Stats - November 14, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261114_DET@MIA/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPEZCD7YBmCaycrFZkRgtwGvAaYCAvqJVJWtN5LRl48uDRJpNHuVznZRsgIBc"
@@ -60,20 +74,6 @@
       "noticia": "Cavs vs. Mavs game thread",
       "enlace": "https://www.fearthesword.com/cavs-game-previews/54427/cavs-vs-mavs-game-thread",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdsKIA5tI7FqrroHpDO_i7PJeZI_mQx0Pjh7qFEMZmX6fnnerUkImyNu1MPE"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "500+",
-      "noticia": "DoWR Tightens Vigil, Reviews Reservoir Operations Ahead of Rain Threat in Odisha",
-      "enlace": "https://pragativadi.com/dowr-tightens-vigil-reviews-reservoir-operations-ahead-of-rain-threat-in-odisha/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqhi1Q-IRq_1UCMOhkOwWkMBk_-yr08NKfQdtHZJt6reftO---4cEAyUst724"
-    },
-    {
-      "termino": "pelicans - nuggets",
-      "trafico": "500+",
-      "noticia": "Denver goes 4/16 from 3 in a 116-108 win at New …",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/14/denver-goes-416-from-3-in-a-116-108-win-at-new/92791639007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-85LuF2NQShlHURxCvTmhxCS1X4_QP-XPmHgJYnV3jSQUUMwFYYNdY7Q6K2Q"
     }
   ]
 }
