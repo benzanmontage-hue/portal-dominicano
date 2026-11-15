@@ -1,23 +1,37 @@
 {
-  "updated": "2026-11-15T12:58:10.465389-04:00",
-  "hora": "12:58",
+  "updated": "2026-11-15T13:18:34.435620-04:00",
+  "hora": "13:18",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "primera",
+      "trafico": "200+",
+      "noticia": "Santo Domingo se deja conquistar por el ritmo de Kapo y su  Afro Rosa Tour",
+      "enlace": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/kapo-conquista-santo-domingo-afro-rosa-tour-produccion-dejo-aspectos-mejorar_586270.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOys_oWFLW2HEg30ywpJQw1Abk9YeoY1laUgYWlRD2ZZNlPThLJFPLpynfbCE"
+    },
+    {
       "termino": "aeropuerto internacional de miami",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Dos aviones colisionan sobre la pista en el aeropuerto internacional de Miami",
       "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/15/colision-de-aviones-en-miami-causa-heridos-leves/3720999",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjgol4NcDqlruhOahtCH4pT-JTWbf_cF431zqlK3LzS5yNVATLRXc7Veh49ZY"
     },
     {
+      "termino": "irán",
+      "trafico": "100+",
+      "noticia": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/mundo/iran-ataca-instalacion-militar-de-ee-uu-golfo-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgQ5txndldF4IjnP7V3n7TQgxadrTg6O4EiSB6DyGFlv_RGTZJLlUNQG44ncY"
+    },
+    {
       "termino": "2026",
       "trafico": "500+",
-      "noticia": "Goff locates Gibbs for 50-yard catch and run against Patriots in Munich",
-      "enlace": "https://www.nfl.com/videos/goff-locates-gibbs-for-50-yard-catch-and-run-against-patriots-in-munich",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgohQUZiLZpo4BUVu_UPWGqY24R2qb9KiI9xMq6mOYeinVWcD4py_zWN35Bso"
+      "noticia": "Trump sank the GOP in 2026. He could do it again in 2028",
+      "enlace": "https://www.cnn.com/2026/11/15/politics/trump-republicans-2028-presidential-election",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGxH9Cc8VJH892BPNWazv4L5dtsoj7VY_euIdfct8huDrMKR526vuipSvOLPs"
     },
     {
       "termino": "clima de hoy",
@@ -29,9 +43,9 @@
     {
       "termino": "wetter",
       "trafico": "100+",
-      "noticia": "Wetterwoche im Schnellcheck: Sturmgefahr wühlt den Herbst in der neuen Woche kräftig auf",
-      "enlace": "https://www.n-tv.de/panorama/Sturmgefahr-wuehlt-den-Herbst-in-der-neuen-Woche-kraeftig-auf-id31535881.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlFOg40OmBlH50xB3jg_ZuECuS77RK9hzZUdLJW72r8oUGTe6GFXWj3DTgbHo"
+      "noticia": "Wetter in Sachsen: Sturmwarnung für Dresden und Ostsachsen – Glätte zum Wochenstart möglich",
+      "enlace": "https://www.saechsische.de/sachsen/wetter-in-sachsen-sturmwarnung-fuer-dresden-und-ostsachsen-glaette-zum-wochenstart-moeglich-IEEULRYR5AFWQ5Y6BTF4WQFIUE.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRumWpjd7X4Mr27U8e-eAflUsxuuCf79HB3fmIZNssp_Pd517U4r-mtfi1I638"
     },
     {
       "termino": "ao3",
@@ -50,9 +64,9 @@
     {
       "termino": "jensen huang",
       "trafico": "100+",
-      "noticia": "‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang",
-      "enlace": "https://www.nytimes.com/2026/11/15/arts/television/saturday-night-live-john-mulaney-phoebe-bridgers.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJz9BZjP1BB0bL-ZYAkq5NY_rfV53053QDB7fy3rf2Wi4ZF7Zcr6JJse8OyOE"
+      "noticia": "‘SNL’ Weekend Update Mocks Donald Trump’s Response to Faa Ground Stop",
+      "enlace": "https://www.imdb.com/es-es/news/ni66112304/?ref_=nwc_art_perm",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzHsEu7nUKZxolGxLBoi_Q6G1W2rsO6MXY6taeDWqVHwkmjrF0VYTmUMb9ps"
     },
     {
       "termino": "supuesto apagon mundial",
@@ -60,20 +74,6 @@
       "noticia": "¿Se irán la luz e Internet durante tres días? Esto se sabe del supuesto apagón mundial",
       "enlace": "https://www.univision.com/local/san-antonio-kwex/apagon-mundial-de-72-horas-la-verdad-detras-del-rumor-que-circula-en-redes-sociales",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_ze_D6ydZHVBQidSV42r_n23NE_ZKYzChK0uiqS5fOGZD60yjFoPPdnxPT0"
-    },
-    {
-      "termino": "jeremiah fears",
-      "trafico": "100+",
-      "noticia": "Injury Notes: Missi, Murphy, Barnes, Leonard, Christie, Penda, More",
-      "enlace": "https://www.hoopsrumors.com/2026/11/injury-notes-missi-murphy-barnes-leonard-christie-penda-more.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIXqD-kOrXtNLcdo-FIE7884Adz3RQIlpqjUYkV0aVIGijEC1u7hVCuOfMGE"
-    },
-    {
-      "termino": "camila fernández",
-      "trafico": "500+",
-      "noticia": "Majo Aguilar felicita a Camila Fernández tras imponerse a Pepe Aguilar y Nodal en los Grammy",
-      "enlace": "https://www.infobae.com/mexico/2026/11/15/majo-aguilar-felicita-a-camila-fernandez-tras-imponerse-a-pepe-aguilar-y-nodal-en-los-grammy/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRdX-maByZtFkRlbWOzbk-o8GVp2AjBXtxLm50BWT6QLPZ5JbFqDA4Q_KBDOU"
     }
   ]
 }
