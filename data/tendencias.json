@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T17:43:51.024280-04:00",
-  "hora": "17:43",
+  "updated": "2026-11-15T17:44:58.838717-04:00",
+  "hora": "17:44",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "liga de naciones",
+      "trafico": "500+",
+      "noticia": "Pulisic y Balogun sobresalen en goleada de Estados Unidos sobre Haiti",
+      "enlace": "https://listindiario.com/el-deporte/20261115/pulisic-balogun-sobresalen-goleada-estados-unidos-sobre-haiti_930164.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcs3Pp8nJCZsLesCMGuHIK-5NaTX3cEiMKzPKviaC5t5UesL1OxuXeNzfcnI"
+    },
     {
       "termino": "lebron james",
       "trafico": "100+",
@@ -55,25 +62,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJtQnYVa39GzY05CIZXJb-3mrzxsM5T7CxCPfAN74MijDvpTjm6GckkkMyQmg"
     },
     {
-      "termino": "spain vs england",
-      "trafico": "500+",
+      "termino": "nations league",
+      "trafico": "200+",
       "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
       "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9uls_G4CtoC8jPk_nAQt8-jf0zfbarD_f1clRrSP9oZgfDny8JFk4QK39UHo"
     },
     {
-      "termino": "espagne – angleterre",
-      "trafico": "500+",
-      "noticia": "Espagne : le gardien du FC Andorre suspendu 12 matchs après un choc ayant entraîné la mort d’un attaquant",
-      "enlace": "https://defimedia.info/espagne-le-gardien-du-fc-andorre-suspendu-12-matchs-apres-un-choc-ayant-entraine-la-mort-dun",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpwYsq2iOeP0BokK3NBLqRpfI-8lgFJIp1hDhf7Ah4rWlZN8qWOrqG8y59P0k"
-    },
-    {
-      "termino": "francia - turquía",
-      "trafico": "1000+",
-      "noticia": "Francia - Turquía, hoy en directo: última hora de la Nations League en vivo",
-      "enlace": "https://as.com/futbol/internacional/francia-turquia-hoy-en-directo-ultima-hora-de-la-nations-league-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsAdbhoLGbbXN4hc60Nd3hPm7m3wioFwcOGhIog1Z78BXxqX1FzSiJIlTg5cg"
+      "termino": "spain vs england",
+      "trafico": "200+",
+      "noticia": "Spain’s 43-game unbeaten run on the brink as England showdown takes a dramatic twist after ‘harsh’ decision",
+      "enlace": "https://football360.com.au/england-spain-nations-league-43-game-unbeaten-streak/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFUe0sWxCrNy9vJ1BDL-cC6RA23vnZfzSulv8zGmULLu5GY2G5z5Ko_TUZu0E"
     }
   ]
 }
