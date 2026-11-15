@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-15T14:40:30.127165-04:00",
-  "hora": "14:40",
+  "updated": "2026-11-15T15:00:55.777724-04:00",
+  "hora": "15:00",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "deportivo - barcelona",
+      "trafico": "100+",
+      "noticia": "Empate en el Di Stéfano",
+      "enlace": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/empate-en-el-di-stefano-14-11-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLve4GFA2I-4l7pNfNKd2XSp-S638RN6mtiGCGqPOFHygzIaMUk4L8ssqsxxo"
+    },
+    {
       "termino": "76ers - pacers",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Pacers seek third straight win against East-leading 76ers",
       "enlace": "https://www.cbssports.com/nba/news/pacers-seek-third-straight-win-against-east-leading-76ers/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
@@ -43,16 +50,16 @@
     {
       "termino": "irán",
       "trafico": "100+",
-      "noticia": "Irán sube la apuesta con nuevos ataques con drones mientras Trump da señales de que optará por esperar",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/15/eeuu/iran-apuesta-ataques-drones-analisis-trax",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89RwrTsXYP3oEmGiMz2s30sbvtvwYQ2BbYx8jC3_sMMmHzpUfw6wQyM9W_ec"
+      "noticia": "Dos petroleros sufren explosiones por minas en Ormuz y uno se hunde, según Irán",
+      "enlace": "https://elnuevodiario.com.do/dos-petroleros-sufren-explosiones-por-minas-en-ormuz-y-uno-se-hunde-segun-iran/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVt7I2Mu8wEdmE2Ge5oCWVWYWMI9HCmhlOjl6Rlz5CNSrZ5Ekm-oMr_vtyjz4"
     },
     {
       "termino": "2026",
       "trafico": "1000+",
-      "noticia": "Planes collide at Miami runway crossing a day after national grounding",
-      "enlace": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgxwQSuAgULzpaMoj0yOYaAtLPVxbO1mE2AnopCsFzi0nyruXAWf0ETBdM_A"
+      "noticia": "Capitol Journal – November 13, 2026",
+      "enlace": "https://aldailynews.com/capitol-journal-november-13-2026/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57p0lkQ-mIQpmzedFLuzRaS_Gky12EL4Kq5I8uZsfIkIzmJUSYWCXwCrmRiQ"
     },
     {
       "termino": "clima de hoy",
@@ -67,13 +74,6 @@
       "noticia": "Wetterwoche im Schnellcheck: Sturmgefahr wühlt den Herbst in der neuen Woche kräftig auf",
       "enlace": "https://www.n-tv.de/panorama/Sturmgefahr-wuehlt-den-Herbst-in-der-neuen-Woche-kraeftig-auf-id31535881.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlFOg40OmBlH50xB3jg_ZuECuS77RK9hzZUdLJW72r8oUGTe6GFXWj3DTgbHo"
-    },
-    {
-      "termino": "ao3",
-      "trafico": "500+",
-      "noticia": "Fans cheer as popular online platform for spinoff stories nears full return after security incident",
-      "enlace": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTORac7mzRIdqBsBN3obZd7vQcpyZok-CzY-F7eCNjI_NDGkJFmoq1Zutt70Kk"
     }
   ]
 }
