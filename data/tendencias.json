@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T17:23:30.085060-04:00",
-  "hora": "17:23",
+  "updated": "2026-11-15T17:43:51.024280-04:00",
+  "hora": "17:43",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "LeBron James climbs to 3rd in NBA assists as 76ers beat Pacers",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-climbs-to-3rd-in-nba-assists-as-76ers-beat-pacers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
     {
       "termino": "suns - lakers",
       "trafico": "500+",
@@ -22,13 +29,13 @@
     {
       "termino": "france – turquie",
       "trafico": "200+",
-      "noticia": "DIRECT. France - Turquie, Ligue des nations A : La manchette d Özer !",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-turquie-live/688714",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStt_iDAakASjyEykCGsZsF3uRm9JIw7oO_BHUsA5Qp2n_PnvF88NxjyLUT03Q"
+      "noticia": "++ %$[GRATUIT-TV] Résultat France - Turquie la 26e journée de French Nations League McDonald s 2026/15/15",
+      "enlace": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=video-gratuit-tv-resultat-france-turquie-la-26e-pqro7",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxml0YBA-Kvic7ytGnA2iGC-cZmSJcheuKAd-7_6COGw04I02dY6_EfWLTTE"
     },
     {
       "termino": "jabari walker",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Jabari Walker with the slam",
       "enlace": "https://www.nba.com/watch/video/jabari-walker-with-the-slam-4",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMlBWvygqfJCC9GVYt7WBhlx3M2USlIovCWYLa2ECLvr8n_GTYjiShnTW5iT8"
@@ -38,7 +45,7 @@
       "trafico": "500+",
       "noticia": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
       "enlace": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGp5jL_NLY5XnwPkhEgkay9qn0_snN4AEAxfDGY9sFjrt4OQ9OWqP472YaWj4"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYUV5Pa44ZRCZujOGGdEclVA3S55zKzRa5Mu-3WCWokdH1TrY0bKNmGda69tY"
     },
     {
       "termino": "croacia - chequia",
@@ -48,32 +55,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJtQnYVa39GzY05CIZXJb-3mrzxsM5T7CxCPfAN74MijDvpTjm6GckkkMyQmg"
     },
     {
-      "termino": "nations league",
-      "trafico": "100+",
-      "noticia": "Licensable picture: Belgium v Italy - UEFA Nations League",
-      "enlace": "https://www.reutersconnect.com/item/belgium-v-italy-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNUMwUjZU",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQji5cgo0IJedqujHJBHjxOe30cPiZpETWMxLYZ-Uke9mqyBPKOmgSOmPI6lYA"
-    },
-    {
       "termino": "spain vs england",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
       "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS82ja2qUVdDUv2b2ITTS7UKVFbYQRiaUIAGtPpnL5W4Gw4SeVwh7yJsFYNZw"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9uls_G4CtoC8jPk_nAQt8-jf0zfbarD_f1clRrSP9oZgfDny8JFk4QK39UHo"
     },
     {
       "termino": "espagne – angleterre",
       "trafico": "500+",
-      "noticia": "Joueurs en pleurs, minute de silence... pluie d hommages pour le premier match de Tenerife après la mort de Jesus De Miguel",
-      "enlace": "https://rmcsport.bfmtv.com/football/liga/joueurs-en-pleurs-minute-de-silence-pluie-d-hommages-pour-le-premier-match-de-tenerife-apres-la-mort-de-jesus-de-miguel_AV-202611150290.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUyTbCftQF8jw4-CzMs-bSUCmtIBZZTfaidpvnzzdTR-QvOFM23B6Mzih06Tw"
+      "noticia": "Espagne : le gardien du FC Andorre suspendu 12 matchs après un choc ayant entraîné la mort d’un attaquant",
+      "enlace": "https://defimedia.info/espagne-le-gardien-du-fc-andorre-suspendu-12-matchs-apres-un-choc-ayant-entraine-la-mort-dun",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpwYsq2iOeP0BokK3NBLqRpfI-8lgFJIp1hDhf7Ah4rWlZN8qWOrqG8y59P0k"
     },
     {
       "termino": "francia - turquía",
       "trafico": "1000+",
-      "noticia": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcE_rd_qv23rN2kwNGGZLqvMl9elV8Yhg6HNeRPKltb-lqRF8jBLbrPKyTns"
+      "noticia": "Francia - Turquía, hoy en directo: última hora de la Nations League en vivo",
+      "enlace": "https://as.com/futbol/internacional/francia-turquia-hoy-en-directo-ultima-hora-de-la-nations-league-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsAdbhoLGbbXN4hc60Nd3hPm7m3wioFwcOGhIog1Z78BXxqX1FzSiJIlTg5cg"
     }
   ]
 }
