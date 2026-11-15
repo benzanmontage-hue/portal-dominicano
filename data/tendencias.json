@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T00:47:16.440342-04:00",
-  "hora": "00:47",
+  "updated": "2026-11-15T07:08:19.258846-04:00",
+  "hora": "07:08",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "supuesto apagon mundial",
+      "trafico": "500+",
+      "noticia": "Apagón mundial el 17 de noviembre: es un rumor, lo que sí ocurrirá es una prueba nacional de alertas",
+      "enlace": "https://www.telemundoatlanta.com/2026/11/14/apagn-mundial-el-17-de-noviembre-es-un-rumor-lo-que-s-ocurrir-es-una-prueba-nacional-de-alertas/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWgjUeWhoU6AG8DotsBUexzSk8ajKIo4JxquGYIHRjLXFThhkBDoNox95g2fs"
+    },
     {
       "termino": "jeremiah fears",
       "trafico": "100+",
@@ -15,44 +22,44 @@
     {
       "termino": "heat - pistons",
       "trafico": "200+",
-      "noticia": "Giannis Antetokounmpo powers Heat past Pistons for 4th straight win",
-      "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-powers-heat-past-pistons-for-4th-straight-win/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "Detroit Pistons vs. Miami Heat Live Score and Stats - November 14, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261114_DET@MIA/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPEZCD7YBmCaycrFZkRgtwGvAaYCAvqJVJWtN5LRl48uDRJpNHuVznZRsgIBc"
     },
     {
       "termino": "timberwolves - bulls",
       "trafico": "200+",
-      "noticia": "Short-handed Bulls snap Timberwolves  5-game winning streak",
-      "enlace": "https://www.cbssports.com/nba/news/short-handed-bulls-snap-timberwolves-5-game-winning-streak/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "Matas Buzelis News: Flirts with double-double in win",
+      "enlace": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-flirts-with-double-double-in-win-539196",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfEqxHsxI9lovlKSWEkwyipmPYYxnd7anFNQYioae-F4mcpVusb27Wqhi0uco"
     },
     {
       "termino": "miguel andújar",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Miguel Andújar a la agencia libre; Pache y Bruján a ligas menores",
       "enlace": "https://momentodeportivord.com/miguel-andujar-a-la-agencia-libre-pache-y-brujan-a-ligas-menores/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyW_tp75_2w_aBCVKZi8VgG0HiKFI2sNokNW7bG6AO57r8azX3RTuY2cEClSs"
     },
     {
       "termino": "jamaica - méxico",
-      "trafico": "1000+",
-      "noticia": "¿Qué necesita México para avanzar al Final Four de Concacaf Nations League?",
-      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17517928/mexico-que-necesita-avanzar-final-four-nations-league",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDagjco7jMTHYs2vMI4ii7rwcEtuaK1eDkdzAhvRv4HdC32Ou5yZYlnj5R8z4"
+      "trafico": "500+",
+      "noticia": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
+      "enlace": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOlnN83YIKXwfkr20A8ImPeCCLklENEARtv98_x0Dhdky_78v5weQ3NQmP0A"
     },
     {
       "termino": "cavaliers - mavericks",
       "trafico": "500+",
-      "noticia": "Tyrese Proctor s first triple-double leads Cavaliers past Mavericks",
-      "enlace": "https://www.cbssports.com/nba/news/tyrese-proctors-first-triple-double-leads-cavaliers-past-mavericks/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "3 Things Cavs Will Have to Fix in Order to Compete With Mavs",
+      "enlace": "https://www.si.com/nba/cavaliers/onsi/3-things-cavs-will-have-to-fix-in-order-to-compete-with-mavs-01m7d052cfjb",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO4su6gf7KrmUhOM2b7NkgYxUFlMIqem_1lH8fd5FvrUltK4Om-wGYoHObOiw"
     },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Ganjam District Administration on Alert to Tackle Possible Cyclone |",
-      "enlace": "https://odishabarta.com/ganjam-district-administration-on-alert-to-tackle-possible-cyclone/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbeE_jroS9Mfa8o5utXO8Owe1jtsnMbYdegxHALK--uj4yOE5rmH_iUFRgYNM"
+      "noticia": "Well Marked LP area becomes Depression, to furt…",
+      "enlace": "https://www.uniindia.com/south-india/well-marked-lp-area-becomes-depression-to-further-intensify-as-cyclonic-storm-akvan/245914",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvo1EYx4RfQi2-fBWcH3f9RWwiQTwy2WDFl2wAJq1W0Eax213iV04H1DvXTX4"
     },
     {
       "termino": "pelicans - nuggets",
@@ -67,13 +74,6 @@
       "noticia": "Juan Manuel Santos llama a defender la justicia, la libertad de prensa y los derechos humanos",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/12/juan-manuel-santos-llama-a-defender-la-justicia-y-libertad-de-prensa/3719362",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-1IQLa1VCfSjvpbDLadnzqh4Vk2u5JHIHYN6M9Hds5nwxZtIEXAGpYNroKf4"
-    },
-    {
-      "termino": "ufc",
-      "trafico": "1000+",
-      "noticia": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-      "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWv9wPsUrUvpcJIk9wKn29G9reOATc7zqEuCS6lIsy0-Yi90SQCHS0NPFb1y0"
     }
   ]
 }
