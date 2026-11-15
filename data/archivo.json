@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T12:37:41-04:00",
+ "actualizado": "2026-11-15T12:58:19-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -9715,6 +9715,12 @@
    }
   ],
   "Loteria Real|Tu Fecha Real": [
+   {
+    "fecha": "2026-11-15",
+    "numeros": [
+     "13"
+    ]
+   },
    {
     "fecha": "2026-11-14",
     "numeros": [
