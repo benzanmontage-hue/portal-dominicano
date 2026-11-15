@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-15T08:11:19.297835-04:00",
-  "hora": "08:11",
+  "updated": "2026-11-15T08:31:41.182002-04:00",
+  "hora": "08:31",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "clima santo domingo",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
@@ -64,16 +64,16 @@
     {
       "termino": "cavaliers - mavericks",
       "trafico": "500+",
-      "noticia": "Cavs vs. Mavs game thread",
-      "enlace": "https://www.fearthesword.com/cavs-game-previews/54427/cavs-vs-mavs-game-thread",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdsKIA5tI7FqrroHpDO_i7PJeZI_mQx0Pjh7qFEMZmX6fnnerUkImyNu1MPE"
+      "noticia": "Proctor s career night lifts Cavs past shorthanded challenge",
+      "enlace": "https://www.cleveland.com/cavs/2026/11/tyrese-proctors-confidence-didnt-happen-overnight-how-a-year-with-the-cavs-unlocked-his-best-self.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOduiPTzydm8ZK3XLDY9ty12GGbHy0mSzOozYSSZrOKNhDtmEzJsUMJe8p4Qk"
     },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "DoWR Tightens Vigil, Reviews Reservoir Operations Ahead of Rain Threat in Odisha",
-      "enlace": "https://pragativadi.com/dowr-tightens-vigil-reviews-reservoir-operations-ahead-of-rain-threat-in-odisha/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd0r3w-cSduntMLoGmFNdEMqPhaxb6PeielWUTGT8LiZvVf7ChbQHbSl0HR1w"
+      "noticia": "Odisha on alert for emerging weather system; DoWR reviews flood preparedness and reservoir operations",
+      "enlace": "https://odisharay.com/?p=7134",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7kAw3dsBAFWcIDT0PmO1KBuFXIvc2jdtfpx7qaD00a7Xkvvc6LkkSGSN7R4"
     }
   ]
 }
