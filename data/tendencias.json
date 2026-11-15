@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-15T13:39:14.562978-04:00",
-  "hora": "13:39",
+  "updated": "2026-11-15T13:59:40.258300-04:00",
+  "hora": "13:59",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "76ers - pacers",
+      "trafico": "200+",
+      "noticia": "Pacers seek third straight win against East-leading 76ers",
+      "enlace": "https://www.cbssports.com/nba/news/pacers-seek-third-straight-win-against-east-leading-76ers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
+    {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "Santo Domingo se deja conquistar por el ritmo de Kapo y su  Afro Rosa Tour",
-      "enlace": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/kapo-conquista-santo-domingo-afro-rosa-tour-produccion-dejo-aspectos-mejorar_586270.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOys_oWFLW2HEg30ywpJQw1Abk9YeoY1laUgYWlRD2ZZNlPThLJFPLpynfbCE"
+      "noticia": "Kapo conquistó a los amantes del afrobeat con su primer concierto en el Óvalo",
+      "enlace": "https://listindiario.com/entretenimiento/conciertos/20261115/kapo-conquisto-amantes-afrobeat-primer-concierto-ovalo_930144.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZdID7XaOaJpNH0XzsiQLwlzrMXw_nbqMj9YE5UXil1rWA4RY6a3Q-Y8RSEI"
     },
     {
       "termino": "aeropuerto internacional de miami",
@@ -22,16 +29,16 @@
     {
       "termino": "irán",
       "trafico": "100+",
-      "noticia": "Dos petroleros sufren explosiones por minas en Ormuz y uno se hunde, según Irán",
-      "enlace": "https://elnuevodiario.com.do/dos-petroleros-sufren-explosiones-por-minas-en-ormuz-y-uno-se-hunde-segun-iran/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVt7I2Mu8wEdmE2Ge5oCWVWYWMI9HCmhlOjl6Rlz5CNSrZ5Ekm-oMr_vtyjz4"
+      "noticia": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/13/mundo/iran-ataca-instalacion-militar-de-ee-uu-golfo-trax",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgQ5txndldF4IjnP7V3n7TQgxadrTg6O4EiSB6DyGFlv_RGTZJLlUNQG44ncY"
     },
     {
       "termino": "2026",
       "trafico": "500+",
-      "noticia": "Shelton vs. Fils live updates: ATP Finals 2026 latest including start time and predictions",
-      "enlace": "https://www.nytimes.com/athletic/live-blogs/shelton-vs-fils-live-updates-atp-finals-2026-score-result/ZvCGqwLrJE0d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSx0snu1qDGfEPzQ10tGZsVzM5Q9Q53QiFFOPV_X8iDFIADGHv0TsXwf9-TY"
+      "noticia": "Trump sank the GOP in 2026. He could do it again in 2028",
+      "enlace": "https://www.cnn.com/2026/11/15/politics/trump-republicans-2028-presidential-election",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGxH9Cc8VJH892BPNWazv4L5dtsoj7VY_euIdfct8huDrMKR526vuipSvOLPs"
     },
     {
       "termino": "clima de hoy",
@@ -64,16 +71,9 @@
     {
       "termino": "jensen huang",
       "trafico": "100+",
-      "noticia": "‘SNL’ Weekend Update Mocks Donald Trump’s Response to Faa Ground Stop",
-      "enlace": "https://www.imdb.com/pt/news/ni66112304/?ref_=nwc_art_perm",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzHsEu7nUKZxolGxLBoi_Q6G1W2rsO6MXY6taeDWqVHwkmjrF0VYTmUMb9ps"
-    },
-    {
-      "termino": "supuesto apagon mundial",
-      "trafico": "1000+",
-      "noticia": "¿Se irán la luz e Internet durante tres días? Esto se sabe del supuesto apagón mundial",
-      "enlace": "https://www.univision.com/local/san-antonio-kwex/apagon-mundial-de-72-horas-la-verdad-detras-del-rumor-que-circula-en-redes-sociales",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_ze_D6ydZHVBQidSV42r_n23NE_ZKYzChK0uiqS5fOGZD60yjFoPPdnxPT0"
+      "noticia": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "enlace": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5uXgSf4hqAI5ylOx3BG4f0oFZWxXenM6DWEJ39m7qzXYurL-Tuli21HWjEk"
     }
   ]
 }
