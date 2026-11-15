@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T16:22:26.284054-04:00",
-  "hora": "16:22",
+  "updated": "2026-11-15T16:42:48.482577-04:00",
+  "hora": "16:42",
   "fecha": "15/11/2026",
   "total": 15,
   "noticias": [
@@ -85,6 +85,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Vicepresidenta dominicana visitará El Salvador por cumbre - elsalvador.com",
+      "fuente": "elsalvador.com",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWThUMldac29zdHpRczlLaDUzeUlqNHNhWVAyOEg5U2F4Tms2TkFkNTBGU0tZZWdwYnpmM3pUSGZzQ01TWWdoOWRSSzE3a1pXeDRTUUlMYjg3SUplUUxmVTljYzlCSlZqU0ZzZWhZQ1dUdlhsS01JSHBrcHBUVld6RTBKM29QX3o5N0FYTElKTjdxUjJTY2xlTV95U2NSaVJkNERJSkZLQ2drSm9ybXpVbA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 20:33:36 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Arrestan a hombre en República Dominicana por publicar video de contenido sexual junto a una bebé - El Nuevo Día",
       "fuente": "El Nuevo Día",
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1FMUmZ4MWNfclBsYTJwM3F5ei1iX3BRd2JCZlRTM09rOUV4TUtrZ2N3eEN1U2dqalVsMHJHeC1Mb0NmR05SZ1lLTlY5Y3RGM0dJSkxFVjIwMEhSQktUU3JJY1BpWXZGckduMEt4Yk9ycjcyTHdjQXpPa1MzVWlyRU41bHBOVUlqS3BIMm9pc0d0T1p2MUdJbVMya3BDQkg0M2hyMmp2eTJ1SThYU1IzRklMRVdEa2ZZdFdOVG1MN3hXWkRUcWdhTlhZcjJVUTc4Y241NlFabGhCeWxBYVhF?oc=5",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNExUZ19Bc3MzZlBwRllQVmtnRW42U3RSYkhHcG9YSUdHSE1CMV8wcWloQ2dPa2N3NzJGY1R4dXdydmhXSC16OFJnUWJ2OXpBOHp0RFkyZGFpeVExVkE2MFlsQzA4UU0xNV9nR0dCUEhoQm1IRVVEd1d1dldtQ204dzhSREl0clFMUVktaGZELXBlaWNLQ2o5dURuWVJpelF4U05HUlF5MGRqa0JxamVWaW9qWnFWam1KeDlTNDNDZF9FRmR2OVRhcHA4Y2VfNDRfOFZXMWx5SDnSAdgBQVVfeXFMTzRMVGdfQXNzM2ZQcEZZUFZrZ0VuNlN0UmJIR3BvWElHR0hNQjFfMHFpaENnT2tjdzcyRmNUeHV3cnZoV0gtejhSZ1Fidjl6QTh6dERZMmRhaXlRMVZBNjBZbEMwOFFNMTVfZ0dHQlBIaEJtSEVVRHdXdXZXbUNtOHc4UkRJdHJRTFFZLWhmRC1wZWljS0NqOXVEbllSaXpReFNOR1JReTBkamtCcWplVmlvalpxVmptSng5UzQzQ2RfRUZkdjlUYXBwOGNlXzQ0XzhWVzFseUg5?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 15 Nov 2026 07:59:08 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Faride reconoce que avances policiales no han disipado la percepción de inseguridad - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaXlhbC1WampjN1BrNDFqUlJzd2FobS1UWGVNRWphN3U2bWF4VnA2ZjFUNldBOFJlaV9xdDFkZXQ1SUpmQ2YzWlpmQ1pzOXo2WnhTbkhPZml4d3ludWtETnd4d2oyZTNKRmtwaXl4azlQeVhQN3hBZF9XNnVoQWlJTWtrLWNSQVRxazc0UDFZbUJGNGFsaGExS1BESEdsUTIzLURHczBjUnlUWTJYWDJRaDZtWk5GeUJmN2hzWlpTaEZmVm5iNVBNaUdYUUxYeVlFY3o2MzhMNV9QZl9ZUkQwcGFXLS1IYWpmVV9nMtIB8gFBVV95cUxOZHRNbVpaTnBPNExiRXl3eXRQd3loVmdMNEpwYzBYdzBDUkZ4SGs4bi1EblVGWE1hdnZ5UW9MLThZSTZkbGhLRWx2R09EamM4cnZTRW1Pa1FUUm54MW4xOHJhb0ViY1dsZU1WQWRIUWZuSFpENzQyU2xmYWlGbGw0Tll0bUF1WW9hNTAyMkg2bUZ3dHFlaVZLZlcyLWVMd3BSdmpPRG1HZ1dPYjgxZmdMQ2hlbzRSN3c2Wl9qMFM4d3dhRWx2dGJsLW12QzZtVndpbHdVeVZ2cnlKY2k0bzJNa0o5NXJMQVBhN3lhTXJWQzQ4dw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 19:21:00 GMT",
       "imagen": ""
     }
   ]
