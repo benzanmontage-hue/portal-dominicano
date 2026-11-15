@@ -1,30 +1,23 @@
 {
-  "updated": "2026-11-15T07:50:51.050194-04:00",
-  "hora": "07:50",
+  "updated": "2026-11-15T08:11:19.297835-04:00",
+  "hora": "08:11",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "clima santo domingo",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
     },
     {
-      "termino": "weather",
-      "trafico": "200+",
-      "noticia": "More cold health alerts to take effect after temperatures drop to -6C",
-      "enlace": "https://news.sky.com/story/more-cold-health-alerts-to-take-effect-after-temperatures-drop-to-6c-13612383",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIIBoSR_fdyaBQbCxwxOHzXrsBXk-6vm1Ny5dbcrBnJmAOWNvIbGmuDXOlgJU"
-    },
-    {
       "termino": "jensen huang",
       "trafico": "100+",
-      "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
+      "noticia": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "enlace": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZSC3PE6v7ySEjqhwmjqNag9m4uYpFeykSK_lsHX4vYRQZ95-RB46AQZtlaAw"
     },
     {
       "termino": "supuesto apagon mundial",
@@ -74,6 +67,13 @@
       "noticia": "Cavs vs. Mavs game thread",
       "enlace": "https://www.fearthesword.com/cavs-game-previews/54427/cavs-vs-mavs-game-thread",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdsKIA5tI7FqrroHpDO_i7PJeZI_mQx0Pjh7qFEMZmX6fnnerUkImyNu1MPE"
+    },
+    {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "DoWR Tightens Vigil, Reviews Reservoir Operations Ahead of Rain Threat in Odisha",
+      "enlace": "https://pragativadi.com/dowr-tightens-vigil-reviews-reservoir-operations-ahead-of-rain-threat-in-odisha/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd0r3w-cSduntMLoGmFNdEMqPhaxb6PeielWUTGT8LiZvVf7ChbQHbSl0HR1w"
     }
   ]
 }
