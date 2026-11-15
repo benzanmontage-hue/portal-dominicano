@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T15:21:21.651410-04:00",
-  "hora": "15:21",
+  "updated": "2026-11-15T15:41:41.756152-04:00",
+  "hora": "15:41",
   "fecha": "15/11/2026",
   "total": 15,
   "noticias": [
@@ -37,6 +37,14 @@
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/11/Frontera_Republica_Dominicana.webp?fit=900%2C600&ssl=1"
     },
     {
+      "titulo": "República Dominicana abordará crisis de Haití en conferencia internacional en El Salvador - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWJIRlY2ZjM5bVhPOW1pRms4SjIySndPemVuMTdZRk9aX2hFcVROdDIybC0xVzk3d0NUVkJQX1VfdWFYVGJIYUJtTWM4WW56bk1ZZVoyUVZ2ZnpWMW1GeXozMU10akxZQVVNSGc1TWhQN0wxZGxnLWJOV1o4NGdOLU1qMm5Na29SX1pnYjlhd2JuaTNiNXlNTEJpTUdUdFBZV21ZZURybzZJRlJHMFBlbEt1ZVZfM01ra0Z0SnZ2LXJVRTc2SVBQWUV5MXBTNDds0gHQAUFVX3lxTE0tYkhGVjZmMzltWE85bWlGazhKMjJKd096ZW4xN1lGT1pfaEVxVE50MjJsLTFXOTd3Q1RWQlBfVV91YVhUYkhhQm1NYzhZbnpuTVllWjJRVnZmelYxbUZ5ejMxTXRqTFlBVU1IZzVNaFA3TDFkbGctYk5XWjg0Z04tTWoybk1rb1JfWmdiOWF3Ym5pM2I1eU1MQmlNR1R0UFlXbVllRHJvNklGUkcwUGVsS3VlVl8zTWtrRnRKdnYtclVFNzZJUFBZRXkxcFM0N2w?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 18:11:48 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Soy Kleiii, un encuentro entre culturas en República Dominicana - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1VONXZDUmwzRy1pUkpER1JkY2dnRlpfS2ZselV6c3hxeHVjNnB0eHBpT1FXTVVES3VxUmk0TkNXakRzTlVTLUdaM21STDZ5eTNDWmFwWXVJUmh3U0V4M0V2eThzVjFMRU93MWtTQzBzMDBiZlJtbEVBOFdINm4zLWJGQlVJRXp5eFNNRWRSTjdPZk51T0d0LUtiTHZ0dmdHcFdBdk9LT2lMS21CdHhF0gG0AUFVX3lxTE9lanE3U3ZrYmtOdldVWk10Qnd6WWpHbDNxb29WRDY4eHdhMTFKMFJ1NmNWWUQ3ZUhKdk9UZl9BUm81bzBocmtlaDJmVmVHQWNjczJ3WFBCUzh0R25XVWhzTjZ1cTNjLXkwb0FsaUo5Y0stMnRUOGFhVDd0N2ltd3lKSkZKYlhmemVzdmdhOTNXYmw0QW5PN2pYdmtmb1VrRXhCM0FVbi1oQUdRMzFHNzdsbmZyOA?oc=5",
@@ -58,14 +66,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTdNcnczaVBkM2gyZmVENGhsZUd6Q191TV9nb0dKRi1DeFNRS0ZUdW5TellrMXUzYWFsSXRVbk1kQ0lsZDIzTlFzR25TQ2NMdjRVYmtwWi1IODZKcFVCN0RLVXVkZkNoa1lMZk1QRllPWEhodncwa1AxcUh5QXhuRVlHNjNPVEJIZ0pxNzVnTTh4WVBRSlhZYnlycnVTU3RJenY1X0xxVm1zZ3ZfUFRKcjNxRQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 15 Nov 2026 13:52:27 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este domingo 15 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNExUZ19Bc3MzZlBwRllQVmtnRW42U3RSYkhHcG9YSUdHSE1CMV8wcWloQ2dPa2N3NzJGY1R4dXdydmhXSC16OFJnUWJ2OXpBOHp0RFkyZGFpeVExVkE2MFlsQzA4UU0xNV9nR0dCUEhoQm1IRVVEd1d1dldtQ204dzhSREl0clFMUVktaGZELXBlaWNLQ2o5dURuWVJpelF4U05HUlF5MGRqa0JxamVWaW9qWnFWam1KeDlTNDNDZF9FRmR2OVRhcHA4Y2VfNDRfOFZXMWx5SDnSAdgBQVVfeXFMTzRMVGdfQXNzM2ZQcEZZUFZrZ0VuNlN0UmJIR3BvWElHR0hNQjFfMHFpaENnT2tjdzcyRmNUeHV3cnZoV0gtejhSZ1Fidjl6QTh6dERZMmRhaXlRMVZBNjBZbEMwOFFNMTVfZ0dHQlBIaEJtSEVVRHdXdXZXbUNtOHc4UkRJdHJRTFFZLWhmRC1wZWljS0NqOXVEbllSaXpReFNOR1JReTBkamtCcWplVmlvalpxVmptSng5UzQzQ2RfRUZkdjlUYXBwOGNlXzQ0XzhWVzFseUg5?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 07:59:08 GMT",
       "imagen": ""
     },
     {
@@ -101,14 +101,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 15 de noviembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzJJUUhsTkNkenA1RkdTbDZPX2FBZUZCZWR5WVFuSXVOWHAteDJwdWZKM1dDVHo1SHlnSlRHQjRTSWZsODNNZXlDMWZ5Yy10WHNmMkZzQVBya3YwQUFiT0p0bURfblpfcDZ5WjVLcEstZTFGcEcxOG1DMU5MTXFoOTdOLW54UzV2N3VMQzA5MC1rOHBwTmdtdjVTaG5ySkR2dzJMaTRqMk95OGx4RFVFZVF3ZDdBSVcxMDhPOHZwY2hyOUtMU0EzX1hYd1NlVG9lNzFrUjgwXzVHNVFaeUlkZVhON2NKR3fSAewBQVVfeXFMTkZsa0tnYVY0SDNkSzJ6alRpNi05U256RFJjZjYwd25yM1VGYWZmYkl3eXdhZGhKT01wa05YeTV6SFZyUC1DaE9jUS1nZ1Nub2x5YVBqSGNTY05DTm5oa2tESGcyWG1TZko0aEdTaDJwREI0RDBneV8yMldfRXlORi1fbi1nSk9UWnFUTXk4ZzNDSDhxWXBabFBia1lfRVM4OGhvclV5VVlnNVhWOEFhMDZsTzNFNThjb1FWTkNvU256WlpGVGFoTVBjaGREOEN2M0Fab1JXN3RvTk5ONG13bkJGYkw3Q013Tzdsd1Y?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 10:45:06 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "La falla en el control aéreo de Estados Unidos afecta vuelos desde República Dominicana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2V5cUJ0Y3VyTEE1aHRRT0xEbVMzQ2w4SGpRQ1lSNHNESVZFNE5qcTFGd1NySHRpSW1USm1YbHc0ekY5TGFWdG01WVRhX19kOXUxdkwzTVc2TkgwbkVTYzNWR3ZzQ2NWMzJMdlhRMUZYQ254QW5nUUsxLWdqczhKakZUdmJmeGxMMFg2OFVmTWd3STV6VXIzcmZpb3lSNHlhV19PZEZHR0lydktkdUdtR1NOSzdVNWpRTEFrMXE1TG9NcHRhV19JYXF3OVp0bU0wdzViZzRUd3dnb0xL0gH3AUFVX3lxTE44aHVZOGctNHl5cFdGLWRqZlJRem5kdlpjQmlIem5QOWhJeGg2WWhudHluS1J4VHQxZ19aWTVXX2dfUTNmQjBXN29WdGlYVk9oV0pfZGtVemdibFp3TVBDU2FyQzBZMUVOSHl3Wk02d0I4UmkxV2xBOHpvNlhYbERUR0FZemRaUTB2dE01M29GQU9TRUhMNHR0N01UU2tRN2VqTG52ZVd2UEM5aV85NWFXSksxREljN2tpNDJYNS1KN3dPOGtqdkg1U2VrRjUtaU5keWhIb1BpVTdhX21pZURxam1PNEZMVHd0a0g5MUlKaUlSa3NzaW8?oc=5",
@@ -123,6 +115,14 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 15 Nov 2026 15:03:02 GMT",
       "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/906244558_18642749977041593_9104009917027593275_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=La_XeHfEY4gQ7kNvwEAzWCA&_nc_oc=AdqZw_FMQPwlJVuvq_I3jKS4vesc5FhfbA4G7LkImsO21YJgvluV4pUXRoQdUHVVFDk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HUnc7SX3GabDMCeuF4zA6A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQrs-R19p7HH27cigq-CcblAVPcaT0oWN6tuWMBQq9Hug&oe=6AFFBC83"
+    },
+    {
+      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este domingo 15 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNExUZ19Bc3MzZlBwRllQVmtnRW42U3RSYkhHcG9YSUdHSE1CMV8wcWloQ2dPa2N3NzJGY1R4dXdydmhXSC16OFJnUWJ2OXpBOHp0RFkyZGFpeVExVkE2MFlsQzA4UU0xNV9nR0dCUEhoQm1IRVVEd1d1dldtQ204dzhSREl0clFMUVktaGZELXBlaWNLQ2o5dURuWVJpelF4U05HUlF5MGRqa0JxamVWaW9qWnFWam1KeDlTNDNDZF9FRmR2OVRhcHA4Y2VfNDRfOFZXMWx5SDnSAdgBQVVfeXFMTzRMVGdfQXNzM2ZQcEZZUFZrZ0VuNlN0UmJIR3BvWElHR0hNQjFfMHFpaENnT2tjdzcyRmNUeHV3cnZoV0gtejhSZ1Fidjl6QTh6dERZMmRhaXlRMVZBNjBZbEMwOFFNMTVfZ0dHQlBIaEJtSEVVRHdXdXZXbUNtOHc4UkRJdHJRTFFZLWhmRC1wZWljS0NqOXVEbllSaXpReFNOR1JReTBkamtCcWplVmlvalpxVmptSng5UzQzQ2RfRUZkdjlUYXBwOGNlXzQ0XzhWVzFseUg5?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 07:59:08 GMT",
+      "imagen": ""
     }
   ]
 }
