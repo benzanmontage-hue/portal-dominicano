@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-14T23:25:41.765262-04:00",
-  "hora": "23:25",
+  "updated": "2026-11-14T23:46:10.171561-04:00",
+  "hora": "23:46",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "heat - pistons",
+      "termino": "jeremiah fears",
       "trafico": "100+",
+      "noticia": "Injury Notes: Missi, Murphy, Barnes, Leonard, Christie, Penda, More",
+      "enlace": "https://www.hoopsrumors.com/2026/11/injury-notes-missi-murphy-barnes-leonard-christie-penda-more.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIXqD-kOrXtNLcdo-FIE7884Adz3RQIlpqjUYkV0aVIGijEC1u7hVCuOfMGE"
+    },
+    {
+      "termino": "heat - pistons",
+      "trafico": "200+",
       "noticia": "Heat test win streak against Cade Cunningham and surging Pistons",
       "enlace": "https://www.cbssports.com/nba/news/heat-test-win-streak-against-cade-cunningham-and-surging-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
     },
     {
       "termino": "timberwolves - bulls",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Timberwolves aim for sixth straight win against Bulls",
       "enlace": "https://www.cbssports.com/nba/news/timberwolves-aim-for-sixth-straight-win-against-bulls/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
@@ -29,23 +36,23 @@
     {
       "termino": "jamaica - méxico",
       "trafico": "500+",
-      "noticia": "Mexico lost to Jamaica. But El Tri s late goals could prove to be winners",
-      "enlace": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1np39H6dtdreg-dgpoMU3UtR9ptDEvLcf54-pySbX5riw0LZizMZ9sUOpXMU"
+      "noticia": "EN VIVO Jamaica vs México: minuto a minuto de Nations League",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17513377/jamaica-vs-mexico-en-vivo-concacaf-nations-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxZuAfs6Ud6Zob49Y4pTZJdcrrjMVkWM_eJ7Jsd-qD41Eu-PDjIsqwcqjYTk"
     },
     {
       "termino": "cavaliers - mavericks",
       "trafico": "500+",
-      "noticia": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
-      "enlace": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14"
+      "noticia": "Tyrese Proctor s first triple-double leads Cavaliers past Mavericks",
+      "enlace": "https://www.cbssports.com/nba/news/tyrese-proctors-first-triple-double-leads-cavaliers-past-mavericks/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
     },
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Weather update: Forecast for southern cities on 15 November",
-      "enlace": "https://thesouthfirst.com/news/weather-update-forecast-for-southern-cities-on-15-november/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI9H_Dzmfb7GyUbuRClPoo_bOJvP9hg7VbvntBD3CyLdngtR3jsHzIM1RpDO0"
+      "noticia": "Cyclone Disturbances Raise Rain, Sea Warnings in Sumatra",
+      "enlace": "https://journalarta.com/en/2026/11/15/cyclone-disturbances-rain-sea-warnings-sumatra/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsJPob7ZhQRNvtbdRkvx2dkkp6yM9aK8gmexsxO71EvT19q90TiRHBkD5qfc"
     },
     {
       "termino": "pelicans - nuggets",
@@ -67,13 +74,6 @@
       "noticia": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
       "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE"
-    },
-    {
-      "termino": "liga de naciones concacaf",
-      "trafico": "200+",
-      "noticia": "Armando León y Huescas, a la tribuna en el México vs Jamaica",
-      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17516567/mexico-vs-jamaica-nations-league-rafa-marquez",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUzcfWFaEEQvjOLpfdW7mB2Ch1sWd1YJrvYIbgEalR3J4DjgDtKLKE_vX4vEc"
     }
   ]
 }
