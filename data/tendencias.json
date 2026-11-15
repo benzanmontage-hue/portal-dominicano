@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-15T14:20:00.123375-04:00",
-  "hora": "14:20",
+  "updated": "2026-11-15T14:40:30.127165-04:00",
+  "hora": "14:40",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "76ers - pacers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Pacers seek third straight win against East-leading 76ers",
       "enlace": "https://www.cbssports.com/nba/news/pacers-seek-third-straight-win-against-east-leading-76ers/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
     },
     {
       "termino": "deportación",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Sin dinero ni comida: así regresan haitianos deportados a su país",
       "enlace": "https://elnacional.com.do/nacionales/dinero-comida-asi-regresan-haitianos-deportados-pais_586207.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY17phK27ZLrmhh9PZwBqjNrwEfFB9_fbCp5Ro5tsdk4U-t6LcNs-obxYzUTA"
@@ -43,23 +43,23 @@
     {
       "termino": "irán",
       "trafico": "100+",
-      "noticia": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/13/mundo/iran-ataca-instalacion-militar-de-ee-uu-golfo-trax",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgQ5txndldF4IjnP7V3n7TQgxadrTg6O4EiSB6DyGFlv_RGTZJLlUNQG44ncY"
+      "noticia": "Irán sube la apuesta con nuevos ataques con drones mientras Trump da señales de que optará por esperar",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/15/eeuu/iran-apuesta-ataques-drones-analisis-trax",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89RwrTsXYP3oEmGiMz2s30sbvtvwYQ2BbYx8jC3_sMMmHzpUfw6wQyM9W_ec"
     },
     {
       "termino": "2026",
       "trafico": "1000+",
-      "noticia": "Trump sank the GOP in 2026. He could do it again in 2028",
-      "enlace": "https://www.cnn.com/2026/11/15/politics/trump-republicans-2028-presidential-election",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGxH9Cc8VJH892BPNWazv4L5dtsoj7VY_euIdfct8huDrMKR526vuipSvOLPs"
+      "noticia": "Planes collide at Miami runway crossing a day after national grounding",
+      "enlace": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgxwQSuAgULzpaMoj0yOYaAtLPVxbO1mE2AnopCsFzi0nyruXAWf0ETBdM_A"
     },
     {
       "termino": "clima de hoy",
-      "trafico": "200+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
+      "trafico": "1000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, lunes 16 de noviembre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-lunes-16-de-noviembre-de-2026-9790431.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
       "termino": "wetter",
