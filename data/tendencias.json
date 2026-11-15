@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-15T18:26:01.850046-04:00",
-  "hora": "18:26",
+  "updated": "2026-11-15T18:46:24.962329-04:00",
+  "hora": "18:46",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lamine yamal",
+      "trafico": "100+",
+      "noticia": "In the Catalan press: Yamal faces an unfair Madrid campaign",
+      "enlace": "https://www.goal.com/en/news/in-the-catalan-press-yamal-faces-an-unfair-madrid-campaign/blt0e5b75251de1af60",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqWOzTNRg0lN-dQkdLXIopTcU3RfIKJ_hVxg61NI6aIGzxWA5HO6LO4OwdIP0"
+    },
+    {
+      "termino": "jazz - spurs",
+      "trafico": "200+",
+      "noticia": "Spurs look to extend 11-game streak against slumping Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-look-to-extend-11-game-streak-against-slumping-jazz/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
     {
       "termino": "lebron james",
       "trafico": "100+",
@@ -42,10 +56,10 @@
     },
     {
       "termino": "bélgica - italia",
-      "trafico": "1000+",
+      "trafico": "500+",
       "noticia": "Bélgica 4-1 Italia: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyMiTPPUol62Bdel2iiN3Irr5sP_DWXBh84ibWaiezsnx70sagRFCrxEaflmY"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLjF_njDmJgkbqmLkPwwtVqFb3-uzylhn2-QbAD9lJPgyE6RMWSdVoxE12gBA"
     },
     {
       "termino": "croacia - chequia",
@@ -55,25 +69,11 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSijn5wF3Hk3YqCrD6h91GtZqm01uL6fdDYEnBufmqny8z7CG9Pa_yoAX5CtOs"
     },
     {
-      "termino": "nations league",
-      "trafico": "200+",
-      "noticia": "Licensable picture: France v Turkiye - UEFA Nations League",
-      "enlace": "https://www.reutersconnect.com/item/france-v-turkiye-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNUMwUjY2",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_yoo_rx12gJMK9w3QHY4ghw7-SC-koEentsv5ETYoLloHJg7mn2p8ijiq_2w"
-    },
-    {
       "termino": "spain vs england",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
       "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEJW1VyJCHDs85-0njTbIfcwWl0NjU05BwpPkN6TXJvi57M7vzUmh8eYrTEg"
-    },
-    {
-      "termino": "espagne – angleterre",
-      "trafico": "500+",
-      "noticia": "Espagne – Angleterre : le souvenir du récital de Lineker plane sur Madrid",
-      "enlace": "https://africafootunited.com/espagne-angleterre-le-souvenir-du-recital-de-lineker-plane-sur-madrid/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhO3ZzIMHbIJcoWWbA0dT2FzTW5w-iFbDsrSEACMg5nk_4yTiWiNOGr4k1YI4"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTim1LjMsG7YtRuQU1CW-Pxe4KFBETnzibePTyryvKsz5HzaSMJXVJeWAMPINo"
     }
   ]
 }
