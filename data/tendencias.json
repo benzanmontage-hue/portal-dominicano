@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T00:06:31.410821-04:00",
-  "hora": "00:06",
+  "updated": "2026-11-15T00:26:55.485185-04:00",
+  "hora": "00:26",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "jeremiah fears",
       "trafico": "100+",
-      "noticia": "Injury Notes: Missi, Murphy, Barnes, Leonard, Christie, Penda, More",
-      "enlace": "https://www.hoopsrumors.com/2026/11/injury-notes-missi-murphy-barnes-leonard-christie-penda-more.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIXqD-kOrXtNLcdo-FIE7884Adz3RQIlpqjUYkV0aVIGijEC1u7hVCuOfMGE"
+      "noticia": "NOR starting Fears, Herb, Bey, Zion, Missi",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/nor-starting-fears-herb-bey-zion-missi",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSISHno0gwknOujSC0yPgNSTdiXDUbF9i8Msn3elMZZlclL6fh4ZyE4IShmtqg"
     },
     {
       "termino": "heat - pistons",
@@ -36,9 +36,9 @@
     {
       "termino": "jamaica - méxico",
       "trafico": "500+",
-      "noticia": "Gilberto Mora y Julián Quiñones maquillan derrota de México ante Jamaica",
-      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17517802/jamaica-vs-mexico-gil-mora-quinones-maquillan-derrota",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNW688iWZr5kZsHjGO4L2ywc3b6rGrqEqv9ZfpGpEBVC4tChYpvV9_yoFrp2E"
+      "noticia": "Mexico lost to Jamaica. But El Tri s late goals could prove to be winners",
+      "enlace": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1np39H6dtdreg-dgpoMU3UtR9ptDEvLcf54-pySbX5riw0LZizMZ9sUOpXMU"
     },
     {
       "termino": "cavaliers - mavericks",
@@ -50,16 +50,16 @@
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Cyclone Disturbances Raise Rain, Sea Warnings in Sumatra",
-      "enlace": "https://journalarta.com/en/2026/11/15/cyclone-disturbances-rain-sea-warnings-sumatra/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsJPob7ZhQRNvtbdRkvx2dkkp6yM9aK8gmexsxO71EvT19q90TiRHBkD5qfc"
+      "noticia": "Bay of Bengal system likely to intensify into cyclone; fishermen asked to return",
+      "enlace": "https://telanganatoday.com/bay-of-bengal-system-likely-to-intensify-into-cyclone-fishermen-asked-to-return",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTshtuj3LKm1HWtzhuP0MEEO6v5pJQT306olxGBc1VIKmqjE1fkokzlRFpkhXc"
     },
     {
       "termino": "pelicans - nuggets",
       "trafico": "500+",
-      "noticia": "Nikola Jokic, Jamal Murray lead Nuggets past Pelicans 116-108",
-      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-jamal-murray-lead-nuggets-past-pelicans-116-108/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "Denver goes 4/16 from 3 in a 116-108 win at New …",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/14/denver-goes-416-from-3-in-a-116-108-win-at-new/92791639007/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-85LuF2NQShlHURxCvTmhxCS1X4_QP-XPmHgJYnV3jSQUUMwFYYNdY7Q6K2Q"
     },
     {
       "termino": "justicia",
@@ -70,10 +70,10 @@
     },
     {
       "termino": "ufc",
-      "trafico": "500+",
-      "noticia": "Stephen Thompson scores spinning-kick knockout in retirement bout at UFC 334",
-      "enlace": "https://www.espn.com/mma/story/_/id/50486254/stephen-thompson-caps-career-spinning-kick-ko-ufc-334",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBUH7wI_pGU2hyajIcS2n32dhvarvib4fMKiekvfqSeEfhzrfFjYcz0THNHU"
+      "trafico": "1000+",
+      "noticia": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
+      "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-results",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWv9wPsUrUvpcJIk9wKn29G9reOATc7zqEuCS6lIsy0-Yi90SQCHS0NPFb1y0"
     }
   ]
 }
