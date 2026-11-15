@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-15T09:32:46.613958-04:00",
-  "hora": "09:32",
+  "updated": "2026-11-15T09:53:08.609410-04:00",
+  "hora": "09:53",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "2026",
+      "trafico": "100+",
+      "noticia": "James T.  Jimmy  Vininski Obituary Nov 15, 2026",
+      "enlace": "https://www.parkerkohlfuneralhome.com/obituaries/james-vininski",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw85s0RqJoLk6IWIOO1SrSVXwOu5aIozWvmWCXrLdzJURhSJ1fHS8Ayhi4SSc"
+    },
+    {
+      "termino": "wetter",
+      "trafico": "100+",
+      "noticia": "Wetter: Regenschirm parat? Das bringt das Wetter im Norden",
+      "enlace": "https://www.zeit.de/news/2026-11/15/regenschirm-parat-das-bringt-das-wetter-im-norden",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJxLPuOqDqTwW7mvey6rqmHdQbf0cS52NpewUGzgMqPpbi1l0pHy6K9BuN_c"
+    },
     {
       "termino": "clima de hoy",
       "trafico": "200+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
-    },
-    {
-      "termino": "wetter",
-      "trafico": "100+",
-      "noticia": "Wetter in Sachsen: Sturmwarnung für Dresden und Ostsachsen – Glätte zum Wochenstart möglich",
-      "enlace": "https://www.saechsische.de/sachsen/wetter-in-sachsen-sturmwarnung-fuer-dresden-und-ostsachsen-glaette-zum-wochenstart-moeglich-IEEULRYR5AFWQ5Y6BTF4WQFIUE.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRumWpjd7X4Mr27U8e-eAflUsxuuCf79HB3fmIZNssp_Pd517U4r-mtfi1I638"
     },
     {
       "termino": "tigres del licey",
@@ -29,9 +36,9 @@
     {
       "termino": "jensen huang",
       "trafico": "100+",
-      "noticia": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "enlace": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZSC3PE6v7ySEjqhwmjqNag9m4uYpFeykSK_lsHX4vYRQZ95-RB46AQZtlaAw"
+      "noticia": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "enlace": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6xA1JLMARnz_4QZqz9XR4ArFEi54gVX8BE72Vo_olxXEIrbKSG4K9_Flemo"
     },
     {
       "termino": "supuesto apagon mundial",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "camila fernández",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Majo Aguilar felicita a Camila Fernández tras imponerse a Pepe Aguilar y Nodal en los Grammy",
       "enlace": "https://www.infobae.com/mexico/2026/11/15/majo-aguilar-felicita-a-camila-fernandez-tras-imponerse-a-pepe-aguilar-y-nodal-en-los-grammy/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRdX-maByZtFkRlbWOzbk-o8GVp2AjBXtxLm50BWT6QLPZ5JbFqDA4Q_KBDOU"
@@ -67,13 +74,6 @@
       "noticia": "Matas Buzelis News: Flirts with double-double in win",
       "enlace": "https://www.rotowire.com/basketball/headlines/matas-buzelis-news-flirts-with-double-double-in-win-539196",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfEqxHsxI9lovlKSWEkwyipmPYYxnd7anFNQYioae-F4mcpVusb27Wqhi0uco"
-    },
-    {
-      "termino": "miguel andújar",
-      "trafico": "500+",
-      "noticia": "Miguel Andújar a la agencia libre; Pache y Bruján a ligas menores",
-      "enlace": "https://momentodeportivord.com/miguel-andujar-a-la-agencia-libre-pache-y-brujan-a-ligas-menores/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyW_tp75_2w_aBCVKZi8VgG0HiKFI2sNokNW7bG6AO57r8azX3RTuY2cEClSs"
     }
   ]
 }
