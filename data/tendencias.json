@@ -1,23 +1,37 @@
 {
-  "updated": "2026-11-15T15:41:40.265502-04:00",
-  "hora": "15:41",
+  "updated": "2026-11-15T16:02:01.192524-04:00",
+  "hora": "16:02",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "francia - turquía",
+      "termino": "spain vs england",
       "trafico": "200+",
+      "noticia": "Spain vs England LIVE: Nations League score, commentary, updates   stats",
+      "enlace": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMed38VzabZGTem1okxCPWjpCipcH2iOy61l8ovG9BBYubV2w4ZemtGTmBOIk"
+    },
+    {
+      "termino": "espagne – angleterre",
+      "trafico": "200+",
+      "noticia": "Ligue des nations, Journée 6, l’avant-match, l’Espagne reçoit l’Angleterre, l’Italie se déplace en Belgique",
+      "enlace": "https://fr.uefa.com/uefanationsleague/news/02ab-2213cb407716-d5be4da798f2-1000--ligue-des-nations-journee-6-l-avant-match-l-espagne-recoit/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGx43SrNhan7xdzdw_ezzwTDkEDwhjPxPZXsLEF1aduWA-RXAZSrIG1v1nmg"
+    },
+    {
+      "termino": "francia - turquía",
+      "trafico": "500+",
       "noticia": "Zidane afronta su primera  final :  No pienso en el fracaso",
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/15/zidane-afronta-primera-final-pienso-fracaso.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlWJaEe08N5QIofsx7olN7ZHPU8oLcw_cnxySyiWWf5OAPRoFshHxT190wyAQ"
     },
     {
       "termino": "españa - inglaterra",
-      "trafico": "500+",
-      "noticia": "Spain v England: Nations League – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY9FDONjLTvFddUc8WVmBTt8w3y2N8-QwJX3zK0bCBJwazNE7ofHMcKaZd6JU"
+      "trafico": "1000+",
+      "noticia": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+      "enlace": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgSQV4amtiDNpZYvTT3dy_LjGMd5dwlb-HsLHeo_v-QQrCbgTa5ztZvQ5TGP4"
     },
     {
       "termino": "deportivo - barcelona",
@@ -35,7 +49,7 @@
     },
     {
       "termino": "deportación",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Sin dinero ni comida: así regresan haitianos deportados a su país",
       "enlace": "https://elnacional.com.do/nacionales/dinero-comida-asi-regresan-haitianos-deportados-pais_586207.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY17phK27ZLrmhh9PZwBqjNrwEfFB9_fbCp5Ro5tsdk4U-t6LcNs-obxYzUTA"
@@ -60,20 +74,6 @@
       "noticia": "Dos aviones colisionan sobre la pista en el aeropuerto internacional de Miami",
       "enlace": "https://www.diariolibre.com/usa/actualidad/2026/11/15/colision-de-aviones-en-miami-causa-heridos-leves/3720999",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjgol4NcDqlruhOahtCH4pT-JTWbf_cF431zqlK3LzS5yNVATLRXc7Veh49ZY"
-    },
-    {
-      "termino": "irán",
-      "trafico": "100+",
-      "noticia": "Dos petroleros sufren explosiones por minas en Ormuz y uno se hunde, según Irán",
-      "enlace": "https://elnuevodiario.com.do/dos-petroleros-sufren-explosiones-por-minas-en-ormuz-y-uno-se-hunde-segun-iran/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVt7I2Mu8wEdmE2Ge5oCWVWYWMI9HCmhlOjl6Rlz5CNSrZ5Ekm-oMr_vtyjz4"
-    },
-    {
-      "termino": "2026",
-      "trafico": "1000+",
-      "noticia": "Cousins  back-shoulder 24-yard toss to Felton puts Vikings in prime-scoring position",
-      "enlace": "https://www.nfl.com/videos/cousins-back-shoulder-24-yard-toss-to-felton-puts-vikings-in-prime-scoring-position",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Mcq242k3xirDx2ZZyaLlH5jrF1mgXDsaRtSUJH4-g5OuUSDerAtP9_FLYLU"
     }
   ]
 }
