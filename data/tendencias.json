@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-15T07:08:19.258846-04:00",
-  "hora": "07:08",
+  "updated": "2026-11-15T07:28:54.294875-04:00",
+  "hora": "07:28",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "weather",
+      "trafico": "200+",
+      "noticia": "More cold health alerts to take effect after temperatures drop to -6C",
+      "enlace": "https://news.sky.com/story/more-cold-health-alerts-to-take-effect-after-temperatures-drop-to-6c-13612383",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIIBoSR_fdyaBQbCxwxOHzXrsBXk-6vm1Ny5dbcrBnJmAOWNvIbGmuDXOlgJU"
+    },
     {
       "termino": "supuesto apagon mundial",
       "trafico": "500+",
@@ -57,9 +64,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "500+",
-      "noticia": "Well Marked LP area becomes Depression, to furt…",
-      "enlace": "https://www.uniindia.com/south-india/well-marked-lp-area-becomes-depression-to-further-intensify-as-cyclonic-storm-akvan/245914",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvo1EYx4RfQi2-fBWcH3f9RWwiQTwy2WDFl2wAJq1W0Eax213iV04H1DvXTX4"
+      "noticia": "DoWR Tightens Vigil, Reviews Reservoir Operations Ahead of Rain Threat in Odisha",
+      "enlace": "https://pragativadi.com/dowr-tightens-vigil-reviews-reservoir-operations-ahead-of-rain-threat-in-odisha/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqhi1Q-IRq_1UCMOhkOwWkMBk_-yr08NKfQdtHZJt6reftO---4cEAyUst724"
     },
     {
       "termino": "pelicans - nuggets",
@@ -67,13 +74,6 @@
       "noticia": "Denver goes 4/16 from 3 in a 116-108 win at New …",
       "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/14/denver-goes-416-from-3-in-a-116-108-win-at-new/92791639007/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-85LuF2NQShlHURxCvTmhxCS1X4_QP-XPmHgJYnV3jSQUUMwFYYNdY7Q6K2Q"
-    },
-    {
-      "termino": "justicia",
-      "trafico": "200+",
-      "noticia": "Juan Manuel Santos llama a defender la justicia, la libertad de prensa y los derechos humanos",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/12/juan-manuel-santos-llama-a-defender-la-justicia-y-libertad-de-prensa/3719362",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-1IQLa1VCfSjvpbDLadnzqh4Vk2u5JHIHYN6M9Hds5nwxZtIEXAGpYNroKf4"
     }
   ]
 }
