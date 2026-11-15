@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-15T09:12:23.931707-04:00",
-  "hora": "09:12",
+  "updated": "2026-11-15T09:32:46.613958-04:00",
+  "hora": "09:32",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "wetter",
-      "trafico": "100+",
-      "noticia": "Warnung vor Glätte und gefrierendem Regen– dann schlägt das Wetter in NRW um",
-      "enlace": "https://www.wa.de/nordrhein-westfalen/warnung-vor-glaette-und-gefrierendem-regen-dann-schlaegt-das-wetter-in-nrw-um-zr-94590371.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzn0edMm84OJvVT1mJ5Tw3YhZ9Jo81vtDhbl7dUsKgmmwfRgB9sM6OfWHZ550"
-    },
-    {
-      "termino": "clima santo domingo",
+      "termino": "clima de hoy",
       "trafico": "200+",
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 16",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-16-9790077.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
+    },
+    {
+      "termino": "wetter",
+      "trafico": "100+",
+      "noticia": "Wetter in Sachsen: Sturmwarnung für Dresden und Ostsachsen – Glätte zum Wochenstart möglich",
+      "enlace": "https://www.saechsische.de/sachsen/wetter-in-sachsen-sturmwarnung-fuer-dresden-und-ostsachsen-glaette-zum-wochenstart-moeglich-IEEULRYR5AFWQ5Y6BTF4WQFIUE.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRumWpjd7X4Mr27U8e-eAflUsxuuCf79HB3fmIZNssp_Pd517U4r-mtfi1I638"
     },
     {
       "termino": "tigres del licey",
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIXqD-kOrXtNLcdo-FIE7884Adz3RQIlpqjUYkV0aVIGijEC1u7hVCuOfMGE"
     },
     {
+      "termino": "camila fernández",
+      "trafico": "200+",
+      "noticia": "Majo Aguilar felicita a Camila Fernández tras imponerse a Pepe Aguilar y Nodal en los Grammy",
+      "enlace": "https://www.infobae.com/mexico/2026/11/15/majo-aguilar-felicita-a-camila-fernandez-tras-imponerse-a-pepe-aguilar-y-nodal-en-los-grammy/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRdX-maByZtFkRlbWOzbk-o8GVp2AjBXtxLm50BWT6QLPZ5JbFqDA4Q_KBDOU"
+    },
+    {
       "termino": "heat - pistons",
       "trafico": "500+",
       "noticia": "Detroit Pistons vs. Miami Heat Live Score and Stats - November 14, 2026 Gametracker",
@@ -67,13 +74,6 @@
       "noticia": "Miguel Andújar a la agencia libre; Pache y Bruján a ligas menores",
       "enlace": "https://momentodeportivord.com/miguel-andujar-a-la-agencia-libre-pache-y-brujan-a-ligas-menores/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyW_tp75_2w_aBCVKZi8VgG0HiKFI2sNokNW7bG6AO57r8azX3RTuY2cEClSs"
-    },
-    {
-      "termino": "jamaica - méxico",
-      "trafico": "500+",
-      "noticia": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
-      "enlace": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOlnN83YIKXwfkr20A8ImPeCCLklENEARtv98_x0Dhdky_78v5weQ3NQmP0A"
     }
   ]
 }
