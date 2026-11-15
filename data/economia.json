@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:02:50.376251-04:00",
+  "updated": "2026-11-14T22:23:12.632203-04:00",
   "fecha": "14/11/2026",
   "indicadores": [
     {
@@ -41,71 +41,15 @@
       "clave": "deuda_ext",
       "nombre": "Deuda externa (% del ING)",
       "unidad": "%",
-      "ultimo": {
-        "año": "2025",
-        "valor": 47.0
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 47.0
-        },
-        {
-          "año": "2024",
-          "valor": 45.3
-        },
-        {
-          "año": "2023",
-          "valor": 45.5
-        },
-        {
-          "año": "2022",
-          "valor": 44.4
-        },
-        {
-          "año": "2021",
-          "valor": 48.8
-        },
-        {
-          "año": "2020",
-          "valor": 54.5
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "pib_pc",
       "nombre": "PIB per cápita",
       "unidad": "USD",
-      "ultimo": {
-        "año": "2025",
-        "valor": 11059.0
-      },
-      "historial": [
-        {
-          "año": "2025",
-          "valor": 11059.0
-        },
-        {
-          "año": "2024",
-          "valor": 10876.0
-        },
-        {
-          "año": "2023",
-          "valor": 10630.0
-        },
-        {
-          "año": "2022",
-          "valor": 10104.0
-        },
-        {
-          "año": "2021",
-          "valor": 8527.0
-        },
-        {
-          "año": "2020",
-          "valor": 7135.0
-        }
-      ]
+      "ultimo": null,
+      "historial": []
     },
     {
       "clave": "inflacion",

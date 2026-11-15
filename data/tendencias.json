@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-14T22:02:42.953418-04:00",
-  "hora": "22:02",
+  "updated": "2026-11-14T22:23:10.333161-04:00",
+  "hora": "22:23",
   "fecha": "14/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "miguel andújar",
+      "trafico": "100+",
+      "noticia": "Miguel Andújar a la agencia libre; Pache y Bruján a ligas menores",
+      "enlace": "https://momentodeportivord.com/miguel-andujar-a-la-agencia-libre-pache-y-brujan-a-ligas-menores/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyW_tp75_2w_aBCVKZi8VgG0HiKFI2sNokNW7bG6AO57r8azX3RTuY2cEClSs"
+    },
+    {
       "termino": "jamaica - méxico",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Mexico vs Jamaica LIVE updates: El Tri and Reggae Boyz battle in Concacaf clash",
       "enlace": "https://www.usatoday.com/story/sports/soccer/2026/11/14/mexico-jamaica-score-watch-highlights-concacaf-nations-league-channel--live/92782346007/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLgvANhZE7OiO1ncM_XlnsiCxTenFRjYKLHRAun6fRmgJViZEELnQTzQlAuMc"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYzKW3DhHufhDUy4Mkm0wAyV2lOwPufqDhFYqOI1MB22THzBI3te5WKJFF4NU"
     },
     {
       "termino": "cavaliers - mavericks",
@@ -42,10 +49,24 @@
     },
     {
       "termino": "ufc",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
       "enlace": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE"
+    },
+    {
+      "termino": "liga de naciones concacaf",
+      "trafico": "200+",
+      "noticia": "EN VIVO Jamaica vs México: minuto a minuto de Nations League",
+      "enlace": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17513377/jamaica-vs-mexico-en-vivo-concacaf-nations-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxZuAfs6Ud6Zob49Y4pTZJdcrrjMVkWM_eJ7Jsd-qD41Eu-PDjIsqwcqjYTk"
+    },
+    {
+      "termino": "premio cy young",
+      "trafico": "200+",
+      "noticia": "De Soto a Sánchez: 10 candidatos a su primer JMV o Cy Young en el 2027",
+      "enlace": "https://www.mlb.com/es/news/favoritos-para-conquistar-primer-jmv-o-cy-young-en-2027",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb_8SnUXiSKqvwwLzoFpsKPd96rdXJkxLH_fbnriplmmI4YxW9Ld7dYGIqiao"
     },
     {
       "termino": "banfield - boca juniors",
@@ -53,27 +74,6 @@
       "noticia": "Boca goleó a Banfield y jugará la final de la Copa Argentina: reviví lo mejor",
       "enlace": "https://www.tycsports.com/copa-argentina/argentina-copa-argentina-2026-banfield-vs-boca-juniors-semifinal-1-id771386.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS74XsJn4SFVomzL571xSXISWdOSffodoRdKClMToYYQKI3Z9kveioAAtiVRDg"
-    },
-    {
-      "termino": "premio cy young",
-      "trafico": "100+",
-      "noticia": "De Soto a Sánchez: 10 candidatos a su primer JMV o Cy Young en el 2027",
-      "enlace": "https://www.mlb.com/es/news/favoritos-para-conquistar-primer-jmv-o-cy-young-en-2027",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb_8SnUXiSKqvwwLzoFpsKPd96rdXJkxLH_fbnriplmmI4YxW9Ld7dYGIqiao"
-    },
-    {
-      "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
-      "trafico": "500+",
-      "noticia": "Portugal 1-4 Dinamarca: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/internacional/portugal-dinamarca-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1I--iTs7FduASs2XksPz1j0kxOvmj8_o-b-Uj9uZc9Uk0xp1pF4R6MnOsF5o"
-    },
-    {
-      "termino": "haití - estados unidos",
-      "trafico": "5000+",
-      "noticia": "EEUU vapulea 6-0 a Haití en cuartos de Liga de Naciones, su mayor goleada con Pochettino",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/11/14/eeuu-vapulea-a-haiti-en-cuartos-de-liga-de-naciones/3720888",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLaofZKU53_Ahu-iASEHJ2z_8RCq7WY-oea3NQznlwqozp8hRfpJcW-0rSaM"
     }
   ]
 }
