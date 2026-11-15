@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-14T19:58:38.621605-04:00",
+  "updated": "2026-11-14T20:19:03.928418-04:00",
   "fecha": "14/11/2026",
-  "hora": "19:58",
+  "hora": "20:19",
   "total_juegos": 53,
   "juegos": [
     {
@@ -67,11 +67,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "56",
-        "92",
-        "59"
+        "15",
+        "66",
+        "46"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -90,12 +90,12 @@
       "compania": "Loteria Real",
       "juego": "Loto Pool Noche",
       "numeros": [
-        "56",
-        "00",
-        "87",
-        "24"
+        "81",
+        "50",
+        "25",
+        "47"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "69fd98465e76585b602695cc"
     },
     {
@@ -310,11 +310,11 @@
       "compania": "Anguila",
       "juego": "Anguila 8:00 PM",
       "numeros": [
-        "50",
-        "37",
-        "46"
+        "19",
+        "51",
+        "63"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6a511ab407d516b9c510788d"
     },
     {
@@ -391,22 +391,22 @@
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "51"
+        "72"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
       "compania": "Loteka",
       "juego": "Mega Chances",
       "numeros": [
-        "67",
-        "25",
+        "17",
+        "51",
+        "20",
         "53",
-        "89",
-        "78"
+        "59"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4dd"
     },
     {
@@ -440,11 +440,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "72",
-        "71",
-        "75"
+        "86",
+        "48",
+        "44"
       ],
-      "fecha": "2026-11-13T04:00:00.000Z",
+      "fecha": "2026-11-14T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
@@ -639,11 +639,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "56",
-        "92",
-        "59"
+        "15",
+        "66",
+        "46"
       ],
-      "fecha": "2026-11-13"
+      "fecha": "2026-11-14"
     },
     {
       "compania": "La Primera",
