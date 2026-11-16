@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-16T09:42:56.934977-04:00",
-  "hora": "09:42",
+  "updated": "2026-11-16T10:03:29.081535-04:00",
+  "hora": "10:03",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "barahona",
+      "termino": "telecomunicación",
       "trafico": "100+",
-      "noticia": "¿Por qué Willbes Dominicana canceló y suspendió a cientos de empleados en Barahona?",
-      "enlace": "https://www.diariolibre.com/economia/empleo/2026/11/16/por-que-willbes-dominicana-cancelo-cientos-de-personas-en-barahona/3721201",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLRhwHpHfp_KoXEKbXeeqx6hMZDJwH_UYx3_VEi0dBhaKXdzBf89jpbYzpztg"
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "barahona",
+      "trafico": "200+",
+      "noticia": "Familias damnificadas tras incendio en Barahona temen quedar en otra larga espera por viviendas",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261115/familias-damnificadas-incendio-barahona-temen-quedar-larga-espera-viviendas_930168.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDeE-g9Ni6t8b-iVyFto--uRsA4a-yoi7EJKbH2yYySbTxxifCsAaK-KZOGps"
     },
     {
       "termino": "junior lake",
@@ -22,9 +29,9 @@
     {
       "termino": "terremoto",
       "trafico": "500+",
-      "noticia": "Temblor en Afganistán hoy, 15 de noviembre: magnitud, epicentro y profundidad del sismo",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-15-noviembre-afganistan-magnitud-epicentro/19001",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9kn8Px4nHPbfDhM7imaFkgDBfCqGvKfb1o8RkWjYpoADJCwMGehCVBvsQa-0"
+      "noticia": "Terremoto en Filipinas hoy: sismo de magnitud 5.8 sacudió la isla de Siargao y se sintió en Leyte",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-filipinas-hoy-sismo-58-sacudio-isla-siargao/18990",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKLsMNNseB9S0lKmuWRNyt3E3rxO5xA2s0vu_U_hcPf-dxv1fNBbSFrTBm74E"
     },
     {
       "termino": "kings - thunder",
@@ -67,13 +74,6 @@
       "noticia": "Karl-Anthony Towns dominates the paint as Knicks win OT thriller in Toronto",
       "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/15/karl-anthony-towns-dominates-the-paint-as-knicks-win-ot-thriller-in-toronto/92803262007/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Uhg4yL7G8QPiANmprgEpwj4ZUBgSYdbHj-vuyXdPNYS5Phib82O_Sq4PFrw"
-    },
-    {
-      "termino": "seguridad vial",
-      "trafico": "100+",
-      "noticia": "Alta mortalidad vial en RD se recuerda en el Día Mundial de las Víctimas de Accidentes de Tránsito",
-      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/15/rd-entre-paises-con-mas-mortalidad-por-accidentes-de-transito/3721151",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPa4QjcZBUfEp2w_6m690MK79EnEJJBHjR2VscF1zht8Hc4WwqMjKl1mCJT_o"
     }
   ]
 }
