@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T08:19:17.251676-04:00",
-  "hora": "08:19",
+  "updated": "2026-11-16T08:39:56.042140-04:00",
+  "hora": "08:39",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "junior lake",
+      "trafico": "100+",
+      "noticia": "EN VIVO: Leones del Escogido vs. Tigers del Licey",
+      "enlace": "https://www.mlb.com/es/video/lidom-live-escogido-vs-licey-251428",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiVPkkPC_33czAAJs4qDJ1LpfW-prQcK11w0Tuza3ZZS2Z7P0-1VF5xA_i9xg"
+    },
     {
       "termino": "terremoto",
       "trafico": "500+",
@@ -43,9 +50,9 @@
     {
       "termino": "celtics - mavericks",
       "trafico": "500+",
-      "noticia": "Celtics come within three points of legendary Lakers NBA record",
-      "enlace": "https://basketnews.com/news-259559-boston-celtics-make-nba-history-come-close-to-lakers-all-time-record.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7krjzrRyeCw0ss-RTR4ZF_UsvirZiDgrFAvJms4hVfOhaP6UNkXHu-vzW8HQ"
+      "noticia": "Cooper Flagg got a rousing ovation. Then he got a lesson from the Celtics in how to win.",
+      "enlace": "https://www.bostonglobe.com/2026/11/16/sports/nba-celtics-mavericks-cooper-flagg/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNStEzLplVOIsT2XOcwEw7EELbFZU2OUHS7XuyqgD_JT7GI9i75blq9FlfDV0"
     },
     {
       "termino": "raptors - knicks",
@@ -60,13 +67,6 @@
       "noticia": "Intrant inicia Semana de la Seguridad Vial con misa por víctimas de siniestros de tránsito",
       "enlace": "https://elnuevodiario.com.do/intrant-inicia-semana-de-la-seguridad-vial-con-misa-por-victimas-de-siniestros-de-transito/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVDusrqbu-JkL-zWiEYAIDEehj0MD84yoUFbciMxO-wGZ3JHVMG9Ra9GAUVp8"
-    },
-    {
-      "termino": "lamine yamal",
-      "trafico": "200+",
-      "noticia": "In the Catalan press: Yamal faces an unfair Madrid campaign",
-      "enlace": "https://www.goal.com/en/news/in-the-catalan-press-yamal-faces-an-unfair-madrid-campaign/blt0e5b75251de1af60",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqWOzTNRg0lN-dQkdLXIopTcU3RfIKJ_hVxg61NI6aIGzxWA5HO6LO4OwdIP0"
     },
     {
       "termino": "jazz - spurs",
