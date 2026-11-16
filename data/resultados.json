@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-16T11:45:53.299612-04:00",
+  "updated": "2026-11-16T12:06:26.283827-04:00",
   "fecha": "16/11/2026",
-  "hora": "11:45",
+  "hora": "12:06",
   "total_juegos": 53,
   "juegos": [
     {
@@ -462,9 +462,9 @@
       "compania": "La Primera",
       "juego": "El Quinielón Día",
       "numeros": [
-        "87"
+        "71"
       ],
-      "fecha": "2026-11-15T04:00:00.000Z",
+      "fecha": "2026-11-16T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5d2"
     },
     {
@@ -480,11 +480,11 @@
       "compania": "La Primera",
       "juego": "La Primera Día",
       "numeros": [
-        "45",
-        "18",
-        "97"
+        "79",
+        "56",
+        "31"
       ],
-      "fecha": "2026-11-15T04:00:00.000Z",
+      "fecha": "2026-11-16T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c0"
     },
     {
