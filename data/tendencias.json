@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T08:39:56.042140-04:00",
-  "hora": "08:39",
+  "updated": "2026-11-16T09:00:25.208646-04:00",
+  "hora": "09:00",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "barahona",
+      "trafico": "100+",
+      "noticia": "¿Por qué Willbes Dominicana canceló y suspendió a cientos de empleados en Barahona?",
+      "enlace": "https://www.diariolibre.com/economia/empleo/2026/11/16/por-que-willbes-dominicana-cancelo-cientos-de-personas-en-barahona/3721201",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLRhwHpHfp_KoXEKbXeeqx6hMZDJwH_UYx3_VEi0dBhaKXdzBf89jpbYzpztg"
+    },
     {
       "termino": "junior lake",
       "trafico": "100+",
@@ -64,16 +71,9 @@
     {
       "termino": "seguridad vial",
       "trafico": "100+",
-      "noticia": "Intrant inicia Semana de la Seguridad Vial con misa por víctimas de siniestros de tránsito",
-      "enlace": "https://elnuevodiario.com.do/intrant-inicia-semana-de-la-seguridad-vial-con-misa-por-victimas-de-siniestros-de-transito/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVDusrqbu-JkL-zWiEYAIDEehj0MD84yoUFbciMxO-wGZ3JHVMG9Ra9GAUVp8"
-    },
-    {
-      "termino": "jazz - spurs",
-      "trafico": "500+",
-      "noticia": "Dylan Harper on 31-point night: “First of many”",
-      "enlace": "https://www.talkbasket.net/228434-dylan-harper-on-31-point-night-first-of-many",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW2w0MB1AswEFGlGHqmI0bjYCuSksW8g-KrWrWS2_aH89R5x9OY6RLSPeOoZE"
+      "noticia": "Alta mortalidad vial en RD se recuerda en el Día Mundial de las Víctimas de Accidentes de Tránsito",
+      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/15/rd-entre-paises-con-mas-mortalidad-por-accidentes-de-transito/3721151",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPa4QjcZBUfEp2w_6m690MK79EnEJJBHjR2VscF1zht8Hc4WwqMjKl1mCJT_o"
     }
   ]
 }
