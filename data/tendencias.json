@@ -1,23 +1,37 @@
 {
-  "updated": "2026-11-16T19:37:45.945264-04:00",
-  "hora": "19:37",
+  "updated": "2026-11-16T19:58:11.931489-04:00",
+  "hora": "19:58",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "el salvador",
+      "trafico": "100+",
+      "noticia": "Haitianos respaldan militares salvadoreños y exigen perseguir a financiadores de bandas",
+      "enlace": "https://elnuevodiario.com.do/haitianos-respaldan-militares-salvadorenos-y-exigen-perseguir-a-financiadores-de-bandas/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVdDXTXd04HgJfbPsHGa4wj58B1nS1JOVkOppIIYPSw7mAXBBOaYE2O_2n_5Q"
+    },
+    {
+      "termino": "secretario de seguridad nacional de los estados unidos",
+      "trafico": "100+",
+      "noticia": "Vuelos cancelados: colombiano hizo una escala de una hora en RD que se convirtió en cuatro días",
+      "enlace": "https://www.diariolibre.com/economia/turismo/2026/11/16/vuelos-cancelados-generan-gastos-adicionales-a-pasajeros-varados/3722199",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvj32PxLs38Qvo8bBwI6TyHpyR7Dps7Zro9INQ7q2z6QaaxUrAAozre7TY0DQ"
+    },
+    {
       "termino": "united airlines",
       "trafico": "100+",
-      "noticia": "United Airlines experiencing a widespread system outage, airline says",
-      "enlace": "https://edition.cnn.com/2026/11/16/us/united-airlines-outage",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGMi5Z7GZKKaBkO_WTmRpNz2ESO0pB3nVwv6pJtCYQMNx0bk1ltZ7qH5S4Qk"
+      "noticia": "Tech chaos hits US again as outages strike major airline, big banks",
+      "enlace": "https://www.nine.com.au/world-news/usa/united-airlines-widespread-outage-bank-systems-glitching-more-us-tech-chaos-20261117-p61era.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRkR7nqEqs6FzEp6ySHx-tb4WakbFNC0Cwto4_J4NC2bh-zZL4fSSeY-wcq4"
     },
     {
       "termino": "allemagne – pays-bas",
       "trafico": "100+",
-      "noticia": "Allemagne 5-0 Pays-Bas : Gruda et Wirtz illuminent Berlin",
-      "enlace": "https://www.sofascore.com/fr/news/allemagne-5-0-pays-bas-gruda-et-wirtz-illuminent-berlin",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0ZDlZ0ePI-vA0ZvVWeSJ0ei-538BMQbPfw5QQVJvmhAUXYLlwFa9JzAstHk"
+      "noticia": "Ligue des nations, Journée 6, l’Allemagne et les Pays-Bas en quarts de finale",
+      "enlace": "https://fr.uefa.com/uefanationsleague/news/02ab-221470e743e4-bae595b9b9ab-1000--ligue-des-nations-journee-6-l-allemagne-et-les-pays-bas-en-q/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_6wwoQVN86gzbtSrts2QVfEsXT_thxMxGXwxn7F8PnNi5AatzuL5DcITrGQ"
     },
     {
       "termino": "frontera entre haití y la república dominicana",
@@ -42,7 +56,7 @@
     },
     {
       "termino": "robert pattinson",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
       "enlace": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSOABnPz_Zco-Aaboy_1mcnDHoXR293SEUoBiiQ5FpBL_qeS8GKtBOGjYZ5yY"
@@ -60,20 +74,6 @@
       "noticia": "Familias damnificadas tras incendio en Barahona temen quedar en otra larga espera por viviendas",
       "enlace": "https://listindiario.com/la-republica/provincias/20261115/familias-damnificadas-incendio-barahona-temen-quedar-larga-espera-viviendas_930168.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDeE-g9Ni6t8b-iVyFto--uRsA4a-yoi7EJKbH2yYySbTxxifCsAaK-KZOGps"
-    },
-    {
-      "termino": "junior lake",
-      "trafico": "100+",
-      "noticia": "EN VIVO: Leones del Escogido vs. Tigers del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-escogido-vs-licey-251428",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiVPkkPC_33czAAJs4qDJ1LpfW-prQcK11w0Tuza3ZZS2Z7P0-1VF5xA_i9xg"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "500+",
-      "noticia": "Terremoto en Indonesia hoy, 16 de noviembre: magnitud, epicentro y profundidad del sismo de 7,1",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-indonesia-hoy-16-noviembre-magnitud-epicentro/19048",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9uDH2hQxSRW2mdGo2I9PiwCv4s9kz5eyhv4zT7y1SQiK5lAwvVKSkUWgiS5s"
     }
   ]
 }

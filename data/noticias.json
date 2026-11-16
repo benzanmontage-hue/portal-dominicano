@@ -1,56 +1,72 @@
 {
-  "updated": "2026-11-16T19:37:53.837284-04:00",
-  "hora": "19:37",
+  "updated": "2026-11-16T19:58:15.014211-04:00",
+  "hora": "19:58",
   "fecha": "16/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Entidades barriales urgen retomar el proyecto Santo Domingo 2050 - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjF5NlBTak9GUFg3bWxYUFdVMUtSaHJ5WUxycHYyZm9MTk9jbElXaVFoc3kwVmt6Q0JwOTk3NDRKYkxKYmMxUGJld3JlOGZSOGlJcTJ2WGZtU2l3anNUZHZyOE90UkQ2dXFYQ0VSQVIxcm9IaEdJU200Q3FtRnlaSHdRWWdOSEF5T1hfT2NPYkxvRXlUZDh3VjZoTzEzbGJ2MExDRllvM2Jqb0ZkOV9hZENRZVBiZDBnb2Qyd9IBwgFBVV95cUxPZjJOOHhPY2tudGRpVUNvN3lVcW8td1V2ck1IM2p2eTl1by1EcXFtenVrdTBaTzVJN0RZLTlIbUZLRTVGTHJtX0cycjhhdEFXcHZkQmhMS3BkTU5xYTVRaGQ4bEFMUHNjVEl6dnRiM1RWSGpxamo4LWFXbGRTTEZLZmw4X2JhU1Zwai1JcklLWGdJZDljOW9KU2F2OFE3VWhoTm9rY2x1RE1zZXFwdWZXVkJUR0x3czMtSEdzWkZNV0hDZw?oc=5",
+      "titulo": "RD se alinea con EE. UU. y Europa en materia de seguridad tecnológica - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FwNFFQWXVKMGhkUlBEZk9JRDFla0hfeW1sMWlBQzZ6Yl9YRGVpdGdvbzhEb1FfQTd2M0FjLXNqT2EyQkY4MjBNUFhzUEFkQUhCbkRGS3AtemdDN3doZnBTODBYWldZM2duVUVHb01JTUpjX0hUcGx2ZlpTUm5RLTktSGJFZG9WUkw2eXZWZm0zZGFIU09iSEg1cUxUWmZlb0xoUUlaVEJkVjllVUpCNmNXUnRRdnh3d3hpMjFvLTNScnM4NmxZV9IBzgFBVV95cUxOeC1JRG9wNVE2cDV2bk9ZSGxUOGVWT2UzeERBZFVHaUZCTnotMG1ELW9hOFdPOTdOMk12ZzlrRDY1T0VuelN1NktKQ3VzT3F1YVNndkxKMFFab2VHSDJFWlNZQ2lpQ2tYRHdKc0FvWnRZdlB5dW85aWhlVGJCbERYYnN2aHROSGpnbV90X2k4ZVhnaFJQUHlfaENNQnFkTndVZWtDQUo3REZNWk0yWVZ2RmV5cExZZE41aEpUTTN5MzYxZFBvRHd6NXI3Z1Bwdw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 04:00:00 GMT",
+      "fecha": "Mon, 16 Nov 2026 04:01:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/16/imagen-shutterstock2683290843-06f8cc2d-focus-0.33-0.5-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Eduardo Yáñez denuncia presunta extorsión relacionada con delitos sexuales en República Dominicana - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3N5VVJOUlp0NzRHT0ZKak1WdmhpdlcxNmlYQkRQU0V2Z2QzdXZpR0pGQUFuYUI0bmM5dndPeDdlR0VLMHNFVFNWTkJJQW1iU2N1VWhxYlp2bmxXU0xJX0hxazE0U2U0QUdfYndyaVlOQkt4VUo1T2FmZVRYM2VJM1dmRV84U1QySjRpQ3dSZWd6ZlNHa0U1anV2TXlxSG83bXc1LTVLUVhWNG14UkVvN2xkRnJ1eGJub1NjR19WemtmZlNXc0d0a1Fkc2JjUGZmOF9PR3llOHJ5eU5IMjl0UTZuVzdtclZTMVB0SG5BbXZGdDIzX0wteXhtOTdmV3NxenVHWS1fRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 07:33:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/741/935/49664572714-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Once vuelos entre RD y EE. UU. fueron cancelados este domingo, informa Aerodom - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW1Rd0JScHJZYkx0UVNvbFE3dWpYZTZpT1B5amk0OUJsN2JnaGhDVzEzUVQza0x6NG5sZjJfa19xd01RN3JrTGFObW5GeVk2NXpSRXYzWnVIVTlDaGd6N3lSN2NPb3NsZjVEbGdFb2FUQWt4b1FKbU5GRUJFZ1FoeGlEZ1dOMlBzcmx5STdKTXhhT3d0cGt4bmdTc3hDbGloVEZTcXhacm1DcjExZXZFRi1YTjVYS200Y0Rr0gHAAUFVX3lxTE1EVlFpUzNGMkpSUTl5TnZIM3ZNd1B6ZzZYaFdvd3JIeUd2VUJ3b0o2QmNFSEIwVTM4dWQ3ajRpYzJWREc3SHdqRnduNHlhb0d6Rkp6Y0h1VlUyTWdFLVVWazBONFBYd1BRTlRWYXpWZTBieGhlbDlJN1Z0SDREVWRPS3dUTkFnbmFWalNnM250c3RrUzhPZ21WSzRvQkRkLVdrX2Q1Vks5RjFvM1RjTkVhZVdkcmlMdFM0TERIQ0NNOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 01:02:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/16/vuelos-cancelados-entre-republica-dominicana-y-ee-uu-de60cbeb-focus-0-0-1200-675.jpg"
+    },
+    {
+      "titulo": "La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWZjbTlvc1FyX2RMYWJOellqbXlTRlVYaTJ3Z1NVbTV6RHYyU1BhMllUb0tYMDlGOEE4VTRKTi1GVlBjd2NVNHhGRzBXNmlMeDkyYlZjbzdFRDRlSFl6TDdDbnl0eWxDU1loaURaeVlZaVAySlZNNWpOc2xJOFR4NHo0WGdnaGQzckdUd2x3MTJaeVBZUFJLTlBrUTZrYkE0bm1vdTg1ME5wZDgtZWoycUJIMDZESXJ0RTRHcjN1VHNwXzZFbzJWdWdjWUNQSFZO?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 21:00:04 GMT",
       "imagen": ""
     },
     {
-      "titulo": "El talento dominicano no tiene fronteras: de Santo Domingo al Real Madrid - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0V5R1dDZmJHTW1KRzh4QmdKZDNzd0RJckctQ3daTl9uWmFLRG9Hdm95RmdHZmE1bEkyVllLX3Y1MXBsUUN0LXluT0pieTJqUjc5QXpsUXdfdzBQZUdTWGpoMFZLVjJBZmtWRTZyaXdGb3oweXVEWmVma0NvNTVvaWFRQkNqeTc1dXNpdFFqTVJXbEN6TllhTUpUanFVVDFCal9MWQ?oc=5",
+      "titulo": "Abinader: \"Decir que en el Gobierno de la República Dominicana no hay corrupción es imposible\" - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNS1sM1k5Zk5rRVJKTklPWkRVck9tYkxjckxtODJOLUphNnZpVFRJa2tCN1ZWNkUyb2xGbjd6ZzJ0Ym9UQkh2bVV5YVA4N2JxOFVSYXFHUUtEZzFqNHVpck5aSWZDN2N5M2lQaThoVm5zdUxWXzFvN2xMYW5Rc1FfSjJxb1FPeEZUTGs4eFVveERHRVI0Y0JhX3ROZlNFU2ZLZFQ3U0F2WGYzTkUzaXdOcDlLYUdjNEh0M0HSAb8BQVVfeXFMTThDakhhMWJXUGhIeU1US3BmZmx3cEZWU0VNYXh3Sm42RE1MaWhrRlB4QVNUdmJNWnhqRnVpQXZIRVhoYlY4OV9yb1ZrVXNYTHpLbVFIS01lNnd0UHlYSm5TLUpiY1dtNzR4NEM1eFVXM0RLZlA0X0xNY2dWUThLeFhWVG9oNlBzVklraERVOEVTMlVSb0Z1N1ZEa1VMOFN5UUV1eUpsV20xXzM2Nk1GSW8zdVpEenVqTG0zVmhmTXc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 17:55:40 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Santo Domingo vibra entre lo urbano de Kapo y los clásicos de Alejandro Sanz - El Nuevo Diario",
-      "fuente": "El Nuevo Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEE4RW9BR01ZNUo2bFVDdWpiSzd4UmNTX21jSjFXOGtNSm1vQ3U5Tl8tbXZraUFreFhPUFBlTTdqdUFwemtzQVhIMS1fWk0xN1MyMDluTGFqQ0c2QUhqSEZPamNrLXktX0k1ZGttalBZc194a19ZTnlWdFlRMnRmRENOWFBCOGtTNEtkdEZmdkRGbW5hNHpsLVBiM2dPOEFBOTVrUFRqM0VtUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 00:10:33 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Asesinan al periodista Camilo Rodríguez en Santo Domingo de Heredia - CR Hoy",
-      "fuente": "CR Hoy",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkNoREY4RU1qQkNHS2h1aEVxNzhOMUtEUXhacFJPMzZUMGFnRENGbDZzcFpVLW5vQ0FFanU1MXBRc1hTejZtRFo0c2t4cG9pbkpSVXFENlFEQkx4SWRvUXNaRGJfTHQ3OWx6LVgtRG81bG1QLU1JdmJmRWtQZVUwdEhKS09WZGRob3hDOTNscFZVRm11UVJkeVRiSy1adw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 22:01:02 GMT",
+      "fecha": "Mon, 16 Nov 2026 23:16:31 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "titulo": "Reportan desaparición de menor en Santo Domingo Este - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlNkTzB2dEM0Nkx6TUdrMjNsWWJyeXBMa3hEODJxWXA4SkNyTnhfZ1JnaVJVVURLdnp2Tm1Uc1ozbzJibHlsczVrVVIxd0tUbURqampVMi1wVW1HZS1SWDJVYm1KNVAzX0QxNGo3b08xSGZUUjIwZloyWkFOSGVDNEY2SGtNZ28zQ1VmclN1eUtmblhrdG8yMW5HLWx6ZWvSAZ8BQVVfeXFMUEpTZE8wdnRDNDZMek1HazIzbFlicnlwTGt4RDgycVlwOEpDck54X2dSZ2lSVVVES3Z6dk5tVHNaM28yYmx5bHM1a1VSMXdLVG1EampqVTItcFVtR2UtUlgyVWJtSjVQM19EMTRqN29PMUhmVFIyMGZaMlpBTkhlQzRGNkhrTWdvM0NVZnJTdXlLZm5Ya3RvMjFuRy1semVr?oc=5",
+      "titulo": "RD será sede de la Conferencia Internacional Anticorrupción 2026; Gobierno ofrece detalles del evento - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0p5dzNkUE84WTloY2NTQWFfZUUtYmY4UWsxMjBwdHI3Um1fUmxXZTgwQ3IzU2pfRW5fRlc5NW03TVlscW9DRzFCcFBUZGFobjVMV3pnZ2FVdXZmZWZxU0dfcGh4NmJvUC1nVjVZaGF4Z0NzQXNRRlBwcW5idmtwaFIzVWVaczdCWThCTEIxWEFmdGFxMUkyRUhZbmVkS3RaV1RHX3JxNk9ySTR6N3ZoZGs2ZUpGbWh0Nmc3TFMtOENqc0pMTlFFSTRR?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 19:28:37 GMT",
+      "fecha": "Mon, 16 Nov 2026 22:00:44 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Más de 50 estrellas iluminan la fachada Ágora Santo Domingo - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDZEZUJSNmNqaWY1OU9KODRCa3lEejFOeVd0S0RuQ1BqM0tZNGltNDBpc09mYnVjc1JkT0xQbk82cXF3aVFXUFNRN1dva2ltQ05LcXpZUVNCMWpfMVBaczFpMGw3SmFEMWh3dUtlcXpWUERQWGNESGNoYU9GTGJ3WmhnQVBQVjdIQXc?oc=5",
+      "titulo": "¿Cuándo es el Black Friday 2026 en República Dominicana? - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmt1MnJkWUJtVXhONm0ySnZEVHZoUVNaSVVtdllIM3dVQ2FCQmxyU05wcXI2TlUzeWdsSzRRZmdUcjdNajgzUFA1Z05wYXRaN21LOEFzOVVjS19mU0NoM19IeTc5NTRETkdYTFZsNTZfTUFkWG81bWNZNl9uUlRGSVNsRGM0ZVVyelMxZnhPU3UwSklLZVBwYTJVc0RnTGfSAZ8BQVVfeXFMT0JrdTJyZFlCbVV4TjZtMkp2RFR2aFFTWklVbXZZSDN3VUNhQkJsclNOcHFyNk5VM3lnbEs0UWZnVHI3TWo4M1BQNWdOcGF0WjdtSzhBczlVY0tfZlNDaDNfSHk3OTU0RE5HWExWbDU2X01BZFhvNW1jWTZfblJURklTbERjNGVVcnpTMWZ4T1N1MEpJS2VQcGEyVXNEZ0xn?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 05:00:44 GMT",
+      "fecha": "Mon, 16 Nov 2026 21:37:15 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "ANJE advierte sobre emigración juvenil y pide mejorar la formación para retener el talento en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY1I4bnB6QlVmeXpvb1E2LVRDaTBDelJfWGhuTWNvRktuQ3RuMFM1eHJuUDgybFpuSG1xdVYzZ2M2NDA3YjJ2RDZXbzF4XzRxZ1k1ekRCS2s5ZmtpY19FWDZLRkVBTGRCeUdrc0h4bFNILW91U0VSbHZsU1ZvdFVtWU1qUVhMZTlVVDBReDVORlNoT0ZiSUl3bTRscW1kMER2ZU1LVkFCZ0p1bHZBaHNMUnM0a1duQUN6dXR4ZTdodWlvT01lQzJhOWFLeXZEMWNvVW5xN0F5QktGTmlZX0s4cU5abmhPcHY0aXpGWkhJNEJfUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 14:00:45 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2024/05/Paro-UASD-faprouasd-8-OG.jpg"
     },
     {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, martes 17 de noviembre de 2026? - Acento",
@@ -61,67 +77,51 @@
       "imagen": ""
     },
     {
-      "titulo": "Alejandro Sanz reunió a sus seguidores en Santo Domingo - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblBmXzVBdllCeVItRk80OGFxME8xQnMxaGV3YWEyY2VyRnJhYzhzR1JKUy1GMG9JUGY2SUUwdkdHMzl1cG5GRTRKelJ6d0lyQk1SOGNKX2xCMkF1emF1VmdJTVFFY2RZajhyVkFqUjh5bkxZR3ZrTEMtMzVrV2VRTm9kMUk?oc=5",
+      "titulo": "Viettel entra al mercado dominicano de telecomunicaciones y apuesta por ampliar la conectividad - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUy0tRlZFRVRsUTE5ZzJQYlBkX3gxMXhTV280RExTYTlhX0dkUUd0Wm11Um5fbEhUUHNnQmRGWUU0SVBrczhqeUUydUJRRUh3QkVjOUlqdGRLYVhRQVdKbWtpVXptd19UV0dSSDRmajJ6SzIxX01yZVF5Tm9OTVR4TDgyMENmcDhxLS1iVTExQ0ZUNXVNTDlIYXZCUGFvOEhCbHlsbnNfamt6Y2NRVjR1SEhuUFhjOEphXzJvMFplNjFmYUJkbnl4WXNNQ2lIblpaQlUtblYwM0nSAd4BQVVfeXFMTXJnUXZ3bllTX0N1NGJIMnRZYktJTkt6WGFxUk42dm9xQ05lWllnWnVJcmtWc2V3QjZqRWlZdGFmc3ZIRkVPbmd4R3M2NjY0bFR5SzQxZHZoazcwcG9GTlg2S052VDR4SWpQcVhac01UVXNOc2FtSkZiVzJqTmozSnpQSE1SSWc2U0lpc1JPTFkwX1cyUnpCVW9pbTlVSTctNkVPR0xwNThOZHJvN0Z6d2FVTXI5NHJBaUh0aHpHYl9CQS1QbV9zNFNrbERlOTVPbTF1Y2hGN0lSS1o4NjR3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 13:34:14 GMT",
+      "fecha": "Mon, 16 Nov 2026 16:01:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Kapo debuta en Santo Domingo con su concierto «Afro Rosa Tour» - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1Wl9OdU1IRDJuNDJkSElxVVFUdHZjc0ZDT1RYZkduMEVwZDVjazRlcnVwNjU0a3ltVkVDeGd3Q0drbGFRQWpv?oc=5",
+      "titulo": "Cuándo juegan Uruguay vs. República Dominicana por la Fecha FIFA: equipo, fecha, hora y TV en vivo - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 16:04:19 GMT",
+      "fecha": "Sun, 08 Nov 2026 08:00:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, lunes 16 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2s2eTkyMUxjYVhlNmg1QUZPakUxaUs3OE9rejhPQmRPWnBfWDFfVHJKYXU3MnFjNy00WE9PX3ktT1ZESVh5YlF0elI1VlZCc1YySmpJczQyZTU4b2xaenVlMEIzMks1WGRCOWpOOGJoY3BHUTBCYWtiZHhuRV9JakItQThJZjF6SVdDcHRFZU9ORVR6dG9iUWtMdFM2THY3ODBuMFg3US1WTGI2X2lnaWdLZkFyVUVCZ3JjRGtZTHM4RmF3dVY1LUJ4endnTDl0MFZHd00wUWJNVDlvaENj0gHfAUFVX3lxTE5nazZ5OTIxTGNhWGU2aDVBRk9qRTFpSzc4T2t6OE9CZE9acF9YMV9UckphdTcycWM3LTRYT09feS1PVkRJWHliUXR6UjVWVkJzVjJKaklzNDJlNThvbFp6dWUwQjMySzVYZEI5ak44YmhjcEdRMEJha2JkeG5FX0lqQi1BOElmMXpJV0NwdEVlT05FVHp0b2JRa0x0UzZMdjc4MG4wWDdRLVZMYjZfaWdpZ0tmQXJVRUJncmNEa1lMczhGYXd1VjUtQnh6d2dMOXQwVkd3TTBRYk1UOW9oQ2M?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 08:00:06 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-3-OG.jpg"
-    },
-    {
-      "titulo": "Ágora Santo Domingo ilumina su fachada con más de 50 estrellas - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUp0bTNRMDJYQUY4T1N6bE5YZjRsUWtHX043ZmN3eEE2R2gxUVZXRWVGNnhMLXpFdWt1ZER5MkZwQk1ZbzFadFVjc2x3bm9vRDBydVEwZU9UTWVLd1NEbTRpNDlJNE40Y3pvQzY1NHJNY3hLOGlLaEItQXpnQ2w4TVBValJrOFBIMUNEOTEtaFNFWGotY282MUVReXNKdXhlZWJWWWNpeDhNZ9IBqgFBVV95cUxQaUp0bTNRMDJYQUY4T1N6bE5YZjRsUWtHX043ZmN3eEE2R2gxUVZXRWVGNnhMLXpFdWt1ZER5MkZwQk1ZbzFadFVjc2x3bm9vRDBydVEwZU9UTWVLd1NEbTRpNDlJNE40Y3pvQzY1NHJNY3hLOGlLaEItQXpnQ2w4TVBValJrOFBIMUNEOTEtaFNFWGotY282MUVReXNKdXhlZWJWWWNpeDhNZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 03:00:03 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "#HOYaFondo La distribución de las becas que ofrece el Estado dominicano para cursar estudios superiores muestra una marcada concentración en el Distrito Nacional y la provincia Santo Domingo, razón por la que las nuevas autoridades buscan ampliar la - Instagram",
+      "titulo": "La valla perimetral que la República Dominicana construye a lo largo de su frontera con Haití desde hace cinco años cobra relevancia para sus autoridades debido a la violencia de las bandas armadas en el país vecino, combatidas ahora también por fuerza - Instagram",
       "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WNUxwODlJWl9tSHF3VnJUYmt1YnlPRTlmcmdhWW1pQlA5MnFNQWc0cVdBSG9WMHZySHlhODNRT0k0OEdTWW55VzNLZnFsQUNQYVE?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lWWktSjdPWVZ0NTlyQmhnS2tPRWVsX1JVSTN2VXFYQjhidXNaeTNjZGRWa0hYWUJqcWY0a2FSZ2ZkNnlXRHZXckNWcmVkaGoxVFE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 15:00:13 GMT",
+      "fecha": "Mon, 16 Nov 2026 16:00:55 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Hija y dos sobrinos de la alcaldesa de Santo Domingo resultaron heridos en accidente de tránsito - El Universo",
-      "fuente": "El Universo",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVFvTURNOG5VajBTVFV3R19yNTBhd281czhqWEFKQVNfTW5aYWpya3BpNkhDeXgtT3RPWDJXaGI4c05jV0xoNFJpN0dHbmM3UUJVb2tUSzFRcVRveXd5cTMzVjJsdzFieEJySmlGQmZlcVdTUm16SWZkTnpnRktHbDBJeWgxSlNoSFFoellMNHA3SFpxcUc4a2FTNUw5Vkt2UFY3Z0M0UU9WcE9qUHV4SkdXSVAtT1N0VjU4NDRYcWdneklLNTV4ZXZPQkluWnhIQjlDdTFTMVo4UDhUUm5scNIB9AFBVV95cUxOMldCdGlzb0puRlNlRktUZWN6Y2RnczdmYkNtRXkyVlRNZ1ZYYzNxdjFobHFrNXVVckdtZm5sLUh4T1dFT0h5UW5PaE5yYlk1ZFF6eTBTOHd6TWpSVDdPaERlNzEyaHBxc1J6NGxqS1M1VUh4SFpoYk9RUEc5VVUxOEVUOVpDRF9fcGRWTDE3ZmVib2lhR1VUU1duRWpOdDBxTmF5d2RraGZiU1lBNVFfX1pGTzlROElPVERnc0t5WkxJWXI0Qmx6X2NDWTFlVWhJcHdxRy16Y1ZTUHBaVW9VemY3WTFJTnVkeS1ONFliamhod1Fr?oc=5",
+      "titulo": "La seguridad en Haití es una \"necesidad urgente\", señala la vicepresidenta dominicana - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMktpZGJlakVOWG8zb0tiMDVDS3RGUklEZ3RaVGY0RjY5aFdKVzBrTEthcE1MLVZEdWlFZTRncXF5TUVLaGZLT3ZiWEQ2SVNpRTROdnN0SFhIaXF0M0pESVRKd1I3SnphSDdKVndiVHJ6OE93S2QxRWhPemYzdGVQV1k2X2xibWl5RXVuUHM2c19iNERyTmxBZFBUYm1MSVk?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 04:48:00 GMT",
+      "fecha": "Mon, 16 Nov 2026 20:35:39 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Asesinan a balazos al periodista costarricense Camilo Rodríguez, conocido por sus denuncias contra el narcotráfico - Infobae",
+      "titulo": "Adrián Jáquez, convocado por República Dominicana para disputar el Mundial sub-17 - cd leganes",
+      "fuente": "cd leganes",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkFSWG02RTdZX25MSE9MMy1IN25idXBSN3RXNDFDbzVoUjd1N3J2cHV6c2RmY0lPR3kyNFQ5XzNpS3Q1ZjliRWI3R2duNWZ2dmR1Z08ybzNnajMyajhzcXprS094Q2pSa3NlV1MxUXRyWHRkak9pekdOT25GcVRfQXZia0R5cFl3OHJoUGNjN2FNYUtxRDQ4TXg5cXh5U18wcXVsbDltYlpVUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 09:49:06 GMT",
+      "imagen": "https://www.cdleganes.com/public/Image/2026/11/jaquez_jpg.webp"
+    },
+    {
+      "titulo": "Precio del euro hoy en República Dominicana: cotización de cierre del 16 de noviembre - Infobae",
       "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHhZNWdGaFEyZDFFbVNSN1o3NTRjc2NLREVQSFFfb05vNktma2xWM3pXdkxGa1ZhMmtKLVhHZUpDd0JKTHIzUmh5VWNseVZnQ0QtNW1jemUzcE42T3FmZk5LQjhJaVRtTVNqRHdrQ3cwWEJ2SGtjQTI2OUxZdWJzY1VDVXh1QmxZczFwVl9PTTFsNHpoS2MwUzN5NDlLQzlXSnlTM2JrM2V3M2h3SkZsX2xJVzcyTDNkbFUtMGlPWm9hYW5uMExQZFJId1RRcElGbkkzdEpWOHFTTmFDWjBzdG9ldHgtMlhRVzZWZVNoRXh4Z9IBjAJBVV95cUxQdGJHNl9ZNXhPZVl5emJ3Uzk1bHRYUzM0ZURGajNpT0FsTnJjdVVOaVVJc2QwSEN6bGx1bk9WdEdvZW4xYUdsZFl4ZGJfSUlZMUZwQ3VIOWZycDlPbzFkRUtxVWdwNk9ZUVJFaEJiMTRzVnRvakl0bzdKNExJNlVPS2pJdEQzN2RUVnlITDFweE1wSlZrZ2RFZmtDa1hQbFROLTlsNDJHR0l5YmszaldObWU5NUlrOS1RaDk0S05KXzRKbU4xZWZ3OU9rZXFRc0hYMnhmS0w0bXllWEpZOGhYVVh3QjUtQnduUDhPTEJQdllabVl4UmdGNld1UV80NTZvMlpJdG5sVE5XVElq?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObi1oeE52X0FCLXNwaHhmQXNza0t6bHR0SmR0ZFdrd1NFMkZMM2stUjBGOXkxSEYyOG1wU0l1bTYwa004dGdodzVwbjFNSm1CQWRiUXZCOEJuRVJHaFYtbjlXZGlTbnlaZXVKdnNiSUhnUzlkTUZDQURGYXlLUUlhYVlGc3c2QkdKeVdZeFctS0tmUHdFN19lQ0dNeFJsX0lQdHJvSi1CMkk1QVNWWDI0SGtLOGx1QTJsMjlBMWxGRkUyaDZTMEpvUtIB4wFBVV95cUxQR3Y2b1pZLVpzcVZXdWZEZXNMdmVFYW1wdFFBNmJtR2V4ZG9OY0FXN1RfQmZCdmRycW1wb2ZITHJ2eGZtZUtjdlRRa0JvNC13SWlxb0hpdHdpbVgxU1pwanpWaGk3WVl5aVBURmQ5dzNyWk9ZQVlORHE4bTdqOFNrdmFKcGQycnpxRjJRaVBZUk8zVk5zczRNZTIwb3RtaU1XQUwzSEJvVVBUQ0J5MWRQODBzS1JnVkNxQ0xtc3M5SW9UQ1VCcGZuSjVzMzRpaGFIRzdJaGVFWUpGdk4yZmNtLWZfOA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 22:38:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Periodista Camilo Rodríguez fue asesinado en Santo Domingo de Heredia - Delfino.cr",
-      "fuente": "Delfino.cr",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWlldFZoQVN2Z1dwUkRQMWZWMzkxeFhURzUzTGttd2VhckduZUFXQ1pPaHJaWjRXRG1zTnJaOUhuWXJnMjJVOUtXQzBYejhWQUJFaGs5VlU3MGN4ZG0tVDM0Qko4UUt4eGxOVGxQZkdRbVZLeWFwamktUE5pWnFlaGZFcWg2NnN1a2ZIRV9oV1c4WFBVODdBVnp6WG8?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 22:19:20 GMT",
+      "fecha": "Mon, 16 Nov 2026 19:02:00 GMT",
       "imagen": ""
     }
   ]
