@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T14:10:30.788964-04:00",
-  "hora": "14:10",
+  "updated": "2026-11-16T14:31:02.684024-04:00",
+  "hora": "14:31",
   "fecha": "16/11/2026",
   "total": 15,
   "noticias": [
@@ -66,23 +66,23 @@
       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY1I4bnB6QlVmeXpvb1E2LVRDaTBDelJfWGhuTWNvRktuQ3RuMFM1eHJuUDgybFpuSG1xdVYzZ2M2NDA3YjJ2RDZXbzF4XzRxZ1k1ekRCS2s5ZmtpY19FWDZLRkVBTGRCeUdrc0h4bFNILW91U0VSbHZsU1ZvdFVtWU1qUVhMZTlVVDBReDVORlNoT0ZiSUl3bTRscW1kMER2ZU1LVkFCZ0p1bHZBaHNMUnM0a1duQUN6dXR4ZTdodWlvT01lQzJhOWFLeXZEMWNvVW5xN0F5QktGTmlZX0s4cU5abmhPcHY0aXpGWkhJNEJfUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 16 Nov 2026 14:00:45 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2024/05/Paro-UASD-faprouasd-8-OG.jpg"
+    },
+    {
+      "titulo": "¿Por qué Willbes Dominicana canceló y suspendió a cientos de empleados en Barahona? - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHEtNk9PN3F2d3J6RjRzazlKeHM4blpHV3ZKaTRrVTRFSldUTjJoNURkNkpYZDNsM2dZdmNBaVRmZXhGclpmZk11QllWbU1lSjJWY1FmTjBjSU55by1pemlSZF9Id3RMaTJLaDdvMXdoZl9fN2RiT05qNUxTUzZnTVM2SU9za280RDlMTXdEQTRZZUdqMGxLQjh6bEM2cTFGeW11SFk3SGM5dzIySXhoRnk5bFM3VzZFU2lIemNaRGNXanlScVVDWtIBzgFBVV95cUxQbFpEMUhQb2RSM280c25jVXNwZ0RCLWVkdFZ4RFMwbFBQS3lwZEJsck1KYnVRNzN5aDEzclhkcXVPZkZybU9LVy1Ob3YwRWgtdEo3VVJuUV84STlFTi1LdkNWVThna0pMVG1hTUo4a0c4ZGdUYzlVNk9ydHZZd1U3SWJuam5sTzZYQm9SQ0VFQ3ZxaEVrdmFJSHBSMHZkVmZKNGpyMkJDZ2o3LWRPRHlMblh5enQyR2EzeTBpVUpQa2NKOXBXV2FyRW1mdVpFQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 04:01:00 GMT",
       "imagen": ""
     },
     {
-      "titulo": "Así se movió la política dominicana este fin de semana: juramentaciones, recorridos y encuentros - Acento",
+      "titulo": "Nueva telefónica Viettel apuesta por llevar conectividad a zonas rurales de RD - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWRnZWtMb2NBVTNwalo4UEFSRkRDajZfS1J1eUJXallETEhRVi1FZE9DOGItUGI0NlAyN2t4RlMxYVdoYVVMeTB6MEJHSHFwSXhqcldlcHhoUDZLX05IRzhFbTFZTnVjQlhjRUlvNHJzSWI5Sjd6STg2cWttSTNIdzMxZDJ1aF9RalhkX1dZb3J3RUpZczBob0F2M2dQaDJhZ2U3cEJwNElWZG03YVpZUDhOeG5VSy15dW1sNW9oRThEVVpweFBZN1paYjM1WU5ZMWN4btIB1AFBVV95cUxOQWRnZWtMb2NBVTNwalo4UEFSRkRDajZfS1J1eUJXallETEhRVi1FZE9DOGItUGI0NlAyN2t4RlMxYVdoYVVMeTB6MEJHSHFwSXhqcldlcHhoUDZLX05IRzhFbTFZTnVjQlhjRUlvNHJzSWI5Sjd6STg2cWttSTNIdzMxZDJ1aF9RalhkX1dZb3J3RUpZczBob0F2M2dQaDJhZ2U3cEJwNElWZG03YVpZUDhOeG5VSy15dW1sNW9oRThEVVpweFBZN1paYjM1WU5ZMWN4bg?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVNlWnpKZjRfenhkeE1zTlQ5UVZsNnVMbHpIMHNucWplQ1Fmb0VtSEZERUs5QzZfUi04N2EyWE9mUHJCQ3Z2OU5lWnlESzBnTWFTckh0dXREdEVJdTd2c3JZTmFkd1hYaXNWa2RVbENoeDB1dHI3M1BSZ1ZUaHR6cGRqQzVMQmpLTHhac2tVM0UxcG5uQ0xHb19XQW53dFNLbGtabWllY1ZhdXlKSEhjRnNHYUhjMWo0elVoV1pCTFRMUQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 06:00:32 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir de mañana lunes - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVE14dTJva2ZtVzlDMU1LR0hlQW9hcHF2SS1kOHFIVnVUdlBPa1EzUUFBOERXY3UxUDhjVTZ5ZDdUOGtSQzhLOWZoTlFMSmZYemMtVHY1OC1PblplcXFHNjhEcEZwclVuamVUM2x0UE9EZ1FmcjNLbFVvZWd1VW5nOFNGb1lJNldUU09OMEtSbVloOTlDSnRySmNZeHhsU25Ra1BmejFDQjNwVi1TQXhGQVk2VHp4SHhlLTFEel85VmFnZ0o3ZWUyWkppVW40S1RLZFFXaXAtakcwS0ozU281Q2dRNThuUjNTZjJ0YVlkZjUwNVFqaGktajFIdmhqZ9IB_gFBVV95cUxNVE14dTJva2ZtVzlDMU1LR0hlQW9hcHF2SS1kOHFIVnVUdlBPa1EzUUFBOERXY3UxUDhjVTZ5ZDdUOGtSQzhLOWZoTlFMSmZYemMtVHY1OC1PblplcXFHNjhEcEZwclVuamVUM2x0UE9EZ1FmcjNLbFVvZWd1VW5nOFNGb1lJNldUU09OMEtSbVloOTlDSnRySmNZeHhsU25Ra1BmejFDQjNwVi1TQXhGQVk2VHp4SHhlLTFEel85VmFnZ0o3ZWUyWkppVW40S1RLZFFXaXAtakcwS0ozU281Q2dRNThuUjNTZjJ0YVlkZjUwNVFqaGktajFIdmhqZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 19:00:06 GMT",
-      "imagen": ""
+      "fecha": "Mon, 16 Nov 2026 15:24:02 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Rueda-de-prensa-entre-microfonos-y-camaras-OG.jpg"
     },
     {
       "titulo": "La valla perimetral que la República Dominicana construye a lo largo de su frontera con Haití desde hace cinco años cobra relevancia para sus autoridades debido a la violencia de las bandas armadas en el país vecino, combatidas ahora también por fuerza - Instagram",
