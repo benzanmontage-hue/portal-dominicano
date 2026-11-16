@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-16T00:56:02.062914-04:00",
-  "hora": "00:56",
+  "updated": "2026-11-16T07:17:15.769810-04:00",
+  "hora": "07:17",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "terremoto",
+      "trafico": "500+",
+      "noticia": "Terremoto en Filipinas hoy: sismo de magnitud 5.8 sacudió la isla de Siargao y se sintió en Leyte",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-filipinas-hoy-sismo-58-sacudio-isla-siargao/18990",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKLsMNNseB9S0lKmuWRNyt3E3rxO5xA2s0vu_U_hcPf-dxv1fNBbSFrTBm74E"
+    },
+    {
       "termino": "kings - thunder",
       "trafico": "200+",
-      "noticia": "Thunder look to snap three-game skid against reeling Kings",
-      "enlace": "https://www.cbssports.com/nba/news/thunder-look-to-snap-three-game-skid-against-reeling-kings/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+      "noticia": "Oklahoma City Thunder vs. Sacramento Kings Live Score and Stats - November 15, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261115_OKC@SAC/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWcs3j_N5vFt01ACxKo1jhIMkv8rf4Kw3iLpY1wuRgz8aCBMj8q5PzemhqTz4"
     },
     {
       "termino": "wizards - rockets",
       "trafico": "500+",
-      "noticia": "Alperen Sengun (19 points) Highlights vs. Washington Wizards",
-      "enlace": "https://www.nba.com/rockets/videos/alperen-sengun-19-points-highlights-vs-washington-wizards",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywhRuR7xk8jFfIHgKtiuwLlulm6c_N7FYYAE6j-bY5deuWezbVxtW_sA2s20"
+      "noticia": "Game Recap: Rockets 147, Wizards 119 (Nov. 15)",
+      "enlace": "https://www.nba.com/watch/video/game-recap-rockets-147-wizards-119-nov-15?plsrc=nba collection=2026-27-game-recaps",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHAHgsQ1mXpBPbBFnjcCZpr0lboovlzXxJRdNgIDI0wvce_Vl8QvKrU5HtYfE"
     },
     {
       "termino": "panamá - curazao",
@@ -36,23 +43,23 @@
     {
       "termino": "celtics - mavericks",
       "trafico": "500+",
-      "noticia": "NBA schedule-makers undermined Cooper Flagg s only trip to Boston this season",
-      "enlace": "https://hardwoodhoudini.com/nba-schedule-makers-undermined-cooper-flaggs-only-trip-boston-this-season",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG2v7AgPgdeTIGgcUidQBbZaxHKlcFSJXBbchtZt0dnLdsq42qE13UkL5m2hs"
+      "noticia": "Celtics come within three points of legendary Lakers NBA record",
+      "enlace": "https://basketnews.com/news-259559-boston-celtics-make-nba-history-come-close-to-lakers-all-time-record.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7krjzrRyeCw0ss-RTR4ZF_UsvirZiDgrFAvJms4hVfOhaP6UNkXHu-vzW8HQ"
     },
     {
       "termino": "raptors - knicks",
       "trafico": "500+",
-      "noticia": "Knicks rally past Raptors in OT for 14th straight win",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-rally-past-raptors-in-ot-for-14th-straight-win/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4gVDgRftoNhtLYsYbwi0-dY9yVcUX7O-wo3URN5HloR2K17oOrIFmTvDd0SQ"
+      "noticia": "Fantastic Finish: Knicks outlast Raptors in OT thriller",
+      "enlace": "https://www.nba.com/watch/video/nyk-tor-ff-use-yt",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1H7dpXX1d2jvEvGUsEcR-1RHIZYwUcroGNevNyfPBa2hlFs72U6ZmV5qP2bA"
     },
     {
       "termino": "seguridad vial",
       "trafico": "100+",
-      "noticia": "(VIDEO) RutaBerón continúa bajo la lupa: otra imprudencia genera preocupación en la zona",
-      "enlace": "https://bavarodigital.net/video-rutaberon-continua-bajo-la-lupa-otra-imprudencia-genera-preocupacion-en-la-zona/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-KnioWP5CH27mOJeGw_p5sBsfqozNjN62YZS3PJ0cLsDdmvUrW-uOsSTGq0"
+      "noticia": "Alta mortalidad vial en RD se recuerda en el Día Mundial de las Víctimas de Accidentes de Tránsito",
+      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/15/rd-entre-paises-con-mas-mortalidad-por-accidentes-de-transito/3721151",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPa4QjcZBUfEp2w_6m690MK79EnEJJBHjR2VscF1zht8Hc4WwqMjKl1mCJT_o"
     },
     {
       "termino": "lamine yamal",
@@ -64,16 +71,9 @@
     {
       "termino": "jazz - spurs",
       "trafico": "500+",
-      "noticia": "Photos: Spurs vs. Utah Jazz | 11/15/26",
-      "enlace": "https://www.nba.com/spurs/photos/photos-spurs-vs-utah-jazz-11-15-26",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGnO1LxjbjqD0pvu3ZOieRkOWXW_rjR9rjJosVSc7stAbnnTdiYJ_bSFxQyog"
-    },
-    {
-      "termino": "posiciones de selección de fútbol de francia contra selección de fútbol de turquía",
-      "trafico": "200+",
-      "noticia": "France 2-1 Turkey: Eli Junior Kroupi scores first international goal as hosts qualify top",
-      "enlace": "https://www.bbc.com/sport/football/live/cw30g3p6vd15t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUw9biGQ6MaFKJkgjfHeGoAwNZHnIFnHgk8gT1KJXfSPw39OtW_hGc6N5mMeQ"
+      "noticia": "Dylan Harper on 31-point night: “First of many”",
+      "enlace": "https://www.talkbasket.net/228434-dylan-harper-on-31-point-night-first-of-many",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW2w0MB1AswEFGlGHqmI0bjYCuSksW8g-KrWrWS2_aH89R5x9OY6RLSPeOoZE"
     }
   ]
 }
