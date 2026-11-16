@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T14:51:41.519273-04:00",
-  "hora": "14:51",
+  "updated": "2026-11-16T15:12:08.634570-04:00",
+  "hora": "15:12",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "josé ramón peralta",
+      "trafico": "100+",
+      "noticia": "Gonzalo Castillo y José Ramón Peralta vuelven a los tribunales este lunes",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/16/gonzalo-castillo-y-jose-ramon-peralta-vuelven-hoy-a-los-tribunales/3721238",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi6kmZneYdq7yYpzRPjdcvA3J7OlYkvylOZoYZSDSDVYrO6nwvUqCifzku0U8"
+    },
     {
       "termino": "robert pattinson",
       "trafico": "1000+",
@@ -67,13 +74,6 @@
       "noticia": "",
       "enlace": "",
       "imagen": ""
-    },
-    {
-      "termino": "autopista",
-      "trafico": "100+",
-      "noticia": "Obras Públicas desviará este domingo tránsito en la Autopista Duarte",
-      "enlace": "https://listindiario.com/la-republica/20261115/obras-publicas-realizara-desvio-transito-autopista-duarte_930143.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSonav5196ye4t6ukHA2qH_o8UK7fgZ1-OtU8b-gigBL-lAI4e2CGyxAvBzaMs"
     }
   ]
 }
