@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-16T10:03:29.081535-04:00",
-  "hora": "10:03",
+  "updated": "2026-11-16T10:24:02.075625-04:00",
+  "hora": "10:24",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "telecomunicación",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -43,9 +43,9 @@
     {
       "termino": "wizards - rockets",
       "trafico": "500+",
-      "noticia": "Licensable picture: Washington Wizards vs. Houston Rockets",
-      "enlace": "https://www.reutersconnect.com/item/washington-wizards-vs-houston-rockets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwVUFLV0sz",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROxZTRH722H-cD2IZ5fEDdDabibEpM3xPk-MNNQP-q1Xxk6wc9jpNqC9DOkbk"
+      "noticia": "Alperen Şengün put on another show! He came so close to a triple-double...",
+      "enlace": "https://www.fanatik.com.tr/en/alperen-sengun-put-on-another-show-he-came-so-close-to-a-triple-double-2644677",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUhs--hdxumOFx3muX8ABxTjnAYOLSEU4krW3faprLOCi6XRpoSvE7G4wFUZs"
     },
     {
       "termino": "panamá - curazao",
@@ -64,16 +64,16 @@
     {
       "termino": "celtics - mavericks",
       "trafico": "500+",
-      "noticia": "Cooper Flagg got a rousing ovation. Then he got a lesson from the Celtics in how to win.",
-      "enlace": "https://www.bostonglobe.com/2026/11/16/sports/nba-celtics-mavericks-cooper-flagg/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNStEzLplVOIsT2XOcwEw7EELbFZU2OUHS7XuyqgD_JT7GI9i75blq9FlfDV0"
+      "noticia": "Cooper Flagg’s return to Boston spoiled in an ugly end to a forgettable road trip",
+      "enlace": "https://www.nytimes.com/athletic/7785906/2026/11/16/cooper-flagg-mavericks-celtics-boston-homecoming-spoiled/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ94G862R5Y2y3uOtnB9wzc-jMMcQ8D5XRd_rwWT8l-_mKAc7IrzAbrSG7gzsw"
     },
     {
       "termino": "raptors - knicks",
       "trafico": "500+",
-      "noticia": "Karl-Anthony Towns dominates the paint as Knicks win OT thriller in Toronto",
-      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/15/karl-anthony-towns-dominates-the-paint-as-knicks-win-ot-thriller-in-toronto/92803262007/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Uhg4yL7G8QPiANmprgEpwj4ZUBgSYdbHj-vuyXdPNYS5Phib82O_Sq4PFrw"
+      "noticia": "Atlantic Notes: Barnes, Nets, Oubre, LeBron",
+      "enlace": "https://www.hoopsrumors.com/2026/11/atlantic-notes-barnes-nets-oubre-lebron.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr6L7YNxR2VHaRTB7tMF2XvRSh-isZauH370-_Kt4pjGgT2qvyMsypqds3imY"
     }
   ]
 }
