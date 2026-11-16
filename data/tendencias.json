@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T11:25:29.426873-04:00",
-  "hora": "11:25",
+  "updated": "2026-11-16T11:45:55.461640-04:00",
+  "hora": "11:45",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "robert pattinson",
+      "trafico": "200+",
+      "noticia": "The Case for Robert Pattinson as James Bond",
+      "enlace": "https://puck.news/hollywood/2026/11/the-case-for-robert-pattinson-as-james-bond",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJQbUxeJypL4Go0YCHL75RpiNekl52WxgZWQ5G8dAfM3cFK69vP63cC1GEQQ"
+    },
     {
       "termino": "telecomunicación",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "barahona",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Familias damnificadas tras incendio en Barahona temen quedar en otra larga espera por viviendas",
       "enlace": "https://listindiario.com/la-republica/provincias/20261115/familias-damnificadas-incendio-barahona-temen-quedar-larga-espera-viviendas_930168.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDeE-g9Ni6t8b-iVyFto--uRsA4a-yoi7EJKbH2yYySbTxxifCsAaK-KZOGps"
@@ -67,13 +74,6 @@
       "noticia": "Obras Públicas desviará este domingo tránsito en la Autopista Duarte",
       "enlace": "https://listindiario.com/la-republica/20261115/obras-publicas-realizara-desvio-transito-autopista-duarte_930143.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSonav5196ye4t6ukHA2qH_o8UK7fgZ1-OtU8b-gigBL-lAI4e2CGyxAvBzaMs"
-    },
-    {
-      "termino": "celtics - mavericks",
-      "trafico": "500+",
-      "noticia": "Cooper Flagg’s return to Boston spoiled in an ugly end to a forgettable road trip",
-      "enlace": "https://www.nytimes.com/athletic/7785906/2026/11/16/cooper-flagg-mavericks-celtics-boston-homecoming-spoiled/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDc2ZxfVKML04QU-eH_Cx5Z12Ds-L45lMt39s-FxTR6BeIFZwGWkL3aBl-GWE"
     }
   ]
 }
