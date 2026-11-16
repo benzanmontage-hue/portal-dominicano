@@ -1,9 +1,89 @@
 {
-  "updated": "2026-11-16T09:22:35.040839-04:00",
-  "hora": "09:22",
+  "updated": "2026-11-16T09:43:02.744063-04:00",
+  "hora": "09:43",
   "fecha": "16/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "RD se alinea con EE. UU. y Europa en materia de seguridad tecnológica - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FwNFFQWXVKMGhkUlBEZk9JRDFla0hfeW1sMWlBQzZ6Yl9YRGVpdGdvbzhEb1FfQTd2M0FjLXNqT2EyQkY4MjBNUFhzUEFkQUhCbkRGS3AtemdDN3doZnBTODBYWldZM2duVUVHb01JTUpjX0hUcGx2ZlpTUm5RLTktSGJFZG9WUkw2eXZWZm0zZGFIU09iSEg1cUxUWmZlb0xoUUlaVEJkVjllVUpCNmNXUnRRdnh3d3hpMjFvLTNScnM4NmxZV9IBzgFBVV95cUxOeC1JRG9wNVE2cDV2bk9ZSGxUOGVWT2UzeERBZFVHaUZCTnotMG1ELW9hOFdPOTdOMk12ZzlrRDY1T0VuelN1NktKQ3VzT3F1YVNndkxKMFFab2VHSDJFWlNZQ2lpQ2tYRHdKc0FvWnRZdlB5dW85aWhlVGJCbERYYnN2aHROSGpnbV90X2k4ZVhnaFJQUHlfaENNQnFkTndVZWtDQUo3REZNWk0yWVZ2RmV5cExZZE41aEpUTTN5MzYxZFBvRHd6NXI3Z1Bwdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 04:01:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/16/imagen-shutterstock2683290843-06f8cc2d-focus-0.33-0.5-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "Eduardo Yáñez denuncia presunta extorsión relacionada con delitos sexuales en República Dominicana - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3N5VVJOUlp0NzRHT0ZKak1WdmhpdlcxNmlYQkRQU0V2Z2QzdXZpR0pGQUFuYUI0bmM5dndPeDdlR0VLMHNFVFNWTkJJQW1iU2N1VWhxYlp2bmxXU0xJX0hxazE0U2U0QUdfYndyaVlOQkt4VUo1T2FmZVRYM2VJM1dmRV84U1QySjRpQ3dSZWd6ZlNHa0U1anV2TXlxSG83bXc1LTVLUVhWNG14UkVvN2xkRnJ1eGJub1NjR19WemtmZlNXc0d0a1Fkc2JjUGZmOF9PR3llOHJ5eU5IMjl0UTZuVzdtclZTMVB0SG5BbXZGdDIzX0wteXhtOTdmV3NxenVHWS1fRQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 07:33:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/741/935/49664572714-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Educación dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vUlI1X01JYjI4cC1aLXNoakt0a0hJT3pMZUFFMzQxVEpWdGNQS1dDNmFUOURNYlBNLUlWT2tITzJpc3dOU0owQWgya1RyanVtVkQ1d1lLRV9LSE5QN0RzTDBuZ2xBd2FSQ3FjZW9TR19BZ1k00gF6QVVfeXFMT2JhWUIwaW13bE5XWlQ2U0t6RktyNDltMy1Ic1BtWko5RmVLdklWcHE1NF8yNllubnlZWlVzcnRrOHZlQ2hKWmRycjJoS2Z0LVhsVEpJNHhrVlE4M2tDa2RpNTB2X2VXOEJmdlZHWFFFUmROV2luLUhyeEE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 09:35:00 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/static/img/elnacional.png"
+    },
+    {
+      "titulo": "República Dominicana abordará crisis de Haití en conferencia internacional en El Salvador - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWJIRlY2ZjM5bVhPOW1pRms4SjIySndPemVuMTdZRk9aX2hFcVROdDIybC0xVzk3d0NUVkJQX1VfdWFYVGJIYUJtTWM4WW56bk1ZZVoyUVZ2ZnpWMW1GeXozMU10akxZQVVNSGc1TWhQN0wxZGxnLWJOV1o4NGdOLU1qMm5Na29SX1pnYjlhd2JuaTNiNXlNTEJpTUdUdFBZV21ZZURybzZJRlJHMFBlbEt1ZVZfM01ra0Z0SnZ2LXJVRTc2SVBQWUV5MXBTNDds0gHQAUFVX3lxTE0tYkhGVjZmMzltWE85bWlGazhKMjJKd096ZW4xN1lGT1pfaEVxVE50MjJsLTFXOTd3Q1RWQlBfVV91YVhUYkhhQm1NYzhZbnpuTVllWjJRVnZmelYxbUZ5ejMxTXRqTFlBVU1IZzVNaFA3TDFkbGctYk5XWjg0Z04tTWoybk1rb1JfWmdiOWF3Ym5pM2I1eU1MQmlNR1R0UFlXbVllRHJvNklGUkcwUGVsS3VlVl8zTWtrRnRKdnYtclVFNzZJUFBZRXkxcFM0N2w?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 18:11:48 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Inteligencia artificial bajo reglas: un avance histórico para República Dominicana - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUENqUFFYVnM2ZlJ6NUZiTXYxWEsyaUFkNkR5TWRNNTNxekpUMGdSTlJWR19mNDhLbTFDR2g0WVNGRENwSk9ZQmNBWGpscHlWc2c2b2JoV2pHeXo5M0E5LTRXcC04WE0xQkdXam9sNkVhMUswd0RJaE5melVPbEZWWUgyM0k2TFdBcVBjNllDbEtoenNFSkVRRjdUeHpFZk9wRDVXQU85YmVMZzNpamc4Uw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 12:15:14 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Once vuelos entre RD y EE. UU. fueron cancelados este domingo, informa Aerodom - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW1Rd0JScHJZYkx0UVNvbFE3dWpYZTZpT1B5amk0OUJsN2JnaGhDVzEzUVQza0x6NG5sZjJfa19xd01RN3JrTGFObW5GeVk2NXpSRXYzWnVIVTlDaGd6N3lSN2NPb3NsZjVEbGdFb2FUQWt4b1FKbU5GRUJFZ1FoeGlEZ1dOMlBzcmx5STdKTXhhT3d0cGt4bmdTc3hDbGloVEZTcXhacm1DcjExZXZFRi1YTjVYS200Y0Rr0gHAAUFVX3lxTE1EVlFpUzNGMkpSUTl5TnZIM3ZNd1B6ZzZYaFdvd3JIeUd2VUJ3b0o2QmNFSEIwVTM4dWQ3ajRpYzJWREc3SHdqRnduNHlhb0d6Rkp6Y0h1VlUyTWdFLVVWazBONFBYd1BRTlRWYXpWZTBieGhlbDlJN1Z0SDREVWRPS3dUTkFnbmFWalNnM250c3RrUzhPZ21WSzRvQkRkLVdrX2Q1Vks5RjFvM1RjTkVhZVdkcmlMdFM0TERIQ0NNOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 01:02:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/16/vuelos-cancelados-entre-republica-dominicana-y-ee-uu-de60cbeb-focus-0-0-1200-675.jpg"
+    },
+    {
+      "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, lunes 16 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2s2eTkyMUxjYVhlNmg1QUZPakUxaUs3OE9rejhPQmRPWnBfWDFfVHJKYXU3MnFjNy00WE9PX3ktT1ZESVh5YlF0elI1VlZCc1YySmpJczQyZTU4b2xaenVlMEIzMks1WGRCOWpOOGJoY3BHUTBCYWtiZHhuRV9JakItQThJZjF6SVdDcHRFZU9ORVR6dG9iUWtMdFM2THY3ODBuMFg3US1WTGI2X2lnaWdLZkFyVUVCZ3JjRGtZTHM4RmF3dVY1LUJ4endnTDl0MFZHd00wUWJNVDlvaENj0gHfAUFVX3lxTE5nazZ5OTIxTGNhWGU2aDVBRk9qRTFpSzc4T2t6OE9CZE9acF9YMV9UckphdTcycWM3LTRYT09feS1PVkRJWHliUXR6UjVWVkJzVjJKaklzNDJlNThvbFp6dWUwQjMySzVYZEI5ak44YmhjcEdRMEJha2JkeG5FX0lqQi1BOElmMXpJV0NwdEVlT05FVHp0b2JRa0x0UzZMdjc4MG4wWDdRLVZMYjZfaWdpZ0tmQXJVRUJncmNEa1lMczhGYXd1VjUtQnh6d2dMOXQwVkd3TTBRYk1UOW9oQ2M?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 08:00:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir de mañana lunes - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVE14dTJva2ZtVzlDMU1LR0hlQW9hcHF2SS1kOHFIVnVUdlBPa1EzUUFBOERXY3UxUDhjVTZ5ZDdUOGtSQzhLOWZoTlFMSmZYemMtVHY1OC1PblplcXFHNjhEcEZwclVuamVUM2x0UE9EZ1FmcjNLbFVvZWd1VW5nOFNGb1lJNldUU09OMEtSbVloOTlDSnRySmNZeHhsU25Ra1BmejFDQjNwVi1TQXhGQVk2VHp4SHhlLTFEel85VmFnZ0o3ZWUyWkppVW40S1RLZFFXaXAtakcwS0ozU281Q2dRNThuUjNTZjJ0YVlkZjUwNVFqaGktajFIdmhqZ9IB_gFBVV95cUxNVE14dTJva2ZtVzlDMU1LR0hlQW9hcHF2SS1kOHFIVnVUdlBPa1EzUUFBOERXY3UxUDhjVTZ5ZDdUOGtSQzhLOWZoTlFMSmZYemMtVHY1OC1PblplcXFHNjhEcEZwclVuamVUM2x0UE9EZ1FmcjNLbFVvZWd1VW5nOFNGb1lJNldUU09OMEtSbVloOTlDSnRySmNZeHhsU25Ra1BmejFDQjNwVi1TQXhGQVk2VHp4SHhlLTFEel85VmFnZ0o3ZWUyWkppVW40S1RLZFFXaXAtakcwS0ozU281Q2dRNThuUjNTZjJ0YVlkZjUwNVFqaGktajFIdmhqZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 15 Nov 2026 19:00:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Así se movió la política dominicana este fin de semana: juramentaciones, recorridos y encuentros - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWRnZWtMb2NBVTNwalo4UEFSRkRDajZfS1J1eUJXallETEhRVi1FZE9DOGItUGI0NlAyN2t4RlMxYVdoYVVMeTB6MEJHSHFwSXhqcldlcHhoUDZLX05IRzhFbTFZTnVjQlhjRUlvNHJzSWI5Sjd6STg2cWttSTNIdzMxZDJ1aF9RalhkX1dZb3J3RUpZczBob0F2M2dQaDJhZ2U3cEJwNElWZG03YVpZUDhOeG5VSy15dW1sNW9oRThEVVpweFBZN1paYjM1WU5ZMWN4btIB1AFBVV95cUxOQWRnZWtMb2NBVTNwalo4UEFSRkRDajZfS1J1eUJXallETEhRVi1FZE9DOGItUGI0NlAyN2t4RlMxYVdoYVVMeTB6MEJHSHFwSXhqcldlcHhoUDZLX05IRzhFbTFZTnVjQlhjRUlvNHJzSWI5Sjd6STg2cWttSTNIdzMxZDJ1aF9RalhkX1dZb3J3RUpZczBob0F2M2dQaDJhZ2U3cEJwNElWZG03YVpZUDhOeG5VSy15dW1sNW9oRThEVVpweFBZN1paYjM1WU5ZMWN4bg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 06:00:32 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "RD destinará más de RD$1,000 millones diarios al pago de intereses de la deuda en 2027 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFlTVV9BcGIyNXdGaC1HSlBKa1haY3hSRUdyTXRadXVYOVRkTTJFYkJWUlE0RUI1N2c2UW1ZYlMwZTZSZ01XMjJUcjFMUXhyM21yYUVtaDJ6YTRHdFhiWDdQZ2F5TlBBaVp2THNxV0l2TTJQMDVyLVRjUy1sYThuTWtUSUZKTDF4WTdIVmJNd3h2MU11ak85bXVkSGJKakNtalM4dHhJV0xXMGZsNmJRT9IBtgFBVV95cUxPNy1obFd6NnRoUi0yWXVSV1pIWmozWjNCMzlTdWpKYUdPWTgzcXBBdTlnNHNEdEl4UFlNR1c3eVkxd1RfTXFKV1NibDhMUzgtVEpmRjE5dF9UQXZjcUVOVDFJVlBMajhwUVpSN3ZwTTdGeTlzWVRWcFJkMWJyR0kyT1hsUE1tTzQwRG5XZU5QQkJkbE9fYUJyYTdDVU9haFA1ZHc3ZjJ3Q0dXNVQxMEpiX1hKLWZtdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 11:51:15 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Cuándo juegan Uruguay vs. República Dominicana por la Fecha FIFA: equipo, fecha, hora y TV en vivo - ESPN Deportes",
       "fuente": "ESPN Deportes",
@@ -21,14 +101,6 @@
       "imagen": "https://www.cdleganes.com/public/Image/2026/11/jaquez_jpg.webp"
     },
     {
-      "titulo": "Eduardo Yáñez denuncia presunta extorsión relacionada con delitos sexuales en República Dominicana - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3N5VVJOUlp0NzRHT0ZKak1WdmhpdlcxNmlYQkRQU0V2Z2QzdXZpR0pGQUFuYUI0bmM5dndPeDdlR0VLMHNFVFNWTkJJQW1iU2N1VWhxYlp2bmxXU0xJX0hxazE0U2U0QUdfYndyaVlOQkt4VUo1T2FmZVRYM2VJM1dmRV84U1QySjRpQ3dSZWd6ZlNHa0U1anV2TXlxSG83bXc1LTVLUVhWNG14UkVvN2xkRnJ1eGJub1NjR19WemtmZlNXc0d0a1Fkc2JjUGZmOF9PR3llOHJ5eU5IMjl0UTZuVzdtclZTMVB0SG5BbXZGdDIzX0wteXhtOTdmV3NxenVHWS1fRQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 07:33:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/741/935/49664572714-1080pnbcstations.jpg"
-    },
-    {
       "titulo": "CEPAL insta a vincular educación y desarrollo productivo en Centroamérica y República Dominicana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0t0VzNuUFlNSkNuNm9BZjdva3dqRVgwV2V1VklQeF8ta3lRQ0FNY0ViQXJ1ZmVRVW9nREdPNlk3MnhGTEgwUUJwWUp3RjVVV2FJaWpkTFBZaU5vcERSb0lha3J1eFFuelFHZ19CVWxRZkx1Um5YU1pMZ1psclM3eEJGZGlVNnVUSHk0ekUxeV9rQmFnangtRHl2VWJPdElKNy1DaXJQYVBLUFVCZk5iTjFwaFpRMHJxMGNwMTFTeWtSU3p1V0J5RGhibm04cXdSUmotRmRQLXhrLXBCT29JaWVkandRTTN20gGDAkFVX3lxTE9IbE5xc0hBTUJ6dFhCTGxKdTJzSXlCdXdJYkpBYWd2aXBmSnhCZnJxb0ZDc2pBMEE4dW5FRUpIZlQ5bVhOM2VOTVdUTEotMFJpZE1HWThWbEFOQkJ1a19TNTZvdWNhbXNrQW4yNEtPUHNQTm4tUGZHeHp0enZ0MDlINk5xRXVHN2l6Rm1SeExzUjJyMFotbkNWUXlGQzNiNzZZVjdSRVlPTXFobV85djdpVjhNZ0trMXVRd0Y0Rm5hMGxTVUhKWm5KMzJtYWhpTDFfcDRfTW91QVJkcUliUjZqUzJvLVRkU0tCQlQ2Q0VaU3UwUEhYbUVrc050LW9HRktPbmM?oc=5",
@@ -41,16 +113,8 @@
       "fuente": "EFE - Agencia de noticias",
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWkwZmk4dkt5Wm1ZV25EZHkxeV8xMEFZU1k0UTRrYUxIVnNlVnZqNkZuVmIwc2pFQTU3YkZFV2xmU1Y5SjhtQzFLRnFJN1RWOXRGU1BtUy0xZTczT0JPVG02bV85RFZKNmVCOWg3eF9ZeVFCVGpHOHZsR281QXhiY3dCY3ZqX2UtUGpMekNEM3JXQkZIX1dJWGN2QzVsM2FJOHR6Zg?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 13:03:48 GMT",
+      "fecha": "Mon, 16 Nov 2026 13:05:38 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Once vuelos entre RD y EE. UU. fueron cancelados este domingo, informa Aerodom - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW1Rd0JScHJZYkx0UVNvbFE3dWpYZTZpT1B5amk0OUJsN2JnaGhDVzEzUVQza0x6NG5sZjJfa19xd01RN3JrTGFObW5GeVk2NXpSRXYzWnVIVTlDaGd6N3lSN2NPb3NsZjVEbGdFb2FUQWt4b1FKbU5GRUJFZ1FoeGlEZ1dOMlBzcmx5STdKTXhhT3d0cGt4bmdTc3hDbGloVEZTcXhacm1DcjExZXZFRi1YTjVYS200Y0Rr0gHAAUFVX3lxTE1EVlFpUzNGMkpSUTl5TnZIM3ZNd1B6ZzZYaFdvd3JIeUd2VUJ3b0o2QmNFSEIwVTM4dWQ3ajRpYzJWREc3SHdqRnduNHlhb0d6Rkp6Y0h1VlUyTWdFLVVWazBONFBYd1BRTlRWYXpWZTBieGhlbDlJN1Z0SDREVWRPS3dUTkFnbmFWalNnM250c3RrUzhPZ21WSzRvQkRkLVdrX2Q1Vks5RjFvM1RjTkVhZVdkcmlMdFM0TERIQ0NNOA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 01:02:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/11/16/vuelos-cancelados-entre-republica-dominicana-y-ee-uu-de60cbeb-focus-0-0-1200-675.jpg"
     },
     {
       "titulo": "Quién es Melissa Núñez, la representante de República Dominicana en Miss Universo 2026 - Diario AS",
@@ -59,70 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 15 Nov 2026 22:40:42 GMT",
       "imagen": "https://img.asmedia.epimg.net/resizer/v2/63QXOFMY3ZHENCFX2XT4L3XDZM.jpg?auth=7543754a8e58f31304dbaa4c4a1581e53d75879f465c677fea3585402b637c56&width=1472&height=828&focal=637%2C190"
-    },
-    {
-      "titulo": "República Dominicana: El presidente Luis Abinader designó a los tres miembros del nuevo Consejo de Juegos de Azar - Yogonet",
-      "fuente": "Yogonet",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTUlyR1Nkb0t0TnQtVTI3dHEtYURDM0U5eHFubkZSTzUzVVlRbzF4a19zRlR0QTBscEpNZWRXeV9IZHkyVzNvMXdWeTg4WDlCZkN6cWZyREFINW1mUDM1RTcyNHNRci0telU1WUREZUdKc3ljQ0RBMFVyU0hnZk5OVGhvbXlGM3dDZmNwQTZUZTZ6d0dyU3NucHZYM2NSNXlscjlDX1VNT3JNN3JqRmtSV0RhVVBjVEtIaXJEamd5RElMeVBjdjVRQVNKeENjdktUTmN2VG9oNGFRakVPcDVaWW9aTFN1VnhWWF9idWVmaFJycFJoMFRDLVZQT20wRTVQM1IwYTdHZTg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 12:07:18 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El sueño de buscar una mejor vida fuera de Haití y escapar de su crisis termina para muchas personas en los pasos fronterizos con República Dominicana, a donde todos los días llegan camiones de la Dirección General de Migración (DGM) para deportar a - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xSjRCWGEyWElCUHA1ZVNRNkkxa3ctbThmRERkVVNvX2R0S1dpMnpoRHVZdmFHbUpJcU82RzNqZzRqTzJYQzBPbmNSUi1WYkpoYnc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 17:00:20 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/909552538_1146467661365492_3784403916223430716_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7nKMXw3wqdUQ7kNvwGrlrpo&_nc_oc=AdrXtCWmB_jxqr_y-M6VV8fRKYGmEb-ssYRUpXZnpnkZNjl8rwO338CO1lyyzB4ap74&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=TqvpbX1XMMXrGHBoJYUqpA&_nc_ss=7b689&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQXWPF1w-Rr6Viz_-PJpcqSTxQx5IUtUZZd1hQ-gEANxw&oe=6AFFFBC8"
-    },
-    {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este lunes 16 de noviembre de 2026 - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUVWS2d4aGtYVWlGV3RCOXpuSExNQUFOaEtEXzV6V0ZybzJYYlU3akFiaXlhTjhmN0JYODVzcDJobEw4eDRHdWJOMGhRWmdwVDVPZUd3R3dBUkZWZm1Pbkkxd1EzTTRXVE9QaEpuS2M2SFl3V3pQaThwSDlvTXdzNVdaWnhneHBvMU1Ncy1NZEozQVFmR1ZfSjlfZG1TR181ZmZWWjBZbkJMMkVZLXJCMkZHUGhCZ2pIR2JISDdXNE5jNEt1dzNMTmxOSlJISHpYOWxLV2xB0gHWAUFVX3lxTE4tRVZLZ3hoa1hVaUZXdEI5em5ITE1BQU5oS0RfNXpXRnJvMlhiVTdqQWJpeWFOOGY3Qlg4NXNwMmhsTDh4NEd1Yk4waFFaZ3BUNU9lR3dHd0FSRlZmbU9uSTF3UTNNNFdUT1BoSm5LYzZIWXdXelBpOHBIOW9Nd3M1V1paeGd4cG8xTU1zLU1kSjNBUWZHVl9KOV9kbVNHXzVmZlZaMFluQkwyRVktckIyRkdQaEJnakhHYkhIN1c0TmM0S3V3M0xObE5KUkhIelg5bEtXbEE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 07:59:32 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Precio del dólar en República Dominicana hoy, lunes 16 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
-      "fuente": "El Comercio Perú",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcUs3RlZXZGxDOGxUaEUxeFZDRXpEUEFWNDdvbVVpQUJuYk1YZEFjUTloRDNxTENQNzFGRXhBZ3VvSGcxSzdFcUR5QU1rM1h5U1kweVZ2TWJTQkpnRk9ZYmlWTUs3bnItZ081cU1xdDktc2k5TjVHa2E0XzhPeTV0RDJ4S0VNOG80WjBnZGRXMTdWLUp5V2xnMmpCcnBhVDc2a1M2VmNkMEtHUEZaNmpSel9GMnBMalNZOWROTTZTZG5qTFVneGJsREVzcmVkeGF2VXo1RlRxZXZWTjk1UlhhSndpWU9mcUx3eHVTbThQTUNfa3k4SFJJ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 10:30:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dólar hoy en República Dominicana: precio y cotización de la divisa este lunes 16 de noviembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGx2WXV2TDVfbkYwM2dKa29OV21scklNTzZvUU5fMlVFZ3FJRmcyYWlmMTRKOWZSRW9xaTFGR2tCekpCY0hONFdpSy1kTkM3Q2hoR1BfTlN4VGhOd09RVHBPRURfQmNsWGFfOWx5SDNsTllaZ2FEay16X2FsQXE4dGY3dzQyeUV6S19peGVpTWJrYVY2NzAtWGkwNWpseU43MDZFNmlmTzg0VzZHYXVpaTQyM1czUnF1VkUxbXJNU0QwZVBiWVNNV3llaldiQzh4Z20zcHdqcV9MQktCN1FxZE5HSVgyd9IB6wFBVV95cUxNeEUyQ2U2eTRKaTkzWVR4c3pvVUE1Z2RLdVZZRUNRWUhUbkV5Q3drcUFraXNpME40YVJudG9XNXdSS0Z5WWJrZkVfX3JMa0NpQVNtMTMxSFZ4SHVEUnk0cmt2LTJOMktmd1p0ajdQbWcwNFdkZUFFWGl4akZScV9MbmxtT0VRc1ZobEFaSDVTekpacVNGc2pqaDNlUkw5eDdSeWdzWVFfV1IwQ3F6aUlWaW9KTUVrWGtXcDc4bnhhTVBVZjJzUGNMeWl6Sk95WHJ6a3hvVDFmeE9JVFBYbTFjeG9ES1N1VUhzNER3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 10:40:13 GMT",
-      "imagen": "https://www.clarin.com/img/2020/02/03/XTufI4c7_1256x620__1.jpg"
-    },
-    {
-      "titulo": "Mundial Sub-17: definen a selección que reemplazará a Estados Unidos en Qatar - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWc4cDRST1pFRE80TVRJVjVBNzBTbVpLZW5Uc1Badk84YXZnRjJrVlRpaWVxdTR1VHV2MUxxOXZHVVVaTFFLV3BnZkZmX1lkNUNCTGxjX29mRHlOeXBDZjN6NVE3WlBzWW1pQUs0dks4ajVjdGlxajR3YzRWOEk5NkFUem9UM1ZQRTkyY25RNXdmcjlORnRYSURReWVScmc3aDBGNUJrclIxVEdlVVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 13 Nov 2026 00:46:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vicepresidenta dominicana abordará la cooperación regional ante la crisis humanitaria en Haití durante una conferencia en El Salvador - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNT2hZbmZhT091a1hPdXZQRFZGck9qTU9heVJNeG4yaDNxOGtOdGY5S1pJdkFnT0UxR3VVRFM0bDZCVTcxUVVESnFQa3RSSDFtN1dGcnNpT3A1Nnh6UTBGX0ZQSEtnb2FGQjZDbk5wYk1HSXU0Mkd6V0QtRWR6M3VJTjZYeXp6b19Nbl9TRHFTbWZ1RkRTMTl2SGtGRUs5R3gwWmVIRDdncm1icmhtaGVqV1JZd1NoUklfZFZMNzN6WmluRWlxdGd0dEU4Qmx6S1lBaXBIVjE0RGxuN3VTdUdlSm11ODNKMEZ1aTZZWTY1Q2dINTZpQVJjRDk4Vm1Cd1ZyNHp6Vmh3c0tadEg0X3fSAagCQVVfeXFMT0oyUzJrQ1RJNDBZREVWSi1BbW1panhCTGRpbjU1Ymhtd3JTZlloMml6VU5ubFNaZkNVUDNHVGZkdUVKaUZxTFFXWDBDb0RHUjIzMlNET2ZINUJHNWZWQlVUUDJCNTZIaUI2R3F2elpyQnRfTFIzQXZJRFp5MkRfemZyaTNfbnVLQ05vNkg1OWJfT0hpMXZMeFFVNUl4NkVIVThHZDJCZUFuX0R0TDdtMWx1YXBIMjQxX2U2ZHBjaWpGQzRDT04wWWlsY1IyZThSYWw5TmRGc0syOXdpX2x5Q1U2Zm1ub2NkaFM0ZEo0NV9GQ3M3bi13azEyZ2RIQnZlOXpqNm5nOVBLT3VDNlBTQ0pBY1F4NVNQVHZRcGRYRGlyRldMVTFxMWU?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 19:47:48 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/UDEXHR6O6BDXTJVTGPZ54FHCV4.png?auth=4a792390ea57e716d1d05e64c88c8f95bb78671548551515f7c7d98b7402ed43&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "RD se alinea con EE. UU. y Europa en materia de seguridad tecnológica - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY3FwNFFQWXVKMGhkUlBEZk9JRDFla0hfeW1sMWlBQzZ6Yl9YRGVpdGdvbzhEb1FfQTd2M0FjLXNqT2EyQkY4MjBNUFhzUEFkQUhCbkRGS3AtemdDN3doZnBTODBYWldZM2duVUVHb01JTUpjX0hUcGx2ZlpTUm5RLTktSGJFZG9WUkw2eXZWZm0zZGFIU09iSEg1cUxUWmZlb0xoUUlaVEJkVjllVUpCNmNXUnRRdnh3d3hpMjFvLTNScnM4NmxZV9IBzgFBVV95cUxOeC1JRG9wNVE2cDV2bk9ZSGxUOGVWT2UzeERBZFVHaUZCTnotMG1ELW9hOFdPOTdOMk12ZzlrRDY1T0VuelN1NktKQ3VzT3F1YVNndkxKMFFab2VHSDJFWlNZQ2lpQ2tYRHdKc0FvWnRZdlB5dW85aWhlVGJCbERYYnN2aHROSGpnbV90X2k4ZVhnaFJQUHlfaENNQnFkTndVZWtDQUo3REZNWk0yWVZ2RmV5cExZZE41aEpUTTN5MzYxZFBvRHd6NXI3Z1Bwdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 04:01:00 GMT",
-      "imagen": ""
     }
   ]
 }
