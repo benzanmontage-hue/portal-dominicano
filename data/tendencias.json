@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T17:34:25.900603-04:00",
-  "hora": "17:34",
+  "updated": "2026-11-16T17:54:51.898068-04:00",
+  "hora": "17:54",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "allemagne – pays-bas",
+      "trafico": "100+",
+      "noticia": "Ligue des nations : Klopp séduit par le «football à la Xavi» des Néerlandais",
+      "enlace": "https://www.lefigaro.fr/sports/football/ligue-des-nations-klopp-seduit-par-le-football-a-la-xavi-des-neerlandais-20261115",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRret2L9Uc_kvVkAXUo2VZPdMd4-ytwbYsVVezRJlvld-0Pk-ddnlXdvr4Bg6I"
+    },
     {
       "termino": "frontera entre haití y la república dominicana",
       "trafico": "500+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "alemania - países bajos",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Alemania - Países Bajos en directo: gol de Wirtz | Última hora de UEFA Nations League en vivo hoy",
       "enlace": "https://www.marca.com/futbol/uefa-nations-league/alemania-paises-bajos/2026/11/16/01_0195_20261116_357_366-directo.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6LzeDB1qPsyiHcmB1_UvUMNVvgc2PQE9wCb-zfE6uxEKObZ9ntqa2NxzWAMk"
@@ -57,9 +64,9 @@
     {
       "termino": "terremoto",
       "trafico": "500+",
-      "noticia": "Temblor en Indonesia hoy, 16 de noviembre: magnitud, epicentro y profundidad del sismo",
-      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-16-noviembre-indonesia-magnitud-epicentro/19036",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtM7RdYBfD8Ga1v-B_ziHZWxEJ82MGailb6kLuPgwfHyvzLLl_B0ZJRY0Jgx8"
+      "noticia": "Terremoto en Indonesia hoy, 16 de noviembre: magnitud, epicentro y profundidad del sismo de 6,7",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-indonesia-hoy-16-noviembre-magnitud-epicentro/19048",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9uDH2hQxSRW2mdGo2I9PiwCv4s9kz5eyhv4zT7y1SQiK5lAwvVKSkUWgiS5s"
     },
     {
       "termino": "kings - thunder",
@@ -67,13 +74,6 @@
       "noticia": "Oklahoma City Thunder vs. Sacramento Kings Live Score and Stats - November 15, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261115_OKC@SAC/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWcs3j_N5vFt01ACxKo1jhIMkv8rf4Kw3iLpY1wuRgz8aCBMj8q5PzemhqTz4"
-    },
-    {
-      "termino": "wizards - rockets",
-      "trafico": "500+",
-      "noticia": "Licensable picture: Washington Wizards vs. Houston Rockets",
-      "enlace": "https://www.reutersconnect.com/item/washington-wizards-vs-houston-rockets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwVUFLV0sz",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROxZTRH722H-cD2IZ5fEDdDabibEpM3xPk-MNNQP-q1Xxk6wc9jpNqC9DOkbk"
     }
   ]
 }
