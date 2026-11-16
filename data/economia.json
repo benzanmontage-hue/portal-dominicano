@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:52:10.978420-04:00",
+  "updated": "2026-11-15T22:53:44.329734-04:00",
   "fecha": "15/11/2026",
   "indicadores": [
     {
@@ -41,8 +41,36 @@
       "clave": "deuda_ext",
       "nombre": "Deuda externa (% del ING)",
       "unidad": "%",
-      "ultimo": null,
-      "historial": []
+      "ultimo": {
+        "año": "2025",
+        "valor": 47.0
+      },
+      "historial": [
+        {
+          "año": "2025",
+          "valor": 47.0
+        },
+        {
+          "año": "2024",
+          "valor": 45.3
+        },
+        {
+          "año": "2023",
+          "valor": 45.5
+        },
+        {
+          "año": "2022",
+          "valor": 44.4
+        },
+        {
+          "año": "2021",
+          "valor": 48.8
+        },
+        {
+          "año": "2020",
+          "valor": 54.5
+        }
+      ]
     },
     {
       "clave": "pib_pc",
