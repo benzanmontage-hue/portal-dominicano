@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T18:55:53.072089-04:00",
-  "hora": "18:55",
+  "updated": "2026-11-16T19:16:14.326397-04:00",
+  "hora": "19:16",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "united airlines",
+      "trafico": "100+",
+      "noticia": "United Airlines says technology issue affecting departing flights",
+      "enlace": "https://www.reuters.com/world/us/united-airlines-says-technology-issue-affecting-departing-flights-2026-11-16/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThx2sNndO1xGLfRLdPdDOssMkwuRnZTo3Es8dgCufwNAlWZ1Raveu21MQ34_s"
+    },
     {
       "termino": "allemagne – pays-bas",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "alemania - países bajos",
       "trafico": "1000+",
-      "noticia": "¿A qué hora es el partido Alemania vs Países Bajos y cómo verlo en TV y streaming online?",
-      "enlace": "https://www.si.com/es-us/a-que-hora-es-el-partido-alemania-vs-paises-bajos-y-como-verlo-en-tv-y-streaming-online-16-11-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqyj5TqZjV60T2P5Sfrh6eZ-jsAGO2MMlpiMxfR_YlFA1Z-DyTggVIQ-IPl1Q"
+      "noticia": "Alemania despierta y arrasa a Países Bajos con un doblete de Wirtz",
+      "enlace": "https://acento.com.do/deportes/alemania-despierta-y-arrasa-a-paises-bajos-con-un-doblete-de-wirtz-9791221.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6b5YhrD9zv6bqOYgdhGEZLWjaqDgI2WUJg1yYdr5r9AShd7Bh3mq50pmeaKo"
     },
     {
       "termino": "josé ramón peralta",
@@ -67,13 +74,6 @@
       "noticia": "Terremoto en Indonesia hoy, 16 de noviembre: magnitud, epicentro y profundidad del sismo de 7,1",
       "enlace": "https://www.minuto60.com/mundo/terremoto-indonesia-hoy-16-noviembre-magnitud-epicentro/19048",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9uDH2hQxSRW2mdGo2I9PiwCv4s9kz5eyhv4zT7y1SQiK5lAwvVKSkUWgiS5s"
-    },
-    {
-      "termino": "kings - thunder",
-      "trafico": "200+",
-      "noticia": "Oklahoma City Thunder vs. Sacramento Kings Live Score and Stats - November 15, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261115_OKC@SAC/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWcs3j_N5vFt01ACxKo1jhIMkv8rf4Kw3iLpY1wuRgz8aCBMj8q5PzemhqTz4"
     }
   ]
 }
