@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-15T22:53:38.882580-04:00",
-  "hora": "22:53",
+  "updated": "2026-11-15T23:14:13.027261-04:00",
+  "hora": "23:14",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "kings - thunder",
+      "trafico": "100+",
+      "noticia": "Thunder look to snap three-game skid against reeling Kings",
+      "enlace": "https://www.cbssports.com/nba/news/thunder-look-to-snap-three-game-skid-against-reeling-kings/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
+    },
+    {
       "termino": "wizards - rockets",
       "trafico": "200+",
-      "noticia": "Alperen Sengun, surging Rockets visit reeling Wizards",
-      "enlace": "https://www.cbssports.com/nba/news/alperen-sengun-surging-rockets-visit-reeling-wizards/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+      "noticia": "Rockets rout Wizards, hold Trae Young scoreless for first time",
+      "enlace": "https://www.cbssports.com/nba/news/rockets-rout-wizards-hold-trae-young-scoreless-for-first-time/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykShh8-Ry6RpOthgLTW0y7dX3UY1-yJT2SYECYCXaUoBGUTn-UZ0kSD409bg"
     },
     {
       "termino": "panamá - curazao",
@@ -22,16 +29,16 @@
     {
       "termino": "autopista",
       "trafico": "100+",
-      "noticia": "Fiscalizan 48 conductores de carga por transitar en carril izquierdo en autopista Duarte",
-      "enlace": "https://listindiario.com/la-republica/provincias/20261115/fiscalizan-48-conductores-carga-transitar-carril-izquierdo-autopista-duarte_930165.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzZVzdQeC7nbU5CAdf_GTJYzSZCHaViGzUBQRBuazrOj45sGOSy1Sco4KpbOw"
+      "noticia": "Obras Públicas desviará tránsito en la autopista Duarte por instalación de vigas en puente de Bonao",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/14/anuncian-desvio-temporal-en-autopista-duarte-por-obras/3720829",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF8whmoMWjmpO0tRr5Ryo3LtSrHGFLL16BqjNAOSOQCD0Ju-B9VJPnDYmX0aE"
     },
     {
       "termino": "celtics - mavericks",
       "trafico": "500+",
-      "noticia": "Jayson Tatum scores 32 as Celtics rout Mavericks 131-94",
-      "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-scores-32-as-celtics-rout-mavericks-131-94/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+      "noticia": "NBA schedule-makers undermined Cooper Flagg s only trip to Boston this season",
+      "enlace": "https://hardwoodhoudini.com/nba-schedule-makers-undermined-cooper-flaggs-only-trip-boston-this-season",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG2v7AgPgdeTIGgcUidQBbZaxHKlcFSJXBbchtZt0dnLdsq42qE13UkL5m2hs"
     },
     {
       "termino": "raptors - knicks",
@@ -50,9 +57,9 @@
     {
       "termino": "lamine yamal",
       "trafico": "200+",
-      "noticia": "Lamine Yamal set to wear number ten jersey for Spain in the absence of Barcelona star",
-      "enlace": "https://barcauniversal.com/lamine-yamal-set-to-wear-number-ten-jersey-for-spain-in-the-absence-of-barcelona-star/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCfP27D7IB9dBKowxexVaxUr6B-g9-aX7rlbzlMayi2hisyjFDWSvkrGuBkcg"
+      "noticia": "In the Catalan press: Yamal faces an unfair Madrid campaign",
+      "enlace": "https://www.goal.com/en/news/in-the-catalan-press-yamal-faces-an-unfair-madrid-campaign/blt0e5b75251de1af60",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqWOzTNRg0lN-dQkdLXIopTcU3RfIKJ_hVxg61NI6aIGzxWA5HO6LO4OwdIP0"
     },
     {
       "termino": "jazz - spurs",
@@ -67,13 +74,6 @@
       "noticia": "France 2-1 Turkey: Eli Junior Kroupi scores first international goal as hosts qualify top",
       "enlace": "https://www.bbc.com/sport/football/live/cw30g3p6vd15t",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUw9biGQ6MaFKJkgjfHeGoAwNZHnIFnHgk8gT1KJXfSPw39OtW_hGc6N5mMeQ"
-    },
-    {
-      "termino": "lebron james",
-      "trafico": "100+",
-      "noticia": "Indiana Pacers vs. Philadelphia 76ers Live Score and Stats - November 15, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261115_IND@PHI/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4gVDgRftoNhtLYsYbwi0-dY9yVcUX7O-wo3URN5HloR2K17oOrIFmTvDd0SQ"
     }
   ]
 }
