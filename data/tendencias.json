@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T23:14:13.027261-04:00",
-  "hora": "23:14",
+  "updated": "2026-11-15T23:34:40.492099-04:00",
+  "hora": "23:34",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,18 +20,11 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykShh8-Ry6RpOthgLTW0y7dX3UY1-yJT2SYECYCXaUoBGUTn-UZ0kSD409bg"
     },
     {
-      "termino": "panamá - curazao",
-      "trafico": "100+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
       "termino": "autopista",
       "trafico": "100+",
-      "noticia": "Obras Públicas desviará tránsito en la autopista Duarte por instalación de vigas en puente de Bonao",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/14/anuncian-desvio-temporal-en-autopista-duarte-por-obras/3720829",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF8whmoMWjmpO0tRr5Ryo3LtSrHGFLL16BqjNAOSOQCD0Ju-B9VJPnDYmX0aE"
+      "noticia": "Fiscalizan 48 conductores de carga por transitar en carril izquierdo en autopista Duarte",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261115/fiscalizan-48-conductores-carga-transitar-carril-izquierdo-autopista-duarte_930165.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzZVzdQeC7nbU5CAdf_GTJYzSZCHaViGzUBQRBuazrOj45sGOSy1Sco4KpbOw"
     },
     {
       "termino": "celtics - mavericks",
@@ -74,6 +67,13 @@
       "noticia": "France 2-1 Turkey: Eli Junior Kroupi scores first international goal as hosts qualify top",
       "enlace": "https://www.bbc.com/sport/football/live/cw30g3p6vd15t",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUw9biGQ6MaFKJkgjfHeGoAwNZHnIFnHgk8gT1KJXfSPw39OtW_hGc6N5mMeQ"
+    },
+    {
+      "termino": "liga de naciones",
+      "trafico": "200+",
+      "noticia": "Panamá no pasó del empate ante Curazao y buscará la clasificación al final four en casa",
+      "enlace": "https://espndeportes.espn.com/video/clip/_/id/17512748/panama-no-paso-del-empate-ante-curazao-y-buscara-la-clasificacion-al-final-four-en-casa",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxUHGAk4ovWPCnOVQmALYBvodpKAaH8pZsJrlzohFnlzYAnOGBV-uDxBWKny8"
     }
   ]
 }
