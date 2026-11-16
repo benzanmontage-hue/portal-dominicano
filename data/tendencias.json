@@ -1,16 +1,37 @@
 {
-  "updated": "2026-11-15T20:48:38.784303-04:00",
-  "hora": "20:48",
+  "updated": "2026-11-15T21:09:01.183791-04:00",
+  "hora": "21:09",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "wizards - rockets",
+      "trafico": "100+",
+      "noticia": "Alperen Sengun, surging Rockets visit reeling Wizards",
+      "enlace": "https://www.cbssports.com/nba/news/alperen-sengun-surging-rockets-visit-reeling-wizards/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
+    {
+      "termino": "panamá - curazao",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "autopista",
+      "trafico": "100+",
+      "noticia": "Fiscalizan 48 conductores de carga por transitar en carril izquierdo en autopista Duarte",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261115/fiscalizan-48-conductores-carga-transitar-carril-izquierdo-autopista-duarte_930165.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzZVzdQeC7nbU5CAdf_GTJYzSZCHaViGzUBQRBuazrOj45sGOSy1Sco4KpbOw"
+    },
+    {
       "termino": "celtics - mavericks",
       "trafico": "500+",
-      "noticia": "Celtics vs Mavericks LIVE, Score Updates and Play-by-Play in NBA (96-61)",
-      "enlace": "https://www.vavel.com/en-us/nba/2026/11/15/1279336-celtics-vs-mavericks-live-score-updates-and-play-by-play-nba.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgk2SSVu1lHB-QJPkJSs7lMhhj6leFFyzdUnl0Cz-Su6sPWJvWdk-UpCzBzkg"
+      "noticia": "Celtics set franchise mark with 42-9 lead over Mavericks after one quarter",
+      "enlace": "https://www.espn.com/nba/story/_/id/50496245/celtics-set-franchise-mark-42-9-lead-mavericks-one-quarter",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxRDPKsPe7SwnuIYqg6POeYADsNQDToCmILbelWJqxX9LsjVrmEm--APeZ4OQ"
     },
     {
       "termino": "raptors - knicks",
@@ -27,13 +48,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-KnioWP5CH27mOJeGw_p5sBsfqozNjN62YZS3PJ0cLsDdmvUrW-uOsSTGq0"
     },
     {
-      "termino": "classement équipe d espagne de football – équipe d angleterre de football",
-      "trafico": "200+",
-      "noticia": "Belgique 4-1 Italie, Ligue des nations A : match terminé",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/belgique-italie-live/688713",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPK-Vmmixpa0Th5fY892BwhTmVA8bRDDFoSHgFm6I8f7kIT_A6cWPp90bM41M"
-    },
-    {
       "termino": "lamine yamal",
       "trafico": "100+",
       "noticia": "In the Catalan press: Yamal faces an unfair Madrid campaign",
@@ -48,13 +62,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
     },
     {
-      "termino": "lakers - suns",
-      "trafico": "100+",
-      "noticia": "Luka Doncic, surging Lakers visit Suns without Austin Reaves",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-visit-suns-without-austin-reaves/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
-    },
-    {
       "termino": "lebron james",
       "trafico": "100+",
       "noticia": "LeBron James climbs to 3rd in NBA assists as 76ers beat Pacers",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "suns - lakers",
-      "trafico": "5000+",
-      "noticia": "Los Angeles Lakers vs Phoenix Suns Nov 15, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/lal-vs-phx-0022600237/box-score",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgpSG8CTRXdl6ZAz1pZ5kMtYOcYkuJ5kvVYzYmot0ir6VB4QrYQf-UzhSMha0"
-    },
-    {
-      "termino": "leidsa",
-      "trafico": "500+",
-      "noticia": "Resultados de las loterías del sábado 15/11/2026: ¿El premio es tuyo?",
-      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-sabado-15-11-2026-premio_1108736.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+      "trafico": "2000+",
+      "noticia": "Luka Doncic drops 43 as Lakers fend off Suns for eighth straight win",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-drops-43-as-lakers-fend-off-suns-for-eighth-straight-win/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
     }
   ]
 }
