@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T18:35:34.393670-04:00",
-  "hora": "18:35",
+  "updated": "2026-11-16T18:55:56.932583-04:00",
+  "hora": "18:55",
   "fecha": "16/11/2026",
   "total": 15,
   "noticias": [
@@ -26,6 +26,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0V5R1dDZmJHTW1KRzh4QmdKZDNzd0RJckctQ3daTl9uWmFLRG9Hdm95RmdHZmE1bEkyVllLX3Y1MXBsUUN0LXluT0pieTJqUjc5QXpsUXdfdzBQZUdTWGpoMFZLVjJBZmtWRTZyaXdGb3oweXVEWmVma0NvNTVvaWFRQkNqeTc1dXNpdFFqTVJXbEN6TllhTUpUanFVVDFCal9MWQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 16 Nov 2026 17:55:40 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Asesinan al periodista Camilo Rodríguez en Santo Domingo de Heredia - CR Hoy",
+      "fuente": "CR Hoy",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkNoREY4RU1qQkNHS2h1aEVxNzhOMUtEUXhacFJPMzZUMGFnRENGbDZzcFpVLW5vQ0FFanU1MXBRc1hTejZtRFo0c2t4cG9pbkpSVXFENlFEQkx4SWRvUXNaRGJfTHQ3OWx6LVgtRG81bG1QLU1JdmJmRWtQZVUwdEhKS09WZGRob3hDOTNscFZVRm11UVJkeVRiSy1adw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 22:01:02 GMT",
       "imagen": ""
     },
     {
@@ -93,27 +101,19 @@
       "imagen": ""
     },
     {
+      "titulo": "Asesinan a balazos al periodista costarricense Camilo Rodríguez, conocido por sus denuncias contra el narcotráfico - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHhZNWdGaFEyZDFFbVNSN1o3NTRjc2NLREVQSFFfb05vNktma2xWM3pXdkxGa1ZhMmtKLVhHZUpDd0JKTHIzUmh5VWNseVZnQ0QtNW1jemUzcE42T3FmZk5LQjhJaVRtTVNqRHdrQ3cwWEJ2SGtjQTI2OUxZdWJzY1VDVXh1QmxZczFwVl9PTTFsNHpoS2MwUzN5NDlLQzlXSnlTM2JrM2V3M2h3SkZsX2xJVzcyTDNkbFUtMGlPWm9hYW5uMExQZFJId1RRcElGbkkzdEpWOHFTTmFDWjBzdG9ldHgtMlhRVzZWZVNoRXh4Z9IBjAJBVV95cUxQdGJHNl9ZNXhPZVl5emJ3Uzk1bHRYUzM0ZURGajNpT0FsTnJjdVVOaVVJc2QwSEN6bGx1bk9WdEdvZW4xYUdsZFl4ZGJfSUlZMUZwQ3VIOWZycDlPbzFkRUtxVWdwNk9ZUVJFaEJiMTRzVnRvakl0bzdKNExJNlVPS2pJdEQzN2RUVnlITDFweE1wSlZrZ2RFZmtDa1hQbFROLTlsNDJHR0l5YmszaldObWU5NUlrOS1RaDk0S05KXzRKbU4xZWZ3OU9rZXFRc0hYMnhmS0w0bXllWEpZOGhYVVh3QjUtQnduUDhPTEJQdllabVl4UmdGNld1UV80NTZvMlpJdG5sVE5XVElq?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 16 Nov 2026 22:38:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Hija y dos sobrinos de la alcaldesa de Santo Domingo resultaron heridos en accidente de tránsito - El Universo",
       "fuente": "El Universo",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVFvTURNOG5VajBTVFV3R19yNTBhd281czhqWEFKQVNfTW5aYWpya3BpNkhDeXgtT3RPWDJXaGI4c05jV0xoNFJpN0dHbmM3UUJVb2tUSzFRcVRveXd5cTMzVjJsdzFieEJySmlGQmZlcVdTUm16SWZkTnpnRktHbDBJeWgxSlNoSFFoellMNHA3SFpxcUc4a2FTNUw5Vkt2UFY3Z0M0UU9WcE9qUHV4SkdXSVAtT1N0VjU4NDRYcWdneklLNTV4ZXZPQkluWnhIQjlDdTFTMVo4UDhUUm5scNIB9AFBVV95cUxOMldCdGlzb0puRlNlRktUZWN6Y2RnczdmYkNtRXkyVlRNZ1ZYYzNxdjFobHFrNXVVckdtZm5sLUh4T1dFT0h5UW5PaE5yYlk1ZFF6eTBTOHd6TWpSVDdPaERlNzEyaHBxc1J6NGxqS1M1VUh4SFpoYk9RUEc5VVUxOEVUOVpDRF9fcGRWTDE3ZmVib2lhR1VUU1duRWpOdDBxTmF5d2RraGZiU1lBNVFfX1pGTzlROElPVERnc0t5WkxJWXI0Qmx6X2NDWTFlVWhJcHdxRy16Y1ZTUHBaVW9VemY3WTFJTnVkeS1ONFliamhod1Fr?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 16 Nov 2026 04:48:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alejandro Sanz convierte su regreso a Santo Domingo en una noche de música, amistad y recuerdos - N Digital",
-      "fuente": "N Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjgxcWFYUXFWbVM2RFVVQzg4VW55LWdoZ0dRWGVmc1VlNTBoZHIwNllYazN1R0k3dFp2MDJ3NTliV0haMUZ5X2ozUnF1bk4wZm53bTNUNFBzNW0wQ1d6MFFTTjFXU0tTMVFYTllYX3psMGFXZmVuRkdlSUtqYS05RDBXZUFDbENySlgybDVWS3BKbHRoWGt1TXVGN0VvaXk2SjdHZFhBUTVwTk1YLXB4X0g2NENMcEpsWmRlNkl1UTg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 16 Nov 2026 19:07:30 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Alejandro Sanz cautiva con sus éxitos y un emotivo homenaje - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREUzZWRIaVFhUzlYU1RwMlp4ajluQkw3bW5nQ3Njb0JaUmxpMXVlT29KUlZsQzd2M2JxNXNsaHYyTHlmMk9mU1g4NVV4c3FuQ1M0dy14NTFyNDdSeG5XMC1ydVU5cXo5N2FGY1pGR0JDOEdBN2Z0R0tsSVRfMzgzT3lHemY0OHAtbTBocUFoWks3U0hTYXBILXNBOU9HamVtd0NFTEs2Yzhsd9IBrwFBVV95cUxQVV85YnZVUkxUWWtBZUJ3a05USTRkRERORE4wVXRVNjNWQmtLel91TzNidFVjTkhoR0tOanRHUUF6U21PS1FxZEdlNjRhVmlPc3NId3B4RmVBd3IyY05tNkFLczc1WHBJSmJUZGRnbVdhYXRlRWhnbXg2V0JhdmpldkJsZzZSb1NkTTB5RG81SmNYSks2WVdFYmNCSlo0UFVrUzdPMXcxUVZQUDZfc05n?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 15 Nov 2026 11:38:00 GMT",
       "imagen": ""
     },
     {
