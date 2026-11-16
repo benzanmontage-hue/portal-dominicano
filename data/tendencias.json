@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-16T15:32:30.267314-04:00",
-  "hora": "15:32",
+  "updated": "2026-11-16T15:52:49.274044-04:00",
+  "hora": "15:52",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alemania - países bajos",
+      "trafico": "200+",
+      "noticia": "Países Bajos, en busca de romper una de sus maldiciones ante Alemania",
+      "enlace": "https://www.flashscore.es/noticias/paises-bajos-busca-poner-fin-a-una-increible-sequia-de-1-444-dias-ante-alemania/jVxdjSNM/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1KIb56uUCU7r1-nsofY0QAM10rA0QcYw_TaTlgVnog3UCPe6q_w_BGbr_82I"
+    },
     {
       "termino": "josé ramón peralta",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "Ministerio de Educación remenea la mata y cambia funcionarios",
       "enlace": "https://elnacional.com.do/nacionales/ministerio-educacion-remenea-mata-cambia-funcionarios-puntos-pais_586354.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl8MjJ4Fx8BmBFDvNJanNcRAdmxqVar5wbeBpvS9I98Nzj24f_v6NoyeuM6wc"
-    },
-    {
-      "termino": "panamá - curazao",
-      "trafico": "100+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
     }
   ]
 }
