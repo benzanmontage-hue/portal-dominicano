@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T19:47:36.225795-04:00",
-  "hora": "19:47",
+  "updated": "2026-11-15T20:07:57.073260-04:00",
+  "hora": "20:07",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -27,6 +27,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPK-Vmmixpa0Th5fY892BwhTmVA8bRDDFoSHgFm6I8f7kIT_A6cWPp90bM41M"
     },
     {
+      "termino": "seguridad vial",
+      "trafico": "100+",
+      "noticia": "(VIDEO) RutaBerón continúa bajo la lupa: otra imprudencia genera preocupación en la zona",
+      "enlace": "https://bavarodigital.net/video-rutaberon-continua-bajo-la-lupa-otra-imprudencia-genera-preocupacion-en-la-zona/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-KnioWP5CH27mOJeGw_p5sBsfqozNjN62YZS3PJ0cLsDdmvUrW-uOsSTGq0"
+    },
+    {
       "termino": "lamine yamal",
       "trafico": "100+",
       "noticia": "In the Catalan press: Yamal faces an unfair Madrid campaign",
@@ -36,9 +43,16 @@
     {
       "termino": "jazz - spurs",
       "trafico": "200+",
-      "noticia": "Spurs look to extend 11-game streak against slumping Jazz",
-      "enlace": "https://www.cbssports.com/nba/news/spurs-look-to-extend-11-game-streak-against-slumping-jazz/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+      "noticia": "Victor Wembanyama praises San Antonio culture, hints at retirement with Spurs",
+      "enlace": "https://basketnews.com/news-259481-victor-wembanyama-praises-san-antonio-culture-hints-at-retirement-with-spurs.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm8EjsJ9eQO_SaYcdA21O9VMWTpLlTJzsN3FaQ_KqB8ulrWBkpu5r_Vp_oTCQ"
+    },
+    {
+      "termino": "lakers - suns",
+      "trafico": "100+",
+      "noticia": "The Lakers’ schedule will give them runway into big early-season tests",
+      "enlace": "https://www.silverscreenandroll.com/lakers-analysis/128885/the-lakers-schedule-nba-standings-houston-rockets-san-antonio-spurs",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSndho2HabL6bqOECPCT2AtIuCcoqIImnmNPjyKf34gM_OMVG3llJwLlmVRdWg"
     },
     {
       "termino": "lebron james",
@@ -60,20 +74,6 @@
       "noticia": "Resultados de las loterías del sábado 15/11/2026: ¿El premio es tuyo?",
       "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-sabado-15-11-2026-premio_1108736.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
-    },
-    {
-      "termino": "france – turquie",
-      "trafico": "200+",
-      "noticia": "France 2-1 Turquie, Ligue des nations A : Victoire des Bleus, qualifiés pour les quarts",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-turquie-live/688714",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStt_iDAakASjyEykCGsZsF3uRm9JIw7oO_BHUsA5Qp2n_PnvF88NxjyLUT03Q"
-    },
-    {
-      "termino": "jabari walker",
-      "trafico": "200+",
-      "noticia": "76ers Unveil Never-Before-Used Starting Five With Joel Embiid Out",
-      "enlace": "https://sports.yahoo.com/articles/76ers-unveil-never-used-starting-203821675.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ1_G4-MZJutYx3vD4nxWz1sdcHK0CjcJaWVw62n6nfQnnf0eYAlMRhWMXUmg"
     }
   ]
 }
