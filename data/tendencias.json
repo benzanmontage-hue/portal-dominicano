@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-15T23:34:40.492099-04:00",
-  "hora": "23:34",
+  "updated": "2026-11-15T23:55:02.060786-04:00",
+  "hora": "23:55",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "kings - thunder",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Thunder look to snap three-game skid against reeling Kings",
       "enlace": "https://www.cbssports.com/nba/news/thunder-look-to-snap-three-game-skid-against-reeling-kings/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-KAjyIgyuwINUMNE0RuTlIPtMUiNkaLUWQX3Ldz7weidjbsCrGV7Gf7ejRbE"
     },
     {
       "termino": "wizards - rockets",
-      "trafico": "200+",
-      "noticia": "Rockets rout Wizards, hold Trae Young scoreless for first time",
-      "enlace": "https://www.cbssports.com/nba/news/rockets-rout-wizards-hold-trae-young-scoreless-for-first-time/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykShh8-Ry6RpOthgLTW0y7dX3UY1-yJT2SYECYCXaUoBGUTn-UZ0kSD409bg"
+      "trafico": "500+",
+      "noticia": "Alex Sarr leads Wizards with 25 in blowout loss",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/alex-sarr-leads-wizards-with-25-in-blowout-loss",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvvZWeobTsOP0JxHy1vfDmCXvU46Q0Fc0zVwAjKrashsHAS_iyaSjROgM3p_c"
+    },
+    {
+      "termino": "panamá - curazao",
+      "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
     },
     {
       "termino": "autopista",
@@ -57,9 +64,9 @@
     {
       "termino": "jazz - spurs",
       "trafico": "500+",
-      "noticia": "Photos: Spurs vs. Utah Jazz | 11/15/26",
-      "enlace": "https://www.nba.com/spurs/photos/photos-spurs-vs-utah-jazz-11-15-26",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGnO1LxjbjqD0pvu3ZOieRkOWXW_rjR9rjJosVSc7stAbnnTdiYJ_bSFxQyog"
+      "noticia": "SPURS POSTCAST: Wembanyama, Dylan Harper s Career Night Push Win Streak to 12 | Best Since 2010!",
+      "enlace": "https://www.kiiitv.com/video/sports/locked-on/lo-san-antonio/spurs-show/spurs-postcast-wembanyama-dylan-harpers-career-night-push-win-streak-to-12-best-since-2010/535-411dfe52-70f1-4ff1-adba-a8e8a67121c1",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIZJA7UuqWszRbKKlmeQI2bxOgblhWtV92L2CO1Xjiw_z3FIPOXKXzpuWN8I8"
     },
     {
       "termino": "posiciones de selección de fútbol de francia contra selección de fútbol de turquía",
@@ -67,13 +74,6 @@
       "noticia": "France 2-1 Turkey: Eli Junior Kroupi scores first international goal as hosts qualify top",
       "enlace": "https://www.bbc.com/sport/football/live/cw30g3p6vd15t",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUw9biGQ6MaFKJkgjfHeGoAwNZHnIFnHgk8gT1KJXfSPw39OtW_hGc6N5mMeQ"
-    },
-    {
-      "termino": "liga de naciones",
-      "trafico": "200+",
-      "noticia": "Panamá no pasó del empate ante Curazao y buscará la clasificación al final four en casa",
-      "enlace": "https://espndeportes.espn.com/video/clip/_/id/17512748/panama-no-paso-del-empate-ante-curazao-y-buscara-la-clasificacion-al-final-four-en-casa",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxUHGAk4ovWPCnOVQmALYBvodpKAaH8pZsJrlzohFnlzYAnOGBV-uDxBWKny8"
     }
   ]
 }
