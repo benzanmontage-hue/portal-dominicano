@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-16T16:33:27.118107-04:00",
-  "hora": "16:33",
+  "updated": "2026-11-16T16:53:47.675922-04:00",
+  "hora": "16:53",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "alemania - países bajos",
+      "termino": "frontera entre haití y la república dominicana",
       "trafico": "200+",
+      "noticia": "Las fronteras de República Dominicana, de frente y ajenas a la crisis de Haití",
+      "enlace": "https://efe.com/mundo/2026-11-15/fronteras-republica-dominicana-ajenas-crisis-violencia-haiti-bandas-armadas/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDWWPoGYDGbbhqvQxQ_d3L71oK6_mAjZysBN3gOjK8ziSBddJkIOOLjukXKHg"
+    },
+    {
+      "termino": "alemania - países bajos",
+      "trafico": "500+",
       "noticia": "Países Bajos, en busca de romper una de sus maldiciones ante Alemania",
       "enlace": "https://www.flashscore.es/noticias/paises-bajos-busca-poner-fin-a-una-increible-sequia-de-1-444-dias-ante-alemania/jVxdjSNM/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1KIb56uUCU7r1-nsofY0QAM10rA0QcYw_TaTlgVnog3UCPe6q_w_BGbr_82I"
@@ -67,13 +74,6 @@
       "noticia": "Licensable picture: Washington Wizards vs. Houston Rockets",
       "enlace": "https://www.reutersconnect.com/item/washington-wizards-vs-houston-rockets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwVUFLV0sz",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROxZTRH722H-cD2IZ5fEDdDabibEpM3xPk-MNNQP-q1Xxk6wc9jpNqC9DOkbk"
-    },
-    {
-      "termino": "ministerio de educación",
-      "trafico": "1000+",
-      "noticia": "Ministerio de Educación remenea la mata y cambia funcionarios",
-      "enlace": "https://elnacional.com.do/nacionales/ministerio-educacion-remenea-mata-cambia-funcionarios-puntos-pais_586354.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl8MjJ4Fx8BmBFDvNJanNcRAdmxqVar5wbeBpvS9I98Nzj24f_v6NoyeuM6wc"
     }
   ]
 }
