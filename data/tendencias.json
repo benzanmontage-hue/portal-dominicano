@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-15T20:28:17.529954-04:00",
-  "hora": "20:28",
+  "updated": "2026-11-15T20:48:38.784303-04:00",
+  "hora": "20:48",
   "fecha": "15/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "celtics - mavericks",
-      "trafico": "200+",
-      "noticia": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston’s five-game winning streak",
-      "enlace": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-preview-for-november-15-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK_tJGWdA74Az_FY1JT-XYnwolM8IDcPXR4p2WQpmNVrSVvAR3WEEQik6y3ow"
+      "trafico": "500+",
+      "noticia": "Celtics vs Mavericks LIVE, Score Updates and Play-by-Play in NBA (96-61)",
+      "enlace": "https://www.vavel.com/en-us/nba/2026/11/15/1279336-celtics-vs-mavericks-live-score-updates-and-play-by-play-nba.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgk2SSVu1lHB-QJPkJSs7lMhhj6leFFyzdUnl0Cz-Su6sPWJvWdk-UpCzBzkg"
     },
     {
       "termino": "raptors - knicks",
@@ -42,10 +42,17 @@
     },
     {
       "termino": "jazz - spurs",
-      "trafico": "200+",
-      "noticia": "Victor Wembanyama praises San Antonio culture, hints at retirement with Spurs",
-      "enlace": "https://basketnews.com/news-259481-victor-wembanyama-praises-san-antonio-culture-hints-at-retirement-with-spurs.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm8EjsJ9eQO_SaYcdA21O9VMWTpLlTJzsN3FaQ_KqB8ulrWBkpu5r_Vp_oTCQ"
+      "trafico": "500+",
+      "noticia": "Spurs look to extend 11-game streak against slumping Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-look-to-extend-11-game-streak-against-slumping-jazz/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+    },
+    {
+      "termino": "lakers - suns",
+      "trafico": "100+",
+      "noticia": "Luka Doncic, surging Lakers visit Suns without Austin Reaves",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-visit-suns-without-austin-reaves/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
     },
     {
       "termino": "lebron james",
@@ -56,10 +63,10 @@
     },
     {
       "termino": "suns - lakers",
-      "trafico": "2000+",
-      "noticia": "Luka Doncic, surging Lakers visit Suns without Austin Reaves",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-surging-lakers-visit-suns-without-austin-reaves/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIk1AKzw5Ruvo5_uSI8aSkWblGoY2Jgmc2zcKgmsJMPU4poXQ2i6y2aUUGmjk"
+      "trafico": "5000+",
+      "noticia": "Los Angeles Lakers vs Phoenix Suns Nov 15, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/lal-vs-phx-0022600237/box-score",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgpSG8CTRXdl6ZAz1pZ5kMtYOcYkuJ5kvVYzYmot0ir6VB4QrYQf-UzhSMha0"
     },
     {
       "termino": "leidsa",
@@ -67,13 +74,6 @@
       "noticia": "Resultados de las loterías del sábado 15/11/2026: ¿El premio es tuyo?",
       "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-sabado-15-11-2026-premio_1108736.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
-    },
-    {
-      "termino": "france – turquie",
-      "trafico": "200+",
-      "noticia": "France 2-1 Turquie, Ligue des nations A : Victoire des Bleus, qualifiés pour les quarts",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/france-turquie-live/688714",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStt_iDAakASjyEykCGsZsF3uRm9JIw7oO_BHUsA5Qp2n_PnvF88NxjyLUT03Q"
     }
   ]
 }

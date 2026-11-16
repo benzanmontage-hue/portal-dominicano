@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:28:21-04:00",
+ "updated": "2026-11-15T20:48:42-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -11,7 +11,7 @@
    "g": 16,
    "p": 8,
    "pct": ".667",
-   "dif": "-5.0",
+   "dif": "-4.5",
    "racha": "W1",
    "pos": 1,
    "nombre": "Leones del Escogido"
@@ -22,10 +22,21 @@
    "g": 14,
    "p": 10,
    "pct": ".583",
-   "dif": "-3.0",
+   "dif": "-2.5",
    "racha": "L1",
    "pos": 2,
    "nombre": "Tigres del Licey"
+  },
+  {
+   "id": 669,
+   "equipo": "Estrellas",
+   "g": 11,
+   "p": 12,
+   "pct": ".478",
+   "dif": "-",
+   "racha": "W2",
+   "pos": 3,
+   "nombre": "Estrellas Orientales"
   },
   {
    "id": 670,
@@ -33,21 +44,10 @@
    "g": 11,
    "p": 12,
    "pct": ".478",
-   "dif": "-0.5",
-   "racha": "L1",
-   "pos": 3,
-   "nombre": "Gigantes del Cibao"
-  },
-  {
-   "id": 669,
-   "equipo": "Estrellas",
-   "g": 10,
-   "p": 12,
-   "pct": ".455",
    "dif": "-",
-   "racha": "W1",
+   "racha": "L1",
    "pos": 4,
-   "nombre": "Estrellas Orientales"
+   "nombre": "Gigantes del Cibao"
   },
   {
    "id": 667,
@@ -55,7 +55,7 @@
    "g": 9,
    "p": 13,
    "pct": ".409",
-   "dif": "1.0",
+   "dif": "1.5",
    "racha": "W1",
    "pos": 5,
    "nombre": "Aguilas Cibaenas"
@@ -64,10 +64,10 @@
    "id": 668,
    "equipo": "Toros",
    "g": 9,
-   "p": 14,
-   "pct": ".391",
-   "dif": "1.5",
-   "racha": "L1",
+   "p": 15,
+   "pct": ".375",
+   "dif": "2.5",
+   "racha": "L2",
    "pos": 6,
    "nombre": "Toros del Este"
   }
@@ -452,14 +452,14 @@
    "id": 851421,
    "fecha": "2026-11-15",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Estrellas Orientales",
    "visitante_id": 669,
-   "carreras_v": null,
+   "carreras_v": 6,
    "local": "Toros del Este",
    "local_id": 668,
-   "carreras_l": null,
+   "carreras_l": 5,
    "estadio": "Estadio Francisco Micheli",
    "serie": "Regular Season"
   },
