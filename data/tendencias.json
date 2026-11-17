@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-17T16:22:31.145156-04:00",
-  "hora": "16:22",
+  "updated": "2026-11-17T16:42:56.077660-04:00",
+  "hora": "16:42",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "clima santo domingo",
+      "trafico": "100+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, miércoles 18 de noviembre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-miercoles-18-de-noviembre-de-2026-9791633.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
+      "termino": "pays de galles – portugal",
+      "trafico": "200+",
+      "noticia": "Sélections : Pays de Galles/Portugal : grande première pour Vitinha et Neves",
+      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-grande-premiere-pour-vitinha-et-neves/61571",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY7_LfVnYH0hJkiftJ1h-M7BJm3XoTTGw3b2pIUQP8TAFgvr_XFKI8eDJ_H0w"
+    },
     {
       "termino": "agencia de seguridad nacional",
       "trafico": "100+",
@@ -24,7 +38,7 @@
       "trafico": "1000+",
       "noticia": "Wales vs Portugal: Uefa Nations League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7h7HT32UGUEsuJNeoy96kaGQNCNxG1uWSdkWaUisuEvelU1LwpjokMXPKGOQ"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJsJhJyf0oaAuS_ojES60vGg3f13nnbvx_bQlcVANJFTMHuA4eLpBTxrxa2nk"
     },
     {
       "termino": "emergencia",
@@ -50,30 +64,16 @@
     {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Cold front may bring near-freezing temps to Texas. Here s where",
-      "enlace": "https://www.mysanantonio.com/news/weather/article/cold-front-texas-22533683.php",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg2wtRcTETRIpJQ7pj5DMZi1Z0Xh28rai_HAOjI4njzsphw9p2Y6etzcYAhDk"
+      "noticia": "Warm and dry weather continues this week in Metro Detroit",
+      "enlace": "https://www.clickondetroit.com/weather/2026/11/17/warm-and-dry-weather-continues-this-week-in-metro-detroit/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvsxbYFpIus2_eaH0tXSCMbyu44QBBX-8SY-uzr7A05O8oEXieb80pgE8j804"
     },
     {
       "termino": "asociación dominicana de profesores",
       "trafico": "2000+",
-      "noticia": "ADP denuncia que el proyecto de Presupuesto no contiene el 4% del PIB para la educación",
-      "enlace": "https://listindiario.com/la-republica/congreso/20261117/adp-denuncia-presupuesto-2027-no-tiene-4-porciento-pib_930458.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb7iZSXYmcC1R0e39yGTu983B-Flys-6kEl4DCJIUjP5ysIgcCqhKkmAZnyFo"
-    },
-    {
-      "termino": "singapour – brésil",
-      "trafico": "2000+",
-      "noticia": "Brésil : loin de ses galères au Real Madrid, Vinícius Jr marque les esprits",
-      "enlace": "https://www.footmercato.net/a665264097687530185-bresil-loin-de-ses-galeres-au-real-madrid-vinicius-jr-retrouve-enfin-le-sourire",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBFWNyi82MamiDr7xkoBdWsnYj7osHcecPqyo4Hvf0cU2-r7p1CqIxrN9criQ"
-    },
-    {
-      "termino": "evangelio de hoy",
-      "trafico": "100+",
-      "noticia": "martes, 17 de noviembre de 2026 - Daily Gospel Reflection · Daily Gospel Reflections",
-      "enlace": "https://www.wordonfire.org/es/reflexiones/2026-11-17/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wsFWktt-1aCBcIrBWMnITy0M_apwDmklY9zhy9t3DVNWaUSlOqNaP4kGgiM"
+      "noticia": "La ADP, ¿es aliada o un obstáculo para mejorar la educación pública dominicana?",
+      "enlace": "https://eldia.com.do/la-adp-es-aliada-o-un-obstaculo-para-mejorar-la-educacion-publica-dominicana/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi-vpbrx6JgFJE6J0ncLF4hUhD9vdjSHgscli8mlbkizLsqpMyCtYpD9Tt-Lk"
     }
   ]
 }
