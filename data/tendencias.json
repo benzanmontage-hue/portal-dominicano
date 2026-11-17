@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-17T18:24:42.611466-04:00",
-  "hora": "18:24",
+  "updated": "2026-11-17T18:45:00.910415-04:00",
+  "hora": "18:45",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "argentina - costa rica",
+      "trafico": "1000+",
+      "noticia": "Argentina vs Costa Rica: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cmr4gxnz0lp9t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+    },
     {
       "termino": "400 mawozo",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "wales vs portugal",
       "trafico": "200+",
-      "noticia": "“To everyone who tried to put me down”: Big winner under Jürgen Klopp sends special message to his doubters",
-      "enlace": "https://www.goal.com/en/news/to-everyone-who-tried-to-put-me-down-big-winner-under-juergen-klopp-sends-special-message-to-his-doubters/blt642fc972f82e08ba",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNzWmxFbpVI8vDtHsv5XoAZLmHybwAs62CymTFdBUn2BI0ST_KOoyceZc82Qk"
+      "noticia": "Bernardo Silva breaks silence after leaving Portugal squad as Real Madrid star faces fitness controversy",
+      "enlace": "https://www.goal.com/en/news/bernardo-silva-portugal-squadreal-madrid-star-fitness-controversy-/bltd5574482519a3c63",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7IWEE9XFdJvpqvt9GMqOaAdUwHnI6veKDMVU7Q-mioduol-IZxWAxZbsSZ6E"
     },
     {
       "termino": "clima santo domingo",
@@ -29,9 +36,9 @@
     {
       "termino": "pays de galles – portugal",
       "trafico": "200+",
-      "noticia": "Sélections : Pays de Galles/Portugal : sur quelle chaîne et à quelle heure regarder à la télé ou en streaming",
-      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-sur-quelle-chaine-et-a-quelle-heure-regarder-a-la-tele-ou-en-streaming/61572",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9bXmORvao9Ua8_GkcfxrV0Od2VUBqA8fJHmRAHoQKb21vV0Rae3cXJ7SvNZs"
+      "noticia": "Portugal : après Cristiano Ronaldo, Jorge Jesus s’offre une polémique avec Bernardo Silva !",
+      "enlace": "https://www.footmercato.net/a1879467674283174346-portugal-apres-cristiano-ronaldo-jorge-jesus-soffre-une-polemique-avec-bernardo-silva",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDFa8VbHwn4WxtMOkrvxiDpkEXzRXCx7oy-mTGBH5ys6fLOw6fEZcg41uAREQ"
     },
     {
       "termino": "agencia de seguridad nacional",
@@ -43,16 +50,16 @@
     {
       "termino": "dinamarca - noruega",
       "trafico": "500+",
-      "noticia": "Noruega derrotó 3 a 2 a Dinamarca y se clasificó a los cuartos de final de la Nations league",
-      "enlace": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid17112026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVaCeAM2e485B9C2YkrbrOlazlhxxhmcpW3_wvKeuxlcQK0P0HurQH0CCW_w"
+      "noticia": "Duelo colchonero por una plaza en los cuartos de la Nations League",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261117/1004251984/duelo-colchonero-plaza-cuartos-nations-league.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5M1VvkYwpOinZlclb6PnxiltBevg6ppv-J8rVQonwyPvyxzqaVtpbFMg4cbg"
     },
     {
       "termino": "gales - portugal",
       "trafico": "2000+",
-      "noticia": "Wales 2-3 Portugal: Nations League football – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShPd9oIH8Sqh208yWnY5LQawh2UR0GJAY3mmSnI7OyjlXfrf9DcEc32RdIVNA"
+      "noticia": "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller",
+      "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8Oyc7fT5YJzkEfdZuTIXlaKRig5zuU-SjTaxmHOTpTnBzNmbTh7Ws-A6oYw"
     },
     {
       "termino": "emergencia",
@@ -67,13 +74,6 @@
       "noticia": "Vinicius speaks after scoring hat-trick with Brazil",
       "enlace": "https://www.managingmadrid.com/115528/vinicius-speaks-after-scoring-hat-trick-with-brazil",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiASlOV2RGXOIXMJSGOFWkygHUrzSqo696yaDXrMk1UmD1yO5uT62Ug7V94g"
-    },
-    {
-      "termino": "brasil vs",
-      "trafico": "200+",
-      "noticia": "Brasil decepciona tras caer contra Japón pese a dos genialidades de Vinícius",
-      "enlace": "https://listindiario.com/el-deporte/20261114/brasil-decepciona-caer-japon-pese-dos-genialidades-vinicius_930082.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCAtOpIrffU4nKkyvNP79oiBK1gF_lqD6c9xcdyOOLUUWpgb9W5z4uo0OuRIk"
     }
   ]
 }
