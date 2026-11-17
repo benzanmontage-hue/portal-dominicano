@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:54:52.261847-04:00",
+ "updated": "2026-11-17T12:15:21.538285-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -507,12 +507,12 @@
    "compania": "LoteDom",
    "juego": "Agarra 4",
    "numeros": [
-    "27",
-    "67",
-    "24",
-    "43"
+    "18",
+    "40",
+    "52",
+    "46"
    ],
-   "fecha": "2026-11-16T04:00:00.000Z",
+   "fecha": "2026-11-17T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d606"
   },
   {
@@ -531,9 +531,9 @@
    "compania": "LoteDom",
    "juego": "El Quemaito Mayor",
    "numeros": [
-    "43"
+    "46"
    ],
-   "fecha": "2026-11-16T04:00:00.000Z",
+   "fecha": "2026-11-17T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d5fa"
   },
   {
@@ -560,21 +560,21 @@
    "compania": "LoteDom",
    "juego": "Quiniela LoteDom",
    "numeros": [
-    "27",
-    "67",
-    "24"
+    "18",
+    "40",
+    "52"
    ],
-   "fecha": "2026-11-16T04:00:00.000Z",
+   "fecha": "2026-11-17T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d5f4"
   },
   {
    "compania": "LoteDom",
    "juego": "Super Palé",
    "numeros": [
-    "27",
-    "43"
+    "18",
+    "46"
    ],
-   "fecha": "2026-11-16T04:00:00.000Z",
+   "fecha": "2026-11-17T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d600"
   },
   {
