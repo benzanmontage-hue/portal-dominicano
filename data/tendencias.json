@@ -1,37 +1,37 @@
 {
-  "updated": "2026-11-17T19:25:39.532771-04:00",
-  "hora": "19:25",
+  "updated": "2026-11-17T19:46:12.738121-04:00",
+  "hora": "19:46",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "estados unidos - haití",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Pulisic y Balogun sobresalen en goleada de Estados Unidos sobre Haiti",
       "enlace": "https://listindiario.com/el-deporte/20261115/pulisic-balogun-sobresalen-goleada-estados-unidos-sobre-haiti_930164.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcs3Pp8nJCZsLesCMGuHIK-5NaTX3cEiMKzPKviaC5t5UesL1OxuXeNzfcnI"
     },
     {
       "termino": "états-unis – haïti",
-      "trafico": "200+",
-      "noticia": "Avant de rejoindre Manchester United, Mauricio Pochettino se dit « concentré » pour un dernier match « très émouvant » avec les États-Unis",
-      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-de-la-concacaf-etats-unis-avant-de-rejoindre-manchester-united-mauricio-pochettino-se-dit-concentre-pour-un-dernier-match-tres-emouvant-avec-l/20245733",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusbdvehsgzI0U4pvWNP0t42SL1Dcj5_O1N9UKhvWItHPw3Z46-f9SXD29Iro"
+      "trafico": "500+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
     },
     {
-      "termino": "argentina vs costa rica",
-      "trafico": "200+",
-      "noticia": "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba",
-      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17522786/la-formacion-de-argentina-vs-costa-rica",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4nahZLuIC_h50bhIwOl2lDRLWWyzhl2CtDXhjUuUrKriCtILAKrKaqbCqs8"
+      "termino": "uruguay - república dominicana",
+      "trafico": "500+",
+      "noticia": "Uruguay quiere cerrar el 2026 con victoria ante RD",
+      "enlace": "https://elnuevodiario.com.do/uruguay-quiere-cerrar-el-2026-con-victoria-ante-rd/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZtn2Jj0ovDP89TLRA0X3LkWv2Ou2LkAQ2qtlKiR9AXNZRngdwLWO28vCwc5A"
     },
     {
       "termino": "donación",
-      "trafico": "200+",
-      "noticia": "Máquina de Donación de “Ilumina el Mundo” llega por primera vez a Costa Rica para llevar esperanza a las familias",
-      "enlace": "https://noticias.laiglesiadejesucristo.org/articulo/maquina-de-donacion-de-ilumina-el-mundo-llega-por-primera-vez-a-costa-rica-para-llevar-esperanza-a-las-familias",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwfgFmfjBA0K5RJsQhqh7gBUlp7Ij418Yb5mt9CIHKtQMgQkYHoYUI9xuvHAQ"
+      "trafico": "500+",
+      "noticia": "Fortalece Jennifer González leyes para donación de órganos en el Edomex",
+      "enlace": "https://edomex.quadratin.com.mx/fortalece-jennifer-gonzalez-leyes-para-donacion-de-organos-en-el-edomex/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQeG-D7595tvj7ThqP4S2AKPN_BrHiThprcgtD2YwuK11WrrjW7rXtwqeTFpc"
     },
     {
       "termino": "chile - colombia",
@@ -41,11 +41,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5FHzJNG3IKh7kc_xC2seuTfpja3EdVSYIGXetJgdwzlOovgmtuhMHSznjJes"
     },
     {
-      "termino": "argentina - costa rica",
-      "trafico": "2000+",
+      "termino": "argentine – costa rica",
+      "trafico": "500+",
       "noticia": "Argentina vs. Costa Rica: Preview, Predictions and Lineups",
       "enlace": "https://www.si.com/soccer/argentina-vs-costa-rica-preview-predictions-lineups-11-17-26",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVFO8UiN7HzztkZ693uDh4-she5OyxHtMX37DPufyibNra2_CfMjT-ZcvM3PE"
+    },
+    {
+      "termino": "argentina - costa rica",
+      "trafico": "2000+",
+      "noticia": "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba",
+      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17522786/la-formacion-de-argentina-vs-costa-rica",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4nahZLuIC_h50bhIwOl2lDRLWWyzhl2CtDXhjUuUrKriCtILAKrKaqbCqs8"
     },
     {
       "termino": "melissa medina",
@@ -67,13 +74,6 @@
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, miércoles 18 de noviembre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-miercoles-18-de-noviembre-de-2026-9791633.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "pays de galles – portugal",
-      "trafico": "200+",
-      "noticia": "Sélections : Pays de Galles/Portugal : sur quelle chaîne et à quelle heure regarder à la télé ou en streaming",
-      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-sur-quelle-chaine-et-a-quelle-heure-regarder-a-la-tele-ou-en-streaming/61572",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9bXmORvao9Ua8_GkcfxrV0Od2VUBqA8fJHmRAHoQKb21vV0Rae3cXJ7SvNZs"
     }
   ]
 }
