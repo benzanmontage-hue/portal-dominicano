@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-17T07:28:00.679421-04:00",
-  "hora": "07:28",
+  "updated": "2026-11-17T07:48:26.085986-04:00",
+  "hora": "07:48",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "brasil vs",
+      "trafico": "200+",
+      "noticia": "Singapore vs Brazil: Friendlies stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cw772xnn72n6t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc"
+    },
+    {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Oklahoma’s Moisture Divide Widens Following Chilly Weekend Storm System",
-      "enlace": "https://www.oklahomafarmreport.com/2026/11/16/oklahomas-moisture-divide-widens-following-chilly-weekend-storm-system/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zeKOokD1bR3yuP9p3jvougANCADfd9-QB3sn36heykQMVile7Ko01HAMmNc"
+      "noticia": "DC weather Live Q A: Sunny, rain-free and warming into the 60s this week",
+      "enlace": "https://www.capitalweather.com/dc-weather-live-q-a-sunny-rain-free-and-warming-into-the-60s-this-week/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfi6ngw6zxnTAgsOp2Tx20Fji2SRSAcQdenJ0pK5NDf1Ho3JHQOaaghgoyqc"
     },
     {
       "termino": "singapour – brésil",
       "trafico": "1000+",
-      "noticia": "Prédiction du match Singapour - Brésil, 17h00, 17 novembre : Un « choc des titans » ?",
-      "enlace": "https://www.vietnam.vn/fr/nhan-dinh-singapore-vs-brazil-17h00-ngay-17-11-trung-choi-da",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmruKliBOiSyPmapoKHcwc0XIgNWVd-5qC7jvxoXhGbPmkBcHPDx-vVx2J08c"
+      "noticia": "Vinicius intenable ! Premier triplé express en 21 minutes avec le Brésil",
+      "enlace": "https://fr.besoccer.com/info/vinicius-intenable-premier-triple-express-en-21-minutes-avec-le-bresil-1441694",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEXDz63pE5krg6rfHVwHg7yIP1TdI60PO2l3Q3Z5yN0HW3PCh0U722_Rz5Kvw"
     },
     {
       "termino": "evangelio de hoy",
@@ -36,9 +43,9 @@
     {
       "termino": "tormenta",
       "trafico": "200+",
-      "noticia": "Temporal en Santa Fe: árboles caídos, voladuras de techos y rutas afectadas por vuelcos",
-      "enlace": "https://www.cadena3.com/noticia/noticias-rosario/temporal-en-santa-fe-arboles-caidos-voladuras-de-techos-y-rutas-afectadas-por-vuelcos_613737",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmSX5DVtZxssbw7_ITPFT-2ZrJP8TKdhPcXvqIYp3yDABQHgTzDhDK5LuHp5I"
+      "noticia": "Después de una noche pasada por agua: ¿cómo estará el clima el día de hoy?",
+      "enlace": "https://radiorafaela.com.ar/locales/despues-de-una-noche-pasada-por-agua-como-estara-el-clima-el-dia-de-hoy",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkcI_UgxhPRzMkgfGryz-XF9wMc1SMzwpi0GTLPeMPSinY2NOat3lCk2om1kg"
     },
     {
       "termino": "nuggets - suns",
@@ -50,16 +57,16 @@
     {
       "termino": "terrence shannon jr.",
       "trafico": "500+",
-      "noticia": "Game Recap: Wolves 106, Blazers 98: A Spoiled Homecoming for Micah Nori",
-      "enlace": "https://www.canishoopus.com/timberwolves-scores-results/72062/game-recap-minnesota-timberwolves-portland-trailblazers-jonathan-kuminga",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHL1hlNhRpkEPaRK6iDOpPd1M1hIuHB-gYQOd4ZJG_ou59eu8HqH52N_cYEI"
+      "noticia": "Terrence Shannon News: Drops career-best 34 points in victory",
+      "enlace": "https://www.rotowire.com/basketball/headlines/terrence-shannon-news-drops-career-best-34-points-in-victory-539518",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV_XY6PHpqtsKThAe_aJtBeLmQ5hToNRxMMFhSYcZ2fIlpu43xAy6l7p-5fX0"
     },
     {
-      "termino": "saddiq bey",
-      "trafico": "200+",
-      "noticia": "Deni Avdija scores team-high 27 points in loss",
-      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-16/deni-avdija-scores-team-high-27-points-in-loss",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlpIaud5i2HgCrj82uilZKqogD44smg8NxfEZ70z0KAdHgDCbHon4mLAEmlk"
+      "termino": "telemundo en vivo",
+      "trafico": "100+",
+      "noticia": "DÍ LO QUE PIENSAS: ¿Cómo puede Estados Unidos solucionar el lío del transporte aéreo?",
+      "enlace": "https://noticias.foxnews.com/politics/speak-up-how-does-america-fix-its-air-travel-mess",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-p6YV09qh2goYpjFM5RszOmKMAq8vplLgnDwbiqYKetjGqCOn0pEyCqeql64"
     },
     {
       "termino": "embassy",
@@ -67,13 +74,6 @@
       "noticia": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026",
       "enlace": "https://bg.usembassy.gov/security-alert-u-s-embassy-in-bulgaria-november-16-2026/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAh8lpzELDU_DyWAEGaMzBiYphMZMJCa-Tvjxgg2y-3tHG03Goh9XgygqDQM"
-    },
-    {
-      "termino": "heat - rockets",
-      "trafico": "200+",
-      "noticia": "Houston Rockets vs. Miami Heat Live Score and Stats - November 16, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261116_HOU@MIA/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhi3PTkzJYo2kMHNNxxglaCnGjdqUWvrbsYKrEHZ7vwAm0dWGTSJqIY0T_9Jk"
     }
   ]
 }
