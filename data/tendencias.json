@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-16T21:40:05.460586-04:00",
-  "hora": "21:40",
+  "updated": "2026-11-16T22:00:27.448403-04:00",
+  "hora": "22:00",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "embassy",
+      "trafico": "100+",
+      "noticia": "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026",
+      "enlace": "https://bg.usembassy.gov/security-alert-u-s-embassy-in-bulgaria-november-16-2026/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAh8lpzELDU_DyWAEGaMzBiYphMZMJCa-Tvjxgg2y-3tHG03Goh9XgygqDQM"
+    },
+    {
+      "termino": "heat - rockets",
+      "trafico": "100+",
+      "noticia": "[!Buffstreams!] Where To Watch Rockets vs Heat Live Free NBA Game in US UK AU 16 November 2026",
+      "enlace": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=video-buffstreams-where-to-watch-rockets-vs-heat-r2gie",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBlDfzGa106_y3envJU4hmoupD54xXGSFvR5jY4HVdJN-4MO7hUskjMQPRzVU"
+    },
+    {
       "termino": "evaluación docente",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Incentivos de la Evaluación Docente comenzarán a pagarse en enero de 2027",
       "enlace": "https://elnacional.com.do/nacionales/incentivos-evaluacion-docente-comenzaran-pagarse-enero-2027_586402.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYNwhMNk3Ig_Y8UFRJeKBFoSPZfUD4rSI0Ly_rAZ3Xy-Rnuqmr-aWqhGT6qFM"
@@ -28,14 +42,14 @@
     },
     {
       "termino": "pelicans - warriors",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Warriors visit struggling Pelicans without Stephen Curry",
       "enlace": "https://www.cbssports.com/nba/news/warriors-visit-struggling-pelicans-without-stephen-curry/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWcs3j_N5vFt01ACxKo1jhIMkv8rf4Kw3iLpY1wuRgz8aCBMj8q5PzemhqTz4"
     },
     {
       "termino": "nets - 76ers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "76ers visit Nets seeking 12th win as LeBron James likely rests",
       "enlace": "https://www.cbssports.com/nba/news/76ers-visit-nets-seeking-12th-win-as-lebron-james-likely-rests/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0R3Vpzr93YQrWB-8E_h4KuWMuLye_8AjwSjRY0rujPsZt5p1iayrHwp_YMBE"
@@ -60,20 +74,6 @@
       "noticia": "[[ LiVeSTreaM ]]tv* Bulls vs Cavaliers LIvE FrEe StReAm",
       "enlace": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=video-livestream-tv-bulls-vs-cavaliers-live-free-4lej8",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWSEzmHCQwwk3zJed3rsmvo0sRnxo5V0ldS9nzaKsXUUIWLf-5vvBPiNNhhQ"
-    },
-    {
-      "termino": "el salvador",
-      "trafico": "500+",
-      "noticia": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
-      "enlace": "https://www.bbc.com/mundo/watch/cxj05r723gpjo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKCCufUckeEgY2LAUA5_FJxC7wtHHvpwdRy51sL7ttLz1FAxcCWq_bIDdHCK0"
-    },
-    {
-      "termino": "secretario de seguridad nacional de los estados unidos",
-      "trafico": "200+",
-      "noticia": "El Gobierno de Trump culpa al Congreso por la crisis aérea, pero los señalamientos alcanzan a su propio partido",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/16/eeuu/gobierno-trump-culpa-congreso-crisis-aerea-trax",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNX49kZsOsWp3hEN1PEf3z8qILbAheQTOYvQrswQm-VKCh5k2uFUTCifjAU1M"
     }
   ]
 }
