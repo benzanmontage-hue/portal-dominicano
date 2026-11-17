@@ -1,16 +1,37 @@
 {
-  "updated": "2026-11-17T18:45:00.910415-04:00",
-  "hora": "18:45",
+  "updated": "2026-11-17T19:05:20.730372-04:00",
+  "hora": "19:05",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "donación",
+      "trafico": "200+",
+      "noticia": "Máquina de Donación de “Ilumina el Mundo” llega por primera vez a Costa Rica para llevar esperanza a las familias",
+      "enlace": "https://noticias.laiglesiadejesucristo.org/articulo/maquina-de-donacion-de-ilumina-el-mundo-llega-por-primera-vez-a-costa-rica-para-llevar-esperanza-a-las-familias",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwfgFmfjBA0K5RJsQhqh7gBUlp7Ij418Yb5mt9CIHKtQMgQkYHoYUI9xuvHAQ"
+    },
+    {
+      "termino": "chile - colombia",
+      "trafico": "200+",
+      "noticia": "Why isn’t Luis Diaz playing today, Nov. 17, for Colombia vs Chile in 2026 international friendly?",
+      "enlace": "https://bolavip.com/en/soccer/why-isnt-luis-diaz-playing-today-for-colombia-vs-chile-in-2026-international-friendly-2",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5FHzJNG3IKh7kc_xC2seuTfpja3EdVSYIGXetJgdwzlOovgmtuhMHSznjJes"
+    },
+    {
       "termino": "argentina - costa rica",
       "trafico": "1000+",
-      "noticia": "Argentina vs Costa Rica: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cmr4gxnz0lp9t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+      "noticia": "Argentina vs. Costa Rica: Preview, Predictions and Lineups",
+      "enlace": "https://www.si.com/soccer/argentina-vs-costa-rica-preview-predictions-lineups-11-17-26",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVFO8UiN7HzztkZ693uDh4-she5OyxHtMX37DPufyibNra2_CfMjT-ZcvM3PE"
+    },
+    {
+      "termino": "melissa medina",
+      "trafico": "200+",
+      "noticia": "Muere la influencer y empresaria dominicana Melissa Medina a los 22 años",
+      "enlace": "https://elnuevodiario.com.do/muere-la-influencer-y-empresaria-dominicana-melissa-medina-a-los-22-anos/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw5q0i8tUj3oYAEoL01yK2cDwacdaLCSyS0_ZDVwfbATEcaL2ly76zIdPnAwQ"
     },
     {
       "termino": "400 mawozo",
@@ -18,13 +39,6 @@
       "noticia": "Líder de 400 Mawozo compraba armas y municiones en RD y las revendía a otras bandas haitianas",
       "enlace": "https://listindiario.com/la-republica/20261117/lider-400-mawozo-compraba-armas-municiones-rd-revendia-bandas-haitianas_930388.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjK2nEM-QkvhgM2eovrR4IqmKIk-PFKtpqYJQPogQKs7EayweFqHfyzksdHk"
-    },
-    {
-      "termino": "wales vs portugal",
-      "trafico": "200+",
-      "noticia": "Bernardo Silva breaks silence after leaving Portugal squad as Real Madrid star faces fitness controversy",
-      "enlace": "https://www.goal.com/en/news/bernardo-silva-portugal-squadreal-madrid-star-fitness-controversy-/bltd5574482519a3c63",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7IWEE9XFdJvpqvt9GMqOaAdUwHnI6veKDMVU7Q-mioduol-IZxWAxZbsSZ6E"
     },
     {
       "termino": "clima santo domingo",
@@ -36,9 +50,9 @@
     {
       "termino": "pays de galles – portugal",
       "trafico": "200+",
-      "noticia": "Portugal : après Cristiano Ronaldo, Jorge Jesus s’offre une polémique avec Bernardo Silva !",
-      "enlace": "https://www.footmercato.net/a1879467674283174346-portugal-apres-cristiano-ronaldo-jorge-jesus-soffre-une-polemique-avec-bernardo-silva",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDFa8VbHwn4WxtMOkrvxiDpkEXzRXCx7oy-mTGBH5ys6fLOw6fEZcg41uAREQ"
+      "noticia": "Sélections : Pays de Galles/Portugal : grande première pour Vitinha et Neves",
+      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-grande-premiere-pour-vitinha-et-neves/61571",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY7_LfVnYH0hJkiftJ1h-M7BJm3XoTTGw3b2pIUQP8TAFgvr_XFKI8eDJ_H0w"
     },
     {
       "termino": "agencia de seguridad nacional",
@@ -49,10 +63,10 @@
     },
     {
       "termino": "dinamarca - noruega",
-      "trafico": "500+",
-      "noticia": "Duelo colchonero por una plaza en los cuartos de la Nations League",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261117/1004251984/duelo-colchonero-plaza-cuartos-nations-league.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5M1VvkYwpOinZlclb6PnxiltBevg6ppv-J8rVQonwyPvyxzqaVtpbFMg4cbg"
+      "trafico": "1000+",
+      "noticia": "Dinamarca - Noruega en directo | Última hora de UEFA Nations League en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/uefa-nations-league/dinamarca-noruega/2026/11/17/01_0195_20261117_369_363-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pAHjyYiTPuzfu790uKUgvSygRsEoC_UpTw-Ua_T2qwTMc1A-_aYfz5PKbxw"
     },
     {
       "termino": "gales - portugal",
@@ -60,20 +74,6 @@
       "noticia": "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller",
       "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8Oyc7fT5YJzkEfdZuTIXlaKRig5zuU-SjTaxmHOTpTnBzNmbTh7Ws-A6oYw"
-    },
-    {
-      "termino": "emergencia",
-      "trafico": "200+",
-      "noticia": "¿Habrá un apagón mundial este 17 de noviembre? Esto dicen las autoridades de Estados Unidos",
-      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/habra-un-apagon-mundial-el-17-de-noviembre-esto-dice-ee-uu/3722227",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj-l3Cs7pUuNsSuV7qFOzdYqVJwepUrc8-3CQ0pDX7nAMKXvcd9uHEenMhK8"
-    },
-    {
-      "termino": "singapore vs brazil",
-      "trafico": "200+",
-      "noticia": "Vinicius speaks after scoring hat-trick with Brazil",
-      "enlace": "https://www.managingmadrid.com/115528/vinicius-speaks-after-scoring-hat-trick-with-brazil",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiASlOV2RGXOIXMJSGOFWkygHUrzSqo696yaDXrMk1UmD1yO5uT62Ug7V94g"
     }
   ]
 }
