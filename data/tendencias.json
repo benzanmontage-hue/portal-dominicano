@@ -1,30 +1,65 @@
 {
-  "updated": "2026-11-17T00:45:58.422613-04:00",
-  "hora": "00:45",
+  "updated": "2026-11-17T07:07:18.536199-04:00",
+  "hora": "07:07",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "timberwolves - trail blazers",
+      "termino": "singapour – brésil",
+      "trafico": "500+",
+      "noticia": "L épouvantail est de retour ! Le triplé éclair de Vinícius écrase Singapour",
+      "enlace": "https://fr.news.yahoo.com/sport/l%C3%A9pouvantail-retour-tripl%C3%A9-%C3%A9clair-vin%C3%ADcius-104347472.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRB6yHvGR6jKUMnbOFTKXZJrXMGTltLQXbWS2Ebgzu30BI6dlU7OdKpgmX8jQ"
+    },
+    {
+      "termino": "evangelio de hoy",
+      "trafico": "100+",
+      "noticia": "Lecturas de hoy. Martes 17 de noviembre de 2026",
+      "enlace": "https://www.elconfidencialdigital.com/religion/evangelio-de-hoy/lecturas-hoy-martes-17-noviembre-2026/202611170150281502795.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGeUwm43KMdCSAom37SF8nnvs9lFn4SyPCQLCkt7urPXR99CCHt79IUm1v2ko"
+    },
+    {
+      "termino": "luis abinader",
+      "trafico": "100+",
+      "noticia": "Abinader promete impedir uso de fondos públicos en campañas y actuar contra la corrupción",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/17/abinader-promete-impedir-uso-de-fondos-publicos-en-campanas/3722698",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHnJvtYNEKqtw9rN4NsxlEacB6cbRgs1d9O2h2veY4gog1odOCBjwA1f7Ouk"
+    },
+    {
+      "termino": "tormenta",
       "trafico": "200+",
-      "noticia": "Wolves Pics: Wolves Beat Trail Blazers | 11.16.26",
-      "enlace": "https://www.nba.com/timberwolves/photos/wolves-pics-wolves-beat-trail-blazers-11-16-26",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_gK2hTTrCKiEI5KVcJ4iDjeLHo-OMxdwRcyAqhUmPibDkha9Fum70Yegrh6M"
+      "noticia": "Granizo extremo y techos volados: fuerte temporal en el interior de Córdoba",
+      "enlace": "https://www.cadena3.com/noticia/radioinforme-3/granizo-extremo-y-techos-volados-fuerte-temporal-en-el-interior-de-cordoba_613811",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEc5KrjeZMkBCAZcWdgYDKfe7DO1D6bHNRa5k3X_sxIT3ciLTtSUVHd5mfhM"
+    },
+    {
+      "termino": "nuggets - suns",
+      "trafico": "100+",
+      "noticia": "Jamal Murray News: Scores 28 points in loss",
+      "enlace": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-scores-28-points-in-loss-539536",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41gCNbtZ-fRUOFqeAVF7Cn13i-GlPF_lhLvKhnCz71Qk_37P-b3oJmlnpf1s"
+    },
+    {
+      "termino": "terrence shannon jr.",
+      "trafico": "500+",
+      "noticia": "Game Recap: Wolves 106, Blazers 98: A Spoiled Homecoming for Micah Nori",
+      "enlace": "https://www.canishoopus.com/timberwolves-scores-results/72062/game-recap-minnesota-timberwolves-portland-trailblazers-jonathan-kuminga",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHL1hlNhRpkEPaRK6iDOpPd1M1hIuHB-gYQOd4ZJG_ou59eu8HqH52N_cYEI"
+    },
+    {
+      "termino": "sin senos si hay paraiso 4",
+      "trafico": "100+",
+      "noticia": "Sin Senos Sí Hay Paraíso 4 regresa con nuevos peligros y grandes regresos",
+      "enlace": "https://www.telemundo.com/shows/sin-senos-si-hay-paraiso/sin-senos-si-hay-paraiso-4-trama-elenco-y-donde-ver-rcna609011",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQBrMAEnckg9XHKSByDeNRbYZBsCbd_7Z7KkIzMrsUNMIlaJsrV5NNdSD1PC0"
     },
     {
       "termino": "saddiq bey",
       "trafico": "200+",
       "noticia": "Saddiq Bey Highlights vs. Golden State Warriors 11/16/26",
       "enlace": "https://www.nba.com/pelicans/videos/saddiq-bey-highlights-vs-golden-state-warriors-11-16-26",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjeMyzOvxTx7yzAPmT8H6XoV6mXReBvW1SwQ6ughvt0r4NXQTmhIOcLU74_jk"
-    },
-    {
-      "termino": "heat - rockets",
-      "trafico": "200+",
-      "noticia": "Heat dominate Rockets wire-to-wire for fifth straight win",
-      "enlace": "https://www.cbssports.com/nba/news/heat-dominate-rockets-wire-to-wire-for-fifth-straight-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT51mOM-JPLDr46JP73SD-vsgWtRnHTo-TJTyDAOqUBRwN-RNFBGbzt6PJJdpk"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvdpT5Q9bCiqvwQdPwG_Q5_SKq9-19t-PLbv0N99obh1wrZYYOFz5tgdcuEk"
     },
     {
       "termino": "embassy",
@@ -34,46 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAh8lpzELDU_DyWAEGaMzBiYphMZMJCa-Tvjxgg2y-3tHG03Goh9XgygqDQM"
     },
     {
-      "termino": "evaluación docente",
-      "trafico": "1000+",
-      "noticia": "Minerd asegura completará retroactivos y pago de incentivos a docentes ante reclamos de ADP",
-      "enlace": "https://elnuevodiario.com.do/minerd-asegura-completara-retroactivos-y-pago-de-incentivos-a-docentes-ante-reclamos-de-adp/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzW7KLvGp1pSe8sduEhet1hipIvStP2weySFH7sQU3Hcnr8juQ6-DQLQ6-TM4"
-    },
-    {
-      "termino": "telemundo",
+      "termino": "heat - rockets",
       "trafico": "200+",
-      "noticia": "Lanzan pollos contra un empleado de Cumberland Farms en Hadley",
-      "enlace": "https://www.telemundonuevainglaterra.com/noticias/local/lanzan-pollos-empleado-cumberland-farms-hadley/2624892/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoKJ4BrssmqLlAliPEC65xRey1kBeijkjSbRawOlviW04mAV8_EVdEYaU3jA"
-    },
-    {
-      "termino": "víctor robles",
-      "trafico": "200+",
-      "noticia": "Águilas adquieren al jardinero Víctor Robles por medio de cambio con Leones",
-      "enlace": "https://www.mlb.com/es/news/aguilas-adquieren-a-victor-robles-por-medio-de-cambio-con-leones",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSma2jNSY9W0S4vLV5M0L5WliKQlKBJOJzf5975XKqUNbPhSvPj7cevpZG3C78"
-    },
-    {
-      "termino": "pelicans - warriors",
-      "trafico": "2000+",
-      "noticia": "[!Buffstreams!] Where To Watch Pelicans vs Warriors Live Free NBA Game in US UK AU 16 November 2026",
-      "enlace": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=video-buffstreams-where-to-watch-pelicans-vs-j0r5y",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBlDfzGa106_y3envJU4hmoupD54xXGSFvR5jY4HVdJN-4MO7hUskjMQPRzVU"
-    },
-    {
-      "termino": "nets - 76ers",
-      "trafico": "1000+",
-      "noticia": "76ers  Jaylen Brown goes down, returns to game vs. Nets with bandage after knocking heads with Julius Randle",
-      "enlace": "https://sports.yahoo.com/nba/breaking-news/article/76ers-jaylen-brown-goes-down-returns-to-game-vs-nets-with-bandage-after-knocking-heads-with-julius-randle-030216729.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIutQpZN-MlPcEgeHSaPVdKuPrtRpnIvB2wwu0K9A15AZw99NrcA4lNeMdi70"
-    },
-    {
-      "termino": "apagon mundial",
-      "trafico": "100+",
-      "noticia": "FEMA activará la alerta de emergencia en Estados Unidos: esto es todo lo que debes saber",
-      "enlace": "https://www.univision.com/noticias/estados-unidos/fema-activara-la-alerta-de-emergencia-en-estados-unidos-esto-es-todo-lo-que-debes-saber",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTi9rcxySzpi4LQH7h46AxTrgw9hqYmEUofg0cYiLJ_PqrwHkcPd1PKFEHqQY0"
+      "noticia": "Houston Rockets vs. Miami Heat Live Score and Stats - November 16, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261116_HOU@MIA/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhi3PTkzJYo2kMHNNxxglaCnGjdqUWvrbsYKrEHZ7vwAm0dWGTSJqIY0T_9Jk"
     }
   ]
 }
