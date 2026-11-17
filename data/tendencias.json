@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-17T14:38:29.693072-04:00",
-  "hora": "14:38",
+  "updated": "2026-11-17T14:59:19.588685-04:00",
+  "hora": "14:59",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "emergencia",
+      "trafico": "200+",
+      "noticia": "¿Habrá un apagón mundial este 17 de noviembre? Esto dicen las autoridades de Estados Unidos",
+      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/habra-un-apagon-mundial-el-17-de-noviembre-esto-dice-ee-uu/3722227",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj-l3Cs7pUuNsSuV7qFOzdYqVJwepUrc8-3CQ0pDX7nAMKXvcd9uHEenMhK8"
+    },
+    {
       "termino": "singapore vs brazil",
       "trafico": "200+",
-      "noticia": "0-7: Vini Jr. s hat-trick and an Endrick goal lead Brazil to a rout over Singapore",
-      "enlace": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/singapur-brasil-17-11-2026",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb2v0cu_GYkNkw8eiw2_GGEcuH9Ow5wZgzY4Yovcva6WyRaHYRVvLcPJOVvU4"
+      "noticia": "Jürgen Klopp has unleashed Germany’s wingers",
+      "enlace": "https://www.bavarianfootballworks.com/germany-international-soccer/282452/jurgen-klopp-netherlands-derry-scherhant-brajan-gruda",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRthTHp8k0kv2sl5anQqShtNL52KyEb5M-otxyfiH35owSoGQXNy5Vq2OphVPI"
     },
     {
       "termino": "brasil vs",
@@ -22,9 +29,9 @@
     {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Weather outlook brings autumn feel to Hawaii",
-      "enlace": "https://www.yahoo.com/news/weather-news/articles/weather-outlook-brings-autumn-feel-161728054.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9JTYe-1MAJINXrFr0BaFIqj0xfS94Lnxox8WgBx6qlvqsVVu2-p1JOvJlbRU"
+      "noticia": "Weather extremes affect pecan quality, quantity",
+      "enlace": "https://oxfordeagle.com/2026/11/17/weather-extremes-affect-pecan-quality-quantity/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLj__FELPV20g4LGnVgS4tjZgj2rMjwI_UcYJV-UBmyDMnXMr9rTBJeRn0rTc"
     },
     {
       "termino": "asociación dominicana de profesores",
@@ -67,13 +74,6 @@
       "noticia": "Devin Booker leads team in scoring Monday",
       "enlace": "https://www.fantasypros.com/nba/news/620721/devin-booker-leads-team-scoring-monday.php",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_asVauHCar10LfyK6koEIpNnAjuM5xdKXin6J9agK34oJhySoZCq1Mutvd4"
-    },
-    {
-      "termino": "terrence shannon jr.",
-      "trafico": "500+",
-      "noticia": "Tiny Nick s Gambling Picks 11/17",
-      "enlace": "https://zonecoverage.com/2026/gambling/tiny-nicks-gambling-picks-11-17-7/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm6MI7XKAOq0T1sNzssnggKDTeb9_9I10T0n8vexMf6Wk37xzrgRXbr7Ej49s"
     }
   ]
 }
