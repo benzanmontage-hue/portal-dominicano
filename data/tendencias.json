@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-17T18:04:23.174007-04:00",
-  "hora": "18:04",
+  "updated": "2026-11-17T18:24:42.611466-04:00",
+  "hora": "18:24",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "400 mawozo",
+      "trafico": "100+",
+      "noticia": "Líder de 400 Mawozo compraba armas y municiones en RD y las revendía a otras bandas haitianas",
+      "enlace": "https://listindiario.com/la-republica/20261117/lider-400-mawozo-compraba-armas-municiones-rd-revendia-bandas-haitianas_930388.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjK2nEM-QkvhgM2eovrR4IqmKIk-PFKtpqYJQPogQKs7EayweFqHfyzksdHk"
+    },
+    {
+      "termino": "wales vs portugal",
+      "trafico": "200+",
+      "noticia": "“To everyone who tried to put me down”: Big winner under Jürgen Klopp sends special message to his doubters",
+      "enlace": "https://www.goal.com/en/news/to-everyone-who-tried-to-put-me-down-big-winner-under-juergen-klopp-sends-special-message-to-his-doubters/blt642fc972f82e08ba",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNzWmxFbpVI8vDtHsv5XoAZLmHybwAs62CymTFdBUn2BI0ST_KOoyceZc82Qk"
+    },
     {
       "termino": "clima santo domingo",
       "trafico": "100+",
@@ -22,23 +36,23 @@
     {
       "termino": "agencia de seguridad nacional",
       "trafico": "200+",
-      "noticia": "Nueva caída en las infraestructuras de EE UU: ahora, la red de comunicación interna de los servicios secretos",
-      "enlace": "https://elpais.com/us/2026-11-17/nueva-caida-en-las-infraestructuras-de-ee-uu-ahora-la-red-de-comunicacion-interna-de-los-servicios-secretos.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaa9YzSwmd-rURCXPMnhRh7zy7RG7H22KJ7BMlmpsX2rkLly8etVQ_rlcFb8E"
+      "noticia": "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/17/eeuu/red-comunicaciones-seguridad-nacional-caida-trax",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQREcU_SSR0_MoF0ujdjaC1fQHdGWBehvxV-gekP22ECx6AB0XDQMRXqhzM2YE"
     },
     {
       "termino": "dinamarca - noruega",
       "trafico": "500+",
-      "noticia": "Duelo colchonero por una plaza en los cuartos de la Nations League",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261117/1004251984/duelo-colchonero-plaza-cuartos-nations-league.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5M1VvkYwpOinZlclb6PnxiltBevg6ppv-J8rVQonwyPvyxzqaVtpbFMg4cbg"
+      "noticia": "Noruega derrotó 3 a 2 a Dinamarca y se clasificó a los cuartos de final de la Nations league",
+      "enlace": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid17112026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVaCeAM2e485B9C2YkrbrOlazlhxxhmcpW3_wvKeuxlcQK0P0HurQH0CCW_w"
     },
     {
       "termino": "gales - portugal",
       "trafico": "2000+",
-      "noticia": "Wales vs Portugal: Uefa Nations League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiLmni6PfOVPtk4dOFVEmeCmK5ic202ie16f74NZmfUNzBcfNAPs7P9xfCmX8"
+      "noticia": "Wales 2-3 Portugal: Nations League football – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShPd9oIH8Sqh208yWnY5LQawh2UR0GJAY3mmSnI7OyjlXfrf9DcEc32RdIVNA"
     },
     {
       "termino": "emergencia",
@@ -60,20 +74,6 @@
       "noticia": "Brasil decepciona tras caer contra Japón pese a dos genialidades de Vinícius",
       "enlace": "https://listindiario.com/el-deporte/20261114/brasil-decepciona-caer-japon-pese-dos-genialidades-vinicius_930082.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCAtOpIrffU4nKkyvNP79oiBK1gF_lqD6c9xcdyOOLUUWpgb9W5z4uo0OuRIk"
-    },
-    {
-      "termino": "weather",
-      "trafico": "200+",
-      "noticia": "Cold front to bring 15°C lows to Hong Kong on Friday, rain next week",
-      "enlace": "https://hongkongfp.com/2026/11/17/cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW4C68P9LknWNARAqfqea01bfz9jRIqCqk_3hNgmVXYxb0bq5O9cQaLizgRdU"
-    },
-    {
-      "termino": "asociación dominicana de profesores",
-      "trafico": "2000+",
-      "noticia": "De 2025 a 2027: la espera de los maestros por la evaluación de desempeño",
-      "enlace": "https://hoy.com.do/el-pais/febrero-2025-enero-2027-espera-maestros-aumentos-salariales_1108986.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbpg0U5fXLXl6GT3DFVeiR0bQRyHAzDSmVc15071SIYZlGrT4kajJKcCL381s"
     }
   ]
 }
