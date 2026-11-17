@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-17T16:02:03.619177-04:00",
-  "hora": "16:02",
+  "updated": "2026-11-17T16:22:31.145156-04:00",
+  "hora": "16:22",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "agencia de seguridad nacional",
+      "trafico": "100+",
+      "noticia": "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/17/eeuu/red-comunicaciones-seguridad-nacional-caida-trax",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQREcU_SSR0_MoF0ujdjaC1fQHdGWBehvxV-gekP22ECx6AB0XDQMRXqhzM2YE"
+    },
     {
       "termino": "dinamarca - noruega",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "gales - portugal",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Wales vs Portugal: Uefa Nations League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7h7HT32UGUEsuJNeoy96kaGQNCNxG1uWSdkWaUisuEvelU1LwpjokMXPKGOQ"
@@ -29,9 +36,9 @@
     {
       "termino": "singapore vs brazil",
       "trafico": "200+",
-      "noticia": "Havertz and Timber reach Nations League quarter-finals",
-      "enlace": "https://www.arsenal.com/news/havertz-and-timber-reach-nations-league-quarter-finals-a7nAc2F8Zmhv",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUAauM3Rw0tqMYqk4Lv2Ra7gSm61x8gIIPcj5Es0Dm4E8B_djd1ApQDYg3igo"
+      "noticia": "Vinicius speaks after scoring hat-trick with Brazil",
+      "enlace": "https://www.managingmadrid.com/115528/vinicius-speaks-after-scoring-hat-trick-with-brazil",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiASlOV2RGXOIXMJSGOFWkygHUrzSqo696yaDXrMk1UmD1yO5uT62Ug7V94g"
     },
     {
       "termino": "brasil vs",
@@ -67,13 +74,6 @@
       "noticia": "martes, 17 de noviembre de 2026 - Daily Gospel Reflection · Daily Gospel Reflections",
       "enlace": "https://www.wordonfire.org/es/reflexiones/2026-11-17/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wsFWktt-1aCBcIrBWMnITy0M_apwDmklY9zhy9t3DVNWaUSlOqNaP4kGgiM"
-    },
-    {
-      "termino": "luis abinader",
-      "trafico": "200+",
-      "noticia": "Presidente Luis Abinader garantiza que no habrá impunidad ante actos de corrupción y pide a ciudadanos denunciar irregularidades",
-      "enlace": "https://presidencia.gob.do/noticias/presidente-luis-abinader-garantiza-que-no-habra-impunidad-ante-actos-de-corrupcion-y-pide",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXJBbXPgb90wsOo-qnXWs8BipEWYp5pxa3QZEY0sjVRfeuwDN8FdBwbCF_BA"
     }
   ]
 }
