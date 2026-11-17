@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-17T17:44:00.338346-04:00",
-  "hora": "17:44",
+  "updated": "2026-11-17T18:04:23.174007-04:00",
+  "hora": "18:04",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "wales vs portugal",
-      "trafico": "100+",
-      "noticia": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
-      "enlace": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0YPk0SLq2XI5brL2ay_YO2jO9bW6cnsi4jTfojhRK3XQCvvalftG79ISETN0"
-    },
     {
       "termino": "clima santo domingo",
       "trafico": "100+",
@@ -45,7 +38,7 @@
       "trafico": "2000+",
       "noticia": "Wales vs Portugal: Uefa Nations League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMdL9Ue53OYaanPhzZ1vniuckx_ZqjBt7UxAkjUSK_l9zj7xPLjAFQNpASeUI"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiLmni6PfOVPtk4dOFVEmeCmK5ic202ie16f74NZmfUNzBcfNAPs7P9xfCmX8"
     },
     {
       "termino": "emergencia",
@@ -71,9 +64,16 @@
     {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Forecasters tracking potential for coastal storm after warm, sunny week",
-      "enlace": "https://www.yahoo.com/news/weather-news/articles/forecasters-tracking-potential-coastal-storm-122944732.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Vsmx3PkvM3qHSd_hOnlLmcpxInCajX2PTs3ZZfXGKKR6Vm4yEP6X-eAw8Yk"
+      "noticia": "Cold front to bring 15°C lows to Hong Kong on Friday, rain next week",
+      "enlace": "https://hongkongfp.com/2026/11/17/cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW4C68P9LknWNARAqfqea01bfz9jRIqCqk_3hNgmVXYxb0bq5O9cQaLizgRdU"
+    },
+    {
+      "termino": "asociación dominicana de profesores",
+      "trafico": "2000+",
+      "noticia": "De 2025 a 2027: la espera de los maestros por la evaluación de desempeño",
+      "enlace": "https://hoy.com.do/el-pais/febrero-2025-enero-2027-espera-maestros-aumentos-salariales_1108986.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbpg0U5fXLXl6GT3DFVeiR0bQRyHAzDSmVc15071SIYZlGrT4kajJKcCL381s"
     }
   ]
 }
