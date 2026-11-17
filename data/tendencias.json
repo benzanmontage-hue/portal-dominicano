@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-17T17:03:19.151201-04:00",
-  "hora": "17:03",
+  "updated": "2026-11-17T17:23:39.226475-04:00",
+  "hora": "17:23",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "wales vs portugal",
+      "trafico": "100+",
+      "noticia": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
+      "enlace": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0YPk0SLq2XI5brL2ay_YO2jO9bW6cnsi4jTfojhRK3XQCvvalftG79ISETN0"
+    },
     {
       "termino": "clima santo domingo",
       "trafico": "100+",
@@ -15,13 +22,13 @@
     {
       "termino": "pays de galles – portugal",
       "trafico": "200+",
-      "noticia": "Sélections : Pays de Galles/Portugal : grande première pour Vitinha et Neves",
-      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-grande-premiere-pour-vitinha-et-neves/61571",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY7_LfVnYH0hJkiftJ1h-M7BJm3XoTTGw3b2pIUQP8TAFgvr_XFKI8eDJ_H0w"
+      "noticia": "Real Madrid : bonne nouvelle pour José Mourinho",
+      "enlace": "https://www.footmercato.net/a1693416576156617498-real-madrid-bonne-nouvelle-pour-jose-mourinho",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGS2p710TRxxZSr8c5Yt7ZWyMCazBZ7dslDIuP1sQbbj4IOiY3f7GvsiEo_xw"
     },
     {
       "termino": "agencia de seguridad nacional",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes",
       "enlace": "https://cnnespanol.cnn.com/2026/11/17/eeuu/red-comunicaciones-seguridad-nacional-caida-trax",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQREcU_SSR0_MoF0ujdjaC1fQHdGWBehvxV-gekP22ECx6AB0XDQMRXqhzM2YE"
@@ -36,9 +43,9 @@
     {
       "termino": "gales - portugal",
       "trafico": "2000+",
-      "noticia": "Wales vs Portugal LIVE! Nations League Group A4 match updates, score, line-ups and commentary",
-      "enlace": "https://www.skysports.com/football/live-blog/13613359/wales-vs-portugal-live-nations-league-group-a4-match-updates-score-line-ups-and-commentary",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuWLmnSyIG39R4K-MsPeb3CcN_nGc5Iqs5EwO6IqkCwGCRKUmJbdpbB9Sgico"
+      "noticia": "Wales vs Portugal: Uefa Nations League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMillnm5GVUP2hUdcsOVRZeP9atS_nqrSRAu9L9DAoDI1tgu5YX39DXab834"
     },
     {
       "termino": "emergencia",
@@ -64,16 +71,9 @@
     {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Warm, windy weather continues before a weekend pattern change",
-      "enlace": "https://www.keyc.com/2026/11/17/warm-windy-weather-continues-before-weekend-pattern-change/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfNHCi9Thrg0KYBqB9HLW5f8BQ3u5jmgqo4n7Sepi2L8oU6ePSG_fwxQRkgnM"
-    },
-    {
-      "termino": "asociación dominicana de profesores",
-      "trafico": "2000+",
-      "noticia": "La ADP, ¿es aliada o un obstáculo para mejorar la educación pública dominicana?",
-      "enlace": "https://eldia.com.do/la-adp-es-aliada-o-un-obstaculo-para-mejorar-la-educacion-publica-dominicana/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi-vpbrx6JgFJE6J0ncLF4hUhD9vdjSHgscli8mlbkizLsqpMyCtYpD9Tt-Lk"
+      "noticia": "Forecasters tracking potential for coastal storm after warm, sunny week",
+      "enlace": "https://www.yahoo.com/news/weather-news/articles/forecasters-tracking-potential-coastal-storm-122944732.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Vsmx3PkvM3qHSd_hOnlLmcpxInCajX2PTs3ZZfXGKKR6Vm4yEP6X-eAw8Yk"
     }
   ]
 }
