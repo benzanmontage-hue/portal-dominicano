@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-16T20:18:36.699722-04:00",
-  "hora": "20:18",
+  "updated": "2026-11-16T20:38:57.056203-04:00",
+  "hora": "20:38",
   "fecha": "16/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "celtics - magic",
+      "trafico": "100+",
+      "noticia": "Franz Wagner leads surging Magic into showdown with Celtics",
+      "enlace": "https://www.cbssports.com/nba/news/franz-wagner-leads-surging-magic-into-showdown-with-celtics/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0R3Vpzr93YQrWB-8E_h4KuWMuLye_8AjwSjRY0rujPsZt5p1iayrHwp_YMBE"
+    },
+    {
+      "termino": "cavaliers - bulls",
+      "trafico": "200+",
+      "noticia": "[[ LiVeSTreaM ]]tv* Bulls vs Cavaliers LIvE FrEe StReAm",
+      "enlace": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=video-livestream-tv-bulls-vs-cavaliers-live-free-oezl5",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWSEzmHCQwwk3zJed3rsmvo0sRnxo5V0ldS9nzaKsXUUIWLf-5vvBPiNNhhQ"
+    },
     {
       "termino": "el salvador",
       "trafico": "200+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "secretario de seguridad nacional de los estados unidos",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Vuelos cancelados: colombiano hizo una escala de una hora en RD que se convirtió en cuatro días",
       "enlace": "https://www.diariolibre.com/economia/turismo/2026/11/16/vuelos-cancelados-generan-gastos-adicionales-a-pasajeros-varados/3722199",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvj32PxLs38Qvo8bBwI6TyHpyR7Dps7Zro9INQ7q2z6QaaxUrAAozre7TY0DQ"
@@ -29,9 +43,9 @@
     {
       "termino": "allemagne – pays-bas",
       "trafico": "100+",
-      "noticia": "Ligue des nations, Journée 6, l’Allemagne et les Pays-Bas en quarts de finale",
-      "enlace": "https://fr.uefa.com/uefanationsleague/news/02ab-221470e743e4-bae595b9b9ab-1000--ligue-des-nations-journee-6-l-allemagne-et-les-pays-bas-en-q/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_6wwoQVN86gzbtSrts2QVfEsXT_thxMxGXwxn7F8PnNi5AatzuL5DcITrGQ"
+      "noticia": "Un moment de frissons avant le match de l’Allemagne",
+      "enlace": "https://onefootball.com/fr/news/un-moment-de-frissons-avant-le-match-de-lallemagne-43786915",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn3hGR1fXiPPhTxPvAVKzk3Uk3-XwyAwtGeFJOLKq28iPwjYPSk3bnd3Ct5-E"
     },
     {
       "termino": "frontera entre haití y la república dominicana",
@@ -60,20 +74,6 @@
       "noticia": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
       "enlace": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSOABnPz_Zco-Aaboy_1mcnDHoXR293SEUoBiiQ5FpBL_qeS8GKtBOGjYZ5yY"
-    },
-    {
-      "termino": "telecomunicación",
-      "trafico": "200+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "barahona",
-      "trafico": "1000+",
-      "noticia": "Familias damnificadas tras incendio en Barahona temen quedar en otra larga espera por viviendas",
-      "enlace": "https://listindiario.com/la-republica/provincias/20261115/familias-damnificadas-incendio-barahona-temen-quedar-larga-espera-viviendas_930168.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDeE-g9Ni6t8b-iVyFto--uRsA4a-yoi7EJKbH2yYySbTxxifCsAaK-KZOGps"
     }
   ]
 }
