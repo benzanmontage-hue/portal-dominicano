@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-17T07:07:18.536199-04:00",
-  "hora": "07:07",
+  "updated": "2026-11-17T07:28:00.679421-04:00",
+  "hora": "07:28",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "weather",
+      "trafico": "200+",
+      "noticia": "Oklahoma’s Moisture Divide Widens Following Chilly Weekend Storm System",
+      "enlace": "https://www.oklahomafarmreport.com/2026/11/16/oklahomas-moisture-divide-widens-following-chilly-weekend-storm-system/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zeKOokD1bR3yuP9p3jvougANCADfd9-QB3sn36heykQMVile7Ko01HAMmNc"
+    },
+    {
       "termino": "singapour – brésil",
-      "trafico": "500+",
-      "noticia": "L épouvantail est de retour ! Le triplé éclair de Vinícius écrase Singapour",
-      "enlace": "https://fr.news.yahoo.com/sport/l%C3%A9pouvantail-retour-tripl%C3%A9-%C3%A9clair-vin%C3%ADcius-104347472.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRB6yHvGR6jKUMnbOFTKXZJrXMGTltLQXbWS2Ebgzu30BI6dlU7OdKpgmX8jQ"
+      "trafico": "1000+",
+      "noticia": "Prédiction du match Singapour - Brésil, 17h00, 17 novembre : Un « choc des titans » ?",
+      "enlace": "https://www.vietnam.vn/fr/nhan-dinh-singapore-vs-brazil-17h00-ngay-17-11-trung-choi-da",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmruKliBOiSyPmapoKHcwc0XIgNWVd-5qC7jvxoXhGbPmkBcHPDx-vVx2J08c"
     },
     {
       "termino": "evangelio de hoy",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "luis abinader",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Abinader promete impedir uso de fondos públicos en campañas y actuar contra la corrupción",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/17/abinader-promete-impedir-uso-de-fondos-publicos-en-campanas/3722698",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHnJvtYNEKqtw9rN4NsxlEacB6cbRgs1d9O2h2veY4gog1odOCBjwA1f7Ouk"
@@ -29,13 +36,13 @@
     {
       "termino": "tormenta",
       "trafico": "200+",
-      "noticia": "Granizo extremo y techos volados: fuerte temporal en el interior de Córdoba",
-      "enlace": "https://www.cadena3.com/noticia/radioinforme-3/granizo-extremo-y-techos-volados-fuerte-temporal-en-el-interior-de-cordoba_613811",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEc5KrjeZMkBCAZcWdgYDKfe7DO1D6bHNRa5k3X_sxIT3ciLTtSUVHd5mfhM"
+      "noticia": "Temporal en Santa Fe: árboles caídos, voladuras de techos y rutas afectadas por vuelcos",
+      "enlace": "https://www.cadena3.com/noticia/noticias-rosario/temporal-en-santa-fe-arboles-caidos-voladuras-de-techos-y-rutas-afectadas-por-vuelcos_613737",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmSX5DVtZxssbw7_ITPFT-2ZrJP8TKdhPcXvqIYp3yDABQHgTzDhDK5LuHp5I"
     },
     {
       "termino": "nuggets - suns",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Jamal Murray News: Scores 28 points in loss",
       "enlace": "https://www.rotowire.com/basketball/headlines/jamal-murray-news-scores-28-points-in-loss-539536",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41gCNbtZ-fRUOFqeAVF7Cn13i-GlPF_lhLvKhnCz71Qk_37P-b3oJmlnpf1s"
@@ -48,18 +55,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHL1hlNhRpkEPaRK6iDOpPd1M1hIuHB-gYQOd4ZJG_ou59eu8HqH52N_cYEI"
     },
     {
-      "termino": "sin senos si hay paraiso 4",
-      "trafico": "100+",
-      "noticia": "Sin Senos Sí Hay Paraíso 4 regresa con nuevos peligros y grandes regresos",
-      "enlace": "https://www.telemundo.com/shows/sin-senos-si-hay-paraiso/sin-senos-si-hay-paraiso-4-trama-elenco-y-donde-ver-rcna609011",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQBrMAEnckg9XHKSByDeNRbYZBsCbd_7Z7KkIzMrsUNMIlaJsrV5NNdSD1PC0"
-    },
-    {
       "termino": "saddiq bey",
       "trafico": "200+",
-      "noticia": "Saddiq Bey Highlights vs. Golden State Warriors 11/16/26",
-      "enlace": "https://www.nba.com/pelicans/videos/saddiq-bey-highlights-vs-golden-state-warriors-11-16-26",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvdpT5Q9bCiqvwQdPwG_Q5_SKq9-19t-PLbv0N99obh1wrZYYOFz5tgdcuEk"
+      "noticia": "Deni Avdija scores team-high 27 points in loss",
+      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-16/deni-avdija-scores-team-high-27-points-in-loss",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlpIaud5i2HgCrj82uilZKqogD44smg8NxfEZ70z0KAdHgDCbHon4mLAEmlk"
     },
     {
       "termino": "embassy",
