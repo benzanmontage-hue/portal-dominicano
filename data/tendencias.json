@@ -1,10 +1,31 @@
 {
-  "updated": "2026-11-17T19:05:20.730372-04:00",
-  "hora": "19:05",
+  "updated": "2026-11-17T19:25:39.532771-04:00",
+  "hora": "19:25",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "estados unidos - haití",
+      "trafico": "500+",
+      "noticia": "Pulisic y Balogun sobresalen en goleada de Estados Unidos sobre Haiti",
+      "enlace": "https://listindiario.com/el-deporte/20261115/pulisic-balogun-sobresalen-goleada-estados-unidos-sobre-haiti_930164.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcs3Pp8nJCZsLesCMGuHIK-5NaTX3cEiMKzPKviaC5t5UesL1OxuXeNzfcnI"
+    },
+    {
+      "termino": "états-unis – haïti",
+      "trafico": "200+",
+      "noticia": "Avant de rejoindre Manchester United, Mauricio Pochettino se dit « concentré » pour un dernier match « très émouvant » avec les États-Unis",
+      "enlace": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-de-la-concacaf-etats-unis-avant-de-rejoindre-manchester-united-mauricio-pochettino-se-dit-concentre-pour-un-dernier-match-tres-emouvant-avec-l/20245733",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusbdvehsgzI0U4pvWNP0t42SL1Dcj5_O1N9UKhvWItHPw3Z46-f9SXD29Iro"
+    },
+    {
+      "termino": "argentina vs costa rica",
+      "trafico": "200+",
+      "noticia": "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba",
+      "enlace": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17522786/la-formacion-de-argentina-vs-costa-rica",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4nahZLuIC_h50bhIwOl2lDRLWWyzhl2CtDXhjUuUrKriCtILAKrKaqbCqs8"
+    },
     {
       "termino": "donación",
       "trafico": "200+",
@@ -21,7 +42,7 @@
     },
     {
       "termino": "argentina - costa rica",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Argentina vs. Costa Rica: Preview, Predictions and Lineups",
       "enlace": "https://www.si.com/soccer/argentina-vs-costa-rica-preview-predictions-lineups-11-17-26",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVFO8UiN7HzztkZ693uDh4-she5OyxHtMX37DPufyibNra2_CfMjT-ZcvM3PE"
@@ -50,30 +71,9 @@
     {
       "termino": "pays de galles – portugal",
       "trafico": "200+",
-      "noticia": "Sélections : Pays de Galles/Portugal : grande première pour Vitinha et Neves",
-      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-grande-premiere-pour-vitinha-et-neves/61571",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY7_LfVnYH0hJkiftJ1h-M7BJm3XoTTGw3b2pIUQP8TAFgvr_XFKI8eDJ_H0w"
-    },
-    {
-      "termino": "agencia de seguridad nacional",
-      "trafico": "200+",
-      "noticia": "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/17/eeuu/red-comunicaciones-seguridad-nacional-caida-trax",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQREcU_SSR0_MoF0ujdjaC1fQHdGWBehvxV-gekP22ECx6AB0XDQMRXqhzM2YE"
-    },
-    {
-      "termino": "dinamarca - noruega",
-      "trafico": "1000+",
-      "noticia": "Dinamarca - Noruega en directo | Última hora de UEFA Nations League en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/uefa-nations-league/dinamarca-noruega/2026/11/17/01_0195_20261117_369_363-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pAHjyYiTPuzfu790uKUgvSygRsEoC_UpTw-Ua_T2qwTMc1A-_aYfz5PKbxw"
-    },
-    {
-      "termino": "gales - portugal",
-      "trafico": "2000+",
-      "noticia": "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller",
-      "enlace": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8Oyc7fT5YJzkEfdZuTIXlaKRig5zuU-SjTaxmHOTpTnBzNmbTh7Ws-A6oYw"
+      "noticia": "Sélections : Pays de Galles/Portugal : sur quelle chaîne et à quelle heure regarder à la télé ou en streaming",
+      "enlace": "https://www.culturepsg.com/news/selections/pays-de-galles-portugal-sur-quelle-chaine-et-a-quelle-heure-regarder-a-la-tele-ou-en-streaming/61572",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9bXmORvao9Ua8_GkcfxrV0Od2VUBqA8fJHmRAHoQKb21vV0Rae3cXJ7SvNZs"
     }
   ]
 }
