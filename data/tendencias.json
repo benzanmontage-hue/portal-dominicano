@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-17T13:16:43.409934-04:00",
-  "hora": "13:16",
+  "updated": "2026-11-17T13:37:12.801337-04:00",
+  "hora": "13:37",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "singapore vs brazil",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "I wanted to score more!  – Vinicius explains Brazil sub frustration",
       "enlace": "https://www.beinsports.com/en-asia/football/friendlies/articles/i-wanted-to-score-more--vinicius-explains-brazil-sub-frustration-2026-11-17",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMzTc75jJOs1ILZrkdGjtoF4QPEsxnaee9H2YKxPZeFLJp9YeaQ2FdNC7Mxk"
+    },
+    {
+      "termino": "brasil vs",
+      "trafico": "200+",
+      "noticia": "Brasil decepciona tras caer contra Japón pese a dos genialidades de Vinícius",
+      "enlace": "https://listindiario.com/el-deporte/20261114/brasil-decepciona-caer-japon-pese-dos-genialidades-vinicius_930082.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCAtOpIrffU4nKkyvNP79oiBK1gF_lqD6c9xcdyOOLUUWpgb9W5z4uo0OuRIk"
     },
     {
       "termino": "weather",
@@ -43,9 +50,9 @@
     {
       "termino": "luis abinader",
       "trafico": "200+",
-      "noticia": "Presidente Luis Abinader garantiza que no habrá impunidad ante actos de corrupción y pide a ciudadanos denunciar irregularidades",
-      "enlace": "https://presidencia.gob.do/noticias/presidente-luis-abinader-garantiza-que-no-habra-impunidad-ante-actos-de-corrupcion-y-pide",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXJBbXPgb90wsOo-qnXWs8BipEWYp5pxa3QZEY0sjVRfeuwDN8FdBwbCF_BA"
+      "noticia": "Abinader dice Senasa operó con una “falla de control estructural” desde su fundación",
+      "enlace": "https://listindiario.com/la-republica/20261116/abinader-dice-senasa-opero-falla-control-estructural-fundacion_930385.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVYIearBL1IRbzrP5Yft6mrLipYNhXDCA0Yvux_QxesBQCn6emFSTDpP7Wck"
     },
     {
       "termino": "tormenta",
@@ -67,13 +74,6 @@
       "noticia": "Tiny Nick s Gambling Picks 11/17",
       "enlace": "https://zonecoverage.com/2026/gambling/tiny-nicks-gambling-picks-11-17-7/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm6MI7XKAOq0T1sNzssnggKDTeb9_9I10T0n8vexMf6Wk37xzrgRXbr7Ej49s"
-    },
-    {
-      "termino": "saddiq bey",
-      "trafico": "200+",
-      "noticia": "Saddiq Bey drops 23 points Monday",
-      "enlace": "https://www.fantasypros.com/nba/news/620768/saddiq-bey-drops-23-points-monday.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZj4-wz-7tFZUbICx_Bpshbcs0Kfiw92HOjVjU0mYoe9xuduAU-8MbJ2eFr2Q"
     }
   ]
 }
