@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T08:17:26.914343-04:00",
-  "hora": "08:17",
+  "updated": "2026-11-18T08:37:50.505171-04:00",
+  "hora": "08:37",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,11 +13,25 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlmrLGy-kQ56ivQMR0x6OWxSbonK9MwlN6sXL3UYgjDKWVLXDqc3sfhaAAI1E"
     },
     {
+      "termino": "vladimir guerrero jr.",
+      "trafico": "500+",
+      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
+    },
+    {
       "termino": "resultados lidom",
       "trafico": "100+",
-      "noticia": "Águilas adquieren al jardinero Víctor Robles por medio de cambio con Leones",
-      "enlace": "https://www.mlb.com/es/news/aguilas-adquieren-a-victor-robles-por-medio-de-cambio-con-leones",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSma2jNSY9W0S4vLV5M0L5WliKQlKBJOJzf5975XKqUNbPhSvPj7cevpZG3C78"
+      "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
+      "enlace": "https://www.mlb.com/es/news/estrellas-superan-a-aguilas-en-reanudacion-de-partido-suspendido",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq8_p9jVmX09-GhXl8D3lS39Nynx5E_ewGBjYMHprb3lb46mt1Eag3kSwBBko"
+    },
+    {
+      "termino": "twitch",
+      "trafico": "1000+",
+      "noticia": "Grand Theft Auto VI Is a Masterpiece",
+      "enlace": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThBqOG0WcMle4NKvuhpjrAzrPE-htf4VSVCqUvt_EQt5J_UqErWeqBPLZZYqI"
     },
     {
       "termino": "kick",
@@ -41,25 +55,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
     },
     {
-      "termino": "gta 6",
-      "trafico": "500+",
-      "noticia": "‘Grand Theft Auto VI’ is an astonishing American epic",
-      "enlace": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAidjedV9nmgXI4rbdtba7OzdCjvIDfRSCFbrczoh7yPCd5FMkvkdkRXkBV6k"
-    },
-    {
       "termino": "lidom hoy",
       "trafico": "200+",
       "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
       "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
-    },
-    {
-      "termino": "vladimir guerrero jr",
-      "trafico": "500+",
-      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
     },
     {
       "termino": "méxico - jamaica",
