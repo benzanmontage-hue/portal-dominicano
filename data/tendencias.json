@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-18T10:19:42.786301-04:00",
-  "hora": "10:19",
+  "updated": "2026-11-18T10:40:05.146797-04:00",
+  "hora": "10:40",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "playstation",
+      "trafico": "200+",
+      "noticia": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
+      "enlace": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreo4ybwfOcDN6L5MvhlmBx9LotdNBDgznVlAXPx_MpG5c08Po0j8VqAz0AWM"
+    },
+    {
+      "termino": "acusación",
       "trafico": "100+",
-      "noticia": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
-      "enlace": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCaX5JvGP0hM7rff1QIkom_oFPhAy0DDtLkI7vcfxnPwGjNDC9El2moVPx-dw"
+      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
+      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
     },
     {
       "termino": "policía nacional de haití",
@@ -29,20 +36,20 @@
     {
       "termino": "quentin grimes",
       "trafico": "2000+",
-      "noticia": "Quentin Grimes  47 points fuel Lakers  18-point comeback over Hornets",
-      "enlace": "https://www.cbssports.com/nba/news/quentin-grimes-47-points-fuel-lakers-18-point-comeback-over-hornets/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+      "noticia": "Luka Doncic News: Drops 37 points in OT win",
+      "enlace": "https://www.rotowire.com/basketball/headlines/luka-doncic-news-drops-37-points-in-ot-win-539713",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq8ChpeqBL3R8utH0TGkRQOcwO1ticgaP_gTd4nrh7NStfGKaBHbyihHhV0cI"
     },
     {
       "termino": "twitch",
-      "trafico": "500+",
-      "noticia": "The future of Twitch might belong to its smaller streamers",
-      "enlace": "https://www.nbcnews.com/tech/tech-news/twitch-middle-tier-streamers-making-living-platform-rcna608808",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaUl0PKpVuKcZKZctXAc4wus2ce88XBGGZPw1lzdW0KdO_1a3op0TyPZJTFCc"
+      "trafico": "2000+",
+      "noticia": "Grand Theft Auto VI Review: It Will Steal Your Heart",
+      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
     },
     {
       "termino": "kick",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
@@ -53,13 +60,6 @@
       "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
       "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
-    },
-    {
-      "termino": "gta 6",
-      "trafico": "1000+",
-      "noticia": "Grand Theft Auto VI Review: It Will Steal Your Heart",
-      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
     },
     {
       "termino": "lidom hoy",
