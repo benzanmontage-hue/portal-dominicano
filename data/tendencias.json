@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-18T12:02:53.867117-04:00",
-  "hora": "12:02",
+  "updated": "2026-11-18T12:23:27.629882-04:00",
+  "hora": "12:23",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "factura electrónica",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Diputado pide plazos por segmentos para que micro y pequeños negocios adopten facturación electrónica",
       "enlace": "https://elnuevodiario.com.do/diputado-pide-plazos-por-segmentos-para-que-micro-y-pequenos-negocios-adopten-facturacion-electronica/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblo41WY7ic3y4Jy2sqx12-oCNKd19kdAJiUhNGu-NI2uDkikzRq_e0ba5o_o"
@@ -41,13 +41,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPz_lOJDB7eVrspJ0dsStIkl-ay261CheWfwFHP0ZNX1G_l8gx3T5q2B2Xgmc"
     },
     {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
-      "enlace": "https://www.mlb.com/es/news/estrellas-superan-a-aguilas-en-reanudacion-de-partido-suspendido",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq8_p9jVmX09-GhXl8D3lS39Nynx5E_ewGBjYMHprb3lb46mt1Eag3kSwBBko"
-    },
-    {
       "termino": "twitch",
       "trafico": "2000+",
       "noticia": "Grand Theft Auto VI Review: It Will Steal Your Heart",
@@ -74,6 +67,13 @@
       "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
       "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
+    },
+    {
+      "termino": "lidom hoy",
+      "trafico": "200+",
+      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
+      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
     }
   ]
 }
