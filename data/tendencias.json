@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T08:37:50.505171-04:00",
-  "hora": "08:37",
+  "updated": "2026-11-18T08:58:11.709623-04:00",
+  "hora": "08:58",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -28,14 +28,14 @@
     },
     {
       "termino": "twitch",
-      "trafico": "1000+",
-      "noticia": "Grand Theft Auto VI Is a Masterpiece",
-      "enlace": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThBqOG0WcMle4NKvuhpjrAzrPE-htf4VSVCqUvt_EQt5J_UqErWeqBPLZZYqI"
+      "trafico": "500+",
+      "noticia": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+      "enlace": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbtpO_dfiMRFQhKvZroYWuSH5hpURQG_pdWSmpkpOzBgkmRf6--el6WniArFI"
     },
     {
       "termino": "kick",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
@@ -55,6 +55,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
     },
     {
+      "termino": "gta 6",
+      "trafico": "500+",
+      "noticia": "GTA 6 Gets a 99 in Early Metacritic Review Scores",
+      "enlace": "https://insider-gaming.com/gta-6-gets-a-99-in-early-metacritic-review-scores/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmE_QIibwLyjMC9arz2u-8-fzv7g9TMDnm6QzBoMnVd7Bc0MtftYq-Jd2Wdyc"
+    },
+    {
       "termino": "lidom hoy",
       "trafico": "200+",
       "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
@@ -67,13 +74,6 @@
       "noticia": "Márquez earns first Mexico win to set up Nations League semi vs. U.S.",
       "enlace": "https://www.espn.com/soccer/story/_/id/50517553/mexico-survive-jamaica-scare-give-marquez-first-win",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGdSZc2-9CIHVrKVVl-NUSquRRz2v_pOWD_CPbXked0uT0gXyGwPl0RnKVxoU"
-    },
-    {
-      "termino": "temblor",
-      "trafico": "200+",
-      "noticia": "Temblor de magnitud 4.5 se registra en el mar Caribe, cerca de la isla Saona",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/17/temblor-de-magnitud-45-se-registra-cerca-de-isla-saona/3723841",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6bH1yCKFy-EKfTzR-3-tQ_WwEznlzKRC1QLaq3z1xC1jQa6_phLY3SFSw6-o"
     }
   ]
 }
