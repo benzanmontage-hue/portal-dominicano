@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T19:13:13.820344-04:00",
-  "hora": "19:13",
+  "updated": "2026-11-18T19:33:34.835638-04:00",
+  "hora": "19:33",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "deutsche bank",
+      "trafico": "100+",
+      "noticia": "Deutsche Bank Leak Reveals $582 Million In Epstein Payments, Accidental Trump Tax Disclosure",
+      "enlace": "https://www.forbes.com/sites/siladityaray/2026/11/17/deutsche-bank-leak-reveals-582-million-in-suspicious-epstein-payments/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w4BHW9j6VciGpuZrXEFnYVwlWr84p-ZfqVdLv-MuPyenixSsBR1wy7H7L_E"
+    },
     {
       "termino": "salario",
       "trafico": "500+",
@@ -53,13 +60,6 @@
       "noticia": "Policía haitiana identifica 18,000 transacciones financieras sospechosas vinculadas a pandillas",
       "enlace": "https://listindiario.com/las-mundiales/haiti/20261118/servicio-inteligencia-policia-nacional-haiti-identifica-mas-18-000-transacciones-financieras-sospechosas-traves-natcash-moncash-72-horas_930591.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0HIna5u-TQyAI2WPm40u9BI32mP3mg8hVyPh9yaWcKOuTg_IThxUEY5Co2BE"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
-      "enlace": "https://www.mlb.com/es/news/estrellas-superan-a-aguilas-en-reanudacion-de-partido-suspendido",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq8_p9jVmX09-GhXl8D3lS39Nynx5E_ewGBjYMHprb3lb46mt1Eag3kSwBBko"
     },
     {
       "termino": "twitch",
