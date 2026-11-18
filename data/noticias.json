@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-17T22:10:08.740222-04:00",
-  "hora": "22:10",
+  "updated": "2026-11-17T22:30:32.025153-04:00",
+  "hora": "22:30",
   "fecha": "17/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dJZ0VvNFVMMHcyVVp0cklqQ3VmMnRYUlNPOWdXY1lYck9YMjQ4S2hVaVNyNWxybEktVVk5VDYyRzA5V1FGNF84ZHVGcmliclo2Ym1jbXZ1amlic1U3ejNBSm9UbmhXc0xsZnZPRXhjaWxzRnl1akl2b3dXSG9pZFFpTS00SHZqRjlKWjVQUUZuNUdKLTcyUVVkUlVqSnBObDB1Y0R6NA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Uruguay vs. República Dominicana (17 de Nov., 2026) Resultados en Vivo - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iV1FrMlVHRUVJbXRJaGZsTkpPZWlHRGMxVG00TnhEdkNPNkxDWHhCdEhZcFlqS2pSMFFMUG1VRWZMNEFfenpYVVhCdEIxZnV2TXNmbjlEVEQ5OHJCYmNfSWR6VU1aTUlKd3VDZU1aZzE1Zw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 17 Nov 2026 23:33:59 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
       "imagen": ""
     },
     {
@@ -69,22 +69,6 @@
       "imagen": ""
     },
     {
-      "titulo": "5-0. Uruguay acaba el 2026 con una goleada a República Dominicana - HolaNews",
-      "fuente": "HolaNews",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTNxa04zNWZmckowa293eTEweFo3QjFZTWJuZjY2VjIxWHAwVl8xd2d1ODE1T1JDV2E3bXRxV2F5VXRnUjNSUXhqMlJZNERtZlUwV0w2RTJGOUpuZ1R5QnM1cU1ZYU1XbU5KQ25HZW5GYlpXNlVzWGdkbHNoRlBPS1dVXzlLQk9UU2R1Q080UQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 02:00:41 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
-      "fuente": "DAZN",
-      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0x2dDgwd0k4dDlKQlZuMjVCcmR2ejRfZC1rdEFENXMxOXJFWmU0ZmpCbWNpT2FNNTdJSEw4anExVkZub0FnRWJOemViOWZMeXB3SDN2eUZGQlFiNFp4LURwRnZWcEdFc1FoV2V3UkdoWlBZVTl2Ul9yX3U1NE1VVGZya3lpU2tYaHNQMEp3SktKZGVENHlRbF9QSUJLOVZCWGRyaDlmVWFIbzVxd2NCQkVzSERGQ003b2o1N3Ffa0MtWkFMYUs1TGlheG1nRHpzVEwxWWw1YzNtX21EY29wblB6dl9TVmZsU2hTVnBrOTMwZ2t1ODdDUg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
-      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
-    },
-    {
       "titulo": "República Dominicana rompe récords turísticos y atrae cadenas de ultra lujo: espera 12,5 millones de... - CiberCuba",
       "fuente": "CiberCuba",
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZ2SE1SdFhiVE1zdUtxQnhpOXc3NXVwdDk3SEZ5VEU1Y0YxRHBfVUt4QlY2aHc1UmVTYkFXZ0ptQTZPVi1neF9ZNGI5NU9NOF92Z3ZOOVZjZmZDN1ZxR185TXZVLUVXeGlxYkVCZTh4Tjdxd04zZklDcmZwVU5nbVU4UXVSTE95Q3B5dzhHS0Jadkc3VGFCUUp6VG9IS0kzeXNZRTd1M2YwRWpzb3JuZU5Qazk5Vml4VjlzQUpVTzN5elXSAcMBQVVfeXFMUDQ2dkhNUnRYYlRNc3VLcUJ4aTl3NzV1cHQ5N0hGeVRFNWNGMURwX1VLeEJWNmh3NVJlU2JBV2dKbUE2T1YtZ3hfWTRiOTVPTThfdmd2TjlWY2ZmQzdWcUdfOU12VS1FV3hpcWJFQmU4eE43cXdOM2ZJQ3JmcFVOZ21VOFF1UkxPeUNweXc4R0tCWnZHN1RhQlFKelRvSEtJM3lzWUU3dTNmMEVqc29ybmVOUGs5OVZpeFY5c0FKVU8zeXpV?oc=5",
@@ -101,6 +85,30 @@
       "imagen": ""
     },
     {
+      "titulo": "Así fue el golazo de Fede Valverde en Uruguay vs República Dominicana - 365Scores",
+      "fuente": "365Scores",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FbWJkYWlVN0lYV1A2WUdtR2FqaFNsRERmUno3akpKU05UOGExTndhWnRHVVlXWWxrTWFMQWd6Qko0alhaQktfOE5yMVlRRzNSd29EbHhlRHFpWloydWM1X2M2cC1CQ2JyT0xDVkZ3WkRYbW1tR1JkRWRn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:27:14 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Élder Rasband se reúne con el presidente de República Dominicana - masfe.org",
+      "fuente": "masfe.org",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hcHRRUkNsTFZjdjRlOGZwc3RSSWRzTTdpQ2R1SWVJQXNvVGp6T3phQmR6UkhJSFFHeWhqQTBmOTlTQWpQYXJ6XzBWU0wyZXpYV2FjU19OMXFUczY4U0RQNHRVczlhWTExcFl3Mjl2SVktd1dldmlreUtValFUdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 02:25:19 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
+      "fuente": "DAZN",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWVPOF9saDFNYXFSXzFMLTRmRGtzaWpSTTJPWWw1UjRMR2R0STlYVk4td3UwSE03a1pzOUFEZHpNbFB0cUVmTllaWEVxZkVZQU5vSW4wVFVHeUV4bEt5cnVBVGpDWXU4NDNtYkdMZFBaUmZWbEpBdk5PQUlGVG5CMXpMcEVIWldjSmRIZTZGUkFTTjgyMUxrWmJXTmxEZXhTeFdGNTJaS0poSDljSTQzTngzV18yZE9zal81VUNXdk5ielVaaFRFdVhGMWZZUFBSc0xGRnBOWlhBNXd1M3FOQkxtWm9sLVhSU1ZJdW5MRWFXQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
+    },
+    {
       "titulo": "Uruguay vs República Dominicana EN VIVO: resultado, goles y minuto a minuto del amistoso internacional - 365Scores",
       "fuente": "365Scores",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MWTVSMERsdGR0Ym43Z09rTlk4S0M3c0lwSXNsREhLM2lfeXV4X2syNkdCNklYdmxZQXpXanM0ekZ1djdQX0xHNER0bHV4TThBVEUzZHNkQVAySzM1SFJYQ0VPd0ZRLWVZakpPT3lDT3o4b2NTRU05a3ZxWWU4Y0E?oc=5",
@@ -109,19 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dónde ver Uruguay vs República Dominicana EN VIVO: transmisión del amistoso internacional - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdFNqbXdYOGk5SU5sRnpVQlcxLWh6LXB5SW1IOFlYZm1aMk5hLW9SRktGbEc1ektfUzN5b2NMM1N6MkN5S1NOSWFqS2VDOE5ZQk9hZHFjc1FQMkNDR093R05kaGtqNnM1eWJ1Mmc5OFQwcDZDUUdZVl9nQi1jQQ?oc=5",
+      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 21:44:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana reemplaza a Estados Unidos en el Mundial Sub-17: ¿cómo afecta a Chile? - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2tSWmUtc0p6cVFhWEdmWE9fdDI3UTgxZzVveDlwbEFZck5GZExyX1ZXRzNBblFfZzJYZGM4YjlSR01JOWM1ZGZjYlpLcnNrQlp2OXRkeGlEWGtaUm8wNHA5UFM3dTNaN1p0S3hEb2ZTTVpyZFFhVW1Wdk9OT1BnTg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 19:16:00 GMT",
+      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
       "imagen": ""
     }
   ]
