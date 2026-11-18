@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T11:41:21.477787-04:00",
-  "hora": "11:41",
+  "updated": "2026-11-18T12:01:43.889639-04:00",
+  "hora": "12:01",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,16 @@
     {
       "termino": "playstation",
       "trafico": "500+",
-      "noticia": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
-      "enlace": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreo4ybwfOcDN6L5MvhlmBx9LotdNBDgznVlAXPx_MpG5c08Po0j8VqAz0AWM"
+      "noticia": "I Will Never Stop Playing ‘Grand Theft Auto’",
+      "enlace": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvdu0MIw5NKBhbryJ5Qm0jc_50l2tbl3cDw4ewEUPhsuvDD9kO4o3EQ9FJQ_0"
+    },
+    {
+      "termino": "playstation store",
+      "trafico": "200+",
+      "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+      "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
     },
     {
       "termino": "acusación",
@@ -67,13 +74,6 @@
       "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
       "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
-      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
     }
   ]
 }
