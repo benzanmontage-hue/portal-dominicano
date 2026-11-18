@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T13:45:06.867421-04:00",
-  "hora": "13:45",
+  "updated": "2026-11-18T14:05:30.611345-04:00",
+  "hora": "14:05",
   "fecha": "18/11/2026",
   "total": 12,
   "eventos": [
@@ -41,6 +41,18 @@
       "fecha": "Sun, 15 Nov 2026 17:46:00 GMT"
     },
     {
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
+      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Candestino regresa a República Dominicana con un concierto para perros y humanos - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQekwyMVFHNTgtZVZLRWFMMGNILXEyZnVuUGtDd2doTHNkVmZmSWJnbUdBeEVZYS1scjFIYnljOElLTWZSaXFKTG9vMWYwRWRTTkp3Mm95SWhZUm84b3RSZFdLdlZrR3BtNkFEWWRLaW4wV3NrVDROT1dtdWlkbnZDNFpqdjFjaTNNbVg5NDdjZHB6RUs3UUc4aERiNjlrVjdCaTQwODdiWDZNUmdjN3BlVlBjN0hRZ9IBuwFBVV95cUxQVERiYXEwLUFhVU5Dc01GRG9uZGhmMlJreGJDWkdYSHBITEM2R0VDbWdtN0Y5MS0weXExSHQyTDV3QjJaeTZtUW11bXQ0Rzc3SFgwZ084Y3oxRGZqNm14RVBiUVhyWXNaYnlNdFcxUTdsOWczdDd6VkQyTFluNmhQMmhuZ0dRLUlGbHNVc25aZ1FqNTlxMFRqSjdFdk9HWTlqcnAyUjZEbURSRlhiWHAzZ3ZhNGEyZTVSS0NV?oc=5",
+      "fecha": "Tue, 17 Nov 2026 16:16:00 GMT"
+    },
+    {
       "titulo": "República Dominicana se vuelve a poner en el mapa (y en tu radar) con su Trade Show 2026 - GQ México y Latinoamérica",
       "fuente": "GQ México y Latinoamérica",
       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXlIdkdFRUsyekZzTm5uaXo4VzNPWXpHQTNOY1hsZjFlRWw3Mm5fTUk2LWFLQy1GN1NSWkQ1a0FRd2JXcFhLVVJoNXMyYkh4MGRSTXRuVFU4eHczdzdEWkJib2d2S29tOVF5eDRGNnJpMTVvMW83aGhqV1RZNEhlSzN3UEpodjVFNnNMbzR2RjlWM0lNTUsw?oc=5",
@@ -53,28 +65,16 @@
       "fecha": "Sat, 04 Apr 2026 07:00:00 GMT"
     },
     {
-      "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJJX2FEZzF2ZXBOSFdhSWlsZVJjeVlDS2habnVXMXZKVG11ei1FcmdvaGIyaHpQTWkxWU9SNmwzODNXblVGbUVYTFd2aXRhSy1SMG10Y3AxMTdXOHhfMXEzc0I3ZnFvZXRPOUtFQUI4OFRfcWUxS3NEcF9HMVVyZEwtZ0tOdXF2bVFHdjlHZEJ4VkpyaUs0YkFXVTRzWFZBQmZfaVpfQUdSV09ONlRXYlpTZWs4a1dWTjVHQ3RuLWFyZTdTSEpB0gHMAUFVX3lxTE1GZDFiSEFtbHd6bjBROUhtd25lTGo2cTBLVEZScEhGUldkSmQwU3d5R1B5WENNUEhNanI5UU5MQ19VYTZuX0IyS3U4S25Td2M3Q2JmUVgxbnhZTVlORmhhdVlkSi1TS2d5YTdxbGZfNVhIcVRHUXVkRjJacFZhMllYdHJWTUVxVHlVUVExekhsYzIwdlRwM3R4NDN2LVJGMk1HUzZPRVRwUXpoU2hiUEF3dENJMFRKOXB4WFZhWG52NDM0WmsyaWsxSGdPeA?oc=5",
-      "fecha": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
       "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaklpM3duRmQ5ZG5CazlSQ3ZpZzNvcGh0eXA3cUNPZTFkYjJzT3FlT2Z1eE1iSjFfOGYwQ2h0RVc1NkhLOWtqMThqWjJVa1pJUG5NUGdfbkFabTJzU3pSTENCOWJzWUk4aVg0QXZ5dkJvd3BXWFdXRnBqMkdSa0k2cDhlYnFuX2FXa0kyd0FWLUx2TzRsbVpGdUdmc0xGcFBNRmo4M3lvMTYxWHZjVWpWSmFfVGVsZlpKb2RLMFZZcUdDa2U1SkhDRS16Z2lXbFpLTUc4djZtZUVKMWpKSWVZbk1LV1hBb2lvRFBGZHNaR19kOFNXTDREaDVGd2HSAZcCQVVfeXFMTjVaOWFOeU9XUko0cW03QWlWTDdTTk85LW5weEdvTHFFcEd3SWdMZVFCbnNiXy1peTVlV0xtNk1tbmNKOExHNnItWWE4djZwX2N6N2pId2ZmSjlsbEdnblJ4aEZFS2FJSjNGV1VVc0FQdGRRNEpLTEVmcklEbVVVYjdDRXR4TUpSTzYwNHlzblhHekJYUGNSQkppMnRsTVJRVkt1ZVFEeEpJU0xlcklfUVdFMXJMZ1hJcXBxZ1gwNGtxSFNqamt6X0Q1UEh6c1lULUJmUm44WHBhMW1tOEFtaG9tSUJJeWM4MW1wOU5GaU1TaG9GY0VkX2hDWllxTmN6Nm03VUtRdm00enVhbXcyMDkyWWNBNWR3?oc=5",
       "fecha": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
+      "titulo": "Soy Luna regresa a República Dominicana con un concierto en octubre - Listín Diario",
       "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
-      "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "Carlos Manzanillo rinde homenaje a Juan Gabriel con espectáculo de bachata en RD - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY2syUnhSclpoZmNNOHBnZWNjQzFmcWFwZGNRSGtMUDJrNGIxd2wtNWpJbnZvd1I0MXlCNjdyaVEtbjhiTXBpY3pRaXhRZ0Q2YUZOVXRBRHVmZDczWWpINHNJenZOQ1pKelVMSnNaRXpwNnV2Vkl4THFEdDNHaktGS2hEVkpWYTFneE9sUzNYeXZvZWVDOW0weWtaVTF1elpjY0ZDcHY1Y1d3VzNZN1dBcFdmZENCcG5lcmI1ZXUyNUNBRzjSAcgBQVVfeXFMTl9fbDh6TnI1NVl5ZXFuYjJDMW5aSkJuN2p4UFJKU3Ayc1M2LWhwbmI4MGZKMkdEYTlYNGNycFVIUU5mVXltSHFHS3dlanVKWUJHRzdObGEyVnZJQ09MUUNkM2EwZXh3ci1IcEhfdGRhdGlhbGFaUG15X1RraFhqOVdkeHFTUHdtNUVPcjdIOHRFMDZjY2FxX01Ga0I4RDZ1UkZYYXNRLTM0TlJQSDNRWDNSanZGbU51MElpdXQ3ZTg1UlVwZzFmRVQ?oc=5",
-      "fecha": "Tue, 17 Nov 2026 12:26:16 GMT"
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVTVjRKeV9GNTlyQlFheXpzcUxhUUZBSm42eXhYUTZsWGRjTWU3ekE4SXdtQXVOV0FjdmlaVUFzanNkc3NWYVF6VlJ0RHROWWdVRExZMWY1ajZCZlNiaE5TTkxwaUZ0THUzb0wyZGR3LUZEYjNSMy1hMjYxWDRlWWpvYXgtclZrODdwa0NjbE94VnlsOEp1N0JyXzlMejZYUjVlbnN0WVdiX1hGMjFJOU1yQnpRWkFaamFLU1hZUGVZTXRidURJctIBzgFBVV95cUxNcmdTN1VlT0xfdHlHRXUwb21WN19Xa3dYOXVwY1Jpb3ZyUGtnOWZPLUVncVM1cE9xVkFUU2t6anhWVjBxN1ZCV25KZlM0RlNBR1E0aVBOb2xGVG5HVEJwNVNxNTRXTmdWTDh3Yi1YWS0wTUlHYUoySnN0RW40a0NjUUlLNW0zTnhHQUNYbkI0NmFzTE5ZQWtSX09oWV9TbkJwMVc3dTByTDhMUThia19KWXdYV3BZQXhBSlJLSG43b0hnWkdseGdZTkYxaUhQQQ?oc=5",
+      "fecha": "Mon, 06 Jul 2026 07:00:00 GMT"
     }
   ]
 }

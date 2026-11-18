@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-18T13:45:02.737659-04:00",
-  "hora": "13:45",
+  "updated": "2026-11-18T14:05:26.397785-04:00",
+  "hora": "14:05",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "salario",
+      "trafico": "200+",
+      "noticia": "Francia vive nueva jornada de huelga y protestas por los salarios y el poder adquisitivo",
+      "enlace": "https://www.diariolibre.com/mundo/europa/2026/11/17/francia-vive-nueva-jornada-de-huelga-y-protestas-por-los-salarios/3723253",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2qxu0bzTGxKlS0UE2-ICswwJUpEclvUiwmxNq--e7azpp2GEBzncjDT2jsA"
+    },
+    {
       "termino": "xbox",
       "trafico": "100+",
-      "noticia": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-      "enlace": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s"
+      "noticia": "Every Game Leaving Xbox Game Pass on November 30",
+      "enlace": "https://www.vice.com/en/article/every-game-leaving-xbox-game-pass-on-november-30/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXvTTappHOyAC2SKehas78bPqZ7q9GlZw50lG-xPTkvxPoHAwI8p9LqqEPoAs"
     },
     {
       "termino": "factura electrónica",
@@ -21,24 +28,17 @@
     },
     {
       "termino": "playstation",
-      "trafico": "500+",
-      "noticia": "I Will Never Stop Playing ‘Grand Theft Auto’",
-      "enlace": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvdu0MIw5NKBhbryJ5Qm0jc_50l2tbl3cDw4ewEUPhsuvDD9kO4o3EQ9FJQ_0"
-    },
-    {
-      "termino": "playstation store",
-      "trafico": "200+",
-      "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
-      "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
+      "trafico": "1000+",
+      "noticia": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
+      "enlace": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreo4ybwfOcDN6L5MvhlmBx9LotdNBDgznVlAXPx_MpG5c08Po0j8VqAz0AWM"
     },
     {
       "termino": "acusación",
       "trafico": "200+",
-      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
-      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
+      "noticia": "Operación Rabat: oficialismo tiritando por desmarcados y el capítulo sobre las mentiras del ministro",
+      "enlace": "https://www.elmostrador.cl/noticias/pais/2026/11/18/operacion-rabat-oficialismo-tiritando-por-desmarcados-y-el-capitulo-sobre-las-mentiras-del-ministro/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ_n8d9tjkeEOf8rzpocvFLE2f4whbMFKP4WrWXglmQwd6XzgdEkiLdMjMAc4"
     },
     {
       "termino": "policía nacional de haití",
@@ -46,13 +46,6 @@
       "noticia": "Policía de Haití rastrea más de 18,000 transacciones que podrían estar vinculadas a bandas armadas",
       "enlace": "https://n.com.do/2026/11/18/policia-de-haiti-rastrea-mas-de-18000-transacciones-que-podrian-estar-vinculadas-a-bandas-armadas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPz_lOJDB7eVrspJ0dsStIkl-ay261CheWfwFHP0ZNX1G_l8gx3T5q2B2Xgmc"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
-      "enlace": "https://www.mlb.com/es/news/estrellas-superan-a-aguilas-en-reanudacion-de-partido-suspendido",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq8_p9jVmX09-GhXl8D3lS39Nynx5E_ewGBjYMHprb3lb46mt1Eag3kSwBBko"
     },
     {
       "termino": "twitch",
@@ -64,9 +57,9 @@
     {
       "termino": "quentin grimes",
       "trafico": "2000+",
-      "noticia": "Quentin Grimes  47 points fuel Lakers  18-point comeback over Hornets",
-      "enlace": "https://www.cbssports.com/nba/news/quentin-grimes-47-points-fuel-lakers-18-point-comeback-over-hornets/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+      "noticia": "Charlotte Hornets vs. Los Angeles Lakers Live Score and Stats - November 17, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261117_CHA@LAL/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQep706SKbS5Y11Cua7-S_z4RxKXfIa4is9-Ud_ooX87ZUO_e2RWBNIq0BvRI"
     },
     {
       "termino": "kick",
@@ -74,6 +67,13 @@
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
+    },
+    {
+      "termino": "lidom hoy",
+      "trafico": "200+",
+      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
+      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
     }
   ]
 }
