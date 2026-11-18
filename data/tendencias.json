@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T17:10:25.699932-04:00",
-  "hora": "17:10",
+  "updated": "2026-11-18T17:31:04.956418-04:00",
+  "hora": "17:31",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -29,9 +29,16 @@
     {
       "termino": "playstation",
       "trafico": "1000+",
-      "noticia": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
-      "enlace": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreo4ybwfOcDN6L5MvhlmBx9LotdNBDgznVlAXPx_MpG5c08Po0j8VqAz0AWM"
+      "noticia": "PlayStation suffers major outage hours before  GTA VI  launch",
+      "enlace": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJp59FT1FR4NKrMPCKT2lgCdp9d0dB7wiVEZaYwOU0SfMTyMj6U-hqRbP7QFE"
+    },
+    {
+      "termino": "playstation store",
+      "trafico": "500+",
+      "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+      "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
     },
     {
       "termino": "acusación",
@@ -67,13 +74,6 @@
       "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
       "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Lidom continúa este miércoles con tres partidos: Águilas y Licey protagonizan uno de los principales duelos",
-      "enlace": "https://acento.com.do/deportes/lidom-continua-este-miercoles-con-tres-partidos-aguilas-y-licey-protagonizan-uno-de-los-principales-duelos-9792486.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5EFlgekfu5pXB0Y8bWAv5oW0la7hIg4q-OXMGsyU1NQ033RobaISghafAAKw"
     }
   ]
 }
