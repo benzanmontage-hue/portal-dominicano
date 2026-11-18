@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-17T21:49:47.545449-04:00",
-  "hora": "21:49",
+  "updated": "2026-11-17T22:10:07.057549-04:00",
+  "hora": "22:10",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "resultados de loteria",
+      "trafico": "200+",
+      "noticia": "Resultados de las loterías del sábado 14/11/2026: ¿El premio es tuyo?",
+      "enlace": "https://hoy.com.do/vivir/loterias/resultados-loterias-sabado-14-11-2026-premio_1108736.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
     {
       "termino": "spurs - pistons",
       "trafico": "200+",
@@ -15,16 +22,16 @@
     {
       "termino": "timberwolves - trail blazers",
       "trafico": "500+",
-      "noticia": "Tiny Nick s Gambling Picks 11/17",
-      "enlace": "https://zonecoverage.com/2026/gambling/tiny-nicks-gambling-picks-11-17-7/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm6MI7XKAOq0T1sNzssnggKDTeb9_9I10T0n8vexMf6Wk37xzrgRXbr7Ej49s"
+      "noticia": "Terrence Shannon Jr. eyes encore as Timberwolves host Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/terrence-shannon-jr-eyes-encore-as-timberwolves-host-trail-blazers/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
     },
     {
       "termino": "uruguay vs república dominicana",
       "trafico": "200+",
       "noticia": "Valverde cambia a Uruguay",
       "enlace": "https://as.com/futbol/internacional/valverde-cambia-a-uruguay-f202611-n/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5LpIWpbCMQsrM_P06Ih8clVx51WYuHp8XXGdJVGPuoamJ1ORLIKLM7mM96uU"
+      "imagen": ""
     },
     {
       "termino": "raptors - knicks",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "donación",
-      "trafico": "1000+",
-      "noticia": "Torrent exhibirá la Carta de Poblament de 1248",
-      "enlace": "https://valencianews.es/comarcas/torrent-exhibira-la-carta-de-poblament-de-1248-en-la-exposicion-jaume-i-i-els-nostres-archius-con-documentos-unicos-del-rey-conquistador/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdcccs5rKP9P98EBu4T6fReAS1dVncKqX1E_r7C1e2HVjkBTgGGg5FLjvGDAU"
-    },
-    {
-      "termino": "chile - colombia",
-      "trafico": "500+",
-      "noticia": "Chile vs Colombia: Friendlies stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c5kg7mex2r7dt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "trafico": "2000+",
+      "noticia": "bonÀrea aporta 5.000 euros a FESBAL y evita cerca de 2.000 toneladas de desperdicio alimentario",
+      "enlace": "https://www.corresponsables.com/actualidad/bonarea-donacion-fesbal-desperdicio-alimentario-tiendas/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCXBaSVYtechOQWdqD_vRqGhHTAoZRP6v3zbizBhwhAMJO4kauezD_i7m1aZM"
     }
   ]
 }
