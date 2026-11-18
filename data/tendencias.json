@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-17T20:26:50.599055-04:00",
-  "hora": "20:26",
+  "updated": "2026-11-17T20:47:12.799114-04:00",
+  "hora": "20:47",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "raptors - knicks",
+      "trafico": "200+",
+      "noticia": "Knicks seek 15th straight win over reeling Raptors",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-15th-straight-win-over-reeling-raptors/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
+    },
+    {
       "termino": "haiti vs",
       "trafico": "500+",
       "noticia": "USMNT vs. Haiti live updates: Pochettino leads USA in farewell match in Concacaf Nations League",
       "enlace": "https://www.nytimes.com/athletic/live-blogs/usmnt-vs-haiti-live-updates-pochettino-concacaf-nations-league-score-result/c0pAetezjNYi/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOdAUiUPJynbnBxf9ZPNdAwo8Dkd-iUR8v9JjHK6FS9999ke6BkhEc7g7Fo6Y"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWmj_d2OwfB9om9LThBNtxiozYaf8DO-tAcoPZMC8uWiQqB05tEBE5671fBZg"
     },
     {
       "termino": "estados unidos - haití",
@@ -29,9 +36,9 @@
     {
       "termino": "uruguay - república dominicana",
       "trafico": "1000+",
-      "noticia": "Uruguay quiere cerrar el 2026 con victoria ante RD",
-      "enlace": "https://elnuevodiario.com.do/uruguay-quiere-cerrar-el-2026-con-victoria-ante-rd/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZtn2Jj0ovDP89TLRA0X3LkWv2Ou2LkAQ2qtlKiR9AXNZRngdwLWO28vCwc5A"
+      "noticia": "República Dominicana y Uruguay buscan cerrar 2026 con una victoria en amistoso internacional",
+      "enlace": "https://acento.com.do/deportes/republica-dominicana-y-uruguay-buscan-cerrar-2026-con-una-victoria-en-amistoso-internacional-9791478.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDFub6xT0jN32wAl2r6mfaMH7aII5PXYknTlAGslHhkJGgHSw3NEQUTAnqB5Q"
     },
     {
       "termino": "donación",
@@ -56,24 +63,17 @@
     },
     {
       "termino": "argentina - costa rica",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Argentina vs. Costa Rica, por un amistoso: seguilo EN VIVO",
       "enlace": "https://www.tycsports.com/amistosos-de-selecciones/amistosos-internacionales-masc-2026-argentina-vs-costa-rica-amistosos-id771718.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-SotA3FQLt4y5Wxp1Uguq8pjlIq3CAftoi-49GtOe-kTIehebb_t2s72ag8"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSE2cwvNWv290OnFf7ZoUl_6Y3eCgdadwpOsBHL3NdiGGpoRdHx5kyOkU3u8"
     },
     {
       "termino": "melissa medina",
       "trafico": "500+",
-      "noticia": "Melissa Medina, influencer y empresaria dominicana, fallece a los 22 años",
-      "enlace": "https://elnacional.com.do/fama-y-vida/melissa-medina-influencer-empresaria-dominicana-fallece-22-anos_586504.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReEcZg0dpBqLFxbhzRsPnoa85rGxiddAyooVW-u0lFsa-u8Yf4tx4RnyP4Vtg"
-    },
-    {
-      "termino": "400 mawozo",
-      "trafico": "100+",
-      "noticia": "Líder de 400 Mawozo compraba armas y municiones en RD y las revendía a otras bandas haitianas",
-      "enlace": "https://listindiario.com/la-republica/20261117/lider-400-mawozo-compraba-armas-municiones-rd-revendia-bandas-haitianas_930388.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjK2nEM-QkvhgM2eovrR4IqmKIk-PFKtpqYJQPogQKs7EayweFqHfyzksdHk"
+      "noticia": "Fallece la influencer y empresaria dominicana Melissa Medina a los 22 años",
+      "enlace": "https://acento.com.do/actualidad/fallece-la-influencer-y-empresaria-dominicana-melissa-medina-a-los-22-anos-9791971.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx55SWHb_ddREWwxOjf6NL4aKH-2DfeKJRT1bLhBoL9xJenqenGp5tsodVFkk"
     }
   ]
 }
