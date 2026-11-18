@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T23:33:05.625729-04:00",
-  "hora": "23:33",
+  "updated": "2026-11-17T23:53:24.292063-04:00",
+  "hora": "23:53",
   "fecha": "17/11/2026",
   "total": 15,
   "noticias": [
@@ -29,12 +29,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
+      "titulo": "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro - ESPN Deportes",
       "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEd4VjNKUFBRN0ZUVmhISC1MWkNqSFQyRVhEUW9aNUZKYVR3MW5qcGlmd044MlRFSHEwZU82VEQ5ZkVpTFlncTNFbUpFbThKNXlfbTZlQl9IMnVscy1YeTB0VmZWRW9hT0JqcV9yamd3dVJzY2tzWERnYzZ3T3pDclR5OF95RmJLbHpDQk9JOXVZdUJPV29KNC1ZZ0xnSmVzVGhTNlRXTjl6X3ZtU3dIY1RCelFJdjQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
+      "fecha": "Tue, 17 Nov 2026 18:56:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
+      "fuente": "DAZN",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0x2dDgwd0k4dDlKQlZuMjVCcmR2ejRfZC1rdEFENXMxOXJFWmU0ZmpCbWNpT2FNNTdJSEw4anExVkZub0FnRWJOemViOWZMeXB3SDN2eUZGQlFiNFp4LURwRnZWcEdFc1FoV2V3UkdoWlBZVTl2Ul9yX3U1NE1VVGZya3lpU2tYaHNQMEp3SktKZGVENHlRbF9QSUJLOVZCWGRyaDlmVWFIbzVxd2NCQkVzSERGQ003b2o1N3Ffa0MtWkFMYUs1TGlheG1nRHpzVEwxWWw1YzNtX21EY29wblB6dl9TVmZsU2hTVnBrOTMwZ2t1ODdDUg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
       "titulo": "República Dominicana rompe récords turísticos y atrae cadenas de ultra lujo: espera 12,5 millones de... - CiberCuba",
@@ -53,20 +61,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Élder Rasband se reúne con el presidente de República Dominicana - masfe.org",
-      "fuente": "masfe.org",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hcHRRUkNsTFZjdjRlOGZwc3RSSWRzTTdpQ2R1SWVJQXNvVGp6T3phQmR6UkhJSFFHeWhqQTBmOTlTQWpQYXJ6XzBWU0wyZXpYV2FjU19OMXFUczY4U0RQNHRVczlhWTExcFl3Mjl2SVktd1dldmlreUtValFUdw?oc=5",
+      "titulo": "República Dominicana: 87% de las entidades financieras reconoce impactos materiales de los riesgos ambientales y climáticos - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdndSZ0FvN3NCQUJBci1WYjFlYnUxQktlSGxVUDk5SVZoSDVEXzZ3TkxlNjFIMXZ1bENkV3BKUkNZYnZZWWY3cE5iMDIzWExuWkNYN2tVb2VhZ05yRjFmZXFkREhjeldCV0dYSE1jc0F5b0Nrc2dCMGJheW1aSWlfRXZ3a3gwYzNCai1mN3d5NDdOeXE0N05JVzBoMTNidW1QdnJPaG5kVkJ6Y3JoY2FXcFZnQTl0ODRHZmpMTEdtMWV3b1N5WWc5YjN3aFBlWWdIMmpfQ0dZbEZRalB2QmNac19IV1liMkpSRWdiM1NLa3EwWlZUeDNZRGc4OWFLSG1VRzZ6bVlaYm1udw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 02:25:19 GMT",
+      "fecha": "Wed, 18 Nov 2026 03:32:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
-      "fuente": "DAZN",
-      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWVPOF9saDFNYXFSXzFMLTRmRGtzaWpSTTJPWWw1UjRMR2R0STlYVk4td3UwSE03a1pzOUFEZHpNbFB0cUVmTllaWEVxZkVZQU5vSW4wVFVHeUV4bEt5cnVBVGpDWXU4NDNtYkdMZFBaUmZWbEpBdk5PQUlGVG5CMXpMcEVIWldjSmRIZTZGUkFTTjgyMUxrWmJXTmxEZXhTeFdGNTJaS0poSDljSTQzTngzV18yZE9zal81VUNXdk5ielVaaFRFdVhGMWZZUFBSc0xGRnBOWlhBNXd1M3FOQkxtWm9sLVhSU1ZJdW5MRWFXQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
-      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
       "titulo": "Una mujer muere en República Dominicana durante un reto viral de TikTok de piedra, papel o tijera - marca usa",
@@ -77,19 +77,35 @@
       "imagen": ""
     },
     {
+      "titulo": "Élder Rasband se reúne con el presidente de República Dominicana - masfe.org",
+      "fuente": "masfe.org",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hcHRRUkNsTFZjdjRlOGZwc3RSSWRzTTdpQ2R1SWVJQXNvVGp6T3phQmR6UkhJSFFHeWhqQTBmOTlTQWpQYXJ6XzBWU0wyZXpYV2FjU19OMXFUczY4U0RQNHRVczlhWTExcFl3Mjl2SVktd1dldmlreUtValFUdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 02:25:19 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "VIDEO: así fue el gol de Federico Valverde para el 4-0 de la Selección de Uruguay ante República Dominicana - DSports",
+      "fuente": "DSports",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM1RTUjRCdXRfUUNSaE5nV2pGb0JCbnA0UEYxLTh0el9feGNLTGJ3NjBJRVJuNnVjZnpyT2c0aFJRTDIwc09EbXlDODk2NmRfUXdVNmtDbTAxWnU2V2taSlZRT1dGa09ud2VLZjB0QXFDcmI2RGcyTWxGaUw5YUdfbFNYNjJES0hmX0V0MHdUY18wOXFwSnpMa3VyZzhxUGs1REFrQmtCaWc3a3pWVkJQaXNfQWpnQWc4aEcyX0xfRGU4WUtOWU5IbWRta2JMZUl1OEZ0amdKcklaSktJR2x5bFREOFFLMUdfa0dmczNuWXF1ck5u0gH6AUFVX3lxTE1OaS1lcmJZRnM5QjJJT19VT0o3OWZKWWVmMFk1YXJ2LTRFTUIwX0JIWF9hRDRWUERVV0VJcXdyejNldkZrbk1WNUM4UXRiOFhfekVGUWZXZExNS2RxZnlpa2RBMm9EcEMtbW9CSnlOWmN0REloUVlWY09TQTVXM002MWlRNGQwdGVGR19wY3pRc2s3bmZZM2hSU2s4cm5ONUxuVmYwdm9RMEJlNWJleElUTkcxM1F3UE1YbmtzWXFidDBoaHBYNTB2eXBVU1FVQjlrZE5qLUVOYXg0V2NGRDFfMnVxbWxMRWdCUFlwYU1KVzJiLTVpTl8tSWc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:25:21 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Reconocieron a 25 organizaciones por sus políticas de igualdad de género en República Dominicana - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbF9NbU9xSVdHNi1kR0dPQndacUpXNXE0RU5ZWWRtU205RnJfN19XcHVxVlFVSGl1U2NPUU1ZTmxjWVk4aU4xSHFiX1dTdEp3Tmx6bFZKc0RXTjdxaldRQnl4NHh1UlhjMkREbFhWd2syclEzbmR5QlVNeEtpRm1YYVpGcWJkZlR5X0tDdTBiaV9KZE45YzFrLUFVZjRsdnR3M3BkbkozTktCQ1BYNG1YRldtVGt1Q0xNenY5Q0RoWGZYS3JtYmZjWUVlSXRLRVM0WjBtU2dfdGVfNHh3ZVloUjgzcm1QT3U40gGDAkFVX3lxTE1IbTVvMFptZXRZYUxYQ3VIVlQycUpyaDE4TVVHRWhyQnotbGN3d3AwMy1IMTB4eXBzRVRQVFNQejNSVkY1Yk9LTjd5TWs2d0JXaTZGSjN1bE5WRnc2bmtHUzQtanczRU9sZHBOZHRUTFVnbEczRGRqb2drSlgxTXl6a3cxWDl2SmJ1MkZveWRTR1lGOW1Ed0MxSG80SUpDcHB4TExmajB3M0ZvVVFSQVdlYWVTUGNiT2VDVG82MDY1V0NjNUJsQkVGSFQtZkF5aUxhTXN0Ulc5Mk1INDBoZDZMSVY3dUx6ckxCZ1AweFpzQWZPMjB0NUZWX3ZWZnFoSEJOQXc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 00:31:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEd4VjNKUFBRN0ZUVmhISC1MWkNqSFQyRVhEUW9aNUZKYVR3MW5qcGlmd044MlRFSHEwZU82VEQ5ZkVpTFlncTNFbUpFbThKNXlfbTZlQl9IMnVscy1YeTB0VmZWRW9hT0JqcV9yamd3dVJzY2tzWERnYzZ3T3pDclR5OF95RmJLbHpDQk9JOXVZdUJPV29KNC1ZZ0xnSmVzVGhTNlRXTjl6X3ZtU3dIY1RCelFJdjQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 18:56:00 GMT",
       "imagen": ""
     },
     {
@@ -106,22 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTRRaWhUSFlva3lhbTA5cHpjVVk5RnRCSTRpQWZXUlZYbk9xY0poVGkwbEsxLVZPVnJJSUxHLURSNWMwMWRjSFFuME44OUF1VTB2aEJSREJvN2lnVTdZLTRRQUlOa0N1b1VZZWlhSGZOUWtGVmNGbFFJSkxhN3lack4wTlZYOXNUQm5wa3VqYW1Bei05eUI5N2ZQb2l6Q2lKcjk1TE1ObWZ0ejJUY0VxTVVIX3U?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 01:27:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Formación confirmada de Uruguay vs República Dominicana: titulares para el amistoso en Maldonado - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbkpqNl9xeUF3NDRMOEQ4cVpDeTJja1Vrd0o4Z0lfZWg4a1VJMVBJRnl6ODhyR3Zxc0lnM1ljdS1pMmpYMmdYaTUwdml0VWUwc1VVSjFGYmRJazBILUNvS3REQ2xoR0M1blZhXzJPcXp4T3FvMW1aQ0dfMEhfbEU5dQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 22:19:25 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dónde ver Uruguay vs República Dominicana EN VIVO: transmisión del amistoso internacional - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdFNqbXdYOGk5SU5sRnpVQlcxLWh6LXB5SW1IOFlYZm1aMk5hLW9SRktGbEc1ektfUzN5b2NMM1N6MkN5S1NOSWFqS2VDOE5ZQk9hZHFjc1FQMkNDR093R05kaGtqNnM1eWJ1Mmc5OFQwcDZDUUdZVl9nQi1jQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 21:44:00 GMT",
       "imagen": ""
     }
   ]

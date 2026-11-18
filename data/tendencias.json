@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-17T23:32:56.378607-04:00",
-  "hora": "23:32",
+  "updated": "2026-11-17T23:53:22.978670-04:00",
+  "hora": "23:53",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lidom hoy",
+      "trafico": "200+",
+      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
+      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
+    },
+    {
+      "termino": "gta 6",
+      "trafico": "100+",
+      "noticia": "Here Are All The Game Awards 2026 Nominees",
+      "enlace": "https://kotaku.com/game-awards-2026-nominees-of-the-year-gta-zelda-2000757724",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtlMpr0bBvrnbtXLVpsbiZtcIer5BzIantDv5_psvlQ1CrfzmrWELtkgxcUM"
+    },
     {
       "termino": "méxico - jamaica",
       "trafico": "100+",
@@ -22,9 +36,9 @@
     {
       "termino": "temblor",
       "trafico": "200+",
-      "noticia": "Sismo de magnitud entre 4.4 y 4.6 cerca de Boca de Yuma",
-      "enlace": "https://acento.com.do/actualidad/sismo-de-magnitud-46-cerca-de-boca-de-yuma-9792046.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzGzuhrQOs2q4XNEJaLWWPOfbwYUf0DBMtHVl6YGA1ATiMZIMVhfl96Yr4hxo"
+      "noticia": "Terremoto hoy 18 de noviembre en Rumanía: epicentro y magnitud del sismo",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-18-noviembre-rumania-epicentro-magnitud/19129",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT142aGfXKWXonTwvlc3eHaS6exarGRTMRvDW0Mey4eQKlkBbqOTNH9Q478lfs"
     },
     {
       "termino": "cuando sale gta 6",
@@ -42,7 +56,7 @@
     },
     {
       "termino": "spurs - pistons",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Spurs put 12-game win streak on the line against Pistons",
       "enlace": "https://www.cbssports.com/nba/news/spurs-put-12-game-win-streak-on-the-line-against-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
@@ -50,30 +64,16 @@
     {
       "termino": "timberwolves - trail blazers",
       "trafico": "500+",
-      "noticia": "Tiny Nick s Gambling Picks 11/17",
-      "enlace": "https://zonecoverage.com/2026/gambling/tiny-nicks-gambling-picks-11-17-7/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm6MI7XKAOq0T1sNzssnggKDTeb9_9I10T0n8vexMf6Wk37xzrgRXbr7Ej49s"
-    },
-    {
-      "termino": "raptors - knicks",
-      "trafico": "500+",
-      "noticia": "Knicks seek 15th straight win over reeling Raptors",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-15th-straight-win-over-reeling-raptors/",
+      "noticia": "Terrence Shannon Jr. eyes encore as Timberwolves host Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/terrence-shannon-jr-eyes-encore-as-timberwolves-host-trail-blazers/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
     },
     {
-      "termino": "haiti vs",
+      "termino": "raptors - knicks",
       "trafico": "1000+",
-      "noticia": "Haiti fans celebrate culture, share political views despite 6-0 loss to US",
-      "enlace": "https://haitiantimes.com/2026/11/15/haiti-fans-celebrate-national-pride-miami-us-match/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyTy4iv22qN9LpXggNaM26h6cTjXMbGfZ79gOEHe4g73NmBVEpiqhbONAW7JE"
-    },
-    {
-      "termino": "estados unidos - haití",
-      "trafico": "5000+",
-      "noticia": "Pochettino se despide de EEUU con triunfo y clasificación en Liga de Naciones",
-      "enlace": "https://www.france24.com/es/minuto-a-minuto/20261118-pochettino-se-despide-de-eeuu-con-triunfo-y-clasificaci%C3%B3n-en-liga-de-naciones",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfURGzv9NcWhQfaqMuBxggLrtfj8gcUhofOaL8xPFCihxQPLxHH7K8DkGL50"
+      "noticia": "Jalen Brunson, Knicks rally past Raptors for 15th consecutive win",
+      "enlace": "https://www.cbssports.com/nba/news/jalen-brunson-knicks-rally-past-raptors-for-15th-consecutive-win/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXWJKelyhiJ8Rs3N3Vc19rkvj74YtI8HYNcivWLPOxA_-pI0CsnK_Im5dZbk"
     }
   ]
 }
