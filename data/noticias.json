@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T15:47:51.845262-04:00",
-  "hora": "15:47",
+  "updated": "2026-11-18T16:08:12.084709-04:00",
+  "hora": "16:08",
   "fecha": "18/11/2026",
   "total": 15,
   "noticias": [
@@ -61,19 +61,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Fiscales revelan que Emmanuel Clase pidió que le enviaran dinero de apuestas a República Dominicana - Claro Sports",
       "fuente": "Claro Sports",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUtlVTE4ZDBzckF4V0lzX3ZMalk4d0toT0Y5bmY3Y1Q4ZjVBZjI4NVdBTjF4Nkw3X0V2R1BqVEVZM3JSOWotSF9QcDNfOXFxTFZNRjZNUnR0RmN6d3FwaU1qOU9sdW01VldXU3gtaTd5X3FjZ1FPampiUEhpVzRPVWNDQm5pYWcxVHNWdVhpWFFmMmFlUC1sUUk5SlhKN1FXYTB0SGdCUVdFZmVua1V2V2NBcEc5cVY3NFB0M05EZG56YXlFM1huTlNZaw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 19:26:42 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
       "imagen": ""
     },
     {
@@ -91,6 +91,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 18:30:04 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
+      "fuente": "DAZN",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0x2dDgwd0k4dDlKQlZuMjVCcmR2ejRfZC1rdEFENXMxOXJFWmU0ZmpCbWNpT2FNNTdJSEw4anExVkZub0FnRWJOemViOWZMeXB3SDN2eUZGQlFiNFp4LURwRnZWcEdFc1FoV2V3UkdoWlBZVTl2Ul9yX3U1NE1VVGZya3lpU2tYaHNQMEp3SktKZGVENHlRbF9QSUJLOVZCWGRyaDlmVWFIbzVxd2NCQkVzSERGQ003b2o1N3Ffa0MtWkFMYUs1TGlheG1nRHpzVEwxWWw1YzNtX21EY29wblB6dl9TVmZsU2hTVnBrOTMwZ2t1ODdDUg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
       "titulo": "Guatemala Vs Dominicana: Así Quedan Los Cruces Del Repechaje A Copa Oro 2027 - La Red 106.1 FM",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los puertos de República Dominicana movilizaron 10.2 millones de toneladas y crecieron 8.2% en el tercer trimestre - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONkwxQ283SGoyR2NHLVgyNWxfeXFJZ1Q2RjV2UVY3TVU5Sndpc2lhQXlEWjNOTFE0cnYtN0F1VHFKeF9MeThqRm9RNU5lN1ZxQmtOYVJkLWdMSHRwek5hQWloY3BvVEdnQjVqSVdwZlgwdGVmN2NzSHlBNmJMZ0N6TjgyRWs3ckVCUm9JQ2VvcE9NbDc4SWZsVExfZ2hhelo5R0lxZmhqbUM2MVUwMGR1c2x2eVFjcl9tdUFVMzhZNEtYMXhidUUxamxvVXh2cHdoTnFJR1locUVJSDNneHZKRW5vQ1k5MDRzTUxacEY1VERSd1FEbWVpTUJNaVbSAZcCQVVfeXFMTW8xZS1NQzBOMnlOTGJzWXMwaE11VWxpYktkSnpXaFkzUTNrblY3a0RDczF3all2aWp2SjRkOFdYa3ppQmVETzh4M1JoZ0UxbUZCSWpUQ3JkNm4tUnJKRm5NYjM5M3lTTFJXYnhOSE1KdXFnTGdiQ0tOalVTSU9EYlNVa3pzTTZLWGlYNWx2UTNVWUU4aXZxeWs3dkt5WXMxLXBHVVh5WUtzeGhnS1pKSVAyZUl2ZUxaclZBQm91RTYycjVGMWdzLVlRVzd5U25kWTBETjJYd0NWU3BKY2d1azlFVmhTTDdESnFmRFJVdWVJNkk1aEpqeFhVc2ZLSEFBcEdsOHlSb3pOZmhYOXZPWDhoYjNwbkxN?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 12:00:00 GMT",
       "imagen": ""
     }
   ]
