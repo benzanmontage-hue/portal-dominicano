@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T17:31:04.956418-04:00",
-  "hora": "17:31",
+  "updated": "2026-11-18T17:51:33.404502-04:00",
+  "hora": "17:51",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "xbox",
       "trafico": "100+",
-      "noticia": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-      "enlace": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s"
+      "noticia": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+      "enlace": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmKm3_DuoRdLIj-n08VTdrtbbdHT7Zddidf_soIeK6ZipViaE1KXiet62zwU"
     },
     {
       "termino": "factura electrónica",
@@ -29,9 +29,9 @@
     {
       "termino": "playstation",
       "trafico": "1000+",
-      "noticia": "PlayStation suffers major outage hours before  GTA VI  launch",
-      "enlace": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJp59FT1FR4NKrMPCKT2lgCdp9d0dB7wiVEZaYwOU0SfMTyMj6U-hqRbP7QFE"
+      "noticia": "PlayStation suffers widespread network problems hours before release of GTA VI",
+      "enlace": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkvX0kUxit9LksBXBvlCgCGDmMcp7pThqNuMaYnIJ5qWgULe2WI0HLIR0cXcc"
     },
     {
       "termino": "playstation store",
@@ -55,6 +55,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0HIna5u-TQyAI2WPm40u9BI32mP3mg8hVyPh9yaWcKOuTg_IThxUEY5Co2BE"
     },
     {
+      "termino": "twitch",
+      "trafico": "5000+",
+      "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
+      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
+    },
+    {
       "termino": "quentin grimes",
       "trafico": "2000+",
       "noticia": "Quentin Grimes becomes 2nd in Lakers history to hit 10 or more 3s in single game",
@@ -67,13 +74,6 @@
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
-    },
-    {
-      "termino": "gta 6",
-      "trafico": "5000+",
-      "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
-      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
     }
   ]
 }
