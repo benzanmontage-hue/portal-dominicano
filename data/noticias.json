@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-18T17:51:38.398829-04:00",
-  "hora": "17:51",
+  "updated": "2026-11-18T18:12:09.251718-04:00",
+  "hora": "18:12",
   "fecha": "18/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "“Ya no soy la misma”: una madre dominicana busca reconstruir su vida y la de su hija tras el derrumbe en Brooklyn - Telemundo",
       "fuente": "Telemundo",
@@ -21,20 +29,20 @@
       "imagen": "https://media.telemundo47.com/2026/11/split-2-diagonal-1200x675-9-6.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "titulo": "Julio Iglesias está bajo investigación penal por delitos sexuales - The New York Times",
-      "fuente": "The New York Times",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVBEYmZkQUttcGpiVW80blFpdEl0ZEEzTVlLWUxGMFd3d3BUTm9SWmZzUW9EMURHRENoZXVoX2E4ZkxsRFNSOHdKMWtlOF9TYXphTzk4Vk5FdE1FcWtmVndmdG5TMndyb1plbk1jcGZUQUEzX2ZKc2pKUFBaVi1VSXh6ZDR0RkxiMW8xT3huZFRTTzEyYm1mTnVVQ1pudWdMdWJxQ2FTUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 20:28:34 GMT",
-      "imagen": "https://static01.nyt.com/images/2026/11/18/espanol/18cul-iglesias-spain-lkhm-ES-copy1/18cul-iglesias-spain-lkhm-facebookJumbo.jpg"
-    },
-    {
       "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
       "fuente": "MLB.com",
       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 15:19:14 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Julio Iglesias está bajo investigación penal por delitos sexuales - The New York Times",
+      "fuente": "The New York Times",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVBEYmZkQUttcGpiVW80blFpdEl0ZEEzTVlLWUxGMFd3d3BUTm9SWmZzUW9EMURHRENoZXVoX2E4ZkxsRFNSOHdKMWtlOF9TYXphTzk4Vk5FdE1FcWtmVndmdG5TMndyb1plbk1jcGZUQUEzX2ZKc2pKUFBaVi1VSXh6ZDR0RkxiMW8xT3huZFRTTzEyYm1mTnVVQ1pudWdMdWJxQ2FTUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 20:28:34 GMT",
+      "imagen": "https://static01.nyt.com/images/2026/11/18/espanol/18cul-iglesias-spain-lkhm-ES-copy1/18cul-iglesias-spain-lkhm-facebookJumbo.jpg"
     },
     {
       "titulo": "Mulino participará en diálogo regional de la cumbre mundial de gobiernos en República Dominicana - Forbes Centroamérica",
@@ -45,12 +53,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Condenan a 20 años de prisión a la mujer que decapitó a su hija de seis años en República Dominicana - Diario Las Américas",
-      "fuente": "Diario Las Américas",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdE90NGdhRC01Vm1QS2t4MWs0a29QWVdrYUczNEhuUkplUWQtNnN3alpMWndHdHFBZkYxQ0pMNVI4b3JYc0sxeXNmdDVJbnNIamNvTGZYem5iUmFsaDVhZkxGRnl5RGRNYURqT0IyUklTTy1saVl5VjdMeGxiUWktXzFESEtSQlZLTmFUcnZVY0VNc3pwUW9ObGlLYmN4b2pBckp1QmRydEQzN0tmZldEYlE0UHlaTUl6MXZrWlg0SjBubXdhMFJZRWtrQzUwRFBuOU1yVVh2Mkt3aGvSAeABQVVfeXFMUFZYb3F4VmRBZkJ1ZVV2aXBmcmZfeEdzT1BSTFdtajY2VWhpaEZsM0hObkZuR25pVjZXSlpod3NwRTU5TkFNN05VUTZvUVpHUDFsTzhUcm82a1VtWGxfR25tVU85NU5LYUlHYjdlUjEtMkQxalNOTEo5Z21ER3V3YW9DdWpkMUhaSHpvZUJyRDFvTnJLX1gyQVlPb1dkckNPQk5CVjFURDM4R2t0U29VUkIydl9xbmp1V05jRVhfT1lUdURIQjlxakZRQXdzemhyOW4za0lDenl0WnpjUldTdkw?oc=5",
+      "titulo": "El titular de la DGA destacó que la permanencia del monto ofrece confianza a los viajeros, quienes pueden optar por este beneficio que inicia el 1 de diciembre y se extiende hasta el 7 de enero de 2027, permitiéndoles planificar con antelación sus compras y - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYnpVZEN1Qm5MQWpCOUZkS19PLW53aEFqTVB3d0NMdlpNZWl6aDFfRzlwNUJEV1M0VU5GaDFHdVdrNVpSRmxRRWh1cWdSa3QtWkE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 20:49:00 GMT",
-      "imagen": "https://media.diariolasamericas.com/p/60bd7c3e36609157c9794fea48b64c64/adjuntos/216/imagenes/100/288/0100288191/josefa-garcia-cuello.jpg"
+      "fecha": "Wed, 18 Nov 2026 21:18:50 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Un informe de 2017 sobre Indra en República Dominicana detectó problemas técnicos, no fraude electoral - AFP Factual",
@@ -61,19 +69,19 @@
       "imagen": "https://factual.afp.com/sites/default/files/styles/og_image/public/medias/factchecking/g2/2026-11/6725b61886caefe74a05f09f1795a0b5-es.jpeg?itok=KveF1WCy"
     },
     {
-      "titulo": "El titular de la DGA destacó que la permanencia del monto ofrece confianza a los viajeros, quienes pueden optar por este beneficio que inicia el 1 de diciembre y se extiende hasta el 7 de enero de 2027, permitiéndoles planificar con antelación sus compras y - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYnpVZEN1Qm5MQWpCOUZkS19PLW53aEFqTVB3d0NMdlpNZWl6aDFfRzlwNUJEV1M0VU5GaDFHdVdrNVpSRmxRRWh1cWdSa3QtWkE?oc=5",
+      "titulo": "Condenan a 20 años de prisión a la mujer que decapitó a su hija de seis años en República Dominicana - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdE90NGdhRC01Vm1QS2t4MWs0a29QWVdrYUczNEhuUkplUWQtNnN3alpMWndHdHFBZkYxQ0pMNVI4b3JYc0sxeXNmdDVJbnNIamNvTGZYem5iUmFsaDVhZkxGRnl5RGRNYURqT0IyUklTTy1saVl5VjdMeGxiUWktXzFESEtSQlZLTmFUcnZVY0VNc3pwUW9ObGlLYmN4b2pBckp1QmRydEQzN0tmZldEYlE0UHlaTUl6MXZrWlg0SjBubXdhMFJZRWtrQzUwRFBuOU1yVVh2Mkt3aGvSAeABQVVfeXFMUFZYb3F4VmRBZkJ1ZVV2aXBmcmZfeEdzT1BSTFdtajY2VWhpaEZsM0hObkZuR25pVjZXSlpod3NwRTU5TkFNN05VUTZvUVpHUDFsTzhUcm82a1VtWGxfR25tVU85NU5LYUlHYjdlUjEtMkQxalNOTEo5Z21ER3V3YW9DdWpkMUhaSHpvZUJyRDFvTnJLX1gyQVlPb1dkckNPQk5CVjFURDM4R2t0U29VUkIydl9xbmp1V05jRVhfT1lUdURIQjlxakZRQXdzemhyOW4za0lDenl0WnpjUldTdkw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 21:18:50 GMT",
-      "imagen": ""
+      "fecha": "Wed, 18 Nov 2026 20:49:00 GMT",
+      "imagen": "https://media.diariolasamericas.com/p/60bd7c3e36609157c9794fea48b64c64/adjuntos/216/imagenes/100/288/0100288191/josefa-garcia-cuello.jpg"
     },
     {
-      "titulo": "Honduras y República Dominicana avanzan con subastas y concesiones de espectro - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcER0UDRPa1pZRGgyc3duUkhlRmNvVHNucmxwM2NveF8tNW90bWcxZmszd21GMkIzcHpzRmJveEFUMjhwc3NEbHFlQ1BkXzYzd2pyNGtFQUVLSGo1dnV6U1h3NkNkU1h4bUxGamxVbXJVMW8td0ZYVE9oNG5nWnhnNjgyWk5lWWt4QmZEd0hnN2w4RzM4NG9mZU9VaVlYSVd4eVhXQ0I3QVhQektzTVBnQWk2Vmd0a25aUUZF?oc=5",
+      "titulo": "Fiscales revelan que Emmanuel Clase pidió que le enviaran dinero de apuestas a República Dominicana - Claro Sports",
+      "fuente": "Claro Sports",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUtlVTE4ZDBzckF4V0lzX3ZMalk4d0toT0Y5bmY3Y1Q4ZjVBZjI4NVdBTjF4Nkw3X0V2R1BqVEVZM3JSOWotSF9QcDNfOXFxTFZNRjZNUnR0RmN6d3FwaU1qOU9sdW01VldXU3gtaTd5X3FjZ1FPampiUEhpVzRPVWNDQm5pYWcxVHNWdVhpWFFmMmFlUC1sUUk5SlhKN1FXYTB0SGdCUVdFZmVua1V2V2NBcEc5cVY3NFB0M05EZG56YXlFM1huTlNZaw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 16:29:13 GMT",
+      "fecha": "Wed, 18 Nov 2026 19:26:42 GMT",
       "imagen": ""
     },
     {
@@ -85,11 +93,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Fiscales revelan que Emmanuel Clase pidió que le enviaran dinero de apuestas a República Dominicana - Claro Sports",
-      "fuente": "Claro Sports",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUtlVTE4ZDBzckF4V0lzX3ZMalk4d0toT0Y5bmY3Y1Q4ZjVBZjI4NVdBTjF4Nkw3X0V2R1BqVEVZM3JSOWotSF9QcDNfOXFxTFZNRjZNUnR0RmN6d3FwaU1qOU9sdW01VldXU3gtaTd5X3FjZ1FPampiUEhpVzRPVWNDQm5pYWcxVHNWdVhpWFFmMmFlUC1sUUk5SlhKN1FXYTB0SGdCUVdFZmVua1V2V2NBcEc5cVY3NFB0M05EZG56YXlFM1huTlNZaw?oc=5",
+      "titulo": "Honduras y República Dominicana avanzan con subastas y concesiones de espectro - BNamericas",
+      "fuente": "BNamericas",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcER0UDRPa1pZRGgyc3duUkhlRmNvVHNucmxwM2NveF8tNW90bWcxZmszd21GMkIzcHpzRmJveEFUMjhwc3NEbHFlQ1BkXzYzd2pyNGtFQUVLSGo1dnV6U1h3NkNkU1h4bUxGamxVbXJVMW8td0ZYVE9oNG5nWnhnNjgyWk5lWWt4QmZEd0hnN2w4RzM4NG9mZU9VaVlYSVd4eVhXQ0I3QVhQektzTVBnQWk2Vmd0a25aUUZF?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 19:26:42 GMT",
+      "fecha": "Wed, 18 Nov 2026 16:29:13 GMT",
       "imagen": ""
     },
     {
@@ -101,14 +109,6 @@
       "imagen": ""
     },
     {
-      "titulo": "La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití - EFE - Agencia de noticias",
-      "fuente": "EFE - Agencia de noticias",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVhMU0NIU3JXNjg5STdxZjVQNTRzRzUwTTJFZmh3eWJyanlnVHZQX0oxMmNZWUdKelBjTXFzZ0c0RDU3UlV5UTVWa0wyQjJya0FrcjRGZDAxNm9fRzhqYXFKWmN0b3RqMzFudXRPSXNDdkw4bHd2S0V4MkdsN3N5d3ltWUZCX25mUHZvWTVOaHpGOWdXbFdIdVR3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 13:14:06 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
@@ -117,11 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Una prueba de fuego en Uruguay: República Dominicana cayó 5-0 en amistoso internacional - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEpFekNycTBjakpmeExLUEpDTVo4M2tHNFZ5V2dUelcwaHVBMV9hUlN5a0czb0cxNXpyelY1Z042RjhLVUQ5N3cwWjQ5UW9NakoxMUZudUZkZXo2X2RJZVFkTnFSblNRWkdMcW92VW5zOFBBV1JwZnc5X0tTajd4Y3BJZ3lIdTE3X2MwaE1VeEc2eGl1dlFOR09KT1BPSjJTenlTam9tTV9uclViMXg0T2dDbE9oU3A2MzVaTEY4TzhubWRUVUU0NEdjZnFJVXJoNk1qSHNjbjNPRWvSAfYBQVVfeXFMT2xHOF96R1YzSTJWYjNqX1d5MmlSaXlXS01KaGY3a1BOenNQUlIyZElLS19NQnhZdTlFTHJVem9vS1k1LXhUZ3FjVDhNX1dHMUR5UlZMVjktNkVJaVVTWS13aFZseldmd2NWMFppbWNFQzYyZ0xqNXZPc1pIUlQwTGxPLThuWnBVSkdWbW5jQm5UMkdsbllUMWVFV1B5MDZWMlY3cFdhWjctNVpJQW9oYjk5dWQ3UFp1bjZrRDM2a0NZZGI3VEVyQUN2dnNLYmdiVU5nLWxKUzJrSUtGQVZleGc2em1GMnlsd3g2TV8wdnJSS2hCWnN3?oc=5",
+      "titulo": "La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití - EFE - Agencia de noticias",
+      "fuente": "EFE - Agencia de noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVhMU0NIU3JXNjg5STdxZjVQNTRzRzUwTTJFZmh3eWJyanlnVHZQX0oxMmNZWUdKelBjTXFzZ0c0RDU3UlV5UTVWa0wyQjJya0FrcjRGZDAxNm9fRzhqYXFKWmN0b3RqMzFudXRPSXNDdkw4bHd2S0V4MkdsN3N5d3ltWUZCX25mUHZvWTVOaHpGOWdXbFdIdVR3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 17:47:00 GMT",
+      "fecha": "Wed, 18 Nov 2026 13:14:06 GMT",
       "imagen": ""
     }
   ]
