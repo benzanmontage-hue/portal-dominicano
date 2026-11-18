@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-17T21:09:00.593969-04:00",
-  "hora": "21:09",
+  "updated": "2026-11-17T21:29:22.335687-04:00",
+  "hora": "21:29",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "timberwolves - trail blazers",
+      "trafico": "500+",
+      "noticia": "Tiny Nick s Gambling Picks 11/17",
+      "enlace": "https://zonecoverage.com/2026/gambling/tiny-nicks-gambling-picks-11-17-7/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm6MI7XKAOq0T1sNzssnggKDTeb9_9I10T0n8vexMf6Wk37xzrgRXbr7Ej49s"
+    },
+    {
+      "termino": "uruguay vs república dominicana",
+      "trafico": "200+",
+      "noticia": "Precaución con Valverde en Uruguay",
+      "enlace": "https://www.marca.com/futbol/2026/11/13/precaucion-valverde-uruguay.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-mvHw3o91BGx_l4tjxhbZcyjs5t7iu7yqc2Cpt261mIoCXTy15B1zOxLh-kI"
+    },
     {
       "termino": "raptors - knicks",
       "trafico": "200+",
@@ -14,10 +28,10 @@
     },
     {
       "termino": "haiti vs",
-      "trafico": "500+",
-      "noticia": "Starting XI   Lineup Notes: USMNT vs. Haiti | Concacaf Nations League Quarterfinals",
-      "enlace": "https://www.ussoccer.com/stories/2026/11/usmnt/starting-xi-lineup-notes-vs-haiti-cincinnati-ohio-nations-league-2",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqup3oywGlaIrDHWuEhTnHN7EVrQi8qM9HJfD9yEQDORcGyXYPmrx_fpZ7TRA"
+      "trafico": "1000+",
+      "noticia": "Live updates: Mauricio Pochettino bids farewell as USMNT take on Haiti",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50490960/pochettino-farewell-usmnt-haiti-live-updates",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk2kmUvBfwIpFQ2It0SopFMmuyEFdfwQdOmo4rF7ONKo63zRaUrZBki3P_I_I"
     },
     {
       "termino": "estados unidos - haití",
@@ -57,23 +71,9 @@
     {
       "termino": "argentina - costa rica",
       "trafico": "5000+",
-      "noticia": "Argentina 7-0 Costa Rica: goles, resumen y resultado",
-      "enlace": "https://as.com/futbol/internacional/argentina-costa-rica-en-directo-amistosos-internacionales-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaHBqfqyL2Y1sS0_7FrO4zt61lTU4jJVXCkFKbiXFWRKn9tYYsEbFg3xyI890"
-    },
-    {
-      "termino": "melissa medina",
-      "trafico": "500+",
-      "noticia": "Fallece la influencer y empresaria dominicana Melissa Medina a los 22 años",
-      "enlace": "https://acento.com.do/actualidad/fallece-la-influencer-y-empresaria-dominicana-melissa-medina-a-los-22-anos-9791971.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx55SWHb_ddREWwxOjf6NL4aKH-2DfeKJRT1bLhBoL9xJenqenGp5tsodVFkk"
-    },
-    {
-      "termino": "400 mawozo",
-      "trafico": "100+",
-      "noticia": "Líder de 400 Mawozo compraba armas y municiones en RD y las revendía a otras bandas haitianas",
-      "enlace": "https://listindiario.com/la-republica/20261117/lider-400-mawozo-compraba-armas-municiones-rd-revendia-bandas-haitianas_930388.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjK2nEM-QkvhgM2eovrR4IqmKIk-PFKtpqYJQPogQKs7EayweFqHfyzksdHk"
+      "noticia": "Argentina fue una máquina en el amistoso ante Costa Rica ¡con siete goles!",
+      "enlace": "https://www.tycsports.com/amistosos-de-selecciones/amistosos-internacionales-masc-2026-argentina-vs-costa-rica-amistosos-id771718.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo6kpJFeT73VQnT21xXZiiVjm0yj9KzfsxmIjRtU_nI6jerXZLhiCQjYpQR8g"
     }
   ]
 }
