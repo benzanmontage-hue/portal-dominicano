@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-18T16:48:54.883248-04:00",
-  "hora": "16:48",
+  "updated": "2026-11-18T17:09:16.277562-04:00",
+  "hora": "17:09",
   "fecha": "18/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "“Ya no soy la misma”: una madre dominicana busca reconstruir su vida y la de su hija tras el derrumbe en Brooklyn - Telemundo",
       "fuente": "Telemundo",
@@ -34,6 +42,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94dnYwbFBfQlNMVzJDQi12YzdHbXplYndPb1Z4dXFCM01LUFpzcm5nNHJOM1kzRUpYTHdoU2x6VW81MllwdGwzc1hUMWhuUVRtZnlSZ3hB?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 11:11:38 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Condenan a 20 años de prisión a la mujer que decapitó a su hija de seis años en República Dominicana - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdE90NGdhRC01Vm1QS2t4MWs0a29QWVdrYUczNEhuUkplUWQtNnN3alpMWndHdHFBZkYxQ0pMNVI4b3JYc0sxeXNmdDVJbnNIamNvTGZYem5iUmFsaDVhZkxGRnl5RGRNYURqT0IyUklTTy1saVl5VjdMeGxiUWktXzFESEtSQlZLTmFUcnZVY0VNc3pwUW9ObGlLYmN4b2pBckp1QmRydEQzN0tmZldEYlE0UHlaTUl6MXZrWlg0SjBubXdhMFJZRWtrQzUwRFBuOU1yVVh2Mkt3aGvSAeABQVVfeXFMUFZYb3F4VmRBZkJ1ZVV2aXBmcmZfeEdzT1BSTFdtajY2VWhpaEZsM0hObkZuR25pVjZXSlpod3NwRTU5TkFNN05VUTZvUVpHUDFsTzhUcm82a1VtWGxfR25tVU85NU5LYUlHYjdlUjEtMkQxalNOTEo5Z21ER3V3YW9DdWpkMUhaSHpvZUJyRDFvTnJLX1gyQVlPb1dkckNPQk5CVjFURDM4R2t0U29VUkIydl9xbmp1V05jRVhfT1lUdURIQjlxakZRQXdzemhyOW4za0lDenl0WnpjUldTdkw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 20:49:00 GMT",
       "imagen": ""
     },
     {
@@ -106,22 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEpFekNycTBjakpmeExLUEpDTVo4M2tHNFZ5V2dUelcwaHVBMV9hUlN5a0czb0cxNXpyelY1Z042RjhLVUQ5N3cwWjQ5UW9NakoxMUZudUZkZXo2X2RJZVFkTnFSblNRWkdMcW92VW5zOFBBV1JwZnc5X0tTajd4Y3BJZ3lIdTE3X2MwaE1VeEc2eGl1dlFOR09KT1BPSjJTenlTam9tTV9uclViMXg0T2dDbE9oU3A2MzVaTEY4TzhubWRUVUU0NEdjZnFJVXJoNk1qSHNjbjNPRWvSAfYBQVVfeXFMT2xHOF96R1YzSTJWYjNqX1d5MmlSaXlXS01KaGY3a1BOenNQUlIyZElLS19NQnhZdTlFTHJVem9vS1k1LXhUZ3FjVDhNX1dHMUR5UlZMVjktNkVJaVVTWS13aFZseldmd2NWMFppbWNFQzYyZ0xqNXZPc1pIUlQwTGxPLThuWnBVSkdWbW5jQm5UMkdsbllUMWVFV1B5MDZWMlY3cFdhWjctNVpJQW9oYjk5dWQ3UFp1bjZrRDM2a0NZZGI3VEVyQUN2dnNLYmdiVU5nLWxKUzJrSUtGQVZleGc2em1GMnlsd3g2TV8wdnJSS2hCWnN3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 17:47:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los puertos de República Dominicana movilizaron 10.2 millones de toneladas y crecieron 8.2% en el tercer trimestre - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONkwxQ283SGoyR2NHLVgyNWxfeXFJZ1Q2RjV2UVY3TVU5Sndpc2lhQXlEWjNOTFE0cnYtN0F1VHFKeF9MeThqRm9RNU5lN1ZxQmtOYVJkLWdMSHRwek5hQWloY3BvVEdnQjVqSVdwZlgwdGVmN2NzSHlBNmJMZ0N6TjgyRWs3ckVCUm9JQ2VvcE9NbDc4SWZsVExfZ2hhelo5R0lxZmhqbUM2MVUwMGR1c2x2eVFjcl9tdUFVMzhZNEtYMXhidUUxamxvVXh2cHdoTnFJR1locUVJSDNneHZKRW5vQ1k5MDRzTUxacEY1VERSd1FEbWVpTUJNaVbSAZcCQVVfeXFMTW8xZS1NQzBOMnlOTGJzWXMwaE11VWxpYktkSnpXaFkzUTNrblY3a0RDczF3all2aWp2SjRkOFdYa3ppQmVETzh4M1JoZ0UxbUZCSWpUQ3JkNm4tUnJKRm5NYjM5M3lTTFJXYnhOSE1KdXFnTGdiQ0tOalVTSU9EYlNVa3pzTTZLWGlYNWx2UTNVWUU4aXZxeWs3dkt5WXMxLXBHVVh5WUtzeGhnS1pKSVAyZUl2ZUxaclZBQm91RTYycjVGMWdzLVlRVzd5U25kWTBETjJYd0NWU3BKY2d1azlFVmhTTDdESnFmRFJVdWVJNkk1aEpqeFhVc2ZLSEFBcEdsOHlSb3pOZmhYOXZPWDhoYjNwbkxN?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 12:00:00 GMT",
       "imagen": ""
     }
   ]
