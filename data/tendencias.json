@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T09:38:57.002535-04:00",
-  "hora": "09:38",
+  "updated": "2026-11-18T09:59:19.860363-04:00",
+  "hora": "09:59",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,13 +13,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlmrLGy-kQ56ivQMR0x6OWxSbonK9MwlN6sXL3UYgjDKWVLXDqc3sfhaAAI1E"
     },
     {
-      "termino": "vladimir guerrero jr.",
-      "trafico": "500+",
-      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
-    },
-    {
       "termino": "resultados lidom",
       "trafico": "100+",
       "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
@@ -29,9 +22,9 @@
     {
       "termino": "twitch",
       "trafico": "500+",
-      "noticia": "AI is still weighing on streamers at Twitch’s biggest event of the year",
-      "enlace": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbtpO_dfiMRFQhKvZroYWuSH5hpURQG_pdWSmpkpOzBgkmRf6--el6WniArFI"
+      "noticia": "The future of Twitch might belong to its smaller streamers",
+      "enlace": "https://www.nbcnews.com/tech/tech-news/twitch-middle-tier-streamers-making-living-platform-rcna608808",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaUl0PKpVuKcZKZctXAc4wus2ce88XBGGZPw1lzdW0KdO_1a3op0TyPZJTFCc"
     },
     {
       "termino": "kick",
@@ -67,6 +60,13 @@
       "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
       "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
+    },
+    {
+      "termino": "vladimir guerrero jr",
+      "trafico": "500+",
+      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
     },
     {
       "termino": "méxico - jamaica",
