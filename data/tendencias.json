@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T07:57:05.876715-04:00",
-  "hora": "07:57",
+  "updated": "2026-11-18T08:17:26.914343-04:00",
+  "hora": "08:17",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "policía nacional de haití",
+      "trafico": "100+",
+      "noticia": "Policía de Haití detecta más de 18,000 transacciones sospechosas de financiar a las pandillas en 72 horas",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/17/policia-nacional-haiti-investiga-transacciones-financieras-sospechosas/3723748",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlmrLGy-kQ56ivQMR0x6OWxSbonK9MwlN6sXL3UYgjDKWVLXDqc3sfhaAAI1E"
+    },
     {
       "termino": "resultados lidom",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "gta 6",
       "trafico": "500+",
-      "noticia": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-      "enlace": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG1U0-DZkwd-S-t71rSWiNfdu1LDDaT_dsP15Cm-oDbVXxTpdKqcRz51kTlk4"
+      "noticia": "‘Grand Theft Auto VI’ is an astonishing American epic",
+      "enlace": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAidjedV9nmgXI4rbdtba7OzdCjvIDfRSCFbrczoh7yPCd5FMkvkdkRXkBV6k"
     },
     {
       "termino": "lidom hoy",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "vladimir guerrero jr",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
       "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
@@ -67,13 +74,6 @@
       "noticia": "Temblor de magnitud 4.5 se registra en el mar Caribe, cerca de la isla Saona",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/17/temblor-de-magnitud-45-se-registra-cerca-de-isla-saona/3723841",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6bH1yCKFy-EKfTzR-3-tQ_WwEznlzKRC1QLaq3z1xC1jQa6_phLY3SFSw6-o"
-    },
-    {
-      "termino": "cuando sale gta 6",
-      "trafico": "200+",
-      "noticia": "La fiebre por el GTA VI llega al trabajo y las aulas:  Hay profesores que han pospuesto los exámenes",
-      "enlace": "https://cadenaser.com/nacional/2026/11/17/la-fiebre-por-el-gta-vi-llega-al-trabajo-y-las-aulas-hay-profesores-que-han-pospuesto-los-examenes-cadena-ser/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS42mE9hs4HbhFzGVfXc9jLivDuHu2bLhWmtBY1RkPXi1JRdub7pFhRusUikOs"
     }
   ]
 }
