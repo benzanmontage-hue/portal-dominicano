@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T19:33:34.835638-04:00",
-  "hora": "19:33",
+  "updated": "2026-11-18T19:53:58.900318-04:00",
+  "hora": "19:53",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "primera noche",
+      "trafico": "500+",
+      "noticia": "Monte Plata tendrá su primera Noche de Jazz gratuita",
+      "enlace": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/monte-plata-tendra-primera-noche-jazz-gratuita_586511.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmhQNaSBA58EGbVeyJyOYn9_I-TNR7FmZxzVeJCnQptDuYPkWUJtM4Hu2fmrE"
+    },
     {
       "termino": "deutsche bank",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "playstation",
       "trafico": "1000+",
-      "noticia": "PlayStation suffers widespread network problems hours before release of GTA VI",
-      "enlace": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkvX0kUxit9LksBXBvlCgCGDmMcp7pThqNuMaYnIJ5qWgULe2WI0HLIR0cXcc"
+      "noticia": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
+      "enlace": "https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLmcGjr6GDUSrZYTXsD5JG2nk5Xw-5upaN3yC9JiWChJ8gBGUOx0mQYSQNWJk"
     },
     {
       "termino": "playstation store",
@@ -50,9 +57,9 @@
     {
       "termino": "acusación",
       "trafico": "200+",
-      "noticia": "Operación Rabat: oficialismo tiritando por desmarcados y el capítulo sobre las mentiras del ministro",
-      "enlace": "https://www.elmostrador.cl/noticias/pais/2026/11/18/operacion-rabat-oficialismo-tiritando-por-desmarcados-y-el-capitulo-sobre-las-mentiras-del-ministro/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ_n8d9tjkeEOf8rzpocvFLE2f4whbMFKP4WrWXglmQwd6XzgdEkiLdMjMAc4"
+      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
+      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
     },
     {
       "termino": "policía nacional de haití",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "twitch",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
       "enlace": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG1U0-DZkwd-S-t71rSWiNfdu1LDDaT_dsP15Cm-oDbVXxTpdKqcRz51kTlk4"
-    },
-    {
-      "termino": "quentin grimes",
-      "trafico": "2000+",
-      "noticia": "Quentin Grimes becomes 2nd in Lakers history to hit 10 or more 3s in single game",
-      "enlace": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnbQEe_mQcVwSD9bVYWDGbz313bXrOz9PCF4jIK0Xvk8DMWd3GyrkYlt45fn4"
     }
   ]
 }
