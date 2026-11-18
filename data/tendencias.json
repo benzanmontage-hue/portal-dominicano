@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-18T07:36:41.646132-04:00",
-  "hora": "07:36",
+  "updated": "2026-11-18T07:57:05.876715-04:00",
+  "hora": "07:57",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "weather",
-      "trafico": "500+",
-      "noticia": "Today s Weather, 5 P.M. | Nov. 18, 2026",
-      "enlace": "https://www.manilatimes.net/2026/11/18/videos/todays-weather-5-pm-nov-18-2026/2472869",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStT-juKnf0S91BKBJSf8IKnR-OLwgTL_JwlyWnvm8csEAYNmmr_lAZnhifdW0"
-    },
     {
       "termino": "resultados lidom",
       "trafico": "100+",
@@ -20,15 +13,8 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSma2jNSY9W0S4vLV5M0L5WliKQlKBJOJzf5975XKqUNbPhSvPj7cevpZG3C78"
     },
     {
-      "termino": "twitch",
-      "trafico": "200+",
-      "noticia": "AI is still weighing on streamers at Twitch’s biggest event of the year",
-      "enlace": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbtpO_dfiMRFQhKvZroYWuSH5hpURQG_pdWSmpkpOzBgkmRf6--el6WniArFI"
-    },
-    {
       "termino": "kick",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
@@ -50,9 +36,9 @@
     {
       "termino": "gta 6",
       "trafico": "500+",
-      "noticia": "Review: Grand Theft Auto 6: A Landmark Achievement That Redefines a Console Generation",
-      "enlace": "https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReCAXMlNwUxWnGf53gHplN8ZHsDOb7y0p8EOQd5b_FLMjg6jM00dRN2MmS40I"
+      "noticia": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+      "enlace": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG1U0-DZkwd-S-t71rSWiNfdu1LDDaT_dsP15Cm-oDbVXxTpdKqcRz51kTlk4"
     },
     {
       "termino": "lidom hoy",
@@ -74,6 +60,20 @@
       "noticia": "Márquez earns first Mexico win to set up Nations League semi vs. U.S.",
       "enlace": "https://www.espn.com/soccer/story/_/id/50517553/mexico-survive-jamaica-scare-give-marquez-first-win",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGdSZc2-9CIHVrKVVl-NUSquRRz2v_pOWD_CPbXked0uT0gXyGwPl0RnKVxoU"
+    },
+    {
+      "termino": "temblor",
+      "trafico": "200+",
+      "noticia": "Temblor de magnitud 4.5 se registra en el mar Caribe, cerca de la isla Saona",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/17/temblor-de-magnitud-45-se-registra-cerca-de-isla-saona/3723841",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6bH1yCKFy-EKfTzR-3-tQ_WwEznlzKRC1QLaq3z1xC1jQa6_phLY3SFSw6-o"
+    },
+    {
+      "termino": "cuando sale gta 6",
+      "trafico": "200+",
+      "noticia": "La fiebre por el GTA VI llega al trabajo y las aulas:  Hay profesores que han pospuesto los exámenes",
+      "enlace": "https://cadenaser.com/nacional/2026/11/17/la-fiebre-por-el-gta-vi-llega-al-trabajo-y-las-aulas-hay-profesores-que-han-pospuesto-los-examenes-cadena-ser/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS42mE9hs4HbhFzGVfXc9jLivDuHu2bLhWmtBY1RkPXi1JRdub7pFhRusUikOs"
     }
   ]
 }
