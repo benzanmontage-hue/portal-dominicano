@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-17T23:11:15.540840-04:00",
-  "hora": "23:11",
+  "updated": "2026-11-17T23:32:56.378607-04:00",
+  "hora": "23:32",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "cuando sale gta 6",
+      "termino": "méxico - jamaica",
       "trafico": "100+",
+      "noticia": "",
+      "enlace": "",
+      "imagen": ""
+    },
+    {
+      "termino": "vladimir guerrero jr",
+      "trafico": "100+",
+      "noticia": "LIDOM: Licey adquiere a Vladimir Guerrero Jr. desde los Toros",
+      "enlace": "https://www.espn.com.do/beisbol/beisbolinvernal/nota/_/id/17528557/lidom-licey-adquiere-a-guerrero-jr-desde-toros",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiHc4ivr9VtxoSya3uyt3WbNYQBu_0wsSQ8n23oD70Q9CfODBlEurh_oMqYC4"
+    },
+    {
+      "termino": "temblor",
+      "trafico": "200+",
+      "noticia": "Sismo de magnitud entre 4.4 y 4.6 cerca de Boca de Yuma",
+      "enlace": "https://acento.com.do/actualidad/sismo-de-magnitud-46-cerca-de-boca-de-yuma-9792046.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzGzuhrQOs2q4XNEJaLWWPOfbwYUf0DBMtHVl6YGA1ATiMZIMVhfl96Yr4hxo"
+    },
+    {
+      "termino": "cuando sale gta 6",
+      "trafico": "200+",
       "noticia": "La fiebre por el GTA VI llega al trabajo y las aulas:  Hay profesores que han pospuesto los exámenes",
       "enlace": "https://cadenaser.com/nacional/2026/11/17/la-fiebre-por-el-gta-vi-llega-al-trabajo-y-las-aulas-hay-profesores-que-han-pospuesto-los-examenes-cadena-ser/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS42mE9hs4HbhFzGVfXc9jLivDuHu2bLhWmtBY1RkPXi1JRdub7pFhRusUikOs"
@@ -36,9 +57,9 @@
     {
       "termino": "raptors - knicks",
       "trafico": "500+",
-      "noticia": "Licensable picture: Polska - Szwecja",
-      "enlace": "https://www.reutersconnect.com/item/polska-szwecja/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVENIWFg",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUPj2u8x87hC5AlGJVVShzc2QbDlTY1YcINKOpS9XWKNQlW4SIhJ46vKb7Qxc"
+      "noticia": "Knicks seek 15th straight win over reeling Raptors",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-15th-straight-win-over-reeling-raptors/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
     },
     {
       "termino": "haiti vs",
@@ -50,30 +71,9 @@
     {
       "termino": "estados unidos - haití",
       "trafico": "5000+",
-      "noticia": "Christian Pulisic anota golazo de chilena con Estados Unidos frente a Haití",
-      "enlace": "https://as.com/us/futbol/christian-pulisic-anota-golazo-de-chilena-con-estados-unidos-frente-a-haiti-f202611-n/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvIP1JbV4a4y2KHHTpcKlt8YrGIWG5Gd_GGRSBipbUunQ94oMxfOnZDZzBcWc"
-    },
-    {
-      "termino": "états-unis – haïti",
-      "trafico": "2000+",
-      "noticia": "",
-      "enlace": "",
-      "imagen": ""
-    },
-    {
-      "termino": "uruguay - república dominicana",
-      "trafico": "2000+",
-      "noticia": "La Sedofútbol cae por goleada ante la Uruguay de Diego Forlán",
-      "enlace": "https://www.diariolibre.com/deportes/futbol/2026/11/17/la-sedofutbol-cae-por-goleada-frente-la-uruguay-de-diego-forlan/3723754",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVJokAlCSAf2hHli4wqmEhusGw4aOqaCG3yNXVTbBEI9faNGYnR-Vk23IP_60"
-    },
-    {
-      "termino": "donación",
-      "trafico": "2000+",
-      "noticia": "bonÀrea aporta 5.000 euros a FESBAL y evita cerca de 2.000 toneladas de desperdicio alimentario",
-      "enlace": "https://www.corresponsables.com/actualidad/bonarea-donacion-fesbal-desperdicio-alimentario-tiendas/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCXBaSVYtechOQWdqD_vRqGhHTAoZRP6v3zbizBhwhAMJO4kauezD_i7m1aZM"
+      "noticia": "Pochettino se despide de EEUU con triunfo y clasificación en Liga de Naciones",
+      "enlace": "https://www.france24.com/es/minuto-a-minuto/20261118-pochettino-se-despide-de-eeuu-con-triunfo-y-clasificaci%C3%B3n-en-liga-de-naciones",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfURGzv9NcWhQfaqMuBxggLrtfj8gcUhofOaL8xPFCihxQPLxHH7K8DkGL50"
     }
   ]
 }
