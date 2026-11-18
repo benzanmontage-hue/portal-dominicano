@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T12:43:53.826898-04:00",
-  "hora": "12:43",
+  "updated": "2026-11-18T13:04:17.561237-04:00",
+  "hora": "13:04",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -42,8 +42,8 @@
     },
     {
       "termino": "twitch",
-      "trafico": "2000+",
-      "noticia": "Grand Theft Auto VI Review: It Will Steal Your Heart",
+      "trafico": "1000+",
+      "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
       "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
     },
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
     },
     {
-      "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
-      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
+      "termino": "gta 6",
+      "trafico": "2000+",
+      "noticia": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+      "enlace": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s"
     }
   ]
 }
