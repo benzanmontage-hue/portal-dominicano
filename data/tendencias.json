@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T13:24:39.890405-04:00",
-  "hora": "13:24",
+  "updated": "2026-11-18T13:45:02.737659-04:00",
+  "hora": "13:45",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -10,7 +10,7 @@
       "trafico": "100+",
       "noticia": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
       "enlace": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFaEgPrHSmm1CuaIA4K8vPzXL2u1usiBMrtYe3-wySF6UASiB9E0xgDt1hbE"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s"
     },
     {
       "termino": "factura electrónica",
@@ -20,11 +20,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblo41WY7ic3y4Jy2sqx12-oCNKd19kdAJiUhNGu-NI2uDkikzRq_e0ba5o_o"
     },
     {
+      "termino": "playstation",
+      "trafico": "500+",
+      "noticia": "I Will Never Stop Playing ‘Grand Theft Auto’",
+      "enlace": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvdu0MIw5NKBhbryJ5Qm0jc_50l2tbl3cDw4ewEUPhsuvDD9kO4o3EQ9FJQ_0"
+    },
+    {
       "termino": "playstation store",
-      "trafico": "1000+",
-      "noticia": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
-      "enlace": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSreo4ybwfOcDN6L5MvhlmBx9LotdNBDgznVlAXPx_MpG5c08Po0j8VqAz0AWM"
+      "trafico": "200+",
+      "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+      "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
     },
     {
       "termino": "acusación",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "twitch",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
       "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
@@ -67,13 +74,6 @@
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
-    },
-    {
-      "termino": "temblor hoy",
-      "trafico": "200+",
-      "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
-      "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
     }
   ]
 }
