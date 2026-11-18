@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-18T08:58:13.372540-04:00",
-  "hora": "08:58",
+  "updated": "2026-11-18T09:18:37.054552-04:00",
+  "hora": "09:18",
   "fecha": "18/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Un informe de 2017 sobre Indra en República Dominicana detectó problemas técnicos, no fraude electoral - AFP Factual",
       "fuente": "AFP Factual",
@@ -29,12 +37,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
-      "fuente": "DAZN",
-      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0x2dDgwd0k4dDlKQlZuMjVCcmR2ejRfZC1rdEFENXMxOXJFWmU0ZmpCbWNpT2FNNTdJSEw4anExVkZub0FnRWJOemViOWZMeXB3SDN2eUZGQlFiNFp4LURwRnZWcEdFc1FoV2V3UkdoWlBZVTl2Ul9yX3U1NE1VVGZya3lpU2tYaHNQMEp3SktKZGVENHlRbF9QSUJLOVZCWGRyaDlmVWFIbzVxd2NCQkVzSERGQ003b2o1N3Ffa0MtWkFMYUs1TGlheG1nRHpzVEwxWWw1YzNtX21EY29wblB6dl9TVmZsU2hTVnBrOTMwZ2t1ODdDUg?oc=5",
+      "titulo": "República Dominicana rompe récords turísticos y atrae cadenas de ultra lujo: espera 12,5 millones de... - CiberCuba",
+      "fuente": "CiberCuba",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZ2SE1SdFhiVE1zdUtxQnhpOXc3NXVwdDk3SEZ5VEU1Y0YxRHBfVUt4QlY2aHc1UmVTYkFXZ0ptQTZPVi1neF9ZNGI5NU9NOF92Z3ZOOVZjZmZDN1ZxR185TXZVLUVXeGlxYkVCZTh4Tjdxd04zZklDcmZwVU5nbVU4UXVSTE95Q3B5dzhHS0Jadkc3VGFCUUp6VG9IS0kzeXNZRTd1M2YwRWpzb3JuZU5Qazk5Vml4VjlzQUpVTzN5elXSAcMBQVVfeXFMUDQ2dkhNUnRYYlRNc3VLcUJ4aTl3NzV1cHQ5N0hGeVRFNWNGMURwX1VLeEJWNmh3NVJlU2JBV2dKbUE2T1YtZ3hfWTRiOTVPTThfdmd2TjlWY2ZmQzdWcUdfOU12VS1FV3hpcWJFQmU4eE43cXdOM2ZJQ3JmcFVOZ21VOFF1UkxPeUNweXc4R0tCWnZHN1RhQlFKelRvSEtJM3lzWUU3dTNmMEVqc29ybmVOUGs5OVZpeFY5c0FKVU8zeXpV?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
-      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
+      "fecha": "Wed, 18 Nov 2026 00:46:32 GMT",
+      "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1794962282-republica-dominicana-gana-terreno-destino-lujo-turistas.jpg"
+    },
+    {
+      "titulo": "La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití - EFE - Agencia de noticias",
+      "fuente": "EFE - Agencia de noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVhMU0NIU3JXNjg5STdxZjVQNTRzRzUwTTJFZmh3eWJyanlnVHZQX0oxMmNZWUdKelBjTXFzZ0c0RDU3UlV5UTVWa0wyQjJya0FrcjRGZDAxNm9fRzhqYXFKWmN0b3RqMzFudXRPSXNDdkw4bHd2S0V4MkdsN3N5d3ltWUZCX25mUHZvWTVOaHpGOWdXbFdIdVR3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 13:13:03 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Así fue el golazo de Fede Valverde en Uruguay vs República Dominicana - 365Scores",
@@ -43,6 +59,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 01:27:14 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos - DAZN",
+      "fuente": "DAZN",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWVPOF9saDFNYXFSXzFMLTRmRGtzaWpSTTJPWWw1UjRMR2R0STlYVk4td3UwSE03a1pzOUFEZHpNbFB0cUVmTllaWEVxZkVZQU5vSW4wVFVHeUV4bEt5cnVBVGpDWXU4NDNtYkdMZFBaUmZWbEpBdk5PQUlGVG5CMXpMcEVIWldjSmRIZTZGUkFTTjgyMUxrWmJXTmxEZXhTeFdGNTJaS0poSDljSTQzTngzV18yZE9zal81VUNXdk5ielVaaFRFdVhGMWZZUFBSc0xGRnBOWlhBNXd1M3FOQkxtWm9sLVhSU1ZJdW5MRWFXQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 17 Nov 2026 16:19:51 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
       "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
@@ -98,30 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Uruguay vs República Dominicana EN VIVO: resultado, goles y minuto a minuto del amistoso internacional - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MWTVSMERsdGR0Ym43Z09rTlk4S0M3c0lwSXNsREhLM2lfeXV4X2syNkdCNklYdmxZQXpXanM0ekZ1djdQX0xHNER0bHV4TThBVEUzZHNkQVAySzM1SFJYQ0VPd0ZRLWVZakpPT3lDT3o4b2NTRU05a3ZxWWU4Y0E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 23:41:36 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana descarta sanciones inmediatas por la Facturación Electrónica pendiente - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeC11UEVuaEs5SWRCQVB0SmpUUV9Nb3FRaERYVDVVdmx3aEF0a1NaZWJEYUFfQ21vRkl4ajJMS29NU2RfTDluLVdBVDJaTGFrZndfY25ocjVlandqR3pBRTlnT2tMUTdxTHpyOE9FRHRSV2Y3QlFmUDF6U0JjR2VQX1RxSjdJa3dsWEk4YVhBNkVscUNZVUR6ZzVWdERYdmZFQlBPLTZ5enBSVUNCcEI1Yzh5S0NDd2RpMHBWeTVIRzgzUWVKZl95SFhBb0ZBendJOG5peHhHQU1qTUZYallMajhR0gH8AUFVX3lxTE0yTDFSLThPci0yMUpYTEc0blJrajBNQ3pqc2FmZS1JNTE2TGdVck5PVUdDeE94Mlg1cFJwUGEtcEtZUDM4WDNWSWtyMklkMF9wNmtwSDloX3dQWklWc05BeHhrQ2NKbnBZYkFVeWo4LUpQVnZTS3hkem5DaWlvQzVQVXpfREtNU3JUQTFkWUdhdzdwRThlQk5WTm1oSGVfMTVmMGFiaGM4ODRMQUtXT19wY1VaZlhDdk1fWEZoVzl3bjZ4aEpqb0pQT0NzOWZTaV9Jem8xUEM2ZVduZDhpdFVfU0FKRzBRMkl3WmRQd0E2c2JrdHh2MmFySFlScQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 12:04:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fede Valverde marcó un golazo para sellar la victoria de Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTRRaWhUSFlva3lhbTA5cHpjVVk5RnRCSTRpQWZXUlZYbk9xY0poVGkwbEsxLVZPVnJJSUxHLURSNWMwMWRjSFFuME44OUF1VTB2aEJSREJvN2lnVTdZLTRRQUlOa0N1b1VZZWlhSGZOUWtGVmNGbFFJSkxhN3lack4wTlZYOXNUQm5wa3VqYW1Bei05eUI5N2ZQb2l6Q2lKcjk1TE1ObWZ0ejJUY0VxTVVIX3U?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:27:00 GMT",
       "imagen": ""
     }
   ]
