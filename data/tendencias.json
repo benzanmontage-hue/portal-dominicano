@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-17T21:29:22.335687-04:00",
-  "hora": "21:29",
+  "updated": "2026-11-17T21:49:47.545449-04:00",
+  "hora": "21:49",
   "fecha": "17/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "spurs - pistons",
+      "trafico": "200+",
+      "noticia": "Spurs put 12-game win streak on the line against Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/spurs-put-12-game-win-streak-on-the-line-against-pistons/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
+    },
     {
       "termino": "timberwolves - trail blazers",
       "trafico": "500+",
@@ -15,13 +22,13 @@
     {
       "termino": "uruguay vs república dominicana",
       "trafico": "200+",
-      "noticia": "Precaución con Valverde en Uruguay",
-      "enlace": "https://www.marca.com/futbol/2026/11/13/precaucion-valverde-uruguay.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-mvHw3o91BGx_l4tjxhbZcyjs5t7iu7yqc2Cpt261mIoCXTy15B1zOxLh-kI"
+      "noticia": "Valverde cambia a Uruguay",
+      "enlace": "https://as.com/futbol/internacional/valverde-cambia-a-uruguay-f202611-n/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5LpIWpbCMQsrM_P06Ih8clVx51WYuHp8XXGdJVGPuoamJ1ORLIKLM7mM96uU"
     },
     {
       "termino": "raptors - knicks",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Knicks seek 15th straight win over reeling Raptors",
       "enlace": "https://www.cbssports.com/nba/news/knicks-seek-15th-straight-win-over-reeling-raptors/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
@@ -50,16 +57,16 @@
     {
       "termino": "uruguay - república dominicana",
       "trafico": "1000+",
-      "noticia": "Uruguay quiere cerrar el 2026 con victoria ante RD",
-      "enlace": "https://elnuevodiario.com.do/uruguay-quiere-cerrar-el-2026-con-victoria-ante-rd/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZtn2Jj0ovDP89TLRA0X3LkWv2Ou2LkAQ2qtlKiR9AXNZRngdwLWO28vCwc5A"
+      "noticia": "República Dominicana y Uruguay buscan cerrar 2026 con una victoria en amistoso internacional",
+      "enlace": "https://acento.com.do/deportes/republica-dominicana-y-uruguay-buscan-cerrar-2026-con-una-victoria-en-amistoso-internacional-9791478.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDFub6xT0jN32wAl2r6mfaMH7aII5PXYknTlAGslHhkJGgHSw3NEQUTAnqB5Q"
     },
     {
       "termino": "donación",
       "trafico": "1000+",
-      "noticia": "Máquina de Donación de “Ilumina el Mundo” llega por primera vez a Costa Rica para llevar esperanza a las familias",
-      "enlace": "https://noticias.laiglesiadejesucristo.org/articulo/maquina-de-donacion-de-ilumina-el-mundo-llega-por-primera-vez-a-costa-rica-para-llevar-esperanza-a-las-familias",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwfgFmfjBA0K5RJsQhqh7gBUlp7Ij418Yb5mt9CIHKtQMgQkYHoYUI9xuvHAQ"
+      "noticia": "Torrent exhibirá la Carta de Poblament de 1248",
+      "enlace": "https://valencianews.es/comarcas/torrent-exhibira-la-carta-de-poblament-de-1248-en-la-exposicion-jaume-i-i-els-nostres-archius-con-documentos-unicos-del-rey-conquistador/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdcccs5rKP9P98EBu4T6fReAS1dVncKqX1E_r7C1e2HVjkBTgGGg5FLjvGDAU"
     },
     {
       "termino": "chile - colombia",
@@ -67,13 +74,6 @@
       "noticia": "Chile vs Colombia: Friendlies stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/c5kg7mex2r7dt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "argentina - costa rica",
-      "trafico": "5000+",
-      "noticia": "Argentina fue una máquina en el amistoso ante Costa Rica ¡con siete goles!",
-      "enlace": "https://www.tycsports.com/amistosos-de-selecciones/amistosos-internacionales-masc-2026-argentina-vs-costa-rica-amistosos-id771718.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo6kpJFeT73VQnT21xXZiiVjm0yj9KzfsxmIjRtU_nI6jerXZLhiCQjYpQR8g"
     }
   ]
 }
