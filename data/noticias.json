@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T14:26:03.657457-04:00",
-  "hora": "14:26",
+  "updated": "2026-11-18T14:46:25.428969-04:00",
+  "hora": "14:46",
   "fecha": "18/11/2026",
   "total": 15,
   "noticias": [
@@ -45,19 +45,19 @@
       "imagen": ""
     },
     {
+      "titulo": "Una prueba de fuego en Uruguay: República Dominicana cayó 5-0 en amistoso internacional - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEpFekNycTBjakpmeExLUEpDTVo4M2tHNFZ5V2dUelcwaHVBMV9hUlN5a0czb0cxNXpyelY1Z042RjhLVUQ5N3cwWjQ5UW9NakoxMUZudUZkZXo2X2RJZVFkTnFSblNRWkdMcW92VW5zOFBBV1JwZnc5X0tTajd4Y3BJZ3lIdTE3X2MwaE1VeEc2eGl1dlFOR09KT1BPSjJTenlTam9tTV9uclViMXg0T2dDbE9oU3A2MzVaTEY4TzhubWRUVUU0NEdjZnFJVXJoNk1qSHNjbjNPRWvSAfYBQVVfeXFMT2xHOF96R1YzSTJWYjNqX1d5MmlSaXlXS01KaGY3a1BOenNQUlIyZElLS19NQnhZdTlFTHJVem9vS1k1LXhUZ3FjVDhNX1dHMUR5UlZMVjktNkVJaVVTWS13aFZseldmd2NWMFppbWNFQzYyZ0xqNXZPc1pIUlQwTGxPLThuWnBVSkdWbW5jQm5UMkdsbllUMWVFV1B5MDZWMlY3cFdhWjctNVpJQW9oYjk5dWQ3UFp1bjZrRDM2a0NZZGI3VEVyQUN2dnNLYmdiVU5nLWxKUzJrSUtGQVZleGc2em1GMnlsd3g2TV8wdnJSS2hCWnN3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 17:47:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana asume por primera vez la presidencia del Fondo Ibermedia, integrado por 21 países - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaXBKQlY3T3dDeXNVbjJYSllZa2hrWndKVEZYYlUySXpSeVZZZ3F2R2t1Ync5R0ZkcDhxbl9NNzhuVE1VZkg1OVpCSmsteDZGQTRBX1hqMHVnYTVjcXYzVlhBOVJHTkxMbUZJWmxPTmF1X2dxZUdISkYxNGVxdmoyS1VydGk2czdMeVlsQVB2OGNpbENiazlPbS1ueV9Ba0pfbGp2QjdwdmlYWEtKbWxoRzAzdWNQVmpaNnktX0ZvTjZjc0dyTWZZUUgtSmNfR05BOG1BcUZpQ29qRl9obDZ6eV9mZ0tnTWpaUGFsNHZCc9IBigJBVV95cUxNVHdxdXZ1Q1ItdjR4cFpZN2JUNXNxUE5XSGdZcC1XR1VYN29jclFCam9tR2JJVE4wcldUWUFXamtuNE52MzdsaHFYakN4S1o2MV9CWjdjMW9hT0VsWUZfYWJ4QVlHZUdqYm9adFZ3aDB5Um4zZ0JMQ010TzhkNE0zYUt4MHhpT1o1OWlUOXBSdXNMVjIyNFpzdGZTUlJxMkd3bmtsaU1uQXo0NklVdXNVWkZ4VmVtSno2QTU3enBxNVNDVG5Bc2FNX1lNaGlKenBCdXYwdGRTamJyd3k1ejFLdXZhcnE2emdmZTVSclN2Nk9KSVhROUVETVFXWmdZZWhXekgwU3NFTnI4Zw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 17:45:00 GMT",
       "imagen": ""
     },
     {
@@ -93,6 +93,14 @@
       "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
+      "titulo": "Unos RD$33,403,960,702 pesos pagará el Estado dominicano a los servidores del Gobierno Central y a las instituciones descentralizadas y autónomas no financieras por concepto de regalía pascual o sueldo número 13 correspondiente a este año 2026.⁣ - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlZE5TZTVCWmp4Nlp5OVFxU01mZXB3S3cxQzFzWEt4TFJ5dzctanpUQnVldng4TEpUTGYyWTE1bWtiU2VNNGVwN2NNYmpzQU1FS0E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 18:30:04 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Así fue el golazo de Fede Valverde en Uruguay vs República Dominicana - 365Scores",
       "fuente": "365Scores",
       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FbWJkYWlVN0lYV1A2WUdtR2FqaFNsRERmUno3akpKU05UOGExTndhWnRHVVlXWWxrTWFMQWd6Qko0alhaQktfOE5yMVlRRzNSd29EbHhlRHFpWloydWM1X2M2cC1CQ2JyT0xDVkZ3WkRYbW1tR1JkRWRn?oc=5",
@@ -101,11 +109,11 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana presidirá por primera vez el Fondo Ibermedia, que financia el cine de 21 países - Presidencia de la República Dominicana",
-      "fuente": "Presidencia de la República Dominicana",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmNnT3NiUmhrMks5NDY5Z0xuakxpb0gzeTZYbGtkWVpRWUZDeVRYWTdkV2gwUUp1c19ldW1nRWtqLVNSa1hFODVTV3lNclI0bjNhUlNpaXd0ck4tSEdONlJnSDBqTHhjN3doMXRwbEN0YXdVMXZ6LWd5ejVZRjVxdy1QM3hWZEttT2g2MVo5cE9ncF9lU1NCUVJ3RmhFVW5tR3RwcS1jNW1ybDN5TXN4eWlwdmZrWlN1Z0lZMG5IUUdRXzA?oc=5",
+      "titulo": "República Dominicana asume por primera vez la presidencia del Fondo Ibermedia, integrado por 21 países - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaXBKQlY3T3dDeXNVbjJYSllZa2hrWndKVEZYYlUySXpSeVZZZ3F2R2t1Ync5R0ZkcDhxbl9NNzhuVE1VZkg1OVpCSmsteDZGQTRBX1hqMHVnYTVjcXYzVlhBOVJHTkxMbUZJWmxPTmF1X2dxZUdISkYxNGVxdmoyS1VydGk2czdMeVlsQVB2OGNpbENiazlPbS1ueV9Ba0pfbGp2QjdwdmlYWEtKbWxoRzAzdWNQVmpaNnktX0ZvTjZjc0dyTWZZUUgtSmNfR05BOG1BcUZpQ29qRl9obDZ6eV9mZ0tnTWpaUGFsNHZCc9IBigJBVV95cUxNVHdxdXZ1Q1ItdjR4cFpZN2JUNXNxUE5XSGdZcC1XR1VYN29jclFCam9tR2JJVE4wcldUWUFXamtuNE52MzdsaHFYakN4S1o2MV9CWjdjMW9hT0VsWUZfYWJ4QVlHZUdqYm9adFZ3aDB5Um4zZ0JMQ010TzhkNE0zYUt4MHhpT1o1OWlUOXBSdXNMVjIyNFpzdGZTUlJxMkd3bmtsaU1uQXo0NklVdXNVWkZ4VmVtSno2QTU3enBxNVNDVG5Bc2FNX1lNaGlKenBCdXYwdGRTamJyd3k1ejFLdXZhcnE2emdmZTVSclN2Nk9KSVhROUVETVFXWmdZZWhXekgwU3NFTnI4Zw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 15:37:12 GMT",
+      "fecha": "Wed, 18 Nov 2026 17:45:00 GMT",
       "imagen": ""
     },
     {
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una prueba de fuego en Uruguay: República Dominicana cayó 5-0 en amistoso internacional - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEpFekNycTBjakpmeExLUEpDTVo4M2tHNFZ5V2dUelcwaHVBMV9hUlN5a0czb0cxNXpyelY1Z042RjhLVUQ5N3cwWjQ5UW9NakoxMUZudUZkZXo2X2RJZVFkTnFSblNRWkdMcW92VW5zOFBBV1JwZnc5X0tTajd4Y3BJZ3lIdTE3X2MwaE1VeEc2eGl1dlFOR09KT1BPSjJTenlTam9tTV9uclViMXg0T2dDbE9oU3A2MzVaTEY4TzhubWRUVUU0NEdjZnFJVXJoNk1qSHNjbjNPRWvSAfYBQVVfeXFMT2xHOF96R1YzSTJWYjNqX1d5MmlSaXlXS01KaGY3a1BOenNQUlIyZElLS19NQnhZdTlFTHJVem9vS1k1LXhUZ3FjVDhNX1dHMUR5UlZMVjktNkVJaVVTWS13aFZseldmd2NWMFppbWNFQzYyZ0xqNXZPc1pIUlQwTGxPLThuWnBVSkdWbW5jQm5UMkdsbllUMWVFV1B5MDZWMlY3cFdhWjctNVpJQW9oYjk5dWQ3UFp1bjZrRDM2a0NZZGI3VEVyQUN2dnNLYmdiVU5nLWxKUzJrSUtGQVZleGc2em1GMnlsd3g2TV8wdnJSS2hCWnN3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 17:47:00 GMT",
       "imagen": ""
     }
   ]

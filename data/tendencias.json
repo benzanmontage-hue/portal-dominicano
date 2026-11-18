@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T14:26:02.144048-04:00",
-  "hora": "14:26",
+  "updated": "2026-11-18T14:46:24.073012-04:00",
+  "hora": "14:46",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "xbox",
       "trafico": "100+",
-      "noticia": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-      "enlace": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s"
+      "noticia": "Every Game Leaving Xbox Game Pass on November 30",
+      "enlace": "https://www.vice.com/en/article/every-game-leaving-xbox-game-pass-on-november-30/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXvTTappHOyAC2SKehas78bPqZ7q9GlZw50lG-xPTkvxPoHAwI8p9LqqEPoAs"
     },
     {
       "termino": "factura electrónica",
@@ -25,13 +25,6 @@
       "noticia": "Diputado pide plazos por segmentos para que micro y pequeños negocios adopten facturación electrónica",
       "enlace": "https://elnuevodiario.com.do/diputado-pide-plazos-por-segmentos-para-que-micro-y-pequenos-negocios-adopten-facturacion-electronica/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblo41WY7ic3y4Jy2sqx12-oCNKd19kdAJiUhNGu-NI2uDkikzRq_e0ba5o_o"
-    },
-    {
-      "termino": "playstation",
-      "trafico": "1000+",
-      "noticia": "Skipping GTA 6? Save Up to 59% on Other Top PS5 Games for Black Friday",
-      "enlace": "https://consequence.net/2026/11/best-black-friday-ps5-game-deals-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRDndf883A9m0fdezBYGEAg2cMlw13diiV6eAEkOTaG2uJiaU4mcGyDY4ZB90"
     },
     {
       "termino": "playstation store",
@@ -50,16 +43,23 @@
     {
       "termino": "policía nacional de haití",
       "trafico": "1000+",
-      "noticia": "Policía de Haití rastrea más de 18,000 transacciones que podrían estar vinculadas a bandas armadas",
-      "enlace": "https://n.com.do/2026/11/18/policia-de-haiti-rastrea-mas-de-18000-transacciones-que-podrian-estar-vinculadas-a-bandas-armadas/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPz_lOJDB7eVrspJ0dsStIkl-ay261CheWfwFHP0ZNX1G_l8gx3T5q2B2Xgmc"
+      "noticia": "Haití indaga si transferencias financieras están relacionadas con grupos criminales",
+      "enlace": "https://cdn.com.do/internacionales/america-latina/haiti-investiga-transacciones-sospechosas-en-natcash-y-moncash/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxOqPfNtuOcYL00P4lFjnRR4SIHFmjZsezS3Uh3t-_jaewDvKSmP9JyJ6htvY"
+    },
+    {
+      "termino": "twitch",
+      "trafico": "2000+",
+      "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
+      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
     },
     {
       "termino": "quentin grimes",
       "trafico": "2000+",
-      "noticia": "Charlotte Hornets vs. Los Angeles Lakers Live Score and Stats - November 17, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261117_CHA@LAL/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQep706SKbS5Y11Cua7-S_z4RxKXfIa4is9-Ud_ooX87ZUO_e2RWBNIq0BvRI"
+      "noticia": "Quentin Grimes becomes 2nd in Lakers history to hit 10 or more 3s in single game",
+      "enlace": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnbQEe_mQcVwSD9bVYWDGbz313bXrOz9PCF4jIK0Xvk8DMWd3GyrkYlt45fn4"
     },
     {
       "termino": "kick",
@@ -71,9 +71,9 @@
     {
       "termino": "gta 6",
       "trafico": "2000+",
-      "noticia": "G.T.A. 6 Review: This Release Will Steal Your Heart",
-      "enlace": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoxYZgL5Ap-7TMP-1GTGDYOeGbVZ5_8tcr2IPVavHNJSsfDm-JHCee6UIzBls"
+      "noticia": "GTA 6: Who Is the Real Actress Lucia Is Based On?",
+      "enlace": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actress-lucia-is-based-on",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QJc0JLG9NkKVZmEFpyNFmCM7HSC20MssxkHpbU687EgCF2I8P9CQUAhiRfs"
     }
   ]
 }
