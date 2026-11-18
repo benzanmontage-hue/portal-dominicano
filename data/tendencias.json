@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-18T00:13:40.656850-04:00",
-  "hora": "00:13",
+  "updated": "2026-11-18T00:34:04.841583-04:00",
+  "hora": "00:34",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lakers - hornets",
+      "trafico": "200+",
+      "noticia": "Luka Doncic, red-hot Lakers host struggling Hornets",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-red-hot-lakers-host-struggling-hornets/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
+    },
+    {
       "termino": "gta 6",
       "trafico": "100+",
-      "noticia": "GTA 6 Receives Several Nominations at The Game Awards, Including Game of the Year",
-      "enlace": "https://insider-gaming.com/gta-6-the-game-awards-nominations/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS356nwaI086AhFAKr9bIPVmUxDARgd2dkA18Ig5GDpJ8DWAvvq_bMM0YUWAE"
+      "noticia": "Grand Theft Auto VI defies entertainment economics",
+      "enlace": "https://www.axios.com/2026/11/17/grand-theft-auto-vi-gaming-recurring-revenue",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi6DQcEZBzv2h4Aadz8vU3l2zHlPFDSLBmadlCFOWgDG0rQ6YfTnxF7XdsBpM"
     },
     {
       "termino": "lidom hoy",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "méxico - jamaica",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "",
       "enlace": "",
       "imagen": ""
@@ -57,23 +64,16 @@
     {
       "termino": "spurs - pistons",
       "trafico": "500+",
-      "noticia": "‍‍‍~*!(~NBA-LIVE)Pistons vs Spurs Live Online",
-      "enlace": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=nba-live-pistons-vs-spurs-live-online-7pjib",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIBZ4GWdb1HXCaSX4GC_NFRnDpFA9KSyAfon_ei0Wzxa_1TwJytSqJefT6O0E"
+      "noticia": "Pistons snap Spurs  12-game winning streak behind Cade Cunningham",
+      "enlace": "https://www.cbssports.com/nba/news/pistons-snap-spurs-12-game-winning-streak-behind-cade-cunningham/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXWJKelyhiJ8Rs3N3Vc19rkvj74YtI8HYNcivWLPOxA_-pI0CsnK_Im5dZbk"
     },
     {
       "termino": "timberwolves - trail blazers",
       "trafico": "200+",
-      "noticia": "‍‍‍++(LIVESTREAM!)Trail Blazers vs Timberwolves NBA Live",
-      "enlace": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/ GetFoldersAndFiles=livestream-trail-blazers-vs-timberwolves-nba-5fgd4",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIBZ4GWdb1HXCaSX4GC_NFRnDpFA9KSyAfon_ei0Wzxa_1TwJytSqJefT6O0E"
-    },
-    {
-      "termino": "raptors - knicks",
-      "trafico": "1000+",
-      "noticia": "Jalen Brunson, Knicks rally past Raptors for 15th consecutive win",
-      "enlace": "https://www.cbssports.com/nba/news/jalen-brunson-knicks-rally-past-raptors-for-15th-consecutive-win/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXWJKelyhiJ8Rs3N3Vc19rkvj74YtI8HYNcivWLPOxA_-pI0CsnK_Im5dZbk"
+      "noticia": "Terrence Shannon Jr. eyes encore as Timberwolves host Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/terrence-shannon-jr-eyes-encore-as-timberwolves-host-trail-blazers/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Ap1INc7hTZupWD2BKkqXfpsxC7jYVkCV4Oyo_F77eLY3tt6Us72_KNctetM"
     }
   ]
 }
