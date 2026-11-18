@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T15:07:06.672165-04:00",
-  "hora": "15:07",
+  "updated": "2026-11-18T15:27:27.957699-04:00",
+  "hora": "15:27",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -48,18 +48,25 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0HIna5u-TQyAI2WPm40u9BI32mP3mg8hVyPh9yaWcKOuTg_IThxUEY5Co2BE"
     },
     {
+      "termino": "resultados lidom",
+      "trafico": "100+",
+      "noticia": "Estrellas superan a Águilas en reanudación de partido suspendido",
+      "enlace": "https://www.mlb.com/es/news/estrellas-superan-a-aguilas-en-reanudacion-de-partido-suspendido",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq8_p9jVmX09-GhXl8D3lS39Nynx5E_ewGBjYMHprb3lb46mt1Eag3kSwBBko"
+    },
+    {
       "termino": "twitch",
       "trafico": "2000+",
-      "noticia": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
-      "enlace": "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH-V7pFxiptDyWRw0kCaOg9EXzz1CYMT0AuRN6Dh4mQICGFZ0q5EJhhvahRTE"
+      "noticia": "Gamers react as New Zealand first to see Grand Theft Auto 6",
+      "enlace": "https://www.bbc.com/news/videos/cmg4652xzexvo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL3GTouMcDu9TH_NdXLXcfEA5lC2_ocdIsn0rk-7kPH77MAn1R9UOlsDDfoNg"
     },
     {
       "termino": "quentin grimes",
       "trafico": "2000+",
-      "noticia": "Charlotte Hornets vs. Los Angeles Lakers Live Score and Stats - November 17, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261117_CHA@LAL/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQep706SKbS5Y11Cua7-S_z4RxKXfIa4is9-Ud_ooX87ZUO_e2RWBNIq0BvRI"
+      "noticia": "Luka Doncic recognized Quentin Grimes was having a special night",
+      "enlace": "https://lakersnation.com/lakers-news-luka-doncic-was-calling-off-plays-to-get-ball-to-quentin-grimes/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTns3icgpHV-Nf5df6vK0rFKrci900DaAkiZqgzkYWRb3IFekNVqOTUkffW4_k"
     },
     {
       "termino": "kick",
@@ -67,13 +74,6 @@
       "noticia": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
       "enlace": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I"
-    },
-    {
-      "termino": "lidom hoy",
-      "trafico": "200+",
-      "noticia": "Tres partidos este martes en Lidom: Escogido busca ampliar su ventaja y Estrellas extender su racha",
-      "enlace": "https://acento.com.do/deportes/tres-partidos-este-martes-en-lidom-escogido-busca-ampliar-su-ventaja-y-estrellas-extender-su-racha-9791767.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0nvTvlqcTFuzTK9N_UCKbVlIzG5QD9LxA9k8nHxb_3eJ_XgKNPIXPEKoMWU"
     }
   ]
 }
