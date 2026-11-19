@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-19T08:04:00.780388-04:00",
-  "hora": "08:04",
+  "updated": "2026-11-19T08:24:19.974555-04:00",
+  "hora": "08:24",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "béisbol",
+      "trafico": "200+",
+      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
+      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+    },
     {
       "termino": "águilas cibaeñas",
       "trafico": "200+",
@@ -29,16 +36,9 @@
     {
       "termino": "rusia",
       "trafico": "100+",
-      "noticia": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
-      "enlace": "https://www.bbc.com/mundo/articles/cwlymkv5n9vvo",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdApgFoR2gWS7fYa1BNcq9nQDyCnLGO8jqBxLJAyWrAXp8LHiltjsJA63fn8"
-    },
-    {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
-      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+      "noticia": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
+      "enlace": "https://www.bbc.com/mundo/articles/c6y498pd1q54o",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwJxqt3s1pnbF536EuaNTWY-m2s-WwLtPlbtO_8Fa4hoGlNfx8cXnMd6w-3HU"
     },
     {
       "termino": "presupuesto",
@@ -50,9 +50,9 @@
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "Northwest Notes: Wolves, Avdija, Lillard, Thunder, Clifford",
-      "enlace": "https://www.hoopsrumors.com/2026/11/northwest-notes-wolves-avdija-lillard-thunder-clifford.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcHpzQjiqqmOlR4__y3zdBHMG4_DiXWqT-m89Q7MeYWKRTDMm4YkcorcqkSQc"
+      "noticia": "Nikola Jokic News: Nets 24 points with full line in win",
+      "enlace": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-nets-24-points-with-full-line-in-win-539892",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pKHbEVQGfDsAK7nVll7n3LPaAq_lfyvD6nmGuB4Wj8cLTqqT4smUjXYijbI"
     },
     {
       "termino": "anfernee simons",
