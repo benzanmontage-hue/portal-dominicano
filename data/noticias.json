@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-19T14:13:51.968101-04:00",
-  "hora": "14:13",
+  "updated": "2026-11-19T14:34:14.006058-04:00",
+  "hora": "14:34",
   "fecha": "19/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Despliegan operativo contra el narcotráfico y lavado de activos en varias zonas del país - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2NIRDVCN3FWZzNVUWlwT0IyQkNuVnRDUzJCcWtyaGlyRjRSLXNGbVdkeWNSTmlxYnkwOF9wM05qdEU2OVJKLXBXU0N1US1iUVNiZnYtSFpodTZSNmRvbUtLT1prOWVOcFpqQlBzM2w1Ni0zUlVsZGY0Ry14Y0NuNnUxYnYybG5sLVJqdlJzbEdkZmVELUxHU1dnbm1xM2R3MC14aktKWWFSRHBXY1NCQm1iNnBXa2RQYVlGZGpCa0dRTG5mSnRWcWh4Sk5lYUnSAdQBQVVfeXFMUEs2NGFJWFd2X1BITlFYV2FHUUdpc2x4SHBpSF92YnNUNnJOdUNWTzRvSXpyaFlhY1gtOTRxYXVBYnBUVmhpRmltR3UzT0ZBSXlMZ2JuSDBsRVl0clFuTGl1bHFDNUZCNmRCcXRrS251Z3ZYSUhNVUJjYUh3YWhrY2hLTEpmeUs4amstWFJ5SS1xWXBjaWRjS2oxUjI0cVVtUmEzNGxpM2Q3ei1UdXBRbTg5WnNobG9NVTlXcTRsTlpOSDFFc0tpRlVibXFMbFJ4aVpKU3A?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 14:24:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "El proyecto del primer taxi aéreo de RD espera luz verde y recursos económicos para despegar - Diario Libre",
       "fuente": "Diario Libre",
@@ -11,14 +19,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 20:04:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2025/01/30/taxi-aereo-en-rd-innovador-proyecto-de-la-cntu-focus-0.09-0.32-1200-675_wam.jpg"
-    },
-    {
-      "titulo": "República Dominicana cae al noveno puesto del ranking mundial de béisbol masculino - CDN Deportes",
-      "fuente": "CDN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZW9jdi1WQ0lNV053eE9TcHY5VTJ3cWg3dnZJUkFkRGJoNF82akM2Y0pGZHZIa2VrWENQd045VnJ6cEh0eEkzaERvWGVPZk1pOHdQRVFhNjIwREVOX0dWLVkyRVhQVVg3SWF1c0RGWUpQTU04ZWdUWGRkbk93VTd6RUc4bUlOaXlWNnNYZjNETGQ5RnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 19:12:36 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Ministro de Medio Ambiente presenta proyectos para proteger los ecosistemas costeros en la COP31 - Presidencia de la República Dominicana",
@@ -53,6 +53,14 @@
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Dominicanos1.jpeg?resize=1170%2C884&quality=100&ssl=1"
     },
     {
+      "titulo": "República Dominicana cae al noveno puesto del ranking mundial de béisbol masculino - CDN Deportes",
+      "fuente": "CDN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZW9jdi1WQ0lNV053eE9TcHY5VTJ3cWg3dnZJUkFkRGJoNF82akM2Y0pGZHZIa2VrWENQd045VnJ6cEh0eEkzaERvWGVPZk1pOHdQRVFhNjIwREVOX0dWLVkyRVhQVVg3SWF1c0RGWUpQTU04ZWdUWGRkbk93VTd6RUc4bUlOaXlWNnNYZjNETGQ5RnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 19:12:36 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Industriales eléctricos: Demanda de energía en RD superaría los 5,000 megavatios en 2030 - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkxob2tDajBPU2w2Zkg1aURzMlNFOWxTOVZscmV3RXE0YXAyS2MtNUNJUWVsamg2UEY0Y3ZUVk9CS3BHdHEyblBKVWlnWmluc3Rwc3lBaWVjdXlUZEFkWGcxSEQ4WlIzWEZHNWZKOEo4SXc1dC1SS2tDQWdQNURCYVp0cTFuT0hPdEZkOTQ1THNSMDg0TzcwZUxDV2ZubVhZdC1wbzNCdlVETzVvWGRNWVhsQ0Fqa1BZVkdn0gHAAUFVX3lxTFBmNkUxQ3FmYjgtV2p6QjFJeXphN3pvTXhpNklwWWR0MTVpc05lNkxGa1piWWlwck83V0k5dUNnN3FNNTRZXzR6a0xJNmU1WVVKTjYyaWtDbmoxTWlYRVNrcTZrRld3NjBXN2ptM0JKM2tKb0psNzdzanNLMzVUcENHaDU4dXh2aEdLLS1zMEJGaUpYSUk0OXZXNUJodjdxME5Hck5mMzhmakN4VGl4NmJmeFlCM3RKUl9UeGgwWVhkNw?oc=5",
@@ -77,12 +85,12 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana incorporará su primer sistema de almacenamiento en baterías en noviembre - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGVvNEJhQlN1d0dnLVJxZkZrTlVvaUNrVzVSWWlpWk9HdWs3elo3RDBNeW55LXBBMFJ6Y2c0emxmSS1ULUNWM0hoVGtEUi1iZHBKOGo4a1FkenVOd1BXT1NJazhhTXlzUlB6SjY2TG5SOEdNV054Y3VCbUNyTEN2dlZBZWc0MFZ1NTFMa0xVRUxOY1dYNkNpY0FkZ1VEY0RKZEc0T096YnpXeFJORVpfWG9lWDhkcTNkVXprNzZiSjhtam50SG5YZGxpWjk0TFpUZk9r0gHTAUFVX3lxTE5wZW80QmFCU3V3R2ctUnFmRmtOVW9pQ2tXNVJZaWlaT0d1azd6WjdEME15bnktcEEwUnpjZzR6bGZJLVQtQ1YzSGhUa0RSLWJkcEo4ajhrUWR6dU53UFdPU0lrOGFNeXNSUHpKNjZMblI4R01XTnhjdUJtQ3JMQ3Z2VkFlZzQwVnU1MUxrTFVFTE5jV1g2Q2ljQWRnVURjREpkRzRPT3pield4Uk5FWl9Yb2VYOGRxM2RVems3NmJKOG1qbnRIblhkbGlaOTRMWlRmT2s?oc=5",
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 22:00:24 GMT",
-      "imagen": ""
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "titulo": "Francisco Cervelli asume como mánager de las Águilas Cibaeñas en República Dominicana - AlbertoNews",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDh3c1ZLWm9jaVcybGJoaXYweDVZQWUycXRkcmhUS05NSWR1bm5JRld4ODJ4Wmw0TERfQjR4Q09DbkxRS0dlV1VQS0Y3TThTLXFZbWZ1c1JsSXNxTVR0ZTdwMUI5TkhBSkpTRTlReGVUdFQ0aUdvVk9qSkJhT2lzNjQxVzgxcGxoQXA4N1k3eVBYX0REdGd1OS1QcGVIcTNtR3pQT0k5YkM5YlBrOFRfOGtHTG1fZzVtOFcxWFNYOUFQU3NEbDVjYWZn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 14:38:01 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEd4VjNKUFBRN0ZUVmhISC1MWkNqSFQyRVhEUW9aNUZKYVR3MW5qcGlmd044MlRFSHEwZU82VEQ5ZkVpTFlncTNFbUpFbThKNXlfbTZlQl9IMnVscy1YeTB0VmZWRW9hT0JqcV9yamd3dVJzY2tzWERnYzZ3T3pDclR5OF95RmJLbHpDQk9JOXVZdUJPV29KNC1ZZ0xnSmVzVGhTNlRXTjl6X3ZtU3dIY1RCelFJdjQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 18:56:00 GMT",
       "imagen": ""
     }
   ]
