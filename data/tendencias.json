@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-18T22:58:48.608725-04:00",
-  "hora": "22:58",
+  "updated": "2026-11-18T23:19:12.471023-04:00",
+  "hora": "23:19",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lakers - jazz",
+      "trafico": "200+",
+      "noticia": "Lakers seek 10th straight win as Jazz visit",
+      "enlace": "https://www.cbssports.com/nba/news/lakers-seek-10th-straight-win-as-jazz-visit/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+    },
+    {
+      "termino": "pelota invernal de hoy",
+      "trafico": "500+",
+      "noticia": "Vladdy Jr. sueña con jugar en LIDOM, pero necesita el permiso de los Azulejos",
+      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-quiere-jugar-en-la-pelota-invernal-dominicana",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWn6oJY_cDqZD720VyrEKuD03sINvUIIDbMLQC3RXpjItw-5nDiTjP4fGYSyA"
+    },
+    {
       "termino": "heat - bucks",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Giannis Antetokounmpo set to face Bucks for first time with Heat",
       "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-set-to-face-bucks-for-first-time-with-heat/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
@@ -22,9 +36,9 @@
     {
       "termino": "pacers - rockets",
       "trafico": "200+",
-      "noticia": "Rockets look to bounce back against depleted Pacers",
-      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-bounce-back-against-depleted-pacers/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+      "noticia": "Kevin Durant, Reed Sheppard lead Rockets past Pacers 119-104",
+      "enlace": "https://www.cbssports.com/nba/news/kevin-durant-reed-sheppard-lead-rockets-past-pacers-119-104/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
     },
     {
       "termino": "mavericks - warriors",
@@ -57,23 +71,9 @@
     {
       "termino": "salario",
       "trafico": "1000+",
-      "noticia": "Salario de las mujeres en Latinoamérica es 22,8 % menor que el de los hombres, según Cepal",
-      "enlace": "https://acento.com.do/actualidad/salario-de-las-mujeres-en-latinoamerica-es-228-menor-que-el-de-los-hombres-segun-cepal-9792493.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-LsGA1MFMmrTbTrWqhCR6E-XL64DKxnLRZd6iotGQjecjXv7u-s53jtUx93Q"
-    },
-    {
-      "termino": "xbox",
-      "trafico": "200+",
-      "noticia": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-      "enlace": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmKm3_DuoRdLIj-n08VTdrtbbdHT7Zddidf_soIeK6ZipViaE1KXiet62zwU"
-    },
-    {
-      "termino": "factura electrónica",
-      "trafico": "200+",
-      "noticia": "Germania Montás: Factura electrónica no garantiza reducir la evasión fiscal",
-      "enlace": "https://elnacional.com.do/economia/germania-montas-factura-electronica-garantiza-reducir-evasion-fiscal_586557.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgvNTWs5qovBoHg9rYT3XUz9Wo0II0h1yUk3ZJu5qNg36RmRFEbEItJpbM8K0"
+      "noticia": "Manfred: Dueños no aprobarían un acuerdo sin tope y mínimo salarial",
+      "enlace": "https://www.mlb.com/es/news/el-comisionado-rob-manfred-habla-sobre-las-propuestas-de-tope-y-minimo-salarial",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv7Gb0v-eoPbxbmVwcv-WPc0-MZRWBPQd3-If3WGtG05qhO-Fj3zugXVHYxfo"
     }
   ]
 }
