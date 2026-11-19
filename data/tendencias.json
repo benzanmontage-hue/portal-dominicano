@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-18T21:35:50.191995-04:00",
-  "hora": "21:35",
+  "updated": "2026-11-18T21:56:09.618427-04:00",
+  "hora": "21:56",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "heat - bucks",
+      "trafico": "100+",
+      "noticia": "Giannis Antetokounmpo set to face Bucks for first time with Heat",
+      "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-set-to-face-bucks-for-first-time-with-heat/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
+    {
+      "termino": "nacional noche de hoy",
+      "trafico": "200+",
+      "noticia": "Números ganadores de las loterías del martes 18/11/2026: ¿La pegaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-martes-18-11-2026-pegaste_1109086.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+    },
     {
       "termino": "pacers - rockets",
       "trafico": "100+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "mavericks - warriors",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Mavericks, Warriors look to bounce back in Dallas",
       "enlace": "https://www.cbssports.com/nba/news/mavericks-warriors-look-to-bounce-back-in-dallas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
@@ -35,7 +49,7 @@
     },
     {
       "termino": "deutsche bank",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Deutsche Bank Leak Reveals $582 Million In Epstein Payments, Accidental Trump Tax Disclosure",
       "enlace": "https://www.forbes.com/sites/siladityaray/2026/11/17/deutsche-bank-leak-reveals-582-million-in-suspicious-epstein-payments/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w4BHW9j6VciGpuZrXEFnYVwlWr84p-ZfqVdLv-MuPyenixSsBR1wy7H7L_E"
@@ -60,20 +74,6 @@
       "noticia": "DGII anuncia nuevo plazo de facturación electrónica para micro y pequeños contribuyentes",
       "enlace": "https://listindiario.com/la-republica/20261117/dgii-anuncia-nuevo-plazo-facturacion-electronica-micro-pequenos-contribuyentes_930430.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnQuq8Yc7ckYnMoNQcr1ADlWhg5NtXLAXayzVVBYaEfIAQD-ldmhhoXplDWWg"
-    },
-    {
-      "termino": "playstation",
-      "trafico": "1000+",
-      "noticia": "PlayStation suffers major outage hours before  GTA VI  launch",
-      "enlace": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJp59FT1FR4NKrMPCKT2lgCdp9d0dB7wiVEZaYwOU0SfMTyMj6U-hqRbP7QFE"
-    },
-    {
-      "termino": "playstation store",
-      "trafico": "500+",
-      "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
-      "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
     }
   ]
 }
