@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T11:29:11.925056-04:00",
-  "hora": "11:29",
+  "updated": "2026-11-19T11:49:35.553705-04:00",
+  "hora": "11:49",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,8 +13,15 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRif37T1Z6xCKHyHCFdYoEpocGZiLW04MMzbKRoXc3ly0zQks9u_DpJJ_4xMJM"
     },
     {
+      "termino": "ana boyer preysler",
+      "trafico": "100+",
+      "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
+      "enlace": "https://www.hola.com/actualidad/20261118935477/ana-boyer-hace-balance-anyo-grandes-cambios-fernando-hemos-cambiado-mucho-como-pareja/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8fkM-JT0Nr9dc2eRJc8Anzk2ZVuYSTymLGL0eC2xqqN8_Y1gWUOQgf2Q-YTw"
+    },
+    {
       "termino": "tigres del licey",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Vladdy Jr. sueña con jugar en LIDOM, pero necesita el permiso de los Azulejos",
       "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-quiere-jugar-en-la-pelota-invernal-dominicana",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWn6oJY_cDqZD720VyrEKuD03sINvUIIDbMLQC3RXpjItw-5nDiTjP4fGYSyA"
@@ -22,9 +29,9 @@
     {
       "termino": "epicentro",
       "trafico": "500+",
-      "noticia": "Terremoto en Japón hoy 18 de noviembre: epicentro y magnitud del fuerte temblor en el sur del país",
-      "enlace": "https://www.minuto60.com/mundo/teremoto-japon-hoy-18-noviembre-epicentro-magnitud-sismo/19158",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQ_eDXNGD-jrtOMN9U2XvrJZEAUd-c3f4dUgZLNdMqbUS4t2JYV0NxMYxJFk"
+      "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
+      "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
     },
     {
       "termino": "factura electrónica",
@@ -67,13 +74,6 @@
       "noticia": "NBA: Atlanta Hawks at Oklahoma City Thunder",
       "enlace": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjkxMDg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOTUiFE0UNap2kV8zHyFVT6rVlMEkZN83l_exyqLzQ8a0aLjelzXM-ZIz3HC0"
-    },
-    {
-      "termino": "licey",
-      "trafico": "100+",
-      "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
     }
   ]
 }
