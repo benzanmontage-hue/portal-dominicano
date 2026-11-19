@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-19T08:24:19.974555-04:00",
-  "hora": "08:24",
+  "updated": "2026-11-19T08:25:24.593623-04:00",
+  "hora": "08:25",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "béisbol",
-      "trafico": "200+",
-      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
-      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
-    },
     {
       "termino": "águilas cibaeñas",
       "trafico": "200+",
@@ -41,6 +34,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwJxqt3s1pnbF536EuaNTWY-m2s-WwLtPlbtO_8Fa4hoGlNfx8cXnMd6w-3HU"
     },
     {
+      "termino": "resultados lidom",
+      "trafico": "100+",
+      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
+      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+    },
+    {
       "termino": "presupuesto",
       "trafico": "100+",
       "noticia": "Déficit fiscal dominicano supera al de la mayoría de los países de Centroamérica, se acerca a México",
@@ -50,9 +50,9 @@
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "Nikola Jokic News: Nets 24 points with full line in win",
-      "enlace": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-nets-24-points-with-full-line-in-win-539892",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pKHbEVQGfDsAK7nVll7n3LPaAq_lfyvD6nmGuB4Wj8cLTqqT4smUjXYijbI"
+      "noticia": "NBA: Boston Celtics at Denver Nuggets",
+      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
     },
     {
       "termino": "anfernee simons",
