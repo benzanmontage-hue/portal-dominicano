@@ -1,51 +1,65 @@
 {
-  "updated": "2026-11-19T00:40:43.737292-04:00",
-  "hora": "00:40",
+  "updated": "2026-11-19T07:01:47.640133-04:00",
+  "hora": "07:01",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "tigres del licey",
+      "trafico": "200+",
+      "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
+    },
+    {
+      "termino": "epicentro",
+      "trafico": "200+",
+      "noticia": "Fuerte temblor hoy 19 de noviembre en Filipinas: magnitud y epicentro del sismo",
+      "enlace": "https://www.minuto60.com/mundo/terremoto-hoy-19-noviembre-filipinas-magnitud-epicentro/19172",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFSBJV4Hx-SCeXPCaylAkXZ-0IEvfdRTNm-G5cIAwzMxp7Y-_b6BPwNP3jzNA"
+    },
+    {
+      "termino": "factura electrónica",
+      "trafico": "200+",
+      "noticia": "Diputado pide plazos por segmentos para que micro y pequeños negocios adopten facturación electrónica",
+      "enlace": "https://elnuevodiario.com.do/diputado-pide-plazos-por-segmentos-para-que-micro-y-pequenos-negocios-adopten-facturacion-electronica/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblo41WY7ic3y4Jy2sqx12-oCNKd19kdAJiUhNGu-NI2uDkikzRq_e0ba5o_o"
+    },
+    {
+      "termino": "resultados lidom",
+      "trafico": "200+",
+      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
+      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+    },
+    {
       "termino": "nuggets - celtics",
-      "trafico": "100+",
-      "noticia": "Celtics, Nuggets look to bounce back in Denver clash",
-      "enlace": "https://www.cbssports.com/nba/news/celtics-nuggets-look-to-bounce-back-in-denver-clash/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+      "trafico": "200+",
+      "noticia": "NBA: Boston Celtics at Denver Nuggets",
+      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
     },
     {
       "termino": "anfernee simons",
       "trafico": "200+",
-      "noticia": "76ers  Anfernee Simons: Starting versus Magic",
-      "enlace": "https://www.cbssports.com/fantasy/basketball/news/76ers-anfernee-simons-starting-versus-magic/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+      "noticia": "76ers Start Anfernee Simons Against Magic After Embiid Challenge",
+      "enlace": "https://bsinews.id/en/76ers-start-simons-against-magic",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW6j8r9DwvozDLKmTwBHyagFN5tzVuSNVRGb95cQpttbYqFqVgM2SpKKAXsLM"
     },
     {
       "termino": "thunder - hawks",
       "trafico": "100+",
-      "noticia": "Onyeka Okongwu scores 28 as Hawks hold off Thunder 117-112",
-      "enlace": "https://www.cbssports.com/nba/news/onyeka-okongwu-scores-28-as-hawks-hold-off-thunder-117-112/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW2WAQ1vjXu6VO7T6LhlJLgUxv0LTTi8mf-1Qs5eVE6pxyW8DMgTFAUUNuASo"
-    },
-    {
-      "termino": "licey",
-      "trafico": "100+",
-      "noticia": "Jonrón de Ángel Ortiz en el noveno da dramática victoria 5-4 al Licey sobre las Águilas",
-      "enlace": "https://acento.com.do/deportes/jonron-de-angel-ortiz-en-el-noveno-da-dramatica-victoria-5-4-al-licey-sobre-las-aguilas-9792815.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzycQNBLIZ4qvvdY8oV2T7R3PLTRWuF-qLGP7x_N8HJ4KvT_b-IDlifwvDOuI"
+      "noticia": "NBA: Atlanta Hawks at Oklahoma City Thunder",
+      "enlace": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjkxMDg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOTUiFE0UNap2kV8zHyFVT6rVlMEkZN83l_exyqLzQ8a0aLjelzXM-ZIz3HC0"
     },
     {
       "termino": "lakers - jazz",
-      "trafico": "500+",
-      "noticia": "Lakers seek 10th straight win as Jazz visit",
-      "enlace": "https://www.cbssports.com/nba/news/lakers-seek-10th-straight-win-as-jazz-visit/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
-    },
-    {
-      "termino": "pelota invernal de hoy",
-      "trafico": "500+",
-      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
-      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+      "trafico": "1000+",
+      "noticia": "Keyonte George, Jazz stun Lakers to snap nine-game streak",
+      "enlace": "https://www.cbssports.com/nba/news/keyonte-george-jazz-stun-lakers-to-snap-nine-game-streak/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ6IL8wXMNMfAiTb1WBnLo21q3Nyi1ENOfC8rhQ6x9gMb0oVBJnlAizFb7sOU"
     },
     {
       "termino": "heat - bucks",
@@ -60,20 +74,6 @@
       "noticia": "Números ganadores de las loterías del martes 18/11/2026: ¿La pegaste?",
       "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-martes-18-11-2026-pegaste_1109086.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
-    },
-    {
-      "termino": "pacers - rockets",
-      "trafico": "200+",
-      "noticia": "Rockets center Alperen Şengün leaves game vs. Pacers with eye injury",
-      "enlace": "https://www.houstonchronicle.com/sports/rockets/article/alperen-sengun-eye-injury-indiana-22538597.php",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUs8RIMisaLsnj58YSPpnDrJ-leJH19NGRUnZnpuW0lLiEoSwF2GdobuWwvI"
-    },
-    {
-      "termino": "mavericks - warriors",
-      "trafico": "2000+",
-      "noticia": "Will Richard explodes for 20 points, gets 4 steals",
-      "enlace": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-18/will-richard-explodes-for-20-points-gets-4-steals",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9pAcKJWBfHhN7CxgRt2LXE-frV5frUlir0acoq4qT1zyrKXqVZZKMJMC7Ekc"
     }
   ]
 }
