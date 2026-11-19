@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T20:14:19.069411-04:00",
-  "hora": "20:14",
+  "updated": "2026-11-18T20:34:41.871749-04:00",
+  "hora": "20:34",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "magic - 76ers",
+      "trafico": "200+",
+      "noticia": "76ers visit surging Magic in battle of winning streaks",
+      "enlace": "https://www.cbssports.com/nba/news/76ers-visit-surging-magic-in-battle-of-winning-streaks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+    },
     {
       "termino": "primera noche",
       "trafico": "500+",
@@ -22,9 +29,9 @@
     {
       "termino": "salario",
       "trafico": "1000+",
-      "noticia": "Salario de las mujeres en Latinoamérica es 22,8 % menor que el de los hombres, según Cepal",
-      "enlace": "https://acento.com.do/actualidad/salario-de-las-mujeres-en-latinoamerica-es-228-menor-que-el-de-los-hombres-segun-cepal-9792493.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-LsGA1MFMmrTbTrWqhCR6E-XL64DKxnLRZd6iotGQjecjXv7u-s53jtUx93Q"
+      "noticia": "Cinco errores que pueden agotar el salario número 13 antes de enero",
+      "enlace": "https://cdn.com.do/economicas/cinco-errores-que-agotan-el-doble-sueldo-antes-de-enero/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwGC0ZJXhNoR9UYfu01sEh44Dve1d96ZNrfj3Ywc56qnaWU897C99O6EZ6zhU"
     },
     {
       "termino": "xbox",
@@ -57,9 +64,9 @@
     {
       "termino": "acusación",
       "trafico": "200+",
-      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
-      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
+      "noticia": "La decisión de Rabat de adelantar la votación de la acusación constitucional",
+      "enlace": "https://www.ex-ante.cl/politica/rabat-adelantar-votacion-acusacion/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgdFZfV_ZoN2lqn6qgl0XXUYXz6e-tRHFwJPU2c_M3oOBajoBCFqW1QPBMOXk"
     },
     {
       "termino": "policía nacional de haití",
@@ -67,13 +74,6 @@
       "noticia": "Policía haitiana identifica 18,000 transacciones financieras sospechosas vinculadas a pandillas",
       "enlace": "https://listindiario.com/las-mundiales/haiti/20261118/servicio-inteligencia-policia-nacional-haiti-identifica-mas-18-000-transacciones-financieras-sospechosas-traves-natcash-moncash-72-horas_930591.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0HIna5u-TQyAI2WPm40u9BI32mP3mg8hVyPh9yaWcKOuTg_IThxUEY5Co2BE"
-    },
-    {
-      "termino": "quentin grimes",
-      "trafico": "2000+",
-      "noticia": "Quentin Grimes becomes 2nd in Lakers history to hit 10 or more 3s in single game",
-      "enlace": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnbQEe_mQcVwSD9bVYWDGbz313bXrOz9PCF4jIK0Xvk8DMWd3GyrkYlt45fn4"
     }
   ]
 }
