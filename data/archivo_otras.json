@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T22:38:32-04:00",
+ "actualizado": "2026-11-18T22:58:56-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -108,6 +108,14 @@
    }
   ],
   "Americanas|Florida Noche": [
+   {
+    "fecha": "2026-11-18",
+    "numeros": [
+     "86",
+     "66",
+     "69"
+    ]
+   },
    {
     "fecha": "2026-11-17",
     "numeros": [
@@ -1666,6 +1674,14 @@
   ],
   "Florida|Pick 2 Noche": [
    {
+    "fecha": "2026-11-18",
+    "numeros": [
+     "5",
+     "2",
+     "0"
+    ]
+   },
+   {
     "fecha": "2026-11-17",
     "numeros": [
      "6",
@@ -1890,6 +1906,15 @@
    }
   ],
   "Florida|Pick 3 Noche": [
+   {
+    "fecha": "2026-11-18",
+    "numeros": [
+     "0",
+     "8",
+     "6",
+     "0"
+    ]
+   },
    {
     "fecha": "2026-11-17",
     "numeros": [
@@ -2141,6 +2166,16 @@
    }
   ],
   "Florida|Pick 4 Noche": [
+   {
+    "fecha": "2026-11-18",
+    "numeros": [
+     "6",
+     "6",
+     "6",
+     "9",
+     "0"
+    ]
+   },
    {
     "fecha": "2026-11-17",
     "numeros": [
@@ -2418,6 +2453,17 @@
    }
   ],
   "Florida|Pick 5 Noche": [
+   {
+    "fecha": "2026-11-18",
+    "numeros": [
+     "7",
+     "2",
+     "1",
+     "4",
+     "8",
+     "0"
+    ]
+   },
    {
     "fecha": "2026-11-17",
     "numeros": [
