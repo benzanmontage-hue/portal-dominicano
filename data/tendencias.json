@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T20:34:41.871749-04:00",
-  "hora": "20:34",
+  "updated": "2026-11-18T20:55:00.465988-04:00",
+  "hora": "20:55",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "mavericks - warriors",
+      "trafico": "200+",
+      "noticia": "Mavericks, Warriors look to bounce back in Dallas",
+      "enlace": "https://www.cbssports.com/nba/news/mavericks-warriors-look-to-bounce-back-in-dallas/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
     {
       "termino": "magic - 76ers",
       "trafico": "200+",
@@ -50,9 +57,9 @@
     {
       "termino": "playstation",
       "trafico": "1000+",
-      "noticia": "Sony Issues Official PS5 Firmware Update Warning, Confirms GTA 6 Requirement",
-      "enlace": "https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLmcGjr6GDUSrZYTXsD5JG2nk5Xw-5upaN3yC9JiWChJ8gBGUOx0mQYSQNWJk"
+      "noticia": "PlayStation suffers major outage hours before  GTA VI  launch",
+      "enlace": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJp59FT1FR4NKrMPCKT2lgCdp9d0dB7wiVEZaYwOU0SfMTyMj6U-hqRbP7QFE"
     },
     {
       "termino": "playstation store",
@@ -64,16 +71,9 @@
     {
       "termino": "acusación",
       "trafico": "200+",
-      "noticia": "La decisión de Rabat de adelantar la votación de la acusación constitucional",
-      "enlace": "https://www.ex-ante.cl/politica/rabat-adelantar-votacion-acusacion/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgdFZfV_ZoN2lqn6qgl0XXUYXz6e-tRHFwJPU2c_M3oOBajoBCFqW1QPBMOXk"
-    },
-    {
-      "termino": "policía nacional de haití",
-      "trafico": "2000+",
-      "noticia": "Policía haitiana identifica 18,000 transacciones financieras sospechosas vinculadas a pandillas",
-      "enlace": "https://listindiario.com/las-mundiales/haiti/20261118/servicio-inteligencia-policia-nacional-haiti-identifica-mas-18-000-transacciones-financieras-sospechosas-traves-natcash-moncash-72-horas_930591.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0HIna5u-TQyAI2WPm40u9BI32mP3mg8hVyPh9yaWcKOuTg_IThxUEY5Co2BE"
+      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
+      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
     }
   ]
 }
