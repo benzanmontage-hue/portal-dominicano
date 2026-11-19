@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-19T17:37:40.586129-04:00",
-  "hora": "17:37",
+  "updated": "2026-11-19T17:58:00.044762-04:00",
+  "hora": "17:58",
   "fecha": "19/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
     {
       "titulo": "República Dominicana se une a Miami Heat para llevar su encanto caribeño a la temporada 2026-2027 - Infobae",
       "fuente": "Infobae",
@@ -34,6 +42,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVkyRGJxY3daNFFheTBRZVY0aFVPZEV0c3ZXNTgzT3VkRDEwUk82dDZCbThESDc0V2ZPcVFkbWtjRkQzRExBZDhYTU1fYXNjRGZ4UXBsUFVfbU1hT282NWVGYVd4QlNRUEZhdWJxeXpmTDlfbWFkTDVCREVKWmRxNXc1RUptLUllVGtjZWRNcDN6b1pjblE0alhYbEk5SFU0dERkakFuYV9jWFFoM3RRZzZQM045c3lTOWI0?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 14:45:04 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana ingresa al grupo de países con desarrollo de gobierno electrónico muy alto de la ONU - Ministerio de Administración Pública",
+      "fuente": "Ministerio de Administración Pública",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdGJ0R1BzQ0pNTkFOQWFsb0xrZnF3eFcwS0RQaE9pTWdPZmI4OWItWGpId29FeGlRaWI4MDA0TG81RjVDWnFwVjBkcG9SalhHRGZTb21BVnNWSGt4dzdwQjhoWVduVFdxdkZvdU05Q1VhREN6M2REUlRQRlR6dEh0bXNIS0JITjVsdzdGcjVQZk0tOTUtZnpycThGeXhLa0hDRXdEN0xhRG9sQ1puRjI0RzBKVlIwbm1VSndMMFJmZU5RUmNVSnpHTDd3RWNaVGIwREE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 21:44:45 GMT",
       "imagen": ""
     },
     {
@@ -107,22 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 14:41:00 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Detuvieron a dos militares involucrados en una red de narcotráfico en República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ0VFUGpDMElENWNCdVZVNEJUSDdYTS0xMm1GTENndEk1WnV5c2h5RFhwUXR3Z3hTRGRFMlBKc2R1Z0Z0Nl9hc3lCVFIxd3gyRVNtbEpiRzNmY2locXFhSk9vdVpXclRsU2ZmYXAzWUtWNTZ5ekZWbEtHWGxUSFF4cG9Jdll6QS1KQThnMEgxd1JMXzg3UWNWRDZlOG5sTTNPVS1wUW5WNlVwM2QyWmZoRzhCMGc2aUIxWGVtekhVMUdYTHcwOG9IcVoyU3pISy1VUEVSSTNZV1lMQk13U0pfVNIB-wFBVV95cUxNbFRSbDVlMGZ0dWhiVUpLUTNIOVpvbE4tVC1XNlZYTDF5VlpFRnJHaW55enlILXdWanRlQm1OWl9GU2JrU1BjaXJlQldpeVJkWlZrSjRIWk1Ya1lveVNZc09HTVpzV3JBX29tOWlaMWlsaXVPWjQ1N3RWbE9UVUc5Mms0Qjd1Q3pMekY2SFllRld3REROT2d1SndibHpPNW5QMy1BZnU2WVNWZHc4by1TWEJVOFpwanZ3UUJ2VFZ0Z2xzOG04NVZkZlZUa3Azdm1JYWVtbVpqU0FPcGV2Wm05SDVSZHdKWlJlMGl3ZlNUVUF4R3ZFQXlSV0duWQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 13:22:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/AHOOHXCIB5G3NDVFWPG55C2UNE.jpg?auth=6f72447f2d6ec2c3960e0d4d74d0241444c2c627c49fc2b9df1e955fa1b5fdb6&smart=true&width=1200&height=630&quality=85"
     }
   ]
 }
