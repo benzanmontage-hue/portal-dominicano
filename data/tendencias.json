@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T20:55:00.465988-04:00",
-  "hora": "20:55",
+  "updated": "2026-11-18T21:15:22.218451-04:00",
+  "hora": "21:15",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pacers - rockets",
+      "trafico": "100+",
+      "noticia": "Rockets look to bounce back against depleted Pacers",
+      "enlace": "https://www.cbssports.com/nba/news/rockets-look-to-bounce-back-against-depleted-pacers/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
     {
       "termino": "mavericks - warriors",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "magic - 76ers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "76ers visit surging Magic in battle of winning streaks",
       "enlace": "https://www.cbssports.com/nba/news/76ers-visit-surging-magic-in-battle-of-winning-streaks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
@@ -36,9 +43,9 @@
     {
       "termino": "salario",
       "trafico": "1000+",
-      "noticia": "Cinco errores que pueden agotar el salario número 13 antes de enero",
-      "enlace": "https://cdn.com.do/economicas/cinco-errores-que-agotan-el-doble-sueldo-antes-de-enero/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwGC0ZJXhNoR9UYfu01sEh44Dve1d96ZNrfj3Ywc56qnaWU897C99O6EZ6zhU"
+      "noticia": "Salario de las mujeres en Latinoamérica es 22,8 % menor que el de los hombres, según Cepal",
+      "enlace": "https://acento.com.do/actualidad/salario-de-las-mujeres-en-latinoamerica-es-228-menor-que-el-de-los-hombres-segun-cepal-9792493.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-LsGA1MFMmrTbTrWqhCR6E-XL64DKxnLRZd6iotGQjecjXv7u-s53jtUx93Q"
     },
     {
       "termino": "xbox",
@@ -67,13 +74,6 @@
       "noticia": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
       "enlace": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WoA_28Mi7DzwzYgTD3KIfIcvGJqmSYZlwxWz9heAI8vcJW0U60FkLDR0ob0"
-    },
-    {
-      "termino": "acusación",
-      "trafico": "200+",
-      "noticia": "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles adelanta que 12 PDG apoyarían el libelo",
-      "enlace": "https://www.latercera.com/politica/noticia/voy-a-votar-afirmativamente-la-acusacion-contra-rabat-jiles-adelanta-que-12-pdg-apoyarian-el-libelo/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtDLLqbke4PMp6fq7pI7QTNbZlEbOaVKZqYm17g8FWyMgerwi2rW7a3xMf860"
     }
   ]
 }
