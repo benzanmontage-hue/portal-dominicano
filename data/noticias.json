@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-19T13:11:20.735467-04:00",
-  "hora": "13:11",
+  "updated": "2026-11-19T13:31:43.430052-04:00",
+  "hora": "13:31",
   "fecha": "19/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "El proyecto del primer taxi aéreo de RD espera luz verde y recursos económicos para despegar - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnp3LVN6SHdHa2JMUndxUnR5UDNQRHZjc21WMEY3NTNqTDRNNnpDSHV1WDJFMU5zbnZCTjl2cmktSXhuS0hPODlyRUNpQlBsU3UzcVVxSHFvRVVKVWFQY1Zsc3Q3dEZKd3BxTy1mSHVJa2NvUFdVT3Z6ekNJUFJGNkxveEFIbkxUTGMwQ3VDSUI1NzRhNDVHVzZDbFNwVHN4WUw0bXRQWVR6UXhkQXM0ci1DOGszYmdDS0MyVWkwQVVfME3SAcgBQVVfeXFMT3p5S3pLeEhSX0I5cjd3dUJ4UXI4a3A0MUFEZFQ0Q2NLU1JsMldUS1NOSE9TWk1sTkV3RU9XWXpRYUZ6SV95WEtCdGpCLVBMLWZNU01WcXZSWXFYeFBqUHRZbUkyMW5MT1l4SVI2UXZsY0VDR1oxZDRHRUxnQVdyVzhUV3ItR0RTNjZKSzhxUkhxaEVEZ09DOXo4eHU3ZE1kQ1RXckdpVVZwOGdadzNLQnBEUFhYRDdKd2dHY0NqSks5b3h1Rk85dkw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 20:04:00 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "República Dominicana cae al noveno puesto del ranking mundial de béisbol masculino - CDN Deportes",
       "fuente": "CDN Deportes",
@@ -27,6 +19,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 04:05:00 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "titulo": "El proyecto del primer taxi aéreo de RD espera luz verde y recursos económicos para despegar - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnp3LVN6SHdHa2JMUndxUnR5UDNQRHZjc21WMEY3NTNqTDRNNnpDSHV1WDJFMU5zbnZCTjl2cmktSXhuS0hPODlyRUNpQlBsU3UzcVVxSHFvRVVKVWFQY1Zsc3Q3dEZKd3BxTy1mSHVJa2NvUFdVT3Z6ekNJUFJGNkxveEFIbkxUTGMwQ3VDSUI1NzRhNDVHVzZDbFNwVHN4WUw0bXRQWVR6UXhkQXM0ci1DOGszYmdDS0MyVWkwQVVfME3SAcgBQVVfeXFMT3p5S3pLeEhSX0I5cjd3dUJ4UXI4a3A0MUFEZFQ0Q2NLU1JsMldUS1NOSE9TWk1sTkV3RU9XWXpRYUZ6SV95WEtCdGpCLVBMLWZNU01WcXZSWXFYeFBqUHRZbUkyMW5MT1l4SVI2UXZsY0VDR1oxZDRHRUxnQVdyVzhUV3ItR0RTNjZKSzhxUkhxaEVEZ09DOXo4eHU3ZE1kQ1RXckdpVVZwOGdadzNLQnBEUFhYRDdKd2dHY0NqSks5b3h1Rk85dkw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 20:04:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, jueves 19 de noviembre de 2026 - Acento",
@@ -93,19 +93,19 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "titulo": "“Ya no soy la misma”: una madre dominicana busca reconstruir su vida y la de su hija tras el derrumbe en Brooklyn - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1dtOE9tVmZXZWJhNFZfSW8xbzR3dkU2X085eW05R3Rxa2NRN2tjbVNjcWlMak1tRnZoVEZkYkVKVXNqRUpPV0JVN1dkY0FJLVNlLXRMX2RFaXVXR25EZFFsU284MjRpNW1hTW1HcHVsVndIUU1ZMzF1NUZIR3REclpKMmN3OUR1RjBvc1BBT3JDYUltLUF4ZVRRVkNuOGxGQlVncG1uWmducUlQUE5lTzVOZTFPSlM5V3RjZWxMWGtRdk5fN3h0Z19VTlhleW5weWU5M0Fzay11Q0Y4X1E?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 14:46:14 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Francisco Cervelli asume como mánager de las Águilas Cibaeñas en República Dominicana - AlbertoNews",
       "fuente": "AlbertoNews",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVkyRGJxY3daNFFheTBRZVY0aFVPZEV0c3ZXNTgzT3VkRDEwUk82dDZCbThESDc0V2ZPcVFkbWtjRkQzRExBZDhYTU1fYXNjRGZ4UXBsUFVfbU1hT282NWVGYVd4QlNRUEZhdWJxeXpmTDlfbWFkTDVCREVKWmRxNXc1RUptLUllVGtjZWRNcDN6b1pjblE0alhYbEk5SFU0dERkakFuYV9jWFFoM3RRZzZQM045c3lTOWI0?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 14:39:52 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "América Latina y el Caribe debatirán oportunidades de la región en Diálogo de Gobiernos - HolaNews",
+      "fuente": "HolaNews",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0Nzc3ZQVndRMDY3UmdYZWJSRTlwTFo3RkNNcXVYV2hoR0YzbkJkcTZZUUV6WnRwcGNzUU0zZDdlMHloXzZobFF2aG5VMGk2M2RrX0xHNThUdEdQcEpSWklfR1FYR1E1RGFYSFNQWXJmVTB3a3UyUWstMnc2TGRSVWFCM1pERmY1LWdsalRaRmVmWDZ3VlZCRWpVZWx0QVRpZ0RxMDZCVWR0MDJDX3c?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 17:02:40 GMT",
       "imagen": ""
     },
     {
@@ -117,11 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "América Latina y el Caribe debatirán oportunidades de la región en Diálogo de Gobiernos - HolaNews",
-      "fuente": "HolaNews",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0Nzc3ZQVndRMDY3UmdYZWJSRTlwTFo3RkNNcXVYV2hoR0YzbkJkcTZZUUV6WnRwcGNzUU0zZDdlMHloXzZobFF2aG5VMGk2M2RrX0xHNThUdEdQcEpSWklfR1FYR1E1RGFYSFNQWXJmVTB3a3UyUWstMnc2TGRSVWFCM1pERmY1LWdsalRaRmVmWDZ3VlZCRWpVZWx0QVRpZ0RxMDZCVWR0MDJDX3c?oc=5",
+      "titulo": "¿Puede República Dominicana medir lo que su valla fronteriza con Haití mantiene fuera? - LatinAmerican Post",
+      "fuente": "LatinAmerican Post",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDh3c1ZLWm9jaVcybGJoaXYweDVZQWUycXRkcmhUS05NSWR1bm5JRld4ODJ4Wmw0TERfQjR4Q09DbkxRS0dlV1VQS0Y3TThTLXFZbWZ1c1JsSXNxTVR0ZTdwMUI5TkhBSkpTRTlReGVUdFQ0aUdvVk9qSkJhT2lzNjQxVzgxcGxoQXA4N1k3eVBYX0REdGd1OS1QcGVIcTNtR3pQT0k5YkM5YlBrOFRfOGtHTG1fZzVtOFcxWFNYOUFQU3NEbDVjYWZn?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 17:02:40 GMT",
+      "fecha": "Thu, 19 Nov 2026 14:38:01 GMT",
       "imagen": ""
     }
   ]

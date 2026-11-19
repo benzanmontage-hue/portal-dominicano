@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-19T13:11:13.604150-04:00",
-  "hora": "13:11",
+  "updated": "2026-11-19T13:31:41.559608-04:00",
+  "hora": "13:31",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "melissa medina de que murio",
+      "trafico": "100+",
+      "noticia": "Influencers dominicanos que murieron  antes de tiempo",
+      "enlace": "https://listindiario.com/entretenimiento/redes-sociales/20261119/influencers-dominicanos-murieron_930688.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOmWylw_0yu8HaBUwEZMZ7Z8BmwpsOMAoH0wpOegMY7KdP0Fwb_T2nUjWxBM"
+    },
+    {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "República Dominicana ocupará por primera vez un puesto en el Consejo de la UIT",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/16/rd-estara-por-primera-vez-en-el-consejo-de-la-uit-/3722357",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZPZu-RvodlqVy9hGUxir_nnk7zK6ntXns4RPxMmNJsWYf1JxbqNk5Nn5JLt0"
+      "noticia": "El cine dominicano gana peso en Iberoamérica",
+      "enlace": "https://www.diariolibre.com/revista/cine/2026/11/19/cine-dominicano-gana-peso-con-presidencia-de-ibermedia/3724740",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQign9R81WQFiUP9kbbE9DTnU_w_H-URliMuaxacCatFPIEq8RxowcTK-d5MAI"
     },
     {
       "termino": "francisco cervelli",
@@ -18,6 +25,13 @@
       "noticia": "Francisco Cervelli contratado como nuevo manager de Águilas Cibaeñas",
       "enlace": "https://www.mlb.com/es/news/cervelli-contratado-nuevo-manager-de-aguilas-cibaenas",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
+    },
+    {
+      "termino": "béisbol",
+      "trafico": "100+",
+      "noticia": "Jugadores que más interés podrían despertar en el mercado de cambios este invierno",
+      "enlace": "https://www.mlb.com/es/news/candidatos-a-cambio-en-cada-posicion-para-la-temporada-baja-del-2027-de-mlb",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrvlqnKorOV5vTFvqiVlRHw3n9BsgT6GY1HOi0odjGQup4rrOgwjguJbe2qLQ"
     },
     {
       "termino": "ana boyer preysler",
@@ -60,20 +74,6 @@
       "noticia": "Déficit fiscal dominicano supera al de la mayoría de los países de Centroamérica, se acerca a México",
       "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/11/19/deficit-fiscal-dominicano-supera-al-de-paises-de-centroamerica/3724969",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxakJBLFr2S0Re2aILANjWRqnuoMKzdFuUTASH8d2RGz_Vp7Xn_mUVlHB9nY"
-    },
-    {
-      "termino": "nuggets - celtics",
-      "trafico": "200+",
-      "noticia": "Jayson Tatum takes the blame for costly technical in Celtics  loss to Nuggets:  I wasn t mad",
-      "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-technical-celtics-nuggets/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBphbAuaL1SHlEyAQD8BLd7G582f7pT_Y9krr9PKx2fozdzq1rHljrfz4lc48"
-    },
-    {
-      "termino": "anfernee simons",
-      "trafico": "200+",
-      "noticia": "Anfernee Simons racks up 18 points in win over Magic",
-      "enlace": "https://www.fantasypros.com/nba/news/621157/anfernee-simons-racks-up-18-points-win-over-magic.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfE6fXV6oNjLUGMLQs-EM4siccUfCbPFL2epHYVJ_RUjGzmZ67Xsd3lUhZVkE"
     }
   ]
 }
