@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-19T08:25:24.593623-04:00",
-  "hora": "08:25",
+  "updated": "2026-11-19T08:45:58.052943-04:00",
+  "hora": "08:45",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "águilas cibaeñas",
+      "termino": "tigres del licey",
       "trafico": "200+",
       "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
       "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
+    },
+    {
+      "termino": "águilas cibaeñas",
+      "trafico": "100+",
+      "noticia": "Francisco Cervelli es nombrado como el manager de las Águilas Cibaeñas",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261119/francisco-cervelli-nombrado-manager-aguilas-cibaenas_930729.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqrBNBFUgCYUC_XVSKt93APfyvH_BcDWIx1XsN4MH5fTwTBuvPmKwg7aAY1wU"
     },
     {
       "termino": "epicentro",
@@ -50,9 +57,9 @@
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "NBA: Boston Celtics at Denver Nuggets",
-      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
+      "noticia": "Nikola Jokic News: Nets 24 points with full line in win",
+      "enlace": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-nets-24-points-with-full-line-in-win-539892",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pKHbEVQGfDsAK7nVll7n3LPaAq_lfyvD6nmGuB4Wj8cLTqqT4smUjXYijbI"
     },
     {
       "termino": "anfernee simons",
@@ -67,13 +74,6 @@
       "noticia": "NBA: Atlanta Hawks at Oklahoma City Thunder",
       "enlace": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjkxMDg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOTUiFE0UNap2kV8zHyFVT6rVlMEkZN83l_exyqLzQ8a0aLjelzXM-ZIz3HC0"
-    },
-    {
-      "termino": "lakers - jazz",
-      "trafico": "1000+",
-      "noticia": "Keyonte George, Jazz stun Lakers to snap nine-game streak",
-      "enlace": "https://www.cbssports.com/nba/news/keyonte-george-jazz-stun-lakers-to-snap-nine-game-streak/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqTKOoHed79o2haAuHkSj-TEnuImCwTq6ZBrLYEmD0hyBK-yuroHasmRXqpA"
     }
   ]
 }
