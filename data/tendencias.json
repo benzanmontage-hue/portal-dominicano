@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-18T23:39:33.198389-04:00",
-  "hora": "23:39",
+  "updated": "2026-11-18T23:59:54.962057-04:00",
+  "hora": "23:59",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nuggets - celtics",
+      "trafico": "100+",
+      "noticia": "Celtics, Nuggets look to bounce back in Denver clash",
+      "enlace": "https://www.cbssports.com/nba/news/celtics-nuggets-look-to-bounce-back-in-denver-clash/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
     {
       "termino": "thunder - hawks",
       "trafico": "100+",
@@ -20,18 +27,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
     },
     {
+      "termino": "licey",
+      "trafico": "500+",
+      "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
+      "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+    },
+    {
       "termino": "lakers - jazz",
       "trafico": "200+",
       "noticia": "Lakers seek 10th straight win as Jazz visit",
       "enlace": "https://www.cbssports.com/nba/news/lakers-seek-10th-straight-win-as-jazz-visit/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
-    },
-    {
-      "termino": "pelota invernal de hoy",
-      "trafico": "500+",
-      "noticia": "Vladdy Jr. sueña con jugar en LIDOM, pero necesita el permiso de los Azulejos",
-      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-quiere-jugar-en-la-pelota-invernal-dominicana",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWn6oJY_cDqZD720VyrEKuD03sINvUIIDbMLQC3RXpjItw-5nDiTjP4fGYSyA"
     },
     {
       "termino": "heat - bucks",
@@ -64,16 +71,9 @@
     {
       "termino": "magic - 76ers",
       "trafico": "1000+",
-      "noticia": "76ers visit surging Magic in battle of winning streaks",
-      "enlace": "https://www.cbssports.com/nba/news/76ers-visit-surging-magic-in-battle-of-winning-streaks/",
+      "noticia": "76ers rally past Magic, secure best start in 26 years",
+      "enlace": "https://www.cbssports.com/nba/news/76ers-rally-past-magic-secure-best-start-in-26-years/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
-    },
-    {
-      "termino": "primera noche",
-      "trafico": "500+",
-      "noticia": "Una noche de jazz en Monte Plata",
-      "enlace": "https://acento.com.do/cultura/una-noche-de-jazz-en-monte-plata-9792159.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0OXK_GUzHUyxDghQWGJktG2Giz4etoaLLpHJYO5MuKgrpYZbvhVu04A0h9M"
     }
   ]
 }
