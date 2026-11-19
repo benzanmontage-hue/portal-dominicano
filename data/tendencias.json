@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T07:43:36.556505-04:00",
-  "hora": "07:43",
+  "updated": "2026-11-19T08:04:00.780388-04:00",
+  "hora": "08:04",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -35,10 +35,17 @@
     },
     {
       "termino": "resultados lidom",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
       "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
+    },
+    {
+      "termino": "presupuesto",
+      "trafico": "100+",
+      "noticia": "Déficit fiscal dominicano supera al de la mayoría de los países de Centroamérica, se acerca a México",
+      "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/11/19/deficit-fiscal-dominicano-supera-al-de-paises-de-centroamerica/3724969",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxakJBLFr2S0Re2aILANjWRqnuoMKzdFuUTASH8d2RGz_Vp7Xn_mUVlHB9nY"
     },
     {
       "termino": "nuggets - celtics",
@@ -67,13 +74,6 @@
       "noticia": "Keyonte George, Jazz stun Lakers to snap nine-game streak",
       "enlace": "https://www.cbssports.com/nba/news/keyonte-george-jazz-stun-lakers-to-snap-nine-game-streak/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqTKOoHed79o2haAuHkSj-TEnuImCwTq6ZBrLYEmD0hyBK-yuroHasmRXqpA"
-    },
-    {
-      "termino": "heat - bucks",
-      "trafico": "200+",
-      "noticia": "Re-grading the Giannis Antetokounmpo trade: Why the Heat and Bucks both look much worse now",
-      "enlace": "https://www.cbssports.com/nba/news/regrading-giannis-antetokounmpo-trade-heat-bucks/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Qxh-RBCEqFdBnnvAs9BN1BXSt2TBWKAMH1pr_2lkD0ur6uuWpFYiMX5NUlw"
     }
   ]
 }
