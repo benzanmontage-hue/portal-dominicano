@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-19T12:30:22.280272-04:00",
-  "hora": "12:30",
+  "updated": "2026-11-19T12:50:48.802467-04:00",
+  "hora": "12:50",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "primera",
+      "trafico": "200+",
+      "noticia": "República Dominicana ocupará por primera vez un puesto en el Consejo de la UIT",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/16/rd-estara-por-primera-vez-en-el-consejo-de-la-uit-/3722357",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZPZu-RvodlqVy9hGUxir_nnk7zK6ntXns4RPxMmNJsWYf1JxbqNk5Nn5JLt0"
+    },
+    {
       "termino": "francisco cervelli",
       "trafico": "1000+",
-      "noticia": "LIDOM: Francisco Cervelli nuevo mánager de Águilas; Urueta despedido",
-      "enlace": "https://espndeportes.espn.com/beisbol/beisbolinvernal/nota/_/id/17533344/lidom-aguilas-urueta-despedido-cervelli-nuevo-manager",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRif37T1Z6xCKHyHCFdYoEpocGZiLW04MMzbKRoXc3ly0zQks9u_DpJJ_4xMJM"
+      "noticia": "Francisco Cervelli contratado como nuevo manager de Águilas Cibaeñas",
+      "enlace": "https://www.mlb.com/es/news/cervelli-contratado-nuevo-manager-de-aguilas-cibaenas",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
     },
     {
       "termino": "béisbol",
@@ -66,14 +73,7 @@
       "trafico": "200+",
       "noticia": "Jayson Tatum takes the blame for costly technical in Celtics  loss to Nuggets:  I wasn t mad",
       "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-technical-celtics-nuggets/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_GxLEEeyUatlIK4idxOQyEK1_NsFDMvEibNKeM6cCpJDZ1ioGHginuFJjkT4"
-    },
-    {
-      "termino": "anfernee simons",
-      "trafico": "200+",
-      "noticia": "Anfernee Simons racks up 18 points in win over Magic",
-      "enlace": "https://www.fantasypros.com/nba/news/621157/anfernee-simons-racks-up-18-points-win-over-magic.php",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfE6fXV6oNjLUGMLQs-EM4siccUfCbPFL2epHYVJ_RUjGzmZ67Xsd3lUhZVkE"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBphbAuaL1SHlEyAQD8BLd7G582f7pT_Y9krr9PKx2fozdzq1rHljrfz4lc48"
     }
   ]
 }
