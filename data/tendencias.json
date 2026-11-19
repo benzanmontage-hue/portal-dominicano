@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-19T08:45:58.052943-04:00",
-  "hora": "08:45",
+  "updated": "2026-11-19T09:06:27.429313-04:00",
+  "hora": "09:06",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "francisco cervelli",
+      "trafico": "200+",
+      "noticia": "LIDOM: Francisco Cervelli nuevo mánager de Águilas; Urueta despedido",
+      "enlace": "https://espndeportes.espn.com/beisbol/beisbolinvernal/nota/_/id/17533344/lidom-aguilas-urueta-despedido-cervelli-nuevo-manager",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRif37T1Z6xCKHyHCFdYoEpocGZiLW04MMzbKRoXc3ly0zQks9u_DpJJ_4xMJM"
+    },
     {
       "termino": "tigres del licey",
       "trafico": "200+",
       "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
       "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
-    },
-    {
-      "termino": "águilas cibaeñas",
-      "trafico": "100+",
-      "noticia": "Francisco Cervelli es nombrado como el manager de las Águilas Cibaeñas",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261119/francisco-cervelli-nombrado-manager-aguilas-cibaenas_930729.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqrBNBFUgCYUC_XVSKt93APfyvH_BcDWIx1XsN4MH5fTwTBuvPmKwg7aAY1wU"
     },
     {
       "termino": "epicentro",
@@ -36,9 +36,9 @@
     {
       "termino": "rusia",
       "trafico": "100+",
-      "noticia": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
-      "enlace": "https://www.bbc.com/mundo/articles/c6y498pd1q54o",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwJxqt3s1pnbF536EuaNTWY-m2s-WwLtPlbtO_8Fa4hoGlNfx8cXnMd6w-3HU"
+      "noticia": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
+      "enlace": "https://www.bbc.com/mundo/articles/cwlymkv5n9vvo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdApgFoR2gWS7fYa1BNcq9nQDyCnLGO8jqBxLJAyWrAXp8LHiltjsJA63fn8"
     },
     {
       "termino": "resultados lidom",
@@ -50,16 +50,16 @@
     {
       "termino": "presupuesto",
       "trafico": "100+",
-      "noticia": "Déficit fiscal dominicano supera al de la mayoría de los países de Centroamérica, se acerca a México",
-      "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/11/19/deficit-fiscal-dominicano-supera-al-de-paises-de-centroamerica/3724969",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxakJBLFr2S0Re2aILANjWRqnuoMKzdFuUTASH8d2RGz_Vp7Xn_mUVlHB9nY"
+      "noticia": "El Gobierno busca suspender una regla fiscal que, según la oposición, incumple desde julio",
+      "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/11/19/gobierno-busca-suspender-una-regla-fiscal/3724964",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQiABfdJdCLNkXT5YqogmOGVmFVPAdeCCpHRqsKXUusl0qB4uLA6NPvhcNi5c"
     },
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "Nikola Jokic News: Nets 24 points with full line in win",
-      "enlace": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-nets-24-points-with-full-line-in-win-539892",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pKHbEVQGfDsAK7nVll7n3LPaAq_lfyvD6nmGuB4Wj8cLTqqT4smUjXYijbI"
+      "noticia": "NBA: Boston Celtics at Denver Nuggets",
+      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
     },
     {
       "termino": "anfernee simons",
