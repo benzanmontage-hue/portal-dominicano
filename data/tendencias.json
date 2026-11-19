@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T12:09:56.485444-04:00",
-  "hora": "12:09",
+  "updated": "2026-11-19T12:30:22.280272-04:00",
+  "hora": "12:30",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "LIDOM: Francisco Cervelli nuevo mánager de Águilas; Urueta despedido",
       "enlace": "https://espndeportes.espn.com/beisbol/beisbolinvernal/nota/_/id/17533344/lidom-aguilas-urueta-despedido-cervelli-nuevo-manager",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRif37T1Z6xCKHyHCFdYoEpocGZiLW04MMzbKRoXc3ly0zQks9u_DpJJ_4xMJM"
+    },
+    {
+      "termino": "béisbol",
+      "trafico": "100+",
+      "noticia": "Jugadores que más interés podrían despertar en el mercado de cambios este invierno",
+      "enlace": "https://www.mlb.com/es/news/candidatos-a-cambio-en-cada-posicion-para-la-temporada-baja-del-2027-de-mlb",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrvlqnKorOV5vTFvqiVlRHw3n9BsgT6GY1HOi0odjGQup4rrOgwjguJbe2qLQ"
     },
     {
       "termino": "ana boyer preysler",
@@ -50,9 +57,9 @@
     {
       "termino": "presupuesto",
       "trafico": "100+",
-      "noticia": "En menos de 24 horas, diputados terminan estudio de reformulación al Presupuesto del Estado de 2026",
-      "enlace": "https://listindiario.com/la-republica/20261118/24-horas-diputados-terminan-estudio-reformulacion-presupuesto-2026_930660.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8sqtr-QAWpiayvHo62pfezskMWvheouQ5ZydIZQ6xsrJyCSI10mCMrUK06Mo"
+      "noticia": "Déficit fiscal dominicano supera al de la mayoría de los países de Centroamérica, se acerca a México",
+      "enlace": "https://www.diariolibre.com/economia/macroeconomia/2026/11/19/deficit-fiscal-dominicano-supera-al-de-paises-de-centroamerica/3724969",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxakJBLFr2S0Re2aILANjWRqnuoMKzdFuUTASH8d2RGz_Vp7Xn_mUVlHB9nY"
     },
     {
       "termino": "nuggets - celtics",
@@ -67,13 +74,6 @@
       "noticia": "Anfernee Simons racks up 18 points in win over Magic",
       "enlace": "https://www.fantasypros.com/nba/news/621157/anfernee-simons-racks-up-18-points-win-over-magic.php",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfE6fXV6oNjLUGMLQs-EM4siccUfCbPFL2epHYVJ_RUjGzmZ67Xsd3lUhZVkE"
-    },
-    {
-      "termino": "thunder - hawks",
-      "trafico": "100+",
-      "noticia": "Dort, Wiggins return to OKC and deliver from 3 as Hawks down Thunder",
-      "enlace": "https://www.ajc.com/sports/2026/11/dort-wiggins-return-to-okc-and-deliver-from-3-as-hawks-down-thunder/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0gM8wY1McEAKyHSUNDe7G5XL4BrQpsPZ6bmHb4aJUbBrUOdv9RUiQUZOEV_o"
     }
   ]
 }
