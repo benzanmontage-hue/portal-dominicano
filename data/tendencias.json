@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T12:50:48.802467-04:00",
-  "hora": "12:50",
+  "updated": "2026-11-19T13:11:13.604150-04:00",
+  "hora": "13:11",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,13 +20,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
     },
     {
-      "termino": "béisbol",
-      "trafico": "100+",
-      "noticia": "Jugadores que más interés podrían despertar en el mercado de cambios este invierno",
-      "enlace": "https://www.mlb.com/es/news/candidatos-a-cambio-en-cada-posicion-para-la-temporada-baja-del-2027-de-mlb",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrvlqnKorOV5vTFvqiVlRHw3n9BsgT6GY1HOi0odjGQup4rrOgwjguJbe2qLQ"
-    },
-    {
       "termino": "ana boyer preysler",
       "trafico": "200+",
       "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
@@ -35,10 +28,10 @@
     },
     {
       "termino": "tigres del licey",
-      "trafico": "200+",
-      "noticia": "Vladdy Jr. sueña con jugar en LIDOM, pero necesita el permiso de los Azulejos",
-      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-quiere-jugar-en-la-pelota-invernal-dominicana",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWn6oJY_cDqZD720VyrEKuD03sINvUIIDbMLQC3RXpjItw-5nDiTjP4fGYSyA"
+      "trafico": "100+",
+      "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
     },
     {
       "termino": "epicentro",
@@ -74,6 +67,13 @@
       "noticia": "Jayson Tatum takes the blame for costly technical in Celtics  loss to Nuggets:  I wasn t mad",
       "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-technical-celtics-nuggets/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBphbAuaL1SHlEyAQD8BLd7G582f7pT_Y9krr9PKx2fozdzq1rHljrfz4lc48"
+    },
+    {
+      "termino": "anfernee simons",
+      "trafico": "200+",
+      "noticia": "Anfernee Simons racks up 18 points in win over Magic",
+      "enlace": "https://www.fantasypros.com/nba/news/621157/anfernee-simons-racks-up-18-points-win-over-magic.php",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfE6fXV6oNjLUGMLQs-EM4siccUfCbPFL2epHYVJ_RUjGzmZ67Xsd3lUhZVkE"
     }
   ]
 }
