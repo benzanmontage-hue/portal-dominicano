@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-19T07:23:15.919242-04:00",
-  "hora": "07:23",
+  "updated": "2026-11-19T07:43:36.556505-04:00",
+  "hora": "07:43",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "tigres del licey",
+      "termino": "águilas cibaeñas",
       "trafico": "200+",
       "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
       "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
@@ -27,6 +27,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblo41WY7ic3y4Jy2sqx12-oCNKd19kdAJiUhNGu-NI2uDkikzRq_e0ba5o_o"
     },
     {
+      "termino": "rusia",
+      "trafico": "100+",
+      "noticia": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
+      "enlace": "https://www.bbc.com/mundo/articles/cwlymkv5n9vvo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdApgFoR2gWS7fYa1BNcq9nQDyCnLGO8jqBxLJAyWrAXp8LHiltjsJA63fn8"
+    },
+    {
       "termino": "resultados lidom",
       "trafico": "200+",
       "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
@@ -36,9 +43,9 @@
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "NBA: Boston Celtics at Denver Nuggets",
-      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
+      "noticia": "Northwest Notes: Wolves, Avdija, Lillard, Thunder, Clifford",
+      "enlace": "https://www.hoopsrumors.com/2026/11/northwest-notes-wolves-avdija-lillard-thunder-clifford.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcHpzQjiqqmOlR4__y3zdBHMG4_DiXWqT-m89Q7MeYWKRTDMm4YkcorcqkSQc"
     },
     {
       "termino": "anfernee simons",
@@ -67,13 +74,6 @@
       "noticia": "Re-grading the Giannis Antetokounmpo trade: Why the Heat and Bucks both look much worse now",
       "enlace": "https://www.cbssports.com/nba/news/regrading-giannis-antetokounmpo-trade-heat-bucks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Qxh-RBCEqFdBnnvAs9BN1BXSt2TBWKAMH1pr_2lkD0ur6uuWpFYiMX5NUlw"
-    },
-    {
-      "termino": "nacional noche de hoy",
-      "trafico": "1000+",
-      "noticia": "Números ganadores de las loterías del martes 18/11/2026: ¿La pegaste?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-martes-18-11-2026-pegaste_1109086.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     }
   ]
 }
