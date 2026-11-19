@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-19T18:39:43.698104-04:00",
-  "hora": "18:39",
+  "updated": "2026-11-19T19:00:21.891544-04:00",
+  "hora": "19:00",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "servicio geológico colombiano",
+      "trafico": "100+",
+      "noticia": "Temblor hoy en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente, según el Servicio Geológico",
+      "enlace": "https://redmas.com.co/temblor-hoy-en-colombia-en-vivo--magnitud-epicentro-y-profundidad-del-sismo-mas-reciente-segun-el-servicio-geologico-lb202611190002.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgy0ARve9Z9FrJoo4P_Y1gnVKabA-nHLrEwdj6IppWcbZyJJsbR4mZ_Np5MBs"
+    },
+    {
       "termino": "waldys taveras",
       "trafico": "100+",
-      "noticia": "Fallece Dora Noelia, hija de Waldys Taveras tras explosión de gas en su residencia",
-      "enlace": "https://eldia.com.do/fallece-dora-noelia-taveras-hija-de-waldys-taveras-tras-sufrir-graves-quemaduras-en-una-explosion-de-gas-en-su-residencia/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSda-QENSCuiO9ZRnll9ZoSK4N7hvghPuoIb_AG60nr-5ASJBkfYOSVsW0UdNI"
+      "noticia": "Muere Dora Noelia Taveras, hija de Waldys Taveras, tras sufrir quemaduras en explosión de gas",
+      "enlace": "https://acento.com.do/noticias/muere-dora-noelia-taveras-hija-de-waldys-taveras-tras-sufrir-quemaduras-en-explosion-de-gas-9793282.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiGvVUnvv0OzCtpOq1lIfn3tRbv0MAAr6YC5OhXfiAsdVS0m7q04aQsJ3k3Oo"
     },
     {
       "termino": "anthropic",
@@ -29,16 +36,16 @@
     {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "Karen Yapoort tendrá a María Tatis como primera invitada de  Mujeres de las Grandes Ligas",
-      "enlace": "https://listindiario.com/entretenimiento/tv/20261119/karen-yapoort-tendra-maria-tatis-primera-invitada-mujeres-grandes-ligas_930807.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Z1HtR9GC32FJC-c2Qy5QknBGCvm_foF7lQxn95gRyyGuTTC5CWkwtQhBxhY"
+      "noticia": "Senado aprueba en primera discusión amnistía para armas irregulares",
+      "enlace": "https://www.elcaribe.com.do/panorama/pais/senado-aprueba-en-primera-discusion-amnistia-para-armas-irregulares/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRka-8zMc9fUR2UDGOf27IIP0K30TXDyST74_qXXa-_C5ohaXVOtkS17Z3IgG4"
     },
     {
       "termino": "que se celebra el 19 de noviembre",
       "trafico": "100+",
-      "noticia": "Santoral del 19 de noviembre: santos, beatos y mártires que celebra la Iglesia católica hoy",
-      "enlace": "https://acento.com.do/actualidad/santoral-del-19-de-noviembre-santos-beatos-y-martires-que-celebra-la-iglesia-catolica-hoy-9792535.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQtnE5pDbOibW_hpSaetXmxzD-kHnTR914gaPpakJ3KSRSU_aXFmGh87iUXvQ"
+      "noticia": "¿Qué se celebra hoy en el mundo? Efemérides del 19 de noviembre, hechos y conmemoraciones de esta fecha",
+      "enlace": "https://acento.com.do/actualidad/que-se-celebra-hoy-en-el-mundo-efemerides-del-19-de-noviembre-hechos-y-conmemoraciones-de-esta-fecha-9792549.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbe6OppIvAiSfggXgXeWjy2lHUIg1kVZGaz4qsCypBIvvlRmMy5wvATMsRfl0"
     },
     {
       "termino": "francisco cervelli",
@@ -46,6 +53,13 @@
       "noticia": "Francisco Cervelli contratado como nuevo manager de Águilas Cibaeñas",
       "enlace": "https://www.mlb.com/es/news/cervelli-contratado-nuevo-manager-de-aguilas-cibaenas",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
+    },
+    {
+      "termino": "béisbol",
+      "trafico": "500+",
+      "noticia": "¿Se ha reducido la puja por Skubal a una batalla entre dos equipos?",
+      "enlace": "https://www.mlb.com/es/news/se-ha-reducido-la-puja-por-skubal-a-una-batalla-entre-dos-equipos",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWAHQF5q5rWAAh6HRM8bWak6TrtFE_4ZIaICHNoO0IBvbKYb3bqVE2hg8ATCw"
     },
     {
       "termino": "ana boyer preysler",
@@ -60,20 +74,6 @@
       "noticia": "Vladdy Jr. sueña con jugar en LIDOM, pero necesita el permiso de los Azulejos",
       "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-quiere-jugar-en-la-pelota-invernal-dominicana",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWn6oJY_cDqZD720VyrEKuD03sINvUIIDbMLQC3RXpjItw-5nDiTjP4fGYSyA"
-    },
-    {
-      "termino": "epicentro",
-      "trafico": "500+",
-      "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
-      "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
-    },
-    {
-      "termino": "factura electrónica",
-      "trafico": "200+",
-      "noticia": "Pequeños comerciantes renuentes a cumplir con la facturación electrónica",
-      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/19/pequenos-comercios-plantean-cambios-a-la-facturacion-electronica/3725687",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg9efJizN-yu_5SR_sz0P22BpUQXhYiyIOhsQRPH0ch1p8-UpWfQWVaKUPUiY"
     }
   ]
 }
