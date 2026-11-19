@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T15:35:24.988326-04:00",
-  "hora": "15:35",
+  "updated": "2026-11-19T15:55:48.863524-04:00",
+  "hora": "15:55",
   "fecha": "19/11/2026",
   "total": 15,
   "noticias": [
@@ -19,6 +19,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 20:04:00 GMT",
       "imagen": "https://resources.diariolibre.com/images/2025/01/30/taxi-aereo-en-rd-innovador-proyecto-de-la-cntu-focus-0.09-0.32-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "República Dominicana cae al noveno puesto del ranking mundial de béisbol masculino - CDN Deportes",
+      "fuente": "CDN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZW9jdi1WQ0lNV053eE9TcHY5VTJ3cWg3dnZJUkFkRGJoNF82akM2Y0pGZHZIa2VrWENQd045VnJ6cEh0eEkzaERvWGVPZk1pOHdQRVFhNjIwREVOX0dWLVkyRVhQVVg3SWF1c0RGWUpQTU04ZWdUWGRkbk93VTd6RUc4bUlOaXlWNnNYZjNETGQ5RnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 19:12:36 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Ministro de Medio Ambiente presenta proyectos para proteger los ecosistemas costeros en la COP31 - Presidencia de la República Dominicana",
@@ -51,14 +59,6 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 17:41:07 GMT",
       "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Dominicanos1.jpeg?resize=1170%2C884&quality=100&ssl=1"
-    },
-    {
-      "titulo": "República Dominicana cae al noveno puesto del ranking mundial de béisbol masculino - CDN Deportes",
-      "fuente": "CDN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZW9jdi1WQ0lNV053eE9TcHY5VTJ3cWg3dnZJUkFkRGJoNF82akM2Y0pGZHZIa2VrWENQd045VnJ6cEh0eEkzaERvWGVPZk1pOHdQRVFhNjIwREVOX0dWLVkyRVhQVVg3SWF1c0RGWUpQTU04ZWdUWGRkbk93VTd6RUc4bUlOaXlWNnNYZjNETGQ5RnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 19:12:36 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Industriales eléctricos: Demanda de energía en RD superaría los 5,000 megavatios en 2030 - El Nacional — La voz de todos",
