@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-18T23:19:12.471023-04:00",
-  "hora": "23:19",
+  "updated": "2026-11-18T23:39:33.198389-04:00",
+  "hora": "23:39",
   "fecha": "18/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "thunder - hawks",
+      "trafico": "100+",
+      "noticia": "Luguentz Dort, Aaron Wiggins return as Hawks visit Thunder",
+      "enlace": "https://www.cbssports.com/nba/news/luguentz-dort-aaron-wiggins-return-as-hawks-visit-thunder/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
+    {
+      "termino": "anfernee simons",
+      "trafico": "100+",
+      "noticia": "76ers  Anfernee Simons: Starting versus Magic",
+      "enlace": "https://www.cbssports.com/fantasy/basketball/news/76ers-anfernee-simons-starting-versus-magic/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+    },
     {
       "termino": "lakers - jazz",
       "trafico": "200+",
@@ -22,9 +36,9 @@
     {
       "termino": "heat - bucks",
       "trafico": "200+",
-      "noticia": "Giannis Antetokounmpo set to face Bucks for first time with Heat",
-      "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-set-to-face-bucks-for-first-time-with-heat/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+      "noticia": "Giannis Antetokounmpo leads Heat past Bucks in first meeting",
+      "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-leads-heat-past-bucks-in-first-meeting/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
     },
     {
       "termino": "nacional noche de hoy",
@@ -60,20 +74,6 @@
       "noticia": "Una noche de jazz en Monte Plata",
       "enlace": "https://acento.com.do/cultura/una-noche-de-jazz-en-monte-plata-9792159.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0OXK_GUzHUyxDghQWGJktG2Giz4etoaLLpHJYO5MuKgrpYZbvhVu04A0h9M"
-    },
-    {
-      "termino": "deutsche bank",
-      "trafico": "500+",
-      "noticia": "Deutsche Bank Leak Reveals $582 Million In Epstein Payments, Accidental Trump Tax Disclosure",
-      "enlace": "https://www.forbes.com/sites/siladityaray/2026/11/17/deutsche-bank-leak-reveals-582-million-in-suspicious-epstein-payments/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w4BHW9j6VciGpuZrXEFnYVwlWr84p-ZfqVdLv-MuPyenixSsBR1wy7H7L_E"
-    },
-    {
-      "termino": "salario",
-      "trafico": "1000+",
-      "noticia": "Manfred: Dueños no aprobarían un acuerdo sin tope y mínimo salarial",
-      "enlace": "https://www.mlb.com/es/news/el-comisionado-rob-manfred-habla-sobre-las-propuestas-de-tope-y-minimo-salarial",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv7Gb0v-eoPbxbmVwcv-WPc0-MZRWBPQd3-If3WGtG05qhO-Fj3zugXVHYxfo"
     }
   ]
 }
