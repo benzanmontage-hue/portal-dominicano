@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T23:59:54.962057-04:00",
-  "hora": "23:59",
-  "fecha": "18/11/2026",
+  "updated": "2026-11-19T00:20:21.164697-04:00",
+  "hora": "00:20",
+  "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
@@ -13,13 +13,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
     },
     {
-      "termino": "thunder - hawks",
-      "trafico": "100+",
-      "noticia": "Luguentz Dort, Aaron Wiggins return as Hawks visit Thunder",
-      "enlace": "https://www.cbssports.com/nba/news/luguentz-dort-aaron-wiggins-return-as-hawks-visit-thunder/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
-    },
-    {
       "termino": "anfernee simons",
       "trafico": "100+",
       "noticia": "76ers  Anfernee Simons: Starting versus Magic",
@@ -27,25 +20,39 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
     },
     {
+      "termino": "thunder - hawks",
+      "trafico": "100+",
+      "noticia": "Luguentz Dort, Aaron Wiggins return as Hawks visit Thunder",
+      "enlace": "https://www.cbssports.com/nba/news/luguentz-dort-aaron-wiggins-return-as-hawks-visit-thunder/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
+    },
+    {
       "termino": "licey",
+      "trafico": "100+",
+      "noticia": "Jonrón de Ángel Ortiz en el noveno da dramática victoria 5-4 al Licey sobre las Águilas",
+      "enlace": "https://acento.com.do/deportes/jonron-de-angel-ortiz-en-el-noveno-da-dramatica-victoria-5-4-al-licey-sobre-las-aguilas-9792815.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzycQNBLIZ4qvvdY8oV2T7R3PLTRWuF-qLGP7x_N8HJ4KvT_b-IDlifwvDOuI"
+    },
+    {
+      "termino": "lakers - jazz",
+      "trafico": "500+",
+      "noticia": "Lakers seek 10th straight win as Jazz visit",
+      "enlace": "https://www.cbssports.com/nba/news/lakers-seek-10th-straight-win-as-jazz-visit/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+    },
+    {
+      "termino": "pelota invernal de hoy",
       "trafico": "500+",
       "noticia": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana",
       "enlace": "https://www.mlb.com/es/news/vladimir-jr-cambiado-de-los-toros-al-licey-en-la-republica-dominicana",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLOiwdsUeeN8XwQSZV2GpGmJ7EKTdOaw6DGo8tQPQH6g-K_9B0Wcthls8PC1c"
     },
     {
-      "termino": "lakers - jazz",
-      "trafico": "200+",
-      "noticia": "Lakers seek 10th straight win as Jazz visit",
-      "enlace": "https://www.cbssports.com/nba/news/lakers-seek-10th-straight-win-as-jazz-visit/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
-    },
-    {
       "termino": "heat - bucks",
       "trafico": "200+",
-      "noticia": "Giannis Antetokounmpo leads Heat past Bucks in first meeting",
-      "enlace": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-leads-heat-past-bucks-in-first-meeting/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+      "noticia": "Re-grading the Giannis Antetokounmpo trade: Why the Heat and Bucks both look much worse now",
+      "enlace": "https://www.cbssports.com/nba/news/regrading-giannis-antetokounmpo-trade-heat-bucks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Qxh-RBCEqFdBnnvAs9BN1BXSt2TBWKAMH1pr_2lkD0ur6uuWpFYiMX5NUlw"
     },
     {
       "termino": "nacional noche de hoy",
@@ -57,22 +64,15 @@
     {
       "termino": "pacers - rockets",
       "trafico": "200+",
-      "noticia": "Kevin Durant, Reed Sheppard lead Rockets past Pacers 119-104",
-      "enlace": "https://www.cbssports.com/nba/news/kevin-durant-reed-sheppard-lead-rockets-past-pacers-119-104/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
+      "noticia": "Rockets center Alperen Şengün leaves game vs. Pacers with eye injury",
+      "enlace": "https://www.houstonchronicle.com/sports/rockets/article/alperen-sengun-eye-injury-indiana-22538597.php",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUs8RIMisaLsnj58YSPpnDrJ-leJH19NGRUnZnpuW0lLiEoSwF2GdobuWwvI"
     },
     {
       "termino": "mavericks - warriors",
       "trafico": "2000+",
-      "noticia": "Mavericks, Warriors look to bounce back in Dallas",
-      "enlace": "https://www.cbssports.com/nba/news/mavericks-warriors-look-to-bounce-back-in-dallas/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS164v4IgmLaqXPANNxmEUkSgJrtBJBbXfGcDRZd7CcuhD9Rh9vhbd1mGvsACU"
-    },
-    {
-      "termino": "magic - 76ers",
-      "trafico": "1000+",
-      "noticia": "76ers rally past Magic, secure best start in 26 years",
-      "enlace": "https://www.cbssports.com/nba/news/76ers-rally-past-magic-secure-best-start-in-26-years/",
+      "noticia": "Cooper Flagg scores 33 to lead Mavericks past Warriors 116-94",
+      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-scores-33-to-lead-mavericks-past-warriors-116-94/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg"
     }
   ]
