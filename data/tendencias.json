@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T10:07:37.886949-04:00",
-  "hora": "10:07",
+  "updated": "2026-11-19T10:28:01.193301-04:00",
+  "hora": "10:28",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "tigres del licey",
       "trafico": "200+",
-      "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
+      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
+      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
     },
     {
       "termino": "epicentro",
@@ -41,13 +41,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdApgFoR2gWS7fYa1BNcq9nQDyCnLGO8jqBxLJAyWrAXp8LHiltjsJA63fn8"
     },
     {
-      "termino": "resultados lidom",
-      "trafico": "100+",
-      "noticia": "Vladimir Guerrero Jr. fue traspasado … pero a los Tigres del Licey",
-      "enlace": "https://www.mlb.com/es/news/vladimir-guerrero-jr-cambiado-a-licey",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSS60O7hZy8Zt8SQ-yDRXjJQygk4HA8DCJWQ7beUowEQWccNpwftd7crgovuc"
-    },
-    {
       "termino": "presupuesto",
       "trafico": "100+",
       "noticia": "El Gobierno busca suspender una regla fiscal que, según la oposición, incumple desde julio",
@@ -57,9 +50,9 @@
     {
       "termino": "nuggets - celtics",
       "trafico": "200+",
-      "noticia": "Nikola Jokic News: Nets 24 points with full line in win",
-      "enlace": "https://www.rotowire.com/basketball/headlines/nikola-jokic-news-nets-24-points-with-full-line-in-win-539892",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8pKHbEVQGfDsAK7nVll7n3LPaAq_lfyvD6nmGuB4Wj8cLTqqT4smUjXYijbI"
+      "noticia": "NBA: Boston Celtics at Denver Nuggets",
+      "enlace": "https://www.reutersconnect.com/item/nba-boston-celtics-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1ODM%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHmMWWB0GgoTqa-GQ1rmoUlyfY8leFxFJNs0yBBvlqlzjUPJthr0e0qedGaG8"
     },
     {
       "termino": "anfernee simons",
@@ -74,6 +67,13 @@
       "noticia": "NBA: Atlanta Hawks at Oklahoma City Thunder",
       "enlace": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjkxMDg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOTUiFE0UNap2kV8zHyFVT6rVlMEkZN83l_exyqLzQ8a0aLjelzXM-ZIz3HC0"
+    },
+    {
+      "termino": "licey",
+      "trafico": "100+",
+      "noticia": "Ortiz da jonrón en el noveno y Licey deja a las Águilas en el terreno",
+      "enlace": "https://listindiario.com/el-deporte/beisbol/20261118/ortiz-da-jonron-noveno-licey-deja-aguilas-terreno_930724.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1V3Cudhmgpy7EsBYoRq3NQgpyd6GsMmjr5vo-bsmJSHBaMtp0RHwdj5j992Y"
     }
   ]
 }
