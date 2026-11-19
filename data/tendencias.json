@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-19T14:54:35.532091-04:00",
-  "hora": "14:54",
+  "updated": "2026-11-19T15:14:59.961093-04:00",
+  "hora": "15:14",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "anthropic",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5T valuation",
       "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk"
@@ -42,10 +42,10 @@
     },
     {
       "termino": "béisbol",
-      "trafico": "100+",
-      "noticia": "República Dominicana inicia este viernes el Campeonato Panamericano de Béisbol Sub-12",
-      "enlace": "https://elnuevodiario.com.do/republica-dominicana-inicia-este-viernes-el-campeonato-panamericano-de-beisbol-sub-12/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuEJVIUId349Mgu3lkoR7_rWGotTKLyr1jIWpRrkq_y45EhMdhBNA0q585dok"
+      "trafico": "200+",
+      "noticia": "Manfred: Dueños no aprobarían un acuerdo sin tope y mínimo salarial",
+      "enlace": "https://www.mlb.com/es/news/el-comisionado-rob-manfred-habla-sobre-las-propuestas-de-tope-y-minimo-salarial",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv7Gb0v-eoPbxbmVwcv-WPc0-MZRWBPQd3-If3WGtG05qhO-Fj3zugXVHYxfo"
     },
     {
       "termino": "ana boyer preysler",
