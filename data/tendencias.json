@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-19T16:16:10.215782-04:00",
-  "hora": "16:16",
+  "updated": "2026-11-19T16:36:33.257091-04:00",
+  "hora": "16:36",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "waldys taveras",
+      "trafico": "100+",
+      "noticia": "Muere Dora Noelia Taveras Castillo, hija de Waldys Taveras, tras enfrentar quemaduras",
+      "enlace": "https://listindiario.com/la-republica/20261119/muere-dora-noelia-taveras-castillo-hija-waldys-taveras-enfrentar-quemaduras_930765.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSeLnPMbz3uOnWzgiNzld-Vkbsycpl3FflHipuDuV_vmf8hIrde5_F8tINkt4"
+    },
     {
       "termino": "anthropic",
       "trafico": "200+",
@@ -22,9 +29,9 @@
     {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "El cine dominicano gana peso en Iberoamérica",
-      "enlace": "https://www.diariolibre.com/revista/cine/2026/11/19/cine-dominicano-gana-peso-con-presidencia-de-ibermedia/3724740",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQign9R81WQFiUP9kbbE9DTnU_w_H-URliMuaxacCatFPIEq8RxowcTK-d5MAI"
+      "noticia": "Chino y Nacho se presentarán en el país por primera vez en una década el próximo 14 de febrero, en un concierto que abrirá una gira internacional con motivo de los 20 años de su debut como grupo, según informaron este jueves 19 de noviembre. Ambos a",
+      "enlace": "https://www.instagram.com/p/Df7vmaQyCdf/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_j1SBHUzrilWxUVb7qRo73GulYRC8uQaIAK4p6S3Pj_DcxzygtOaRQWdsyb0"
     },
     {
       "termino": "que se celebra el 19 de noviembre",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "ana boyer preysler",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
       "enlace": "https://www.hola.com/actualidad/20261118935477/ana-boyer-hace-balance-anyo-grandes-cambios-fernando-hemos-cambiado-mucho-como-pareja/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8fkM-JT0Nr9dc2eRJc8Anzk2ZVuYSTymLGL0eC2xqqN8_Y1gWUOQgf2Q-YTw"
@@ -67,13 +74,6 @@
       "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
       "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
-    },
-    {
-      "termino": "factura electrónica",
-      "trafico": "200+",
-      "noticia": "DGII anuncia nuevo plazo de facturación electrónica para micro y pequeños contribuyentes",
-      "enlace": "https://listindiario.com/la-republica/20261117/dgii-anuncia-nuevo-plazo-facturacion-electronica-micro-pequenos-contribuyentes_930430.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnQuq8Yc7ckYnMoNQcr1ADlWhg5NtXLAXayzVVBYaEfIAQD-ldmhhoXplDWWg"
     }
   ]
 }
