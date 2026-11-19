@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-19T13:53:17.639384-04:00",
-  "hora": "13:53",
+  "updated": "2026-11-19T14:13:42.697732-04:00",
+  "hora": "14:13",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "melissa medina de que murio",
+      "termino": "anthropic",
       "trafico": "100+",
-      "noticia": "Influencers dominicanos que murieron  antes de tiempo",
-      "enlace": "https://listindiario.com/entretenimiento/redes-sociales/20261119/influencers-dominicanos-murieron_930688.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOmWylw_0yu8HaBUwEZMZ7Z8BmwpsOMAoH0wpOegMY7KdP0Fwb_T2nUjWxBM"
+      "noticia": "Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5 valuation",
+      "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk"
     },
     {
-      "termino": "anthropic stock",
+      "termino": "melissa medina de que murio",
       "trafico": "100+",
-      "noticia": "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
-      "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU6bdMd7ZEl8BbNQ2ZTXG90hFSHjbncUqyeprNquRFFvDTuTIc1bKJq_65Ouo"
+      "noticia": "Los restos de Melissa Medina serán cremados este jueves tras un íntimo velatorio",
+      "enlace": "https://www.diariolibre.com/revista/farandula/2026/11/19/los-restos-de-melissa-medina-seran-cremados/3725652",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTezWovWjGSL6E4NHIk8GA9ZUShhvQojqTXCY9QQ0CfjwXQX38CdbhPmaVjc84"
     },
     {
       "termino": "primera",
@@ -41,15 +41,8 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
     },
     {
-      "termino": "béisbol",
-      "trafico": "100+",
-      "noticia": "Jerry Dipoto on Maikel Garcia trade, impact of deal",
-      "enlace": "https://www.mlb.com/es/video/jerry-dipoto-on-maikel-garcia-trade-impact-of-deal",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7hVxGnj3GlRk6xkGo5lKienQ54f9RMW2a3qjwy7o9lmjTLihUE_lPTymKzk0"
-    },
-    {
       "termino": "ana boyer preysler",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
       "enlace": "https://www.hola.com/actualidad/20261118935477/ana-boyer-hace-balance-anyo-grandes-cambios-fernando-hemos-cambiado-mucho-como-pareja/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8fkM-JT0Nr9dc2eRJc8Anzk2ZVuYSTymLGL0eC2xqqN8_Y1gWUOQgf2Q-YTw"
@@ -74,6 +67,13 @@
       "noticia": "DGII anuncia nuevo plazo de facturación electrónica para micro y pequeños contribuyentes",
       "enlace": "https://listindiario.com/la-republica/20261117/dgii-anuncia-nuevo-plazo-facturacion-electronica-micro-pequenos-contribuyentes_930430.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnQuq8Yc7ckYnMoNQcr1ADlWhg5NtXLAXayzVVBYaEfIAQD-ldmhhoXplDWWg"
+    },
+    {
+      "termino": "rusia",
+      "trafico": "200+",
+      "noticia": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
+      "enlace": "https://www.bbc.com/mundo/articles/cwlymkv5n9vvo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIdApgFoR2gWS7fYa1BNcq9nQDyCnLGO8jqBxLJAyWrAXp8LHiltjsJA63fn8"
     }
   ]
 }
