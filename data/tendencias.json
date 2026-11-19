@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T17:57:57.863257-04:00",
-  "hora": "17:57",
+  "updated": "2026-11-19T18:18:18.563907-04:00",
+  "hora": "18:18",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "waldys taveras",
       "trafico": "100+",
-      "noticia": "Muere Dora Noelia Taveras Castillo, hija de Waldys Taveras, tras enfrentar quemaduras",
-      "enlace": "https://listindiario.com/la-republica/20261119/muere-dora-noelia-taveras-castillo-hija-waldys-taveras-enfrentar-quemaduras_930765.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSeLnPMbz3uOnWzgiNzld-Vkbsycpl3FflHipuDuV_vmf8hIrde5_F8tINkt4"
+      "noticia": "Fallece Dora Noelia, hija de Waldys Taveras tras explosión de gas en su residencia",
+      "enlace": "https://eldia.com.do/fallece-dora-noelia-taveras-hija-de-waldys-taveras-tras-sufrir-graves-quemaduras-en-una-explosion-de-gas-en-su-residencia/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSda-QENSCuiO9ZRnll9ZoSK4N7hvghPuoIb_AG60nr-5ASJBkfYOSVsW0UdNI"
     },
     {
       "termino": "anthropic",
@@ -48,13 +48,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RqZ3oQTn5Af3RKXDw2WH0WvgTJNpTiPLlmf1zlHSSZU-koeTkQ5ep0scd-s"
     },
     {
-      "termino": "béisbol",
-      "trafico": "200+",
-      "noticia": "Un repaso a lo que sorprendentemente es un amplio mercado de 2B",
-      "enlace": "https://www.mlb.com/es/news/intermedistas-disponibles-agentes-libres-mercado-cambios-2026-2027",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdznfdFjdZhN0E_KuNH7HQFGYgrQEGg3gqPqfeKSIxj7U9zlD5EOVEXyTTc9E"
-    },
-    {
       "termino": "ana boyer preysler",
       "trafico": "1000+",
       "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
@@ -74,6 +67,13 @@
       "noticia": "Terremoto de magnitud 6,6 sacude Indonesia, sin amenaza de tsunami para América",
       "enlace": "https://acento.com.do/ecologia/terremoto-de-magnitud-66-sacude-indonesia-sin-amenaza-de-tsunami-para-america-9791275.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTEskFkZC4UkONtDzE1fBegjPaPuwtkbP9phyOXD1HaaOhFZEerAzTKXRCik"
+    },
+    {
+      "termino": "factura electrónica",
+      "trafico": "200+",
+      "noticia": "Pequeños comerciantes renuentes a cumplir con la facturación electrónica",
+      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/19/pequenos-comercios-plantean-cambios-a-la-facturacion-electronica/3725687",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg9efJizN-yu_5SR_sz0P22BpUQXhYiyIOhsQRPH0ch1p8-UpWfQWVaKUPUiY"
     }
   ]
 }
