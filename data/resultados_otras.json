@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:20:47.939255-04:00",
+ "updated": "2026-11-19T19:41:15.837252-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -360,11 +360,11 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 6:30 PM",
    "numeros": [
-    "14",
-    "39",
-    "38"
+    "44",
+    "64",
+    "30"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6a4414d17f178816db95aca1"
   },
   {
@@ -404,11 +404,11 @@
    "compania": "King Lottery",
    "juego": "King Lottery Noche",
    "numeros": [
-    "63",
-    "71",
-    "41"
+    "03",
+    "80",
+    "61"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d670"
   },
   {
@@ -427,12 +427,12 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Noche",
    "numeros": [
-    "29",
-    "65",
-    "91",
-    "57"
+    "95",
+    "80",
+    "70",
+    "09"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d64c"
   },
   {
@@ -450,11 +450,11 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Noche",
    "numeros": [
-    "4138",
-    "3657",
-    "2754"
+    "9625",
+    "3572",
+    "8671"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d67c"
   },
   {
@@ -473,10 +473,10 @@
    "juego": "Pick 3 Noche",
    "numeros": [
     "3",
-    "6",
+    "0",
     "3"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d658"
   },
   {
@@ -495,12 +495,12 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Noche",
    "numeros": [
-    "7",
-    "1",
-    "4",
+    "8",
+    "0",
+    "6",
     "1"
    ],
-   "fecha": "2026-11-18T04:00:00.000Z",
+   "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d664"
   },
   {
