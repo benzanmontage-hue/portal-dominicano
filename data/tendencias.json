@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-19T21:43:10.942423-04:00",
-  "hora": "21:43",
+  "updated": "2026-11-19T22:03:30.450771-04:00",
+  "hora": "22:03",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "spurs - clippers",
+      "trafico": "200+",
+      "noticia": "NBA: Los Angeles Clippers at San Antonio Spurs",
+      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-san-antonio-spurs/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODMxNzk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZVEJbitM6EOhJkEFYRlAn9pvCW7z3oyW48u93FqCnYbAX1vtC2turuuzo-Y"
+    },
     {
       "termino": "timberwolves - knicks",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "grizzlies - warriors",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Depleted Warriors seek revenge in rematch with Grizzlies",
       "enlace": "https://www.cbssports.com/nba/news/depleted-warriors-seek-revenge-in-rematch-with-grizzlies/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KxqHcBFE_i0Lb9vhHkqHciap72MZaKIy3BJOx72jnspw9tehCKhCDz1YjDM"
@@ -36,9 +43,9 @@
     {
       "termino": "anthropic",
       "trafico": "200+",
-      "noticia": "Almost all of Anthropic’s employees are now millionaires",
-      "enlace": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCmn2t76ITX01LcMUuvVZjts2QimNw3isyM78kQqpAD2I77yLH4BStuGPX5Q"
+      "noticia": "Anthropic IPO live: Anthropic stock begins trading in record $81B raise with $1.5T valuation",
+      "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk"
     },
     {
       "termino": "melissa medina de que murio",
@@ -50,9 +57,9 @@
     {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "Senado aprueba en primera discusión amnistía de armas irregulares",
-      "enlace": "https://elnacional.com.do/nacionales/senado-aprueba-primera-discusion-ley-amnistia-registro-armas-fuego-irregulares_586703.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRv764LaWTcwIBMUqjmZXWZEUzr48sT6kbdFRYgAO5HQuVYrriBuz1RXmGak"
+      "noticia": "Alexandra MVP muestra el rostro de su hija Gia Marie",
+      "enlace": "https://listindiario.com/entretenimiento/20261119/alexandra-mvp-muestra-rostro-hija-gia-marie_930820.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VR9MTk4GXCwQbUWsEB8jY9JdBnfQwlm-f0132t4ox5gLefZOYOmBRCs2huQ"
     },
     {
       "termino": "que se celebra el 19 de noviembre",
@@ -67,13 +74,6 @@
       "noticia": "Águilas, de mal en peor y sin rumbo en la pelota dominicana",
       "enlace": "https://elnacional.com.do/deportes/aguilas-siguen-mal-peor-caminando-rumbo-beisbol-dominicano_586593.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIbXnGsqno3ctq6lDJSbb9DAqiPqXDNAYGwuYahZKzmGq-Q120fWPWg-If9gc"
-    },
-    {
-      "termino": "dia del hombre",
-      "trafico": "2000+",
-      "noticia": "El Día Internacional del Hombre es un movimiento global enfocado en la salud y la equidad social",
-      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/dia-internacional-hombre-consolida-movimiento-global-enfocado-salud-equidad-social_586635.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfgJqbK53CViJ5RBiyGGs_orEsN5bpP6C4h6s0p4qCn4niiEF1Gjg2l-s3-bs"
     }
   ]
 }
