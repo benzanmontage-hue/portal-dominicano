@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-20T15:11:38.014352-04:00",
-  "hora": "15:11",
+  "updated": "2026-11-20T15:22:01.275500-04:00",
+  "hora": "15:22",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "bayern - colonia",
+      "trafico": "200+",
+      "noticia": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
+      "enlace": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw"
+    },
+    {
       "termino": "niko bellic",
       "trafico": "100+",
-      "noticia": "Is Niko Bellic in GTA 6?",
-      "enlace": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ05eoEAIuWDA6hKkX0dki-9SF0Ir5t2Xv4hTspDN1B0cHxOBSJWeFG08oyOKA"
+      "noticia": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
+      "enlace": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5nijrSXZF7B0vRncCYvEAm9IqeZDqc4k3ERxai6VgVuBinGUPnzQCsyLpAlg"
     },
     {
       "termino": "al-ahli saudi - al-nassr",
@@ -43,9 +50,9 @@
     {
       "termino": "estafa",
       "trafico": "1000+",
-      "noticia": "Black Friday: cómo identificar y evitar las estafas al comprar por internet",
-      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/black-friday-identificar-evitar-estafas-comprar-internet_586724.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6TZkbhSlYJzNC5QW3Tz2G97ZtzQAzTQmbzbzTx_bvL0jzWo_oHmtNpWg8SeM"
+      "noticia": "La compra corresponde únicamente a una fotografía impresa : cómo los vendedores publican anuncios con apariencia legítima para timarte en plataformas de segunda mano",
+      "enlace": "https://maldita.es/prebunking/20261119/vinted-wallapop-anuncio-recibes-fotos/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCiZDb-3gceveWLXIspsV5YE1GlI0-coznoc-G-ZqysSowzAU1TaLqI0qpZmY"
     },
     {
       "termino": "ashton kutcher",
@@ -67,13 +74,6 @@
       "noticia": "Los Angeles Clippers vs. San Antonio Spurs Live Score and Stats - November 19, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_LAC@SA/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
-    },
-    {
-      "termino": "timberwolves - knicks",
-      "trafico": "1000+",
-      "noticia": "Licensable picture: NBA: New York Knicks at Minnesota Timberwolves",
-      "enlace": "https://www.reutersconnect.com/item/nba-new-york-knicks-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODQ1NTQ",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ2NZqJlaEnPoo7Rwkst0MucCELuEPAEzV-jByOafZEk89wdELymhpRh694jo"
     }
   ]
 }
