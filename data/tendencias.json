@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T18:49:35.511781-04:00",
-  "hora": "18:49",
+  "updated": "2026-11-20T18:59:55.693333-04:00",
+  "hora": "18:59",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alberto ii de mónaco",
+      "trafico": "100+",
+      "noticia": "Charlene de Mónaco, junto a Carolina, deslumbra en la gala del Día Nacional con un impactante vestido dorado de Alta Costura y pendientes de 29.000 euros",
+      "enlace": "https://www.hola.com/moda/20261119935900/charlene-de-monaco-carolina-vestido-look-gala-dia-nacional-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQPlN6Q-reeeNRBjetnw9-aW09t2hL0hi0iUwc5QSbV00uIQK-8_1hA9y08yk"
+    },
     {
       "termino": "posiciones de al-ahli saudi contra al-nassr",
       "trafico": "500+",
@@ -67,13 +74,6 @@
       "noticia": "Bukele inscribirá candidatura para un tercer mandato en plena ofensiva contra pandillas de Haití",
       "enlace": "https://listindiario.com/las-mundiales/20261119/bukele-inscribira-candidatura-tercer-mandato-plena-ofensiva-pandillas-haiti_930787.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
-    },
-    {
-      "termino": "estafa",
-      "trafico": "1000+",
-      "noticia": "Generación Zoe: confirmaron el procesamiento de Cositorto por 1.095 estafas reiteradas",
-      "enlace": "https://www.infobae.com/judiciales/2026/11/20/generacion-zoe-confirmaron-el-procesamiento-de-cositorto-por-1095-estafas-reiteradas/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3z4vt2kj1yS3c-2mMlg1JprF-GtwF72OycrPXnRFKeUY_H8-8M6xbET8HrnQ"
     }
   ]
 }
