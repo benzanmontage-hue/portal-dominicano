@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T16:35:22.257933-04:00",
-  "hora": "16:35",
+  "updated": "2026-11-20T16:45:13.467388-04:00",
+  "hora": "16:45",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,16 @@
     {
       "termino": "posiciones de al-ahli saudi contra al-nassr",
       "trafico": "200+",
-      "noticia": "Al Ahli vs Al Nassr EN VIVO: resultado, goles y Cristiano Ronaldo en la Saudi Pro League 2026",
-      "enlace": "https://www.365scores.com/es/news/al-ahli-vs-al-nassr-en-vivo-goles-cr7/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoT83t5bvDjlXA951M9wJVF21-QwaFx6fCZGE0F05I6brb58MAWjvnGgX-xok"
+      "noticia": "Al-Ahli 3-1 Al-Nassr: Galeno brilla mientras Ronaldo estrella un disparo en el poste",
+      "enlace": "https://www.sofascore.com/es/news/al-ahli-3-1-al-nassr-galeno-brilla-mientras-ronaldo-estrella-un-disparo-en-el-poste",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYzGvOQ9gXS-zpVe9Ravt9EIMffPpj7goKC4elUpUPePDq3DxDYavsrBFLyVQ"
+    },
+    {
+      "termino": "bayern – cologne",
+      "trafico": "100+",
+      "noticia": "Harry Kane limps off injured as Bayern face Lille trip",
+      "enlace": "https://www.tufutbolero.com/en/news/harry-kane-limps-off-injured-as-bayern-face-lille-trip-06a41a",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9I8NTn_193mJ-bIDBPq_nAULLdOPfTgbTqPYvPrxqgAjfRQnaRo_GwsxNqg"
     },
     {
       "termino": "athletic - rcd espanyol",
@@ -36,9 +43,9 @@
     {
       "termino": "al nassr",
       "trafico": "100+",
-      "noticia": "Al-Nassr rue Ronaldo penalty miss as Toney fires Al-Ahli to comeback win",
-      "enlace": "https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRYroGo9N1fydSg1SaKPlAzYEu_-_rpH135KfxS69Qnad_LfvDYSjFAEZUQts"
+      "noticia": "Cristiano Ronaldo scores and misses a penalty as he closes in on 1,000 career goals",
+      "enlace": "https://www.goal.com/en/news/cristiano-ronaldo-moves-within-14-of-1-000-career-goals-then-misses-a-penalty-and-loses-to-ibanez-and-demiral/bltb763f54c7f6edf52",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjbq_1iQUPDiIfCA5xtMyvgvyDcBgKWHPXq_5PafrrjoBp6R7fnPa_pmCm1Mw"
     },
     {
       "termino": "al-ahli saudi - al-nassr",
@@ -67,13 +74,6 @@
       "noticia": "Bukele inscribirá candidatura para un tercer mandato en plena ofensiva contra pandillas de Haití",
       "enlace": "https://listindiario.com/las-mundiales/20261119/bukele-inscribira-candidatura-tercer-mandato-plena-ofensiva-pandillas-haiti_930787.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
-    },
-    {
-      "termino": "estafa",
-      "trafico": "1000+",
-      "noticia": "GTA 6 está por llegar, pero los estafadores ya aprovechan la expectativa",
-      "enlace": "https://www.welivesecurity.com/es/estafas-enganos/gta-6-estafas-descargas-maliciosas/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQV5_Ba_twGHI3AMsJ6XzkBYpjVlTEuf8vNQz31zHhRf-UmNWSfxM8wk6FObls"
     }
   ]
 }
