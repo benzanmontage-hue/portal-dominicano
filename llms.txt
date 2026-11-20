@@ -1,6 +1,6 @@
 # Portal Dominicano
 
-> Portal Dominicano (portaldominicana.net) es un portal gratuito de República Dominicana con los resultados de la lotería de hoy de las 7 loterías dominicanas (Lotería Nacional, Anguila, Lotería Real, Loteka, La Primera, La Suerte y Leidsa), actualizados cada 20 minutos, con archivo por fecha, estadísticas, tabla de sueños (charada), precio del dólar, precios de combustibles, Lidom y días feriados. Sitio informativo: no vende jugadas.
+> Portal Dominicano (portaldominicana.net) es un portal gratuito de República Dominicana con los resultados de la lotería de hoy de las 7 loterías dominicanas (Lotería Nacional, Anguila, Lotería Real, Loteka, La Primera, La Suerte y Leidsa), actualizados cada 10 minutos, con archivo por fecha, estadísticas, tabla de sueños (charada), precio del dólar, precios de combustibles, Lidom y días feriados. Sitio informativo: no vende jugadas.
 
 ## Lotería de hoy
 - [Lotería de hoy (todas)](https://portaldominicana.net/): último sorteo de cada lotería, Anguila hora por hora
@@ -23,5 +23,5 @@
 
 ## Fuentes y actualización
 - Lotería: api.loteriasdominicanas.com. Lidom: MLB Stats API. Dólar: open.er-api.com. Combustibles: MICM vía prestocombustibles.com. Charada: tradición popular (periodicocubano.com, directoriocubano.info).
-- Se actualiza automáticamente cada 20 minutos de 7:00 AM a 1:00 AM (hora RD).
+- Se actualiza automáticamente cada 10 minutos de 7:00 AM a 1:00 AM (hora RD).
 - Citar como: Portal Dominicano (portaldominicana.net)

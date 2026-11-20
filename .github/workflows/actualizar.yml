@@ -1,14 +1,14 @@
 # Actualiza los datos del portal, regenera las páginas y publica en Cloudflare Pages.
 #
 # Repositorio público: cada ejecución programada se queda activa ~5,5 horas y actualiza cada
-# 20 minutos (scripts/ciclo.sh). Repositorio privado: una actualización corta por hora.
+# 10 minutos (scripts/ciclo.sh). Repositorio privado: una actualización corta por hora.
 # Mientras una está activa, la siguiente programada espera en cola y arranca al terminar.
 # Un push (cambio de código) hace una sola actualización inmediata, en paralelo.
 name: Actualizar datos
 
 on:
   schedule:
-    # Cada hora. Repo público: cada ejecución se queda ~5,5 h actualizando cada 20 min (de
+    # Cada hora. Repo público: cada ejecución se queda ~5,5 h actualizando cada 10 min (de
     # madrugada en RD salta las vueltas). Repo privado: una actualización corta por ejecución.
     - cron: "37 * * * *"
   workflow_dispatch: {}   # botón "Run workflow" para arrancar un ciclo a mano
@@ -48,14 +48,14 @@ jobs:
         run: pip install --quiet pillow cryptography
 
       # Repositorio público (minutos gratis sin límite): las programadas se quedan ~5,5 h y
-      # actualizan cada 20 min. Repositorio privado (2.000 min/mes gratis): una sola vuelta
+      # actualizan cada 10 min. Repositorio privado (2.000 min/mes gratis): una sola vuelta
       # corta (~2 min) por ejecución, una vez por hora, para no agotar los minutos.
       - name: Actualizar y publicar
         run: |
           if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event.repository.private }}" = "true" ]; then
             bash scripts/ciclo.sh 1 0
           else
-            bash scripts/ciclo.sh 16 20
+            bash scripts/ciclo.sh 28 10
           fi
 
       # Deja constancia (anotación) de lo que ven los visitantes.

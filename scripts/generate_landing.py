@@ -121,6 +121,7 @@ h2.sect .bar{width:5px;height:20px;border-radius:99px;background:var(--grad);fle
 .lot-card .nums{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
 .ball{min-width:36px;height:36px;padding:0 7px;display:inline-flex;align-items:center;justify-content:center;background:var(--bg);border:1px solid var(--border);border-radius:10px;font-weight:800;font-size:1rem;font-variant-numeric:tabular-nums}
 .ball.gold{background:linear-gradient(180deg,#ffe08a,#f2b32e);color:#3d2800;border-color:#e6a800}
+.sub-h{font-size:1rem;font-weight:800;margin:16px 0 8px}
 .tabla-wrap{overflow-x:auto;background:var(--card);border:1px solid var(--border);border-radius:16px}
 table{width:100%;border-collapse:collapse;font-size:.88rem}
 th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:top}
@@ -203,6 +204,52 @@ def render_cards(juegos, hoy):
     return "\n    ".join(cards)
 
 
+def render_estadisticas(compania, nombre, archivo, hoy):
+    """Números que más salen y más atrasados en las quinielas de esta lotería (datos propios)."""
+    from generate_estadisticas import quinielas, link_num
+    from charada import jugada
+    completas = fechas_con_pagina(archivo)
+    if not completas:
+        return "", None
+    ss = [x for x in quinielas(archivo, completas[0]) if x[1] == compania]
+    if len(ss) < 10:
+        return "", None
+    import collections
+    cuenta = collections.Counter(n for *_x, nums in ss for n in nums)
+    ultima = {}
+    for f, _c, _j, nums in ss:
+        for n in nums:
+            ultima[n] = max(ultima.get(n, ""), f)
+    todos = [jugada(n) for n in range(1, 101)]
+    mas = sorted(todos, key=lambda n: (-cuenta[n], n))[:10]
+    atr = sorted(todos, key=lambda n: (ultima.get(n, "0000"), n))[:10]
+
+    def cuando(n):
+        f = ultima.get(n)
+        if not f:
+            return "no ha salido en este periodo"
+        dias = (hoy - parse_fecha(f)).days
+        return "hoy" if dias == 0 else "ayer" if dias == 1 else f"hace {dias} días"
+
+    filas_mas = "".join(f'<tr><td>{link_num(n)}</td><td class="n">{cuenta[n]}</td><td>{esc(cuando(n))}</td></tr>' for n in mas)
+    filas_atr = "".join(f'<tr><td>{link_num(n)}</td><td class="n">{cuenta[n]}</td><td>{esc(cuando(n))}</td></tr>' for n in atr)
+    desde = fecha_larga(parse_fecha(completas[0]), con_dia=False)
+    cab = '<thead><tr><th>Número</th><th>Veces</th><th>Última vez</th></tr></thead>'
+    html = (f'<h2 class="sect"><span class="bar"></span> Estadísticas de {esc(nombre)}</h2>\n'
+            f'  <p class="intro" style="margin-bottom:12px">Contamos los números de las quinielas de {esc(nombre)} '
+            f'desde el {esc(desde)}: {len(ss)} sorteos. Los sorteos son al azar; estas cifras muestran lo que ya salió, '
+            f'no predicen el próximo resultado.</p>\n'
+            f'  <h3 class="sub-h">Números que más salen en {esc(nombre)}</h3>\n'
+            f'  <div class="tabla-wrap"><table>{cab}<tbody>{filas_mas}</tbody></table></div>\n'
+            f'  <h3 class="sub-h">Números más atrasados en {esc(nombre)}</h3>\n'
+            f'  <div class="tabla-wrap"><table>{cab}<tbody>{filas_atr}</tbody></table></div>')
+    top = mas[0]
+    faq = (f"¿Cuál es el número que más sale en {nombre}?",
+           f"Desde el {desde}, el número que más ha salido en las quinielas de {nombre} es el {top} "
+           f"({cuenta[top]} veces en {len(ss)} sorteos). Los sorteos son al azar: no garantiza que vuelva a salir.")
+    return html, faq
+
+
 def render_historial(compania, juegos_hoy, archivo, hoy):
     """Tabla con los sorteos de los últimos días (sin repetir los de las tarjetas de hoy)."""
     sorteos = archivo.get("sorteos", {})
@@ -280,6 +327,9 @@ def render_pagina(l, resultados, archivo):
     cards = render_cards(juegos, hoy) if juegos else '<p class="intro">Sin resultados por ahora. Vuelve más tarde.</p>'
     historial = render_historial(l["compania"], juegos, archivo, hoy)
     faqs = faqs_para(l, juegos, upd)
+    est_html, est_faq = render_estadisticas(l["compania"], l["nombre"], archivo, hoy)
+    if est_faq:
+        faqs.insert(1, est_faq)
 
     from generate_juegos import JUEGOS  # import tardío: generate_juegos importa este módulo
     pag_juego = {(c, g): slug for slug, _n, _h, claves in JUEGOS for c, g in claves}
@@ -390,6 +440,8 @@ def render_pagina(l, resultados, archivo):
   {horas_html}
 
   {hist_html}
+
+  {est_html}
 
   <p class="intro" style="margin-top:10px"><a href="/resultados/" style="color:var(--azul2);font-weight:700">Ver resultados de días anteriores por fecha ›</a> · <a href="/numeros-que-mas-salen/" style="color:var(--azul2);font-weight:700">Números que más salen ›</a></p>
 

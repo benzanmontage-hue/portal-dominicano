@@ -142,7 +142,7 @@ def main():
                  f"En el último sorteo de {limpiar(j['juego'])} ({fecha_larga(parse_fecha(j.get('fecha')))}) "
                  f"salieron los números {' - '.join(j['numeros'])}.") for j in prin[:3]]
         faqs.append((f"¿Cada cuánto se actualizan los resultados de {nombre}?",
-                     "Portal Dominicano revisa los resultados cada 20 minutos durante todo el día. "
+                     "Portal Dominicano revisa los resultados cada 10 minutos durante todo el día. "
                      "Verifica siempre tus números con la fuente oficial antes de cobrar un premio."))
         cuerpo = f"""  <p class="intro">{texto}</p>
   <p class="upd">Actualizado: {upd.strftime('%d/%m/%Y')} {hora_12(upd)} (hora RD)</p>
@@ -164,7 +164,7 @@ def main():
         if len(title) > 65 or len(p0["numeros"]) > 4:
             title = titulo(f"{h1}: Resultados", "Números Ganadores", "Portal Dominicano")
         desc = (f"{h1} en República Dominicana. Último sorteo de {limpiar(p0['juego'])}: {' - '.join(p0['numeros'])}. "
-                f"Todos los sorteos e historial, actualizado cada 20 minutos.")
+                f"Todos los sorteos e historial, actualizado cada 10 minutos.")
         migas = [("Portal Dominicano", "/"), (nombre, ruta)]
         ld = jsonld(BASE + ruta, h1, desc, migas, extra=[faq_ld(BASE + ruta, faqs)])
         escribir(ruta, pagina(ruta=ruta, title=title, desc=desc, h1=h1, sub=f"Resultados del {fecha_larga(hoy)}",
