@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T17:37:11.547672-04:00",
-  "hora": "17:37",
+  "updated": "2026-11-20T17:47:34.261060-04:00",
+  "hora": "17:47",
   "fecha": "20/11/2026",
   "total": 15,
   "noticias": [
@@ -19,14 +19,6 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
       "imagen": "https://www.bloomberglinea.com/resizer/v2/R6DZP4FPONDQ5JLDG7DA62MWOA.jpg?auth=57bdd3fd39f940688d5cdbe14ce22a61a17081b44f793406b707a7074ba3a3b0&width=1200&height=630&quality=80&smart=true"
-    },
-    {
-      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
-      "fuente": "MLB.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWdhT1VMVE4wOUtsLThhTHhTZmVTUEtwUVRHVzgzb3lYaUMtNjFoZmhhMEtETDZyQUpCMkNncjFnY0xNODBqdlRJdFgzWkNIQzNYTk9QNmpXUTBYVEVEcHhiS2pQdlBqZlBRVnNGc3FhWHNSQ3h4OHYtdlJuRVUydUdXR2lITE55UFB4NjVhaFJHekJoSHkzTnhVQjRKUVNSTU43VUxqdHVLdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 15:11:14 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Panamericano U12: más de 30 jugadores de la Serie del Caribe Kids regresan con sabor a revancha - seriedelCaribe.net",
@@ -61,20 +53,28 @@
       "imagen": "https://www.cubanet.org/wp-content/uploads/2026/11/buque-cubano-republica-dominicana-e1795189934356.webp"
     },
     {
-      "titulo": "La República Dominicana recibirá este año un récord de más de 12,3 millones de turistas - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMm5VYVBLMmdlcC1fUXdtNG9na1FjZ2tTVEhaOTI3UjdHSllDR3pFd3k3Umt5U2tBTHdMTjBiWUNudGxtaDFjTVFnYkhKdXZQa21sSk5yTkVpSkd5YU5pemwyZUp2NkxpaGhLYWVhdW40bTZ0OURVdGhQSVhaT2h5WjROM3hSRU0xMVMtTVI4VFZZOWxaS09BUzl4c254RDZIV215a2tYbnJrTktn?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 19:52:24 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
       "fuente": "Real Madrid CF | Web Oficial",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1FfZTkxeUcwaW8xSkxySmtWZVRHeVhuZGt6RmRlQTZlZk5uQ0tweTM5YVNZRE1QN1hwLWd6RzRFNVZQc2pESmZBNEppTmRlSTFqNWRNemlVVGVjN3JsM3NScmRBWHVkTHVjTjEzTUk3QVFudGhKRkRGc3AtWWdsWmVSNTd1WUpyQW1HU1ZKVlp3bk9Yc2U4WVpoTzdCS090Q0ttaHpObzM4dTIzeDZ1bzNuTGFWTko0X0JnVHln?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 08:10:00 GMT",
       "imagen": "https://assets.realmadrid.com/is/image/realmadrid/ND-VALVERDE-URUGUAY-RD_GettyImages-2305122208?wid=1200&hei=675"
+    },
+    {
+      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
+      "fuente": "MLB.com",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 15:20:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana recibirá este año un récord de más de 12,3 millones de turistas - EFE - Agencia de noticias",
+      "fuente": "EFE - Agencia de noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHZlanZoRUJhRWstZnQwTXYwZFFLNGRJMXhXLWI3WUVPNFcwUng2QzN1Wi1nWjZ3Q3QwbV9kMWxvcEtkQk5WQjdRLTNXRE5nWm1aMnZBU3Z6enRPY2daR2JzQWtRNGU5NlpILUNDX3Zremd6VHJaMGQxV3p6UE5xclJCMUU2SjFrMGd0Q0JPbkI4d2dHUGJaelNYSFhQLTVDZEY0bFJUak5UZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 20:34:09 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana participará por segundo año consecutivo en la Feria del Libro de Guadalajara - Diario Libre",
@@ -91,6 +91,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    },
+    {
+      "titulo": "Dominicana impulsa acercamiento entre América Latina y Medio Oriente - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDBjc01PR3o1a0NaVzJ1WUdBSk5Hbm1aRHo0b0JHeGxYWFlkWXFfWm1TNE80cTdxRkQ1NWVCdmtYeFVfYVRsWHptUGdlSW9yQlVRZG5ROXpNT29fVkxWRHlfOWc0eTRVQUlJMktYSGdLVVRoSE5oZ19OSF9tUW9jdFgtSVR4cXRRRUVOUms2c3lVb21vZ3hVUHlvYlJNTjRod0Z1OEp6R2ZrQTBqMFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 18:15:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "titulo": "Karol G pospone su esperado regreso a República Dominicana: ¿Cuándo será la nueva fecha de su concierto? - Infobae",
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 18:30:00 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
-      "titulo": "Rodrigo Aguirre abrió el marcador para Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWUxN182U1B0bUJMMFlKS3FtcXV4ckl4T3E5d1JURmN5bThWclRjcFlTZmhkYTE1NkFTTjVCNHdQbmk3TlQzN0ZQLUtVSmJzZ3FvZ1JGSHctLXpHQkFlSnVwTFFJM0NsU0VGRWZVR3FUbTZZS0kwMld2eU4wcDZPTWs2WEd6T0E1UVlvdll5N3ZiNmpFTmtYVEstZGFRU1ZWVDVmVGVfay1sNzNPN1FjS3J3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 00:23:00 GMT",
-      "imagen": ""
     }
   ]
 }
