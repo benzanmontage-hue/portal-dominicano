@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T23:20:48+00:00",
+ "actualizado": "2026-11-20T11:08:30+00:00",
  "total": 40,
  "emisoras": [
   {
@@ -12,7 +12,7 @@
     "news",
     "talk"
    ],
-   "clics": 3
+   "clics": 4
   },
   {
    "nombre": "Disco 106.1",
@@ -21,7 +21,7 @@
    "bitrate": 128,
    "favicon": "",
    "tags": [],
-   "clics": 9
+   "clics": 13
   },
   {
    "nombre": "Dominicana FM 98.9 y 99.9 FM",
@@ -34,7 +34,7 @@
     "government",
     "latino"
    ],
-   "clics": 6
+   "clics": 8
   },
   {
    "nombre": "La Nueva 106.9 FM",
@@ -47,7 +47,7 @@
     "merengue",
     "news"
    ],
-   "clics": 6
+   "clics": 4
   },
   {
    "nombre": "Canal 105.1 FM",
@@ -60,7 +60,7 @@
     "latino",
     "merengue"
    ],
-   "clics": 6
+   "clics": 4
   },
   {
    "nombre": "CDN Radio",
@@ -73,7 +73,7 @@
     "beisbol",
     "deportes"
    ],
-   "clics": 6
+   "clics": 5
   },
   {
    "nombre": "Top Bachata Radio",
@@ -82,7 +82,7 @@
    "bitrate": 128,
    "favicon": "",
    "tags": [],
-   "clics": 7
+   "clics": 9
   },
   {
    "nombre": "Bachata FM",
@@ -93,7 +93,7 @@
    "tags": [
     "bachata"
    ],
-   "clics": 2
+   "clics": 5
   },
   {
    "nombre": "Criolla 106.1 FM",
@@ -109,13 +109,17 @@
    "clics": 4
   },
   {
-   "nombre": "Estelar 106",
-   "url": "https://nexostream.net:8060/live",
+   "nombre": "Estelar-106",
+   "url": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream",
    "codec": "MP3",
-   "bitrate": 112,
-   "favicon": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png",
-   "tags": [],
-   "clics": 6
+   "bitrate": 128,
+   "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEhd29uClrp0DUBQ0hI6ftLzRmYEQjaTu_cxpUEJBtPREGLIzkNxQwSxkYJLa8zsdjCauHjTakBF0CIQFR7gtcda4xga73N_nJeWmKiAQy8OQObQsfYzhTTrWDx6pxq_887mucURzMjgMP3zJDfYqHCvLrhXHTfu40xlan_YgDpdJgv8HLLXrxsa_UCc4Q=s429",
+   "tags": [
+    "latino",
+    "merengue",
+    "music"
+   ],
+   "clics": 5
   },
   {
    "nombre": "Reggaeton 92.3 FM",
@@ -126,7 +130,7 @@
    "tags": [
     "soft reggaeton"
    ],
-   "clics": 23
+   "clics": 30
   },
   {
    "nombre": "Top Salsa Radio",
@@ -137,7 +141,7 @@
    "tags": [
     "salsa"
    ],
-   "clics": 22
+   "clics": 26
   },
   {
    "nombre": "Tropical 100 Salsa",
@@ -148,7 +152,31 @@
    "tags": [
     "salsa"
    ],
-   "clics": 21
+   "clics": 24
+  },
+  {
+   "nombre": "Top Merengue Radio",
+   "url": "https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [
+    "merengue"
+   ],
+   "clics": 20
+  },
+  {
+   "nombre": "Latina 104",
+   "url": "https://radio.dominiserver.com/proxy/latina104?mp=/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [
+    "merengue",
+    "merengue bachata",
+    "radio dominicana"
+   ],
+   "clics": 19
   },
   {
    "nombre": "Ritmo 96.5 FM",
@@ -164,43 +192,6 @@
    "clics": 17
   },
   {
-   "nombre": "Latina 104",
-   "url": "https://radio.dominiserver.com/proxy/latina104?mp=/stream",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
-   "tags": [
-    "merengue",
-    "merengue bachata",
-    "radio dominicana"
-   ],
-   "clics": 16
-  },
-  {
-   "nombre": "Top Merengue Radio",
-   "url": "https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
-   "tags": [
-    "merengue"
-   ],
-   "clics": 14
-  },
-  {
-   "nombre": "Tropical 100 Mix",
-   "url": "https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
-   "tags": [
-    "bachata",
-    "latin",
-    "merengue"
-   ],
-   "clics": 10
-  },
-  {
    "nombre": "Top Urbano",
    "url": "https://radio.dominiserver.com/proxy/topurbano?mp=/stream",
    "codec": "MP3",
@@ -211,53 +202,20 @@
     "latino urbano",
     "pop urbano"
    ],
-   "clics": 10
+   "clics": 15
   },
   {
-   "nombre": "Fuego 90.1",
-   "url": "https://radiordomi.com/8390/stream",
+   "nombre": "FieraMix",
+   "url": "https://c11.radioboss.fm:18269/stream",
    "codec": "AAC+",
-   "bitrate": 128,
-   "favicon": "https://www.rdmusica.com/wp-content/uploads/2023/05/fuego90-560x560.png",
+   "bitrate": 256,
+   "favicon": "https://fieramix.com/assets/favicon.ico",
    "tags": [
-    "latin music",
-    "salsa"
+    "bachata",
+    "merengue",
+    "musica latina"
    ],
-   "clics": 9
-  },
-  {
-   "nombre": "Top Balada Radio",
-   "url": "https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
-   "tags": [
-    "baladas",
-    "boleros"
-   ],
-   "clics": 9
-  },
-  {
-   "nombre": "Radio Eternidad",
-   "url": "https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200",
-   "codec": "MP3",
-   "bitrate": 0,
-   "favicon": "https://radioeternidad.com/favicon.ico",
-   "tags": [],
-   "clics": 9
-  },
-  {
-   "nombre": "Palma 90.7 FM",
-   "url": "https://radiordomi.com/8030/stream",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "https://empresasradiofonicas.com.do/wp-content/uploads/2016/02/palma-1.png",
-   "tags": [
-    "merengue 80s 90s",
-    "salsa 80s 90s",
-    "tropical"
-   ],
-   "clics": 8
+   "clics": 11
   },
   {
    "nombre": "710 AM Radio Nacional Cristiana (RD)",
@@ -268,7 +226,7 @@
    "tags": [
     "cristiana"
    ],
-   "clics": 8
+   "clics": 10
   },
   {
    "nombre": "Monumental 100.3 FM",
@@ -281,20 +239,16 @@
     "republica dominicana",
     "santiago"
    ],
-   "clics": 8
+   "clics": 9
   },
   {
-   "nombre": "BUEN PASTOR RADIO",
-   "url": "https://c22.radioboss.fm:8394/stream",
-   "codec": "AAC+",
-   "bitrate": 64,
-   "favicon": "https://buenpastoradio.blogspot.com/favicon.ico",
-   "tags": [
-    "bachata",
-    "catolica",
-    "merengue"
-   ],
-   "clics": 8
+   "nombre": "Los 40 República Dominicana",
+   "url": "https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [],
+   "clics": 9
   },
   {
    "nombre": "Salsa 92.7 FM",
@@ -303,7 +257,32 @@
    "bitrate": 128,
    "favicon": "",
    "tags": [],
-   "clics": 7
+   "clics": 8
+  },
+  {
+   "nombre": "Tropical 100 Mix",
+   "url": "https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [
+    "bachata",
+    "latin",
+    "merengue"
+   ],
+   "clics": 8
+  },
+  {
+   "nombre": "Top Balada Radio",
+   "url": "https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [
+    "baladas",
+    "boleros"
+   ],
+   "clics": 8
   },
   {
    "nombre": "Radio fm103 (RD)",
@@ -317,15 +296,27 @@
    "clics": 7
   },
   {
-   "nombre": "FieraMix",
-   "url": "https://c11.radioboss.fm:18269/stream",
+   "nombre": "Fuego 90.1",
+   "url": "https://radiordomi.com/8390/stream",
    "codec": "AAC+",
-   "bitrate": 256,
-   "favicon": "https://fieramix.com/assets/favicon.ico",
+   "bitrate": 128,
+   "favicon": "https://www.rdmusica.com/wp-content/uploads/2023/05/fuego90-560x560.png",
+   "tags": [
+    "latin music",
+    "salsa"
+   ],
+   "clics": 7
+  },
+  {
+   "nombre": "Radio Cima 100.5",
+   "url": "https://app.sonicpanelradio.com:8648/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
    "tags": [
     "bachata",
     "merengue",
-    "musica latina"
+    "tropical"
    ],
    "clics": 7
   },
@@ -339,27 +330,17 @@
    "clics": 7
   },
   {
-   "nombre": "La Voz del Pacoredo",
-   "url": "https://stream-50.zeno.fm/9zxyvh9vrhruv",
+   "nombre": "Palma 90.7 FM",
+   "url": "https://radiordomi.com/8030/stream",
    "codec": "MP3",
    "bitrate": 128,
-   "favicon": "",
+   "favicon": "https://empresasradiofonicas.com.do/wp-content/uploads/2016/02/palma-1.png",
    "tags": [
-    "news"
+    "merengue 80s 90s",
+    "salsa 80s 90s",
+    "tropical"
    ],
-   "clics": 6
-  },
-  {
-   "nombre": "Exclusive Radio",
-   "url": "https://servidor25-3.brlogic.com:7110/live",
-   "codec": "MP3",
-   "bitrate": 192,
-   "favicon": "",
-   "tags": [
-    "chill house",
-    "chillout+lounge"
-   ],
-   "clics": 6
+   "clics": 7
   },
   {
    "nombre": "Estrella 92.3 FM",
@@ -371,6 +352,92 @@
     "bachata",
     "entretenimiento",
     "latino"
+   ],
+   "clics": 7
+  },
+  {
+   "nombre": "Radio Eternidad",
+   "url": "https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200",
+   "codec": "MP3",
+   "bitrate": 0,
+   "favicon": "https://radioeternidad.com/favicon.ico",
+   "tags": [],
+   "clics": 7
+  },
+  {
+   "nombre": "Tropical 100 Bolero",
+   "url": "https://stream.zeno.fm/b34hotasejstv",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "https://cdn-profiles.tunein.com/s102276/images/logod.png?t=637903326480000000",
+   "tags": [],
+   "clics": 6
+  },
+  {
+   "nombre": "La Voz del Pacoredo",
+   "url": "https://stream-50.zeno.fm/9zxyvh9vrhruv",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "",
+   "tags": [
+    "news"
+   ],
+   "clics": 6
+  },
+  {
+   "nombre": "Suave 107.3 FM",
+   "url": "https://stream.zeno.fm/cta80ru8na0uv",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "http://suave107.com/wp-content/uploads/2015/04/logo-suave.png",
+   "tags": [],
+   "clics": 6
+  },
+  {
+   "nombre": "Alofoke FM 99.3 (antes Sonido Suave)",
+   "url": "https://radiordomi.com:8566/stream",
+   "codec": "MP3",
+   "bitrate": 192,
+   "favicon": "https://cdn.onlineradiobox.com/img/fblogo/7/126797.v4.png",
+   "tags": [
+    "reggaeton",
+    "talk",
+    "urban"
+   ],
+   "clics": 6
+  },
+  {
+   "nombre": "La Chercha Radio",
+   "url": "https://radio.broadcastpilot.com/listen/chercha-radio/radio.mp3",
+   "codec": "MP3",
+   "bitrate": 192,
+   "favicon": "https://chercharadio.com/wp-content/uploads/2026/10/chercha-brand.png",
+   "tags": [
+    "bachata",
+    "comedy",
+    "dominican"
+   ],
+   "clics": 6
+  },
+  {
+   "nombre": "Turbo 98.3 FM",
+   "url": "https://cdn-embed.tunein.com/resources/media/blank.mp3",
+   "codec": "MP3",
+   "bitrate": 0,
+   "favicon": "https://cdn-profiles.tunein.com/s96665/images/logod.png?t=637250015740000000",
+   "tags": [],
+   "clics": 6
+  },
+  {
+   "nombre": "Miss 104 FM",
+   "url": "https://radio.dominiserver.com/proxy/miss104fm?mp=/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "favicon": "https://latina104.net/wp-content/uploads/2021/06/miss-104-fm-756x680.jpg",
+   "tags": [
+    "baladas en español",
+    "musica romantica",
+    "pop latino"
    ],
    "clics": 6
   },
@@ -388,84 +455,13 @@
    "clics": 6
   },
   {
-   "nombre": "Los 40 República Dominicana",
-   "url": "https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play",
+   "nombre": "Mortal 104.9 FM",
+   "url": "https://radio.telemicro.com.do/mortal104",
    "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "",
+   "bitrate": 320,
+   "favicon": "https://nexotuner.net/wp-content/uploads/2025/07/nvo-300x300-2.jpg",
    "tags": [],
    "clics": 6
-  },
-  {
-   "nombre": "RD 700am Radio Gosen",
-   "url": "https://s5.radio.co/sfc2826e6e/listen",
-   "codec": "MP3",
-   "bitrate": 192,
-   "favicon": "https://i.imgur.com/MH4k2RE.png",
-   "tags": [
-    "cristiana"
-   ],
-   "clics": 5
-  },
-  {
-   "nombre": "Ritmo 96",
-   "url": "https://stream.zenolive.com/y0br5ck4ququv",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "http://ritmo96.com/wp-content/uploads/2024/04/ritmo96.png",
-   "tags": [],
-   "clics": 5
-  },
-  {
-   "nombre": "Alofoke FM 99.3 (antes Sonido Suave)",
-   "url": "https://radiordomi.com:8566/stream",
-   "codec": "MP3",
-   "bitrate": 192,
-   "favicon": "https://cdn.onlineradiobox.com/img/fblogo/7/126797.v4.png",
-   "tags": [
-    "reggaeton",
-    "talk",
-    "urban"
-   ],
-   "clics": 5
-  },
-  {
-   "nombre": "Pura Vida FM",
-   "url": "https://cast10.plugstreaming.com/stream/pvsdq",
-   "codec": "AAC+",
-   "bitrate": 192,
-   "favicon": "https://cdn.onlineradiobox.com/img/fblogo/4/32474.v6.png",
-   "tags": [
-    "christian",
-    "contemporary christian"
-   ],
-   "clics": 5
-  },
-  {
-   "nombre": "Independencia FM 93.3",
-   "url": "https://stream.radiojar.com/nc893hafc8zuv",
-   "codec": "MP3",
-   "bitrate": 0,
-   "favicon": "https://cdn.onlineradiobox.com/img/fblogo/3/32953.v5.png",
-   "tags": [
-    "music",
-    "news",
-    "talk"
-   ],
-   "clics": 5
-  },
-  {
-   "nombre": "Disco 89 88.9 FM",
-   "url": "https://rgradio.net/disco89/disco89.mp3",
-   "codec": "MP3",
-   "bitrate": 128,
-   "favicon": "https://disco89fm.com/themes/disco89/assets/img/logodiscoext.png",
-   "tags": [
-    "baladas en español",
-    "music",
-    "musica romantica"
-   ],
-   "clics": 5
   }
  ]
 }

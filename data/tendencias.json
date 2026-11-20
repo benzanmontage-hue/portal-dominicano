@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-20T00:47:20.957941-04:00",
-  "hora": "00:47",
+  "updated": "2026-11-20T07:08:30.393049-04:00",
+  "hora": "07:08",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "estafa",
+      "trafico": "100+",
+      "noticia": "Cuidado con las plataformas de inversión: estafan más de 170.000 euros a dos riojanos",
+      "enlace": "https://www.larioja.com/la-rioja/sucesos/estafas-rioja-plataformas-inversion-whatsapp-20261120085854-nt.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ014O5SyF-xabcc8SsOQdLyoZC2Q96aKNSjxAFj9BxOAX_-quvwVoqtXKOI_0"
+    },
+    {
+      "termino": "bucks - trail blazers",
+      "trafico": "100+",
+      "noticia": "SCOOT   DAME COMBINE FOR 60 IN LILLARD’S RETURN TO …",
+      "enlace": "https://sports.yahoo.com/articles/scoot-dame-combine-60-lillard-034957593.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_EBR-McUGy7J3FEVljQFYRYM64vDMME-Q4jO4_oVvxZl48bNNQiutk_PO3Lg"
+    },
     {
       "termino": "spurs - clippers",
       "trafico": "500+",
@@ -15,23 +29,30 @@
     {
       "termino": "timberwolves - knicks",
       "trafico": "500+",
-      "noticia": "Karl-Anthony Towns, Knicks survive late rally to edge Timberwolves",
-      "enlace": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-survive-late-rally-to-edge-timberwolves/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
+      "noticia": "Knicks Face Timberwolves in Minneapolis NBA Showdown",
+      "enlace": "https://cwibc.co.id/en/knicks-face-timberwolves-minneapolis",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ1FTNK0aRT1xyzKwJrVV6HHbiYSYOU-kUB3h6BwS8NKdErrjTsbFgEy35-io"
     },
     {
       "termino": "grizzlies - warriors",
       "trafico": "2000+",
-      "noticia": "Grizzlies rout Warriors 126-98 to extend winning streak to five",
-      "enlace": "https://www.cbssports.com/nba/news/grizzlies-rout-warriors-126-98-to-extend-winning-streak-to-five/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
+      "noticia": "Golden State Warriors vs. Memphis Grizzlies Live Score and Stats - November 19, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_GS@MEM/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHr6LW-Ix106WnmwFIKtH60clOhKY2HcmA8IM_6eJEGekj9VygsOyM1CgmOY"
     },
     {
       "termino": "servicio geológico colombiano",
       "trafico": "200+",
-      "noticia": "Temblor hoy en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente, según el Servicio Geológico",
-      "enlace": "https://redmas.com.co/temblor-hoy-en-colombia-en-vivo--magnitud-epicentro-y-profundidad-del-sismo-mas-reciente-segun-el-servicio-geologico-lb202611190002.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgy0ARve9Z9FrJoo4P_Y1gnVKabA-nHLrEwdj6IppWcbZyJJsbR4mZ_Np5MBs"
+      "noticia": "Tembló nuevamente en Colombia hoy 14 de noviembre de 2026: atento al reporte",
+      "enlace": "https://www.noticiasrcn.com/colombia/temblor-en-colombia-hoy-14-de-noviembre-de-2026-1082234",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShND_TN-TIBMFJeyb4EiX-EOJ_XlfWi7lcI46XdBtUGoYU-Vv9MlOAs3fhf9E"
+    },
+    {
+      "termino": "barcelona - servette fc chênois féminin",
+      "trafico": "200+",
+      "noticia": "Barcelona vs Servette Chênois: UEFA Women s Champions League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/ckedq9585zwnt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "waldys taveras",
@@ -43,37 +64,16 @@
     {
       "termino": "anthropic",
       "trafico": "200+",
-      "noticia": "Almost all of Anthropic’s employees are now millionaires",
-      "enlace": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCmn2t76ITX01LcMUuvVZjts2QimNw3isyM78kQqpAD2I77yLH4BStuGPX5Q"
+      "noticia": "Anthropic IPO will create thousands of multimillionaire employees",
+      "enlace": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThbsNQm9R0YvBHSlsBYUEhFJZyOjNMLwGdVwnO-9K2P4RhBHSfj-lkGcCGZ4U"
     },
     {
       "termino": "melissa medina de que murio",
       "trafico": "200+",
-      "noticia": "Identifican a las dos personas que estaban con Melissa Medina el día en que falleció",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/19/identifican-a-quienes-estaban-con-melissa-medina-en-apartamento/3726052",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX-zUkzX_AlLcLUBBKrF40SxQL129E_HsBHbgQg3CFEDRHUpfZhuSVAr2JT20"
-    },
-    {
-      "termino": "primera",
-      "trafico": "200+",
-      "noticia": "Senado aprueba en primera discusión amnistía de armas irregulares",
-      "enlace": "https://elnacional.com.do/nacionales/senado-aprueba-primera-discusion-ley-amnistia-registro-armas-fuego-irregulares_586703.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRv764LaWTcwIBMUqjmZXWZEUzr48sT6kbdFRYgAO5HQuVYrriBuz1RXmGak"
-    },
-    {
-      "termino": "que se celebra el 19 de noviembre",
-      "trafico": "100+",
-      "noticia": "¿Qué se celebra hoy en el mundo? Efemérides del 19 de noviembre, hechos y conmemoraciones de esta fecha",
-      "enlace": "https://acento.com.do/actualidad/que-se-celebra-hoy-en-el-mundo-efemerides-del-19-de-noviembre-hechos-y-conmemoraciones-de-esta-fecha-9792549.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbe6OppIvAiSfggXgXeWjy2lHUIg1kVZGaz4qsCypBIvvlRmMy5wvATMsRfl0"
-    },
-    {
-      "termino": "francisco cervelli",
-      "trafico": "2000+",
-      "noticia": "Águilas, de mal en peor y sin rumbo en la pelota dominicana",
-      "enlace": "https://elnacional.com.do/deportes/aguilas-siguen-mal-peor-caminando-rumbo-beisbol-dominicano_586593.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIbXnGsqno3ctq6lDJSbb9DAqiPqXDNAYGwuYahZKzmGq-Q120fWPWg-If9gc"
+      "noticia": "Los restos de Melissa Medina serán cremados este jueves tras un íntimo velatorio",
+      "enlace": "https://www.diariolibre.com/revista/farandula/2026/11/19/los-restos-de-melissa-medina-seran-cremados/3725652",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTezWovWjGSL6E4NHIk8GA9ZUShhvQojqTXCY9QQ0CfjwXQX38CdbhPmaVjc84"
     }
   ]
 }
