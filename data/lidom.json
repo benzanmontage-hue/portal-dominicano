@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:42:47-04:00",
+ "updated": "2026-11-20T19:53:19-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -452,8 +452,8 @@
    "id": 851429,
    "fecha": "2026-11-20",
    "hora": "19:30",
-   "estado": "Preview",
-   "detalle": "Delayed Start",
+   "estado": "Live",
+   "detalle": "In Progress",
    "visitante": "Tigres del Licey",
    "visitante_id": 672,
    "carreras_v": null,
