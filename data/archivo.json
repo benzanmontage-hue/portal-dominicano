@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T15:53:23-04:00",
+ "actualizado": "2026-11-20T16:03:47-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -1736,6 +1736,14 @@
    }
   ],
   "Anguila|Anguila 4:00 PM": [
+   {
+    "fecha": "2026-11-20",
+    "numeros": [
+     "01",
+     "12",
+     "24"
+    ]
+   },
    {
     "fecha": "2026-11-19",
     "numeros": [
