@@ -63,7 +63,10 @@ def faq_html(faqs):
     return "\n    ".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faqs)
 
 
-def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False, aviso=""):
+BUSCADOR = ('<form class="bz-f" action="/buscar/" method="get" role="search"><input type="search" name="q" data-buscar autocomplete="off" placeholder="Buscar: Leidsa, New York, 39, soñé con…" aria-label="Buscar en Portal Dominicano"></form>')
+
+
+def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots="index,follow,max-image-preview:large", radio=False, aviso="", buscador=True):
     """ruta: '/resultados/2026-10-17/'. migas: [(nombre, ruta)], la última es esta página."""
     url = BASE + ruta
     from comun import recortar
@@ -118,6 +121,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
   {f'<p class="fecha">{esc(sub)}</p>' if sub else ''}
   {f'<div class="hora">{esc(chip)}</div>' if chip else ''}
   {f'<div><button class="aviso-btn" type="button" data-aviso="{aviso}" hidden>Avísame</button></div>' if aviso else ''}
+  {BUSCADOR if buscador else ''}
 </header>
 <main class="wrap">
 {cuerpo}
@@ -137,6 +141,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
 </footer>
 {'<script src="/radio.js" defer></script>' if radio else ''}
 {'<script src="/avisos.js" defer></script>' if aviso else ''}
+<script src="/buscar.js" defer></script>
 </body>
 </html>
 """

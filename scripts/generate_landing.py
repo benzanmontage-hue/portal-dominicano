@@ -427,6 +427,7 @@ def render_pagina(l, resultados, archivo):
   <p class="fecha">Resultados del {esc(fecha_txt)}</p>
   <div class="hora">🕐 {esc(l['hora'])}</div>
   <div><button class="aviso-btn" type="button" data-aviso="{l['slug']}" hidden>🔔 Avísame cuando salga {esc(l['nombre'])}</button></div>
+  <form class="bz-f" action="/buscar/" method="get" role="search"><input type="search" name="q" data-buscar autocomplete="off" placeholder="Buscar: Leidsa, New York, 39, soñé con…" aria-label="Buscar en Portal Dominicano"></form>
 </header>
 <main class="wrap">
   <p class="intro">{l['intro']}</p>
@@ -469,6 +470,7 @@ def render_pagina(l, resultados, archivo):
 <script>{js}</script>
 <script src="/radio.js" defer></script>
 <script src="/avisos.js" defer></script>
+<script src="/buscar.js" defer></script>
 </body>
 </html>
 """

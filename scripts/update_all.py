@@ -42,6 +42,7 @@ GENERADORES = [
     "scripts/generate_feed.py",
     "scripts/tarjeta.py",
     "scripts/prerender_home.py",
+    "scripts/build_buscador.py",
     "scripts/build_sitemap.py",
 ]
 CRITICOS = {"scripts/scrape_loteria.py", *GENERADORES}
