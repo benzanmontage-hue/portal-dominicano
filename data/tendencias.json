@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-19T21:22:52.969101-04:00",
-  "hora": "21:22",
+  "updated": "2026-11-19T21:43:10.942423-04:00",
+  "hora": "21:43",
   "fecha": "19/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "timberwolves - knicks",
+      "trafico": "200+",
+      "noticia": "Karl-Anthony Towns leads Knicks into Minnesota to face Timberwolves",
+      "enlace": "https://www.cbssports.com/nba/news/karl-anthony-towns-leads-knicks-into-minnesota-to-face-timberwolves/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KxqHcBFE_i0Lb9vhHkqHciap72MZaKIy3BJOx72jnspw9tehCKhCDz1YjDM"
+    },
     {
       "termino": "grizzlies - warriors",
       "trafico": "500+",
@@ -29,9 +36,9 @@
     {
       "termino": "anthropic",
       "trafico": "200+",
-      "noticia": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
-      "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8NOr2_UM5Nvyqleic4swgi_eSMkqrEvQkoz6ZI2cZNJx-MRRoVUk5SXGrJi4"
+      "noticia": "Almost all of Anthropic’s employees are now millionaires",
+      "enlace": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCmn2t76ITX01LcMUuvVZjts2QimNw3isyM78kQqpAD2I77yLH4BStuGPX5Q"
     },
     {
       "termino": "melissa medina de que murio",
@@ -43,9 +50,9 @@
     {
       "termino": "primera",
       "trafico": "200+",
-      "noticia": "Karen Yapoort tendrá a María Tatis como primera invitada de  Mujeres de las Grandes Ligas",
-      "enlace": "https://listindiario.com/entretenimiento/tv/20261119/karen-yapoort-tendra-maria-tatis-primera-invitada-mujeres-grandes-ligas_930807.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Z1HtR9GC32FJC-c2Qy5QknBGCvm_foF7lQxn95gRyyGuTTC5CWkwtQhBxhY"
+      "noticia": "Senado aprueba en primera discusión amnistía de armas irregulares",
+      "enlace": "https://elnacional.com.do/nacionales/senado-aprueba-primera-discusion-ley-amnistia-registro-armas-fuego-irregulares_586703.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRv764LaWTcwIBMUqjmZXWZEUzr48sT6kbdFRYgAO5HQuVYrriBuz1RXmGak"
     },
     {
       "termino": "que se celebra el 19 de noviembre",
@@ -62,18 +69,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIbXnGsqno3ctq6lDJSbb9DAqiPqXDNAYGwuYahZKzmGq-Q120fWPWg-If9gc"
     },
     {
-      "termino": "béisbol",
-      "trafico": "500+",
-      "noticia": "Veamos las alternativas de los Yankees para la antesala en el 2027",
-      "enlace": "https://www.mlb.com/es/news/alternativas-de-yankees-para-la-antesala-en-2027",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tEXTQrnQGRjxVUIeMihFot9ZgWdHH5fY6qnR3Q0R6Kk2Cq_3Ebfb8u_gbHU"
-    },
-    {
-      "termino": "ana boyer preysler",
+      "termino": "dia del hombre",
       "trafico": "2000+",
-      "noticia": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes:  Fernando y yo hemos cambiado mucho como pareja",
-      "enlace": "https://www.hola.com/actualidad/20261118935477/ana-boyer-hace-balance-anyo-grandes-cambios-fernando-hemos-cambiado-mucho-como-pareja/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8fkM-JT0Nr9dc2eRJc8Anzk2ZVuYSTymLGL0eC2xqqN8_Y1gWUOQgf2Q-YTw"
+      "noticia": "El Día Internacional del Hombre es un movimiento global enfocado en la salud y la equidad social",
+      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/dia-internacional-hombre-consolida-movimiento-global-enfocado-salud-equidad-social_586635.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfgJqbK53CViJ5RBiyGGs_orEsN5bpP6C4h6s0p4qCn4niiEF1Gjg2l-s3-bs"
     }
   ]
 }
