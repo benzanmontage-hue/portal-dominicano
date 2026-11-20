@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T10:14:29.412890-04:00",
-  "hora": "10:14",
+  "updated": "2026-11-20T10:34:58.091935-04:00",
+  "hora": "10:34",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "grandes ligas de béisbol",
+      "trafico": "100+",
+      "noticia": "Pete Rose es indultado póstumamente por el presidente Donald Trump",
+      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17535872/mlb-2026-pete-rose-indulto-postumo-presidente-trump",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB1JalT3aSRRz9lgl0eYsF_7hbvm6TTYBgV0ki-3DSPGRxlYUX5qgmDVciIqo"
+    },
     {
       "termino": "nayib bukele",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "estafa",
       "trafico": "500+",
-      "noticia": "Siguen las estafas: casi dos de cada tres adultos han sufrido intentos de estafa y el 9 % ha perdido dinero",
-      "enlace": "https://www.notimerica.com/comunicados/noticia-comunicado-siguen-estafas-casi-dos-cada-tres-adultos-sufrido-intentos-estafa-perdido-dinero-20261120092430.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlhRYTwmfImbHlAAvbhqFBEIcEANWe9AWRSTuDY1nBFq0ACR4RAjiEiEjq4IE"
+      "noticia": "Black Friday: cómo identificar y evitar las estafas al comprar por internet",
+      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/black-friday-identificar-evitar-estafas-comprar-internet_586724.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6TZkbhSlYJzNC5QW3Tz2G97ZtzQAzTQmbzbzTx_bvL0jzWo_oHmtNpWg8SeM"
     },
     {
       "termino": "ashton kutcher",
@@ -43,9 +50,9 @@
     {
       "termino": "timberwolves - knicks",
       "trafico": "1000+",
-      "noticia": "NBA roundup: Knicks hold off Timberwolves  late rally for 3rd straight win",
-      "enlace": "https://www.reuters.com/sports/nba-roundup-knicks-hold-off-timberwolves-late-rally-3rd-straight-win--flm-2026-11-20/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLsRNOMLl0rnfnfluihF4ckXe9JG1jOjTm85uJAWvLLLfYj2NKF7lG9ldruw"
+      "noticia": "Licensable picture: NBA: New York Knicks at Minnesota Timberwolves",
+      "enlace": "https://www.reutersconnect.com/item/nba-new-york-knicks-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODQ1NTQ",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdYfRs6pjGzNoRRT11NeE8PS6ouC1gruiphHpU1Fbbk93xg1yEIVAc9Nd7Fd4"
     },
     {
       "termino": "grizzlies - warriors",
@@ -67,13 +74,6 @@
       "noticia": "Barcelona vs Servette Chênois: UEFA Women s Champions League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/ckedq9585zwnt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
-    },
-    {
-      "termino": "waldys taveras",
-      "trafico": "100+",
-      "noticia": "Muere Dora Noelia Taveras Castillo, hija de Waldys Taveras, tras enfrentar quemaduras",
-      "enlace": "https://listindiario.com/la-republica/20261119/muere-dora-noelia-taveras-castillo-hija-waldys-taveras-enfrentar-quemaduras_930765.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSeLnPMbz3uOnWzgiNzld-Vkbsycpl3FflHipuDuV_vmf8hIrde5_F8tINkt4"
     }
   ]
 }
