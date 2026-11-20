@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-19T22:03:31.768402-04:00",
-  "hora": "22:03",
+  "updated": "2026-11-19T22:23:50.289131-04:00",
+  "hora": "22:23",
   "fecha": "19/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
     {
       "titulo": "República Dominicana se une a Miami Heat para llevar su encanto caribeño a la temporada 2026-2027 - Infobae",
       "fuente": "Infobae",
@@ -19,6 +27,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 18:35:26 GMT",
       "imagen": "https://ikona.telesurtv.net/content/uploads/2026/11/hwewwiuwuaazkmy.jpg"
+    },
+    {
+      "titulo": "Como presidente del Centro de Análisis para Políticas Públicas (CAPP), Bisonó apuntó que darán seguimiento a las iniciativas que surjan en los diálogos a realizarse durante el encuentro sobre tecnología, inversión, talento y mejores gobiernos, con el propó - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBObzQzbjVRZXJtZHM5RHlMSThKdUdSdHZaZGhtRlRseXR0c0V0VGxMZkRRRERCdV9CaG5FYV9QRjJuVUhWVEVaX2lqMjVtQnhKSUE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 02:04:49 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana ingresa al grupo de países con desarrollo de gobierno electrónico muy alto de la ONU - Ministerio de Administración Pública",
@@ -53,19 +69,19 @@
       "imagen": ""
     },
     {
-      "titulo": "Enjoy Travel Group promueve a República Dominicana como destino MICE en IBTM World 2026 - Periódico Digital Centroamericano y del Caribe",
-      "fuente": "Periódico Digital Centroamericano y del Caribe",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX05PMDJpSlloXy1qVHhvMXVYYWZ4R2VWQ2xRby1adkVadkhkM3Y1US1FVUsyLWcwaGNqV3VPbFJwQzVIZ0c0RzhqTGIxZGxLd19IUnYxYzNGT1pBYWZuV1owb1NXdkltX2VUV3ptZnlxSFJFdlBMNTNkblVRWTZWUERQM1F2MUtROFJGZWE2TmFBQXRPcFVoVnlwUGtVX2NNVURFcG5oQ2s3WGU1Uzl6c3I4OG1tZEhPOC1NbHVDc3l2bHdNOXpCNFF6SEY?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 21:21:52 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
       "fuente": "MLB.com",
       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 15:20:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Enjoy Travel Group promueve a República Dominicana como destino MICE en IBTM World 2026 - Periódico Digital Centroamericano y del Caribe",
+      "fuente": "Periódico Digital Centroamericano y del Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX05PMDJpSlloXy1qVHhvMXVYYWZ4R2VWQ2xRby1adkVadkhkM3Y1US1FVUsyLWcwaGNqV3VPbFJwQzVIZ0c0RzhqTGIxZGxLd19IUnYxYzNGT1pBYWZuV1owb1NXdkltX2VUV3ptZnlxSFJFdlBMNTNkblVRWTZWUERQM1F2MUtROFJGZWE2TmFBQXRPcFVoVnlwUGtVX2NNVURFcG5oQ2s3WGU1Uzl6c3I4OG1tZEhPOC1NbHVDc3l2bHdNOXpCNFF6SEY?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 21:21:52 GMT",
       "imagen": ""
     },
     {
@@ -93,35 +109,19 @@
       "imagen": ""
     },
     {
+      "titulo": "Presidente Mulino llega a República Dominicana para liderar panel sobre inversiones en cumbre mundial - www.ecotvpanama.com",
+      "fuente": "www.ecotvpanama.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDlRQVhha1RnaURuZ1diZ1ZmWGhSRUxEdXJFb29uU01fajRRZm5PdDV2SmdWNzhSY0RfWVVILS1kMTM4czZPdlZpNmJpSXRXWENQRXlPQUdSV0hCcXYtaVlYS2szcHBiNHc0djkySkJvT1R0OTc1S0VGaWNja21lOVhKVUhfVFhUeVJDYlV6cjhMaC0wbkEwR3ZqOVdESXNZd1F1bjFFWjRFMkllc09hM2pUWXV6Yk53aDZJOXp4NlY5R25FQi1uMFF2YkdyQdIB0wFBVV95cUxQWnlNaGhXeUFaaXNXY1VGbkxteHlZbVB6dzJ1cVF5Smx3OE9LTmRnTF9TQWxaQ3RhQmVUWmItNHNzS0RIVzhkb19vajhHZ3llWF9BLXBfNzNCQTRocnBNSWlFaThSRF9saGNBTjBoQkZsWVgxallpU29iVEZOT3pvazRyMV9LSTY4WGJtYUNOZWVjUTRYTUYxU2JVMVotcEFfd0RuNm04X0RQWEtESmlRZkJMSW1ENlNtQ1ZxVWtOc2xacWF1TEVXVl9xWkYybzMzTmhR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 23:13:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Precio del dólar en República Dominicana hoy, jueves 19 de noviembre: compra y venta, cuánto cuesta el USD a DOP - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMDBOY3J0b3VNVkw3SmsySUJManE4MnAyUDRuX2cwaU80dVBTYWxfV0tsQ1h3VEdvTWF2SzlGc2JINzI0dlBwVkMtb3ZmTFRfbGpqSFRCek5TTzRnZVM1NS1iM1NkXzQ0QnlNa1ZucEowRTZYOUdkLTZYX2JVYjF0TVZsZWhkc09BemxmdkxKb25Mb1M1OElVaV9YZk1TTFI1SmpWcldVb0FXRWJMUHU5TkVnUDZrYllPOFkxQ1R2R1BNNk9pd0wxckx2ampERVhXWEFTNWdOcXJCU2F3NU1OUzBZTC1uNXZqeFVmT01KZTBqSFZUVnIwNQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 22:40:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana lista para albergar Campeonato Panamericano de Béisbol Sub-12 - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTG1mcXZHUWJFVkozUkl4WEt0TXlTOTRmNjRyTzF5TlNUcWY3T0JobHQ3VWI3RXU1d3piQkRjVXRjemlVM3pXRmFXaDdtLUNFdmo0YVQ2SzdFaTllN3NqT3YwVFN4SVY0Z2VpRGhlRjRzWHB3WDBRcTRZWnRkYzVFd1pBMUVpR2Z3OFM1Z1M0aW5WX0NzaTVPNnZHczA2SEdwRnFvemVxVlQzZmVid1poSUhQMDhhUTFmSG95emt30gHDAUFVX3lxTE03TUlGeW8tcUY4dU9UNEw3VUlyWHV3Z2tVMEpfMk43QTJ6NnhEU05Uc1R6a2FCbjZod0kzbmFSUElJZng0WWh2TEdnbWZqRDh5bko1TV9qZVlucE5hcEd1NDU0MHhPWlBqMklsXy1YZFBZM1ptZU82eVQ2VHFyUTNBVHl6REs5bml0S29oX2twQXBsT0VFYXI1RlB1eUVERnlIWVB2Yl9ETktiS0VSWWp5azBWSmhGNVFiLXd4LWJPZmE4MA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 23:27:11 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Bisonó recibe a Mulino en República Dominicana para el Diálogo de Gobiernos - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnMzQlhQMmJtSkFad3o3X09wRW5MQmtQZ3EtM3ZfclBXZFlkMENXUVFTZ3RTT1BxS3JqemlWZGRGWHpwTzJkTFJueVVzU3B0R0RyS3BDcWRQVWhuTUZiclUyRDh1MktWdnh0c1RITnVZWEhCcEg3ZVNmVHFwVWFSdk5iU3N5R0RjTlFUQnhrSko0bVNNb01BOWVubXlXWnMyeUtjVFhWWnVMRl8xdUJEVHFpYVRESFVHUkRidVRCSVlXT0VBbHc00gHiAUFVX3lxTFBGOVpUVlF0N1BWWW0zRkZkRUtVTUFCcHlwclhnT2l5MGF1YThrRUtsTmlNeDQ2cG1YQlNGRUNFdEhLcVNZZXgtSHJTblRaOUttaTJPaG1oN2EtQUZlRTE2N3EzakczaTdwcFVoX0QxZlVReFZyc1I1eUxjYmNUWGxCOXI3T25FMUlEU3FhQW5aWlI2NmU4UzBYdWY3SWdBMURfS0tXV1oxZmNLVGNOdVBXOU1KT0V1c1JjVkdjallsUmJ2VklCZU41UVdOaFhZU3BxVVZZckJKdFZaOGxLSXJiMUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 01:46:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
       "imagen": ""
     }
   ]
