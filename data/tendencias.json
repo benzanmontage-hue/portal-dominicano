@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-20T11:15:41.479708-04:00",
-  "hora": "11:15",
+  "updated": "2026-11-20T11:36:04.244768-04:00",
+  "hora": "11:36",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "guido gómez",
+      "trafico": "200+",
+      "noticia": "¿Cómo lograr que Viettel traiga competencia?",
+      "enlace": "https://hoy.com.do/economia/lograr-viettel-traiga-competencia_1109029.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHxMjHYBnAauNEiGlOXzIWpOt59f6LaGh2Cxfh22kZqaMXehvFAKuKD8A4Mwk"
+    },
+    {
       "termino": "grandes ligas de béisbol",
-      "trafico": "100+",
-      "noticia": "Pete Rose es indultado póstumamente por el presidente Donald Trump",
-      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17535872/mlb-2026-pete-rose-indulto-postumo-presidente-trump",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB1JalT3aSRRz9lgl0eYsF_7hbvm6TTYBgV0ki-3DSPGRxlYUX5qgmDVciIqo"
+      "trafico": "200+",
+      "noticia": "MLB: De Boston a dominar Japón y ahora a Queens: Mets firma a refuerzo que dio cátedra en la NPB",
+      "enlace": "https://www.albat.com/eldugout/mlb-de-boston-a-dominar-japon-y-ahora-a-queens-mets-firma-a-refuerzo-que-dio-catedra-en-la-npb-20261120-0002.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7ySseF0fXSzvTFGJ35Tac0k4js9aXU5WvrOODCrXpOUvKFSIyieCr-yab958"
     },
     {
       "termino": "nayib bukele",
@@ -64,16 +71,9 @@
     {
       "termino": "servicio geológico colombiano",
       "trafico": "200+",
-      "noticia": "Temblor hoy en Colombia: reportan sismo en la madrugada de este sábado 14 de noviembre: epicentro, magnitud y profundidad",
-      "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-sabado-14-de-noviembre-epicentro-magnitud-y-profundidad-3601051",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWuqQqlrvOvXeFZBccXrkNWM7nTq--2RTXO_WElyiCBDf8IKdsQ07GOsC3es"
-    },
-    {
-      "termino": "barcelona - servette fc chênois féminin",
-      "trafico": "200+",
-      "noticia": "Barcelona vs Servette Chênois: UEFA Women s Champions League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/ckedq9585zwnt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "noticia": "Fuerte temblor hoy en Colombia: reportan sismo de magnitud superior a 4 en la tarde de este viernes 13 de noviembre; se sintió en varias ciudades",
+      "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-mayor-a-4-en-la-tarde-de-este-viernes-13-de-noviembre-epicentro-y-profundidad-3600909",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk7086hBBdjbpjVWXnVGWUz1IZ4TKYht7Pp5XDxZxWsGqFvp5X8NdFttaqG54"
     }
   ]
 }
