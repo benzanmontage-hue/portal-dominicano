@@ -1,7 +1,128 @@
 {
-  "updated": "2026-11-19T20:01:35.523346-04:00",
-  "hora": "20:01",
+  "updated": "2026-11-19T20:21:55.357941-04:00",
+  "hora": "20:21",
   "fecha": "19/11/2026",
-  "total": 0,
-  "noticias": []
+  "total": 15,
+  "noticias": [
+    {
+      "titulo": "República Dominicana se une a Miami Heat para llevar su encanto caribeño a la temporada 2026-2027 - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1lsWXFpNDZlZmNQVmxXWW1RSEdNSEtWNFV0S2ZQODFPSWR3X3NaanI0NGRGSmpOUGFaZGp1RW1HT0V3eFFScGp0dmVXM2Ywb0xmZUtiNm42R25HbnpLRmFJNlQ5YnNfSjNyLUtKZzc4Q1QxZTZjaGdlaTBqWktVN3NJOXNqN3VmaXA4LTFRLXRUeF9YbmJxOW52YkdWUVdGT2l0WHdaMFJ5UFJURmluQUFUTUNmS0xmbGlVOHZpWDNZSzFDT2ZyTFpiV2VkRFdaU2UtYjJMYjEyT1hGMGFJNjJuLWQzUTc3QVHSAYQCQVVfeXFMT05oMk5kYXIyb0pHNmlUMlRrUWU4Z2FUaE40a0hrb0E1OFRBWExrQ3NYRlVLVHhEUDRmc3hwRGdIbTk0dHR5MFVIYXlpNjlTWllrUmZ1SUZJWWdvZE4zWlVMOFNPNUZKMlJ6eVhOaGpkV0VMeDZSY0U2MmNpa0pTUUZSdXMzSktReVdsQjhlQWFwMk9OeC1PN2NiUjlEb2YzcGJOQ19YcDg5WFRSZ005Z0RsVENtWUsxLWZGTlhCUEtsQVVNX1Z3RnU1eWk4Q0ZoS0RnQ3o3U25kSVdyQVhZSWpJa3dnWXZVN3hoV2FkZmQ2Q3E2clRSQ2FXVjREUTYtZWxlek0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 18:30:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "titulo": "República Dominicana y Miami Heat firman alianza de promoción turística - teleSUR",
+      "fuente": "teleSUR",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc1YzalNsMjY0UGpsTTYxVk1DMkoyWnV3dV84MmFHbGJJdGlRakd0Rk9hbGE3WnV4Tms2TmRMX0R1RTBsNkpTVVRpTThQZjNVZ1J5cmYydHZFcEhicmRiQ3BoUWVRX0x6UUl0U0IxVGJPN0EyLUJTYjV3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 18:35:26 GMT",
+      "imagen": "https://ikona.telesurtv.net/content/uploads/2026/11/hwewwiuwuaazkmy.jpg"
+    },
+    {
+      "titulo": "República Dominicana ingresa al grupo de países con desarrollo de gobierno electrónico muy alto de la ONU - Ministerio de Administración Pública",
+      "fuente": "Ministerio de Administración Pública",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdGJ0R1BzQ0pNTkFOQWFsb0xrZnF3eFcwS0RQaE9pTWdPZmI4OWItWGpId29FeGlRaWI4MDA0TG81RjVDWnFwVjBkcG9SalhHRGZTb21BVnNWSGt4dzdwQjhoWVduVFdxdkZvdU05Q1VhREN6M2REUlRQRlR6dEh0bXNIS0JITjVsdzdGcjVQZk0tOTUtZnpycThGeXhLa0hDRXdEN0xhRG9sQ1puRjI0RzBKVlIwbm1VSndMMFJmZU5RUmNVSnpHTDd3RWNaVGIwREE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 21:44:45 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "titulo": "Francisco Cervelli asume como mánager de las Águilas Cibaeñas en República Dominicana - AlbertoNews",
+      "fuente": "AlbertoNews",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVkyRGJxY3daNFFheTBRZVY0aFVPZEV0c3ZXNTgzT3VkRDEwUk82dDZCbThESDc0V2ZPcVFkbWtjRkQzRExBZDhYTU1fYXNjRGZ4UXBsUFVfbU1hT282NWVGYVd4QlNRUEZhdWJxeXpmTDlfbWFkTDVCREVKWmRxNXc1RUptLUllVGtjZWRNcDN6b1pjblE0alhYbEk5SFU0dERkakFuYV9jWFFoM3RRZzZQM045c3lTOWI0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 14:45:04 GMT",
+      "imagen": "https://cdn.albertonews.com/wp-content/uploads/2026/11/Cervelli.jpg"
+    },
+    {
+      "titulo": "América Latina y el Caribe debatirán oportunidades de la región en Diálogo de Gobiernos - Forbes Centroamérica",
+      "fuente": "Forbes Centroamérica",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTlsaktJeGFoTDU3eTNtY3NIRHdLYnBLS2RERi1KUFZoWGlMb0dZTkZMUXNXUHZNaF9LMGpHVmx3czVFRWZyRWhSZkdXWjJWNFNmQThTaEFJZlZnUmJWdnV4YndTaFJ4WHd5NEZ1SndsWGRlUnBxUFZiMkdna3l0UV9sUl9MRjladTRJSVZFbXNVMmg1VWxaMVVHb00yVkF2SEFIOHBoeE5kV0tCMmh1TGFvdHYzcDgtTE1xYUl4cW9Hd2JOQ3ZibXUtWQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 19:09:39 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEd4VjNKUFBRN0ZUVmhISC1MWkNqSFQyRVhEUW9aNUZKYVR3MW5qcGlmd044MlRFSHEwZU82VEQ5ZkVpTFlncTNFbUpFbThKNXlfbTZlQl9IMnVscy1YeTB0VmZWRW9hT0JqcV9yamd3dVJzY2tzWERnYzZ3T3pDclR5OF95RmJLbHpDQk9JOXVZdUJPV29KNC1ZZ0xnSmVzVGhTNlRXTjl6X3ZtU3dIY1RCelFJdjQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 17 Nov 2026 18:56:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Proyectos solares con baterías por US$300 millones se acercan a concesión en República Dominicana - BNamericas",
+      "fuente": "BNamericas",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW1wYV94Y3pQT2N6blJXOUd5RW5aUVZXaUVTMU9iNkZFVk9udmp0T3VJTTVoQmkxZjI3WWVCUVMtWWRRdXRnYmp0MWxZa09sd1dfY24tTkxjbVZQSy1hbHhiMVVOZGJjcnJ6a3EtMDg4azJRNjk3M1VEVnRVcmVsQlUtd19Ea0xDXzcxaXM5N2dGc2JzYTJpcHRJQlpZNkdmUmR3Vk4wRWRGQUdEbHlDTDhvVXN6WGkzM25yN2NPOFJucHlPWllv?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 16:01:25 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cae red que enviaba drogas de República Dominicana a Puerto Rico y arrestan a 21 personas - El Nuevo Día",
+      "fuente": "El Nuevo Día",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjZVQkN4U2tFQ0pYckhyeHZwZ3hva1lkNUVXMm9rZzR1X0x6N3RCbFBoQ2Y0YTRnZ0YxWC0yVTVqQVg4TlE1SXdUQU1LUm0ycjk2T1RKTVV3WGJCWEx2SUpxVXNVSU5pTklPaUlXVGVLN3FPc1VkMUw4VzlWNjBHQlVUMmZnUWRsVkRiSjRhUjJoT2VHMFNqV0NPbG1UbHZ3NjZXRHNvYkZqcFZwZ0V2dEhHRy02b2U2WTdjc181ajNlT1RDdGxYSXdWSmxWNWtTLVlnaQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
+      "fuente": "MLB.com",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 15:20:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Puede República Dominicana medir lo que su valla fronteriza con Haití mantiene fuera? - LatinAmerican Post",
+      "fuente": "LatinAmerican Post",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDh3c1ZLWm9jaVcybGJoaXYweDVZQWUycXRkcmhUS05NSWR1bm5JRld4ODJ4Wmw0TERfQjR4Q09DbkxRS0dlV1VQS0Y3TThTLXFZbWZ1c1JsSXNxTVR0ZTdwMUI5TkhBSkpTRTlReGVUdFQ0aUdvVk9qSkJhT2lzNjQxVzgxcGxoQXA4N1k3eVBYX0REdGd1OS1QcGVIcTNtR3pQT0k5YkM5YlBrOFRfOGtHTG1fZzVtOFcxWFNYOUFQU3NEbDVjYWZn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 13:38:20 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana lista para albergar Campeonato Panamericano de Béisbol Sub-12 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTG1mcXZHUWJFVkozUkl4WEt0TXlTOTRmNjRyTzF5TlNUcWY3T0JobHQ3VWI3RXU1d3piQkRjVXRjemlVM3pXRmFXaDdtLUNFdmo0YVQ2SzdFaTllN3NqT3YwVFN4SVY0Z2VpRGhlRjRzWHB3WDBRcTRZWnRkYzVFd1pBMUVpR2Z3OFM1Z1M0aW5WX0NzaTVPNnZHczA2SEdwRnFvemVxVlQzZmVid1poSUhQMDhhUTFmSG95emt30gHDAUFVX3lxTE03TUlGeW8tcUY4dU9UNEw3VUlyWHV3Z2tVMEpfMk43QTJ6NnhEU05Uc1R6a2FCbjZod0kzbmFSUElJZng0WWh2TEdnbWZqRDh5bko1TV9qZVlucE5hcEd1NDU0MHhPWlBqMklsXy1YZFBZM1ptZU82eVQ2VHFyUTNBVHl6REs5bml0S29oX2twQXBsT0VFYXI1RlB1eUVERnlIWVB2Yl9ETktiS0VSWWp5azBWSmhGNVFiLXd4LWJPZmE4MA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 23:27:11 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio del dólar en República Dominicana hoy, jueves 19 de noviembre: compra y venta, cuánto cuesta el USD a DOP - El Comercio Perú",
+      "fuente": "El Comercio Perú",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMDBOY3J0b3VNVkw3SmsySUJManE4MnAyUDRuX2cwaU80dVBTYWxfV0tsQ1h3VEdvTWF2SzlGc2JINzI0dlBwVkMtb3ZmTFRfbGpqSFRCek5TTzRnZVM1NS1iM1NkXzQ0QnlNa1ZucEowRTZYOUdkLTZYX2JVYjF0TVZsZWhkc09BemxmdkxKb25Mb1M1OElVaV9YZk1TTFI1SmpWcldVb0FXRWJMUHU5TkVnUDZrYllPOFkxQ1R2R1BNNk9pd0wxckx2ampERVhXWEFTNWdOcXJCU2F3NU1OUzBZTC1uNXZqeFVmT01KZTBqSFZUVnIwNQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 22:40:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Karol G aplaza su concierto en República Dominicana y anuncia nueva fecha para abril de 2027 - El Universo",
+      "fuente": "El Universo",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkNKWjNFLWVPVWJqRDhKekZuWVRtVUl1TVgtcGFDWUJsS2lVOEo3S0VPWU5ZMnpqR1hZQTdoQy1EeTVucnQ5TlZ0djlway1sRGVCRkplWV80NVFGT0g1azNoMFl3aXFSOUU3NVFuMndQUTZGSG5Db0pucTIwVk56eFZDeVM1aWtBV3JvWnkwaXlYdFdYSHJ1czBtNGpIVi1vbUk1bFJ5ZFJHS2h3azVXajFnaHFhNkE0VzRQNEhCQmNqU3k4aXZVNUhtZ0RqZC1kSUtGcmFUbVVmZkplYUo5anN30gH2AUFVX3lxTE5iNlBNSUtrZFFXeVowSFJWS3g1bm5WNDFlc0dSN1hnd3FoSHRRY18zUHoxWW9HSGttMzlTbnJqV3JWcFBNdFZ3U0o5Y1FYUHRiZEFDY1BnejBQWW9oS2hYMDNYUDdHT29nSS03YmpPRXRrVVE3UmVDWnl5cXlsUTJoTlNzZDU5dVJQZ3ROc2RzT1l2SXl0c0RuR2JNRE9tSWctMkJoMHdRUTlmejUzMGVYOV9qSkNOclh4cGRKMEZBald4czBFdThlUmg4clpWVi02MmtnTXc1U25nRnI3V0dDQ0ZvelVxWTVZUE4wZHF5UVZWdE1HUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 18:23:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Uno de cada cuatro dólares exportados por República Dominicana provino de empresas lideradas por mujeres - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLTVxVkozWXVUSmdTLTlQVTZldlZzUGNrbEhVUHBtWjNpSmRiTDR3anYxTkFLLW9PckQtcGYwNzd1N1VQX3BnQV9vV0pvUzAyVi1JeFM2cjdRN09XMk9fZ2NkTXp5QXpFQy1pWWU4WXk5UkRxTlFmYmxQNDhVdlMtMHNWRmxZR1JqVEFnaUV1UWxCOC1RY1BWLXZnc2RrcFlPYUNERU1TVXZFbjlYbTVXblYxdW5HTmRkWUI0c1NHV3pUZUxxUGtGYllYTVlLS3kwS05pNjUwQm9uS3kwUHA5UFF3UHptWXFLeExkSjlwWFYzVXPSAY4CQVVfeXFMTWhTME50Y2V3ZDdtTFlFUm42Ul9Nc2FyZVFpdVNPWXRiLXpsdEVmN1RKQTMwOElSRENaTkduVU1UV2NCMl92TXk3RHd4V1V0eDRhV3ZGWFFOdFlzQkRYT0VrZlNuMzRjbTZmUG0tMVpRMVFrc21oTGhpRHRnTGJTenJPdXRSLURDeXhPWmdabEJfaGVCTVo5MGdUamlTdTQxSDB1YzVyMWQxaXIwVFJOS1hWWVRxX0g5cG5BdEpscm9XUWkwZkl5VmJMNmhXd0pXSEt5dWUwR2ZuN2Nuc0E0V25HVUNYLXhBRlZqNFZzQzJpQWpzTUItalN4UHA4RmRkR2VYdng4cTZZMTJyQzN3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 14:41:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
+      "imagen": ""
+    }
+  ]
 }
