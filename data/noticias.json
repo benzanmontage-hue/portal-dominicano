@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-20T07:50:46.683479-04:00",
-  "hora": "07:50",
+  "updated": "2026-11-20T08:11:06.249892-04:00",
+  "hora": "08:11",
   "fecha": "20/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "República Dominicana se une a Miami Heat para llevar su encanto caribeño a la temporada 2026-2027 - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1lsWXFpNDZlZmNQVmxXWW1RSEdNSEtWNFV0S2ZQODFPSWR3X3NaanI0NGRGSmpOUGFaZGp1RW1HT0V3eFFScGp0dmVXM2Ywb0xmZUtiNm42R25HbnpLRmFJNlQ5YnNfSjNyLUtKZzc4Q1QxZTZjaGdlaTBqWktVN3NJOXNqN3VmaXA4LTFRLXRUeF9YbmJxOW52YkdWUVdGT2l0WHdaMFJ5UFJURmluQUFUTUNmS0xmbGlVOHZpWDNZSzFDT2ZyTFpiV2VkRFdaU2UtYjJMYjEyT1hGMGFJNjJuLWQzUTc3QVHSAYQCQVVfeXFMT05oMk5kYXIyb0pHNmlUMlRrUWU4Z2FUaE40a0hrb0E1OFRBWExrQ3NYRlVLVHhEUDRmc3hwRGdIbTk0dHR5MFVIYXlpNjlTWllrUmZ1SUZJWWdvZE4zWlVMOFNPNUZKMlJ6eVhOaGpkV0VMeDZSY0U2MmNpa0pTUUZSdXMzSktReVdsQjhlQWFwMk9OeC1PN2NiUjlEb2YzcGJOQ19YcDg5WFRSZ005Z0RsVENtWUsxLWZGTlhCUEtsQVVNX1Z3RnU1eWk4Q0ZoS0RnQ3o3U25kSVdyQVhZSWpJa3dnWXZVN3hoV2FkZmQ2Q3E2clRSQ2FXVjREUTYtZWxlek0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 18:30:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
     {
       "titulo": "República Dominicana y Miami Heat firman alianza de promoción turística - teleSUR",
       "fuente": "teleSUR",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 18:35:26 GMT",
       "imagen": "https://ikona.telesurtv.net/content/uploads/2026/11/hwewwiuwuaazkmy.jpg"
+    },
+    {
+      "titulo": "Euro hoy en República Dominicana: cotización de apertura del 20 de noviembre - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlZlZF9QQkxpZzdyOUJhalNWQkdpeWxQSGFMblNCUmJWWGRYRDZHbkNJYU10QVVsM245VXhwTGJoYjZSZDZ1eVNxV1kwcTBaSm43ZkN6Unk0Y3NwbkVNSmdFdURnSmZyWDZ3bjRVVjI2eFM2ZnB5bmhWRlpTSVl2X0pSZVZGUEZ1SURhcS02Z2NQTVp2aTBZNC1YWWgtTHEtc3ZGajFJdXdwTmlncHluM2RxQUd2SUR3Y2pjT9IB1wFBVV95cUxOQjI3bU00c09UQ05maWpuYndTbFk3TG0xcUhZVGhtcmI5MF9NeU8yLTMzaFFYTlU1QUVNM3ZmRmloUHlxbkt5YXI1TTliUnpqbTNfQlI3ZWxDTHdWMG5nTUdUN19qVE5uMzNZNzVsV3pWanl4WXlZRjY1V2l2ZjluQzFGZEVFWnZuMVl1bXJOTkJHTFZuZE1ZeUhEbG8xak4tUjJyQzFWWmk4aWQ2ZExRUGRGS3Fpbzh6TmMyNmdxWUpzaHY0U21XZ0w5V0VIMDhGdno1WVB2Zw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 12:01:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro - ESPN Deportes",
@@ -85,20 +85,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Francisco Cervelli asume como mánager de las Águilas Cibaeñas en República Dominicana - AlbertoNews",
-      "fuente": "AlbertoNews",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVkyRGJxY3daNFFheTBRZVY0aFVPZEV0c3ZXNTgzT3VkRDEwUk82dDZCbThESDc0V2ZPcVFkbWtjRkQzRExBZDhYTU1fYXNjRGZ4UXBsUFVfbU1hT282NWVGYVd4QlNRUEZhdWJxeXpmTDlfbWFkTDVCREVKWmRxNXc1RUptLUllVGtjZWRNcDN6b1pjblE0alhYbEk5SFU0dERkakFuYV9jWFFoM3RRZzZQM045c3lTOWI0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 14:45:04 GMT",
-      "imagen": "https://cdn.albertonews.com/wp-content/uploads/2026/11/Cervelli.jpg"
-    },
-    {
       "titulo": "Enjoy Travel Group promueve a República Dominicana como destino MICE en IBTM World 2026 - Periódico Digital Centroamericano y del Caribe",
       "fuente": "Periódico Digital Centroamericano y del Caribe",
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX05PMDJpSlloXy1qVHhvMXVYYWZ4R2VWQ2xRby1adkVadkhkM3Y1US1FVUsyLWcwaGNqV3VPbFJwQzVIZ0c0RzhqTGIxZGxLd19IUnYxYzNGT1pBYWZuV1owb1NXdkltX2VUV3ptZnlxSFJFdlBMNTNkblVRWTZWUERQM1F2MUtROFJGZWE2TmFBQXRPcFVoVnlwUGtVX2NNVURFcG5oQ2s3WGU1Uzl6c3I4OG1tZEhPOC1NbHVDc3l2bHdNOXpCNFF6SEY?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 19 Nov 2026 21:21:52 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Francisco Cervelli asume como mánager de las Águilas Cibaeñas en República Dominicana - AlbertoNews",
+      "fuente": "AlbertoNews",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVkyRGJxY3daNFFheTBRZVY0aFVPZEV0c3ZXNTgzT3VkRDEwUk82dDZCbThESDc0V2ZPcVFkbWtjRkQzRExBZDhYTU1fYXNjRGZ4UXBsUFVfbU1hT282NWVGYVd4QlNRUEZhdWJxeXpmTDlfbWFkTDVCREVKWmRxNXc1RUptLUllVGtjZWRNcDN6b1pjblE0alhYbEk5SFU0dERkakFuYV9jWFFoM3RRZzZQM045c3lTOWI0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 19 Nov 2026 14:45:04 GMT",
+      "imagen": "https://cdn.albertonews.com/wp-content/uploads/2026/11/Cervelli.jpg"
     },
     {
       "titulo": "Abinader y Mulino abrirán en República Dominicana un diálogo sobre comercio, inversión y tecnología - Infobae",
