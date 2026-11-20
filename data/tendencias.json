@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T15:01:07.055514-04:00",
-  "hora": "15:01",
+  "updated": "2026-11-20T15:11:38.014352-04:00",
+  "hora": "15:11",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "niko bellic",
+      "trafico": "100+",
+      "noticia": "Is Niko Bellic in GTA 6?",
+      "enlace": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ05eoEAIuWDA6hKkX0dki-9SF0Ir5t2Xv4hTspDN1B0cHxOBSJWeFG08oyOKA"
+    },
     {
       "termino": "al-ahli saudi - al-nassr",
       "trafico": "1000+",
@@ -57,9 +64,9 @@
     {
       "termino": "spurs - clippers",
       "trafico": "500+",
-      "noticia": "NBA Thursday Recap: Wembanyama Shunks, Lillard Explodes, and Towns Shines",
-      "enlace": "https://ngscsports.com/nba-thursday-recap-wembanyama-shunks-lillard-explodes-and-towns-shines/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajNGvDnOakmRbU8v4dRRqTaZBKIIH1Mk26d23i7qL7-NAJQSGC5uY8pbPnvA"
+      "noticia": "Los Angeles Clippers vs. San Antonio Spurs Live Score and Stats - November 19, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_LAC@SA/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
     },
     {
       "termino": "timberwolves - knicks",
@@ -67,13 +74,6 @@
       "noticia": "Licensable picture: NBA: New York Knicks at Minnesota Timberwolves",
       "enlace": "https://www.reutersconnect.com/item/nba-new-york-knicks-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODQ1NTQ",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ2NZqJlaEnPoo7Rwkst0MucCELuEPAEzV-jByOafZEk89wdELymhpRh694jo"
-    },
-    {
-      "termino": "grizzlies - warriors",
-      "trafico": "2000+",
-      "noticia": "Golden State Warriors vs. Memphis Grizzlies Live Score and Stats - November 19, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_GS@MEM/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHr6LW-Ix106WnmwFIKtH60clOhKY2HcmA8IM_6eJEGekj9VygsOyM1CgmOY"
     }
   ]
 }
