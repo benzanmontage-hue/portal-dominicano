@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T07:08:40.316414-04:00",
-  "hora": "07:08",
+  "updated": "2026-11-20T07:30:15.553230-04:00",
+  "hora": "07:30",
   "fecha": "20/11/2026",
   "total": 15,
   "noticias": [
@@ -45,6 +45,14 @@
       "imagen": ""
     },
     {
+      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 20 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV05rRlFYT1p6UlBjUE1FYmJNdURuR1U5dmMyX2puaU96Q2t5UkdhbXVwRGdOMXBzNUhvUUQxWmlyLWx1ZVoyUmk1YVRMc3JhRUF1c2RQZ01IeVo4dEZUY2x1QU93bjlPV2IyVHFoSlphRmxCZGlLelpSUUh4WUpDZTlyVTQzdTZ6ek00ZDFIRjlZZGNJcUF3R2p3Um5lSzZHM0tYdVpBa29nN3ZmTl9YXzVGLTRvTTBfR25PUlBycTM3cER1MVFTRThDcVMzR1RPaHdTUkY3ZE7SAdgBQVVfeXFMT1dOa0ZRWE9aelJQY1BNRWJiTXVEbkdVOXZjMl9qbmlPekNreVJHYW11cERnTjFwczVIb1FEMVppci1sdWVaMlJpNWFUTHNyYUVBdXNkUGdNSHlaOHRGVGNsdUFPd245T1diMlRxaEpaYUZsQmRpS3paUlFIeFlKQ2U5clU0M3U2enpNNGQxSEY5WWRjSXFBd0dqd1JuZUs2RzNLWHVaQWtvZzd2Zk5fWF81Ri00b00wX0duT1JQcnEzN3BEdTFRU0U4Q3FTM0dUT2h3U1JGN2RO?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 07:59:08 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/10/business-accounting-concept-grey-surface-flat-lay-man-considering-cash-dollars-OG.jpg"
+    },
+    {
       "titulo": "República Dominicana ingresa al grupo de países con desarrollo de gobierno electrónico muy alto de la ONU - Ministerio de Administración Pública",
       "fuente": "Ministerio de Administración Pública",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdGJ0R1BzQ0pNTkFOQWFsb0xrZnF3eFcwS0RQaE9pTWdPZmI4OWItWGpId29FeGlRaWI4MDA0TG81RjVDWnFwVjBkcG9SalhHRGZTb21BVnNWSGt4dzdwQjhoWVduVFdxdkZvdU05Q1VhREN6M2REUlRQRlR6dEh0bXNIS0JITjVsdzdGcjVQZk0tOTUtZnpycThGeXhLa0hDRXdEN0xhRG9sQ1puRjI0RzBKVlIwbm1VSndMMFJmZU5RUmNVSnpHTDd3RWNaVGIwREE?oc=5",
@@ -66,14 +74,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGk2S2VPeFgyUS1HTU83clNOMmFOX3RCUVlBdHZUbmdPVE9vc1NKSTZvazdueDBLdDNJWHNRUmNYOGNwMWo1RDZ2WWlLYTVQU3V3WDM2WGFQbzRfcUc1S2U5QVlKd0pYU2N0R0pSd0VDeVNLUkpUVGZuSUxDeHNhNEV6VU4tZldreXF3Y2xxbWxFLWtIMGl5TDhuajlrai1TOVFVNDhZczFUdFR2Z3U2aE5WZmNpZDE2QUtuMGotTFNLV1UxY3l2czREMA?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 10:31:09 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presidente panameño llega República Dominicana para 'Diálogo de Gobiernos' - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzJHNXFZZzJyLUoxYlhkcGE3cWlVZXduQ2dySVBHb2RyQkZvVmlTTU9kVXJQTERySDg5N01RQ203bldyRHg2MmJkaGZuRFg3R2dNN3dRMmFZclZ4N0VQS2p1NW9ZQVFMcjNKaGg1U01nREF4ZjB5RUhnTTI1SVhZVnd5YUpBSVZZT3lNd05LendVbGU4eVF6VjhieHFObXJRd1YzR2RfWVZBM0ZrR2F2V2JNM01mWEhRcmfSAboBQVVfeXFMTncyRzVxWWcyci1KMWJYZHBhN3FpVWV3bkNncklQR29kckJGb1ZpU01PZFVyUExEckg4OTdNUUNtN25XckR4NjJiZGhmbkRYN0dnTTd3UTJhWXJWeDdFUEtqdTVvWUFRTHIzSmhoNVNNZ0RBeGYweUVIZ00yNUlYWVZ3eWFKQUlWWU95TXdOS3p3VWxlOHlRelY4YnhxTm1yUXdWM0dkX1lWQTNGa0dhdldiTTNNZlhIUXJn?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 23:46:18 GMT",
       "imagen": ""
     },
     {
@@ -109,11 +109,11 @@
       "imagen": ""
     },
     {
-      "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 20 de noviembre de 2026 - Acento",
+      "titulo": "Presidente panameño llega República Dominicana para 'Diálogo de Gobiernos' - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV05rRlFYT1p6UlBjUE1FYmJNdURuR1U5dmMyX2puaU96Q2t5UkdhbXVwRGdOMXBzNUhvUUQxWmlyLWx1ZVoyUmk1YVRMc3JhRUF1c2RQZ01IeVo4dEZUY2x1QU93bjlPV2IyVHFoSlphRmxCZGlLelpSUUh4WUpDZTlyVTQzdTZ6ek00ZDFIRjlZZGNJcUF3R2p3Um5lSzZHM0tYdVpBa29nN3ZmTl9YXzVGLTRvTTBfR25PUlBycTM3cER1MVFTRThDcVMzR1RPaHdTUkY3ZE7SAdgBQVVfeXFMT1dOa0ZRWE9aelJQY1BNRWJiTXVEbkdVOXZjMl9qbmlPekNreVJHYW11cERnTjFwczVIb1FEMVppci1sdWVaMlJpNWFUTHNyYUVBdXNkUGdNSHlaOHRGVGNsdUFPd245T1diMlRxaEpaYUZsQmRpS3paUlFIeFlKQ2U5clU0M3U2enpNNGQxSEY5WWRjSXFBd0dqd1JuZUs2RzNLWHVaQWtvZzd2Zk5fWF81Ri00b00wX0duT1JQcnEzN3BEdTFRU0U4Q3FTM0dUT2h3U1JGN2RO?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdzJHNXFZZzJyLUoxYlhkcGE3cWlVZXduQ2dySVBHb2RyQkZvVmlTTU9kVXJQTERySDg5N01RQ203bldyRHg2MmJkaGZuRFg3R2dNN3dRMmFZclZ4N0VQS2p1NW9ZQVFMcjNKaGg1U01nREF4ZjB5RUhnTTI1SVhZVnd5YUpBSVZZT3lNd05LendVbGU4eVF6VjhieHFObXJRd1YzR2RfWVZBM0ZrR2F2V2JNM01mWEhRcmfSAboBQVVfeXFMTncyRzVxWWcyci1KMWJYZHBhN3FpVWV3bkNncklQR29kckJGb1ZpU01PZFVyUExEckg4OTdNUUNtN25XckR4NjJiZGhmbkRYN0dnTTd3UTJhWXJWeDdFUEtqdTVvWUFRTHIzSmhoNVNNZ0RBeGYweUVIZ00yNUlYWVZ3eWFKQUlWWU95TXdOS3p3VWxlOHlRelY4YnhxTm1yUXdWM0dkX1lWQTNGa0dhdldiTTNNZlhIUXJn?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 07:59:08 GMT",
+      "fecha": "Thu, 19 Nov 2026 23:46:18 GMT",
       "imagen": ""
     },
     {
