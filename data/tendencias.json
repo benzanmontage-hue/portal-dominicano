@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-20T07:30:10.736422-04:00",
-  "hora": "07:30",
+  "updated": "2026-11-20T07:50:37.290418-04:00",
+  "hora": "07:50",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nayib bukele",
+      "trafico": "100+",
+      "noticia": "Bukele anuncia que militares salvadoreños destruyeron casa de jefe pandillero en Haití",
+      "enlace": "https://www.dw.com/es/militares-salvadore%C3%B1os-destruyen-casa-de-jefe-pandillero-en-hait%C3%AD/a-79984875",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6pNM1AvIi8EjiAswU3PAewKy6QKfPliiA8Aew7QmD5ZXDwNsfUpI_bpzD68"
+    },
     {
       "termino": "estafa",
       "trafico": "200+",
       "noticia": "Siguen las estafas: casi dos de cada tres adultos han sufrido intentos de estafa y el 9 % ha perdido dinero",
       "enlace": "https://www.notimerica.com/comunicados/noticia-comunicado-siguen-estafas-casi-dos-cada-tres-adultos-sufrido-intentos-estafa-perdido-dinero-20261120092430.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlhRYTwmfImbHlAAvbhqFBEIcEANWe9AWRSTuDY1nBFq0ACR4RAjiEiEjq4IE"
+    },
+    {
+      "termino": "ashton kutcher",
+      "trafico": "100+",
+      "noticia": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
+      "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjTGWh_hkQe5ug9UO8mFfAnlA82SoZELgKchqFqpPN1mfinZMq-j4eTXxg3Q"
     },
     {
       "termino": "bucks - trail blazers",
@@ -29,9 +43,9 @@
     {
       "termino": "timberwolves - knicks",
       "trafico": "1000+",
-      "noticia": "Watch KAT Drop Epic Wolves Quote on Video After Leading Knicks to Win Over Former Team",
-      "enlace": "https://bleacherreport.com/articles/25535567-watch-kat-drop-epic-wolves-quote-video-after-leading-knicks-win-over-former-team",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg_F1KPKEO2odI2cYT4e3OyjiKAHiC-A4OBZeGU7WpvaBHJCsuFW0LfDa5SaI"
+      "noticia": "NBA roundup: Knicks hold off Timberwolves  late rally for 3rd straight win",
+      "enlace": "https://www.reuters.com/sports/nba-roundup-knicks-hold-off-timberwolves-late-rally-3rd-straight-win--flm-2026-11-20/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNk8ICnRArc-7R2cfzoHEcdte4zFiGHSm8oUcXIskX9fT2GKjKItBFobQXdWo"
     },
     {
       "termino": "grizzlies - warriors",
@@ -60,20 +74,6 @@
       "noticia": "Muere Dora Noelia Taveras Castillo, hija de Waldys Taveras, tras enfrentar quemaduras",
       "enlace": "https://listindiario.com/la-republica/20261119/muere-dora-noelia-taveras-castillo-hija-waldys-taveras-enfrentar-quemaduras_930765.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSeLnPMbz3uOnWzgiNzld-Vkbsycpl3FflHipuDuV_vmf8hIrde5_F8tINkt4"
-    },
-    {
-      "termino": "anthropic",
-      "trafico": "200+",
-      "noticia": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
-      "enlace": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8NOr2_UM5Nvyqleic4swgi_eSMkqrEvQkoz6ZI2cZNJx-MRRoVUk5SXGrJi4"
-    },
-    {
-      "termino": "melissa medina de que murio",
-      "trafico": "200+",
-      "noticia": "Los restos de Melissa Medina serán cremados este jueves tras un íntimo velatorio",
-      "enlace": "https://www.diariolibre.com/revista/farandula/2026/11/19/los-restos-de-melissa-medina-seran-cremados/3725652",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTezWovWjGSL6E4NHIk8GA9ZUShhvQojqTXCY9QQ0CfjwXQX38CdbhPmaVjc84"
     }
   ]
 }
