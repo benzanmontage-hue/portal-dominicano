@@ -466,6 +466,7 @@ def render_pagina(l, resultados, archivo):
 <footer>
   <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>
   <p><a href="../">Portal Dominicano</a> · Datos: <a href="https://loteriasdominicanas.com" rel="noopener">loteriasdominicanas.com</a></p>
+  <p><a href="/acerca/">Acerca de</a> · <a href="/privacidad/">Privacidad</a> · <a href="/juego-responsable/">Juego responsable</a></p>
 </footer>
 <script>{js}</script>
 <script src="/radio.js" defer></script>

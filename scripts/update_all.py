@@ -34,6 +34,7 @@ GENERADORES = [
     "scripts/generate_otras.py",
     "scripts/generate_sections.py",
     "scripts/generate_info.py",
+    "scripts/generate_legal.py",
     "scripts/generate_lidom.py",
     "scripts/generate_combustibles.py",
     "scripts/generate_anguila.py",

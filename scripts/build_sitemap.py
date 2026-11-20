@@ -24,8 +24,9 @@ PAGINAS = [
     ("la-suerte/", "0.9", "hourly"),
     ("leidsa/", "0.9", "hourly"),
     ("dolar-hoy/", "0.7", "daily"),
-    ("noticias-rd/", "0.7", "daily"),
-    ("eventos-rd/", "0.6", "daily"),
+    ("acerca/", "0.4", "monthly"),
+    ("privacidad/", "0.2", "yearly"),
+    ("juego-responsable/", "0.3", "yearly"),
 ]
 
 VOLATIL = [

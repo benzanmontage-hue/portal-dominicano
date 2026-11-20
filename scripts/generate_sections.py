@@ -293,7 +293,17 @@ footer a{{color:var(--azul2);font-weight:700}}
 """
 
 
+# Herramientas que ya no existen en la portada: sus páginas se quitan y redirigen a la portada (_redirects).
+RETIRADAS = {"mlb", "traductor", "tiempo-santo-domingo", "economia-rd"}
+# Titulares de otros medios: útiles para el visitante, pero sin contenido propio -> noindex.
+SIN_INDEXAR = {"noticias-rd", "eventos-rd"}
+
+
 def main():
+    import shutil
+    for slug in RETIRADAS:
+        shutil.rmtree(os.path.join(ROOT, slug), ignore_errors=True)
+    PAGINAS[:] = [p for p in PAGINAS if p["slug"] not in RETIRADAS]
     base_dir = ROOT
     slugs = []
     # para el bloque "otras" enlazamos a las 7 loterías + las otras secciones
@@ -323,7 +333,7 @@ def main():
             '<a href="/#' + ancla + '" style="color:var(--azul2);font-weight:700">página principal</a> '
             'del Portal Dominicano.</p>'
         )
-        robots = "index,follow" if p["data"] and p["slug"] != "economia-rd" else "noindex,follow"  # economía: muy poco contenido
+        robots = "index,follow" if p["data"] and p["slug"] not in SIN_INDEXAR else "noindex,follow"
         title, h1 = p["title"], p["h1"]
         if p["slug"] == "dolar-hoy":
             title, h1, extra = dolar_titulos_e_historial()

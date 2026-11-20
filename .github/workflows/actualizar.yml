@@ -74,6 +74,8 @@ jobs:
           done
           a=$(curl -sS -w ' HTTP %{http_code}' https://portaldominicana.net/api/avisos | head -c 160)
           echo "::notice title=Avisos::/api/avisos -> $a"
+          r=$(curl -sS https://portaldominicana.net/robots.txt | tr '\n' ' ' | head -c 300)
+          echo "::notice title=robots.txt::$r"
 
       # Repo público: al terminar un ciclo largo, arrancar el siguiente enseguida para que no haya
       # horas sin actualizar (GitHub arranca las programadas de forma irregular). La concurrencia

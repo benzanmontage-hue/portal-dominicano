@@ -138,6 +138,7 @@ def pagina(*, ruta, title, desc, h1, sub="", chip="", migas, cuerpo, ld, robots=
 <footer>
   <p>Portal informativo. No vendemos sorteos. Verifica siempre con la fuente oficial.</p>
   <p><a href="/">Portal Dominicano</a> · Datos de lotería: <a href="https://loteriasdominicanas.com" rel="noopener">loteriasdominicanas.com</a></p>
+  <p><a href="/acerca/">Acerca de</a> · <a href="/privacidad/">Privacidad</a> · <a href="/juego-responsable/">Juego responsable</a></p>
 </footer>
 {'<script src="/radio.js" defer></script>' if radio else ''}
 {'<script src="/avisos.js" defer></script>' if aviso else ''}
