@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T16:24:25.475619-04:00",
-  "hora": "16:24",
+  "updated": "2026-11-20T16:31:20.786093-04:00",
+  "hora": "16:31",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de al-ahli saudi contra al-nassr",
+      "trafico": "200+",
+      "noticia": "Al Ahli vs Al Nassr EN VIVO: resultado, goles y Cristiano Ronaldo en la Saudi Pro League 2026",
+      "enlace": "https://www.365scores.com/es/news/al-ahli-vs-al-nassr-en-vivo-goles-cr7/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoT83t5bvDjlXA951M9wJVF21-QwaFx6fCZGE0F05I6brb58MAWjvnGgX-xok"
+    },
     {
       "termino": "athletic - rcd espanyol",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "bayern - colonia",
       "trafico": "500+",
-      "noticia": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
-      "enlace": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw"
+      "noticia": "Harry Kane forced off with ankle injury - Köln lead in Munich",
+      "enlace": "https://sports.yahoo.com/articles/harry-kane-forced-off-ankle-195800066.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ0vtArvzhOUQ68JAffVZtQPKKRox6FERud8Cd8sU1DLrlXrJjQFNiaCEKUck"
     },
     {
       "termino": "niko bellic",
@@ -64,16 +71,9 @@
     {
       "termino": "estafa",
       "trafico": "1000+",
-      "noticia": "GTA 6 está por llegar, pero los estafadores ya aprovechan la expectativa",
-      "enlace": "https://www.welivesecurity.com/es/estafas-enganos/gta-6-estafas-descargas-maliciosas/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQV5_Ba_twGHI3AMsJ6XzkBYpjVlTEuf8vNQz31zHhRf-UmNWSfxM8wk6FObls"
-    },
-    {
-      "termino": "ashton kutcher",
-      "trafico": "100+",
-      "noticia": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
-      "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjTGWh_hkQe5ug9UO8mFfAnlA82SoZELgKchqFqpPN1mfinZMq-j4eTXxg3Q"
+      "noticia": "Black Friday: cómo identificar y evitar las estafas al comprar por internet",
+      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/black-friday-identificar-evitar-estafas-comprar-internet_586724.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6TZkbhSlYJzNC5QW3Tz2G97ZtzQAzTQmbzbzTx_bvL0jzWo_oHmtNpWg8SeM"
     }
   ]
 }
