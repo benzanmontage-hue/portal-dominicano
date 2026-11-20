@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-20T16:14:01.404448-04:00",
-  "hora": "16:14",
+  "updated": "2026-11-20T16:24:25.475619-04:00",
+  "hora": "16:24",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "bayern - colonia",
+      "termino": "athletic - rcd espanyol",
       "trafico": "200+",
+      "noticia": "Motivación extra en rojiblanco",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253173/motivacion-extra-rojiblanco.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7vfLOb-9OGhizUJaaVAsoVuUOwCfpEQG5GBbEyjiczW1YewyNKy2R22c_NHo"
+    },
+    {
+      "termino": "bayern - colonia",
+      "trafico": "500+",
       "noticia": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
       "enlace": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw"
@@ -18,6 +25,13 @@
       "noticia": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
       "enlace": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5nijrSXZF7B0vRncCYvEAm9IqeZDqc4k3ERxai6VgVuBinGUPnzQCsyLpAlg"
+    },
+    {
+      "termino": "al nassr",
+      "trafico": "100+",
+      "noticia": "Al-Nassr rue Ronaldo penalty miss as Toney fires Al-Ahli to comeback win",
+      "enlace": "https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRYroGo9N1fydSg1SaKPlAzYEu_-_rpH135KfxS69Qnad_LfvDYSjFAEZUQts"
     },
     {
       "termino": "al-ahli saudi - al-nassr",
@@ -36,9 +50,9 @@
     {
       "termino": "grandes ligas de béisbol",
       "trafico": "1000+",
-      "noticia": "Fallece Lance Broadway, actor que lanzó en Grandes Ligas",
-      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17538367/fallece-actor-que-lanzo-mlb",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScKYGixd_JcmEl-zm2njqCHwYvwMkqOysFBonfgNvOtlt8xeQGURC-pvl40SE"
+      "noticia": "MLBPA propone mejorar sistema de firmas internacionales, sin draft",
+      "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17538482/mlbpa-propuesta-sistema-firmas-internacionales-no-draft",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQrTrVA8Vn7qK6EgEVK86wo4jQy4TM2z65YSyQztqQN-EnMSLAdaumTMOcBF4"
     },
     {
       "termino": "nayib bukele",
@@ -60,20 +74,6 @@
       "noticia": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
       "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjTGWh_hkQe5ug9UO8mFfAnlA82SoZELgKchqFqpPN1mfinZMq-j4eTXxg3Q"
-    },
-    {
-      "termino": "bucks - trail blazers",
-      "trafico": "100+",
-      "noticia": "Portland Trail Blazers vs Milwaukee Bucks Nov 19, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/por-vs-mil-0022600271/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5b05VVutC8NeGEn27M5DSSnPnLyxmBy-Tv2Czg4zKMt3JCBnohtusc28Zsgk"
-    },
-    {
-      "termino": "spurs - clippers",
-      "trafico": "500+",
-      "noticia": "Los Angeles Clippers vs. San Antonio Spurs Live Score and Stats - November 19, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_LAC@SA/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
     }
   ]
 }

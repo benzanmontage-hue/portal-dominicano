@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T16:14:03.073239-04:00",
-  "hora": "16:14",
+  "updated": "2026-11-20T16:24:27.390955-04:00",
+  "hora": "16:24",
   "fecha": "20/11/2026",
   "total": 15,
   "noticias": [
@@ -19,6 +19,14 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
       "imagen": "https://www.bloomberglinea.com/resizer/v2/R6DZP4FPONDQ5JLDG7DA62MWOA.jpg?auth=57bdd3fd39f940688d5cdbe14ce22a61a17081b44f793406b707a7074ba3a3b0&width=1200&height=630&quality=80&smart=true"
+    },
+    {
+      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
+      "fuente": "MLB.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWdhT1VMVE4wOUtsLThhTHhTZmVTUEtwUVRHVzgzb3lYaUMtNjFoZmhhMEtETDZyQUpCMkNncjFnY0xNODBqdlRJdFgzWkNIQzNYTk9QNmpXUTBYVEVEcHhiS2pQdlBqZlBRVnNGc3FhWHNSQ3h4OHYtdlJuRVUydUdXR2lITE55UFB4NjVhaFJHekJoSHkzTnhVQjRKUVNSTU43VUxqdHVLdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 15:11:14 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Panamericano U12: más de 30 jugadores de la Serie del Caribe Kids regresan con sabor a revancha - seriedelCaribe.net",
@@ -53,6 +61,14 @@
       "imagen": "https://www.cubanet.org/wp-content/uploads/2026/11/buque-cubano-republica-dominicana-e1795189934356.webp"
     },
     {
+      "titulo": "La República Dominicana recibirá este año un récord de más de 12,3 millones de turistas - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMm5VYVBLMmdlcC1fUXdtNG9na1FjZ2tTVEhaOTI3UjdHSllDR3pFd3k3Umt5U2tBTHdMTjBiWUNudGxtaDFjTVFnYkhKdXZQa21sSk5yTkVpSkd5YU5pemwyZUp2NkxpaGhLYWVhdW40bTZ0OURVdGhQSVhaT2h5WjROM3hSRU0xMVMtTVI4VFZZOWxaS09BUzl4c254RDZIV215a2tYbnJrTktn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 19:52:24 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
       "fuente": "Real Madrid CF | Web Oficial",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1FfZTkxeUcwaW8xSkxySmtWZVRHeVhuZGt6RmRlQTZlZk5uQ0tweTM5YVNZRE1QN1hwLWd6RzRFNVZQc2pESmZBNEppTmRlSTFqNWRNemlVVGVjN3JsM3NScmRBWHVkTHVjTjEzTUk3QVFudGhKRkRGc3AtWWdsWmVSNTd1WUpyQW1HU1ZKVlp3bk9Yc2U4WVpoTzdCS090Q0ttaHpObzM4dTIzeDZ1bzNuTGFWTko0X0JnVHln?oc=5",
@@ -61,19 +77,11 @@
       "imagen": "https://assets.realmadrid.com/is/image/realmadrid/ND-VALVERDE-URUGUAY-RD_GettyImages-2305122208?wid=1200&hei=675"
     },
     {
-      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
-      "fuente": "MLB.com",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 15:20:12 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Dominicana impulsa acercamiento entre América Latina y Medio Oriente - Prensa Latina",
       "fuente": "Prensa Latina",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDBjc01PR3o1a0NaVzJ1WUdBSk5Hbm1aRHo0b0JHeGxYWFlkWXFfWm1TNE80cTdxRkQ1NWVCdmtYeFVfYVRsWHptUGdlSW9yQlVRZG5ROXpNT29fVkxWRHlfOWc0eTRVQUlJMktYSGdLVVRoSE5oZ19OSF9tUW9jdFgtSVR4cXRRRUVOUms2c3lVb21vZ3hVUHlvYlJNTjRod0Z1OEp6R2ZrQTBqMFE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 17:31:32 GMT",
+      "fecha": "Fri, 20 Nov 2026 18:15:00 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
@@ -85,19 +93,11 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana y Miami Heat firman alianza de promoción turística - teleSUR",
-      "fuente": "teleSUR",
-      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc1YzalNsMjY0UGpsTTYxVk1DMkoyWnV3dV84MmFHbGJJdGlRakd0Rk9hbGE3WnV4Tms2TmRMX0R1RTBsNkpTVVRpTThQZjNVZ1J5cmYydHZFcEhicmRiQ3BoUWVRX0x6UUl0U0IxVGJPN0EyLUJTYjV3?oc=5",
+      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
+      "fuente": "ProPublica",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 18:35:26 GMT",
-      "imagen": "https://ikona.telesurtv.net/content/uploads/2026/11/hwewwiuwuaazkmy.jpg"
-    },
-    {
-      "titulo": "Buque de bandera cubana sigue encallado a 300 metros de una playa en República Dominicana - CiberCuba",
-      "fuente": "CiberCuba",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXJNWWhWMHc3aHpfTWZPWHYtZDNURkhLRzV0bGtsTVdTTTVtY2hmSF9ER2F1eHY5NEpZbkJjRzVPTFBBamhsQi1mN3NoN1M5VERobHhsVXVFVmwyTW80RmZiNzdPemdmb09lOFBnZ09Jdjc3YklNNWY2WTZCQ2UyNzk1VnZLTHpCWHRYTzF0WnYyV2I4NjY2UWRZc1pXLUpFMGs1MlBSOTJuSHYzcXM2aFNHelkxYzNSb01hM1FfdGPSAcABQVVfeXFMT21yTVloVjB3N2h6X01mT1h2LWQzVEZIS0c1dGxrbE1XU001bWNoZkhfREdhdXh2OTRKWW5CY0c1T0xQQWpobEItZjdzaDdTOVREaGx4bFV1RVZsMk1vNEZmYjc3T3pnZm9PZThQZ2dPSXY3N2JJTTVmNlk2QkNlMjc5NVZ2S0x6Qlh0WE8xdFp2MldiODY2NlFkWXNaVy1KRTBrNTJQUjkybkh2M3FzNmhTR3pZMWMzUm9NYTNRX3Rj?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 14:41:45 GMT",
+      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
       "imagen": ""
     },
     {
