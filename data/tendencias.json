@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T16:03:40.757045-04:00",
-  "hora": "16:03",
+  "updated": "2026-11-20T16:14:01.404448-04:00",
+  "hora": "16:14",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,23 +8,16 @@
     {
       "termino": "bayern - colonia",
       "trafico": "200+",
-      "noticia": "Preview: Bayern Munich vs FC Koln - prediction, team news, lineups",
-      "enlace": "https://www.sportsmole.co.uk/football/bayern-munich/bundesliga-title-race/preview/bayern-vs-fc-koln-prediction-team-news-lineups_609217.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQggI32PwkmsM0qW1aIWBwzWU1F59SZMpj6ykChn-UMJzvBXJyg09QuXCNKjVw"
+      "noticia": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
+      "enlace": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw"
     },
     {
       "termino": "niko bellic",
-      "trafico": "100+",
-      "noticia": "Is Niko Bellic in GTA 6?",
-      "enlace": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ05eoEAIuWDA6hKkX0dki-9SF0Ir5t2Xv4hTspDN1B0cHxOBSJWeFG08oyOKA"
-    },
-    {
-      "termino": "al nassr",
-      "trafico": "100+",
-      "noticia": "Video: historic remontada as Al-Ahli exploit Ronaldo s slip to turn the tables on Al-Nassr",
-      "enlace": "https://www.goal.com/en/news/video-historic-remontada-as-al-ahli-exploit-ronaldo-s-slip-to-turn-the-tables-on-al-nassr/bltf8484da7c98a5faa",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG3n70CjfRHQ0xovlpYROUbQgREzPUL4ebCBWx8N318460da8fMUVrsz1vEiI"
+      "trafico": "200+",
+      "noticia": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
+      "enlace": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5nijrSXZF7B0vRncCYvEAm9IqeZDqc4k3ERxai6VgVuBinGUPnzQCsyLpAlg"
     },
     {
       "termino": "al-ahli saudi - al-nassr",
@@ -74,6 +67,13 @@
       "noticia": "Portland Trail Blazers vs Milwaukee Bucks Nov 19, 2026 Box Scores",
       "enlace": "https://www.nba.com/game/por-vs-mil-0022600271/box-score",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5b05VVutC8NeGEn27M5DSSnPnLyxmBy-Tv2Czg4zKMt3JCBnohtusc28Zsgk"
+    },
+    {
+      "termino": "spurs - clippers",
+      "trafico": "500+",
+      "noticia": "Los Angeles Clippers vs. San Antonio Spurs Live Score and Stats - November 19, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261119_LAC@SA/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgcJfi4eNzx0iKaC6Q5p2KOu22t0X7p4vkxewv_0bi4IS93L5Uy0pcJTqA5WI"
     }
   ]
 }
