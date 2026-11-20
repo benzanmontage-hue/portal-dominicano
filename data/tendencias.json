@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T16:45:13.467388-04:00",
-  "hora": "16:45",
+  "updated": "2026-11-20T16:55:36.067469-04:00",
+  "hora": "16:55",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,13 +13,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYzGvOQ9gXS-zpVe9Ravt9EIMffPpj7goKC4elUpUPePDq3DxDYavsrBFLyVQ"
     },
     {
-      "termino": "bayern – cologne",
-      "trafico": "100+",
-      "noticia": "Harry Kane limps off injured as Bayern face Lille trip",
-      "enlace": "https://www.tufutbolero.com/en/news/harry-kane-limps-off-injured-as-bayern-face-lille-trip-06a41a",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9I8NTn_193mJ-bIDBPq_nAULLdOPfTgbTqPYvPrxqgAjfRQnaRo_GwsxNqg"
-    },
-    {
       "termino": "athletic - rcd espanyol",
       "trafico": "200+",
       "noticia": "Motivación extra en rojiblanco",
@@ -29,9 +22,9 @@
     {
       "termino": "bayern - colonia",
       "trafico": "500+",
-      "noticia": "Harry Kane forced off with ankle injury - Köln lead in Munich",
-      "enlace": "https://sports.yahoo.com/articles/harry-kane-forced-off-ankle-195800066.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ0vtArvzhOUQ68JAffVZtQPKKRox6FERud8Cd8sU1DLrlXrJjQFNiaCEKUck"
+      "noticia": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
+      "enlace": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw"
     },
     {
       "termino": "niko bellic",
@@ -63,7 +56,7 @@
     },
     {
       "termino": "grandes ligas de béisbol",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "MLBPA propone mejorar sistema de firmas internacionales, sin draft",
       "enlace": "https://espndeportes.espn.com/beisbol/nota/_/id/17538482/mlbpa-propuesta-sistema-firmas-internacionales-no-draft",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQrTrVA8Vn7qK6EgEVK86wo4jQy4TM2z65YSyQztqQN-EnMSLAdaumTMOcBF4"
@@ -74,6 +67,13 @@
       "noticia": "Bukele inscribirá candidatura para un tercer mandato en plena ofensiva contra pandillas de Haití",
       "enlace": "https://listindiario.com/las-mundiales/20261119/bukele-inscribira-candidatura-tercer-mandato-plena-ofensiva-pandillas-haiti_930787.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1kkx6PBJpiOf9Nwhq-LBe_Cf1tWPqNlKFz3oiQQ1ZSgpNSk9wgqi6hh3suE"
+    },
+    {
+      "termino": "estafa",
+      "trafico": "1000+",
+      "noticia": "Black Friday: cómo identificar y evitar las estafas al comprar por internet",
+      "enlace": "https://elnacional.com.do/fama-y-vida/ciencia-y-tecnologia/black-friday-identificar-evitar-estafas-comprar-internet_586724.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6TZkbhSlYJzNC5QW3Tz2G97ZtzQAzTQmbzbzTx_bvL0jzWo_oHmtNpWg8SeM"
     }
   ]
 }
