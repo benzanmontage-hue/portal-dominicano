@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-21T09:42:55.523957-04:00",
-  "hora": "09:42",
+  "updated": "2026-11-21T09:53:21.554607-04:00",
+  "hora": "09:53",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "lance broadway",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
       "enlace": "https://www.nbcdfw.com/news/local/former-mlb-first-round-draft-pick-lance-broadway-dies-at-43/4108628/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
@@ -71,9 +71,9 @@
     {
       "termino": "gta vi",
       "trafico": "200+",
-      "noticia": "Miami Heat bring Vice City to South Beach",
-      "enlace": "https://www.nba.com/news/heat-unveil-vice-city-court",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGKTvzb2j6htt6-_MSIvhKYoi0KvJVbSzXaylZ8Xv1O7eTHnC3XWKg54YHPS4"
+      "noticia": "I Tracked Down All 60 Birds in GTA 6: A Birder’s Guide to Vice City’s Wildlife",
+      "enlace": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbWJVqwhbKz02v4PSvnlf2ZmBRA4nX22CvckX_f6zQwORqA0z0PMmmIQszGCs"
     }
   ]
 }
