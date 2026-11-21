@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T11:36:37.070271-04:00",
-  "hora": "11:36",
+  "updated": "2026-11-21T11:46:56.403503-04:00",
+  "hora": "11:46",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,6 +20,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFATq7x2dY9w60HX8baFyvqDc9sjXjUMijnW0MpAITTiE_ScvYM5r8qXrXd88"
     },
     {
+      "termino": "carlos alcaraz",
+      "trafico": "100+",
+      "noticia": "¡EN VIVO! Carlos Alcaraz vs. Ben Shelton, por las semifinales de las ATP Finals 2026",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17538715/carlos-alcaraz-vs-ben-shelton-a-que-hora-juegan-y-donde-ver-en-vivo-las-semifinales-de-las-atp-finals-2026-resultado",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkNQPt8dN1oZCOixgKaZiDSTAvqk-MerTN9p2EQ05D3-xeZ4tmMPO-eYLgL2I"
+    },
+    {
       "termino": "lance broadway",
       "trafico": "200+",
       "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "tía",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Femicidio: “Vino por mí”, dijo la tía de la joven ejecutada en Lastenia",
       "enlace": "https://www.lagaceta.com.ar/nota/1163355/seguridad/femicidio-vino-mi-dijo-tia-joven-ejecutada-lastenia.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
@@ -67,13 +74,6 @@
       "noticia": "El Gobierno baja hasta RD$33.10 en combustibles no esenciales; el resto sigue congelado",
       "enlace": "https://www.diariolibre.com/economia/energia/2026/11/20/gobierno-mantiene-congelado-combustibles-esenciales-otros-bajan/3726945",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvNV5SAM3ZQckOPjXF9EAlCDxSkvKUte9H375ZVUSMeNbk0WJXfsrIyPGzB-4"
-    },
-    {
-      "termino": "nuggets - rockets",
-      "trafico": "500+",
-      "noticia": "Houston Rockets vs. Denver Nuggets Live Score and Stats - November 20, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261120_HOU@DEN/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmQ1N-iBRJ244N9ixFPIIKSqJY9ziMADH5LQvde7WwALk3bOQZHznLtgcJJRA"
     }
   ]
 }
