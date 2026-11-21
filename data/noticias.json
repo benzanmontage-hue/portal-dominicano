@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-21T10:55:18.802733-04:00",
-  "hora": "10:55",
+  "updated": "2026-11-21T11:05:37.757643-04:00",
+  "hora": "11:05",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
+      "fuente": "masfe.org",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLU1mSGtHWHphU3NnVm1MZHd2OE1za1BEVllRVUpNd3JmeGt4THFBejllX1VRNVNwbldlVkt4ZlRkZTNhNFJhZEVIMGoxUGFEXzg2TE9TSlJBSVNuVzJxUHVaa1I4NjdzQ2gwSm9qNnRXQ3RwT0MzMlQ5MUVab1JELXhfa1p6WDNJbnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 15:01:15 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "\"Invasión haitiana\": grupos en Facebook difunden desinformación y discursos de odio en República Dominicana - AFP Factual",
       "fuente": "AFP Factual",
@@ -77,20 +85,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Cumbre Mundial de Gobiernos: Panamá mira al turismo y República Dominicana a la logística - Bloomberg Línea",
-      "fuente": "Bloomberg Línea",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXpya05HQjZMSDNUOGVVTUpYNUw3SmJZQ3VQS3BtRHRXbHBwUndOT1pkUFZaTU13Rjc2VXdvVXJiRWlKdXFGMy11VGR1Y2tTdzJaMC1TdTZWTHpSR3I3RjZobUE3RXZIWU9xUjFZaGxYRUZCNVVUblZjSnp0M2xlSlNzUGhBdldCN2gyU090MW9fQlFIemxJT2xqRXVzVV9obl9obFFpbWlLYjFhb1d0RFgwTVRJZmk2dVN3NzdiVEZoWGx5SHowSUwzSdIB3wFBVV95cUxPZE42UDlGWDFNMVlPajR1WW5mcVNEYjRfcy1zX25WTEZXTmYtUlhvR056MUlzeERIUU10NFVpR2VlV1FVYlUxRTRiQTVxQ3FZenpHZUlwY2hRNURQZ0J3SzZtM1hJLTU4eDM0dllkTjJPM2FydWdOREFCZTlhR0RHZGRvU3JPUW5lVDZyUUFKZ1NGTDJhUE5RS2ozRTVWWUJUMHdyV29OaDJqLWtIM0VWNjNDRmdyQkpQY3RmMHBaVUVLS3FwVWwwWDZ5MDBjTktFakJ4WC1fczFZTWJqOUpF?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
-      "imagen": "https://www.bloomberglinea.com/resizer/v2/R6DZP4FPONDQ5JLDG7DA62MWOA.jpg?auth=57bdd3fd39f940688d5cdbe14ce22a61a17081b44f793406b707a7074ba3a3b0&width=1200&height=630&quality=80&smart=true"
-    },
-    {
       "titulo": "¿A cuánto cerró el dólar en República Dominicana hoy, viernes 20 de noviembre de 2026? - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSzFmVks2cHNKWHhtNnJsUW5MeVFOdVFLOFoyRzl5QXgzU2pOZ2pTYzByYzNxamxGbmNQRVAzSTFSYUUtOUVSOXFRN0NwVTN3alYtaXJPdlBzRUxBZ01WT05zV05xMmJCcEJfVzdweTlWYTlVVGdOa0puOVUtdGZPZ0F2TDczRDhaVzMzQ1lkWWQxYm5Ic1dxdmUzOXdvdWkxLUktUkgxc21QT2FHb1ZCbERLYWt1ZlZvRG82aXZFMjBLRnpIcG5RamxXM0lXb3hmQ0JZNXJ3?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 11:30:11 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Cumbre Mundial de Gobiernos: Panamá mira al turismo y República Dominicana a la logística - Bloomberg Línea",
+      "fuente": "Bloomberg Línea",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXpya05HQjZMSDNUOGVVTUpYNUw3SmJZQ3VQS3BtRHRXbHBwUndOT1pkUFZaTU13Rjc2VXdvVXJiRWlKdXFGMy11VGR1Y2tTdzJaMC1TdTZWTHpSR3I3RjZobUE3RXZIWU9xUjFZaGxYRUZCNVVUblZjSnp0M2xlSlNzUGhBdldCN2gyU090MW9fQlFIemxJT2xqRXVzVV9obl9obFFpbWlLYjFhb1d0RFgwTVRJZmk2dVN3NzdiVEZoWGx5SHowSUwzSdIB3wFBVV95cUxPZE42UDlGWDFNMVlPajR1WW5mcVNEYjRfcy1zX25WTEZXTmYtUlhvR056MUlzeERIUU10NFVpR2VlV1FVYlUxRTRiQTVxQ3FZenpHZUlwY2hRNURQZ0J3SzZtM1hJLTU4eDM0dllkTjJPM2FydWdOREFCZTlhR0RHZGRvU3JPUW5lVDZyUUFKZ1NGTDJhUE5RS2ozRTVWWUJUMHdyV29OaDJqLWtIM0VWNjNDRmdyQkpQY3RmMHBaVUVLS3FwVWwwWDZ5MDBjTktFakJ4WC1fczFZTWJqOUpF?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
+      "imagen": "https://www.bloomberglinea.com/resizer/v2/R6DZP4FPONDQ5JLDG7DA62MWOA.jpg?auth=57bdd3fd39f940688d5cdbe14ce22a61a17081b44f793406b707a7074ba3a3b0&width=1200&height=630&quality=80&smart=true"
     },
     {
       "titulo": "La República Dominicana recibirá este año un récord de más de 12.3 millones de turistas - NotiCel",
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pNjBUd0MtOFk3WlVISTdiQ0owN0xBcGJ3ZGo2eFRGc0paQXNNaGU3eFF0N1U4NEw4WGhXcDlpUm9vUXZiYW9SN0UtLTM3U3lMbTBPY253?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 14:17:06 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Muere en República Dominicana tercer militar salvadoreño herido en explosión en Haití - Hoy Digital",
-      "fuente": "Hoy Digital",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWN0UklKMHZwQ0pLd1o4eWFfQXd4TWE2QkszMDBXUVZLbHdlb0p6R3FDSXJMVUZfOU1xNmdMZERBeUJYX0U4VDVYS1FkWks0RExwZGFBVGExR1EybGs3TlRBajRtQVpOWmE1SFNzY2tvbGlOYVh2OXZTMWQ0OXlfTXZkaVJrSi15ZTZSdnozWU9fYUl6T1FYV0haZWx0TU13Y0laTFJGNE1KN21nSnNBQjB4WVBLbkxiQ3Y1MmFVRDjSAcYBQVVfeXFMTnBSQU1TeG81ejlqRDNGMjQ2SnVyTGh4SGdhRFRYZkFyUWVsVTN2enVZOHNSNlBsT3EwNndTSHhVaVU4UzZ4RFY1R2dZSjRHcFdfZ0ROcFFEZzkxT1dFYnVnMzN5a1dkTlJVcW8xT0t3NEh0UWlIZHI3aU8zZUVpWmpXRDEtYlNCc3E3Q1pqOTUxMlVjOU91aEhpNjg5RzUxZFVyOGVLNEFVZEFJbjRKd0wtNGVGSDBrQzRkRHd6Z2JmaDBMdlJR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 13:04:27 GMT",
       "imagen": ""
     }
   ]
