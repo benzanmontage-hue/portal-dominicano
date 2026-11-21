@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-20T22:18:13.594590-04:00",
-  "hora": "22:18",
+  "updated": "2026-11-20T22:28:31.523926-04:00",
+  "hora": "22:28",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "cavaliers - pacers",
+      "termino": "thunder - pelicans",
       "trafico": "100+",
+      "noticia": "Thunder look to get back on track against slumping Pelicans",
+      "enlace": "https://www.cbssports.com/nba/news/thunder-look-to-get-back-on-track-against-slumping-pelicans/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA"
+    },
+    {
+      "termino": "cavaliers - pacers",
+      "trafico": "200+",
       "noticia": "Cavaliers host Pacers in pivotal NBA Cup matchup",
       "enlace": "https://www.cbssports.com/nba/news/cavaliers-host-pacers-in-pivotal-nba-cup-matchup/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpqXz53Ojfx1ba9UGX5XRQpjLp2cM6TtqDo7vcK2k2YmMdt09Ph5tMwX1kyeY"
@@ -67,13 +74,6 @@
       "noticia": "Harry Kane suffers ankle ligament tear, Michael Olise suffers bruise",
       "enlace": "https://fcbayern.com/en/news/2026/11/harry-kane-suffers-ankle-ligament-tear",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmO0_aoX_dITYsX1imxKqydKYA4TqkRbThZwQeikb1zKvDcz9M2-M_K8Q8Fgg"
-    },
-    {
-      "termino": "niko bellic",
-      "trafico": "200+",
-      "noticia": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
-      "enlace": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjzv5OFxdXVUf4TIRZfobFPL8erkVxIR8aUZEazH1wwKXD5SfClmIjM09Dtdo"
     }
   ]
 }
