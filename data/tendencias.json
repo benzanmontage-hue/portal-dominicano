@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-21T19:04:19.591976-04:00",
-  "hora": "19:04",
+  "updated": "2026-11-21T19:14:40.656721-04:00",
+  "hora": "19:14",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "higüey",
+      "trafico": "200+",
+      "noticia": "Reportan sismo de 4.6 grados al oeste de San Rafael de Yuma, en La Altagracia",
+      "enlace": "https://listindiario.com/la-republica/20261121/reportan-sismo-4-6-grados-oeste-san-rafael-yuma-altagracia_930998.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7wyKWoEUuFMw96-XqcTlHkk4UUQcrJwuWa_rn9oTbaisH0Wxg70P82HLix4"
+    },
+    {
+      "termino": "inter miami - columbus crew",
+      "trafico": "200+",
+      "noticia": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu",
+      "enlace": "https://www.intermiamicf.com/news/it-s-miami-time-get-ready-for-inter-miami-cf-s-playoffs-opener-this-saturday-presented-by-nu",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX4U08hjSjMuzOgub0VLFI4imMB3GaGB_E6J7nrFYM09NszBPJvOjM0kXxZpw"
+    },
+    {
       "termino": "boca",
-      "trafico": "100+",
-      "noticia": "La formación de Boca vs. Atlético Mineiro, por la final de la Copa Sudamericana",
-      "enlace": "https://www.tycsports.com/boca-juniors/la-formacion-de-boca-vs-atletico-mineiro-por-la-copa-sudamericana-id772119.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNA9jHracuXXQJEG_0anMHnJ-LAkcvtE8-OfR68dHPQL-HhsIALKLcE4-birM"
+      "trafico": "200+",
+      "noticia": "Boca vs. Atlético Mineiro, por la Copa Sudamericana: seguilo EN VIVO",
+      "enlace": "https://www.tycsports.com/copa-sudamericana/conmebol-copa-sudamericana-2026-atletico-mineiro-vs-boca-juniors-final-id772262.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDOvG2ja0BrtHL9eO1YBpFzaE-ggZ1vYruJKJLElQAmNHF5UxCqo62OXvw4h0"
     },
     {
       "termino": "classement real madrid – celta vigo",
@@ -20,8 +34,15 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoKVZc9B_iaq5Ny4cAqU-w9gcWyyGYoEKo-GRlog525Gki4p27JnbJODeIST0"
     },
     {
-      "termino": "julio iglesias",
+      "termino": "grand theft auto",
       "trafico": "100+",
+      "noticia": "Searches for flights to Miami are surging as travelers look to visit  Vice City  from  GTA 6  in real life",
+      "enlace": "https://www.businessinsider.com/gta-6-fever-sparks-surge-searches-for-flights-to-miami-2026-11",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6_OTl19XABYipt0ZLjph1_u-6lhMqVy1Wjec7GZ6KqgLYK-uyM_dtLCFG40"
+    },
+    {
+      "termino": "julio iglesias",
+      "trafico": "200+",
       "noticia": "Julio Iglesias vende su mansión en Galicia y prepara la Navidad con Miranda y sus hijos en Punta Cana en plena investigación judicial",
       "enlace": "https://www.eleconomista.es/informalia/famosos/noticias/14029744/11/26/julio-iglesias-vende-su-mansion-en-galicia-y-prepara-la-navidad-con-miranda-y-sus-hijos-en-punta-cana-en-plena-investigacion-judicial.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRabEt_ORKebxw_4b8LLxrlvSVMW-qyEw-VyzR96sJkchzJWZj8JbQJXtqVW1o"
@@ -29,9 +50,9 @@
     {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
-      "noticia": "Carlos Espí, the hero again: late goal gives Madrid the win",
-      "enlace": "https://www.tufutbolero.com/en/news/carlos-espi-the-hero-again-late-goal-gives-madrid-the-win-bf20b1",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfvwvjfe30iEeD10uOwfShWpQd8TIp4IcjbglIFdERrGdkA1aBTiPq24LDaS0"
+      "noticia": "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26",
+      "enlace": "https://www.reutersconnect.com/item/real-madrid-cf-vs-real-club-celta-de-vigo-202627-national-league-112126/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBXMUxVWDA",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW0_BU5K9v2V1xcTyGHzWZ0JsbU84n1g1HPDP7wLgUUuQ6qTjAT82EdvFJrus"
     },
     {
       "termino": "real madrid - celta de vigo",
@@ -53,27 +74,6 @@
       "noticia": "Sábado soleado con chubascos aislados en la tarde",
       "enlace": "https://listindiario.com/la-republica/20261121/sabado-soleado-chubascos-aislados-tarde_930988.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQdoCjz12pliiU-5NV8ZqzwxRWf7e7GOcmp0Z36kkteYBJum2FV1MzWYoZxdk"
-    },
-    {
-      "termino": "parma - roma",
-      "trafico": "200+",
-      "noticia": "Malen, quattro gol per la storia: segna più di Van Basten e Sheva, meglio di lui solo...",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Roma/21-11-2026/malen-quattro-gol-record-chi-ha-fatto-meglio-dopo-12-giornate.shtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfNIJ12oqpgLeJRcwlcOQHZBPvIjVUi7upRLhds7mwxWExXV8J_TNdS8okrlE"
-    },
-    {
-      "termino": "76ers - bucks",
-      "trafico": "2000+",
-      "noticia": "Tyler Herro erupts for career-high 50 points",
-      "enlace": "https://www.nba.com/watch/video/tyler-herro-erupts-for-career-high-50-points",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwperIao_06_phgn_RplACCB81pwIBSTqr5_N6WdhyhbkW_T4YuQ9hgf9Gqdc"
-    },
-    {
-      "termino": "sevilla - real betis",
-      "trafico": "500+",
-      "noticia": "Sevilla 1 - 1 Betis: resumen, resultado y goles",
-      "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
     }
   ]
 }

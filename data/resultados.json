@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T19:04:18.811296-04:00",
+  "updated": "2026-11-21T19:14:39.816661-04:00",
   "fecha": "21/11/2026",
-  "hora": "19:04",
+  "hora": "19:14",
   "total_juegos": 53,
   "juegos": [
     {
@@ -505,11 +505,11 @@
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "51",
-        "01",
-        "90"
+        "04",
+        "90",
+        "49"
       ],
-      "fecha": "2026-11-20T04:00:00.000Z",
+      "fecha": "2026-11-21T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c6"
     },
     {
@@ -649,11 +649,11 @@
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "51",
-        "01",
-        "90"
+        "04",
+        "90",
+        "49"
       ],
-      "fecha": "2026-11-20"
+      "fecha": "2026-11-21"
     },
     {
       "compania": "La Suerte",
