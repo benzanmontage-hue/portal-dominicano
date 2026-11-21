@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-21T08:39:26.446693-04:00",
-  "hora": "08:39",
+  "updated": "2026-11-21T08:49:44.930665-04:00",
+  "hora": "08:49",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lance broadway",
+      "trafico": "100+",
+      "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
+      "enlace": "https://www.nbcdfw.com/news/local/former-mlb-first-round-draft-pick-lance-broadway-dies-at-43/4108628/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
+    },
+    {
       "termino": "manchester city - fulham",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Manchester City vs Fulham LIVE! Premier League match updates, news and score",
       "enlace": "https://www.skysports.com/football/live-blog/13607947/manchester-city-vs-fulham-live-premier-league-match-updates-news-and-score",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj6mWy-ICo-w1W1YFVuXKen71P3mgXa3xpVZPcQjUBDGiiwxwuWNKtI-xVQKc"
@@ -21,10 +28,17 @@
     },
     {
       "termino": "prisión",
+      "trafico": "200+",
+      "noticia": "Un año de prisión preventiva para imputada por muerte de su hija en Nagua",
+      "enlace": "https://pgr.gob.do/un-ano-de-prision-preventiva-para-imputada-por-muerte-de-su-hija-en-nagua/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJN0ww1Ij82EKrNIvQZDEg6fNs7yAE7g8ZeKF_TSRKolKKBrf7tBWFH-jVYq0"
+    },
+    {
+      "termino": "ley",
       "trafico": "100+",
-      "noticia": "Condenan a músico argentino a doce años de prisión domiciliaria por homicidio",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261120/condenan-musico-argentino-doce-anos-prision-domiciliaria-homicidio_930910.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqCgUYZhxR6s1qRnpzdGAu_7Po36BFG2YXHIgdsVk2xEbpEC2tSBbPzLBs90"
+      "noticia": "Cooperativas abogan por la aprobación de nueva ley regulatoria",
+      "enlace": "https://listindiario.com/la-republica/provincias/20261120/cooperativas-abogan-aprobacion-nueva-ley-regulatoria_930852.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv38MVxwUqB9GNQixd1Ki6AeQAON1qYkkTxuKY9sHSpGSNzeJ9Ggj7HGZRVfo"
     },
     {
       "termino": "gigantes del cibao",
@@ -35,7 +49,7 @@
     },
     {
       "termino": "combustible",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "El Gobierno baja hasta RD$33.10 en combustibles no esenciales; el resto sigue congelado",
       "enlace": "https://www.diariolibre.com/economia/energia/2026/11/20/gobierno-mantiene-congelado-combustibles-esenciales-otros-bajan/3726945",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvNV5SAM3ZQckOPjXF9EAlCDxSkvKUte9H375ZVUSMeNbk0WJXfsrIyPGzB-4"
@@ -57,23 +71,9 @@
     {
       "termino": "gta vi",
       "trafico": "200+",
-      "noticia": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-      "enlace": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG1U0-DZkwd-S-t71rSWiNfdu1LDDaT_dsP15Cm-oDbVXxTpdKqcRz51kTlk4"
-    },
-    {
-      "termino": "thunder - pelicans",
-      "trafico": "200+",
-      "noticia": "New Orleans Pelicans vs. Oklahoma City Thunder Live Score and Stats - November 20, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261120_NO@OKC/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCYEcReFUQi3lEiyHieyc93rqqRbTxAQawfs8p2rAF1IFC4JSH_RfZNuoBC4"
-    },
-    {
-      "termino": "resultados de loteria",
-      "trafico": "200+",
-      "noticia": "Números ganadores de las loterías del jueves 19 de noviembre de 2026: ¿La pegaste?",
-      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-jueves-19-noviembre-2026-pegaste_1109337.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
+      "noticia": "Grand Theft Auto 6 wants to make men better partners – is it a lost cause?",
+      "enlace": "https://www.independent.co.uk/life-style/grand-theft-auto-six-lucia-jason-texts-b3086421.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHGaY0QqAUzp0pYkfrd7gv3QXPaBVx0pnTPIFK3VLy8Na8FX6V5_a1Be326DU"
     }
   ]
 }
