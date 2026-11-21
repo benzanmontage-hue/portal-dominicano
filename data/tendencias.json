@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-21T17:09:02.848286-04:00",
-  "hora": "17:09",
+  "updated": "2026-11-21T17:19:23.820185-04:00",
+  "hora": "17:19",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "tyler herro",
-      "trafico": "200+",
-      "noticia": "Tyler Herro joins Luka Doncic (twice), Cade Cunningham …",
-      "enlace": "https://sports.yahoo.com/articles/tyler-herro-joins-luka-doncic-204058321.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnFM-jBwBG4glmdsKBp2MX-19R5JrIHGcDPbM-3qfUl189gEWoTMk6FG66ouQ"
-    },
     {
       "termino": "real madrid – celta vigo",
       "trafico": "1000+",
@@ -22,9 +15,9 @@
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "5000+",
-      "noticia": "Real Madrid - Celta en directo | El Celta gana al descanso en el Bernabéu",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaq2wNr4xNL6c6ZVVt-8bp0VpGkKQ0hubQlnBdj2pKyZFogFIBuZJbarfEkI"
+      "noticia": "Alineación confirmada del Real Madrid hoy contra el Celta en LaLiga EA Sports",
+      "enlace": "https://as.com/futbol/alineacion-confirmada-del-real-madrid-hoy-contra-el-celta-en-laliga-ea-sports-f202611-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj4tOWac7sBJwmPBeJVl-FaKJdSJMrza7pb3ws-aAsE0OKFPy1xs7OplA1pJY"
     },
     {
       "termino": "noticia",
@@ -45,7 +38,7 @@
       "trafico": "200+",
       "noticia": "Gasperini:  Malen straordinario, solo Lautaro è meglio. Partita difficile nonostante il risultato",
       "enlace": "https://www.sportmediaset.mediaset.it/calcio/roma/gasperini-malen-straordinario-solo-lautaro-e-meglio-partita-difficile-nonostante-il-risultato_119269281-202602k.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST7qzN0HjEtFr8-U-L5yPE8usFhh2gn3QQnR8va3zpJaAHh6rE3oAjzMbnfjI"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkw4j5MSjtd3VFjDdQUNPHOxgrArdl-D_BeIp0Elt-AgX5iu538WVcW9y1-d8"
     },
     {
       "termino": "76ers - bucks",
@@ -59,7 +52,7 @@
       "trafico": "500+",
       "noticia": "Sevilla 1 - 1 Betis: resumen, resultado y goles",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEl-wRtRNQLe477LErjOhoM3j3szmByWlmvgLCqZ9mWBcBfer-wKd6IpCalPg"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
     },
     {
       "termino": "newcastle - arsenal",
@@ -74,6 +67,13 @@
       "noticia": "Ligue 1 : victoire du PSG à Nice assombrie par la blessure de Désiré Doué",
       "enlace": "https://www.la-croix.com/ligue-1-victoire-du-psg-a-nice-assombrie-par-la-blessure-de-desire-doue-20261121",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzfr3cE9ktJ0W5uM6-n7bwNBIfjtPz74whJtdJ0Ib_BFNA2goT1VjsGe0FK_M"
+    },
+    {
+      "termino": "james harden",
+      "trafico": "200+",
+      "noticia": "James Harden explodes for 51, passes Kobe for third-most 50-point games",
+      "enlace": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT039MgXt6ZeyrAbum6KCKYDvYjC5pv59yvpVjtSoi0TRRyJRqveCQ1GT-D_Hg"
     }
   ]
 }
