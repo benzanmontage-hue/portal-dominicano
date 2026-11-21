@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T13:09:38.016798-04:00",
-  "hora": "13:09",
+  "updated": "2026-11-21T13:19:58.581175-04:00",
+  "hora": "13:19",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
@@ -45,20 +45,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/cdc5f11f0b00197b1279ef41f7519caa1284d0efd5b07fc411340971402d5daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F980110b95edc6c17d08375e80f4e200c.jpg"
-    },
-    {
       "titulo": "Se registra sismo de magnitud preliminar de 5.0 en República Dominicana - Telemundo Puerto Rico",
       "fuente": "Telemundo Puerto Rico",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTllYVWhLaGhVYy1SWTQzcFJGeHlLLWRNTVNOMnNHdmtWV0xIbUNoU2N2b1o2SnhQTVYxN2FJdEVtajFieDkzdjVUODBycmZiNWFuVzQyc1V6YzY4T0VQRjdoSmhLYlkwQ2dtOVRNbFVZYnhlQ21uZXZteTFmclhIMWlLZV8wcmQyVGNwNGRVZEliS2JRLWVES21ESkNBdmRpYXNiSEhaeEIyNWgxTEFPSTBhQzluQmJUUTJSUkQwMl9JQU9lT3ZMa9IB0AFBVV95cUxQU0hnQzREcjdUSTRTZm16MGNPNG01SUpsc1NKdFRYbkdOSU9ZSHNkQkJ1VHVpY1VMZ3dGTWVjZm1zWkZXdVBXQVpqck1ZZUJDZ3NDMDdaRjBSXy1PZm9sOHB2X3lKbFFuSEJmejkxemRHZzR3TVc1X1NrSVlDLUQzNl9FX1I3T1dscDR5U3lqV3pZd2hNQVd5VVpkY3YyR3QwNTlEcHVrOWZCU2c1bzlHeGZuU1o1VnRIQk9OMXlhZE1pMTBuSWtEeGpOQnl6Q3ZF?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 15:33:51 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/cdc5f11f0b00197b1279ef41f7519caa1284d0efd5b07fc411340971402d5daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F980110b95edc6c17d08375e80f4e200c.jpg"
     },
     {
       "titulo": "Centroamérica y República Dominicana superan los 30.600M en ingresos turísticos - Expreso - Diario de viajes y turismo",
@@ -74,6 +74,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX2o3ZTNOSkhRSnQtdTZ2SmFwRGQtWEJnTmNTZDBMVWxQdXNhOVNmZm5QZlJGQ043a3luWlVMV2JIRjNHbkpLc09hMllYOHI4WjlLMi1FWlJVek9tOFpSTWE5X01iaVE1RkdkcWJrczRoNDBLRjU3RGp6REdfaHpCN2hyZHh3cW5rOWtJR2FCUjRzWFl5bW4yalpMRjNVektxb2J5S1UzcTU4S2Fhc0oyVlFKZ3BmRHBjanYybzhfMEVVWm13QzR0NHJ0UFk2UEs5cTZWam04YW53RThuNnfSAfgBQVVfeXFMTWxGcndNcU1GaGhoMmNQZ29NWkJjZF94ZkUwZTFYOW1EaUlyRmc0c1c0OHMtQU9VOWdwTkxPZmx3UV9aNzVNS2NXX3ItU0hEakRsWDR6YUdaY29KOFVZTlJpdjluNHc2d2JkWHIwMjh3akNNNjdyWndRN3VBTmRZbmE0SVl6Nm5CWlFKV3JpWldGOUZaVHNSVUMwanRicUtjUEFGaDd6RHpDdzRGbU9Eb0F4R0NINzlhcDhqd29McHBraXdDZ0x6U0V3M1poaHE3LVRSb2FsNUx2U0FlZ0lES2xlb2VNOFFBbmlqTFJxbjRVSEtxYjFNTTc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 15:50:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Día del Merengue en Dominicana homenajeará a figuras del género - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlZiaVdLeGZfMzdJSEdqWVhyQ1AyR21YeFNqUjJQQVRKWnZDV0EtTjdTLVVwdE9SLXZPSHV4NGFmYzNrNWR4Z0E2blg4ZTRUOVFZR3IwRlF4eTlKRmw0bmJjM3ppdXVKRXBwNXlJaFNnNHNUWFI1Wk5nczJhQnRxc3RVYmNQTVVQWnBWY18wMHBrLWhjNDlaNThQd01EcnhieEcwRVJEOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 16:37:00 GMT",
       "imagen": ""
     },
     {
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 13:00:41 GMT",
       "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/photo_2026-11-21_03-55-45.jpg"
-    },
-    {
-      "titulo": "Se registra temblor de magnitud 5.0 en República Dominicana - Primera Hora",
-      "fuente": "Primera Hora",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMjhTMzJEam45NThVNEc3SldxdHJNSUlEdDJJNVU3cUpGR1Jtdm9VTC1pMzNCcmdoVWFKN1B2TElSWXl5LTdmeU5hSm52LUI2ZU9KNkd4X3J6Z2EzWHVweTh3S3FXaUpIdGw5OTJDUnh4cTBmRzhUSUpIeG1Ra3REQzF4d3JaZURrb2thT3U0aVRDbWlzNHFtek8xbXdJWVNaZ0IzV3lrMnF1cmNKTTVVS3dZWkg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 15:20:08 GMT",
-      "imagen": ""
     }
   ]
 }
