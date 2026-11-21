@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-21T15:36:00.359331-04:00",
-  "hora": "15:36",
+  "updated": "2026-11-21T15:46:20.066068-04:00",
+  "hora": "15:46",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "real madrid – celta vigo",
+      "trafico": "200+",
+      "noticia": "3 non-negotiable Real Madrid starters as they return to the Bernabeu to face Celta Vigo",
+      "enlace": "https://therealchamps.com/3-non-negotiable-real-madrid-starters-as-they-return-to-the-bernabeu-to-face-celta-vigo-01m7wgtp9hd0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm7lPenCye_KNZt-qaBPchOShek6o2fLsdEsP4BTMjPt3T8-rME65fGuyK1Xw"
+    },
+    {
       "termino": "real madrid - celta de vigo",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Real Madrid - Celta en directo | Última hora de LALIGA EA Sports en vivo hoy",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-celta/2026/11/21/01_0101_20261121_186_176-directo.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ4QXjZ1LJLJ00GY2O_3Z8kaQOZOUyCSAvjYy3Uc78N7HWPkNGUnigNy3v_ok"
@@ -29,21 +36,21 @@
     {
       "termino": "parma - roma",
       "trafico": "100+",
-      "noticia": "Gasperini si gode Malen:  Il migliore in Italia, parlano i numeri. È perfetto per la mia Roma",
-      "enlace": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/21-152735485/gasperini_si_gode_malen_il_migliore_in_italia_parlano_i_numeri_perfetto_per_la_mia_roma",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNisyP5em3jwsTTzOFh-cHXXvBC2wR8vKmLnRNcwN48vbMTvx_eiYe864OogE"
+      "noticia": "Highlights Parma-Roma 1-5: poker da record di Malen. Rivedi i gol su DAZN",
+      "enlace": "https://www.dazn.com/it-IT/news/calcio/highlights-parma-roma-1-5-poker-da-record-di-malen-rivedi-i-gol-su-dazn/u0noepwm40og1kcvjuj9bi18r",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQENvB_677O00LwWh1e4vhXZavIE6EoZfXakt9POLGLVfQ_ZUsnsCUf22bYK0I"
     },
     {
       "termino": "76ers - bucks",
       "trafico": "1000+",
-      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
-      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
+      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
     },
     {
       "termino": "sevilla - real betis",
       "trafico": "200+",
-      "noticia": "Sevilla - Betis en directo: LaLiga EA Sports hoy, en vivo",
+      "noticia": "Sevilla 1 - 1 Betis: resumen, resultado y goles",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
     },
@@ -52,7 +59,7 @@
       "trafico": "500+",
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsn6Yz6R1krN4i-egA1NJiQZwNj2BMo0Wf-Aw6wOETjiyUJGLxIuiBfAMfZIQ"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOF7cALl7rsycBTMcLdc0cMMg1gpvk-Tf_bp54vzBSNW4MNBNW3fw66NAe9YE"
     },
     {
       "termino": "nice – paris-sg",
@@ -67,13 +74,6 @@
       "noticia": "James Harden explodes for 51, passes Kobe for third-most 50-point games",
       "enlace": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT039MgXt6ZeyrAbum6KCKYDvYjC5pv59yvpVjtSoi0TRRyJRqveCQ1GT-D_Hg"
-    },
-    {
-      "termino": "emme muñiz",
-      "trafico": "200+",
-      "noticia": "Jennifer Lopez Feels Like She’s Getting Better at Everything",
-      "enlace": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_-Bf8mkIw_G5N8enrYuDMK8ro7ayu-zv8jNHZj7HIXwI-LRzH2q6zc_c9AxM"
     }
   ]
 }
