@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T18:53:44.664820-04:00",
-  "hora": "18:53",
+  "updated": "2026-11-21T19:04:19.591976-04:00",
+  "hora": "19:04",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "boca",
+      "trafico": "100+",
+      "noticia": "La formación de Boca vs. Atlético Mineiro, por la final de la Copa Sudamericana",
+      "enlace": "https://www.tycsports.com/boca-juniors/la-formacion-de-boca-vs-atletico-mineiro-por-la-copa-sudamericana-id772119.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNA9jHracuXXQJEG_0anMHnJ-LAkcvtE8-OfR68dHPQL-HhsIALKLcE4-birM"
+    },
     {
       "termino": "classement real madrid – celta vigo",
       "trafico": "200+",
@@ -22,16 +29,16 @@
     {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
-      "noticia": "Pablo Durán puts Celta ahead at the Bernabéu after six minutes",
-      "enlace": "https://www.tufutbolero.com/en/news/pablo-duran-puts-celta-ahead-at-the-bernabeu-after-six-216a7b",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7HcRev8gw3epTz4EuWwAZW6vbtmCLJBAOnuHXUw6gwLhcfnnUBMeS4kAlWo"
+      "noticia": "Carlos Espí, the hero again: late goal gives Madrid the win",
+      "enlace": "https://www.tufutbolero.com/en/news/carlos-espi-the-hero-again-late-goal-gives-madrid-the-win-bf20b1",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfvwvjfe30iEeD10uOwfShWpQd8TIp4IcjbglIFdERrGdkA1aBTiPq24LDaS0"
     },
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "10000+",
-      "noticia": "Espí siempre llega a tiempo",
-      "enlace": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzkZnRVisPkbq2TMyrx4nHncBEo_KxFWH5fy92sy7BFukGLhsZgUNJoVrWZw"
+      "noticia": "Real Madrid 2-1 Celta: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwA1pMg_2pTZ0wQ2-An8NIGf6B2WxOyohmz9Ut8EKDjcoL2H5tMaTw-wQLpRs"
     },
     {
       "termino": "noticia",
@@ -50,9 +57,9 @@
     {
       "termino": "parma - roma",
       "trafico": "200+",
-      "noticia": "Così fa Malen. Poker dell olandese che schianta il Parma",
-      "enlace": "https://www.parmatoday.it/sport/parma-roma-1-5-cronaca-tabellino.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDyZf__TwkvxXa6YgELn51hMrrKRNX9BD0Azpc6x9fZaVVfxtlYhjNPH3wsM"
+      "noticia": "Malen, quattro gol per la storia: segna più di Van Basten e Sheva, meglio di lui solo...",
+      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Roma/21-11-2026/malen-quattro-gol-record-chi-ha-fatto-meglio-dopo-12-giornate.shtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfNIJ12oqpgLeJRcwlcOQHZBPvIjVUi7upRLhds7mwxWExXV8J_TNdS8okrlE"
     },
     {
       "termino": "76ers - bucks",
@@ -67,13 +74,6 @@
       "noticia": "Sevilla 1 - 1 Betis: resumen, resultado y goles",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
-    },
-    {
-      "termino": "newcastle - arsenal",
-      "trafico": "1000+",
-      "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
-      "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
     }
   ]
 }
