@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T12:38:30.468606-04:00",
-  "hora": "12:38",
+  "updated": "2026-11-21T12:48:53.615101-04:00",
+  "hora": "12:48",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "james harden",
+      "trafico": "200+",
+      "noticia": "James Harden shouts out Kobe Bryant after passing him in history books",
+      "enlace": "https://lakersnation.com/james-harden-shouts-out-kobe-bryant-after-passing-lakers-legend-in-50-point-games/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQCq2c1KfA0ebJOr9bnALYGft0U57yoUFqplJqbAG8JRFUW34V1M-Tg70hCeQ"
+    },
     {
       "termino": "muere actor de you",
       "trafico": "100+",
@@ -36,30 +43,30 @@
     {
       "termino": "aston villa - sunderland afc",
       "trafico": "100+",
-      "noticia": "Tottenham Hotspur vs Ipswich Town: Premier League preview, team news, stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c699exk99z54t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAFg0ngNc5FfIRs6N0_ozbwkyRcsIM0uGau-DMPkJLgnJf7OMn2WDwZML0_nE"
+      "noticia": "Premier League: Chelsea, Tottenham and Bournemouth all lead, Frank s Palace level",
+      "enlace": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9YUwgMalsEukwKxAA-pmBogovzM-F10p__gOk6rLHeKfIe5OTr3WOzNF3bro"
     },
     {
       "termino": "posiciones de manchester city contra fulham",
       "trafico": "200+",
       "noticia": "Manchester City 1-1 Fulham: Resumen, resultado y goles del partido | Premier League en directo",
       "enlace": "https://as.com/futbol/internacional/manchester-city-fulham-en-directo-premier-league-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWygKHRjgaXfE4YqGxrqdt3DupWY8pSE2Abq2CFokzjvru8zgD6CJ7ECiVmSY"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv-SwG76XOVUV9uhRWD9F3mmhnerCLA0-2HXic21aZvMj3UdLrxsPmEHWrwZs"
     },
     {
       "termino": "como - cagliari",
       "trafico": "200+",
-      "noticia": "Por qué Nico Paz es suplente en Como vs Cagliari",
-      "enlace": "https://www.365scores.com/es/news/por-que-nico-paz-es-suplente-como-liga/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P5Zy92J3KepLfLCApiwI2URq8mPF8Ycov79jfBy6H7gTZEUGdsMkgj6AKP0"
+      "noticia": "2-0. Jacobo Ramón y Da Cunha aprovechan la precisión de Couto y dan el triunfo al Como",
+      "enlace": "https://www.infobae.com/espana/agencias/2026/11/21/2-0-jacobo-ramon-y-da-cunha-aprovechan-la-precision-de-couto-y-dan-el-triunfo-al-como/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
     },
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
-      "noticia": "Carlos Alcaraz - Ben Shelton: resumen, resultado y estadísticas de las semifinales de las ATP Finals",
-      "enlace": "https://www.marca.com/tenis/copa-masters/carlos-alcaraz-ben-shelton/2026/11/21/04_0414_20261121_13-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCggEtTenCK--qav4kxcJt-VfQlJw-Bpg-se6b2aEq8zJiSlLURNkGcrzG1V0"
+      "noticia": "Alcaraz remonta para la historia a Shelton y repite final del Masters",
+      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/21/alcaraz-remonta-historia-shelton-repite-final-masters.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLL4deT5co09380iHUgBU6cyq0DqR8RV8_JzLHk4ysx1obSa7y1xI5Y04XLQ8"
     },
     {
       "termino": "lance broadway",
@@ -67,13 +74,6 @@
       "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
       "enlace": "https://www.nbcdfw.com/news/local/former-mlb-first-round-draft-pick-lance-broadway-dies-at-43/4108628/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
-    },
-    {
-      "termino": "tía",
-      "trafico": "200+",
-      "noticia": "Femicidio: “Vino por mí”, dijo la tía de la joven ejecutada en Lastenia",
-      "enlace": "https://www.lagaceta.com.ar/nota/1163355/seguridad/femicidio-vino-mi-dijo-tia-joven-ejecutada-lastenia.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
     }
   ]
 }
