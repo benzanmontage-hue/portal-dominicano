@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T15:25:38.164257-04:00",
-  "hora": "15:25",
+  "updated": "2026-11-21T15:36:00.359331-04:00",
+  "hora": "15:36",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "real madrid - celta de vigo",
+      "trafico": "500+",
+      "noticia": "Real Madrid - Celta en directo | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-celta/2026/11/21/01_0101_20261121_186_176-directo.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ4QXjZ1LJLJ00GY2O_3Z8kaQOZOUyCSAvjYy3Uc78N7HWPkNGUnigNy3v_ok"
+    },
     {
       "termino": "noticia",
       "trafico": "200+",
@@ -15,23 +22,23 @@
     {
       "termino": "lluvia",
       "trafico": "100+",
-      "noticia": "La Aemet activa avisos amarillos por lluvias este sábado en 8 provincias: consulta las zonas afectadas",
-      "enlace": "https://www.elconfidencial.com/el-tiempo/2026-11-21/aviso-amarillo-lluvias-ocho-provincias-aemet_4469790/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGlwB0Lu2lFNpzXxRqgRbJckomWclpu3SX7exWDyFPM-mUQoFoFc_zJzsPDM"
+      "noticia": "El fin de semana dejará lluvias abundantes y fuertes vientos hoy sábado, con frío y heladas para el domingo",
+      "enlace": "https://www.elmundo.es/espana/2026/11/21/6b01510de9cf4a32288b4592.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeihuVCbDjGPOCItpPLajG6SRT8K8IzzWGDE7dR83NI7uRyyRiAIede8Ezfj4"
     },
     {
       "termino": "parma - roma",
       "trafico": "100+",
-      "noticia": "Troilo liscia e Malen non perdona: il clamoroso errore del difensore del Parma contro la Roma",
-      "enlace": "https://www.corrieredellosport.it/foto/calcio/serie-a/2026/11/21-152733038/troilo_liscia_e_malen_non_perdona_il_clamoroso_errore_del_difensore_del_parma_contro_la_roma",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTwlS3HCovYkkz4rVMDgtGQZb642QSBZjVif-UNyiA_1YBVJJkS31DJQVVU5M"
+      "noticia": "Gasperini si gode Malen:  Il migliore in Italia, parlano i numeri. È perfetto per la mia Roma",
+      "enlace": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/21-152735485/gasperini_si_gode_malen_il_migliore_in_italia_parlano_i_numeri_perfetto_per_la_mia_roma",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNisyP5em3jwsTTzOFh-cHXXvBC2wR8vKmLnRNcwN48vbMTvx_eiYe864OogE"
     },
     {
       "termino": "76ers - bucks",
       "trafico": "1000+",
-      "noticia": "76ers  Jaylen Brown (hamstring) to miss Wednesday s game vs. Magic",
-      "enlace": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07BKi7HH2fbKh0nFLZhRwU2FLMJ4HbV-lO1Hm24wkek51vfHngGanu9PM1SQ"
+      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
+      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
     },
     {
       "termino": "sevilla - real betis",
@@ -43,16 +50,16 @@
     {
       "termino": "newcastle - arsenal",
       "trafico": "500+",
-      "noticia": "Newcastle United vs Arsenal: Premier League preview, team news, stats   head-to-head",
+      "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ojWhiDFLvCOHjXbY7YdUmxfMZ4Io7zldcNvvcE0p8V9lX42Hk5mHs1N9tgw"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsn6Yz6R1krN4i-egA1NJiQZwNj2BMo0Wf-Aw6wOETjiyUJGLxIuiBfAMfZIQ"
     },
     {
       "termino": "nice – paris-sg",
       "trafico": "200+",
-      "noticia": "Nice 2-3 PSG : rapport de match de Ligue 1 et histoire des xG",
-      "enlace": "https://www.sofascore.com/fr/news/nice-2-3-psg-rapport-de-match-de-ligue-1-et-histoire-des-xg",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDxaHZTgBoCgwd_dE2dNGK8o4q9LuaoGoaFLppt8VEnu8zIky2ITe1ylraAis"
+      "noticia": "Nice - PSG : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iG1KQLmoBg9iBBjPgicHCQvrPwxTDLjRT0oNlxtQCf6bvMzQ8YKi3RrvG1c"
     },
     {
       "termino": "james harden",
@@ -67,13 +74,6 @@
       "noticia": "Jennifer Lopez Feels Like She’s Getting Better at Everything",
       "enlace": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_-Bf8mkIw_G5N8enrYuDMK8ro7ayu-zv8jNHZj7HIXwI-LRzH2q6zc_c9AxM"
-    },
-    {
-      "termino": "muere actor de you",
-      "trafico": "100+",
-      "noticia": "Las incógnitas de la muerte de Alexander Haskin, actor de la serie  You",
-      "enlace": "https://www.telecinco.es/famosos/20261121/incognitas-muerte-alexander-haskin-actor-serie-you_18_020775925.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTihZKTfwQoWLLgE0mBaTLMKM2yMl8GcZRjkx5kWd96jG3MQw5D50r1OnlDFq4"
     }
   ]
 }
