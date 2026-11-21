@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T20:34:44.190336-04:00",
-  "hora": "20:34",
+  "updated": "2026-11-20T20:45:05.955741-04:00",
+  "hora": "20:45",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -18,6 +18,13 @@
       "noticia": "Euro hoy en República Dominicana: cotización de apertura del 16 de noviembre",
       "enlace": "https://www.infobae.com/noticias/2026/11/16/euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-16-de-noviembre/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhfN8OVxYDfipO0Lwa6pL4XbpFwhMxzR1vlsUKBMBbnu178FwV5h8P6dr-9oE"
+    },
+    {
+      "termino": "huelga",
+      "trafico": "200+",
+      "noticia": "Varapalo judicial a CSIF: el TSJM rechaza paralizar los servicios mínimos de Ayuso para la huelga educativa",
+      "enlace": "https://www.libertaddigital.com/madrid/2026-11-20/varapalo-judicial-a-csif-el-tsjm-rechaza-paralizar-los-servicios-minimos-de-ayuso-para-la-huelga-educativa-7495469/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6-pCwnR61e8u5sVjpa_bRywWhsGXn5itMP12jnuAP_H5lVonpZxwfMmLxfmo"
     },
     {
       "termino": "eliezer salvador melissa medina",
@@ -67,13 +74,6 @@
       "noticia": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr",
       "enlace": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E"
-    },
-    {
-      "termino": "guido gómez",
-      "trafico": "1000+",
-      "noticia": "¿Cómo lograr que Viettel traiga competencia?",
-      "enlace": "https://hoy.com.do/economia/lograr-viettel-traiga-competencia_1109029.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHxMjHYBnAauNEiGlOXzIWpOt59f6LaGh2Cxfh22kZqaMXehvFAKuKD8A4Mwk"
     }
   ]
 }
