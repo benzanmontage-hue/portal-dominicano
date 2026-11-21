@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-21T15:46:20.066068-04:00",
-  "hora": "15:46",
+  "updated": "2026-11-21T15:56:39.970734-04:00",
+  "hora": "15:56",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "real madrid – celta vigo",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "3 non-negotiable Real Madrid starters as they return to the Bernabeu to face Celta Vigo",
       "enlace": "https://therealchamps.com/3-non-negotiable-real-madrid-starters-as-they-return-to-the-bernabeu-to-face-celta-vigo-01m7wgtp9hd0",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm7lPenCye_KNZt-qaBPchOShek6o2fLsdEsP4BTMjPt3T8-rME65fGuyK1Xw"
@@ -15,9 +15,9 @@
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "1000+",
-      "noticia": "Real Madrid - Celta en directo | Última hora de LALIGA EA Sports en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-celta/2026/11/21/01_0101_20261121_186_176-directo.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ4QXjZ1LJLJ00GY2O_3Z8kaQOZOUyCSAvjYy3Uc78N7HWPkNGUnigNy3v_ok"
+      "noticia": "Real Madrid: posible alineación y probabilidades vs Celta",
+      "enlace": "https://www.espn.com.do/futbol/espana/nota/_/id/17539962/real-madrid-vs-celta-alineacion-probabilidades-laliga",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKU9laJ9HAy0HSFpxgeP0Pc6UmBaKWKMZ8okcXNW8mz0SAiosRqW7th7pbRw"
     },
     {
       "termino": "noticia",
@@ -29,13 +29,13 @@
     {
       "termino": "lluvia",
       "trafico": "100+",
-      "noticia": "El fin de semana dejará lluvias abundantes y fuertes vientos hoy sábado, con frío y heladas para el domingo",
-      "enlace": "https://www.elmundo.es/espana/2026/11/21/6b01510de9cf4a32288b4592.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeihuVCbDjGPOCItpPLajG6SRT8K8IzzWGDE7dR83NI7uRyyRiAIede8Ezfj4"
+      "noticia": "Inundaciones catastróficas en Florida dejan cuantiosos daños",
+      "enlace": "https://acento.com.do/actualidad/inundaciones-catastroficas-en-florida-dejan-cuantiosos-danos-9794107.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJEXz4yowy-OiG0DT9bapJcjJoEdpyDFeNVNG7lMMEa3QR0zAPatfSh7KYMQc"
     },
     {
       "termino": "parma - roma",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Highlights Parma-Roma 1-5: poker da record di Malen. Rivedi i gol su DAZN",
       "enlace": "https://www.dazn.com/it-IT/news/calcio/highlights-parma-roma-1-5-poker-da-record-di-malen-rivedi-i-gol-su-dazn/u0noepwm40og1kcvjuj9bi18r",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQENvB_677O00LwWh1e4vhXZavIE6EoZfXakt9POLGLVfQ_ZUsnsCUf22bYK0I"
@@ -43,9 +43,9 @@
     {
       "termino": "76ers - bucks",
       "trafico": "1000+",
-      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
+      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
     },
     {
       "termino": "sevilla - real betis",
