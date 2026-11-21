@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-21T00:54:53.207144-04:00",
-  "hora": "00:54",
+  "updated": "2026-11-21T07:06:05.683029-04:00",
+  "hora": "07:06",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "combustible",
+      "trafico": "200+",
+      "noticia": "El Gobierno baja hasta RD$33.10 en combustibles no esenciales; el resto sigue congelado",
+      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/20/gobierno-mantiene-congelado-combustibles-esenciales-otros-bajan/3726945",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvNV5SAM3ZQckOPjXF9EAlCDxSkvKUte9H375ZVUSMeNbk0WJXfsrIyPGzB-4"
+    },
+    {
       "termino": "nuggets - rockets",
-      "trafico": "100+",
-      "noticia": "Rockets face Nikola Jokic, Nuggets with Alperen Sengun banged up",
-      "enlace": "https://www.cbssports.com/nba/news/rockets-face-nikola-jokic-nuggets-with-alperen-sengun-banged-up/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA"
+      "trafico": "200+",
+      "noticia": "NBA: Houston Rockets at Denver Nuggets",
+      "enlace": "https://www.reutersconnect.com/item/nba-houston-rockets-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MDc1MzA%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiEz0DNO5u5FDr7PXxXilSdZEkTg4vM3ZwWGNmYS2JLWVAPn5Cb9SP574Usng"
     },
     {
       "termino": "lakers - kings",
-      "trafico": "500+",
-      "noticia": "Luka Doncic, Lakers aim to bounce back against Kings",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-aim-to-bounce-back-against-kings/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA"
+      "trafico": "1000+",
+      "noticia": "Kings vs. Lakers (Nov 20, 2026) Live Score",
+      "enlace": "https://www.espn.com/nba/odds/_/gameId/401909313",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3NrBJNoXR9UhHKHR1VgxBPtRRQRTzUQd2_s7ywHB00OSwRnC3BqOj1V_JSng"
     },
     {
       "termino": "gta vi",
@@ -29,23 +36,30 @@
     {
       "termino": "thunder - pelicans",
       "trafico": "200+",
-      "noticia": "Shai Gilgeous-Alexander drops 40 as Thunder rally past Pelicans",
-      "enlace": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-drops-40-as-thunder-rally-past-pelicans/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA"
+      "noticia": "New Orleans Pelicans vs. Oklahoma City Thunder Live Score and Stats - November 20, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261120_NO@OKC/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcCYEcReFUQi3lEiyHieyc93rqqRbTxAQawfs8p2rAF1IFC4JSH_RfZNuoBC4"
+    },
+    {
+      "termino": "resultados de loteria",
+      "trafico": "200+",
+      "noticia": "Lotería Nacional, en directo: comprobar los resultados del sorteo de hoy, sábado 21 de noviembre",
+      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-de-hoy-sabado-21-de-noviembre-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSleSjGz0WIJ0xs6D0Jn6OIEM2jWVuZqubdIGBjtNZdBgOdiulgLw1F_j860lw"
     },
     {
       "termino": "cavaliers - pacers",
       "trafico": "200+",
-      "noticia": "Cavaliers host Pacers in pivotal NBA Cup matchup",
-      "enlace": "https://www.cbssports.com/nba/news/cavaliers-host-pacers-in-pivotal-nba-cup-matchup/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpqXz53Ojfx1ba9UGX5XRQpjLp2cM6TtqDo7vcK2k2YmMdt09Ph5tMwX1kyeY"
+      "noticia": "James Harden Shares Emotional Response After Passing Up Kobe Bryant In 50+ Points Tally",
+      "enlace": "https://www.sportscapemagazine.com/blog/james-harden-shares-emotional-response-after-passing-up-kobe-bryant-in-50-points-tally",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9yhRlCL7MVOFjboe4JK161j4VcD7YmxMzy2ZcofYMWFyXPoMHRFKSChX-sY"
     },
     {
       "termino": "mercado de valores",
       "trafico": "200+",
-      "noticia": "El Poder Ejecutivo confirma a Ernesto Bournigal Read como superintendente del Mercado de Valores",
-      "enlace": "https://listindiario.com/la-republica/20261120/presidente-abinader-ratifica-ernesto-bournigal-read-superintendente-mercado-valores_930899.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfxAYx_UgjZV24fJAP2Truaw8SF-hlhNbx5gKhsRYL66mrvV-teC5iYFFuqg"
+      "noticia": "🔴 EN VIVO | Market Brief. Mercado de Valores Summit 2026",
+      "enlace": "https://revistamercado.do/money-invest/daily-news/en-vivo-market-brief-mercado-de-valores-summit-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVMBGSJaKml114Qk3cebkIx1glETFhar2X42Wz3dC7in4W1THkp2mzwqn5P70"
     },
     {
       "termino": "precio",
@@ -57,23 +71,9 @@
     {
       "termino": "huelga",
       "trafico": "200+",
-      "noticia": "Principal sindicato de Italia convoca huelga general contra el Gobierno de Meloni",
-      "enlace": "https://elnuevodiario.com.do/principal-sindicato-de-italia-convoca-huelga-general-contra-el-gobierno-de-meloni/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRHPF0z8-dRhbFn3y5V3nprr_hkPi6403FYUXJrJPBHvAGCMxvYqxDXTeZTmA"
-    },
-    {
-      "termino": "eliezer salvador melissa medina",
-      "trafico": "500+",
-      "noticia": "La Procuradora General instruye a la Dirección General de Persecución y a la Fiscalía del Distrito Nacional para profundizar las investigaciones por la muerte de Melissa Medina",
-      "enlace": "https://pgr.gob.do/la-procuradora-general-instruye-a-la-direccion-general-de-persecucion-y-a-la-fiscalia-del-distrito-nacional-para-profundizar-las-investigaciones-por-la-muerte-de-melissa-medina/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7mGzGTeS5d41JbmvFKDCG5wcrQyb2hSG3o6Hx8v3uRt6qtWHPcC4Tkc-v8s"
-    },
-    {
-      "termino": "alberto ii de mónaco",
-      "trafico": "100+",
-      "noticia": "Jacques y Gabriella de Mónaco, dos hermanos y dos caminos: las diferencias que empiezan a marcar su papel en los Grimaldi",
-      "enlace": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-11-21/jacques-gabriella-monaco-hermanos-caminos-diferencias-marcar-papel-grimaldi_4468609/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6aTG2xrx9q2eNHFIaDc-TKvTC2rSD6u_hCQbOe4V3OAq1TU-DDtpPYQemTTE"
+      "noticia": "Europa: Movilizaciones simultáneas en siete países por el alto coste de la vida y la falta de vivienda",
+      "enlace": "https://acento.com.do/rfi/europa-movilizaciones-simultaneas-en-siete-paises-por-el-alto-coste-de-la-vida-y-la-falta-de-vivienda-9793767.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaeOI0qN1Nhmk8SYlar7_zD7lEekt_hJScY6rvLl40jBm8e8XohgFD5ucv0XI"
     }
   ]
 }
