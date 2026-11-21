@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T12:07:34.505945-04:00",
-  "hora": "12:07",
+  "updated": "2026-11-21T12:17:53.785334-04:00",
+  "hora": "12:17",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "muere actor de you",
+      "trafico": "100+",
+      "noticia": "Las incógnitas de la muerte de Alexander Haskin, actor de la serie  You",
+      "enlace": "https://www.telecinco.es/famosos/20261121/incognitas-muerte-alexander-haskin-actor-serie-you_18_020775925.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTihZKTfwQoWLLgE0mBaTLMKM2yMl8GcZRjkx5kWd96jG3MQw5D50r1OnlDFq4"
+    },
     {
       "termino": "niza - psg",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "chelsea - leeds",
       "trafico": "100+",
-      "noticia": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups",
-      "enlace": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcARW-Nd6ch1spogLchbta_pbpNpIuKbzXrWZlYWSD47CVFB61hmOHywCArMQ"
+      "noticia": "Chelsea XI vs Leeds: Starting lineup and confirmed team news",
+      "enlace": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-leeds-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1305661.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CIu2g27_6PdEKlpBpKD4qdT7yOpik2a8vjwnQplI9lkqzOh3yu-1C38k9GU"
     },
     {
       "termino": "rayo vallecano - valencia c. f.",
@@ -29,9 +36,9 @@
     {
       "termino": "aston villa - sunderland afc",
       "trafico": "100+",
-      "noticia": "Two changes for Sunderland test",
-      "enlace": "https://www.avfc.co.uk/news/2026/november/21/news-sunderland-team-news/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorgA1FUkHw_lpjSzAvMAMs2NOfzDs8sBrUvVIXDVO3w7ORB1aOp6Ns0-PT78"
+      "noticia": "Chelsea vs Leeds United: Premier League preview, team news, stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1-O-enNDS0lky_0mLLItOvWqkB1UD02W8QHjS7Y1M7NM8SJGwi4AbW6Ph0NA"
     },
     {
       "termino": "posiciones de manchester city contra fulham",
@@ -50,9 +57,9 @@
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
-      "noticia": "¡EN VIVO! Carlos Alcaraz vs. Ben Shelton, por las semifinales de las ATP Finals 2026",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17538715/carlos-alcaraz-vs-ben-shelton-a-que-hora-juegan-y-donde-ver-en-vivo-las-semifinales-de-las-atp-finals-2026-resultado",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkNQPt8dN1oZCOixgKaZiDSTAvqk-MerTN9p2EQ05D3-xeZ4tmMPO-eYLgL2I"
+      "noticia": "Carlos Alcaraz - Ben Shelton: resumen, resultado y estadísticas de las semifinales de las ATP Finals",
+      "enlace": "https://www.marca.com/tenis/copa-masters/carlos-alcaraz-ben-shelton/2026/11/21/04_0414_20261121_13-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCggEtTenCK--qav4kxcJt-VfQlJw-Bpg-se6b2aEq8zJiSlLURNkGcrzG1V0"
     },
     {
       "termino": "lance broadway",
@@ -67,13 +74,6 @@
       "noticia": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
       "enlace": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s"
-    },
-    {
-      "termino": "tía",
-      "trafico": "200+",
-      "noticia": "Femicidio: “Vino por mí”, dijo la tía de la joven ejecutada en Lastenia",
-      "enlace": "https://www.lagaceta.com.ar/nota/1163355/seguridad/femicidio-vino-mi-dijo-tia-joven-ejecutada-lastenia.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
     }
   ]
 }
