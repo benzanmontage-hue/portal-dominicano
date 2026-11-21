@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-21T13:51:03.216104-04:00",
-  "hora": "13:51",
+  "updated": "2026-11-21T14:01:21.592194-04:00",
+  "hora": "14:01",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "76ers - bucks",
+      "trafico": "200+",
+      "noticia": "76ers  Jaylen Brown (hamstring) to miss Wednesday s game vs. Magic",
+      "enlace": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07BKi7HH2fbKh0nFLZhRwU2FLMJ4HbV-lO1Hm24wkek51vfHngGanu9PM1SQ"
+    },
+    {
+      "termino": "sevilla - real betis",
+      "trafico": "100+",
+      "noticia": "“Es muy difícil que el Sevilla vuelva a ser el de antes”",
+      "enlace": "https://as.com/futbol/primera/es-muy-dificil-que-el-sevilla-vuelva-a-ser-el-de-antes-f202611-n/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUNeBLukz7ytVSpCSR5_utiODMD-fpW3JeMuVKBW34PYbhn__3qdPSxoXwvGg"
+    },
+    {
       "termino": "newcastle - arsenal",
       "trafico": "200+",
-      "noticia": "Team news: Eze in, Guimaraes starts at Newcastle",
-      "enlace": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStF039HnFbsYzi89WPGRU11l3EBKZXpD6rEqVgqVXunC8XHS-7VDc2UZxDxaw"
+      "noticia": "Match Summary",
+      "enlace": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaoJzRlVCEoBJdfUaFha9znCjpq56l8HKtdTkHpSptB4bXRztpNuTl5m8BtU"
     },
     {
       "termino": "nice – paris-sg",
@@ -43,13 +57,13 @@
     {
       "termino": "niza - psg",
       "trafico": "1000+",
-      "noticia": "Ligue 1 - OGC Nice v Paris St Germain",
-      "enlace": "https://www.reutersconnect.com/item/ligue-1-ogc-nice-v-paris-st-germain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxQlhaWEk",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkfDbelEbwmarzQwfeVTnAxB4s_layCKuAq3pev7z8kYljUUy1xuQR-ZDqmo"
+      "noticia": "Nice vs Paris Saint-Germain: French Ligue 1 stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwdd16gddm4jt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "chelsea - leeds",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
       "enlace": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCK38q7BivOhxyLCNRmaJodIjo5_Sk1qvVjTPEkJFhY6UchxKJS5ET0dG4iw0"
@@ -60,20 +74,6 @@
       "noticia": "Isi Palazón, titular en el Rayo y Luis Rioja en el Valencia",
       "enlace": "https://www.infobae.com/espana/agencias/2026/11/21/isi-palazon-titular-en-el-rayo-y-luis-rioja-en-el-valencia/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
-    },
-    {
-      "termino": "aston villa - sunderland afc",
-      "trafico": "100+",
-      "noticia": "Andy’s Player Ratings: Aston Villa 0-0 Sunderland - Stalemate in the Midlands",
-      "enlace": "https://rokerreport.sbnation.com/report-amp-player-ratings/160117/andys-player-ratings-aston-villa-0-0-sunderland-stalemate-in-the-midlands",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6-n7Mc0njgjJ9CxMPlWLkrDOPRf7iWe-lbErWQs6RvMfYIJQ5SImEq9yt3Vg"
-    },
-    {
-      "termino": "posiciones de manchester city contra fulham",
-      "trafico": "200+",
-      "noticia": "Manchester City 1-1 Fulham: Resumen, resultado y goles del partido | Premier League en directo",
-      "enlace": "https://as.com/futbol/internacional/manchester-city-fulham-en-directo-premier-league-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv-SwG76XOVUV9uhRWD9F3mmhnerCLA0-2HXic21aZvMj3UdLrxsPmEHWrwZs"
     }
   ]
 }

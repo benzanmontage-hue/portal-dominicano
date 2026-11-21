@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-21T13:51:04.579717-04:00",
-  "hora": "13:51",
+  "updated": "2026-11-21T14:01:24.443145-04:00",
+  "hora": "14:01",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Precio del dólar hoy 21 de noviembre de 2026 - Conexión Migrante",
-      "fuente": "Conexión Migrante",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2lXSThSMENqZnRpVnZOSHptN2xfMVFoX0d5TWVybkJvT0VKOWV4bGdzcHNhdkZoZF8tMXRrQUxFRnhiX2dLajVyZEZjZTh6RFJyMTZOWEwtTEUwZ2N6elZCc0xwZTR5ZDRjai02RnJRLXZxc25aUzhET01VemF4N2UyQi01Ml9IYTJBN0xuVnc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 15:42:06 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
       "fuente": "masfe.org",
@@ -43,6 +35,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 15:25:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/cdc5f11f0b00197b1279ef41f7519caa1284d0efd5b07fc411340971402d5daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F980110b95edc6c17d08375e80f4e200c.jpg"
     },
     {
       "titulo": "Se registra sismo de magnitud preliminar de 5.0 en República Dominicana - Telemundo Puerto Rico",
@@ -77,14 +77,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/cdc5f11f0b00197b1279ef41f7519caa1284d0efd5b07fc411340971402d5daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F980110b95edc6c17d08375e80f4e200c.jpg"
-    },
-    {
       "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
       "fuente": "Real Madrid CF | Web Oficial",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1FfZTkxeUcwaW8xSkxySmtWZVRHeVhuZGt6RmRlQTZlZk5uQ0tweTM5YVNZRE1QN1hwLWd6RzRFNVZQc2pESmZBNEppTmRlSTFqNWRNemlVVGVjN3JsM3NScmRBWHVkTHVjTjEzTUk3QVFudGhKRkRGc3AtWWdsWmVSNTd1WUpyQW1HU1ZKVlp3bk9Yc2U4WVpoTzdCS090Q0ttaHpObzM4dTIzeDZ1bzNuTGFWTko0X0JnVHln?oc=5",
@@ -93,19 +85,27 @@
       "imagen": "https://assets.realmadrid.com/is/image/realmadrid/ND-VALVERDE-URUGUAY-RD_GettyImages-2305122208?wid=1200&hei=675"
     },
     {
-      "titulo": "Celebran en Nueva York la Noche de Cultura Dominicana - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmRDU2ZmZmdtZFd1S1B1WHFSVHJvTkpkZUxIX2loRjR3TVFZSTEwYWIyVnJtUURGaWVxWHEzeGJOUWtQN1AxQU5ERTNpMnYxWmQzdWtadWc2endmOWczY1ZBenNGLXNoc2wzVW9kMnpTNmR5aGN2UkoyUGZGTUh0T1dR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 13:35:46 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Reportan temblor con magnitud preliminar de 4.4 al sureste de República Dominicana - wapa.tv",
       "fuente": "wapa.tv",
       "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNN3BuX21wMmUxVEdhNHZPQ2hOZ2xsQlAwLS1NQVhfWW1jcTlsNlNQWEYwQUFHWUFBUURrXzBIZDFQc0tvT0lFaWZfVURHUGhfQkNuSjVkeGZYQ3NKc3hGRnZhRWhpNVdySHN6VmRrY20ybjZ3MEFLcGZLSDZLa0lpSDl0X3BibVZFb1lPSS1TakNhSzlHMUE5QXJrbjhkT2R4djNtMzgzN0pPd2lYcnpMRV9hRDh4ajhNRVliRHdyR1VpM3hNT2hpVjVDdkR1dVZBMGRqelJCUmlJOE1BbTRZZERHMlFzbFNyN0FERHllTzdDOXFTSzZ0ZnNPdzkydkpaSnI0?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 16:13:03 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
+      "fuente": "MLB.com",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWthWW5NczJRa0xwQXNxdm95NFc5emF0dEJuRno3UjkyZ2NMdnhaU2s1dWI3THBGcjRfaThteG5aa2NOdXFFMzZtRWl5QnlSemRMSkN2MndsMWRmS2dtazREUy1MSmtfRWVYVUhKelpMdzNGc3Fvb3JQRFpIaHNlQnQtWWtNZi1VekV5SWt0enAyVWVlZnFVZy1sMzRLUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 15:20:12 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Celebran en Nueva York la Noche de Cultura Dominicana - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmRDU2ZmZmdtZFd1S1B1WHFSVHJvTkpkZUxIX2loRjR3TVFZSTEwYWIyVnJtUURGaWVxWHEzeGJOUWtQN1AxQU5ERTNpMnYxWmQzdWtadWc2endmOWczY1ZBenNGLXNoc2wzVW9kMnpTNmR5aGN2UkoyUGZGTUh0T1dR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 13:35:46 GMT",
       "imagen": ""
     },
     {
