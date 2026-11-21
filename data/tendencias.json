@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T18:31:58.114790-04:00",
-  "hora": "18:31",
+  "updated": "2026-11-21T18:42:21.226902-04:00",
+  "hora": "18:42",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "classement real madrid – celta vigo",
+      "trafico": "200+",
+      "noticia": "Carlos Espi offre encore les trois points au Real Madrid au bout d un match brouillon contre le Celta Vigo",
+      "enlace": "https://www.lequipe.fr/Football/Actualites/Carlos-espi-offre-encore-les-trois-points-au-real-madrid-au-bout-d-un-match-brouillon-contre-le-celta-vigo/1745259",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoKVZc9B_iaq5Ny4cAqU-w9gcWyyGYoEKo-GRlog525Gki4p27JnbJODeIST0"
+    },
     {
       "termino": "julio iglesias",
       "trafico": "100+",
@@ -28,7 +35,7 @@
     },
     {
       "termino": "noticia",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "noticia": "La Procuradora General instruye a la Dirección General de Persecución y a la Fiscalía del Distrito Nacional para profundizar las investigaciones por la muerte de Melissa Medina",
       "enlace": "https://pgr.gob.do/la-procuradora-general-instruye-a-la-direccion-general-de-persecucion-y-a-la-fiscalia-del-distrito-nacional-para-profundizar-las-investigaciones-por-la-muerte-de-melissa-medina/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7mGzGTeS5d41JbmvFKDCG5wcrQyb2hSG3o6Hx8v3uRt6qtWHPcC4Tkc-v8s"
@@ -36,16 +43,16 @@
     {
       "termino": "lluvia",
       "trafico": "100+",
-      "noticia": "La nieve podría llegar el miércoles al Gorbeia y al Aratz, mientras Vitoria espera lluvia",
-      "enlace": "https://gasteizberri.com/2026/11/nieve-gorbeia-aratz-lluvia-vitoria-25-noviembre/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ77t05-DhrYloCVsttnpUq7BbzHbysCrK5gUwi8yPy3vIEaR7ArvnliRWd2Ug"
+      "noticia": "Sábado soleado con chubascos aislados en la tarde",
+      "enlace": "https://listindiario.com/la-republica/20261121/sabado-soleado-chubascos-aislados-tarde_930988.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQdoCjz12pliiU-5NV8ZqzwxRWf7e7GOcmp0Z36kkteYBJum2FV1MzWYoZxdk"
     },
     {
       "termino": "parma - roma",
       "trafico": "200+",
-      "noticia": "3 cose da Parma Roma",
-      "enlace": "https://il-catenaccio.it/attualita/as-roma/parma-roma-malen-svilar-gasperini-tre-cose.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2Zj15nRThywc1m8HBxTUVJYykrs_NCEPp7xqvF-qz2Ju8mDpj5l1nl7lS-mE"
+      "noticia": "Così fa Malen. Poker dell olandese che schianta il Parma",
+      "enlace": "https://www.parmatoday.it/sport/parma-roma-1-5-cronaca-tabellino.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDyZf__TwkvxXa6YgELn51hMrrKRNX9BD0Azpc6x9fZaVVfxtlYhjNPH3wsM"
     },
     {
       "termino": "76ers - bucks",
@@ -67,13 +74,6 @@
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
-    },
-    {
-      "termino": "nice – paris-sg",
-      "trafico": "200+",
-      "noticia": "PSG : la pensée d’Olivier Pantaloni pour Désiré Doué après sa grave blessure",
-      "enlace": "https://www.footmercato.net/a1480032499762374883-psg-la-pensee-dolivier-pantaloni-pour-desire-doue-apres-sa-grave-blessure",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqdaIDrrAsDqvRVONn95VFYzEC2IxPgZrMf7JTh5tgpVQdvj8xwAElQC1IyTk"
     }
   ]
 }
