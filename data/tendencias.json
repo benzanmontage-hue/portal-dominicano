@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T16:38:04.507329-04:00",
-  "hora": "16:38",
+  "updated": "2026-11-21T16:48:24.397389-04:00",
+  "hora": "16:48",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tyler herro",
+      "trafico": "100+",
+      "noticia": "Tyler Herro’s national television blunder proves he can’t be Bucks’ first option",
+      "enlace": "https://behindthebuckpass.com/tyler-herro-blunder-bucks-first-option",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2lXy42jUQHwuL9vqdvgCu0ABVciX7-n_2UrUUi6Hg4RzGoqIlDpoLQsJ-hM8"
+    },
     {
       "termino": "real madrid – celta vigo",
       "trafico": "1000+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "real madrid - celta de vigo",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Real Madrid - Celta en directo | Pablo Durán adelanta al Celta",
       "enlace": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaq2wNr4xNL6c6ZVVt-8bp0VpGkKQ0hubQlnBdj2pKyZFogFIBuZJbarfEkI"
@@ -27,6 +34,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT405WsJpvm1_jX4zy1uiRSN4Ac1XyPTLL9wvE9MOIosaRwzYBuWQFCRTSyJ1E"
     },
     {
+      "termino": "bucks - 76ers",
+      "trafico": "100+",
+      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+    },
+    {
       "termino": "lluvia",
       "trafico": "100+",
       "noticia": "Sábado soleado con chubascos aislados en la tarde",
@@ -36,9 +50,9 @@
     {
       "termino": "parma - roma",
       "trafico": "200+",
-      "noticia": "Gasperini: «Malen straordinario, Wesley decisivo. La squadra cresce e ora la panchina è da Champions»",
-      "enlace": "https://www.ilmessaggero.it/sport/as_roma/gasperini_malen_staordinario_wesley_decisivo_la_squadra_cresce_la_panchina_da_champions-9904850.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxjjbuKIe02M8ZR_78Tv1_ho8dbLoiSzi_J5-Tk91xrngQJccUE32mInL_qig"
+      "noticia": "Gasperini dopo la vittoria in casa del Parma:  Abbiamo 5-6 cambi validissimi. La Roma ha una rosa da Champions",
+      "enlace": "https://www.eurosport.it/calcio/serie-a/2026-2027/gasperini-dopo-la-vittoria-in-casa-del-parma-abbiamo-5-6-cambi-validissimi.-la-roma-ha-una-rosa-da-champions_sto23357519/story.shtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgQ1iwqniCtIgdKkQhDi1Q87f1yMEjtXrJ6h5pf3TU_MDy1ZqJkj4nOBiKVSU"
     },
     {
       "termino": "76ers - bucks",
@@ -56,24 +70,10 @@
     },
     {
       "termino": "newcastle - arsenal",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
-    },
-    {
-      "termino": "nice – paris-sg",
-      "trafico": "200+",
-      "noticia": "Nice - PSG : les compositions officielles",
-      "enlace": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iG1KQLmoBg9iBBjPgicHCQvrPwxTDLjRT0oNlxtQCf6bvMzQ8YKi3RrvG1c"
-    },
-    {
-      "termino": "james harden",
-      "trafico": "200+",
-      "noticia": "James Harden explodes for 51, passes Kobe for third-most 50-point games",
-      "enlace": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT039MgXt6ZeyrAbum6KCKYDvYjC5pv59yvpVjtSoi0TRRyJRqveCQ1GT-D_Hg"
     }
   ]
 }
