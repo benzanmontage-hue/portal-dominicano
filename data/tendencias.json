@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T15:15:17.586458-04:00",
-  "hora": "15:15",
+  "updated": "2026-11-21T15:25:38.164257-04:00",
+  "hora": "15:25",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "noticia",
+      "trafico": "200+",
+      "noticia": "Pronóstico New York Knicks vs Portland Trail Blazers NBA",
+      "enlace": "https://www.hispanosnba.com/nba/pronostico-new-york-knicks-vs-portland-trail-blazers-nba/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT405WsJpvm1_jX4zy1uiRSN4Ac1XyPTLL9wvE9MOIosaRwzYBuWQFCRTSyJ1E"
+    },
     {
       "termino": "lluvia",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "parma - roma",
       "trafico": "100+",
-      "noticia": "Inizio del match con il Parma in avanti - 9  Parma-Roma 0-0",
-      "enlace": "https://www.gazzettadiparma.it/sport/2026/11/21/news/parma-serve-la-gara-perfetta-per-fermare-la-roma-983018/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREAl3Wyq_c1kdCwpz21fkcbU9UPOTjX3kxMXak7QDYQPYi3dPQZEwAj2aeVwk"
+      "noticia": "Troilo liscia e Malen non perdona: il clamoroso errore del difensore del Parma contro la Roma",
+      "enlace": "https://www.corrieredellosport.it/foto/calcio/serie-a/2026/11/21-152733038/troilo_liscia_e_malen_non_perdona_il_clamoroso_errore_del_difensore_del_parma_contro_la_roma",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTwlS3HCovYkkz4rVMDgtGQZb642QSBZjVif-UNyiA_1YBVJJkS31DJQVVU5M"
     },
     {
       "termino": "76ers - bucks",
@@ -31,14 +38,14 @@
       "trafico": "200+",
       "noticia": "Sevilla - Betis en directo: LaLiga EA Sports hoy, en vivo",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIOs5h557RKgEyfJ57-EIvSM063KneBWOZLVP2vZ462KHEaoT-ggxSwo98v04"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
     },
     {
       "termino": "newcastle - arsenal",
       "trafico": "500+",
       "noticia": "Newcastle United vs Arsenal: Premier League preview, team news, stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCkeUL0VQd-BY16BAi_hfeGFqcEHvkzWh7Jz4yacSQqbHRAEwoWNs7hC8h2Fw"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ojWhiDFLvCOHjXbY7YdUmxfMZ4Io7zldcNvvcE0p8V9lX42Hk5mHs1N9tgw"
     },
     {
       "termino": "nice – paris-sg",
@@ -67,13 +74,6 @@
       "noticia": "Las incógnitas de la muerte de Alexander Haskin, actor de la serie  You",
       "enlace": "https://www.telecinco.es/famosos/20261121/incognitas-muerte-alexander-haskin-actor-serie-you_18_020775925.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTihZKTfwQoWLLgE0mBaTLMKM2yMl8GcZRjkx5kWd96jG3MQw5D50r1OnlDFq4"
-    },
-    {
-      "termino": "niza - psg",
-      "trafico": "1000+",
-      "noticia": "Video: Hakimi leads Paris comeback at Nice despite Algerian touch",
-      "enlace": "https://www.goal.com/en/news/video-hakimi-leads-paris-comeback-at-nice-despite-algerian-touch/blt944a7cfec548ee71",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmbaPLD5-mVguEzWghcOr7shMAjU2-XMGTT37joEFfKclLKDPgFYXGwj2IBjs"
     }
   ]
 }
