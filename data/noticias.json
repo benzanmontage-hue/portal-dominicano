@@ -1,23 +1,103 @@
 {
-  "updated": "2026-11-21T00:12:10.634725-04:00",
-  "hora": "00:12",
+  "updated": "2026-11-21T00:22:28.565208-04:00",
+  "hora": "00:22",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "DNCD detiene a tres personas con 225 paquetes de cocaína en Baní - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3g5NjhyQ0dKdkkxeVAwb0lKT3hOLTBRalM0cFJWRW85cFR1czV0Vk9Jb29EeWU4MFhKaGJXQVdLUnppb2tSM0JYNlJsQjFHRmcyMHZEbWJ6STNDWkJSZUhvZzZlM2JBNl9fcmtiTlUtRC05Q21FTlY4bWRoQnZJd0pYODhTS0RrdjJMblpEd3pmbzlXTHhCdHJxOU04MDFoa0s0cUVyRWN5RnV5WDRmddIBtgFBVV95cUxQemZXcHoweXkzTmNPMVBnUUMyWTBOckkxdXhvam9jM1ljTm5RbjJLZTA2T2ZELW1DY0RmeWRkNnVrN0hQQU5fam1MTjFHX3pCNi00QjZtczNIaG5SY1JWZlZVODZTWmdkUGwzRDRTNEs1c3d0ZG0xQ0R3UGViTlMtc3M1a3lJYnhoNXItRzNNa2NIWnk5RHFReGp2OGZUYk1OTC00NUtmWXptLTN2YktWZ3YtRGZwQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 22:09:42 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Abinader plantea establecer un vuelo directo entre Dubái y República Dominicana - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnkyUWVPQlI1MWFUTFFEU05ULWljMXFfTDk1U2lVY0hsWGpyWjBYT2ZWZDF2VTdDSm5oR0RBNFRkNUJ4dGFZTEZjcElscXhJcXpDc2JWVkZJeFZrSkY4eklsT0hKR3JLa1Eyb3BENmhvUW53NVdpTWtFVktRVGp4Um5lZy1IbHV2bmJCc1laQVo4VFM5V0VEbmxNWWdpMEJ5dU5YWVVjcm0xTWZxNGhUbUFuYmJfcjdaYlFtdFZDUnJNMVFBel9MWtIBzgFBVV95cUxORkxvajZmSTNjM1hTamhGa2JCc1FCd3pDeHpWbG03dkhLYnBSVEZ3YkxuRHpwblA1SFVqRjZkWTNzQzcwQ01zQ2V0Mmctd2JMSTh1NUVRdjExTFdYcHR2SmJYanN5dFBCc1pheUw5Z3p4Nm42Z3Q3c1RNVFdHd2xUaXFIckZzSzhfZllFSVNLLTkwUUFuM1FBaEJVcDBjRFFXanN1aHdIeF9hVER6N2dKd25reHpyTzVGU2dpbzBlclM1M2g2cUlZLTFDenJ1UQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 14:42:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/20/abinader-propone-vuelo-directo-entre-dubai-y-republica-dominicana-5a2710fd-focus-0-0-1200-675_wam.jpg"
+    },
+    {
+      "titulo": "República Dominicana registró 4.2 millones de intentos de ataques de malware en un año - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEJhakp1QU01bzNDLVdZTE8yU0NyS2ItTV9saF91Q3JuYlBBVG5hZTRLaEFDeXFYbENQV3NiMnhpaXZEcE5UVVhWYXlVbGE1RzBwWnpIdEpaWnNyaVBNd0pTU0lPYU1LZlpjd1gtbUNxQkhYOUJ3TFQ5RndaT0l1UHc0a19fY250Yk5yOW9hdkRaT1p6VFp3ODl1bml4TVgtQzgxSmd1Qi01UmE0TGw0N1RITExJS0c5bjNaVXlOZ05hZFZhb1R4ME1WbUtpbkVBN0pN0gHTAUFVX3lxTE84QmFqSnVBTTVvM0MtV1lMTzJTQ3JLYi1NX2xoX3VDcm5iUEFUbmFlNEtoQUN5cVhsQ1BXc2IyeGlpdkRwTlRVWFZheVVsYTVHMHBaekh0Slpac3JpUE13SlNTSU9hTUtmWmN3WC1tQ3FCSFg5QndMVDlGd1pPSXVQdzRrX19jbnRiTnI5b2F2RFpPWnpUWnc4OXVuaXhNWC1DODFKZ3VCLTVSYTRMbDQ3VEhMTElLRzluM1pVeU5nTmFkVmFvVHgwTVZtS2luRUE3Sk0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 22:00:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Carlos David: “República Dominicana es el único lugar donde se subestimado el merengue” - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3pSekRMMU1sWHlXektOWHNCc1Rzam5hQUhQOGZCNWNKY1JNOWFiUThUakF4bzRNeTd1amRENFo2WGVDTHN6X3MzTXRTTU82SW5sV05RVDQxVjBKRjljcDZqbVZzNERDeDE0b0lqR3B2dmxybS1xdVBqSmN6VmFTVHIzTGo3TzBqcFhmVHBjR2JxNlVkMEp5X09MbTFaUTB2MWp3ZGwyZEFzMW96ekhWUm54eDQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 17:47:21 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "titulo": "Precio del dólar hoy en RD viernes 20 de noviembre - El Caribe",
+      "fuente": "El Caribe",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmJSbm9DRHo0LUdsTWNtY0hOd3JvaXA5cXdzV1hLeC01TkFMVUxKcFZ2eVVUbkJNZDk5b2tQRmgxWmJJQkVFX0hEdmUtU0FORVJTbmtOS3ZqcEsyRzByaFBnYWxCclY3Y3Mtb2I3YkNUdXVXMm1mTVhJVTVkeWxPNkhZNHgydzdPUTBFTVh4bw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 13:34:57 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Cuántos turistas recibirá RD este año? Abinader anuncia récord - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcUpmeEkzYWhlUUU0YkJwN2ZkdTBYMk9qUGdUOE9SeHc3Vk9mWDN2NUxGU0FSVWh5SkVkSVdmTVFlVy1pRHNUendIczdOMXZ1a1dfVlhkV2dpYUxKdmZLeFRhV0MyejdmSnV3WHZweWRrbGNrN0w4ZmNyN1h1ZHlnRjJfT1ZETEppVENmdDJUVk1tMVBtLTRvVzE5ZEpqYy1LTUxDUTJR0gGrAUFVX3lxTFBfZGtPRDRLNDF4RHBLSzNHclZySk9XeXp6WjJtc3RoUXBuVE1rY05MWEZWT1hMX1M2THhCaG5SWloxZ1lualk2VVFhTkhNbi1NUFVURnpXb3MyQWVILUVQM19Td3dWclk1UDAxdG96dktfeURfNGRzNHhybm9pblFPUDBlOGMzNTZzQm85b2ROaF9aNVJsdW1HS3U3UDYxaENjM01ZV041ck8tdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 20:25:09 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "La República Dominicana está liderando un tratado global para la educación gratuita - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTd0bVhaalo2YVNxOHhJckFKd1VQSmYtdHQ3LUg2NF9wb01qMG5RZ2xnSFlmWEVDQXZnbzJNeFNWbUxITjV3WkEyZDROeHF0VUlqcnJoN0J1c1UtWmMxUUV4RExRZlpsRldKRXNuTF96S0JfbDJnMmliem1Gdm1HYlNvRERvdkx3YVdxTGNnTzlHN0lNeHB1VnctS3BmYWZQVDYwOFZ6NVhSOEZON0ZQaC1RMS15TmFVa29IWklsVGFtZTh00gHEAUFVX3lxTE5tN3RtWFpqWjZhU3E4eElyQUp3VVBKZi10dDctSDY0X3BvTWowblFnbGdIWWZYRUNBdmdvMk14U1ZtTEhONXdaQTJkNE54cXRVSWpycmg3QnVzVS1aYzFRRXhETFFmWmxGV0pFc25MX3pLQl9sMmcyaWJ6bUZ2bUdiU29ERG92THdhV3FMY2dPOUc3SU14cHVWdy1LcGZhZlBUNjA4Vno1WFI4Rk43RlBoLVExLXlOYVVrb0haSWxUYW1lOHQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 03:04:31 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Captura-de-pantalla-2026-11-18-a-las-8.01.59-p.-m-OG.jpg"
+    },
+    {
+      "titulo": "República Dominicana inaugura con fiesta el Campeonato Panamericano de Béisbol Sub-12 - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDZJNmNsZ3BJaU02TkdxVkVOMU9SRENaRkRGa0hGWHpTQ3Vhb3RWbWVuQWFRLWVlYVRtanpkZmtvSFo2MVAtakRlRUgxUk91eDBmcS1nTjJzSUwyNW1rc3RSVE1xWHVtLUJEcjRkcHJQbnJkcjVMSHhNYW1KUTdQamZtTUlmd3Rxb3pBaXNvdG5MX2JZRHZ3OHFxYnFNM0lZdi1VNnJTNlB4VXVSTlNEeDRXS051dw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 20:52:25 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Arrestan en Colombia a otro implicado en red de narcotráfico investigada en RD - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFJqU05aeUtYRzV3UTZWU0ZVLURDUllwWGFkZkx5aU5qUUN0RVRBbVU5SGc5MDFxaXVoa0xvMXMzeDh0Nl9WWEJKeWZBZlFuc2dmNHcxSWgwX192cFNyeDREWXhtZjF6VnZJSFA4WHNFTWgxSnlsdXZibTBaS1JnSXEzRXZSZnpBTXVZbHlfMVFSMlRqMEFPM0lxM1pBZGpaMHJDRFhsa1c1eXl6NFR5Y2VEOWJrSUlCazlWN3ppRVFhWjBJZzBPYjhuRdIB0AFBVV95cUxPbmszM3NoU2MwNFlCVXRNclVFNElTdUlMWnN2X0ZSRGEtUjk2am4xNXF3X2ZfX2N6cTdDaHVWaFFESGdaeGl5QlZDa21od1VIT1d0b2ZiX0dKM1RYanZNTEc4SlhOLUxINlg4cmhOT0FBSGtDRC1RRXl6RVI5SXROWFFhZlg5Z09ERnF5dW1SMFB5cFRHSUNQOFF1bkpHdGFDQ1cyczE5UHlVNmQ4a1NsNnhKLXMxcGxKUmU1LVAwQ0ZaTmxQT0JDaUdkbjNMR2x1?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 15:29:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, viernes 20 de noviembre de 2026 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQTM3a0pYZjJ5czB6WnE5blBQWTBBVktoY3VvRGxBajJwd3BWanFSeks5Qk1iTTlMTjNWQmhwd1ZYQ3cxaXRhbTNMM1dyck9tWFp0bVVWZ21hQUFqSGdJX05FRDZzZjR0YW9ZMXQzRGVGT0UzRGVaUUpuX2xKam45cERjNHdZc2JESzJfOXZrdlVXS003M3dVclhNVExQSUJkdHZBQ0JkN0hQUkZ3UlVSMDl2b243WEo5ako0ZkJxQVJGM0l0am4wZTJZS1IzbEVXbk1vUF9tb0pIdGhyTk9JSlVR0gHiAUFVX3lxTE5BMzdrSlhmMnlzMHpacTluUFBZMEFWS2hjdW9EbEFqMnB3cFZqcVJ6SzlCTWJNOUxOM1ZCaHB3VlhDdzFpdGFtM0wzV3JyT21YWnRtVVZnbWFBQWpIZ0lfTkVENnNmNHRhb1kxdDNEZUZPRTNEZVpRSm5fbEpqbjlwRGM0d1lzYkRLMl85dmt2VVdLTTczd1VyWE1UTFBJQmR0dkFDQmQ3SFBSRndSVVIwOXZvbjdYSjlqSjRmQnFBUkYzSXRqbjBlMllLUjNsRVduTW9QX21vSkh0aHJOT0lKVVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 08:00:06 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/cdc5f11f0b00197b1279ef41f7519caa1284d0efd5b07fc411340971402d5daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2F980110b95edc6c17d08375e80f4e200c.jpg"
+    },
     {
       "titulo": "\"Invasión haitiana\": grupos en Facebook difunden desinformación y discursos de odio en República Dominicana - AFP Factual",
       "fuente": "AFP Factual",
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVVM4MzVXVEl4alJyNno5OTVDUllDLWh1R2pGbEVSZXJjc1ZJM3AyZEN5N2dDaEdsZjRVYU01X2s1emdJSnhGY1BLT1ptQ3BzN2Q3VDFR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 20:16:36 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
-      "fuente": "MLB.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWdhT1VMVE4wOUtsLThhTHhTZmVTUEtwUVRHVzgzb3lYaUMtNjFoZmhhMEtETDZyQUpCMkNncjFnY0xNODBqdlRJdFgzWkNIQzNYTk9QNmpXUTBYVEVEcHhiS2pQdlBqZlBRVnNGc3FhWHNSQ3h4OHYtdlJuRVUydUdXR2lITE55UFB4NjVhaFJHekJoSHkzTnhVQjRKUVNSTU43VUxqdHVLdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 15:11:14 GMT",
       "imagen": ""
     },
     {
@@ -37,91 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Cuatro dominicanos enfrentan acciones penales por presunto tráfico de migrantes haitianos, entre ellos menores de edad - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVmtnMTBLQktJX3U1Ni1lM09jNnFDUmhGMVJxcm1mVXZYMk5DN3FLUUxpSTNGQkhrbnFlLWxaQkdEWERraXVobU5CRU4wV01PcEJCNmpoQ2NucUp2RTRNUXRRRWxUb0J4WW5feWRGYXg1UnU5ZDhiOW5CR3BkM0RTTW5nWURxeVdaeUIzempqVnlFWmNSaUVaZzRSTDVZZU1aLVpkYUNoejNUbHpIWmpoV19NT1Y1ZGkwWHM2MVB1Qno5YlJLMXFYQVhXd25BREVPUE5xcWJJRllmMVBPR0RjZEpobWNIdnV5cmFab2pVRXNucndMSnBRSFR4MnREazlVeEM0UdIBnwJBVV95cUxPdGQtYjhLUlRyeERPUGtLYTk0eWV1S3Nna0puTHdpN2QwVjJEWXUzcWZNVjZ4Q245M1A5X1V5OXNxbGthS2tBRTd4M291QnZVSzlMSkNUNFpYZ05RUk1hNmh3dm5nV0h6NEpqdDFvU0I5dFl0U0F6a3JONHZfTUJfeUxMMGxlLTBJWmwxR1JucEp1bWZnbVVuNDZrSjcxOGxIakdpSTVyVHVWS2lwWkkyZUZRdjluQnRLTWJ1eTFaekMwdzZ1eGNWSXctVGx2eVhBSWEzdGplOVVKZEh1Z25CSzloZW10aEZyWjgzT2E3NzZFNFNPcEplOHd5SWFWWUJXRTdXX1d2alFWbThwZm9FcGVCSWswV19CRWhzYkdWVQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 03:35:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
-      "fuente": "Real Madrid CF | Web Oficial",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1FfZTkxeUcwaW8xSkxySmtWZVRHeVhuZGt6RmRlQTZlZk5uQ0tweTM5YVNZRE1QN1hwLWd6RzRFNVZQc2pESmZBNEppTmRlSTFqNWRNemlVVGVjN3JsM3NScmRBWHVkTHVjTjEzTUk3QVFudGhKRkRGc3AtWWdsWmVSNTd1WUpyQW1HU1ZKVlp3bk9Yc2U4WVpoTzdCS090Q0ttaHpObzM4dTIzeDZ1bzNuTGFWTko0X0JnVHln?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 08:10:00 GMT",
-      "imagen": "https://assets.realmadrid.com/is/image/realmadrid/ND-VALVERDE-URUGUAY-RD_GettyImages-2305122208?wid=1200&hei=675"
-    },
-    {
-      "titulo": "República Dominicana firmó acuerdos de cooperación con el Gobierno de los Emiratos Árabes Unidos para impulsar la formación en inteligencia artificial, fortalecer la educación digital y mejorar la capacidad de ejecución de las políticas públicas, mediante tr - Instagram",
+      "titulo": "Agentes de la Dirección Nacional de Control de Drogas (DNCD), la Armada de República Dominicana (ARD) y la Fuerza Aérea (FARD), coordinados por el Ministerio Público, incautaron un alijo de 225 paquetes de presunta cocaína durante una operación a - Instagram",
       "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HdkY2U0tyakMteGttVGRVQkVta1RTTjBCMTdNclhTcFJ2Y2JmTGQweFpPZjYtS0pFSUhYZm1hQlhvbFJDSGl1Uy16Q3pwV3gtdDZxY1J3?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIaGVrZWxISzBKMVZZYjYxREFjaFZGVUlObW5PMVBuUTRKRm0wWFViejdZaXJZVmlfalRoS2s5UW9pN0ZyTVh2X3BpTDdwTDYxMXMxbFd3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 23:57:30 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Jugadores menores de edad, prestamistas usureros: 7 hallazgos de nuestra investigación sobre el béisbol dominicano - ProPublica",
-      "fuente": "ProPublica",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDJkZ2Q2YlVFYjdpRTdNV0ozTmotUkJsNUdZNE1vYTlPNHRwVUIteDVlRXpfUFB4aENHeTk5RWhFT2VCb284ZmpjdmRSQXliMUwteDRVODUzM1V6TWRHN1ZlUGxJdm43ZlVTS3dqTDQ1SE1GZjlTT3F3eWdsUTlDZE5qNjd1OTUtZ0FpNmVyTTROc1RtQmxNQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presidente Luis Abinader destaca diversificación económica de República Dominicana y la importancia de fortalecer la conectividad global - Presidencia de la República Dominicana",
-      "fuente": "Presidencia de la República Dominicana",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW9YU0xqUWhDR2pHX1FaZWFnaExoa210S2hKVUVFOENqbHB1NDZNLXhwM3E0S0VDS2JfbldDX3VrZlV3eG5jdENRV3BJNGhjeTMyVEt1LWNXdGxHd0RpaFJMZXdPSldFTmpBbVpWSTh3ajlCbHUtaWw1RVZfbHo4VDdPdEVRZjUyMjJXSjRBZFB4bVB1dC1BWkVvc2FiVnFjYWhiWjgzQVJraG9nVEh4ZEZWUVNxQmRWSTZYR0dBQzQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 22:09:27 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Karol G pospone su regreso a República Dominicana: esta es la nueva fecha - NTN24",
-      "fuente": "NTN24",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUlLT2lyQ3c2Tm1pZnpyekhvdFhJbG1fTzJIdko0cVd4cHlZN0NHNFRhQlVwT0JfX05BNnhNbzM2V2g4dU1rVUtLNUJJWHZ0NzVFZGxrc3haN1ZjRUNYdHloc0xkTWlzVHVTMjBHRWdBNmFlblpiZWtEWEVobFhoei1GY1Q4VzdITVdMeldMS3gxNVQtT2o1RFZ6T0xSNmpTVWlwOUJWakowU3JXM3FCRE9yWENuMWZxQmgzMmlwOVdaSWRL0gHEAUFVX3lxTFB2RkxyS05QNWdmQ0p5NHk4TlgzNzhhTFVXSVduRnVzbENPVks4WjAwNGphaEx3djJnX0JxOHBQa1pUWGtldGRmUDZNLVg4MTRTYTF5U3RndGdNZDRvdmphZlA1ZFZNOXBENm5INDJwV3NCclAtQnU2ZTlTS1NkRXVVLUUyNzNTY3ROVUwyRWFKTzM3Y2R2NDMzRWgxMjkycG56WllKdWctU191VXhqQXo0d3FjdHVJdE0wWVVVN3lLMUVYM1Q?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 01:21:25 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dJZ0VvNFVMMHcyVVp0cklqQ3VmMnRYUlNPOWdXY1lYck9YMjQ4S2hVaVNyNWxybEktVVk5VDYyRzA5V1FGNF84ZHVGcmliclo2Ym1jbXZ1amlic1U3ejNBSm9UbmhXc0xsZnZPRXhjaWxzRnl1akl2b3dXSG9pZFFpTS00SHZqRjlKWjVQUUZuNUdKLTcyUVVkUlVqSnBObDB1Y0R6NA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "titulo": "Buque cubano permanece encallado frente a una playa de República Dominicana - Cubanet",
-      "fuente": "Cubanet",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2drY0pDaUhKeWRfQlVSY0s4dzV2UWstdmlWcElEaWw5VnpsRXc1UmZQODJST0Z2b0RZOWJEWVVsZWNERTZlRmRvdGJXRzh1Y3Boa2lYTnJlMl9lcHhqNmlTTGtreXJRNzFSTlIxTU5PaVd3OF9rbzQta3VzNG5sdGZaTTVkQm1Zd0dDMGpMQ2NNS28teVdHN1ZRQVZvUmY0bUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 15:53:00 GMT",
-      "imagen": "https://www.cubanet.org/wp-content/uploads/2026/11/buque-cubano-republica-dominicana-e1795189934356.webp"
-    },
-    {
-      "titulo": "República Dominicana se une a Miami Heat para llevar su encanto caribeño a la temporada 2026-2027 - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1lsWXFpNDZlZmNQVmxXWW1RSEdNSEtWNFV0S2ZQODFPSWR3X3NaanI0NGRGSmpOUGFaZGp1RW1HT0V3eFFScGp0dmVXM2Ywb0xmZUtiNm42R25HbnpLRmFJNlQ5YnNfSjNyLUtKZzc4Q1QxZTZjaGdlaTBqWktVN3NJOXNqN3VmaXA4LTFRLXRUeF9YbmJxOW52YkdWUVdGT2l0WHdaMFJ5UFJURmluQUFUTUNmS0xmbGlVOHZpWDNZSzFDT2ZyTFpiV2VkRFdaU2UtYjJMYjEyT1hGMGFJNjJuLWQzUTc3QVHSAYQCQVVfeXFMT05oMk5kYXIyb0pHNmlUMlRrUWU4Z2FUaE40a0hrb0E1OFRBWExrQ3NYRlVLVHhEUDRmc3hwRGdIbTk0dHR5MFVIYXlpNjlTWllrUmZ1SUZJWWdvZE4zWlVMOFNPNUZKMlJ6eVhOaGpkV0VMeDZSY0U2MmNpa0pTUUZSdXMzSktReVdsQjhlQWFwMk9OeC1PN2NiUjlEb2YzcGJOQ19YcDg5WFRSZ005Z0RsVENtWUsxLWZGTlhCUEtsQVVNX1Z3RnU1eWk4Q0ZoS0RnQ3o3U25kSVdyQVhZSWpJa3dnWXZVN3hoV2FkZmQ2Q3E2clRSQ2FXVjREUTYtZWxlek0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 19 Nov 2026 18:30:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "El presidente Luis Abinader afirmó que República Dominicana tiene oportunidades de ampliar sus negocios e inversiones con los Emiratos Árabes Unidos y otros países de Medio Oriente, América Latina y el Caribe, mediante el fortalecimiento de las relacio - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zeXJYbGZpbElPckg0Zm1yVGozamVTS29fYzJTUzd0bjkxUGJHNTFQRGxYSjU4b2ljTXkyTXA3MVFmMDBEU3N4WmZ2TDY2dkdUc2g0WWRB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 15:24:27 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Federico Viñas puso el 2 a 0 de Uruguay contra República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pibHBxOEVjYTlYbmdnOFhpU0owcjFnVF9laDFxWFc5SlhFaktFU1d4THJXLXVsQTRyLUtnaTdXQ0FUelFlS1V2U21kcUVwVUs1VzB1QTFRNHZMdzFjTWFUNnRGdHN4SnViY3I0VS03ekU0WGpNNlN3QzBVT0dnNnJRUEl2MkpfeGdxZndLbnFzWGZqQWpaVUcxVUtOeHF2NHhDZHFlN0lvbDRaY1llVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:10:00 GMT",
+      "fecha": "Fri, 20 Nov 2026 23:11:34 GMT",
       "imagen": ""
     }
   ]
