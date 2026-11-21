@@ -1,10 +1,38 @@
 {
-  "updated": "2026-11-21T11:46:56.403503-04:00",
-  "hora": "11:46",
+  "updated": "2026-11-21T11:57:15.920575-04:00",
+  "hora": "11:57",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "niza - psg",
+      "trafico": "200+",
+      "noticia": "OGC Nice predicted XI v PSG: Mohamed Abdelmonem out, Elye Wahi to start",
+      "enlace": "https://sports.yahoo.com/articles/ogc-nice-predicted-xi-v-081200550.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIIJpYehyiHX8isQHeXmeQZkhX2xvnutplBX4e1Ulu7GHEH-vCYsRS8vGidTA"
+    },
+    {
+      "termino": "rayo vallecano - valencia c. f.",
+      "trafico": "100+",
+      "noticia": "🚨 Rayo Vallecano y Valencia buscan hoy la reacción con estos ONCES",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/rayo-vallecano-valencia-buscan-reacci%C3%B3n-141500134.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS5zDrm4GkLYucqYCUA-zvjHtkiL5_vQafpI7vPeb7Q34aRq_UKwzsMsQlId0"
+    },
+    {
+      "termino": "chelsea - leeds",
+      "trafico": "100+",
+      "noticia": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups",
+      "enlace": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcARW-Nd6ch1spogLchbta_pbpNpIuKbzXrWZlYWSD47CVFB61hmOHywCArMQ"
+    },
+    {
+      "termino": "aston villa - sunderland afc",
+      "trafico": "100+",
+      "noticia": "Two changes for Sunderland test",
+      "enlace": "https://www.avfc.co.uk/news/2026/november/21/news-sunderland-team-news/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorgA1FUkHw_lpjSzAvMAMs2NOfzDs8sBrUvVIXDVO3w7ORB1aOp6Ns0-PT78"
+    },
     {
       "termino": "posiciones de manchester city contra fulham",
       "trafico": "1000+",
@@ -46,34 +74,6 @@
       "noticia": "Estrellas despliegan ofensiva en triunfo ante Águilas en la LIDOM",
       "enlace": "https://www.mlb.com/es/news/estrellas-despliegan-ofensiva-en-triunfo-ante-aguilas",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2DG8wEG2K_5TmUUi70DhqIAIrCOxOdw4cDRxX7NCUvUfdVmOvo4cb5dKcro"
-    },
-    {
-      "termino": "prisión",
-      "trafico": "500+",
-      "noticia": "Un año de prisión preventiva para imputada por muerte de su hija en Nagua",
-      "enlace": "https://pgr.gob.do/un-ano-de-prision-preventiva-para-imputada-por-muerte-de-su-hija-en-nagua/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJN0ww1Ij82EKrNIvQZDEg6fNs7yAE7g8ZeKF_TSRKolKKBrf7tBWFH-jVYq0"
-    },
-    {
-      "termino": "ley",
-      "trafico": "200+",
-      "noticia": "Senado aprueba en primera discusión amnistía de armas irregulares",
-      "enlace": "https://elnacional.com.do/nacionales/senado-aprueba-primera-discusion-ley-amnistia-registro-armas-fuego-irregulares_586703.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRv764LaWTcwIBMUqjmZXWZEUzr48sT6kbdFRYgAO5HQuVYrriBuz1RXmGak"
-    },
-    {
-      "termino": "gigantes del cibao",
-      "trafico": "100+",
-      "noticia": "EN VIVO: Gigantes del Cibao vs. los Leones del Escogi | 20/11/2026",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-gigantes-vs-escogido-251472",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyejE3u5fyk2jOTziS-qiafYgpC5KMUL3LkW1GuApLfX6kaS8JP1ruBontIgg"
-    },
-    {
-      "termino": "combustible",
-      "trafico": "1000+",
-      "noticia": "El Gobierno baja hasta RD$33.10 en combustibles no esenciales; el resto sigue congelado",
-      "enlace": "https://www.diariolibre.com/economia/energia/2026/11/20/gobierno-mantiene-congelado-combustibles-esenciales-otros-bajan/3726945",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvNV5SAM3ZQckOPjXF9EAlCDxSkvKUte9H375ZVUSMeNbk0WJXfsrIyPGzB-4"
     }
   ]
 }
