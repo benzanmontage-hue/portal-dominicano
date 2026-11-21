@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-21T17:29:43.878757-04:00",
-  "hora": "17:29",
+  "updated": "2026-11-21T17:40:06.056643-04:00",
+  "hora": "17:40",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "tyler herro",
-      "trafico": "200+",
-      "noticia": "See photos of Milwaukee Bucks guard Tyler Herro",
-      "enlace": "https://www.jsonline.com/picture-gallery/sports/nba/bucks/2026/11/21/see-photos-of-milwaukee-bucks-guard-tyler-herro-nba-fiserv-forum/92597468007/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuVQiPlOg5-Wd7dZOuWLuZdrjmaUZQc9E7PGbtyRxJf9AAHoiuetWR3xOLKCI"
-    },
-    {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
-      "noticia": "Real Madrid-Celta: Football Returns to the Bernabéu",
-      "enlace": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPj33RkKH-ez0vnDAl9iTWzscosdCaKCfSFVhIXBUGc1NQ9GFJHL95ThM5tTA"
+      "noticia": "Pablo Durán puts Celta ahead at the Bernabéu after six minutes",
+      "enlace": "https://www.tufutbolero.com/en/news/pablo-duran-puts-celta-ahead-at-the-bernabeu-after-six-216a7b",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7HcRev8gw3epTz4EuWwAZW6vbtmCLJBAOnuHXUw6gwLhcfnnUBMeS4kAlWo"
     },
     {
       "termino": "real madrid - celta de vigo",
@@ -50,8 +43,8 @@
     {
       "termino": "76ers - bucks",
       "trafico": "2000+",
-      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
+      "noticia": "Joel Embiid, 76ers survive Tyler Herro s 50 points to beat Bucks",
+      "enlace": "https://www.cbssports.com/nba/news/joel-embiid-76ers-survive-tyler-herros-50-points-to-beat-bucks/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
     },
     {
@@ -71,9 +64,16 @@
     {
       "termino": "nice – paris-sg",
       "trafico": "200+",
-      "noticia": "Ligue 1 : victoire du PSG à Nice assombrie par la blessure de Désiré Doué",
-      "enlace": "https://www.la-croix.com/ligue-1-victoire-du-psg-a-nice-assombrie-par-la-blessure-de-desire-doue-20261121",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzfr3cE9ktJ0W5uM6-n7bwNBIfjtPz74whJtdJ0Ib_BFNA2goT1VjsGe0FK_M"
+      "noticia": "PSG : Luis Enrique salue le caractère de son groupe",
+      "enlace": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhnw5uLdUF6viZBDyEYZzGjMP7CxDKHuSEl3r_2WGX8TtGwyvv42wxIgcGk"
+    },
+    {
+      "termino": "james harden",
+      "trafico": "200+",
+      "noticia": "James Harden explodes for 51, passes Kobe for third-most 50-point games",
+      "enlace": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT039MgXt6ZeyrAbum6KCKYDvYjC5pv59yvpVjtSoi0TRRyJRqveCQ1GT-D_Hg"
     }
   ]
 }
