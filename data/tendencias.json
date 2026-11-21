@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T21:16:07.189125-04:00",
-  "hora": "21:16",
+  "updated": "2026-11-20T21:26:28.459977-04:00",
+  "hora": "21:26",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cavaliers - pacers",
+      "trafico": "100+",
+      "noticia": "Cavaliers host Pacers in pivotal NBA Cup matchup",
+      "enlace": "https://www.cbssports.com/nba/news/cavaliers-host-pacers-in-pivotal-nba-cup-matchup/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpqXz53Ojfx1ba9UGX5XRQpjLp2cM6TtqDo7vcK2k2YmMdt09Ph5tMwX1kyeY"
+    },
     {
       "termino": "mercado de valores",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
       "enlace": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjzv5OFxdXVUf4TIRZfobFPL8erkVxIR8aUZEazH1wwKXD5SfClmIjM09Dtdo"
-    },
-    {
-      "termino": "al-ahli saudi - al-nassr",
-      "trafico": "1000+",
-      "noticia": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr",
-      "enlace": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E"
     }
   ]
 }
