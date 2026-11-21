@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T10:34:37.237080-04:00",
-  "hora": "10:34",
+  "updated": "2026-11-21T10:44:56.307160-04:00",
+  "hora": "10:44",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,16 +15,9 @@
     {
       "termino": "manchester city - fulham",
       "trafico": "1000+",
-      "noticia": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
-      "enlace": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s"
-    },
-    {
-      "termino": "aguilas cibaeñas",
-      "trafico": "100+",
-      "noticia": "Estrellas despliegan ofensiva en triunfo ante Águilas en la LIDOM",
-      "enlace": "https://www.mlb.com/es/news/estrellas-despliegan-ofensiva-en-triunfo-ante-aguilas",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2DG8wEG2K_5TmUUi70DhqIAIrCOxOdw4cDRxX7NCUvUfdVmOvo4cb5dKcro"
+      "noticia": "O Reilly, Bouaddi, Foden start as City make three changes",
+      "enlace": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt9mO_baRMBTUS3I5RN4et9EirXrEmDt0d3x5cXCTtMzWjKnTOKsxtLVQ3wgo"
     },
     {
       "termino": "tía",
@@ -34,18 +27,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
     },
     {
+      "termino": "aguilas cibaeñas",
+      "trafico": "100+",
+      "noticia": "Estrellas despliegan ofensiva en triunfo ante Águilas en la LIDOM",
+      "enlace": "https://www.mlb.com/es/news/estrellas-despliegan-ofensiva-en-triunfo-ante-aguilas",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2DG8wEG2K_5TmUUi70DhqIAIrCOxOdw4cDRxX7NCUvUfdVmOvo4cb5dKcro"
+    },
+    {
       "termino": "prisión",
       "trafico": "500+",
-      "noticia": "Condenan a músico argentino a doce años de prisión domiciliaria por homicidio",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261120/condenan-musico-argentino-doce-anos-prision-domiciliaria-homicidio_930910.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqCgUYZhxR6s1qRnpzdGAu_7Po36BFG2YXHIgdsVk2xEbpEC2tSBbPzLBs90"
+      "noticia": "Abuso sexual y venta de drogas: la Justicia porteña ordenó la prisión preventiva",
+      "enlace": "https://www.mdzol.com/policiales/2026/11/20/abuso-sexual-y-venta-de-drogas-la-justicia-portena-ordeno-la-prision-preventiva-1996852.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKS2R29EdAcAckB8stehjMgUaZlwMbdIlm8RtmTPn-Vvx8jVft2saZdzbrmLs"
     },
     {
       "termino": "ley",
-      "trafico": "100+",
-      "noticia": "Arnaud reconoce aspectos impiden aprobar la Ley de Agua",
-      "enlace": "https://www.elcaribe.com.do/panorama/region-norte/arnaud-reconoce-aspectos-impiden-aprobar-la-ley-de-agua/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWqR5h-RgTC4z-zkL6iEZha2l-kDoJENrQtaqj5iHOPPvZb0-LkoudXlFVz8"
+      "trafico": "200+",
+      "noticia": "Senado aprueba en primera discusión amnistía de armas irregulares",
+      "enlace": "https://elnacional.com.do/nacionales/senado-aprueba-primera-discusion-ley-amnistia-registro-armas-fuego-irregulares_586703.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxRv764LaWTcwIBMUqjmZXWZEUzr48sT6kbdFRYgAO5HQuVYrriBuz1RXmGak"
     },
     {
       "termino": "gigantes del cibao",
