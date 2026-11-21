@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T11:26:17.686169-04:00",
-  "hora": "11:26",
+  "updated": "2026-11-21T11:36:37.070271-04:00",
+  "hora": "11:36",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de manchester city contra fulham",
+      "trafico": "1000+",
+      "noticia": "Manchester City 1-1 Fulham: Premier League – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNib4-y9Wt6_xwrYKBWiA_oiArnk1IIMKlreJ22LWJPhQtX_66mEhLXu2jBo"
+    },
     {
       "termino": "como - cagliari",
       "trafico": "100+",
@@ -18,13 +25,6 @@
       "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
       "enlace": "https://www.nbcdfw.com/news/local/former-mlb-first-round-draft-pick-lance-broadway-dies-at-43/4108628/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
-    },
-    {
-      "termino": "manchester city - fulham",
-      "trafico": "1000+",
-      "noticia": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
-      "enlace": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s"
     },
     {
       "termino": "tía",
@@ -63,7 +63,7 @@
     },
     {
       "termino": "combustible",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "El Gobierno baja hasta RD$33.10 en combustibles no esenciales; el resto sigue congelado",
       "enlace": "https://www.diariolibre.com/economia/energia/2026/11/20/gobierno-mantiene-congelado-combustibles-esenciales-otros-bajan/3726945",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvNV5SAM3ZQckOPjXF9EAlCDxSkvKUte9H375ZVUSMeNbk0WJXfsrIyPGzB-4"
