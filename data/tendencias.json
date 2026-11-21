@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T11:57:15.920575-04:00",
-  "hora": "11:57",
+  "updated": "2026-11-21T12:07:34.505945-04:00",
+  "hora": "12:07",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,18 +13,18 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIIJpYehyiHX8isQHeXmeQZkhX2xvnutplBX4e1Ulu7GHEH-vCYsRS8vGidTA"
     },
     {
-      "termino": "rayo vallecano - valencia c. f.",
-      "trafico": "100+",
-      "noticia": "🚨 Rayo Vallecano y Valencia buscan hoy la reacción con estos ONCES",
-      "enlace": "https://es-us.noticias.yahoo.com/deportes/rayo-vallecano-valencia-buscan-reacci%C3%B3n-141500134.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS5zDrm4GkLYucqYCUA-zvjHtkiL5_vQafpI7vPeb7Q34aRq_UKwzsMsQlId0"
-    },
-    {
       "termino": "chelsea - leeds",
       "trafico": "100+",
       "noticia": "Chelsea vs Leeds LIVE! Premier League match updates, news, score and line-ups",
       "enlace": "https://www.skysports.com/football/live-blog/13610684/chelsea-vs-leeds-live-premier-league-match-updates-news-score-and-line-ups",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcARW-Nd6ch1spogLchbta_pbpNpIuKbzXrWZlYWSD47CVFB61hmOHywCArMQ"
+    },
+    {
+      "termino": "rayo vallecano - valencia c. f.",
+      "trafico": "100+",
+      "noticia": "🚨 Rayo Vallecano y Valencia buscan hoy la reacción con estos ONCES",
+      "enlace": "https://es-us.noticias.yahoo.com/deportes/rayo-vallecano-valencia-buscan-reacci%C3%B3n-141500134.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS5zDrm4GkLYucqYCUA-zvjHtkiL5_vQafpI7vPeb7Q34aRq_UKwzsMsQlId0"
     },
     {
       "termino": "aston villa - sunderland afc",
@@ -35,10 +35,10 @@
     },
     {
       "termino": "posiciones de manchester city contra fulham",
-      "trafico": "1000+",
-      "noticia": "Manchester City 1-1 Fulham: Premier League – live",
-      "enlace": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNib4-y9Wt6_xwrYKBWiA_oiArnk1IIMKlreJ22LWJPhQtX_66mEhLXu2jBo"
+      "trafico": "200+",
+      "noticia": "Manchester City 1-1 Fulham: Resumen, resultado y goles del partido | Premier League en directo",
+      "enlace": "https://as.com/futbol/internacional/manchester-city-fulham-en-directo-premier-league-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv-SwG76XOVUV9uhRWD9F3mmhnerCLA0-2HXic21aZvMj3UdLrxsPmEHWrwZs"
     },
     {
       "termino": "como - cagliari",
@@ -62,18 +62,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
     },
     {
+      "termino": "manchester city - fulham",
+      "trafico": "1000+",
+      "noticia": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
+      "enlace": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s"
+    },
+    {
       "termino": "tía",
       "trafico": "200+",
       "noticia": "Femicidio: “Vino por mí”, dijo la tía de la joven ejecutada en Lastenia",
       "enlace": "https://www.lagaceta.com.ar/nota/1163355/seguridad/femicidio-vino-mi-dijo-tia-joven-ejecutada-lastenia.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
-    },
-    {
-      "termino": "aguilas cibaeñas",
-      "trafico": "100+",
-      "noticia": "Estrellas despliegan ofensiva en triunfo ante Águilas en la LIDOM",
-      "enlace": "https://www.mlb.com/es/news/estrellas-despliegan-ofensiva-en-triunfo-ante-aguilas",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2DG8wEG2K_5TmUUi70DhqIAIrCOxOdw4cDRxX7NCUvUfdVmOvo4cb5dKcro"
     }
   ]
 }
