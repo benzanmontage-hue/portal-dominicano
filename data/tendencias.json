@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-20T21:05:46.709301-04:00",
-  "hora": "21:05",
+  "updated": "2026-11-20T21:16:07.189125-04:00",
+  "hora": "21:16",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "mercado de valores",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "El Poder Ejecutivo confirma a Ernesto Bournigal Read como superintendente del Mercado de Valores",
       "enlace": "https://listindiario.com/la-republica/20261120/presidente-abinader-ratifica-ernesto-bournigal-read-superintendente-mercado-valores_930899.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfxAYx_UgjZV24fJAP2Truaw8SF-hlhNbx5gKhsRYL66mrvV-teC5iYFFuqg"
@@ -15,9 +15,9 @@
     {
       "termino": "precio",
       "trafico": "200+",
-      "noticia": "Euro hoy en República Dominicana: cotización de apertura del 16 de noviembre",
-      "enlace": "https://www.infobae.com/noticias/2026/11/16/euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-16-de-noviembre/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhfN8OVxYDfipO0Lwa6pL4XbpFwhMxzR1vlsUKBMBbnu178FwV5h8P6dr-9oE"
+      "noticia": "El peso dominicano acumula una apreciación de 5.43 % frente al dólar",
+      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/19/apreciacion-del-peso-dominicano-frente-al-dolar/3726151",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WLpmX25nDp5zYW01NXuTIphWU-FHQkHMqI0k3AcXDMbxdijdnZzgcrpKs4"
     },
     {
       "termino": "huelga",
@@ -57,9 +57,9 @@
     {
       "termino": "bayern - colonia",
       "trafico": "1000+",
-      "noticia": "Bundesliga - Bayern Munich v FC Cologne",
-      "enlace": "https://www.reutersconnect.com/item/bundesliga-bayern-munich-v-fc-cologne/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxR1cwTlo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHy1sgDQHHIja_4Vj9HcR5YMfGoxM60InRXI7okFUvJC9WuGVQhrR-Z3mc3lQ"
+      "noticia": "Harry Kane suffers ankle ligament tear, Michael Olise suffers bruise",
+      "enlace": "https://fcbayern.com/en/news/2026/11/harry-kane-suffers-ankle-ligament-tear",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmO0_aoX_dITYsX1imxKqydKYA4TqkRbThZwQeikb1zKvDcz9M2-M_K8Q8Fgg"
     },
     {
       "termino": "niko bellic",
