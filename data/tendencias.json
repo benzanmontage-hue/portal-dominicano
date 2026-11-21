@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T07:37:22.882523-04:00",
-  "hora": "07:37",
+  "updated": "2026-11-21T07:47:41.041869-04:00",
+  "hora": "07:47",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "prisión",
+      "trafico": "100+",
+      "noticia": "Condenan a músico argentino a doce años de prisión domiciliaria por homicidio",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20261120/condenan-musico-argentino-doce-anos-prision-domiciliaria-homicidio_930910.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqCgUYZhxR6s1qRnpzdGAu_7Po36BFG2YXHIgdsVk2xEbpEC2tSBbPzLBs90"
+    },
     {
       "termino": "combustible",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 20 de noviembre de 2026",
       "enlace": "https://acento.com.do/economia/a-como-esta-el-dolar-hoy-en-republica-dominicana-precio-para-este-viernes-19-de-noviembre-de-2026-9793275.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu5WquOnS_A_lB135-coVbKae4-XLy07ToSI0s_uwTMh8bk62dFi7ZX1WigVM"
-    },
-    {
-      "termino": "huelga",
-      "trafico": "200+",
-      "noticia": "Por nuestro futuro : jóvenes protestan en Europa contra militarización y el costo de vida",
-      "enlace": "https://www.dw.com/es/protestas-y-huelgas-en-europa-contra-el-costo-de-vida-y-la-militarizaci%C3%B3n/a-80003501",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgdEcJbLsXbVEpydaJ6wrGfHMKyWPw3MpYEpAyyIl1UJ4LoVOjq3OplQuBdoE"
     }
   ]
 }
