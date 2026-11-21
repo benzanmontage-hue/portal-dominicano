@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-21T18:00:49.868226-04:00",
-  "hora": "18:00",
+  "updated": "2026-11-21T18:11:10.707691-04:00",
+  "hora": "18:11",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "la liga",
+      "trafico": "100+",
+      "noticia": "Licensable picture: Rayo Vallecano V Valencia CF: Matchday 13 - LaLiga EA Sports 2026/27",
+      "enlace": "https://www.reutersconnect.com/item/rayo-vallecano-v-valencia-cf-matchday-13-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFJUNTRGVQ",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSSMhudJNthNj9ZfZS4VYWhX3zrgsLT9-dQGMFToLqpNWKOn7feDGD82n6OrI"
+    },
+    {
+      "termino": "julio iglesias",
+      "trafico": "100+",
+      "noticia": "Julio Iglesias vende su mansión en Galicia y prepara la Navidad con Miranda y sus hijos en Punta Cana en plena investigación judicial",
+      "enlace": "https://www.eleconomista.es/informalia/famosos/noticias/14029744/11/26/julio-iglesias-vende-su-mansion-en-galicia-y-prepara-la-navidad-con-miranda-y-sus-hijos-en-punta-cana-en-plena-investigacion-judicial.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRabEt_ORKebxw_4b8LLxrlvSVMW-qyEw-VyzR96sJkchzJWZj8JbQJXtqVW1o"
+    },
     {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
@@ -14,10 +28,10 @@
     },
     {
       "termino": "real madrid - celta de vigo",
-      "trafico": "5000+",
-      "noticia": "Real Madrid - Celta hoy, en directo: LaLiga EA Sports en vivo, última hora en el Bernabéu",
-      "enlace": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTi01f9kB0wLXljNFZcqa4oNlRC5AzwGFpfK_G-TpdPwr3kZwLgbVWDEBCaCM"
+      "trafico": "10000+",
+      "noticia": "Real Madrid - Celta, resumen, resultado y goles | Última hora de LALIGA EA Sports en vivo hoy",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-celta/2026/11/21/01_0101_20261121_186_176-directo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALegiehUqbl09hgsmVWT-03Bpl694QpP92moHFkuCf--Fb4MYqx4Ig4wokRE"
     },
     {
       "termino": "noticia",
@@ -60,20 +74,6 @@
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
-    },
-    {
-      "termino": "nice – paris-sg",
-      "trafico": "200+",
-      "noticia": "PSG : Luis Enrique salue le caractère de son groupe",
-      "enlace": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhnw5uLdUF6viZBDyEYZzGjMP7CxDKHuSEl3r_2WGX8TtGwyvv42wxIgcGk"
-    },
-    {
-      "termino": "james harden",
-      "trafico": "200+",
-      "noticia": "James Harden explodes for 51, passes Kobe for third-most 50-point games",
-      "enlace": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT039MgXt6ZeyrAbum6KCKYDvYjC5pv59yvpVjtSoi0TRRyJRqveCQ1GT-D_Hg"
     }
   ]
 }
