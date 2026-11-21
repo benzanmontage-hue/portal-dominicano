@@ -1,34 +1,41 @@
 {
-  "updated": "2026-11-21T15:04:55.444544-04:00",
-  "hora": "15:04",
+  "updated": "2026-11-21T15:15:17.586458-04:00",
+  "hora": "15:15",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lluvia",
+      "trafico": "100+",
+      "noticia": "La Aemet activa avisos amarillos por lluvias este sábado en 8 provincias: consulta las zonas afectadas",
+      "enlace": "https://www.elconfidencial.com/el-tiempo/2026-11-21/aviso-amarillo-lluvias-ocho-provincias-aemet_4469790/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbGlwB0Lu2lFNpzXxRqgRbJckomWclpu3SX7exWDyFPM-mUQoFoFc_zJzsPDM"
+    },
+    {
       "termino": "parma - roma",
       "trafico": "100+",
-      "noticia": "Parma-Roma, proteste sul gol di Malen e Gilardino chiede un rosso",
-      "enlace": "https://www.startupbusiness.it/parma-roma-proteste-sul-gol-di-malen-e-gilardino-chiede-un-rosso/219433/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_k-HNiBKJn8ZvXh151vHc56sBcRl-nyQgDsjrvn1nthL6BhJFQqicroAi3E"
+      "noticia": "Inizio del match con il Parma in avanti - 9  Parma-Roma 0-0",
+      "enlace": "https://www.gazzettadiparma.it/sport/2026/11/21/news/parma-serve-la-gara-perfetta-per-fermare-la-roma-983018/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREAl3Wyq_c1kdCwpz21fkcbU9UPOTjX3kxMXak7QDYQPYi3dPQZEwAj2aeVwk"
     },
     {
       "termino": "76ers - bucks",
       "trafico": "1000+",
-      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
-      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
+      "noticia": "76ers  Jaylen Brown (hamstring) to miss Wednesday s game vs. Magic",
+      "enlace": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07BKi7HH2fbKh0nFLZhRwU2FLMJ4HbV-lO1Hm24wkek51vfHngGanu9PM1SQ"
     },
     {
       "termino": "sevilla - real betis",
       "trafico": "200+",
       "noticia": "Sevilla - Betis en directo: LaLiga EA Sports hoy, en vivo",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEzcsrbSny8Y7P1VxlcB1eHHFa5BLHQiOjn2fmRT4fdgYUCzBpJGfViUpvrKk"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIOs5h557RKgEyfJ57-EIvSM063KneBWOZLVP2vZ462KHEaoT-ggxSwo98v04"
     },
     {
       "termino": "newcastle - arsenal",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Newcastle United vs Arsenal: Premier League preview, team news, stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCkeUL0VQd-BY16BAi_hfeGFqcEHvkzWh7Jz4yacSQqbHRAEwoWNs7hC8h2Fw"
@@ -36,9 +43,9 @@
     {
       "termino": "nice – paris-sg",
       "trafico": "200+",
-      "noticia": "PSG : Luis Enrique écarte encore Lucas Digne",
-      "enlace": "https://www.footmercato.net/a2604158853503828571-psg-luis-enrique-ecarte-encore-lucas-digne",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYwkJ94efIY68qNz-lt0hbb6aAb8hBtr-HZ2ikZBeKi7vhCSAaFYKouMMEFhw"
+      "noticia": "Nice 2-3 PSG : rapport de match de Ligue 1 et histoire des xG",
+      "enlace": "https://www.sofascore.com/fr/news/nice-2-3-psg-rapport-de-match-de-ligue-1-et-histoire-des-xg",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDxaHZTgBoCgwd_dE2dNGK8o4q9LuaoGoaFLppt8VEnu8zIky2ITe1ylraAis"
     },
     {
       "termino": "james harden",
@@ -67,13 +74,6 @@
       "noticia": "Video: Hakimi leads Paris comeback at Nice despite Algerian touch",
       "enlace": "https://www.goal.com/en/news/video-hakimi-leads-paris-comeback-at-nice-despite-algerian-touch/blt944a7cfec548ee71",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmbaPLD5-mVguEzWghcOr7shMAjU2-XMGTT37joEFfKclLKDPgFYXGwj2IBjs"
-    },
-    {
-      "termino": "chelsea - leeds",
-      "trafico": "500+",
-      "noticia": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
-      "enlace": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCK38q7BivOhxyLCNRmaJodIjo5_Sk1qvVjTPEkJFhY6UchxKJS5ET0dG4iw0"
     }
   ]
 }
