@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T12:48:53.615101-04:00",
-  "hora": "12:48",
+  "updated": "2026-11-21T12:59:12.439521-04:00",
+  "hora": "12:59",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nice – paris-sg",
+      "trafico": "200+",
+      "noticia": "OGC Nice - PSG : les compositions probables",
+      "enlace": "https://www.footmercato.net/a7492553014966074759-ogc-nice-psg-les-compositions-probables",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS2XVtO4la_mPrvGwG2f-l2wpE6mwJYC3LK9nXN3jNIHhSv98j6zrQoXBYPY"
+    },
     {
       "termino": "james harden",
       "trafico": "200+",
@@ -35,7 +42,7 @@
     },
     {
       "termino": "rayo vallecano - valencia c. f.",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "🚨 Rayo Vallecano y Valencia buscan hoy la reacción con estos ONCES",
       "enlace": "https://es-us.noticias.yahoo.com/deportes/rayo-vallecano-valencia-buscan-reacci%C3%B3n-141500134.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS5zDrm4GkLYucqYCUA-zvjHtkiL5_vQafpI7vPeb7Q34aRq_UKwzsMsQlId0"
@@ -57,9 +64,9 @@
     {
       "termino": "como - cagliari",
       "trafico": "200+",
-      "noticia": "2-0. Jacobo Ramón y Da Cunha aprovechan la precisión de Couto y dan el triunfo al Como",
-      "enlace": "https://www.infobae.com/espana/agencias/2026/11/21/2-0-jacobo-ramon-y-da-cunha-aprovechan-la-precision-de-couto-y-dan-el-triunfo-al-como/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+      "noticia": "VIDEO: resumen Como vs. Cagliari por la Serie A",
+      "enlace": "https://espndeportes.espn.com/futbol/italia/nota/_/id/17542393/video-resumen-como-vs-cagliari-fecha-12-serie-a-italia-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFNHSWODFvpP4Ws45the6ehaMf9Prq2qXlPqMO9-LUHI6EqWpeSZ4hH5LUJyU"
     },
     {
       "termino": "carlos alcaraz",
@@ -67,13 +74,6 @@
       "noticia": "Alcaraz remonta para la historia a Shelton y repite final del Masters",
       "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/21/alcaraz-remonta-historia-shelton-repite-final-masters.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLL4deT5co09380iHUgBU6cyq0DqR8RV8_JzLHk4ysx1obSa7y1xI5Y04XLQ8"
-    },
-    {
-      "termino": "lance broadway",
-      "trafico": "200+",
-      "noticia": "Former MLB first-round draft pick Lance Broadway dies at 43",
-      "enlace": "https://www.nbcdfw.com/news/local/former-mlb-first-round-draft-pick-lance-broadway-dies-at-43/4108628/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9_KF3Sp4pwgd9plGoJMmFukymfgvu4dzaVWymkcyzczEIIFFKgTwuT06m7LE"
     }
   ]
 }
