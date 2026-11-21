@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T20:03:33.527363-04:00",
+  "updated": "2026-11-20T20:13:59.989134-04:00",
   "fecha": "20/11/2026",
-  "hora": "20:03",
+  "hora": "20:13",
   "total_juegos": 53,
   "juegos": [
     {
@@ -391,9 +391,9 @@
       "compania": "Loteka",
       "juego": "MC Repartidera",
       "numeros": [
-        "11"
+        "60"
       ],
-      "fecha": "2026-11-19T04:00:00.000Z",
+      "fecha": "2026-11-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4ec"
     },
     {
@@ -440,11 +440,11 @@
       "compania": "Loteka",
       "juego": "Quiniela Loteka Noche",
       "numeros": [
-        "21",
-        "07",
-        "46"
+        "87",
+        "37",
+        "34"
       ],
-      "fecha": "2026-11-19T04:00:00.000Z",
+      "fecha": "2026-11-20T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4d7"
     },
     {
