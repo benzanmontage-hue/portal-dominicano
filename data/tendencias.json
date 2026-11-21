@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-20T19:53:14.338035-04:00",
-  "hora": "19:53",
+  "updated": "2026-11-20T20:03:36.477225-04:00",
+  "hora": "20:03",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "alberto ii de mónaco",
+      "termino": "precio",
       "trafico": "100+",
-      "noticia": "Charlene de Mónaco, junto a Carolina, deslumbra en la gala del Día Nacional con un impactante vestido dorado de Alta Costura y pendientes de 29.000 euros",
-      "enlace": "https://www.hola.com/moda/20261119935900/charlene-de-monaco-carolina-vestido-look-gala-dia-nacional-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQPlN6Q-reeeNRBjetnw9-aW09t2hL0hi0iUwc5QSbV00uIQK-8_1hA9y08yk"
+      "noticia": "Euro hoy en República Dominicana: cotización de apertura del 16 de noviembre",
+      "enlace": "https://www.infobae.com/noticias/2026/11/16/euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-16-de-noviembre/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhfN8OVxYDfipO0Lwa6pL4XbpFwhMxzR1vlsUKBMBbnu178FwV5h8P6dr-9oE"
     },
     {
       "termino": "eliezer salvador melissa medina",
@@ -18,6 +18,13 @@
       "noticia": "Así fueron las últimas horas de Melissa Medina, según acompañante",
       "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/20/las-ultimas-horas-de-melissa-medina-segun-joven/3727061",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX-zUkzX_AlLcLUBBKrF40SxQL129E_HsBHbgQg3CFEDRHUpfZhuSVAr2JT20"
+    },
+    {
+      "termino": "alberto ii de mónaco",
+      "trafico": "100+",
+      "noticia": "Charlene de Mónaco, junto a Carolina, deslumbra en la gala del Día Nacional con un impactante vestido dorado de Alta Costura y pendientes de 29.000 euros",
+      "enlace": "https://www.hola.com/moda/20261119935900/charlene-de-monaco-carolina-vestido-look-gala-dia-nacional-2026/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQPlN6Q-reeeNRBjetnw9-aW09t2hL0hi0iUwc5QSbV00uIQK-8_1hA9y08yk"
     },
     {
       "termino": "posiciones de al-ahli saudi contra al-nassr",
@@ -36,9 +43,9 @@
     {
       "termino": "bayern - colonia",
       "trafico": "1000+",
-      "noticia": "PLAYER RATINGS | Bayern Munich 1-1 Cologne: Mikey Moore stars for Billy Goats",
-      "enlace": "https://www.getfootballnewsgermany.com/2026/player-ratings-bayern-munich-1-1-cologne-moore-olise-kane/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ85rel0dz0jzSWcboqeiqZuV-wzst_oAwooU7NDcW7edJWa8P2GnEPNSvTxVY"
+      "noticia": "Bundesliga - Bayern Munich v FC Cologne",
+      "enlace": "https://www.reutersconnect.com/item/bundesliga-bayern-munich-v-fc-cologne/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxSjZRUDI%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuo4IwZRibAe6js-DmJd-LijVEyn79eck15_2x-wUppJGqVNSuReRgSAb_Vso"
     },
     {
       "termino": "niko bellic",
@@ -67,13 +74,6 @@
       "noticia": "¿Cómo lograr que Viettel traiga competencia?",
       "enlace": "https://hoy.com.do/economia/lograr-viettel-traiga-competencia_1109029.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHxMjHYBnAauNEiGlOXzIWpOt59f6LaGh2Cxfh22kZqaMXehvFAKuKD8A4Mwk"
-    },
-    {
-      "termino": "grandes ligas de béisbol",
-      "trafico": "2000+",
-      "noticia": "Las Grandes Ligas van a Venezuela: Aseguró el manager del equipo nacional Omar López",
-      "enlace": "https://swingcompleto.com/beisbol-internacional/las-grandes-ligas-van-a-venezuela-aseguro-el-manager-del-equipo-nacional-omar-lopez-20261120-0004.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGAoTxMA1T1L5-365cSd8gsz47iRP5hDsQP9F84obmsHNljoQ5QuQfVaex2Uw"
     }
   ]
 }
