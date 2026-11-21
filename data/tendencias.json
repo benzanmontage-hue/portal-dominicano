@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-21T19:25:14.492192-04:00",
-  "hora": "19:25",
+  "updated": "2026-11-21T19:35:32.260478-04:00",
+  "hora": "19:35",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "higüey",
-      "trafico": "200+",
-      "noticia": "Reportan sismo de 4.6 grados al oeste de San Rafael de Yuma, en La Altagracia",
-      "enlace": "https://listindiario.com/la-republica/20261121/reportan-sismo-4-6-grados-oeste-san-rafael-yuma-altagracia_930998.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7wyKWoEUuFMw96-XqcTlHkk4UUQcrJwuWa_rn9oTbaisH0Wxg70P82HLix4"
-    },
     {
       "termino": "inter miami - columbus crew",
       "trafico": "200+",
       "noticia": "How the Columbus Crew switched paths en route to the MLS playoffs",
       "enlace": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxL2taJlXL9XUO4WqPMnmvSYKc1cwTnSd6lLHFpjJCLuBRQTvtU8M4mGY_Ai4"
+    },
+    {
+      "termino": "higüey",
+      "trafico": "200+",
+      "noticia": "Reportan sismo de 4.6 grados al oeste de San Rafael de Yuma, en La Altagracia",
+      "enlace": "https://listindiario.com/la-republica/20261121/reportan-sismo-4-6-grados-oeste-san-rafael-yuma-altagracia_930998.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7wyKWoEUuFMw96-XqcTlHkk4UUQcrJwuWa_rn9oTbaisH0Wxg70P82HLix4"
     },
     {
       "termino": "atlético mineiro - boca juniors",
@@ -35,7 +35,7 @@
     },
     {
       "termino": "classement real madrid – celta vigo",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Carlos Espi offre encore les trois points au Real Madrid au bout d un match brouillon contre le Celta Vigo",
       "enlace": "https://www.lequipe.fr/Football/Actualites/Carlos-espi-offre-encore-les-trois-points-au-real-madrid-au-bout-d-un-match-brouillon-contre-le-celta-vigo/1745259",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoKVZc9B_iaq5Ny4cAqU-w9gcWyyGYoEKo-GRlog525Gki4p27JnbJODeIST0"
