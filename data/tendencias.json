@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-20T20:14:02.777259-04:00",
-  "hora": "20:14",
+  "updated": "2026-11-20T20:24:23.064028-04:00",
+  "hora": "20:24",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "mercado de valores",
+      "trafico": "100+",
+      "noticia": "El Poder Ejecutivo confirma a Ernesto Bournigal Read como superintendente del Mercado de Valores",
+      "enlace": "https://listindiario.com/la-republica/20261120/presidente-abinader-ratifica-ernesto-bournigal-read-superintendente-mercado-valores_930899.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfxAYx_UgjZV24fJAP2Truaw8SF-hlhNbx5gKhsRYL66mrvV-teC5iYFFuqg"
+    },
     {
       "termino": "precio",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr",
       "enlace": "https://www.reutersconnect.com/item/saudi-pro-league-al-ahli-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQksxRTI0Tkk",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E"
-    },
-    {
-      "termino": "guido gómez",
-      "trafico": "1000+",
-      "noticia": "¿Cómo lograr que Viettel traiga competencia?",
-      "enlace": "https://hoy.com.do/economia/lograr-viettel-traiga-competencia_1109029.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHxMjHYBnAauNEiGlOXzIWpOt59f6LaGh2Cxfh22kZqaMXehvFAKuKD8A4Mwk"
     }
   ]
 }
