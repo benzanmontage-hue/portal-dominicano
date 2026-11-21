@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-20T23:09:58.763389-04:00",
-  "hora": "23:09",
+  "updated": "2026-11-20T23:20:20.724513-04:00",
+  "hora": "23:20",
   "fecha": "20/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "lakers - kings",
+      "trafico": "200+",
+      "noticia": "Luka Doncic, Lakers aim to bounce back against Kings",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-aim-to-bounce-back-against-kings/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA"
+    },
+    {
+      "termino": "gta vi",
+      "trafico": "100+",
+      "noticia": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "enlace": "https://www.bbc.com/news/videos/c8wy5d43zp9qo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGGKrtAUYXnErAgT13Gi0wDCKpkszexdSDIK8mh-GZwI63uRcE5Lu3ixzq6wQ"
+    },
     {
       "termino": "thunder - pelicans",
       "trafico": "100+",
@@ -60,20 +74,6 @@
       "noticia": "Al-Ahli 3-1 Al-Nassr: Galeno brilla mientras Ronaldo estrella un disparo en el poste",
       "enlace": "https://www.sofascore.com/es/news/al-ahli-3-1-al-nassr-galeno-brilla-mientras-ronaldo-estrella-un-disparo-en-el-poste",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYzGvOQ9gXS-zpVe9Ravt9EIMffPpj7goKC4elUpUPePDq3DxDYavsrBFLyVQ"
-    },
-    {
-      "termino": "athletic - rcd espanyol",
-      "trafico": "500+",
-      "noticia": "Un gol de Roberto dedicado al lesionado Cala tumba al Athletic",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253520/athletic-partido.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiSkMRgrXtXAbSDzTiU7gEzaXUTk5O5ibx7qIimJXjLEEpk6zRs7rSriCmDCI"
-    },
-    {
-      "termino": "bayern - colonia",
-      "trafico": "1000+",
-      "noticia": "Harry Kane suffers ankle ligament tear, Michael Olise suffers bruise",
-      "enlace": "https://fcbayern.com/en/news/2026/11/harry-kane-suffers-ankle-ligament-tear",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmO0_aoX_dITYsX1imxKqydKYA4TqkRbThZwQeikb1zKvDcz9M2-M_K8Q8Fgg"
     }
   ]
 }
