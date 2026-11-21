@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-21T18:11:10.707691-04:00",
-  "hora": "18:11",
+  "updated": "2026-11-21T18:21:31.298565-04:00",
+  "hora": "18:21",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "la liga",
-      "trafico": "100+",
-      "noticia": "Licensable picture: Rayo Vallecano V Valencia CF: Matchday 13 - LaLiga EA Sports 2026/27",
-      "enlace": "https://www.reutersconnect.com/item/rayo-vallecano-v-valencia-cf-matchday-13-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFJUNTRGVQ",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSSMhudJNthNj9ZfZS4VYWhX3zrgsLT9-dQGMFToLqpNWKOn7feDGD82n6OrI"
-    },
     {
       "termino": "julio iglesias",
       "trafico": "100+",
@@ -29,9 +22,9 @@
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "10000+",
-      "noticia": "Real Madrid - Celta, resumen, resultado y goles | Última hora de LALIGA EA Sports en vivo hoy",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/r-madrid-celta/2026/11/21/01_0101_20261121_186_176-directo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALegiehUqbl09hgsmVWT-03Bpl694QpP92moHFkuCf--Fb4MYqx4Ig4wokRE"
+      "noticia": "Real Madrid - Celta hoy, en directo: LaLiga EA Sports en vivo, última hora en el Bernabéu",
+      "enlace": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZeXnE7SHh24Meq6Lgxk4UQlZAH0KN-YxyBVgGIgfE9ZwKKlGp3QmikcUEKdg"
     },
     {
       "termino": "noticia",
@@ -50,9 +43,9 @@
     {
       "termino": "parma - roma",
       "trafico": "200+",
-      "noticia": "Gasperini dopo la vittoria in casa del Parma:  Abbiamo 5-6 cambi validissimi. La Roma ha una rosa da Champions",
-      "enlace": "https://www.eurosport.it/calcio/serie-a/2026-2027/gasperini-dopo-la-vittoria-in-casa-del-parma-abbiamo-5-6-cambi-validissimi.-la-roma-ha-una-rosa-da-champions_sto23357519/story.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgQ1iwqniCtIgdKkQhDi1Q87f1yMEjtXrJ6h5pf3TU_MDy1ZqJkj4nOBiKVSU"
+      "noticia": "3 cose da Parma Roma",
+      "enlace": "https://il-catenaccio.it/attualita/as-roma/parma-roma-malen-svilar-gasperini-tre-cose.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2Zj15nRThywc1m8HBxTUVJYykrs_NCEPp7xqvF-qz2Ju8mDpj5l1nl7lS-mE"
     },
     {
       "termino": "76ers - bucks",
@@ -74,6 +67,13 @@
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
+    },
+    {
+      "termino": "nice – paris-sg",
+      "trafico": "200+",
+      "noticia": "PSG : Luis Enrique salue le caractère de son groupe",
+      "enlace": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhnw5uLdUF6viZBDyEYZzGjMP7CxDKHuSEl3r_2WGX8TtGwyvv42wxIgcGk"
     }
   ]
 }
