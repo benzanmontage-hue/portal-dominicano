@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-21T14:54:34.378111-04:00",
-  "hora": "14:54",
+  "updated": "2026-11-21T15:04:55.444544-04:00",
+  "hora": "15:04",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "parma - roma",
+      "trafico": "100+",
+      "noticia": "Parma-Roma, proteste sul gol di Malen e Gilardino chiede un rosso",
+      "enlace": "https://www.startupbusiness.it/parma-roma-proteste-sul-gol-di-malen-e-gilardino-chiede-un-rosso/219433/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_k-HNiBKJn8ZvXh151vHc56sBcRl-nyQgDsjrvn1nthL6BhJFQqicroAi3E"
+    },
+    {
       "termino": "76ers - bucks",
-      "trafico": "500+",
-      "noticia": "76ers  Jaylen Brown (hamstring) to miss Wednesday s game vs. Magic",
-      "enlace": "https://www.espn.com/nba/story/_/id/50514320/76ers-brown-hamstring-miss-wednesday-game-vs-magic",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07BKi7HH2fbKh0nFLZhRwU2FLMJ4HbV-lO1Hm24wkek51vfHngGanu9PM1SQ"
+      "trafico": "1000+",
+      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
+      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
     },
     {
       "termino": "sevilla - real betis",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Sevilla - Betis en directo: LaLiga EA Sports hoy, en vivo",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEzcsrbSny8Y7P1VxlcB1eHHFa5BLHQiOjn2fmRT4fdgYUCzBpJGfViUpvrKk"
@@ -24,14 +31,14 @@
       "trafico": "200+",
       "noticia": "Newcastle United vs Arsenal: Premier League preview, team news, stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgwkVc_W3ePlXUGg412iMXa_Zu4iQ51MJpodo4jaDwI1oTalTCMyLFT2Sb_OQ"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCkeUL0VQd-BY16BAi_hfeGFqcEHvkzWh7Jz4yacSQqbHRAEwoWNs7hC8h2Fw"
     },
     {
       "termino": "nice – paris-sg",
       "trafico": "200+",
-      "noticia": "OGC Nice - PSG : les compositions probables",
-      "enlace": "https://www.footmercato.net/a7492553014966074759-ogc-nice-psg-les-compositions-probables",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS2XVtO4la_mPrvGwG2f-l2wpE6mwJYC3LK9nXN3jNIHhSv98j6zrQoXBYPY"
+      "noticia": "PSG : Luis Enrique écarte encore Lucas Digne",
+      "enlace": "https://www.footmercato.net/a2604158853503828571-psg-luis-enrique-ecarte-encore-lucas-digne",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYwkJ94efIY68qNz-lt0hbb6aAb8hBtr-HZ2ikZBeKi7vhCSAaFYKouMMEFhw"
     },
     {
       "termino": "james harden",
@@ -67,13 +74,6 @@
       "noticia": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
       "enlace": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCK38q7BivOhxyLCNRmaJodIjo5_Sk1qvVjTPEkJFhY6UchxKJS5ET0dG4iw0"
-    },
-    {
-      "termino": "rayo vallecano - valencia c. f.",
-      "trafico": "200+",
-      "noticia": "Copete y Dimitrievski amargan la fiesta de Vallecas",
-      "enlace": "https://as.com/futbol/primera/copete-y-dimitrievski-amargan-la-fiesta-de-vallecas-f202611-n/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSd-B6VTaKkQbuswb4UvLALAzBGkatPmE7W5laKL2brfhdeVTAI4pFY0HwBXBc"
     }
   ]
 }
