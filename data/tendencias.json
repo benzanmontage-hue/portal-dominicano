@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T11:15:55.316097-04:00",
-  "hora": "11:15",
+  "updated": "2026-11-21T11:26:17.686169-04:00",
+  "hora": "11:26",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "como - cagliari",
+      "trafico": "100+",
+      "noticia": "Pronóstico Como 1907 - Cagliari Calcio - Serie A",
+      "enlace": "https://www.sportytrader.es/pronosticos/como-calcio-cagliari-388040/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFATq7x2dY9w60HX8baFyvqDc9sjXjUMijnW0MpAITTiE_ScvYM5r8qXrXd88"
+    },
     {
       "termino": "lance broadway",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "Houston Rockets vs. Denver Nuggets Live Score and Stats - November 20, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261120_HOU@DEN/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmQ1N-iBRJ244N9ixFPIIKSqJY9ziMADH5LQvde7WwALk3bOQZHznLtgcJJRA"
-    },
-    {
-      "termino": "lakers - kings",
-      "trafico": "1000+",
-      "noticia": "Lakers rally after JJ Redick rips team s lack of fight vs. last-place Kings",
-      "enlace": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxhADnGv8LwL2AHBWf-6F67KzznBdaEM6IGBMivVFJQ_ADTOjjgqAjbJD6wQs"
     }
   ]
 }
