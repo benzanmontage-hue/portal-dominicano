@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T08:18:46.322981-04:00",
-  "hora": "08:18",
+  "updated": "2026-11-21T08:29:07.676479-04:00",
+  "hora": "08:29",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "manchester city - fulham",
+      "trafico": "200+",
+      "noticia": "Manchester City vs Fulham LIVE! Premier League match updates, news and score",
+      "enlace": "https://www.skysports.com/football/live-blog/13607947/manchester-city-vs-fulham-live-premier-league-match-updates-news-and-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbcZrALJcvdzWkp8NaTPQEP5JN5ckPIAXxdMTwTzZQ9HlmEmPI-qnDE0zcF_Y"
+    },
     {
       "termino": "prisión",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "gta vi",
       "trafico": "200+",
-      "noticia": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
-      "enlace": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh5pHOp7JuE8-1UXd--lK1yIcEjDRAfWpRyWdqU3oL7yVyIbAMJ3iW21GF5eo"
+      "noticia": "I Tracked Down All 60 Birds in GTA 6: A Birder’s Guide to Vice City’s Wildlife",
+      "enlace": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbWJVqwhbKz02v4PSvnlf2ZmBRA4nX22CvckX_f6zQwORqA0z0PMmmIQszGCs"
     },
     {
       "termino": "thunder - pelicans",
@@ -50,16 +57,16 @@
     {
       "termino": "resultados de loteria",
       "trafico": "200+",
-      "noticia": "Lotería Nacional, en directo: comprobar los resultados del sorteo de hoy, sábado 21 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-en-directo-comprobar-los-resultados-del-sorteo-de-hoy-sabado-21-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSleSjGz0WIJ0xs6D0Jn6OIEM2jWVuZqubdIGBjtNZdBgOdiulgLw1F_j860lw"
+      "noticia": "Números ganadores de las loterías del jueves 19 de noviembre de 2026: ¿La pegaste?",
+      "enlace": "https://hoy.com.do/vivir/loterias/numeros-ganadores-loterias-jueves-19-noviembre-2026-pegaste_1109337.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWr-Qui9WKJB3AlFVfvK114-U9p0AiJZrnGfFjQzY6PrTnRAdwVA2ErautoHk"
     },
     {
       "termino": "cavaliers - pacers",
       "trafico": "200+",
-      "noticia": "At 37 years old, Harden returns to his  prime  and surpasses Kobe Bryant in a historical stat",
-      "enlace": "https://www.blogdebasket.com/en/2026/11/21/at-37-years-old-harden-returns-to-his-prime-and-surpasses-kobe-bryant-in-historical-stat",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVWtj0YQWoAgB1KFfIin0JMPCuBASdXtogToO8GHPdDyklsdC04eaQZM3QmOI"
+      "noticia": "Will the Pacers have a point guard vs Cavs with Andrew Nembhard, Braden Smith questionable?",
+      "enlace": "https://www.indystar.com/story/sports/nba/pacers/2026/11/19/pacers-injury-report-andrew-nembhard-braden-smith-questionable-vs-cavs/92867637007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNDGOFsQfnahs5o1-6Gk4Z9devefzh1P7pB62Tyodd2TKLojWdS_8Ys_qpY5I"
     },
     {
       "termino": "mercado de valores",
@@ -67,13 +74,6 @@
       "noticia": "🔴 EN VIVO | Market Brief. Mercado de Valores Summit 2026",
       "enlace": "https://revistamercado.do/money-invest/daily-news/en-vivo-market-brief-mercado-de-valores-summit-2026/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVMBGSJaKml114Qk3cebkIx1glETFhar2X42Wz3dC7in4W1THkp2mzwqn5P70"
-    },
-    {
-      "termino": "precio",
-      "trafico": "500+",
-      "noticia": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 20 de noviembre de 2026",
-      "enlace": "https://acento.com.do/economia/a-como-esta-el-dolar-hoy-en-republica-dominicana-precio-para-este-viernes-19-de-noviembre-de-2026-9793275.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu5WquOnS_A_lB135-coVbKae4-XLy07ToSI0s_uwTMh8bk62dFi7ZX1WigVM"
     }
   ]
 }
