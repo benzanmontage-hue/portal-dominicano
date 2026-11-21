@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T19:14:40.656721-04:00",
-  "hora": "19:14",
+  "updated": "2026-11-21T19:25:14.492192-04:00",
+  "hora": "19:25",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,16 @@
     {
       "termino": "inter miami - columbus crew",
       "trafico": "200+",
-      "noticia": "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu",
-      "enlace": "https://www.intermiamicf.com/news/it-s-miami-time-get-ready-for-inter-miami-cf-s-playoffs-opener-this-saturday-presented-by-nu",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX4U08hjSjMuzOgub0VLFI4imMB3GaGB_E6J7nrFYM09NszBPJvOjM0kXxZpw"
+      "noticia": "How the Columbus Crew switched paths en route to the MLS playoffs",
+      "enlace": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxL2taJlXL9XUO4WqPMnmvSYKc1cwTnSd6lLHFpjJCLuBRQTvtU8M4mGY_Ai4"
+    },
+    {
+      "termino": "atlético mineiro - boca juniors",
+      "trafico": "200+",
+      "noticia": "LIVE: Atlético Mineiro vs Boca Juniors | Copa Sudamericana Final",
+      "enlace": "https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/live-atl%C3%A9tico-mineiro-vs-boca-juniors-copa-sudamericana-final-2026-11-21",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCqhaj5UxFbwiiMpA5sSa2_hYUja7l_t_BbGztLJlWDJSytGiPCQtv_rZyVaM"
     },
     {
       "termino": "boca",
@@ -50,16 +57,16 @@
     {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
-      "noticia": "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26",
-      "enlace": "https://www.reutersconnect.com/item/real-madrid-cf-vs-real-club-celta-de-vigo-202627-national-league-112126/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBXMUxVWDA",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW0_BU5K9v2V1xcTyGHzWZ0JsbU84n1g1HPDP7wLgUUuQ6qTjAT82EdvFJrus"
+      "noticia": "Carlos Espí, the hero again: late goal gives Madrid the win",
+      "enlace": "https://www.tufutbolero.com/en/news/carlos-espi-the-hero-again-late-goal-gives-madrid-the-win-bf20b1",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfvwvjfe30iEeD10uOwfShWpQd8TIp4IcjbglIFdERrGdkA1aBTiPq24LDaS0"
     },
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "10000+",
-      "noticia": "Real Madrid 2-1 Celta: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwA1pMg_2pTZ0wQ2-An8NIGf6B2WxOyohmz9Ut8EKDjcoL2H5tMaTw-wQLpRs"
+      "noticia": "Espí siempre llega a tiempo",
+      "enlace": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzkZnRVisPkbq2TMyrx4nHncBEo_KxFWH5fy92sy7BFukGLhsZgUNJoVrWZw"
     },
     {
       "termino": "noticia",
@@ -67,13 +74,6 @@
       "noticia": "La Procuradora General instruye a la Dirección General de Persecución y a la Fiscalía del Distrito Nacional para profundizar las investigaciones por la muerte de Melissa Medina",
       "enlace": "https://pgr.gob.do/la-procuradora-general-instruye-a-la-direccion-general-de-persecucion-y-a-la-fiscalia-del-distrito-nacional-para-profundizar-las-investigaciones-por-la-muerte-de-melissa-medina/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7mGzGTeS5d41JbmvFKDCG5wcrQyb2hSG3o6Hx8v3uRt6qtWHPcC4Tkc-v8s"
-    },
-    {
-      "termino": "lluvia",
-      "trafico": "100+",
-      "noticia": "Sábado soleado con chubascos aislados en la tarde",
-      "enlace": "https://listindiario.com/la-republica/20261121/sabado-soleado-chubascos-aislados-tarde_930988.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQdoCjz12pliiU-5NV8ZqzwxRWf7e7GOcmp0Z36kkteYBJum2FV1MzWYoZxdk"
     }
   ]
 }
