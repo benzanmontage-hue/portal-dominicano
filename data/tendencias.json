@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T16:58:43.888783-04:00",
-  "hora": "16:58",
+  "updated": "2026-11-21T17:09:02.848286-04:00",
+  "hora": "17:09",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,30 +22,23 @@
     {
       "termino": "real madrid - celta de vigo",
       "trafico": "5000+",
-      "noticia": "Real Madrid - Celta en directo | Mbappé falla un penalti",
+      "noticia": "Real Madrid - Celta en directo | El Celta gana al descanso en el Bernabéu",
       "enlace": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaq2wNr4xNL6c6ZVVt-8bp0VpGkKQ0hubQlnBdj2pKyZFogFIBuZJbarfEkI"
     },
     {
       "termino": "noticia",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Pronóstico New York Knicks vs Portland Trail Blazers NBA",
       "enlace": "https://www.hispanosnba.com/nba/pronostico-new-york-knicks-vs-portland-trail-blazers-nba/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT405WsJpvm1_jX4zy1uiRSN4Ac1XyPTLL9wvE9MOIosaRwzYBuWQFCRTSyJ1E"
     },
     {
-      "termino": "bucks - 76ers",
-      "trafico": "100+",
-      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
-    },
-    {
       "termino": "lluvia",
       "trafico": "100+",
-      "noticia": "Sábado soleado con chubascos aislados en la tarde",
-      "enlace": "https://listindiario.com/la-republica/20261121/sabado-soleado-chubascos-aislados-tarde_930988.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQdoCjz12pliiU-5NV8ZqzwxRWf7e7GOcmp0Z36kkteYBJum2FV1MzWYoZxdk"
+      "noticia": "Continúa emergencia en Florida tras inundaciones; carreteras anegadas y vehículos dañados",
+      "enlace": "https://elnuevodiario.com.do/continua-emergencia-en-la-florida-tras-inundaciones-carreteras-anegadas-y-vehiculos-danados/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHf4E96o49QgEptI8KDTfnciZH_EniEP8JQ4swPNUtbwqTHmrNbOj44j5-mg"
     },
     {
       "termino": "parma - roma",
@@ -57,16 +50,16 @@
     {
       "termino": "76ers - bucks",
       "trafico": "2000+",
-      "noticia": "Full injury reports for Sixers-Bucks on Saturday",
-      "enlace": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-vs-bucks-jaylen-brown-tyrese-maxey-dominick-barlow-dean-wade-adem-bona/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBhFNiHxwo6z39WlrXYrgeIKvt8UKpUdNtKuc3r1Q2PX22tbCFo3CWACoKKmI"
+      "noticia": "Rolling Sixers host Bucks looking to halt 12-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/rolling-sixers-host-bucks-looking-to-halt-12-game-skid/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
     },
     {
       "termino": "sevilla - real betis",
       "trafico": "500+",
       "noticia": "Sevilla 1 - 1 Betis: resumen, resultado y goles",
       "enlace": "https://as.com/futbol/sevilla-betis-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqv2haWsYwHSOQYQ6kAMH8PtcM2h_uyD-j4uvUoQ2p7t8AYly0QzOzCLquwK0"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEl-wRtRNQLe477LErjOhoM3j3szmByWlmvgLCqZ9mWBcBfer-wKd6IpCalPg"
     },
     {
       "termino": "newcastle - arsenal",
@@ -74,6 +67,13 @@
       "noticia": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
       "enlace": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU"
+    },
+    {
+      "termino": "nice – paris-sg",
+      "trafico": "200+",
+      "noticia": "Ligue 1 : victoire du PSG à Nice assombrie par la blessure de Désiré Doué",
+      "enlace": "https://www.la-croix.com/ligue-1-victoire-du-psg-a-nice-assombrie-par-la-blessure-de-desire-doue-20261121",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzfr3cE9ktJ0W5uM6-n7bwNBIfjtPz74whJtdJ0Ib_BFNA2goT1VjsGe0FK_M"
     }
   ]
 }
