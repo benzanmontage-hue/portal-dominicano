@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T10:24:18.808279-04:00",
-  "hora": "10:24",
+  "updated": "2026-11-21T10:34:37.237080-04:00",
+  "hora": "10:34",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "manchester city - fulham",
       "trafico": "1000+",
-      "noticia": "O Reilly, Bouaddi, Foden start as City make three changes",
-      "enlace": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt9mO_baRMBTUS3I5RN4et9EirXrEmDt0d3x5cXCTtMzWjKnTOKsxtLVQ3wgo"
+      "noticia": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
+      "enlace": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s"
     },
     {
       "termino": "aguilas cibaeñas",
@@ -25,6 +25,13 @@
       "noticia": "Estrellas despliegan ofensiva en triunfo ante Águilas en la LIDOM",
       "enlace": "https://www.mlb.com/es/news/estrellas-despliegan-ofensiva-en-triunfo-ante-aguilas",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2DG8wEG2K_5TmUUi70DhqIAIrCOxOdw4cDRxX7NCUvUfdVmOvo4cb5dKcro"
+    },
+    {
+      "termino": "tía",
+      "trafico": "100+",
+      "noticia": "Femicidio: “Vino por mí”, dijo la tía de la joven ejecutada en Lastenia",
+      "enlace": "https://www.lagaceta.com.ar/nota/1163355/seguridad/femicidio-vino-mi-dijo-tia-joven-ejecutada-lastenia.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjgO3xUS9o8YKT4nSThAJfu98nJ5_RbFhJSSsoy3mDYaST8lrJKWIIVDX7CUI"
     },
     {
       "termino": "prisión",
@@ -64,16 +71,9 @@
     {
       "termino": "lakers - kings",
       "trafico": "1000+",
-      "noticia": "Kings vs. Lakers (Nov 20, 2026) Live Score",
-      "enlace": "https://www.espn.com/nba/odds/_/gameId/401909313",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3NrBJNoXR9UhHKHR1VgxBPtRRQRTzUQd2_s7ywHB00OSwRnC3BqOj1V_JSng"
-    },
-    {
-      "termino": "gta vi",
-      "trafico": "200+",
-      "noticia": "GTA 6 : Fox News Slams Fans, Clavicular   Manosphere Bros Hate Lucia",
-      "enlace": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDcYI_7VO_XKSY12LVt6I7dm8XSWRzd3izh92KkN2ixlyx6rfQTxUI-ytM6S8"
+      "noticia": "Lakers rally after JJ Redick rips team s lack of fight vs. last-place Kings",
+      "enlace": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0u63T5kit0khkNPm-ixRkU80iX6WabnUvLlAk-VuFeTAv7yFH3UhWGOI5kxA"
     }
   ]
 }
