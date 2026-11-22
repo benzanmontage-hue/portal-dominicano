@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-22T07:59:32.995431-04:00",
-  "hora": "07:59",
+  "updated": "2026-11-22T08:10:01.314789-04:00",
+  "hora": "08:10",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "weather",
-      "trafico": "200+",
-      "noticia": "Giants’ Greg Newsome II has ‘extra motivation’ with chance to show Jaguars what they’re missing",
-      "enlace": "https://nypost.com/2026/11/20/sports/giants-greg-newsome-ii-has-extra-motivation-to-show-jaguars-what-theyre-missing/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgHzHAJogY3O-_z_lzUd9Fy9Wj646vGoXfmPs-uKRfOPtdeIFDuAXFx6YhsSo"
+      "trafico": "500+",
+      "noticia": "Drier conditions help to reduce rain chances Saturday night and Sunday",
+      "enlace": "https://www.gulfcoastnewsnow.com/article/ft-myers-sunday-forecast-drier-air-lowers-rain-chances/74498297",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDZV4RfeP0I6qh437hKvMMJ8t4RN00C3AVvIl_9awHDPcxF_-IpIS11YltWo"
     },
     {
       "termino": "f1",
@@ -29,9 +29,9 @@
     {
       "termino": "mavericks - clippers",
       "trafico": "200+",
-      "noticia": "NBA: Los Angeles Clippers at Dallas Mavericks",
-      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-dallas-mavericks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjA5Mzc",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe60Gzc9N-WIUUZyF0nKymPr0YHjD2UgAxmMOMyHYSroSaFQo_iU6WaTt0kZg"
+      "noticia": "Clippers Fade Late Again in Dallas as Their Fourth-Quarter Problem Grows",
+      "enlace": "https://www.thesportingtribune.com/2026/11/21/clippers-fade-late-again-dallas-fourth-quarter-problem-grows",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxbeTDuiNjqrLdI_zMXJoEjJvwdfQtK1VDYHL-jYGULEeeHGBIqkpl2KnT45E"
     },
     {
       "termino": "paolo bulgari",
@@ -71,9 +71,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "1000+",
-      "noticia": "Baku and regions weather tomorrow: rain, mountain snow",
-      "enlace": "https://operativmm.az/en/post/baku-and-regions-weather-tomorrow-rain-mountain-snow/88028",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCZGW3flvaZrN-MwzHtpJi_7OUgZjVZNdJeOEN73cmdvkKxkL19EgphUNk6sU"
+      "noticia": "Azerbaijan weather forecast for November 23",
+      "enlace": "https://report.az/en/ecology/azerbaijan-weather-forecast-for-november-232026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LoSQoft_5Q6YD8MhIVSrM8_42w3kO5zc6x_hUjiu9ILiSbHKQcHdIeFVl7s"
     }
   ]
 }
