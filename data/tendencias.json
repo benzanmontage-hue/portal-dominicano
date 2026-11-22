@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T16:50:40.066358-04:00",
-  "hora": "16:50",
+  "updated": "2026-11-22T17:01:05.116504-04:00",
+  "hora": "17:01",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "luis abinader",
+      "trafico": "200+",
+      "noticia": "EL SEIBO: El Gobierno entrega renovado hospital provincial",
+      "enlace": "https://almomento.net/el-seibo-abinader-inaugura-un-moderno-hospital-especializado/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSis3uDB4Lan0GbVRyXWNHG0NiuYoTBeMvlJZtoPgy5gE4YFdEnOkJQ0byFL0U"
+    },
     {
       "termino": "atalanta - inter",
       "trafico": "100+",
@@ -38,7 +45,7 @@
       "trafico": "200+",
       "noticia": "Milan, è la festa del contropiede: 5-1 al Frosinone, Amorim torna quarto. Ramos, gol e polemica",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/22-11-2026/milan-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQivRcmVZo7GzTHEZQzTt1PFy1coxFBgogd11PMzeb5tc4YnLUrEl-1VplWwI"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShPdxLDwSbJ6J4NQh3unKNeY41y8qB226zlfOnIKinlqyECt7p8ap8q8L8tFM"
     },
     {
       "termino": "carlos alcaraz",
@@ -67,13 +74,6 @@
       "noticia": "Rudé, tras el 0-4: “Esta imagen no se puede volver a repetir”",
       "enlace": "https://as.com/futbol/primera-rfef/rude-tras-el-0-4-esta-imagen-no-se-puede-volver-a-repetir-f202611-n/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5qVPWwyZ0iDN0-52WR7imJpe3XIKSblELZHOFVlzvq7GKAFpSLYd5biXidkk"
-    },
-    {
-      "termino": "classement fc barcelone – villarreal",
-      "trafico": "200+",
-      "noticia": "FC Barcelone 3-2 Villarreal, La Liga : Le Barça renverse Villarreal !",
-      "enlace": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/fc-barcelone-villarreal-live/693199",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmfaaKQIVV6MRV1H8-oSyiEo1aWFCPNgSS9_zxSBddIHmAcjuX6zDf-QcyL54"
     }
   ]
 }

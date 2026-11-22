@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:50:48-04:00",
+ "updated": "2026-11-22T17:01:08-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -437,8 +437,8 @@
    "id": 851523,
    "fecha": "2026-11-22",
    "hora": "17:00",
-   "estado": "Preview",
-   "detalle": "Pre-Game",
+   "estado": "Live",
+   "detalle": "Warmup",
    "visitante": "Toros del Este",
    "visitante_id": 668,
    "carreras_v": null,
