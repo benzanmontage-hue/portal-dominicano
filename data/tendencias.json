@@ -1,34 +1,41 @@
 {
-  "updated": "2026-11-22T00:56:23.104725-04:00",
-  "hora": "00:56",
+  "updated": "2026-11-22T07:07:26.731641-04:00",
+  "hora": "07:07",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "weather",
+      "trafico": "200+",
+      "noticia": "Cooler weather and mixed skies over the weekend",
+      "enlace": "https://bnrnews.bg/en/post/561092/cooler-weather-and-mixed-skies-over-the-weekend",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKlwV5QS-Vi5z-8hlcYUJ11BOwuZbpVnE54Pp23AM9hPltGYt4QAVuZeX07J0"
+    },
+    {
       "termino": "f1",
-      "trafico": "100+",
-      "noticia": "LIVE – Follow the 2026 Las Vegas F1 Grand Prix with live text commentary",
-      "enlace": "https://www.autohebdof1.com/news/f1/Follow-the-2026-Las-Vegas-F1-Grand-Prix-live-with-text-commentary.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlSFei9Ylv3r9WFZqxwaGa-bL1mtpUa2R4dNo-3e1mPXFp_8ZKq4vOiUuA7A"
+      "trafico": "200+",
+      "noticia": "I paid the price  – Russell laments Las Vegas GP error",
+      "enlace": "https://www.formula1.com/en/latest/article/i-paid-the-price-russell-laments-error-in-closing-stages-of-las-vegas-gp.546DMDVRArhwgf1nEXHR1v",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGKhOdW8VBW9yrRPAqIpssIFuYK-uAuJIva7pUnx3BIcfC71q57j4tyHKDLM0"
     },
     {
       "termino": "kings - celtics",
       "trafico": "200+",
-      "noticia": "Celtics look to snap two-game skid against Kings",
-      "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-two-game-skid-against-kings/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+      "noticia": "Kings edge Celtics to snap 8-game skid on Keegan Murray s putback",
+      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-to-snap-8-game-skid-on-keegan-murrays-putback/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     },
     {
       "termino": "mavericks - clippers",
       "trafico": "200+",
-      "noticia": "Kyrie Irving, Cooper Flagg lead Mavericks past Clippers",
-      "enlace": "https://www.cbssports.com/nba/news/kyrie-irving-cooper-flagg-lead-mavericks-past-clippers/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+      "noticia": "Mavs used grit and determination to pull away at the end and defeat Clippers, 110-100",
+      "enlace": "https://www.nba.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW6hKz7oB_7OjOGyWNPl6hdpd4mapqjpxEZm-ab3cIyO7J06RGDDLJGqW2T-I"
     },
     {
       "termino": "paolo bulgari",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
       "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
@@ -37,43 +44,36 @@
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
       "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
-      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5ODg",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSERvvq4HJ7z1Wjh9vbGGFnqcJu8h88NVcXmlKaV3nMmnv97BITTJsZnzYH9hc"
+      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5NzU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ60X8oWEemU-Sjmbyts6hdm71_o9WE_4R_nUE_7bQjp5EDZSqtB9GhgrC945M"
     },
     {
       "termino": "spurs - pelicans",
       "trafico": "500+",
-      "noticia": "New Orleans Pelicans vs San Antonio Spurs Nov 21, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/nop-vs-sas-0022600278/box-score",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6kxuXMgHZ1oJMp8AwWDzFzjl1jSJVRhkuxosxGnYM2oWo1koJpv8sOEBUbP0"
+      "noticia": "NBA roundup: Historic 50-point game for Wemby, Bridges hits a game-winner for the Knicks",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2038990/nba-roundup-historic-50-point-game-for-wemby-bridges-hits-a-game-winner-for-the-knicks/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2fYX9_vX1gzOgoiAQf_BcSbMqVNVkdIijmIkUbymlkaZ7Pgl2_t4ZB1NDK40"
     },
     {
       "termino": "resultados de loteria",
       "trafico": "200+",
-      "noticia": "Mega Millions en vivo: resultados y ganadores del viernes 20 de noviembre de 2026",
-      "enlace": "https://eldiariony.com/2026/11/20/mega-millions-en-vivo-resultados-y-ganadores-del-viernes-20-de-noviembre-de-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJG2YFK9UyduhqoHitPbaffftUHg-FfMJPdjvhMlrV3a0YtgzfPEDBGRB1ehk"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "1000+",
-      "noticia": "Maui Weather Forecast for November 21, 2026",
-      "enlace": "https://mauinow.com/2026/11/21/maui-weather-forecast-for-november-21-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEWoJRQ2uLk1wUFc2lSjutM0WHtp1ni4u6CHJ4xBztvIKCIcsbQhmhrHYe430"
+      "noticia": "Números ganadores del Mega Millions: mira los resultados del sorteo del 20 de noviembre de 2026, con un premio mayor de $629 millones",
+      "enlace": "https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-20-noviembre-2026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwlIorP9f-MuwzU6EBdrNycGV3xW55kFPrkLSKuzI1WsrDC8urs69tymRnMM"
     },
     {
       "termino": "miss universo 2026",
       "trafico": "500+",
-      "noticia": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/21/melissa-nunez-recibe-ovacion-en-miss-universo-con-su-traje-tipico/3727922",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtC0Bi3ZlKd6O5GHrxFuThSNkVy5o-sOt67LhdhNqUY08HRNjUq7ZYBY-DI5E"
+      "noticia": "Estoy viviendo esto con tanta ilusión , dice Melissa Núñez, Miss Universo RD, rumbo a la final",
+      "enlace": "https://listindiario.com/entretenimiento/20261121/viviendo-esto-tanta-ilusion-dice-melissa-nunez-miss-universo-rd-rumbo-final_930999.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvP8Sz7qQltERt-qNNPA8Z87MU73oKZcp-Vd0xLrmsh0nZtwT7qLTCq77tR9M"
     },
     {
-      "termino": "knicks - trail blazers",
+      "termino": "weather tomorrow",
       "trafico": "1000+",
-      "noticia": "Jalen Brunson News: Nets game-high 30 points in win",
-      "enlace": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-nets-game-high-30-points-in-win-540418",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqC8pnv5OAcyp8g5zdJ1gyB31jSohbVL7RjzQwXnR7GDOXKwPOzWUVFohlKa4"
+      "noticia": "Azerbaijan weather forecast for November 23",
+      "enlace": "https://report.az/en/ecology/azerbaijan-weather-forecast-for-november-232026",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LoSQoft_5Q6YD8MhIVSrM8_42w3kO5zc6x_hUjiu9ILiSbHKQcHdIeFVl7s"
     }
   ]
 }
