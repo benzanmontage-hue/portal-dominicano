@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T11:38:12.463105-04:00",
-  "hora": "11:38",
+  "updated": "2026-11-22T11:48:32.340020-04:00",
+  "hora": "11:48",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Barcelona 3-2 Villarreal: Barca score three in 10 minutes to return to top of La Liga",
       "enlace": "https://www.bbc.com/sport/football/live/cqe87553peegt",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMJXRSmStHbY5j6BEWfuj05_BbvPHvCQCi3I7-o3w7FOei5CkkbBuzAeCGTDY"
+    },
+    {
+      "termino": "laliga",
+      "trafico": "200+",
+      "noticia": "Licensable picture: LaLiga - FC Barcelona v Villarreal",
+      "enlace": "https://www.reutersconnect.com/item/laliga-fc-barcelona-v-villarreal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0xNEhDWDQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN8N1ZGLaYOz-hujqoJ8BvsUAwItZmsvmRGQhSYNLcDZ6VVkTA6j-rEREwDaE"
     },
     {
       "termino": "tiempo",
@@ -67,13 +74,6 @@
       "noticia": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
       "enlace": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlbPK-90PvcPD-fflJ0m3ZDGqTpUGuWQpAEdasyqfz4awElsIP3pRkfT8ZPLU"
-    },
-    {
-      "termino": "weather",
-      "trafico": "1000+",
-      "noticia": "Hartford Rain And Thanksgiving Winds",
-      "enlace": "https://hoodline.com/2026/11/hartford-rain-rolls-in-as-turkey-day-storm-looms/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCh5j7V78iO7AwFG1vfarjp4K-BQVURczm81UNvrjI6XbrKwtgkEvvzoARKdI"
     }
   ]
 }
