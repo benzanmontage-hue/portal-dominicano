@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T20:06:29.694727-04:00",
-  "hora": "20:06",
+  "updated": "2026-11-21T20:16:47.043715-04:00",
+  "hora": "20:16",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
@@ -11,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 18:37:18 GMT",
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/w16zucq40c4yrbzrw407"
+    },
+    {
+      "titulo": "República Dominicana redobla la apuesta y lanza nueva licitación de 900 MW renovables con baterías - Energía Estratégica",
+      "fuente": "Energía Estratégica",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZjNiY0ZWYUpqbVFianJBb3NsaU9fTk1XeFI5Mm5MaW1JQi1VSElJLXY0Y3ZELU4yOVVoXzdkOXJNQ2ZKSkZmSDVnMmtrcldCSWFhYV85VUN2Z3ZlLVlCZmVlQ28xVEU5UDljbXRHQ1pHT1RIOUZGYk56Y3hPT0N2Qy1Pb0tZZGlDUEp4RjdHdmZkVjZMaS14dUhOdkMwYUVjSHk0Wk1wV2dGdnc1Z19IUi1wallFdXBSOUlHOWI4WjVRaWU0WTE3NC1wZi1LX0hTVkxuN3ZuamRJQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 22 Nov 2026 00:13:44 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
@@ -101,14 +109,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Reportan temblor con magnitud preliminar de 4.4 al sureste de República Dominicana - wapa.tv",
-      "fuente": "wapa.tv",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNN3BuX21wMmUxVEdhNHZPQ2hOZ2xsQlAwLS1NQVhfWW1jcTlsNlNQWEYwQUFHWUFBUURrXzBIZDFQc0tvT0lFaWZfVURHUGhfQkNuSjVkeGZYQ3NKc3hGRnZhRWhpNVdySHN6VmRrY20ybjZ3MEFLcGZLSDZLa0lpSDl0X3BibVZFb1lPSS1TakNhSzlHMUE5QXJrbjhkT2R4djNtMzgzN0pPd2lYcnpMRV9hRDh4ajhNRVliRHdyR1VpM3hNT2hpVjVDdkR1dVZBMGRqelJCUmlJOE1BbTRZZERHMlFzbFNyN0FERHllTzdDOXFTSzZ0ZnNPdzkydkpaSnI0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 16:13:03 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Reportan temblor de magnitud 5.0 con epicentro en República Dominicana - Periódico La Perla",
       "fuente": "Periódico La Perla",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFlWaGRWRE4wNFpxbXotaHgyU3VIek81eS0xNmdmbDNQNXFXN2NfQzl2N3lka2RMbTJvelY4LWdPeFRIUWhQUjBObXEzTTB6ekRFblhNUTRDVmNXZHJaREpJYnByMTNuMWtzNDluU09YdFFzV0JERk9zRjI4UnUyVlhxZTJET2FPTEM5QUJnVi1NTUp0cUVRTlFsU09oZW5JNVJvMTNranlMTGJnTUhwcUI5elJXUQ?oc=5",
@@ -117,11 +117,11 @@
       "imagen": "https://www.periodicolaperla.com/wp-content/uploads/2026/11/IMG_3873.jpeg"
     },
     {
-      "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dJZ0VvNFVMMHcyVVp0cklqQ3VmMnRYUlNPOWdXY1lYck9YMjQ4S2hVaVNyNWxybEktVVk5VDYyRzA5V1FGNF84ZHVGcmliclo2Ym1jbXZ1amlic1U3ejNBSm9UbmhXc0xsZnZPRXhjaWxzRnl1akl2b3dXSG9pZFFpTS00SHZqRjlKWjVQUUZuNUdKLTcyUVVkUlVqSnBObDB1Y0R6NA?oc=5",
+      "titulo": "Reportan temblor con magnitud preliminar de 4.4 al sureste de República Dominicana - wapa.tv",
+      "fuente": "wapa.tv",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNN3BuX21wMmUxVEdhNHZPQ2hOZ2xsQlAwLS1NQVhfWW1jcTlsNlNQWEYwQUFHWUFBUURrXzBIZDFQc0tvT0lFaWZfVURHUGhfQkNuSjVkeGZYQ3NKc3hGRnZhRWhpNVdySHN6VmRrY20ybjZ3MEFLcGZLSDZLa0lpSDl0X3BibVZFb1lPSS1TakNhSzlHMUE5QXJrbjhkT2R4djNtMzgzN0pPd2lYcnpMRV9hRDh4ajhNRVliRHdyR1VpM3hNT2hpVjVDdkR1dVZBMGRqelJCUmlJOE1BbTRZZERHMlFzbFNyN0FERHllTzdDOXFTSzZ0ZnNPdzkydkpaSnI0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
+      "fecha": "Sat, 21 Nov 2026 16:13:03 GMT",
       "imagen": ""
     }
   ]
