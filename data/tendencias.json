@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-22T08:52:36.230208-04:00",
-  "hora": "08:52",
+  "updated": "2026-11-22T09:03:03.680941-04:00",
+  "hora": "09:03",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "clima santo domingo",
+      "trafico": "1000+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, domingo 22 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-domingo-22-de-noviembre-de-2026-9794694.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
       "termino": "barcelona - villarreal",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Barcelona: posible alineación y probabilidades vs Villarreal",
       "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17540059/barcelona-vs-villarreal-alineacion-probabilidades-laliga",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyBW7Tk326GwIQTvh-86wB4r8477RoQXBxhkEPGGcL7Z4Pl6czwR9FiHKWM0"
@@ -36,15 +43,15 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Iowa weather: Cooler, more seasonal temperatures set in",
-      "enlace": "https://www.kcci.com/article/iowa-weather-cooler-more-seasonal-temperatures-set-in/74500436",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx18c5DiM_E8ltVM9DmvYvGhtl00pfC0cGQq0n-Sd1-ffwERgp72RO3DOktfQ"
+      "noticia": "Weather Impact: Coastal Storm Takes Aim at North Carolina for Thanksgiving",
+      "enlace": "https://www.wfmynews2.com/article/weather/weather-impact/weather-impact-thanksgiving-coastal-low-storm-wet-rain-wind-northeast-cold-chilly-holiday-north-carolina-piedmont-triad/83-631b97f9-083b-430a-9f2b-ed64ee7417ab",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNibkyGH6BGHNEnEDUye9Z5Vcbc9b-qcPWk9I23OG2GaaGi87ZWbkghLsbsqE"
     },
     {
       "termino": "f1",
       "trafico": "200+",
       "noticia": "Formula 1 News: Verstappen admits again he would rather skip Qatar",
-      "enlace": "https://www.autoracing1.com/?p=https://www.autoracing1.com/?post_type=post p=510473",
+      "enlace": "https://bvmsports.com/2026/11/22/formula-1-news-verstappen-admits-again-he-would-rather-skip-qatar/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN3uf8OQIkMqKckEHy3q8XjV0EFh0W_-wth_e7z2-bCE4e67McLuXHWyguCio"
     },
     {
@@ -67,13 +74,6 @@
       "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
       "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
-    },
-    {
-      "termino": "timberwolves - grizzlies",
-      "trafico": "200+",
-      "noticia": "Ayo Dosunmu Puts His Foot On The Gas With 19 Points Vs The Memphis Grizzlies | 11.21.26",
-      "enlace": "https://bvmsports.com/2026/11/21/ayo-dosunmu-puts-his-foot-on-the-gas-with-19-points-vs-the-memphis-grizzlies-11-21-26/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Rlg6Ge2OxBNGUKKAfDDvN9Za392Ma2M4MpOPdl4Nl5YYaGgeJ1nx-1wC4w4"
     }
   ]
 }
