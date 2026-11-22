@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T07:07:37.489083-04:00",
-  "hora": "07:07",
+  "updated": "2026-11-22T07:18:14.678676-04:00",
+  "hora": "07:18",
   "fecha": "22/11/2026",
   "total": 15,
   "noticias": [
@@ -29,20 +29,20 @@
       "imagen": "https://www.infobae.com/resizer/v2/UT4X7ZQCX5BMDMJKQLZHA4UI7I.png?auth=d89f37b81666a05021c411f1fdf4ce2cdc80d230e7a77ded7a34f275d7576bd1&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
-      "fuente": "masfe.org",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLU1mSGtHWHphU3NnVm1MZHd2OE1za1BEVllRVUpNd3JmeGt4THFBejllX1VRNVNwbldlVkt4ZlRkZTNhNFJhZEVIMGoxUGFEXzg2TE9TSlJBSVNuVzJxUHVaa1I4NjdzQ2gwSm9qNnRXQ3RwT0MzMlQ5MUVab1JELXhfa1p6WDNJbnc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 19:16:02 GMT",
-      "imagen": "https://files.mormonsud.org/wp-content/uploads/2026/11/rasband-entrevista.png"
-    },
-    {
       "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
       "fuente": "Yahoo",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
+      "fuente": "masfe.org",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLU1mSGtHWHphU3NnVm1MZHd2OE1za1BEVllRVUpNd3JmeGt4THFBejllX1VRNVNwbldlVkt4ZlRkZTNhNFJhZEVIMGoxUGFEXzg2TE9TSlJBSVNuVzJxUHVaa1I4NjdzQ2gwSm9qNnRXQ3RwT0MzMlQ5MUVab1JELXhfa1p6WDNJbnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 19:16:02 GMT",
+      "imagen": "https://files.mormonsud.org/wp-content/uploads/2026/11/rasband-entrevista.png"
     },
     {
       "titulo": "Centroamérica y República Dominicana superan los 30.600M en ingresos turísticos - Expreso - Diario de viajes y turismo",
@@ -90,7 +90,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSERXMGVxT0xvVWI2aWcxeVkzYkpLZlNFSUlhamdVekl5UWhmV2tDbm5WTmlJTWNpajhYM1lOZTFMSjlDbHA1ZmxzNVBNUjM5MzNSS3FGREFiU3lUaXd2SGR1MjdRTmowRl8yNi1YUlRkeDNEX0hKdnN2WEJGOGg3cXJFdmtCRjZqMjNJMmxxTk5tOTlIMlpZdTQyZEI2U3JXNHFQXzh0X3o5bS1iaHRpQmRfYzVGbEhpVjRiTm9qbnJfREZZQ3Uyb1dMYnR1ZkNzR0otNUdORlbSAdgBQVVfeXFMTkhEVzBlcU9Mb1ViNmlnMXlZM2JKS2ZTRUlJYWpnVXpJeVFoZldrQ25uVk5pSU1jaWo4WDNZTmUxTEo5Q2xwNWZsczVQTVIzOTMzUktxRkRBYlN5VGl3dkhkdTI3UU5qMEZfMjYtWFJUZHgzRF9ISnZzdlhCRjhoN3FyRXZrQkY2ajIzSTJscU5ObTk5SDJaWXU0MmRCNlNyVzRxUF84dF96OW0tYmh0aUJkX2M1RmxIaVY0Yk5vam5yX0RGWUN1Mm9XTGJ0dWZDc0dKLTVHTkZW?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 07:59:39 GMT",
-      "imagen": ""
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/04/665dc401f0530-precio-del-dolar-hoy-en-rd-3-de-junio-compra-y-ventajpg-1-OG.jpg"
+    },
+    {
+      "titulo": "Extraditan a dos dominicanos acusados de homicidio y narcotráfico en Nueva York - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWVV4LXZTNFFfYzg1MFJsaGFvRW1ucXVWeEJuVWx0S2hEbDJhOXJYaFR2Ql9EOGdod29DQjViNDkwRHZVSWNKMGlzM3lad1hhM21CVkZfT01uMG93XzhVS3pFNU5SWmZSLWdMSDRQdkg0NzJKeWlYQmU4RmlHUE15VTlLSUtXSV96SldhOFhYRk1sbXg5QXY2SFhROXVLUUtLN25QOGk5bkx0SjlDdDRmOTVYUGR1OXhaSUs0bktzWXXSAcYBQVVfeXFMT2hCUVJjWlJFVzYtSmNRam9vZ0E4UmFBeklHa3BHMHFidWs3TUItd0FjeGpaazZMTmdHMGFYXzk3cFVXRmV0THM0NWlua1VNdzBNQkVmRklPd3lyaVl5YjBoN3ZsVG5Sa3dFdHBaSjRlLURSTndNT3FOSkd1S1JkcjRWV0N4WDN2N0V4SXl2ODZXWWpnY0Y3c2RxUEQyM2E4SmFab0JXeXRCc25CeWRucmJiWmVVTjNaNmwzdXpQb0dfX1I4Mldn?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 22 Nov 2026 02:59:00 GMT",
+      "imagen": "https://resources.diariolibre.com/images/2026/11/22/dominicanos-extraditados-a-nueva-york-por-delitos-graves-60c2b9da-focus-0-0-1200-675_wam.jpg"
     },
     {
       "titulo": "Clima hoy en Santo Domingo, República Dominicana: el pronóstico del tiempo para este domingo 22 noviembre de 2026 - Clarín",
@@ -101,12 +109,12 @@
       "imagen": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_2000x1500__1.jpg"
     },
     {
-      "titulo": "Dónde ver República Dominicana Sub17 vs Montenegro Sub17: canal y streaming - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhlbmxtVm5XQnJLSVZzeHVqZE9VTWZtbkZzSXJEVUxvdWdXSXlFTFAtemtnSmVrQjVHdXRvVHotUmpFbVB5azZ5cnFxMzZuWVRPbXpndUZDSW5mbzc5QW02WDkycXdfY0IxZVZxVmdiZGpLR3Q1LXVtR3JpbWlRMA?oc=5",
+      "titulo": "Destacan expansión mundial del voleibol en congreso en Dominicana - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxSUnpEdlJkdkdDQnotRk1XQjFhY2NIeFYtc3VwOFI3UUhfRDFkdDc3cjdCYVc5STlCODhZOFJfOEFCb0NoYkdra09uV0w3N25JcS03YXk3ekNVRURoQmQxcnRCSWFMZHFKaGhnenV6aGhtMi1QMjBxd1ZTSkRPRThrZ1V1bHRxRlRqTDJ2Sk4wV2tmLTdiTm9Hb3oxUl9vOWtRdWFySW5EQQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 10:35:21 GMT",
-      "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/photo_2026-11-21_03-48-29.jpg"
+      "fecha": "Sun, 22 Nov 2026 01:27:00 GMT",
+      "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/11/CONGRESS-DAY-1-1.jpg"
     },
     {
       "titulo": "Cumbre Mundial de Gobiernos: Panamá mira al turismo y República Dominicana a la logística - Bloomberg Línea",
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana: El Ministerio Público solicita prisión preventiva para 22 detenidos por la Operación Rompeolas en La Altagracia - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONzF1OUJaemxtR1A5UzFLRm1HX2h0RnF5VXNfdFZHRTlrUTlNVnlnYXh4ZVlkR09aQlpuVTNhODQzM0wxS0l6QTE4SVdKN0FEUUxVS2M4UTkyc2t0QmtqUE96Z1BKeDg1TnN6RVhVbEVXT0llSXU3eEhsY0FjT0xMZkQ0eWRWcEFIMDYwdnE5WnBvRzFmaTRxSjc2bmV5d25kN1lKU0dGakdqYWIxQVdROFV4ZmU4a0pCU2xVazlRekdhRnFQNnduTHV0WGNHNGtiOGRIaE1lc08xWC1VSk9vWnFySVl5blFJSl9Qd05WcWlHZDB6a1BqS01UZDRfakxzZm9nLWVITXR4VUgydk51bUlNeDVUNGR10gGzAkFVX3lxTE5BdC1lTno4ci1XYTE1VU82dEpaUnNEWVJCc1pGZGRVTmRqYWpsazc4Ri1DTTJIVnc0Wm1tX1Jvd2t4NTlYQ2RVSXNKSThfejhzZGRDWnJGUC1EZ3FoXzZVV0s2VmNrNE1ZNGMxX1h1TWZCWnFkTlkwTkVVX3RTMG9yTThFVTVYalRjMGdBMmdMNzlGUU5ncHE1dTZsN3NBQ09hbW9JTlF4Z3UyYW1tUmcxeGN4OEh6ejYwSm9jNXpRbjd0TUlvNnB1SGJOeVVkOEw3TFB2X0dvZUhLaFNTcUpkYk9LZFRodGs4bXlOSlp3R1Q1ZXFZZGhnenQzR1R0djJYTEdISnRValZRR2RHMG1NRVp1cUw4SjBROUNwVDNndkxwMFk5NnpkQmtTNkcwVV9wZzg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 01:16:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/44KESTZIKFASDM7RP6TRP4IJLM.jpg?auth=89d4361621324c0bb26ebc86011ed6ede5d4fa82079a86132d7c6a393269a0a8&smart=true&width=1200&height=630&quality=85"
     }
   ]
 }

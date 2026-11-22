@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T07:07:26.731641-04:00",
-  "hora": "07:07",
+  "updated": "2026-11-22T07:18:05.952276-04:00",
+  "hora": "07:18",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "weather",
       "trafico": "200+",
-      "noticia": "Cooler weather and mixed skies over the weekend",
-      "enlace": "https://bnrnews.bg/en/post/561092/cooler-weather-and-mixed-skies-over-the-weekend",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKlwV5QS-Vi5z-8hlcYUJ11BOwuZbpVnE54Pp23AM9hPltGYt4QAVuZeX07J0"
+      "noticia": "Two cold fronts could bring a sharp chill to parts of Texas. Here s when",
+      "enlace": "https://www.chron.com/weather/article/cold-front-freezing-temps-texas-forecast-22536226.php",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRouUyrQ0lpmercj9RC4mAiEnu03me2NtvJZ2yNBiu2PqqjXB8yXOJZCYV6KEA"
     },
     {
       "termino": "f1",
@@ -71,9 +71,9 @@
     {
       "termino": "weather tomorrow",
       "trafico": "1000+",
-      "noticia": "Azerbaijan weather forecast for November 23",
-      "enlace": "https://report.az/en/ecology/azerbaijan-weather-forecast-for-november-232026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LoSQoft_5Q6YD8MhIVSrM8_42w3kO5zc6x_hUjiu9ILiSbHKQcHdIeFVl7s"
+      "noticia": "Baku and regions weather tomorrow: rain, mountain snow",
+      "enlace": "https://operativmm.az/en/post/baku-and-regions-weather-tomorrow-rain-mountain-snow/88028",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCZGW3flvaZrN-MwzHtpJi_7OUgZjVZNdJeOEN73cmdvkKxkL19EgphUNk6sU"
     }
   ]
 }
