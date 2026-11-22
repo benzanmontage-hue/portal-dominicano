@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T14:46:25.347638-04:00",
-  "hora": "14:46",
+  "updated": "2026-11-22T14:56:45.918490-04:00",
+  "hora": "14:56",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,16 +8,23 @@
     {
       "termino": "milan - frosinone",
       "trafico": "100+",
-      "noticia": "LIVE Milan-Frosinone 5-1: segna anche Pulisic! Amorim devastante in contropiede",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/22-11-2026/milan-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbC9WISTfV9-PGSofoEgY0cuWBLWLA7nRPgJF3kEZ2jm291z7oMcr3kq52Xk8"
+      "noticia": "LIVE Milan-Frosinone 5-1 Serie A 2026/2027: Frosinone in dieci per Birligea",
+      "enlace": "https://www.virgilio.it/sport/dirette/live/serie-a/22-11-2026/milan-frosinone/2638237/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYI9lGYLOsiB8G0uLMHRGzvTiJ4UxRuCTHUoHmFqdWaYXQzTh9h1YvvmbIiyI"
     },
     {
       "termino": "carlos alcaraz",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "No creo que Zverev haya mejorado : la llamativa declaración de Medvedev tras quedar eliminado de las ATP Finals 2026",
       "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548199/no-creo-que-zverev-haya-mejorado-la-llamativa-declaracion-de-medvedev-tras-quedar-eliminado-de-las-atp-finals-2026",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYl69Odzq72Pl6kzLRkeilfQh8Xru68GTZBBRPcWu4DxibTiY8vUk58vXS1tk"
+    },
+    {
+      "termino": "arresto",
+      "trafico": "100+",
+      "noticia": "Investita a Firenze da giovane che scappa in motorino dalla polizia: donna grave. Il malvivente cade e fugge a piedi",
+      "enlace": "https://www.lanazione.it/firenze/cronaca/donna-investita-motorino-inseguita-qf1yag3f",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY-p_c2nEcK_9UyuodE9Ayddw2aqz-Xz5edvhV-0qUAhNE7Y13XK5reph-RQ"
     },
     {
       "termino": "real de hoy",
@@ -36,9 +43,9 @@
     {
       "termino": "liverpool - manchester united",
       "trafico": "1000+",
-      "noticia": "Calamitous start for Pochettino as 10-man Man Utd thrashed 4-0 at Liverpool",
-      "enlace": "https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7UQO7wNLeZCoRt6z7ExVx4I2-Ae6r79Dp6mWjOUC5-MyWx9OvrHqLlwdgqso"
+      "noticia": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino s reign after Anfield hammering",
+      "enlace": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBl28ERxW4cWYV2hcOYw-YsS5Fet_UkvgtjhgOVixcJ5dd6wAgyYIeAyvyg0"
     },
     {
       "termino": "classement fc barcelone – villarreal",
@@ -67,13 +74,6 @@
       "noticia": "Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
-    },
-    {
-      "termino": "juventus - venezia",
-      "trafico": "100+",
-      "noticia": "Juve, primo tempo tra i fischi poi entra Woltemade e cambia tutto: 4-0 al Venezia",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/22-11-2026/live-juve-venezia-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKNJY_KxlA0vYLgq8lt_JV1f_wHNee57MzSsLFH8e43WdHIGTucMALkfm0Z9c"
     }
   ]
 }
