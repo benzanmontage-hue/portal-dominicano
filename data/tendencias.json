@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T17:21:44.823106-04:00",
-  "hora": "17:21",
+  "updated": "2026-11-22T17:32:04.451786-04:00",
+  "hora": "17:32",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cuba",
+      "trafico": "100+",
+      "noticia": "Cuban baseball player flees to Brazil, dreams of MLB career",
+      "enlace": "https://www.usatoday.com/videos/news/2026/11/22/cuban-baseball-player-flees-to-brazil-dreams-of-mlb-career/92842209007/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwLeZZHVz2ua6IZBm5jF1N_W4_fPWtfLN_MsDuloB6Eh96gkOqzHXKaIfx7c"
+    },
     {
       "termino": "vaguada",
       "trafico": "200+",
@@ -29,16 +36,16 @@
     {
       "termino": "atalanta - inter",
       "trafico": "200+",
-      "noticia": "LIVE Atalanta-Inter 1-3: tris di Pio su assist di Thuram, dentro Pasalic e Rowe",
+      "noticia": "LIVE Atalanta-Inter 2-4: gol di De Ketelaere! Poi a segno Sucic su rigore",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/22-11-2026/atalanta-inter-live-serie-a-risultato-e-gol-in-diretta.shtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZgL1WjKpARt2dOrJhstFuiFTNNHet5xI_hLHYBxkRsnJeJ0_Tddr0ttHU5Y"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvvQRuobYjy-q9huhIm_0fu7H3YAB1sQi3qSRT2TKxye5pP4pU2XGWpiyQ6PE"
     },
     {
       "termino": "getafe - atlético madrid",
       "trafico": "1000+",
       "noticia": "Getafe - Atlético, en directo | Última hora de LaLiga EA Sports hoy en vivo",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/getafe-atletico/2026/11/22/01_0101_20261122_1450_175-directo.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1zToc8Cdh28InmXe-Td8GJOd0B9QO7aJQZyMZpjjLKR7-UC0j8_pHntLHeZE"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxL3g10cZd4oGpu36mIlwOJSHEZdMnOlNa4b8PV5jHtDSZse7_qCwqD26XWO4"
     },
     {
       "termino": "posiciones de liverpool fc contra manchester united",
@@ -67,13 +74,6 @@
       "noticia": "Operativo N°1: así quedó el ranking mundial tras el título de Alcaraz ante Zverev en las ATP Finals 2026",
       "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548796/operativo-numero-uno-asi-quedo-el-ranking-mundial-tras-el-titulo-de-alcaraz-ante-zverev-en-las-atp-finals-2026-sinner",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrtS1H1xIqEbJKcHICJP9jqp6sIaWf0GW0Espnvwbi9tRxKgJfAAbER81OqkI"
-    },
-    {
-      "termino": "arresto",
-      "trafico": "100+",
-      "noticia": "Revenge porn: minacce all ex dopo una relazione a distanza, arrestato un uomo",
-      "enlace": "https://www.rainews.it/tgr/calabria/articoli/2026/11/revenge-porn-minacce-allex-dopo-una-relazione-a-distanza-arrestato-un-uomo-a70112fc-0aac-4bb9-908e-e3a0511c67a8.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTneRAU2au7Uev1H97BiJ_2F87J0bwDcVrlDcKClTnXXITCuIoy4RCU6VP8ekc"
     }
   ]
 }
