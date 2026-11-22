@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T14:56:45.918490-04:00",
-  "hora": "14:56",
+  "updated": "2026-11-22T15:07:06.680712-04:00",
+  "hora": "15:07",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "operación rompeolas caro brito",
+      "trafico": "500+",
+      "noticia": "Ministerio Público solicita prisión preventiva contra 22 personas arrestadas durante la Operación Rompeolas",
+      "enlace": "https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-22-personas-arrestadas-durante-la-operacion-rompeolas/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzTnCAEjCGUWLoecRVnyOkGHm7BXbAHtzXOhDE4rVPZLalTeEUq1XcuzFHLz0"
+    },
+    {
       "termino": "milan - frosinone",
       "trafico": "100+",
-      "noticia": "LIVE Milan-Frosinone 5-1 Serie A 2026/2027: Frosinone in dieci per Birligea",
-      "enlace": "https://www.virgilio.it/sport/dirette/live/serie-a/22-11-2026/milan-frosinone/2638237/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYI9lGYLOsiB8G0uLMHRGzvTiJ4UxRuCTHUoHmFqdWaYXQzTh9h1YvvmbIiyI"
+      "noticia": "Serie A, in campo Milan-Frosinone DIRETTA",
+      "enlace": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/22/serie-a-in-campo-milan-frosinone-diretta_01b8ae5e-7af5-4e92-a6f5-484a925f7949.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9eip478_ZcUuVDf19XNxW9ZYSx9yKBuWaxXsLuHJ1tvZ4zmGy_UlsLCdq9eE"
     },
     {
       "termino": "carlos alcaraz",
@@ -43,9 +50,9 @@
     {
       "termino": "liverpool - manchester united",
       "trafico": "1000+",
-      "noticia": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino s reign after Anfield hammering",
-      "enlace": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBl28ERxW4cWYV2hcOYw-YsS5Fet_UkvgtjhgOVixcJ5dd6wAgyYIeAyvyg0"
+      "noticia": "Liverpool v Manchester United: How the players rated",
+      "enlace": "https://www.bbc.com/sport/football/articles/c933gzxk66yyo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO0ctRzi0fzk1Agq5QDUrtjRxz6X_NpJ3QpWxRvPYgqzyzBdtzKicwxSg_gOU"
     },
     {
       "termino": "classement fc barcelone – villarreal",
@@ -67,13 +74,6 @@
       "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, lunes 23 de noviembre de 2026?",
       "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-lunes-23-de-noviembre-de-2026-9794806.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "operación rompeolas",
-      "trafico": "500+",
-      "noticia": "Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
     }
   ]
 }
