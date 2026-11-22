@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-22T11:17:32.759192-04:00",
-  "hora": "11:17",
+  "updated": "2026-11-22T11:27:52.566632-04:00",
+  "hora": "11:27",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "laliga",
+      "termino": "posiciones de fc barcelona contra villarreal club de fútbol",
       "trafico": "500+",
-      "noticia": "FC Barcelona squad named for La Liga match against Villarreal",
-      "enlace": "https://www.barcablaugranes.com/barcelona-la-liga/138634/barcelona-villarreal-la-liga-team-news-squad-list",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy_vbvdqsHJ2pwfUwKV7YhiKWjGLtPd7kv5c_IO6PVSWPudvIYRUjSp9T9SSQ"
+      "noticia": "Barcelona vs Villarreal: Spanish La Liga stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cqe87553peegt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
     },
     {
       "termino": "tiempo",
@@ -18,13 +18,6 @@
       "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, domingo 22 de noviembre de 2026",
       "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-domingo-22-de-noviembre-de-2026-9794694.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
-    },
-    {
-      "termino": "barcelona vs",
-      "trafico": "500+",
-      "noticia": "La diferencia de efectividad en penales entre Lamine Yamal y Raphinha",
-      "enlace": "https://www.si.com/es-us/la-llamativa-diferencia-de-efectividad-en-penaltis-entre-lamine-yamal-y-raphinha",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRuc3UoKFn3Y8cNIwI-9GnI9bTP9JljZlOM2OWIZfB_1dCck93ieFn_exO0U"
     },
     {
       "termino": "juventus - venezia",
@@ -74,6 +67,13 @@
       "noticia": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
       "enlace": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlbPK-90PvcPD-fflJ0m3ZDGqTpUGuWQpAEdasyqfz4awElsIP3pRkfT8ZPLU"
+    },
+    {
+      "termino": "weather",
+      "trafico": "1000+",
+      "noticia": "Hartford Rain And Thanksgiving Winds",
+      "enlace": "https://hoodline.com/2026/11/hartford-rain-rolls-in-as-turkey-day-storm-looms/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCh5j7V78iO7AwFG1vfarjp4K-BQVURczm81UNvrjI6XbrKwtgkEvvzoARKdI"
     }
   ]
 }
