@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-21T23:43:58.927397-04:00",
-  "hora": "23:43",
+  "updated": "2026-11-21T23:54:22.293299-04:00",
+  "hora": "23:54",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "paolo bulgari",
+      "termino": "kings - celtics",
       "trafico": "100+",
+      "noticia": "Celtics look to snap two-game skid against Kings",
+      "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-two-game-skid-against-kings/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+    },
+    {
+      "termino": "paolo bulgari",
+      "trafico": "200+",
       "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
       "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
@@ -64,16 +71,9 @@
     {
       "termino": "inter miami - columbus crew",
       "trafico": "1000+",
-      "noticia": "Columbus Crew vs Inter Miami: Predictions, Picks, Odds   Lineups",
-      "enlace": "https://www.squawka.com/ca/news/mls/match-preview-columbus-crew-vs-inter-miami-11-27-26-mls/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOBGCmuNMC1oevUkAGOXnvIHh3bZbn44vzYQLBcJ3-e_hETmn_3uv5Nix_4Yg"
-    },
-    {
-      "termino": "higüey",
-      "trafico": "200+",
-      "noticia": "Reportan sismo de 4.6 grados al oeste de San Rafael de Yuma, en La Altagracia",
-      "enlace": "https://listindiario.com/la-republica/20261121/reportan-sismo-4-6-grados-oeste-san-rafael-yuma-altagracia_930998.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7wyKWoEUuFMw96-XqcTlHkk4UUQcrJwuWa_rn9oTbaisH0Wxg70P82HLix4"
+      "noticia": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "enlace": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIEMKPhRmuPRUi4BheGMq2rYWNiNJTpIIcDCkTiPVnNoTcP2b_2dC45LxlWc"
     }
   ]
 }
