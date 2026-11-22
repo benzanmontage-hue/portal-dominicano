@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-22T12:29:58.462324-04:00",
-  "hora": "12:29",
+  "updated": "2026-11-22T12:40:22.755003-04:00",
+  "hora": "12:40",
   "fecha": "22/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Boxing News: Pérez sorprende y vence a ¨Pretty Boy¨ Valdez en República Dominicana » November 22, 2026 - FightNews",
+      "fuente": "FightNews",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2Z3VjhHcm16blh0UnRscEF4U2hWeDNReWRWam1RTnR5UTJaeU5HUWkweEZRMVJCOXc0N2gtdFlCSVBJZ3pzUHh6dzlGTGNVZkE2Q0xXM1oyYTh6SkN0VTBfRGJkd21HUnMzUW9fanRpUmRrWXQ4akI3czFMQU9FQk8tWktYZ3dhMXIxaVZXajdZYkxoOTVaZlV6ZzhrTDhlbFZMTHd4a0JUejht?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 22 Nov 2026 16:38:15 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "República Dominicana: 43.8% de los hombres consultados admitió conductas violentas contra mujeres durante el último año - Infobae",
       "fuente": "Infobae",
@@ -85,6 +93,14 @@
       "imagen": ""
     },
     {
+      "titulo": "Venezuela derrota 9-6 a República Dominicana en el Panamericano de Béisbol Sub-12 - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2NYQjdYbkIwQmJJOGI2Z2pyRHliNmJfX2h4TTlOSng2LUZCTmdWOWtmUno4RUJET2dRU1lza0V4VW5Fc3YxQTd5TlJzS0xJX2ZuU0hJUUhKa2RYbWlPRWNXemwxTVlUanAwY3RMTGtxSm96X1RXVC1HWnk1VG5KTEF0YlhVZTlXS1JNUGpHdXZ1YnZYbUZRY3QzR2s3bjRJdjBOakpLLWUwMGl2WFdWS2JZN3NBc3J1WWN6bUtXeUdNZHNZcUHSAcsBQVVfeXFMTXhaSER5eHdlYkF1X2lkYTJoQkdHb0xoWUV5WWUzN1ZFSk1mbU41ZHlMdnpWUHRoeGQ0REcyeHNCSUt2YlB1M3VNVE5RUFhCX1lnMTZwQUJuSjd0T3lsTmR2T2ttUThldzNEd0RYeENOTjM2bFNiMHFRMmhGTktqa2o2NzVvYWM5X3NyWGxFZEJ0Nmd6Tk42ZHFGVk9kYXlxRDFvNHFaQTdRSHZ4VGRzMkNKUkNoTl91MnFuSjhXQll2NjdYNkVtTlhRYnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 20:49:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Dónde ver República Dominicana Sub17 vs Montenegro Sub17: canal y streaming - 365Scores",
       "fuente": "365Scores",
       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhlbmxtVm5XQnJLSVZzeHVqZE9VTWZtbkZzSXJEVUxvdWdXSXlFTFAtemtnSmVrQjVHdXRvVHotUmpFbVB5azZ5cnFxMzZuWVRPbXpndUZDSW5mbzc5QW02WDkycXdfY0IxZVZxVmdiZGpLR3Q1LXVtR3JpbWlRMA?oc=5",
@@ -93,20 +109,12 @@
       "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/photo_2026-11-21_03-48-29.jpg"
     },
     {
-      "titulo": "Cumbre Mundial de Gobiernos: Panamá mira al turismo y República Dominicana a la logística - Bloomberg Línea",
-      "fuente": "Bloomberg Línea",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXpya05HQjZMSDNUOGVVTUpYNUw3SmJZQ3VQS3BtRHRXbHBwUndOT1pkUFZaTU13Rjc2VXdvVXJiRWlKdXFGMy11VGR1Y2tTdzJaMC1TdTZWTHpSR3I3RjZobUE3RXZIWU9xUjFZaGxYRUZCNVVUblZjSnp0M2xlSlNzUGhBdldCN2gyU090MW9fQlFIemxJT2xqRXVzVV9obl9obFFpbWlLYjFhb1d0RFgwTVRJZmk2dVN3NzdiVEZoWGx5SHowSUwzSdIB3wFBVV95cUxPZE42UDlGWDFNMVlPajR1WW5mcVNEYjRfcy1zX25WTEZXTmYtUlhvR056MUlzeERIUU10NFVpR2VlV1FVYlUxRTRiQTVxQ3FZenpHZUlwY2hRNURQZ0J3SzZtM1hJLTU4eDM0dllkTjJPM2FydWdOREFCZTlhR0RHZGRvU3JPUW5lVDZyUUFKZ1NGTDJhUE5RS2ozRTVWWUJUMHdyV29OaDJqLWtIM0VWNjNDRmdyQkpQY3RmMHBaVUVLS3FwVWwwWDZ5MDBjTktFakJ4WC1fczFZTWJqOUpF?oc=5",
+      "titulo": "Cubana Mireya Luis recibe máxima distinción de voleibol en Dominicana - Cubainformación",
+      "fuente": "Cubainformación",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTRsWjdwSHZMZW5HQ0Vpb1QyWlprYUFwejZ0TjlteHhTM2dWYjdCNmxWUmctYnh3MUxYQzRmamF2X2NmOHM4VHdwY1ptblRBaHhTQWVsZksxZ2R2THJrMTdITHlRblM5N0ZjZ0pnSmpoTk1IVkFlVmZaOUpMd2ZnekRSWnVDTGtxdVA1MnNfUWJQNHVYdnVSUjRzNjEwb2M0aERSS2dldkRmdWNhNkg3czNCX1dFeDJhVFhaTGU3TEphSEZxV0lj?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 18:04:12 GMT",
-      "imagen": "https://www.bloomberglinea.com/resizer/v2/R6DZP4FPONDQ5JLDG7DA62MWOA.jpg?auth=57bdd3fd39f940688d5cdbe14ce22a61a17081b44f793406b707a7074ba3a3b0&width=1200&height=630&quality=80&smart=true"
-    },
-    {
-      "titulo": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026 - Clarin.com",
-      "fuente": "Clarin.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0QyeWs4Q0ZaazhTUzJNOENGcmkwNnVPZFo3U3NSUnBUeGpzNnVhSHJuTy1xTmU3YkR3Y3U4dlNuaXpVMFRxQmRQVWdVV0JLeUpBMlE5N3I2M0lNZ3YtUHhCN09NeHBNd3VldFVwZ1l6b2ZsTnN6VTZHM2FrUUhRb0VLNXU0LWp3c0k2STFBb0EycllObmlkaVY1TkJhc18xSkRuZnJ6MVNzeHVvYTdGSnVRU1FQc29IYTNyQnM0ZHNNZHFPQU0xSHVramczb3dnT1lKS0lLMUNJU2lVREppalJDQUN1cGPSAewBQVVfeXFMUDdabk5VNEVoM2V4Z250amtQRVR5RkpXUUREZDhZb1BYc2FTRndJRDNaXzZhTzU4MEFLdGtqeVB6VElhYmhhVEpaRkNDbEphYldRVGhsbWYzZlVjRVBxVkhRU284UjlkMFMwQ0pzSk1mcmlCSDBxNWk4YWFmcnNGbzVSZVJjU19QSm1fbExfZVg1LXNDSzU1UFRtTlZhVExrUjlTZS1pcDF1T1hsYW5kSkktZ2dDYXVpRnpjYmJBQ1V6UGRDYmVlR3R5QTJnamJ6LUpfTng4clY0Z0pKdkRCOEhBZHdFVDVaenE0V3M?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 10:45:06 GMT",
-      "imagen": "https://www.clarin.com/img/2022/01/19/P2ZVV0DA5_2000x1500__1.jpg"
+      "fecha": "Sun, 22 Nov 2026 15:49:54 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana registra 21 muertes y un salto del 93% en contagios de leptospirosis en lo que va de 2026 - Infobae",
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 03:36:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/UT4X7ZQCX5BMDMJKQLZHA4UI7I.png?auth=d89f37b81666a05021c411f1fdf4ce2cdc80d230e7a77ded7a34f275d7576bd1&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "La colombiana Caro Brito fue mencionada por presuntos pagos en investigación de narcotráfico en República Dominicana: estaría en el caso Rompeolas por pagos de un investigado - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPdEpodmlDSGxIS0U5TzEwalRxYzBJb3NaNG91X2FjZ0RBY2xDaGt4V3M4b05Fc1RnYWlpR3BxMFVnSkdfNmJhWGVWeGNjWE5ocU8yRjR2WVUxbXg0OE1CeWJhZmV4YVpvdEZTekJoSzV2ZDI2MWNjYmJGVXJxcG5CVFhWcFJlRDczOWh3VC1sMEQ4a2ZXS19mZkk4ZzkzejJESXcycVhCWnNQZzZMaVUtdTN2dzdNeG5meFlFcklCT2V0ZUxjWklIWmNMNzE5ZXluZDlIc19pNnU3TFVUTmFFWGIzRzBxRjBOR1R3N2V2LUlmdS1jOEZmU0xMWnpzSHItZlEzQWZ0eURUUHhrVXduSFlsdDhCNmQzOG9CRDBIRkllZU91a0FMcy1iZ19WVHIyVDRjNWdtdjZqRUFWaGU00gHaAkFVX3lxTFBRamNJQ2tkMUYxdHVfUV9WbUFsMXVOQmpfRXVsaVBCbFdVZ0hPVElNMEFjUlFCZVdGdm16cFZ4RlVWRmFsUE0wY0U5UWY5cE91YVRoZDliOXNpRUZFSnBqOFZGSmNfaWlhdXFFZC1kUWtpUjFyN3NuY2xiaGlXeWM5dkVsU3VMS2FPeG1nNjhNUEItWEQ4XzVzRVNZTDFDM3VsSkwtc0xEbEcwQlhtUEZvU1dsaWZndWdfWHV3RDJNMVpQbEo0YU1Kb2puMTVSdzNMaUZkREh5Nnhjb1dkanZEcU5VaUxtc2F4WlQta01SZF8yYThrWHI2NURXREZuNzQ4N3ZFVFZVLU0wdkkwVklVdmpWRjdNYS1sekRGNlM0Wk5iSDhXLU5mWGRDMG1ULW5sTFhPUnFGb0tMVENsZzBFejFXS3hCaVE0SWpaRHcxNzhKSzR2QXNrTGc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 15:06:00 GMT",
-      "imagen": ""
     }
   ]
 }
