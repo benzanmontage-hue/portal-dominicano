@@ -1,16 +1,37 @@
 {
-  "updated": "2026-11-22T08:30:45.240680-04:00",
-  "hora": "08:30",
+  "updated": "2026-11-22T08:41:04.391671-04:00",
+  "hora": "08:41",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "barcelona - villarreal",
+      "trafico": "500+",
+      "noticia": "Barcelona: posible alineación y probabilidades vs Villarreal",
+      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17540059/barcelona-vs-villarreal-alineacion-probabilidades-laliga",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyBW7Tk326GwIQTvh-86wB4r8477RoQXBxhkEPGGcL7Z4Pl6czwR9FiHKWM0"
+    },
+    {
+      "termino": "militar",
+      "trafico": "100+",
+      "noticia": "Soldados salvadoreños heridos en Haití son tratados a hospitales de RD; uno falleció",
+      "enlace": "https://listindiario.com/la-republica/20261121/soldados-heridos-salvador-son-tratados-rd_930995.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmUDrTj217m1lxgIbOtE924ap1cO8Ubn5ihewRuacRzajyTfg5WqKzKDl8n8"
+    },
+    {
       "termino": "météo",
       "trafico": "200+",
-      "noticia": "On est fatigué, (...) c est épuisant, stressant  : le désarroi des habitants du Pas-de-Calais après des inondations à répétition",
-      "enlace": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/on-est-fatigue-c-est-epuisant-stressant-le-desarroi-des-habitants-du-pas-de-calais-apres-des-inondations-a-repetition_8294126.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjnEfTWW_xv-L0AMLE44GPhhEOfb0ytITovidxCRE-bYwKBOA5xCgOTnbQVIQ"
+      "noticia": "Europe se prépare à un hiver rigoureux après un vortex polaire, les pompes à chaleur en renfort",
+      "enlace": "https://fr.euronews.com/2026/11/21/europe-se-prepare-a-un-hiver-rigoureux-apres-un-vortex-polaire-les-pompes-a-chaleur-en-ren",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY4AKpUXVk7BQ2EM5AI-XYn5mVnOnN7z9cYc_w2XBL1-25YjpR9HWbH8FosQ"
+    },
+    {
+      "termino": "luis gil",
+      "trafico": "100+",
+      "noticia": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
+      "enlace": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlbPK-90PvcPD-fflJ0m3ZDGqTpUGuWQpAEdasyqfz4awElsIP3pRkfT8ZPLU"
     },
     {
       "termino": "weather",
@@ -29,9 +50,9 @@
     {
       "termino": "kings - celtics",
       "trafico": "500+",
-      "noticia": "Game Recap: Kings 97, Celtics 96 (Nov. 21)",
-      "enlace": "https://www.nba.com/watch/video/game-recap-kings-97-celtics-96-nov-21",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSndsH24yi2vceELF6YsagkCK0r2ELcCLDZcrRv90JbJrKwjK2Mbga2ofr9ESE"
+      "noticia": "Kings edge Celtics on Keegan Murray putback to snap 8-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-on-keegan-murray-putback-to-snap-8-game-skid/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     },
     {
       "termino": "mavericks - clippers",
@@ -53,27 +74,6 @@
       "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
       "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5NzU",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ60X8oWEemU-Sjmbyts6hdm71_o9WE_4R_nUE_7bQjp5EDZSqtB9GhgrC945M"
-    },
-    {
-      "termino": "spurs - pelicans",
-      "trafico": "500+",
-      "noticia": "Wembanyama makes history in 18 minutes, finishes game with 50 points",
-      "enlace": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXqtsKYiL2ZY7-QeXuaEncWJIjo4jkZFAdFJ4uIzvxMcV2GLlWVR5vO50DJA"
-    },
-    {
-      "termino": "resultados de loteria",
-      "trafico": "200+",
-      "noticia": "Lotería Nacional: comprobar los resultados del sorteo de hoy, sábado 21 de noviembre",
-      "enlace": "https://as.com/actualidad/sorteos/loteria-nacional-hoy-en-directo-comprobar-los-resultados-del-sorteo-del-sabado-21-de-noviembre-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSleSjGz0WIJ0xs6D0Jn6OIEM2jWVuZqubdIGBjtNZdBgOdiulgLw1F_j860lw"
-    },
-    {
-      "termino": "miss universo 2026",
-      "trafico": "500+",
-      "noticia": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/21/melissa-nunez-recibe-ovacion-en-miss-universo-con-su-traje-tipico/3727922",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtC0Bi3ZlKd6O5GHrxFuThSNkVy5o-sOt67LhdhNqUY08HRNjUq7ZYBY-DI5E"
     }
   ]
 }
