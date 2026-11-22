@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T14:04:59.155704-04:00",
-  "hora": "14:04",
+  "updated": "2026-11-22T14:15:20.276172-04:00",
+  "hora": "14:15",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "milan - frosinone",
+      "trafico": "100+",
+      "noticia": "LIVE Milan-Frosinone 3-1 Serie A 2026/2027: Jashari cala il tris",
+      "enlace": "https://www.virgilio.it/sport/dirette/live/serie-a/22-11-2026/milan-frosinone/2638237/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYI9lGYLOsiB8G0uLMHRGzvTiJ4UxRuCTHUoHmFqdWaYXQzTh9h1YvvmbIiyI"
+    },
     {
       "termino": "carlos alcaraz",
       "trafico": "100+",
@@ -50,8 +57,8 @@
     {
       "termino": "tiempo",
       "trafico": "2000+",
-      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, domingo 22 de noviembre de 2026",
-      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-domingo-22-de-noviembre-de-2026-9794694.html",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, lunes 23 de noviembre de 2026?",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-pronostico-del-tiempo-manana-lunes-23-de-noviembre-de-2026-9794806.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
     },
     {
@@ -67,13 +74,6 @@
       "noticia": "Juve, primo tempo tra i fischi poi entra Woltemade e cambia tutto: 4-0 al Venezia",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/22-11-2026/live-juve-venezia-risultato-e-gol-in-diretta-serie-a.shtml",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKNJY_KxlA0vYLgq8lt_JV1f_wHNee57MzSsLFH8e43WdHIGTucMALkfm0Z9c"
-    },
-    {
-      "termino": "barcelona - villarreal",
-      "trafico": "10000+",
-      "noticia": "Barcelona 3-2 Villarreal: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHiz_T5GXXijODB1avWHudG8LYtiHnVB9RViAEglgVYet6RTXrWGN0JxR5Kk"
     }
   ]
 }
