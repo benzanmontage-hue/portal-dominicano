@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-22T19:06:34.079144-04:00",
-  "hora": "19:06",
+  "updated": "2026-11-22T19:16:54.369831-04:00",
+  "hora": "19:16",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lluvia",
+      "trafico": "100+",
+      "noticia": "¿Cómo estará el clima en las próximas 24 horas en la ciudad?",
+      "enlace": "https://villamariavivo.com/como-estara-el-clima-en-las-proximas-24-horas-en-la-ciudad/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoeONj1DtWi0YSDTvLhpHxa9j-9pAGX3C8MOW9dNGgEcDfm3bd_SphCVCv1Ww"
+    },
+    {
       "termino": "posiciones de getafe cf contra atlético de madrid",
       "trafico": "500+",
       "noticia": "Getafe 0-3 Atlético (Nov 22, 2026) Game Analysis",
       "enlace": "https://www.espn.com/soccer/report/_/gameId/401882803",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSbZ7zTz4xUtkc27UHebRnJzTMlrcS_E5K8-YF3MajElINg9OXg05bC_FfH_4"
-    },
-    {
-      "termino": "preliminar de miss universo 2026",
-      "trafico": "500+",
-      "noticia": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/21/melissa-nunez-recibe-ovacion-en-miss-universo-con-su-traje-tipico/3727922",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtC0Bi3ZlKd6O5GHrxFuThSNkVy5o-sOt67LhdhNqUY08HRNjUq7ZYBY-DI5E"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKevTzBAl2od1HX3hwITCaSJgb0zBPAb6KCTKWCi71kAC17XPogbYNXEG0fKQ"
     },
     {
       "termino": "tarik skubal",
       "trafico": "200+",
-      "noticia": "Skubal finished meeting with clubs; decision expected before Dec. 1",
-      "enlace": "https://www.mlb.com/news/tarik-skubal-negotiations-update",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Mc3Yj4SiqldefGGwWjXGbxdys8-VF76_OqGiTfOkogmbe0HGEphP3QPjLVk"
+      "noticia": "Skubal joining Mets for 9 years, $450M (source)",
+      "enlace": "https://www.mlb.com/news/tarik-skubal-mets-contract",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBwGt-A66xDpjDnsFSdLecMSomFDhLyLQc4NLxi2SoBJUpN9_8yv6zsA_wz8Q"
     },
     {
       "termino": "narcotraficante",
@@ -56,10 +56,10 @@
     },
     {
       "termino": "luis abinader",
-      "trafico": "500+",
-      "noticia": "Abinader entrega hospital, liceo y 1,200 títulos de propiedad",
-      "enlace": "https://elnacional.com.do/nacionales/abinader-entrega-hospital-liceo-1-200-titulos-propiedad_586916.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKdVxIpyQFRA-YjBS4MHccPqQWotJBCTwq1js6DJC0_s4M9vxOygVvvAcMB24"
+      "trafico": "1000+",
+      "noticia": "Gobierno lanza programa Navidad 360 para asistencia alimentaria",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/22/programa-navidad-360-lleva-asistencia-alimenticia-a-familias/3728337",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMkoOb3NEWwbFbvOMS--mqeMsGx9eNIevDImJ9oai69seJVaJSTwBeCftQoo"
     },
     {
       "termino": "atalanta - inter",
