@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T19:16:54.369831-04:00",
-  "hora": "19:16",
+  "updated": "2026-11-22T19:27:19.128148-04:00",
+  "hora": "19:27",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "heat - thunder",
+      "trafico": "200+",
+      "noticia": "Thunder Face Heat as Aday Mara Takes on Miami Frontcourt",
+      "enlace": "https://cwibc.co.id/en/thunder-heat-aday-mara-frontcourt-test",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr4cSxUqqKNKIlu0JFqCj9TVqbEv4ejvwknqBtWYKxNrVs5aCXSvOuYbSKS5A"
+    },
+    {
       "termino": "lluvia",
-      "trafico": "100+",
-      "noticia": "¿Cómo estará el clima en las próximas 24 horas en la ciudad?",
-      "enlace": "https://villamariavivo.com/como-estara-el-clima-en-las-proximas-24-horas-en-la-ciudad/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoeONj1DtWi0YSDTvLhpHxa9j-9pAGX3C8MOW9dNGgEcDfm3bd_SphCVCv1Ww"
+      "trafico": "1000+",
+      "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
     },
     {
       "termino": "posiciones de getafe cf contra atlético de madrid",
@@ -18,6 +25,13 @@
       "noticia": "Getafe 0-3 Atlético (Nov 22, 2026) Game Analysis",
       "enlace": "https://www.espn.com/soccer/report/_/gameId/401882803",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKevTzBAl2od1HX3hwITCaSJgb0zBPAb6KCTKWCi71kAC17XPogbYNXEG0fKQ"
+    },
+    {
+      "termino": "preliminar de miss universo 2026",
+      "trafico": "1000+",
+      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSVU08aQrXPDdWlD-HbTdQ5sQkMCKQc-DOfugDzCX_g-V30cxl7SmrOOE_jg"
     },
     {
       "termino": "tarik skubal",
@@ -28,7 +42,7 @@
     },
     {
       "termino": "narcotraficante",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "México asesta otro duro golpe al narco con la captura del Chapo Isidro",
       "enlace": "https://elpais.com/mexico/2026-11-22/mexico-asesta-otro-duro-golpe-al-narco-con-la-captura-del-chapo-isidro.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjzHzj8SGhuca0w6Zvghw1H2HHqo42VL8vu7MFaKRY8fbjSxjx6k7orWCQxJw"
@@ -41,17 +55,10 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSski5VrN3HdP41De03Qo7yZIhtNxG2MAvivHdzNB6KqoyVAyvFKQKLFObZ5e8"
     },
     {
-      "termino": "vaguada",
-      "trafico": "500+",
-      "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
-    },
-    {
       "termino": "hawks - pistons",
       "trafico": "500+",
-      "noticia": "Surging Hawks host Cade Cunningham and Pistons in East clash",
-      "enlace": "https://www.cbssports.com/nba/news/surging-hawks-host-cade-cunningham-and-pistons-in-east-clash/",
+      "noticia": "Hawks spark 18-0 run in fourth quarter to rally past Pistons",
+      "enlace": "https://www.cbssports.com/nba/news/hawks-spark-18-0-run-in-fourth-quarter-to-rally-past-pistons/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     },
     {
@@ -67,13 +74,6 @@
       "noticia": "Inter, chi di rimonta ferisce... pari Atalanta su rigore al 91 , Chivu è a -3 dalla Lazio",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/22-11-2026/atalanta-inter-live-serie-a-risultato-e-gol-in-diretta.shtml",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQddAN9NL342_6ZB_1CEzoQNsgB3O2mS4lNQHZKubn1u8KRqY0_Q6hCkXa2IgY"
-    },
-    {
-      "termino": "getafe - atlético madrid",
-      "trafico": "2000+",
-      "noticia": "Dónde ver Getafe vs Atlético de Madrid: Hora y canal TV para Obed Vargas en LaLiga 2026",
-      "enlace": "https://www.marca.com/mx/futbol/mexicanos-mundo/2026/11/22/ver-getafe-vs-atletico-madrid-hora-canal-tv-obed-vargas-laliga-2026.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH59Aq3hjI1JgqGLJObKp5feYY1E0Q_rm0H8EXKHO7v-ntvO2Xd8V1odxb3No"
     }
   ]
 }
