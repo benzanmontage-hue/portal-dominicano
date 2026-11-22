@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T12:50:54-04:00",
+ "actualizado": "2026-11-22T13:01:15-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -1050,6 +1050,14 @@
    }
   ],
   "Anguila|Anguila 1:00 PM": [
+   {
+    "fecha": "2026-11-22",
+    "numeros": [
+     "46",
+     "32",
+     "38"
+    ]
+   },
    {
     "fecha": "2026-11-21",
     "numeros": [
@@ -10702,6 +10710,15 @@
   ],
   "Loteria Real|Loto Pool": [
    {
+    "fecha": "2026-11-22",
+    "numeros": [
+     "71",
+     "33",
+     "65",
+     "61"
+    ]
+   },
+   {
     "fecha": "2026-11-21",
     "numeros": [
      "77",
@@ -12351,6 +12368,12 @@
    }
   ],
   "Loteria Real|Tu Fecha Real": [
+   {
+    "fecha": "2026-11-22",
+    "numeros": [
+     "04"
+    ]
+   },
    {
     "fecha": "2026-11-21",
     "numeros": [
