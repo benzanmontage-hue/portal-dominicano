@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T10:05:09.488673-04:00",
-  "hora": "10:05",
+  "updated": "2026-11-22T10:15:28.941868-04:00",
+  "hora": "10:15",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "FIS Alpine Ski World Cup - Men s Slalom",
       "enlace": "https://www.reutersconnect.com/item/fis-alpine-ski-world-cup-mens-slalom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0xMUhRVTk",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2z4SFosFw2mUPYamuCWyO8YbwURLHBiRwVRNOr94TjXuZ-fFCZyf2cbkks_k"
+    },
+    {
+      "termino": "la liga",
+      "trafico": "5000+",
+      "noticia": "Carlos Espí define su gol ante el Celta como el  más especial",
+      "enlace": "https://www.espn.com.do/futbol/nota/_/id/17545557/carlos-espi-gol-celta-real-madrid",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAwayazjUA9uSCDwru2kQYswuApf1THXJd4Xa_q82U6UuRRDbYXoxP37ZB4xo"
     },
     {
       "termino": "tiempo",
@@ -64,16 +71,9 @@
     {
       "termino": "weather",
       "trafico": "1000+",
-      "noticia": "Thanksgiving travel weather: Coastal storms and Midwest rain",
-      "enlace": "https://weather.com/2026/11/21/holiday/thanksgiving/video/thanksgiving-travel-coastal-storm-southeast-northeast-airport-delays",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSroMR9bfe9EiYAGjQ9Js1HcGXOa_HZtw4BKQRFokhuNl_xtYrMYwnA6V1XZBw"
-    },
-    {
-      "termino": "f1",
-      "trafico": "200+",
-      "noticia": "‘So far below my level  – Verstappen responds to Russell comments in Las Vegas as rivalry reignites",
-      "enlace": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmmf9H_kpsHY46tr5oPZOZJrS7iLQ1dKTKMMxPhN86VIz-otFPv-imuxZmFqs"
+      "noticia": "Weather Of The World: November 22",
+      "enlace": "https://weather.com/2026/11/22/news/weather-of-the-world-november-22",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSykLTg3rZxQf1DHZ49LOqhWHCooDIfC8hdqMK4gl54h0ENozHU_jRiHiz0oAQ"
     }
   ]
 }
