@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T08:10:01.314789-04:00",
-  "hora": "08:10",
+  "updated": "2026-11-22T08:20:25.970968-04:00",
+  "hora": "08:20",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "météo",
+      "trafico": "200+",
+      "noticia": "On est fatigué, (...) c est épuisant, stressant  : le désarroi des habitants du Pas-de-Calais après des inondations à répétition",
+      "enlace": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/on-est-fatigue-c-est-epuisant-stressant-le-desarroi-des-habitants-du-pas-de-calais-apres-des-inondations-a-repetition_8294126.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjnEfTWW_xv-L0AMLE44GPhhEOfb0ytITovidxCRE-bYwKBOA5xCgOTnbQVIQ"
+    },
+    {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Drier conditions help to reduce rain chances Saturday night and Sunday",
-      "enlace": "https://www.gulfcoastnewsnow.com/article/ft-myers-sunday-forecast-drier-air-lowers-rain-chances/74498297",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDZV4RfeP0I6qh437hKvMMJ8t4RN00C3AVvIl_9awHDPcxF_-IpIS11YltWo"
+      "noticia": "Break out the winter coat: Highs only hitting the 30s much of this week",
+      "enlace": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFyrMJWC_8GHz6gyT1DOq_AwhGldAxWfjX8mohDayUT_dW2j_vFRIpz59PvrY"
     },
     {
       "termino": "f1",
@@ -22,16 +29,16 @@
     {
       "termino": "kings - celtics",
       "trafico": "500+",
-      "noticia": "Kings edge Celtics to snap 8-game skid on Keegan Murray s putback",
-      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-to-snap-8-game-skid-on-keegan-murrays-putback/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+      "noticia": "Game Recap: Kings 97, Celtics 96 (Nov. 21)",
+      "enlace": "https://www.nba.com/watch/video/game-recap-kings-97-celtics-96-nov-21",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSndsH24yi2vceELF6YsagkCK0r2ELcCLDZcrRv90JbJrKwjK2Mbga2ofr9ESE"
     },
     {
       "termino": "mavericks - clippers",
       "trafico": "200+",
-      "noticia": "Clippers Fade Late Again in Dallas as Their Fourth-Quarter Problem Grows",
-      "enlace": "https://www.thesportingtribune.com/2026/11/21/clippers-fade-late-again-dallas-fourth-quarter-problem-grows",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxbeTDuiNjqrLdI_zMXJoEjJvwdfQtK1VDYHL-jYGULEeeHGBIqkpl2KnT45E"
+      "noticia": "NBA: Los Angeles Clippers at Dallas Mavericks",
+      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-dallas-mavericks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjA5Mzc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe60Gzc9N-WIUUZyF0nKymPr0YHjD2UgAxmMOMyHYSroSaFQo_iU6WaTt0kZg"
     },
     {
       "termino": "paolo bulgari",
@@ -44,8 +51,8 @@
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
       "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
-      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5ODg",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSERvvq4HJ7z1Wjh9vbGGFnqcJu8h88NVcXmlKaV3nMmnv97BITTJsZnzYH9hc"
+      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5NzU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ60X8oWEemU-Sjmbyts6hdm71_o9WE_4R_nUE_7bQjp5EDZSqtB9GhgrC945M"
     },
     {
       "termino": "spurs - pelicans",
@@ -67,13 +74,6 @@
       "noticia": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/21/melissa-nunez-recibe-ovacion-en-miss-universo-con-su-traje-tipico/3727922",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtC0Bi3ZlKd6O5GHrxFuThSNkVy5o-sOt67LhdhNqUY08HRNjUq7ZYBY-DI5E"
-    },
-    {
-      "termino": "weather tomorrow",
-      "trafico": "1000+",
-      "noticia": "Azerbaijan weather forecast for November 23",
-      "enlace": "https://report.az/en/ecology/azerbaijan-weather-forecast-for-november-232026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LoSQoft_5Q6YD8MhIVSrM8_42w3kO5zc6x_hUjiu9ILiSbHKQcHdIeFVl7s"
     }
   ]
 }
