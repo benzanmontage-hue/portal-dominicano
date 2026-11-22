@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T17:42:24.349091-04:00",
-  "hora": "17:42",
+  "updated": "2026-11-22T17:52:43.817135-04:00",
+  "hora": "17:52",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "narcotraficante",
+      "trafico": "100+",
+      "noticia": "Quién es el Chapo Isidro, el cabecilla criminal de los Beltrán Leyva detenido en Sinaloa con ayuda de EE.UU.",
+      "enlace": "https://cnnespanol.cnn.com/2026/11/21/mexico/quien-es-chapo-isidro-detenido-beltran-leyva-sinaloa-eeuu-orix",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9ot25-pt_duC0Tx1nYR6RpFPi-nrdjWPBPMg-QHvNIyWczgOUFlOojaS4YrE"
+    },
     {
       "termino": "cuba",
       "trafico": "100+",
@@ -36,7 +43,7 @@
     {
       "termino": "atalanta - inter",
       "trafico": "200+",
-      "noticia": "LIVE Atalanta-Inter 3-4: ancora CDK, poi Martinez salva tutto su Pasalic!",
+      "noticia": "Incredibile 4-4 a Bergamo: tris di Pio, poi CDK e Kessie rimontano l Inter",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/22-11-2026/atalanta-inter-live-serie-a-risultato-e-gol-in-diretta.shtml",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQddAN9NL342_6ZB_1CEzoQNsgB3O2mS4lNQHZKubn1u8KRqY0_Q6hCkXa2IgY"
     },
@@ -64,16 +71,9 @@
     {
       "termino": "carlos alcaraz",
       "trafico": "200+",
-      "noticia": "Operativo N°1: así quedó el ranking mundial tras el título de Alcaraz ante Zverev en las ATP Finals 2026",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548796/operativo-numero-uno-asi-quedo-el-ranking-mundial-tras-el-titulo-de-alcaraz-ante-zverev-en-las-atp-finals-2026-sinner",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrtS1H1xIqEbJKcHICJP9jqp6sIaWf0GW0Espnvwbi9tRxKgJfAAbER81OqkI"
-    },
-    {
-      "termino": "arresto",
-      "trafico": "100+",
-      "noticia": "Revenge porn: minacce all ex dopo una relazione a distanza, arrestato un uomo",
-      "enlace": "https://www.rainews.it/tgr/calabria/articoli/2026/11/revenge-porn-minacce-allex-dopo-una-relazione-a-distanza-arrestato-un-uomo-a70112fc-0aac-4bb9-908e-e3a0511c67a8.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTneRAU2au7Uev1H97BiJ_2F87J0bwDcVrlDcKClTnXXITCuIoy4RCU6VP8ekc"
+      "noticia": "Con el título de Carlos Alcaraz, así quedó el listado de máximos ganadores de las ATP Finals",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548594/asi-quedo-el-listado-de-maximas-ganadoras-de-las-atp-finals-djokovic-federer-lendl-sampras-nastase-sinner-alcaraz-zverev",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToprCho8SMTX8k_283QmQKZA6fhTs88a9LjpgZPVIveS3MevUjI4DpE027YQQ"
     }
   ]
 }
