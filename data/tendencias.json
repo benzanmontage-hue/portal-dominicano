@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T22:41:02.579594-04:00",
-  "hora": "22:41",
+  "updated": "2026-11-21T22:51:19.695117-04:00",
+  "hora": "22:51",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "paolo bulgari",
+      "trafico": "100+",
+      "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
+      "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
+    },
     {
       "termino": "timberwolves - grizzlies",
       "trafico": "100+",
@@ -35,7 +42,7 @@
     },
     {
       "termino": "miss universo 2026",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Estoy viviendo esto con tanta ilusión , dice Melissa Núñez, Miss Universo RD, rumbo a la final",
       "enlace": "https://listindiario.com/entretenimiento/20261121/viviendo-esto-tanta-ilusion-dice-melissa-nunez-miss-universo-rd-rumbo-final_930999.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvP8Sz7qQltERt-qNNPA8Z87MU73oKZcp-Vd0xLrmsh0nZtwT7qLTCq77tR9M"
@@ -67,13 +74,6 @@
       "noticia": "Reportan sismo de 4.6 grados al oeste de San Rafael de Yuma, en La Altagracia",
       "enlace": "https://listindiario.com/la-republica/20261121/reportan-sismo-4-6-grados-oeste-san-rafael-yuma-altagracia_930998.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd7wyKWoEUuFMw96-XqcTlHkk4UUQcrJwuWa_rn9oTbaisH0Wxg70P82HLix4"
-    },
-    {
-      "termino": "atlético mineiro - boca juniors",
-      "trafico": "500+",
-      "noticia": "LIVE: Atlético Mineiro vs Boca Juniors | Copa Sudamericana Final",
-      "enlace": "https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/live-atl%C3%A9tico-mineiro-vs-boca-juniors-copa-sudamericana-final-2026-11-21",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCqhaj5UxFbwiiMpA5sSa2_hYUja7l_t_BbGztLJlWDJSytGiPCQtv_rZyVaM"
     }
   ]
 }
