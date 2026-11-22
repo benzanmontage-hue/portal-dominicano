@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T09:23:45.074757-04:00",
-  "hora": "09:23",
+  "updated": "2026-11-22T09:34:04.913167-04:00",
+  "hora": "09:34",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tiempo",
+      "trafico": "1000+",
+      "noticia": "De qué manera la Inteligencia Artificial facilita los ciberataques",
+      "enlace": "https://acento.com.do/rfi/de-que-manera-la-inteligencia-artificial-facilita-los-ciberataques-9794346.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPa1s_oO_Ze7agZpAnNCIrlscB2GNDWZPOlkc-zlM2g9SNzkQgSuA52oxqA"
+    },
     {
       "termino": "juventus - venezia",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "militar",
       "trafico": "100+",
-      "noticia": "Soldados salvadoreños heridos en Haití son tratados a hospitales de RD; uno falleció",
-      "enlace": "https://listindiario.com/la-republica/20261121/soldados-heridos-salvador-son-tratados-rd_930995.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmUDrTj217m1lxgIbOtE924ap1cO8Ubn5ihewRuacRzajyTfg5WqKzKDl8n8"
+      "noticia": "Tres helicópteros militares de El Salvador aterrizan nuevamente en fortaleza El Rodeo de Jimaní",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCKR3be0_7ZuymB0EoIc7Klud_TQPpXRm8s6aKsyRk7KaH3d2xxGm7gTxh_w0"
     },
     {
       "termino": "météo",
@@ -57,9 +64,9 @@
     {
       "termino": "weather",
       "trafico": "1000+",
-      "noticia": "Weather Impact: Coastal Storm Takes Aim at North Carolina for Thanksgiving",
-      "enlace": "https://www.wfmynews2.com/article/weather/weather-impact/weather-impact-thanksgiving-coastal-low-storm-wet-rain-wind-northeast-cold-chilly-holiday-north-carolina-piedmont-triad/83-631b97f9-083b-430a-9f2b-ed64ee7417ab",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNibkyGH6BGHNEnEDUye9Z5Vcbc9b-qcPWk9I23OG2GaaGi87ZWbkghLsbsqE"
+      "noticia": "East Coast storm could soak millions this weekend",
+      "enlace": "https://weather.com/2026/11/22/forecast/regional/east-coast-storm-coastal-flooding-winds-rain",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqFQ4Duox39G2o8beTI10uyme2NancIDsi_Tv6m9nmtjv0w-29co_j0C9cQ7o"
     },
     {
       "termino": "f1",
@@ -67,13 +74,6 @@
       "noticia": "Las Vegas GP: Max Verstappen wins wild race as Ferrari s Lewis Hamilton and Charles Leclerc collide again",
       "enlace": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVYg2zG4drmsVi9ETHsWn6k1m6HmoRVp5X2Pim4KaJSqS1L4xnXVpOj7EZ9k"
-    },
-    {
-      "termino": "kings - celtics",
-      "trafico": "500+",
-      "noticia": "Kings edge Celtics on Keegan Murray putback to snap 8-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-on-keegan-murray-putback-to-snap-8-game-skid/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     }
   ]
 }
