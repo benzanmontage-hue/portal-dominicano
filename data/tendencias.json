@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-22T18:14:40.836616-04:00",
-  "hora": "18:14",
+  "updated": "2026-11-22T18:25:10.374920-04:00",
+  "hora": "18:25",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de getafe cf contra atlético de madrid",
+      "trafico": "200+",
+      "noticia": "Getafe vs Atlético Madrid: Spanish La Liga stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/cwgkljjrp285t",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "preliminar de miss universo 2026",
+      "trafico": "500+",
+      "noticia": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación",
+      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/21/melissa-nunez-recibe-ovacion-en-miss-universo-con-su-traje-tipico/3727922",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtC0Bi3ZlKd6O5GHrxFuThSNkVy5o-sOt67LhdhNqUY08HRNjUq7ZYBY-DI5E"
+    },
     {
       "termino": "tarik skubal",
       "trafico": "100+",
@@ -14,17 +28,17 @@
     },
     {
       "termino": "narcotraficante",
-      "trafico": "100+",
-      "noticia": "EE. UU. levanta alerta de seguridad en el mexicano Sinaloa tras detención de El Chapo Isidro",
-      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/21/alerta-seguridad-sinaloa-tras-captura-de-el-chapo-isidro/3727963",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn5BED7KC1GtJ0PuW3ZOiiCUouL5NC_Jjh282ObavV6VoBryJCg55Uq9zioJI"
+      "trafico": "200+",
+      "noticia": "México asesta otro duro golpe al narco con la captura del Chapo Isidro",
+      "enlace": "https://elpais.com/mexico/2026-11-22/mexico-asesta-otro-duro-golpe-al-narco-con-la-captura-del-chapo-isidro.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjzHzj8SGhuca0w6Zvghw1H2HHqo42VL8vu7MFaKRY8fbjSxjx6k7orWCQxJw"
     },
     {
       "termino": "cuba",
       "trafico": "100+",
-      "noticia": "Cuban baseball player flees to Brazil, dreams of MLB career",
-      "enlace": "https://www.usatoday.com/videos/news/2026/11/22/cuban-baseball-player-flees-to-brazil-dreams-of-mlb-career/92842209007/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwLeZZHVz2ua6IZBm5jF1N_W4_fPWtfLN_MsDuloB6Eh96gkOqzHXKaIfx7c"
+      "noticia": "He fled Cuba to avoid US bombs. Baseball gave him a way out",
+      "enlace": "https://www.usatoday.com/story/news/world/2026/11/22/cuban-baseball-player-fled-brazil-escape-threat-us-military-attack/92630271007/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSski5VrN3HdP41De03Qo7yZIhtNxG2MAvivHdzNB6KqoyVAyvFKQKLFObZ5e8"
     },
     {
       "termino": "vaguada",
@@ -60,20 +74,6 @@
       "noticia": "Getafe - Atlético de Madrid, en directo: LaLiga EA Sports, en vivo hoy",
       "enlace": "https://as.com/futbol/primera/getafe-atletico-de-madrid-en-directo-laliga-ea-sports-en-vivo-hoy-f202611-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC2e8tiqQee9B_77dGaX3EoGGCQwSphdezldN5udQd1DzuHm9gh5MXpRjJilk"
-    },
-    {
-      "termino": "operación rompeolas caro brito",
-      "trafico": "1000+",
-      "noticia": "Ministerio Público solicita prisión preventiva contra 22 personas arrestadas durante la Operación Rompeolas",
-      "enlace": "https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-22-personas-arrestadas-durante-la-operacion-rompeolas/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzTnCAEjCGUWLoecRVnyOkGHm7BXbAHtzXOhDE4rVPZLalTeEUq1XcuzFHLz0"
-    },
-    {
-      "termino": "milan - frosinone",
-      "trafico": "200+",
-      "noticia": "Milan, è la festa del contropiede: 5-1 al Frosinone, Amorim torna quarto. Ramos si sblocca",
-      "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/22-11-2026/milan-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQivRcmVZo7GzTHEZQzTt1PFy1coxFBgogd11PMzeb5tc4YnLUrEl-1VplWwI"
     }
   ]
 }
