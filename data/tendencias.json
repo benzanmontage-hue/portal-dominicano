@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-22T09:13:23.705147-04:00",
-  "hora": "09:13",
+  "updated": "2026-11-22T09:23:45.074757-04:00",
+  "hora": "09:23",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "juventus - venezia",
+      "trafico": "100+",
+      "noticia": "Juve-Venezia, Zhegrova e Celik dal 1",
+      "enlace": "https://sport.sky.it/calcio/serie-a/video/2026/11/22/juve-venezia-formazioni-ufficiali-1141904",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9QxmtZSLE0YIQXXKL3SkRUibAUEDv-pRUKDYjdfXpFIYBAcC6_mv-fs2_q4o"
+    },
+    {
+      "termino": "operación rompeolas",
+      "trafico": "500+",
+      "noticia": "Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
+    },
     {
       "termino": "clima santo domingo",
       "trafico": "2000+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "barcelona - villarreal",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Barcelona: posible alineación y probabilidades vs Villarreal",
       "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17540059/barcelona-vs-villarreal-alineacion-probabilidades-laliga",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYyBW7Tk326GwIQTvh-86wB4r8477RoQXBxhkEPGGcL7Z4Pl6czwR9FiHKWM0"
@@ -50,9 +64,9 @@
     {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "F1 - 2026 Las Vegas Grand Prix Post-Race Press Conference Transcript",
-      "enlace": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-post-race-press-conference-transcript",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAhWfXzmi74x8MnsVQ5O37PofL92u44Zm-InwUewoJN826lVQQRfMgdqfUaZA"
+      "noticia": "Las Vegas GP: Max Verstappen wins wild race as Ferrari s Lewis Hamilton and Charles Leclerc collide again",
+      "enlace": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVYg2zG4drmsVi9ETHsWn6k1m6HmoRVp5X2Pim4KaJSqS1L4xnXVpOj7EZ9k"
     },
     {
       "termino": "kings - celtics",
@@ -60,20 +74,6 @@
       "noticia": "Kings edge Celtics on Keegan Murray putback to snap 8-game skid",
       "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-on-keegan-murray-putback-to-snap-8-game-skid/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
-    },
-    {
-      "termino": "mavericks - clippers",
-      "trafico": "200+",
-      "noticia": "NBA: Los Angeles Clippers at Dallas Mavericks",
-      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-dallas-mavericks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjA5Mzc",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe60Gzc9N-WIUUZyF0nKymPr0YHjD2UgAxmMOMyHYSroSaFQo_iU6WaTt0kZg"
-    },
-    {
-      "termino": "paolo bulgari",
-      "trafico": "100+",
-      "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
-      "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
     }
   ]
 }
