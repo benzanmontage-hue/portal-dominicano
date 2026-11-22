@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T18:04:10.736760-04:00",
-  "hora": "18:04",
+  "updated": "2026-11-22T18:14:40.836616-04:00",
+  "hora": "18:14",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "tarik skubal",
+      "trafico": "100+",
+      "noticia": "Skubal finished meeting with clubs; decision expected before Dec. 1",
+      "enlace": "https://www.mlb.com/news/tarik-skubal-negotiations-update",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo-vK-vckU14mhvnXK3uhTEwNPESu14ayM7ZJk7eVg9oKxtc9fJ1AQJ6kWB8I"
+    },
+    {
       "termino": "narcotraficante",
       "trafico": "100+",
-      "noticia": "Quién es el Chapo Isidro, el cabecilla criminal de los Beltrán Leyva detenido en Sinaloa con ayuda de EE.UU.",
-      "enlace": "https://cnnespanol.cnn.com/2026/11/21/mexico/quien-es-chapo-isidro-detenido-beltran-leyva-sinaloa-eeuu-orix",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9ot25-pt_duC0Tx1nYR6RpFPi-nrdjWPBPMg-QHvNIyWczgOUFlOojaS4YrE"
+      "noticia": "EE. UU. levanta alerta de seguridad en el mexicano Sinaloa tras detención de El Chapo Isidro",
+      "enlace": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/21/alerta-seguridad-sinaloa-tras-captura-de-el-chapo-isidro/3727963",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn5BED7KC1GtJ0PuW3ZOiiCUouL5NC_Jjh282ObavV6VoBryJCg55Uq9zioJI"
     },
     {
       "termino": "cuba",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "vaguada",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
       "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
@@ -42,17 +49,17 @@
     },
     {
       "termino": "atalanta - inter",
-      "trafico": "200+",
-      "noticia": "Incredibile 4-4 a Bergamo: tris di Pio, poi CDK e Kessie rimontano l Inter",
+      "trafico": "500+",
+      "noticia": "Inter, chi di rimonta ferisce... pari Atalanta su rigore al 91 , Chivu è a -3 dalla Lazio",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/22-11-2026/atalanta-inter-live-serie-a-risultato-e-gol-in-diretta.shtml",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQddAN9NL342_6ZB_1CEzoQNsgB3O2mS4lNQHZKubn1u8KRqY0_Q6hCkXa2IgY"
     },
     {
       "termino": "getafe - atlético madrid",
       "trafico": "2000+",
-      "noticia": "Getafe - Atlético, en directo | Última hora de LaLiga EA Sports hoy en vivo",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/getafe-atletico/2026/11/22/01_0101_20261122_1450_175-directo.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxL3g10cZd4oGpu36mIlwOJSHEZdMnOlNa4b8PV5jHtDSZse7_qCwqD26XWO4"
+      "noticia": "Getafe - Atlético de Madrid, en directo: LaLiga EA Sports, en vivo hoy",
+      "enlace": "https://as.com/futbol/primera/getafe-atletico-de-madrid-en-directo-laliga-ea-sports-en-vivo-hoy-f202611-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC2e8tiqQee9B_77dGaX3EoGGCQwSphdezldN5udQd1DzuHm9gh5MXpRjJilk"
     },
     {
       "termino": "operación rompeolas caro brito",
@@ -64,16 +71,9 @@
     {
       "termino": "milan - frosinone",
       "trafico": "200+",
-      "noticia": "Milan, è la festa del contropiede: 5-1 al Frosinone, Amorim torna quarto. Ramos, gol e polemica",
+      "noticia": "Milan, è la festa del contropiede: 5-1 al Frosinone, Amorim torna quarto. Ramos si sblocca",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Milan/22-11-2026/milan-frosinone-live-risultato-e-gol-in-diretta-serie-a.shtml",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQivRcmVZo7GzTHEZQzTt1PFy1coxFBgogd11PMzeb5tc4YnLUrEl-1VplWwI"
-    },
-    {
-      "termino": "carlos alcaraz",
-      "trafico": "200+",
-      "noticia": "Con el título de Carlos Alcaraz, así quedó el listado de máximos ganadores de las ATP Finals",
-      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548594/asi-quedo-el-listado-de-maximas-ganadoras-de-las-atp-finals-djokovic-federer-lendl-sampras-nastase-sinner-alcaraz-zverev",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToprCho8SMTX8k_283QmQKZA6fhTs88a9LjpgZPVIveS3MevUjI4DpE027YQQ"
     }
   ]
 }
