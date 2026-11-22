@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-22T13:44:10.046856-04:00",
-  "hora": "13:44",
+  "updated": "2026-11-22T13:54:40.132653-04:00",
+  "hora": "13:54",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "carlos alcaraz",
+      "trafico": "100+",
+      "noticia": "No creo que Zverev haya mejorado : la llamativa declaración de Medvedev tras quedar eliminado de las ATP Finals 2026",
+      "enlace": "https://espndeportes.espn.com/tenis/nota/_/id/17548199/no-creo-que-zverev-haya-mejorado-la-llamativa-declaracion-de-medvedev-tras-quedar-eliminado-de-las-atp-finals-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYl69Odzq72Pl6kzLRkeilfQh8Xru68GTZBBRPcWu4DxibTiY8vUk58vXS1tk"
+    },
+    {
+      "termino": "real de hoy",
+      "trafico": "1000+",
+      "noticia": "Racing 3-2 Real Sociedad: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/primera/racing-real-sociedad-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUidtxFYEe8sxdpJj9l-tgswLsh5J1oTwfwwy-1Z-DnUeakMi_IyHofiSuGq8"
+    },
+    {
       "termino": "primera de la 12",
       "trafico": "200+",
-      "noticia": "El Ibiza destroza al Huesca y desata una crisis en El Alcoraz",
-      "enlace": "https://as.com/futbol/primera-rfef/el-ibiza-destroza-al-huesca-y-desata-una-crisis-en-el-alcoraz-f202611-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn11NCJsJGUM5erTajrxRfKNppf6ZVTh9F9nCUtM0J5sIgycB1nf4ycXpjDrg"
+      "noticia": "Segunda RFEF Grupo 5: resultados, partidos y clasificación de la jornada 12",
+      "enlace": "https://as.com/futbol/mas_futbol/segunda-rfef-grupo-5-resultados-partidos-y-clasificacion-de-la-jornada-12-f202611-n/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJudexyIFvaSH6X3HEHR_oQ7c3EVCo2yZhqzcQTzhcHC0W_HvY0gvRuIDmzY"
     },
     {
       "termino": "liverpool - manchester united",
@@ -60,20 +74,6 @@
       "noticia": "Barcelona 3-2 Villarreal: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHiz_T5GXXijODB1avWHudG8LYtiHnVB9RViAEglgVYet6RTXrWGN0JxR5Kk"
-    },
-    {
-      "termino": "militar",
-      "trafico": "500+",
-      "noticia": "Fleet modernisation amid crisis. Two new ships flying the Russian flag",
-      "enlace": "https://defence24.com/armed-forces/fleet-modernisation-amid-crisis-two-new-ships-flying-the-russian-flag",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsjiXpNBAYNEJPxlU5UQUSRB2SwMNYnWjPoQ6Ses1KuuGwlyazrMlvpbdSwE"
-    },
-    {
-      "termino": "météo",
-      "trafico": "500+",
-      "noticia": "Météo week-end : une fin novembre dans le froid",
-      "enlace": "https://actualite.lachainemeteo.com/actualite-meteo/2026-09-28/meteo-week-end-une-fin-novembre-dans-le-froid-92722",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjl8tcn4O9WdvLLFMzzKTqi36CJjEaXUtIzFg22HSv2S7ElfJ3qZg4Xp31-R4"
     }
   ]
 }
