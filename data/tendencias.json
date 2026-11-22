@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T09:54:45.800434-04:00",
-  "hora": "09:54",
+  "updated": "2026-11-22T10:05:09.488673-04:00",
+  "hora": "10:05",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "laliga",
+      "trafico": "100+",
+      "noticia": "FIS Alpine Ski World Cup - Men s Slalom",
+      "enlace": "https://www.reutersconnect.com/item/fis-alpine-ski-world-cup-mens-slalom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0xMUhRVTk",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2z4SFosFw2mUPYamuCWyO8YbwURLHBiRwVRNOr94TjXuZ-fFCZyf2cbkks_k"
+    },
     {
       "termino": "tiempo",
       "trafico": "2000+",
@@ -36,16 +43,16 @@
     {
       "termino": "militar",
       "trafico": "200+",
-      "noticia": "Soldados salvadoreños heridos en Haití son tratados a hospitales de RD; uno falleció",
-      "enlace": "https://listindiario.com/la-republica/20261121/soldados-heridos-salvador-son-tratados-rd_930995.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmUDrTj217m1lxgIbOtE924ap1cO8Ubn5ihewRuacRzajyTfg5WqKzKDl8n8"
+      "noticia": "Tres helicópteros militares de El Salvador aterrizan nuevamente en fortaleza El Rodeo de Jimaní",
+      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCKR3be0_7ZuymB0EoIc7Klud_TQPpXRm8s6aKsyRk7KaH3d2xxGm7gTxh_w0"
     },
     {
       "termino": "météo",
       "trafico": "500+",
-      "noticia": "Prévisions météo du dimanche 22 novembre 2026 à Marseille",
-      "enlace": "https://www.20minutes.fr/planete/previsions-meteo/4264716-20261122-meteo-marseille-previsions-dimanche-22-novembre-2026",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1gQaLk5A4B2qP4_Ly_uklO-W3eCy6aJocB3IA1QB-O0FbYFclPdysR5zYJ_o"
+      "noticia": "Europe se prépare à un hiver rigoureux après un vortex polaire, les pompes à chaleur en renfort",
+      "enlace": "https://fr.euronews.com/2026/11/21/europe-se-prepare-a-un-hiver-rigoureux-apres-un-vortex-polaire-les-pompes-a-chaleur-en-ren",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_VbneH79dahDj_q-Ew8X-4I8nFaJZuYah2PwePRl5UT03sFY8NiD9EsuEJMY"
     },
     {
       "termino": "luis gil",
@@ -57,23 +64,16 @@
     {
       "termino": "weather",
       "trafico": "1000+",
-      "noticia": "Radar forecast for Sunday",
-      "enlace": "https://www.capitalweather.com/sundays-rain-radar-forecast-and-expected-totals/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuS688fLPMQPGsMPUa4gT6qBiIXxkv93tQYP5bWqOCB9Mh5ibUiW9O1UpZ6wE"
+      "noticia": "Thanksgiving travel weather: Coastal storms and Midwest rain",
+      "enlace": "https://weather.com/2026/11/21/holiday/thanksgiving/video/thanksgiving-travel-coastal-storm-southeast-northeast-airport-delays",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSroMR9bfe9EiYAGjQ9Js1HcGXOa_HZtw4BKQRFokhuNl_xtYrMYwnA6V1XZBw"
     },
     {
       "termino": "f1",
       "trafico": "200+",
-      "noticia": "Las Vegas GP: Max Verstappen wins wild race as Ferrari s Lewis Hamilton and Charles Leclerc collide again",
-      "enlace": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVYg2zG4drmsVi9ETHsWn6k1m6HmoRVp5X2Pim4KaJSqS1L4xnXVpOj7EZ9k"
-    },
-    {
-      "termino": "kings - celtics",
-      "trafico": "500+",
-      "noticia": "Kings edge Celtics on Keegan Murray putback to snap 8-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-on-keegan-murray-putback-to-snap-8-game-skid/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+      "noticia": "‘So far below my level  – Verstappen responds to Russell comments in Las Vegas as rivalry reignites",
+      "enlace": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmmf9H_kpsHY46tr5oPZOZJrS7iLQ1dKTKMMxPhN86VIz-otFPv-imuxZmFqs"
     }
   ]
 }
