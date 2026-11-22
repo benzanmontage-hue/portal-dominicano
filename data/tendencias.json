@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T19:37:39.060856-04:00",
-  "hora": "19:37",
+  "updated": "2026-11-22T19:47:58.668545-04:00",
+  "hora": "19:47",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "operación militar",
+      "trafico": "1000+",
+      "noticia": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
+      "enlace": "https://www.bbc.com/mundo/articles/cmvg212k7lyko",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEDcvsL4z1J4LA2rObEOsYDOSxm_sxXb12PNSuC4doK2AuVbtImbOYWwfCd7c"
+    },
+    {
       "termino": "heat - thunder",
       "trafico": "200+",
-      "noticia": "Thunder Face Heat as Aday Mara Takes on Miami Frontcourt",
-      "enlace": "https://cwibc.co.id/en/thunder-heat-aday-mara-frontcourt-test",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr4cSxUqqKNKIlu0JFqCj9TVqbEv4ejvwknqBtWYKxNrVs5aCXSvOuYbSKS5A"
+      "noticia": "OKC’s Shai Gilgeous-Alexander, Miami’s Giannis Antetokounmpo both out of Thunder-Heat matchup",
+      "enlace": "https://www.nba.com/news/okcs-shai-gilgeous-alexander-miamis-giannis-antetokounmpo-both-out-of-thunder-heat-matchup",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaTz5mVmjeaI_LioI0AFgTLTU5y5KEYwYUBAp5Pj_elViREosZtw9N50B0IrE"
     },
     {
       "termino": "lluvia",
@@ -18,13 +25,6 @@
       "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
       "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
-    },
-    {
-      "termino": "preliminar de miss universo 2026",
-      "trafico": "1000+",
-      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSVU08aQrXPDdWlD-HbTdQ5sQkMCKQc-DOfugDzCX_g-V30cxl7SmrOOE_jg"
     },
     {
       "termino": "posiciones de getafe cf contra atlético de madrid",
