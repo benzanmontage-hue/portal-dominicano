@@ -1,10 +1,21 @@
 {
- "updated": "2026-11-21T20:58:02-04:00",
+ "updated": "2026-11-21T21:08:19-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
  "fin_temporada": "2027-01-29",
  "tabla": [
+  {
+   "id": 672,
+   "equipo": "Tigres",
+   "g": 17,
+   "p": 11,
+   "pct": ".607",
+   "dif": "-2.5",
+   "racha": "W3",
+   "pos": 1,
+   "nombre": "Tigres del Licey"
+  },
   {
    "id": 671,
    "equipo": "Leones",
@@ -13,19 +24,8 @@
    "pct": ".607",
    "dif": "-2.5",
    "racha": "L3",
-   "pos": 1,
-   "nombre": "Leones del Escogido"
-  },
-  {
-   "id": 672,
-   "equipo": "Tigres",
-   "g": 16,
-   "p": 11,
-   "pct": ".593",
-   "dif": "-2.0",
-   "racha": "W2",
    "pos": 2,
-   "nombre": "Tigres del Licey"
+   "nombre": "Leones del Escogido"
   },
   {
    "id": 669,
@@ -53,10 +53,10 @@
    "id": 668,
    "equipo": "Toros",
    "g": 10,
-   "p": 17,
-   "pct": ".370",
-   "dif": "4.0",
-   "racha": "L1",
+   "p": 18,
+   "pct": ".357",
+   "dif": "4.5",
+   "racha": "L2",
    "pos": 5,
    "nombre": "Toros del Este"
   },
@@ -437,14 +437,14 @@
    "id": 851458,
    "fecha": "2026-11-21",
    "hora": "17:00",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Game Over",
    "visitante": "Toros del Este",
    "visitante_id": 668,
-   "carreras_v": null,
+   "carreras_v": 3,
    "local": "Tigres del Licey",
    "local_id": 672,
-   "carreras_l": null,
+   "carreras_l": 10,
    "estadio": "Estadio Quisqueya Juan Marichal",
    "serie": "Regular Season"
   },
