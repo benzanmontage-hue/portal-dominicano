@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T10:25:52.731929-04:00",
-  "hora": "10:25",
+  "updated": "2026-11-22T10:36:13.456989-04:00",
+  "hora": "10:36",
   "fecha": "22/11/2026",
   "total": 15,
   "noticias": [
@@ -34,6 +34,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sTXNPaTJGMzFjVE5jbWZWTDdQaDE1UjNyTHFzWm5UbEtxMW5hZTB3Nkt0NE9UQmFaM0RSSEc2NTBhbFdsS29VOXRDWGo4S1U4WmFzZGZn?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 13:39:20 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los líderes deben poner las tecnologías al servicio de la gente, dice canciller dominicano - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlNTTlJ1X3ZQWGxWN2VqRUVPRmM2UFhwMUZ6LUg1cC1WVHBXNlhQZWhBYklTdnRyQnJlM0Y3MTRiVUNfblEwbjJpWHY3VWdkcXlQZG9VN21SX1UwOG4xQkZzaFlUR3NPaTlWT3JGYVBhVW9YX2xvVThQSndtdV9RbUE5TExSbHdzenp3cDRxV05QdlpXZnRXYS1TYkRGSWRFRnk3eg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 22:17:54 GMT",
       "imagen": ""
     },
     {
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 17:43:40 GMT",
       "imagen": "https://img.asmedia.epimg.net/resizer/v2/63QXOFMY3ZHENCFX2XT4L3XDZM.jpg?auth=7543754a8e58f31304dbaa4c4a1581e53d75879f465c677fea3585402b637c56&width=1472&height=828&focal=637%2C190"
-    },
-    {
-      "titulo": "República Dominicana registra 21 muertes y un salto del 93% en contagios de leptospirosis en lo que va de 2026 - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMkx5RGpyeEhmY09QM3JMZkR6XzVmb09uNjBkMEVEblR1NzNVeDl6LWxhUGs2QWdBSnlPc1lUT2g0MnFXUldlTzVHeGtoOW1mSzl4ZEx0WExhQVNwTi00LWxEVmJyelR4ejNRTjJlNW5kNm1Ob0dJOGFyVUxEcTYyRExsZXVwQnJPUlVjVzh3eHE1Y2d6cEhwUUpzTUk2d0daNWFWMVFaQUc4eG82X2VaYUN5SEJMNVNFRGdRODVQeGlfcHdwUGdac2Y0dG9aQUNJYWR1MVo2NWs1SlQxeGZlTFd2dGdqQTBlTDU1aWNTaDZPc0tyb3pMUXNB0gGUAkFVX3lxTE1MU3JfNVpLM3lvakZVRlBnTHh2bGl4OXZWeXZIMS14Q1ZldXBJakUwMlRPVnB4ZVNVdmRZN21GeVBCaF9TNFc5VjI2M1pjSGFLQ3c0TTlyYXJPUXhQNnV0MkdSa0xzbDB3Ykg1d25pZWR1ZmRoN2JqZmFnUXJWSjQ1ZWo5RzA4NUtiOFRjd0FXSFhndE9nb0xhQU96Snl5aWh5SDFab1Mtd0dzNGRsajYtdWp0eTFpU3ZadVNSazBwclhmU2FuUDJpVFBoSlpLMkt5WVZBNXJDVlY2eUMxcmRmbnF6aXYtakxwOWxLVHRQUXg3b2lFRm1Tc2FYaU42YzNsMzFrNEF1S0stUHlsYi1FS2wtYg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 03:36:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/UT4X7ZQCX5BMDMJKQLZHA4UI7I.png?auth=d89f37b81666a05021c411f1fdf4ce2cdc80d230e7a77ded7a34f275d7576bd1&smart=true&width=1200&height=630&quality=85"
     }
   ]
 }

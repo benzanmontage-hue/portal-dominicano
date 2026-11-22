@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T10:25:51.124752-04:00",
-  "hora": "10:25",
+  "updated": "2026-11-22T10:36:11.797722-04:00",
+  "hora": "10:36",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,16 @@
     {
       "termino": "laliga",
       "trafico": "100+",
-      "noticia": "FIS Alpine Ski World Cup - Men s Slalom",
-      "enlace": "https://www.reutersconnect.com/item/fis-alpine-ski-world-cup-mens-slalom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0wUlY1Tkg",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNtrmUrGfg4I5U3Y3o3iHhVUh9d96H4iilzxeu6SNI0SXjF0ngDoZDWYQwYw"
+      "noticia": "FC Barcelona squad named for La Liga match against Villarreal",
+      "enlace": "https://www.barcablaugranes.com/barcelona-la-liga/138634/barcelona-villarreal-la-liga-team-news-squad-list",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy_vbvdqsHJ2pwfUwKV7YhiKWjGLtPd7kv5c_IO6PVSWPudvIYRUjSp9T9SSQ"
+    },
+    {
+      "termino": "tiempo",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
     },
     {
       "termino": "juventus - venezia",
@@ -34,32 +41,32 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_03MMDxw_1RaEd1-k3ZRziNbaDARgdInWG3b7mU-uAjW7LyE_rqLahRgEdA4"
     },
     {
-      "termino": "clima santo domingo",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
-    },
-    {
       "termino": "barcelona - villarreal",
       "trafico": "5000+",
       "noticia": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou",
       "enlace": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0pXiHzrOlWYdM0GxcS4r1AYvOuqiN9u9JloV5HG7won0_HSeazYhQGnrcvSY"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIE00uzqyPMz0Acr7JQy6qDfdPsxarSz_R_fdF7oOIxR6zEUI5posoVXY8EkA"
     },
     {
       "termino": "militar",
       "trafico": "200+",
-      "noticia": "Tres helicópteros militares de El Salvador aterrizan nuevamente en fortaleza El Rodeo de Jimaní",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCKR3be0_7ZuymB0EoIc7Klud_TQPpXRm8s6aKsyRk7KaH3d2xxGm7gTxh_w0"
+      "noticia": "Soldados salvadoreños heridos en Haití son tratados a hospitales de RD; uno falleció",
+      "enlace": "https://listindiario.com/la-republica/20261121/soldados-heridos-salvador-son-tratados-rd_930995.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmUDrTj217m1lxgIbOtE924ap1cO8Ubn5ihewRuacRzajyTfg5WqKzKDl8n8"
     },
     {
       "termino": "météo",
       "trafico": "500+",
-      "noticia": "Europe se prépare à un hiver rigoureux après un vortex polaire, les pompes à chaleur en renfort",
-      "enlace": "https://fr.euronews.com/2026/11/21/europe-se-prepare-a-un-hiver-rigoureux-apres-un-vortex-polaire-les-pompes-a-chaleur-en-ren",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_VbneH79dahDj_q-Ew8X-4I8nFaJZuYah2PwePRl5UT03sFY8NiD9EsuEJMY"
+      "noticia": "Prévisions météo du dimanche 22 novembre 2026 à Marseille",
+      "enlace": "https://www.20minutes.fr/planete/previsions-meteo/4264716-20261122-meteo-marseille-previsions-dimanche-22-novembre-2026",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1gQaLk5A4B2qP4_Ly_uklO-W3eCy6aJocB3IA1QB-O0FbYFclPdysR5zYJ_o"
+    },
+    {
+      "termino": "loto leidsa",
+      "trafico": "200+",
+      "noticia": "Resultados de Leidsa del sábado 21 de noviembre de 2026 en República Dominicana",
+      "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-sabado-21-de-noviembre-de-2026-en-republica-dominicana/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMaQNhe_oN2lZZK3eVevE1s_EwrdFx9cmx7xMifiWBGztNgfhDguQrdjAZRs"
     },
     {
       "termino": "luis gil",
@@ -67,13 +74,6 @@
       "noticia": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
       "enlace": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlbPK-90PvcPD-fflJ0m3ZDGqTpUGuWQpAEdasyqfz4awElsIP3pRkfT8ZPLU"
-    },
-    {
-      "termino": "weather",
-      "trafico": "1000+",
-      "noticia": "Weather Of The World: November 22",
-      "enlace": "https://weather.com/2026/11/22/news/weather-of-the-world-november-22",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSykLTg3rZxQf1DHZ49LOqhWHCooDIfC8hdqMK4gl54h0ENozHU_jRiHiz0oAQ"
     }
   ]
 }
