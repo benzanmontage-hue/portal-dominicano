@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-22T17:11:25.014505-04:00",
-  "hora": "17:11",
+  "updated": "2026-11-22T17:21:44.823106-04:00",
+  "hora": "17:21",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "vaguada",
+      "trafico": "200+",
+      "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
+      "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
+    },
+    {
       "termino": "hawks - pistons",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Surging Hawks host Cade Cunningham and Pistons in East clash",
       "enlace": "https://www.cbssports.com/nba/news/surging-hawks-host-cade-cunningham-and-pistons-in-east-clash/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
@@ -22,23 +29,23 @@
     {
       "termino": "atalanta - inter",
       "trafico": "200+",
-      "noticia": "LIVE Atalanta-Inter 1-3: tris di Pio! Ma che assist da fantasista di Thuram",
+      "noticia": "LIVE Atalanta-Inter 1-3: tris di Pio su assist di Thuram, dentro Pasalic e Rowe",
       "enlace": "https://www.gazzetta.it/Calcio/Serie-A/Inter/22-11-2026/atalanta-inter-live-serie-a-risultato-e-gol-in-diretta.shtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCVkSdb81Zrurzoe-rlxlqK2JctsEOSfs41tJc7kYFTvHtzlxyHhw8G9ygfWU"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZZgL1WjKpARt2dOrJhstFuiFTNNHet5xI_hLHYBxkRsnJeJ0_Tddr0ttHU5Y"
     },
     {
       "termino": "getafe - atlético madrid",
       "trafico": "1000+",
-      "noticia": "El Getafe, uno de los rivales más especiales para un Kang-in que necesita recuperar gol",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261122/1004254058/getafe-rivales-especiales-kang-in-necesita-recuperar-gol.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx1oS2pRa3Ok2CoTL9fd3WbmPfHvqtYZV1zpNnsRmh9lxpTJrs4Lpq1_560yA"
+      "noticia": "Getafe - Atlético, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/getafe-atletico/2026/11/22/01_0101_20261122_1450_175-directo.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1zToc8Cdh28InmXe-Td8GJOd0B9QO7aJQZyMZpjjLKR7-UC0j8_pHntLHeZE"
     },
     {
       "termino": "posiciones de liverpool fc contra manchester united",
       "trafico": "2000+",
-      "noticia": "Liverpool 4-0 Man Utd (Nov 22, 2026) Game Analysis",
-      "enlace": "https://www.espn.com/soccer/report/_/gameId/401878755",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ_bsJc88Ntai_9Xo8Z7u3y8fDv0jcsDyYBzkz04nlobENdo-3N7_jYVb1jc8"
+      "noticia": "Poch blames  circumstances  in painful Man United loss to Liverpool",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8MK96_VDUu8RVe0EbGEJBoA89QIukkrEZq9WTTLTKaH18zya4H2AF0dJKAM"
     },
     {
       "termino": "operación rompeolas caro brito",
@@ -67,13 +74,6 @@
       "noticia": "Revenge porn: minacce all ex dopo una relazione a distanza, arrestato un uomo",
       "enlace": "https://www.rainews.it/tgr/calabria/articoli/2026/11/revenge-porn-minacce-allex-dopo-una-relazione-a-distanza-arrestato-un-uomo-a70112fc-0aac-4bb9-908e-e3a0511c67a8.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTneRAU2au7Uev1H97BiJ_2F87J0bwDcVrlDcKClTnXXITCuIoy4RCU6VP8ekc"
-    },
-    {
-      "termino": "real de hoy",
-      "trafico": "1000+",
-      "noticia": "Resumen y goles del FC Barcelona vs. Villarreal CF, jornada 13 de LaLiga EA Sports",
-      "enlace": "https://as.com/futbol/videos/resumen-y-goles-del-fc-barcelona-vs-villarreal-cf-jornada-13-de-laliga-ea-sports-f202611-v/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4bmmee5jrv_oaQHvc5L22zCndPCltfkl_APNsTy3XLz9B-RctcOvvaqwp-E"
     }
   ]
 }
