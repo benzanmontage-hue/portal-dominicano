@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:40:23-04:00",
+ "updated": "2026-11-22T16:50:48-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -467,8 +467,8 @@
    "id": 851451,
    "fecha": "2026-11-22",
    "hora": "17:00",
-   "estado": "Preview",
-   "detalle": "Pre-Game",
+   "estado": "Live",
+   "detalle": "Warmup",
    "visitante": "Leones del Escogido",
    "visitante_id": 671,
    "carreras_v": null,
