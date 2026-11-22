@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-21T20:27:02.960955-04:00",
-  "hora": "20:27",
+  "updated": "2026-11-21T20:37:21.089272-04:00",
+  "hora": "20:37",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "knicks - trail blazers",
+      "trafico": "200+",
+      "noticia": "Knicks eye fourth straight win as homestand opens vs. Trail Blazers",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-eye-fourth-straight-win-as-homestand-opens-vs-trail-blazers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+    },
     {
       "termino": "terremoto",
       "trafico": "1000+",
@@ -35,10 +42,10 @@
     },
     {
       "termino": "boca",
-      "trafico": "200+",
-      "noticia": "Boca vs. Atlético Mineiro, por la Copa Sudamericana: seguilo EN VIVO",
+      "trafico": "500+",
+      "noticia": "Boca derrotó a Mineiro y se consagró campeón de la Sudamericana: reviví lo mejor",
       "enlace": "https://www.tycsports.com/copa-sudamericana/conmebol-copa-sudamericana-2026-atletico-mineiro-vs-boca-juniors-final-id772262.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdwHa1NRWAOV01aRdUJEAsms_BbJwlbB04mGDc8qoMcPF9bLDL3Y1q54etKIA"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZG9GSX_M1fPiBX23yhneI_eFhElBqb0ZRZDNlRMZFneGbFm_WMgeB28dcUMY"
     },
     {
       "termino": "classement real madrid – celta vigo",
@@ -64,16 +71,9 @@
     {
       "termino": "real madrid – celta vigo",
       "trafico": "2000+",
-      "noticia": "Carlos Espí, the hero again: late goal gives Madrid the win",
-      "enlace": "https://www.tufutbolero.com/en/news/carlos-espi-the-hero-again-late-goal-gives-madrid-the-win-bf20b1",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfvwvjfe30iEeD10uOwfShWpQd8TIp4IcjbglIFdERrGdkA1aBTiPq24LDaS0"
-    },
-    {
-      "termino": "real madrid - celta de vigo",
-      "trafico": "10000+",
-      "noticia": "Espí siempre llega a tiempo",
-      "enlace": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzkZnRVisPkbq2TMyrx4nHncBEo_KxFWH5fy92sy7BFukGLhsZgUNJoVrWZw"
+      "noticia": "Licensable picture: Real Madrid v RC Celta de Vigo - LaLiga EA Sports 2026/27",
+      "enlace": "https://www.reutersconnect.com/item/real-madrid-v-rc-celta-de-vigo-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFBTVzBXOA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIDJ5DMhwSmleUzXqXd-1Ofvs9Mt71lrI9opx6PmRnTBkxM7OsQzDSk-NrFM"
     }
   ]
 }
