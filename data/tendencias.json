@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T08:42:05.433598-04:00",
-  "hora": "08:42",
+  "updated": "2026-11-22T08:52:36.230208-04:00",
+  "hora": "08:52",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -21,7 +21,7 @@
     },
     {
       "termino": "météo",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Europe se prépare à un hiver rigoureux après un vortex polaire, les pompes à chaleur en renfort",
       "enlace": "https://fr.euronews.com/2026/11/21/europe-se-prepare-a-un-hiver-rigoureux-apres-un-vortex-polaire-les-pompes-a-chaleur-en-ren",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY4AKpUXVk7BQ2EM5AI-XYn5mVnOnN7z9cYc_w2XBL1-25YjpR9HWbH8FosQ"
@@ -36,9 +36,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Macy’s makes major changes to Thanksgiving Day Parade sparking outrage",
-      "enlace": "https://www.independent.co.uk/arts-entertainment/tv/news/macys-thanksgiving-day-parade-broadway-performances-b3089223.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVm8bnMFYnBAFNieMValj3ZpdganaTrUO010u6U2fU-xVAq_UeQdEFcGtxdRg"
+      "noticia": "Iowa weather: Cooler, more seasonal temperatures set in",
+      "enlace": "https://www.kcci.com/article/iowa-weather-cooler-more-seasonal-temperatures-set-in/74500436",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx18c5DiM_E8ltVM9DmvYvGhtl00pfC0cGQq0n-Sd1-ffwERgp72RO3DOktfQ"
     },
     {
       "termino": "f1",
@@ -71,9 +71,9 @@
     {
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
-      "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
-      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MTk5NzU",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ60X8oWEemU-Sjmbyts6hdm71_o9WE_4R_nUE_7bQjp5EDZSqtB9GhgrC945M"
+      "noticia": "Ayo Dosunmu Puts His Foot On The Gas With 19 Points Vs The Memphis Grizzlies | 11.21.26",
+      "enlace": "https://bvmsports.com/2026/11/21/ayo-dosunmu-puts-his-foot-on-the-gas-with-19-points-vs-the-memphis-grizzlies-11-21-26/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Rlg6Ge2OxBNGUKKAfDDvN9Za392Ma2M4MpOPdl4Nl5YYaGgeJ1nx-1wC4w4"
     }
   ]
 }
