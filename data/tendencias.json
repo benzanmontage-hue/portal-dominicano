@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T10:15:28.941868-04:00",
-  "hora": "10:15",
+  "updated": "2026-11-22T10:25:51.124752-04:00",
+  "hora": "10:25",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -9,22 +9,8 @@
       "termino": "laliga",
       "trafico": "100+",
       "noticia": "FIS Alpine Ski World Cup - Men s Slalom",
-      "enlace": "https://www.reutersconnect.com/item/fis-alpine-ski-world-cup-mens-slalom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0xMUhRVTk",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2z4SFosFw2mUPYamuCWyO8YbwURLHBiRwVRNOr94TjXuZ-fFCZyf2cbkks_k"
-    },
-    {
-      "termino": "la liga",
-      "trafico": "5000+",
-      "noticia": "Carlos Espí define su gol ante el Celta como el  más especial",
-      "enlace": "https://www.espn.com.do/futbol/nota/_/id/17545557/carlos-espi-gol-celta-real-madrid",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAwayazjUA9uSCDwru2kQYswuApf1THXJd4Xa_q82U6UuRRDbYXoxP37ZB4xo"
-    },
-    {
-      "termino": "tiempo",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
+      "enlace": "https://www.reutersconnect.com/item/fis-alpine-ski-world-cup-mens-slalom/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0wUlY1Tkg",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNtrmUrGfg4I5U3Y3o3iHhVUh9d96H4iilzxeu6SNI0SXjF0ngDoZDWYQwYw"
     },
     {
       "termino": "juventus - venezia",
@@ -39,6 +25,20 @@
       "noticia": "Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
+    },
+    {
+      "termino": "fc barcelona",
+      "trafico": "200+",
+      "noticia": "Se habla poco de Dani Olmo en general, creo que está un poco infravalorado",
+      "enlace": "https://www.cope.es/programas/tiempo-de-juego/audios/habla-poco-dani-olmo-general-creo-poco-infravalorado-20261122_3479798.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_03MMDxw_1RaEd1-k3ZRziNbaDARgdInWG3b7mU-uAjW7LyE_rqLahRgEdA4"
+    },
+    {
+      "termino": "clima santo domingo",
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
     },
     {
       "termino": "barcelona - villarreal",

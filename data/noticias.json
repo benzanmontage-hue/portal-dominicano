@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T10:15:30.532765-04:00",
-  "hora": "10:15",
+  "updated": "2026-11-22T10:25:52.731929-04:00",
+  "hora": "10:25",
   "fecha": "22/11/2026",
   "total": 15,
   "noticias": [
@@ -35,6 +35,14 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 13:39:20 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
+      "fuente": "masfe.org",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLU1mSGtHWHphU3NnVm1MZHd2OE1za1BEVllRVUpNd3JmeGt4THFBejllX1VRNVNwbldlVkt4ZlRkZTNhNFJhZEVIMGoxUGFEXzg2TE9TSlJBSVNuVzJxUHVaa1I4NjdzQ2gwSm9qNnRXQ3RwT0MzMlQ5MUVab1JELXhfa1p6WDNJbnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 19:16:02 GMT",
+      "imagen": "https://files.mormonsud.org/wp-content/uploads/2026/11/rasband-entrevista.png"
     },
     {
       "titulo": "MIAMI: Comunidad dominicana, un talento desperdiciado - AlMomento.net",
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 03:36:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/UT4X7ZQCX5BMDMJKQLZHA4UI7I.png?auth=d89f37b81666a05021c411f1fdf4ce2cdc80d230e7a77ded7a34f275d7576bd1&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "Muere en Dominicana militar salvadoreño herido en Haití - AlMomento.net",
-      "fuente": "AlMomento.net",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2taYzVfY1JWeHNjMHZtTXFLVHlINGprOXpxSGFkbDU1ODJqMS1mSGlTakdiNTVUck5yRUJUSW5OaHFtOWxsdlR1MU40WWo5bTJqOWtIMXoyMDdadFRwWHZQU3YzakJVYkVkRzlCU3hORVpyZ1FXUzF2aGxORU55OTRwTlI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 12:38:08 GMT",
-      "imagen": ""
     }
   ]
 }
