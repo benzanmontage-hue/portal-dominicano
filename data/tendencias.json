@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-21T20:37:21.089272-04:00",
-  "hora": "20:37",
+  "updated": "2026-11-21T20:47:41.363566-04:00",
+  "hora": "20:47",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "weather tomorrow",
+      "trafico": "500+",
+      "noticia": "Maui Weather Forecast for November 21, 2026",
+      "enlace": "https://mauinow.com/2026/11/21/maui-weather-forecast-for-november-21-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEWoJRQ2uLk1wUFc2lSjutM0WHtp1ni4u6CHJ4xBztvIKCIcsbQhmhrHYe430"
+    },
+    {
+      "termino": "miss universo 2026",
+      "trafico": "100+",
+      "noticia": "Melissa Núñez expresa emoción y orgullo previo a la competencia de trajes típicos de Miss Universo 2026",
+      "enlace": "https://n.com.do/2026/11/21/melissa-nunez-competencia-trajes-tipicos-miss-universo-2026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6xGvmXiQ1kkiyoyvybPFTAasn8RXcINPTIW__dUIy6IUCQMCSr5lIF4Q1V14"
+    },
     {
       "termino": "knicks - trail blazers",
       "trafico": "200+",
@@ -60,20 +74,6 @@
       "noticia": "All GTA 6 Radio Stations And Songs",
       "enlace": "https://www.gamespot.com/articles/all-gta-6-radio-stations-and-songs/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDAjfCRwHVSb5yLua7vjutOsyK4C0iTmSi9vyr26jNgwf46Dx8oL6PBEZHu0"
-    },
-    {
-      "termino": "julio iglesias",
-      "trafico": "200+",
-      "noticia": "Julio Iglesias vende su mansión en Galicia y prepara la Navidad con Miranda y sus hijos en Punta Cana en plena investigación judicial",
-      "enlace": "https://www.eleconomista.es/informalia/famosos/noticias/14029744/11/26/julio-iglesias-vende-su-mansion-en-galicia-y-prepara-la-navidad-con-miranda-y-sus-hijos-en-punta-cana-en-plena-investigacion-judicial.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRabEt_ORKebxw_4b8LLxrlvSVMW-qyEw-VyzR96sJkchzJWZj8JbQJXtqVW1o"
-    },
-    {
-      "termino": "real madrid – celta vigo",
-      "trafico": "2000+",
-      "noticia": "Licensable picture: Real Madrid v RC Celta de Vigo - LaLiga EA Sports 2026/27",
-      "enlace": "https://www.reutersconnect.com/item/real-madrid-v-rc-celta-de-vigo-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFBTVzBXOA",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIDJ5DMhwSmleUzXqXd-1Ofvs9Mt71lrI9opx6PmRnTBkxM7OsQzDSk-NrFM"
     }
   ]
 }
