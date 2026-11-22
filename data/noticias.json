@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T23:33:34.798545-04:00",
-  "hora": "23:33",
+  "updated": "2026-11-21T23:44:04.757346-04:00",
+  "hora": "23:44",
   "fecha": "21/11/2026",
   "total": 15,
   "noticias": [
@@ -18,7 +18,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZjNiY0ZWYUpqbVFianJBb3NsaU9fTk1XeFI5Mm5MaW1JQi1VSElJLXY0Y3ZELU4yOVVoXzdkOXJNQ2ZKSkZmSDVnMmtrcldCSWFhYV85VUN2Z3ZlLVlCZmVlQ28xVEU5UDljbXRHQ1pHT1RIOUZGYk56Y3hPT0N2Qy1Pb0tZZGlDUEp4RjdHdmZkVjZMaS14dUhOdkMwYUVjSHk0Wk1wV2dGdnc1Z19IUi1wallFdXBSOUlHOWI4WjVRaWU0WTE3NC1wZi1LX0hTVkxuN3ZuamRJQQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Sun, 22 Nov 2026 00:13:44 GMT",
-      "imagen": ""
+      "imagen": "https://res.cloudinary.com/dkdyuefrf/image/upload/v1795306290/notes/bhwuynkqqa2e4yqdjz2i.jpg"
     },
     {
       "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
@@ -85,14 +85,6 @@
       "imagen": "https://www.primerahora.com/resizer/v2/OXMGHHWM6NG7PBJTGC6SZG4F7Q.png?auth=a3002d9ad4c44ef9fa5f0a401dec88e4a572214691aa2353e310984d0750b706&quality=75&width=1200&height=717&smart=true"
     },
     {
-      "titulo": "Destacan expansión mundial del voleibol en congreso en Dominicana - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxSUnpEdlJkdkdDQnotRk1XQjFhY2NIeFYtc3VwOFI3UUhfRDFkdDc3cjdCYVc5STlCODhZOFJfOEFCb0NoYkdra09uV0w3N25JcS03YXk3ekNVRURoQmQxcnRCSWFMZHFKaGhnenV6aGhtMi1QMjBxd1ZTSkRPRThrZ1V1bHRxRlRqTDJ2Sk4wV2tmLTdiTm9Hb3oxUl9vOWtRdWFySW5EQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 01:27:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Se registra sismo de magnitud preliminar de 5.0 en República Dominicana - Telemundo Puerto Rico",
       "fuente": "Telemundo Puerto Rico",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTllYVWhLaGhVYy1SWTQzcFJGeHlLLWRNTVNOMnNHdmtWV0xIbUNoU2N2b1o2SnhQTVYxN2FJdEVtajFieDkzdjVUODBycmZiNWFuVzQyc1V6YzY4T0VQRjdoSmhLYlkwQ2dtOVRNbFVZYnhlQ21uZXZteTFmclhIMWlLZV8wcmQyVGNwNGRVZEliS2JRLWVES21ESkNBdmRpYXNiSEhaeEIyNWgxTEFPSTBhQzluQmJUUTJSUkQwMl9JQU9lT3ZMa9IB0AFBVV95cUxQU0hnQzREcjdUSTRTZm16MGNPNG01SUpsc1NKdFRYbkdOSU9ZSHNkQkJ1VHVpY1VMZ3dGTWVjZm1zWkZXdVBXQVpqck1ZZUJDZ3NDMDdaRjBSXy1PZm9sOHB2X3lKbFFuSEJmejkxemRHZzR3TVc1X1NrSVlDLUQzNl9FX1I3T1dscDR5U3lqV3pZd2hNQVd5VVpkY3YyR3QwNTlEcHVrOWZCU2c1bzlHeGZuU1o1VnRIQk9OMXlhZE1pMTBuSWtEeGpOQnl6Q3ZF?oc=5",
@@ -115,6 +107,14 @@
       "dominio": "news.google.com",
       "fecha": "Sat, 21 Nov 2026 15:25:00 GMT",
       "imagen": "https://www.elnuevodia.com/resizer/v2/3P47B2VCZZESTLECGZQ5Z5RXG4.png?auth=0408b648a32ba836739dd78427734572f97b98bfaea923e296dfc037c1a82252&quality=75&width=1200&height=717&focal=254%2C288"
+    },
+    {
+      "titulo": "Destacan expansión mundial del voleibol en congreso en Dominicana - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxSUnpEdlJkdkdDQnotRk1XQjFhY2NIeFYtc3VwOFI3UUhfRDFkdDc3cjdCYVc5STlCODhZOFJfOEFCb0NoYkdra09uV0w3N25JcS03YXk3ekNVRURoQmQxcnRCSWFMZHFKaGhnenV6aGhtMi1QMjBxd1ZTSkRPRThrZ1V1bHRxRlRqTDJ2Sk4wV2tmLTdiTm9Hb3oxUl9vOWtRdWFySW5EQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 22 Nov 2026 01:27:00 GMT",
+      "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/11/CONGRESS-DAY-1-1.jpg"
     },
     {
       "titulo": "República Dominicana deslumbra en Miss Universo con el traje típico Tres raíces, una nación - Diario Libre",
