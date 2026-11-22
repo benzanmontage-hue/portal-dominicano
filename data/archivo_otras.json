@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T00:35:49-04:00",
+ "actualizado": "2026-11-22T00:46:09-04:00",
  "sorteos": {
   "Americanas|Florida Día": [
    {
@@ -400,6 +400,14 @@
    }
   ],
   "Americanas|Georgia Noche": [
+   {
+    "fecha": "2026-11-21",
+    "numeros": [
+     "02",
+     "30",
+     "09"
+    ]
+   },
    {
     "fecha": "2026-11-20",
     "numeros": [

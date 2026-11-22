@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-22T00:35:43.994765-04:00",
-  "hora": "00:35",
+  "updated": "2026-11-22T00:46:03.592500-04:00",
+  "hora": "00:46",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "kings - celtics",
+      "termino": "f1",
       "trafico": "100+",
+      "noticia": "LIVE – Follow the 2026 Las Vegas F1 Grand Prix with live text commentary",
+      "enlace": "https://www.autohebdof1.com/news/f1/Follow-the-2026-Las-Vegas-F1-Grand-Prix-live-with-text-commentary.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlSFei9Ylv3r9WFZqxwaGa-bL1mtpUa2R4dNo-3e1mPXFp_8ZKq4vOiUuA7A"
+    },
+    {
+      "termino": "kings - celtics",
+      "trafico": "200+",
       "noticia": "Celtics look to snap two-game skid against Kings",
       "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-two-game-skid-against-kings/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
@@ -67,13 +74,6 @@
       "noticia": "Jalen Brunson News: Nets game-high 30 points in win",
       "enlace": "https://www.rotowire.com/basketball/headlines/jalen-brunson-news-nets-game-high-30-points-in-win-540418",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqC8pnv5OAcyp8g5zdJ1gyB31jSohbVL7RjzQwXnR7GDOXKwPOzWUVFohlKa4"
-    },
-    {
-      "termino": "terremoto",
-      "trafico": "1000+",
-      "noticia": "Terremoto de 6.7 de magnitud sacude Perú; no se reportan daños ni víctimas",
-      "enlace": "https://www.telemundo47.com/noticias/mundo/terremoto-sacude-peru-carhuamayo/2667379/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSKM7geh-v8d0W9cqZbWvVIEPxBIesND-MqFpOzwXMhfyrZJ4o7JUouY-wqDs"
     }
   ]
 }
