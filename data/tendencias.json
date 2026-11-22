@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-21T19:56:11.322067-04:00",
-  "hora": "19:56",
+  "updated": "2026-11-21T20:06:28.377589-04:00",
+  "hora": "20:06",
   "fecha": "21/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "terremoto",
+      "trafico": "1000+",
+      "noticia": "Sismo de magnitud 6.7 en Perú deja 15 heridos y más de un centenar de casas afectadas",
+      "enlace": "https://www.diariolibre.com/mundo/america-latina/2026/11/21/sismo-en-peru-deja-15-heridos-y-danos-a-viviendas/3727612",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpONvKS9TBOrXpAJ-pja48sHBLy-l8SkA23RrsAkOzoOW4F8WIixFpnPpQ6Z4"
+    },
+    {
       "termino": "inter miami - columbus crew",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "How the Columbus Crew switched paths en route to the MLS playoffs",
       "enlace": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxL2taJlXL9XUO4WqPMnmvSYKc1cwTnSd6lLHFpjJCLuBRQTvtU8M4mGY_Ai4"
@@ -31,7 +38,7 @@
       "trafico": "200+",
       "noticia": "Boca vs. Atlético Mineiro, por la Copa Sudamericana: seguilo EN VIVO",
       "enlace": "https://www.tycsports.com/copa-sudamericana/conmebol-copa-sudamericana-2026-atletico-mineiro-vs-boca-juniors-final-id772262.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdwHa1NRWAOV01aRdUJEAsms_BbJwlbB04mGDc8qoMcPF9bLDL3Y1q54etKIA"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ-0QDbNC1UGz2WPjQo4A9Gs7fvVhOzZOELWqKLnNJ2sUCviWk7M7TjHK8SY0"
     },
     {
       "termino": "classement real madrid – celta vigo",
@@ -67,13 +74,6 @@
       "noticia": "Espí siempre llega a tiempo",
       "enlace": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXzkZnRVisPkbq2TMyrx4nHncBEo_KxFWH5fy92sy7BFukGLhsZgUNJoVrWZw"
-    },
-    {
-      "termino": "noticia",
-      "trafico": "1000+",
-      "noticia": "La Procuradora General instruye a la Dirección General de Persecución y a la Fiscalía del Distrito Nacional para profundizar las investigaciones por la muerte de Melissa Medina",
-      "enlace": "https://pgr.gob.do/la-procuradora-general-instruye-a-la-direccion-general-de-persecucion-y-a-la-fiscalia-del-distrito-nacional-para-profundizar-las-investigaciones-por-la-muerte-de-melissa-medina/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7mGzGTeS5d41JbmvFKDCG5wcrQyb2hSG3o6Hx8v3uRt6qtWHPcC4Tkc-v8s"
     }
   ]
 }
