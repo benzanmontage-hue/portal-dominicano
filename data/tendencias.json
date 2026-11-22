@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T23:54:22.293299-04:00",
-  "hora": "23:54",
-  "fecha": "21/11/2026",
+  "updated": "2026-11-22T00:04:45.254149-04:00",
+  "hora": "00:04",
+  "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
@@ -13,8 +13,15 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
     },
     {
+      "termino": "mavericks - clippers",
+      "trafico": "100+",
+      "noticia": "Clippers seek first road win against Cooper Flagg, Mavericks",
+      "enlace": "https://www.cbssports.com/nba/news/clippers-seek-first-road-win-against-cooper-flagg-mavericks/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+    },
+    {
       "termino": "paolo bulgari",
-      "trafico": "200+",
+      "trafico": "100+",
       "noticia": "Muere Paolo Bulgari, el hombre que llevó la empresa de joyería de la familia a un símbolo del lujo",
       "enlace": "https://www.diariolibre.com/revista/moda/2026/11/21/muere-el-joyero-italiano-paolo-bulgari-a-los-89-anos/3727630",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv0vDlznEVY2dpgfUW5BMjJClWO-63kmgjKY43hsxrJupRkbChZD9eI33LZoM"
@@ -22,16 +29,16 @@
     {
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
-      "noticia": "Grizzlies look to stay perfect on road against Timberwolves",
-      "enlace": "https://www.cbssports.com/nba/news/grizzlies-look-to-stay-perfect-on-road-against-timberwolves/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+      "noticia": "Timberwolves stifle Grizzlies behind Jaden McDaniels  25 points",
+      "enlace": "https://www.cbssports.com/nba/news/timberwolves-stifle-grizzlies-behind-jaden-mcdaniels-25-points/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy--grFQ1Azv8-ttLFFt_uCEnNv2codW1wNdFx8dWMAvUuK1Kf-rG4MWouz04"
     },
     {
       "termino": "spurs - pelicans",
-      "trafico": "200+",
-      "noticia": "Surging Spurs host struggling Pelicans amid lineup changes",
-      "enlace": "https://www.cbssports.com/nba/news/surging-spurs-host-struggling-pelicans-amid-lineup-changes/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+      "trafico": "500+",
+      "noticia": "New Orleans Pelicans vs San Antonio Spurs Nov 21, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/nop-vs-sas-0022600278/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8qs5IPstumZTHqwzlIYtY2NLpU2T4obV4bbPF8W6jT2oE1cN-Jz5YsZO72Bs"
     },
     {
       "termino": "resultados de loteria",
@@ -57,9 +64,9 @@
     {
       "termino": "knicks - trail blazers",
       "trafico": "1000+",
-      "noticia": "Knicks eye fourth straight win as homestand opens vs. Trail Blazers",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-eye-fourth-straight-win-as-homestand-opens-vs-trail-blazers/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGNk90_TVw3F4K9CC8xxUI7G6F1WqU5leW8DsCj9s7JvOZhm30arygVJg6CGU"
+      "noticia": "Portland Trail Blazers vs. New York Knicks Live Score and Stats - November 21, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261121_POR@NY/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     },
     {
       "termino": "terremoto",
@@ -67,13 +74,6 @@
       "noticia": "Terremoto de 6.7 de magnitud sacude Perú; no se reportan daños ni víctimas",
       "enlace": "https://www.telemundo47.com/noticias/mundo/terremoto-sacude-peru-carhuamayo/2667379/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSKM7geh-v8d0W9cqZbWvVIEPxBIesND-MqFpOzwXMhfyrZJ4o7JUouY-wqDs"
-    },
-    {
-      "termino": "inter miami - columbus crew",
-      "trafico": "1000+",
-      "noticia": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
-      "enlace": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIEMKPhRmuPRUi4BheGMq2rYWNiNJTpIIcDCkTiPVnNoTcP2b_2dC45LxlWc"
     }
   ]
 }
