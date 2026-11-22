@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T12:09:13.484201-04:00",
-  "hora": "12:09",
+  "updated": "2026-11-22T12:19:37.434229-04:00",
+  "hora": "12:19",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "liverpool - manchester united",
+      "trafico": "200+",
+      "noticia": "Team news: Confirmed Liverpool line-up v Manchester United",
+      "enlace": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-manchester-united",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1z-AhCHyodpl5JRGQNknyYuMwnViIimD8bzuTksGV8BIJpB4A5Lf6rMBV82I"
+    },
     {
       "termino": "classement fc barcelone – villarreal",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "posiciones de fc barcelona contra villarreal club de fútbol",
       "trafico": "1000+",
-      "noticia": "Barcelona 3-2 Villarreal: Barca score three in 10 minutes to return to top of La Liga",
-      "enlace": "https://www.bbc.com/sport/football/live/cqe87553peegt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMJXRSmStHbY5j6BEWfuj05_BbvPHvCQCi3I7-o3w7FOei5CkkbBuzAeCGTDY"
+      "noticia": "Barcelona 3-2 Villarreal (Nov 22, 2026) Game Analysis",
+      "enlace": "https://www.espn.com/soccer/report/_/gameId/401882804",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9JmlonG7vYcGhtbZyDioQa5mQ1bUXLc9oR1j8jEPuivzSdo3J_g3baX6ucfU"
     },
     {
       "termino": "tiempo",
@@ -29,9 +36,9 @@
     {
       "termino": "operación rompeolas",
       "trafico": "500+",
-      "noticia": "Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
+      "noticia": "¿Cómo operaba la supuesta red desmantelada con la operación Rompeolas que traficaba drogas hacia PR?",
+      "enlace": "https://listindiario.com/la-republica/20261122/como-operaba-supuesta-red-desmantelada-operacion-rompeolas-traficaba-drogas-pr_931036.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXbOgc52Kd92FxrVB32cw9nNZlFTo2kKFnIlDsQQR8PbQhG8wOmSJHbbeO-r0"
     },
     {
       "termino": "juventus - venezia",
@@ -67,13 +74,6 @@
       "noticia": "Resultados de Leidsa del sábado 21 de noviembre de 2026 en República Dominicana",
       "enlace": "https://revistamercado.do/actualidad/resultados-de-leidsa-del-sabado-21-de-noviembre-de-2026-en-republica-dominicana/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMaQNhe_oN2lZZK3eVevE1s_EwrdFx9cmx7xMifiWBGztNgfhDguQrdjAZRs"
-    },
-    {
-      "termino": "luis gil",
-      "trafico": "100+",
-      "noticia": "Luis Gil, former AL Rookie of the Year, cut by Yankees at tender deadline",
-      "enlace": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlbPK-90PvcPD-fflJ0m3ZDGqTpUGuWQpAEdasyqfz4awElsIP3pRkfT8ZPLU"
     }
   ]
 }
