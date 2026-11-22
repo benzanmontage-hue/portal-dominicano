@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-22T09:44:25.443187-04:00",
-  "hora": "09:44",
+  "updated": "2026-11-22T09:54:45.800434-04:00",
+  "hora": "09:54",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "tiempo",
-      "trafico": "1000+",
-      "noticia": "De qué manera la Inteligencia Artificial facilita los ciberataques",
-      "enlace": "https://acento.com.do/rfi/de-que-manera-la-inteligencia-artificial-facilita-los-ciberataques-9794346.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPa1s_oO_Ze7agZpAnNCIrlscB2GNDWZPOlkc-zlM2g9SNzkQgSuA52oxqA"
+      "trafico": "2000+",
+      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
+      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
     },
     {
       "termino": "juventus - venezia",
@@ -27,25 +27,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89-Usr73E7hZgpHQ4G6_u5HA6ZuUmyHtr_hky4pft55-N_A5wHIiQ3Bks69c"
     },
     {
-      "termino": "clima santo domingo",
-      "trafico": "2000+",
-      "noticia": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo la próxima semana? El pronóstico a partir del lunes 23",
-      "enlace": "https://acento.com.do/ecologia/clima-en-santo-domingo-republica-dominicana-como-estara-el-tiempo-la-proxima-semana-el-pronostico-a-partir-del-lunes-23-9794433.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXAJ3xFPydiPgWWWtZ9NbPX2hJGTq6d3tgSRiZMx-DjBm7tlE1OTOUQX4UzM"
-    },
-    {
       "termino": "barcelona - villarreal",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou",
       "enlace": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf1-MO9tpDe8Ty7eCqaOp5cXZOlT9otfduySQsFQSnT2yHhXxFEQl4upMPN4"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0pXiHzrOlWYdM0GxcS4r1AYvOuqiN9u9JloV5HG7won0_HSeazYhQGnrcvSY"
     },
     {
       "termino": "militar",
       "trafico": "200+",
-      "noticia": "Tres helicópteros militares de El Salvador aterrizan nuevamente en fortaleza El Rodeo de Jimaní",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCKR3be0_7ZuymB0EoIc7Klud_TQPpXRm8s6aKsyRk7KaH3d2xxGm7gTxh_w0"
+      "noticia": "Soldados salvadoreños heridos en Haití son tratados a hospitales de RD; uno falleció",
+      "enlace": "https://listindiario.com/la-republica/20261121/soldados-heridos-salvador-son-tratados-rd_930995.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmUDrTj217m1lxgIbOtE924ap1cO8Ubn5ihewRuacRzajyTfg5WqKzKDl8n8"
     },
     {
       "termino": "météo",
@@ -64,9 +57,9 @@
     {
       "termino": "weather",
       "trafico": "1000+",
-      "noticia": "Scattered showers filter in for a gloomy end to the weekend",
-      "enlace": "https://www.washingtonpost.com/weather/2026/11/22/scattered-showers-filter-gloomy-end-weekend/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0lEs-FNGRHACiO2oZyUcU6aJCTa6oUofKDgnpvxrfuBIdVx2sPSxpMVOnMGA"
+      "noticia": "Radar forecast for Sunday",
+      "enlace": "https://www.capitalweather.com/sundays-rain-radar-forecast-and-expected-totals/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuS688fLPMQPGsMPUa4gT6qBiIXxkv93tQYP5bWqOCB9Mh5ibUiW9O1UpZ6wE"
     },
     {
       "termino": "f1",
@@ -74,6 +67,13 @@
       "noticia": "Las Vegas GP: Max Verstappen wins wild race as Ferrari s Lewis Hamilton and Charles Leclerc collide again",
       "enlace": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVYg2zG4drmsVi9ETHsWn6k1m6HmoRVp5X2Pim4KaJSqS1L4xnXVpOj7EZ9k"
+    },
+    {
+      "termino": "kings - celtics",
+      "trafico": "500+",
+      "noticia": "Kings edge Celtics on Keegan Murray putback to snap 8-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/kings-edge-celtics-on-keegan-murray-putback-to-snap-8-game-skid/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     }
   ]
 }
