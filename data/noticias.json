@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T07:18:14.678676-04:00",
-  "hora": "07:18",
+  "updated": "2026-11-22T07:28:37.832324-04:00",
+  "hora": "07:28",
   "fecha": "22/11/2026",
   "total": 15,
   "noticias": [
@@ -29,14 +29,6 @@
       "imagen": "https://www.infobae.com/resizer/v2/UT4X7ZQCX5BMDMJKQLZHA4UI7I.png?auth=d89f37b81666a05021c411f1fdf4ce2cdc80d230e7a77ded7a34f275d7576bd1&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Reconocido canal de TV de República Dominicana entrevista al élder Rasband - masfe.org",
       "fuente": "masfe.org",
       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLU1mSGtHWHphU3NnVm1MZHd2OE1za1BEVllRVUpNd3JmeGt4THFBejllX1VRNVNwbldlVkt4ZlRkZTNhNFJhZEVIMGoxUGFEXzg2TE9TSlJBSVNuVzJxUHVaa1I4NjdzQ2gwSm9qNnRXQ3RwT0MzMlQ5MUVab1JELXhfa1p6WDNJbnc?oc=5",
@@ -45,12 +37,20 @@
       "imagen": "https://files.mormonsud.org/wp-content/uploads/2026/11/rasband-entrevista.png"
     },
     {
-      "titulo": "Centroamérica y República Dominicana superan los 30.600M en ingresos turísticos - Expreso - Diario de viajes y turismo",
-      "fuente": "Expreso - Diario de viajes y turismo",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2ZYb3VPWTYtenJNOFBYQzZTZG5mTU1HcUxMSFpQY0Qxdl9JdzBOSi10NG5xa3lEMEpHQ3NYQTlRYVVWNHJIbWlnVzBsM0hrcV9uelVXQWVDRDV2bTE1X3IyZHlWaF9DQm5ib1FyajZ1dEdkSXhGUXB0MFRZY3hwb0FNZ2JLMEM0Mzl5Vkh6Vi1lcjBuRll6dWdRcnJGNXFIckpaSjZGbFJZdVRFdlM2bmJCTU9hX0hZX0NYemN1Yw?oc=5",
+      "titulo": "Latinoamérica, el Caribe y Emiratos Árabes subrayan su cercanía en un diálogo de gobiernos - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhabkY1WXhVYUs5aEQ2SDdYOFFCTkRtQjVxa0tPb0R1QUVleHZTZGtYMk9FM3BjcEw1R0NfM3FfMG1UUHlUcmJjNTVyTGNMb21uSk1uVXVSSVpXRGVVNmRBandlQVlwR01meXF4bkpMSEdjOHJCUjdXanh0b243Vzh6dTRHVVZzRWs2aEU2SXJudG5DZG90QXRaZEh2NTJVcXIteXBR?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sat, 21 Nov 2026 14:37:12 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "fecha": "Fri, 20 Nov 2026 17:20:56 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "MIAMI: Comunidad dominicana, un talento desperdiciado - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkdU5waG0zeG5uWXBVSUJucXNmbmhWS01qeWxVYmtJUXJrU1ZLSVkxS0ZoSFFnY2M4cHJRSDBxSmRPaXNDc1NjN0lZckZVRG1keHNhalROZEw5cERLVDJBclNUUmNzR19ldXBTcGs2eTNYckdRVlJfdlNjeE0tS1E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sun, 22 Nov 2026 11:22:46 GMT",
+      "imagen": "https://almomento.net/wp-content/uploads/2026/11/q374gs35.png?w=400"
     },
     {
       "titulo": "5-0: Gol de Valverde en el triunfo de Uruguay contra la República Dominicana - Real Madrid CF | Web Oficial",
@@ -59,6 +59,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 18 Nov 2026 08:10:00 GMT",
       "imagen": "https://assets.realmadrid.com/is/image/realmadrid/ND-VALVERDE-URUGUAY-RD_GettyImages-2305122208?wid=1200&hei=675"
+    },
+    {
+      "titulo": "Centroamérica y República Dominicana superan los 30.600M en ingresos turísticos - Expreso - Diario de viajes y turismo",
+      "fuente": "Expreso - Diario de viajes y turismo",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2ZYb3VPWTYtenJNOFBYQzZTZG5mTU1HcUxMSFpQY0Qxdl9JdzBOSi10NG5xa3lEMEpHQ3NYQTlRYVVWNHJIbWlnVzBsM0hrcV9uelVXQWVDRDV2bTE1X3IyZHlWaF9DQm5ib1FyajZ1dEdkSXhGUXB0MFRZY3hwb0FNZ2JLMEM0Mzl5Vkh6Vi1lcjBuRll6dWdRcnJGNXFIckpaSjZGbFJZdVRFdlM2bmJCTU9hX0hZX0NYemN1Yw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Sat, 21 Nov 2026 14:37:12 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "titulo": "Vladimir Jr. cambiado de los Toros al Licey en la República Dominicana - MLB.com",
@@ -93,28 +101,20 @@
       "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/04/665dc401f0530-precio-del-dolar-hoy-en-rd-3-de-junio-compra-y-ventajpg-1-OG.jpg"
     },
     {
-      "titulo": "Extraditan a dos dominicanos acusados de homicidio y narcotráfico en Nueva York - Diario Libre",
-      "fuente": "Diario Libre",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWVV4LXZTNFFfYzg1MFJsaGFvRW1ucXVWeEJuVWx0S2hEbDJhOXJYaFR2Ql9EOGdod29DQjViNDkwRHZVSWNKMGlzM3lad1hhM21CVkZfT01uMG93XzhVS3pFNU5SWmZSLWdMSDRQdkg0NzJKeWlYQmU4RmlHUE15VTlLSUtXSV96SldhOFhYRk1sbXg5QXY2SFhROXVLUUtLN25QOGk5bkx0SjlDdDRmOTVYUGR1OXhaSUs0bktzWXXSAcYBQVVfeXFMT2hCUVJjWlJFVzYtSmNRam9vZ0E4UmFBeklHa3BHMHFidWs3TUItd0FjeGpaazZMTmdHMGFYXzk3cFVXRmV0THM0NWlua1VNdzBNQkVmRklPd3lyaVl5YjBoN3ZsVG5Sa3dFdHBaSjRlLURSTndNT3FOSkd1S1JkcjRWV0N4WDN2N0V4SXl2ODZXWWpnY0Y3c2RxUEQyM2E4SmFab0JXeXRCc25CeWRucmJiWmVVTjNaNmwzdXpQb0dfX1I4Mldn?oc=5",
+      "titulo": "Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026 - Clarin.com",
+      "fuente": "Clarin.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0QyeWs4Q0ZaazhTUzJNOENGcmkwNnVPZFo3U3NSUnBUeGpzNnVhSHJuTy1xTmU3YkR3Y3U4dlNuaXpVMFRxQmRQVWdVV0JLeUpBMlE5N3I2M0lNZ3YtUHhCN09NeHBNd3VldFVwZ1l6b2ZsTnN6VTZHM2FrUUhRb0VLNXU0LWp3c0k2STFBb0EycllObmlkaVY1TkJhc18xSkRuZnJ6MVNzeHVvYTdGSnVRU1FQc29IYTNyQnM0ZHNNZHFPQU0xSHVramczb3dnT1lKS0lLMUNJU2lVREppalJDQUN1cGPSAewBQVVfeXFMUDdabk5VNEVoM2V4Z250amtQRVR5RkpXUUREZDhZb1BYc2FTRndJRDNaXzZhTzU4MEFLdGtqeVB6VElhYmhhVEpaRkNDbEphYldRVGhsbWYzZlVjRVBxVkhRU284UjlkMFMwQ0pzSk1mcmlCSDBxNWk4YWFmcnNGbzVSZVJjU19QSm1fbExfZVg1LXNDSzU1UFRtTlZhVExrUjlTZS1pcDF1T1hsYW5kSkktZ2dDYXVpRnpjYmJBQ1V6UGRDYmVlR3R5QTJnamJ6LUpfTng4clY0Z0pKdkRCOEhBZHdFVDVaenE0V3M?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 02:59:00 GMT",
-      "imagen": "https://resources.diariolibre.com/images/2026/11/22/dominicanos-extraditados-a-nueva-york-por-delitos-graves-60c2b9da-focus-0-0-1200-675_wam.jpg"
+      "fecha": "Sun, 22 Nov 2026 10:45:06 GMT",
+      "imagen": ""
     },
     {
-      "titulo": "Clima hoy en Santo Domingo, República Dominicana: el pronóstico del tiempo para este domingo 22 noviembre de 2026 - Clarín",
-      "fuente": "Clarín",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOano4WmVLWEE2VHRLY2U4M0lpUmx2X2YxbkwtVld2LTItM3BrV29vcjU3TFA5RHJ6dWVMSld2cENSQVFrTXdtZGw0SXVoeElvajlzRjAzZVpNN2NsbGNqRzZrUnVhVUVmaUdWcnhrRlI4c3hPVGpDMnhvZFhlVmhOMmhWTmUwNlY3Q2thZ2ZoOXRrMHlRM1I1ZFFZakdhNUpITzdNLTRDVmt1V0xYYVp6Wi0wc2lXWHk3NGlrVzBSbF9aT3M4UkhnMW9hM3BJNE92UTFNR2F1dkpMMWpVV1hFSFFMNNIB6AFBVV95cUxQaVQ1MnFUX05vTlpWemMyVVdCZDFfVmxMdmMwNzBISWR4R0I1VjBXRXdxWElONW5VdF85NTlDSVp6cjJLUkdxMlJBUjM0V3BfNkI0NU1yT0VtT1pDNGFLSXNhY2JFZXFoU2pONk9xaVllSlZBbV91SkNfNVhlNkQ3MnJNZHZBQmNKN2pEN3A0bVRLYWhDa0t3eWxQTHBlUGFFLWNBTEduU0kyYUJGWGR3eTEzc283cTNEdGZSZ0Y4SjB6SmJad3hwRUhiMm94YW14UzF5b0ppWERacnlORGpEMjBueFRRY1ZO?oc=5",
+      "titulo": "Dónde ver República Dominicana Sub17 vs Montenegro Sub17: canal y streaming - 365Scores",
+      "fuente": "365Scores",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhlbmxtVm5XQnJLSVZzeHVqZE9VTWZtbkZzSXJEVUxvdWdXSXlFTFAtemtnSmVrQjVHdXRvVHotUmpFbVB5azZ5cnFxMzZuWVRPbXpndUZDSW5mbzc5QW02WDkycXdfY0IxZVZxVmdiZGpLR3Q1LXVtR3JpbWlRMA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 03:09:33 GMT",
-      "imagen": "https://www.clarin.com/img/2025/04/30/KZNj8v3WE_2000x1500__1.jpg"
-    },
-    {
-      "titulo": "Destacan expansión mundial del voleibol en congreso en Dominicana - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxSUnpEdlJkdkdDQnotRk1XQjFhY2NIeFYtc3VwOFI3UUhfRDFkdDc3cjdCYVc5STlCODhZOFJfOEFCb0NoYkdra09uV0w3N25JcS03YXk3ekNVRURoQmQxcnRCSWFMZHFKaGhnenV6aGhtMi1QMjBxd1ZTSkRPRThrZ1V1bHRxRlRqTDJ2Sk4wV2tmLTdiTm9Hb3oxUl9vOWtRdWFySW5EQQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sun, 22 Nov 2026 01:27:00 GMT",
-      "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/11/CONGRESS-DAY-1-1.jpg"
+      "fecha": "Sat, 21 Nov 2026 10:35:21 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Cumbre Mundial de Gobiernos: Panamá mira al turismo y República Dominicana a la logística - Bloomberg Línea",
