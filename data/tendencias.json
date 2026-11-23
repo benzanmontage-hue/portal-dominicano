@@ -1,30 +1,51 @@
 {
-  "updated": "2026-11-23T00:59:54.694715-04:00",
-  "hora": "00:59",
+  "updated": "2026-11-23T07:01:04.351602-04:00",
+  "hora": "07:01",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "clima de hoy",
+      "trafico": "10000+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, lunes 23 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-lunes-23-de-noviembre-de-2026-9795101.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
+      "termino": "posiciones lidom",
+      "trafico": "100+",
+      "noticia": "Con jonrones de Marte y Ozuna, Gigantes vencen a Leones en la LIDOM",
+      "enlace": "https://www.mlb.com/es/news/con-hr-s-de-marte-y-ozuna-gigantes-vencen-al-escogido-en-la-lidom",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwN3vtTan9KFaRXEgxLbnvKN15jrqWxzd8dVWhcniFv1qf3xGOHgE_vbCncN4"
+    },
+    {
       "termino": "bulls - nuggets",
       "trafico": "100+",
-      "noticia": "Jamal Murray scores 45 as Nuggets hold off Bulls in 151-145 OT win",
-      "enlace": "https://www.cbssports.com/nba/news/jamal-murray-scores-45-as-nuggets-hold-off-bulls-in-151-145-ot-win/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ8N7h92HMp9qROpqPCf-47tFAU-PYIBKNG6WVPN0ABl_6gn0UWY_LbWN0xMQ"
+      "noticia": "Surging Nuggets visit Bulls as Nikola Jokic finds rhythm",
+      "enlace": "https://www.cbssports.com/nba/news/surging-nuggets-visit-bulls-as-nikola-jokic-finds-rhythm/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     },
     {
       "termino": "estrellas orientales",
       "trafico": "100+",
-      "noticia": "Estrellas logran su 7mo triunfo en forma seguida",
-      "enlace": "https://hoy.com.do/deportes/estrellas-logran-7mo-triunfo-forma-seguida_1109528.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X-ru8U7fZVOU6KmIHav4i9MGLOqRYnTeXuI23lum_iU6O41z3bsfEtnHlZs"
+      "noticia": "Las Estrellas no ceden y vencen a los Toros",
+      "enlace": "https://elnacional.com.do/deportes/estrellas-ceden-vencen-toros_586930.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyL8RXany21syVkyaeYBZAS7wFmqTUIamv4hDLD_GqYBfcQx5N9WJHkq_0Qg"
+    },
+    {
+      "termino": "festividad",
+      "trafico": "200+",
+      "noticia": "¿Es festivo el lunes 7 de diciembre? Las comunidades donde habrá puente y donde no",
+      "enlace": "https://www.idealista.com/news/finanzas/laboral/2026/11/20/925374-es-festivo-el-lunes-7-de-diciembre-las-comunidades-donde-habra-puente-y-donde-no",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcdJKZycz-pLZDEUi_YxrBYLyq_c1ENyGhebNXVgAGH0xf1ZpxPAHYKa47Js"
     },
     {
       "termino": "knicks - pacers",
       "trafico": "500+",
-      "noticia": "Karl-Anthony Towns leads Knicks past Pacers for fifth straight win",
-      "enlace": "https://www.cbssports.com/nba/news/karl-anthony-towns-leads-knicks-past-pacers-for-fifth-straight-win/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5PzeRV5sBF28qBNCYBfTIBwIk1XNhauFJvaG3MmWxp6EwWfrx8pDRUGr5Bw"
+      "noticia": "Indiana Pacers vs. New York Knicks Live Score and Stats - November 22, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_IND@NY/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
     },
     {
       "termino": "tabla de posiciones",
@@ -36,23 +57,16 @@
     {
       "termino": "warriors - celtics",
       "trafico": "2000+",
-      "noticia": "Warriors snap five-game skid, hand Celtics fourth straight loss",
-      "enlace": "https://www.cbssports.com/nba/news/warriors-snap-five-game-skid-hand-celtics-fourth-straight-loss/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
+      "noticia": "Jayson Tatum tallies 27 points against the Warriors",
+      "enlace": "https://www.nba.com/watch/video/highlights-from-jayson-tatum-27-point-game?plsrc=nba collection=jayson-tatum",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rFa3kjaok24gjI066x-UGl5hXFepM4kOIdkzjRz8V3bA-4ZKYe9GGVpXKK8"
     },
     {
       "termino": "jazz - mavericks",
       "trafico": "100+",
-      "noticia": "Cooper Flagg helps Mavericks survive Jazz rally for 116-114 win",
-      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-helps-mavericks-survive-jazz-rally-for-116-114-win/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ8N7h92HMp9qROpqPCf-47tFAU-PYIBKNG6WVPN0ABl_6gn0UWY_LbWN0xMQ"
-    },
-    {
-      "termino": "licey vs escogido",
-      "trafico": "100+",
-      "noticia": "Con jonrones de Marte y Ozuna, Gigantes vencen a Leones en la LIDOM",
-      "enlace": "https://www.mlb.com/es/news/con-hr-s-de-marte-y-ozuna-gigantes-vencen-al-escogido-en-la-lidom",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwN3vtTan9KFaRXEgxLbnvKN15jrqWxzd8dVWhcniFv1qf3xGOHgE_vbCncN4"
+      "noticia": "Dallas Mavericks vs. Utah Jazz Live Score and Stats - November 22, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DAL@UTA/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5PzeRV5sBF28qBNCYBfTIBwIk1XNhauFJvaG3MmWxp6EwWfrx8pDRUGr5Bw"
     },
     {
       "termino": "cuando es el miss universo 2026",
@@ -60,20 +74,6 @@
       "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
       "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
-    },
-    {
-      "termino": "licey",
-      "trafico": "500+",
-      "noticia": "Licey vira el marcador en el 5to vs. Leones",
-      "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
-    },
-    {
-      "termino": "operación militar",
-      "trafico": "2000+",
-      "noticia": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
-      "enlace": "https://www.bbc.com/mundo/articles/cmvg212k7lyko",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEDcvsL4z1J4LA2rObEOsYDOSxm_sxXb12PNSuC4doK2AuVbtImbOYWwfCd7c"
     }
   ]
 }
