@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-23T11:22:15.324183-04:00",
-  "hora": "11:22",
+  "updated": "2026-11-23T11:32:38.400471-04:00",
+  "hora": "11:32",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "nvidia stock",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
@@ -70,10 +70,10 @@
     },
     {
       "termino": "cuando es el miss universo 2026",
-      "trafico": "200+",
-      "noticia": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universe 2026",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/las-candidatas-latinas-deslumbran-en-traje-de-gala-en-la-preliminar-miss-universe-2026-tmvo13247304",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfB9Uh0_vKbScSMKIUt-FFPbpYTi4D7phSNK75NrSX5JM4duIO1_TmkY_wek"
+      "trafico": "500+",
+      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
     }
   ]
 }
