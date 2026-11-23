@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T07:54:35.104616-04:00",
-  "hora": "07:54",
+  "updated": "2026-11-23T08:05:06.275730-04:00",
+  "hora": "08:05",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,11 +13,25 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbbOTvA5PrsncICwyD_CVEdd51KrPj7ARdeMi2LBc_Txg-h9FKAGkJoxcWfHQ"
     },
     {
+      "termino": "clima de hoy",
+      "trafico": "10000+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, lunes 23 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-lunes-23-de-noviembre-de-2026-9795101.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02Nj7lgH_HnqKfRi1HSwOP1fHSWNFQRDJlxFjD8_FIfteaJzliH8drauCkwk"
+    },
+    {
       "termino": "posiciones lidom",
       "trafico": "100+",
       "noticia": "Con jonrones de Marte y Ozuna, Gigantes vencen a Leones en la LIDOM",
       "enlace": "https://www.mlb.com/es/news/con-hr-s-de-marte-y-ozuna-gigantes-vencen-al-escogido-en-la-lidom",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwN3vtTan9KFaRXEgxLbnvKN15jrqWxzd8dVWhcniFv1qf3xGOHgE_vbCncN4"
+    },
+    {
+      "termino": "powerball",
+      "trafico": "100+",
+      "noticia": "A Florida player won $114 million in Saturday’s Powerball drawing",
+      "enlace": "https://www.miamiherald.com/news/lottery/article318199599.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2Jk3HQxbJz3X9wzmK58ibCT3mO_1wT_KZN5mVpab_wjYtr7KouWLfKfRGo08"
     },
     {
       "termino": "bulls - nuggets",
@@ -60,20 +74,6 @@
       "noticia": "I wanted him to go left. Little better odds when he s …",
       "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
-    },
-    {
-      "termino": "jazz - mavericks",
-      "trafico": "100+",
-      "noticia": "Dallas Mavericks vs. Utah Jazz Live Score and Stats - November 22, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DAL@UTA/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5PzeRV5sBF28qBNCYBfTIBwIk1XNhauFJvaG3MmWxp6EwWfrx8pDRUGr5Bw"
-    },
-    {
-      "termino": "cuando es el miss universo 2026",
-      "trafico": "500+",
-      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
     }
   ]
 }
