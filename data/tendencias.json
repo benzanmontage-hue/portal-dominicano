@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T16:35:57.312812-04:00",
-  "hora": "16:35",
+  "updated": "2026-11-23T16:46:26.036514-04:00",
+  "hora": "16:46",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bono navideño 2026",
+      "trafico": "200+",
+      "noticia": "Gobierno lanza programa Navidad 360 para asistencia alimentaria",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/22/programa-navidad-360-lleva-asistencia-alimenticia-a-familias/3728337",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMkoOb3NEWwbFbvOMS--mqeMsGx9eNIevDImJ9oai69seJVaJSTwBeCftQoo"
+    },
     {
       "termino": "paul goldschmidt",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Juegos LIDOM hoy 21 de noviembre: horarios y posiciones",
       "enlace": "https://www.elcaribe.com.do/deportes/juegos-lidom-hoy-21-noviembre-2026/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRcPwuWI9N9YGSvWcjYF2jN1fbqsfeBh4Myx6gtyro3fprDQayWoPmSWFiG14"
-    },
-    {
-      "termino": "warriors - celtics",
-      "trafico": "5000+",
-      "noticia": "I wanted him to go left. Little better odds when he s …",
-      "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
     }
   ]
 }
