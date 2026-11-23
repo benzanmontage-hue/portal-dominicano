@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-23T14:51:56.454393-04:00",
-  "hora": "14:51",
+  "updated": "2026-11-23T15:02:18.639615-04:00",
+  "hora": "15:02",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "luis polonia",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "“Ya no hay dolientes”: Luis Polonia reacciona a situación de las Águilas",
       "enlace": "https://elnacional.com.do/deportes/hay-dolientes-reaccion-luis-polonia-sobre-situacion-atraviesan-aguilas-cibaenas_586932.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHT4HS4MKdpGY9TaJUDMSIq8TShNl__1h4CxSq3evv1e0BcU-U7UqsIMDr2A"
@@ -29,16 +29,23 @@
     {
       "termino": "powerball",
       "trafico": "100+",
-      "noticia": "A Florida player won $114 million in Saturday’s Powerball drawing",
-      "enlace": "https://www.miamiherald.com/news/lottery/article318199599.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2Jk3HQxbJz3X9wzmK58ibCT3mO_1wT_KZN5mVpab_wjYtr7KouWLfKfRGo08"
+      "noticia": "One Month Left to Claim $1 Million Powerball Prize; Winning Ticket Bought in Howell",
+      "enlace": "https://milotteryconnect.com/2026/11/23/one-month-left-to-claim-1-million-powerball-prize-winning-ticket-bought-in-howell/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
+    },
+    {
+      "termino": "celtics - warriors",
+      "trafico": "200+",
+      "noticia": "I wanted him to go left. Little better odds when he s …",
+      "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
     },
     {
       "termino": "bulls - nuggets",
       "trafico": "100+",
-      "noticia": "Giddey reveals Splitter sit-down led to historic 20-14-22 triple-double",
-      "enlace": "https://www.basketball.com.au/news/josh-giddey-22-assists-ben-simmons-33-triple-doubles-bulls",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgo86-eNRUIjmj-90TXlffWRiRUhXnJlkNoDmLnud5V9vb6gX17ytejvZXdHM"
+      "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DEN@CHI/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYv_qe69kWo7hICk1hlsglX6cj1gnVV_Fe5NbZTZTNG88Fagyu3WuAK852few"
     },
     {
       "termino": "festividad",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "warriors - celtics",
-      "trafico": "5000+",
-      "noticia": "I wanted him to go left. Little better odds when he s …",
-      "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
-    },
-    {
-      "termino": "jazz - mavericks",
-      "trafico": "100+",
-      "noticia": "NBA: Dallas Mavericks at Utah Jazz",
-      "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjk0MDE",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4JhfHi4maKVCojzJN9FXKpGRH1b4d8KU254diQh8jqtKcrpublUL4Dnag2PM"
+      "trafico": "2000+",
+      "noticia": "The Celtics have a shotmaking problem",
+      "enlace": "https://www.audacy.com/weei/sports/celtics/the-celtics-have-a-shotmaking-problem",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNlTxM2dR53hJkxPl6bWbPLCzryHwXjTTxvzMBFJ4LGDbMuw_61RBHtI_PYc"
     }
   ]
 }
