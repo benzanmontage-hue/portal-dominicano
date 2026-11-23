@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T22:23:38.068571-04:00",
-  "hora": "22:23",
+  "updated": "2026-11-22T22:33:58.073667-04:00",
+  "hora": "22:33",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "estrellas orientales",
+      "trafico": "100+",
+      "noticia": "Las Estrellas no ceden y vencen a los Toros",
+      "enlace": "https://elnacional.com.do/deportes/estrellas-ceden-vencen-toros_586930.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyL8RXany21syVkyaeYBZAS7wFmqTUIamv4hDLD_GqYBfcQx5N9WJHkq_0Qg"
+    },
     {
       "termino": "knicks - pacers",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "Bam Adebayo leads Heat past Thunder for 7th straight win",
       "enlace": "https://www.cbssports.com/nba/news/bam-adebayo-leads-heat-past-thunder-for-7th-straight-win/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
-    },
-    {
-      "termino": "river plate - lanús",
-      "trafico": "200+",
-      "noticia": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor",
-      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-river-plate-vs-lanus-llave-2-id772416.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumIJFP34eH_BM6t4oNHUNsQrimf8q01KYb7Z7nuyeCWFisJXWhT9766LzQTg"
     }
   ]
 }
