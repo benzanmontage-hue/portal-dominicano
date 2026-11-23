@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:58:06-04:00",
+ "updated": "2026-11-23T00:08:23-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -73,21 +73,6 @@
   }
  ],
  "juegos": [
-  {
-   "id": 851562,
-   "fecha": "2026-11-12",
-   "hora": "19:30",
-   "estado": "Final",
-   "detalle": "Final",
-   "visitante": "Toros del Este",
-   "visitante_id": 668,
-   "carreras_v": 4,
-   "local": "Aguilas Cibaenas",
-   "local_id": 667,
-   "carreras_l": 7,
-   "estadio": "Estadio Cibao",
-   "serie": "Regular Season"
-  },
   {
    "id": 851507,
    "fecha": "2026-11-13",
@@ -566,6 +551,51 @@
    "local_id": 669,
    "carreras_l": null,
    "estadio": "Estadio Tetelo Vargas",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851521,
+   "fecha": "2026-11-27",
+   "hora": "19:30",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Toros del Este",
+   "visitante_id": 668,
+   "carreras_v": null,
+   "local": "Estrellas Orientales",
+   "local_id": 669,
+   "carreras_l": null,
+   "estadio": "Estadio Tetelo Vargas",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851551,
+   "fecha": "2026-11-27",
+   "hora": "19:30",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Leones del Escogido",
+   "visitante_id": 671,
+   "carreras_v": null,
+   "local": "Aguilas Cibaenas",
+   "local_id": 667,
+   "carreras_l": null,
+   "estadio": "Estadio Cibao",
+   "serie": "Regular Season"
+  },
+  {
+   "id": 851449,
+   "fecha": "2026-11-27",
+   "hora": "19:30",
+   "estado": "Preview",
+   "detalle": "Scheduled",
+   "visitante": "Gigantes del Cibao",
+   "visitante_id": 670,
+   "carreras_v": null,
+   "local": "Tigres del Licey",
+   "local_id": 672,
+   "carreras_l": null,
+   "estadio": "Estadio Quisqueya Juan Marichal",
    "serie": "Regular Season"
   }
  ],
