@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-23T10:30:24.253252-04:00",
-  "hora": "10:30",
+  "updated": "2026-11-23T10:40:48.909093-04:00",
+  "hora": "10:40",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nvidia",
-      "trafico": "100+",
-      "noticia": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
-      "enlace": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAiFQNJi52i7iI_cfTMtVcpju0LFzBbA46qCZrWqlizOatc5ZgLmLvcVwi3M"
+      "termino": "nvidia stock",
+      "trafico": "500+",
+      "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
     },
     {
       "termino": "uasd",
