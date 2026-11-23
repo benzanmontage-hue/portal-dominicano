@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T15:02:18.639615-04:00",
-  "hora": "15:02",
+  "updated": "2026-11-23T15:12:49.474976-04:00",
+  "hora": "15:12",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -34,13 +34,6 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
     },
     {
-      "termino": "celtics - warriors",
-      "trafico": "200+",
-      "noticia": "I wanted him to go left. Little better odds when he s …",
-      "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
-    },
-    {
       "termino": "bulls - nuggets",
       "trafico": "100+",
       "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
@@ -70,10 +63,17 @@
     },
     {
       "termino": "warriors - celtics",
-      "trafico": "2000+",
-      "noticia": "The Celtics have a shotmaking problem",
-      "enlace": "https://www.audacy.com/weei/sports/celtics/the-celtics-have-a-shotmaking-problem",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNlTxM2dR53hJkxPl6bWbPLCzryHwXjTTxvzMBFJ4LGDbMuw_61RBHtI_PYc"
+      "trafico": "5000+",
+      "noticia": "I wanted him to go left. Little better odds when he s …",
+      "enlace": "https://sports.yahoo.com/articles/wanted-him-left-little-better-100052608.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV8yLwPbL6w8MOkWuF9yZ4jbT9RP5Paa8KJZDJjIQ5LG9j0LiwnLCyPos1cMU"
+    },
+    {
+      "termino": "jazz - mavericks",
+      "trafico": "100+",
+      "noticia": "NBA: Dallas Mavericks at Utah Jazz",
+      "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjk0MDE",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4JhfHi4maKVCojzJN9FXKpGRH1b4d8KU254diQh8jqtKcrpublUL4Dnag2PM"
     }
   ]
 }
