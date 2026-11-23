@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-23T17:29:15.310235-04:00",
-  "hora": "17:29",
+  "updated": "2026-11-23T17:39:42.030798-04:00",
+  "hora": "17:39",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "manny manuel",
+      "trafico": "200+",
+      "noticia": "El cantante Manny Manuel detenido por manejar bajo los efectos del alcohol",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/23/arresto-de-manny-manuel-por-estado-de-embriaguez/3729216",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4F5VfQ1RNy-OX4Knb58bkJHJtWEn5t_rwNodk9mXaRruTv4lYf5UUbia0448"
+    },
+    {
+      "termino": "levante - elche c. f.",
+      "trafico": "100+",
+      "noticia": "Levante - Elche, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga",
+      "enlace": "https://www.elespanol.com/deportes/20261123/levante-elche-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-liga/1003744469408_22.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu-aGUltvO__NFk_-9mH3rwm3lI55UNtK24qW8tgf50qqdYyy_XFH2p01seA"
+    },
     {
       "termino": "francisca lachapel",
       "trafico": "100+",
@@ -21,7 +35,7 @@
     },
     {
       "termino": "paul goldschmidt",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "1B Goldschmidt agrees to deal with busy Mets (source)",
       "enlace": "https://www.mlb.com/news/paul-goldschmidt-mets-contract",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBPBRuxu8451Y-P0k7NYRImrvoaPO4Z9cPJoF679RVRdSaTaG6JDqcaMbnPIE"
@@ -60,20 +74,6 @@
       "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DEN@CHI/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYv_qe69kWo7hICk1hlsglX6cj1gnVV_Fe5NbZTZTNG88Fagyu3WuAK852few"
-    },
-    {
-      "termino": "festividad",
-      "trafico": "200+",
-      "noticia": "Castromonte muestra su devoción a San Clemente en su festividad",
-      "enlace": "https://www.elnortedecastilla.es/valladolid/provincia/castromonte-muestra-devocion-san-clemente-festividad-20261123174610-nt.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWBLmV_4-ycM_-ySOCF9SPpyCiEP8iZs3P8Ic15IZ90JuOCoVTglIG2fr-5jw"
-    },
-    {
-      "termino": "knicks - pacers",
-      "trafico": "500+",
-      "noticia": "Indiana Pacers vs. New York Knicks Live Score and Stats - November 22, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_IND@NY/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
     }
   ]
 }
