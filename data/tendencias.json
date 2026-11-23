@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-22T21:31:48.226627-04:00",
-  "hora": "21:31",
+  "updated": "2026-11-22T21:42:11.134817-04:00",
+  "hora": "21:42",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "warriors - celtics",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Warriors host Celtics looking to snap five-game skid",
       "enlace": "https://www.cbssports.com/nba/news/warriors-host-celtics-looking-to-snap-five-game-skid/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
@@ -18,6 +18,13 @@
       "noticia": "Jazz host Mavericks seeking third win in four games",
       "enlace": "https://www.cbssports.com/nba/news/jazz-host-mavericks-seeking-third-win-in-four-games/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+    },
+    {
+      "termino": "licey vs escogido",
+      "trafico": "100+",
+      "noticia": "Con jonrones de Marte y Ozuna, Gigantes vencen a Leones en la LIDOM",
+      "enlace": "https://www.mlb.com/es/news/con-hr-s-de-marte-y-ozuna-gigantes-vencen-al-escogido-en-la-lidom",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwN3vtTan9KFaRXEgxLbnvKN15jrqWxzd8dVWhcniFv1qf3xGOHgE_vbCncN4"
     },
     {
       "termino": "cuando es el miss universo 2026",
@@ -43,16 +50,16 @@
     {
       "termino": "heat - thunder",
       "trafico": "500+",
-      "noticia": "Licensable picture: NBA: Oklahoma City Thunder at Miami Heat",
-      "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-miami-heat/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjg2MTE",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpY4pYcRYXIiXm2v4k_DBxIq1lweM3V5sEKZMKRn3vnlhftO0-CQPihOkMEl8"
+      "noticia": "Thunder Face Heat as Aday Mara Takes on Miami Frontcourt",
+      "enlace": "https://cwibc.co.id/en/thunder-heat-aday-mara-frontcourt-test",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr4cSxUqqKNKIlu0JFqCj9TVqbEv4ejvwknqBtWYKxNrVs5aCXSvOuYbSKS5A"
     },
     {
       "termino": "river plate - lanús",
       "trafico": "200+",
-      "noticia": "Con un Almada figura, River le ganó un partido chivo a Lanús y se metió en los cuartos del Torneo Clausura",
-      "enlace": "https://www.ole.com.ar/futbol-primera/river-vs-lanus-vivo-torneo-clausura-octavos-final-dia-hora-ver-tv-online-formaciones_0_MRF0JWz6I1.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_nmfIMMzsfcKED408hull8znJsyhHFj8fE4rLkfQ-LOAqra9yYaESFGbqmKA"
+      "noticia": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor",
+      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-river-plate-vs-lanus-llave-2-id772416.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumIJFP34eH_BM6t4oNHUNsQrimf8q01KYb7Z7nuyeCWFisJXWhT9766LzQTg"
     },
     {
       "termino": "lluvia",
@@ -67,13 +74,6 @@
       "noticia": "Getafe 0-3 Atlético (Nov 22, 2026) Game Analysis",
       "enlace": "https://www.espn.com/soccer/report/_/gameId/401882803",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKevTzBAl2od1HX3hwITCaSJgb0zBPAb6KCTKWCi71kAC17XPogbYNXEG0fKQ"
-    },
-    {
-      "termino": "tarik skubal",
-      "trafico": "500+",
-      "noticia": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
-      "enlace": "https://www.mlb.com/news/tarik-skubal-mets-contract",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kPypN_J1Kz2I914iVTdj-bdeWf8q41vkYgOUwr7qA6nvagWH_YECgplOvTM"
     }
   ]
 }
