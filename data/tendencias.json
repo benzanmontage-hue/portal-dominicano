@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T10:19:57.186967-04:00",
-  "hora": "10:19",
+  "updated": "2026-11-23T10:30:24.253252-04:00",
+  "hora": "10:30",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nvidia",
+      "trafico": "100+",
+      "noticia": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+      "enlace": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAiFQNJi52i7iI_cfTMtVcpju0LFzBbA46qCZrWqlizOatc5ZgLmLvcVwi3M"
+    },
     {
       "termino": "uasd",
       "trafico": "1000+",
@@ -65,15 +72,8 @@
       "termino": "jazz - mavericks",
       "trafico": "100+",
       "noticia": "NBA: Dallas Mavericks at Utah Jazz",
-      "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjkzOTg",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSf5A_ZnGpZvCTQiWqPw92EQanU3OGQqB2MxNPW2PuvZeacMCtuBsSo9YfjlY"
-    },
-    {
-      "termino": "cuando es el miss universo 2026",
-      "trafico": "500+",
-      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
+      "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjk0MDE",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4JhfHi4maKVCojzJN9FXKpGRH1b4d8KU254diQh8jqtKcrpublUL4Dnag2PM"
     }
   ]
 }
