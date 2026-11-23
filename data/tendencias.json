@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-22T21:11:08.961052-04:00",
-  "hora": "21:11",
+  "updated": "2026-11-22T21:21:29.810336-04:00",
+  "hora": "21:21",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "warriors - celtics",
+      "trafico": "200+",
+      "noticia": "Warriors host Celtics looking to snap five-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/warriors-host-celtics-looking-to-snap-five-game-skid/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+    },
+    {
+      "termino": "jazz - mavericks",
+      "trafico": "100+",
+      "noticia": "Jazz host Mavericks seeking third win in four games",
+      "enlace": "https://www.cbssports.com/nba/news/jazz-host-mavericks-seeking-third-win-in-four-games/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+    },
     {
       "termino": "cuando es el miss universo 2026",
       "trafico": "200+",
@@ -14,7 +28,7 @@
     },
     {
       "termino": "licey",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Mauricio impulsa tres en triunfo del Licey",
       "enlace": "https://www.mlb.com/es/video/mauricio-impulsa-tres-en-triunfo-del-licey",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWDVgCW5nPsFuOP3LoCAVDQ0WOlV5sE5vasfJs-G35YhJ7Z1j2WzCOPFB7CcM"
@@ -36,9 +50,9 @@
     {
       "termino": "river plate - lanús",
       "trafico": "200+",
-      "noticia": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor",
-      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-river-plate-vs-lanus-llave-2-id772416.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumIJFP34eH_BM6t4oNHUNsQrimf8q01KYb7Z7nuyeCWFisJXWhT9766LzQTg"
+      "noticia": "Con un Almada figura, River le ganó un partido chivo a Lanús y se metió en los cuartos del Torneo Clausura",
+      "enlace": "https://www.ole.com.ar/futbol-primera/river-vs-lanus-vivo-torneo-clausura-octavos-final-dia-hora-ver-tv-online-formaciones_0_MRF0JWz6I1.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_nmfIMMzsfcKED408hull8znJsyhHFj8fE4rLkfQ-LOAqra9yYaESFGbqmKA"
     },
     {
       "termino": "lluvia",
@@ -60,20 +74,6 @@
       "noticia": "Skubal joining Mets for 9 years, $450M (source)",
       "enlace": "https://www.mlb.com/news/tarik-skubal-mets-contract",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBwGt-A66xDpjDnsFSdLecMSomFDhLyLQc4NLxi2SoBJUpN9_8yv6zsA_wz8Q"
-    },
-    {
-      "termino": "narcotraficante",
-      "trafico": "500+",
-      "noticia": "México asesta otro duro golpe al narco con la captura del Chapo Isidro",
-      "enlace": "https://elpais.com/mexico/2026-11-22/mexico-asesta-otro-duro-golpe-al-narco-con-la-captura-del-chapo-isidro.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjzHzj8SGhuca0w6Zvghw1H2HHqo42VL8vu7MFaKRY8fbjSxjx6k7orWCQxJw"
-    },
-    {
-      "termino": "cuba",
-      "trafico": "200+",
-      "noticia": "He fled Cuba to avoid US bombs. Baseball gave him a way out",
-      "enlace": "https://www.usatoday.com/story/news/world/2026/11/22/cuban-baseball-player-fled-brazil-escape-threat-us-military-attack/92630271007/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSski5VrN3HdP41De03Qo7yZIhtNxG2MAvivHdzNB6KqoyVAyvFKQKLFObZ5e8"
     }
   ]
 }
