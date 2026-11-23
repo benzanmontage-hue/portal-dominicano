@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T16:25:37.754349-04:00",
-  "hora": "16:25",
+  "updated": "2026-11-23T16:35:57.312812-04:00",
+  "hora": "16:35",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "paul goldschmidt",
+      "trafico": "100+",
+      "noticia": "1B Goldschmidt agrees to deal with busy Mets (source)",
+      "enlace": "https://www.mlb.com/news/paul-goldschmidt-mets-contract",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBPBRuxu8451Y-P0k7NYRImrvoaPO4Z9cPJoF679RVRdSaTaG6JDqcaMbnPIE"
+    },
     {
       "termino": "luis polonia",
       "trafico": "500+",
@@ -14,31 +21,24 @@
     },
     {
       "termino": "nvidia stock",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
     },
     {
-      "termino": "nvidia",
-      "trafico": "500+",
-      "noticia": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S P 500 rebounds 4%: Live updates",
-      "enlace": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh6zwE6mHRLtbqwj2LuTFmuqQZv8G3SEFFh8q4CoJwIU6kgdI41ySkhXyn7c"
-    },
-    {
       "termino": "uasd",
       "trafico": "5000+",
-      "noticia": "Directora UASD Barahona pide verificar informaciones periodísticas",
-      "enlace": "https://lalupadelsur.com/2026/11/23/directora-uasd-barahona-verificar-informaciones/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbbOTvA5PrsncICwyD_CVEdd51KrPj7ARdeMi2LBc_Txg-h9FKAGkJoxcWfHQ"
+      "noticia": "Rector de la UASD aboga por una reforma educativa integral y de largo plazo en RD",
+      "enlace": "https://elnacional.com.do/nacionales/rector-uasd-aboga-reforma-educativa-integral-plazo-republica-dominicana_586973.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJmQY1lwGtESHa8FQYq4vdmaBsoC_z7FRmJv_ehCnbDzBoGiIMzaOVMyk9QZU"
     },
     {
       "termino": "powerball",
       "trafico": "100+",
-      "noticia": "It s Not Powerball, But NJ Lottery Player Wins With Scratch-Off At Edgewater ShopRite Supermarket",
-      "enlace": "https://patch.com/new-jersey/ridgewood/its-not-powerball-nj-lottery-player-wins-scratch-edgewater-shoprite-supermarket",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsVNnL4PhzQLT5k1trpkMbrLRFEPUF_k2cPhEdvy58dTbzVGtS2aBClPMjxI"
+      "noticia": "One Month Left to Claim $1 Million Powerball Prize; Winning Ticket Bought in Howell",
+      "enlace": "https://milotteryconnect.com/2026/11/23/one-month-left-to-claim-1-million-powerball-prize-winning-ticket-bought-in-howell/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
     },
     {
       "termino": "bulls - nuggets",
