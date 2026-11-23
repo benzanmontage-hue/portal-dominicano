@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-23T18:10:53.441355-04:00",
-  "hora": "18:10",
+  "updated": "2026-11-23T18:21:17.617390-04:00",
+  "hora": "18:21",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "manny manuel",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "El cantante Manny Manuel detenido por manejar bajo los efectos del alcohol",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/23/arresto-de-manny-manuel-por-estado-de-embriaguez/3729216",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4F5VfQ1RNy-OX4Knb58bkJHJtWEn5t_rwNodk9mXaRruTv4lYf5UUbia0448"
@@ -15,9 +15,9 @@
     {
       "termino": "levante - elche c. f.",
       "trafico": "100+",
-      "noticia": "Requena, con un gol en el 88 , salva un punto para el Levante",
-      "enlace": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-levante-elche-primera-division-jornada-13-23-20261123_3480606.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAGn70Dbd-zOkhn8LDyvZ3xaKmUAUGVZsd9EWEYvNTibk5IV79fsUjgQQmr4A"
+      "noticia": "Alineaciones confirmadas de Levante y Elche en la jornada 13 de LALIGA EA Sports",
+      "enlace": "https://www.eldesmarque.com/futbol/liga-1a-division/20261123/alineaciones-confirmadas-levante-elche-jornada-13-laliga-ea-sports_18_020793237.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWN6LfWFP5nmf7_J7QiM0BXVGxOIlOWzPVpTSzQnDzmznEDG2UhBVW90lRjI4"
     },
     {
       "termino": "francisca lachapel",
@@ -49,17 +49,10 @@
     },
     {
       "termino": "nvidia stock",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
-    },
-    {
-      "termino": "jensen huang",
-      "trafico": "200+",
-      "noticia": "Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business",
-      "enlace": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmehSfse-LB771GrxEhBmXGc5roTgcr4FMIxF1o-i76xyT_B0_xrDZy3wbJEM"
     },
     {
       "termino": "uasd",
@@ -74,6 +67,13 @@
       "noticia": "One Month Left to Claim $1 Million Powerball Prize; Winning Ticket Bought in Howell",
       "enlace": "https://milotteryconnect.com/2026/11/23/one-month-left-to-claim-1-million-powerball-prize-winning-ticket-bought-in-howell/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
+    },
+    {
+      "termino": "bulls - nuggets",
+      "trafico": "100+",
+      "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DEN@CHI/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYv_qe69kWo7hICk1hlsglX6cj1gnVV_Fe5NbZTZTNG88Fagyu3WuAK852few"
     }
   ]
 }
