@@ -1,15 +1,9 @@
 {
-  "updated": "2026-11-23T16:56:54.108449-04:00",
-  "hora": "16:56",
+  "updated": "2026-11-23T17:07:16.070270-04:00",
+  "hora": "17:07",
   "fecha": "23/11/2026",
   "total": 12,
   "eventos": [
-    {
-      "titulo": "Turismo apuesta a los conciertos para elevar la ocupación hotelera de Santo Domingo - El Dia.com.do",
-      "fuente": "El Dia.com.do",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5yOGY1MnhFMlMyUy1JVDB1TUNXRWF2a0xjME12azJlbWQ0UlpGYTZNdmo4dFRHcEtyNUFqSVVhVW10UlpCZjd0S2NrYmx4TERIU2ZzN1E5MDBrcHFGSWZqc2prSnZUNDh6MXd5NnlFNkNXTEpCRzNkQ083VDduQnExVWM2cXVTNkFJa0dCMjVXLUJURkpJT21LNm5STnJpdTJDSXkzdG4?oc=5",
-      "fecha": "Mon, 23 Nov 2026 17:33:13 GMT"
-    },
     {
       "titulo": "Karol G aplaza su concierto en República Dominicana y anuncia nueva fecha para abril de 2027 - El Universo",
       "fuente": "El Universo",
@@ -35,6 +29,12 @@
       "fecha": "Fri, 20 Nov 2026 03:15:00 GMT"
     },
     {
+      "titulo": "Turismo apuesta a los conciertos para elevar la ocupación hotelera de Santo Domingo - El Dia.com.do",
+      "fuente": "El Dia.com.do",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5yOGY1MnhFMlMyUy1JVDB1TUNXRWF2a0xjME12azJlbWQ0UlpGYTZNdmo4dFRHcEtyNUFqSVVhVW10UlpCZjd0S2NrYmx4TERIU2ZzN1E5MDBrcHFGSWZqc2prSnZUNDh6MXd5NnlFNkNXTEpCRzNkQ083VDduQnExVWM2cXVTNkFJa0dCMjVXLUJURkpJT21LNm5STnJpdTJDSXkzdG4?oc=5",
+      "fecha": "Mon, 23 Nov 2026 17:33:13 GMT"
+    },
+    {
       "titulo": "¿Cómo ha cambiado el mapa de los conciertos en República Dominicana? - Diario Libre",
       "fuente": "Diario Libre",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmJJX2FEZzF2ZXBOSFdhSWlsZVJjeVlDS2habnVXMXZKVG11ei1FcmdvaGIyaHpQTWkxWU9SNmwzODNXblVGbUVYTFd2aXRhSy1SMG10Y3AxMTdXOHhfMXEzc0I3ZnFvZXRPOUtFQUI4OFRfcWUxS3NEcF9HMVVyZEwtZ0tOdXF2bVFHdjlHZEJ4VkpyaUs0YkFXVTRzWFZBQmZfaVpfQUdSV09ONlRXYlpTZWs4a1dWTjVHQ3RuLWFyZTdTSEpB0gHMAUFVX3lxTE1GZDFiSEFtbHd6bjBROUhtd25lTGo2cTBLVEZScEhGUldkSmQwU3d5R1B5WENNUEhNanI5UU5MQ19VYTZuX0IyS3U4S25Td2M3Q2JmUVgxbnhZTVlORmhhdVlkSi1TS2d5YTdxbGZfNVhIcVRHUXVkRjJacFZhMllYdHJWTUVxVHlVUVExekhsYzIwdlRwM3R4NDN2LVJGMk1HUzZPRVRwUXpoU2hiUEF3dENJMFRKOXB4WFZhWG52NDM0WmsyaWsxSGdPeA?oc=5",
@@ -53,16 +53,16 @@
       "fecha": "Sun, 23 Nov 2025 08:00:00 GMT"
     },
     {
+      "titulo": "Cultura en el Sur cierra con homenaje a Dionisio Blanco y concierto de la Big Band Dominicana - Presidencia de la República Dominicana",
+      "fuente": "Presidencia de la República Dominicana",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2ZNVGVMdEQxNl9VNEgzOXM3SU43Yy1lVHVnUzdJOUZQdjBGbHJIdVZfSnpndTY3WHBqd3F4dEpQQmtiOWRCRm9URFFORlU2X0FOQ1lQN3ROMlFXSVlGN21BRWlReUlIT2haTWhna1lWcEJQQ2dKc182TzZuUHpzZVdpaGVlY0JMQjBHcElSWVBqVVpzX0I5RDZUcEZsRmY2T0VuUzFZTVhqSmQyM2NRRFIwY0U3ZUE?oc=5",
+      "fecha": "Mon, 16 Nov 2026 14:57:25 GMT"
+    },
+    {
       "titulo": "Saymon Díaz garantiza presencia de Don Omar en Festival Presidente pese a problemas de salud - El Dia.com.do",
       "fuente": "El Dia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXpESnIzS3dyaXlxNEYycEY5VWF3Z0VMZVBXNnJqRlJMVk9CSDFDNVdnNmFHanZaWFkyR2d5TmJQV0dGNlVuQ3NPdlBNLS11RDJQa1FKaHFYWU92NU9KOXJha2hPYUVrbnJ4Q2Q1UVJhcmtHMkFEVEM3OUVJSFRxZmpFcVRCNkhVRzN4Tk1UMS05czdNcEJiSGZzcGV6Y21jOUx5aEJEbVhZWUloOGJ1aEgycTM?oc=5",
       "fecha": "Mon, 23 Nov 2026 19:30:00 GMT"
-    },
-    {
-      "titulo": "¿Te gusta el merengue? Este concierto gratuito reunirá a más de 20 estrellas dominicanas - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTJlYXlnd0lMVEhnejIxNWlFOVNUQ1RqNEFMN2x4MmQzbW5FYVkxZXNjNXFpMFJndV9LYklUTkdiNFJCNU8xLTNacXJWdWhmbGFOVUZvSjE5d3VOSUtScDc1cnNWSTRnVXlqaEdDWkdyN0otSHJrQVdXQmJVV2Rzb0VUM2VMeE4zWWF1MXotdHdxcXhOdGFfZExJei1tR1c4c0J1Q0hCeDkzTEFJTWdkVUFseDJQN1pYYi1RYmg5OUdZMWdjV2lpUdIBzgFBVV95cUxPNDYzNlh2WVZWUVVlcmpJbjAwLUF5M1pvd3J5c0oxb3pZYVdfTGxFM0o3OUxuVTg4UG9STThicU5YMzNkNkRPRGxPLU8xUlpBYmxfeXZjRktHa29UaG1OX0dlN3VDSWpSMmtySE1CMk01VmRaOXV1bEVZejgtUVZYOUNqV0FQNzd4TmNMZmFSQkNBa0dGdkhpcDNPQkh2Q0Fhd19IODlZbWxGdEtBdS1heUZ0TEF6TVV6SWY4R0tTNkRnS2hCN1pKdml5R1BIUQ?oc=5",
-      "fecha": "Sun, 22 Nov 2026 16:19:35 GMT"
     },
     {
       "titulo": "Una historia de tres décadas: “El Potrillo” regresa a República Dominicana con un show de alto nivel en Punta Cana - Infobae",
