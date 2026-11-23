@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T22:13:21.739282-04:00",
-  "hora": "22:13",
+  "updated": "2026-11-22T22:23:41.842047-04:00",
+  "hora": "22:23",
   "fecha": "22/11/2026",
   "total": 12,
   "eventos": [
@@ -35,8 +35,14 @@
       "fecha": "Sun, 22 Nov 2026 16:19:35 GMT"
     },
     {
-      "titulo": "Kapo anuncia concierto en República Dominicana - Listín Diario",
-      "fuente": "Listín Diario",
+      "titulo": "Chyno y Nacho volverán a Venezuela después de diez años con un concierto de aniversario - El Universo",
+      "fuente": "El Universo",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMHh1TklUdTdqRjBGbTFaMnZTcWFGWXpoTENQd1NCbVJwTFlCOXV3QUFsZFIxQmNtcUV2Wmx5ODItajFJdHpjWWdaSTkwcUUwZml2bzhFMlZoLVREQi1sNERkVXpmT2hxal9SMFAydlo4R1Y0SUM3dWVpYV92dXRkdjh0SVhvaFNTTE1LTkNwWWZtZkFHY1pUczFOS0xGVi1ha0xmaklQRUR5UTZMUU9pX2hVZk90cVp2dDdGeTFOd3N3TlRCUkFCUTE1TTdxcjlYZWF2MmJCZkVDdVnSAe8BQVVfeXFMTTItRG9YZHJLN2x0aVVXQnVqd183YWJMNmlTSFc2S0RjZTJoWVY2YXo2a2JjMGU5Nm94WHhob3NrUEFjUmJkVWR5RklOVmowOHRRTWhYWGpkZEdUa0dZc1VJUll5Q2JhMHpIdjM4QXVhTVpsNVlDMFhPamxlSVJfdGZpeG54SExpUnhFazU0eUg3ZlZEWHZobXllMmMyajRHUUhPRGZHeDBmMl9aTVdFcnpfZ0k3bC1wZDRSNE9XelZrVEZpSS1PTXlBWnh0Z3FpZ1VYZHhqdmdqcGNZWkNCVExqX0tLckpfZURSNlZ4YXc?oc=5",
+      "fecha": "Fri, 20 Nov 2026 18:06:00 GMT"
+    },
+    {
+      "titulo": "Kapo anuncia concierto en República Dominicana - Listin Diario",
+      "fuente": "Listin Diario",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Z0NVliSFp3aGhnODAtVERSeGthbzJzLVBlOENvLXNfdUVsNy1xU1pHV0Q3MW0xQUdKb01vMTgtZkt4VzAybkVqTXU1RnpNaUVOTUM5dEUzMmo1RlRpZmVXZG15SV96WEZWQkpkWjBQRzUzandoRmFLLW4xOS12ck1lWGVBaFBSQ3lQMTBUZlVQZEZTd1Q1azV4UDllZGJGdmNvYnZKVTlVY25MS19sVmlUMDdMVDjSAbwBQVVfeXFMUEV4U3pqOFpWMEVYSjlBQVItdGFhLUZBODFqcUl1SVhEMXBqSkE3Z2tRcHg5RlJuZFhMYmpaTVJucjEzVzRCQ3lkYkdLY3ZKb2dMTWxSSWJ6Q3g0UVBUcGROYXZuRnNYVm9ZQVc3YV92Ry1rb1ZIQ2JTVWIzZ2hUZEJfajd1Wnh0YTFYNHJPOWEzVnp0UjdSYjAxMVRia01DX2hSQkNSZGF0UkFKd3FKRl96QzZVRE52X0t2M3U?oc=5",
       "fecha": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
@@ -69,12 +75,6 @@
       "fuente": "El Dia.com.do",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1Z6TG9XYVRQU3lFMTh2aTNldzJSbUNnVGdLYkRTX09mbkNFVm02SlZxWG83VkZXVjR0MEw1cGUyT3JwSlVsVEVmNkg4cW10Mk90OENwX0xobFYzcVdtYXJUMzM5T0s4YUVxMjg3WnV1Rk9zdFZBOWx0RXU1MVFuZGhsNjlIMTNfZU9obmxPSWxpOGkxaThFd1VZbFI2b3RFU0djczBlMlk3ek1yeXhhQ29UTk5WOWp6dEVzTTlrWkk?oc=5",
       "fecha": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "titulo": "¿Es apropiación cultural lucir un tubi en el concierto de Bad Bunny? - EL PAÍS",
-      "fuente": "EL PAÍS",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkhPbkQzYzJEcjlVZDg4NGhtT0hGdGNULWEtYVhqLXBubmdxeWlKcHQtZ3FTcm1lS2o5MlMxMHVodjl1X0ZtNU5YbnNZUW9VUE1fZ09FdEpRWGpyZi1VT0tGT1FWbEp2YnAzczhaSEFqLXFfZXhyU0d3WVdSQWJrWm1TR3MyTnVMTHFVTTJEZFdJSWp5LUkzMVF2d3JReEItY3p1eG4zREZBTDI1eDJZOGh4aU10Z1Z0TW5nbnNJTnc3Z9IB1gFBVV95cUxPVl9iUFhkdGJVNGxlOXJkdkFDcUFzTGJGek10dE1YRUNzQjIyaTREQk96LVpFdDBuNEVQclJUQkloSlVLeF9UU1MyQjZPTFFTdjhOTlZlNmJ0MTAxeG91X1pCcE9sTXI4bTVqd29UeXVnNlVTSXZwZnZpRnJBT1k2MVE0Vk5HR2NXMTEyQ01RUU52NDJDVVp2dE9ncENLdElXaE5WVGpIR1dabldkY0RFc3VuSlByVXVpbnU4dDRUUUhVcmJnSFEzeUpCejlfalBaVXV0NS1n?oc=5",
-      "fecha": "Tue, 02 Jun 2026 07:00:00 GMT"
     }
   ]
 }
