@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:23:26.476716-04:00",
+ "updated": "2026-11-23T19:33:46.591970-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -404,11 +404,11 @@
    "compania": "King Lottery",
    "juego": "King Lottery Noche",
    "numeros": [
-    "32",
-    "55",
+    "83",
+    "03",
     "12"
    ],
-   "fecha": "2026-11-22T04:00:00.000Z",
+   "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d670"
   },
   {
@@ -427,12 +427,12 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Noche",
    "numeros": [
-    "17",
-    "70",
-    "51",
-    "00"
+    "82",
+    "76",
+    "68",
+    "52"
    ],
-   "fecha": "2026-11-22T04:00:00.000Z",
+   "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d64c"
   },
   {
@@ -472,11 +472,11 @@
    "compania": "King Lottery",
    "juego": "Pick 3 Noche",
    "numeros": [
-    "4",
-    "3",
-    "2"
+    "8",
+    "8",
+    "3"
    ],
-   "fecha": "2026-11-22T04:00:00.000Z",
+   "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d658"
   },
   {
@@ -495,12 +495,12 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Noche",
    "numeros": [
-    "5",
-    "5",
+    "0",
+    "3",
     "1",
     "2"
    ],
-   "fecha": "2026-11-22T04:00:00.000Z",
+   "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d664"
   },
   {
