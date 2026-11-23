@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-22T21:42:11.134817-04:00",
-  "hora": "21:42",
+  "updated": "2026-11-22T21:52:32.592783-04:00",
+  "hora": "21:52",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "knicks - pacers",
+      "trafico": "200+",
+      "noticia": "Knicks seek fifth straight win in clash with rival Pacers",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-fifth-straight-win-in-clash-with-rival-pacers/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+    },
+    {
+      "termino": "tabla de posiciones",
+      "trafico": "200+",
+      "noticia": "Por segunda vez en la historia tres walk off en una jornada",
+      "enlace": "https://listindiario.com/el-deporte/20261120/segunda-vez-historia-tres-walk-off-jornada_930950.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwGfzx0cg_RyEeQV-4fG34661XtAsKHTW7MF_RewOmpfUVDm4tpwbxdR53dro"
+    },
     {
       "termino": "warriors - celtics",
       "trafico": "500+",
@@ -36,13 +50,13 @@
     {
       "termino": "licey",
       "trafico": "200+",
-      "noticia": "Mauricio impulsa tres en triunfo del Licey",
-      "enlace": "https://www.mlb.com/es/video/mauricio-impulsa-tres-en-triunfo-del-licey",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWDVgCW5nPsFuOP3LoCAVDQ0WOlV5sE5vasfJs-G35YhJ7Z1j2WzCOPFB7CcM"
+      "noticia": "Licey vira el marcador en el 5to vs. Leones",
+      "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
     },
     {
       "termino": "operación militar",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
       "enlace": "https://www.bbc.com/mundo/articles/cmvg212k7lyko",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEDcvsL4z1J4LA2rObEOsYDOSxm_sxXb12PNSuC4doK2AuVbtImbOYWwfCd7c"
@@ -60,20 +74,6 @@
       "noticia": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor",
       "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-river-plate-vs-lanus-llave-2-id772416.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumIJFP34eH_BM6t4oNHUNsQrimf8q01KYb7Z7nuyeCWFisJXWhT9766LzQTg"
-    },
-    {
-      "termino": "lluvia",
-      "trafico": "1000+",
-      "noticia": "COE coloca ocho provincias y el Distrito Nacional en alerta verde por lluvias",
-      "enlace": "https://www.diariolibre.com/planeta/clima/2026/11/22/alerta-verde-por-lluvias-y-tormentas-electricas-en-republica-dominican/3728365",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQoU97vZPI-8CN40D1ZnbPdfEdmn3khjQgr_l58ddGvR-0lTontO7gs2Tn-Dc"
-    },
-    {
-      "termino": "posiciones de getafe cf contra atlético de madrid",
-      "trafico": "500+",
-      "noticia": "Getafe 0-3 Atlético (Nov 22, 2026) Game Analysis",
-      "enlace": "https://www.espn.com/soccer/report/_/gameId/401882803",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKevTzBAl2od1HX3hwITCaSJgb0zBPAb6KCTKWCi71kAC17XPogbYNXEG0fKQ"
     }
   ]
 }
