@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T11:53:35.499811-04:00",
-  "hora": "11:53",
+  "updated": "2026-11-23T12:03:57.357319-04:00",
+  "hora": "12:03",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "luis polonia",
+      "trafico": "100+",
+      "noticia": "“Ya no hay dolientes”: Luis Polonia reacciona a situación de las Águilas",
+      "enlace": "https://elnacional.com.do/deportes/hay-dolientes-reaccion-luis-polonia-sobre-situacion-atraviesan-aguilas-cibaenas_586932.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHT4HS4MKdpGY9TaJUDMSIq8TShNl__1h4CxSq3evv1e0BcU-U7UqsIMDr2A"
+    },
     {
       "termino": "nvidia stock",
       "trafico": "1000+",
@@ -67,13 +74,6 @@
       "noticia": "NBA: Dallas Mavericks at Utah Jazz",
       "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjk0MDE",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4JhfHi4maKVCojzJN9FXKpGRH1b4d8KU254diQh8jqtKcrpublUL4Dnag2PM"
-    },
-    {
-      "termino": "cuando es el miss universo 2026",
-      "trafico": "500+",
-      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
     }
   ]
 }
