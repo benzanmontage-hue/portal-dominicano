@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T17:07:11.961494-04:00",
-  "hora": "17:07",
+  "updated": "2026-11-23T17:17:33.472813-04:00",
+  "hora": "17:17",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -35,10 +35,24 @@
     },
     {
       "termino": "nvidia stock",
-      "trafico": "2000+",
+      "trafico": "500+",
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
+    },
+    {
+      "termino": "jensen huang",
+      "trafico": "200+",
+      "noticia": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "enlace": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYNS6iJVpkcXCSARMeGy6eroF9P2NmNIIQGxhSKNCdL8jR-rOhvU8S91aK-wI"
+    },
+    {
+      "termino": "nvidia",
+      "trafico": "500+",
+      "noticia": "Short Nvidia Fund Halted After 91% Wipeout",
+      "enlace": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTbNYR2cEjbzOQI599aCMWgy_RSzi6_pIGljjUP4yn4p1C6-wyxyzl_lWTNto"
     },
     {
       "termino": "uasd",
@@ -50,9 +64,9 @@
     {
       "termino": "powerball",
       "trafico": "100+",
-      "noticia": "One Month Left to Claim $1 Million Powerball Prize; Winning Ticket Bought in Howell",
-      "enlace": "https://milotteryconnect.com/2026/11/23/one-month-left-to-claim-1-million-powerball-prize-winning-ticket-bought-in-howell/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
+      "noticia": "A Florida player won $114 million in Saturday’s Powerball drawing",
+      "enlace": "https://www.miamiherald.com/news/lottery/article318199599.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2Jk3HQxbJz3X9wzmK58ibCT3mO_1wT_KZN5mVpab_wjYtr7KouWLfKfRGo08"
     },
     {
       "termino": "bulls - nuggets",
@@ -60,20 +74,6 @@
       "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DEN@CHI/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYv_qe69kWo7hICk1hlsglX6cj1gnVV_Fe5NbZTZTNG88Fagyu3WuAK852few"
-    },
-    {
-      "termino": "festividad",
-      "trafico": "200+",
-      "noticia": "Castromonte enciende la hoguera de San Clemente para celebrar sus fiestas patronales",
-      "enlace": "https://www.lamardecampos.org/fiestas/castromonte-enciende-la-hoguera-de-san-clemente-para-celebrar-sus-fiestas-patronales/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjCfI2fcRCbbEMvWta51As4EdK9rIBuo2uLBsXtzpC2o3khIbErrwr6ZLovwo"
-    },
-    {
-      "termino": "knicks - pacers",
-      "trafico": "500+",
-      "noticia": "Indiana Pacers vs. New York Knicks Live Score and Stats - November 22, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_IND@NY/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
     }
   ]
 }
