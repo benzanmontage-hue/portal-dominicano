@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T16:46:26.036514-04:00",
-  "hora": "16:46",
+  "updated": "2026-11-23T16:56:50.421453-04:00",
+  "hora": "16:56",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "francisca lachapel",
+      "trafico": "100+",
+      "noticia": "Francisca Lachapel anuncia que está embarazada de su cuarto hijo",
+      "enlace": "https://n.com.do/2026/11/23/francisca-lachapel-anuncia-que-esta-embarazada-de-su-cuarto-hijo/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpRdIeX_yua1BeLVI0WxoRF2xTcTYyAhSz5dS2ujOSTJ28NBnntHS1QjJbVzI"
+    },
     {
       "termino": "bono navideño 2026",
       "trafico": "200+",
@@ -67,13 +74,6 @@
       "noticia": "Indiana Pacers vs. New York Knicks Live Score and Stats - November 22, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_IND@NY/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
-    },
-    {
-      "termino": "tabla de posiciones",
-      "trafico": "200+",
-      "noticia": "Juegos LIDOM hoy 21 de noviembre: horarios y posiciones",
-      "enlace": "https://www.elcaribe.com.do/deportes/juegos-lidom-hoy-21-noviembre-2026/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRcPwuWI9N9YGSvWcjYF2jN1fbqsfeBh4Myx6gtyro3fprDQayWoPmSWFiG14"
     }
   ]
 }
