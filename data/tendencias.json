@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-22T20:29:24.872096-04:00",
-  "hora": "20:29",
+  "updated": "2026-11-22T20:39:46.833901-04:00",
+  "hora": "20:39",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "cuando es el miss universo 2026",
+      "trafico": "200+",
+      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSVU08aQrXPDdWlD-HbTdQ5sQkMCKQc-DOfugDzCX_g-V30cxl7SmrOOE_jg"
+    },
     {
       "termino": "licey",
       "trafico": "100+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "heat - thunder",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Licensable picture: NBA: Oklahoma City Thunder at Miami Heat",
       "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-miami-heat/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjg2MTE",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpY4pYcRYXIiXm2v4k_DBxIq1lweM3V5sEKZMKRn3vnlhftO0-CQPihOkMEl8"
@@ -67,13 +74,6 @@
       "noticia": "He fled Cuba to avoid US bombs. Baseball gave him a way out",
       "enlace": "https://www.usatoday.com/story/news/world/2026/11/22/cuban-baseball-player-fled-brazil-escape-threat-us-military-attack/92630271007/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSski5VrN3HdP41De03Qo7yZIhtNxG2MAvivHdzNB6KqoyVAyvFKQKLFObZ5e8"
-    },
-    {
-      "termino": "hawks - pistons",
-      "trafico": "500+",
-      "noticia": "Hawks spark 18-0 run in fourth quarter to rally past Pistons",
-      "enlace": "https://www.cbssports.com/nba/news/hawks-spark-18-0-run-in-fourth-quarter-to-rally-past-pistons/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
     }
   ]
 }
