@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-22T22:44:20.128448-04:00",
-  "hora": "22:44",
+  "updated": "2026-11-22T22:45:22.899481-04:00",
+  "hora": "22:45",
   "fecha": "22/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "bulls - nuggets",
+      "trafico": "100+",
+      "noticia": "Surging Nuggets visit Bulls as Nikola Jokic finds rhythm",
+      "enlace": "https://www.cbssports.com/nba/news/surging-nuggets-visit-bulls-as-nikola-jokic-finds-rhythm/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYbs5wP8zWHCPlAZc-yeQfFzkRfoT4Tz94N2ibwwBvlmXLKHDpV-6ttS3rfMI"
+    },
+    {
       "termino": "estrellas orientales",
       "trafico": "100+",
-      "noticia": "Las Estrellas no ceden y vencen a los Toros",
-      "enlace": "https://elnacional.com.do/deportes/estrellas-ceden-vencen-toros_586930.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyL8RXany21syVkyaeYBZAS7wFmqTUIamv4hDLD_GqYBfcQx5N9WJHkq_0Qg"
+      "noticia": "Estrellas aplastan 9-3 a los Toros y suman ocho victorias consecutivas en Lidom",
+      "enlace": "https://acento.com.do/deportes/estrellas-aplastan-9-3-a-los-toros-y-suman-ocho-victorias-consecutivas-en-lidom-9794999.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4XKfV4nmo9q9kXMRQuZt4f7kBwaa5N10FsoAKxGeEvHw8CHl4Axtq7mSjXRs"
     },
     {
       "termino": "knicks - pacers",
@@ -50,9 +57,9 @@
     {
       "termino": "cuando es el miss universo 2026",
       "trafico": "500+",
-      "noticia": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universe 2026",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/video/las-candidatas-latinas-brillan-en-traje-de-bano-en-la-preliminar-de-miss-universe-2026-tmvo13247284",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTovwoAMYb4Sbprjg7wG_ZkeDMGwbZedhX5SMXkLJUQsAjIUORADtNcVVB_Hg4"
+      "noticia": "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/video/miss-universe-2026-asi-lucieron-las-candidatas-latinas-en-el-desfile-de-traje-tipico-tmvo13247111",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyq-hN57bEa1A7C43QctMKZcPyQFe2vJ9PXCOM8Guye1bACnH8VDGnngIQ7g"
     },
     {
       "termino": "licey",
@@ -67,13 +74,6 @@
       "noticia": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
       "enlace": "https://www.bbc.com/mundo/articles/cmvg212k7lyko",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEDcvsL4z1J4LA2rObEOsYDOSxm_sxXb12PNSuC4doK2AuVbtImbOYWwfCd7c"
-    },
-    {
-      "termino": "heat - thunder",
-      "trafico": "500+",
-      "noticia": "Licensable picture: NBA: Oklahoma City Thunder at Miami Heat",
-      "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-miami-heat/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0Mjk1NjA",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfZUS6xUyFOYTMvOkC9U8Ew_xd1StSjfv0HHA_BUm1Cy3EomWRMXWH3kubqA"
     }
   ]
 }
