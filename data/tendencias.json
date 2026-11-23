@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T17:18:41.110435-04:00",
-  "hora": "17:18",
+  "updated": "2026-11-23T17:29:15.310235-04:00",
+  "hora": "17:29",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -35,24 +35,10 @@
     },
     {
       "termino": "nvidia stock",
-      "trafico": "500+",
+      "trafico": "2000+",
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
-    },
-    {
-      "termino": "jensen huang",
-      "trafico": "200+",
-      "noticia": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
-      "enlace": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYNS6iJVpkcXCSARMeGy6eroF9P2NmNIIQGxhSKNCdL8jR-rOhvU8S91aK-wI"
-    },
-    {
-      "termino": "nvidia",
-      "trafico": "500+",
-      "noticia": "Short Nvidia Fund Halted After 91% Wipeout",
-      "enlace": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTbNYR2cEjbzOQI599aCMWgy_RSzi6_pIGljjUP4yn4p1C6-wyxyzl_lWTNto"
     },
     {
       "termino": "uasd",
@@ -74,6 +60,20 @@
       "noticia": "Denver Nuggets vs. Chicago Bulls Live Score and Stats - November 22, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_DEN@CHI/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYv_qe69kWo7hICk1hlsglX6cj1gnVV_Fe5NbZTZTNG88Fagyu3WuAK852few"
+    },
+    {
+      "termino": "festividad",
+      "trafico": "200+",
+      "noticia": "Castromonte muestra su devoción a San Clemente en su festividad",
+      "enlace": "https://www.elnortedecastilla.es/valladolid/provincia/castromonte-muestra-devocion-san-clemente-festividad-20261123174610-nt.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWBLmV_4-ycM_-ySOCF9SPpyCiEP8iZs3P8Ic15IZ90JuOCoVTglIG2fr-5jw"
+    },
+    {
+      "termino": "knicks - pacers",
+      "trafico": "500+",
+      "noticia": "Indiana Pacers vs. New York Knicks Live Score and Stats - November 22, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261122_IND@NY/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
     }
   ]
 }
