@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-24T08:44:41.531983-04:00",
-  "hora": "08:44",
+  "updated": "2026-11-24T08:55:04.465899-04:00",
+  "hora": "08:55",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "raquel peña",
+      "trafico": "100+",
+      "noticia": "Raquel Peña se reúne con exvicepresidentes de la República en el Palacio Nacional",
+      "enlace": "https://www.diariolibre.com/politica/general/2026/11/23/raquel-pena-se-reune-con-exvicepresidentes/3729660",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxPhq7N8qCh9uIvTVfQ-8fL3r8M39qDGhi4fP7Uyok-mb9OzDeS52iOONJLKM"
+    },
+    {
       "termino": "wetter",
       "trafico": "100+",
-      "noticia": "Das Wetter ist heute überwiegend trocken und freundlich",
-      "enlace": "https://www.fuldainfo.de/das-wetter-ist-heute-ueberwiegend-trocken-und-freundlich/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIkdDxHBLCzoCTwHiFiALfr5EYxcHnpqDK1tmRzRjOPcNaHqvoxlWKPG0bI_8"
+      "noticia": "Droht uns ein Jahrhundertwinter wie im Jahr 1962? Entscheidend ist, was über dem Nordpol passiert",
+      "enlace": "https://www.fr.de/panorama/jahrhundertwinter-wie-1962-63-super-el-nin-schneemassen-zugefrorener-rhein-kommt-jetzt-der-eiswinter-zurueck-zr-94604892.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqakiRceL-4fNkburFwOvbi4VaPlFm8IFKuxaEpGm8tx9sDHe2CvHgHoU4AYc"
     },
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Dallas Weather: First freeze warning of the season takes effect tonight across parts of North Texas",
-      "enlace": "https://www.fox4news.com/weather/dallas-weather-first-freeze-warning-season-takes-effect-tonight-across-parts-north-texas",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6HJoC5ize3umZoLOvW_-b60tsXXW1KEQGkC4eni21lvHctFMIq2ODnK2aYkM"
+      "noticia": "FIRST ALERT - Gloomy Monday ahead of holiday coastal storm",
+      "enlace": "https://www.wmbfnews.com/2026/11/22/first-alert-another-coastal-storm-arrives-just-time-holiday/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKYiFl3nLxya8ya0s8fpZzl0aDTmBwgSvJfIq1Ui6rZVcbVIUD-DrLsEbZoRI"
     },
     {
       "termino": "leonor de borbón",
@@ -67,13 +74,6 @@
       "noticia": "Yankees reach 1-year deal with lefty reliever Suter (source)",
       "enlace": "https://www.mlb.com/news/brent-suter-yankees-contract",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlsm_Lsyv2mmrx3EKfGpVuqBAjaH2gc3T206jkaZCDD38ARD5yzApdkYPo6Zs"
-    },
-    {
-      "termino": "timberwolves - nets",
-      "trafico": "200+",
-      "noticia": "Jaden McDaniels’ Career-High Leads Minnesota Over the Nets | HOOPS, 11/24/26",
-      "enlace": "https://readhoops.substack.com/p/jaden-mcdaniels-career-high-leads",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjmNY2cqm_vODqpy37J7aeXuuJjJIdfiGFTzQi3ikTJHN4Ll1H9eO29zQ5s5E"
     }
   ]
 }
