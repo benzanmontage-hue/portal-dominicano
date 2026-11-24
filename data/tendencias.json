@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T17:30:26.671965-04:00",
-  "hora": "17:30",
+  "updated": "2026-11-24T17:40:50.952991-04:00",
+  "hora": "17:40",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "como - aek",
+      "trafico": "100+",
+      "noticia": "Cuándo juegan Como vs. AEK Atenas por la fecha 5 de la Champions League: equipo, fecha, hora y TV en vivo",
+      "enlace": "https://www.espn.com.do/futbol/europa/nota/_/id/17553087/como-vs-aek-atenas-fecha-5-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_pckXdMpgBzlF_ON3Lg28urT-hmtz5irs9kGTLvFgKmTq4kSBSC38jLTLobo"
+    },
     {
       "termino": "posiciones de al-nassr contra al-sadd",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "slovan bratislava - real betis",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Preview: Slovan Bratislava vs Real Betis - prediction, team news, lineups",
       "enlace": "https://www.sportsmole.co.uk/football/slovan-bratislava/preview/slovan-bratislava-vs-betis-prediction-team-news-lineups_609622.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCNoBie3oON754pdB-b_gY322_168wuertMn35F4LMObrzIgMIheh2_AbuhM"
@@ -24,7 +31,7 @@
       "trafico": "1000+",
       "noticia": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1eHsHWx8gfS4ya0sObnW1CO5WDFWdD8molsZbFydT5TRj6EnzTWuxdZGltJg"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMlwtci0_kxlckqQVYDtsfZh-oe3uvF6bWC8yKclsFQkRCzvyoWo0pLuHdk-w"
     },
     {
       "termino": "arsenal - dortmund",
@@ -36,16 +43,30 @@
     {
       "termino": "manchester city - napoli",
       "trafico": "200+",
-      "noticia": "LIVE Manchester City-Napoli 0-0: miracolo di Donnarumma su colpo di testa di Beukema",
-      "enlace": "https://www.gazzetta.it/Calcio/Champions-League/24-11-2026/live-manchester-city-napoli-champions-league-risultato-e-gol-in-diretta.shtml",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx4ohd2HaQCjagwWC8VhDaX4vZR8Y4btIBCKxrYw9y674_9PXChQTM5Df6GGI"
+      "noticia": "LIVE Manchester City-Napoli 1-1 Champions 2026/2027: Bouaddi pareggia per il Napoli",
+      "enlace": "https://www.virgilio.it/sport/dirette/live/champions/24-11-2026/manchester-city-napoli/2685446/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmwHZ0yHM66BL6mUpA7nE5ud-I3c6HYc2VMJ6dnYFYk5jebJcFa226HIADs2o"
+    },
+    {
+      "termino": "liga de campeones de la uefa",
+      "trafico": "200+",
+      "noticia": "Con Enzo Fernández como titular, Manchester City se enfrenta al Napoli por la fecha 5 de la Champions League: la agenda completa",
+      "enlace": "https://www.infobae.com/deportes/2026/11/24/con-enzo-fernandez-y-nico-paz-como-protagonistas-se-inicia-la-fecha-5-de-la-champions-league-la-agenda-completa/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFW75gPVGCptv16L7EupIPW5CIWG0ChDfMHqcaa76cmqfC4a4ATZdis4i7iZA"
     },
     {
       "termino": "real madrid - psv",
-      "trafico": "5000+",
-      "noticia": "Perišić puts PSV ahead at the Bernabéu from a VAR penalty",
-      "enlace": "https://www.tufutbolero.com/en/news/perisic-puts-psv-ahead-at-the-bernabeu-from-a-var-penalty-f35128",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaWEy-1kwnfQnwbrVPBipBERQau2pzW3-9Dn1D-sDTwXQBG7k4wfXaccj0Htg"
+      "trafico": "10000+",
+      "noticia": "CONFIRMED lineups: Real Madrid vs PSV Eindhoven, 2026 Champions League",
+      "enlace": "https://www.managingmadrid.com/115760/real-madrid-vs-psv-eindhoven-2026-champions-league-live-online-stream",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvK__moXJ9DfHWqIDrcPIAoUh_LrhpgHJTGK4bg44xDT2G14RLI8VdFvk9B_Q"
+    },
+    {
+      "termino": "freddy peralta",
+      "trafico": "500+",
+      "noticia": "O s add  Fastball Freddy  to rotation on largest deal for pitcher in franchise history",
+      "enlace": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSM1msB8mYWpasE4RIVI3dJMgmXOm0GIPeSKlST0qQK3Nc0Zyr0L75dB_72-8"
     },
     {
       "termino": "al-nassr - al-sadd",
@@ -53,27 +74,6 @@
       "noticia": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
       "enlace": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98gGQh-Btqc4qllJSO7Ty-fyNuvR0HSlAYPP7DzXgpplUoZUav6eT8Nz2mRM"
-    },
-    {
-      "termino": "freddy peralta",
-      "trafico": "200+",
-      "noticia": "O s add  Fastball Freddy  to rotation on largest deal for pitcher in franchise history",
-      "enlace": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSM1msB8mYWpasE4RIVI3dJMgmXOm0GIPeSKlST0qQK3Nc0Zyr0L75dB_72-8"
-    },
-    {
-      "termino": "galatasaray - aston villa",
-      "trafico": "1000+",
-      "noticia": "Galatasaray, Aston Villa’yı da devirdi: 1-0",
-      "enlace": "https://www.habercitv.com.tr/galatasaray-aston-villayi-da-devirdi-1-0",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-wc2jZ27yf0en48DNSsoL8IDa2ZVDErfALYugmefiHynEw4QUg33baRuqaVg"
-    },
-    {
-      "termino": "dazn",
-      "trafico": "100+",
-      "noticia": "Stan Sport set to lose UEFA Champions League rights to Foxtel",
-      "enlace": "https://tvblackbox.com.au/page/2026/11/24/stan-sport-set-to-lose-uefa-champions-league-rights-to-foxtel/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_uPWtVo3yKsECX2EhqfcdtDgvRyD-Ou-8N0u5d0M8ysw4rtgVEVOgv4uBXvs"
     }
   ]
 }
