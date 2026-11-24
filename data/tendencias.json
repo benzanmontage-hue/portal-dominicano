@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T17:19:53.068598-04:00",
-  "hora": "17:19",
+  "updated": "2026-11-24T17:30:26.671965-04:00",
+  "hora": "17:30",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -24,7 +24,7 @@
       "trafico": "1000+",
       "noticia": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYuwqTVydJB-er_B_ykyilDhbW3Hj8f8rc0iHuApONx7h1HrV7GUhLavA5Ik"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1eHsHWx8gfS4ya0sObnW1CO5WDFWdD8molsZbFydT5TRj6EnzTWuxdZGltJg"
     },
     {
       "termino": "arsenal - dortmund",
@@ -32,13 +32,6 @@
       "noticia": "Team news: Gyokeres starts against Dortmund",
       "enlace": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8"
-    },
-    {
-      "termino": "champions",
-      "trafico": "100+",
-      "noticia": "What Real Madrid are doing to get Vinicius Jr back on track",
-      "enlace": "https://www.nytimes.com/athletic/7806159/2026/11/24/real-madrid-vinicius-jr-mourinho-form-champions-league/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVc22B6-R_lywVWmXDw8NPrRru_Ek8an_30NqNk7sKtK5wSRY439fqMJIjOS0"
     },
     {
       "termino": "manchester city - napoli",
@@ -50,9 +43,9 @@
     {
       "termino": "real madrid - psv",
       "trafico": "5000+",
-      "noticia": "Licensable picture: REAL MADRID C.F. Vs. PSV EINDHOVEN 11.24.26",
-      "enlace": "https://www.reutersconnect.com/item/real-madrid-cf-vs-psv-eindhoven-112426/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA2WU01Rzk",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz7ySNWhA6u7-Y8CSgge0rU16oWsZ4-wMmqYE8KtCnZf4O-xyPjwtP9X0bwT8"
+      "noticia": "Perišić puts PSV ahead at the Bernabéu from a VAR penalty",
+      "enlace": "https://www.tufutbolero.com/en/news/perisic-puts-psv-ahead-at-the-bernabeu-from-a-var-penalty-f35128",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaWEy-1kwnfQnwbrVPBipBERQau2pzW3-9Dn1D-sDTwXQBG7k4wfXaccj0Htg"
     },
     {
       "termino": "al-nassr - al-sadd",
@@ -64,16 +57,23 @@
     {
       "termino": "freddy peralta",
       "trafico": "200+",
-      "noticia": "O s, Peralta agree to 5-year, $125M deal (source)",
+      "noticia": "O s add  Fastball Freddy  to rotation on largest deal for pitcher in franchise history",
       "enlace": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLyZU168m6HCoQYV6y8df2SRy6Ex0mq5G4E6E41PaVCuth3MHvzC-pSi5cZME"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSM1msB8mYWpasE4RIVI3dJMgmXOm0GIPeSKlST0qQK3Nc0Zyr0L75dB_72-8"
     },
     {
       "termino": "galatasaray - aston villa",
       "trafico": "1000+",
-      "noticia": "Galatasaray, Aston Villa ile Maçta Torreira nın Sakatlığını Yaşadı",
-      "enlace": "https://www.superlighaberler.com/galatasaray/galatasaray-aston-villa-ile-macta-torreiranin-sakatligini-yasadi-h19517",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhXna-azcnmXnNeLwGfrbvtowZd-jBAbqbGDYoMJijbSiDe-6Lf3y1Knkwkk"
+      "noticia": "Galatasaray, Aston Villa’yı da devirdi: 1-0",
+      "enlace": "https://www.habercitv.com.tr/galatasaray-aston-villayi-da-devirdi-1-0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-wc2jZ27yf0en48DNSsoL8IDa2ZVDErfALYugmefiHynEw4QUg33baRuqaVg"
+    },
+    {
+      "termino": "dazn",
+      "trafico": "100+",
+      "noticia": "Stan Sport set to lose UEFA Champions League rights to Foxtel",
+      "enlace": "https://tvblackbox.com.au/page/2026/11/24/stan-sport-set-to-lose-uefa-champions-league-rights-to-foxtel/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_uPWtVo3yKsECX2EhqfcdtDgvRyD-Ou-8N0u5d0M8ysw4rtgVEVOgv4uBXvs"
     }
   ]
 }
