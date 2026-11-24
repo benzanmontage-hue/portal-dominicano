@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T17:09:28.056050-04:00",
-  "hora": "17:09",
+  "updated": "2026-11-24T17:19:53.068598-04:00",
+  "hora": "17:19",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "posiciones de al-nassr contra al-sadd",
+      "trafico": "200+",
+      "noticia": "Al Nassr vs Al Sadd: pronóstico y estadísticas de Champions League Elite",
+      "enlace": "https://www.365scores.com/es/apuestas-peru/pronosticos/al-nassr-vs-al-sadd-afc-champions-league-elite-2026",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScZzBZ2whxEC6XCWAz7BU8gUxKPH5KxuuT2wIdk_9-XQXTz-mK7jMxJQNwxYU"
+    },
     {
       "termino": "slovan bratislava - real betis",
       "trafico": "100+",
@@ -36,16 +43,16 @@
     {
       "termino": "manchester city - napoli",
       "trafico": "200+",
-      "noticia": "Manchester City-Napoli: Formazioni ufficiali e Cronaca in diretta",
-      "enlace": "https://www.virgilio.it/sport/dirette/live/champions/24-11-2026/manchester-city-napoli/2685446/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmwHZ0yHM66BL6mUpA7nE5ud-I3c6HYc2VMJ6dnYFYk5jebJcFa226HIADs2o"
+      "noticia": "LIVE Manchester City-Napoli 0-0: miracolo di Donnarumma su colpo di testa di Beukema",
+      "enlace": "https://www.gazzetta.it/Calcio/Champions-League/24-11-2026/live-manchester-city-napoli-champions-league-risultato-e-gol-in-diretta.shtml",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx4ohd2HaQCjagwWC8VhDaX4vZR8Y4btIBCKxrYw9y674_9PXChQTM5Df6GGI"
     },
     {
       "termino": "real madrid - psv",
       "trafico": "5000+",
       "noticia": "Licensable picture: REAL MADRID C.F. Vs. PSV EINDHOVEN 11.24.26",
-      "enlace": "https://www.reutersconnect.com/item/real-madrid-cf-vs-psv-eindhoven-112426/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA2WU01Q1Q",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzsOIqaS37--ReQXpwQY0PbSLI_Sq66bjl4XURXXYsMq1NTU7MvnnNoYv-eE"
+      "enlace": "https://www.reutersconnect.com/item/real-madrid-cf-vs-psv-eindhoven-112426/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA2WU01Rzk",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz7ySNWhA6u7-Y8CSgge0rU16oWsZ4-wMmqYE8KtCnZf4O-xyPjwtP9X0bwT8"
     },
     {
       "termino": "al-nassr - al-sadd",
@@ -64,16 +71,9 @@
     {
       "termino": "galatasaray - aston villa",
       "trafico": "1000+",
-      "noticia": "Ne İsrail ne de UEFA durduramadı: Galatasaray Şampiyonlar Ligi nde Aston Villa yı 1-0 yendi",
-      "enlace": "https://notbir.com.tr/spor/ne-israil-ne-de-uefa-durduramadi-galatasaray-sampiyonlar-ligi-nde-aston-villa-yi-1-0-yendi",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6rgNUbOSQShpR54FNSCLijd3-a978ZSM_xuL8LmHK9VVU6_2uGb7G2_UgKCM"
-    },
-    {
-      "termino": "dazn",
-      "trafico": "100+",
-      "noticia": "Stan Sport set to lose UEFA Champions League rights to Foxtel",
-      "enlace": "https://tvblackbox.com.au/page/2026/11/24/stan-sport-set-to-lose-uefa-champions-league-rights-to-foxtel/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_uPWtVo3yKsECX2EhqfcdtDgvRyD-Ou-8N0u5d0M8ysw4rtgVEVOgv4uBXvs"
+      "noticia": "Galatasaray, Aston Villa ile Maçta Torreira nın Sakatlığını Yaşadı",
+      "enlace": "https://www.superlighaberler.com/galatasaray/galatasaray-aston-villa-ile-macta-torreiranin-sakatligini-yasadi-h19517",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhXna-azcnmXnNeLwGfrbvtowZd-jBAbqbGDYoMJijbSiDe-6Lf3y1Knkwkk"
     }
   ]
 }
