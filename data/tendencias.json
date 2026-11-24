@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T14:21:00.468452-04:00",
-  "hora": "14:21",
+  "updated": "2026-11-24T14:31:24.259720-04:00",
+  "hora": "14:31",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "al-nassr - al-sadd",
+      "trafico": "200+",
+      "noticia": "Preview: Al-Nassr vs Al-Sadd - prediction, team news, lineups",
+      "enlace": "https://www.sportsmole.co.uk/football/al-nassr/preview/al-nassr-vs-al-sadd-prediction-team-news-lineups_609627.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6DCdrfULxrm3yEN_FWMM2kqaBGzbVFx3Q8MEH7RGP-XNXcpbKMjSGVxBJr4k"
+    },
     {
       "termino": "champions league",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "galatasaray - aston villa",
       "trafico": "500+",
-      "noticia": "CANLI | Galatasaray - Aston Villa maçı TRT 1 de",
-      "enlace": "https://www.trtspor.com.tr/haber/futbol/canli-or-galatasaray-aston-villa-maci-trt-1de-34204004",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiFn8DAEUytF52YMYfu_aPfLOED8E6jYBKiBWSRd-njmdmNkxsLvyqGuVw858"
+      "noticia": "Galatasaray’da 3 değişiklik",
+      "enlace": "https://pusuhaber.com.tr/spor/249059-galatasarayda-3-degisiklik",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQinFrURbK6KUDA3PU9gix_w8DptMi84siBYRqAhHC0pewARLMQ2lVLlxbraFM"
     },
     {
       "termino": "dazn",
@@ -67,13 +74,6 @@
       "noticia": "Stephon Castle, short-handed Spurs top Kings to stay 8-0 on road",
       "enlace": "https://www.cbssports.com/nba/news/stephon-castle-short-handed-spurs-top-kings-to-stay-8-0-on-road/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
-    },
-    {
-      "termino": "lakers - jazz",
-      "trafico": "1000+",
-      "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
-      "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
     }
   ]
 }
