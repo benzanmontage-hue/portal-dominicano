@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-23T20:56:49.769389-04:00",
-  "hora": "20:56",
+  "updated": "2026-11-23T21:07:10.734416-04:00",
+  "hora": "21:07",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nhl",
+      "trafico": "200+",
+      "noticia": "Top storylines to watch for in second quarter of NHL season",
+      "enlace": "https://www.sportsnet.ca/nhl/article/top-storylines-to-watch-for-in-second-quarter-of-nhl-season/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVYdtJecWVuPiKtA02D0klP_qzQHEXMLpCD8TzwIxIKxAzT85ICSyy3HGwFJc"
+    },
     {
       "termino": "76ers - trail blazers",
       "trafico": "500+",
       "noticia": "76ers host Trail Blazers with eye on sixth straight win",
       "enlace": "https://www.cbssports.com/nba/news/76ers-host-trail-blazers-with-eye-on-sixth-straight-win/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
+    {
+      "termino": "casa de alofoke 3",
+      "trafico": "100+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0rpcB5GYbdkaX2Gce056v6k8_ft0FPYsQwdqwIKFqwjllX_ZXSpwn6YLJO4"
     },
     {
       "termino": "visa",
@@ -60,20 +74,6 @@
       "noticia": "Gobierno anuncia empezará a entregar bonos navideños de RD$1,500 a partir del 29 de noviembre",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/23/informate-sobre-como-puedes-tener-acceso-a-la-brisita-navidena/3729325",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk5bqN1i4s9P63g5WTSExfh2kMguL-qMve9sZ-CNwBqDPzb5qKjCTo7qqemiQ"
-    },
-    {
-      "termino": "paul goldschmidt",
-      "trafico": "500+",
-      "noticia": "1B Goldschmidt agrees to deal with busy Mets (source)",
-      "enlace": "https://www.mlb.com/news/paul-goldschmidt-mets-contract",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQDbAnVCT6i2ag14VxZijQg46pgaZwKQ38bTuOi1KioYsGlMCNnq8VntAhhSk"
-    },
-    {
-      "termino": "luis polonia",
-      "trafico": "1000+",
-      "noticia": "“Ya no hay dolientes”: Luis Polonia reacciona a situación de las Águilas",
-      "enlace": "https://elnacional.com.do/deportes/hay-dolientes-reaccion-luis-polonia-sobre-situacion-atraviesan-aguilas-cibaenas_586932.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHT4HS4MKdpGY9TaJUDMSIq8TShNl__1h4CxSq3evv1e0BcU-U7UqsIMDr2A"
     }
   ]
 }
