@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T11:53:46.040566-04:00",
-  "hora": "11:53",
+  "updated": "2026-11-24T12:04:20.428146-04:00",
+  "hora": "12:04",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "dazn",
+      "trafico": "100+",
+      "noticia": "Stan Sport set to lose UEFA Champions League rights to Foxtel",
+      "enlace": "https://tvblackbox.com.au/page/2026/11/24/stan-sport-set-to-lose-uefa-champions-league-rights-to-foxtel/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_uPWtVo3yKsECX2EhqfcdtDgvRyD-Ou-8N0u5d0M8ysw4rtgVEVOgv4uBXvs"
+    },
     {
       "termino": "alexandr wang",
       "trafico": "100+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "raquel peña",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Raquel Peña se reúne con exvicepresidentes de la República en el Palacio Nacional",
       "enlace": "https://www.diariolibre.com/politica/general/2026/11/23/raquel-pena-se-reune-con-exvicepresidentes/3729660",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxPhq7N8qCh9uIvTVfQ-8fL3r8M39qDGhi4fP7Uyok-mb9OzDeS52iOONJLKM"
@@ -67,13 +74,6 @@
       "noticia": "What Buddy Hield credits for Bulls’ clutch win over Cavs",
       "enlace": "https://sports.yahoo.com/articles/buddy-hield-credits-bulls-clutch-051835227.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjYHh6DfVXD8FUs4gYdLBQTE6zrBGlrX6bZOn1xbtkBPeMiPAcvf3VnA72wCU"
-    },
-    {
-      "termino": "alofoke",
-      "trafico": "200+",
-      "noticia": "Fausto Mata critica a Luinny Corporán tras su encuentro con Alofoke",
-      "enlace": "https://masvip.com.do/2026/11/24/fausto-mata-critica-a-luinny-corporan-tras-su-encuentro-con-alofoke/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt-tD2WW07E642mdq1N1wdsF-yEAgKfhTlF3zAOFL8dG9Tfq3-jnDgb5CUGDI"
     }
   ]
 }
