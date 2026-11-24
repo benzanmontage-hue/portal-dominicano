@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-23T19:54:37.813815-04:00",
-  "hora": "19:54",
+  "updated": "2026-11-23T20:04:57.850686-04:00",
+  "hora": "20:04",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "76ers - trail blazers",
+      "trafico": "200+",
+      "noticia": "76ers host Trail Blazers with eye on sixth straight win",
+      "enlace": "https://www.cbssports.com/nba/news/76ers-host-trail-blazers-with-eye-on-sixth-straight-win/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
     {
       "termino": "manny manuel",
       "trafico": "2000+",
@@ -67,13 +74,6 @@
       "noticia": "Rector de la UASD aboga por una reforma educativa integral y de largo plazo en RD",
       "enlace": "https://elnacional.com.do/nacionales/rector-uasd-aboga-reforma-educativa-integral-plazo-republica-dominicana_586973.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJmQY1lwGtESHa8FQYq4vdmaBsoC_z7FRmJv_ehCnbDzBoGiIMzaOVMyk9QZU"
-    },
-    {
-      "termino": "powerball",
-      "trafico": "100+",
-      "noticia": "One Month Left to Claim $1 Million Powerball Prize; Winning Ticket Bought in Howell",
-      "enlace": "https://milotteryconnect.com/2026/11/23/one-month-left-to-claim-1-million-powerball-prize-winning-ticket-bought-in-howell/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuW5vDi_ptKECKJTd1s7emsfA_m5dv0JvKm8zddIC-0xEmWheOKfBg4CjqqnU"
     }
   ]
 }
