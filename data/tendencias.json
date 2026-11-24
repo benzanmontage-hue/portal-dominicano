@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T16:59:05.069173-04:00",
-  "hora": "16:59",
+  "updated": "2026-11-24T17:09:28.056050-04:00",
+  "hora": "17:09",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -17,7 +17,7 @@
       "trafico": "1000+",
       "noticia": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBU8F8Ixko18GwZh6g-ZRdMRClNIathoRrp7dc854h2esb2672CPxJOzWLLgE"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYuwqTVydJB-er_B_ykyilDhbW3Hj8f8rc0iHuApONx7h1HrV7GUhLavA5Ik"
     },
     {
       "termino": "arsenal - dortmund",
@@ -25,6 +25,13 @@
       "noticia": "Team news: Gyokeres starts against Dortmund",
       "enlace": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8"
+    },
+    {
+      "termino": "champions",
+      "trafico": "100+",
+      "noticia": "What Real Madrid are doing to get Vinicius Jr back on track",
+      "enlace": "https://www.nytimes.com/athletic/7806159/2026/11/24/real-madrid-vinicius-jr-mourinho-form-champions-league/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVc22B6-R_lywVWmXDw8NPrRru_Ek8an_30NqNk7sKtK5wSRY439fqMJIjOS0"
     },
     {
       "termino": "manchester city - napoli",
@@ -67,13 +74,6 @@
       "noticia": "Stan Sport set to lose UEFA Champions League rights to Foxtel",
       "enlace": "https://tvblackbox.com.au/page/2026/11/24/stan-sport-set-to-lose-uefa-champions-league-rights-to-foxtel/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_uPWtVo3yKsECX2EhqfcdtDgvRyD-Ou-8N0u5d0M8ysw4rtgVEVOgv4uBXvs"
-    },
-    {
-      "termino": "fernando tatís jr.",
-      "trafico": "100+",
-      "noticia": "Las Estrellas anuncian que Tatis Jr. jugará muy pronto con el equipo",
-      "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/23/las-estrellas-anuncian-que-tatis-jr-jugara-muy-pronto-con-el-club/3729676",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6PMKC1wP3Vr9aFnnuMQi1SJSnz896krCqZ8eIRUEhOcBBP3rhQOhud72Tvzs"
     }
   ]
 }
