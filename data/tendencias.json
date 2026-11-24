@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-23T20:36:10.072098-04:00",
-  "hora": "20:36",
+  "updated": "2026-11-23T20:46:30.073025-04:00",
+  "hora": "20:46",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "76ers - trail blazers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "76ers host Trail Blazers with eye on sixth straight win",
       "enlace": "https://www.cbssports.com/nba/news/76ers-host-trail-blazers-with-eye-on-sixth-straight-win/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
+    {
+      "termino": "visa",
+      "trafico": "100+",
+      "noticia": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
+      "enlace": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKl8zkEw_pCtitNpKBf91fCr2JxjIqmg-uDC8Ps9wIihg_nDxxnmyg-mzf1Vw"
     },
     {
       "termino": "manny manuel",
@@ -36,13 +43,13 @@
     {
       "termino": "francisca lachapel",
       "trafico": "200+",
-      "noticia": "Francisca y Francesco Zampogna esperan a su cuarto hijo",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261123/francisca-francesco-zampogna-esperan-cuarto-hijo_931195.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQST-JajudJN1yj9x7rweXqlqext09VjSyhHQWsMU0iw1wi8e1TQLh3ohNntXA"
+      "noticia": "¡Ahora serán una familia de seis! Francisca y Francesco esperan a su cuarto bebé",
+      "enlace": "https://peopleenespanol.com/francisca-embarazada-de-su-cuarto-bebe-12272711",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQdWH4rfS4OH1X6zSjCnQBpNCnUd0TfvtqG3VwnvDajXoKlxGQhuw4kciY2tY"
     },
     {
       "termino": "bono navideño 2026",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Gobierno anuncia empezará a entregar bonos navideños de RD$1,500 a partir del 29 de noviembre",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/23/informate-sobre-como-puedes-tener-acceso-a-la-brisita-navidena/3729325",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk5bqN1i4s9P63g5WTSExfh2kMguL-qMve9sZ-CNwBqDPzb5qKjCTo7qqemiQ"
@@ -67,13 +74,6 @@
       "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
       "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
-    },
-    {
-      "termino": "uasd",
-      "trafico": "5000+",
-      "noticia": "Rector de la UASD aboga por una reforma educativa integral y de largo plazo en RD",
-      "enlace": "https://elnacional.com.do/nacionales/rector-uasd-aboga-reforma-educativa-integral-plazo-republica-dominicana_586973.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJmQY1lwGtESHa8FQYq4vdmaBsoC_z7FRmJv_ehCnbDzBoGiIMzaOVMyk9QZU"
     }
   ]
 }
