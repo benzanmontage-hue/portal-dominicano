@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-24T15:44:41.506448-04:00",
-  "hora": "15:44",
+  "updated": "2026-11-24T15:55:06.037781-04:00",
+  "hora": "15:55",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "manchester city - napoli",
+      "trafico": "200+",
+      "noticia": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+      "enlace": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI"
+    },
+    {
       "termino": "real madrid - psv",
-      "trafico": "1000+",
-      "noticia": "Real Madrid without Bellingham: Mourinho s XI vs PSV",
-      "enlace": "https://www.tufutbolero.com/en/news/real-madrid-without-bellingham-mourinho-s-xi-vs-psv-efb078",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTkbaB7SVlQEgWDoPh6S8o8o5gCynV5rmotNcf-PR02J2W-940A2GpwF3aRbA"
+      "trafico": "2000+",
+      "noticia": "Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League online",
+      "enlace": "https://www.managingmadrid.com/115745/real-madrid-psv-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeAuUZaXOaWyucwBDm3VmvajHWgZyqjGa7ltVEFV0TSFxVAZ9Ti_v6UGdb214"
     },
     {
       "termino": "al-nassr - al-sadd",
@@ -24,7 +31,7 @@
       "trafico": "200+",
       "noticia": "Orioles To Sign Freddy Peralta",
       "enlace": "https://www.mlbtraderumors.com/2026/11/orioles-sign-freddy-peralta.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj1LQP2h6ozZVuXczofGO5TM_Z2LEoM3q3sCbo8cxoPP1ZYT-9Jo4JVQbyrko"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLB2vx1TfltGM-b_EifcHnBHn9hX9WPC0M0cPww77iIeOpGk0yNWQBBcRO9lg"
     },
     {
       "termino": "galatasaray - aston villa",
@@ -64,16 +71,9 @@
     {
       "termino": "diésel",
       "trafico": "200+",
-      "noticia": "Codepro advierte que más de 5.000 familias productoras dejarán de cultivar por alza del diésel",
-      "enlace": "https://larazon.bo/economia-y-empresa/2026/11/24/codepro-advierte-que-mas-de-5-000-familias-productoras-dejaran-de-cultivar-por-alza-del-diesel/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpl1Khs5tJMhtjePZH84mAmGPiaeFtRleQDHIpCbLRhKMkq940BCiRux0rh3Q"
-    },
-    {
-      "termino": "leonor de borbón",
-      "trafico": "100+",
-      "noticia": "De Lamine Yamal a la princesa Leonor: los famosos que podrán votar por primera vez en unas elecciones generales este domingo",
-      "enlace": "https://www.elperiodico.com/es/gente/20261124/famosos-votar-primera-vez-elecciones-generales-29-noviembre-dv-135049891",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwqbhInnmNyuHGe1aiOwaeNEr43gAY65fZOSmRa_PaADokkJgfTj3KtZ7BKLg"
+      "noticia": "Chuquisaca: transporte público repliega sus unidades por alza del diésel y hay filas por gasolina",
+      "enlace": "https://eldeber.com.bo/economia/chuquisaca-transporte-publico-repliega-unidades-alza-diesel-hay-filas-gasolina_1795537400",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EgqQeFiEVhRTS8LZySyC-LBcL_tf9VmxfdPohYZESwv4OJ0rhzzv2wg55go"
     }
   ]
 }
