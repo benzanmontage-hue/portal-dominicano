@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T10:49:54.416058-04:00",
-  "hora": "10:49",
+  "updated": "2026-11-24T11:00:19.260027-04:00",
+  "hora": "11:00",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -21,17 +21,17 @@
     },
     {
       "termino": "diésel",
-      "trafico": "100+",
-      "noticia": "‘Sinceraron el precio del diésel’, dice Zambrana y pregunta ¿dónde va la plata que ahorran?",
+      "trafico": "200+",
+      "noticia": "‘Sinceraron el precio del diésel’: Zambrana y pregunta ¿dónde va la plata que ahorran?",
       "enlace": "https://larazon.bo/economia-y-empresa/2026/11/24/sinceraron-el-precio-del-diesel-dice-zambrana-y-pregunta-donde-va-la-plata-que-ahorran/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnofFVRU-5fp8va7DlbHxA5toBAvNWZHBFEnG4PqDiID1zm2FkuWAwyAHRgE"
     },
     {
       "termino": "wetter",
       "trafico": "100+",
-      "noticia": "Droht uns ein Jahrhundertwinter wie im Jahr 1962? Entscheidend ist, was über dem Nordpol passiert",
-      "enlace": "https://www.fr.de/panorama/jahrhundertwinter-wie-1962-63-super-el-nin-schneemassen-zugefrorener-rhein-kommt-jetzt-der-eiswinter-zurueck-zr-94604892.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqakiRceL-4fNkburFwOvbi4VaPlFm8IFKuxaEpGm8tx9sDHe2CvHgHoU4AYc"
+      "noticia": "Glättewarnung in Deutschland: Amtliche DWD-Wetterwarnungen in diesen Regionen",
+      "enlace": "https://www.t-online.de/nachrichten/panorama/wetter/id_101542756/glaettewarnung-in-deutschland-dwd-wetterwarnung-vor-glaette-kaelte-und-frost.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwgShRznuqxXtRYlGmk7vhYP5ZUdy59pyy2_Y1BnLHKjTf5OzE7EevrU2XDk"
     },
     {
       "termino": "leonor de borbón",
@@ -42,7 +42,7 @@
     },
     {
       "termino": "kings - spurs",
-      "trafico": "500+",
+      "trafico": "200+",
       "noticia": "Stephon Castle, short-handed Spurs top Kings to stay 8-0 on road",
       "enlace": "https://www.cbssports.com/nba/news/stephon-castle-short-handed-spurs-top-kings-to-stay-8-0-on-road/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
@@ -50,9 +50,9 @@
     {
       "termino": "lakers - jazz",
       "trafico": "1000+",
-      "noticia": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
-      "enlace": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeNmHdn6Cgmdw752zSLV84lGFruSpoYFYHW3BSFoUBT4G1sdSdff6f8-voMQU"
+      "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
+      "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
     },
     {
       "termino": "rockets - clippers",
