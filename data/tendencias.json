@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:13:27.900413-04:00",
-  "hora": "08:13",
+  "updated": "2026-11-24T08:23:51.479040-04:00",
+  "hora": "08:23",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "FIRST ALERT - Gloomy Monday ahead of holiday coastal storm",
-      "enlace": "https://www.wmbfnews.com/2026/11/22/first-alert-another-coastal-storm-arrives-just-time-holiday/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKYiFl3nLxya8ya0s8fpZzl0aDTmBwgSvJfIq1Ui6rZVcbVIUD-DrLsEbZoRI"
+      "noticia": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+      "enlace": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PybWk6ESYDSIgtzXB5-8RPua2dHP_1S_dokOBCAmd3nitvlCQTjQjvVHUvI"
     },
     {
       "termino": "leonor de borbón",
@@ -25,13 +25,6 @@
       "noticia": "La princesa Leonor y la infanta Sofía, ante las primeras elecciones en las que pueden votar: lo que tienen prohibido y la decisión de los reyes",
       "enlace": "https://www.telecinco.es/noticias/espana/20261124/generales-2026-princesa-leonor-infanta-sofia-primeras-elecciones-votar-prohibido-decision-reyes_18_020790507.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEn0MObTNMJflzHJ6OOCuhHNe0LpNaePrXW4n0I-g7lpWRK9t4NVOFZXvmdes"
-    },
-    {
-      "termino": "bono",
-      "trafico": "1000+",
-      "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
-      "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
     },
     {
       "termino": "kings - spurs",
@@ -74,6 +67,13 @@
       "noticia": "Yankees reach 1-year deal with lefty reliever Suter (source)",
       "enlace": "https://www.mlb.com/news/brent-suter-yankees-contract",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlsm_Lsyv2mmrx3EKfGpVuqBAjaH2gc3T206jkaZCDD38ARD5yzApdkYPo6Zs"
+    },
+    {
+      "termino": "timberwolves - nets",
+      "trafico": "200+",
+      "noticia": "Timberwolves 142-116 Nets (Nov 23, 2026) Game Recap",
+      "enlace": "https://www.espn.com/nba/recap?gameId=401910040",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxPwvI0qemgE0CdVetB1XY4KqevLXkKkHZKMUMywTsvb4ycL5-hsEUAlrllH8"
     }
   ]
 }
