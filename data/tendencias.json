@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T23:44:24.307027-04:00",
-  "hora": "23:44",
+  "updated": "2026-11-23T23:54:46.226842-04:00",
+  "hora": "23:54",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,6 +13,27 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
     },
     {
+      "termino": "rockets - clippers",
+      "trafico": "100+",
+      "noticia": "NBA: Los Angeles Clippers at Houston Rockets",
+      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-clippers-at-houston-rockets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU5MTQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1jhllZlFmJ1jTYgZGY6ZzXhru4z96zMyrFBYrllTSNWhEkA9cQG1CDddqY_c"
+    },
+    {
+      "termino": "pacers - thunder",
+      "trafico": "100+",
+      "noticia": "Pascal Siakam, Pacers hold off Thunder to snap four-game skid",
+      "enlace": "https://www.cbssports.com/nba/news/pascal-siakam-pacers-hold-off-thunder-to-snap-four-game-skid/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
+    {
+      "termino": "bulls - cavaliers",
+      "trafico": "100+",
+      "noticia": "Final Injury Report for Cavaliers-Bulls: Will Evan Mobley, Norman Powell Play?",
+      "enlace": "https://sports.yahoo.com/articles/final-injury-report-cavaliers-bulls-210000102.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtpUHVvXv3jxy1qIrbDhRrZ3CAJzjPY_n2b89TpREt4TAV6MaCnNCG6ozpyLA"
+    },
+    {
       "termino": "timberwolves - nets",
       "trafico": "200+",
       "noticia": "Julius Randle leads Nets into Minnesota to face former team",
@@ -22,23 +43,16 @@
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Devils look to bounce back against surging Blue Jackets",
-      "enlace": "https://www.cbssports.com/nhl/news/devils-look-to-bounce-back-against-surging-blue-jackets/",
+      "noticia": "Maple Leafs rally past Islanders 4-2 to snap nine-game skid",
+      "enlace": "https://www.cbssports.com/nhl/news/maple-leafs-rally-past-islanders-4-2-to-snap-nine-game-skid/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
     },
     {
       "termino": "76ers - trail blazers",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Observations after Sixers  5-game win streak ends with blowout loss to Blazers",
       "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-trail-blazers-analysis-jaylen-brown-lebron-james-joel-embiid/769091/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTETzRglUx5VK_zlWa4KcsGwICZVpB3Lv_XjFh6vCUJrjJDh5yTGQNxWdREsv0"
-    },
-    {
-      "termino": "casa de alofoke 3",
-      "trafico": "500+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "visa",
@@ -49,10 +63,10 @@
     },
     {
       "termino": "la casa de alofoke 3",
-      "trafico": "1000+",
-      "noticia": "Fuerte enfrentamiento entre Maicol Nova y Robinson Hernández en inauguración de La Casa de Alofoke 3",
-      "enlace": "https://elnuevodiario.com.do/fuerte-enfrentamiento-entre-maicol-nova-y-robinson-hernandez-en-inauguracion-de-la-casa-de-alofoke-3/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDZIvfrozhmZ9PbMQMA5XYAnXq4wlWWySullTZX7KAZi7MCIgPzy6aHDSC0y0"
+      "trafico": "2000+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "adriano espaillat",
@@ -60,20 +74,6 @@
       "noticia": "Congresistas estadounidenses llegan a RD mientras siguen las conversaciones sobre aranceles",
       "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/23/relaciones-comerciales-entre-estados-unidos-y-republica-dominicana/3729096",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJOBCMK18K0qjffPC21ge0qjC5kXB_7-Hgg3EJWBOhVJvFvXulxALYd6Yx_V8"
-    },
-    {
-      "termino": "manny manuel",
-      "trafico": "2000+",
-      "noticia": "Arrestan al merenguero Manny Manuel por conducir bajo los efectos del alcohol en Puerto Rico",
-      "enlace": "https://acento.com.do/noticias/arrestan-al-merenguero-manny-manuel-por-conducir-bajo-los-efectos-del-alcohol-en-puerto-rico-9795304.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTayGTQ1iAjlSjwS6uyMs6FEtBeanYTZ-nr4ZbpwvCJ-4urg_WtIYVmX-voG08"
-    },
-    {
-      "termino": "levante - elche c. f.",
-      "trafico": "200+",
-      "noticia": "Con Cepeda titular, Elche resignó agónico empate y continúa en zona de descenso",
-      "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17554333/cepeda-titular-elche-vs-levante-empate-laliga",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsHOw_vq1zn_0czwHXwpdU-nUl8bJoUZ3rzRtSWgLUnyWtoPIQTeGSPrBqTUU"
     }
   ]
 }
