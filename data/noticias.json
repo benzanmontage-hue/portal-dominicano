@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-23T22:42:09.669872-04:00",
-  "hora": "22:42",
+  "updated": "2026-11-23T22:52:33.036054-04:00",
+  "hora": "22:52",
   "fecha": "23/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Familiares de dominicanos llevados a Rusia protestan frente al Palacio Nacional por su regreso - Listín Diario",
-      "fuente": "Listín Diario",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcExtZ1pOZzM5NEhRYkgzQ0o3NHRlRHJRR1NMMVhaUTktTDlTa19kdVJ2Qy0yRWVzeUF0VVN3RFVwaXZieDh3dUFVZGZRd1hCYklJODNWdGdXTjJPbFFyR0Z1YTVpUUV5V3E4RWdwYXRlOUw0dk80OGYtZlg2VXQxZElCaWpiS2U2QXBUbjVvc0RjVTRWUlV0MUNkc3V4LVZCWkFMYmNuaDR6VXdFaXhtalBaSU5LY2VZYl8wd1FlQURwbmFFMFRKUmxsMzdYQW9ucW9UWtIB2gFBVV95cUxOX0pXck90X0FCOXVScFZlSjJmeE04WFNsbXRfRXlRMU9XSU8xbTdqTGlOeG9zdGlTUk5UVXFPT2JVNHBBdFdBWjUxQjc4T1JZaEEwYnhBYWlOZk9LMk5EaEMzaUoyamJORDFlcmpLUUVoY3ZYU1dWMk9wU0YwTGdjUjBCNEdYQzZhT252Y2VBQy02SlA2WEd3cWs2UEV1QUwyb0JycnA0RHduRUlWVHFuYmNXQ1NoX0NNdjlzMHI0cVAxcGxtbVlxME1zT1lvaFVMdWV6bWdpdzhMUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 23 Nov 2026 17:43:43 GMT",
-      "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/20/6b00e40a68bf6.jpeg"
-    },
     {
       "titulo": "¿Quiénes podrán cobrar el Bono Navideño de RD$1,500? Estos son los requisitos anunciados por el Gobierno - Diario Libre",
       "fuente": "Diario Libre",
@@ -21,20 +13,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Cuevas del Pomier son declaradas Capital Rupestre de República Dominicana mediante ley - Acento",
+      "titulo": "República Dominicana supera los 10 millones de visitantes hasta octubre y proyecta cerrar con 12.5 millones - Acento",
       "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUY5SnZTUWRqM3R3R2ZrbkxCbUtJdUIxaTl1bWZnYWd2ekF2NTFObXhfSnc0MzY1Z1dDQnAtbURyU1FhdDQ5TTlia3ozQ0dpWHNWVmM1UUZWT011Mzl4YmVPRVU3VlBWMVdHdFh4bkNzVnl6dG9OR2lOcEtzS2hHSFFlZGo2bVE1RjQxbjFuSVJ1S0RHQ2tuUWw3ekt0ODF4X0gwTE5SQmZ6blpPZHNDbWVwYWpaS21zVmFGUnRlbnNwcGtyWTlsb0JReUTSAcwBQVVfeXFMTXVGOUp2U1FkajN0d0dma25MQm1LSXVCMWk5dW1mZ2FndnpBdjUxTm14X0p3NDM2NWdXQ0JwLW1EclNRYXQ0OU05Ymt6M0NHaVhzVlZjNVFGVk9NdTM5eGJlT0VVN1ZQVjFXR3RYeG5Dc1Z5enRvTkdpTnBLc0toR0hRZWRqNm1RNUY0MW4xbklSdUtER0NrblFsN3pLdDgxeF9IMExOUkJmem5aT2RzQ21lcGFqWkttc1ZhRlJ0ZW5zcHBrclk5bG9CUXlE?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFJDWThrcnktclUtS1BxVWdveVhFWTR6ZHNxVkZxdFJZemdUNWwxejF5R1VubGF6ejk4SzQ0UDdoV3RSbkZxVTFkZ3N0eHFUWXI2MnlYdUd6SmtfQzZwWEdzT1FYNE1RY0lCV3JXU0MxQk1kZ3M4ZlkzdzV6U1RMVmlQd1kzSDdRSkNFTFQzbTUzZjF5SVBtdl93TV9xZjUydmxjdWRrYjFaQy1yVnpCSTd5THNwck9iWVg0UUtjaDJtMkhJemVjQnVqR1BuOFR0MXhVOWg0enhJM0dPQWs1dVFQWGTSAeQBQVVfeXFMT0xSQ1k4a3J5LXJVLUtQcVVnb3lYRVk0emRzcVZGcXRSWXpnVDVsMXoxeUdVbmxheno5OEs0NFA3aFd0Um5GcVUxZGdzdHhxVFlyNjJ5WHVHekprX0M2cFhHc09RWDRNUWNJQldyV1NDMUJNZGdzOGZZM3c1elNUTFZpUHdZM0g3UUpDRUxUM201M2YxeUlQbXZfd01fcWY1MnZsY3Vka2IxWkMtclZ6Qkk3eUxzcHJPYllYNFFLY2gybTJISXplY0J1akdQbjhUdDF4VTloNHp4STNHT0FrNXVRUFhk?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Mon, 23 Nov 2026 18:43:43 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Rumbo a la corona: Puerto Rico, Venezuela y República Dominicana enfrentan la gran pregunta - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnduU01qSG5acnNYLVliR04xcWJEa1RQTHJBUWxPb0hmVm4wS3h2Y3RJUHU1SXhiY3BZSk15c0w0dk9NMUhxXzd6QWlwZjJ5c1ZpWE11OUIxX3Y0Ym1fbGFyNjdjUHN6ZDFKN3hzU1FSRXRsemVYaUlmNklYVm1jYWl3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 23 Nov 2026 03:16:00 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/562629e84adde1081c5e918827635cffb160078ab5b78ad06e88539f9c996c8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F5c9180a9389a92996a0dfb98911a961e.jpg"
+      "fecha": "Mon, 23 Nov 2026 16:35:25 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Screenshot_23-11-2026_114457_www.youtube.com_-OG.jpg"
     },
     {
       "titulo": "República Dominicana celebra el talento de sus músicos: una historia que se escucha y se baila - El Nuevo Diario",
@@ -45,6 +29,14 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
+      "titulo": "Rumbo a la corona: Puerto Rico, Venezuela y República Dominicana enfrentan la gran pregunta - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnduU01qSG5acnNYLVliR04xcWJEa1RQTHJBUWxPb0hmVm4wS3h2Y3RJUHU1SXhiY3BZSk15c0w0dk9NMUhxXzd6QWlwZjJ5c1ZpWE11OUIxX3Y0Ym1fbGFyNjdjUHN6ZDFKN3hzU1FSRXRsemVYaUlmNklYVm1jYWl3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 23 Nov 2026 03:16:00 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/562629e84adde1081c5e918827635cffb160078ab5b78ad06e88539f9c996c8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F5c9180a9389a92996a0dfb98911a961e.jpg"
+    },
+    {
       "titulo": "Fernando Hazoury afirma que Dubái es un referente para República Dominicana y la visión de Cap Cana - El Nacional — La voz de todos",
       "fuente": "El Nacional — La voz de todos",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmk0QmpLeFJ0ZUhHbUZVVmg5ZXh4LU1mX2VFdDNDdF9OOGJobV8wclM2TkZJalFQVzBEWEUzai1fLW55bjRPVmVrV29sdFoyNnp4ZkdVYkdzT1ZpNkNYek00X1FOUnhZUG9YS2NHd2RHbEUzTEJmREswcXBnVngzNlZHRWJQRUJXV2ROa2ZtSmtOQTJtaTlTZ0J3UGg5WU1STnE1N1djVElWT3pTZ3pZYk1idTVQVnB2MnR3c0hPTWTSAcYBQVVfeXFMTU4zWUk4RXdjdDJzaDRxZGREQWlYWnBucEhSc2E1bHJSMXBRcnAyZHhuSTE2ZmY3Q3pWVFdpUTZwdVBkMHRMeWd0cU5WVjhrZG15VjlnNFNablctMFh4cEdhNUZBUjlNeUduVTg2X2UwVVNIQ0JUR1A5VzMwMzRYZDE4RnhPdHhSaWQzeVpXZHVDM1FId1h0eEhFTjFnNngzd2F0NjdxSHk5MURrc0hTZVRmM3RWWVRlbmNIaGNkM20wYlpvSGZR?oc=5",
@@ -53,20 +45,28 @@
       "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/11/22/6b03805916ba1.jpeg"
     },
     {
+      "titulo": "Familiares de dominicanos llevados a Rusia protestan frente al Palacio Nacional por su regreso - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcExtZ1pOZzM5NEhRYkgzQ0o3NHRlRHJRR1NMMVhaUTktTDlTa19kdVJ2Qy0yRWVzeUF0VVN3RFVwaXZieDh3dUFVZGZRd1hCYklJODNWdGdXTjJPbFFyR0Z1YTVpUUV5V3E4RWdwYXRlOUw0dk80OGYtZlg2VXQxZElCaWpiS2U2QXBUbjVvc0RjVTRWUlV0MUNkc3V4LVZCWkFMYmNuaDR6VXdFaXhtalBaSU5LY2VZYl8wd1FlQURwbmFFMFRKUmxsMzdYQW9ucW9UWtIB2gFBVV95cUxOX0pXck90X0FCOXVScFZlSjJmeE04WFNsbXRfRXlRMU9XSU8xbTdqTGlOeG9zdGlTUk5UVXFPT2JVNHBBdFdBWjUxQjc4T1JZaEEwYnhBYWlOZk9LMk5EaEMzaUoyamJORDFlcmpLUUVoY3ZYU1dWMk9wU0YwTGdjUjBCNEdYQzZhT252Y2VBQy02SlA2WEd3cWs2UEV1QUwyb0JycnA0RHduRUlWVHFuYmNXQ1NoX0NNdjlzMHI0cVAxcGxtbVlxME1zT1lvaFVMdWV6bWdpdzhMUQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 23 Nov 2026 17:43:43 GMT",
+      "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/20/6b00e40a68bf6.jpeg"
+    },
+    {
+      "titulo": "Cuevas del Pomier son declaradas Capital Rupestre de República Dominicana mediante ley - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUY5SnZTUWRqM3R3R2ZrbkxCbUtJdUIxaTl1bWZnYWd2ekF2NTFObXhfSnc0MzY1Z1dDQnAtbURyU1FhdDQ5TTlia3ozQ0dpWHNWVmM1UUZWT011Mzl4YmVPRVU3VlBWMVdHdFh4bkNzVnl6dG9OR2lOcEtzS2hHSFFlZGo2bVE1RjQxbjFuSVJ1S0RHQ2tuUWw3ekt0ODF4X0gwTE5SQmZ6blpPZHNDbWVwYWpaS21zVmFGUnRlbnNwcGtyWTlsb0JReUTSAcwBQVVfeXFMTXVGOUp2U1FkajN0d0dma25MQm1LSXVCMWk5dW1mZ2FndnpBdjUxTm14X0p3NDM2NWdXQ0JwLW1EclNRYXQ0OU05Ymt6M0NHaVhzVlZjNVFGVk9NdTM5eGJlT0VVN1ZQVjFXR3RYeG5Dc1Z5enRvTkdpTnBLc0toR0hRZWRqNm1RNUY0MW4xbklSdUtER0NrblFsN3pLdDgxeF9IMExOUkJmem5aT2RzQ21lcGFqWkttc1ZhRlJ0ZW5zcHBrclk5bG9CUXlE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Mon, 23 Nov 2026 18:43:43 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, martes 24 de noviembre de 2026? - Acento",
       "fuente": "Acento",
       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOd0wwemt1UW5HdDRhVi00bEk0Z3VQVjI4WFFKdUF3M3Q5V0xyZ3NMbW1PZXhXSXp4cU0yUy1RZnJYa2lBOFd1UmhmSDZmaWhvdkZwWTVBU2VqbHh2SV9pT3VMSWNMSlMzZlVkMF9NTlViT05LaTR5WEg2OWM3d3Rkb3UwRWlkM3FCdUx4WEpPNl9iNFd5MjJtMTJzcTFSNGVBMnRSSWhkeVlFdkV0VzhYeWlxeTJMNmY3X2JraE9ockhzd2RFTDBORmJfZ2NoNVhpOUU0QnNGaWFCVzRXT0NFWnZ6Wk82S0tDa1owaVhrcEowSXFp0gH0AUFVX3lxTE53TDB6a3VRbkd0NGFWLTRsSTRndVBWMjhYUUp1QXczdDlXTHJnc0xtbU9leFdJenhxTTJTLVFmclhraUE4V3VSaGZINmZpaG92RnBZNUFTZWpseHZJX2lPdUxJY0xKUzNmVWQwX01OVWJPTktpNHlYSDY5Yzd3dGRvdTBFaWQzcUJ1THhYSk82X2I0V3kyMm0xMnNxMVI0ZUEydFJJaGR5WUV2RXRXOFh5aXF5Mkw2ZjdfYmtoT2hySHN3ZEVMME5GYl9nY2g1WGk5RTRCc0ZpYUJXNFdPQ0VadnpaTzZLS0NrWjBpWGtwSjBJcWk?oc=5",
       "dominio": "news.google.com",
       "fecha": "Mon, 23 Nov 2026 17:00:05 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana supera los 10 millones de visitantes hasta octubre y proyecta cerrar con 12.5 millones - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFJDWThrcnktclUtS1BxVWdveVhFWTR6ZHNxVkZxdFJZemdUNWwxejF5R1VubGF6ejk4SzQ0UDdoV3RSbkZxVTFkZ3N0eHFUWXI2MnlYdUd6SmtfQzZwWEdzT1FYNE1RY0lCV3JXU0MxQk1kZ3M4ZlkzdzV6U1RMVmlQd1kzSDdRSkNFTFQzbTUzZjF5SVBtdl93TV9xZjUydmxjdWRrYjFaQy1yVnpCSTd5THNwck9iWVg0UUtjaDJtMkhJemVjQnVqR1BuOFR0MXhVOWg0enhJM0dPQWs1dVFQWGTSAeQBQVVfeXFMT0xSQ1k4a3J5LXJVLUtQcVVnb3lYRVk0emRzcVZGcXRSWXpnVDVsMXoxeUdVbmxheno5OEs0NFA3aFd0Um5GcVUxZGdzdHhxVFlyNjJ5WHVHekprX0M2cFhHc09RWDRNUWNJQldyV1NDMUJNZGdzOGZZM3c1elNUTFZpUHdZM0g3UUpDRUxUM201M2YxeUlQbXZfd01fcWY1MnZsY3Vka2IxWkMtclZ6Qkk3eUxzcHJPYllYNFFLY2gybTJISXplY0J1akdQbjhUdDF4VTloNHp4STNHT0FrNXVRUFhk?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Mon, 23 Nov 2026 16:35:25 GMT",
-      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/Screenshot_23-11-2026_114457_www.youtube.com_-OG.jpg"
     },
     {
       "titulo": "República Dominicana explorará convertir el sargazo en bioestimulantes agrícolas y regeneradores de suelos - Acento",

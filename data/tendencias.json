@@ -1,23 +1,16 @@
 {
-  "updated": "2026-11-23T22:42:07.968732-04:00",
-  "hora": "22:42",
+  "updated": "2026-11-23T22:52:30.658926-04:00",
+  "hora": "22:52",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "alofoke",
-      "trafico": "200+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
-    },
-    {
       "termino": "deni avdija",
       "trafico": "200+",
-      "noticia": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers",
-      "enlace": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/11/23/player-grades-sixers-come-up-short-to-deni-avdija-trail-blazers/92935330007/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSfXJMFWTlCwrIPa783liIpC78d6p8k9aK5lE0-0TovA5KuHzscRtGdGSYgVE"
+      "noticia": "76ers rule out Joel Embiid (illness) for game vs. Trail Blazers",
+      "enlace": "https://www.espn.com/nba/story/_/id/50577428/76ers-rule-joel-embiid-vs-trail-blazers-illness",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXWTDxhQwagagP6dYdz-8Z87TcUOZ-PWFDIM44hqM5Ce9fVksu42GWMW64Bw"
     },
     {
       "termino": "nhl",
@@ -32,6 +25,13 @@
       "noticia": "76ers host Trail Blazers with eye on sixth straight win",
       "enlace": "https://www.cbssports.com/nba/news/76ers-host-trail-blazers-with-eye-on-sixth-straight-win/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
+    {
+      "termino": "casa de alofoke 3",
+      "trafico": "500+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "visa",
