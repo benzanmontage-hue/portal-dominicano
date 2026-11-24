@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T17:51:16.489186-04:00",
-  "hora": "17:51",
+  "updated": "2026-11-24T18:01:37.808445-04:00",
+  "hora": "18:01",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "manchester city – naples",
+      "trafico": "100+",
+      "noticia": "Man City vs Napoli LIVE! Champions League lineups, match updates, news, score and analysis",
+      "enlace": "https://www.skysports.com/football/live-blog/13615972/man-city-vs-napoli-live-champions-league-lineups-match-updates-news-score-and-analysis",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXQHIsyhtqdMqKpO8tOF8IsRzvUNOuH1QP3ilCj0UI461Ft7i1LK6j8inlQ8A"
+    },
     {
       "termino": "como - aek",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "posiciones de al-nassr contra al-sadd",
       "trafico": "200+",
-      "noticia": "Al Nassr vs Al Sadd: pronóstico y estadísticas de Champions League Elite",
-      "enlace": "https://www.365scores.com/es/apuestas-peru/pronosticos/al-nassr-vs-al-sadd-afc-champions-league-elite-2026",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScZzBZ2whxEC6XCWAz7BU8gUxKPH5KxuuT2wIdk_9-XQXTz-mK7jMxJQNwxYU"
+      "noticia": "Volvió y se lesionó: Coman deja tocado al Al-Nassr al inicio del duelo asiático ante el Al-Sadd",
+      "enlace": "https://www.goal.com/es-mx/noticias/volvio-y-se-lesiono-coman-deja-tocado-al-al-nassr-al-inicio-del-duelo-asiatico-ante-el-al-sadd/bltafddb3fcd02a5f15",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGO5jvBF1K7E-Utvd0acXSJkCSVuQsb1ql_vNzyMUVitN5qPx883KYH8oOBs"
     },
     {
       "termino": "slovan bratislava - real betis",
@@ -42,17 +49,10 @@
     },
     {
       "termino": "manchester city - napoli",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
       "enlace": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI"
-    },
-    {
-      "termino": "liga de campeones de la uefa",
-      "trafico": "200+",
-      "noticia": "Con Enzo Fernández como titular, Manchester City se enfrenta al Napoli por la fecha 5 de la Champions League: la agenda completa",
-      "enlace": "https://www.infobae.com/deportes/2026/11/24/con-enzo-fernandez-y-nico-paz-como-protagonistas-se-inicia-la-fecha-5-de-la-champions-league-la-agenda-completa/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFW75gPVGCptv16L7EupIPW5CIWG0ChDfMHqcaa76cmqfC4a4ATZdis4i7iZA"
     },
     {
       "termino": "real madrid - psv",
@@ -72,7 +72,7 @@
       "termino": "al-nassr - al-sadd",
       "trafico": "1000+",
       "noticia": "Licensable picture: AFC Champions League Elite - Al Nassr v Al Sadd",
-      "enlace": "https://www.reutersconnect.com/item/afc-champions-league-elite-al-nassr-v-al-sadd/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xRkxVUVY%3D/?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "enlace": "https://www.reutersconnect.com/item/afc-champions-league-elite-al-nassr-v-al-sadd/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xRkxVUVY%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpJjR0CHbuUqOYmMgQvP1ax3uNQTuuee0eWpLWOAGTwTELLGs78NQMT7pdW0o"
     }
   ]
