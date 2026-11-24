@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T23:34:00.054157-04:00",
-  "hora": "23:34",
+  "updated": "2026-11-23T23:44:24.307027-04:00",
+  "hora": "23:44",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,16 +22,23 @@
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Sabres’ defensive lapses overshadow Kulich’s strong night",
-      "enlace": "https://www.nhl.com/sabres/news/buffalo-sabres-florida-panthers-recap-highlights-jiri-kulich",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYMD1hm4doupiVlTji7gjbxV-I1lDARaiFs7WXW_aqwzjJJAvH11_Ea-JLRE"
+      "noticia": "Devils look to bounce back against surging Blue Jackets",
+      "enlace": "https://www.cbssports.com/nhl/news/devils-look-to-bounce-back-against-surging-blue-jackets/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
     },
     {
       "termino": "76ers - trail blazers",
       "trafico": "1000+",
-      "noticia": "NBA: Portland Trail Blazers at Philadelphia 76ers",
-      "enlace": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-philadelphia-76ers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU0NjI",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWZrJKBWt7pC1tj_XeUEkXQbmCb_JpzQ6-DVxKJZBhnICMHf90dy773iL37U"
+      "noticia": "Observations after Sixers  5-game win streak ends with blowout loss to Blazers",
+      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-trail-blazers-analysis-jaylen-brown-lebron-james-joel-embiid/769091/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTETzRglUx5VK_zlWa4KcsGwICZVpB3Lv_XjFh6vCUJrjJDh5yTGQNxWdREsv0"
+    },
+    {
+      "termino": "casa de alofoke 3",
+      "trafico": "500+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "visa",
@@ -42,10 +49,10 @@
     },
     {
       "termino": "la casa de alofoke 3",
-      "trafico": "2000+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
+      "trafico": "1000+",
+      "noticia": "Fuerte enfrentamiento entre Maicol Nova y Robinson Hernández en inauguración de La Casa de Alofoke 3",
+      "enlace": "https://elnuevodiario.com.do/fuerte-enfrentamiento-entre-maicol-nova-y-robinson-hernandez-en-inauguracion-de-la-casa-de-alofoke-3/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDZIvfrozhmZ9PbMQMA5XYAnXq4wlWWySullTZX7KAZi7MCIgPzy6aHDSC0y0"
     },
     {
       "termino": "adriano espaillat",
@@ -67,13 +74,6 @@
       "noticia": "Con Cepeda titular, Elche resignó agónico empate y continúa en zona de descenso",
       "enlace": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17554333/cepeda-titular-elche-vs-levante-empate-laliga",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsHOw_vq1zn_0czwHXwpdU-nUl8bJoUZ3rzRtSWgLUnyWtoPIQTeGSPrBqTUU"
-    },
-    {
-      "termino": "jamie lee curtis",
-      "trafico": "100+",
-      "noticia": "Jamie Lee Curtis Details First Year as “Only Surviving  Member of Immediate Family",
-      "enlace": "https://www.eonline.com/news/1438333/jamie-lee-curtis-reacts-to-being-last-family-member-after-sisters-death",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk8P9ojqeQOclhFuzqDxgnbEd0568gMBh93O5UU9h5ZWx8JOoWuLApvhnFyI"
     }
   ]
 }
