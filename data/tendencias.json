@@ -1,79 +1,79 @@
 {
-  "updated": "2026-11-24T00:57:08.217273-04:00",
-  "hora": "00:57",
+  "updated": "2026-11-24T07:08:32.661716-04:00",
+  "hora": "07:08",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "weather",
+      "trafico": "200+",
+      "noticia": "South Florida stays dry Monday, but big changes arrive just before Thanksgiving",
+      "enlace": "https://www.cbsnews.com/miami/video/south-florida-stays-dry-monday-but-big-changes-arrive-just-before-thanksgiving/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-qt21gX-0efhD1eXHJKNqP2LlGfsIQygikDaFOnQQT28-U2jvNimVvLFwrJA"
+    },
+    {
+      "termino": "bono",
+      "trafico": "1000+",
+      "noticia": "Gobierno iniciará la entrega del bono navideño el próximo domingo",
+      "enlace": "https://listindiario.com/la-republica/gobierno/20261124/gobierno-inicia-entrega-bono-navideno-proximo-domingo-29_931277.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfr7S9qsat6XOHvV1-rHoDPxLlkpzdfjwaeN3rQGtXDiZ6xFLgoUAIYNcCdzE"
+    },
+    {
       "termino": "kings - spurs",
-      "trafico": "100+",
-      "noticia": "Kings host Victor Wembanyama, surging Spurs after first home win",
-      "enlace": "https://www.cbssports.com/nba/news/kings-host-victor-wembanyama-surging-spurs-after-first-home-win/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
+      "trafico": "200+",
+      "noticia": "Stephon Castle, short-handed Spurs top Kings to stay 8-0 on road",
+      "enlace": "https://www.cbssports.com/nba/news/stephon-castle-short-handed-spurs-top-kings-to-stay-8-0-on-road/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
     },
     {
       "termino": "lakers - jazz",
-      "trafico": "500+",
-      "noticia": "Rested Lakers seek revenge in rematch with Jazz",
-      "enlace": "https://www.cbssports.com/nba/news/rested-lakers-seek-revenge-in-rematch-with-jazz/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+      "trafico": "1000+",
+      "noticia": "Luka Doncic, Lakers pull away late to avenge loss to Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-pull-away-late-to-avenge-loss-to-jazz/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-uBXAs1HUhFSTLPpAUW0wfroGISs4F0VLd4j1dee0vqRILmfSS6clvPL_VK4"
     },
     {
       "termino": "rockets - clippers",
       "trafico": "200+",
-      "noticia": "Kevin Durant scores 32 as Rockets hand Clippers fourth straight loss",
-      "enlace": "https://www.cbssports.com/nba/news/kevin-durant-scores-32-as-rockets-hand-clippers-fourth-straight-loss/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-uBXAs1HUhFSTLPpAUW0wfroGISs4F0VLd4j1dee0vqRILmfSS6clvPL_VK4"
+      "noticia": "Los Angeles Clippers vs. Houston Rockets Live Score and Stats - November 23, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_LAC@HOU/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCVou0DvofXlGw7mHXLykrm9qJXcfFEcE4xfsCva-3H7LDHwtfUanhVZAJKco"
     },
     {
       "termino": "pacers - thunder",
       "trafico": "100+",
-      "noticia": "Pascal Siakam, Pacers hold off Thunder to snap four-game skid",
-      "enlace": "https://www.cbssports.com/nba/news/pascal-siakam-pacers-hold-off-thunder-to-snap-four-game-skid/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+      "noticia": "NBA: Oklahoma City Thunder at Indiana Pacers",
+      "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-indiana-pacers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzY3NTI",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHApS1wZneHehPbqIq5OuQKEfh9KWVLx8ri_ajYi5ep0_DcWtH4Amstbw-CS0"
     },
     {
       "termino": "bulls - cavaliers",
       "trafico": "100+",
-      "noticia": "Cavaliers Face Exhausted Bulls After Chicago Overtime Loss",
-      "enlace": "https://cwibc.co.id/en/cavaliers-face-exhausted-bulls-chicago",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMP-pXelWjzZ-_8M2lBb1Ln9Tl8xX4vl5LmTb65nCSSnZZ5zgUNQRAzwfgok"
+      "noticia": "Bulls 122-108 Cavaliers (Nov 23, 2026) Game Recap",
+      "enlace": "https://www.espn.com/nba/recap?gameId=401910041",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRrOyMssrd6yhyYeHr24ENOk9x-IMyrwQTiARoLg0DcDr5O34EfBDzy5E_Uk"
     },
     {
       "termino": "timberwolves - nets",
       "trafico": "200+",
-      "noticia": "Julius Randle leads Nets into Minnesota to face former team",
-      "enlace": "https://www.cbssports.com/nba/news/julius-randle-leads-nets-into-minnesota-to-face-former-team/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+      "noticia": "“The organization was great to me. So it really wasn’t …",
+      "enlace": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/24/the-organization-was-great-to-me-so-it-really-wasnt/92937978007/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkhqwfsyqVgeJ8n9iclNnLiwRmH09Ax08XW4b4dAx4KfGGpm-RkY_G4FyFxXY"
     },
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Travis Konecny sparks wild Flyers comeback to highlight his own resurgence - The Athletic",
-      "enlace": "https://www.nytimes.com/athletic/7796856/2026/11/20/flyers-travis-konecny-senators-leadership-comeback/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb3NzobXNwelUh6z4ij6DwRD7LEp_xiFX2-iv7fu0H1d0g0m679xkchofxsxM"
+      "noticia": "Ducks  defensive effort done in by third-period mistakes in Seattle",
+      "enlace": "https://www.thesportingtribune.com/2026/11/23/anaheim-ducks-seattle-kraken-cutter-gauthier-defense-lukas-dostal",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1zBriKNW2Qxyamv95hhztYTIIO9ERn3S_ojxMvt2eFM65Beq0M102igo0a0o"
     },
     {
       "termino": "76ers - trail blazers",
       "trafico": "2000+",
-      "noticia": "PHOTOS » Trail Blazers 128 vs. Philadelphia Sixers 111 on November 23, 2026",
-      "enlace": "https://www.nba.com/blazers/photos/photos-trail-blazers-128-vs-philadelphia-sixers-111-on-november-23-2026",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXh99vxZOkcO_2xmbZ-h5kFS1uNT__QoruCzOtS2ybP6lQ9OF0XAZP7lWJPk"
-    },
-    {
-      "termino": "visa",
-      "trafico": "100+",
-      "noticia": "Klarna Group stock trades up, here is why",
-      "enlace": "https://stockstory.org/us/stocks/nyse/klar/news/why-up-down/klarna-group-stock-trades-up-here-is-why",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPyqvx8XOXSVu_YMSYORI95CBcGeLNLhX-Sn20I--KewaI2hkXzlY8TXdsj1k"
-    },
-    {
-      "termino": "la casa de alofoke 3",
-      "trafico": "2000+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmEkvusSsJr17VBEJK3zz9N9Wv6VN_M61ffz0wBhEPNDis4SPW_6QSCPfOdY"
+      "noticia": "Portland Trail Blazers vs. Philadelphia 76ers Live Score and Stats - November 23, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_POR@PHI/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-uBXAs1HUhFSTLPpAUW0wfroGISs4F0VLd4j1dee0vqRILmfSS6clvPL_VK4"
     }
   ]
 }
