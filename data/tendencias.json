@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-24T18:32:46.513240-04:00",
-  "hora": "18:32",
+  "updated": "2026-11-24T18:43:07.976249-04:00",
+  "hora": "18:43",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "classement real madrid – psv eindhoven",
+      "termino": "delio gómez ochoa",
       "trafico": "200+",
+      "noticia": "Muere en Cuba Delio Gómez Ochoa, héroe nacional dominicano",
+      "enlace": "https://www.diariolibre.com/actualidad/politica/2026/11/24/muere-delio-gomez-ochoa-heroe-nacional-dominicano/3730235",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnpc1Qqqg6plGDI4UTBTzam2fVOLNJXSwU5X0hI3yGLvr3JCndQ_uFUsNoed4"
+    },
+    {
+      "termino": "classement real madrid – psv eindhoven",
+      "trafico": "500+",
       "noticia": "Real Madrid – PSV en direct : Van Bommel rate l’immanquable ! (0-0)",
       "enlace": "https://africafootunited.com/real-madrid-psv-en-direct-van-bommel-rate-limmanquable-0-0/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-j5hb_ThIPgSuFlxAJk4G_Asd1gxYZwZfJbNrl7odP-ljr-shqC0d48sXCbI"
@@ -20,18 +27,25 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_fSBBZO00iCZMO6rPId1Mc7Jk45vFbLDPfUeJrR1ivdjtYLW6_72jhdKsO8"
     },
     {
+      "termino": "a que hora es el miss universo 2026",
+      "trafico": "100+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
+    },
+    {
       "termino": "manchester city – naples",
       "trafico": "100+",
-      "noticia": "Champions League LIVE: Galatasaray vs Aston Villa before Arsenal vs Borussia Dortmund   Manchester City vs Napoli",
-      "enlace": "https://www.bbc.com/sport/football/live/cwly0rk8v8mrt",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYVFv4LmZVJScG2vysbek32o3EM0AWdwNBfewhHrok7x2qPQc_3vQrLXYnvU"
+      "noticia": "Licensable picture: UEFA Champions League - Manchester City v Napoli",
+      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-manchester-city-v-napoli/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xUDVMNjg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSips6Q0HXf4BHjohenY62bakskTbmFn_GwrpqAwZ8ES2ztV60d4A0-opWbNv4"
     },
     {
       "termino": "ligue des champions",
       "trafico": "100+",
-      "noticia": "Neil El Aynaoui heureux au Leipzig, option d achat fixée à 28 M€",
-      "enlace": "https://www.tufutbolero.com/fr/actualites/neil-el-aynaoui-heureux-au-leipzig-option-d-achat-fixee-a-28-b5f591",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcwaT1WvfEr2KvCCfCFeXs5pssluEbqY1jZ9EajGyqU4rCodtgiM7xWSVQVuE"
+      "noticia": "Thauvin titulaire à Leipzig après la déroute face à Côme",
+      "enlace": "https://www.tufutbolero.com/fr/actualites/thauvin-titulaire-a-leipzig-apres-la-deroute-face-a-come-1bfb79",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWCTkrBd3_s1R6cmTKQpYGYafO-6B0j1u_7oTHqtitdyoko08aa6QTKaTWU4"
     },
     {
       "termino": "como - aek",
@@ -60,20 +74,6 @@
       "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1eHsHWx8gfS4ya0sObnW1CO5WDFWdD8molsZbFydT5TRj6EnzTWuxdZGltJg"
-    },
-    {
-      "termino": "arsenal - dortmund",
-      "trafico": "500+",
-      "noticia": "Team news: Gyokeres starts against Dortmund",
-      "enlace": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8"
-    },
-    {
-      "termino": "manchester city - napoli",
-      "trafico": "1000+",
-      "noticia": "Champions League, il Napoli sfiora l’impresa contro il City. Il Como vola: battuto l’AEK | Risultati e nuova classifica",
-      "enlace": "https://www.ilfattoquotidiano.it/2026/11/24/champions-league-napoli-como-risultati-nuova-classifica/8582865/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv5uwh1QXej2Fx62vWw0qHx9RjDGKjqF8mvi1I_PO3usZM4EwnYeM5CQFFgAE"
     }
   ]
 }
