@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T19:04:08-04:00",
+ "actualizado": "2026-11-24T19:14:31-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -5646,6 +5646,12 @@
   ],
   "La Primera|El Quinielón Noche": [
    {
+    "fecha": "2026-11-24",
+    "numeros": [
+     "11"
+    ]
+   },
+   {
     "fecha": "2026-11-23",
     "numeros": [
      "48"
@@ -6520,6 +6526,14 @@
    }
   ],
   "La Primera|Primera Noche": [
+   {
+    "fecha": "2026-11-24",
+    "numeros": [
+     "42",
+     "60",
+     "32"
+    ]
+   },
    {
     "fecha": "2026-11-23",
     "numeros": [
