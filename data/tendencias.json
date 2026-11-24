@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T10:18:32.654893-04:00",
-  "hora": "10:18",
+  "updated": "2026-11-24T10:29:00.161316-04:00",
+  "hora": "10:29",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -29,16 +29,9 @@
     {
       "termino": "wetter",
       "trafico": "100+",
-      "noticia": "Neues Pixel-Weather-Update: Google sammelt Feedback zum Wetter vor Ort",
-      "enlace": "https://www.bild.de/leben-wissen/digital/neues-pixel-weather-update-google-sammelt-feedback-zum-wetter-vor-ort-6b04479066a00c9ca1fe1005",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnOw3CM9L_OMW_KzbZWPevgw56jOGiYpMsWK2XkeO4vBUjjDPlPqJZTdvuouk"
-    },
-    {
-      "termino": "weather",
-      "trafico": "500+",
-      "noticia": "SFO will flood this week from huge tides, federal expert says",
-      "enlace": "https://www.sfchronicle.com/travel/article/sfo-airport-flood-weather-22543280.php",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCqLNg24lZsUIuZF77hMREpLFUNkQrVm-5UwdqT60l6B31es2e5AmCmU-fOuQ"
+      "noticia": "Droht uns ein Jahrhundertwinter wie im Jahr 1962? Entscheidend ist, was über dem Nordpol passiert",
+      "enlace": "https://www.fr.de/panorama/jahrhundertwinter-wie-1962-63-super-el-nin-schneemassen-zugefrorener-rhein-kommt-jetzt-der-eiswinter-zurueck-zr-94604892.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqakiRceL-4fNkburFwOvbi4VaPlFm8IFKuxaEpGm8tx9sDHe2CvHgHoU4AYc"
     },
     {
       "termino": "leonor de borbón",
@@ -57,9 +50,9 @@
     {
       "termino": "lakers - jazz",
       "trafico": "1000+",
-      "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
-      "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
+      "noticia": "JJ Redick Reveals Why He Removed Jake LaRavia From Starters",
+      "enlace": "https://heavy.com/sports/nba/los-angeles-lakers/jj-redick-why-removed-jake-laravia/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa6ekwHKo1jyqK8mLO9moJkLDcBipPhPVGtB-SeKpxkczS7pU61FomfUC6dK4"
     },
     {
       "termino": "rockets - clippers",
@@ -74,6 +67,13 @@
       "noticia": "NBA: Oklahoma City Thunder at Indiana Pacers",
       "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-indiana-pacers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzY3NTI",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHApS1wZneHehPbqIq5OuQKEfh9KWVLx8ri_ajYi5ep0_DcWtH4Amstbw-CS0"
+    },
+    {
+      "termino": "bulls - cavaliers",
+      "trafico": "100+",
+      "noticia": "What Buddy Hield credits for Bulls’ clutch win over Cavs",
+      "enlace": "https://sports.yahoo.com/articles/buddy-hield-credits-bulls-clutch-051835227.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjYHh6DfVXD8FUs4gYdLBQTE6zrBGlrX6bZOn1xbtkBPeMiPAcvf3VnA72wCU"
     }
   ]
 }
