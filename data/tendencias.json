@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-24T13:59:39.054222-04:00",
-  "hora": "13:59",
+  "updated": "2026-11-24T14:10:11.412258-04:00",
+  "hora": "14:10",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "champions league",
+      "trafico": "100+",
+      "noticia": "Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League online",
+      "enlace": "https://www.managingmadrid.com/115745/real-madrid-psv-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeAuUZaXOaWyucwBDm3VmvajHWgZyqjGa7ltVEFV0TSFxVAZ9Ti_v6UGdb214"
+    },
+    {
       "termino": "galatasaray - aston villa",
       "trafico": "200+",
-      "noticia": "Galatasaray-Aston Villa maçı, iki milyarder patronun 18.4 milyar serveti ve futbol ekonomisi",
-      "enlace": "https://www.patronlardunyasi.com/galatasaray-aston-villa-maci-iki-milyarder-patronun-184-milyar-serveti-ve-futbol-ekonomisi",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhql2_y0_iZJ5RJVv_Tltx7xzzBqUySorSU3mvjjHMX_lZeSGe1w43nUwViGI"
+      "noticia": "CANLI | Galatasaray - Aston Villa maçı TRT 1 de",
+      "enlace": "https://www.trtspor.com.tr/haber/futbol/canli-or-galatasaray-aston-villa-maci-trt-1de-34204004",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiFn8DAEUytF52YMYfu_aPfLOED8E6jYBKiBWSRd-njmdmNkxsLvyqGuVw858"
     },
     {
       "termino": "dazn",
@@ -67,13 +74,6 @@
       "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
       "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
-    },
-    {
-      "termino": "rockets - clippers",
-      "trafico": "200+",
-      "noticia": "I think a lot of that stuff that why people hated last …",
-      "enlace": "https://sports.yahoo.com/articles/think-lot-stuff-why-people-090745522.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFxWJ0zmm_8pSrUPK3i8NdZNddhPJQaJtzkWOi0gt7XjHxi6O1AdYwXP102zQ"
     }
   ]
 }
