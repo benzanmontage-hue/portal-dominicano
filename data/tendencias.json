@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T13:17:39.396573-04:00",
-  "hora": "13:17",
+  "updated": "2026-11-24T13:28:20.200249-04:00",
+  "hora": "13:28",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "galatasaray - aston villa",
+      "trafico": "200+",
+      "noticia": "Galatasaray taraftarları için Aston Villa maçı izleme saatleri paylaşıldı",
+      "enlace": "https://www.kahtahaberpostasi.com/haber/galatasaray-taraftarlari-icin-aston-villa-maci-izleme-saatleri-paylasildi",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQurPojrXZgJIsHmmNk9G0JbiPWooHyiH-lAT2yCh2oofaQbXiB8lDVLhKegF4"
+    },
     {
       "termino": "dazn",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "NBA: Oklahoma City Thunder at Indiana Pacers",
       "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-indiana-pacers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzY3NTI",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHApS1wZneHehPbqIq5OuQKEfh9KWVLx8ri_ajYi5ep0_DcWtH4Amstbw-CS0"
-    },
-    {
-      "termino": "bulls - cavaliers",
-      "trafico": "100+",
-      "noticia": "What Buddy Hield credits for Bulls’ clutch win over Cavs",
-      "enlace": "https://sports.yahoo.com/articles/buddy-hield-credits-bulls-clutch-051835227.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjYHh6DfVXD8FUs4gYdLBQTE6zrBGlrX6bZOn1xbtkBPeMiPAcvf3VnA72wCU"
     }
   ]
 }
