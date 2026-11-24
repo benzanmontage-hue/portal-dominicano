@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-23T22:31:45.032134-04:00",
-  "hora": "22:31",
+  "updated": "2026-11-23T22:42:07.968732-04:00",
+  "hora": "22:42",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "alofoke",
+      "trafico": "200+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
+    },
+    {
       "termino": "deni avdija",
-      "trafico": "100+",
-      "noticia": "Deni Avdija cleared to return after missing last two games",
-      "enlace": "https://sports.yahoo.com/articles/deni-avdija-cleared-return-missing-222059504.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuPhWzkBoSEQZrCT2CRmkZBk43qSGE23-Q93RyumJN7aMUQyN-_R_PFt83Ebk"
+      "trafico": "200+",
+      "noticia": "Player grades: Sixers come up short to Deni Avdija, Trail Blazers",
+      "enlace": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/11/23/player-grades-sixers-come-up-short-to-deni-avdija-trail-blazers/92935330007/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSfXJMFWTlCwrIPa783liIpC78d6p8k9aK5lE0-0TovA5KuHzscRtGdGSYgVE"
     },
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Sharks Insight: Why 4th Line “Earned” Chance To Close Game, Little Things Smith   Wennberg Did in Big Win",
-      "enlace": "https://sanjosehockeynow.com/san-jose-sharks-smith-goodrow-ostapchuk-leason-wennberg-seattle-kraken-insight-25/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5_rEFBSANPS_yV_kOy8zjiLt6qXyuOP6s0ov5UkoSURSAXAUnzm9YQEvk2xQ"
+      "noticia": "Mammoth open road trip against Jets seeking third straight win",
+      "enlace": "https://www.cbssports.com/nhl/news/mammoth-open-road-trip-against-jets-seeking-third-straight-win/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
     },
     {
       "termino": "76ers - trail blazers",
@@ -25,13 +32,6 @@
       "noticia": "76ers host Trail Blazers with eye on sixth straight win",
       "enlace": "https://www.cbssports.com/nba/news/76ers-host-trail-blazers-with-eye-on-sixth-straight-win/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
-    },
-    {
-      "termino": "casa de alofoke 3",
-      "trafico": "100+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "visa",
