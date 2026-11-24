@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-24T16:15:58.830716-04:00",
-  "hora": "16:15",
+  "updated": "2026-11-24T16:26:25.163594-04:00",
+  "hora": "16:26",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "manchester city - napoli",
-      "trafico": "200+",
-      "noticia": "Chinellato: “City vulnerabile in difesa, il Napoli può sorprenderlo. Zirkzee? A gennaio la decisione”",
-      "enlace": "https://www.ilnapolionline.com/2026/11/24/chinellato-city-vulnerabile-in-difesa-il-napoli-puo-sorprenderlo-zirkzee-a-gennaio-la-decisione/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF6OP241tW5ZeYdHCAOmURaYSnWv0eKe80qHVMRcAO2l40uj6kTbj9XMrEKKI"
-    },
-    {
-      "termino": "liga de campeones de la uefa",
-      "trafico": "100+",
+      "termino": "real madrid",
+      "trafico": "500+",
       "noticia": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5fHsQ4oMJZEXkE4gt6DxoIHvXVPNdSdIh46IE591Uxuohe-nA2mXtagoUcYY"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxQnSRXRAmyWq0lvtQCZhYxoznIkfQpMtCbO4Ig2uxEDywA645Gdz-NLBztMo"
+    },
+    {
+      "termino": "arsenal - dortmund",
+      "trafico": "100+",
+      "noticia": "Team news: Gyokeres starts against Dortmund",
+      "enlace": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8"
+    },
+    {
+      "termino": "manchester city - napoli",
+      "trafico": "200+",
+      "noticia": "Manchester City-Napoli 0-0, il risultato in diretta",
+      "enlace": "https://sport.sky.it/calcio/champions-league/partite/2026/giornata-5/manchester-city-napoli/risultato-gol",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCaY1qNWHJLY1ARn-Yq_PDNxyJqu37k7W5yZqrfbXYNaEuR7hDBTs-gGxzTo4"
     },
     {
       "termino": "real madrid - psv",
@@ -29,9 +36,9 @@
     {
       "termino": "al-nassr - al-sadd",
       "trafico": "1000+",
-      "noticia": "Preview: Al-Nassr vs Al-Sadd - prediction, team news, lineups",
-      "enlace": "https://www.sportsmole.co.uk/football/al-nassr/preview/al-nassr-vs-al-sadd-prediction-team-news-lineups_609627.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6DCdrfULxrm3yEN_FWMM2kqaBGzbVFx3Q8MEH7RGP-XNXcpbKMjSGVxBJr4k"
+      "noticia": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
+      "enlace": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98gGQh-Btqc4qllJSO7Ty-fyNuvR0HSlAYPP7DzXgpplUoZUav6eT8Nz2mRM"
     },
     {
       "termino": "freddy peralta",
@@ -42,7 +49,7 @@
     },
     {
       "termino": "champions league",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Aston Villa player ratings as Galatasaray claim Champions League win in Istanbul",
       "enlace": "https://www.astonvillareview.com/p/aston-villa-player-ratings-galatasaray-champions-league",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVrbZWFQK41-oZG7a3O3fQL9qxOq5K4nv48BQm0ZER6qHe6JYmEHdvxV2r9W4"
@@ -50,9 +57,9 @@
     {
       "termino": "galatasaray - aston villa",
       "trafico": "1000+",
-      "noticia": "Galatasaray-Aston Villa maçında Batrakov ve McGinn sarı kart gördü",
-      "enlace": "https://www.haber.tr/galatasaray-aston-villa-macinda-batrakov-ve-mcginn-sari-kart-gordu",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_HML5LkrtMoPDbhG0Rxma0S7XG6ZRylA9DdYaKk2bXHmSyEUrTyJzD7vUc3Y"
+      "noticia": "ASTON VILLA MAÇI DA GÖSTERDİ Kİ RAMS PARK IN ZEMİN SORUNU HENÜZ ÇÖZÜLMÜŞ DEĞİL!",
+      "enlace": "https://www.fotospor.com.tr/kose-yazilari/aston-villa-maci-da-gosterdi-ki-rams-parkin-zemin-sorunu-henuz-cozulmus-degil-717701",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbGFymXCBHwq_lI9BqtQNzb0TnpZvTgt-niRIW3gQ1bmy_2Ss4j7VhvN-9MDk"
     },
     {
       "termino": "dazn",
@@ -67,13 +74,6 @@
       "noticia": "Las Estrellas anuncian que Tatis Jr. jugará muy pronto con el equipo",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/23/las-estrellas-anuncian-que-tatis-jr-jugara-muy-pronto-con-el-club/3729676",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6PMKC1wP3Vr9aFnnuMQi1SJSnz896krCqZ8eIRUEhOcBBP3rhQOhud72Tvzs"
-    },
-    {
-      "termino": "alexandr wang",
-      "trafico": "500+",
-      "noticia": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post",
-      "enlace": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpFbA1P_rILuraEiANCqZIle515xriWoP-WRNmiWvEqvvDoOQUDQaHvtWE2eg"
     }
   ]
 }
