@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T09:57:44.090602-04:00",
-  "hora": "09:57",
+  "updated": "2026-11-24T10:08:07.067550-04:00",
+  "hora": "10:08",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alexandr wang",
+      "trafico": "100+",
+      "noticia": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post",
+      "enlace": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpFbA1P_rILuraEiANCqZIle515xriWoP-WRNmiWvEqvvDoOQUDQaHvtWE2eg"
+    },
     {
       "termino": "raquel peña",
       "trafico": "200+",
@@ -29,9 +36,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Denver weather: Sunny skies as temperatures rebound into the low 50s",
-      "enlace": "https://www.denvergazette.com/2026/11/24/denver-weather-sunny-skies-as-temperatures-rebound-into-the-low-50s/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM_EZZM-dDqyXnB-76EBZmLPxsgIspjIOD8jUV8xKuo8QDPDlexy64K_NM9-E"
+      "noticia": "SFO will flood this week from huge tides, federal expert says",
+      "enlace": "https://www.sfchronicle.com/travel/article/sfo-airport-flood-weather-22543280.php",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCqLNg24lZsUIuZF77hMREpLFUNkQrVm-5UwdqT60l6B31es2e5AmCmU-fOuQ"
     },
     {
       "termino": "leonor de borbón",
@@ -50,9 +57,9 @@
     {
       "termino": "lakers - jazz",
       "trafico": "1000+",
-      "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
-      "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
+      "noticia": "Lakers rookie makes most of biggest opportunity he’s gotten so far",
+      "enlace": "https://nypost.com/2026/11/21/sports/lakers-cameron-carr-big-opportunity-rotation/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwh_Oum4d-RYLiPcxfYCEGISw-S3GB-_FR2AIGoUT01M4l25FP3W-huCb-RB4"
     },
     {
       "termino": "rockets - clippers",
@@ -67,13 +74,6 @@
       "noticia": "NBA: Oklahoma City Thunder at Indiana Pacers",
       "enlace": "https://www.reutersconnect.com/item/nba-oklahoma-city-thunder-at-indiana-pacers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzY3NTI",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHApS1wZneHehPbqIq5OuQKEfh9KWVLx8ri_ajYi5ep0_DcWtH4Amstbw-CS0"
-    },
-    {
-      "termino": "bulls - cavaliers",
-      "trafico": "100+",
-      "noticia": "Bulls 122-108 Cavaliers (Nov 23, 2026) Game Recap",
-      "enlace": "https://www.espn.com/nba/recap?gameId=401910041",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRrOyMssrd6yhyYeHr24ENOk9x-IMyrwQTiARoLg0DcDr5O34EfBDzy5E_Uk"
     }
   ]
 }
