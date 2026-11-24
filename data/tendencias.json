@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T14:41:51.022354-04:00",
-  "hora": "14:41",
+  "updated": "2026-11-24T14:52:19.385819-04:00",
+  "hora": "14:52",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,6 +13,13 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6DCdrfULxrm3yEN_FWMM2kqaBGzbVFx3Q8MEH7RGP-XNXcpbKMjSGVxBJr4k"
     },
     {
+      "termino": "freddy peralta",
+      "trafico": "100+",
+      "noticia": "Orioles To Sign Freddy Peralta",
+      "enlace": "https://www.mlbtraderumors.com/2026/11/orioles-sign-freddy-peralta.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj1LQP2h6ozZVuXczofGO5TM_Z2LEoM3q3sCbo8cxoPP1ZYT-9Jo4JVQbyrko"
+    },
+    {
       "termino": "champions league",
       "trafico": "100+",
       "noticia": "Erling Haaland MVP: Arsenal vs Borussia Dortmund all-time most valuable combined XI",
@@ -22,9 +29,9 @@
     {
       "termino": "galatasaray - aston villa",
       "trafico": "500+",
-      "noticia": "Galatasaray’da 3 değişiklik",
-      "enlace": "https://pusuhaber.com.tr/spor/249059-galatasarayda-3-degisiklik",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQinFrURbK6KUDA3PU9gix_w8DptMi84siBYRqAhHC0pewARLMQ2lVLlxbraFM"
+      "noticia": "Galatasaray da 3 değişiklik",
+      "enlace": "https://www.yozgatmedya.com.tr/galatasarayda-3-degisiklik-20",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwwV3uML212qKCa8KSMtaflpTij4oSCYWPRbyGq1ICMvO6oDZt7Jtk47rphg"
     },
     {
       "termino": "dazn",
@@ -57,9 +64,9 @@
     {
       "termino": "diésel",
       "trafico": "200+",
-      "noticia": "Más de 5.000 familias dejarán de sembrar por el alza del diésel, advierten productores",
-      "enlace": "https://eldeber.com.bo/economia/5-000-familias-dejaran-sembrar-alza-diesel-advierten-productores_1795531434",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtHYF24R1zW6W5BLg2GBSZlFRwH9Jh1iwt8-aKWo2PExJH0cqp_wRyqbYaavw"
+      "noticia": "‘Sinceraron el precio del diésel’: Zambrana y pregunta ¿dónde va la plata que ahorran?",
+      "enlace": "https://larazon.bo/economia-y-empresa/2026/11/24/sinceraron-el-precio-del-diesel-dice-zambrana-y-pregunta-donde-va-la-plata-que-ahorran/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnofFVRU-5fp8va7DlbHxA5toBAvNWZHBFEnG4PqDiID1zm2FkuWAwyAHRgE"
     },
     {
       "termino": "leonor de borbón",
@@ -67,13 +74,6 @@
       "noticia": "De Lamine Yamal a la princesa Leonor: los famosos que podrán votar por primera vez en unas elecciones generales este domingo",
       "enlace": "https://www.elperiodico.com/es/gente/20261124/famosos-votar-primera-vez-elecciones-generales-29-noviembre-dv-135049891",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwqbhInnmNyuHGe1aiOwaeNEr43gAY65fZOSmRa_PaADokkJgfTj3KtZ7BKLg"
-    },
-    {
-      "termino": "kings - spurs",
-      "trafico": "200+",
-      "noticia": "Stephon Castle, short-handed Spurs top Kings to stay 8-0 on road",
-      "enlace": "https://www.cbssports.com/nba/news/stephon-castle-short-handed-spurs-top-kings-to-stay-8-0-on-road/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
     }
   ]
 }
