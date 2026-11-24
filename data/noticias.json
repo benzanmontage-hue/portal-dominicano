@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-24T16:36:50.115171-04:00",
-  "hora": "16:36",
+  "updated": "2026-11-24T16:38:06.455650-04:00",
+  "hora": "16:38",
   "fecha": "24/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUNYR1RjdEQwcWxDN0k3X2EzVEdLUHB1WWlMN0N4RWZReEJXMXFmMkdJd1B1SEljVmJOTjZWNUFmR2lnQ2Vpb1dNMFZOVlg1aW4xMXR6Sk1tMkNqcFR1WGI4TzJ2WDJOMUtnWnEtUHdSV0hPNWFMOExqc01La1g0dGplREp0VmFsbjI0UjV2aERhQmFIWHdSNkVMdkpFX0FOcklJYVRQVGdSSW1QT2V3ZFFncHZqMklBZXM5cF9WMF9GN3VzR2lIc3ctVTBCLXktLUVJ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Miss Dominicana, Nicaragua y Curazao se preparan para la gran noche en Miss Universe 2026 - Telemundo",
       "fuente": "Telemundo",
@@ -21,14 +29,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
       "titulo": "República Dominicana aprueba las bases para licitar hasta 900 MW solares y eólicos con almacenamiento - pv magazine Latinoamérica",
       "fuente": "pv magazine Latinoamérica",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWd3SEtOY3h6cVdkYTBfekM0NEJPRkxCSGhEd2VTMkFCNlhCRmYySkJ2TVhmbE5zWnZmbm9aSjlMa2V1d1FDMmtlR24yV2JWdHMyYU0zODJuc1NjYXZfYzBVeWtHSUxjSzlTTEVyc0JkODdPYmhLUjRtdTd0eTVkU3dYNnh1R0RzUlpCOW1yMi1hSHNLT2NJa1JFbERUOFgwMld4clpjSFFTVXNNNDEwQzgtSHgyMWdEczBFbmY1Q0UxZDlEeFFibEdGMVRISEhTb3RnWWVLQy0zdEQyUmhKTA?oc=5",
@@ -42,6 +42,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ09QOWZ0UE9TYjRickw2Mk5IaGl3QzYyZ21jVlV2a3ZWVmlMYmh4SHRSYjJpYlI2dDZFcE5YSVZPQ3lXVDU2RjhoWU5OdHJwc0JsbXo1SXpQMjRjbWlWZXBXeHl6U2JubG1vdXdheHhwX0g4TmNJX0lVODRqNF9ha21KdV85M2syWDlONU9IUHcyUk5FNzRwWUNSOEZRYkN2VDNiMmRNS3o4Yll6NVJPRHhvcFBpQXNQV1F1bVMtQVZQOUhXLVhEaTJ4eGx0VjlIdlc5QTNPQ1IxSWN4eFl5aWhiYjlYV1dnVlYwcHlMa2VLT2NyeGlnR9IBkwJBVV95cUxPVDR1NkdxTFNrQ2Via1ZLMWhXcmNmSWNEWGlCTGdDR1JULXJWQnE2bmtQTEtYX3pXWWVXTU9rS2JFc2VaV3JLQjF3NkJ3M1U0dFVfdEhad1dmM0xwUklQT2tZREhZLTVMM1FvMHhiMldWUWtFNkZfTWwxbGhWQjZ4MURvZkNiRk5nWTdhVGV5dU1SQWtRWHVRZm5tUVpLdzNTaHlhZGY4aEk1YWVCcFBLMDliNF9LeF9xQVV4UGNaMVVIZ2FMSC14d3E4M1JGRGRlUUdMNkNXTVFCRjdjSWpNR09BaFdBNnpwQUdvR3FDYUZJa3dkQ2lETVVXQlpNQ0FaYTI0NHR0Y0c2Uy1yYVJHS3NiVQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 18:51:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/ZHGAUQCSYJGG3HDGJQ7E2VZEAQ.png?auth=00a188f7fe69da33645b06c8af5de8c7efa90c2ac788c8ff2767f59daed09fda&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "República Dominicana autoriza traspaso de ge... - BNamericas",
+      "fuente": "BNamericas",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGtYVWtDYWtXVVlqQWVBVDByNm1ZYlNEUkY0MjNyRU9Za2FNUGhnbEF1T0Y2UlRuV3ZmYVE5cmdyOFdodW9LRGprQTRqQUFyMnlrNVRpVmxYbVV3aXNrejZyeVVmLXZOMk11OHo4UlM5MlBRaE1tTDkwdFctOWs4c1p3VG5rSlRYUm40TUdONm5NUXhLaWdQWVIxaU96U25qUE1DT2d1LUJuQnlKTGZsUHJGSQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 18:02:19 GMT",
       "imagen": ""
     },
     {
@@ -53,28 +61,12 @@
       "imagen": "https://www.latercera.com/resizer/v2/7UBIMYYQ6NHJJAMLVGS3ELP3CY.jpg?auth=69dd201c5d8c985aaec35bfd7fb690f3e612e0672dfd2723eae719e3f0b1adae&height=630&width=1200&smart=true"
     },
     {
-      "titulo": "República Dominicana autoriza traspaso de ge... - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGtYVWtDYWtXVVlqQWVBVDByNm1ZYlNEUkY0MjNyRU9Za2FNUGhnbEF1T0Y2UlRuV3ZmYVE5cmdyOFdodW9LRGprQTRqQUFyMnlrNVRpVmxYbVV3aXNrejZyeVVmLXZOMk11OHo4UlM5MlBRaE1tTDkwdFctOWs4c1p3VG5rSlRYUm40TUdONm5NUXhLaWdQWVIxaU96U25qUE1DT2d1LUJuQnlKTGZsUHJGSQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 18:02:19 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Un primer gol en la Copa Mundial FIFA Sub-17 para República Dominicana⁣ ⁣ #PeriódicoHOY #HOYDigital #ElHOY - Instagram",
       "fuente": "Instagram",
       "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOdGtKRG5Vbl9DamVyMFV0UXBwVDFxWmlKVmtWX0tBQWJPbk5LSnBpSzBlY19DYXh1Zkx3Mk5LSzBXYXdFeWdId1N4TmY4LXZZR3l1YkpR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 17:20:53 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana vs Chile EN VIVO: resultado y goles de la Roja por el Mundial Sub 17 - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUc2WE4wbDZPTVdtQVkxa3FYYlZ5cDJnUnRmUTBDajlyM09naWtkMkgyY1BLUmVMeHhwckp0MHVfQVpGQ3JGQ19Oa29BdnNNMUIzWjBMWlNhTGtCR08zazE2YlozeURpY1VNT1RSdTJCblgzcUN3NnNiTlJxNTUwYw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 14:42:55 GMT",
-      "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/0bd739c8-24d3-4643-b8ea-b8cc3c83b3de.png"
     },
     {
       "titulo": "Muere a los 97 años Delio Gómez Ochoa, comandante del Ejército Rebelde que luchó contra Trujillo en... - CiberCuba",
@@ -85,12 +77,12 @@
       "imagen": ""
     },
     {
-      "titulo": "Mundial Sub 17: Chile perdió ante República Dominicana y así quedó la tabla de posiciones - TVN",
-      "fuente": "TVN",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS05jd25TRjU0bHZHeDU4Vm03S3RURE5sdFdvQVdjdWZYVHljRnJ3WFcxVnVqRk9XdUJVdlBIY3RDdURFTXJnOUNDWko3ekRCOTdsSS1lc3d0Z1NJVkwxM1ZZTnlrRmlpNjBUTlVwbjcwMnBYWHJCLVNVcWljVXNjSHBZTGtoOUJwU1g0SXNkVGg1cWxONWV1Q1JRTTFhUXRQMnlud0RGYVlwQUJXalHSAbMBQVVfeXFMUGNtZGR2Q21KYjVnNEpfT2xuaUN2elFJdVN5cVp0anZOVjR6TlFjR1pqRU1iT2lqNlhfMV85V0Y5X2x5bkxzeVF2dUI2UlBuTjdNdEJEeGdnRzlqbkRiOUV2RDk4VlBDUThuakFPcEwzVmdPUUVqa1VVcmdmYkVnZU1BRFVWaGtlcEZPMF84UFRfeF8yNUVSdm1CaVBDUlZsZWEtc2FCU2FTMjc5S1BFM1lqSlU?oc=5",
+      "titulo": "República Dominicana vs Chile EN VIVO: resultado y goles de la Roja por el Mundial Sub 17 - 365Scores",
+      "fuente": "365Scores",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUc2WE4wbDZPTVdtQVkxa3FYYlZ5cDJnUnRmUTBDajlyM09naWtkMkgyY1BLUmVMeHhwckp0MHVfQVpGQ3JGQ19Oa29BdnNNMUIzWjBMWlNhTGtCR08zazE2YlozeURpY1VNT1RSdTJCblgzcUN3NnNiTlJxNTUwYw?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 16:24:00 GMT",
-      "imagen": ""
+      "fecha": "Tue, 24 Nov 2026 14:42:55 GMT",
+      "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/0bd739c8-24d3-4643-b8ea-b8cc3c83b3de.png"
     },
     {
       "titulo": "República Dominicana lanza su plan navideño con 15 millones de raciones de comida para las familias más vulnerables - Infobae",
@@ -122,6 +114,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclloR1IzMkpoODZSMkozQ015UXdWZXNCcFdCbzVjdDlzZ2lJS21mS0t1MlFZcXNiX0ZZZXNhcWh4VjBQd05SUHh1QS1ET0lCMEpGYzRtUVgyM0pjLVQxWGRuS1FJR3g5R25zR20yVm5kWC1wT05SWW9xQzJtZmlDTXczbjctOXFCTFFVMUF4S21lOEdKYmfSAaoBQVVfeXFMTVFsODh6OEtRSUxrdG5QaXZTTWRJWU1VeUt3UncwU2d4cVJrc2R2Wm9iaFFtNU80RF9QTlZWNmxfLWNHM1pmM0IwVDl0Tm9JbEF3OS0tMTFtUnVHZkh4RGFTUFA2Y0pzalBVWVJRYWZTaXl2d1dGOFBkRHk0NnQwZEo1V1M0ZERIX0k3djRxOG1CT1d4WTdlRGdJb1o1S2RQVGswdWtMVWMyN0E?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 20:16:25 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dJZ0VvNFVMMHcyVVp0cklqQ3VmMnRYUlNPOWdXY1lYck9YMjQ4S2hVaVNyNWxybEktVVk5VDYyRzA5V1FGNF84ZHVGcmliclo2Ym1jbXZ1amlic1U3ejNBSm9UbmhXc0xsZnZPRXhjaWxzRnl1akl2b3dXSG9pZFFpTS00SHZqRjlKWjVQUUZuNUdKLTcyUVVkUlVqSnBObDB1Y0R6NA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
       "imagen": ""
     }
   ]
