@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-23T21:48:30.088803-04:00",
-  "hora": "21:48",
+  "updated": "2026-11-23T21:58:51.691350-04:00",
+  "hora": "21:58",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "deni avdija",
+      "trafico": "100+",
+      "noticia": "Deni Avdija cleared to return after missing last two games",
+      "enlace": "https://sports.yahoo.com/articles/deni-avdija-cleared-return-missing-222059504.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuPhWzkBoSEQZrCT2CRmkZBk43qSGE23-Q93RyumJN7aMUQyN-_R_PFt83Ebk"
+    },
+    {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Top storylines to watch for in second quarter of NHL season",
-      "enlace": "https://www.sportsnet.ca/nhl/article/top-storylines-to-watch-for-in-second-quarter-of-nhl-season/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVYdtJecWVuPiKtA02D0klP_qzQHEXMLpCD8TzwIxIKxAzT85ICSyy3HGwFJc"
+      "noticia": "Maple Leafs seek to end nine-game skid against surging Islanders",
+      "enlace": "https://www.cbssports.com/nhl/news/maple-leafs-seek-to-end-nine-game-skid-against-surging-islanders/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
     },
     {
       "termino": "76ers - trail blazers",
@@ -67,13 +74,6 @@
       "noticia": "¡Ahora serán una familia de seis! Francisca y Francesco esperan a su cuarto bebé",
       "enlace": "https://peopleenespanol.com/francisca-embarazada-de-su-cuarto-bebe-12272711",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQdWH4rfS4OH1X6zSjCnQBpNCnUd0TfvtqG3VwnvDajXoKlxGQhuw4kciY2tY"
-    },
-    {
-      "termino": "bono navideño 2026",
-      "trafico": "1000+",
-      "noticia": "Gobierno anuncia empezará a entregar bonos navideños de RD$1,500 a partir del 29 de noviembre",
-      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/23/informate-sobre-como-puedes-tener-acceso-a-la-brisita-navidena/3729325",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk5bqN1i4s9P63g5WTSExfh2kMguL-qMve9sZ-CNwBqDPzb5qKjCTo7qqemiQ"
     }
   ]
 }
