@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T07:31:45.257818-04:00",
-  "hora": "07:31",
+  "updated": "2026-11-24T07:42:15.829992-04:00",
+  "hora": "07:42",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,9 @@
     {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Slight dip in temperatures before rain returns for Thanksgiving",
-      "enlace": "https://www.nbcphiladelphia.com/video/weather/video-weather/slight-dip-in-temperatures-before-rain-returns-for-thanksgiving/4502031/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbqPB9mZUJkBuoaAG5WlgROsdBkR5cD487W3zNHKpH6CuC51s02mYYIVLf_xI"
+      "noticia": "Thanksgiving nor easter could snarl travel, upend plans in East, Midwest",
+      "enlace": "https://www.accuweather.com/en/weather-forecasts/thanksgiving-noreaster-could-snarl-travel-upend-plans-in-east-midwest/1962508",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHB4Q4azowNieQWtIRR0jHyWRy-WxIAnxkHiWQ7Aob4qkKQ2C9iMetPU3IXq4"
     },
     {
       "termino": "leonor de borbón",
@@ -55,25 +55,25 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRrOyMssrd6yhyYeHr24ENOk9x-IMyrwQTiARoLg0DcDr5O34EfBDzy5E_Uk"
     },
     {
+      "termino": "brent suter",
+      "trafico": "100+",
+      "noticia": "Yankees reach 1-year deal with lefty reliever Suter (source)",
+      "enlace": "https://www.mlb.com/news/brent-suter-yankees-contract",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlsm_Lsyv2mmrx3EKfGpVuqBAjaH2gc3T206jkaZCDD38ARD5yzApdkYPo6Zs"
+    },
+    {
       "termino": "timberwolves - nets",
       "trafico": "200+",
-      "noticia": "Julius Randle has no hard feelings towards Timberwolves in return after salary-dump trade to Nets",
-      "enlace": "https://nypost.com/2026/11/24/sports/how-julius-randle-feels-towards-timberwolves-in-return-after-salary-dump-trade-to-nets/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkuu_ZcfI62_PtvyMLM1Cw6VYOznnwR8tJ1LkgW_k-OXrGqlnY6Kryjxmex6Q"
+      "noticia": "Timberwolves 142-116 Nets (Nov 23, 2026) Game Recap",
+      "enlace": "https://www.espn.com/nba/recap?gameId=401910040",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxPwvI0qemgE0CdVetB1XY4KqevLXkKkHZKMUMywTsvb4ycL5-hsEUAlrllH8"
     },
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Ducks  defensive effort done in by third-period mistakes in Seattle",
-      "enlace": "https://www.thesportingtribune.com/2026/11/23/anaheim-ducks-seattle-kraken-cutter-gauthier-defense-lukas-dostal",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1zBriKNW2Qxyamv95hhztYTIIO9ERn3S_ojxMvt2eFM65Beq0M102igo0a0o"
-    },
-    {
-      "termino": "76ers - trail blazers",
-      "trafico": "2000+",
-      "noticia": "Portland Trail Blazers vs. Philadelphia 76ers Live Score and Stats - November 23, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_POR@PHI/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-uBXAs1HUhFSTLPpAUW0wfroGISs4F0VLd4j1dee0vqRILmfSS6clvPL_VK4"
+      "noticia": "NHL: Columbus Blue Jackets at New Jersey Devils",
+      "enlace": "https://www.reutersconnect.com/item/nhl-columbus-blue-jackets-at-new-jersey-devils/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU1ODg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA54V3MVeRnm8SEaAA3p3qrgbuMWR0O6Zq0_kmHTIReP63Es7M5ZYJMwwD7hw"
     }
   ]
 }
