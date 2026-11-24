@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T11:00:19.260027-04:00",
-  "hora": "11:00",
+  "updated": "2026-11-24T11:10:47.727376-04:00",
+  "hora": "11:10",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -25,13 +25,6 @@
       "noticia": "‘Sinceraron el precio del diésel’: Zambrana y pregunta ¿dónde va la plata que ahorran?",
       "enlace": "https://larazon.bo/economia-y-empresa/2026/11/24/sinceraron-el-precio-del-diesel-dice-zambrana-y-pregunta-donde-va-la-plata-que-ahorran/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnofFVRU-5fp8va7DlbHxA5toBAvNWZHBFEnG4PqDiID1zm2FkuWAwyAHRgE"
-    },
-    {
-      "termino": "wetter",
-      "trafico": "100+",
-      "noticia": "Glättewarnung in Deutschland: Amtliche DWD-Wetterwarnungen in diesen Regionen",
-      "enlace": "https://www.t-online.de/nachrichten/panorama/wetter/id_101542756/glaettewarnung-in-deutschland-dwd-wetterwarnung-vor-glaette-kaelte-und-frost.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwgShRznuqxXtRYlGmk7vhYP5ZUdy59pyy2_Y1BnLHKjTf5OzE7EevrU2XDk"
     },
     {
       "termino": "leonor de borbón",
@@ -74,6 +67,13 @@
       "noticia": "What Buddy Hield credits for Bulls’ clutch win over Cavs",
       "enlace": "https://sports.yahoo.com/articles/buddy-hield-credits-bulls-clutch-051835227.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjYHh6DfVXD8FUs4gYdLBQTE6zrBGlrX6bZOn1xbtkBPeMiPAcvf3VnA72wCU"
+    },
+    {
+      "termino": "brent suter",
+      "trafico": "100+",
+      "noticia": "Yankees reach 1-year deal with lefty reliever Suter (source)",
+      "enlace": "https://www.mlb.com/news/brent-suter-yankees-contract",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ624tj6h5McQxA1ZaqSdTQ9RiMTIHn7sRe93lfCHpVoO5is8pHbn_FKoinARc"
     }
   ]
 }
