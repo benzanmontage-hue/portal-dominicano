@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T18:53:41.663707-04:00",
-  "hora": "18:53",
+  "updated": "2026-11-24T19:04:02.904386-04:00",
+  "hora": "19:04",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -34,11 +34,25 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
+      "termino": "posiciones de real madrid contra psv",
+      "trafico": "2000+",
+      "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3aRqmIUovkFl8sIhe2fduiWtT1F846UJN7JM-vSPo_0fnBL0sKpmWD2ATn0Y"
+    },
+    {
       "termino": "manchester city – naples",
       "trafico": "100+",
-      "noticia": "City debut special edition kit on-pitch in collaboration with PUMA and C.P. Company",
-      "enlace": "https://www.mancity.com/news/mens/cp-kit-napoli-champions-league-match-63931137",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlwfie7erjnpzJotwmLpxLlQc8esokaySA1ezHGKzhQb_zbhdfrE1i0PXZaU"
+      "noticia": "Rayan Cherki snatches draw for Manchester City against spirited Napoli",
+      "enlace": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzvzGbP5KeaCR48sJAPJ_-WwHgN6gbTF-boapX7T6Ky7xE6nUe8Cx1Kcd2SOA"
+    },
+    {
+      "termino": "ligue des champions",
+      "trafico": "100+",
+      "noticia": "Thauvin titulaire à Leipzig après la déroute face à Côme",
+      "enlace": "https://www.tufutbolero.com/fr/actualites/thauvin-titulaire-a-leipzig-apres-la-deroute-face-a-come-1bfb79",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWCTkrBd3_s1R6cmTKQpYGYafO-6B0j1u_7oTHqtitdyoko08aa6QTKaTWU4"
     },
     {
       "termino": "como - aek",
@@ -60,20 +74,6 @@
       "noticia": "SlipsTips’ Tips: Side with foul angle in Como’s clash with AEK Athens",
       "enlace": "https://mrfixitstips.co.uk/slipstips-tips-side-with-foul-angle-in-comos-clash-with-aek-athens/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSBbHC_3A7o-IhSkpTrA5SGBhpakLXCZpWofaqSOPt2Wqp3T_iKOTaAtVf_vg"
-    },
-    {
-      "termino": "slovan bratislava - real betis",
-      "trafico": "200+",
-      "noticia": "Preview: Slovan Bratislava vs Real Betis - prediction, team news, lineups",
-      "enlace": "https://www.sportsmole.co.uk/football/slovan-bratislava/preview/slovan-bratislava-vs-betis-prediction-team-news-lineups_609622.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCNoBie3oON754pdB-b_gY322_168wuertMn35F4LMObrzIgMIheh2_AbuhM"
-    },
-    {
-      "termino": "real madrid",
-      "trafico": "2000+",
-      "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
-      "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3aRqmIUovkFl8sIhe2fduiWtT1F846UJN7JM-vSPo_0fnBL0sKpmWD2ATn0Y"
     }
   ]
 }
