@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-24T07:42:15.829992-04:00",
-  "hora": "07:42",
+  "updated": "2026-11-24T07:52:39.892690-04:00",
+  "hora": "07:52",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "wetter",
+      "trafico": "100+",
+      "noticia": "Osthessen erwartet eisige Tage: So wird das Wetter",
+      "enlace": "https://osthessen-news.de/n11803707/osthessen-erwartet-eisige-tage-so-wird-das-wetter.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR247h6QJlw7RwBZoCoK6DrWbl5XNQqfi8CKwWgWGTptLDyjDvzXkNdg2RZ3Iw"
+    },
+    {
       "termino": "weather",
       "trafico": "500+",
-      "noticia": "Thanksgiving nor easter could snarl travel, upend plans in East, Midwest",
-      "enlace": "https://www.accuweather.com/en/weather-forecasts/thanksgiving-noreaster-could-snarl-travel-upend-plans-in-east-midwest/1962508",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHB4Q4azowNieQWtIRR0jHyWRy-WxIAnxkHiWQ7Aob4qkKQ2C9iMetPU3IXq4"
+      "noticia": "Hampton Roads District Weekly Traffic Alert: Nov. 22-28, 2026",
+      "enlace": "https://vdot.virginia.gov/news-events/news/hampton-roads-district/hampton-roads-district-weekly-traffic-alert-nov-22-28-2026.php",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLEw_MHc-S5-_CtkyYDimR3pAzvhW3Ww8BrNLhlGmrx1kZWcgoZjc6qlNPePs"
     },
     {
       "termino": "leonor de borbón",
@@ -29,9 +36,9 @@
     {
       "termino": "lakers - jazz",
       "trafico": "1000+",
-      "noticia": "Luka Doncic, Lakers pull away late to avenge loss to Jazz",
-      "enlace": "https://www.cbssports.com/nba/news/luka-doncic-lakers-pull-away-late-to-avenge-loss-to-jazz/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-uBXAs1HUhFSTLPpAUW0wfroGISs4F0VLd4j1dee0vqRILmfSS6clvPL_VK4"
+      "noticia": "Game Recap: Lakers 109, Jazz 94 (Nov. 23)",
+      "enlace": "https://www.nba.com/watch/video/game-recap-lakers-109-jazz-94-nov-23",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0HEzUVuYeJckun8XtYueJu-Ex8abXpmof35PJ5tcjO7sLi_zjGGFEeYswV8"
     },
     {
       "termino": "rockets - clippers",
@@ -67,13 +74,6 @@
       "noticia": "Timberwolves 142-116 Nets (Nov 23, 2026) Game Recap",
       "enlace": "https://www.espn.com/nba/recap?gameId=401910040",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxPwvI0qemgE0CdVetB1XY4KqevLXkKkHZKMUMywTsvb4ycL5-hsEUAlrllH8"
-    },
-    {
-      "termino": "nhl",
-      "trafico": "500+",
-      "noticia": "NHL: Columbus Blue Jackets at New Jersey Devils",
-      "enlace": "https://www.reutersconnect.com/item/nhl-columbus-blue-jackets-at-new-jersey-devils/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU1ODg%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA54V3MVeRnm8SEaAA3p3qrgbuMWR0O6Zq0_kmHTIReP63Es7M5ZYJMwwD7hw"
     }
   ]
 }
