@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T23:13:15.816708-04:00",
-  "hora": "23:13",
+  "updated": "2026-11-23T23:23:37.711106-04:00",
+  "hora": "23:23",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,9 +22,9 @@
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Kirill Kaprizov, Wild seek record point streaks against Sharks",
-      "enlace": "https://www.cbssports.com/nhl/news/kirill-kaprizov-wild-seek-record-point-streaks-against-sharks/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
+      "noticia": "Sabres’ defensive lapses overshadow Kulich’s strong night",
+      "enlace": "https://www.nhl.com/sabres/news/buffalo-sabres-florida-panthers-recap-highlights-jiri-kulich",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYMD1hm4doupiVlTji7gjbxV-I1lDARaiFs7WXW_aqwzjJJAvH11_Ea-JLRE"
     },
     {
       "termino": "76ers - trail blazers",
@@ -34,18 +34,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWZrJKBWt7pC1tj_XeUEkXQbmCb_JpzQ6-DVxKJZBhnICMHf90dy773iL37U"
     },
     {
-      "termino": "casa de alofoke 3",
-      "trafico": "500+",
-      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
-    },
-    {
       "termino": "visa",
       "trafico": "100+",
       "noticia": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
       "enlace": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKl8zkEw_pCtitNpKBf91fCr2JxjIqmg-uDC8Ps9wIihg_nDxxnmyg-mzf1Vw"
+    },
+    {
+      "termino": "la casa de alofoke 3",
+      "trafico": "2000+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
     },
     {
       "termino": "adriano espaillat",
