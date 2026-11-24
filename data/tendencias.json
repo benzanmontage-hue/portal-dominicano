@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T16:48:34.198607-04:00",
-  "hora": "16:48",
+  "updated": "2026-11-24T16:59:05.069173-04:00",
+  "hora": "16:59",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "slovan bratislava - real betis",
+      "trafico": "100+",
+      "noticia": "Preview: Slovan Bratislava vs Real Betis - prediction, team news, lineups",
+      "enlace": "https://www.sportsmole.co.uk/football/slovan-bratislava/preview/slovan-bratislava-vs-betis-prediction-team-news-lineups_609622.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCNoBie3oON754pdB-b_gY322_168wuertMn35F4LMObrzIgMIheh2_AbuhM"
+    },
     {
       "termino": "real madrid",
       "trafico": "1000+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "arsenal - dortmund",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Team news: Gyokeres starts against Dortmund",
       "enlace": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8"
@@ -22,9 +29,9 @@
     {
       "termino": "manchester city - napoli",
       "trafico": "200+",
-      "noticia": "Champions League, oggi Manchester City-Napoli – Diretta",
-      "enlace": "https://www.startupbusiness.it/champions-league-oggi-manchester-city-napoli-diretta/220229/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgoCGuq0p6CZed3DzxM06Tn7lU6Ivh4osTtE-lxcqEjTLvRLUEc3c9ycpR6b4"
+      "noticia": "Manchester City-Napoli: Formazioni ufficiali e Cronaca in diretta",
+      "enlace": "https://www.virgilio.it/sport/dirette/live/champions/24-11-2026/manchester-city-napoli/2685446/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmwHZ0yHM66BL6mUpA7nE5ud-I3c6HYc2VMJ6dnYFYk5jebJcFa226HIADs2o"
     },
     {
       "termino": "real madrid - psv",
@@ -67,13 +74,6 @@
       "noticia": "Las Estrellas anuncian que Tatis Jr. jugará muy pronto con el equipo",
       "enlace": "https://www.diariolibre.com/deportes/beisbol/2026/11/23/las-estrellas-anuncian-que-tatis-jr-jugara-muy-pronto-con-el-club/3729676",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6PMKC1wP3Vr9aFnnuMQi1SJSnz896krCqZ8eIRUEhOcBBP3rhQOhud72Tvzs"
-    },
-    {
-      "termino": "alexandr wang",
-      "trafico": "500+",
-      "noticia": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post",
-      "enlace": "https://www.forbes.com/sites/conormurray/2026/11/23/metas-ai-chief-warns-against-handover-of-society-to-ai-frustrating-social-media-users-who-want-solutions/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpFbA1P_rILuraEiANCqZIle515xriWoP-WRNmiWvEqvvDoOQUDQaHvtWE2eg"
     }
   ]
 }
