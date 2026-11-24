@@ -1,30 +1,37 @@
 {
-  "updated": "2026-11-23T23:02:53.846304-04:00",
-  "hora": "23:02",
+  "updated": "2026-11-23T23:13:15.816708-04:00",
+  "hora": "23:13",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "deni avdija",
+      "termino": "lakers - jazz",
       "trafico": "200+",
-      "noticia": "76ers rule out Joel Embiid (illness) for game vs. Trail Blazers",
-      "enlace": "https://www.espn.com/nba/story/_/id/50577428/76ers-rule-joel-embiid-vs-trail-blazers-illness",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXWTDxhQwagagP6dYdz-8Z87TcUOZ-PWFDIM44hqM5Ce9fVksu42GWMW64Bw"
+      "noticia": "Rested Lakers seek revenge in rematch with Jazz",
+      "enlace": "https://www.cbssports.com/nba/news/rested-lakers-seek-revenge-in-rematch-with-jazz/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+    },
+    {
+      "termino": "timberwolves - nets",
+      "trafico": "100+",
+      "noticia": "Julius Randle leads Nets into Minnesota to face former team",
+      "enlace": "https://www.cbssports.com/nba/news/julius-randle-leads-nets-into-minnesota-to-face-former-team/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
     },
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Canadiens look to snap home skid against Kings",
-      "enlace": "https://www.cbssports.com/nhl/news/canadiens-look-to-snap-home-skid-against-kings/",
+      "noticia": "Kirill Kaprizov, Wild seek record point streaks against Sharks",
+      "enlace": "https://www.cbssports.com/nhl/news/kirill-kaprizov-wild-seek-record-point-streaks-against-sharks/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
     },
     {
       "termino": "76ers - trail blazers",
       "trafico": "1000+",
-      "noticia": "Deni Avdija scores 31 as Trail Blazers rout 76ers 128-111",
-      "enlace": "https://www.cbssports.com/nba/news/deni-avdija-scores-31-as-trail-blazers-rout-76ers-128-111/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
+      "noticia": "NBA: Portland Trail Blazers at Philadelphia 76ers",
+      "enlace": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-philadelphia-76ers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU0NjI",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWZrJKBWt7pC1tj_XeUEkXQbmCb_JpzQ6-DVxKJZBhnICMHf90dy773iL37U"
     },
     {
       "termino": "casa de alofoke 3",
@@ -36,9 +43,9 @@
     {
       "termino": "visa",
       "trafico": "100+",
-      "noticia": "Klarna Group stock trades up, here is why",
-      "enlace": "https://stockstory.org/us/stocks/nyse/klar/news/why-up-down/klarna-group-stock-trades-up-here-is-why",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPyqvx8XOXSVu_YMSYORI95CBcGeLNLhX-Sn20I--KewaI2hkXzlY8TXdsj1k"
+      "noticia": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
+      "enlace": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKl8zkEw_pCtitNpKBf91fCr2JxjIqmg-uDC8Ps9wIihg_nDxxnmyg-mzf1Vw"
     },
     {
       "termino": "adriano espaillat",
@@ -50,9 +57,9 @@
     {
       "termino": "manny manuel",
       "trafico": "2000+",
-      "noticia": "Arrestan en Salinas a Manny Manuel por conducir en alegado estado de embriaguez",
-      "enlace": "https://www.primerahora.com/noticias/policia-tribunales/notas/arrestan-en-salinas-a-manny-manuel-por-conducir-borracho/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOT50wmXIpre0kaxT0Mx5DOcm-gak_L03kuN4XQvr6pX67wU86IiHZgFIitrE"
+      "noticia": "Arrestan al merenguero Manny Manuel por conducir bajo los efectos del alcohol en Puerto Rico",
+      "enlace": "https://acento.com.do/noticias/arrestan-al-merenguero-manny-manuel-por-conducir-bajo-los-efectos-del-alcohol-en-puerto-rico-9795304.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTayGTQ1iAjlSjwS6uyMs6FEtBeanYTZ-nr4ZbpwvCJ-4urg_WtIYVmX-voG08"
     },
     {
       "termino": "levante - elche c. f.",
@@ -67,13 +74,6 @@
       "noticia": "Jamie Lee Curtis Details First Year as “Only Surviving  Member of Immediate Family",
       "enlace": "https://www.eonline.com/news/1438333/jamie-lee-curtis-reacts-to-being-last-family-member-after-sisters-death",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhk8P9ojqeQOclhFuzqDxgnbEd0568gMBh93O5UU9h5ZWx8JOoWuLApvhnFyI"
-    },
-    {
-      "termino": "francisca lachapel",
-      "trafico": "200+",
-      "noticia": "¡Ahora serán una familia de seis! Francisca y Francesco esperan a su cuarto bebé",
-      "enlace": "https://peopleenespanol.com/francisca-embarazada-de-su-cuarto-bebe-12272711",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQdWH4rfS4OH1X6zSjCnQBpNCnUd0TfvtqG3VwnvDajXoKlxGQhuw4kciY2tY"
     }
   ]
 }
