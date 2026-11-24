@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T20:46:30.073025-04:00",
-  "hora": "20:46",
+  "updated": "2026-11-23T20:56:49.769389-04:00",
+  "hora": "20:56",
   "fecha": "23/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -18,6 +18,13 @@
       "noticia": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
       "enlace": "https://www.pymnts.com/bnpl/2026/visa-acceptance-platform-adds-klarna-bnpl-offering/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKl8zkEw_pCtitNpKBf91fCr2JxjIqmg-uDC8Ps9wIihg_nDxxnmyg-mzf1Vw"
+    },
+    {
+      "termino": "adriano espaillat",
+      "trafico": "100+",
+      "noticia": "Congresistas estadounidenses llegan a RD mientras siguen las conversaciones sobre aranceles",
+      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/23/relaciones-comerciales-entre-estados-unidos-y-republica-dominicana/3729096",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJOBCMK18K0qjffPC21ge0qjC5kXB_7-Hgg3EJWBOhVJvFvXulxALYd6Yx_V8"
     },
     {
       "termino": "manny manuel",
@@ -67,13 +74,6 @@
       "noticia": "“Ya no hay dolientes”: Luis Polonia reacciona a situación de las Águilas",
       "enlace": "https://elnacional.com.do/deportes/hay-dolientes-reaccion-luis-polonia-sobre-situacion-atraviesan-aguilas-cibaenas_586932.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHT4HS4MKdpGY9TaJUDMSIq8TShNl__1h4CxSq3evv1e0BcU-U7UqsIMDr2A"
-    },
-    {
-      "termino": "nvidia stock",
-      "trafico": "2000+",
-      "noticia": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "enlace": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ"
     }
   ]
 }
