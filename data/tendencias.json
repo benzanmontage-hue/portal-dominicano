@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T09:36:54.777998-04:00",
-  "hora": "09:36",
+  "updated": "2026-11-24T09:47:20.926026-04:00",
+  "hora": "09:47",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,11 +13,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxPhq7N8qCh9uIvTVfQ-8fL3r8M39qDGhi4fP7Uyok-mb9OzDeS52iOONJLKM"
     },
     {
+      "termino": "diésel",
+      "trafico": "100+",
+      "noticia": "‘Sinceraron el precio del diésel’, dice Zambrana y pregunta ¿dónde va la plata que ahorran?",
+      "enlace": "https://larazon.bo/economia-y-empresa/2026/11/24/sinceraron-el-precio-del-diesel-dice-zambrana-y-pregunta-donde-va-la-plata-que-ahorran/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnofFVRU-5fp8va7DlbHxA5toBAvNWZHBFEnG4PqDiID1zm2FkuWAwyAHRgE"
+    },
+    {
       "termino": "wetter",
       "trafico": "100+",
-      "noticia": "Neues Pixel-Weather-Update: Google sammelt Feedback zum Wetter vor Ort",
-      "enlace": "https://www.bild.de/leben-wissen/digital/neues-pixel-weather-update-google-sammelt-feedback-zum-wetter-vor-ort-6b04479066a00c9ca1fe1005",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnOw3CM9L_OMW_KzbZWPevgw56jOGiYpMsWK2XkeO4vBUjjDPlPqJZTdvuouk"
+      "noticia": "Droht uns ein Jahrhundertwinter wie im Jahr 1962? Entscheidend ist, was über dem Nordpol passiert",
+      "enlace": "https://www.fr.de/panorama/jahrhundertwinter-wie-1962-63-super-el-nin-schneemassen-zugefrorener-rhein-kommt-jetzt-der-eiswinter-zurueck-zr-94604892.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqakiRceL-4fNkburFwOvbi4VaPlFm8IFKuxaEpGm8tx9sDHe2CvHgHoU4AYc"
     },
     {
       "termino": "weather",
@@ -67,13 +74,6 @@
       "noticia": "Bulls 122-108 Cavaliers (Nov 23, 2026) Game Recap",
       "enlace": "https://www.espn.com/nba/recap?gameId=401910041",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRrOyMssrd6yhyYeHr24ENOk9x-IMyrwQTiARoLg0DcDr5O34EfBDzy5E_Uk"
-    },
-    {
-      "termino": "brent suter",
-      "trafico": "100+",
-      "noticia": "Yankees reach 1-year deal with lefty reliever Suter (source)",
-      "enlace": "https://www.mlb.com/news/brent-suter-yankees-contract",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlsm_Lsyv2mmrx3EKfGpVuqBAjaH2gc3T206jkaZCDD38ARD5yzApdkYPo6Zs"
     }
   ]
 }
