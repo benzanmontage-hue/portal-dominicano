@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-23T23:54:46.226842-04:00",
-  "hora": "23:54",
-  "fecha": "23/11/2026",
+  "updated": "2026-11-24T00:05:14.140283-04:00",
+  "hora": "00:05",
+  "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "kings - spurs",
+      "trafico": "100+",
+      "noticia": "Kings host Victor Wembanyama, surging Spurs after first home win",
+      "enlace": "https://www.cbssports.com/nba/news/kings-host-victor-wembanyama-surging-spurs-after-first-home-win/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo"
+    },
+    {
       "termino": "lakers - jazz",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Rested Lakers seek revenge in rematch with Jazz",
       "enlace": "https://www.cbssports.com/nba/news/rested-lakers-seek-revenge-in-rematch-with-jazz/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfrs3IZrphf32MeGU0pbg41mS5X-z15I6Lx7SJk-tT5mKUen-bfS2CYuZHduc"
@@ -43,16 +50,16 @@
     {
       "termino": "nhl",
       "trafico": "500+",
-      "noticia": "Maple Leafs rally past Islanders 4-2 to snap nine-game skid",
-      "enlace": "https://www.cbssports.com/nhl/news/maple-leafs-rally-past-islanders-4-2-to-snap-nine-game-skid/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqs-ah0fKHlno5LrFYlV1m0kXtXQxRcWiqJJSir94W2oi3aWqqigKWVVGV4tc"
+      "noticia": "Rick Tocchet’s baffling decision nearly cost the Flyers in Montreal",
+      "enlace": "https://www.broadstreethockey.com/post/rick-tocchet-refused-to-back-dan-vladar-and-it-nearly-cost-the-flyers/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgqEi4ePQ_xLU91IySOhWod6QEr5mxvTy9s3FcemSCgF3jGMqEjLW_-PTy_zg"
     },
     {
       "termino": "76ers - trail blazers",
       "trafico": "2000+",
-      "noticia": "Observations after Sixers  5-game win streak ends with blowout loss to Blazers",
-      "enlace": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-trail-blazers-analysis-jaylen-brown-lebron-james-joel-embiid/769091/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTETzRglUx5VK_zlWa4KcsGwICZVpB3Lv_XjFh6vCUJrjJDh5yTGQNxWdREsv0"
+      "noticia": "NBA: Portland Trail Blazers at Philadelphia 76ers",
+      "enlace": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-philadelphia-76ers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU0NjI",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWZrJKBWt7pC1tj_XeUEkXQbmCb_JpzQ6-DVxKJZBhnICMHf90dy773iL37U"
     },
     {
       "termino": "visa",
@@ -67,13 +74,6 @@
       "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
       "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAo4R068sndqZnDhD-cxsff5I43tF_S1PBaFdz9GoxcPo-RCHs5cXMAv9MDLw"
-    },
-    {
-      "termino": "adriano espaillat",
-      "trafico": "100+",
-      "noticia": "Congresistas estadounidenses llegan a RD mientras siguen las conversaciones sobre aranceles",
-      "enlace": "https://www.diariolibre.com/economia/negocios/2026/11/23/relaciones-comerciales-entre-estados-unidos-y-republica-dominicana/3729096",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJOBCMK18K0qjffPC21ge0qjC5kXB_7-Hgg3EJWBOhVJvFvXulxALYd6Yx_V8"
     }
   ]
 }
