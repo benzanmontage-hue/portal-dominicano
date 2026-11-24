@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-24T15:13:26.811178-04:00",
-  "hora": "15:13",
+  "updated": "2026-11-24T15:23:52.454199-04:00",
+  "hora": "15:23",
   "fecha": "24/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUNYR1RjdEQwcWxDN0k3X2EzVEdLUHB1WWlMN0N4RWZReEJXMXFmMkdJd1B1SEljVmJOTjZWNUFmR2lnQ2Vpb1dNMFZOVlg1aW4xMXR6Sk1tMkNqcFR1WGI4TzJ2WDJOMUtnWnEtUHdSV0hPNWFMOExqc01La1g0dGplREp0VmFsbjI0UjV2aERhQmFIWHdSNkVMdkpFX0FOcklJYVRQVGdSSW1QT2V3ZFFncHZqMklBZXM5cF9WMF9GN3VzR2lIc3ctVTBCLXktLUVJ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Miss Dominicana, Nicaragua y Curazao se preparan para la gran noche en Miss Universe 2026 - Telemundo",
       "fuente": "Telemundo",
@@ -27,14 +35,6 @@
       "dominio": "news.google.com",
       "fecha": "Mon, 23 Nov 2026 23:00:00 GMT",
       "imagen": "https://cdn1.ewtn.com/image/upload/c_fill,g_auto,w_1200,h_630/ewtn-news/es/Paso_familia_2_rximzc.jpg"
-    },
-    {
-      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 01:32:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "titulo": "República Dominicana aprueba las bases para licitar hasta 900 MW solares y eólicos con almacenamiento - pv magazine Latinoamérica",
@@ -101,20 +101,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Dominican Republic autoriza la adquisición de la flota local de 1GW de AES - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGtYVWtDYWtXVVlqQWVBVDByNm1ZYlNEUkY0MjNyRU9Za2FNUGhnbEF1T0Y2UlRuV3ZmYVE5cmdyOFdodW9LRGprQTRqQUFyMnlrNVRpVmxYbVV3aXNrejZyeVVmLXZOMk11OHo4UlM5MlBRaE1tTDkwdFctOWs4c1p3VG5rSlRYUm40TUdONm5NUXhLaWdQWVIxaU96U25qUE1DT2d1LUJuQnlKTGZsUHJGSQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 14:21:59 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana lanza su plan navideño con 15 millones de raciones de comida para las familias más vulnerables - Infobae",
       "fuente": "Infobae",
       "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONE9WX25uQXFEUm5oWmk5Z3BlY0xBaktVNjZKWUJ4T215NzBhWnpiTVdxZzkycVpTZ2I0VzBLSXBlYzdoWEhYakRyYWZxQ3NvOHBIVXg3dWEwY2ZTakxRdEFRYlA3RDl5a2JJckdzQU9YVlNUUlRuUEtJTDF3eWdPdjJpdm1HM3FYaFJLdDJLOFlIYnAwenhRazhEbDdHQlhnZUdQcEhXZDVlSV9BbTF2ajZDTDU3a05vdzBjT2g4WXktQjl5Rm8xekp5YjgyQlhkSUd5SXBtNU9WTEZGa1d5eHdTVmJSdWhiTG82dUVKaHg4UFFDd2pHcUt4dl8zNmxidUHSAZwCQVVfeXFMUGY0VDRQWExQSHQ1SFBudk1NM3dMdWZZNlJaU1pMZWxTTi1sMGRBaEtlc2E2cm1Tazh6anl1V2FZclhZb0xfUDVObXMweFpTdzBQaGMzZ3dMNkxtRG9UaEdRd0draUc5Q2NZRzd3bmpHd0FIZ3J1OHRMSUJGUDk3TXQzWkxVUUxRUTh4MlpfREdSNmJZOVNCel8zVVZBU3h3bFBLZUh2bHRNTzJTU3o3cnRWWFJDUlhWTFdhU200THg5eDZKUHZtOTFUUGNhRmJqeDZFWmRzUjhZM2poTHl0NFBzMjh3ak1ITE52X3Vic2VUajlmYnhWQUVmbm9pVVJGbDN5OW1QaWZONTAyZzQtT1VLWUNHa3NyNTNPQXc?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 17:52:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana mantiene el diálogo comercial con Estados Unidos ante los nuevos aranceles - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaXlCS0szeE1zSTFKbHIzNFFvSFdPTmFlS1BfeUo2ZXItNnFoVGp3MzZ4Zk56ZmpVV1pPc3VxU0FRSjRHVTRpMXJrMWZma1lOd1VmRHdNeHNqYi1tYzZjM2RsVWF4WG4yQmhRdFh6ZVJnUFJaSkdFTFdvZUo2cnhGSU1wNjJjRk9LWkx2aXMtX05MaTlxS1kyLUR4WVd4YmlEVHY0Ym8zelFTUnNqODh3LVFCS1V0bkNsN3RrX1FXWTNaQlZUVXpLdDZzVlhqczVTQUVoY2E3V2Z5ZmlwS3lROGZuSFhzY3fSAYICQVVfeXFMTnVORU43WGdTbllzdVYzTTdzVkZLVVF5TXlFQU9iVnA1UlYtTHRLNlZWQ0o4ZlpYT0dydmRzbXZERmVTRHJIMkUwLU5QMkd1Q1M3QnFjcUhWclhBNHI2Tl9OcGpXekU3cjBGMm1IQ215V0ozZWxBcV9DVWloaHNqWm5NanM3YVpJYzZUVmZJMU5SeVM1WndZTGlOaTlZNDBFa005b2tHSkhHLVFfRUdiemhFQVpYaE5xOU9HRXhobzJzUFlENEMwWXRrRS1IWjM5aUMza1lpSlAwaGp4Z2hCWjNsQzl5cmoxMXFKd281VndSOTRrWDJyYU5Db3ZSeTlJbUVB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 03:44:00 GMT",
+      "imagen": "https://www.infobae.com/resizer/v2/PA2DLUXCTVCWBGU6RNP5LAGGZQ.jpeg?auth=2830c22cd40bf11086f7782cd46b644eb68ca1492af3f1a5aec8567db4088e74&smart=true&width=1200&height=630&quality=85"
     },
     {
       "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
