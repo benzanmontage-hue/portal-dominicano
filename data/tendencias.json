@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-24T20:16:42.280305-04:00",
-  "hora": "20:16",
+  "updated": "2026-11-24T20:27:07.800850-04:00",
+  "hora": "20:27",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "magic - pistons",
+      "trafico": "100+",
+      "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
+      "enlace": "https://www.cbssports.com/nba/news/magic-seek-4-0-nba-cup-mark-as-pistons-visit/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
     {
       "termino": "papa francisco",
       "trafico": "100+",
       "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
       "enlace": "https://acento.com.do/bbc-news-mundo/el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno-9795882.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbkmIqYu4y3UixNyjWsap3C_noJ2X1I-Quj9Nq0gxLm9oklFauaB75Z6x5r8A"
+    },
+    {
+      "termino": "miss universe 2026",
+      "trafico": "100+",
+      "noticia": "This year’s Miss Universe pageant is a hot mess. And it’s spectacular.",
+      "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJzRLv2nd3d61OqOzxPn_xhpEvMC23jqeuvxchIB31YGsWfxzMMrdIC8c6ovc"
     },
     {
       "termino": "delio gómez ochoa",
@@ -41,6 +55,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYcaAefoVoOwvjoMakklgHGpDKKFp-aaVjGWJhDT8Ru8ap1K_K17ZDeL2JF9s"
     },
     {
+      "termino": "posiciones de real madrid contra psv",
+      "trafico": "5000+",
+      "noticia": "Hasta que Bellingham hizo magia",
+      "enlace": "https://as.com/futbol/primera/hasta-que-bellingham-hizo-magia-f202611-n/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcUd97-CAUAUfUyNz6KXsBUVb5tvbk8rE0isb6O2MEvr_bdPh57V3zTBr_0n8"
+    },
+    {
       "termino": "manchester city – naples",
       "trafico": "100+",
       "noticia": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
@@ -53,27 +74,6 @@
       "noticia": "RB Leipzig-RC Lens : les notes du match",
       "enlace": "https://www.footmercato.net/a5426385389998045803-rb-leipzig-rc-lens-les-notes-du-match",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTii4vMQxWTz4PO-XoZkXgPMX3ueEBX9aFL1Gfdz1YCTkmuzU42jMy3PcG0Yfc"
-    },
-    {
-      "termino": "como - aek",
-      "trafico": "100+",
-      "noticia": "VIDEO: resumen de Como vs. AEK por la UEFA Champions League",
-      "enlace": "https://espndeportes.espn.com/futbol/europa/nota/_/id/17557660/video-resumen-como-vs-aek-uefa-champions-league",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoC8ikUeeCgyXIPkuw9UpjKI0BtBXgSsP0ssF8l4AHXxr_OxXQBYt2Bce2H-0"
-    },
-    {
-      "termino": "posiciones de al-nassr contra al-sadd",
-      "trafico": "200+",
-      "noticia": "Al Nassr FC vs Al-Sadd en directo hoy: ¿dónde ver el partido por televisión y streaming?",
-      "enlace": "https://www.goal.com/es-cl/noticias/al-nassr-fc-vs-al-sadd-en-directo-hoy-donde-ver-el-partido-por-television-y-streaming/bltfed682ee3f716022",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThu-muHKlhm5cKnPQJqNkkH8XfcOfOaHjXJzGRMw8wcgIreP-KvYl2XxhVn38"
-    },
-    {
-      "termino": "uefa champions league",
-      "trafico": "200+",
-      "noticia": "SlipsTips’ Tips: Side with foul angle in Como’s clash with AEK Athens",
-      "enlace": "https://mrfixitstips.co.uk/slipstips-tips-side-with-foul-angle-in-comos-clash-with-aek-athens/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSBbHC_3A7o-IhSkpTrA5SGBhpakLXCZpWofaqSOPt2Wqp3T_iKOTaAtVf_vg"
     }
   ]
 }
