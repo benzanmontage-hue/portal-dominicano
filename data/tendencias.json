@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T08:03:40.502487-04:00",
-  "hora": "08:03",
+  "updated": "2026-11-25T08:14:04.042696-04:00",
+  "hora": "08:14",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "25 de noviembre",
+      "trafico": "100+",
+      "noticia": "Día Internacional de la Eliminación de la Violencia contra la Mujer: origen y significado del 25 de noviembre",
+      "enlace": "https://acento.com.do/actualidad/dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer-origen-y-significado-del-25-de-noviembre-9796120.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTviHXj4QP2-8kND_hGR7W2Y-VFRMJfzRfyg01u0RqNqibKZvK2iJMyqSzQxro"
+    },
     {
       "termino": "posiciones lidom",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "crucero",
       "trafico": "100+",
-      "noticia": "Banreservas financia con US$44.4 millones la terminal Port Samaná",
-      "enlace": "https://z101digital.com/banreservas-financia-con-us44-4-millones-la-terminal-port-samana/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvd6SbR6LoaRUVrHeDRvWG9-x7GE41-_1o5ypBbNSxbZCbnnKlCX7cYanOJfM"
+      "noticia": "Arroyo Barril se abre nuevamente al mundo con la llegada de su primer crucero",
+      "enlace": "https://www.diariolibre.com/economia/turismo/2026/11/24/abinader-inaugura-en-samana-la-septima-terminal-de-cruceros/3730346",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6you2ZcvZk8q7C7xqtazg902cHdiIPn4qt8TfR29EHLq-4xctCl1r_5k_uqY"
     },
     {
       "termino": "alofoke casa 3",
@@ -67,13 +74,6 @@
       "noticia": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
       "enlace": "https://www.cnn.com/2026/11/25/style/miss-universe-2026-winner",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxWAxqU0A2Sk69ni8tN7CwOqUi8kdRLTLzVLCxNAxYzeMxKLIy1Ql-7LN5CMA"
-    },
-    {
-      "termino": "papa francisco",
-      "trafico": "500+",
-      "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
-      "enlace": "https://acento.com.do/bbc-news-mundo/el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno-9795882.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbkmIqYu4y3UixNyjWsap3C_noJ2X1I-Quj9Nq0gxLm9oklFauaB75Z6x5r8A"
     }
   ]
 }
