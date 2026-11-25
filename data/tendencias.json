@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-24T19:55:59.298502-04:00",
-  "hora": "19:55",
+  "updated": "2026-11-24T20:06:20.278184-04:00",
+  "hora": "20:06",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "papa francisco",
+      "trafico": "100+",
+      "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
+      "enlace": "https://acento.com.do/bbc-news-mundo/el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno-9795882.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbkmIqYu4y3UixNyjWsap3C_noJ2X1I-Quj9Nq0gxLm9oklFauaB75Z6x5r8A"
+    },
+    {
+      "termino": "miss universe 2026",
+      "trafico": "100+",
+      "noticia": "Meet the 116 women competing to be Miss Universe 2026",
+      "enlace": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMNrKwGGYEfTqjvEnWW6_dfetmvQJqMPS6vapX7-0XAWaKS4_UTLy615FcS6U"
+    },
     {
       "termino": "delio gómez ochoa",
       "trafico": "200+",
@@ -22,9 +36,9 @@
     {
       "termino": "classement real madrid – psv eindhoven",
       "trafico": "1000+",
-      "noticia": "Perišić offre l avantage au PSV au Bernabéu sur penalty de la VAR",
-      "enlace": "https://www.tufutbolero.com/fr/actualites/perisic-offre-l-avantage-au-psv-au-bernabeu-sur-penalty-de-f35128",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxZbsR9vPapytju0TTIGKHKxczLFVvWoSqcBAOnwb9W79IiiwbM7QlhP8X4BU"
+      "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
+      "enlace": "https://www.footmercato.net/a1130680736837077524-ligue-des-champions-le-real-madrid-ecrase-le-psv-arsenal-et-dortmund-dos-a-dos-cherki-offre-le-nul-a-manchester-city-face-a-naples",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
     },
     {
       "termino": "a que hora es el miss universo 2026",
@@ -60,20 +74,6 @@
       "noticia": "Volvió y se lesionó: Coman deja tocado al Al-Nassr al inicio del duelo asiático ante el Al-Sadd",
       "enlace": "https://www.goal.com/es-mx/noticias/volvio-y-se-lesiono-coman-deja-tocado-al-al-nassr-al-inicio-del-duelo-asiatico-ante-el-al-sadd/bltafddb3fcd02a5f15",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGO5jvBF1K7E-Utvd0acXSJkCSVuQsb1ql_vNzyMUVitN5qPx883KYH8oOBs"
-    },
-    {
-      "termino": "uefa champions league",
-      "trafico": "200+",
-      "noticia": "SlipsTips’ Tips: Side with foul angle in Como’s clash with AEK Athens",
-      "enlace": "https://mrfixitstips.co.uk/slipstips-tips-side-with-foul-angle-in-comos-clash-with-aek-athens/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSBbHC_3A7o-IhSkpTrA5SGBhpakLXCZpWofaqSOPt2Wqp3T_iKOTaAtVf_vg"
-    },
-    {
-      "termino": "no violencia contra la mujer",
-      "trafico": "200+",
-      "noticia": "Sobre las Mirabal y la no violencia contra la mujer",
-      "enlace": "https://eldia.com.do/sobre-las-mirabal-y-la-no-violencia-contra-la-mujer/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbKysUcBjBCcDdQWQqkW54FzKv4MwZc4Jc-Qn_8Bj6xRK0Wj1tc6gGbFr1JoE"
     }
   ]
 }
