@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-25T11:00:46.925064-04:00",
-  "hora": "11:00",
+  "updated": "2026-11-25T11:11:13.068963-04:00",
+  "hora": "11:11",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "todd blanche",
+      "trafico": "100+",
+      "noticia": "The Trump team is getting more and more evasive about Jensen Huang",
+      "enlace": "https://www.cnn.com/2026/11/24/politics/trump-jensen-huang-nvidia-messaging",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQK2RD8oB0OUT8N2rhHbbrWoarmT-4vth2lsYLXV8ecvlXBgu9rieD4bszfSs"
+    },
+    {
+      "termino": "josé eduardo derbez",
+      "trafico": "100+",
+      "noticia": "¿Desplante a Mariana BO? Aseguran que José Eduardo Derbez salió por la cocina tras comer juntos",
+      "enlace": "https://www.excelsior.com.mx/espectaculos/desplante-mariana-bo-aseguran-que-jose-eduardo-derbez-salio-por-cocina-tras-comer-juntos",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
+    },
     {
       "termino": "bono navideno",
       "trafico": "200+",
@@ -22,9 +36,9 @@
     {
       "termino": "dia internacional de la no violencia contra la mujer",
       "trafico": "200+",
-      "noticia": "Día Internacional de la Eliminación de la Violencia contra la Mujer: origen y significado del 25 de noviembre",
-      "enlace": "https://acento.com.do/actualidad/dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer-origen-y-significado-del-25-de-noviembre-9796120.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTviHXj4QP2-8kND_hGR7W2Y-VFRMJfzRfyg01u0RqNqibKZvK2iJMyqSzQxro"
+      "noticia": "Justicia para ELLAS: Hoy es el Día Internacional de la Eliminación de la Violencia contra la Mujer",
+      "enlace": "https://hoy.com.do/vivir/justicia-hoy-dia-internacional-eliminacion-violencia-mujer_1109771.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN_riQsoDKV75fmjL-ALIC4ZTNzK1cDjPZ89aefZJH20xrJS0o4paKleSQCdU"
     },
     {
       "termino": "25 de noviembre",
@@ -60,20 +74,6 @@
       "noticia": "La puertorriqueña Jennifer Barreto es la Miss Universo 2026",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/25/miss-puerto-rico-jennifer-barreto-es-la-nueva-miss-universo-2026/3730831",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQhhilX5X2OUZVr6wpE9XnMPMYpyYi5Ehg5TPDeiG_9Rhv4gydpr2N3jBH0"
-    },
-    {
-      "termino": "nuggets - mavericks",
-      "trafico": "500+",
-      "noticia": "NBA: Dallas Mavericks at Denver Nuggets",
-      "enlace": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-denver-nuggets/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NDUwNDg",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp1-PiZocBjQ9o-Ry896fY9lynoIXEqhNKCIGj90EqYBGrzRKUNVV2PZFaYU"
-    },
-    {
-      "termino": "tabla de posiciones",
-      "trafico": "200+",
-      "noticia": "Así va la pelota dominicana: resultados, tabla de posiciones y juegos de este domingo en Lidom",
-      "enlace": "https://acento.com.do/deportes/asi-va-la-pelota-dominicana-resultados-tabla-de-posiciones-y-juegos-de-este-domingo-en-lidom-9794689.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu-oMBobiL7hnd8-6qe8N_kslZ87J5nrKX4yZG4TQDiIUTzU2tFnvjwUKaIw4"
     }
   ]
 }
