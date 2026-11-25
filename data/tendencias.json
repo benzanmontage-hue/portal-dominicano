@@ -1,10 +1,38 @@
 {
-  "updated": "2026-11-25T15:44:54.683558-04:00",
-  "hora": "15:44",
+  "updated": "2026-11-25T15:55:22.833175-04:00",
+  "hora": "15:55",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "psg - roma",
+      "trafico": "500+",
+      "noticia": "Dybala and Malen Could Lead Roma s Attack Against PSG",
+      "enlace": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/roma-s-predicted-lineup-against-paris-saint-germain-in-the-champions-league-2026-11-25",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbVcg1LgK5Eajr0AnWt11IY0SB_UKlaNYwkHnOsW2KaH-NH2zrHkX4yNEC28"
+    },
+    {
+      "termino": "atlético madrid - viking",
+      "trafico": "200+",
+      "noticia": "Atlético Madrid vs Viking: UEFA Champions League stats   head-to-head",
+      "enlace": "https://www.bbc.com/sport/football/live/c678292r8lddt",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+      "termino": "uefa champions league",
+      "trafico": "100+",
+      "noticia": "Hansi Flick:  We have to go out with the right attitude",
+      "enlace": "https://www.fcbarcelona.com/en/football/first-team/news/4613908/hansi-flick-we-have-to-go-out-with-the-right-attitude",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2v7bBFR5inGC4r07JTpVD3uavQxq68JiukGv-Bcp6mYNWuYbViwGwU4jngxk"
+    },
+    {
+      "termino": "champions league",
+      "trafico": "100+",
+      "noticia": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
+      "enlace": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6NsBE_AjiOg9p-tY_qhiFPmJKcfuOSTQw14SfAJPjUKXf2Ihnu4_uIwGTgo"
+    },
     {
       "termino": "concierto",
       "trafico": "100+",
@@ -13,25 +41,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZWJmMq4C2JT3c7lVU6g_LeHWD9y0RgsLfvIO9q3DtdeayVdBQ0DRJFS7xGQ"
     },
     {
-      "termino": "champions",
-      "trafico": "500+",
-      "noticia": "Man Utd team news leaked as Pochettino to start teen who s caught his eye for one key reason",
-      "enlace": "https://www.football365.com/news/man-utd-team-news-leaked-as-pochettino-to-start-teen-whos-caught-his-eye-for-one-key-reason",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyX6Rf3A2Re-gpFEwrrsowJgRox0c4P3KKrdi_tALlDVg-ZqfUKGbZZfuETa8"
-    },
-    {
-      "termino": "liga de campeones de la uefa",
-      "trafico": "100+",
-      "noticia": "Pronósticos de la Champions League 25/11: el PSG quiere recuperar el liderato",
-      "enlace": "https://www.si.com/es-us/pronosticos-de-la-champions-league-25-11-el-psg-quiere-recueprar-el-liderato",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQqLLsC5C-amMAj7urG120zsarm3uXF7bjcifFlMAXKzZ6Qf2V1DVez60wCkM"
-    },
-    {
       "termino": "slavia praga - villarreal",
-      "trafico": "500+",
-      "noticia": "Slavia Prague vs Villarreal: UEFA Champions League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/cmdx121dxr1zt",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+      "trafico": "1000+",
+      "noticia": "Slavia Prague v Villarreal (25/11/2026)",
+      "enlace": "https://www.flashscore.com/match/football/slavia-prague-viXGgnyB/villarreal-lUatW5jE/h2h/away/?mid=vJEGXMRG",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-DAJBpkT4i2aiCGuE6q6oS0cNjeukuNxpTWsS0ZL2cpDhC10RN8gMGOZC8Ak"
     },
     {
       "termino": "arajet",
@@ -52,7 +66,7 @@
       "trafico": "2000+",
       "noticia": "Sabah - Barcelona, en directo: última hora de la Champions League, hoy en vivo",
       "enlace": "https://as.com/futbol/champions/sabah-barcelona-en-directo-previa-y-ultima-hora-de-la-champions-league-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_rIy0wPV9LUoQ2k1uzpNsClkW7O-BbQkCS2s5TkXjk9r0v6OFUZ_W2qdNbrU"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vcRTHtWA6PA1DyUtB-VdhTyZP-ZvdWg3kp6bI_moKxmjTImq78QGL9f-CqI"
     },
     {
       "termino": "todd blanche",
@@ -60,20 +74,6 @@
       "noticia": "The Trump team is getting more and more evasive about Jensen Huang",
       "enlace": "https://www.cnn.com/2026/11/24/politics/trump-jensen-huang-nvidia-messaging",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQK2RD8oB0OUT8N2rhHbbrWoarmT-4vth2lsYLXV8ecvlXBgu9rieD4bszfSs"
-    },
-    {
-      "termino": "josé eduardo derbez",
-      "trafico": "500+",
-      "noticia": "DJ no oculta su relación con José Eduardo Derbez",
-      "enlace": "https://vix.com/es-es/detail/video-5017380",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hhZcQkiNEqguddAtA4s_5p4o5qOOLkALGm0sw9QqT19PxUvy1ZwJKqdizUA"
-    },
-    {
-      "termino": "bono navideno",
-      "trafico": "200+",
-      "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
-      "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
     }
   ]
 }
