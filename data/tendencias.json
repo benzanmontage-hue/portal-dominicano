@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-24T21:51:52.684150-04:00",
-  "hora": "21:51",
+  "updated": "2026-11-24T22:02:14.904069-04:00",
+  "hora": "22:02",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "miss universo en vivo",
+      "trafico": "200+",
+      "noticia": "🔴 En vivo | Final de Miss Universo 2026: siga la participación de María Alejandra López",
+      "enlace": "https://www.minuto60.com/entretenimiento-cultura/final-miss-universo-2026-vivo-gratis-vea-maria-alejandra-lopez/19540",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ6jidwfDvKtNw0x_AWldVc4KGxxB665R2JBJd1pCzs0AGmf4S0Cf-9mDDf_Y"
+    },
     {
       "termino": "wizards - celtics",
       "trafico": "200+",
       "noticia": "Celtics look to snap four-game skid in NBA Cup vs. Wizards",
       "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-four-game-skid-in-nba-cup-vs-wizards/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
-    },
-    {
-      "termino": "miss universe",
-      "trafico": "100+",
-      "noticia": "This year’s Miss Universe pageant is a hot mess. And it’s spectacular.",
-      "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNGKhDtd5IHLVIqyt1AEt3fTZ-VO_thuY6sGGyRySCFKEaTxBoIfK4k6kusN4"
     },
     {
       "termino": "telemundo en vivo",
@@ -42,7 +42,7 @@
     },
     {
       "termino": "miss universe 2026",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
       "enlace": "https://www.billboard.com/culture/product-recommendations/miss-universe-2026-watch-beauty-pageant-live-online-free-1236387744/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa-WwQ7YyWEr2a4eh40etTyE3vQ21jsuW3EwqRUwmkXDfl9jYNS1F75OFU9_o"
@@ -71,9 +71,9 @@
     {
       "termino": "classement real madrid – psv eindhoven",
       "trafico": "1000+",
-      "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
-      "enlace": "https://www.footmercato.net/a1130680736837077524-ligue-des-champions-le-real-madrid-ecrase-le-psv-arsenal-et-dortmund-dos-a-dos-cherki-offre-le-nul-a-manchester-city-face-a-naples",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
+      "noticia": "Real Madrid : Fede Valverde recadre ses coéquipiers",
+      "enlace": "https://www.footmercato.net/a8174654027359470089-real-madrid-fede-valverde-recadre-ses-coequipiers",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFn16WrRg6_iRy6WGv0tNwVzjfFMeV-yT_9G2dfrQbJMW5_Mas6RYNuYuwYyw"
     }
   ]
 }
