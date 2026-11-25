@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T00:27:47.996896-04:00",
-  "hora": "00:27",
+  "updated": "2026-11-25T00:38:11.591049-04:00",
+  "hora": "00:38",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -56,10 +56,17 @@
     },
     {
       "termino": "miss universe 2026",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
       "enlace": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BpJvFiGuncj3rRWyTX_L0AfToUO5P58VlCxZCgCIncbAYb0v6slfU3WjQD4"
+    },
+    {
+      "termino": "papa francisco",
+      "trafico": "200+",
+      "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
+      "enlace": "https://acento.com.do/bbc-news-mundo/el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno-9795882.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbkmIqYu4y3UixNyjWsap3C_noJ2X1I-Quj9Nq0gxLm9oklFauaB75Z6x5r8A"
     },
     {
       "termino": "reforma",
@@ -67,13 +74,6 @@
       "noticia": "Magín Díaz: La reforma fiscal es un tema cerrado para el Gobierno",
       "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/24/plan-anticrisis-agota-reforma-fiscal-en-republica-dominicana/3730233",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6Ju0popQxXAT_kFqoaqfTfGaoPnm62OwKheLlCNIRcKTqtgqP74S5SEUH_c"
-    },
-    {
-      "termino": "miss universo",
-      "trafico": "5000+",
-      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     }
   ]
 }
