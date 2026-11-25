@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T22:43:44.430401-04:00",
-  "hora": "22:43",
+  "updated": "2026-11-24T22:54:09.836443-04:00",
+  "hora": "22:54",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -41,13 +41,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
-      "termino": "telemundo",
-      "trafico": "500+",
-      "noticia": "Hombre disfrazado de Benjamin Franklin es arrestado en el North End de Boston",
-      "enlace": "https://www.telemundonuevainglaterra.com/noticias/local/hombre-disfrazado-benjamin-franklin-arresto-boston-north-end/2626665/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxH1W6zbye5Fb-WM3SJgj7zTxIUuGVz7jZerXdRXUKxmPjfc7uDW_Fu2RIcZI"
-    },
-    {
       "termino": "magic - pistons",
       "trafico": "500+",
       "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
@@ -74,6 +67,13 @@
       "noticia": "¿Por qué España recomienda a dominicanos solicitar visado con el nuevo pasaporte electrónico?",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/recomendacion-del-consulado-sobre-pasaporte-electronico-dominicano/3730327",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_fSBBZO00iCZMO6rPId1Mc7Jk45vFbLDPfUeJrR1ivdjtYLW6_72jhdKsO8"
+    },
+    {
+      "termino": "classement real madrid – psv eindhoven",
+      "trafico": "1000+",
+      "noticia": "Real Madrid : Fede Valverde recadre ses coéquipiers",
+      "enlace": "https://www.footmercato.net/a8174654027359470089-real-madrid-fede-valverde-recadre-ses-coequipiers",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFn16WrRg6_iRy6WGv0tNwVzjfFMeV-yT_9G2dfrQbJMW5_Mas6RYNuYuwYyw"
     }
   ]
 }
