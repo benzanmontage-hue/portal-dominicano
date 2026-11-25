@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-24T23:46:17.719698-04:00",
-  "hora": "23:46",
+  "updated": "2026-11-24T23:56:39.137961-04:00",
+  "hora": "23:56",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "melissa nuñez",
+      "trafico": "100+",
+      "noticia": "¡Atención, dominicanos! Melissa Núñez coloca a RD en el top 5 de Miss Universo 2026",
+      "enlace": "https://elnacional.com.do/fama-y-vida/tendencias/atencion-dominicanos-melissa-nunez-coloca-rd-top-5-miss-universo-2026_587133.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8BM0G_WRPgrjDb6p5UqiGncpRlAkIgZpwYCuZtMwnqoll-BhEw7tyXA3ryw"
+    },
+    {
+      "termino": "tabla de posiciones",
+      "trafico": "200+",
+      "noticia": "Así va la pelota dominicana: resultados, tabla de posiciones y juegos de este domingo en Lidom",
+      "enlace": "https://acento.com.do/deportes/asi-va-la-pelota-dominicana-resultados-tabla-de-posiciones-y-juegos-de-este-domingo-en-lidom-9794689.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu-oMBobiL7hnd8-6qe8N_kslZ87J5nrKX4yZG4TQDiIUTzU2tFnvjwUKaIw4"
+    },
     {
       "termino": "crucero",
       "trafico": "100+",
@@ -27,20 +41,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
     },
     {
-      "termino": "miss universe",
-      "trafico": "200+",
-      "noticia": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
-      "enlace": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BpJvFiGuncj3rRWyTX_L0AfToUO5P58VlCxZCgCIncbAYb0v6slfU3WjQD4"
-    },
-    {
-      "termino": "telemundo en vivo",
-      "trafico": "2000+",
-      "noticia": "Minuto a minuto: Latinas se hacen sentir en la gala de coronación de Miss Universo 2026",
-      "enlace": "https://www.telemundo51.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-puerto-rico-live-updates-ultima-hora/2848239/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vqLFO-Fxb8zoPnhK5R1mk3_cnTB1PsbvfTUbA_hKbQURwM7LMf8ETnqOq1Y"
-    },
-    {
       "termino": "magic - pistons",
       "trafico": "500+",
       "noticia": "Isaiah Joe, Pistons hand Magic their first NBA Cup loss",
@@ -49,10 +49,10 @@
     },
     {
       "termino": "miss universe 2026",
-      "trafico": "500+",
-      "noticia": "Miss Universe 2026 cuts 116 contestants to a final five ahead of the crowning",
-      "enlace": "https://www.latintimes.com/miss-universe-2026-final-five-finalists-san-juan-601814",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ_2FlCEjjBWlz3SHozAqxKmZjYQZvGvWmuSmIQlmUHOyreHFL0hqLJEwc-Jg"
+      "trafico": "1000+",
+      "noticia": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
+      "enlace": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BpJvFiGuncj3rRWyTX_L0AfToUO5P58VlCxZCgCIncbAYb0v6slfU3WjQD4"
     },
     {
       "termino": "reforma",
@@ -63,10 +63,10 @@
     },
     {
       "termino": "miss universo",
-      "trafico": "500+",
-      "noticia": "¿Será este el año de la segunda corona de RD en Miss Universo?",
-      "enlace": "https://elnacional.com.do/fama-y-vida/tendencias/sera-ano-segunda-corona-rd-miss-universo_587097.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRNgwM5iqEgDrSX5SGQqQFqYUsNRoZOO9YirIfAJlFfblhwoilCEMsvG-6Wcc"
+      "trafico": "2000+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
       "termino": "delio gómez ochoa",
