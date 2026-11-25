@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T12:16:06.801590-04:00",
-  "hora": "12:16",
+  "updated": "2026-11-25T12:26:31.348449-04:00",
+  "hora": "12:26",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "el papa francisco",
+      "trafico": "500+",
+      "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
+      "enlace": "https://www.bbc.com/mundo/articles/cm5y1p3e5knvo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBOqgJgl8ur86eJ6JnKUPBMq6zsTwt0E33LGCcRmJ64kNLTdqXhsOAFveM0Xs"
+    },
     {
       "termino": "todd blanche",
       "trafico": "100+",
@@ -27,6 +34,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
     },
     {
+      "termino": "día de acción de gracias",
+      "trafico": "100+",
+      "noticia": "Trump indulta dos pavos por el Día de Acción de Gracias",
+      "enlace": "https://hoy.com.do/el-mundo/estados-unidos/trump-indulta-dos-pavos-dia-accion-gracias_1109809.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pA4UfKRM2iz-ylSBK46L4XFTlrd4COKb5zsIeUKTD3KkMUya40bKazWF2xU"
+    },
+    {
       "termino": "contraloría",
       "trafico": "100+",
       "noticia": "Contraloría detiene publicación de auditorías y deja decisión a Abinader",
@@ -43,9 +57,9 @@
     {
       "termino": "dia internacional de la no violencia contra la mujer",
       "trafico": "200+",
-      "noticia": "Justicia para ELLAS: Hoy es el Día Internacional de la Eliminación de la Violencia contra la Mujer",
-      "enlace": "https://hoy.com.do/vivir/justicia-hoy-dia-internacional-eliminacion-violencia-mujer_1109771.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN_riQsoDKV75fmjL-ALIC4ZTNzK1cDjPZ89aefZJH20xrJS0o4paKleSQCdU"
+      "noticia": "Cómo el asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer",
+      "enlace": "https://www.bbc.com/mundo/articles/c94gn8rvjg6xo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeQOHXV52Kl48pwfgz1PHOnIAUY2_Ak4dsebBLRafOH6UR95ghXKnJ9PvKK6I"
     },
     {
       "termino": "25 de noviembre",
@@ -60,20 +74,6 @@
       "noticia": "¿Qué se celebra hoy en el mundo? Efemérides del 25 de noviembre y acontecimientos históricos",
       "enlace": "https://acento.com.do/actualidad/que-se-celebra-hoy-en-el-mundo-efemerides-del-25-de-noviembre-y-acontecimientos-historicos-9796037.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmR1OdCn6yVINF2l_2Km1grWd_VqBlgZsxXPmzsqXYfVo5QCqTPG92Xwk2EsU"
-    },
-    {
-      "termino": "thanksgiving 2026",
-      "trafico": "200+",
-      "noticia": "Will the Macy s parade balloons fly? NYC weighs earlier start amid storm threat",
-      "enlace": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9hMs4MithTTOBDUMy5SXpdMIZQH2RKgbW1TjSvGy_jN7XYY0MVWAgZYtyFE"
-    },
-    {
-      "termino": "posiciones lidom",
-      "trafico": "100+",
-      "noticia": "Licey vira el marcador en el 5to vs. Leones",
-      "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
     }
   ]
 }
