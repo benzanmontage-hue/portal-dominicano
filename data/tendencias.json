@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-24T21:20:14.172427-04:00",
-  "hora": "21:20",
+  "updated": "2026-11-24T21:30:51.481173-04:00",
+  "hora": "21:30",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "telemundo",
+      "termino": "wizards - celtics",
+      "trafico": "200+",
+      "noticia": "Celtics look to snap four-game skid in NBA Cup vs. Wizards",
+      "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-four-game-skid-in-nba-cup-vs-wizards/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
+    {
+      "termino": "miss universe",
       "trafico": "100+",
+      "noticia": "This year’s Miss Universe pageant is a hot mess. And it’s spectacular.",
+      "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNGKhDtd5IHLVIqyt1AEt3fTZ-VO_thuY6sGGyRySCFKEaTxBoIfK4k6kusN4"
+    },
+    {
+      "termino": "telemundo en vivo",
+      "trafico": "2000+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
+    },
+    {
+      "termino": "telemundo",
+      "trafico": "200+",
       "noticia": "Investigan tiroteo que deja dos menores heridos en Stockton; esto es lo que se sabe",
       "enlace": "https://www.telemundo33.com/noticias/local/investigan-tiroteo-menores-heridos-stockton/2375009/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9R4Yu-UVz-xV2v3WlmLnlfOvp5AqJJZAuihNP8YO8KvjgU-lVjf6I3r9nxos"
@@ -18,13 +39,6 @@
       "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
       "enlace": "https://www.cbssports.com/nba/news/magic-seek-4-0-nba-cup-mark-as-pistons-visit/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
-    },
-    {
-      "termino": "miss universe 2026",
-      "trafico": "200+",
-      "noticia": "The Big Night Is Almost Here! Telemundo Unveils Unprecedented Coverage for the Historic 75th Miss Universe® Competition, Live Coast-to-Coast from Puerto Rico on Tuesday, November 24, Starting at 7pm ET/6pm CT/4pm PT",
-      "enlace": "https://nbcuniversalnewsgroup.com/telemundo/2026/11/17/the-big-night-is-almost-here-telemundo-unveils-unprecedented-coverage-for-the-historic-75th-miss-universe-competition-live-coast-to-coast-from-puerto-rico-on-tuesday-november-24-startin/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ_bZrtUQrKzR-gGAa9pazS7pH055bk4E2Rd5I598Km5xjfId5GSdFozGVSZA"
     },
     {
       "termino": "papa francisco",
@@ -48,13 +62,6 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_fSBBZO00iCZMO6rPId1Mc7Jk45vFbLDPfUeJrR1ivdjtYLW6_72jhdKsO8"
     },
     {
-      "termino": "a que hora es el miss universo 2026",
-      "trafico": "1000+",
-      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
-    },
-    {
       "termino": "classement real madrid – psv eindhoven",
       "trafico": "1000+",
       "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
@@ -67,13 +74,6 @@
       "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
       "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIv-68Rsi-eYTvXRNMNy2uzSDlkHT0p1Xx-q0f8LDIFO8kUwFciwmK5_5KTs"
-    },
-    {
-      "termino": "manchester city – naples",
-      "trafico": "100+",
-      "noticia": "Manchester City x C.P. Company 26-27 Fourth Kit Revealed - Debut in Champions League",
-      "enlace": "https://www.footyheadlines.com/5139029366/manchester-city-x-c-p-company-26-27-fourth-kit-revealed-debut-in-champions-league.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFGMyGPfic0pChATfC8RBLgpLo2dhUkJYhuX_OP9Eo1M4kztmetJ2yPohRCw"
     }
   ]
 }
