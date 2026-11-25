@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T22:23:00.573738-04:00",
-  "hora": "22:23",
+  "updated": "2026-11-24T22:33:23.176394-04:00",
+  "hora": "22:33",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alofoke casa 3",
+      "trafico": "100+",
+      "noticia": "Entre looks y alfombra roja, así se vive la premier de La Casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/20261123/looks-alfombra-roja-asi-vive-premier-casa-alofoke-3_931268.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWmEkvusSsJr17VBEJK3zz9N9Wv6VN_M61ffz0wBhEPNDis4SPW_6QSCPfOdY"
+    },
     {
       "termino": "wizards - celtics",
       "trafico": "200+",
@@ -14,7 +21,7 @@
     },
     {
       "termino": "miss universe",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "The best and wildest costumes from the Miss Universe pageant",
       "enlace": "https://www.washingtonpost.com/style/interactive/2026/11/23/best-wildest-costumes-miss-universe-pageant/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKk15ZurvEX7ACNQxjkrI4uf1cMKlc5dytBsIg8C53mNqG8JLXbPVpt59P0E"
@@ -41,13 +48,6 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
     },
     {
-      "termino": "papa francisco",
-      "trafico": "200+",
-      "noticia": "El diario privado del papa Francisco revela visiones del diablo, imágenes del infierno y una crisis de dos años",
-      "enlace": "https://noticias.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIv9VbXITvi82-z2Wo9GpbG18I8vcJokxmPFaUc49kMNCjDH0_XPkJC6DAM2c"
-    },
-    {
       "termino": "delio gómez ochoa",
       "trafico": "500+",
       "noticia": "Muere en Cuba Delio Gómez Ochoa, héroe nacional dominicano",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFn16WrRg6_iRy6WGv0tNwVzjfFMeV-yT_9G2dfrQbJMW5_Mas6RYNuYuwYyw"
     },
     {
-      "termino": "manchester city – naples",
-      "trafico": "100+",
-      "noticia": "Manchester City x C.P. Company 26-27 Fourth Kit Revealed - Debut in Champions League",
-      "enlace": "https://www.footyheadlines.com/5139029366/manchester-city-x-c-p-company-26-27-fourth-kit-revealed-debut-in-champions-league.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFGMyGPfic0pChATfC8RBLgpLo2dhUkJYhuX_OP9Eo1M4kztmetJ2yPohRCw"
+      "termino": "posiciones de real madrid contra psv",
+      "trafico": "5000+",
+      "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIv-68Rsi-eYTvXRNMNy2uzSDlkHT0p1Xx-q0f8LDIFO8kUwFciwmK5_5KTs"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:23:05-04:00",
+ "updated": "2026-11-24T22:33:27-04:00",
  "temporada": "2026",
  "inicio": "2026-10-15",
  "fin_regular": "2026-12-16",
@@ -17,17 +17,6 @@
    "nombre": "Tigres del Licey"
   },
   {
-   "id": 671,
-   "equipo": "Leones",
-   "g": 17,
-   "p": 12,
-   "pct": ".586",
-   "dif": "-2.0",
-   "racha": "L4",
-   "pos": 2,
-   "nombre": "Leones del Escogido"
-  },
-  {
    "id": 669,
    "equipo": "Estrellas",
    "g": 17,
@@ -35,8 +24,19 @@
    "pct": ".586",
    "dif": "-2.0",
    "racha": "W7",
-   "pos": 3,
+   "pos": 2,
    "nombre": "Estrellas Orientales"
+  },
+  {
+   "id": 671,
+   "equipo": "Leones",
+   "g": 17,
+   "p": 13,
+   "pct": ".567",
+   "dif": "-1.5",
+   "racha": "L5",
+   "pos": 3,
+   "nombre": "Leones del Escogido"
   },
   {
    "id": 670,
@@ -52,11 +52,11 @@
   {
    "id": 667,
    "equipo": "Aguilas",
-   "g": 10,
+   "g": 11,
    "p": 19,
-   "pct": ".345",
-   "dif": "5.0",
-   "racha": "W1",
+   "pct": ".367",
+   "dif": "4.5",
+   "racha": "W2",
    "pos": 5,
    "nombre": "Aguilas Cibaenas"
   },
@@ -423,7 +423,7 @@
    "fecha": "2026-11-24",
    "hora": "19:30",
    "estado": "Live",
-   "detalle": "Manager challenge",
+   "detalle": "In Progress",
    "visitante": "Gigantes del Cibao",
    "visitante_id": 670,
    "carreras_v": null,
@@ -437,14 +437,14 @@
    "id": 851552,
    "fecha": "2026-11-24",
    "hora": "19:30",
-   "estado": "Live",
-   "detalle": "In Progress",
+   "estado": "Final",
+   "detalle": "Final",
    "visitante": "Leones del Escogido",
    "visitante_id": 671,
-   "carreras_v": null,
+   "carreras_v": 1,
    "local": "Aguilas Cibaenas",
    "local_id": 667,
-   "carreras_l": null,
+   "carreras_l": 3,
    "estadio": "Estadio Cibao",
    "serie": "Regular Season"
   },
