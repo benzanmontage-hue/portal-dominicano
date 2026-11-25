@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T00:17:25.688174-04:00",
-  "hora": "00:17",
+  "updated": "2026-11-25T00:27:47.996896-04:00",
+  "hora": "00:27",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -11,6 +11,13 @@
       "noticia": "Nikola Jokic, Cooper Flagg clash as Nuggets host Mavericks in NBA Cup",
       "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-cooper-flagg-clash-as-nuggets-host-mavericks-in-nba-cup/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
+    {
+      "termino": "melissa nuñez",
+      "trafico": "200+",
+      "noticia": "¡Atención, dominicanos! Melissa Núñez coloca a RD en el top 5 de Miss Universo 2026",
+      "enlace": "https://elnacional.com.do/fama-y-vida/tendencias/atencion-dominicanos-melissa-nunez-coloca-rd-top-5-miss-universo-2026_587133.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8BM0G_WRPgrjDb6p5UqiGncpRlAkIgZpwYCuZtMwnqoll-BhEw7tyXA3ryw"
     },
     {
       "termino": "tabla de posiciones",
@@ -36,16 +43,9 @@
     {
       "termino": "wizards - celtics",
       "trafico": "500+",
-      "noticia": "Celtics look to snap four-game skid in NBA Cup vs. Wizards",
-      "enlace": "https://www.cbssports.com/nba/news/celtics-look-to-snap-four-game-skid-in-nba-cup-vs-wizards/",
+      "noticia": "Jayson Tatum drops 41 as Celtics hold off Wizards to snap skid",
+      "enlace": "https://www.cbssports.com/nba/news/jayson-tatum-drops-41-as-celtics-hold-off-wizards-to-snap-skid/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
-    },
-    {
-      "termino": "telemundo en vivo",
-      "trafico": "2000+",
-      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
       "termino": "magic - pistons",
@@ -70,10 +70,10 @@
     },
     {
       "termino": "miss universo",
-      "trafico": "1000+",
-      "noticia": "¡Atención, dominicanos! Melissa Núñez coloca a RD en el top 5 de Miss Universo 2026",
-      "enlace": "https://elnacional.com.do/fama-y-vida/tendencias/atencion-dominicanos-melissa-nunez-coloca-rd-top-5-miss-universo-2026_587133.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8BM0G_WRPgrjDb6p5UqiGncpRlAkIgZpwYCuZtMwnqoll-BhEw7tyXA3ryw"
+      "trafico": "5000+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     }
   ]
 }
