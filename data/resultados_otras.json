@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:22:38.796439-04:00",
+ "updated": "2026-11-25T18:33:02.605189-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -349,11 +349,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 5:30 PM",
    "numeros": [
-    "48",
-    "72",
-    "82"
+    "42"
    ],
-   "fecha": "2026-11-24T04:00:00.000Z",
+   "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a4414ae7f178816db95ac7e"
   },
   {
