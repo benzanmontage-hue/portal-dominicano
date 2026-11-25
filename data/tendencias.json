@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-24T23:56:39.137961-04:00",
-  "hora": "23:56",
-  "fecha": "24/11/2026",
+  "updated": "2026-11-25T00:07:03.004561-04:00",
+  "hora": "00:07",
+  "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nuggets - mavericks",
+      "trafico": "100+",
+      "noticia": "Nikola Jokic, Cooper Flagg clash as Nuggets host Mavericks in NBA Cup",
+      "enlace": "https://www.cbssports.com/nba/news/nikola-jokic-cooper-flagg-clash-as-nuggets-host-mavericks-in-nba-cup/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
     {
       "termino": "melissa nuñez",
       "trafico": "100+",
@@ -41,6 +48,13 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
     },
     {
+      "termino": "telemundo en vivo",
+      "trafico": "2000+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
+    },
+    {
       "termino": "magic - pistons",
       "trafico": "500+",
       "noticia": "Isaiah Joe, Pistons hand Magic their first NBA Cup loss",
@@ -60,20 +74,6 @@
       "noticia": "Magín Díaz: La reforma fiscal es un tema cerrado para el Gobierno",
       "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/24/plan-anticrisis-agota-reforma-fiscal-en-republica-dominicana/3730233",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6Ju0popQxXAT_kFqoaqfTfGaoPnm62OwKheLlCNIRcKTqtgqP74S5SEUH_c"
-    },
-    {
-      "termino": "miss universo",
-      "trafico": "2000+",
-      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
-    },
-    {
-      "termino": "delio gómez ochoa",
-      "trafico": "1000+",
-      "noticia": "Abinader dispone tres días de duelo oficial por la muerte de Delio Gómez Ochoa",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/abinader-dispone-tres-dias-de-duelo-por-muerte-de-delio-gomez-ochoa/3730592",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK1CeIMvVEXIaEDM4oNhRMutvP78XCjPK-z59nzUyVk3Nk3d1J02ZnUZ2Yvc"
     }
   ]
 }
