@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T10:50:24.147461-04:00",
-  "hora": "10:50",
+  "updated": "2026-11-25T11:00:46.925064-04:00",
+  "hora": "11:00",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bono navideno",
+      "trafico": "200+",
+      "noticia": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
+      "enlace": "https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
+    },
     {
       "termino": "contraloría",
       "trafico": "100+",
@@ -36,20 +43,20 @@
     {
       "termino": "thanksgiving 2026",
       "trafico": "200+",
-      "noticia": "Thanksgiving Day hours: What’s open and closed across grocery, retail and restaurants",
-      "enlace": "https://www.foxbusiness.com/lifestyle/thanksgiving-day-hours-whats-open-closed-across-grocery-retail-restaurants",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMznJovVn62lTJ5xBfot0QZMW1aWXfnHd8shdKgRlN-c76MzX9Z5CTi_HxAo"
+      "noticia": "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
+      "enlace": "https://edition.cnn.com/2026/11/22/weather/east-west-coast-storms-thanksgiving-travel-climate-hnk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF5j6xxwrAUGrEYhuKKYMCq_f-6bX01jlMjfxR_R9wnLBHbHiBHzkyi6Lu-E"
     },
     {
       "termino": "posiciones lidom",
       "trafico": "100+",
-      "noticia": "EN VIVO: Leones del Escogido vs. Tigers del Licey",
-      "enlace": "https://www.mlb.com/es/video/lidom-live-escogido-vs-licey-251500",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiVPkkPC_33czAAJs4qDJ1LpfW-prQcK11w0Tuza3ZZS2Z7P0-1VF5xA_i9xg"
+      "noticia": "Licey vira el marcador en el 5to vs. Leones",
+      "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
     },
     {
       "termino": "quien gano el miss universo 2026",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "noticia": "La puertorriqueña Jennifer Barreto es la Miss Universo 2026",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/25/miss-puerto-rico-jennifer-barreto-es-la-nueva-miss-universo-2026/3730831",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQhhilX5X2OUZVr6wpE9XnMPMYpyYi5Ehg5TPDeiG_9Rhv4gydpr2N3jBH0"
@@ -67,13 +74,6 @@
       "noticia": "Así va la pelota dominicana: resultados, tabla de posiciones y juegos de este domingo en Lidom",
       "enlace": "https://acento.com.do/deportes/asi-va-la-pelota-dominicana-resultados-tabla-de-posiciones-y-juegos-de-este-domingo-en-lidom-9794689.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu-oMBobiL7hnd8-6qe8N_kslZ87J5nrKX4yZG4TQDiIUTzU2tFnvjwUKaIw4"
-    },
-    {
-      "termino": "crucero",
-      "trafico": "100+",
-      "noticia": "Banreservas financia con US$44.4 millones la terminal Port Samaná",
-      "enlace": "https://z101digital.com/banreservas-financia-con-us44-4-millones-la-terminal-port-samana/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvd6SbR6LoaRUVrHeDRvWG9-x7GE41-_1o5ypBbNSxbZCbnnKlCX7cYanOJfM"
     }
   ]
 }
