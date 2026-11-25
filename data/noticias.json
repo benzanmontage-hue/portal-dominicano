@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T11:11:14.862803-04:00",
-  "hora": "11:11",
+  "updated": "2026-11-25T11:12:28.136700-04:00",
+  "hora": "11:12",
   "fecha": "25/11/2026",
   "total": 15,
   "noticias": [
@@ -10,6 +10,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYU5nbWgzYmJFZTB6Rl84ZkhRb2ZidU1sTnZMQlV5NDM4UjBHSGdpNFdza0FvbXFIRzNqSmZkc0dLWjhXVUFtSTdGZ2Y3RUFFZnZtZDFOLVNQd3VOR3dTSVZBSWxlV0NNWjRsZVZ1dUhsUVBXdTY2M3NNNHpRTlVmTnNjcGRSS3JQNE9Cdzdta1VJQzExdjAzcU9XNnM5SmhnOW1MZTFzcHhMdm8?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 13:12:55 GMT",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/5172cb246703252fba03947c14fa617f6391c2fed1a173921325c7ead27c9852/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fpeople_en_espa_ol_155%2Ff1951102d1d378fbb6036e8f628cf0c9.jpg_up.jpg"
+    },
+    {
+      "titulo": "Cómo el asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
+      "fuente": "BBC",
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pVEJYVkx6RkpaVjl5QlFXcjZrZGt0Qno1V0MtTG5qaW5iUmc1SmRiX1A2WlRDYmxBWVU2YnVZRjRINjVLQUtNUm1NQTZiMkdvaFBBd05iVEFPLXZJ0gFiQVVfeXFMTkdRNDVSWUJZVjJiR1ZUUnpvMVZRZDNwaFpDdThvbXBOQjlsMWRWU3p0TFppZWtsQ3UyMmYtRE5fMWR0b3dFdUJvcWgteWhVVkp1MUdvajg2bEVJeTZsdkthekE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 12:39:34 GMT",
       "imagen": ""
     },
     {
@@ -114,14 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV29nTktQNUJmUlV5QmpUaDV2Y05idlp5NzNMM3ZtM0ZadFFLUWEtQ2tyTU4yek9MaFNpWTItVFo0c21MVHZySjhaMGFYOHBpVWRQYlZzOXlXZFVfMmRfTHZuV0h1TUwxVGhvYkhram9BQlcyNllrSXY2cTZkMkY4eTV0RERNcENlYVh4N2VURE0wYmZtdWpJT3dGZnhLUXpuV3lhVmVZMDFlZzZWbE1GajZYYkg5cExXclZ1enRhUmZpcGhhSXRYdk1iaG1KS1BnX3NGZmsyc0FVOXJoblpDNm95SWZtWWEyWnc5cHVMaEHSAYsCQVVfeXFMTXBQZGhNRFJYWjlKR3FSdXNBeDFHNWVmVlNRSWM2NXc2QWNpaU51YVZjLVFEY0NvSm9BSEQtLWRJendYTjQ3Q1FfUzcxN2NnV3dxN2ZYTlFBY1ZJNzdPMkF4NmxsbG5UdnZnQXBrTFBVWFl5aW9yV3ZaNGFMTndmVUx3TjhmQXA4VzB1WU5zdGVIRllhcm9YbXpxVTdSRHZUamxTRk9WcUkwbl9wb01iUXptSWt2Y0JQbllRd3NGNTZ4UzI1a1pUV2hwZy1yMllacHJ1N1E1WkFFSXRjeThJWUItOHJSRF9BVzllalVSV3dxVzhka0Q0SjlEcFdSM2ltS2N3RFMzVV9YSUxv?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 06:06:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Cómo el crimen contra 3 hermanas dominicanas dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer? - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOd1hSeVR5WldKeGhqTmEzREJOQ0NTSk1SZUN5N0tnejViZndkcEN5VkNiUF9DZGZCc0tVMUVVV0UxZFlsamJwWExKM2N3MnljR1hYUXRTRW4xR0dFMzZqejhEcE5raUhfbHQ2X2pjUUllV0UzdUxHN0pOdWJSb2xvMFdHbktvTnBvYkVhcXc5dFRrVjFsTjRNWGlGRVdDcVlOR2hUMXJmRDJhVnhidnhVMUpUdGVoY3pzbDViT1R6WHYzZTUxcTNjS3RpZmV3c3haNU9reWdseFNQRWRMZlJVcmtGTVA3MGNCN2hfdlhYRWRiY09UdkxzZnhUbFlmemlQWVR5YlN1YU1fTDdGaFV3T9IBqwJBVV95cUxQWFBRNGduanh2bkJuNFJKN0RpM2p6dm1zeGVpZHQ0bnA0em9aYlpCT2VSdGVmaG5vNEk4N2VyS215dWhQY3JDVlktNi10VzkyUjVaRU5kUzNSb2tjU29rS2RqdE12VmxEQmdLYlNsR2VDRFkwMG95T2kyeGUwcEgxR0Rub3hJMzBQX0M5RndUYU1tQ3NERkxYSllUbHdTTV9KMURUYV91akZBTWxMc1NmR0tEeWNNTTZZZWtxRzFHc25kc2Q4dnNRLU1SRk0zemlHN2tKOHhSUXY3eU5Yd0VlcEFEeWpxWGkyckJmQmQ0Ym9pV3h3VngxelhwTnN5RHc5OTZMZnBGa3ZkVHRXVXJDeVVSTWs3ZzAza3NtdHpET3NHd2FDY0xUdGlLNA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 11:52:38 GMT",
       "imagen": ""
     }
   ]
