@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-25T14:21:17.877141-04:00",
+ "updated": "2026-11-25T14:31:40.932573-04:00",
  "juegos": [
   {
    "compania": "Americanas",
    "juego": "Cash 4 Life",
    "numeros": [
-    "25",
-    "52",
-    "20",
-    "55",
-    "30"
+    "27",
+    "61",
+    "22",
+    "63",
+    "32"
    ],
    "fecha": "2026-02-21T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d521"
@@ -18,9 +18,9 @@
    "compania": "Americanas",
    "juego": "Florida Día",
    "numeros": [
-    "03",
-    "08",
-    "06"
+    "04",
+    "12",
+    "15"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d515"
@@ -29,9 +29,9 @@
    "compania": "Americanas",
    "juego": "Florida Noche",
    "numeros": [
-    "31",
-    "54",
-    "59"
+    "33",
+    "56",
+    "64"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d51b"
@@ -40,9 +40,9 @@
    "compania": "Americanas",
    "juego": "Georgia Día",
    "numeros": [
-    "35",
-    "68",
-    "41"
+    "41",
+    "69",
+    "43"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a8f03324967ae1920a80496"
@@ -51,9 +51,9 @@
    "compania": "Americanas",
    "juego": "Georgia Noche",
    "numeros": [
-    "47",
-    "91",
-    "57"
+    "50",
+    "97",
+    "60"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6a8f04514967ae1920a8206e"
@@ -62,9 +62,9 @@
    "compania": "Americanas",
    "juego": "Georgia Tarde",
    "numeros": [
-    "06",
-    "84",
-    "01"
+    "10",
+    "89",
+    "05"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6aa0252292f89811b79109fd"
@@ -73,12 +73,12 @@
    "compania": "Americanas",
    "juego": "Mega Millions",
    "numeros": [
-    "44",
-    "42",
-    "38",
-    "45",
-    "62",
-    "16"
+    "53",
+    "47",
+    "43",
+    "49",
+    "69",
+    "23"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d4fd"
@@ -87,9 +87,9 @@
    "compania": "Americanas",
    "juego": "New Jersey Día",
    "numeros": [
-    "84",
-    "82",
-    "96"
+    "91",
+    "85",
+    "05"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a8efea64967ae1920a7b8f4"
@@ -98,9 +98,9 @@
    "compania": "Americanas",
    "juego": "New Jersey Noche",
    "numeros": [
-    "43",
-    "30",
-    "92"
+    "51",
+    "38",
+    "97"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6a8f008d4967ae1920a7f8e6"
@@ -109,9 +109,9 @@
    "compania": "Americanas",
    "juego": "New York Noche",
    "numeros": [
-    "33",
-    "51",
-    "25"
+    "37",
+    "59",
+    "32"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d50f"
@@ -120,9 +120,9 @@
    "compania": "Americanas",
    "juego": "New York Tarde",
    "numeros": [
-    "44",
-    "29",
-    "24"
+    "53",
+    "33",
+    "30"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d509"
@@ -131,12 +131,12 @@
    "compania": "Americanas",
    "juego": "PowerBall",
    "numeros": [
-    "58",
-    "27",
-    "09",
-    "07",
-    "40",
-    "19"
+    "66",
+    "29",
+    "12",
+    "15",
+    "46",
+    "20"
    ],
    "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d503"
@@ -145,12 +145,12 @@
    "compania": "Americanas",
    "juego": "Powerball Double Play",
    "numeros": [
-    "36",
-    "51",
+    "43",
+    "59",
+    "57",
     "48",
-    "40",
-    "35",
-    "03"
+    "42",
+    "12"
    ],
    "fecha": "2026-11-23T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d527"
@@ -159,11 +159,11 @@
    "compania": "Florida",
    "juego": "Fantasy 5",
    "numeros": [
-    "13",
-    "32",
-    "31",
-    "22",
-    "15"
+    "18",
+    "33",
+    "38",
+    "24",
+    "23"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d573"
@@ -172,11 +172,11 @@
    "compania": "Florida",
    "juego": "Fantasy Día",
    "numeros": [
+    "12",
+    "35",
     "10",
-    "33",
-    "08",
-    "31",
-    "34"
+    "36",
+    "40"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d5b5"
@@ -185,12 +185,12 @@
    "compania": "Florida",
    "juego": "Florida Lotto",
    "numeros": [
-    "08",
-    "48",
-    "23",
-    "09",
-    "30",
-    "36"
+    "14",
+    "50",
+    "28",
+    "10",
+    "32",
+    "42"
    ],
    "fecha": "2026-11-21T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d567"
@@ -199,12 +199,12 @@
    "compania": "Florida",
    "juego": "Florida Lotto Double Play",
    "numeros": [
-    "32",
-    "48",
-    "29",
-    "01",
-    "24",
-    "04"
+    "35",
+    "50",
+    "31",
+    "03",
+    "26",
+    "05"
    ],
    "fecha": "2026-11-21T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d5af"
@@ -213,12 +213,12 @@
    "compania": "Florida",
    "juego": "Jackpot Triple Play",
    "numeros": [
-    "12",
-    "26",
-    "02",
     "16",
-    "36",
-    "25"
+    "27",
+    "07",
+    "18",
+    "44",
+    "26"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d5a9"
@@ -227,9 +227,9 @@
    "compania": "Florida",
    "juego": "Pick 2 Dia",
    "numeros": [
+    "9",
     "7",
-    "4",
-    "8"
+    "0"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d59d"
@@ -238,9 +238,9 @@
    "compania": "Florida",
    "juego": "Pick 2 Noche",
    "numeros": [
-    "1",
-    "3",
-    "6"
+    "6",
+    "5",
+    "7"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d5a3"
@@ -249,10 +249,10 @@
    "compania": "Florida",
    "juego": "Pick 3 Dia",
    "numeros": [
+    "1",
     "8",
-    "0",
-    "3",
-    "8"
+    "9",
+    "4"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d591"
@@ -261,10 +261,10 @@
    "compania": "Florida",
    "juego": "Pick 3 Noche",
    "numeros": [
-    "4",
-    "3",
-    "1",
-    "6"
+    "2",
+    "5",
+    "6",
+    "0"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d597"
@@ -273,11 +273,11 @@
    "compania": "Florida",
    "juego": "Pick 4 Dia",
    "numeros": [
+    "4",
+    "5",
+    "3",
     "0",
-    "8",
-    "0",
-    "6",
-    "8"
+    "9"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d585"
@@ -286,11 +286,11 @@
    "compania": "Florida",
    "juego": "Pick 4 Noche",
    "numeros": [
-    "5",
     "4",
-    "5",
-    "9",
-    "6"
+    "7",
+    "3",
+    "6",
+    "5"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d58b"
@@ -299,12 +299,12 @@
    "compania": "Florida",
    "juego": "Pick 5 Dia",
    "numeros": [
-    "9",
-    "9",
-    "4",
-    "1",
+    "3",
     "7",
-    "8"
+    "1",
+    "9",
+    "6",
+    "4"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d579"
@@ -313,12 +313,12 @@
    "compania": "Florida",
    "juego": "Pick 5 Noche",
    "numeros": [
-    "7",
+    "9",
+    "5",
     "8",
-    "7",
-    "1",
-    "7",
-    "6"
+    "0",
+    "6",
+    "1"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d57f"
@@ -327,9 +327,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 10:30 AM",
    "numeros": [
-    "30",
-    "65",
-    "23"
+    "31",
+    "72",
+    "28"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a44125c7f178816db95a378"
@@ -338,9 +338,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 11:30 AM",
    "numeros": [
-    "97",
-    "85",
-    "70"
+    "02",
+    "91",
+    "74"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a4414807f178816db95ac68"
@@ -349,9 +349,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 5:30 PM",
    "numeros": [
-    "48",
-    "72",
-    "82"
+    "52",
+    "80",
+    "83"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6a4414ae7f178816db95ac7e"
@@ -360,9 +360,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 6:30 PM",
    "numeros": [
-    "53",
-    "48",
-    "38"
+    "56",
+    "50",
+    "43"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6a4414d17f178816db95aca1"
@@ -371,9 +371,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 7:30 PM",
    "numeros": [
-    "11",
-    "07",
-    "19"
+    "14",
+    "10",
+    "26"
    ],
    "fecha": "2026-11-19T04:00:00.000Z",
    "game_id": "6a4414fc7f178816db95acb7"
@@ -382,9 +382,9 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 9:30 AM",
    "numeros": [
-    "31",
-    "16",
-    "64"
+    "33",
+    "22",
+    "68"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6a4411b07f178816db959f3d"
@@ -393,9 +393,9 @@
    "compania": "King Lottery",
    "juego": "King Lottery Día",
    "numeros": [
-    "26",
-    "14",
-    "11"
+    "29",
+    "18",
+    "19"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d66a"
@@ -404,9 +404,9 @@
    "compania": "King Lottery",
    "juego": "King Lottery Noche",
    "numeros": [
-    "21",
-    "43",
-    "38"
+    "28",
+    "49",
+    "43"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d670"
@@ -415,10 +415,10 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Día",
    "numeros": [
-    "27",
-    "21",
-    "95",
-    "66"
+    "31",
+    "26",
+    "03",
+    "70"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d646"
@@ -427,10 +427,10 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Noche",
    "numeros": [
-    "48",
-    "59",
-    "39",
-    "45"
+    "52",
+    "66",
+    "45",
+    "49"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d64c"
@@ -439,9 +439,9 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Día",
    "numeros": [
-    "2039",
-    "8724",
-    "3002"
+    "2044",
+    "8730",
+    "3007"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d676"
@@ -450,9 +450,9 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Noche",
    "numeros": [
-    "0691",
-    "1828",
-    "0995"
+    "0698",
+    "1829",
+    "1000"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d67c"
@@ -461,9 +461,9 @@
    "compania": "King Lottery",
    "juego": "Pick 3 Día",
    "numeros": [
-    "8",
-    "2",
-    "6"
+    "1",
+    "3",
+    "5"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d652"
@@ -472,9 +472,9 @@
    "compania": "King Lottery",
    "juego": "Pick 3 Noche",
    "numeros": [
-    "4",
     "2",
-    "1"
+    "3",
+    "5"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d658"
@@ -483,10 +483,10 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Día",
    "numeros": [
-    "1",
-    "4",
-    "1",
-    "1"
+    "6",
+    "7",
+    "5",
+    "9"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d65e"
@@ -495,10 +495,10 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Noche",
    "numeros": [
-    "4",
-    "3",
-    "3",
-    "8"
+    "2",
+    "5",
+    "9",
+    "4"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d664"
@@ -507,10 +507,10 @@
    "compania": "LoteDom",
    "juego": "Agarra 4",
    "numeros": [
-    "19",
-    "55",
-    "75",
-    "39"
+    "21",
+    "58",
+    "84",
+    "43"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d606"
@@ -519,10 +519,10 @@
    "compania": "LoteDom",
    "juego": "Agarra 4 Noche",
    "numeros": [
-    "40",
-    "90",
-    "52",
-    "30"
+    "45",
+    "95",
+    "59",
+    "34"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6ace37b604c5226f7ad8c7b6"
@@ -531,7 +531,7 @@
    "compania": "LoteDom",
    "juego": "El Quemaito Mayor",
    "numeros": [
-    "39"
+    "40"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d5fa"
@@ -540,7 +540,7 @@
    "compania": "LoteDom",
    "juego": "El Quemaito Noche",
    "numeros": [
-    "30"
+    "31"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6ace36ef04c5226f7ad8c73d"
@@ -549,9 +549,9 @@
    "compania": "LoteDom",
    "juego": "LoteDom Noche",
    "numeros": [
-    "40",
-    "90",
-    "52"
+    "45",
+    "95",
+    "59"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6accecb804c5226f7acd186b"
@@ -560,9 +560,9 @@
    "compania": "LoteDom",
    "juego": "Quiniela LoteDom",
    "numeros": [
-    "19",
-    "55",
-    "75"
+    "21",
+    "58",
+    "84"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d5f4"
@@ -571,8 +571,8 @@
    "compania": "LoteDom",
    "juego": "Super Palé",
    "numeros": [
-    "19",
-    "39"
+    "21",
+    "47"
    ],
    "fecha": "2026-11-25T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d600"
@@ -581,8 +581,8 @@
    "compania": "LoteDom",
    "juego": "Super Palé Noche",
    "numeros": [
-    "40",
-    "30"
+    "45",
+    "38"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6ace374b04c5226f7ad8c779"
@@ -591,12 +591,12 @@
    "compania": "Nueva York",
    "juego": "Millionaire For Life",
    "numeros": [
-    "15",
-    "21",
-    "29",
-    "46",
-    "55",
-    "2"
+    "22",
+    "26",
+    "31",
+    "51",
+    "61",
+    "0"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6a563f1dab686d300c956b67"
@@ -605,13 +605,13 @@
    "compania": "Nueva York",
    "juego": "New York Lotto",
    "numeros": [
-    "19",
-    "59",
-    "44",
-    "48",
+    "21",
+    "66",
     "49",
-    "29",
-    "47"
+    "55",
+    "56",
+    "34",
+    "57"
    ],
    "fecha": "2026-11-21T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d550"
@@ -620,9 +620,9 @@
    "compania": "Nueva York",
    "juego": "Numbers Día",
    "numeros": [
+    "9",
     "7",
-    "4",
-    "4"
+    "1"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d53e"
@@ -631,9 +631,9 @@
    "compania": "Nueva York",
    "juego": "Numbers Noche",
    "numeros": [
-    "4",
-    "3",
-    "3"
+    "2",
+    "5",
+    "9"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d544"
@@ -642,11 +642,11 @@
    "compania": "Nueva York",
    "juego": "Take 5 Día",
    "numeros": [
+    "45",
     "37",
+    "16",
     "34",
-    "14",
-    "27",
-    "02"
+    "03"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d55c"
@@ -655,11 +655,11 @@
    "compania": "Nueva York",
    "juego": "Take 5 Noche",
    "numeros": [
-    "22",
-    "27",
-    "36",
-    "08",
-    "01"
+    "30",
+    "29",
+    "39",
+    "17",
+    "10"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d54a"
@@ -668,10 +668,10 @@
    "compania": "Nueva York",
    "juego": "Win 4 Día",
    "numeros": [
-    "2",
+    "8",
+    "7",
     "9",
-    "2",
-    "4"
+    "6"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d532"
@@ -680,10 +680,10 @@
    "compania": "Nueva York",
    "juego": "Win 4 Noche",
    "numeros": [
-    "5",
-    "1",
-    "2",
-    "5"
+    "4",
+    "0",
+    "7",
+    "8"
    ],
    "fecha": "2026-11-24T04:00:00.000Z",
    "game_id": "6966a6d2ea7015c3b8a3d538"
