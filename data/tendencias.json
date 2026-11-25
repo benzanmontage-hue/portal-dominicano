@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T17:20:01.152631-04:00",
-  "hora": "17:20",
+  "updated": "2026-11-25T17:30:27.291474-04:00",
+  "hora": "17:30",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,23 +15,16 @@
     {
       "termino": "club brujas - liverpool",
       "trafico": "100+",
-      "noticia": "Club Brugge vs Liverpool: UEFA Champions League stats   head-to-head",
-      "enlace": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7hgUu6EXy-ZDEWUCuiDjzqkKrGWtb741Dq_M3i2C7EnCbYVdSgR-uaCAdgQ"
+      "noticia": "Club Brugge vs. Liverpool LIVE: Champions League score, updates and commentary",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50595266/club-brugge-liverpool-live-champions-league-updates",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT0f0p9fkXcFthuXJsg7AjwhMwvvQhWPlp-nY32FXmELov60uS89xbxcw9m9U"
     },
     {
       "termino": "losc - bayern",
       "trafico": "100+",
-      "noticia": "Ethan Mbappé de retour après sa suspension, Kompany fait tourner : les compositions de Lille-Bayern Munich en Ligue des champions",
-      "enlace": "https://www.lequipe.fr/Football/Actualites/Ethan-mbappe-de-retour-apres-sa-suspension-kompany-fait-tourner-les-compositions-de-lille-bayern-munich-en-ligue-des-champions/1746157",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEVCzhxLY96aVMjC7B5AMi7IUzGRfdCSaBrwhyyEXIy8b7j18G9TWIeW3lwr0"
-    },
-    {
-      "termino": "paris-sg – roma",
-      "trafico": "200+",
-      "noticia": "Luis Enrique laisse Dembélé sur le banc face à la Roma",
-      "enlace": "https://www.tufutbolero.com/fr/actualites/luis-enrique-laisse-dembele-sur-le-banc-face-a-la-roma-bfbb5e",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGiw70Ysj8hSEd739Qs9L2NI07lrtSL65BXeJnXFgK-VxR4ozxZLsNFsxmIY0"
+      "noticia": "DIRECT. Ligue des champions : Dembélé met Paris devant contre la Roma, Ueda remet Lille à égalité face au Bayern... Suivez le multiplex avec nous",
+      "enlace": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-le-psg-recoit-la-roma-lille-vise-l-exploit-face-au-bayern-munich-suivez-et-commentez-le-multiplex-avec-nous_8297991.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA7E6Z4Uz0CNVnv7nGMQYQ76PkrO7TtCgQPk46aGbWW2q_9oIK1yh2mKZ9eBA"
     },
     {
       "termino": "sporting lisboa - manchester united",
@@ -39,6 +32,13 @@
       "noticia": "Pochettino regresa a la Champions con un Manchester United en apuros",
       "enlace": "https://listindiario.com/el-deporte/futbol/20261123/pochettino-regresa-champions-manchester-united-apuros_931244.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh01D1P5ynA7BO9q7PS3HVwiDF6bpA4M-5Y3jZRPAEf9PbpqaIFi4dTBkTJ4"
+    },
+    {
+      "termino": "paris-sg – roma",
+      "trafico": "500+",
+      "noticia": "PSG – AS Rome : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a7102560081016581498-psg-as-rome-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0oGCCk54s8-B5x04ed4zcUpzoby0trjny-qqKveTAPnUbwTpYjp08dZYJTFQ"
     },
     {
       "termino": "posiciones de sabah futbol klubu contra fc barcelona",
@@ -71,9 +71,9 @@
     {
       "termino": "champions",
       "trafico": "500+",
-      "noticia": "Champions League LIVE: Sporting vs Man Utd   Club Brugge vs Liverpool score   updates from seven other games",
-      "enlace": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwVXeWRSkHLprn4Vygt9luE37p8kw6I4iWcB3ad2kvXzc2c1MQWe2dDwtjEf4"
+      "noticia": "Sporting vs Man Utd LIVE! Champions League match updates, news and score",
+      "enlace": "https://www.skysports.com/football/live-blog/13616485/sporting-vs-man-utd-live-champions-league-match-updates-news-and-score",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIbvaNSga-mrFS-ecMobChNK8zDnYM0r6Vo1dr-8RXKMBGDYLFoQ_I0C2AOe0"
     }
   ]
 }
