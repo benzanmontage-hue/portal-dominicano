@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T07:22:11.008393-04:00",
-  "hora": "07:22",
+  "updated": "2026-11-25T07:32:33.219711-04:00",
+  "hora": "07:32",
   "fecha": "25/11/2026",
   "total": 15,
   "noticias": [
@@ -77,6 +77,22 @@
       "imagen": "https://www.pv-magazine-latam.com/wp-content/uploads/2026/11/IMG_8332.png"
     },
     {
+      "titulo": "Puerto Rico hace historia en Miss Universo con Jennifer Barreto, primera madre coronada en el certamen - Diario Las Américas",
+      "fuente": "Diario Las Américas",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDhDb1l1bU5BQ0hDSXFnZ1hCZkVvcF9temg5WWMzZGhOMzBFY3p4ZUNTMm1aVHVqSm5GckZpMlc2a0lXeE1RMlFzLTMtOGZidjVLY3FiWllCdFFlVTlLSTJLNklBTnJJNkF3MGk4MkN2TVRtaTF1eDZ3M1RWSDh4XzJHZWdrdEFleUduenIxeXdHV1JXXzFfd2h4azhDMG5xMkFR0gGoAUFVX3lxTE92NUF3bWlNM3JWUURtUjhRMWt4al9TMU1oU3I3dnZ6OGFBQWt5bkI5blJDcWtjLU45dEZVZ2M5dzJ1dzIyeTEwX19YcUZmaVhKX3h3T2ZCNzZKZHFDWHJibXVBenN6OG9VOFhvZ2pZcF9jdUtIeHp6TFNNRzY4TEVIeU1tNDVkQWtfdWVIXzVZY1ZXcmhWUEktVHlqQ3MxU1pCQk9sUGdETA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 05:10:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Miss Puerto Rico es coronada en casa como la nueva Miss Universo - DW.com",
+      "fuente": "DW.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcHM0SjIwUC1vZUJqazliaU1RTmQxRC0yeXA2ektoNWt6bGVaUWwzc1pscFJzclBKTDVsRGZ1VWZOYVR1MHUwOHJQNWtXTk1sUVhPRk8yWkVWT09JOEREbktlc3BHQ1NfYTdCY1ZUOVVNVkxINEVUSDNCdnotQnEwa3pPT3R2aXFiRncxYzNTbXd0TU0wZ0FxOXBvdjlPU1lmdHhBbVRJSFJtUm5oaENINmRBQ3RNX1pUN0I5eUk2QnhTRDkwamlVeXhPcERWTk94ZjFnLWx0SzM2amZoOXE3S0daVQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 06:29:54 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana autoriza traspaso de generadoras de AES - BNamericas",
       "fuente": "BNamericas",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGtYVWtDYWtXVVlqQWVBVDByNm1ZYlNEUkY0MjNyRU9Za2FNUGhnbEF1T0Y2UlRuV3ZmYVE5cmdyOFdodW9LRGprQTRqQUFyMnlrNVRpVmxYbVV3aXNrejZyeVVmLXZOMk11OHo4UlM5MlBRaE1tTDkwdFctOWs4c1p3VG5rSlRYUm40TUdONm5NUXhLaWdQWVIxaU96U25qUE1DT2d1LUJuQnlKTGZsUHJGSQ?oc=5",
@@ -93,11 +109,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Fallece en La Habana el comandante Delio Gómez Ochoa; República Dominicana declara duelo oficial - Café fuerte",
-      "fuente": "Café fuerte",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0FWMGFwZUREWU1JOGRjMHJaaWtNWWhobVlmcUxfNnhNNmcyXzl1LXB1WEJBT3dtMFp5WWh0bDVTc2ZhdkZmblIyQnc0WW1GSXhudEFvNEp2emNSMk5mSlgzaklIVVVycmNsenhIMWdPQjJwSjZkT0VDbDRiSE5MajQyZUhqS3EtbUxwTzVIREVGVndGQ3FxNjgyOXNmSDJaM3dKMm91VTFfXzdYbm5NOE9LOWdHcm5uMDlJ?oc=5",
+      "titulo": "Falleció Delio Gómez Ochoa, Comandante del Ejército Rebelde y Héroe Nacional de República Dominicana - Cubainformación",
+      "fuente": "Cubainformación",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa3dqc1RTdlFnSEYzX0RUMzBpVWtDV0tOZWRqUGZVZDc0OXZCa1BrYW9nYThrSVB4MDFNNTBVUTNTRkl1cUZUNTlSRDBsQTVWXy01Qy1qaDJIY0dpWjFqTkctSGhFWGM4b0k2d2puYjJ5MGxROTc0dDdyZ2xXdWluNGFTYzRhSFRKX3o5NUNRQmszcElKbUJfVjUtc2hCeVNoYXNkUGoxLVBOdUp4WmhwQnpON080OFZ6ZlFIZzdEMkJBRklQeHVDdTNld3pQZ0x0V3h0aVlGSkttZmF0a2pSLUdId2RtVUNUZk1rQ0xrQQ?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 04:05:50 GMT",
+      "fecha": "Wed, 25 Nov 2026 11:23:33 GMT",
       "imagen": ""
     },
     {
@@ -107,22 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 17:17:38 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "titulo": "Melissa Núñez lleva a República Dominicana al primer lugar de finalistas de Miss Universo tras 17 años - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV29nTktQNUJmUlV5QmpUaDV2Y05idlp5NzNMM3ZtM0ZadFFLUWEtQ2tyTU4yek9MaFNpWTItVFo0c21MVHZySjhaMGFYOHBpVWRQYlZzOXlXZFVfMmRfTHZuV0h1TUwxVGhvYkhram9BQlcyNllrSXY2cTZkMkY4eTV0RERNcENlYVh4N2VURE0wYmZtdWpJT3dGZnhLUXpuV3lhVmVZMDFlZzZWbE1GajZYYkg5cExXclZ1enRhUmZpcGhhSXRYdk1iaG1KS1BnX3NGZmsyc0FVOXJoblpDNm95SWZtWWEyWnc5cHVMaEHSAYsCQVVfeXFMTXBQZGhNRFJYWjlKR3FSdXNBeDFHNWVmVlNRSWM2NXc2QWNpaU51YVZjLVFEY0NvSm9BSEQtLWRJendYTjQ3Q1FfUzcxN2NnV3dxN2ZYTlFBY1ZJNzdPMkF4NmxsbG5UdnZnQXBrTFBVWFl5aW9yV3ZaNGFMTndmVUx3TjhmQXA4VzB1WU5zdGVIRllhcm9YbXpxVTdSRHZUamxTRk9WcUkwbl9wb01iUXptSWt2Y0JQbllRd3NGNTZ4UzI1a1pUV2hwZy1yMllacHJ1N1E1WkFFSXRjeThJWUItOHJSRF9BVzllalVSV3dxVzhka0Q0SjlEcFdSM2ltS2N3RFMzVV9YSUxv?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 06:06:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana termina su 2026 cayendo ante Uruguay - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dJZ0VvNFVMMHcyVVp0cklqQ3VmMnRYUlNPOWdXY1lYck9YMjQ4S2hVaVNyNWxybEktVVk5VDYyRzA5V1FGNF84ZHVGcmliclo2Ym1jbXZ1amlic1U3ejNBSm9UbmhXc0xsZnZPRXhjaWxzRnl1akl2b3dXSG9pZFFpTS00SHZqRjlKWjVQUUZuNUdKLTcyUVVkUlVqSnBObDB1Y0R6NA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 18 Nov 2026 02:14:00 GMT",
-      "imagen": ""
     }
   ]
 }

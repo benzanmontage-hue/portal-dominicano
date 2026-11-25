@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-25T07:22:06.042637-04:00",
-  "hora": "07:22",
+  "updated": "2026-11-25T07:32:31.732893-04:00",
+  "hora": "07:32",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "25 de noviembre",
+      "trafico": "100+",
+      "noticia": "Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, miércoles 25 de noviembre de 2026",
+      "enlace": "https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-miercoles-25-de-noviembre-de-2026-9796335.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGWdM88GkvFy9obIppZjx3HYGFanHnnptdugKH17PjJnMTKY5a9o-lWW1g8AQ"
+    },
+    {
+      "termino": "posiciones lidom",
+      "trafico": "100+",
+      "noticia": "Licey vira el marcador en el 5to vs. Leones",
+      "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
+    },
     {
       "termino": "quien gano el miss universo 2026",
       "trafico": "5000+",
@@ -15,9 +29,9 @@
     {
       "termino": "nuggets - mavericks",
       "trafico": "500+",
-      "noticia": "Dallas Mavericks vs. Denver Nuggets Live Score and Stats - November 24, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261124_DAL@DEN/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+      "noticia": "Cooper Flagg leads Mavericks to NBA Cup rout of Nuggets",
+      "enlace": "https://www.cbssports.com/nba/news/cooper-flagg-leads-mavericks-to-nba-cup-rout-of-nuggets/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF2H7VlPsIh6WyMwVHFhrj0yMrgpdmbVIILFNje8bxGB3uF4mrkxY4xzqy2D4"
     },
     {
       "termino": "tabla de posiciones",
@@ -60,20 +74,6 @@
       "noticia": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
       "enlace": "https://www.cnn.com/2026/11/25/style/miss-universe-2026-winner",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxWAxqU0A2Sk69ni8tN7CwOqUi8kdRLTLzVLCxNAxYzeMxKLIy1Ql-7LN5CMA"
-    },
-    {
-      "termino": "papa francisco",
-      "trafico": "500+",
-      "noticia": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como  las puertas del infierno",
-      "enlace": "https://acento.com.do/bbc-news-mundo/el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno-9795882.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbkmIqYu4y3UixNyjWsap3C_noJ2X1I-Quj9Nq0gxLm9oklFauaB75Z6x5r8A"
-    },
-    {
-      "termino": "reforma",
-      "trafico": "100+",
-      "noticia": "Magín Díaz: La reforma fiscal es un tema cerrado para el Gobierno",
-      "enlace": "https://www.diariolibre.com/economia/finanzas/2026/11/24/plan-anticrisis-agota-reforma-fiscal-en-republica-dominicana/3730233",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6Ju0popQxXAT_kFqoaqfTfGaoPnm62OwKheLlCNIRcKTqtgqP74S5SEUH_c"
     }
   ]
 }
