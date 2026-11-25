@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T18:53:49.391894-04:00",
-  "hora": "18:53",
+  "updated": "2026-11-25T19:04:12.733575-04:00",
+  "hora": "19:04",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,23 +22,30 @@
     {
       "termino": "sporting – man utd",
       "trafico": "100+",
-      "noticia": "Sporting vs Man Utd LIVE: TWO Lammens errors gift hosts draw in Champions League",
-      "enlace": "https://www.thesun.co.uk/sport/41108996/sporting-vs-man-utd-live-score-champions-league-pochettino-lammens-updates/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTzxMVUoYWul2qX3pEnngzrHPi7adW9TfNlhC9yuh4xLMO0sGRgZWVlPoHUUY"
+      "noticia": "Lammens howler costs Manchester United victory in frantic finale at Sporting",
+      "enlace": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCWLMi5jmT_f1O6dWTioiUDH81EbhtstdBCAMMXiIpnWG71QXkTMuXmodvyT4"
     },
     {
-      "termino": "consulta bono navideño",
+      "termino": "bono navideño",
       "trafico": "500+",
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
     },
     {
+      "termino": "club brujas - liverpool",
+      "trafico": "1000+",
+      "noticia": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
+      "enlace": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA6KIgmtIeq74lRSNCPg8VHgOAbwx7Z73KEWBXA-H496mn2ew9g9DxRvlWXKw"
+    },
+    {
       "termino": "losc - bayern",
       "trafico": "500+",
-      "noticia": "Ligue des Champions : le LOSC renverse le Bayern et se relance, Fonseca et le Sporting accrochés par Manchester United",
-      "enlace": "https://www.footmercato.net/a6331142861807584430-ligue-des-champions-le-losc-renverse-le-bayern-et-se-relance-fonseca-et-le-sporting-accroches-par-manchester-united",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg2PJN_riPhHX12UoiLEP5QrgRVSWEsxsIqwzeC_GJ-7dFXgXpQfEJYhoj9aU"
+      "noticia": "😳 Une star du Bayern sidérée ! Le frère de Mbappé punit le FCB en contre",
+      "enlace": "https://onefootball.com/fr/news/une-star-du-bayern-sideree-le-frere-de-mbappe-punit-le-fcb-en-contre-43840788",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvYUBV-YAFfn-HyZZS5eiwLGA7BwZVWCLhyxVv3pH3EL6qJ55ykZXWMWlxHsQ"
     },
     {
       "termino": "sporting lisboa - manchester united",
@@ -67,13 +74,6 @@
       "noticia": "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors  comfortable Champions League win",
       "enlace": "https://www.bbc.com/sport/football/live/c674232v2gv3t",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRuE6DWEZc6i9B___I1F7V8at9Is4QNM10QbaCy1VCK-WXW8tDY0oP_evEjg"
-    },
-    {
-      "termino": "psg - roma",
-      "trafico": "2000+",
-      "noticia": "Licensable picture: Paris Saint-Germain FC v AS Roma - UEFA Champions League 2026/27 League Phase MD5",
-      "enlace": "https://www.reutersconnect.com/item/paris-saint-germain-fc-v-as-roma-uefa-champions-league-202627-league-phase-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMElCVUJJQg",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0fGdV3SKT7GLI8PKKPcVTXLLWKf0ofzj1gDDbdE51vx_aLJ9cDz8wJW0VuKE"
     }
   ]
 }
