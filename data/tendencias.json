@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T11:55:17.275689-04:00",
-  "hora": "11:55",
+  "updated": "2026-11-25T12:05:41.465052-04:00",
+  "hora": "12:05",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,18 +13,18 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUX1JJYa19OYrWd8qUkKllc233uRQlvXElDLPwimmvP40dut3m31LVLzJevM8"
     },
     {
-      "termino": "bono navideno",
-      "trafico": "500+",
-      "noticia": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
-      "enlace": "https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
-    },
-    {
       "termino": "josé eduardo derbez",
       "trafico": "200+",
       "noticia": "¿Desplante a Mariana BO? Aseguran que José Eduardo Derbez salió por la cocina tras comer juntos",
       "enlace": "https://www.excelsior.com.mx/espectaculos/desplante-mariana-bo-aseguran-que-jose-eduardo-derbez-salio-por-cocina-tras-comer-juntos",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
+    },
+    {
+      "termino": "bono navideno",
+      "trafico": "500+",
+      "noticia": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
+      "enlace": "https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
     },
     {
       "termino": "contraloría",
@@ -41,11 +41,18 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfw9Etlzg2SOtG5MmeGx00tjBaK3V85ypHXDmJtZZt2XBbEBgQSll9-1FfTU"
     },
     {
-      "termino": "25 de noviembre",
-      "trafico": "500+",
+      "termino": "dia internacional de la no violencia contra la mujer",
+      "trafico": "200+",
       "noticia": "Justicia para ELLAS: Hoy es el Día Internacional de la Eliminación de la Violencia contra la Mujer",
       "enlace": "https://hoy.com.do/vivir/justicia-hoy-dia-internacional-eliminacion-violencia-mujer_1109771.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN_riQsoDKV75fmjL-ALIC4ZTNzK1cDjPZ89aefZJH20xrJS0o4paKleSQCdU"
+    },
+    {
+      "termino": "25 de noviembre",
+      "trafico": "500+",
+      "noticia": "¿A cómo está el dólar hoy en República Dominicana? Precio para este miércoles 25 de noviembre de 2026",
+      "enlace": "https://acento.com.do/economia/a-como-esta-el-dolar-hoy-en-republica-dominicana-precio-para-este-miercoles-25-de-noviembre-de-2026-9795949.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnxx84QNmi70P6OSpQYQzlQ70p48XKj-C5d-FtY5EYTFDaOs9XzkJ5ipKlreM"
     },
     {
       "termino": "que se celebra el 25 de noviembre",
@@ -57,9 +64,9 @@
     {
       "termino": "thanksgiving 2026",
       "trafico": "200+",
-      "noticia": "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
-      "enlace": "https://edition.cnn.com/2026/11/22/weather/east-west-coast-storms-thanksgiving-travel-climate-hnk",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF5j6xxwrAUGrEYhuKKYMCq_f-6bX01jlMjfxR_R9wnLBHbHiBHzkyi6Lu-E"
+      "noticia": "Will the Macy s parade balloons fly? NYC weighs earlier start amid storm threat",
+      "enlace": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9hMs4MithTTOBDUMy5SXpdMIZQH2RKgbW1TjSvGy_jN7XYY0MVWAgZYtyFE"
     },
     {
       "termino": "posiciones lidom",
@@ -67,13 +74,6 @@
       "noticia": "Licey vira el marcador en el 5to vs. Leones",
       "enlace": "https://www.mlb.com/es/video/licey-vira-el-marcador-en-el-5to-vs-leones",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyG7lZplrEXY7xY9rAijRkIGcvIXjpG0ACDdmQiiH2bttdAJ2HcXCR7U2sCxw"
-    },
-    {
-      "termino": "quien gano el miss universo 2026",
-      "trafico": "2000+",
-      "noticia": "La puertorriqueña Jennifer Barreto es la Miss Universo 2026",
-      "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/25/miss-puerto-rico-jennifer-barreto-es-la-nueva-miss-universo-2026/3730831",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQhhilX5X2OUZVr6wpE9XnMPMYpyYi5Ehg5TPDeiG_9Rhv4gydpr2N3jBH0"
     }
   ]
 }
