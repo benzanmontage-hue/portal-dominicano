@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T11:33:32.932415-04:00",
-  "hora": "11:33",
+  "updated": "2026-11-25T11:44:06.490507-04:00",
+  "hora": "11:44",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,9 +8,16 @@
     {
       "termino": "todd blanche",
       "trafico": "100+",
-      "noticia": "The Trump team is getting more and more evasive about Jensen Huang",
-      "enlace": "https://www.cnn.com/2026/11/24/politics/trump-jensen-huang-nvidia-messaging",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQK2RD8oB0OUT8N2rhHbbrWoarmT-4vth2lsYLXV8ecvlXBgu9rieD4bszfSs"
+      "noticia": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "enlace": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUX1JJYa19OYrWd8qUkKllc233uRQlvXElDLPwimmvP40dut3m31LVLzJevM8"
+    },
+    {
+      "termino": "bono navideno",
+      "trafico": "500+",
+      "noticia": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
+      "enlace": "https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
     },
     {
       "termino": "josé eduardo derbez",
@@ -20,13 +27,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
     },
     {
-      "termino": "bono navideno",
-      "trafico": "200+",
-      "noticia": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
-      "enlace": "https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJlu83Gq29FFpF13zQqt-kKfGpvczvgU02wLcjSQ8__qfKigNRDtpfV8q413M"
-    },
-    {
       "termino": "contraloría",
       "trafico": "100+",
       "noticia": "Contraloría detiene publicación de auditorías y deja decisión a Abinader",
@@ -34,18 +34,11 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RgEXB1LZW_bq_Pm5dG6ECNmU6yoFhe81btiADg-9gH-xF8ioSy-jQINbNOk"
     },
     {
-      "termino": "dia internacional de la no violencia contra la mujer",
-      "trafico": "200+",
+      "termino": "25 de noviembre",
+      "trafico": "500+",
       "noticia": "Justicia para ELLAS: Hoy es el Día Internacional de la Eliminación de la Violencia contra la Mujer",
       "enlace": "https://hoy.com.do/vivir/justicia-hoy-dia-internacional-eliminacion-violencia-mujer_1109771.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN_riQsoDKV75fmjL-ALIC4ZTNzK1cDjPZ89aefZJH20xrJS0o4paKleSQCdU"
-    },
-    {
-      "termino": "25 de noviembre",
-      "trafico": "500+",
-      "noticia": "¿A cómo está el dólar hoy en República Dominicana? Precio para este miércoles 25 de noviembre de 2026",
-      "enlace": "https://acento.com.do/economia/a-como-esta-el-dolar-hoy-en-republica-dominicana-precio-para-este-miercoles-25-de-noviembre-de-2026-9795949.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnxx84QNmi70P6OSpQYQzlQ70p48XKj-C5d-FtY5EYTFDaOs9XzkJ5ipKlreM"
     },
     {
       "termino": "que se celebra el 25 de noviembre",
@@ -74,6 +67,13 @@
       "noticia": "La puertorriqueña Jennifer Barreto es la Miss Universo 2026",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/25/miss-puerto-rico-jennifer-barreto-es-la-nueva-miss-universo-2026/3730831",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQhhilX5X2OUZVr6wpE9XnMPMYpyYi5Ehg5TPDeiG_9Rhv4gydpr2N3jBH0"
+    },
+    {
+      "termino": "nuggets - mavericks",
+      "trafico": "500+",
+      "noticia": "Dallas Mavericks vs. Denver Nuggets Live Score and Stats - November 24, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261124_DAL@DEN/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     }
   ]
 }
