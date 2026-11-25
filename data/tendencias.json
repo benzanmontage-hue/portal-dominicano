@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T22:54:09.836443-04:00",
-  "hora": "22:54",
+  "updated": "2026-11-24T23:04:35.470849-04:00",
+  "hora": "23:04",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -34,18 +34,18 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKk15ZurvEX7ACNQxjkrI4uf1cMKlc5dytBsIg8C53mNqG8JLXbPVpt59P0E"
     },
     {
-      "termino": "telemundo en vivo",
-      "trafico": "2000+",
-      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
-      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
-    },
-    {
       "termino": "magic - pistons",
       "trafico": "500+",
       "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
       "enlace": "https://www.cbssports.com/nba/news/magic-seek-4-0-nba-cup-mark-as-pistons-visit/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
+    {
+      "termino": "miss universe 2026",
+      "trafico": "2000+",
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
       "termino": "reforma",
@@ -71,9 +71,9 @@
     {
       "termino": "classement real madrid – psv eindhoven",
       "trafico": "1000+",
-      "noticia": "Real Madrid : Fede Valverde recadre ses coéquipiers",
-      "enlace": "https://www.footmercato.net/a8174654027359470089-real-madrid-fede-valverde-recadre-ses-coequipiers",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFn16WrRg6_iRy6WGv0tNwVzjfFMeV-yT_9G2dfrQbJMW5_Mas6RYNuYuwYyw"
+      "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
+      "enlace": "https://www.footmercato.net/a1130680736837077524-ligue-des-champions-le-real-madrid-ecrase-le-psv-arsenal-et-dortmund-dos-a-dos-cherki-offre-le-nul-a-manchester-city-face-a-naples",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
     }
   ]
 }
