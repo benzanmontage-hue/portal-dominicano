@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T15:24:02.633974-04:00",
-  "hora": "15:24",
+  "updated": "2026-11-25T15:34:28.398027-04:00",
+  "hora": "15:34",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -14,10 +14,17 @@
     },
     {
       "termino": "champions",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Bruno Fernandes names club he could join after Man Utd:  I ll never close the door",
       "enlace": "https://metro.co.uk/2026/11/25/bruno-fernandes-names-club-join-man-utd-ill-never-close-door-29818442/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUsAewZFLVSN5V8RkLnM4Ve26vgr25zfU39e4_X6tLlEVgSbZzeTaQTZIdyxI"
+    },
+    {
+      "termino": "liga de campeones de la uefa",
+      "trafico": "100+",
+      "noticia": "Pronósticos de la Champions League 25/11: el PSG quiere recuperar el liderato",
+      "enlace": "https://www.si.com/es-us/pronosticos-de-la-champions-league-25-11-el-psg-quiere-recueprar-el-liderato",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQqLLsC5C-amMAj7urG120zsarm3uXF7bjcifFlMAXKzZ6Qf2V1DVez60wCkM"
     },
     {
       "termino": "slavia praga - villarreal",
@@ -42,7 +49,7 @@
     },
     {
       "termino": "sabah vs barcelona",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Sabah - Barcelona, en directo: última hora de la Champions League, hoy en vivo",
       "enlace": "https://as.com/futbol/champions/sabah-barcelona-en-directo-previa-y-ultima-hora-de-la-champions-league-hoy-en-vivo-f202611-d/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_rIy0wPV9LUoQ2k1uzpNsClkW7O-BbQkCS2s5TkXjk9r0v6OFUZ_W2qdNbrU"
@@ -57,9 +64,9 @@
     {
       "termino": "josé eduardo derbez",
       "trafico": "500+",
-      "noticia": "¿Desplante a Mariana BO? Aseguran que José Eduardo Derbez salió por la cocina tras comer juntos",
-      "enlace": "https://www.excelsior.com.mx/espectaculos/desplante-mariana-bo-aseguran-que-jose-eduardo-derbez-salio-por-cocina-tras-comer-juntos",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
+      "noticia": "DJ no oculta su relación con José Eduardo Derbez",
+      "enlace": "https://vix.com/es-es/detail/video-5017380",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hhZcQkiNEqguddAtA4s_5p4o5qOOLkALGm0sw9QqT19PxUvy1ZwJKqdizUA"
     },
     {
       "termino": "bono navideno",
@@ -67,13 +74,6 @@
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
-    },
-    {
-      "termino": "día de acción de gracias",
-      "trafico": "200+",
-      "noticia": "Inflado de globos del Desfile de Acción de Gracias en NYC: cómo verlo y más",
-      "enlace": "https://www.telemundo47.com/noticias/local/inflado-globos-cuando-donde-verlo-telemundo-desfile-thankgiving-macys/2667740/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWKHlS3e7IRJY4n__t9fYpYM4GboJwTouVFETfZWp3MtiCSalCMpWxoMeO04"
     }
   ]
 }
