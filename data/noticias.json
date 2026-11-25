@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-25T15:34:30.039531-04:00",
-  "hora": "15:34",
+  "updated": "2026-11-25T15:44:56.531275-04:00",
+  "hora": "15:44",
   "fecha": "25/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
     {
       "titulo": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
       "fuente": "BBC",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 12:45:09 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "titulo": "Voleibol · VNL 2027: Calendario con los partidos de República Dominicana, Argentina y Cuba en la Liga de Naciones - Olympics",
@@ -37,7 +37,7 @@
       "imagen": ""
     },
     {
-      "titulo": "¿Por qué el Día Internacional de la Eliminación de la Violencia contra la Mujer se conmemora el 25 de noviembre? Ese día, en 1960, la dictadura de Rafael Trujillo asesinó en República Dominicana a las hermanas Minerva, Patria y María Teresa Mirabal. Do - Facebook",
+      "titulo": "¿Por qué el Día Internacional de la Eliminación de la Violencia contra la Mujer se conmemora el 25 de noviembre?\n\nEse día, en 1960, la dictadura de Rafael Trujillo asesinó en República Dominicana a las hermanas Minerva, Patria y María Teresa Mirabal.\n\nDos décadas después, activistas de América Latina y el Caribe eligieron la fecha para honrar su memoria y denunciar la violencia contra las mujeres.\n\nMelania Hidalgo te explica en este video cómo la historia de las Mirabal dio origen al 25N.\n\n🎥 Con imágenes de la Casa Museo Hermanas Mirabal\n\n#25N #HermanasMirabal #BBCMundo #DíaInternacionalDeLaEliminaciónDeLaViolenciaContraLaMujer - Facebook",
       "fuente": "Facebook",
       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmRLTnJyVWdoMnRpbmpKbWdZMTVZZWpsRzV3Q1pkNjdrdDNrS0FhQlhQdzZnZ09xVnZLbXczTHVBblFQY1diQkhHS2tZeFJrYm9taTZ5MDV2NGlGUE9SSlY2bHFfV3RSTjNiVDhINVU2N0NuVnptUlNIYzROTVB0OGdrNkwzcmRmSkNnc1hmdW5nUnJQS1dxa1oyVnpXZXRlcHdHS2xGZlgxSENZcmk2LTA3QjUta1NyOW9uVkZhMWVKYlZLMGhvay03ZXpMMU9WRjRucVFvLUQtQlNNM3RSNlR0RmFMekI1aTZ3Qk9R?oc=5",
       "dominio": "news.google.com",
@@ -69,20 +69,20 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "titulo": "Miss Universe 2026 TOP 12 en Traje de Gala: Miss República Dominicana, Miss Puerto Rico y más - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEtQcmQ5eS1CQnpLYW1IMkpEVnhWclZvTUg1bjdsT2pCLXBPc25XVk40MXJRcjl5YmlITHNzRkVNelVmWF9TQ3UtRnRBMmhRZ2FBOEMzbXF0Q1pKRFBzYUFNRGxLNW51ZXd5cmJYT29NQWhnRU83YVZ5aXJ2QlNvWkJibVRnLTJwTU9PbHJSREVJSXFWbHJ0cmN5Vk1Oemx6V0dBY3hCR0RJZERIek9ZUURSS1hkNUJoRFNSLXpvOGlmeFBYdWw3bVNFQUJORi0zZE9pTEhOb2c4U0JzdWQtRjJlVHNRYUlxNWs1Rw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 20:53:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana hace historia con su primera victoria en un Mundial Sub-17 - Concacaf | Official Website",
       "fuente": "Concacaf | Official Website",
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcmliWnY4LUR3bUhtcHRSekNKSmNfaWtIbW5tMjdrUmRmV0tOV2plVHl6OVZ4NXVUa0thOUVNZ2ROajlLVENUZUdMWjAzNUNoYTM0bjZuT0QyT3RzbTlHcXhmRzA5enRxVTlFUjZrcGNiM29rY3lXcnNKX3RXNUlETGhpZVMyQ2puZnY5MU9va2s5MUdXeGlDZmpPUUVCWlFzLVlrWUFvZTNtMUNXWk5Ea3NYeFlFN1ZWNmZiSDd1VGF4ajc2R294MWxEb3oyN0JQRnl3ZmE4dnA?oc=5",
       "dominio": "news.google.com",
       "fecha": "Tue, 24 Nov 2026 21:58:12 GMT",
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/wulc1tmh5daz4fbkuvq1"
+    },
+    {
+      "titulo": "Miss Universe 2026 TOP 12 en Traje de Gala: Miss República Dominicana, Miss Puerto Rico y más - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEtQcmQ5eS1CQnpLYW1IMkpEVnhWclZvTUg1bjdsT2pCLXBPc25XVk40MXJRcjl5YmlITHNzRkVNelVmWF9TQ3UtRnRBMmhRZ2FBOEMzbXF0Q1pKRFBzYUFNRGxLNW51ZXd5cmJYT29NQWhnRU83YVZ5aXJ2QlNvWkJibVRnLTJwTU9PbHJSREVJSXFWbHJ0cmN5Vk1Oemx6V0dBY3hCR0RJZERIek9ZUURSS1hkNUJoRFNSLXpvOGlmeFBYdWw3bVNFQUJORi0zZE9pTEhOb2c4U0JzdWQtRjJlVHNRYUlxNWs1Rw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 20:53:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana: Senado aprueba la modificación del Presupuesto de 2026 por alza internacional de insumos - Infobae",
