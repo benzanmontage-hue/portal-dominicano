@@ -1,16 +1,30 @@
 {
-  "updated": "2026-11-24T21:08:41.301271-04:00",
-  "hora": "21:08",
+  "updated": "2026-11-24T21:19:03.784470-04:00",
+  "hora": "21:19",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "telemundo",
+      "trafico": "100+",
+      "noticia": "Investigan tiroteo que deja dos menores heridos en Stockton; esto es lo que se sabe",
+      "enlace": "https://www.telemundo33.com/noticias/local/investigan-tiroteo-menores-heridos-stockton/2375009/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9R4Yu-UVz-xV2v3WlmLnlfOvp5AqJJZAuihNP8YO8KvjgU-lVjf6I3r9nxos"
+    },
     {
       "termino": "magic - pistons",
       "trafico": "200+",
       "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
       "enlace": "https://www.cbssports.com/nba/news/magic-seek-4-0-nba-cup-mark-as-pistons-visit/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
+    },
+    {
+      "termino": "miss universe 2026",
+      "trafico": "200+",
+      "noticia": "The Big Night Is Almost Here! Telemundo Unveils Unprecedented Coverage for the Historic 75th Miss Universe® Competition, Live Coast-to-Coast from Puerto Rico on Tuesday, November 24, Starting at 7pm ET/6pm CT/4pm PT",
+      "enlace": "https://nbcuniversalnewsgroup.com/telemundo/2026/11/17/the-big-night-is-almost-here-telemundo-unveils-unprecedented-coverage-for-the-historic-75th-miss-universe-competition-live-coast-to-coast-from-puerto-rico-on-tuesday-november-24-startin/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ_bZrtUQrKzR-gGAa9pazS7pH055bk4E2Rd5I598Km5xjfId5GSdFozGVSZA"
     },
     {
       "termino": "papa francisco",
@@ -36,9 +50,9 @@
     {
       "termino": "a que hora es el miss universo 2026",
       "trafico": "1000+",
-      "noticia": "Las 10 favoritas de El Nuevo Día para coronarse como Miss Universe",
-      "enlace": "https://www.elnuevodia.com/entretenimiento/farandula/fotogalerias/las-10-favoritas-de-el-nuevo-dia-para-coronarse-como-miss-universe/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3FT58_KptUS6KSQ1K3yPonIzgaAR8pqIck7Nd60vHOaOW8UBPofP-mQpRQcs"
+      "noticia": "Miss Universe 2026: así será la cobertura especial de Telemundo",
+      "enlace": "https://www.telemundo.com/shows/miss-universo/miss-universe-2026-programacion-horarios-y-donde-ver-rcna609849",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRSEdJILexHaxMkaEIoIHvwShpYR2nfwxlpn6XMxm5MePaWyVYetxIQaVz60"
     },
     {
       "termino": "classement real madrid – psv eindhoven",
@@ -57,23 +71,9 @@
     {
       "termino": "manchester city – naples",
       "trafico": "100+",
-      "noticia": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
-      "enlace": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzvzGbP5KeaCR48sJAPJ_-WwHgN6gbTF-boapX7T6Ky7xE6nUe8Cx1Kcd2SOA"
-    },
-    {
-      "termino": "ligue des champions",
-      "trafico": "100+",
-      "noticia": "Leipzig-Lens : les Sang et Or déjà menés à la pause (0-2)",
-      "enlace": "https://africafootunited.com/leipzig-lens-les-sang-et-or-deja-menes-a-la-pause-0-2/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqmpH8q8fyPBY6SDwKVZsEdjhgPd9ESetl0pHPRgZtfnDynIs9UK1xUHbAWQE"
-    },
-    {
-      "termino": "como - aek",
-      "trafico": "100+",
-      "noticia": "VIDEO: resumen de Como vs. AEK por la UEFA Champions League",
-      "enlace": "https://espndeportes.espn.com/futbol/europa/nota/_/id/17557660/video-resumen-como-vs-aek-uefa-champions-league",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoC8ikUeeCgyXIPkuw9UpjKI0BtBXgSsP0ssF8l4AHXxr_OxXQBYt2Bce2H-0"
+      "noticia": "Manchester City x C.P. Company 26-27 Fourth Kit Revealed - Debut in Champions League",
+      "enlace": "https://www.footyheadlines.com/5139029366/manchester-city-x-c-p-company-26-27-fourth-kit-revealed-debut-in-champions-league.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFGMyGPfic0pChATfC8RBLgpLo2dhUkJYhuX_OP9Eo1M4kztmetJ2yPohRCw"
     }
   ]
 }
