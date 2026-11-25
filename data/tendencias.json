@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T20:58:18.316753-04:00",
-  "hora": "20:58",
+  "updated": "2026-11-24T21:08:41.301271-04:00",
+  "hora": "21:08",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -14,7 +14,7 @@
     },
     {
       "termino": "papa francisco",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "El diario privado del papa Francisco revela visiones del diablo, imágenes del infierno y una crisis de dos años",
       "enlace": "https://noticias.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIv9VbXITvi82-z2Wo9GpbG18I8vcJokxmPFaUc49kMNCjDH0_XPkJC6DAM2c"
@@ -28,14 +28,14 @@
     },
     {
       "termino": "pasaporte",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "¿Por qué España recomienda a dominicanos solicitar visado con el nuevo pasaporte electrónico?",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/recomendacion-del-consulado-sobre-pasaporte-electronico-dominicano/3730327",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_fSBBZO00iCZMO6rPId1Mc7Jk45vFbLDPfUeJrR1ivdjtYLW6_72jhdKsO8"
     },
     {
       "termino": "a que hora es el miss universo 2026",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Las 10 favoritas de El Nuevo Día para coronarse como Miss Universe",
       "enlace": "https://www.elnuevodia.com/entretenimiento/farandula/fotogalerias/las-10-favoritas-de-el-nuevo-dia-para-coronarse-como-miss-universe/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3FT58_KptUS6KSQ1K3yPonIzgaAR8pqIck7Nd60vHOaOW8UBPofP-mQpRQcs"
@@ -48,6 +48,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
     },
     {
+      "termino": "posiciones de real madrid contra psv",
+      "trafico": "5000+",
+      "noticia": "Real Madrid 5-1 PSV: resumen, goles y resultado",
+      "enlace": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIv-68Rsi-eYTvXRNMNy2uzSDlkHT0p1Xx-q0f8LDIFO8kUwFciwmK5_5KTs"
+    },
+    {
       "termino": "manchester city – naples",
       "trafico": "100+",
       "noticia": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
@@ -57,9 +64,9 @@
     {
       "termino": "ligue des champions",
       "trafico": "100+",
-      "noticia": "Ligue des Champions : El Aynaoui n’accable pas Lens",
-      "enlace": "https://www.footmercato.net/a6244680159690373428-ligue-des-champions-el-aynaoui-naccable-pas-lens",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJh7mq-pjnBktCQTfOG4q117NAVHuutqtlYOo8RvOf54pYsnn3QWODSVbiMo"
+      "noticia": "Leipzig-Lens : les Sang et Or déjà menés à la pause (0-2)",
+      "enlace": "https://africafootunited.com/leipzig-lens-les-sang-et-or-deja-menes-a-la-pause-0-2/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqmpH8q8fyPBY6SDwKVZsEdjhgPd9ESetl0pHPRgZtfnDynIs9UK1xUHbAWQE"
     },
     {
       "termino": "como - aek",
@@ -67,13 +74,6 @@
       "noticia": "VIDEO: resumen de Como vs. AEK por la UEFA Champions League",
       "enlace": "https://espndeportes.espn.com/futbol/europa/nota/_/id/17557660/video-resumen-como-vs-aek-uefa-champions-league",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoC8ikUeeCgyXIPkuw9UpjKI0BtBXgSsP0ssF8l4AHXxr_OxXQBYt2Bce2H-0"
-    },
-    {
-      "termino": "posiciones de al-nassr contra al-sadd",
-      "trafico": "200+",
-      "noticia": "Al Nassr FC vs Al-Sadd en directo hoy: ¿dónde ver el partido por televisión y streaming?",
-      "enlace": "https://www.goal.com/es-cl/noticias/al-nassr-fc-vs-al-sadd-en-directo-hoy-donde-ver-el-partido-por-television-y-streaming/bltfed682ee3f716022",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThu-muHKlhm5cKnPQJqNkkH8XfcOfOaHjXJzGRMw8wcgIreP-KvYl2XxhVn38"
     }
   ]
 }
