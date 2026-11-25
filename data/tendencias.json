@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T16:48:49.934869-04:00",
-  "hora": "16:48",
+  "updated": "2026-11-25T16:59:12.848420-04:00",
+  "hora": "16:59",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "club brujas - liverpool",
+      "trafico": "100+",
+      "noticia": "Club Brugge vs. Liverpool LIVE: Champions League score, updates and commentary",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50595266/club-brugge-liverpool-live-champions-league-updates",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT0f0p9fkXcFthuXJsg7AjwhMwvvQhWPlp-nY32FXmELov60uS89xbxcw9m9U"
+    },
     {
       "termino": "losc - bayern",
       "trafico": "100+",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "sporting lisboa - manchester united",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Pochettino regresa a la Champions con un Manchester United en apuros",
       "enlace": "https://listindiario.com/el-deporte/futbol/20261123/pochettino-regresa-champions-manchester-united-apuros_931244.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvh01D1P5ynA7BO9q7PS3HVwiDF6bpA4M-5Y3jZRPAEf9PbpqaIFi4dTBkTJ4"
@@ -43,16 +50,16 @@
     {
       "termino": "atlético madrid - viking",
       "trafico": "1000+",
-      "noticia": "Licensable picture: UEFA Champions League - Atletico Madrid v Viking",
-      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-atletico-madrid-v-viking/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxSzBJSDk",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4uUlIuZHZ4KlUizcokDqkvoSrpm947ZR64v0V5CNGVp_YaClam3L357MBh3Q"
+      "noticia": "Licensable picture: Atletico de Madrid v Viking FK - UEFA Champions League 2026/27 League Phase MD5",
+      "enlace": "https://www.reutersconnect.com/item/atletico-de-madrid-v-viking-fk-uefa-champions-league-202627-league-phase-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFdFN0FMQQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP2EUeGyotQuDxAXuFmpVm46Uw1RekDE2S2oOTph4R4LiUF6a2UtOQKRIiBtk"
     },
     {
       "termino": "champions league",
       "trafico": "200+",
-      "noticia": "Champions League LIVE: Sporting vs Man Utd   Club Brugge vs Liverpool score   updates from seven other games",
-      "enlace": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwVXeWRSkHLprn4Vygt9luE37p8kw6I4iWcB3ad2kvXzc2c1MQWe2dDwtjEf4"
+      "noticia": "Licensable picture: UEFA Champions League - Sporting CP v Manchester United",
+      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-sporting-cp-v-manchester-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxTEYxTDI",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipUErTOVzwCuj0bZnrveA8h_mMi6MUkcG7khfdnGzM0cx8Ied2ZmopIGjCcg"
     },
     {
       "termino": "concierto",
@@ -60,13 +67,6 @@
       "noticia": "Romeo Santos y Prince Royce cerrarán en República Dominicana su gira mundial “Mejor tarde que nunca",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/25/romeo-santos-y-prince-royce-cerraran-en-rd-gira-mundial/3731203",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZWJmMq4C2JT3c7lVU6g_LeHWD9y0RgsLfvIO9q3DtdeayVdBQ0DRJFS7xGQ"
-    },
-    {
-      "termino": "champions",
-      "trafico": "200+",
-      "noticia": "Who is Nicolò Tresoldi? The 22-year-old Liverpool must be wary of",
-      "enlace": "https://www.rousingthekop.com/2026/11/25/who-is-nicolo-tresoldi-the-22-year-old-liverpool-must-be-wary-of/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFm-uvK1Er3igdZ-sEKiivY2JlxqDXMmfTL1xy7U_BnWkX2twaRuDjpD9n_LA"
     },
     {
       "termino": "liga de campeones de la uefa",
