@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T18:12:15.320782-04:00",
-  "hora": "18:12",
+  "updated": "2026-11-25T18:22:40.196956-04:00",
+  "hora": "18:22",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -17,14 +17,14 @@
       "trafico": "100+",
       "noticia": "Sporting CP vs Manchester United: UEFA Champions League stats   head-to-head",
       "enlace": "https://www.bbc.com/sport/football/live/crkgv8v0gdwkt",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuYBUxgdIrfoLtE_GTi6nNrAOEJqslG3IMIatzpaj3Ca-zwJHqgjVCK6Bp3oc"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIiUEl1T649lCzglc8Hm26C2YqGktTu5CDtBuVZp5JwURSRjI-Ik5G1SpU264"
     },
     {
       "termino": "inter - stuttgart",
       "trafico": "100+",
-      "noticia": "Inter Mailand vs. Stuttgart heute live: Champions League im TV, Stream, Liveticker, Aufstellungen",
-      "enlace": "https://ran.joyn.de/sports/fussball/champions-league/inter-mailand-vs-vfb-stuttgart-heute-live-champions-league-im-tv-livestream-und-im-ticker-alle-wichtigen-infos-die-aufstellungen-218817",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ05Vk81OrmgAcpUBPjjfd-iPN-1jGxcqyWzhKi5ibonZoGeocnTW7WyLE2xnY"
+      "noticia": "Champions League: VfB Stuttgart kassiert Pleite bei Inter",
+      "enlace": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-ligaphase-inter-mailand-vfb-stuttgart-spielbericht-100.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaRFufs4nx1bIl34NGGFyzLlRSloN5heV5bfwZEgaDLHXfDRnUeYZiNOXeyys"
     },
     {
       "termino": "consulta bono navideño",
@@ -36,16 +36,16 @@
     {
       "termino": "losc - bayern",
       "trafico": "500+",
-      "noticia": "Ligue des champions : Lille s’offre un bel exploit face au Bayern Munich (2-1), le PSG tenu en échec à domicile par la Roma (2-2)",
-      "enlace": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-le-psg-recoit-la-roma-lille-vise-l-exploit-face-au-bayern-munich-suivez-et-commentez-le-multiplex-avec-nous_8297991.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Pox-EuVcBWXCQ7TQjFJesdYKq4hu4TuX2WFfNaOMylhSXmiNs2vo8iZcZ70"
+      "noticia": "Lille OSC - Bayern Munich : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a6998334376709282955-lille-osc-bayern-munich-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvNCvKp5pI5vaXqVq4HSXC29o9iGGicHTstW04FxzTUxPRWByp2VyuDwL0Sug"
     },
     {
       "termino": "sporting lisboa - manchester united",
       "trafico": "500+",
-      "noticia": "Brugge-Liverpool: el Liverpool llega con seis bajas",
-      "enlace": "https://www.tufutbolero.com/novedades/brugge-liverpool-el-liverpool-llega-con-seis-bajas-e50455",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMxXs5UQzhnkLon3qYsorWV_Dl10um3PY1yMSpR40hvv7ns4Rb4bGysXytKSY"
+      "noticia": "VIDEO: Resumen de Brujas vs. Liverpool por Champions",
+      "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17562315/video-resumen-de-brujas-vs-liverpool-por-champions",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrzYjnPUBw23V1mwUuG6_a4ZpVPlw_AOBcXCImTGRaYLhG1609Rott7aglwm4"
     },
     {
       "termino": "paris-sg – roma",
@@ -55,8 +55,15 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGoQVem6gbVFTweUtTQGZlVJciM-_A2voNi6zttmGvqNRb7eh28lbur3N8V-0"
     },
     {
+      "termino": "classement sabah football club – fc barcelone",
+      "trafico": "500+",
+      "noticia": "Sabah FK - FC Barcelone : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a5411601019827794844-sabah-fk-fc-barcelone-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslk2dZAN70koHWYJu7UW7zdQwSk_Ct2YqZ_o2lDvqd7jGy3vhRSaWubPsa_E"
+    },
+    {
       "termino": "posiciones de sabah futbol klubu contra fc barcelona",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "noticia": "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors  comfortable Champions League win",
       "enlace": "https://www.bbc.com/sport/football/live/c674232v2gv3t",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRuE6DWEZc6i9B___I1F7V8at9Is4QNM10QbaCy1VCK-WXW8tDY0oP_evEjg"
@@ -67,13 +74,6 @@
       "noticia": "Licensable picture: Paris Saint-Germain FC v AS Roma - UEFA Champions League 2026/27 League Phase MD5",
       "enlace": "https://www.reutersconnect.com/item/paris-saint-germain-fc-v-as-roma-uefa-champions-league-202627-league-phase-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMElCVTRPSA",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6CsL2-xdMq37b8yysjjWzUmn8qjOdkPMHvK3ilH9OclZWsDEORL5Oh-bRxo"
-    },
-    {
-      "termino": "atlético madrid - viking",
-      "trafico": "1000+",
-      "noticia": "Licensable picture: UEFA Champions League - Atletico Madrid v Viking",
-      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-atletico-madrid-v-viking/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxT1VHUUk",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYeOrb_KC2BoDfpXzDBv3EJQ5x3p0mBbbfgyJHA-QDEzoDAiD5a0SisrAY3q8"
     }
   ]
 }
