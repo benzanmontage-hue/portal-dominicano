@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T11:44:06.490507-04:00",
-  "hora": "11:44",
+  "updated": "2026-11-25T11:55:17.275689-04:00",
+  "hora": "11:55",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -21,7 +21,7 @@
     },
     {
       "termino": "josé eduardo derbez",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "¿Desplante a Mariana BO? Aseguran que José Eduardo Derbez salió por la cocina tras comer juntos",
       "enlace": "https://www.excelsior.com.mx/espectaculos/desplante-mariana-bo-aseguran-que-jose-eduardo-derbez-salio-por-cocina-tras-comer-juntos",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
@@ -32,6 +32,13 @@
       "noticia": "Contraloría detiene publicación de auditorías y deja decisión a Abinader",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/24/contraloria-detiene-publicacion-auditorias-y-deja-decision-a-abinader/3729383",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RgEXB1LZW_bq_Pm5dG6ECNmU6yoFhe81btiADg-9gH-xF8ioSy-jQINbNOk"
+    },
+    {
+      "termino": "pensión",
+      "trafico": "500+",
+      "noticia": "How to protect your retirement savings if the AI boom fizzles",
+      "enlace": "https://theconversation.com/how-to-protect-your-retirement-savings-if-the-ai-boom-fizzles-296649",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfw9Etlzg2SOtG5MmeGx00tjBaK3V85ypHXDmJtZZt2XBbEBgQSll9-1FfTU"
     },
     {
       "termino": "25 de noviembre",
@@ -67,13 +74,6 @@
       "noticia": "La puertorriqueña Jennifer Barreto es la Miss Universo 2026",
       "enlace": "https://www.diariolibre.com/revista/cultura/2026/11/25/miss-puerto-rico-jennifer-barreto-es-la-nueva-miss-universo-2026/3730831",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xQhhilX5X2OUZVr6wpE9XnMPMYpyYi5Ehg5TPDeiG_9Rhv4gydpr2N3jBH0"
-    },
-    {
-      "termino": "nuggets - mavericks",
-      "trafico": "500+",
-      "noticia": "Dallas Mavericks vs. Denver Nuggets Live Score and Stats - November 24, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261124_DAL@DEN/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     }
   ]
 }
