@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T14:31:43.539947-04:00",
-  "hora": "14:31",
+  "updated": "2026-11-25T14:42:07.045694-04:00",
+  "hora": "14:42",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "barcelona vs",
+      "trafico": "100+",
+      "noticia": "Boletos para FC Barcelona - Atlético Madrid en LaLiga",
+      "enlace": "https://karlobag.eu/es/deportes/noticias/entradas-para-fc-barcelona-atletico-madrid-laliga-95zvz/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3g86mt3k3DKGkEK0VZ7CyCYPHdFZZGaznIxkBkJp5YeYIzrPMaoGIygnyQAg"
+    },
     {
       "termino": "slavia praga - villarreal",
       "trafico": "200+",
@@ -22,16 +29,16 @@
     {
       "termino": "inés gómez mont",
       "trafico": "100+",
-      "noticia": "Quién es Inés Gómez Mont y por qué su deportación a España desató un conflicto diplomático",
-      "enlace": "https://www.revistagente.com/mx/actualidad/quien-es-ines-gomez-mont-y-por-que-su-deportacion-a-espana-desato-un-conflicto-diplomatico/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHlMVmdIEG0ErZaTYh4TKXXkYNdQdJiZfSxw7goKJzl1A2XqCmcgNNrOAq5GY"
+      "noticia": "Inés Gómez Mont buscó quedarse en Miami por “tratamiento” de su hija: ella también tendría problemas de salud",
+      "enlace": "https://www.univision.com/famosos/ines-gomez-mont-busco-quedarse-miami-salud-hija",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThpCSTsvtYtcxBGy6Q1LP0M2FNPTUcByrwDqYrMKpai20xkvqkutPFwp7ohfY"
     },
     {
       "termino": "sabah vs barcelona",
-      "trafico": "1000+",
-      "noticia": "Cuándo juegan Sabah vs. Barcelona por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
-      "enlace": "https://www.espn.com.do/futbol/champions-league/nota/_/id/17557756/sabah-vs-barcelona-fase-liga-champions-league-equipo-fecha-hora-y-tv-en-vivo",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWFvlIrgRrp1HMbhYuIM9pOhbvtw1rKSmB-h53kJrcEcvW-6hiauxVmQd78g"
+      "trafico": "2000+",
+      "noticia": "Sabah - Barcelona, en directo: última hora de la Champions League, hoy en vivo",
+      "enlace": "https://as.com/futbol/champions/sabah-barcelona-en-directo-previa-y-ultima-hora-de-la-champions-league-hoy-en-vivo-f202611-d/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnyyOGoCGME2t7CvflSuMwewWshGy8aA8AmnIfZ_NHk8g5WICoiOX5zZSPLOs"
     },
     {
       "termino": "todd blanche",
@@ -43,9 +50,9 @@
     {
       "termino": "josé eduardo derbez",
       "trafico": "500+",
-      "noticia": "DJ no oculta su relación con José Eduardo Derbez",
-      "enlace": "https://vix.com/es-es/detail/video-5017380",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5hhZcQkiNEqguddAtA4s_5p4o5qOOLkALGm0sw9QqT19PxUvy1ZwJKqdizUA"
+      "noticia": "¿Desplante a Mariana BO? Aseguran que José Eduardo Derbez salió por la cocina tras comer juntos",
+      "enlace": "https://www.excelsior.com.mx/espectaculos/desplante-mariana-bo-aseguran-que-jose-eduardo-derbez-salio-por-cocina-tras-comer-juntos",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT3arb9TqOga33W2W6DSLe66nznPyA8drnIkt17ghEB-3j-76ghjWVeF7f7YE"
     },
     {
       "termino": "bono navideno",
@@ -67,13 +74,6 @@
       "noticia": "Contraloría detiene publicación de auditorías y deja decisión a Abinader",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/24/contraloria-detiene-publicacion-auditorias-y-deja-decision-a-abinader/3729383",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RgEXB1LZW_bq_Pm5dG6ECNmU6yoFhe81btiADg-9gH-xF8ioSy-jQINbNOk"
-    },
-    {
-      "termino": "pensión",
-      "trafico": "500+",
-      "noticia": "Lamont: CT’s savings habits pay big dividends in next budget",
-      "enlace": "https://ctmirror.org/2026/11/24/lamont-ct-pension-savings-budget/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPCvfBsZDNbXEh3D33uzOd8m9LMzzuyA8RSxYzejjRKgADiSMA6VQ4l1k72Q"
     }
   ]
 }
