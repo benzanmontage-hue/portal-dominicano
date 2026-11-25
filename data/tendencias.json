@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T16:59:12.848420-04:00",
-  "hora": "16:59",
+  "updated": "2026-11-25T17:09:36.244401-04:00",
+  "hora": "17:09",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "consulta bono navideño",
+      "trafico": "200+",
+      "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
+      "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
+    },
     {
       "termino": "club brujas - liverpool",
       "trafico": "100+",
@@ -44,8 +51,8 @@
       "termino": "psg - roma",
       "trafico": "1000+",
       "noticia": "Licensable picture: UEFA Champions League - Paris St Germain v AS Roma",
-      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-paris-st-germain-v-as-roma/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxSzFQSEU",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPOJZDD3TSA7p-QUK_AxO7PYGNGgOOfq33kWkUPeVxFZP622DNnyiPlpcjIVU"
+      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-paris-st-germain-v-as-roma/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxSzRDSE0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQijYgseTlcdE0LdkLSk1-DjWtjPNLMqBnWSgLe0kNnHxOGHcWzMlPrjQw0RKQ"
     },
     {
       "termino": "atlético madrid - viking",
@@ -67,13 +74,6 @@
       "noticia": "Romeo Santos y Prince Royce cerrarán en República Dominicana su gira mundial “Mejor tarde que nunca",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/25/romeo-santos-y-prince-royce-cerraran-en-rd-gira-mundial/3731203",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZWJmMq4C2JT3c7lVU6g_LeHWD9y0RgsLfvIO9q3DtdeayVdBQ0DRJFS7xGQ"
-    },
-    {
-      "termino": "liga de campeones de la uefa",
-      "trafico": "200+",
-      "noticia": "VIDEO: excelente jugada y asistencia de Soulé para el 1-0 de Roma vs. PSG",
-      "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17561652/video-gol-hermoso-asistencia-de-soule-psg-vs-roma-fase-liga-fecha-5-champions-league",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDJYGzFIIoOSRnHmX-zAnyJL0Tqg6j6WztGqcbP4gTA0hf7Szn8-uWusAA8M"
     }
   ]
 }
