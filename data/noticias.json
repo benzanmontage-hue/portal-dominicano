@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-25T16:28:01.819738-04:00",
-  "hora": "16:28",
+  "updated": "2026-11-25T16:38:24.252789-04:00",
+  "hora": "16:38",
   "fecha": "25/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
       "fuente": "BBC",
@@ -11,14 +19,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 12:45:09 GMT",
       "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0f3c/live/bb4defb0-e82f-11f1-917e-35f1674fb52c.png"
-    },
-    {
-      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "titulo": "Jessi Rodríguez pone a bailar al presidente de República Dominicana - Univision",
@@ -37,11 +37,27 @@
       "imagen": ""
     },
     {
+      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUNYR1RjdEQwcWxDN0k3X2EzVEdLUHB1WWlMN0N4RWZReEJXMXFmMkdJd1B1SEljVmJOTjZWNUFmR2lnQ2Vpb1dNMFZOVlg1aW4xMXR6Sk1tMkNqcFR1WGI4TzJ2WDJOMUtnWnEtUHdSV0hPNWFMOExqc01La1g0dGplREp0VmFsbjI0UjV2aERhQmFIWHdSNkVMdkpFX0FOcklJYVRQVGdSSW1QT2V3ZFFncHZqMklBZXM5cF9WMF9GN3VzR2lIc3ctVTBCLXktLUVJ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "República Dominicana es el escenario elegido para el cierre de “Mejor tarde que nunca”, la exitosa gira mundial que ha unido a Romeo Santos y Prince Royce, dos de las figuras más importantes de la bachata y la música latina.⁣ ⁣ Bajo la producción de Ri - Instagram",
       "fuente": "Instagram",
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWmhqT0FBdHp3SWFxWFRETkJ4OGZPMnE1MFlleWwwVkFsWVN3WlN2QVlzZHNRa3F3dmVKekhQQzFyb2JIa3ExZWpWYTBMZm1hMVE?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 14:45:05 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Quién es Melissa Núñez? Conoce a la dominicana primera finalista Miss Universo 2026 - People en Español",
+      "fuente": "People en Español",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXR2T19GdGVnRzFtZEdfWXRrcE81NFNWZWdjaFVXSjVHYjhaSUhqb3hHd2I1MlNlQkw4MVVlSWtLUlZRNUhJNS1VUzRXT3AxZE91U3MxZ3haQ2tLcDdCTWczZURnbVJfeVFSd1FFVnB5Q3djeV85cFhfaDQtY24tMjVOZEFnZEVLV0dqeFBzNWNKVTBVWkVHZ0p1SzEzOWxvMXJiQkFlbndsQzdIUlg0VWM1WDZRcGlqd0NJV2Y0eS1xTnRtNjV6ZzhPRWhHOXNDVmpabWJxQktrOFI4TWhsRDJDdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 13:17:48 GMT",
       "imagen": ""
     },
     {
@@ -51,14 +67,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 15:10:24 GMT",
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-    },
-    {
-      "titulo": "¿Quién es Melissa Núñez? Conoce a la dominicana primera finalista Miss Universo 2026 - People en Español",
-      "fuente": "People en Español",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXR2T19GdGVnRzFtZEdfWXRrcE81NFNWZWdjaFVXSjVHYjhaSUhqb3hHd2I1MlNlQkw4MVVlSWtLUlZRNUhJNS1VUzRXT3AxZE91U3MxZ3haQ2tLcDdCTWczZURnbVJfeVFSd1FFVnB5Q3djeV85cFhfaDQtY24tMjVOZEFnZEVLV0dqeFBzNWNKVTBVWkVHZ0p1SzEzOWxvMXJiQkFlbndsQzdIUlg0VWM1WDZRcGlqd0NJV2Y0eS1xTnRtNjV6ZzhPRWhHOXNDVmpabWJxQktrOFI4TWhsRDJDdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 13:17:48 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Miss Universo 2026 TOP 5: Miss Venezuela, Miss República Dominicana, Miss Puerto Rico y más - Telemundo",
@@ -85,19 +93,19 @@
       "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
-      "titulo": "República Dominicana: Senado aprueba la modificación del Presupuesto de 2026 por alza internacional de insumos - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdTdPZDdzMzRpY091aHl2NXNHNHJPVlBTNF9TWXlUNnp5YmpzcXZaRFlfWFNQdm1wREp5aXFfUC1rUmYxeDBOZFZ4WDg5VnFtdk9DVWQyeDdYc0FWWnYwc1AxVi1CU215TW5zaEpUODVjckpVUTRPcnBLc2hUM0Voc25jSkxOalR3b3lST0hUczNfRkktTjQ3SXBJT01XTU9kSHg0NVU2NTJ6eDFUYi10d2dMNnY0WFd6d3BmbU53SVBIOTRobGx0Q0pZUEt2OW1fMUZCV1czOHc5bEpLM3ZZQTF0bWFuYXpjWjRzb2xQZTZCMGJLX2x0bzJR0gGUAkFVX3lxTE5zYVk0aUtaMVg4bGJQcEY0aU1pMjEtc2tKNkpKUlhzOVVxb2tCSWtsOVFWUGk5N0E0eGVvTmdEak02WF9XZFJGa2JoNC00R1JlNTZIMUU4TmJTeGhNWGk0cDg0N0pIOUpIeGRGQnFYTWt2UFhUQUFld3g0TVZMb3JHcnVTb1dvQ1FiZTJ5YzBhbHdWcWVsZnJETk5NR3FDd0NSM2xUVWdYYWVwR0duX3U3UUc3bzR2dGhHcWFIMkJjLUlfcVd1Y3JNUHc3aU9wdTIyMDFvdHVNellYLXo1S2lGTzZXOVNOcnQtQWZYWWhfWWNuLXAxYm5XVnNGODFyTENPSXNlYTVrTElrRmVCWG9KeEZfVg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 15:04:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/EBTPCXTITZBDZMMLS553Z3KAHY.png?auth=7aeba2ca1a9ca3eb28e4386e9c55b0531d2a81e239857ebf8e75fe0ac69bc640&smart=true&width=1200&height=630&quality=85"
-    },
-    {
       "titulo": "Cuba. Falleció Delio Gómez Ochoa, el comandante cubano que luchó por la liberación de República Dominicana - Resumen Latinoamericano -",
       "fuente": "Resumen Latinoamericano -",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnVHSURhb3Qyd3M4MlBISER0ODJvamlXT2dFOGJyRUZ5UTFYZTVhN095clI5Nlpmb0FsR2VDR2ZZb3JpVURIbW9wczdIejFLYmJMblJBMTFZaDlEajFHa2p6dHRPeU5sYzJXZ0toQVRaQzNYdzR3Vk1YUDZiZlBfSXQyQ0JTY2hlak94TGJjRDNYMFh6WVdRbVB1SFJhaTdPU2ppNFlwUTBIejdFREdwbkZtcDRSZjhma0FMbkxXME84dFpKVmVNbDFkT1dfaUF3RFlBSzh0ODdGQUtOOUp2aEZpbGJqUVpreV8w?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 20:22:50 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOE5qUWZEeGxhRm9VdVBfZmVna1pKZlRQNGFTYnhEQ0J4R1RfbUFKTUl1bTl4ejhvWWxFeklvTFBIWXluY1Y3Y2ZLX1ctZFNZbUZQR19wX0FXX1lTTmNoNm45SExMd0hNQXlKS0xnQUp5UGJqVXBDWHBpRHMxbGRjZVVmbHNKeFE2MU81QmUtX09JbWl6NGdjVldVMnNXQ3ZZQ1JMMjhiZDdDV0p3azIyMjN6dW9JZGZFeFNaX3FQdGhmM21DeGU5enBfQ2Jka2o5MUExbWpEWDRkdTdKd0FwUWNRVjQxbUdnZzBtNUI4OEFYRmRHZHFKbHF1a2QxbmxX0gGbAkFVX3lxTE5rMVVYVzI3cnNxNkNlX0NGU2lnRmE2cllXMlVfeGY3U3VrVW90VG9rdkFkOGFmYVEtV00wM1ZoRTdZT1l5TFl3U0R6WExyWmVKd19OdFdBVElfRHZHQnIyY2FPYnNmeG80YkZSbTRiZDFFeTBfbW1HaFNPQVFrLUk0bVR2NktaTGpDOWNzTi1CZjB1emxiaEp3Vng5eUtTbHRyanZ3Z3JDN21IYm9LS3hzUUU5YkVfY3NkbFJMM2J0UG1HQW1JQ1JSUFNaeWtsWlBmYlN5d2tsZnU5cW5PRnBrY3lHNEJ0aGt5Y2oxdnJic2NxUXFfcTRjbFZSTlRsdXJoMHdhTGw1ZjF5MW1fX21aTUhGVkdWTnNvTFU?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 20:15:00 GMT",
       "imagen": ""
     },
     {
@@ -109,20 +117,12 @@
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/wulc1tmh5daz4fbkuvq1"
     },
     {
-      "titulo": "Melissa Núñez, Miss República Dominicana, demuestra que su gran corazón puede cambiar vidas - Yahoo",
+      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
       "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91SENBUTg0UjdGRTVkSUI4WTRYLUlFd0NxT2E5M2Z6MFJFaUpTYUNSZkdTZHdseVFHSERTcmNYVl9ERi1IOE4yZjIzanpOXzZvQ2dNbTgzT0RlLWpidklVUmY2eFJoLXNIYzRiSmtwdERXZ1dyUTFGUHdR?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "imagen": "https://s.yimg.com/lo/mysterio/api/d2b243f48569d807a30dcadd79b64141cce213e82610c722831438d58fd68df1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F1a5edfeee1b2ea46713d62fed9459c9a.jpg"
-    },
-    {
-      "titulo": "La República Dominicana llega a este miércoles 25 de noviembre con una herida abierta y una deuda institucional que cobra vidas. Con un saldo que supera los 80 feminicidios en lo que va del 2026, el país conmemora el Día Internacional de la Eliminación - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41TElWc25lVmlpdno1UHdFXzlhOWFXT1FubFloS1BLdUVrQ2R4UXpkSTBMRTBrSlZ4Z09KRDh1ZXJkaTQ3UzVkNGlwT3hXSEtDbVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 12:30:11 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/929801911_1156576453687946_239718417156770972_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CUw0QKfGdV0Q7kNvwE0eBB7&_nc_oc=Adq2vtaozpa99s-jGajRXLGpfjB0Q2UelSlr3iq4x9x9RV_cnFj6KeGap97NHl7qFkA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=OUTkTetArv8hOLejwQbXIw&_nc_ss=79789&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQ4dGWHMYCO3ub2MXS8v0pdYgdPEZreFqgRsRCwKtlyjw&oe=6B0CEBA2"
+      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     }
   ]
 }

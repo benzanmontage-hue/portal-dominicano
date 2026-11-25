@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T16:28:00.221648-04:00",
-  "hora": "16:28",
+  "updated": "2026-11-25T16:38:22.598060-04:00",
+  "hora": "16:38",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "losc - bayern",
+      "trafico": "100+",
+      "noticia": "Lille OSC - Bayern Munich : les compositions officielles",
+      "enlace": "https://www.footmercato.net/a6998334376709282955-lille-osc-bayern-munich-les-compositions-officielles",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvNCvKp5pI5vaXqVq4HSXC29o9iGGicHTstW04FxzTUxPRWByp2VyuDwL0Sug"
+    },
     {
       "termino": "paris-sg – roma",
       "trafico": "200+",
@@ -29,13 +36,13 @@
     {
       "termino": "psg - roma",
       "trafico": "500+",
-      "noticia": "Luis Enrique names 23 for PSG vs Roma; Lucas Digne included",
-      "enlace": "https://www.tufutbolero.com/en/news/luis-enrique-names-23-for-psg-vs-roma-lucas-digne-included-911a40",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1Hxo8J4DF7Z78Igcz2dUdBXSu5dF66uxbxjPb5-U14WudEYZNYiG593CcIU"
+      "noticia": "Licensable picture: UEFA Champions League - Paris St Germain v AS Roma",
+      "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-paris-st-germain-v-as-roma/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxSzFQSEU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPOJZDD3TSA7p-QUK_AxO7PYGNGgOOfq33kWkUPeVxFZP622DNnyiPlpcjIVU"
     },
     {
       "termino": "atlético madrid - viking",
-      "trafico": "200+",
+      "trafico": "1000+",
       "noticia": "Licensable picture: UEFA Champions League - Atletico Madrid v Viking",
       "enlace": "https://www.reutersconnect.com/item/uefa-champions-league-atletico-madrid-v-viking/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxSzBJSDk",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4uUlIuZHZ4KlUizcokDqkvoSrpm947ZR64v0V5CNGVp_YaClam3L357MBh3Q"
@@ -57,9 +64,9 @@
     {
       "termino": "liga de campeones de la uefa",
       "trafico": "200+",
-      "noticia": "Atlético - Viking, en directo: última hora de la fase liga de la Champions League, hoy en vivo",
-      "enlace": "https://as.com/futbol/champions/atletico-viking-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-f202611-d/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaFeYMIDm5icGWg6-LWspwduPtJTBncwMjewm7ErdeCHWNZGpMqnwqgl9quuo"
+      "noticia": "VIDEO: excelente jugada y asistencia de Soulé para el 1-0 de Roma vs. PSG",
+      "enlace": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17561652/video-gol-hermoso-asistencia-de-soule-psg-vs-roma-fase-liga-fecha-5-champions-league",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDJYGzFIIoOSRnHmX-zAnyJL0Tqg6j6WztGqcbP4gTA0hf7Szn8-uWusAA8M"
     },
     {
       "termino": "slavia praga - villarreal",
@@ -67,13 +74,6 @@
       "noticia": "Preview: Slavia Prague vs Villarreal - prediction, team news, lineups",
       "enlace": "https://www.sportsmole.co.uk/football/villarreal/champions-league/preview/slavia-prague-vs-villarreal-prediction-team-news-lineups_609704.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrvl-9thFsOibWDLJYywpj1mPy4XsnlUnacSxBWWbDro5sFEC-W5jvrGrmpJw"
-    },
-    {
-      "termino": "arajet",
-      "trafico": "500+",
-      "noticia": "Arajet lanza sus ofertas desde US$78 por Black Friday a varios destinos",
-      "enlace": "https://eldia.com.do/arajet-lanza-sus-ofertas-desde-us78-por-black-friday/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyh8_r2IJUSeDzlzpT4tP3jEZxMhrrp_mF3zlaBIJm-lU91ZgnY5seUkqrsY"
     }
   ]
 }
