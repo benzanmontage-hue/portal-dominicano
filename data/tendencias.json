@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-24T20:27:07.800850-04:00",
-  "hora": "20:27",
+  "updated": "2026-11-24T20:37:29.524603-04:00",
+  "hora": "20:37",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "magic - pistons",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Magic seek 4-0 NBA Cup mark as Pistons visit",
       "enlace": "https://www.cbssports.com/nba/news/magic-seek-4-0-nba-cup-mark-as-pistons-visit/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVS_Dfwi6YOUxVlTT8cpuBrOWIIW0D95bd7kV7rIDcjN6zoiAtu8umSMSjrxQ"
@@ -24,7 +24,7 @@
       "trafico": "100+",
       "noticia": "This year’s Miss Universe pageant is a hot mess. And it’s spectacular.",
       "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJzRLv2nd3d61OqOzxPn_xhpEvMC23jqeuvxchIB31YGsWfxzMMrdIC8c6ovc"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNGKhDtd5IHLVIqyt1AEt3fTZ-VO_thuY6sGGyRySCFKEaTxBoIfK4k6kusN4"
     },
     {
       "termino": "delio gómez ochoa",
@@ -43,9 +43,9 @@
     {
       "termino": "classement real madrid – psv eindhoven",
       "trafico": "1000+",
-      "noticia": "Real Madrid : Fede Valverde recadre ses coéquipiers",
-      "enlace": "https://www.footmercato.net/a8174654027359470089-real-madrid-fede-valverde-recadre-ses-coequipiers",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFn16WrRg6_iRy6WGv0tNwVzjfFMeV-yT_9G2dfrQbJMW5_Mas6RYNuYuwYyw"
+      "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
+      "enlace": "https://www.footmercato.net/a1130680736837077524-ligue-des-champions-le-real-madrid-ecrase-le-psv-arsenal-et-dortmund-dos-a-dos-cherki-offre-le-nul-a-manchester-city-face-a-naples",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
     },
     {
       "termino": "a que hora es el miss universo 2026",
@@ -53,13 +53,6 @@
       "noticia": "Miss Universo 2026 celebra su gala final este martes en Puerto Rico",
       "enlace": "https://acento.com.do/entretenimientos/miss-universo-2026-celebra-su-gala-final-este-martes-en-puerto-rico-9795940.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYcaAefoVoOwvjoMakklgHGpDKKFp-aaVjGWJhDT8Ru8ap1K_K17ZDeL2JF9s"
-    },
-    {
-      "termino": "posiciones de real madrid contra psv",
-      "trafico": "5000+",
-      "noticia": "Hasta que Bellingham hizo magia",
-      "enlace": "https://as.com/futbol/primera/hasta-que-bellingham-hizo-magia-f202611-n/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcUd97-CAUAUfUyNz6KXsBUVb5tvbk8rE0isb6O2MEvr_bdPh57V3zTBr_0n8"
     },
     {
       "termino": "manchester city – naples",
@@ -71,9 +64,16 @@
     {
       "termino": "ligue des champions",
       "trafico": "100+",
-      "noticia": "RB Leipzig-RC Lens : les notes du match",
-      "enlace": "https://www.footmercato.net/a5426385389998045803-rb-leipzig-rc-lens-les-notes-du-match",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTii4vMQxWTz4PO-XoZkXgPMX3ueEBX9aFL1Gfdz1YCTkmuzU42jMy3PcG0Yfc"
+      "noticia": "Ligue des Champions : El Aynaoui n’accable pas Lens",
+      "enlace": "https://www.footmercato.net/a6244680159690373428-ligue-des-champions-el-aynaoui-naccable-pas-lens",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJh7mq-pjnBktCQTfOG4q117NAVHuutqtlYOo8RvOf54pYsnn3QWODSVbiMo"
+    },
+    {
+      "termino": "como - aek",
+      "trafico": "100+",
+      "noticia": "VIDEO: resumen de Como vs. AEK por la UEFA Champions League",
+      "enlace": "https://espndeportes.espn.com/futbol/europa/nota/_/id/17557660/video-resumen-como-vs-aek-uefa-champions-league",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoC8ikUeeCgyXIPkuw9UpjKI0BtBXgSsP0ssF8l4AHXxr_OxXQBYt2Bce2H-0"
     }
   ]
 }
