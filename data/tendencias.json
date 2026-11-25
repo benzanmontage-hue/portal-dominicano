@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T23:25:22.901010-04:00",
-  "hora": "23:25",
+  "updated": "2026-11-24T23:35:45.731092-04:00",
+  "hora": "23:35",
   "fecha": "24/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -29,9 +29,9 @@
     {
       "termino": "miss universe",
       "trafico": "200+",
-      "noticia": "The best and wildest costumes from the Miss Universe pageant",
-      "enlace": "https://www.washingtonpost.com/style/interactive/2026/11/23/best-wildest-costumes-miss-universe-pageant/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKk15ZurvEX7ACNQxjkrI4uf1cMKlc5dytBsIg8C53mNqG8JLXbPVpt59P0E"
+      "noticia": "This year’s Miss Universe pageant is a hot mess. And it’s spectacular.",
+      "enlace": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNGKhDtd5IHLVIqyt1AEt3fTZ-VO_thuY6sGGyRySCFKEaTxBoIfK4k6kusN4"
     },
     {
       "termino": "magic - pistons",
@@ -55,8 +55,15 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6Ju0popQxXAT_kFqoaqfTfGaoPnm62OwKheLlCNIRcKTqtgqP74S5SEUH_c"
     },
     {
-      "termino": "delio gómez ochoa",
+      "termino": "miss universo",
       "trafico": "500+",
+      "noticia": "¿Será este el año de la segunda corona de RD en Miss Universo?",
+      "enlace": "https://elnacional.com.do/fama-y-vida/tendencias/sera-ano-segunda-corona-rd-miss-universo_587097.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRNgwM5iqEgDrSX5SGQqQFqYUsNRoZOO9YirIfAJlFfblhwoilCEMsvG-6Wcc"
+    },
+    {
+      "termino": "delio gómez ochoa",
+      "trafico": "1000+",
       "noticia": "Abinader dispone tres días de duelo oficial por la muerte de Delio Gómez Ochoa",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/abinader-dispone-tres-dias-de-duelo-por-muerte-de-delio-gomez-ochoa/3730592",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK1CeIMvVEXIaEDM4oNhRMutvP78XCjPK-z59nzUyVk3Nk3d1J02ZnUZ2Yvc"
@@ -67,13 +74,6 @@
       "noticia": "¿Por qué España recomienda a dominicanos solicitar visado con el nuevo pasaporte electrónico?",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/recomendacion-del-consulado-sobre-pasaporte-electronico-dominicano/3730327",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_fSBBZO00iCZMO6rPId1Mc7Jk45vFbLDPfUeJrR1ivdjtYLW6_72jhdKsO8"
-    },
-    {
-      "termino": "classement real madrid – psv eindhoven",
-      "trafico": "1000+",
-      "noticia": "Ligue des Champions : le Real Madrid écrase le PSV, Arsenal et Dortmund dos à dos, Cherki offre le nul à Manchester City face à Naples",
-      "enlace": "https://www.footmercato.net/a1130680736837077524-ligue-des-champions-le-real-madrid-ecrase-le-psv-arsenal-et-dortmund-dos-a-dos-cherki-offre-le-nul-a-manchester-city-face-a-naples",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYEX98rgFB2nDLezZx-NRM8qt71OyqPflW_SAng1TA-LZLVcuu9QwU-oUWnmI"
     }
   ]
 }
