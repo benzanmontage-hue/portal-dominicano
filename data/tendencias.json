@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T22:02:19.082171-04:00",
-  "hora": "22:02",
+  "updated": "2026-11-25T22:12:40.722235-04:00",
+  "hora": "22:12",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,13 +8,13 @@
     {
       "termino": "thunder - timberwolves",
       "trafico": "100+",
-      "noticia": "The Thunder Must Show They Can Still Win Big Games",
-      "enlace": "https://sports.yahoo.com/nba/articles/thunder-must-show-still-win-181829294.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5DaHB86COhrNy11Pv0F-FRRifbkKa31vxQwMlOplN0DPJxgxdAY1aQGV69sA"
+      "noticia": "NBA: Minnesota Timberwolves at Oklahoma City Thunder",
+      "enlace": "https://www.reutersconnect.com/item/nba-minnesota-timberwolves-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NDg0MTc",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS665bLULyqSqDsLh8CPZUlKLbJDBgB5E4Lgfps1HtIw53aBgyBwYXwW5Sjw3s"
     },
     {
       "termino": "boca juniors - independiente rivadavia",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Boca vs. Independiente Rivadavia, por el Torneo Clausura: seguilo EN VIVO",
       "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-independiente-riv-m-llave-8-id772707.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZxa7SnCdnpJuV9hAQ3IbflyHIa-oSeFvckKFkBNdN94wRIHdiq2TUB1JHJAA"
@@ -34,13 +34,6 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
-      "termino": "lebron james",
-      "trafico": "200+",
-      "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
-      "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
-    },
-    {
       "termino": "turquía",
       "trafico": "200+",
       "noticia": "Erdogan extiende la alfombra roja a Hifter mientras Turquía deja atrás Libia.",
@@ -50,8 +43,8 @@
     {
       "termino": "76ers - heat",
       "trafico": "2000+",
-      "noticia": "Heat look to extend win streak, clinch NBA Cup group vs. 76ers",
-      "enlace": "https://www.cbssports.com/nba/news/heat-look-to-extend-win-streak-clinch-nba-cup-group-vs-76ers/",
+      "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
@@ -74,6 +67,13 @@
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
+    },
+    {
+      "termino": "club brujas - liverpool",
+      "trafico": "200+",
+      "noticia": "All coming together  - Isak repaying Liverpool faith",
+      "enlace": "https://www.bbc.com/sport/football/articles/cqm2l0gelkzxo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNvfI24wwEpOO6sBUX-meZZ8uAVi1ZYnh2Wky6ohnEF9e0S-MDGuGR17WIyuQ"
     }
   ]
 }
