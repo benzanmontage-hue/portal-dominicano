@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T22:12:40.722235-04:00",
-  "hora": "22:12",
+  "updated": "2026-11-25T22:23:02.365315-04:00",
+  "hora": "22:23",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -8,16 +8,16 @@
     {
       "termino": "thunder - timberwolves",
       "trafico": "100+",
-      "noticia": "NBA: Minnesota Timberwolves at Oklahoma City Thunder",
-      "enlace": "https://www.reutersconnect.com/item/nba-minnesota-timberwolves-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NDg0MTc",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS665bLULyqSqDsLh8CPZUlKLbJDBgB5E4Lgfps1HtIw53aBgyBwYXwW5Sjw3s"
+      "noticia": "Live: Explosive Wolves face Thunder in first road game in ages",
+      "enlace": "https://www.startribune.com/minnesota-timberwolves-oklahoma-city-thunder-score-today-lamelo-ball-stats-anthony-edwards-injury/601916813",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeioGDi-48oChCJmOYDXAy8PY4Yx5-cqk3W7vRsEiAOhDBQCc5dHpJ7QABkVQ"
     },
     {
       "termino": "boca juniors - independiente rivadavia",
       "trafico": "200+",
-      "noticia": "Boca vs. Independiente Rivadavia, por el Torneo Clausura: seguilo EN VIVO",
+      "noticia": "Boca cambió el chip, venció a Independiente Riv. y se medirá con Gimnasia (LP) en cuartos: reviví lo mejor",
       "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-independiente-riv-m-llave-8-id772707.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZxa7SnCdnpJuV9hAQ3IbflyHIa-oSeFvckKFkBNdN94wRIHdiq2TUB1JHJAA"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymC1X4Jh6XZsaV6AbinUt4sONI65Dl4hr85-m_26ziCY2ZeHz1x5lmmY5bsA"
     },
     {
       "termino": "albert pujols",
@@ -34,17 +34,24 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
+      "termino": "lebron james",
+      "trafico": "200+",
+      "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+    },
+    {
       "termino": "turquía",
       "trafico": "200+",
-      "noticia": "Erdogan extiende la alfombra roja a Hifter mientras Turquía deja atrás Libia.",
-      "enlace": "https://www.al-monitor.com/es/originals/2026/11/erdogan-extiende-la-alfombra-roja-hifter-mientras-turquia-deja-atras-libia",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjl5ynmlknzdE62d55qZnxMcR0nwCZkm2LiNQT2BHxbPxZ6s7JRiuIB79X1Eg"
+      "noticia": "El fracaso de la COP que el mundo necesitaba",
+      "enlace": "https://acento.com.do/ecologia/el-fracaso-de-la-cop-que-el-mundo-necesitaba-9796317.html",
+      "imagen": ""
     },
     {
       "termino": "76ers - heat",
       "trafico": "2000+",
-      "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
-      "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
+      "noticia": "Heat look to extend win streak, clinch NBA Cup group vs. 76ers",
+      "enlace": "https://www.cbssports.com/nba/news/heat-look-to-extend-win-streak-clinch-nba-cup-group-vs-76ers/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
@@ -62,18 +69,11 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv3gpkY5bH4crSrKRiXkSMqYeI5__mAKRuVPw1xUrCrW6aLAmuGxysI1JK-zU"
     },
     {
-      "termino": "consulta bono navideño",
+      "termino": "bono navideño",
       "trafico": "1000+",
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
-    },
-    {
-      "termino": "club brujas - liverpool",
-      "trafico": "200+",
-      "noticia": "All coming together  - Isak repaying Liverpool faith",
-      "enlace": "https://www.bbc.com/sport/football/articles/cqm2l0gelkzxo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNvfI24wwEpOO6sBUX-meZZ8uAVi1ZYnh2Wky6ohnEF9e0S-MDGuGR17WIyuQ"
     }
   ]
 }
