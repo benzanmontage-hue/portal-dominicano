@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T21:31:16.221593-04:00",
-  "hora": "21:31",
+  "updated": "2026-11-25T21:41:39.102282-04:00",
+  "hora": "21:41",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -13,6 +13,13 @@
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymC1X4Jh6XZsaV6AbinUt4sONI65Dl4hr85-m_26ziCY2ZeHz1x5lmmY5bsA"
     },
     {
+      "termino": "albert pujols",
+      "trafico": "100+",
+      "noticia": "Silver Slugger Awards feature 13 first-time winners",
+      "enlace": "https://www.mlb.com/news/2026-silver-slugger-award-winners",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTilEjW6TFLvYHrMVgnCsWru1WrTV9oHW1mzFU5FUoBXPro-GY6q4Ppk2v_U3E"
+    },
+    {
       "termino": "knicks - cavaliers",
       "trafico": "200+",
       "noticia": "Knicks seek sixth straight win against Cavaliers in NBA Cup",
@@ -21,7 +28,7 @@
     },
     {
       "termino": "lebron james",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
       "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
@@ -43,14 +50,14 @@
     {
       "termino": "inter - stuttgart",
       "trafico": "100+",
-      "noticia": "Liveblog zur CL-Reise nach Mailand: Wie die VfB-Fans das San Siro gerockt haben",
-      "enlace": "https://www.zvw.de/vfb-stuttgart/liveblog-zur-cl-reise-nach-mailand-wie-die-vfb-fans-das-san-siro-gerockt-haben_arid-1106281",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd3Rbi8Tnion8_zzyimLkFUOkrUYdFqqYq8qSAE9OJ0tvBop3pHEoK7SkVJqU"
+      "noticia": "Diskussionen um Platzverweis und Elfmeter: Schiedsrichter-Frust verhindert VfB-Sieg",
+      "enlace": "https://www.absolutfussball.com/deutschland/vfb-stuttgart/vfb-fans-hadern-nach-pleite-bei-inter-mailand-mit-dem-schiedsrichter-94608581.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvafiEu7aIZhC58uggqSG28ijOgYInE5uiaGBRf7WQAPpcVENaPZCfCuTXxAI"
     },
     {
       "termino": "sporting – man utd",
       "trafico": "100+",
-      "noticia": "Sporting CP vs Manchester United: UEFA Champions League stats   head-to-head",
+      "noticia": "Four goals, chaos and controversy - Man Utd held in Lisbon",
       "enlace": "https://www.bbc.com/sport/football/live/crkgv8v0gdwkt",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv3gpkY5bH4crSrKRiXkSMqYeI5__mAKRuVPw1xUrCrW6aLAmuGxysI1JK-zU"
     },
@@ -67,13 +74,6 @@
       "noticia": "Club Brugge 0-3 Liverpool: Alexander Isak and Florian Wirtz score in Champions League win",
       "enlace": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYazfw2XG7eA8ye9gTTUEaffsFpztiW5Q9gQ65eyTaHyTlvfQvjhl57AiVp1k"
-    },
-    {
-      "termino": "losc - bayern",
-      "trafico": "500+",
-      "noticia": "Ligue des Champions, LOSC : Davide Ancelotti porté en triomphe par ses joueurs",
-      "enlace": "https://www.footmercato.net/a3356398017507086216-ligue-des-champions-losc-davide-ancelotti-porte-en-triomphe-par-ses-joueurs",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIR9kILeVjYonkGEy0cGeep1YrqQGe6_fEt5Hc7NMdVo9deSM7fctj-CQgHCo"
     }
   ]
 }
