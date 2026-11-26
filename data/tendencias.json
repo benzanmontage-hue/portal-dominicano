@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T21:41:39.102282-04:00",
-  "hora": "21:41",
+  "updated": "2026-11-25T21:51:58.365565-04:00",
+  "hora": "21:51",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "thunder - timberwolves",
+      "trafico": "100+",
+      "noticia": "The Thunder Must Show They Can Still Win Big Games",
+      "enlace": "https://sports.yahoo.com/nba/articles/thunder-must-show-still-win-181829294.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5DaHB86COhrNy11Pv0F-FRRifbkKa31vxQwMlOplN0DPJxgxdAY1aQGV69sA"
+    },
     {
       "termino": "boca juniors - independiente rivadavia",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
-    },
-    {
-      "termino": "club brujas - liverpool",
-      "trafico": "200+",
-      "noticia": "Club Brugge 0-3 Liverpool: Alexander Isak and Florian Wirtz score in Champions League win",
-      "enlace": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYazfw2XG7eA8ye9gTTUEaffsFpztiW5Q9gQ65eyTaHyTlvfQvjhl57AiVp1k"
     }
   ]
 }
