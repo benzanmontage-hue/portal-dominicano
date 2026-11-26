@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T11:21:52.175486-04:00",
-  "hora": "11:21",
+  "updated": "2026-11-26T11:32:19.918362-04:00",
+  "hora": "11:32",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "happy thanksgiving",
+      "trafico": "200+",
+      "noticia": "New York Jets News: Happy Thanksgiving, Spend Time With Your Loved Ones",
+      "enlace": "https://sports.yahoo.com/nfl/articles/york-jets-news-happy-thanksgiving-120000500.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRibKqxTpzMDNtdJBqe3wDy6r-CUaBG7E8KEeD-2Exp8--Cu16jiUh6kKOHHmA"
+    },
     {
       "termino": "diario libre",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Minnesota Timberwolves vs. Oklahoma City Thunder Live Score and Stats - November 25, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261125_MIN@OKC/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwg2JJ2rJK9KY6LDr6-aQrX5jQ-7Asf2NTNsFpSAXwCpzHqIafC5lzctl7eiY"
-    },
-    {
-      "termino": "boca juniors - independiente rivadavia",
-      "trafico": "200+",
-      "noticia": "Boca es imparable: dos golazos y a cuartos del Clausura",
-      "enlace": "https://www.ole.com.ar/futbol-primera/boca-vs-independiente-rivadavia-partido-torneo-clausura-octavos-final-vivo-formaciones-horario-tv_0_WGtIsEIw48.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHMk2OtskLc5uQbkUeRHtxM1w_Ig2tBBzYOTIjq7M_HTPHBXo5AeJrVorlQlM"
     }
   ]
 }
