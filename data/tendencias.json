@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T20:59:59.315487-04:00",
-  "hora": "20:59",
+  "updated": "2026-11-25T21:10:31.185485-04:00",
+  "hora": "21:10",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "boca juniors - independiente rivadavia",
+      "trafico": "100+",
+      "noticia": "Boca vs. Independiente Rivadavia, por el Torneo Clausura: seguilo EN VIVO",
+      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-independiente-riv-m-llave-8-id772707.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSym026UN9Jdcy2DbUISiWmpNMmRN6u1mMh-WhvxTyFhz2kX0do7tjb8NrRK7g"
+    },
     {
       "termino": "knicks - cavaliers",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "lebron james",
       "trafico": "100+",
-      "noticia": "“Don’t Get It Twisted”: Erik Spoelstra Warns Heat Not to Take LeBron James Lightly Despite Reduced 76ers Role",
-      "enlace": "https://twaslnews1.twaslnews.com/8260102/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6EgrYGRG7Ee9xa61g_rB4jEQQOP1NDdvdaJ5cs-P0QN8q8mzbtCUa2wHkQ48"
+      "noticia": "LeBron James notches first 76ers triple-double in win over Heat",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-notches-first-76ers-triple-double-in-win-over-heat/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
       "termino": "turquía",
@@ -64,16 +71,9 @@
     {
       "termino": "losc - bayern",
       "trafico": "500+",
-      "noticia": "Le Bayern Munich a subi une défaite surprise en l absence de Harry Kane.",
-      "enlace": "https://www.vietnam.vn/fr/bayern-munich-thua-soc-ngay-vang-harry-kane",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAfkJPTzOyExzxwPh_2jVN636eNY4T2hKybYnK5WvKUxhZhFtUgSAf3lus_M0"
-    },
-    {
-      "termino": "sporting lisboa - manchester united",
-      "trafico": "500+",
-      "noticia": "Sporting CP 2 - Manchester United 2: resumen, resultado y goles del partido",
-      "enlace": "https://as.com/futbol/champions/sporting-cp-manchester-united-en-directo-champions-league-en-vivo-hoy-f202611-d/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_-SVKxL1nfJ58wDuCpHfpyd7Cj-lkxMg80iG6-OnXU654kckJsPmC4E_mr80"
+      "noticia": "Ligue des Champions, LOSC : Davide Ancelotti porté en triomphe par ses joueurs",
+      "enlace": "https://www.footmercato.net/a3356398017507086216-ligue-des-champions-losc-davide-ancelotti-porte-en-triomphe-par-ses-joueurs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIR9kILeVjYonkGEy0cGeep1YrqQGe6_fEt5Hc7NMdVo9deSM7fctj-CQgHCo"
     }
   ]
 }
