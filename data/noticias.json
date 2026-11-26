@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T18:20:05.313049-04:00",
-  "hora": "18:20",
+  "updated": "2026-11-26T18:30:27.912044-04:00",
+  "hora": "18:30",
   "fecha": "26/11/2026",
   "total": 15,
   "noticias": [
@@ -77,14 +77,6 @@
       "imagen": ""
     },
     {
-      "titulo": "El buque cubano varado en República Dominicana provoca una crisis ambiental - DIARIO DE CUBA",
-      "fuente": "DIARIO DE CUBA",
-      "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81eHN6Y0MzOXNiaTRLd280MXo2RWp4Vl90cUtiZ3FRRjVSdTVXb1Y4alhfX1NlbTFqd3pIcndxLUI4TXo0RWZyemdKZUo1TDUwM0YyNUt5LVJFU1Q1dXkzMg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 21:00:45 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
       "fuente": "ESPN Deportes",
       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
@@ -99,6 +91,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 09:02:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Los vehículos usados representan 6 de cada 10 unidades ingresadas a República Dominicana - Infobae",
+      "fuente": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEloV2VNV05NaGllbWZRUW0zeDdmeFNvenpJRnBHWWxNVVMtSnBLYW1mY09aRU9YdEp6NGpEbl9pcHBkSjdzRWRlWjBwN2dVWVhTcjdJa19LRkxSdThSZnZRSzR3Wm96X1NHLUoxazRYcVh6V0oteHV3d1BMZHc3Z0VIMC1kZ2l2QkUySjM3TW83b3J0c0xUT2xVOTBSUXJTRFFfZ2hadXNNY1RCWllZX3NCVDV0V21ERHpKYk4yN2RTajl3SzRJRkttZEtvZkZMVkxrb0JxMWdyaVE5Q1HSAfgBQVVfeXFMTk5WbHdBTDRmUTM4djQ0akxZV1pOc3dlb05JajBhUzgxWTNfd0ZmR1VXbUszdVlMSDM2eW1NTldocVVyRDJzZ0FKZ2dMdHlCX0ZKQXJaNHM0clFKYW9zOExwYVBZSFRzZHkxcVZFTmUtbFRuVUxGZXNfMnVOVTQybFY1OVR5ZkpYdkJ0Wm4tNHRjaFlGMUQ5QmJYYkI2TTVCcjZ3MXZieDV1d21BbDhIQVVsdkRXMy1SX0p3QXRNcmRTVXZUc2FxTk90T2VCTk44dVEyS1FLdlBGYUVURFk5RTlJZkpqRE5tQlVBcURqSU9mNTFwSUVqUTI?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
@@ -117,11 +117,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Los vehículos usados representan 6 de cada 10 unidades ingresadas a República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEloV2VNV05NaGllbWZRUW0zeDdmeFNvenpJRnBHWWxNVVMtSnBLYW1mY09aRU9YdEp6NGpEbl9pcHBkSjdzRWRlWjBwN2dVWVhTcjdJa19LRkxSdThSZnZRSzR3Wm96X1NHLUoxazRYcVh6V0oteHV3d1BMZHc3Z0VIMC1kZ2l2QkUySjM3TW83b3J0c0xUT2xVOTBSUXJTRFFfZ2hadXNNY1RCWllZX3NCVDV0V21ERHpKYk4yN2RTajl3SzRJRkttZEtvZkZMVkxrb0JxMWdyaVE5Q1HSAfgBQVVfeXFMTk5WbHdBTDRmUTM4djQ0akxZV1pOc3dlb05JajBhUzgxWTNfd0ZmR1VXbUszdVlMSDM2eW1NTldocVVyRDJzZ0FKZ2dMdHlCX0ZKQXJaNHM0clFKYW9zOExwYVBZSFRzZHkxcVZFTmUtbFRuVUxGZXNfMnVOVTQybFY1OVR5ZkpYdkJ0Wm4tNHRjaFlGMUQ5QmJYYkI2TTVCcjZ3MXZieDV1d21BbDhIQVVsdkRXMy1SX0p3QXRNcmRTVXZUc2FxTk90T2VCTk44dVEyS1FLdlBGYUVURFk5RTlJZkpqRE5tQlVBcURqSU9mNTFwSUVqUTI?oc=5",
+      "titulo": "República Dominicana es el escenario elegido para el cierre de “Mejor tarde que nunca”, la exitosa gira mundial que ha unido a Romeo Santos y Prince Royce, dos de las figuras más importantes de la bachata y la música latina.⁣ ⁣ Bajo la producción de Ri - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWmhqT0FBdHp3SWFxWFRETkJ4OGZPMnE1MFlleWwwVkFsWVN3WlN2QVlzZHNRa3F3dmVKekhQQzFyb2JIa3ExZWpWYTBMZm1hMVE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "fecha": "Wed, 25 Nov 2026 14:45:05 GMT",
       "imagen": ""
     }
   ]
