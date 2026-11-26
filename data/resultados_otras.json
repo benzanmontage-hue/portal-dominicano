@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:24:24.886197-04:00",
+ "updated": "2026-11-26T12:34:50.986552-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -393,11 +393,11 @@
    "compania": "King Lottery",
    "juego": "King Lottery Día",
    "numeros": [
-    "26",
-    "14",
-    "11"
+    "27",
+    "47",
+    "92"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d66a"
   },
   {
@@ -415,12 +415,12 @@
    "compania": "King Lottery",
    "juego": "Loto Pool Día",
    "numeros": [
-    "27",
-    "21",
-    "95",
-    "66"
+    "58",
+    "42",
+    "13",
+    "98"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d646"
   },
   {
@@ -439,11 +439,9 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Día",
    "numeros": [
-    "2039",
-    "8724",
-    "3002"
+    "0779"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d676"
   },
   {
@@ -461,11 +459,11 @@
    "compania": "King Lottery",
    "juego": "Pick 3 Día",
    "numeros": [
-    "8",
+    "0",
     "2",
-    "6"
+    "7"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d652"
   },
   {
@@ -483,12 +481,12 @@
    "compania": "King Lottery",
    "juego": "Pick 4 Día",
    "numeros": [
-    "1",
     "4",
-    "1",
-    "1"
+    "7",
+    "9",
+    "2"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d65e"
   },
   {
