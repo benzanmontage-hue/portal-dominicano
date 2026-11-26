@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-25T20:49:30.267808-04:00",
-  "hora": "20:49",
+  "updated": "2026-11-25T20:59:59.315487-04:00",
+  "hora": "20:59",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "knicks - cavaliers",
+      "trafico": "200+",
+      "noticia": "Knicks seek sixth straight win against Cavaliers in NBA Cup",
+      "enlace": "https://www.cbssports.com/nba/news/knicks-seek-sixth-straight-win-against-cavaliers-in-nba-cup/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+    },
+    {
       "termino": "lebron james",
       "trafico": "100+",
-      "noticia": "Spoelstra Praises LeBron James Ahead of Heat 76ers Clash",
-      "enlace": "https://www.limapagi.id/en/spoelstra-praises-lebron-james",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS32MAPz1-p4PMBhiJPkYcxrYOonnlm2LDrkt-O4veJXOinELpGyIvKy1YtLBY"
+      "noticia": "“Don’t Get It Twisted”: Erik Spoelstra Warns Heat Not to Take LeBron James Lightly Despite Reduced 76ers Role",
+      "enlace": "https://twaslnews1.twaslnews.com/8260102/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6EgrYGRG7Ee9xa61g_rB4jEQQOP1NDdvdaJ5cs-P0QN8q8mzbtCUa2wHkQ48"
     },
     {
       "termino": "turquía",
@@ -29,9 +36,9 @@
     {
       "termino": "inter - stuttgart",
       "trafico": "100+",
-      "noticia": "Champions League: Florian Wirtz trifft schon wieder, Stuttgart scheitert in Mailand",
-      "enlace": "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgFdxO2JTzDdj8aIGqAiMrXwDNqu-0N1Pg8yXJU9x0I7OMExqQ-IdIGnHehsM"
+      "noticia": "Liveblog zur CL-Reise nach Mailand: Wie die VfB-Fans das San Siro gerockt haben",
+      "enlace": "https://www.zvw.de/vfb-stuttgart/liveblog-zur-cl-reise-nach-mailand-wie-die-vfb-fans-das-san-siro-gerockt-haben_arid-1106281",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd3Rbi8Tnion8_zzyimLkFUOkrUYdFqqYq8qSAE9OJ0tvBop3pHEoK7SkVJqU"
     },
     {
       "termino": "sporting – man utd",
@@ -41,7 +48,7 @@
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv3gpkY5bH4crSrKRiXkSMqYeI5__mAKRuVPw1xUrCrW6aLAmuGxysI1JK-zU"
     },
     {
-      "termino": "bono navideño",
+      "termino": "consulta bono navideño",
       "trafico": "1000+",
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
@@ -50,9 +57,9 @@
     {
       "termino": "club brujas - liverpool",
       "trafico": "200+",
-      "noticia": "All coming together  - Isak repaying Liverpool faith",
-      "enlace": "https://www.bbc.com/sport/football/articles/cqm2l0gelkzxo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNvfI24wwEpOO6sBUX-meZZ8uAVi1ZYnh2Wky6ohnEF9e0S-MDGuGR17WIyuQ"
+      "noticia": "Club Brugge 0-3 Liverpool: Alexander Isak and Florian Wirtz score in Champions League win",
+      "enlace": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYazfw2XG7eA8ye9gTTUEaffsFpztiW5Q9gQ65eyTaHyTlvfQvjhl57AiVp1k"
     },
     {
       "termino": "losc - bayern",
@@ -67,13 +74,6 @@
       "noticia": "Sporting CP 2 - Manchester United 2: resumen, resultado y goles del partido",
       "enlace": "https://as.com/futbol/champions/sporting-cp-manchester-united-en-directo-champions-league-en-vivo-hoy-f202611-d/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_-SVKxL1nfJ58wDuCpHfpyd7Cj-lkxMg80iG6-OnXU654kckJsPmC4E_mr80"
-    },
-    {
-      "termino": "paris-sg – roma",
-      "trafico": "1000+",
-      "noticia": "Ligue des Champions, PSG : l’égalisation de la tête signée Zabarnyi",
-      "enlace": "https://www.footmercato.net/a256737593415889797-ligue-des-champions-psg-legalisation-de-la-tete-signee-zabarnyi",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGoQVem6gbVFTweUtTQGZlVJciM-_A2voNi6zttmGvqNRb7eh28lbur3N8V-0"
     }
   ]
 }
