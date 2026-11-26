@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T11:42:46.909712-04:00",
-  "hora": "11:42",
+  "updated": "2026-11-26T11:53:12.550091-04:00",
+  "hora": "11:53",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pepín corripio",
+      "trafico": "200+",
+      "noticia": "Pepín Corripio llama al Estado a actuar con prudencia en el manejo de los subsidios",
+      "enlace": "https://listindiario.com/economia/finanzas/20261126/pepin-corripio-llama-actuar-prudencia-manejo-subsidios_931532.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOP34AmtddMfo92H8dfGempb8WJyMuf-_ytYXv8TNC_FzyzWv85HY39IyH8Ss"
+    },
     {
       "termino": "happy thanksgiving",
       "trafico": "200+",
@@ -43,9 +50,9 @@
     {
       "termino": "trail blazers - spurs",
       "trafico": "500+",
-      "noticia": "“We’re going to have to trust each other” – Damian Lillard breaks down his clutch assist to Deni Avdija in Trail Blazers  win",
-      "enlace": "https://www.basketballnetwork.net/latest-news/damian-lillard-breaks-down-his-clutch-assist-to-deni-avdija-in-trail-blazers-win",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGJ-aD5HQPzFCYpYcbQm14r7BDHqW66YrCTGeMoKGP-hdEc3b6J0ZRTWGH-8"
+      "noticia": "NBA: San Antonio Spurs at Portland Trail Blazers",
+      "enlace": "https://www.reutersconnect.com/item/nba-san-antonio-spurs-at-portland-trail-blazers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTA2NDA%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT6Z_bnyMZH9vW0aL9YCChPZUg0Y7bnf3gMMhpXU3xBCuySRbWhnTiYZtOgYI"
     },
     {
       "termino": "rockets - suns",
@@ -67,13 +74,6 @@
       "noticia": "Estos son los participantes de  La casa de Alofoke 3",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
-    },
-    {
-      "termino": "thunder - timberwolves",
-      "trafico": "200+",
-      "noticia": "Minnesota Timberwolves vs. Oklahoma City Thunder Live Score and Stats - November 25, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261125_MIN@OKC/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwg2JJ2rJK9KY6LDr6-aQrX5jQ-7Asf2NTNsFpSAXwCpzHqIafC5lzctl7eiY"
     }
   ]
 }
