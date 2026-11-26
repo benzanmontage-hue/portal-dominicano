@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-25T20:27:30.666490-04:00",
-  "hora": "20:27",
+  "updated": "2026-11-25T20:37:51.105942-04:00",
+  "hora": "20:37",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "lebron james",
+      "trafico": "100+",
+      "noticia": "“Don’t Get It Twisted”: Erik Spoelstra Warns Heat Not to Take LeBron James Lightly Despite Reduced 76ers Role",
+      "enlace": "https://twaslnews1.twaslnews.com/8260102/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6EgrYGRG7Ee9xa61g_rB4jEQQOP1NDdvdaJ5cs-P0QN8q8mzbtCUa2wHkQ48"
+    },
+    {
+      "termino": "turquía",
+      "trafico": "100+",
+      "noticia": "Erdogan extiende la alfombra roja a Hifter mientras Turquía deja atrás Libia.",
+      "enlace": "https://www.al-monitor.com/es/originals/2026/11/erdogan-extiende-la-alfombra-roja-hifter-mientras-turquia-deja-atras-libia",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjl5ynmlknzdE62d55qZnxMcR0nwCZkm2LiNQT2BHxbPxZ6s7JRiuIB79X1Eg"
+    },
+    {
       "termino": "76ers - heat",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "noticia": "Heat look to extend win streak, clinch NBA Cup group vs. 76ers",
       "enlace": "https://www.cbssports.com/nba/news/heat-look-to-extend-win-streak-clinch-nba-cup-group-vs-76ers/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
@@ -28,7 +42,7 @@
     },
     {
       "termino": "bono navideño",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
       "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
@@ -36,9 +50,9 @@
     {
       "termino": "club brujas - liverpool",
       "trafico": "200+",
-      "noticia": "All coming together  - Isak repaying Liverpool faith",
-      "enlace": "https://www.bbc.com/sport/football/articles/cqm2l0gelkzxo",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNvfI24wwEpOO6sBUX-meZZ8uAVi1ZYnh2Wky6ohnEF9e0S-MDGuGR17WIyuQ"
+      "noticia": "Liverpool are all smiles as Wirtz, Isak start to click",
+      "enlace": "https://www.espn.com/soccer/story/_/id/50598544/liverpool-all-smiles-wirtz-isak-start-click",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9tZsTVJgYwq3y2wpZJVB0j32agkcjzJ07wSSeO9YbwHt-pIWDSaGC03k1FOQ"
     },
     {
       "termino": "losc - bayern",
@@ -60,20 +74,6 @@
       "noticia": "Ligue des Champions, PSG : l’égalisation de la tête signée Zabarnyi",
       "enlace": "https://www.footmercato.net/a256737593415889797-ligue-des-champions-psg-legalisation-de-la-tete-signee-zabarnyi",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGoQVem6gbVFTweUtTQGZlVJciM-_A2voNi6zttmGvqNRb7eh28lbur3N8V-0"
-    },
-    {
-      "termino": "classement sabah football club – fc barcelone",
-      "trafico": "500+",
-      "noticia": "Sabah FK - FC Barcelone : les compositions officielles",
-      "enlace": "https://www.footmercato.net/a5411601019827794844-sabah-fk-fc-barcelone-les-compositions-officielles",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslk2dZAN70koHWYJu7UW7zdQwSk_Ct2YqZ_o2lDvqd7jGy3vhRSaWubPsa_E"
-    },
-    {
-      "termino": "posiciones de sabah futbol klubu contra fc barcelona",
-      "trafico": "1000+",
-      "noticia": "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors  comfortable Champions League win",
-      "enlace": "https://www.bbc.com/sport/football/live/c674232v2gv3t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxnuZIXDJyxSmllaeo90w2XJMQKvNeH-HgYDCXItQMjENUVCHzJ9P-eilxDaE"
     }
   ]
 }
