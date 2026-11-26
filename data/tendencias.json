@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-26T15:12:51.424375-04:00",
-  "hora": "15:12",
+  "updated": "2026-11-26T15:23:30.205261-04:00",
+  "hora": "15:23",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "olympiacos - milan",
+      "trafico": "100+",
+      "noticia": "Milan begin away trip to Olympiacos at 17.45 GMT in Europa League action — Olympiacos Vs Milan",
+      "enlace": "https://twaslnews1.twaslnews.com/8354764/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3KgtmYyxloBKsepslvDiWkThqJvL30SDfor3Z5EDKo0tEEfBgfxn6p-Uu9o"
+    },
+    {
       "termino": "nfl",
       "trafico": "100+",
-      "noticia": "How To Watch The 2026 NFL Thanksgiving Games",
-      "enlace": "https://www.imdb.com/de/news/ni66129236/?ref_=nwc_art_perm",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJVB1QAyT8A1TczHxo2IjjaXA_QLuQsZ5oEBzZs4SBmRlg6CNKy5sISW8Hxks"
+      "noticia": "Where to Stream Thanksgiving NFL Games for Free Online",
+      "enlace": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-thanksgiving-nfl-football-games-online-free-2026-1235664090/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIiGCGPTynkGADloLng3pqEjIY1813qiTJSkXNPOXy9rKeZBtDiB3JR8MK_Ls"
     },
     {
       "termino": "festival",
@@ -43,9 +50,9 @@
     {
       "termino": "diario libre",
       "trafico": "100+",
-      "noticia": "Salió a ganarse el sustento y terminó asesinado de 15 puñaladas en Azua",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/26/muerte-de-motoconchista-azua-roberto-de-los-santos-moron-asesinado/3732294",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJgTQekbZyVe_jc6EWK7iK2nhsnxvI2iKpHktVGboqZuaGXrIIxhKCsdpVQ3Q"
+      "noticia": "Solicitan coerción contra un payaso acusado de agredir sexualmente a seis niñas",
+      "enlace": "https://elnuevodiario.com.do/solicitan-coercion-contra-un-payaso-acusado-de-agredir-sexualmente-a-seis-ninas/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcdiGb5igBt3VW7dmQgijzR28kCGoD4X-rs_-5fYTAmJVFOlFLhkRZja-dFA"
     },
     {
       "termino": "lidom",
@@ -67,13 +74,6 @@
       "noticia": "Deni Avdija News: Teases triple-double in win",
       "enlace": "https://www.rotowire.com/basketball/headlines/deni-avdija-news-teases-triple-double-in-win-541084",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScDWEOE2RGW5j9CJlVfn2cRZ8WTvayt9gRPA_8vJ0huT3ydCLA75tkmjoUKQA"
-    },
-    {
-      "termino": "rockets - suns",
-      "trafico": "200+",
-      "noticia": "San Antonio Spurs vs Portland Trail Blazers Nov 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/sas-vs-por-0022600063/box-score",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD56O0XN2exV5nxr8WduOZZbmbP7AUsBAcCHR-4pUiRw2uhACvMUlvokG2UF4"
     }
   ]
 }
