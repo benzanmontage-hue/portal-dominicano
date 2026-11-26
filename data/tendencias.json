@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T17:59:18.703351-04:00",
-  "hora": "17:59",
+  "updated": "2026-11-26T18:09:41.630041-04:00",
+  "hora": "18:09",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "crystal palace - real sociedad",
+      "trafico": "100+",
+      "noticia": "Crystal Palace come back to beat Real Sociedad as Sunderland draw in Europa League",
+      "enlace": "https://www.bbc.com/sport/football/live/c6zxj2ypr4e8t",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE9FJeqIvu4E3gN2ofVqKxp4EqujZxQEjaj7aqPGfoLHRikfKDH_NV5jZLtm0"
+    },
     {
       "termino": "new york dia",
       "trafico": "500+",
@@ -14,10 +21,10 @@
     },
     {
       "termino": "europa league",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Licensable picture: UEFA Europa League - Sparta Prague v AZ Alkmaar",
-      "enlace": "https://www.reutersconnect.com/item/uefa-europa-league-sparta-prague-v-az-alkmaar/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExS05ISTY",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqx6YAt1_quddzDOU72Np2Nf2sfZ-GbaCEVibnAPFXD61veXdcT82Bjts5LKw"
+      "enlace": "https://www.reutersconnect.com/item/uefa-europa-league-sparta-prague-v-az-alkmaar/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExT0g3UE0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHlqWjswVAmLLVtcU7KS8Lk9CoQTSgLcSrbnMYykJ_sSU545VeWjV4AH1WiW0"
     },
     {
       "termino": "olympiacos - milan",
@@ -67,13 +74,6 @@
       "noticia": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
       "enlace": "https://www.reuters.com/world/us/trump-uses-thanksgiving-message-lash-out-political-foes-immigrants-federal-2026-11-26/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9TjhXtOa_uVtxqvt9EIVbHp8LHbSObcyvqRWA93z7IlFPbaqUfcIsoMNOkKM"
-    },
-    {
-      "termino": "diario libre",
-      "trafico": "100+",
-      "noticia": "Piden prisión para payaso acusado de abusar sexualmente de seis niñas",
-      "enlace": "https://listindiario.com/la-republica/20261126/ministerio-publico-acusa-payaso-abusar-sexualmente-seis-ninas_931629.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7osR2MJSSaKzwMvy8sMB0WqvmnsnzOYbYFzW8lZF-ga7F_xY2NxuMFxaG4nA"
     }
   ]
 }
