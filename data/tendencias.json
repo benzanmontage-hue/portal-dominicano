@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-25T23:56:23.747289-04:00",
-  "hora": "23:56",
-  "fecha": "25/11/2026",
+  "updated": "2026-11-26T00:06:45.023204-04:00",
+  "hora": "00:06",
+  "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "trail blazers - spurs",
+      "trafico": "100+",
+      "noticia": "Victor Wembanyama final injury status for Spurs vs Blazers revealed",
+      "enlace": "https://basketnews.com/news-260245-victor-wembanyama-final-injury-status-for-spurs-vs-blazers-revealed.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiwnAb6oM8H38XUsozdBsLb6l39qf5_qoaR0wCwdgiAgPa5BRUHwSVB7dDHZk"
+    },
+    {
+      "termino": "rockets - suns",
+      "trafico": "100+",
+      "noticia": "Suns chase 5-0 road trip against Kevin Durant, Rockets",
+      "enlace": "https://www.cbssports.com/nba/news/suns-chase-5-0-road-trip-against-kevin-durant-rockets/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+    },
     {
       "termino": "warriors - kings",
       "trafico": "1000+",
@@ -22,7 +36,7 @@
     {
       "termino": "thunder - timberwolves",
       "trafico": "200+",
-      "noticia": "Live: Wolves in tight battle against Thunder in first road game in ages",
+      "noticia": "Live: Wolves pull out win against Thunder, LaMelo Ball helped off the court in fourth",
       "enlace": "https://www.startribune.com/minnesota-timberwolves-oklahoma-city-thunder-score-today-lamelo-ball-stats-anthony-edwards-injury/601916813",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDYq1mjaebDDyfVYOKuuT9fkU_8ta_9WYC1QsPNUUPvm-CE8yo7KemDDVwsSw"
     },
@@ -60,20 +74,6 @@
       "noticia": "Turquía se convierte en el primer país del mundo en incorporar a sus Fuerzas Armadas un caza sin piloto capaz de derribar otros aviones",
       "enlace": "https://www.larazon.es/tecnologia/turquia-convierte-primer-pais-mundo-incorporar-sus-fuerzas-armadas-caza-piloto-capaz-derribar-otros-aviones_202611256b070fd3f6da642efefaf8c0.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmic94E_kXPlAsnBRNIm0jxS4aq1qBf-kW2V-TTPtmI4-V5-8aPe9FIcCE7kM"
-    },
-    {
-      "termino": "76ers - heat",
-      "trafico": "2000+",
-      "noticia": "Minnesota Timberwolves vs Oklahoma City Thunder Nov 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/min-vs-okc-0022600058/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh9GipYnDe8Z9SsgBdTFA-nlo_9V5ZxqqZMirGm1MmblHAnCD3aipksyeASUg"
-    },
-    {
-      "termino": "inter - stuttgart",
-      "trafico": "100+",
-      "noticia": "Diskussionen um Platzverweis und Elfmeter: Schiedsrichter-Frust verhindert VfB-Sieg",
-      "enlace": "https://www.absolutfussball.com/deutschland/vfb-stuttgart/vfb-fans-hadern-nach-pleite-bei-inter-mailand-mit-dem-schiedsrichter-94608581.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvafiEu7aIZhC58uggqSG28ijOgYInE5uiaGBRf7WQAPpcVENaPZCfCuTXxAI"
     }
   ]
 }
