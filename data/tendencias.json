@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T12:13:59.078987-04:00",
-  "hora": "12:13",
+  "updated": "2026-11-26T12:24:28.009685-04:00",
+  "hora": "12:24",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "telemicro",
+      "trafico": "200+",
+      "noticia": "Geólogo Osiris de León recomienda cerrar estructura deteriorada en Plaza Güibia",
+      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/24/geologo-advierte-sobre-riesgos-y-recomienda-cerrar-plaza-guibia/3730804",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipjD_T3lZMVU-rdNRCO48XJ6-32azxrW207jTL0aWZ1dbql8mdxqRRohb3Nc"
+    },
     {
       "termino": "pepín corripio",
       "trafico": "200+",
@@ -15,9 +22,9 @@
     {
       "termino": "happy thanksgiving",
       "trafico": "200+",
-      "noticia": "Thanksgiving, Black Friday weather details",
-      "enlace": "https://flxweather.com/2026/11/25/thanksgiving-black-friday-weather-details/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8dXWxW7pSXwLqXi1cjSBjKhGDAqe3Ah1na5lGnjSZ_VZh2RVqJRdMaXqWhA"
+      "noticia": "CHP ramps up enforcement for Thanksgiving holiday",
+      "enlace": "https://www.kcra.com/article/chp-maximum-enforcement-thanksgiving-holiday-enforcement-period/74532785",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp-xr2XUGwT6UcKlrJ9VRByclKmKsvYJ62SZ6WiFONwKnFDhv492_owEbTwe4"
     },
     {
       "termino": "diario libre",
@@ -63,17 +70,10 @@
     },
     {
       "termino": "warriors - kings",
-      "trafico": "5000+",
-      "noticia": "Miami Heat vs Philadelphia 76ers Nov 25, 2026 Box Scores",
-      "enlace": "https://www.nba.com/game/mia-vs-phi-0022600055/box-score",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5FuS4NRaWkQ9u3DJrF2ucs6WAnppL-At4iZp7mQGkk9AHluAUsCtKK-FNCr0"
-    },
-    {
-      "termino": "alofoke casa 3",
-      "trafico": "1000+",
-      "noticia": "Estos son los participantes de  La casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
+      "trafico": "2000+",
+      "noticia": "De’Anthony Melton shares his advice for Warriors rookie Yaxel Lendeborg after loss to Pelicans",
+      "enlace": "https://www.nbcsportsbayarea.com/video/nba/golden-state-warriors/watch-deanthony-melton-interview-3/1981200/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq0srY-_FY5jOYN2UXKUNq5zuIfsucv2I1_H-V66MZpppn6uHeEP-HJnbSiZc"
     }
   ]
 }
