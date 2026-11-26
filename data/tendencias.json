@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-25T22:54:14.338157-04:00",
-  "hora": "22:54",
+  "updated": "2026-11-25T23:04:33.514359-04:00",
+  "hora": "23:04",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "warriors - kings",
+      "trafico": "200+",
+      "noticia": "Warriors ride seven-game home streak into NBA Cup test vs. Kings",
+      "enlace": "https://www.cbssports.com/nba/news/warriors-ride-seven-game-home-streak-into-nba-cup-test-vs-kings/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+    },
+    {
       "termino": "alofoke casa 3",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Estos son los participantes de  La casa de Alofoke 3",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
@@ -35,7 +42,7 @@
     },
     {
       "termino": "knicks - cavaliers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Knicks seek sixth straight win against Cavaliers in NBA Cup",
       "enlace": "https://www.cbssports.com/nba/news/knicks-seek-sixth-straight-win-against-cavaliers-in-nba-cup/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
@@ -50,9 +57,9 @@
     {
       "termino": "turquía",
       "trafico": "200+",
-      "noticia": "El fracaso de la COP que el mundo necesitaba",
-      "enlace": "https://acento.com.do/ecologia/el-fracaso-de-la-cop-que-el-mundo-necesitaba-9796317.html",
-      "imagen": ""
+      "noticia": "Erdogan extiende la alfombra roja a Hifter mientras Turquía deja atrás Libia.",
+      "enlace": "https://www.al-monitor.com/es/originals/2026/11/erdogan-extiende-la-alfombra-roja-hifter-mientras-turquia-deja-atras-libia",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjl5ynmlknzdE62d55qZnxMcR0nwCZkm2LiNQT2BHxbPxZ6s7JRiuIB79X1Eg"
     },
     {
       "termino": "76ers - heat",
@@ -67,13 +74,6 @@
       "noticia": "Diskussionen um Platzverweis und Elfmeter: Schiedsrichter-Frust verhindert VfB-Sieg",
       "enlace": "https://www.absolutfussball.com/deutschland/vfb-stuttgart/vfb-fans-hadern-nach-pleite-bei-inter-mailand-mit-dem-schiedsrichter-94608581.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvafiEu7aIZhC58uggqSG28ijOgYInE5uiaGBRf7WQAPpcVENaPZCfCuTXxAI"
-    },
-    {
-      "termino": "sporting – man utd",
-      "trafico": "100+",
-      "noticia": "Four goals, chaos and controversy - Man Utd held in Lisbon",
-      "enlace": "https://www.bbc.com/sport/football/live/crkgv8v0gdwkt",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv3gpkY5bH4crSrKRiXkSMqYeI5__mAKRuVPw1xUrCrW6aLAmuGxysI1JK-zU"
     }
   ]
 }
