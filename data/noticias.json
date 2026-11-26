@@ -1,9 +1,17 @@
 {
-  "updated": "2026-11-26T15:33:54.843869-04:00",
-  "hora": "15:33",
+  "updated": "2026-11-26T15:44:17.864844-04:00",
+  "hora": "15:44",
   "fecha": "26/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUNYR1RjdEQwcWxDN0k3X2EzVEdLUHB1WWlMN0N4RWZReEJXMXFmMkdJd1B1SEljVmJOTjZWNUFmR2lnQ2Vpb1dNMFZOVlg1aW4xMXR6Sk1tMkNqcFR1WGI4TzJ2WDJOMUtnWnEtUHdSV0hPNWFMOExqc01La1g0dGplREp0VmFsbjI0UjV2aERhQmFIWHdSNkVMdkpFX0FOcklJYVRQVGdSSW1QT2V3ZFFncHZqMklBZXM5cF9WMF9GN3VzR2lIc3ctVTBCLXktLUVJ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
       "fuente": "BBC",
@@ -37,20 +45,20 @@
       "imagen": ""
     },
     {
-      "titulo": "Destaca su participación La directora felicitó a Núñez por convertirse en primera finalista y agradeció que representara a República Dominicana durante el certamen. También valoró que la modelo hablara sobre la educación y la empatía durante la compete - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSc01CY2NBNEhDOVYxc3BNYnBqcFc3UjhzMERJTDVMSXF4M0ZJM2toaU1DV3VubFh0LV9fVVhjVnZjZFhmakFjWUJCVmhoQjJOV2c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 22:17:50 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-    },
-    {
       "titulo": "Recortes de renovables en República Dominica... - BNamericas",
       "fuente": "BNamericas",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjZFUmFXYnBRTTZock16RUg5SzJ3aEt5UHdLNVVRSVFlRmVZRmFnblJjcVNINDYtOHlUbFZ6SDE3QVJvZzg5eFpNb2JsMnpLNXczZGVYMC1RT2lPZV9aLVoxSHZabWhDTDJWZ185bDZsUlRTT3FCb3lWS1FmdGVIc0oyWm1wa1pFdnQ3Rkd5bzdUcDBySk1TQmlBOUUzUzZHVUN5eEZWS05EZGVmY0EyNlNuRTVqSkU?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 26 Nov 2026 14:27:31 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "Destaca su participación La directora felicitó a Núñez por convertirse en primera finalista y agradeció que representara a República Dominicana durante el certamen. También valoró que la modelo hablara sobre la educación y la empatía durante la compete - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSc01CY2NBNEhDOVYxc3BNYnBqcFc3UjhzMERJTDVMSXF4M0ZJM2toaU1DV3VubFh0LV9fVVhjVnZjZFhmakFjWUJCVmhoQjJOV2c?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 22:17:50 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
     },
     {
       "titulo": "Jessi Rodríguez pone a bailar al presidente de República Dominicana - Univision",
@@ -77,11 +85,11 @@
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/wulc1tmh5daz4fbkuvq1"
     },
     {
-      "titulo": "Algodoneros busca refuerzos en República Dominicana rumbo a 2027 - Milenio",
-      "fuente": "Milenio",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUtvem5jSlJkYU13QzhMY1Y0eDQzdnhFLVktXzcwU21xSUZFVm5VV3JIYXpYN0xrZ1oyYUdZbzVzbnJoQmZlbmVIWnhxNTlUMmM0cjhXMDItWWY4bEoydVl3dEU2bVNOQWhqTGQ4S0p4MWI0UWItLUQ0RklMSlYtTDNsbW16eENacUxMeFdoVGFqOHYwU2JfaDYyMUQtQUnSAZ8BQVVfeXFMT2RRdVdxb2RYZnR1Smd0dTJGNkh2bDdDSzF4QzVwdFM1allsaTlZYkxXWXBBOEdWbmxYeGdPb2E3RUxZbGpNc0djMkZtZmV6emxHaC1WajZKaWJ3bU84dTliU2RRYmQxenBBc2JPS0doYmF3MkVLRzhRSHc4U3RDckdYN2dxSlBLMHY2XzYwbVpzZDJEajNaYXJ1d3k0d3Fv?oc=5",
+      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 16:31:00 GMT",
+      "fecha": "Tue, 17 Nov 2026 08:00:00 GMT",
       "imagen": ""
     },
     {
@@ -93,14 +101,6 @@
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
     },
     {
-      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Mexicana ITM Group suma tercera terminal de cruceros dominicana con US$90mn - BNamericas",
       "fuente": "BNamericas",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckFTT3d3VVB2a2lwdXJQQnN5OHlKQVFJWVVDNml5NDJoSjNhTDltcUo4enVGNmZvQUtFbVlHRE5VT2dTaTJocUJ4TFB5ZElsdTNqaDBjQkV4YnpKcjVUR3poa3FxVjQyNnpoTDV6b0ZJSXRJd2htV1BwYWpOUXFjRnV2OGl0WDRSamh6N2sxdTA5QUdkR3lQUi1NVS1IR0RrcjM1TXI2RC0wLW5sUk9EVF9JMA?oc=5",
@@ -109,12 +109,12 @@
       "imagen": ""
     },
     {
-      "titulo": "“Es increíble que la Refinería Dominicana de Petrolero ha tenido en el año 2026 las mayores ventas en barriles de los últimos 16 años”, indicó Simón, tras confirmar el aumento se produce en momento que el gobierno ha tenido que destinar mayor subsidio p - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92YW9OZmdycFRTc3lYdm1MSjVSRTBhcHRyQk9VNDJURThRMzliQ1VqZzFFQmVONmswc2FrVUNDUW1Sa1R1UXFOOHVNZzlibWJyOVE?oc=5",
+      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 12:00:09 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t39.30808-6/927964709_1157264813619110_7125691807879864224_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8rj6k5kSeGQQ7kNvwHqDwpi&_nc_oc=AdqEQD4bbkyyGmXUWExxAlMDeBz0FrGCGlW_3fFwl2uhVNWDk5UKTlUH_JjbN4w66lE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-hlkZrr8pMmMTd1Krv0GZw&_nc_ss=7b789&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRZ35bxRukVTfPmrDFrXat7nS9HPpW8ULb67rD0zl6stQ&oe=6B0E003B"
+      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+      "imagen": ""
     },
     {
       "titulo": "República Dominicana: Condenan a 30 años a un hombre por arrojar ácido a su expareja y causarle quemaduras en el 24% del cuerpo - Infobae",
