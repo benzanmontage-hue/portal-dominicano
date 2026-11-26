@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T14:19:18.180309-04:00",
-  "hora": "14:19",
+  "updated": "2026-11-26T14:29:42.177286-04:00",
+  "hora": "14:29",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -22,9 +22,9 @@
     {
       "termino": "happy thanksgiving",
       "trafico": "200+",
-      "noticia": "Happy Thanksgiving + Peter Laviolette speaks in advance of Friday’s game in Anaheim",
-      "enlace": "https://lakingsinsider.com/2026/11/26/happy-thanksgiving-peter-laviolette-speaks-in-advance-of-fridays-game-in-anaheim/?utm_source=rss utm_medium=rss utm_campaign=happy-thanksgiving-peter-laviolette-speaks-in-advance-of-fridays-game-in-anaheim",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2gUBzbWmbK5jGctbXVhBaX4PkHZTGEsWMRCbkdQiRsqzgt8fEhoK5XmegW80"
+      "noticia": "Happy Hawkeye Thanksgiving",
+      "enlace": "https://sports.yahoo.com/college-football/articles/happy-hawkeye-thanksgiving-163100705.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1CFTUKiDReX82085xHa-3hTdAlVpwurLJBF4uB-S0cAAB6RTt9CMZqNZEgok"
     },
     {
       "termino": "diario libre",
@@ -35,17 +35,10 @@
     },
     {
       "termino": "lidom",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Estrellas reclaman la cima al apalear al Licey y sumar su décimo triunfo al hilo",
       "enlace": "https://www.mlb.com/es/news/estrellas-reclaman-la-cima-al-apalear-al-licey-y-sumar-su-decimo-triunfo-al-hilo",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBmrZ3i4db4CtCTpLHHbfr3ATtPhL8JLO1DwgbWKtBxy_FvW6h2L7FbUvhqXg"
-    },
-    {
-      "termino": "listin diario",
-      "trafico": "100+",
-      "noticia": "El barrio casi “saca” a Yamal Encarnación de la pelota",
-      "enlace": "https://listindiario.com/el-deporte/beisbol/20261126/barrio-saca-yamal-encarnacion-pelota_931537.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6NTpooEr0mJR3bJwVNMlqB7l4uxcSB9unxIHjeTXNj_W3LzND5ggwO9IOaxc"
     },
     {
       "termino": "leah campos",
@@ -74,6 +67,13 @@
       "noticia": "The Golden State Warriors Earn the Win",
       "enlace": "https://www.nba.com/inside-the-game/blueprint/0022600062",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQedZqS00vx-vs39J9FmCS3wmWSV4gAQDm3aKhNm8vkF7lbaLSFKjy5kThE-HY"
+    },
+    {
+      "termino": "alofoke casa 3",
+      "trafico": "1000+",
+      "noticia": "Estos son los participantes de  La casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
     }
   ]
 }
