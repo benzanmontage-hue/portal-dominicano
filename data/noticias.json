@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T07:21:31.847039-04:00",
-  "hora": "07:21",
+  "updated": "2026-11-26T07:31:53.102244-04:00",
+  "hora": "07:31",
   "fecha": "26/11/2026",
   "total": 15,
   "noticias": [
@@ -45,6 +45,14 @@
       "imagen": "https://www.univision.com/api/image/og/us/shows/despierta-america/jessi-rodriguez-pone-a-bailar-al-presidente-de-republica-dominicana-video-vertical"
     },
     {
+      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - HolaNews",
+      "fuente": "HolaNews",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTdvSl8tb1hwTzNSSHowTmFlUk9nVU80akZKM1VZZzJ1cmFEUHNvRlJGWmRfWGdHTlZCOG43dXRMSDZ5YU9Oc0d1Um9NSUNXZFdtVW9yZm96NkJqN0FtZXdhLTN5azBScnhULXRiXzlWMkVXdFRjeldZdF9KQ1NiMlZ2SUdsOWhFZUtlRzZrRzdadG5jNlNoV1RiRFNEaS1I?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 20:22:14 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "El pueblo de la nueva Miss Universo celebra su triunfo histórico en Puerto Rico - Los Angeles Times",
       "fuente": "Los Angeles Times",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeVhrVmtnX0tOSmtPcW5xaHhKR0hUSkZJdFc0NlBDaVRfVk5kelRLQ0pKZDVhYjdnUHNDS2g3YVhueW1QWGpSUjBfWmwxYlRYeHl6QnBkYmRXNm1VMm9xZUtwcEx5VFA1ajNkY2dHZkpkcHhJdjZ4QUFjcTFleWNMMm44Ylc3amxYQmVubVgwcmxKMDJCVmNaWE1ranUwQkxmZlNNWTlqNFU1NmV6V202cUJHWHJBTkM3U0w4Q3hEb2NDeHF1Q2lZM3lBVFpEWF9kM09Nbm94Rk5BTTQ0SDdhYg?oc=5",
@@ -61,14 +69,6 @@
       "imagen": "https://www.infobae.com/resizer/v2/4CTDWW6DIJDJNCGFZFJ7BG2EFY.jpg?auth=4c78ad5e4e55101de1e7e65a6ba081fdc25935d320863229446325208695fbb8&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Fallece el comandante cubano y Héroe Nacional de República Dominicana, Delio Gómez Ochoa - HolaNews",
-      "fuente": "HolaNews",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVlWUhKMjduUGE3am5OZFJMb2JyZmducUhtN3hFV0tVOW4yTU1sSVB5al95VktsUTFYemM2b3d2T1BqbGdpS1c5VGN5M0tscWhMNXg5eFMyVUZoem9pSWlwNEpJQ0ljNTU1MVJCaXg3cU9RcHB5YVM4VFBPcmlxbzFLLVZ3X3RQdTZTcXBSaDlPYnBWZWNRN0NFOG5IMkdNR3QxcmVqbEpBVG80MUE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 23:35:47 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana hace historia con su primera victoria en un Mundial Sub-17 - Concacaf | Official Website",
       "fuente": "Concacaf | Official Website",
       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcmliWnY4LUR3bUhtcHRSekNKSmNfaWtIbW5tMjdrUmRmV0tOV2plVHl6OVZ4NXVUa0thOUVNZ2ROajlLVENUZUdMWjAzNUNoYTM0bjZuT0QyT3RzbTlHcXhmRzA5enRxVTlFUjZrcGNiM29rY3lXcnNKX3RXNUlETGhpZVMyQ2puZnY5MU9va2s5MUdXeGlDZmpPUUVCWlFzLVlrWUFvZTNtMUNXWk5Ea3NYeFlFN1ZWNmZiSDd1VGF4ajc2R294MWxEb3oyN0JQRnl3ZmE4dnA?oc=5",
@@ -77,11 +77,11 @@
       "imagen": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/prd/wulc1tmh5daz4fbkuvq1"
     },
     {
-      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
+      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
       "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
       "imagen": ""
     },
     {
@@ -101,11 +101,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Miss República Dominicana impactó con su carisma y elegancia en Miss Universe 2026 - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0tPY21GNEdTekVUOVBHRnVGdHpzazZycTdSTUpHbGR4ZzhyLXh3WG5jZzBQMmc0Wk5KTkRaa2JKRFRLeDdmOW9RVW1fS0FYOG1rT3prbXRWa0ZUXzZfUnVFd0xmSHU3VUhKQXUzN3BPcU5TV0NsLXpEcXc5SFlwSm16cm9yVHVu?oc=5",
+      "titulo": "Fallece el comandante cubano y Héroe Nacional de República Dominicana, Delio Gómez Ochoa - HolaNews",
+      "fuente": "HolaNews",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVlWUhKMjduUGE3am5OZFJMb2JyZmducUhtN3hFV0tVOW4yTU1sSVB5al95VktsUTFYemM2b3d2T1BqbGdpS1c5VGN5M0tscWhMNXg5eFMyVUZoem9pSWlwNEpJQ0ljNTU1MVJCaXg3cU9RcHB5YVM4VFBPcmlxbzFLLVZ3X3RQdTZTcXBSaDlPYnBWZWNRN0NFOG5IMkdNR3QxcmVqbEpBVG80MUE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 04:56:00 GMT",
+      "fecha": "Tue, 24 Nov 2026 23:35:47 GMT",
       "imagen": ""
     },
     {
