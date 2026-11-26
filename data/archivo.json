@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T19:56:30-04:00",
+ "actualizado": "2026-11-25T20:06:51-04:00",
  "sorteos": {
   "Anguila|Anguila 10:00 AM": [
    {
@@ -3458,6 +3458,14 @@
    }
   ],
   "Anguila|Anguila 8:00 PM": [
+   {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "16",
+     "21",
+     "03"
+    ]
+   },
    {
     "fecha": "2026-11-24",
     "numeros": [
@@ -9769,6 +9777,12 @@
   ],
   "Loteka|MC Repartidera": [
    {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "25"
+    ]
+   },
+   {
     "fecha": "2026-11-24",
     "numeros": [
      "06"
@@ -9980,6 +9994,16 @@
    }
   ],
   "Loteka|Mega Chances": [
+   {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "44",
+     "38",
+     "19",
+     "76",
+     "21"
+    ]
+   },
    {
     "fecha": "2026-11-24",
     "numeros": [
@@ -10781,6 +10805,14 @@
   ],
   "Loteka|Quiniela Loteka Noche": [
    {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "15",
+     "87",
+     "68"
+    ]
+   },
+   {
     "fecha": "2026-11-24",
     "numeros": [
      "81",
@@ -11153,6 +11185,16 @@
   ],
   "Loteria Real|Chance Real": [
    {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "40",
+     "11",
+     "90",
+     "98",
+     "35"
+    ]
+   },
+   {
     "fecha": "2026-11-24",
     "numeros": [
      "44",
@@ -11504,6 +11546,14 @@
    }
   ],
   "Loteria Real|Lotería Real Noche": [
+   {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "01",
+     "76",
+     "68"
+    ]
+   },
    {
     "fecha": "2026-11-24",
     "numeros": [
@@ -12112,6 +12162,15 @@
    }
   ],
   "Loteria Real|Loto Pool Noche": [
+   {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "74",
+     "08",
+     "30",
+     "66"
+    ]
+   },
    {
     "fecha": "2026-11-24",
     "numeros": [
@@ -13154,6 +13213,12 @@
    }
   ],
   "Loteria Real|Repartidera Real": [
+   {
+    "fecha": "2026-11-25",
+    "numeros": [
+     "63"
+    ]
+   },
    {
     "fecha": "2026-11-24",
     "numeros": [
