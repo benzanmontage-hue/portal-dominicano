@@ -1,33 +1,61 @@
 {
-  "updated": "2026-11-26T00:58:37.135382-04:00",
-  "hora": "00:58",
+  "updated": "2026-11-26T07:00:18.932314-04:00",
+  "hora": "07:00",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "trail blazers - spurs",
+      "termino": "diario libre",
       "trafico": "100+",
-      "noticia": "De’Aaron Fox Faces Trail Blazers With Key Statistical Trends",
-      "enlace": "https://cwibc.co.id/en/fox-trail-blazers-statistical-trends",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcGxGFvb1dke1z7KjEINlvE6zZShfZcAzMYKzdaEAYvxXKjRcdpQAKMQqXmyc"
+      "noticia": "Al menos diez muertos y siete heridos en un nuevo ataque de las bandas armadas en Haití",
+      "enlace": "https://www.diariolibre.com/mundo/haiti/2026/11/25/ataque-de-bandas-en-haiti-deja-10-muertos-y-siete-heridos/3731968",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAUvkh7MOFZ_2dYUYm15HC5h_fv8dn7Gk2EzQuNNxSjWLnHQT7PF2LL59sBtM"
+    },
+    {
+      "termino": "lidom",
+      "trafico": "100+",
+      "noticia": "Estrellas reclaman la cima al apalear al Licey y sumar su décimo triunfo al hilo",
+      "enlace": "https://www.mlb.com/es/news/estrellas-reclaman-la-cima-al-apalear-al-licey-y-sumar-su-decimo-triunfo-al-hilo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBmrZ3i4db4CtCTpLHHbfr3ATtPhL8JLO1DwgbWKtBxy_FvW6h2L7FbUvhqXg"
+    },
+    {
+      "termino": "de anthony melton",
+      "trafico": "200+",
+      "noticia": "Domantas Sabonis drops 27 points Wednesday",
+      "enlace": "https://www.fantasypros.com/nba/news/622655/domantas-sabonis-drops-27-points-wednesday.php",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbcDLQ2WF-Wbc3c_P7jw3tSQbmXpxwUnyvJ0rD9wiYCF-iQoPKBWEpdwT5vw4"
+    },
+    {
+      "termino": "leah campos",
+      "trafico": "200+",
+      "noticia": "Embajadora de EE. UU. cuestiona que solo 20 % de la red de Viettel tenga restricciones a tecnología",
+      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/25/embajadora-de-ee-uu-habla-sobre-entrada-de-viettel-a-rd/3731831",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuN4skYwsv951x8nFdUrO__e6H-TXJjp0qchG104dDmHEbNFjU3eIAR0Iqcb8"
+    },
+    {
+      "termino": "trail blazers - spurs",
+      "trafico": "500+",
+      "noticia": "NBA: San Antonio Spurs at Portland Trail Blazers",
+      "enlace": "https://www.reutersconnect.com/item/nba-san-antonio-spurs-at-portland-trail-blazers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTA2NDA%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT6Z_bnyMZH9vW0aL9YCChPZUg0Y7bnf3gMMhpXU3xBCuySRbWhnTiYZtOgYI"
     },
     {
       "termino": "rockets - suns",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Suns chase 5-0 road trip against Kevin Durant, Rockets",
       "enlace": "https://www.cbssports.com/nba/news/suns-chase-5-0-road-trip-against-kevin-durant-rockets/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
     },
     {
       "termino": "warriors - kings",
-      "trafico": "1000+",
-      "noticia": "Warriors ride seven-game home streak into NBA Cup test vs. Kings",
-      "enlace": "https://www.cbssports.com/nba/news/warriors-ride-seven-game-home-streak-into-nba-cup-test-vs-kings/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+      "trafico": "2000+",
+      "noticia": "San Antonio Spurs vs Portland Trail Blazers Nov 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/sas-vs-por-0022600063/box-score",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD56O0XN2exV5nxr8WduOZZbmbP7AUsBAcCHR-4pUiRw2uhACvMUlvokG2UF4"
     },
     {
-      "termino": "la casa de alofoke",
+      "termino": "alofoke casa 3",
       "trafico": "1000+",
       "noticia": "Estos son los participantes de  La casa de Alofoke 3",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
@@ -36,44 +64,16 @@
     {
       "termino": "thunder - timberwolves",
       "trafico": "200+",
-      "noticia": "How to Watch Wolves vs. Thunder for Free: TV Channels, Live Stream Options",
-      "enlace": "https://sports.yahoo.com/nba/articles/watch-wolves-vs-thunder-free-233000472.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS43H5LQzmWxC31E9P5ajBSD_70iSiwsvacIhoHAMwppQz52Q_bwXCmsfi03po"
-    },
-    {
-      "termino": "boca juniors - independiente rivadavia",
-      "trafico": "200+",
-      "noticia": "Boca continúa de racha, venció a Independiente Riv. y se medirá con Gimnasia (LP) en cuartos: reviví lo mejor",
-      "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-independiente-riv-m-llave-8-id772707.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLfmU0fWd9Yp6CYhlpnJEmP3eug64LgTNLeRv-ExxsdDR4tN_I2DRSjkB3nA"
+      "noticia": "Minnesota Timberwolves vs. Oklahoma City Thunder Live Score and Stats - November 25, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261125_MIN@OKC/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwg2JJ2rJK9KY6LDr6-aQrX5jQ-7Asf2NTNsFpSAXwCpzHqIafC5lzctl7eiY"
     },
     {
       "termino": "albert pujols",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "LIDOM: Fernando Tatis Jr. debutará a inicios de diciembre, fuentes",
       "enlace": "https://espndeportes.espn.com/beisbol/beisbolinvernal/nota/_/id/17558621/lidom-estrellas-tatis-jr-debutara-a-prinicios-de-diciembre",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3Yw659U9rxLGSGCnW3II8Eq7OZviHsLXyP6cLlD0orzFVtEfpghQKyWu-yVw"
-    },
-    {
-      "termino": "knicks - cavaliers",
-      "trafico": "500+",
-      "noticia": "Knicks overwhelm Cavaliers in fourth quarter for sixth straight win",
-      "enlace": "https://www.cbssports.com/nba/news/knicks-overwhelm-cavaliers-in-fourth-quarter-for-sixth-straight-win/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
-    },
-    {
-      "termino": "lebron james",
-      "trafico": "200+",
-      "noticia": "76ers 111-104 Heat (Nov 25, 2026) Game Recap",
-      "enlace": "https://www.espn.com/nba/recap?gameId=401909317",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRT6lSZ94uvvcYMyDwlPpkYeWwby9CcJ67nOR7mjAE1PKb4lLe8MJ_cPzZ0j7c"
-    },
-    {
-      "termino": "turquía",
-      "trafico": "500+",
-      "noticia": "Turquía se convierte en el primer país del mundo en incorporar a sus Fuerzas Armadas un caza sin piloto capaz de derribar otros aviones",
-      "enlace": "https://www.larazon.es/tecnologia/turquia-convierte-primer-pais-mundo-incorporar-sus-fuerzas-armadas-caza-piloto-capaz-derribar-otros-aviones_202611256b070fd3f6da642efefaf8c0.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmic94E_kXPlAsnBRNIm0jxS4aq1qBf-kW2V-TTPtmI4-V5-8aPe9FIcCE7kM"
     }
   ]
 }
