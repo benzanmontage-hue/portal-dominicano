@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-25T22:33:31.482671-04:00",
-  "hora": "22:33",
+  "updated": "2026-11-25T22:43:52.928250-04:00",
+  "hora": "22:43",
   "fecha": "25/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "alofoke casa 3",
+      "trafico": "500+",
+      "noticia": "Estos son los participantes de  La casa de Alofoke 3",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
+    },
     {
       "termino": "thunder - timberwolves",
       "trafico": "100+",
@@ -17,7 +24,7 @@
       "trafico": "200+",
       "noticia": "Boca cambió el chip, venció a Independiente Riv. y se medirá con Gimnasia (LP) en cuartos: reviví lo mejor",
       "enlace": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-boca-juniors-vs-independiente-riv-m-llave-8-id772707.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymC1X4Jh6XZsaV6AbinUt4sONI65Dl4hr85-m_26ziCY2ZeHz1x5lmmY5bsA"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLfmU0fWd9Yp6CYhlpnJEmP3eug64LgTNLeRv-ExxsdDR4tN_I2DRSjkB3nA"
     },
     {
       "termino": "albert pujols",
@@ -50,9 +57,9 @@
     {
       "termino": "76ers - heat",
       "trafico": "2000+",
-      "noticia": "Heat look to extend win streak, clinch NBA Cup group vs. 76ers",
-      "enlace": "https://www.cbssports.com/nba/news/heat-look-to-extend-win-streak-clinch-nba-cup-group-vs-76ers/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVlnTgy-at8QR8QyC_oBi6cPObtNqM-vpbsRfOHh5LeUSHhkeJlsmVvYswtA"
+      "noticia": "Miami Heat vs Philadelphia 76ers Nov 25, 2026 Box Scores",
+      "enlace": "https://www.nba.com/game/mia-vs-phi-0022600055/box-score",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYYDQmT43GsgeeiLoQC4CsNu19G0cMrS9EOQH9gBOKa7mJ95384E_ueVl6AsE"
     },
     {
       "termino": "inter - stuttgart",
@@ -67,13 +74,6 @@
       "noticia": "Four goals, chaos and controversy - Man Utd held in Lisbon",
       "enlace": "https://www.bbc.com/sport/football/live/crkgv8v0gdwkt",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv3gpkY5bH4crSrKRiXkSMqYeI5__mAKRuVPw1xUrCrW6aLAmuGxysI1JK-zU"
-    },
-    {
-      "termino": "bono navideño",
-      "trafico": "1000+",
-      "noticia": "Villa Navidad dará inicio este jueves 26 de noviembre en el Centro Olímpico Juan Pablo Duarte",
-      "enlace": "https://presidencia.gob.do/noticias/villa-navidad-dara-inicio-este-jueves-26-de-noviembre-en-el-centro-olimpico-juan-pablo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWATpIVE4xN92q2tS1Q1RGEh4uEjvp0xvw0Dz6JA4F7Kk3eklwBAlTqu06fHE"
     }
   ]
 }
