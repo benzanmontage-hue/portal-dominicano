@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:34:50.986552-04:00",
+ "updated": "2026-11-26T12:45:17.229236-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -338,11 +338,11 @@
    "compania": "Haiti Bolet",
    "juego": "Haiti Bolet 11:30 AM",
    "numeros": [
-    "97",
-    "85",
-    "70"
+    "75",
+    "30",
+    "95"
    ],
-   "fecha": "2026-11-25T04:00:00.000Z",
+   "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6a4414807f178816db95ac68"
   },
   {
@@ -439,7 +439,9 @@
    "compania": "King Lottery",
    "juego": "Philipsburg Día",
    "numeros": [
-    "0779"
+    "0779",
+    "4684",
+    "4101"
    ],
    "fecha": "2026-11-26T04:00:00.000Z",
    "game_id": "6966a6d3ea7015c3b8a3d676"
