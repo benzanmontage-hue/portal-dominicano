@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-26T14:50:32.659165-04:00",
-  "hora": "14:50",
+  "updated": "2026-11-26T15:00:57.900263-04:00",
+  "hora": "15:00",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "nfl",
+      "trafico": "100+",
+      "noticia": "How To Watch The 2026 NFL Thanksgiving Games",
+      "enlace": "https://www.imdb.com/de/news/ni66129236/?ref_=nwc_art_perm",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJVB1QAyT8A1TczHxo2IjjaXA_QLuQsZ5oEBzZs4SBmRlg6CNKy5sISW8Hxks"
+    },
+    {
+      "termino": "festival",
+      "trafico": "100+",
+      "noticia": "Presidente Luis Abinader dispone tres días de duelo por fallecimiento del héroe nacional Delio Gómez Ochoa",
+      "enlace": "https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-tres-dias-de-duelo-por-fallecimiento-del-heroe-nacional",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVqBApC7DnmtVEl9pkn3MLd_jT2762WKUPMO_Ex7sfEwLvlUbJtHWGy5TRs"
+    },
     {
       "termino": "telemicro",
       "trafico": "1000+",
@@ -22,9 +36,9 @@
     {
       "termino": "happy thanksgiving",
       "trafico": "200+",
-      "noticia": "What all 30 MLB teams have to be thankful for this year",
-      "enlace": "https://www.cbssports.com/mlb/news/mlb-thanksgiving-all-30-teams-thankful-2026/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbrG_GmMIPe9etRFf5jgpz5YAprWmkSY5uqc88le1FoK0RBYiy4yQjZGHIGY"
+      "noticia": "Happy Hawkeye Thanksgiving",
+      "enlace": "https://sports.yahoo.com/college-football/articles/happy-hawkeye-thanksgiving-163100705.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1CFTUKiDReX82085xHa-3hTdAlVpwurLJBF4uB-S0cAAB6RTt9CMZqNZEgok"
     },
     {
       "termino": "diario libre",
@@ -60,20 +74,6 @@
       "noticia": "Miami Heat vs Philadelphia 76ers Nov 25, 2026 Box Scores",
       "enlace": "https://www.nba.com/game/mia-vs-phi-0022600055/box-score",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5FuS4NRaWkQ9u3DJrF2ucs6WAnppL-At4iZp7mQGkk9AHluAUsCtKK-FNCr0"
-    },
-    {
-      "termino": "warriors - kings",
-      "trafico": "2000+",
-      "noticia": "The Golden State Warriors Earn the Win",
-      "enlace": "https://www.nba.com/inside-the-game/blueprint/0022600062",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQedZqS00vx-vs39J9FmCS3wmWSV4gAQDm3aKhNm8vkF7lbaLSFKjy5kThE-HY"
-    },
-    {
-      "termino": "alofoke casa 3",
-      "trafico": "1000+",
-      "noticia": "Estos son los participantes de  La casa de Alofoke 3",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZuYwKOTKrlOj6HCtZg2X_TfiEQCUtG9VtgiV5p2-ZI_TXtHbjTKAsOEKuMGA"
     }
   ]
 }
