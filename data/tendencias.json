@@ -1,23 +1,37 @@
 {
-  "updated": "2026-11-26T15:54:39.161197-04:00",
-  "hora": "15:54",
+  "updated": "2026-11-26T16:05:03.644705-04:00",
+  "hora": "16:05",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "new york dia",
+      "trafico": "200+",
+      "noticia": "Previsão de tempestade adia tradicional desfile de Ação de Graças de Nova York pela primeira vez em cem anos",
+      "enlace": "https://www1.folha.uol.com.br/mundo/2026/11/previsao-de-tempestade-adia-tradicional-desfile-de-acao-de-gracas-de-nova-york-pela-primeira-vez-em-cem-anos.shtml",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT_Ia7A3_IwQYSDVqsJCQ1NTKa2bMGGXnXLODOJhXD_P0tPRYcUS9EhIl1w2k"
+    },
+    {
+      "termino": "europa league",
+      "trafico": "100+",
+      "noticia": "Bournemouth confirmed line-up for 5.45pm Celta Vigo clash",
+      "enlace": "https://dave.sport/news/celta-vigo-v-bournemouth-confirmed-line-ups/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjpVoWIiHxXwGE3PZHiJkrJoTqRcNcMt882fv00Y-mMfXuubzhZUYkrOzALI"
+    },
+    {
       "termino": "olympiacos - milan",
       "trafico": "100+",
-      "noticia": "Milan begin away trip to Olympiacos at 17.45 GMT in Europa League action — Olympiacos Vs Milan",
-      "enlace": "https://twaslnews1.twaslnews.com/8354764/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3KgtmYyxloBKsepslvDiWkThqJvL30SDfor3Z5EDKo0tEEfBgfxn6p-Uu9o"
+      "noticia": "Licensable picture: Olympiacos F.C. v AC Milan UEFA Europa League",
+      "enlace": "https://www.reutersconnect.com/item/olympiacos-fc-v-ac-milan-uefa-europa-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwNlE5NFU",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYi_0GYWhXge1yTp8wUaPQWviR_RyApCfh6NDEf3FJcDTFt3AC-iYfzr7n0uk"
     },
     {
       "termino": "nfl",
       "trafico": "100+",
-      "noticia": "Greg Rousseau could put himself in rare Bills company with 1 more milestone",
-      "enlace": "https://buffalowdown.com/greg-rousseau-could-put-himself-in-rare-bills-company-with-1-more-milestone-01m89kbq7s84",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRqE5obt6xxoMb5AmkM_gUeRJ5O1AB7w7upOi_5HVj3-O_KeHVvZSCFXiYwaQ"
+      "noticia": "Ben Johnson Praises Jared Goff Ahead of Bears Lions Clash",
+      "enlace": "https://cwibc.co.id/en/johnson-praises-goff-bears-clash",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMO4nmFUVp1qoWm6E7gY-idAtW1siRr47U2PBMRalqXz13d7Hj2Xe_7HK3B0"
     },
     {
       "termino": "consultar bono",
@@ -60,20 +74,6 @@
       "noticia": "Solicitan coerción contra un payaso acusado de agredir sexualmente a seis niñas",
       "enlace": "https://elnuevodiario.com.do/solicitan-coercion-contra-un-payaso-acusado-de-agredir-sexualmente-a-seis-ninas/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcdiGb5igBt3VW7dmQgijzR28kCGoD4X-rs_-5fYTAmJVFOlFLhkRZja-dFA"
-    },
-    {
-      "termino": "lidom",
-      "trafico": "200+",
-      "noticia": "Estrellas reclaman la cima al apalear al Licey y sumar su décimo triunfo al hilo",
-      "enlace": "https://www.mlb.com/es/news/estrellas-reclaman-la-cima-al-apalear-al-licey-y-sumar-su-decimo-triunfo-al-hilo",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBmrZ3i4db4CtCTpLHHbfr3ATtPhL8JLO1DwgbWKtBxy_FvW6h2L7FbUvhqXg"
-    },
-    {
-      "termino": "leah campos",
-      "trafico": "2000+",
-      "noticia": "Embajadora de EE. UU. cuestiona que solo 20 % de la red de Viettel tenga restricciones a tecnología",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/25/embajadora-de-ee-uu-habla-sobre-entrada-de-viettel-a-rd/3731831",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuN4skYwsv951x8nFdUrO__e6H-TXJjp0qchG104dDmHEbNFjU3eIAR0Iqcb8"
     }
   ]
 }
