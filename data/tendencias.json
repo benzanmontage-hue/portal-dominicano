@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T00:05:17.934400-04:00",
-  "hora": "00:05",
+  "updated": "2026-11-27T00:15:43.330468-04:00",
+  "hora": "00:15",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,9 +15,9 @@
     {
       "termino": "1password",
       "trafico": "100+",
-      "noticia": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "enlace": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo6gqDeyX0rc1LudnS7uKriQb76iEnbCvtmTyJV219G53_7JzO0LTq3byPhws"
+      "noticia": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "enlace": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiuDCWlBR1gm5DvgpvKk80y7t0QvewX0yGy7qgfLrd6UnGM5W_NyCaY3X7ci0"
     },
     {
       "termino": "osmel sousa",
@@ -29,9 +29,9 @@
     {
       "termino": "aaron rodgers",
       "trafico": "100+",
-      "noticia": "Steelers cut Aaron Rodgers after QB rips McCarthy in scorched-earth interview",
-      "enlace": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoxactf72bzZjHz3aP0j6Ab0mVsGm3dlbtrR1S9_1m05WVdTuQm0pSKEba38"
+      "noticia": "Tomlin upset by Rodgers  bitter exit, calls situation  a dumpster fire",
+      "enlace": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4uut9vJmcpHwKhDech9aCpmcqDC0lH1OTYHwR2_1u13y7kY6Gwk-x0nSmWR8"
     },
     {
       "termino": "josé siri",
@@ -57,13 +57,6 @@
     {
       "termino": "europa league",
       "trafico": "200+",
-      "noticia": "Licensable picture: SOCCER - UEFA Europa League - Juventus FC vs. AC Omonia Nicosia",
-      "enlace": "https://www.reutersconnect.com/item/soccer-uefa-europa-league-juventus-fc-vs-ac-omonia-nicosia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEExMg",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkoSEmh3Nm-8YR8AtrnjkauaFxuMF1wnVUsBBDs1x890UhUM5gQJkw9IFHano"
-    },
-    {
-      "termino": "olympiacos - milan",
-      "trafico": "100+",
       "noticia": "Hutchinson says position tweak helped inspire comeback: “I have to make a difference”",
       "enlace": "https://sempremilan.com/hutchinson-position-tweak-inspire-comeback",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFlkgn7YErbJYqLK_k_X9YFl3OkGJaXF3zff3KR7cLQQ4gDc6BAEFD_F8iTI"
@@ -71,9 +64,16 @@
     {
       "termino": "nfl",
       "trafico": "500+",
-      "noticia": "How could rain, strong winds affect Bills-Chiefs Thanksgiving game?",
-      "enlace": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/26/bills-chiefs-thanksgiving-weather-rain-wind-game-impact/92969687007/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEijIndozJEUHCc1r1d8c0UdOGj_6CB9lyU3qN5TeP6nUA5qchqwuZORzL0Zc"
+      "noticia": "Butker Field Goal Cuts Bills Lead to 7-3 Before Halftime",
+      "enlace": "https://cwibc.co.id/en/butker-field-goal-bills-halftime",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS193MUFiE6cKBjOCxIzHDU-xANRYq8FHqWje_ZEI6Lo-H28jzOeBeQhYEgz8Y"
+    },
+    {
+      "termino": "festival",
+      "trafico": "200+",
+      "noticia": "Presidente Luis Abinader dispone tres días de duelo por fallecimiento del héroe nacional Delio Gómez Ochoa",
+      "enlace": "https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-tres-dias-de-duelo-por-fallecimiento-del-heroe-nacional",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVqBApC7DnmtVEl9pkn3MLd_jT2762WKUPMO_Ex7sfEwLvlUbJtHWGy5TRs"
     }
   ]
 }
