@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-27T08:02:46.142171-04:00",
-  "hora": "08:02",
+  "updated": "2026-11-27T08:13:10.648607-04:00",
+  "hora": "08:13",
   "fecha": "27/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWS1FRlN4WXF5SGpmeEJzWFhmY2hHVnAwcV9wcHFPMkRqZ09YVlRmb2dEMjFKN2NRbE9KRWNxendmSDZCVzdiZDR4dmZwa3V3c0lkTFNXUUtoamJuUEh4NURRS3BjMEs5SW95NEZJOHhWUGhrQldaT253OEd6bTFtc09Oa1IxenZOZnljZThvNDdsOEl2SWtjU0pqRDR2S1lza0x3S0FTOHEtQTZwZFQwWlNrOEMtYTYzbmtoOUpCc3VlRXZTV0REdzhFQ1lmUG1fM3VmVlNnYUpjN1U?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
-      "imagen": ""
-    },
     {
       "titulo": "República Dominicana celebra el segundo lugar de Melissa Núñez en Miss Universe 2026 - Telemundo",
       "fuente": "Telemundo",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 07:12:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/847/815/49859500556-1080pnbcstations.jpg"
+    },
+    {
+      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
+      "fuente": "ESPN Deportes",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWS1FRlN4WXF5SGpmeEJzWFhmY2hHVnAwcV9wcHFPMkRqZ09YVlRmb2dEMjFKN2NRbE9KRWNxendmSDZCVzdiZDR4dmZwa3V3c0lkTFNXUUtoamJuUEh4NURRS3BjMEs5SW95NEZJOHhWUGhrQldaT253OEd6bTFtc09Oa1IxenZOZnljZThvNDdsOEl2SWtjU0pqRDR2S1lza0x3S0FTOHEtQTZwZFQwWlNrOEMtYTYzbmtoOUpCc3VlRXZTV0REdzhFQ1lmUG1fM3VmVlNnYUpjN1U?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
@@ -89,7 +89,7 @@
       "fuente": "Olympics",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXVDdWxubXBwU2xhU21US2VFWUpzMlloaDJzT1FWUGR3R3d4ZmtsUlJ2dW9sb3ZLSk5CdUZXeHVhdW5KRGl1QVJYYnF1NU5sQUNJNmRhSkM0U1BrTW9ZQnJKajZLQUFMeWdYbWE0RHE0WS1ZSUM3RWozeUprVWYxdFMzbUxqQWRhZmVlT2gyR1phQzNJWFRFMVFBWlVFTUtxQ2tSMEsxUy1QLWcwZ2kzMWp5ZGtCRWt3YTFR?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 18:17:55 GMT",
+      "fecha": "Wed, 25 Nov 2026 18:18:45 GMT",
       "imagen": ""
     },
     {
@@ -99,6 +99,14 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 27 Nov 2026 07:00:26 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana celebró por lo alto el Día del Merengue - AlMomento.net",
+      "fuente": "AlMomento.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpidTRfdk5VN2hMTHEyOXVWbXIwU3hBV1JNUnB0OThUeERkT1VwYm1VODFqRHlzbXN3cFJPVEpJaHlzTUxVZG1yRnZCaDhWY0pZeF8xV016VzE3cmV1ZTZjRGNaQkYyTGxST2FQd1hscVN4c19WWnRyVjN2bU5wX2w4bEtiS2hv?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 07:50:48 GMT",
+      "imagen": "https://almomento.net/wp-content/uploads/2025/11/Bailadores-de-merengue-e1795700256720.jpg?w=600"
     },
     {
       "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
@@ -115,14 +123,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 09:02:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
-    },
-    {
-      "titulo": "Destaca su participación La directora felicitó a Núñez por convertirse en primera finalista y agradeció que representara a República Dominicana durante el certamen. También valoró que la modelo hablara sobre la educación y la empatía durante la compete - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSc01CY2NBNEhDOVYxc3BNYnBqcFc3UjhzMERJTDVMSXF4M0ZJM2toaU1DV3VubFh0LV9fVVhjVnZjZFhmakFjWUJCVmhoQjJOV2c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 22:17:50 GMT",
-      "imagen": ""
     }
   ]
 }
