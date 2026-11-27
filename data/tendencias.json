@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T00:15:43.330468-04:00",
-  "hora": "00:15",
+  "updated": "2026-11-27T00:26:08.659660-04:00",
+  "hora": "00:26",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -41,6 +41,13 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWRLxBX2fRWJXtBzpRL8hXnfCB7cVKtkPBuIkbcnAL7SoeCfMow-VLe7WY4iY"
     },
     {
+      "termino": "fiesta telemicro",
+      "trafico": "5000+",
+      "noticia": "Geólogo Osiris de León recomienda cerrar estructura deteriorada en Plaza Güibia",
+      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/24/geologo-advierte-sobre-riesgos-y-recomienda-cerrar-plaza-guibia/3730804",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipjD_T3lZMVU-rdNRCO48XJ6-32azxrW207jTL0aWZ1dbql8mdxqRRohb3Nc"
+    },
+    {
       "termino": "crystal palace - real sociedad",
       "trafico": "100+",
       "noticia": "Palace come back to beat Real Sociedad 2-1 in Europa League",
@@ -57,23 +64,16 @@
     {
       "termino": "europa league",
       "trafico": "200+",
+      "noticia": "Licensable picture: SOCCER - UEFA Europa League - Juventus FC vs. AC Omonia Nicosia",
+      "enlace": "https://www.reutersconnect.com/item/soccer-uefa-europa-league-juventus-fc-vs-ac-omonia-nicosia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEExMg",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkoSEmh3Nm-8YR8AtrnjkauaFxuMF1wnVUsBBDs1x890UhUM5gQJkw9IFHano"
+    },
+    {
+      "termino": "olympiacos - milan",
+      "trafico": "100+",
       "noticia": "Hutchinson says position tweak helped inspire comeback: “I have to make a difference”",
       "enlace": "https://sempremilan.com/hutchinson-position-tweak-inspire-comeback",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFlkgn7YErbJYqLK_k_X9YFl3OkGJaXF3zff3KR7cLQQ4gDc6BAEFD_F8iTI"
-    },
-    {
-      "termino": "nfl",
-      "trafico": "500+",
-      "noticia": "Butker Field Goal Cuts Bills Lead to 7-3 Before Halftime",
-      "enlace": "https://cwibc.co.id/en/butker-field-goal-bills-halftime",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS193MUFiE6cKBjOCxIzHDU-xANRYq8FHqWje_ZEI6Lo-H28jzOeBeQhYEgz8Y"
-    },
-    {
-      "termino": "festival",
-      "trafico": "200+",
-      "noticia": "Presidente Luis Abinader dispone tres días de duelo por fallecimiento del héroe nacional Delio Gómez Ochoa",
-      "enlace": "https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-tres-dias-de-duelo-por-fallecimiento-del-heroe-nacional",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVqBApC7DnmtVEl9pkn3MLd_jT2762WKUPMO_Ex7sfEwLvlUbJtHWGy5TRs"
     }
   ]
 }
