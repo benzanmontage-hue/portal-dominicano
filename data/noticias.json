@@ -1,9 +1,89 @@
 {
-  "updated": "2026-11-26T23:02:53.118979-04:00",
-  "hora": "23:02",
+  "updated": "2026-11-26T23:13:17.625368-04:00",
+  "hora": "23:13",
   "fecha": "26/11/2026",
   "total": 15,
   "noticias": [
+    {
+      "titulo": "Acción de Gracias: la celebración que RD tiene por ley y la diáspora llevó a la mesa - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkNfb1gwTjh3ZDVfam4ydGd5WlRPNFdrdkc4b0RqblBaRDNxenVHb2dIb1ByYk1ieDJEQmNGZjZfS3N0aHRGM1gyaXprUFphSkFGbEY2YmszTkNXODFCd3d1NGRrZzFMbTJ1eGtIX25Ga2JWbUxHVWw1X1VrNHpoODVMemR1R0N6OFNEV2ZpMkNhZ2FIZ19FbWRPckxTVkFYcFBNSC1yaXFRUVRRV0VxVTk0bjBHQkJZYkpydFUzNWJBR2lCbkJIeNIBzgFBVV95cUxQX2xDcmtfRHBMWkQ3NFdodWVudFV4RXhneW56X0JrSzFxWkNDNHk4dnI4ZllUTnBpVFNYYXRYcmJEdzlVNDZ1VDNFVTg1cnhHc2RpdWZ4a3QxSTVveWV6ZENGNFAzSTVqcWJhcGtDbmFnRmg2Wm9CUzJkcEtGbGVocGp3MW10U0ZQeHlIWTVXRmdlclRuUDNVaXJEZExZVkcwcmtFRG5ud0hTZ2VIcDVIajRXcXN2aWNOWTJjNGtvTWVrMzVuOGhyV0pvczJhZw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 11:28:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jessi Rodríguez pone a bailar al presidente de República Dominicana - Univision",
+      "fuente": "Univision",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFpiY3Z3cDRZQWJqajBxTXZNMlZORlRDbDJxOXl3clkzcERDZlU0Q2RjWDJTTF9UM215NGZJbnl2RGJhcU9xcnU3RnFVbFM1Y0s0OG9aMWlqTm1vTmZjMjFickg5UGExSVItMVUxamZtazFhbl9OVjZVS1hxRTJjbVV0MzdNOGJUaGVXdWd2X05neEFEcF9MNGJwc19JcG5OeUN0cXh2QlhrM1N5SGp6VEgyc1hISWNSMWY4TzkyVUtlSTR1MTVpN2dQdlg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 14:40:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana presenta sus 12 para medirse a Colombia en ruta al Mundial de Baloncesto - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzQ5N3ZmZUh2dWllVEp5X1ZhMzBUUWRzeGd2OFdiVmtIV0pQMGFMLVFJT1o2dzFQYUowcTQtVEdaeG9ETExvdmRzeVQteG45dFJ6LTFaR1JqMnlsNTZZNWk3UjZRXzBYMmU1NDZ4UGVaVnRuaTRMN2l4VlREY2pKLTBlS21TWHlJN1FtUjBINWtxUmVmdURRY3B4LU5NLVhNSWRyQ1NGbmw1UDc1X3ZSVlMyNUVxc19CUDNFYdIBwgFBVV95cUxNWWI4ZkpsUTVHSTlsQzNPNW1VQ0JnV0FyaDQ1U2VjeFhZN1FzZ3BfQWt0bkdCMXp3MUQ0VTJpa0ktWF9ob3p6anl5Vy1KSjlxTkR5ZXlTSVZiODJRTFhuQllLcmE3ZnNrcWZqakNudk12VG5NX1F4QlNkWlJEbVdjbUNwXzJFYXJ0YmVXaDBhcjdrTWZmTEp4RXZqVjhuZzRLOTZnSDB5SmpwNFd3a2JCQUlUclp1QUttMXdjM1JVWEx1dw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 00:20:04 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el tiempo el fin de semana? El pronóstico para este sábado 28 y domingo 29 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWjFxZm5Kb1p1eGw4ZFVadVUtWFd4YTBMaENtM0ZWWVlDWWNEWHhzclhuWi1OTDVXOUVJWUo4QVlGRUwtQmdRd2JzZnVXRFFLV2UyUEkyWjFVOFo1Nkh1SzQxUTN5RFZBeVFJUXVoUnhnNHAyR0xYVUxuQ0pZdEZpWGgxNUU3eXVwTV9GM0xvd0dnVG1wamxNdG1TYTN1T21EWU5jbEt5bFpqTGluNVVoM0FKWTZNajAyRUFXemhCZV82WjBmb0MtS2xwb2FlWVNtQUU0RjFXTlB5cDcyM2RvU21ScWFBbzJ0M1FZaFF5NHk2dkJWQV9UN0s0bFUwYTAtRWZ30gGDAkFVX3lxTE9aMXFmbkpvWnV4bDhkVVp1VS1YV3hhMExoQ20zRlZZWUNZY0RYeHNyWG5aLU5MNVc5RUlZSjhBWUZFTC1CZ1F3YnNmdVdEUUtXZTJQSTJaMVU4WjU2SHVLNDFRM3lEVkF5UUlRdWhSeGc0cDJHTFhVTG5DSll0RmlYaDE1RTd5dXBNX0YzTG93R2dUbXBqbE10bVNhM3VPbURZTmNsS3lsWmpMaW41VWgzQUpZNk1qMDJFQVd6aEJlXzZaMGZvQy1LbHBvYWVZU21BRTRGMVdOUHlwNzIzZG9TbVJxYUFvMnQzUVloUXk0eTZ2QlZBX1Q3SzRsVTBhMC1FZnc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 19:00:11 GMT",
+      "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/05/Clima-fin-de-semana-OG.jpg"
+    },
+    {
+      "titulo": "Cuba vence 3-2 a República Dominicana y consigue boleto al Mundial de Béisbol Sub-12 - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1dMQm0tcmpOWDZrdW5aeDc5RkpkdUllaXRNN0hqTVUtbUFYYnE3RlgwaDFJcERHZjdLYm1fVVItZ1pnMVBQV0FKby1ZV3hCcWt3NmYwblNFYzFldGF3Q0RHSEY5SkREOWg4X19IU0V4N0RNemcwSWNsaUxUTmt4RGQ2QkNSZlZfVzZqbXE4ZWhOZ3VjLTdhaVBqQUV6djc0VGlMaDFWRXdCa3U0ZjFwWC1sMms?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 00:00:22 GMT",
+      "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/Cuba-vence-3-2-a-Republica-Dominicana-y-consigue-boleto-al-Mundial-de-Beisbol-Sub-12-3-scaled.jpg?resize=1200%2C1200&quality=100&ssl=1"
+    },
+    {
+      "titulo": "República Dominicana tiene un atraso de seis años de escolaridad frente a los países de la OCDE - Listín Diario",
+      "fuente": "Listín Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRERxY25xRm9rWG56TThvdkdBNlJ3NnlDQWFCQWRUOTRJWGtVUHU5NVliLV9nb3Y5Z0M5eWhNZl9tNnVjZ0M0SlgyMTNXUzJkOHM4Ui1UQldjcndtTGw1cW1acEdmTjFSUE5kd1FZTW5GcXhqdnFiUWFkQ0pYblhUY0ItWVVnWllDQU1yTFJGTnJNZXdSaWR1VEpCVnFqNFRuUmVGVE9tZmx5ajhkbkpWMlpNSS1RYVJOZjBfdGF0MU43TjlMMFRPbmVB0gHPAUFVX3lxTE1wWmo0WXJKWkVMNWpDcXNVekRySW52cWhaY2VnY1pzXzNKaUxKQWpxNTdJcVp6UjhOWTRtb2pEYUF5N3YydTZaVVRqUXpRa1VZNUFYRUd1ZTlTV3dRT0xlbE5zYU9UbTJRcFZkS0xwQ1BERHEwVnE1dzZoZnVzUF9xY0NUck44bzFZSTBtc2ZROXozR3lobWFIRzJHbWZpem5Qb1g1ODh1TjZncm5oSUtUaFY4djV3ekp1NGl2amdiRWZmZEVDLWhXQm5fWkNWQQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 04:00:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "De Ramón Alburquerque a Alex Bueno y Román Ramos: las figuras dominicanas que nos dejaron en 2026 - Ensegundos.do",
+      "fuente": "Ensegundos.do",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0RWei1LM3lRN2hnRi15RFF5WU1SSWttS09YZkY0cmdxLUFfUEJLQXA2eEhVOTM0enZEblpwWmo1Y2pUcV9WYWRRSThuNVNjbFByakwzN0ZLX2dTUUZyLXRVWmxjT2h4TVppdWtFT3dUM1dnX1Q0X1Zxc2dPS0ZaWHlzbzNHckVOZVFnR25rdGt1akZYNnV6Y1ZIRzZTWlhUTmppS1k0MDR4RWFuTTdpRGtnbFJzY2ZHV1BHU3Y1ajJoNEowZnRMZDJR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 20:14:30 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¡Alarmante cifra! República Dominicana supera las 80 mil denuncias por violencia de género - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQk1QN1pnZGI1dklSYjFRZkt1ZnVwWEREd1B6c1p6SzdRNTZSdFBUdXdWbWIyNjZ5V2t0cFdrQUh2ckUtVms2UUNsLWdxV3Rwb0M0UGtySzctRG5LRTdOZFJfQXUxbkZxWkYzS0dPQmg5M1hSYlBPbWVrVmpnZGFuZ1l2N1ZKcG5XQml6UW9RbndKLWJUYWQ3empnbDNGODdxT0tuMFhQTXFVSUFydHVqNTRZai0xS190TjY2cFRvM0ZESDdI0gHKAUFVX3lxTE1kSWxsN0REdG52bFpTVnBqbXlVSG5vd1BSNkExQlVtelNuTy1hZG15a0w0N3BkUnJKd3lEcEpZenVmRHlWN2VyOTFSSTNlQ0ZScUoyWTB5cG1ydVphS2lsU01mekFaeE82WW9YM1hfQUxRd2x0SE9peXlGSktjNE9vNk9qQ0RfOHdCaHh4NFZNNUJzZl9KR0lJVUFaSGZXSzljTXdWaEJhbWZOVzYyU3JQQTFkU3pLNjVySS1BUmVka0VtZ25zRnJrM1E?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 11:37:19 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Investigadora del INTEC gana premio por sus estudios sobre violencia escolar en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGRqTXpEbEVTaEU1djR0RkZWQW0xSTU5MU15U0ZEejhFR1BtLW5tbFM1bk9UTEZGbWEyTmZSdWJPYUR0clgtcF9qZDVTVzRTdjhoZWtmNzgwUFN3MDl5LVBZcVd6S3BPX2gzNHc2VS1CNUhNWVREQ1A0UEtFa1Z3NVU0c3dJVEVSSnBtLUppMGdKU1ZmcVlMZWN5bUJZalliSVlSa2MzN0MwVnNiLWdxdFdEODM5VzFvUWIybmNlempaWVpOZTg2bTI2ZndJZlItOE9KRVBqcUpZMDNTdWhZ0gHfAUFVX3lxTE9YZGpNekRsRVNoRTV2NHRGRlZBbTFJNTkxTXlTRkR6OEVHUG0tbm1sUzVuT1RMRkZtYTJOZlJ1Yk9hRHRyWC1wX2pkNVNXNFN2OGhla2Y3ODBQU3cwOXktUFlxV3pLcE9faDM0dzZVLUI1SE1ZVERDUDRQS0VrVnc1VTRzd0lURVJKcG0tSmkwZ0pTVmZxWUxlY3ltQllqWWJJWVJrYzM3QzBWc2ItZ3F0V0Q4MzlXMW9RYjJuY2V6alpZWk5lODZtMjZmd0lmUi04T0pFUGpxSlkwM1N1aFk?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 00:45:10 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Salud mental en República Dominicana: una realidad que muchos viven, pero pocos reconocen - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXoteVVQLUpGa2JXeTBUM1BOUGk0LW16MXBJekJHbGtKWEd0VmNBRmxpNmZZWGR6WXBxUTUyLVNpUVk4bHJQR0xfSTBKbGdiOGhVNUhDRHp3Zm54WHg5elllTHlDaVpNWExkYThWcy1fcW5nVkpLNjg5SUU4bWxFVjBTWUpFR3JxZ3FubXFsS2Z5aE9zLXZzVURKVG1WUTBvLWNCcFJZLS1USmhYMlNhQ3E2c9IBuAFBVV95cUxNQ3NDaHNCcExPLUI4M1VtcnpERm5kQ2toUmppaWozVGUxSmEyYm9TUUR1MVUtWWh0TThrT0Z0SFdjNlpSWi1nVVJxVV9LcFM3cmhNX1UtdG1TcThMNXBqb3JyVnFHZnk4dG9Tdnl1M3Y1WENOVTdyekJWcVE3UFlKOTdhXzJqTnVHNGQyMFN6c3hBcGlCTmpGSHlqRFNqX0hDbF84QkpXaGZCQmx3bnR5RVkzTnlHU2xR?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Thu, 26 Nov 2026 10:00:00 GMT",
+      "imagen": ""
+    },
     {
       "titulo": "La iluminación de Villa Navidad enciende la temporada festiva en la República Dominicana - Yahoo",
       "fuente": "Yahoo",
@@ -29,14 +109,6 @@
       "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0f3c/live/bb4defb0-e82f-11f1-917e-35f1674fb52c.png"
     },
     {
-      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWS1FRlN4WXF5SGpmeEJzWFhmY2hHVnAwcV9wcHFPMkRqZ09YVlRmb2dEMjFKN2NRbE9KRWNxendmSDZCVzdiZDR4dmZwa3V3c0lkTFNXUUtoamJuUEh4NURRS3BjMEs5SW95NEZJOHhWUGhrQldaT253OEd6bTFtc09Oa1IxenZOZnljZThvNDdsOEl2SWtjU0pqRDR2S1lza0x3S0FTOHEtQTZwZFQwWlNrOEMtYTYzbmtoOUpCc3VlRXZTV0REdzhFQ1lmUG1fM3VmVlNnYUpjN1U?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "República Dominicana celebra el segundo lugar de Melissa Núñez en Miss Universe 2026 - Telemundo",
       "fuente": "Telemundo",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWtYMGo1dWN6dm5JR29UNEdqY1FDclh2SElqc1YtS3pEVTdSQm8taG9hcUlzWkZ2bmRDSk9pNTJKNHRXOXlweWtiSUhETlN4V0lwVUFNRVUyOWloajNTalY3YjdlRXJUUExwcjU5b0ZiT2VqcGoxajUxempQLTAxeXVfWmlDMTVaY0ZfRy1KUlJXY2lJbEtiN2I3bDVYQU5JRk1LRlhIMmtaZTdsc0pqc0JqSGdwYkh4b0hETk80LVlaeXhWR3RqUkJVS3ZQNUxaUFdjeHg2dFdoZTBRZVJ3T05rZVl5dmJrLUNpTkZfUXlaVVU1UjhKT2lB?oc=5",
@@ -50,78 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjZFUmFXYnBRTTZock16RUg5SzJ3aEt5UHdLNVVRSVFlRmVZRmFnblJjcVNINDYtOHlUbFZ6SDE3QVJvZzg5eFpNb2JsMnpLNXczZGVYMC1RT2lPZV9aLVoxSHZabWhDTDJWZ185bDZsUlRTT3FCb3lWS1FmdGVIc0oyWm1wa1pFdnQ3Rkd5bzdUcDBySk1TQmlBOUUzUzZHVUN5eEZWS05EZGVmY0EyNlNuRTVqSkU?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 26 Nov 2026 14:27:31 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Economía de República Dominicana creció 5.4% en octubre, impulsada por la construcción - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFkxeEY3bGhRajBDUUVxVWFwUS1kQ0ZOZzdQdzhiOFpWUHpiVy1iWVhzMmVJS1Z1VGo3ZEJuZHllV2ZCMmwxMTBXS1pOZllDM3dzVDI2WmJDdlZWUkRhWDloaDB2bG1qWHpSUTFjbGtBTHNCR3R0cjZtRVNuczRWeXVXWFVVb2g0QTV2TlJibV95U0lER2VSUG1IaHV6V3pmWWdCMURtSXdDRzFiUldfaWhtLXRNNjRDUENMcGdNbXMtUmt3aGxoYjVqd0s0LVEyZTFrUHZINNIB8gFBVV95cUxOYVdJZ1g5UTJabHYxVGkxczhwS1F6bVJIcEltbk1yeW1iUUZDU0JOYVp0aDk1OFlkNHhaSmgwTThTYW1aQnVfcDBIWFQzc2hrbTVhYjRwUTl4RmtRSkhKd0h0b3RWVDBBdFc4QkJUSEZlTzFoVWR3SlNOdUpYNlR3a3lBVzJBdFFtb09pSHNldWUxczBJVXZTNkhHTENBdUhCX1dnR1hLbzBrSF9zQ0h4eGhJcURIc0tmZkxqOE1TdkhjNkdCdW1ZdXBoNU5lVzdwMG5VTEpVTTRwQnUwZUlPSVp4eDktY2JCYkVXWnN5M2haZw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 18:07:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/LYQMJJHXYVD63KIKU3QJVDTRYU.png?auth=7070302871e72ba822f5ddcace50033818d78112433349608db8c51a70378476&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "Cuatro razones para navegar con MSC desde La Romana, República Dominicana - Noticias de Cruceros",
-      "fuente": "Noticias de Cruceros",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnhmV1dvbG8wUHhkb0lnazlVRWU4QUdOLUIwTHFnVHhGN1FGMi10SXpobWhVSzVQeU8ydFdWc09UVUk5eC00VjdtZTBSdXlvMXo4V2VGX2JlM0pJRmV1dmxFMkU1OHh1YTJaUVR6QWoySFV2S2JtZmRKd0hBSkZCTGZSb2VKc3MteE5MdnVJTWd2aGFpRXpBU0tYR0lKX0E1MXJaRk9ENTFCNU1sb3dwZlJfdTdmUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 18:59:39 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Voleibol · VNL 2027: Calendario con los partidos de República Dominicana, Argentina y Cuba en la Liga de Naciones - Olympics",
-      "fuente": "Olympics",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXVDdWxubXBwU2xhU21US2VFWUpzMlloaDJzT1FWUGR3R3d4ZmtsUlJ2dW9sb3ZLSk5CdUZXeHVhdW5KRGl1QVJYYnF1NU5sQUNJNmRhSkM0U1BrTW9ZQnJKajZLQUFMeWdYbWE0RHE0WS1ZSUM3RWozeUprVWYxdFMzbUxqQWRhZmVlT2gyR1phQzNJWFRFMVFBWlVFTUtxQ2tSMEsxUy1QLWcwZ2kzMWp5ZGtCRWt3YTFR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 18:09:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Destaca su participación La directora felicitó a Núñez por convertirse en primera finalista y agradeció que representara a República Dominicana durante el certamen. También valoró que la modelo hablara sobre la educación y la empatía durante la compete - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSc01CY2NBNEhDOVYxc3BNYnBqcFc3UjhzMERJTDVMSXF4M0ZJM2toaU1DV3VubFh0LV9fVVhjVnZjZFhmakFjWUJCVmhoQjJOV2c?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 22:17:50 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Uruguay goleó 5-0 a República Dominicana - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWFBObGt5ZW04V2dHOHBjQmpuNVprMUJwc0RId1FMazNqRkhSNEdqQ1ZoRjVBZjQtcmd0bmRkbS1GRjdwNHBmUDVheVNyX2VWT3o5U0pLaUdPMUJQZzk4NEg0NE9PLW1ETXlFaTBVRHVuazN1OGtHMEY5TlRSYjh5Q21SSnJ2UEdGOXlBYWJ4M3ZzcVBWdTB2WXVZcERBN1RBRElxaXNjN2lWVDdfSTNwUWg5ZTZyZHdndF83YmtuSjh2MDBXN2J6SkRVT0RSRVZRTjYya0gwVk1JYTNIeWxWYXdoN1ZhYnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Miss República Dominicana queda como la primera finalista de Miss Universo 2026 - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVWo0bGt0ckRxWVdyQ1hfY25oSUwyODJROWNCZ2UzdEVQT2swaVVLT2ZCOFFfMmRBeUpNUDdZTnZhTkxpUzNSTlNpc1kxVEJHWi1KSXRSdnhpOTBVbFRmeF9oM2hLZXV2aGNkaFNHakFfU2lSc0NSMjVHb0RFYy1ldFN2d21qaEMtMVJHQk9jZDc2ZUZ6N0ZSYXh6V0R4U2FxbkJBRjhwTDJaS3pKdEtSaHl3aGY0OURvLUZuZzRDaEM3cTBadUdGaHJVR05vcC1xelR0dHo4NkFacFVnYmcyT3ZlOE1wRU0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 09:02:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
-    },
-    {
-      "titulo": "Los vehículos usados representan 6 de cada 10 unidades ingresadas a República Dominicana - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEloV2VNV05NaGllbWZRUW0zeDdmeFNvenpJRnBHWWxNVVMtSnBLYW1mY09aRU9YdEp6NGpEbl9pcHBkSjdzRWRlWjBwN2dVWVhTcjdJa19LRkxSdThSZnZRSzR3Wm96X1NHLUoxazRYcVh6V0oteHV3d1BMZHc3Z0VIMC1kZ2l2QkUySjM3TW83b3J0c0xUT2xVOTBSUXJTRFFfZ2hadXNNY1RCWllZX3NCVDV0V21ERHpKYk4yN2RTajl3SzRJRkttZEtvZkZMVkxrb0JxMWdyaVE5Q1HSAfgBQVVfeXFMTk5WbHdBTDRmUTM4djQ0akxZV1pOc3dlb05JajBhUzgxWTNfd0ZmR1VXbUszdVlMSDM2eW1NTldocVVyRDJzZ0FKZ2dMdHlCX0ZKQXJaNHM0clFKYW9zOExwYVBZSFRzZHkxcVZFTmUtbFRuVUxGZXNfMnVOVTQybFY1OVR5ZkpYdkJ0Wm4tNHRjaFlGMUQ5QmJYYkI2TTVCcjZ3MXZieDV1d21BbDhIQVVsdkRXMy1SX0p3QXRNcmRTVXZUc2FxTk90T2VCTk44dVEyS1FLdlBGYUVURFk5RTlJZkpqRE5tQlVBcURqSU9mNTFwSUVqUTI?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 22:00:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "República Dominicana es el escenario elegido para el cierre de “Mejor tarde que nunca”, la exitosa gira mundial que ha unido a Romeo Santos y Prince Royce, dos de las figuras más importantes de la bachata y la música latina.⁣ ⁣ Bajo la producción de Ri - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWmhqT0FBdHp3SWFxWFRETkJ4OGZPMnE1MFlleWwwVkFsWVN3WlN2QVlzZHNRa3F3dmVKekhQQzFyb2JIa3ExZWpWYTBMZm1hMVE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 14:45:05 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Mexicana ITM Group suma tercera terminal de cruceros dominicana con US$90 millones - BNamericas",
-      "fuente": "BNamericas",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckFTT3d3VVB2a2lwdXJQQnN5OHlKQVFJWVVDNml5NDJoSjNhTDltcUo4enVGNmZvQUtFbVlHRE5VT2dTaTJocUJ4TFB5ZElsdTNqaDBjQkV4YnpKcjVUR3poa3FxVjQyNnpoTDV6b0ZJSXRJd2htV1BwYWpOUXFjRnV2OGl0WDRSamh6N2sxdTA5QUdkR3lQUi1NVS1IR0RrcjM1TXI2RC0wLW5sUk9EVF9JMA?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 17:52:19 GMT",
       "imagen": ""
     }
   ]
