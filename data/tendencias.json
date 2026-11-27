@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T20:36:50.333943-04:00",
-  "hora": "20:36",
+  "updated": "2026-11-26T20:47:15.336121-04:00",
+  "hora": "20:47",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "aaron rodgers",
+      "trafico": "100+",
+      "noticia": "NFL Network: Aaron Rodgers clears waivers, now a free agent after stunning release from Steelers",
+      "enlace": "https://www.nfl.com/news/nfl-network-aaron-rodgers-clears-waivers-now-a-free-agent-after-stunning-release-from-steelers",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRl2_nsnNLynp1gNjWh_TxGCrXlqLA7llDly-bKSiLQW0e0oRKNv07ZEkjhH4"
+    },
     {
       "termino": "josé siri",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "Todo lo que debe saber sobre el bono navideño que se entregará desde este domingo 29 de noviembre",
       "enlace": "https://listindiario.com/la-republica/20261126/bono-navidad-entregara-dos-formas-diferentes-2026_931604.html",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0XwroE5F-pabXoRE0OIC0MekcJzwTMmJgmXBUV-NcNvC65YYxgqEZcCBWgrg"
-    },
-    {
-      "termino": "pepín corripio",
-      "trafico": "200+",
-      "noticia": "Pepín Corripio pide al Estado prudencia con los subsidios: lo que advirtió sobre los alimentos",
-      "enlace": "https://revistamercado.do/market-brief/finanzas/pepin-corripio-pide-al-estado-prudencia-con-los-subsidios-lo-que-advirtio-sobre-los-alimentos/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHPNeBfct6B0N7VNHA9Cez9ifUsQiXOhx5iHdOkKwVwT1Ui4I-x2HDL9BBCU"
     }
   ]
 }
