@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T09:58:44.910444-04:00",
-  "hora": "09:58",
+  "updated": "2026-11-27T10:09:14.347248-04:00",
+  "hora": "10:09",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,6 +20,13 @@
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFEJ9AR2bbcZO6JTQYylUuf4qfMtxQgmBUmwnNomOFIqoVhYDFlxPsFymKFE"
     },
     {
+      "termino": "black friday",
+      "trafico": "100+",
+      "noticia": "How to Have a More Sustainable Black Friday, According to Experts",
+      "enlace": "https://time.com/article/2026/11/27/tips-for-a-more-sustainable-black-friday/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyOdCp0XNblP7FJuCI5vpf0obvX5n2bLV5sWiraVtq_oznqLjCwHF9hxpfFTk"
+    },
+    {
       "termino": "arresto",
       "trafico": "500+",
       "noticia": "Raffica di furti e danneggiamenti alle auto, un arresto a Mezzocorona",
@@ -29,9 +36,9 @@
     {
       "termino": "condena",
       "trafico": "1000+",
-      "noticia": "Será noticia: crimen machista en Bilbao, último día de campaña electoral y Black Friday",
-      "enlace": "https://orain.eus/es/actualidad/sociedad/2026/11/27/sera-noticia-crimen-machista-en-bilbao-ultimo-dia-campana-electoral-black-friday/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtB3ArswdHqj6PSKpZgTr1bJg2QAIOpgoVEP4Bqf08v_RJf-JO4771731WsQ"
+      "noticia": "Dani Alves, ante un nuevo capítulo judicial: la decisión que vuelve a poner su caso en el foco",
+      "enlace": "https://www.hola.com/actualidad/20261127937648/dani-alves-ante-un-nuevo-capitulo-judicial/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwDvxw2wMvCnikmwH9qzG5Z_soYgH887Ry2Ps8x31woXYV_8ExVxRX8pO2xbo"
     },
     {
       "termino": "1password",
@@ -50,9 +57,9 @@
     {
       "termino": "aaron rodgers",
       "trafico": "100+",
-      "noticia": "Steelers cut Aaron Rodgers after QB rips McCarthy in scorched-earth interview",
-      "enlace": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoxactf72bzZjHz3aP0j6Ab0mVsGm3dlbtrR1S9_1m05WVdTuQm0pSKEba38"
+      "noticia": "Sources corroborate Aaron Rodgers  allegations on Steelers coach Mike McCarthy",
+      "enlace": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNU-RoPuN6KyPUrPyEdAxkh03Rr-vOX0Kmf84NO9G3ackpwjFHvjEYZHpEgdo"
     },
     {
       "termino": "josé siri",
@@ -67,13 +74,6 @@
       "noticia": "Lo público merece cuidado",
       "enlace": "https://www.diariolibre.com/opinion/editorial/2026/11/25/cuidar-los-espacios-publicos/3731974",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEGXW_PucuzrPcU3xY-PkSUiYxu_e_TUWi4Ul8NB8_mFZKFP0Jh_noh58uJKQ"
-    },
-    {
-      "termino": "crystal palace - real sociedad",
-      "trafico": "100+",
-      "noticia": "Crystal Palace player ratings: Henderson inspires stunning 2-1 win",
-      "enlace": "https://dave.sport/news/crystal-palace-player-ratings-sociedad/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp7MafDGRA8nRxOwPHVwpW4V5lBE-cXwBif50EaxY5_vDDenAaW_HSnMLQYLs"
     }
   ]
 }
