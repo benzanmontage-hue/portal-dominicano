@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T18:09:59.479144-04:00",
-  "hora": "18:09",
+  "updated": "2026-11-27T18:20:23.425420-04:00",
+  "hora": "18:20",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "concierto",
+      "trafico": "100+",
+      "noticia": "Romeo Santos y Prince Royce anuncian segundo concierto en Santiago",
+      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/27/segunda-funcion-de-romeo-santos-y-prince-royce-en-republica-dominicana/3733560",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlGIAcN69i8i2QfpdWHEkzxVoCriNufgyBBfyjk7UfyIBspqH4O4L9HVhOabM"
+    },
     {
       "termino": "levante - racing de santander",
       "trafico": "100+",
@@ -29,9 +36,9 @@
     {
       "termino": "mundial sub 17",
       "trafico": "100+",
-      "noticia": "Mundial Sub 17: México ante Argentina en dieciseisavos",
-      "enlace": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17569973/mexico-argentina-mundial-sub-17-dieciseisavos-de-final-seleccion-mexicana",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNXd3SX4AMHJ-pZrEIJBIBT1PPzkAuoV90i2Zp3bRirP4C8qxG_klvc9Z8Kf4"
+      "noticia": "Mundial Sub-17 de Qatar: se definieron los cruces de 16vos de final y Argentina tendrá revancha ante México",
+      "enlace": "https://www.clarin.com/deportes/mundial-sub-17-qatar-definieron-cruces-16vos-final-argentina-revancha-mexico_0_CtRhdiFnXU.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbBGG5FB62Zh3WgY8423wjQbINjZVyLyaqi409IZFYp1PgU0SSorQ2orU54t4"
     },
     {
       "termino": "dazn",
@@ -57,9 +64,9 @@
     {
       "termino": "black friday",
       "trafico": "500+",
-      "noticia": "Underdog Black Friday Promo Code: Enter Code FOXNEWS for a $50 Bonus Today",
-      "enlace": "https://www.foxnews.com/outkick-betting/underdog-black-friday-promo-code-enter-code-foxnews-50-bonus-today",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Bk3gie9SLCkVinfOMbLNzB0Agc2nC3ABDZv_lqoJcm2xZA56jjeYv2vh-SY"
+      "noticia": "Valley shoppers camp out in cold temperatures for Black Friday shopping",
+      "enlace": "https://abc30.com/post/valley-shoppers-camp-cold-temperatures-black-friday-shopping/20090463/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSar0VehQZo6a2JC3QkCox6jHRW3j7M5aRBityiVDmg_FWFZPPJheqj6UcMdAc"
     },
     {
       "termino": "arresto",
@@ -67,13 +74,6 @@
       "noticia": "Pescara, controlli interforze a Rancitelli e Fontanelle: un arresto e 87 persone identificate",
       "enlace": "https://www.notiziedabruzzo.it/cronaca-abruzzo/pescara-controlli-interforze-a-rancitelli-e-fontanelle-un-arresto-e-87-persone-identificate.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR00LZIVc7DRvTfanCd3pukNDdrVsyDeetz_9ClOZI-EYUqe-HBB1PVo9INh7w"
-    },
-    {
-      "termino": "condena",
-      "trafico": "2000+",
-      "noticia": "Rebajan la condena a Mir, que aún es de 7 años de cárcel",
-      "enlace": "https://as.com/futbol/primera/rebajan-la-condena-a-mir-que-aun-es-de-7-anos-de-carcel-f202611-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVa0I7EemWkOn-6qy9JKMFBPTqKzg0OFsZ7nYNGkqMUJyLBSWhjj94gacGW0Y"
     }
   ]
 }
