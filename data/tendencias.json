@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-27T15:34:29.763706-04:00",
-  "hora": "15:34",
+  "updated": "2026-11-27T15:44:51.817265-04:00",
+  "hora": "15:44",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nottingham forest - chelsea",
+      "trafico": "200+",
+      "noticia": "Chelsea fans’ preferred lineup against Nottingham Forest: How many votes did Fofana get?",
+      "enlace": "https://weaintgotnohistory.sbnation.com/premier-league/174370/chelsea-fans-preferred-lineup-against-nottingham-forest-how-many-votes-did-fofana-get",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9T0fdcjoeEoaYg5U8bS7-oE7A-MEI_ab9Q_zvqVeencfXjioUAYoL5O54D1Y"
+    },
+    {
       "termino": "policía",
       "trafico": "200+",
-      "noticia": "Hallan muertos a una joven y a su hijo de dos años en apartamento en Los Ríos",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/26/hallan-muertos-a-una-joven-de-y-a-su-hijo-de-dos-anos-en-los-rios-/3732855",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNLkWw2vvSg8mchy3vlkUhX0B1IuBJWsgRSYgdi5yRY7m_W-GVJmV6kLTuSxY"
+      "noticia": "¿Saldrás de compras este Black Friday? Estas son las sugerencias del Intrant para movilizarte",
+      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/26/medidas-de-transito-para-black-friday-en-santo-domingo/3732896",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQTUkVMapmKHcgFSBQD3cHqe7O7ixJ4LXJ6CksS_pjpt-GLcHJVNQngsY5f_c"
     },
     {
       "termino": "mundial sub 17",
       "trafico": "100+",
-      "noticia": "México vs. Venezuela partido EN VIVO Mundial Sub-17: Inicia el primer tiempo",
+      "noticia": "¡Sin goles en contra! México asegura liderato de grupo en el Mundial Sub-17",
       "enlace": "https://www.tudn.com/futbol/mundial-sub-17/mexico-vs-venezuela-partido-en-vivo-por-mundial-sub-17-minuto-a-minuto-del-juego",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrBdDZcWt6x16ELr6BGmNj-Rz01e9JY-NJeR343IYTBxFzodmL7VBgdBJ60Rc"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_owQOTXFUeA1x8H7bHdGJ6c3c8lpImcZ0gR-ha73JrMVE251s1V72d2CCzdk"
     },
     {
       "termino": "dazn",
@@ -43,9 +50,9 @@
     {
       "termino": "black friday",
       "trafico": "500+",
-      "noticia": "Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecutter",
-      "enlace": "https://www.nytimes.com/wirecutter/money/best-black-friday-deals-2026-1127/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtoqcNsN6YjlylordN35-qwe1D8_EcjXtgsFKqatMioeZdy6znqGcd2d7u6_I"
+      "noticia": "Salomon’s Secret Black Friday Sale Includes the Sneakers That Defined Street Style This Year (Even Gore-Tex Models)",
+      "enlace": "https://wwd.com/shop/shop-shoes/salomon-black-friday-sale-gore-tex-sneakers-buy-deals-2026-1239467702/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtuV74FCzMoPVhos0p_665eMB3Xa_FVRlgBoqRZ5nXooo76n-6kLOiLklvYfk"
     },
     {
       "termino": "arresto",
@@ -67,13 +74,6 @@
       "noticia": "1Password Confirms Hack—What Users Need To Know And Do",
       "enlace": "https://www.forbes.com/sites/daveywinder/2026/11/26/1password-confirms-hack-what-users-need-to-know-and-do/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAYKeLZgSp2Q9-A_CFH3j3Nd-MLbHGxmFwNgLdt09poHm3oLL61K63lCQnFQ"
-    },
-    {
-      "termino": "osmel sousa",
-      "trafico": "100+",
-      "noticia": "Osmel Sousa dice Melissa Núñez no ganó Miss Universo por “no ser tan bella como Puerto Rico”",
-      "enlace": "https://listindiario.com/entretenimiento/farandula/20261126/osmel-sousa-dice-melissa-nunez-gano-miss-universo-bella-puerto-rico_931653.html",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZCSUdl5Zgb6F5SsZbxsLFxDAqKmSBAT3eo2_OZrJ4A8Z_gnoABD7ETn-5JS8"
     }
   ]
 }
