@@ -1,23 +1,30 @@
 {
-  "updated": "2026-11-27T08:44:14.590668-04:00",
-  "hora": "08:44",
+  "updated": "2026-11-27T08:54:43.676796-04:00",
+  "hora": "08:54",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "amazon",
+      "trafico": "500+",
+      "noticia": "I found the 94 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
+      "enlace": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-27",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFEJ9AR2bbcZO6JTQYylUuf4qfMtxQgmBUmwnNomOFIqoVhYDFlxPsFymKFE"
+    },
+    {
       "termino": "arresto",
       "trafico": "200+",
-      "noticia": "Alatri, fucile a canne mozze con il colpo in canna: arrestato un uomo del posto",
-      "enlace": "https://laprovinciafrosinone.it/2026/11/27/alatri-fucile-a-canne-mozze-con-il-colpo-in-canna-arrestato-un-uomo-del-posto/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRfe4A0hy_htW8mRNbOIxsIx-kysXPz4Cs5S6VrRVtVXdI_ZkJjwwIvn_wtnI"
+      "noticia": "Raffica di furti e danneggiamenti alle auto, un arresto a Mezzocorona",
+      "enlace": "https://www.tv33.it/news/raffica-di-furti-e-danneggiamenti-alle-auto-un-arresto-a-mezzocorona",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURgaIZIJtbihoAvsS_K6f127iYHMGT0Y5E3rdEVHowDGbEbYLQ9Y468Iyfiw"
     },
     {
       "termino": "condena",
       "trafico": "1000+",
-      "noticia": "El TSJ rebaja al futbolista Rafa Mir la pena de prisión por agresión sexual a siete años tras absolverlo de un delito de lesiones",
-      "enlace": "https://www.elmundo.es/comunidad-valenciana/2026/11/27/6b0942c0fdddff84328b456d.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1NCJptNamb_IVEqztfsqFMsLeVEU2dKKd19_bxDVprGVbkwVIovg-XV_tOX4"
+      "noticia": "El TSJ mantiene los 7 años de prisión a Rafa Mir por violación, pero le resta 18 meses porque no ve daño psíquico",
+      "enlace": "https://www.levante-emv.com/sucesos/2026/11/27/mantiene-7-anos-prision-rafa-mir-recurso-sentencia-carcel-pablo-jara-apelacion-futbolista-tsj-136914442.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ra3_qzf65arqxGaQK5Y_9d9NccIT6w6uTJB8NS3l4KsH4TiHMljagT5HyTY"
     },
     {
       "termino": "1password",
@@ -66,14 +73,7 @@
       "trafico": "500+",
       "noticia": "Tempestades no Dia de Ação de Graças inundam costas dos EUA e perturbam viagens",
       "enlace": "https://pt.euronews.com/2026/11/27/tempestades-no-dia-de-acao-de-gracas-inundam-costas-dos-eua-e-perturbam-viagens",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWg6U7xAq6v494-IKKahKwc5eznNRAnBGnOncAGnhmm1ZuLzsJuimVLxUnyMI"
-    },
-    {
-      "termino": "europa league",
-      "trafico": "200+",
-      "noticia": "Licensable picture: UEFA Europa League - Olympique de Marseille v Levski Sofia",
-      "enlace": "https://www.reutersconnect.com/item/uefa-europa-league-olympique-de-marseille-v-levski-sofia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExRFVBM0s",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIHVxGqUcpGyl0ZCgr4u9yYVjLg7l9uAHTmGNziTN62kAloddjfeK63S1EEq0"
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsl-7Fm17RlrmP5wySPl-8Dfr4f92qH6ChvBpvg0d6nXfBaZl1fXBhektlUfo"
     }
   ]
 }
