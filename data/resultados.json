@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T19:01:54.621651-04:00",
+  "updated": "2026-11-27T19:12:17.326941-04:00",
   "fecha": "27/11/2026",
-  "hora": "19:01",
+  "hora": "19:12",
   "total_juegos": 53,
   "juegos": [
     {
@@ -471,9 +471,9 @@
       "compania": "La Primera",
       "juego": "El Quinielón Noche",
       "numeros": [
-        "85"
+        "10"
       ],
-      "fecha": "2026-11-26T04:00:00.000Z",
+      "fecha": "2026-11-27T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5d8"
     },
     {
@@ -491,25 +491,25 @@
       "compania": "La Primera",
       "juego": "Loto 5",
       "numeros": [
-        "23",
-        "09",
-        "06",
-        "01",
-        "08",
-        "09"
+        "36",
+        "13",
+        "19",
+        "05",
+        "25",
+        "01"
       ],
-      "fecha": "2026-11-26T04:00:00.000Z",
+      "fecha": "2026-11-27T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5cc"
     },
     {
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "88",
-        "06",
-        "29"
+        "89",
+        "30",
+        "65"
       ],
-      "fecha": "2026-11-26T04:00:00.000Z",
+      "fecha": "2026-11-27T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d5c6"
     },
     {
@@ -649,11 +649,11 @@
       "compania": "La Primera",
       "juego": "Primera Noche",
       "numeros": [
-        "88",
-        "06",
-        "29"
+        "89",
+        "30",
+        "65"
       ],
-      "fecha": "2026-11-26"
+      "fecha": "2026-11-27"
     },
     {
       "compania": "La Suerte",
