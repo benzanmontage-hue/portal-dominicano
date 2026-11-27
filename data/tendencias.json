@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T22:20:58.119794-04:00",
-  "hora": "22:20",
+  "updated": "2026-11-26T22:31:22.313570-04:00",
+  "hora": "22:31",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "condena",
+      "trafico": "100+",
+      "noticia": "Condenan a 30 años de prisión a hombre que lanzó “ácido del diablo” a su expareja en Cristo Rey",
+      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/25/condena-de-30-anos-por-acido-del-diablo-a-agresor/3731886",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzR4sQxh1gzaVlogEcuY4VP_zP-Si6dHH988HO1V2r3-EKbdWjIDPmR2of6H0"
+    },
     {
       "termino": "osmel sousa",
       "trafico": "100+",
@@ -15,9 +22,9 @@
     {
       "termino": "aaron rodgers",
       "trafico": "100+",
-      "noticia": "Steelers owner Art Rooney II  disappointed  in Rodgers outcome, backs McCarthy",
-      "enlace": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY8rRnyjSNHvIjVl2-N5lzQIq0JPljiwuqizTP9cXovf47gsvWKyuRNZhs0qU"
+      "noticia": "Steelers cut Aaron Rodgers after QB rips McCarthy in scorched-earth interview",
+      "enlace": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoxactf72bzZjHz3aP0j6Ab0mVsGm3dlbtrR1S9_1m05WVdTuQm0pSKEba38"
     },
     {
       "termino": "josé siri",
@@ -43,9 +50,9 @@
     {
       "termino": "europa league",
       "trafico": "200+",
-      "noticia": "Watch: Moreira finishes counter to put Milan 4-2 up and seal win vs. Olympiacos",
-      "enlace": "https://sempremilan.com/watch-moreira-goal-olympiacos-2-4-milan",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfhkDS2N0GGeG4AyxDj9gUWN_OKEeW9YzDAjO59TdemIR7RCYKPIFhOEtu6qU"
+      "noticia": "Hutchinson says position tweak helped inspire comeback: “I have to make a difference”",
+      "enlace": "https://sempremilan.com/hutchinson-position-tweak-inspire-comeback",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFlkgn7YErbJYqLK_k_X9YFl3OkGJaXF3zff3KR7cLQQ4gDc6BAEFD_F8iTI"
     },
     {
       "termino": "olympiacos - milan",
@@ -57,9 +64,9 @@
     {
       "termino": "nfl",
       "trafico": "500+",
-      "noticia": "Licensable picture: NFL: Kansas City Chiefs at Buffalo Bills",
-      "enlace": "https://www.reutersconnect.com/item/nfl-kansas-city-chiefs-at-buffalo-bills/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTM3NTU",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE6I3dyrTctAhYQF4r_8-iGeTAKu0_tI7wK9FYJdqu2a5u3NdW4tk-fch3CE8"
+      "noticia": "NFL: Philadelphia Eagles at Dallas Cowboys",
+      "enlace": "https://www.reutersconnect.com/item/nfl-philadelphia-eagles-at-dallas-cowboys/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTM3OTA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3k9qcsJrb7JdXLeoH-PujbGzN2YEGAAb1pb7aWqERPQ_IeBdD0m8Kmxh2gCU"
     },
     {
       "termino": "festival",
@@ -67,13 +74,6 @@
       "noticia": "Presidente Luis Abinader dispone tres días de duelo por fallecimiento del héroe nacional Delio Gómez Ochoa",
       "enlace": "https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-tres-dias-de-duelo-por-fallecimiento-del-heroe-nacional",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVqBApC7DnmtVEl9pkn3MLd_jT2762WKUPMO_Ex7sfEwLvlUbJtHWGy5TRs"
-    },
-    {
-      "termino": "telemicro",
-      "trafico": "2000+",
-      "noticia": "Geólogo Osiris de León recomienda cerrar estructura deteriorada en Plaza Güibia",
-      "enlace": "https://www.diariolibre.com/actualidad/ciudad/2026/11/24/geologo-advierte-sobre-riesgos-y-recomienda-cerrar-plaza-guibia/3730804",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipjD_T3lZMVU-rdNRCO48XJ6-32azxrW207jTL0aWZ1dbql8mdxqRRohb3Nc"
     }
   ]
 }
