@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-26T20:05:22.171295-04:00",
-  "hora": "20:05",
+  "updated": "2026-11-26T20:15:52.365240-04:00",
+  "hora": "20:15",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "josé siri",
+      "trafico": "100+",
+      "noticia": "Félix Reyes decide con doble walk-off",
+      "enlace": "https://www.mlb.com/es/video/felix-reyes-decide-con-doble-walk-off",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWRLxBX2fRWJXtBzpRL8hXnfCB7cVKtkPBuIkbcnAL7SoeCfMow-VLe7WY4iY"
+    },
     {
       "termino": "crystal palace - real sociedad",
       "trafico": "500+",
@@ -67,13 +74,6 @@
       "noticia": "Pepín Corripio pide al Estado prudencia con los subsidios: lo que advirtió sobre los alimentos",
       "enlace": "https://revistamercado.do/market-brief/finanzas/pepin-corripio-pide-al-estado-prudencia-con-los-subsidios-lo-que-advirtio-sobre-los-alimentos/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHPNeBfct6B0N7VNHA9Cez9ifUsQiXOhx5iHdOkKwVwT1Ui4I-x2HDL9BBCU"
-    },
-    {
-      "termino": "happy thanksgiving",
-      "trafico": "200+",
-      "noticia": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
-      "enlace": "https://www.reuters.com/world/us/trump-uses-thanksgiving-message-lash-out-political-foes-immigrants-federal-2026-11-26/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9TjhXtOa_uVtxqvt9EIVbHp8LHbSObcyvqRWA93z7IlFPbaqUfcIsoMNOkKM"
     }
   ]
 }
