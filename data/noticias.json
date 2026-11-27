@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T21:49:44.393435-04:00",
-  "hora": "21:49",
+  "updated": "2026-11-26T22:00:09.231190-04:00",
+  "hora": "22:00",
   "fecha": "26/11/2026",
   "total": 15,
   "noticias": [
@@ -43,6 +43,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 26 Nov 2026 18:07:00 GMT",
       "imagen": "https://www.infobae.com/resizer/v2/LYQMJJHXYVD63KIKU3QJVDTRYU.png?auth=7070302871e72ba822f5ddcace50033818d78112433349608db8c51a70378476&smart=true&width=1200&height=630&quality=85"
+    },
+    {
+      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
+      "fuente": "Yahoo",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Cuatro razones para navegar con MSC desde La Romana, República Dominicana - Noticias de Cruceros",
@@ -99,14 +107,6 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 09:02:00 GMT",
       "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
-    },
-    {
-      "titulo": "El presidente dominicano y el director de la OMS abordan cooperación en salud - Yahoo",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVlqdWZZeTdJVHQ4ckNGWVAwRGdFNE13ZzM3MGp0a0RrLXlMMTZCTVJnOVFZR2NZZzlIcG1leXBfREI2Q1NGRS1PNExhZDhlY3BYWVQxVUc0cV90Q0dFaUJoaV83Y1BmLUhwekhsczh6MTVwLUgxRDdfV1BUWVNGTndzRlRYa0VjNlU5Nk9YZTFieDd0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
-      "imagen": ""
     },
     {
       "titulo": "Los vehículos usados representan 6 de cada 10 unidades ingresadas a República Dominicana - Infobae",
