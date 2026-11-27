@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-26T23:23:40.128164-04:00",
-  "hora": "23:23",
+  "updated": "2026-11-26T23:34:04.750770-04:00",
+  "hora": "23:34",
   "fecha": "26/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "condena",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Condenan a 30 años de prisión a hombre que lanzó “ácido del diablo” a su expareja en Cristo Rey",
       "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/25/condena-de-30-anos-por-acido-del-diablo-a-agresor/3731886",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzR4sQxh1gzaVlogEcuY4VP_zP-Si6dHH988HO1V2r3-EKbdWjIDPmR2of6H0"
+    },
+    {
+      "termino": "1password",
+      "trafico": "100+",
+      "noticia": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "enlace": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo6gqDeyX0rc1LudnS7uKriQb76iEnbCvtmTyJV219G53_7JzO0LTq3byPhws"
     },
     {
       "termino": "osmel sousa",
@@ -22,9 +29,9 @@
     {
       "termino": "aaron rodgers",
       "trafico": "100+",
-      "noticia": "Terrell Owens brings race into Aaron Rodgers conversation after QB torched Steelers coach before release",
-      "enlace": "https://www.foxnews.com/outkick-sports/terrell-owens-brings-race-aaron-rodgers-conversation-after-qb-torched-steelers-coach-before-release",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQewkVXJ8L7xj7S-GV5bTPOC96Su6gVYR041_3e08oKxXl9ZY0N9bRsDRlmp44"
+      "noticia": "Steelers cut Aaron Rodgers after QB rips McCarthy in scorched-earth interview",
+      "enlace": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoxactf72bzZjHz3aP0j6Ab0mVsGm3dlbtrR1S9_1m05WVdTuQm0pSKEba38"
     },
     {
       "termino": "josé siri",
@@ -67,13 +74,6 @@
       "noticia": "How could rain, strong winds affect Bills-Chiefs Thanksgiving game?",
       "enlace": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/26/bills-chiefs-thanksgiving-weather-rain-wind-game-impact/92969687007/",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEijIndozJEUHCc1r1d8c0UdOGj_6CB9lyU3qN5TeP6nUA5qchqwuZORzL0Zc"
-    },
-    {
-      "termino": "festival",
-      "trafico": "200+",
-      "noticia": "Presidente Luis Abinader dispone tres días de duelo por fallecimiento del héroe nacional Delio Gómez Ochoa",
-      "enlace": "https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-tres-dias-de-duelo-por-fallecimiento-del-heroe-nacional",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVqBApC7DnmtVEl9pkn3MLd_jT2762WKUPMO_Ex7sfEwLvlUbJtHWGy5TRs"
     }
   ]
 }
