@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T18:51:33.531335-04:00",
-  "hora": "18:51",
+  "updated": "2026-11-27T19:01:55.309859-04:00",
+  "hora": "19:01",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "instituto dominicano de las telecomunicaciones indotel",
+      "trafico": "100+",
+      "noticia": "Embajadora de EEUU en RD sugiere al Gobierno exija a Viettel solo tecnología confiable",
+      "enlace": "https://listindiario.com/la-republica/20261127/embajadora-eeuu-rd-sugiere-gobierno-rd-exija-viettel-tecnologia-confiable_931757.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6gQFH1rHtowru5_ks1voqavX6GUGC77-ssXHisv_zXaNqUa2KEijheA53Kp4"
+    },
     {
       "termino": "concierto",
       "trafico": "100+",
@@ -22,9 +29,9 @@
     {
       "termino": "nottingham forest - chelsea",
       "trafico": "1000+",
-      "noticia": "Nottingham Forest 3-2 Chelsea: Morgan Gibbs-White scores twice in Forest win",
-      "enlace": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbhpuqNUCtk4SUX2FVW9BGWx0K6gS5lFXbOeMKxKuPRbyxML_h1rhMD_IMUzc"
+      "noticia": "Nottm Forest 3-2 Chelsea (Nov 27, 2026) Game Analysis",
+      "enlace": "https://www.espn.com/soccer/report/_/gameId/401879225",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlDUdLg9FMrffulv9e1ol2frsulJ9HOAmwNBo7hzQrzJivXKazYpN8FJGMMk8"
     },
     {
       "termino": "policía",
@@ -67,13 +74,6 @@
       "noticia": "My favourite life-saver Shark gadget is cheaper than ever",
       "enlace": "https://www.techadvisor.com/article/3300425/my-favourite-life-saver-shark-vacuum-is-cheaper-than-ever.html",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6EAos-d4wpLxW-W8lOaRi99Wt5QdXfxBk_zLh_KY3U8BotQOJKKPOzfbc_Ss"
-    },
-    {
-      "termino": "arresto",
-      "trafico": "2000+",
-      "noticia": "Trentacinquenne arrestato per danneggiamento alle auto a Mezzocorona",
-      "enlace": "https://www.trentinotv.it/news/trentacinquenne-arrestato-per-danneggiamento-alle-auto-a-mezzocorona",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0xR3RoUY6Ng-hoA6DmM8G8FjB2hJbXwkLHOQj57Zdvu_SvqugjkO2gh-zIY4"
     }
   ]
 }
