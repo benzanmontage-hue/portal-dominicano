@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-27T14:31:47.432856-04:00",
-  "hora": "14:31",
+  "updated": "2026-11-27T14:42:27.336670-04:00",
+  "hora": "14:42",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "policía",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Hallan muertos a una joven y a su hijo de dos años en apartamento en Los Ríos",
       "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/26/hallan-muertos-a-una-joven-de-y-a-su-hijo-de-dos-anos-en-los-rios-/3732855",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNLkWw2vvSg8mchy3vlkUhX0B1IuBJWsgRSYgdi5yRY7m_W-GVJmV6kLTuSxY"
@@ -50,9 +50,9 @@
     {
       "termino": "arresto",
       "trafico": "2000+",
-      "noticia": "BOLOGNA: Arrestato due volte dai carabinieri in una settimana: 33enne viola il divieto di avvicinamento alla madre",
-      "enlace": "https://www.renonews.it/primo-piano/2026/11/27/bologna-arrestato-due-volte-dai-carabinieri-in-una-settimana-33enne-viola-il-divieto-di-avvicinamento-alla-madre/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbv8lveNgYPXOvLhd3JQnHYbaN5ZrwKhRJApCw6DHkY8di6-J37J2QjYBPfqo"
+      "noticia": "Pescara, controlli interforze a Rancitelli e Fontanelle: un arresto e 87 persone identificate",
+      "enlace": "https://www.notiziedabruzzo.it/cronaca-abruzzo/pescara-controlli-interforze-a-rancitelli-e-fontanelle-un-arresto-e-87-persone-identificate.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR00LZIVc7DRvTfanCd3pukNDdrVsyDeetz_9ClOZI-EYUqe-HBB1PVo9INh7w"
     },
     {
       "termino": "condena",
