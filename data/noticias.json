@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-27T09:15:37.026569-04:00",
-  "hora": "09:15",
+  "updated": "2026-11-27T09:26:00.124630-04:00",
+  "hora": "09:26",
   "fecha": "27/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "República Dominicana celebra el segundo lugar de Melissa Núñez en Miss Universe 2026 - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWtYMGo1dWN6dm5JR29UNEdqY1FDclh2SElqc1YtS3pEVTdSQm8taG9hcUlzWkZ2bmRDSk9pNTJKNHRXOXlweWtiSUhETlN4V0lwVUFNRVUyOWloajNTalY3YjdlRXJUUExwcjU5b0ZiT2VqcGoxajUxempQLTAxeXVfWmlDMTVaY0ZfRy1KUlJXY2lJbEtiN2I3bDVYQU5JRk1LRlhIMmtaZTdsc0pqc0JqSGdwYkh4b0hETk80LVlaeXhWR3RqUkJVS3ZQNUxaUFdjeHg2dFdoZTBRZVJ3T05rZVl5dmJrLUNpTkZfUXlaVVU1UjhKT2lB?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 07:12:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/847/815/49859500556-1080pnbcstations.jpg"
-    },
     {
       "titulo": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer - BBC",
       "fuente": "BBC",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 12:45:09 GMT",
       "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0f3c/live/bb4defb0-e82f-11f1-917e-35f1674fb52c.png"
+    },
+    {
+      "titulo": "República Dominicana celebra el segundo lugar de Melissa Núñez en Miss Universe 2026 - Telemundo",
+      "fuente": "Telemundo",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWtYMGo1dWN6dm5JR29UNEdqY1FDclh2SElqc1YtS3pEVTdSQm8taG9hcUlzWkZ2bmRDSk9pNTJKNHRXOXlweWtiSUhETlN4V0lwVUFNRVUyOWloajNTalY3YjdlRXJUUExwcjU5b0ZiT2VqcGoxajUxempQLTAxeXVfWmlDMTVaY0ZfRy1KUlJXY2lJbEtiN2I3bDVYQU5JRk1LRlhIMmtaZTdsc0pqc0JqSGdwYkh4b0hETk80LVlaeXhWR3RqUkJVS3ZQNUxaUFdjeHg2dFdoZTBRZVJ3T05rZVl5dmJrLUNpTkZfUXlaVVU1UjhKT2lB?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 07:12:00 GMT",
+      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/847/815/49859500556-1080pnbcstations.jpg"
     },
     {
       "titulo": "Militares de República Dominicana y EE. UU. fortalecen capacidades tácticas mediante entrenamiento conjunto - Diálogo Americas",
@@ -45,20 +45,20 @@
       "imagen": "https://www.infobae.com/resizer/v2/VZX6BJMK4VHFRCF42O45Y7AO24.jpg?auth=33c3ae37aa16376b40ce9986cf7baa9379563cd9b604dc20165cca0cad94b9f3&smart=true&width=1200&height=630&quality=85"
     },
     {
-      "titulo": "Lo integran Andrés Féliz, Gelvis Solano, Richard Bautista, Lester Quiñones, quien regresa al conjunto tricolor, Chad Baker Mazara y Luis David Montero. Además de, Ángel Núñez, Andersson García, Juan Guerrero, Ángel Luis Delgado, Luis Santos y Omar Si - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uZER4RlpITVJ1UkQ0Q3NzenBMcDJhem1TSUlYZy1fOHZBcWpMMnBJLTk0b0dCVDJlTTVWYXJkUXJJcU8xWnY2MjdDRk9ZenBNWFE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 11:30:06 GMT",
-      "imagen": ""
-    },
-    {
       "titulo": "Precio del dólar en República Dominicana hoy, viernes 27 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
       "fuente": "El Comercio Perú",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUldQdE1xcVhJSEtmTGlNWVE4TXdjVEFoNjZ0UkMyOW9FdWlkb3NGRnBITFVIQkZOYjUyYmFCSkI3R05KUDBRSzBHQll1X2tHTjExa0hYZk5jaE9jRXNNLU8xVnRwU3M2anJqYS1Sbnd3UWFaX3BFTzFWNzFGeVNjY0dtQXZOSW5iRWZYLTNuWVZjNkl4NHVmQy1vdGs1M01mbnUxVW52M29aVHY3dnlpa29aSkhfbHJYS1Q2dkV3bjNwQ0RrR0hpeGJ1c2htMDVCV1psdVAxOTJ2QTFHUmYycFhIQlNDa09zNzFLUy1ya1VsLWRyeUw0R0pR?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 27 Nov 2026 10:30:00 GMT",
       "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana es el escenario elegido para el cierre de “Mejor tarde que nunca”, la exitosa gira mundial que ha unido a Romeo Santos y Prince Royce, dos de las figuras más importantes de la bachata y la música latina.⁣ ⁣ Bajo la producción de Ri - Instagram",
+      "fuente": "Instagram",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWmhqT0FBdHp3SWFxWFRETkJ4OGZPMnE1MFlleWwwVkFsWVN3WlN2QVlzZHNRa3F3dmVKekhQQzFyb2JIa3ExZWpWYTBMZm1hMVE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 14:45:05 GMT",
+      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
     },
     {
       "titulo": "Voleibol · VNL 2027: Calendario con los partidos de República Dominicana, Argentina y Cuba en la Liga de Naciones - Olympics",
@@ -85,20 +85,20 @@
       "imagen": "https://almomento.net/wp-content/uploads/2025/11/Bailadores-de-merengue-e1795700256720.jpg?w=600"
     },
     {
+      "titulo": "Brasil y República Dominicana se imponen en la segunda jornada del Mundial sub-17 - سانا",
+      "fuente": "سانا",
+      "enlace": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TV3lZbWdqSXVSS1IzM3Z0d2Z2MVZ0TUNFUTMxUlB2Nnptbk96T2pMaElHLXExbWZXZ21ZUUZ5V1FZdEdfSUJ4Sg?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Wed, 25 Nov 2026 10:15:52 GMT",
+      "imagen": ""
+    },
+    {
       "titulo": "Cuatro razones para navegar con MSC desde La Romana, República Dominicana - Noticias de Cruceros",
       "fuente": "Noticias de Cruceros",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnhmV1dvbG8wUHhkb0lnazlVRWU4QUdOLUIwTHFnVHhGN1FGMi10SXpobWhVSzVQeU8ydFdWc09UVUk5eC00VjdtZTBSdXlvMXo4V2VGX2JlM0pJRmV1dmxFMkU1OHh1YTJaUVR6QWoySFV2S2JtZmRKd0hBSkZCTGZSb2VKc3MteE5MdnVJTWd2aGFpRXpBU0tYR0lKX0E1MXJaRk9ENTFCNU1sb3dwZlJfdTdmUQ?oc=5",
       "dominio": "news.google.com",
       "fecha": "Thu, 26 Nov 2026 18:59:39 GMT",
       "imagen": ""
-    },
-    {
-      "titulo": "Miss República Dominicana queda como la primera finalista de Miss Universo 2026 - Telemundo",
-      "fuente": "Telemundo",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVWo0bGt0ckRxWVdyQ1hfY25oSUwyODJROWNCZ2UzdEVQT2swaVVLT2ZCOFFfMmRBeUpNUDdZTnZhTkxpUzNSTlNpc1kxVEJHWi1KSXRSdnhpOTBVbFRmeF9oM2hLZXV2aGNkaFNHakFfU2lSc0NSMjVHb0RFYy1ldFN2d21qaEMtMVJHQk9jZDc2ZUZ6N0ZSYXh6V0R4U2FxbkJBRjhwTDJaS3pKdEtSaHl3aGY0OURvLUZuZzRDaEM3cTBadUdGaHJVR05vcC1xelR0dHo4NkFacFVnYmcyT3ZlOE1wRU0?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 09:02:00 GMT",
-      "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/846/839/49859628929-1080pnbcstations.jpg"
     },
     {
       "titulo": "El Centro Nacional de Sismología elevó a 5.3 la magnitud del sismo sentido en República Dominicana este viernes - Infobae",
@@ -109,12 +109,12 @@
       "imagen": ""
     },
     {
-      "titulo": "República Dominicana es el escenario elegido para el cierre de “Mejor tarde que nunca”, la exitosa gira mundial que ha unido a Romeo Santos y Prince Royce, dos de las figuras más importantes de la bachata y la música latina.⁣ ⁣ Bajo la producción de Ri - Instagram",
+      "titulo": "Lo integran Andrés Féliz, Gelvis Solano, Richard Bautista, Lester Quiñones, quien regresa al conjunto tricolor, Chad Baker Mazara y Luis David Montero. Además de, Ángel Núñez, Andersson García, Juan Guerrero, Ángel Luis Delgado, Luis Santos y Omar Si - Instagram",
       "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWmhqT0FBdHp3SWFxWFRETkJ4OGZPMnE1MFlleWwwVkFsWVN3WlN2QVlzZHNRa3F3dmVKekhQQzFyb2JIa3ExZWpWYTBMZm1hMVE?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uZER4RlpITVJ1UkQ0Q3NzenBMcDJhem1TSUlYZy1fOHZBcWpMMnBJLTk0b0dCVDJlTTVWYXJkUXJJcU8xWnY2MjdDRk9ZenBNWFE?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 14:45:05 GMT",
-      "imagen": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      "fecha": "Fri, 27 Nov 2026 11:30:06 GMT",
+      "imagen": ""
     },
     {
       "titulo": "¿A cómo está el dólar hoy en República Dominicana? Precio para este viernes 27 de noviembre de 2026 - Acento",
