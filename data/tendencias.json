@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-27T17:38:51.700160-04:00",
-  "hora": "17:38",
+  "updated": "2026-11-27T17:49:16.280726-04:00",
+  "hora": "17:49",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "levante - racing de santander",
+      "trafico": "100+",
+      "noticia": "El Levante sale con Víctor García, Romero y Thiago en ataque y el Racing mantiene a Zabiri",
+      "enlace": "https://www.infobae.com/espana/agencias/2026/11/27/el-levante-sale-con-victor-garcia-romero-y-thiago-en-ataque-y-el-racing-mantiene-a-zabiri/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+    },
+    {
       "termino": "nottingham forest - chelsea",
-      "trafico": "500+",
+      "trafico": "1000+",
       "noticia": "Predicted XI: Alonso dodges big decisions and picks player fans are sick of",
       "enlace": "https://www.talkchelsea.net/news/predicted-xi-alonso-dodges-big-decisions-picks-fofana/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXfG0DHqXDSGKuQ9Yis36fNzMjZcRK5dq35-v08EMC5EgMY3KjQ-tWS1TArc"
@@ -50,9 +57,9 @@
     {
       "termino": "black friday",
       "trafico": "500+",
-      "noticia": "I Found the 70 Best Black Friday Deals From $9: J.Crew, Spanx, Gap, Adidas, Kate Spade, and More",
-      "enlace": "https://www.instyle.com/best-black-friday-sales-2026-12166068",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPKh3BBD8_iVECfA-WnKauTi0bv0Vv_kdlesEDLstRwykHMjClJcdh_-Y683w"
+      "noticia": "There’s More to Adidas Than the Samba, and Its Black Friday Sale Is Proof — With Shoes Up to 60% Off",
+      "enlace": "https://shopping.yahoo.com/style/shoes/articles/more-adidas-samba-black-friday-211939323.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBSP6nHvrKuIBxJHP0DBLkIv6dbmpMGy6s-fXsfHMRLmzMpZhtPk7uXhSh2A"
     },
     {
       "termino": "arresto",
@@ -64,16 +71,9 @@
     {
       "termino": "condena",
       "trafico": "2000+",
-      "noticia": "Corte confirma condena de RD$7.5 millones contra la Procuraduría General por no devolver un celular",
-      "enlace": "https://www.diariolibre.com/actualidad/justicia/2026/11/26/confirman-condena-de-rd75-millones-contra-la-procuraduria-general/3732652",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNecBH-Zl5zufI5yv1K1Xf6RAid_VsJ61D4i5o4_6avSSfBNhIyA7chuY92nM"
-    },
-    {
-      "termino": "1password",
-      "trafico": "500+",
-      "noticia": "1Password Confirms Hack—What Users Need To Know And Do",
-      "enlace": "https://www.forbes.com/sites/daveywinder/2026/11/26/1password-confirms-hack-what-users-need-to-know-and-do/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAYKeLZgSp2Q9-A_CFH3j3Nd-MLbHGxmFwNgLdt09poHm3oLL61K63lCQnFQ"
+      "noticia": "Álava se moviliza contra el asesinato machista de una mujer en Bilbao",
+      "enlace": "https://zuk.eus/alava-concentraciones-asesinato-bilbao/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWXWMkpVakBpB75UGQ4jVFmD1ACPqP5hx422kewu1Ch1BZlWgJL0En9WQPic4"
     }
   ]
 }
