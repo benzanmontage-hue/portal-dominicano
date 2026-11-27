@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T07:42:02.090815-04:00",
-  "hora": "07:42",
+  "updated": "2026-11-27T07:52:23.408236-04:00",
+  "hora": "07:52",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "arresto",
+      "trafico": "100+",
+      "noticia": "Assaltiamo il Tribunale , il progetto delle cosche della Locride",
+      "enlace": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/assaltiamo-il-tribunale-il-progetto-delle-cosche-della-locride_154502c4-34ce-4b9c-9626-3c363d3af625.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBw8L2NW5gmjmMSSaW35VIQaXMI6qqYgq-GYDiQVsJVAWCCmqYxsMwG-1etvQ"
+    },
     {
       "termino": "condena",
       "trafico": "500+",
@@ -64,16 +71,9 @@
     {
       "termino": "europa league",
       "trafico": "200+",
-      "noticia": "Licensable picture: GNK Dinamo v Bayer 04 Leverkusen - UEFA Europa League 2026/27 League Phase MD5",
-      "enlace": "https://www.reutersconnect.com/item/gnk-dinamo-v-bayer-04-leverkusen-uefa-europa-league-202627-league-phase-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwNlEzWDI",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaIVcZcC3z8BoCadKsovvfgKvTz6yKFyed5aftK0pXQmwdQue6uUrSmHhQ1Y"
-    },
-    {
-      "termino": "olympiacos - milan",
-      "trafico": "100+",
-      "noticia": "Licensable picture: 113. Bundestagssitzung - Haushaltswoche",
-      "enlace": "https://www.reutersconnect.com/item/113-bundestagssitzung-haushaltswoche/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUREUE1FREREUDI5OTQ2NjY0",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9qlPQTpoUExCjn-RoakzLNSZqf-Nr7Bag-kJjK0MXfYxre9-tfIac-RLZVWY"
+      "noticia": "Licensable picture: UEFA Europa League - Olympique de Marseille v Levski Sofia",
+      "enlace": "https://www.reutersconnect.com/item/uefa-europa-league-olympique-de-marseille-v-levski-sofia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExRFVBM0s",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIHVxGqUcpGyl0ZCgr4u9yYVjLg7l9uAHTmGNziTN62kAloddjfeK63S1EEq0"
     }
   ]
 }
