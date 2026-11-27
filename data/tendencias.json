@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T11:22:37.842776-04:00",
-  "hora": "11:22",
+  "updated": "2026-11-27T11:33:05.394018-04:00",
+  "hora": "11:33",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -15,16 +15,9 @@
     {
       "termino": "amazon",
       "trafico": "2000+",
-      "noticia": "Amazon Black Friday Is Live, and We’re Hand-Picking the Best Deals, From $6",
-      "enlace": "https://www.today.com/shop/amazon-black-friday-deals-2026-rcna608759",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKOjBWNU3o3qJdH0FXIDXzWZ36afG1wqQub9bLEO6O-Fg4Lk3DBP6hptOkjk"
-    },
-    {
-      "termino": "black friday",
-      "trafico": "200+",
-      "noticia": "UGG’s Black Friday Sale Adds Platform Boots and $59.99 Outlet Deals",
-      "enlace": "https://stupiddope.com/2026/11/uggs-black-friday-sale-adds-platform-boots-and-59-99-outlet-deals/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2zbcftDnPMOFbi7emOqx9WukpYQlXZJVxiuffs0h8TvLyYwMB9VSuyz_rpdQ"
+      "noticia": "The 80+ Best Amazon Black Friday Deals That Are Actually Worth It",
+      "enlace": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2026/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPSkQT4A2azExngFFdEHVmpaNiSZLKUf3bElYYNqk52RI5CKVUAuR3A4txiX0"
     },
     {
       "termino": "arresto",
@@ -74,6 +67,13 @@
       "noticia": "Lo público merece cuidado",
       "enlace": "https://www.diariolibre.com/opinion/editorial/2026/11/25/cuidar-los-espacios-publicos/3731974",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEGXW_PucuzrPcU3xY-PkSUiYxu_e_TUWi4Ul8NB8_mFZKFP0Jh_noh58uJKQ"
+    },
+    {
+      "termino": "crystal palace - real sociedad",
+      "trafico": "100+",
+      "noticia": "Crystal Palace player ratings: Henderson inspires stunning 2-1 win",
+      "enlace": "https://dave.sport/news/crystal-palace-player-ratings-sociedad/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp7MafDGRA8nRxOwPHVwpW4V5lBE-cXwBif50EaxY5_vDDenAaW_HSnMLQYLs"
     }
   ]
 }
