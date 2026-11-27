@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-27T12:46:04.253689-04:00",
-  "hora": "12:46",
+  "updated": "2026-11-27T12:56:29.624372-04:00",
+  "hora": "12:56",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "dazn",
+      "termino": "mundial sub 17",
       "trafico": "100+",
+      "noticia": "Vinotinto sub-17 se mide a México por el primer lugar del Grupo K del Mundial",
+      "enlace": "https://www.globovision.com/deportes/65272/vinotinto-sub17-se-mide-a-mexico-por-el-primer-lugar-del-grupo-k-de-mundial",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE6hWMGcY2XGJtFMDaEMdNJ6eA3HHR_7SYA5aNAa4EeZhi3FKgRuQJViZ9ZOA"
+    },
+    {
+      "termino": "dazn",
+      "trafico": "200+",
       "noticia": "DAZN   FIBA Unveil The New Home of Basketball: BasketballTV",
       "enlace": "https://dazngroup.com/press-room/dazn-fiba-unveil-the-new-home-of-basketball-basketballtv/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCLiGBMnpbPAoXcX9CHsTIe5ntzZ-W0LPR_X-vFgbpwi24C-2Y4xRUt95oeVY"
@@ -43,9 +50,9 @@
     {
       "termino": "condena",
       "trafico": "2000+",
-      "noticia": "Rebajan la condena a Mir, que aún es de 7 años de cárcel",
-      "enlace": "https://as.com/futbol/primera/rebajan-la-condena-a-mir-que-aun-es-de-7-anos-de-carcel-f202611-n/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVa0I7EemWkOn-6qy9JKMFBPTqKzg0OFsZ7nYNGkqMUJyLBSWhjj94gacGW0Y"
+      "noticia": "TS revisará la condena a Rubiales por el beso no consentido a Hermoso",
+      "enlace": "https://www.elcaribe.com.do/panorama/internacionales/ts-revisara-la-condena-a-rubiales-por-el-beso-no-consentido-a-hermoso/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oY1bzz85VToxrB2B8maOXpI67PNBd3s1-jIsw0kb07io5L4o4VDpvhUqUb0"
     },
     {
       "termino": "1password",
@@ -64,16 +71,9 @@
     {
       "termino": "aaron rodgers",
       "trafico": "100+",
-      "noticia": "Sources corroborate Aaron Rodgers  allegations on Steelers coach Mike McCarthy",
-      "enlace": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNU-RoPuN6KyPUrPyEdAxkh03Rr-vOX0Kmf84NO9G3ackpwjFHvjEYZHpEgdo"
-    },
-    {
-      "termino": "josé siri",
-      "trafico": "1000+",
-      "noticia": "Félix Reyes decide con doble walk-off",
-      "enlace": "https://www.mlb.com/es/video/felix-reyes-decide-con-doble-walk-off",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWRLxBX2fRWJXtBzpRL8hXnfCB7cVKtkPBuIkbcnAL7SoeCfMow-VLe7WY4iY"
+      "noticia": "Steelers cut Aaron Rodgers after QB rips McCarthy in scorched-earth interview",
+      "enlace": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPoxactf72bzZjHz3aP0j6Ab0mVsGm3dlbtrR1S9_1m05WVdTuQm0pSKEba38"
     }
   ]
 }
