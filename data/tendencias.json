@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T19:23:55.402414-04:00",
-  "hora": "19:23",
+  "updated": "2026-11-27T19:34:20.818969-04:00",
+  "hora": "19:34",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "pizza hut",
+      "trafico": "100+",
+      "noticia": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+      "enlace": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ll_fVXuhVcQicjFzPceY5LxJTwMO2dLa6OlljGbrc8TMmxGlHoZ_fJ00J8M"
+    },
     {
       "termino": "instituto dominicano de las telecomunicaciones indotel",
       "trafico": "100+",
@@ -67,13 +74,6 @@
       "noticia": "The 80+ Best Amazon Black Friday Deals That Are Actually Worth It",
       "enlace": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2026/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPSkQT4A2azExngFFdEHVmpaNiSZLKUf3bElYYNqk52RI5CKVUAuR3A4txiX0"
-    },
-    {
-      "termino": "black friday",
-      "trafico": "500+",
-      "noticia": "After falling in love with PS5 haptic feedback in GTA 6, I m eyeing these Black Friday deals on DualSense controllers",
-      "enlace": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS83i7uM6AltbYzGKCdoQThBXjWEUIrGgs0M8D6p30VS9fsIaxX4J7GgCLqdJQ"
     }
   ]
 }
