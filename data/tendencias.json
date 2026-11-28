@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-28T07:07:47.919667-04:00",
-  "hora": "07:07",
+  "updated": "2026-11-28T07:18:36.071388-04:00",
+  "hora": "07:18",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "tigres del licey",
+      "trafico": "500+",
+      "noticia": "¡Regreso a lo GRANDE! Casas vuelve a la acción con grand slam en LIDOM",
+      "enlace": "https://www.mlb.com/es/news/triston-casas-conecta-grand-slam-en-la-liga-invernal-dominicana",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv13JJkYT0A-VqUwcl_D_cwkqxN2BP0woutcQ68ZdQEWUrWfC3d15gIlw_wiA"
+    },
     {
       "termino": "nba",
       "trafico": "500+",
@@ -15,9 +22,9 @@
     {
       "termino": "trail blazers - warriors",
       "trafico": "1000+",
-      "noticia": "NBA: Golden State Warriors at Portland Trail Blazers",
-      "enlace": "https://www.reutersconnect.com/item/nba-golden-state-warriors-at-portland-trail-blazers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjA0NjU%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPMp17uyYvoxw-_jZ6pLK8C4MzR9EV7nfKgcU-0fVf1fctig8SDccS1qx65A"
+      "noticia": "Yaxel Lendeborg, Warriors fail to overcome abysmal start in loss to Blazers",
+      "enlace": "https://www.goldenstateofmind.com/general/113725/yaxel-lendeborg-warriors-fail-to-overcome-abysmal-start-in-loss-to-blazers",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPXmHkrKiD8y_6PIsJEOMOn29aFFnX4urLqwmBYXlz2IQqNDc7zeb1XzleBeU"
     },
     {
       "termino": "timberwolves - grizzlies",
@@ -29,9 +36,9 @@
     {
       "termino": "spurs - lakers",
       "trafico": "1000+",
-      "noticia": "NBA: Los Angeles Lakers at San Antonio Spurs",
-      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-lakers-at-san-antonio-spurs/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTg0OTI%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzlK5mU9Mdo0LFp-8zqqkWlus4PArmvYSl8HyXpsv4vdciOPHy2wuV1eSTlUI"
+      "noticia": "The San Antonio Spurs Earn the Win",
+      "enlace": "https://www.nba.com/inside-the-game/blueprint/0022600071",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlCa7J0jltrgmvGmRrrF9ExKeTjlmNj-CED48aR6Choa26kHvFnZS9Z2Fonck"
     },
     {
       "termino": "celtics - hawks",
@@ -67,13 +74,6 @@
       "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
       "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
-    },
-    {
-      "termino": "columbus crew - inter miami",
-      "trafico": "1000+",
-      "noticia": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-      "enlace": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviqp5Rl_80zaS3XwiMNhXTHrMPQYKzrgyxsoloZotW0WwNqUIxB9PaMrrlbo"
     }
   ]
 }
