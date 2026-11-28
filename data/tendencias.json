@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-27T21:07:37.795607-04:00",
-  "hora": "21:07",
+  "updated": "2026-11-27T21:17:57.139983-04:00",
+  "hora": "21:17",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "colombia - república dominicana",
+      "trafico": "200+",
+      "noticia": "La selección de básquet busca sellar su boleto al Mundial de baloncesto en la quinta ventana",
+      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/27/mundial-fiba-2027-rd-busca-asegurar-su-boleto-en-quinta-ventana/3732984",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTez5-r7_w79DGOyLaREZyupuqNiR-t3PakvTVafPPvLR9GYv3d6FtkcT-wsAc"
+    },
+    {
       "termino": "bronson reed",
       "trafico": "200+",
-      "noticia": "Bronson Reed Passes Away Due To Medical Complications",
-      "enlace": "https://www.fightful.com/wrestling/bronson-reed-passes-away-due-to-medical-complications/",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFN1FaxsqMyGn7jPQJ6iCxZq3mX2DWG1_z5nEZtgxwsEjc_5Ut1A88Chwb9vM"
+      "noticia": "Jermaine Haley, also known as Bronson Reed, passes away",
+      "enlace": "https://www.wwe.com/article/jermaine-haley-also-known-as-bronson-reed-passes-away",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivPJDzCALmlsDt48FLrvT_rgrpoRl3aEny9xaA8PLuU4Q3jdFZFPD-OryNUw"
     },
     {
       "termino": "pacers - 76ers",
@@ -56,7 +63,7 @@
     },
     {
       "termino": "concierto",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Romeo Santos y Prince Royce anuncian segundo concierto en Santiago",
       "enlace": "https://www.diariolibre.com/revista/musica/2026/11/27/segunda-funcion-de-romeo-santos-y-prince-royce-en-republica-dominicana/3733560",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlGIAcN69i8i2QfpdWHEkzxVoCriNufgyBBfyjk7UfyIBspqH4O4L9HVhOabM"
@@ -67,13 +74,6 @@
       "noticia": "Levante - Racing Santander: resumen, resultado y goles",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/levante-racing-santander/2026/11/27/01_0101_20261127_855_189-directo.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSrMP6EY0f3pzTncDDYnMrKq_ONBoV-PEto72v3B6j3xdmdGmXG5rOXQbRLqI"
-    },
-    {
-      "termino": "nottingham forest - chelsea",
-      "trafico": "1000+",
-      "noticia": "Nottm Forest 3-2 Chelsea: How the players rated",
-      "enlace": "https://www.bbc.com/sport/football/articles/cmwy85xxjgxvo",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFPkZhi7b9rCKaM9ITo2YBRd8zgsisNXtQ2wVt1ABtBV-NE96Z8fe2kh2tOW8"
     }
   ]
 }
