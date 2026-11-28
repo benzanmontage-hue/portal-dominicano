@@ -1,17 +1,10 @@
 {
-  "updated": "2026-11-27T23:22:10.268548-04:00",
-  "hora": "23:22",
+  "updated": "2026-11-27T23:32:33.376880-04:00",
+  "hora": "23:32",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
-    {
-      "termino": "lebron james",
-      "trafico": "100+",
-      "noticia": "Miami Heat vs. Philadelphia 76ers Live Score and Stats - November 25, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261125_MIA@PHI/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQds3w5nf3Anqedphq58dQy4uLgVndaDOkf_Jl3tgGkuMuOjQF1P2nXemG2AOw"
-    },
     {
       "termino": "trail blazers - warriors",
       "trafico": "500+",
@@ -28,7 +21,7 @@
     },
     {
       "termino": "spurs - lakers",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Lakers, Spurs clash in pivotal NBA Cup showdown",
       "enlace": "https://www.cbssports.com/nba/news/lakers-spurs-clash-in-pivotal-nba-cup-showdown/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
@@ -51,7 +44,7 @@
       "termino": "colombia - república dominicana",
       "trafico": "500+",
       "noticia": "La selección de básquet busca sellar su boleto al Mundial de baloncesto en la quinta ventana",
-      "enlace": "https://www.diariolibre.com/deportes/columnistas/2026/11/27/mundial-fiba-2027-rd-busca-asegurar-su-boleto-en-quinta-ventana/3732984",
+      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/27/mundial-fiba-2027-rd-busca-asegurar-su-boleto-en-quinta-ventana/3732984",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTez5-r7_w79DGOyLaREZyupuqNiR-t3PakvTVafPPvLR9GYv3d6FtkcT-wsAc"
     },
     {
@@ -71,9 +64,16 @@
     {
       "termino": "columbus crew - inter miami",
       "trafico": "1000+",
-      "noticia": "Inter Miami Fight to Save MLS Cup Defense Against Columbus",
-      "enlace": "https://cwibc.co.id/en/inter-miami-save-title-defense",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nJf9wBD5Kp7uOWg4I7xxjXuXrb0CLsPTVUTxclJ0s-7mO_F0hv5gbW5Zlds"
+      "noticia": "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois  Columbus Crew dismantled Lionel Messi s Inter Miami",
+      "enlace": "https://www.goal.com/en-in/originals/playing-the-long-ball-exploiting-the-spaces-and-a-bit-of-luck-how-columbus-crew-battered-inter-miami/blt631e393de9d56095",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Wkem1xbPniRbZWgB4xamh9VquqryMuAMDltcg0ftOeVIVepq8sqZ8ujBVZA"
+    },
+    {
+      "termino": "triston casas",
+      "trafico": "500+",
+      "noticia": "Triston Casas vuelve al Licey tras 19 meses sin jugar: quién es el toletero de Boston y qué se juega",
+      "enlace": "https://revistamercado.do/actualidad/triston-casas-licey-refuerzo-lidom-quien-es/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYjYrH5nsJHObFxWjs09QB6CoBZHEhisrUD-mREz96hgse0eD5S1xW7keqCNU"
     }
   ]
 }
