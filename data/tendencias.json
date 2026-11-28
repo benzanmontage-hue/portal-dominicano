@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-28T07:18:36.071388-04:00",
-  "hora": "07:18",
+  "updated": "2026-11-28T07:29:05.688634-04:00",
+  "hora": "07:29",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "tigres del licey",
-      "trafico": "500+",
-      "noticia": "¡Regreso a lo GRANDE! Casas vuelve a la acción con grand slam en LIDOM",
-      "enlace": "https://www.mlb.com/es/news/triston-casas-conecta-grand-slam-en-la-liga-invernal-dominicana",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv13JJkYT0A-VqUwcl_D_cwkqxN2BP0woutcQ68ZdQEWUrWfC3d15gIlw_wiA"
-    },
-    {
       "termino": "nba",
       "trafico": "500+",
-      "noticia": "George Aivazoglou on NBA Europe:  Announcements of the clubs coming early 2027",
-      "enlace": "https://www.eurohoops.net/en/nba-news/2041995/george-aivazoglou-on-nba-europe-announcements-of-the-clubs-coming-early-2027/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfHMZBocE34rPiF0-M6L-9w1-6lwcpUhr0NGTiO29wF4p4FNepJAx4hwVA1kw"
+      "noticia": "Thunder vs Bucks: Prediction, Team News and Gilgeous-Alexander s Run",
+      "enlace": "https://www.squawka.com/ca/news/nba/thunder-vs-bucks-prediction-team-news/",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlVdRDTOl1DyTU_Un_vEF1Hd2x3WEY1dhgLyl4Dfpw26bA4hNdAlQAHrjQTWs"
+    },
+    {
+      "termino": "lebron james",
+      "trafico": "1000+",
+      "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
     },
     {
       "termino": "trail blazers - warriors",
@@ -69,11 +69,11 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivPJDzCALmlsDt48FLrvT_rgrpoRl3aEny9xaA8PLuU4Q3jdFZFPD-OryNUw"
     },
     {
-      "termino": "pacers - 76ers",
+      "termino": "columbus crew - inter miami",
       "trafico": "1000+",
-      "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
+      "noticia": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "enlace": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviqp5Rl_80zaS3XwiMNhXTHrMPQYKzrgyxsoloZotW0WwNqUIxB9PaMrrlbo"
     }
   ]
 }
