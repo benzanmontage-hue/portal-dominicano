@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T20:05:28.486593-04:00",
-  "hora": "20:05",
+  "updated": "2026-11-27T20:15:51.202135-04:00",
+  "hora": "20:15",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "triston casas",
+      "trafico": "100+",
+      "noticia": "Triston Casas to play winter ball for Licey",
+      "enlace": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-27/triston-casas-to-play-winter-ball-for-licey",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UH5y7HaP1UhCzCix-W9nGvukFfsq6eB82tumeZnmmorRbaKauWgT3CXV-Os"
+    },
     {
       "termino": "knicks - heat",
       "trafico": "200+",
@@ -38,7 +45,7 @@
       "trafico": "200+",
       "noticia": "Levante - Racing Santander: resumen, resultado y goles",
       "enlace": "https://www.marca.com/futbol/laliga-ea-sports/levante-racing-santander/2026/11/27/01_0101_20261127_855_189-directo.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSrMP6EY0f3pzTncDDYnMrKq_ONBoV-PEto72v3B6j3xdmdGmXG5rOXQbRLqI"
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8_bvYOlYw6Zy8GqH4fO-cd6bbywIIGfxwNSWZo3g87nYo_a8Z3qXKjfcnyE0"
     },
     {
       "termino": "nottingham forest - chelsea",
@@ -67,13 +74,6 @@
       "noticia": "DAZN   FIBA Unveil The New Home of Basketball: BasketballTV",
       "enlace": "https://dazngroup.com/press-room/dazn-fiba-unveil-the-new-home-of-basketball-basketballtv/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCLiGBMnpbPAoXcX9CHsTIe5ntzZ-W0LPR_X-vFgbpwi24C-2Y4xRUt95oeVY"
-    },
-    {
-      "termino": "junior caminero",
-      "trafico": "500+",
-      "noticia": "Junior Caminero cobra US$2.26 millones de bono en MLB, casi tres veces su salario: los dominicanos",
-      "enlace": "https://revistamercado.do/empresas/sport-business/junior-caminero-bono-prearbitraje-mlb-dominicanos/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWcCTtuDxxp795Zd5VoMrlveQUc1qJCYzBCb7-L-AD83heM-bsrcWL_rJY4Rc"
     }
   ]
 }

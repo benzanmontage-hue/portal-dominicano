@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T20:05:27.642234-04:00",
+  "updated": "2026-11-27T20:15:50.571746-04:00",
   "fecha": "27/11/2026",
-  "hora": "20:05",
+  "hora": "20:15",
   "total_juegos": 53,
   "juegos": [
     {
@@ -67,11 +67,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "44",
-        "25",
-        "73"
+        "74",
+        "90",
+        "55"
       ],
-      "fecha": "2026-11-26T04:00:00.000Z",
+      "fecha": "2026-11-27T04:00:00.000Z",
       "game_id": "6a97691c445bdb3562dc7f17"
     },
     {
@@ -102,14 +102,14 @@
       "compania": "Loteria Real",
       "juego": "Loto Real",
       "numeros": [
+        "38",
+        "16",
+        "30",
         "21",
-        "26",
-        "03",
-        "23",
-        "11",
-        "04"
+        "17",
+        "15"
       ],
-      "fecha": "2026-11-24T04:00:00.000Z",
+      "fecha": "2026-11-27T04:00:00.000Z",
       "game_id": "6966a6d2ea7015c3b8a3d4a8"
     },
     {
@@ -639,11 +639,11 @@
       "compania": "Loteria Real",
       "juego": "Lotería Real Noche",
       "numeros": [
-        "44",
-        "25",
-        "73"
+        "74",
+        "90",
+        "55"
       ],
-      "fecha": "2026-11-26"
+      "fecha": "2026-11-27"
     },
     {
       "compania": "La Primera",
