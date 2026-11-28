@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T00:15:18.119208-04:00",
-  "hora": "00:15",
+  "updated": "2026-11-28T00:25:39.713275-04:00",
+  "hora": "00:25",
   "fecha": "28/11/2026",
   "total": 15,
   "noticias": [
@@ -77,19 +77,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Fallece en Panamá el sacerdote Miguel Ángel Ciaurriz, quien desarrolló labor pastoral y comunitaria en República Dominicana - Acento",
-      "fuente": "Acento",
-      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZGNzZ3pCb0NDRF9CdjVhR1J3MDNhODlxQ2NORTRRRzEzNXR2aWhGdTEzNGtVMjdBd04xcG40M2tpbDdIdDkyRGYza25kVHlHS0xYYlc5cHQ4OWx4U1FMd3dkcFNhbnlsR0dMaWpzNjhKb0dQSFdWM0IxckFVcFE0LXNqZ0MxWk8teVhJRjhYelFUY3ZGTzZPZnd1YlMtRlB4MUh0R0cxVGtORmJRRU9FREVJOHNzZkRyQ3otRWhZaUN5STQ5eThZWVgweGgwRkJpUjQ5NEg5TlpqbmlKbXY0ZTBBYkRnSmFkNTd4LUFNc1EwNkE3Ni0xVW5vVTLSAfwBQVVfeXFMT2Rjc2d6Qm9DQ0RfQnY1YUdSdzAzYTg5cUNjTkU0UUcxMzV0dmloRnUxMzRrVTI3QXdOMXBuNDNraWw3SHQ5MkRmM2tuZFR5R0tMWGJXOXB0ODlseFNRTHd3ZHBTYW55bEdHTGlqczY4Sm9HUEhXVjNCMXJBVXBRNC1zamdDMVpPLXlYSUY4WHpRVGN2Rk82T2Z3dWJTLUZQeDFIdEdHMVRrTkZiUUVPRURFSThzc2ZEckN6LUVoWWlDeUk0OXk4WVlYMHhoMEZCaVI0OTRIOU5aam5pSm12NGUwQWJEZ0phZDU3eC1BTXNRMDZBNzYtMVVub1Uy?oc=5",
+      "titulo": "Los otros españoles - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdjRmNktrd21XY1NPb3Z2c1VSWVcweHU1ZDFya0x3T0ZyV3hSc3llLUZ3aTRjbTFTVWRnaTYxYWxwV0J3VGlNSFplSU1aU3VwZ01wb1RMZEdqaVVqcnA1VXR0NkE4Rk1zSC1sdDhOTTZyQ0xQRjVLbjdmX1V1d01NWGFEd3dPZVh4UU9YZjAwNk8xcDdmY0w1SWlkMDVPNEd3dkZQcWpzUmtXZFl1YVhoSzVtN3l1OVgwY1ZqUWxHbUI5SHFjM2ZWMVJn0gHPAUFVX3lxTE55TllJRGNLY1FGZUJCRDNBNjgzWWRuemZid1JHWWlURHM2aFpLQWxhdlJEWS1Eb2k2a2ZSUFZHaFNZSVJSQXNhUUctZjdnWjRqMVdkUjhNNU9nakxuZnd2Sno4VURMRUpGWDlxYTBrNWFHQlhFMl8zSEJfLTNBNE9kbEtmZ05XVlNlbHJPNUd5VmdmcjFtLThCWG9IeVV6ZXNndlVqUVBpOHVzUWhucXlqajFsdWpJb0w5Q3I3MVh2VXlZaDdoUERjZ08wR1NuOA?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 13:42:56 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Directora del Inafocam reafirma compromiso con una educación de calidad en República Dominicana - El Nacional — La voz de todos",
-      "fuente": "El Nacional — La voz de todos",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVdEeFJNUjhlNjZ1YVNpc3lSbW0xMGEwcm1Ed0RCX09hcC10Z1JtVWJSNmVVaHREMUJLbndTMWdnYlQ1aEJySGdUREJCU0EwVnhIUmM2eXdvb2tVTjMzT0FzZy00QWhaRjFXSGJPUjlJOG5hdjZ3S084bm9ZbHVzdWlsY01KSEJQaGNqcGo5RFRtblNrRWFyZGNPblh6MVdzTnM3MHBscXJuNU5HV3NnbUlpbFphUXdBT2tWQ01CaVY4c0Nx0gHKAUFVX3lxTE9qUEdOYVcxZ2hCRndlVXJDQmNObHdNaGpjcFBLQm9icUlBVWlLSTZOelJnU0g3bjZOSGdTN25zWW5qX3J4Ml93STNLOTFVU0tnUERGZV9LWFFSNm02a3lYa0VkRVJlbFNCN0V5MUR1MGYzcUdEMmVRR2VfVzQ0OGtQMVYyLUhKcXZLNmhvam1qUVIwb0pITVV1MzF3ZVhRSE9jZ0J3QTZjMmRmb2NKSzNpeUd1aVAzNmFGaU4tVWduZHRqZmpubjBhaHc?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 16:59:32 GMT",
+      "fecha": "Fri, 27 Nov 2026 03:00:00 GMT",
       "imagen": ""
     },
     {
@@ -98,6 +90,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVGhwa204OTlxNkRyZXYyWjRndTZyN2wwdm1hNnNfOVZvQmJoeF9SdEpTZDhVT0k1QnhwMXg1dFYwMzZqZ1k3a00tblptQXBRdjFrV1ZlNjhtX3h3ZktwVVJTRlNLOVJ6aTNWaWgwLWFyazBxdERJWDAyaXBtek9fNG5sMlBVZ3hoRnU0X1BURjRsRzlpbDE4OTdhR2NpRzRPLXptU0Vka0k5OG1xU3luSmo3SDlURTFfTGZ4Njk3TktlY2NvYXBaamZlV2NtQU83VmpPMjdJSl9DWmRWNG9NSVJMT3Vmd9IB5gFBVV95cUxNVGhwa204OTlxNkRyZXYyWjRndTZyN2wwdm1hNnNfOVZvQmJoeF9SdEpTZDhVT0k1QnhwMXg1dFYwMzZqZ1k3a00tblptQXBRdjFrV1ZlNjhtX3h3ZktwVVJTRlNLOVJ6aTNWaWgwLWFyazBxdERJWDAyaXBtek9fNG5sMlBVZ3hoRnU0X1BURjRsRzlpbDE4OTdhR2NpRzRPLXptU0Vka0k5OG1xU3luSmo3SDlURTFfTGZ4Njk3TktlY2NvYXBaamZlV2NtQU83VmpPMjdJSl9DWmRWNG9NSVJMT3Vmdw?oc=5",
       "dominio": "news.google.com",
       "fecha": "Fri, 27 Nov 2026 07:00:26 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fallece en Panamá el sacerdote Miguel Ángel Ciaurriz, quien desarrolló labor pastoral y comunitaria en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZGNzZ3pCb0NDRF9CdjVhR1J3MDNhODlxQ2NORTRRRzEzNXR2aWhGdTEzNGtVMjdBd04xcG40M2tpbDdIdDkyRGYza25kVHlHS0xYYlc5cHQ4OWx4U1FMd3dkcFNhbnlsR0dMaWpzNjhKb0dQSFdWM0IxckFVcFE0LXNqZ0MxWk8teVhJRjhYelFUY3ZGTzZPZnd1YlMtRlB4MUh0R0cxVGtORmJRRU9FREVJOHNzZkRyQ3otRWhZaUN5STQ5eThZWVgweGgwRkJpUjQ5NEg5TlpqbmlKbXY0ZTBBYkRnSmFkNTd4LUFNc1EwNkE3Ni0xVW5vVTLSAfwBQVVfeXFMT2Rjc2d6Qm9DQ0RfQnY1YUdSdzAzYTg5cUNjTkU0UUcxMzV0dmloRnUxMzRrVTI3QXdOMXBuNDNraWw3SHQ5MkRmM2tuZFR5R0tMWGJXOXB0ODlseFNRTHd3ZHBTYW55bEdHTGlqczY4Sm9HUEhXVjNCMXJBVXBRNC1zamdDMVpPLXlYSUY4WHpRVGN2Rk82T2Z3dWJTLUZQeDFIdEdHMVRrTkZiUUVPRURFSThzc2ZEckN6LUVoWWlDeUk0OXk4WVlYMHhoMEZCaVI0OTRIOU5aam5pSm12NGUwQWJEZ0phZDU3eC1BTXNRMDZBNzYtMVVub1Uy?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 13:42:56 GMT",
       "imagen": ""
     },
     {
