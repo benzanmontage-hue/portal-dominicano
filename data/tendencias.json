@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-27T21:59:16.595047-04:00",
-  "hora": "21:59",
+  "updated": "2026-11-27T22:09:37.544137-04:00",
+  "hora": "22:09",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "celtics - hawks",
+      "trafico": "100+",
+      "noticia": "Hawks, Celtics clash for NBA Cup East Group C title",
+      "enlace": "https://www.cbssports.com/nba/news/hawks-celtics-clash-for-nba-cup-east-group-c-title/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+    },
+    {
+      "termino": "alofoke casa 3",
+      "trafico": "100+",
+      "noticia": "“Las Mellas”, de ‘La casa de Alofoke 3’, quedan eliminadas del reality tras agredir a Manuel Conet",
+      "enlace": "https://listindiario.com/entretenimiento/farandula/20261126/mellas-casa-alofoke-3-quedan-eliminadas-reality-agredir-manuel-conet_931598.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUgeo3BVajb3sK4ADVj6X0ZZCMdAUeMaurl-UaNo_Ngu0tQyGg5t8f4b8cEQE"
+    },
     {
       "termino": "colombia - república dominicana",
       "trafico": "200+",
@@ -60,20 +74,6 @@
       "noticia": "EE. UU. insiste en que República Dominicana exija a Viettel utilizar tecnología confiable",
       "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/27/embajadora-leah-f-campos-sobre-viettel-republica-dominicana/3733783",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4hCjjCHrUC6RquMeArZR2QExaQw2V5tSEDkXOJujR3aPHOusRVor2_9dROk"
-    },
-    {
-      "termino": "concierto",
-      "trafico": "500+",
-      "noticia": "Romeo Santos y Prince Royce anuncian segundo concierto en Santiago",
-      "enlace": "https://www.diariolibre.com/revista/musica/2026/11/27/segunda-funcion-de-romeo-santos-y-prince-royce-en-republica-dominicana/3733560",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlGIAcN69i8i2QfpdWHEkzxVoCriNufgyBBfyjk7UfyIBspqH4O4L9HVhOabM"
-    },
-    {
-      "termino": "levante - racing de santander",
-      "trafico": "200+",
-      "noticia": "Levante - Racing Santander: resumen, resultado y goles",
-      "enlace": "https://www.marca.com/futbol/laliga-ea-sports/levante-racing-santander/2026/11/27/01_0101_20261127_855_189-directo.html",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8_bvYOlYw6Zy8GqH4fO-cd6bbywIIGfxwNSWZo3g87nYo_a8Z3qXKjfcnyE0"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:59:16.017961-04:00",
+ "updated": "2026-11-27T22:09:36.986245-04:00",
  "juegos": [
   {
    "compania": "Americanas",
@@ -519,12 +519,12 @@
    "compania": "LoteDom",
    "juego": "Agarra 4 Noche",
    "numeros": [
-    "27",
-    "15",
-    "17",
-    "14"
+    "10",
+    "85",
+    "03",
+    "96"
    ],
-   "fecha": "2026-11-26T04:00:00.000Z",
+   "fecha": "2026-11-27T04:00:00.000Z",
    "game_id": "6ace37b604c5226f7ad8c7b6"
   },
   {
@@ -540,20 +540,20 @@
    "compania": "LoteDom",
    "juego": "El Quemaito Noche",
    "numeros": [
-    "14"
+    "96"
    ],
-   "fecha": "2026-11-26T04:00:00.000Z",
+   "fecha": "2026-11-27T04:00:00.000Z",
    "game_id": "6ace36ef04c5226f7ad8c73d"
   },
   {
    "compania": "LoteDom",
    "juego": "LoteDom Noche",
    "numeros": [
-    "27",
-    "15",
-    "17"
+    "10",
+    "85",
+    "03"
    ],
-   "fecha": "2026-11-26T04:00:00.000Z",
+   "fecha": "2026-11-27T04:00:00.000Z",
    "game_id": "6accecb804c5226f7acd186b"
   },
   {
@@ -581,10 +581,10 @@
    "compania": "LoteDom",
    "juego": "Super Palé Noche",
    "numeros": [
-    "27",
-    "14"
+    "10",
+    "96"
    ],
-   "fecha": "2026-11-26T04:00:00.000Z",
+   "fecha": "2026-11-27T04:00:00.000Z",
    "game_id": "6ace374b04c5226f7ad8c779"
   },
   {
