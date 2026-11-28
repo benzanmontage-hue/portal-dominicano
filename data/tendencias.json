@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-27T22:19:59.148528-04:00",
-  "hora": "22:19",
+  "updated": "2026-11-27T22:30:23.577648-04:00",
+  "hora": "22:30",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "celtics - hawks",
-      "trafico": "100+",
-      "noticia": "Hawks, Celtics clash for NBA Cup East Group C title",
-      "enlace": "https://www.cbssports.com/nba/news/hawks-celtics-clash-for-nba-cup-east-group-c-title/",
+      "termino": "spurs - lakers",
+      "trafico": "200+",
+      "noticia": "Lakers, Spurs clash in pivotal NBA Cup showdown",
+      "enlace": "https://www.cbssports.com/nba/news/lakers-spurs-clash-in-pivotal-nba-cup-showdown/",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
     },
     {
@@ -18,6 +18,13 @@
       "noticia": "“Las Mellas”, de ‘La casa de Alofoke 3’, quedan eliminadas del reality tras agredir a Manuel Conet",
       "enlace": "https://listindiario.com/entretenimiento/farandula/20261126/mellas-casa-alofoke-3-quedan-eliminadas-reality-agredir-manuel-conet_931598.html",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUgeo3BVajb3sK4ADVj6X0ZZCMdAUeMaurl-UaNo_Ngu0tQyGg5t8f4b8cEQE"
+    },
+    {
+      "termino": "celtics - hawks",
+      "trafico": "100+",
+      "noticia": "Hawks, Celtics clash for NBA Cup East Group C title",
+      "enlace": "https://www.cbssports.com/nba/news/hawks-celtics-clash-for-nba-cup-east-group-c-title/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
     },
     {
       "termino": "colombia - república dominicana",
@@ -49,7 +56,7 @@
     },
     {
       "termino": "triston casas",
-      "trafico": "200+",
+      "trafico": "500+",
       "noticia": "Triston Casas to play winter ball for Licey",
       "enlace": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-27/triston-casas-to-play-winter-ball-for-licey",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UH5y7HaP1UhCzCix-W9nGvukFfsq6eB82tumeZnmmorRbaKauWgT3CXV-Os"
@@ -67,13 +74,6 @@
       "noticia": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
       "enlace": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ll_fVXuhVcQicjFzPceY5LxJTwMO2dLa6OlljGbrc8TMmxGlHoZ_fJ00J8M"
-    },
-    {
-      "termino": "instituto dominicano de las telecomunicaciones indotel",
-      "trafico": "200+",
-      "noticia": "EE. UU. insiste en que República Dominicana exija a Viettel utilizar tecnología confiable",
-      "enlace": "https://www.diariolibre.com/actualidad/nacional/2026/11/27/embajadora-leah-f-campos-sobre-viettel-republica-dominicana/3733783",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4hCjjCHrUC6RquMeArZR2QExaQw2V5tSEDkXOJujR3aPHOusRVor2_9dROk"
     }
   ]
 }
