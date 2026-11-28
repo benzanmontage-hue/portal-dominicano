@@ -1,17 +1,9 @@
 {
-  "updated": "2026-11-27T19:55:09.406669-04:00",
-  "hora": "19:55",
+  "updated": "2026-11-27T20:05:29.870826-04:00",
+  "hora": "20:05",
   "fecha": "27/11/2026",
   "total": 15,
   "noticias": [
-    {
-      "titulo": "Dos futbolistas con raíces en Delaware, Nueva Jersey representan a República Dominicana ante Perú - WFMZ.com",
-      "fuente": "WFMZ.com",
-      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT20weW4wR3dZT3ZCNlB1YU9LQXN6dVRrZ1dDeXc5QkFIVXRFbElZandHdTB5UDdWX3JJM1pKUUxOZi1xNUppcGpIdE1PYk84NEFyM19yUU9BbXhTT1pPanhaenE4bTZiNnBybThLNjZiM2l1dlhrcnluVjdBclp2Z2s5QjJHUzZ4Rl85cW9FQkVOOXRoc1ZXbDlMb3ROY25uLUtPc0RMUWRhSmxBNWNDcXJjMEdDTmEtT0xEd3djQlNFVlR0cmQ3aG9OeWt6dWNHTmNIS0o0bmRFQ2U5RVU4NjliWHZyVXFHc05OY2NVNFlKdDJPOTByN2ZRYlZfZnp1?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 15:50:00 GMT",
-      "imagen": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/ea/beaad7cb-a0a2-4e48-a760-44d63509c1ab/6a28a83517eb6.image.jpg?crop=1277%2C670%2C0%2C24&resize=1200%2C630&order=crop%2Cresize"
-    },
     {
       "titulo": "Colombia vs República Dominicana: horario y dónde ver hoy por TV y online la clasificación para el Mundial de Baloncesto 2027 a través de DAZN - DAZN",
       "fuente": "DAZN",
@@ -19,6 +11,14 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 27 Nov 2026 18:46:29 GMT",
       "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
+    },
+    {
+      "titulo": "Dos futbolistas con raíces en Delaware, Nueva Jersey representan a República Dominicana ante Perú - WFMZ.com",
+      "fuente": "WFMZ.com",
+      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT20weW4wR3dZT3ZCNlB1YU9LQXN6dVRrZ1dDeXc5QkFIVXRFbElZandHdTB5UDdWX3JJM1pKUUxOZi1xNUppcGpIdE1PYk84NEFyM19yUU9BbXhTT1pPanhaenE4bTZiNnBybThLNjZiM2l1dlhrcnluVjdBclp2Z2s5QjJHUzZ4Rl85cW9FQkVOOXRoc1ZXbDlMb3ROY25uLUtPc0RMUWRhSmxBNWNDcXJjMEdDTmEtT0xEd3djQlNFVlR0cmQ3aG9OeWt6dWNHTmNIS0o0bmRFQ2U5RVU4NjliWHZyVXFHc05OY2NVNFlKdDJPOTByN2ZRYlZfZnp1?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 15:50:00 GMT",
+      "imagen": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/ea/beaad7cb-a0a2-4e48-a760-44d63509c1ab/6a28a83517eb6.image.jpg?crop=1277%2C670%2C0%2C24&resize=1200%2C630&order=crop%2Cresize"
     },
     {
       "titulo": "La presencia de dominicanos en Estados Unidos alcanza los 1,2 millones y lidera los registros migratorios en el exterior - Infobae",
@@ -53,14 +53,6 @@
       "imagen": "https://www.primerahora.com/resizer/v2/GT5C2377ZBF7BPDAJQ6XI5GA7I.jpg?auth=233877a4e42bf189f5f910dcdbf69e775eb23e011149841ace66b4a0377daf50&quality=75&width=1200&height=717&focal=2629%2C1572"
     },
     {
-      "titulo": "La cultura dominicana ha encontrado una manera particular de hacerse sentir en la campaña electoral de España: a través de la música urbana, el humor y los contenidos virales que circulan en las redes sociales.⁣ ⁣ Desde el fenómeno de \"Dame hombro\", - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQlZLSDB4V09FbkxXRmtXaF9mTDZjU2Y1YWFmU0hzQXhPWHp4VzI0NjFWQl9QOXZxSzJEZGtqRXFIclFQRURmQXZqVDRHS0tXMnprT1l3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 23:26:12 GMT",
-      "imagen": "https://scontent.cdninstagram.com/v/t51.82787-15/932719138_18646531846041593_988222305900990845_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=EI8pxeB4ntYQ7kNvwGS8caW&_nc_oc=AdrhluxiO-skLjolJa4es6sUfun97_MgSkedhbXhrjCgBo8ppx892wJrkBKmudM53XM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=737TVNtYG6CGw0FmI9p0pg&_nc_ss=7b789&_nc_ct=RQgsPBUKFQQAAAA&oh=00_AQU0wTjnOivoVpo1973S8362GDWFIhyavsgQLv5PdLuj5w&oe=6B0F9D13"
-    },
-    {
       "titulo": "Militares de República Dominicana y EE. UU. fortalecen capacidades tácticas mediante entrenamiento conjunto - Diálogo Americas",
       "fuente": "Diálogo Americas",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGRhX0tCcHNiVThXVFAwYVZ1T09vYnpKWGlwQ0thbkYyX0d4bmVWLWkzemNRaHdyRUJ0cl85Zk5EY2NVZEFyZ2QydGllQnowa3RocWRldDRCb2RMc2VhNTEwSkVHNnhsclFpU2YtVEUwd3BwUXNoeE5sS1pQU2VkdERoUGp0bUhTLW1DVXJENHpuX1BreEFtbkZCUkZlN2JBMXpLbndQdlZLMjgyU0tsNzV6VWJGWUxpZk9rYmhITndHN2kyV0syclZFaE4yanA2YVRMdGhMV05vZWZHTkxLYg?oc=5",
@@ -83,6 +75,14 @@
       "dominio": "news.google.com",
       "fecha": "Thu, 26 Nov 2026 20:15:00 GMT",
       "imagen": "https://www.elnuevodia.com/resizer/v2/EZEPGTJEBBC55K2MHGYOCYICSI.jpg?auth=1465c178e19a68421a28ffb18e4a7f2c65cb5bedfe79d2c946a9880178c49413&quality=75&width=1200&height=717&focal=2242%2C917"
+    },
+    {
+      "titulo": "Dónde ver Colombia vs República Dominicana por las Eliminatorias FIBA 2027 - 365Scores",
+      "fuente": "365Scores",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56OXJrRjRFYXlKM1VDWmVMbG84XzVVMTdsRXB0NG1lMzBnZEo1ZGczTXRPcUlRQ203eEQteThaNkl4S09PVTh3VkV1a3BUckdmcFUtQWZjYVpycXpFNVd6WjZrSjUwaTNTRXZRQnBNakR5czFhU0hhYjFsVnM?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 23:10:00 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Voleibol · VNL 2027: Calendario con los partidos de República Dominicana, Argentina y Cuba en la Liga de Naciones - Olympics",
@@ -109,11 +109,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Dónde ver Colombia vs República Dominicana por las Eliminatorias FIBA 2027 - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56OXJrRjRFYXlKM1VDWmVMbG84XzVVMTdsRXB0NG1lMzBnZEo1ZGczTXRPcUlRQ203eEQteThaNkl4S09PVTh3VkV1a3BUckdmcFUtQWZjYVpycXpFNVd6WjZrSjUwaTNTRXZRQnBNakR5czFhU0hhYjFsVnM?oc=5",
+      "titulo": "Dominicana celebra el Día Nacional del Merengue, Patrimonio Cultural - Prensa Latina",
+      "fuente": "Prensa Latina",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHFIclFhU0FqUWtad3NuLWxuYUxJbDdWVzN6RlczV3hFNlRuZWxxV1ZsSHFLYkFGS2J1QUpLRE45dldXWWUtcUJaN0ZYd2EyMmllS1FqUm1yQ1lUS0FUYTVOUlA2SDJ3SnNiSUM0SXlmdVR1OV81T2dqUHd6d2ZwVWFHc0N0ZDIwdFZ4UzA4WDRNUFc4Zks4SE5jUnZNVm9nTlRxUkFSX2l0UWxsYnF3?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 23:10:00 GMT",
+      "fecha": "Fri, 27 Nov 2026 23:01:06 GMT",
       "imagen": ""
     },
     {

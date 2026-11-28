@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T19:55:07.485285-04:00",
-  "hora": "19:55",
+  "updated": "2026-11-27T20:05:28.486593-04:00",
+  "hora": "20:05",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "knicks - heat",
+      "trafico": "200+",
+      "noticia": "Red-hot Knicks host Heat to close NBA Cup group play",
+      "enlace": "https://www.cbssports.com/nba/news/red-hot-knicks-host-heat-to-close-nba-cup-group-play/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+    },
     {
       "termino": "pizza hut",
       "trafico": "100+",
@@ -36,9 +43,9 @@
     {
       "termino": "nottingham forest - chelsea",
       "trafico": "1000+",
-      "noticia": "Nottm Forest 3-2 Chelsea (Nov 27, 2026) Game Analysis",
-      "enlace": "https://www.espn.com/soccer/report/_/gameId/401879225",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlDUdLg9FMrffulv9e1ol2frsulJ9HOAmwNBo7hzQrzJivXKazYpN8FJGMMk8"
+      "noticia": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+      "enlace": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMivdhFQ4rBTVuVa4gVdbWJBtOg5R3fxrf_p-UXUjOaCttul6SRhhnYUMEogk"
     },
     {
       "termino": "policía",
@@ -67,13 +74,6 @@
       "noticia": "Junior Caminero cobra US$2.26 millones de bono en MLB, casi tres veces su salario: los dominicanos",
       "enlace": "https://revistamercado.do/empresas/sport-business/junior-caminero-bono-prearbitraje-mlb-dominicanos/",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWcCTtuDxxp795Zd5VoMrlveQUc1qJCYzBCb7-L-AD83heM-bsrcWL_rJY4Rc"
-    },
-    {
-      "termino": "amazon",
-      "trafico": "2000+",
-      "noticia": "The 80+ Best Amazon Black Friday Deals That Are Actually Worth It",
-      "enlace": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2026/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPSkQT4A2azExngFFdEHVmpaNiSZLKUf3bElYYNqk52RI5CKVUAuR3A4txiX0"
     }
   ]
 }
