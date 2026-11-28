@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T08:52:30.602459-04:00",
-  "hora": "08:52",
+  "updated": "2026-11-28T09:02:54.898362-04:00",
+  "hora": "09:02",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
@@ -20,6 +20,20 @@
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4h3vmy3R2OdmS-eZ7nybNWWOexzL3q67GUllS8OZLe0dAn3nh7mz2o6bBeQM"
     },
     {
+      "termino": "ministerio de educación",
+      "trafico": "100+",
+      "noticia": "Minerd y MAP reconocen 41 centros regionales y distritos en Premio a la Calidad Educativa 2026",
+      "enlace": "https://elnuevodiario.com.do/minerd-y-map-reconocen-41-centros-regionales-y-distritos-en-premio-a-la-calidad-educativa-2026/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8b2kDSGLl2K0AsgS3wDJZSHTyTZgloXh5RgAJMjRYQpduwNBAChKMV0e4MoU"
+    },
+    {
+      "termino": "nba",
+      "trafico": "500+",
+      "noticia": "George Aivazoglou on NBA Europe:  Announcements of the clubs coming early 2027",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2041995/george-aivazoglou-on-nba-europe-announcements-of-the-clubs-coming-early-2027/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfHMZBocE34rPiF0-M6L-9w1-6lwcpUhr0NGTiO29wF4p4FNepJAx4hwVA1kw"
+    },
+    {
       "termino": "trail blazers - warriors",
       "trafico": "2000+",
       "noticia": "Yaxel Lendeborg, Warriors fail to overcome abysmal start in loss to Blazers",
@@ -29,9 +43,9 @@
     {
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
-      "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
-      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTg4NjE%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS9OORdtWjzCh1XGVjnfOMQvGJ_w8UDnYTMyb6-4KqXFSXEMxYBPbJrE0UTHc"
+      "noticia": "BYU UCF Football",
+      "enlace": "https://www.couriernews.com/sports/byu-ucf-football/image_d039b979-fcd7-589d-914c-4d6ee6382def.html",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNb6XM4opxcxnNmE21SgwDrRknmirpj6_pXDdkKSma9aaEsavQbNCQCs7VQk"
     },
     {
       "termino": "spurs - lakers",
@@ -60,20 +74,6 @@
       "noticia": "Quiñones y Feliz lideran triunfo cómodo ante Colombia y RD se pone al frente del Grupo E",
       "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/28/mundial-fiba-2027-rd-arrolla-110-68-a-colombia-y-lidera-grupo-e/3733978",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJBpI6dr5jejWaRcPs3IZpEwu-d8qFVU3S5oTwErvVK1Dlc46o7e0XK651i4c"
-    },
-    {
-      "termino": "bronson reed",
-      "trafico": "1000+",
-      "noticia": "Jermaine Haley, also known as Bronson Reed, passes away",
-      "enlace": "https://www.wwe.com/article/jermaine-haley-also-known-as-bronson-reed-passes-away",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivPJDzCALmlsDt48FLrvT_rgrpoRl3aEny9xaA8PLuU4Q3jdFZFPD-OryNUw"
-    },
-    {
-      "termino": "pacers - 76ers",
-      "trafico": "2000+",
-      "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
     }
   ]
 }
