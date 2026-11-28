@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-28T08:00:20.267139-04:00",
-  "hora": "08:00",
+  "updated": "2026-11-28T08:10:45.131634-04:00",
+  "hora": "08:10",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
       "termino": "diario libre",
-      "trafico": "100+",
+      "trafico": "200+",
       "noticia": "Presidencia aclara que imagen de Abinader junto a Eliezer Salvador es un fotomontaje",
       "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/27/presidencia-desmiente-fotomontaje-de-abinader-con-eliezer-salvador/3733806",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsu3uegcd4ThwyTxympARyYRInoUUJPmMPWvxLN4z0vqNanvykN_sueECn-4"
@@ -22,9 +22,9 @@
     {
       "termino": "nba",
       "trafico": "500+",
-      "noticia": "George Aivazoglou on NBA Europe:  Announcements of the clubs coming early 2027",
-      "enlace": "https://www.eurohoops.net/en/nba-news/2041995/george-aivazoglou-on-nba-europe-announcements-of-the-clubs-coming-early-2027/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfHMZBocE34rPiF0-M6L-9w1-6lwcpUhr0NGTiO29wF4p4FNepJAx4hwVA1kw"
+      "noticia": "Celtics  NBA Cup Defeat Exposes Growing Problem As Jayson Tatum Makes  Surprising  Admission About Second-Half Struggles",
+      "enlace": "https://sports.ndtv.com/us/nba/celtics-nba-cup-defeat-exposes-growing-problem-as-jayson-tatum-makes-surprising-admission-about-second-half-struggles-12388759",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt4miDQJ0zJgFhAAX03XgTO7hSliBfZwfZUMQ8Qet-wpm_BF2WaMrSw_HcRpg"
     },
     {
       "termino": "trail blazers - warriors",
@@ -43,9 +43,9 @@
     {
       "termino": "spurs - lakers",
       "trafico": "1000+",
-      "noticia": "NBA: Los Angeles Lakers at San Antonio Spurs",
-      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-lakers-at-san-antonio-spurs/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjI0Mjk",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXlaMonIpIjlK22CRWipo8-Rd5QV0xN4dl0KbAqLoykc9rvaDXdAofFoITGOM"
+      "noticia": "The San Antonio Spurs Earn the Win",
+      "enlace": "https://www.nba.com/inside-the-game/blueprint/0022600071",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlCa7J0jltrgmvGmRrrF9ExKeTjlmNj-CED48aR6Choa26kHvFnZS9Z2Fonck"
     },
     {
       "termino": "celtics - hawks",
