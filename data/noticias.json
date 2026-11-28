@@ -1,16 +1,32 @@
 {
-  "updated": "2026-11-27T23:32:34.710085-04:00",
-  "hora": "23:32",
+  "updated": "2026-11-27T23:42:55.393445-04:00",
+  "hora": "23:42",
   "fecha": "27/11/2026",
   "total": 15,
   "noticias": [
     {
-      "titulo": "Colombia vs República Dominicana: horario y dónde ver hoy por TV y online la clasificación para el Mundial de Baloncesto 2027 a través de DAZN - DAZN",
-      "fuente": "DAZN",
-      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUE14ZEhXLWYtbXMyc2dRRlBicTlSdGRZZGtYM3Y5VzZMdWQ4b2QzS2tnaHBIZWJQeG1MV3AtQkxpcUZZNGFnMXFCb2IydlQ1MW1VR0NFbVZDODd0TFhtSUUyZ01MTThnOUZuekd1ak90NW5RTW0tVEd4eGdQTFdjeS1tdEhqZU9DUDVSdE84SURFYlNQX0cyY1J6NUtYYmVWWldmNGNIT2h4T0RBX1FFRTl6VW5jZVVUTlYxcnZEMmlVcHg2VHNwVXhQbDNvdzZ1c0FiUTJnSmZQQ0hTX3NGSzAtRFlSaTJKZE55MF84czkxNk1RR1Vha0NjcXgtdw?oc=5",
+      "titulo": "EE. UU. insiste en que República Dominicana exija a Viettel utilizar tecnología confiable - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTFsWlU4c19fb0dORDFvTnc1WXZrMkhTeFZCaUJ1aEQ2Qm0taEhZSUtXcVB2czJJazRaTjZzMDQwVDlhbGpuZGJSODMyaHJwZDhKSkJwZWQ2Q21qejhkay0wb3lDUWY0b2hjVzEyQnlqNU9GVWI1OUt2dVR1Y0NHVlJVejllQ0hSNW9Jd2ZFTUhUcEZxYlZwWmNSZlBPUXE0RnJyNUVGTjVWTEd3aElJUzdRLTNVT1U1Z0JENXYzNXd1ZVJI0gHKAUFVX3lxTE9kQW10YktXWGNhMTJIdWF3YXlHZDA5cWJhUEk5VWZtS3hZcGJrbFo0RW5RMXN1N1FFQ0pyNEg3eXRJZEJHcDl3cGdlNDB2djJJUWJya1B3RmhJSl9heXN2NjBMRV9lUVFqRlpkYWVMNm9JQmxybGpUWVhyaGdsV2pOX3lEdTQ5MjZSR2NnTWFFUlgtcXJtWC1iOTVldUlTMmttU3A4MHJ1bk9aZVpRczBaSnlCdy1QaXVod1p3UzE1aUR0Mml3czRiRXc?oc=5",
       "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 18:46:29 GMT",
-      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
+      "fecha": "Fri, 27 Nov 2026 22:25:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Vivir solo en República Dominicana? Un lujo que muchos jóvenes no pueden permitirse - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajd1UEQ1YkFOUkw5WDFKMUI3ZWJIUFhSR0xGeVIza0xXX1N5UEtRdlNjazZONmNkSjZhMTdsNV9vQ2stOUNEYjdlM0puS1hkbHkzWDQyb2JEQk5LNExCV2tMNl9KV2VlOWgwWFZXSExtNEdEQlNOY2szUXhON1ZGbkplSnkzRXd3b3BPenRPVGYzZXNFcF9VdzR6bGdyQdIBowFBVV95cUxOa2NVRF9JczJhcTdSV2pkMXZQWEFQMzJXOWV2ekU3MERvMkt1c1I2b2hRNm5iZWRxNU9hOWt4NWZkUEhRS3lXWkRGLUl4VnREeGJNTjhKMktEMjVjZkRfckV1aENJNHFFTTdDX0l1SFpubmpPYTFwTmttNnpVWkoxaWpMXy16bzhmaTJnOXBfTGlHTzNjVWQwRTBXUUJvcjF1MEl3?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 11:33:34 GMT",
+      "imagen": "https://imagenes.elnacional.com.do/files/og_thumbnail/uploads/2026/11/27/6b096352ac15f.jpeg"
+    },
+    {
+      "titulo": "Clima en Santo Domingo, República Dominicana: ¿Cómo estará el pronóstico del tiempo mañana, sábado 28 de noviembre de 2026? - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ0JuckhtanZXYWxBdTJaQkNMSjhsWXd2dHJ4TXhXazdYREJtQU1Vb1E4Rl82ZldBVWVCYkxQUjk0OGVrNWROR2k5SUxsVlZEeXNCamZVTE1TbUNiTUxzdUMwbWVyTE5ZbjFpM2ppa052MVZUNXludWgwdjVQVWFVN3F2YVFEMmVUUFl4RGpybHBGdDdEUVJEdWpaQmtrU0VVWDlVT0VRNWlzTHgtNmVkbkhxWXN3MXJLWkNOQzVEbGZHS3FjdjhiSms1RVFKQmt6QUtORzZQd3FqWVJjdnRDTjk5ZGZYVzlWLTJ6Z1NJOXBKTHRH0gH0AUFVX3lxTE1nQm5ySG1qdldhbEF1MlpCQ0xKOGxZd3Z0cnhNeFdrN1hEQm1BTVVvUThGXzZmV0FVZUJiTFBSOTQ4ZWs1ZE5HaTlJTGxWVkR5c0JqZlVMTVNtQ2JNTHN1QzBtZXJMTlluMWkzamlrTnYxVlQ1eW51aDB2NVBVYVU3cXZhUUQyZVRQWXhEanJscEZ0N0RRUkR1alpCa2tTRVVYOVVPRVE1aXNMeC02ZWRuSHFZc3cxcktaQ05DNURsZkdLcWN2OGJKazVFUUpCa3pBS05HNlB3cWpZUmN2dENOOTlkZlhXOVYtMnpnU0k5cEpMdEc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 17:00:06 GMT",
+      "imagen": ""
     },
     {
       "titulo": "Dos futbolistas con raíces en Delaware, Nueva Jersey representan a República Dominicana ante Perú - WFMZ.com",
@@ -19,6 +35,78 @@
       "dominio": "news.google.com",
       "fecha": "Fri, 27 Nov 2026 15:50:00 GMT",
       "imagen": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/ea/beaad7cb-a0a2-4e48-a760-44d63509c1ab/6a28a83517eb6.image.jpg?crop=1277%2C670%2C0%2C24&resize=1200%2C630&order=crop%2Cresize"
+    },
+    {
+      "titulo": "Romeo Santos y Prince Royce anuncian segunda función en República Dominicana tras “sold out”de primera fecha - El Nuevo Diario",
+      "fuente": "El Nuevo Diario",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjc4d2k4eTJSR2t1bTUwcS16MGhaVk1jaWxfdVpBVjZHMmRZb3R5RVNjNFo4eFFxa0FzZEhSN2Y1MWllNnI4RDY4NXZBMXNxWUVmUDFLX0EtZWgwMC1ITnpUVGNUS2FLWnU4Z05wd0VRV2gzUWFHdkpWTzl5Y1ZWclVZWGxvQjBnNjNvMmxibTByUDJkYUpsNm83ZEQxazdkYzFhckVXbEFWYVp2MU53dlNMRzdwRzJIVkdXYU93Y0NEa0dWd01fZHdUbGpycndURHc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 17:34:30 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Dominicana busca este viernes ganar su grupo en el Mundial Sub-17 Catar 2026 - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXIyajNMZ3RpcDZKVy0zM05tWEQzSm5Ucm9IeGJJVWthcTRaUFVkMkRUS2JkTmJWWC1fcUFYVE10dFkwclFPaUJpN1RQVkowY3A3M2UxdkdId3BlNnFqcDdhaG45V1ljNWtjaExqRVVnQVIwc3I3VXcwWndoTmRFQk5KN3ZiT0E4dl80Ums3Q0xLMVFwWkZZdVFtOU80N0QwYkFYY2gzSVJ1blBY0gGyAUFVX3lxTFBkcHQ2QnR3bHRBV2tMWUstbGd3by1HaHBSZlM4VzlFQzB5MkFkSGJQQ3NnejlCTUxpU2ZJT20xZjFxZnhueDU5YzJqMEtkclpuSVhKemJ5clAzbUx1RnJuTW1DX214anBWcGpEakVDT042bjlFb1phekYxdHdHODA3NHdCU1NNYnZsSUNjTXdIWmxDX1JIVDB3UXNQX0U3WDk1ZzY2Y2NKV05RZEdheHliUFE?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 04:15:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "RD pierde con Argelia y enfrentará a Mali en el Mundial sub-17 - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUhRTi1VbTFSMWdUanhEb3Z0XzdfWUxDMVp3MndsaXh3a2NaT3VWUjZUN0hGRjh2MUowSjlXUFpzQkxGcjVxSU1iNEVuR096VnZ2OFZIYmxMNzV0ckN3MkRUUlloYnFRX051T1FRdWhyRjM4V1I2NHFGRUFzNUNsVnZuQUd4SUplT3ExdXo5ajhRZExMMVFuNnNQWlRldnloelFpX0t1WF9vbXhBSGfSAbMBQVVfeXFMTkhPUFVsLWpCQkl6Q2dTS25PNGViOXJzSTg5MHliejRDc2VfT3A3aW0taW85VzhGZ2RjZW80OWoxTXpOTXJkTmdoWTExeWxKMHBJY3UyeUR4N0dHMFlBWTgydUM5T0g2X3dtYXlwU2c5TkdLOG9ncXBOUmxaQXdhbkpYTkNKY0FHVTJiQ2ZnUk1Tb2owSHFxOFFsTVF5WXpWRkREM1RCMl9QSnZSM1ZXV0ZWTjQ?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 20:56:16 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Definido el calendario: Dominicana enfrentará a Mali el martes - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNE9za0lVTnd4RVBkN05wWjBZN0hfSWpIMlE4RWhvclNNWEkxUTYzVDR1VWF3V3dFU1hMTnNkcWNzNlR6OGVuRmU0RlpqWF9zVVNjOWR4d2Y3eTAzV2QwcGdTRzF6QmREcmxNbDUtTXJaSS1sR2diYWJPdFpmcEwteUlRaXZ0c211UF9fZ2pONE9zNHdpUVFmNGsyVHpoclhRSHNOeWlESGnSAagBQVVfeXFMUDRPc2tJVU53eEVQZDdOcFowWTdIX0lqSDJROEVob3JTTVhJMVE2M1Q0dVVhd1d3RVNYTE5zZHFjczZUejhlbkZlNEZaalhfc1VTYzlkeHdmN3kwM1dkMHBnU0cxekJkRHJsTWw1LU1yWkktbEdnYmFiT3RaZnBMLXlJUWl2dHNtdVBfX2dqTjRPczR3aVFRZjRrMlR6aHJYUUhzTnlpREhp?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 21:15:46 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los otros españoles - Diario Libre",
+      "fuente": "Diario Libre",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdjRmNktrd21XY1NPb3Z2c1VSWVcweHU1ZDFya0x3T0ZyV3hSc3llLUZ3aTRjbTFTVWRnaTYxYWxwV0J3VGlNSFplSU1aU3VwZ01wb1RMZEdqaVVqcnA1VXR0NkE4Rk1zSC1sdDhOTTZyQ0xQRjVLbjdmX1V1d01NWGFEd3dPZVh4UU9YZjAwNk8xcDdmY0w1SWlkMDVPNEd3dkZQcWpzUmtXZFl1YVhoSzVtN3l1OVgwY1ZqUWxHbUI5SHFjM2ZWMVJn0gHPAUFVX3lxTE55TllJRGNLY1FGZUJCRDNBNjgzWWRuemZid1JHWWlURHM2aFpLQWxhdlJEWS1Eb2k2a2ZSUFZHaFNZSVJSQXNhUUctZjdnWjRqMVdkUjhNNU9nakxuZnd2Sno4VURMRUpGWDlxYTBrNWFHQlhFMl8zSEJfLTNBNE9kbEtmZ05XVlNlbHJPNUd5VmdmcjFtLThCWG9IeVV6ZXNndlVqUVBpOHVzUWhucXlqajFsdWpJb0w5Q3I3MVh2VXlZaDdoUERjZ08wR1NuOA?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 03:00:00 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "República Dominicana registra disminución en nacimientos, defunciones, matrimonios y divorcios durante 2025 - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVGhwa204OTlxNkRyZXYyWjRndTZyN2wwdm1hNnNfOVZvQmJoeF9SdEpTZDhVT0k1QnhwMXg1dFYwMzZqZ1k3a00tblptQXBRdjFrV1ZlNjhtX3h3ZktwVVJTRlNLOVJ6aTNWaWgwLWFyazBxdERJWDAyaXBtek9fNG5sMlBVZ3hoRnU0X1BURjRsRzlpbDE4OTdhR2NpRzRPLXptU0Vka0k5OG1xU3luSmo3SDlURTFfTGZ4Njk3TktlY2NvYXBaamZlV2NtQU83VmpPMjdJSl9DWmRWNG9NSVJMT3Vmd9IB5gFBVV95cUxNVGhwa204OTlxNkRyZXYyWjRndTZyN2wwdm1hNnNfOVZvQmJoeF9SdEpTZDhVT0k1QnhwMXg1dFYwMzZqZ1k3a00tblptQXBRdjFrV1ZlNjhtX3h3ZktwVVJTRlNLOVJ6aTNWaWgwLWFyazBxdERJWDAyaXBtek9fNG5sMlBVZ3hoRnU0X1BURjRsRzlpbDE4OTdhR2NpRzRPLXptU0Vka0k5OG1xU3luSmo3SDlURTFfTGZ4Njk3TktlY2NvYXBaamZlV2NtQU83VmpPMjdJSl9DWmRWNG9NSVJMT3Vmdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 07:00:26 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fallece en Panamá el sacerdote Miguel Ángel Ciaurriz, quien desarrolló labor pastoral y comunitaria en República Dominicana - Acento",
+      "fuente": "Acento",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZGNzZ3pCb0NDRF9CdjVhR1J3MDNhODlxQ2NORTRRRzEzNXR2aWhGdTEzNGtVMjdBd04xcG40M2tpbDdIdDkyRGYza25kVHlHS0xYYlc5cHQ4OWx4U1FMd3dkcFNhbnlsR0dMaWpzNjhKb0dQSFdWM0IxckFVcFE0LXNqZ0MxWk8teVhJRjhYelFUY3ZGTzZPZnd1YlMtRlB4MUh0R0cxVGtORmJRRU9FREVJOHNzZkRyQ3otRWhZaUN5STQ5eThZWVgweGgwRkJpUjQ5NEg5TlpqbmlKbXY0ZTBBYkRnSmFkNTd4LUFNc1EwNkE3Ni0xVW5vVTLSAfwBQVVfeXFMT2Rjc2d6Qm9DQ0RfQnY1YUdSdzAzYTg5cUNjTkU0UUcxMzV0dmloRnUxMzRrVTI3QXdOMXBuNDNraWw3SHQ5MkRmM2tuZFR5R0tMWGJXOXB0ODlseFNRTHd3ZHBTYW55bEdHTGlqczY4Sm9HUEhXVjNCMXJBVXBRNC1zamdDMVpPLXlYSUY4WHpRVGN2Rk82T2Z3dWJTLUZQeDFIdEdHMVRrTkZiUUVPRURFSThzc2ZEckN6LUVoWWlDeUk0OXk4WVlYMHhoMEZCaVI0OTRIOU5aam5pSm12NGUwQWJEZ0phZDU3eC1BTXNRMDZBNzYtMVVub1Uy?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 13:42:56 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Directora del Inafocam reafirma compromiso con una educación de calidad en República Dominicana - El Nacional — La voz de todos",
+      "fuente": "El Nacional — La voz de todos",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVdEeFJNUjhlNjZ1YVNpc3lSbW0xMGEwcm1Ed0RCX09hcC10Z1JtVWJSNmVVaHREMUJLbndTMWdnYlQ1aEJySGdUREJCU0EwVnhIUmM2eXdvb2tVTjMzT0FzZy00QWhaRjFXSGJPUjlJOG5hdjZ3S084bm9ZbHVzdWlsY01KSEJQaGNqcGo5RFRtblNrRWFyZGNPblh6MVdzTnM3MHBscXJuNU5HV3NnbUlpbFphUXdBT2tWQ01CaVY4c0Nx0gHKAUFVX3lxTE9qUEdOYVcxZ2hCRndlVXJDQmNObHdNaGpjcFBLQm9icUlBVWlLSTZOelJnU0g3bjZOSGdTN25zWW5qX3J4Ml93STNLOTFVU0tnUERGZV9LWFFSNm02a3lYa0VkRVJlbFNCN0V5MUR1MGYzcUdEMmVRR2VfVzQ0OGtQMVYyLUhKcXZLNmhvam1qUVIwb0pITVV1MzF3ZVhRSE9jZ0J3QTZjMmRmb2NKSzNpeUd1aVAzNmFGaU4tVWduZHRqZmpubjBhaHc?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 16:59:32 GMT",
+      "imagen": ""
+    },
+    {
+      "titulo": "Colombia vs República Dominicana: horario y dónde ver hoy por TV y online la clasificación para el Mundial de Baloncesto 2027 a través de DAZN - DAZN",
+      "fuente": "DAZN",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUE14ZEhXLWYtbXMyc2dRRlBicTlSdGRZZGtYM3Y5VzZMdWQ4b2QzS2tnaHBIZWJQeG1MV3AtQkxpcUZZNGFnMXFCb2IydlQ1MW1VR0NFbVZDODd0TFhtSUUyZ01MTThnOUZuekd1ak90NW5RTW0tVEd4eGdQTFdjeS1tdEhqZU9DUDVSdE84SURFYlNQX0cyY1J6NUtYYmVWWldmNGNIT2h4T0RBX1FFRTl6VW5jZVVUTlYxcnZEMmlVcHg2VHNwVXhQbDNvdzZ1c0FiUTJnSmZQQ0hTX3NGSzAtRFlSaTJKZE55MF84czkxNk1RR1Vha0NjcXgtdw?oc=5",
+      "dominio": "news.google.com",
+      "fecha": "Fri, 27 Nov 2026 18:46:29 GMT",
+      "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAqFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8j1z1tAAAAN3RSTlMA+wXpG/gOkwjriS3EV1hOH867yn4U1j2NJpJvZ1MR8t+/oYXRtZZgNzGoWzIcd0c45JpDOa46UYIDzQAAA/1JREFUWMPdmYly2jAQhlcCgQgEHGMOp5gjCVBKIORo9/3frFrZylqtO63AmWn7e5iRtN5vdqPTCmDN+iCgIOEFj9UHRig6jRrUEQVQYOdxHjUvVDR/7KAogI0R1KBRg4ERaHmhNEQlYBMkXCgJzX8ayH8aYHm28yOUdUSY9nMNThH8pO7+OtvvgoDyAQuJRbw1dY+nyKB2IcDWAgVP9/Xcc7tCZXg4BRkAJAtJKCUUDr3ox2QTOJYhEXZyXE5VeF/ymmChCcgAIFmO3cnTlaCSOrDXlBrIZxoMfKXiDAk5A8kZK1w9c84BwAy0Br2kzF9AcsYCsztUNucw4MC2rQj4hTM2KNXaUuPVecAv5Bs7i37ABa4gFYb7QOZw4B0Be9zHhpQA9DjnS4CQj+rPAAkKHk0XAOXYZDxuSXhFzvkSIPVxHtiQQj2d3Smr8jzeZNtt1stzluHANQG/luexk8CH0Ai1aR0S8K40j4WysuTPIIOARl1B9qMx8zzmEO9/CTxUTr35/LFnGV3OWKxi0vqG/G68lA8l4KgC2FguO2RUuH7PmDv8sKB33kAycGTdwPxoXoIPdCIepu8rl8LEIWIUfs5whcQCm5MjcoRGSuWbQPY+j5XAiYvnEyqFQyjx8gDgBhUKP0bdQFb8VhBOVFtqKJQiaQeS46N0bqA1/Jk4aN/mSmaP4FzmyWb68sQv7V+mm6QFPm9oGloUIzIxUH58hieJKKieVJxEtASvFcpVrifkL4gniah7SFUVwZlKhQX0tIHVD6xO2VdF0l67l3LeKQLr6pTKYZO93LZZm2QEVtF9+/ZYlE/T9mbrEbEYNjywWUv0NQOdr69Ga7BaUTmqiLFq6uklKsFSDrihZsxsV/ZMmc90PPV4cfCBZQkHbNu+HAIR7cDoAosXB3/5citJzlI5sA+yAFJtWwXk5YsXWNbo7TPpW3qXjy8yMnCsoRJ4+P2hPbX9pVIoAfPDmAMGfFbQDBq7w5wPXGoIBTqAMs8XrrvD5vEcoIaBdX6ek42BRScOA4HUac/W/4lMDBSx+eF9OJAOIYo/HzjCfYwL7MzjQKC0p2u3CzFQ4NOr3fzWgb0M6YK8VdcUfeC1PXk1nhHDUl7ZEfPJtTNwCxmSYxBQ0oqJ7tTlA/cAcShQwjck306TDmBGZWAf4DU4Qj22O+ubq/tATYfGMODUbgrj2adC3R+AJ+MUAtRkKeurD7RjNATYMhayqUK4yj1u7bChV3ciH1RBH+AsArotAPf8cYC7oCsCljtjHzGf2+RMu8Qi+uNLjGtP/cKxNej3J8WLzUH/evdXXARZcbNf/p/uvs4E1n8hWf+Vae2XujVfO3/w1T1e9JCQ9Pf/t+I7zEiJrxp2qlwAAAAASUVORK5CYII="
     },
     {
       "titulo": "México y República Dominicana avanzan en el Mundial Sub-17 - Concacaf | Official Website",
@@ -34,94 +122,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pVEJYVkx6RkpaVjl5QlFXcjZrZGt0Qno1V0MtTG5qaW5iUmc1SmRiX1A2WlRDYmxBWVU2YnVZRjRINjVLQUtNUm1NQTZiMkdvaFBBd05iVEFPLXZJ0gFiQVVfeXFMTkdRNDVSWUJZVjJiR1ZUUnpvMVZRZDNwaFpDdThvbXBOQjlsMWRWU3p0TFppZWtsQ3UyMmYtRE5fMWR0b3dFdUJvcWgteWhVVkp1MUdvajg2bEVJeTZsdkthekE?oc=5",
       "dominio": "news.google.com",
       "fecha": "Wed, 25 Nov 2026 12:45:09 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La presencia de dominicanos en Estados Unidos alcanza los 1,2 millones y lidera los registros migratorios en el exterior - Infobae",
-      "fuente": "Infobae",
-      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd3FfdzEzWlc3V2wwUFg0R0N2T3VkdE5JMXFVTGhScTl1SjZldXlYU2kxTFVPbFhybzZvZlU1bllLUXpES1NIb1RvQVg3SkEzMVhKSlYxT3N0QmZ1WlJfNTJuTWtVbHdJbkN2WDROdzdYYlJFZThDMTFvWHFTWmVjNWoyTl9hYldKQWFJS2dJOWtyRjBiNmxTZi1JaGpraThuLUw4NEVaYWtWeFBfOUJ3VW1uUVlXVEhnY2pMSDBCbUhhS1FpUlhYZXI3djdhVV9BM29uUkg4UmZydUJrb3l6LUhRbTNMLVdfcDBZVjRXUEVPdmUyR2NNWGNpV2JaZUhJTk9wMUh3MNIBogJBVV95cUxOU09nUGppb3B0T1FNLVRPVjQxaXdXamZFQ3ZqOFBLSEx0cjdxZmZRd0FjLVRZU0lVbEwtYkFMQ1ZVbW9kUWQ0RURlcWY0bFJwbnpPVU1iTEhjeWdOSm0wRkRGdE52NGlnOFVMUDFYWG1mSUd4MC1xSDY3Z05xSmJHemo4VWpmMXJUbkRFLW1oWDJxZm1UdXdVZW5YRm1XOTdhSnR2MU12RlR2WXVoUGxuQ0p2NHNna3RVX2NKb21ESElETGFDekI2dDQwMnU3Y2tsd3ZZMU1meEo3RWtRajdYLUxDdHpXZlIzRUNWSEVDMmZCRmhVQmF4YThnMVZ2T1pWYkI1TVFwUnNCNmZ0ZUNoQ3FZUEpEYUVSNXFpQTBtODJWdw?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 18:39:00 GMT",
-      "imagen": "https://www.infobae.com/resizer/v2/2GSHQXAAJNDRNNRJ6BYF6OSWWY.png?auth=2f8b8bc1a10ebb091a07053019545e7ef1a52879965e32de08d922faf6636d33&smart=true&width=1200&height=630&quality=85"
-    },
-    {
-      "titulo": "Dónde ver Colombia vs República Dominicana por las Eliminatorias FIBA 2027 - 365Scores",
-      "fuente": "365Scores",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56OXJrRjRFYXlKM1VDWmVMbG84XzVVMTdsRXB0NG1lMzBnZEo1ZGczTXRPcUlRQ203eEQteThaNkl4S09PVTh3VkV1a3BUckdmcFUtQWZjYVpycXpFNVd6WjZrSjUwaTNTRXZRQnBNakR5czFhU0hhYjFsVnM?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 23:10:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "La participación de los españoles residentes en República Dominicana alcanzó el 9,5%, cuando en 2023 se quedó en el 5,2% - Crónicas de la Emigración",
-      "fuente": "Crónicas de la Emigración",
-      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWRkX253bzhRcjZfNktrenpMTmdhRXU0aW9OYlV4eEgza3VyWHFvTkFEYUtRV1NnZ2JKV1FLY2FDX0o0NTRrQVpGSTdZY245MTFVRGg2QlJmM0VnQm5KRmFEeTUya3hWYXNmcUZoRW8zSHRGbF9CRmdaRnZJZ1dSazRtcDc0bkJJMzlHYjNINEk5RnV3bkpqQkxIRjdHYXc2dHgwcjN1ZmI2RVFzSG1ZT0JfS1psTDdwcWV2V0FzZ1RXQXFwSU14QkxYM1ZEMVlUVlJiZWZfSUF1MWtnb1oxQ1JuNUtJVDdQYVhLSk96ZDV3V1U?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 18:10:56 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ciudadanía Fémina instituyó el premio con su nombre para reconocer a periodistas que visibilizan las historias de mujeres dominicanas pioneras en distintas áreas de la sociedad.🇩🇴 #PeriódicoHOY #HOYDigital #ElHOY ⁣ ⁣#ciudadaníafémina #repúblicad - Instagram",
-      "fuente": "Instagram",
-      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSEtfZTNIM3NkaG0wdnlyZ2lOYWdyeW5sbXBCYzRNZ21DS3JaN290QVpYUS04OFh2S3BUYVhjNXN0U01qTEhsX1BNNDIxcVFuQkE?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Sat, 28 Nov 2026 00:29:52 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Osmel Sousa lanza polémica comparación entre Puerto Rico y República Dominicana tras Miss Universe - Primera Hora",
-      "fuente": "Primera Hora",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdWIwTjlkV1g2bVJBQ0w1M3BrOXlsODZ2NFBNOHdaVTd5aXlGOWxab09ZNVFDeWwyNnBXT2FETzFRUzdtRUFBczQybUZxTjhHUXBheEx0Z2gwcTJicVlqblZDYjJfanRLWldqUllRWTQwbDctc2lsNVdHY0lIUmpwR3JfNXNPQ3NhNHlTWVFONmpyTVBNZmZxRGVGMUFKaFh2QWxobDBMbk1kXzRqNDI2akVwRWxkSmI2NDZGRFUxTnVkR2RQS0RTUHJrTUt5ZmRiTTZ3YWFCZGQtdmdHNzEzdkd6NWRrR05rWVM4UkhPalJocTdobVN3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 13:30:04 GMT",
-      "imagen": "https://www.primerahora.com/resizer/v2/GT5C2377ZBF7BPDAJQ6XI5GA7I.jpg?auth=233877a4e42bf189f5f910dcdbf69e775eb23e011149841ace66b4a0377daf50&quality=75&width=1200&height=717&focal=2629%2C1572"
-    },
-    {
-      "titulo": "Militares de República Dominicana y EE. UU. fortalecen capacidades tácticas mediante entrenamiento conjunto - Diálogo Americas",
-      "fuente": "Diálogo Americas",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGRhX0tCcHNiVThXVFAwYVZ1T09vYnpKWGlwQ0thbkYyX0d4bmVWLWkzemNRaHdyRUJ0cl85Zk5EY2NVZEFyZ2QydGllQnowa3RocWRldDRCb2RMc2VhNTEwSkVHNnhsclFpU2YtVEUwd3BwUXNoeE5sS1pQU2VkdERoUGp0bUhTLW1DVXJENHpuX1BreEFtbkZCUkZlN2JBMXpLbndQdlZLMjgyU0tsNzV6VWJGWUxpZk9rYmhITndHN2kyV0syclZFaE4yanA2YVRMdGhMV05vZWZHTkxLYg?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 10:30:13 GMT",
-      "imagen": "https://dialogo-americas.com/wp-content/uploads/2026/11/DOM-US-NCO-Training.jpg"
-    },
-    {
-      "titulo": "Inflación de CA y República Dominicana se acelera a 4,26% en octubre - www.revistaeyn.com",
-      "fuente": "www.revistaeyn.com",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYTI0ZHdyU2tIM2UxVEh6amNSSXk0a2JOS3N2ZjEzdUpJcHhmMkRJWVVqZ0VMR1lHNnpVUHQ3NzYzMmhLOFlYYTMwM21ZYlRoem96X0JabHYtTFExQTJiaXplemdLS2xQWi1SNUZKb1lFSThOQ0M4NWhDWE5SbDU3SXRiODZrZkdzRW1pV0kyRF9ZcXAxU00ySUdhaG1UU2RFV3FrYk5NTjZNdTNrbkhiZEV4YWszcks2TENWNjcxd2VtUQ?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 13:44:00 GMT",
-      "imagen": "https://www.revistaeyn.com/binrepository/1031x630/0c0/0d0/none/26086/GHNG/tasas-de-interes-2_16248365_20261126164301.jpg"
-    },
-    {
-      "titulo": "Osmel Sousa explica por qué República Dominicana no ganó Miss Universe - El Nuevo Día",
-      "fuente": "El Nuevo Día",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHZOdlF0Z212aVJMUnhwYTluOWRySS10aXFfVWJjazVmWGU1ME5WVURUNzkyb3hqT25FU2IxdTZuaUNNYmZOV1lFSlVWZWJuLXJIbTlHT0Q4X3hNSGF6NUgyQ1F1RzlVYkg3SzFsQUhWamowRjU4SU14ZzNyZ01tNFh5bXo5VUJHTHI3TjhjQ1hsUTgyLTgxWno1dHJodU1WUmp0aDJkc1paSFpDNUZMOEoxY3B5dzZrdmpEU1lYQnNoRl9fREQtVzRR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Thu, 26 Nov 2026 20:15:00 GMT",
-      "imagen": "https://www.elnuevodia.com/resizer/v2/EZEPGTJEBBC55K2MHGYOCYICSI.jpg?auth=1465c178e19a68421a28ffb18e4a7f2c65cb5bedfe79d2c946a9880178c49413&quality=75&width=1200&height=717&focal=2242%2C917"
-    },
-    {
-      "titulo": "Dominicana celebra el Día Nacional del Merengue, Patrimonio Cultural - Prensa Latina",
-      "fuente": "Prensa Latina",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHFIclFhU0FqUWtad3NuLWxuYUxJbDdWVzN6RlczV3hFNlRuZWxxV1ZsSHFLYkFGS2J1QUpLRE45dldXWWUtcUJaN0ZYd2EyMmllS1FqUm1yQ1lUS0FUYTVOUlA2SDJ3SnNiSUM0SXlmdVR1OV81T2dqUHd6d2ZwVWFHc0N0ZDIwdFZ4UzA4WDRNUFc4Zks4SE5jUnZNVm9nTlRxUkFSX2l0UWxsYnF3?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Fri, 27 Nov 2026 23:54:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Voleibol · VNL 2027: Calendario con los partidos de República Dominicana, Argentina y Cuba en la Liga de Naciones - Olympics",
-      "fuente": "Olympics",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXVDdWxubXBwU2xhU21US2VFWUpzMlloaDJzT1FWUGR3R3d4ZmtsUlJ2dW9sb3ZLSk5CdUZXeHVhdW5KRGl1QVJYYnF1NU5sQUNJNmRhSkM0U1BrTW9ZQnJKajZLQUFMeWdYbWE0RHE0WS1ZSUM3RWozeUprVWYxdFMzbUxqQWRhZmVlT2gyR1phQzNJWFRFMVFBWlVFTUtxQ2tSMEsxUy1QLWcwZ2kzMWp5ZGtCRWt3YTFR?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Wed, 25 Nov 2026 18:09:00 GMT",
-      "imagen": ""
-    },
-    {
-      "titulo": "Chile cayó ante República Dominicana y puso en riesgo avance en el Mundial Sub 17 - ESPN Deportes",
-      "fuente": "ESPN Deportes",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWS1FRlN4WXF5SGpmeEJzWFhmY2hHVnAwcV9wcHFPMkRqZ09YVlRmb2dEMjFKN2NRbE9KRWNxendmSDZCVzdiZDR4dmZwa3V3c0lkTFNXUUtoamJuUEh4NURRS3BjMEs5SW95NEZJOHhWUGhrQldaT253OEd6bTFtc09Oa1IxenZOZnljZThvNDdsOEl2SWtjU0pqRDR2S1lza0x3S0FTOHEtQTZwZFQwWlNrOEMtYTYzbmtoOUpCc3VlRXZTV0REdzhFQ1lmUG1fM3VmVlNnYUpjN1U?oc=5",
-      "dominio": "news.google.com",
-      "fecha": "Tue, 24 Nov 2026 16:55:00 GMT",
       "imagen": ""
     }
   ]
