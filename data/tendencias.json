@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-27T20:46:53.617215-04:00",
-  "hora": "20:46",
+  "updated": "2026-11-27T20:57:16.756797-04:00",
+  "hora": "20:57",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "bronson reed",
+      "trafico": "200+",
+      "noticia": "Bronson Reed Passes Away Due To Medical Complications",
+      "enlace": "https://www.fightful.com/wrestling/bronson-reed-passes-away-due-to-medical-complications/",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFN1FaxsqMyGn7jPQJ6iCxZq3mX2DWG1_z5nEZtgxwsEjc_5Ut1A88Chwb9vM"
+    },
+    {
+      "termino": "pacers - 76ers",
+      "trafico": "200+",
+      "noticia": "LeBron James, Tyrese Maxey lead short-handed 76ers against Pacers",
+      "enlace": "https://www.cbssports.com/nba/news/lebron-james-tyrese-maxey-lead-short-handed-76ers-against-pacers/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+    },
     {
       "termino": "columbus crew - inter miami",
       "trafico": "200+",
@@ -60,20 +74,6 @@
       "noticia": "Nottm Forest 3-2 Chelsea: How the players rated",
       "enlace": "https://www.bbc.com/sport/football/articles/cmwy85xxjgxvo",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFPkZhi7b9rCKaM9ITo2YBRd8zgsisNXtQ2wVt1ABtBV-NE96Z8fe2kh2tOW8"
-    },
-    {
-      "termino": "policía",
-      "trafico": "500+",
-      "noticia": "Hallan muertos a una joven y a su hijo de dos años en apartamento en Los Ríos",
-      "enlace": "https://www.diariolibre.com/actualidad/sucesos/2026/11/26/hallan-muertos-a-una-joven-de-y-a-su-hijo-de-dos-anos-en-los-rios-/3732855",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNLkWw2vvSg8mchy3vlkUhX0B1IuBJWsgRSYgdi5yRY7m_W-GVJmV6kLTuSxY"
-    },
-    {
-      "termino": "mundial sub 17",
-      "trafico": "100+",
-      "noticia": "México se enfrentará a Argentina en 16vos de final del Mundial tras empatar con Venezuela",
-      "enlace": "https://www.telemundo.com/deportes/mas-deporte/mexico-se-enfrentara-a-argentina-en-16vos-de-final-del-mundial-tras-em-rcna611587",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5c5mX6A11DGw70rZ2EssdSRT0wnemwlkiEYPfWIWigUv7Hw5AR5SUOsD-AIo"
     }
   ]
 }
