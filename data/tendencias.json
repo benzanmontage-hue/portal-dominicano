@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-27T20:36:32.777006-04:00",
-  "hora": "20:36",
+  "updated": "2026-11-27T20:46:53.617215-04:00",
+  "hora": "20:46",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "columbus crew - inter miami",
+      "trafico": "200+",
+      "noticia": "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois  Columbus Crew dismantled Lionel Messi s Inter Miami",
+      "enlace": "https://www.goal.com/en-in/originals/playing-the-long-ball-exploiting-the-spaces-and-a-bit-of-luck-how-columbus-crew-battered-inter-miami/blt631e393de9d56095",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Wkem1xbPniRbZWgB4xamh9VquqryMuAMDltcg0ftOeVIVepq8sqZ8ujBVZA"
+    },
     {
       "termino": "triston casas",
       "trafico": "200+",
@@ -64,16 +71,9 @@
     {
       "termino": "mundial sub 17",
       "trafico": "100+",
-      "noticia": "Mundial Sub 17: México ante Argentina en dieciseisavos",
-      "enlace": "https://www.espn.com.do/futbol/selecciones/nota/_/id/17569973/mexico-argentina-mundial-sub-17-dieciseisavos-de-final-seleccion-mexicana",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNXd3SX4AMHJ-pZrEIJBIBT1PPzkAuoV90i2Zp3bRirP4C8qxG_klvc9Z8Kf4"
-    },
-    {
-      "termino": "dazn",
-      "trafico": "200+",
-      "noticia": "DAZN   FIBA Unveil The New Home of Basketball: BasketballTV",
-      "enlace": "https://dazngroup.com/press-room/dazn-fiba-unveil-the-new-home-of-basketball-basketballtv/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCLiGBMnpbPAoXcX9CHsTIe5ntzZ-W0LPR_X-vFgbpwi24C-2Y4xRUt95oeVY"
+      "noticia": "México se enfrentará a Argentina en 16vos de final del Mundial tras empatar con Venezuela",
+      "enlace": "https://www.telemundo.com/deportes/mas-deporte/mexico-se-enfrentara-a-argentina-en-16vos-de-final-del-mundial-tras-em-rcna611587",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5c5mX6A11DGw70rZ2EssdSRT0wnemwlkiEYPfWIWigUv7Hw5AR5SUOsD-AIo"
     }
   ]
 }
