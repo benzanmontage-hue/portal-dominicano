@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-27T22:30:23.577648-04:00",
-  "hora": "22:30",
+  "updated": "2026-11-27T22:40:45.524022-04:00",
+  "hora": "22:40",
   "fecha": "27/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
+    {
+      "termino": "trail blazers - warriors",
+      "trafico": "200+",
+      "noticia": "Warriors tasked with slowing Trail Blazers’ thriving stars",
+      "enlace": "https://www.thesportsleader.com/2026/11/27/warriors-tasked-with-slowing-trail-blazers-thriving-stars-2/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWcmuuHWaCmgWU01QSVadqtQ2w7_6TTa9lYIM_LG4f4FIs0xX_jD3gxe4Z9Ws"
+    },
+    {
+      "termino": "timberwolves - grizzlies",
+      "trafico": "100+",
+      "noticia": "Timberwolves, Grizzlies play for NBA Cup West Group B title",
+      "enlace": "https://www.cbssports.com/nba/news/timberwolves-grizzlies-play-for-nba-cup-west-group-b-title/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+    },
     {
       "termino": "spurs - lakers",
       "trafico": "200+",
@@ -60,20 +74,6 @@
       "noticia": "Triston Casas to play winter ball for Licey",
       "enlace": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-27/triston-casas-to-play-winter-ball-for-licey",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UH5y7HaP1UhCzCix-W9nGvukFfsq6eB82tumeZnmmorRbaKauWgT3CXV-Os"
-    },
-    {
-      "termino": "knicks - heat",
-      "trafico": "500+",
-      "noticia": "Red-hot Knicks host Heat to close NBA Cup group play",
-      "enlace": "https://www.cbssports.com/nba/news/red-hot-knicks-host-heat-to-close-nba-cup-group-play/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
-    },
-    {
-      "termino": "pizza hut",
-      "trafico": "200+",
-      "noticia": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
-      "enlace": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ll_fVXuhVcQicjFzPceY5LxJTwMO2dLa6OlljGbrc8TMmxGlHoZ_fJ00J8M"
     }
   ]
 }
