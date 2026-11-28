@@ -1,30 +1,37 @@
 {
-  "updated": "2026-11-28T07:29:05.688634-04:00",
-  "hora": "07:29",
+  "updated": "2026-11-28T07:39:27.631488-04:00",
+  "hora": "07:39",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
-      "termino": "nba",
-      "trafico": "500+",
-      "noticia": "Thunder vs Bucks: Prediction, Team News and Gilgeous-Alexander s Run",
-      "enlace": "https://www.squawka.com/ca/news/nba/thunder-vs-bucks-prediction-team-news/",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlVdRDTOl1DyTU_Un_vEF1Hd2x3WEY1dhgLyl4Dfpw26bA4hNdAlQAHrjQTWs"
+      "termino": "diario libre",
+      "trafico": "100+",
+      "noticia": "Presidencia aclara que imagen de Abinader junto a Eliezer Salvador es un fotomontaje",
+      "enlace": "https://www.diariolibre.com/politica/gobierno/2026/11/27/presidencia-desmiente-fotomontaje-de-abinader-con-eliezer-salvador/3733806",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsu3uegcd4ThwyTxympARyYRInoUUJPmMPWvxLN4z0vqNanvykN_sueECn-4"
     },
     {
-      "termino": "lebron james",
-      "trafico": "1000+",
-      "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
-      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
+      "termino": "combustible",
+      "trafico": "100+",
+      "noticia": "Bajan algunos combustibles y otros mantienen sus precios",
+      "enlace": "https://elnacional.com.do/economia/bajan-algunos-combustibles-y-otros-mantienen-sus-precios_587389.html",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4h3vmy3R2OdmS-eZ7nybNWWOexzL3q67GUllS8OZLe0dAn3nh7mz2o6bBeQM"
+    },
+    {
+      "termino": "nba",
+      "trafico": "500+",
+      "noticia": "Jalen Brunson reveals why he prefers Stephen Curry over Magic Johnson as ‘GOAT’ NBA point guard",
+      "enlace": "https://sports.yahoo.com/nba/articles/jalen-brunson-reveals-why-prefers-104000735.html",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3vSgQBq_U8WKlMqDZEE9UNhM-vz6KWf_jhU8F0KD9_7yiJYiup7WRTWbCBbs"
     },
     {
       "termino": "trail blazers - warriors",
       "trafico": "1000+",
-      "noticia": "Yaxel Lendeborg, Warriors fail to overcome abysmal start in loss to Blazers",
-      "enlace": "https://www.goldenstateofmind.com/general/113725/yaxel-lendeborg-warriors-fail-to-overcome-abysmal-start-in-loss-to-blazers",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPXmHkrKiD8y_6PIsJEOMOn29aFFnX4urLqwmBYXlz2IQqNDc7zeb1XzleBeU"
+      "noticia": "NBA: Golden State Warriors at Portland Trail Blazers",
+      "enlace": "https://www.reutersconnect.com/item/nba-golden-state-warriors-at-portland-trail-blazers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjA0NjU%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPMp17uyYvoxw-_jZ6pLK8C4MzR9EV7nfKgcU-0fVf1fctig8SDccS1qx65A"
     },
     {
       "termino": "timberwolves - grizzlies",
@@ -67,13 +74,6 @@
       "noticia": "Jermaine Haley, also known as Bronson Reed, passes away",
       "enlace": "https://www.wwe.com/article/jermaine-haley-also-known-as-bronson-reed-passes-away",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivPJDzCALmlsDt48FLrvT_rgrpoRl3aEny9xaA8PLuU4Q3jdFZFPD-OryNUw"
-    },
-    {
-      "termino": "columbus crew - inter miami",
-      "trafico": "1000+",
-      "noticia": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-      "enlace": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviqp5Rl_80zaS3XwiMNhXTHrMPQYKzrgyxsoloZotW0WwNqUIxB9PaMrrlbo"
     }
   ]
 }
