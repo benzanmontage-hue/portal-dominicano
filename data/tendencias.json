@@ -1,37 +1,44 @@
 {
-  "updated": "2026-11-28T00:56:42.271422-04:00",
-  "hora": "00:56",
+  "updated": "2026-11-28T07:07:47.919667-04:00",
+  "hora": "07:07",
   "fecha": "28/11/2026",
   "pais": "República Dominicana",
   "total": 10,
   "tendencias": [
     {
+      "termino": "nba",
+      "trafico": "500+",
+      "noticia": "George Aivazoglou on NBA Europe:  Announcements of the clubs coming early 2027",
+      "enlace": "https://www.eurohoops.net/en/nba-news/2041995/george-aivazoglou-on-nba-europe-announcements-of-the-clubs-coming-early-2027/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfHMZBocE34rPiF0-M6L-9w1-6lwcpUhr0NGTiO29wF4p4FNepJAx4hwVA1kw"
+    },
+    {
       "termino": "trail blazers - warriors",
       "trafico": "1000+",
-      "noticia": "Surging Trail Blazers host Warriors in key NBA Cup matchup",
-      "enlace": "https://www.cbssports.com/nba/news/surging-trail-blazers-host-warriors-in-key-nba-cup-matchup/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+      "noticia": "NBA: Golden State Warriors at Portland Trail Blazers",
+      "enlace": "https://www.reutersconnect.com/item/nba-golden-state-warriors-at-portland-trail-blazers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjA0NjU%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPMp17uyYvoxw-_jZ6pLK8C4MzR9EV7nfKgcU-0fVf1fctig8SDccS1qx65A"
     },
     {
       "termino": "timberwolves - grizzlies",
       "trafico": "200+",
-      "noticia": "Grizzlies clinch NBA Cup West Group B with win over Timberwolves",
-      "enlace": "https://www.cbssports.com/nba/news/grizzlies-clinch-nba-cup-west-group-b-with-win-over-timberwolves/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+      "noticia": "NBA: Memphis Grizzlies at Minnesota Timberwolves",
+      "enlace": "https://www.reutersconnect.com/item/nba-memphis-grizzlies-at-minnesota-timberwolves/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTg4NjE%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS9OORdtWjzCh1XGVjnfOMQvGJ_w8UDnYTMyb6-4KqXFSXEMxYBPbJrE0UTHc"
     },
     {
       "termino": "spurs - lakers",
       "trafico": "1000+",
-      "noticia": "Lakers, Spurs clash in pivotal NBA Cup showdown",
-      "enlace": "https://www.cbssports.com/nba/news/lakers-spurs-clash-in-pivotal-nba-cup-showdown/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+      "noticia": "NBA: Los Angeles Lakers at San Antonio Spurs",
+      "enlace": "https://www.reutersconnect.com/item/nba-los-angeles-lakers-at-san-antonio-spurs/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTg0OTI%3D?utm_medium=rcom-article-media utm_campaign=rcom-rcp-lead",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzlK5mU9Mdo0LFp-8zqqkWlus4PArmvYSl8HyXpsv4vdciOPHy2wuV1eSTlUI"
     },
     {
       "termino": "celtics - hawks",
       "trafico": "200+",
-      "noticia": "Hawks edge Celtics to win NBA Cup group, push win streak to five",
-      "enlace": "https://www.cbssports.com/nba/news/hawks-edge-celtics-to-win-nba-cup-group-push-win-streak-to-five/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+      "noticia": "Atlanta Hawks vs. Boston Celtics Live Score and Stats - November 27, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_ATL@BOS/",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfG4DsH9z50du0aBjN_wKvl7ifBxR8JCatNnYJ8iMQ3EvZEizex5KGBqAFfdw"
     },
     {
       "termino": "alofoke casa 3",
@@ -43,9 +50,9 @@
     {
       "termino": "colombia - república dominicana",
       "trafico": "500+",
-      "noticia": "La selección de básquet busca sellar su boleto al Mundial de baloncesto en la quinta ventana",
-      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/27/mundial-fiba-2027-rd-busca-asegurar-su-boleto-en-quinta-ventana/3732984",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTez5-r7_w79DGOyLaREZyupuqNiR-t3PakvTVafPPvLR9GYv3d6FtkcT-wsAc"
+      "noticia": "Quiñones y Feliz lideran triunfo cómodo ante Colombia y RD se pone al frente del Grupo E",
+      "enlace": "https://www.diariolibre.com/deportes/baloncesto/2026/11/28/mundial-fiba-2027-rd-arrolla-110-68-a-colombia-y-lidera-grupo-e/3733978",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJBpI6dr5jejWaRcPs3IZpEwu-d8qFVU3S5oTwErvVK1Dlc46o7e0XK651i4c"
     },
     {
       "termino": "bronson reed",
@@ -57,23 +64,16 @@
     {
       "termino": "pacers - 76ers",
       "trafico": "1000+",
-      "noticia": "76ers rout Pacers 111-87 to clinch NBA Cup knockout berth",
-      "enlace": "https://www.cbssports.com/nba/news/76ers-rout-pacers-111-87-to-clinch-nba-cup-knockout-berth/",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7SctwXAU_JU39cN-nQsnwfYgHHo3Gt7kgiTImJy792y8ppvkgmCD7XuQVezU"
+      "noticia": "Philadelphia 76ers vs. Indiana Pacers Live Score and Stats - November 27, 2026 Gametracker",
+      "enlace": "https://www.cbssports.com/nba/gametracker/recap/NBA_20261127_PHI@IND/",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ7aAvlldJRNwoQPUYa6PmF1cmQ8o652kqE-uHWbur9whEpBRvFKRxg9Fa3k"
     },
     {
       "termino": "columbus crew - inter miami",
       "trafico": "1000+",
-      "noticia": "Messi’s defending champions Miami knocked out of MLS Cup playoffs",
-      "enlace": "https://www.arabnews.com/football/messis-defending-champions-miami-knocked-out-of-mls-cup-playoffs-3014338",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpi4gJvj8mFC7SsuERHQql6ssTnL9FGGbugJID9DINaxdMklxZ60ZJ_T-Kpts"
-    },
-    {
-      "termino": "triston casas",
-      "trafico": "500+",
-      "noticia": "¡Regreso a lo GRANDE! Casas vuelve a la acción con grand slam en LIDOM",
-      "enlace": "https://www.mlb.com/es/news/triston-casas-conecta-grand-slam-en-la-liga-invernal-dominicana",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv13JJkYT0A-VqUwcl_D_cwkqxN2BP0woutcQ68ZdQEWUrWfC3d15gIlw_wiA"
+      "noticia": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "enlace": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRviqp5Rl_80zaS3XwiMNhXTHrMPQYKzrgyxsoloZotW0WwNqUIxB9PaMrrlbo"
     }
   ]
 }
